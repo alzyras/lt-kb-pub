@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Ksenofontas Lampsakietis'
+pavadinimas: Ksenofontas Lampsakietis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9bee74f57c7f7c7fcd4c16b1"
-canonical_name: "Ksenofontas Lampsakietis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Ksenofontas Lampsakietis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9bee74f57c7f7c7fcd4c16b1
+canonical_name: Ksenofontas Lampsakietis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Ksenofontas Lampsakietis
 sameAs: []
-canonical_biography: "Ksenofontas Lampsakietis žino žemę, arba neišmatuojamo dy džio salą, esančią trijų dienų kelio atstumu nuo Skitijos, ir vadina ją Baltija3, t."
+canonical_biography: 'Ksenofontas Lampsakietis žino žemę, arba neišmatuojamo dy džio salą, esančią trijų dienų kelio atstumu nuo Skitijos, ir vadina ją Baltija3, t.'
 ---
 # Ksenofontas Lampsakietis
 
@@ -68,6 +68,5 @@ Ksenofontas Lampsakietis žino žemę, arba neišmatuojamo dy džio salą, esan�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

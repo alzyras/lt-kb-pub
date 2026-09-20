@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Habdanko herbo giminė'
+pavadinimas: Habdanko herbo giminė
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Habdanko herbo giminė
 
@@ -59,6 +56,5 @@ Ten jis sugavo merginą, žymią paną iš gar sios Habdanko herbo 12 giminės, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -38,22 +38,10 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 
 ## Teiginiai
 
-<a id="claim-t-207782"></a>
-- t-207782
-  teiginys: "Kokenhauzeno pilis minimas kaip 1577 m. atitekusi Magnusui."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190399
-
 <a id="claim-t-194290"></a>
-- t-194290
+- t-001
   teiginys: "Li vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Helmenas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas, Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diunamundė, Ryga, Šmetenė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -99,23 +87,5 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194290
-
-- id: c-190399
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 184"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 184."
-  citata_originali: |
-    Rugpjūčio 23 d. Kokenhauzeno pilis atiteko Magnusui, nors žmonių to Magnu-
-    so buvo visai nedaug ir pabūklų mažai turėjo...
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207782
-
+  pagrindzia:
+    - t-001

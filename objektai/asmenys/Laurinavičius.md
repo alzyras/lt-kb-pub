@@ -36,17 +36,37 @@ Narbutas nurodo, kad vietinių tyrinėjimų faktus apie jėzuitų perstatytą m�
 
 ## Teiginiai
 
-<a id="claim-t-219788"></a>
-- t-219788
-  teiginys: "Laurinavičius buvo Kauno mokyklos profesorius ir prefektas."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-190178"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad vietinių tyrinėjimų faktus apie jėzuitų perstatytą mūrą pateikė Kauno mokyklos profesorius ir prefektas Laurinavičius."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laurinavičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laurinavičius\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173061
+
+<a id="claim-t-197421"></a>
+- t-002
+  teiginys: "Laurinavičius visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
+  atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-199943
+    - c-179177
 
 ## Citatos
 
@@ -74,6 +94,8 @@ Narbutas nurodo, kad vietinių tyrinėjimų faktus apie jėzuitų perstatytą m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179177
   autorius: "Teodoras Narbutas"
@@ -96,48 +118,5 @@ Narbutas nurodo, kad vietinių tyrinėjimų faktus apie jėzuitų perstatytą m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199083
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
-  citata_originali: |
-    Perrašau jį ištisai, ka­
-    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
-    nepaprasto grožio vienatinę dukterį. Kartą pavasarį ji norėjo
-    pradžiuginti motiną ką tik pražydusiomis gėlėmis, kurias pro
-    karalienės rūmų langą pamatė žydinčias Rasos (Ross) upės
-    pakrantėje; tuo tikslu ji nepastebėta išbėgo iš rūmų. Vienas
-    gražiausių pavasario žiedų, tarytum augantis prie pat kranto,
-    pasirodė esąs vidury upės; jį lengvai supo tekantis vanduo, pa­
-    dvigubindamas žiedo grožį nuostabių spalvų švytėjimu, lyg tai
-    būtų buvę brangakmeniai.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199943
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 268."
-  citata_originali: |
-    Vėliau, kai jėzuitai pasistatė naują baž­
-    nyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į
-    mokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars
-    Romana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė
-    ponas Laurinavičius - garbingasis Kauno mokyklos profesorius
-    ir prefektas)*.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219788
-
+  pagrindzia:
+    - t-002

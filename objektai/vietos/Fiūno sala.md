@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Fiūno sala'
+pavadinimas: Fiūno sala
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6976cac19ef7dc2de955e769"
-canonical_name: "Fiūno sala"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Fiūno sala"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6976cac19ef7dc2de955e769
+canonical_name: Fiūno sala
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Fiūno sala
 sameAs: []
-canonical_biography: "Buvo iškastas Fiūno saloje (pagal Tomą Bartoliną."
+canonical_biography: Buvo iškastas Fiūno saloje (pagal Tomą Bartoliną.
 ---
 # Fiūno sala
 
@@ -77,7 +76,7 @@ Buvo iškastas Fiūno saloje (pagal Tomą Bartoliną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-201130
@@ -95,6 +94,5 @@ Buvo iškastas Fiūno saloje (pagal Tomą Bartoliną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

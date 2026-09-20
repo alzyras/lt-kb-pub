@@ -37,29 +37,19 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 
 ## Teiginiai
 
-<a id="claim-t-220537"></a>
-- t-220537
-  teiginys: "Jiems atsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais."
-  atnaujinta: "2026-09-13 11:42"
+<a id="claim-t-175237"></a>
+- t-001
+  teiginys: "Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariuomenę."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-202226
+    - c-159384
 
-<a id="claim-t-221475"></a>
-- t-221475
-  teiginys: "Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariuomenę."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-224926"></a>
-- t-224926
+<a id="claim-t-175238"></a>
+- t-002
   teiginys: "Pasakojama, kad Judas Makabėjus krito kovoje su Bachidu ir Alchimu, o Izraelio kariuomenė turėjo bėgti."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Bachidas: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -70,11 +60,13 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Judas Makabėjus kovojo su Bachidu."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Judas Makabėjus kariavo prieš Bachidas (0.95)"
+  pagrindžia:
+    - c-159382
 
-<a id="claim-t-225222"></a>
-- t-225222
+<a id="claim-t-175239"></a>
+- t-003
   teiginys: "Makabėjai, laikydamiesi įstatymo ir tikėjimo, nugalėjo Antiochą Epifaną, apvalė šventas vietas ir sugrąžino žemei ramybę."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dovydas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,6 +77,20 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Judas Makabėjus\" parinktas kaip owner_note_path. Targetas \"Dovydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
+  pagrindžia:
+    - c-159381
+
+<a id="claim-t-197109"></a>
+- t-004
+  teiginys: "Dusburgietis teigia, kad judas Makabėjus kaip Dovydas įsivedė kunigystę ir kas dieną šlovina dievo didybę."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-179028
 
 ## Citatos
 
@@ -112,6 +118,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-159382
   autorius: "Petras Dusburgietis"
@@ -140,6 +148,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-159384
   autorius: "Petras Dusburgietis"
@@ -159,6 +169,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179028
   autorius: "Petras Dusburgietis"
@@ -177,42 +189,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202226
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 184"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184."
-  citata_originali: |
-    Jiems
-    atsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220537
-
-- id: c-205803
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 35"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 35."
-  citata_originali: |
-    Ir ji kaip Dovydas įsivedė kunigystę ir kas
-    dieną šlovina dievo didybę. Štai ir aiškėja, kokių iš tikro didingų ženklų ir galingų stebuklų
-    padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje, o kokiu būdu jie
-    bus skelbiami, paaiškės netrukus. Kadangi netolimoje ateityje ateis pavojų metas,
-    kadangi rasis žmonių, tik save bemylinčių ir beieškančitj vien to, kas jų, o ne Jėzaus
-    Kristaus, tad pasklis nedorybė ir atvės daugelio žmonių meilė.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Judas Makabėjus kariavo prieš [[objektai/asmenys/Alchimas]], [[objektai/asmenys/Antiochas Eupatoras]], [[objektai/asmenys/Bachidas]]

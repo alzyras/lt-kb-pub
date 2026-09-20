@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kazimiero Jogailaičio išvykimas užimti Lenkijos karaliaus sostą (1447 m.)'
+pavadinimas: Kazimiero Jogailaičio išvykimas užimti Lenkijos karaliaus sostą (1447 m.)
 variantai:
-  - 'Kazimiero Jogailaičio išvykimas užimti Lenkijos karaliaus sostą'
+  - Kazimiero Jogailaičio išvykimas užimti Lenkijos karaliaus sostą
 aliases:
-  - 'Kazimiero Jogailaičio išvykimas užimti Lenkijos karaliaus sostą'
+  - Kazimiero Jogailaičio išvykimas užimti Lenkijos karaliaus sostą
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1447 m.'
+  - 1447 m.
 date_start: '1447'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kazimiero Jogailaičio išvykimas užimti Lenkijos karaliaus sostą (1447 m.)
 
@@ -80,6 +77,5 @@ Kazimieras išvyko į Lenkiją užimti karaliaus sosto 1447 m., veikiausiai gegu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

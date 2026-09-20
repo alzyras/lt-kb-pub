@@ -40,6 +40,20 @@ canonical_biography: "1637 m. Kauno miesto taryba sprendė miestelėno Kristupo 
 
 1637 m. Kauno miesto taryba sprendė miestelėno Kristupo Stambrovskio bylą su žmonos giminaičiais dėl kadaise jų reikalais padarytų išlaidų.
 
+## Teiginiai
+
+<a id="claim-t-202188"></a>
+- t-001
+  teiginys: "1637 m. Kauno miesto taryba sprendė miestelėno Kristupo Stambrovskio bylą su žmonos giminaičiais dėl kadaise jų reikalais padarytų išlaidų."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185535
+
 ## Citatos
 
 - id: c-185535
@@ -56,20 +70,5 @@ canonical_biography: "1637 m. Kauno miesto taryba sprendė miestelėno Kristupo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202188"></a>
-- t-001
-  teiginys: "1637 m. Kauno miesto taryba sprendė miestelėno Kristupo Stambrovskio bylą su žmonos giminaičiais dėl kadaise jų reikalais padarytų išlaidų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185535
-

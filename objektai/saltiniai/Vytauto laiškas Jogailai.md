@@ -1,28 +1,25 @@
 ---
 tipas: saltinis
-pavadinimas: 'Vytauto laiškas Jogailai'
+pavadinimas: Vytauto laiškas Jogailai
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1129 m.'
+  - 1129 m.
 date_start: '1129'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XII'
+  - XII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vytauto laiškas Jogailai
 
@@ -66,6 +63,5 @@ Konkrečias aplinkybes, kuriomis imperatorius Zigmantas Luc ke iškėlė pasiūl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

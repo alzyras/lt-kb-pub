@@ -37,22 +37,10 @@ Luko Gurnickio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžio
 
 ## Teiginiai
 
-<a id="claim-t-207798"></a>
-- t-207798
-  teiginys: "Lukašas Gurnickis buvo humanistas, literatas ir vertėjas."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190433
-
 <a id="claim-t-204153"></a>
-- t-204153
+- t-001
   teiginys: "Luko Gurnickio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžiotas gyvūnų rūšis ir jų medžiojimo būdus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -62,9 +50,9 @@ Luko Gurnickio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžio
     - c-186757
 
 <a id="claim-t-204154"></a>
-- t-204154
+- t-002
   teiginys: "Lukas Gurnickis savo pastebėjimuose teigė, kad žmogus iš prigimties trokšta džiaugsmo ir atgaivos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -93,8 +81,8 @@ Luko Gurnickio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204153
+  pagrindzia:
+    - t-001
 
 - id: c-186758
   autorius: "Toma Zarankaitė"
@@ -116,26 +104,5 @@ Luko Gurnickio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204154
-
-- id: c-190433
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 141"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 141."
-  citata_originali: |
-    „Mes, Lietuva"
-    Uetuvos Didžiosios Kunigaikštystės bajorija XVI a.
-    Vienas iš jų — humanistas, literatas, vertėjas Lukašas Gurnickis. Jis gimė Lenkijoje
-    Osvencimo miestiečio šeimoje, studijavo Italijoje, buvo 1561 m.
-  citata_rodoma: "Vienas iš jų — humanistas, literatas, vertėjas Lukašas Gurnickis."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207798
-
+  pagrindzia:
+    - t-002

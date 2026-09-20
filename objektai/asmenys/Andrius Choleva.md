@@ -58,39 +58,3 @@ Andrius Choleva yra bajoras iš Bransko pavieto.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Teiginiai
-
-<a id="claim-t-207740"></a>
-- t-001
-  teiginys: "Andrius Choleva yra bajoras iš Bransko pavieto."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190527
-
-## Citatos
-
-- id: c-190527
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 179"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 179."
-  citata_originali: |
-    O bajorą Andrių Cholevą ištiko kita bėda. Iš jo kreipimosi į valdovą 1558 m.
-    sužinome, kad šis bajoras iš Bransko pavieto buvo parsisamdęs atlikti už kitus karo
-    tarnybą, tačiau jam išvykus iš namų krito jo žirgas. Todėl A. Choleva prašė karalių
-    atleisti jį nuo karo tarnybos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-

@@ -44,6 +44,57 @@ canonical_biography: "Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karoli
 
 Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe ir sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją išvaduoti. Dusburgietis teigia, kad be to, švento Petro grandinėse dieną (rugpjūčio 1) buvo apleista Kristmemelio pilis, pastatyta brolio Karolio, magistro.
 
+## Teiginiai
+
+<a id="claim-t-89880"></a>
+- t-001
+  teiginys: "Kristmemelio pilis buvo pastatyta magistro Karolio."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Kristmemelis: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karolis (didysis magistras): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kristmemelis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Kristmemelio pilis buvo pastatyta brolio Karolio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Karolis (didysis magistras) pastatė Kristmemelis (0.95)"
+  pagrindžia:
+    - c-85795
+
+<a id="claim-t-89881"></a>
+- t-002
+  teiginys: "1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Junigeda: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karolis (didysis magistras): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai sakoma, kad Karolis telkė kariuomenę Junigedos piliai vaduoti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Karolis (didysis magistras) gynė Junigeda (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1315 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, susietas su asmeniu ir paremtas citata bei antrašte."
+  pagrindžia:
+    - c-85797
+
+<a id="claim-t-194496"></a>
+- t-003
+  teiginys: "Be to, švento Petro grandinėse dieną (rugpjūčio 1) buvo apleista Kristmemelio pilis, pastatyta brolio Karolio, magistro."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-85795
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -88,6 +139,9 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-003
 
 - id: c-85797
   autorius: "Petras Dusburgietis"
@@ -109,27 +163,8 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Karolis (didysis magistras) pastatė [[objektai/vietos/Kristmemelis]]
-
-## Teiginiai
-
-<a id="claim-t-223618"></a>
-- t-001
-  teiginys: "1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Kristmemelis: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karolis (didysis magistras): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kristmemelis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad po veiksmų Junigedoje jie nuvyko į Kristmemelio pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Karolis (didysis magistras) keliavo į Kristmemelis (0.88); Karolis (didysis magistras) puolė Junigeda (0.86); Karolis (didysis magistras) gynė Junigeda (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1315 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, susietas su asmeniu ir paremtas citata bei antrašte."
-

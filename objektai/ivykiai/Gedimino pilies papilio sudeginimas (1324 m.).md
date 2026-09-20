@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Gedimino pilies papilio sudeginimas (1324 m.)'
+pavadinimas: Gedimino pilies papilio sudeginimas (1324 m.)
 variantai:
-  - 'Gedimino pilies papilio sudeginimas'
+  - Gedimino pilies papilio sudeginimas
 aliases:
-  - 'Gedimino pilies papilio sudeginimas'
+  - Gedimino pilies papilio sudeginimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1324 m.'
+  - 1324 m.
 date_start: '1324'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Gedimino pilies papilio sudeginimas (1324 m.)
 
@@ -82,6 +79,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

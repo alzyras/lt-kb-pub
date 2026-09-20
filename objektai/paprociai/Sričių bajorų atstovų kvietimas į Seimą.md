@@ -49,6 +49,24 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-204400"></a>
+- t-001
+  teiginys: "1512 m. pirmąkart suformuluota dviejų atstovų taisyklė buvo taikoma vis naujoms LDK teritorijoms ir 1564–1566 m. reformų metu patvirtinta įstatymu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1512 m.; įvykio data: 1566 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pridėtas aiškus sakinio subjektas ir išlaikyta chronologinė taisyklės raida. Teiginys apsiriboja šaltinyje nurodytais metais ir instituciniais pokyčiais."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-187004
+
 ## Santrauka
 
 1512 m. pirmąkart suformuluota dviejų atstovų taisyklė buvo taikoma vis naujoms LDK teritorijoms ir 1564–1566 m. reformų metu patvirtinta įstatymu.
@@ -79,24 +97,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204400"></a>
-- t-001
-  teiginys: "1512 m. pirmąkart suformuluota dviejų atstovų taisyklė buvo taikoma vis naujoms LDK teritorijoms ir 1564–1566 m. reformų metu patvirtinta įstatymu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1512 m.; įvykio data: 1566 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pridėtas aiškus sakinio subjektas ir išlaikyta chronologinė taisyklės raida. Teiginys apsiriboja šaltinyje nurodytais metais ir instituciniais pokyčiais."
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-187004
-

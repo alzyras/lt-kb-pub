@@ -37,6 +37,21 @@ Neturtingas Naugarduko apskrities bajoras Antanas, Jono sūnus, Petro anūkas, M
 
 Neturtingas Naugarduko apskrities bajoras Antanas, Jono sūnus, Petro anūkas, Mikalojaus proanūkis, Aleksan dro proproanūkis, Gardino deputacijai pateikė savo kil mės dokumentus.
 
+## Teiginiai
+
+<a id="claim-t-205111"></a>
+- t-001
+  teiginys: "Neturtingas Naugarduko apskrities bajoras Antanas, Jono sūnus, Petro anūkas, Mikalojaus proanūkis, Aleksan dro proproanūkis, Gardino deputacijai pateikė savo kil mės dokumentus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187732
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Neturtingas Naugarduko apskrities bajoras Antanas, Jono sūnus, Petro anūkas, Mikalojaus proanūkis, Aleksan dro proproanūkis, Gardino deputacijai pateikė savo kil mės dokumentus.'
@@ -74,21 +89,5 @@ Neturtingas Naugarduko apskrities bajoras Antanas, Jono sūnus, Petro anūkas, M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205111"></a>
-- t-001
-  teiginys: "Neturtingas Naugarduko apskrities bajoras Antanas, Jono sūnus, Petro anūkas, Mikalojaus proanūkis, Aleksan dro proproanūkis, Gardino deputacijai pateikė savo kil mės dokumentus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-187732
-

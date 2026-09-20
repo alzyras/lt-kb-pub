@@ -33,6 +33,75 @@ media_all_json: |-
 
 Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten, o toliau minimas kelias czu Kattow (SRP, 2, p. 683). Dusburgietis teigia, kad vokiškuose kryžiuočių kelių aprašymuose — Rangith (Weg. Dusburgietis teigia, kad pabaigoje kryžiuočių kelių į Lietuvą aprašymuose vadinamas Sessow, Sassow ir pan.
 
+## Teiginiai
+
+<a id="claim-t-60930"></a>
+- t-001
+  teiginys: "Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokiškieji kryžiuočių kelių aprašymai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokiškieji kryžiuočių kelių aprašymai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-61562
+
+<a id="claim-t-60931"></a>
+- t-002
+  teiginys: "XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokiškieji kryžiuočių kelių aprašymai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokiškieji kryžiuočių kelių aprašymai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-61564
+
+<a id="claim-t-60932"></a>
+- t-003
+  teiginys: "1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokiškieji kryžiuočių kelių aprašymai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokiškieji kryžiuočių kelių aprašymai\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje minimą 1384 m. kelio aprašymą."
+  pagrindžia:
+    - c-61565
+
+<a id="claim-t-60933"></a>
+- t-004
+  teiginys: "Vokiškuose kryžiuočių kelių aprašymuose Ragainė minima formomis Rangith, Rangnit, Rangnith, Rangit ir Ragnit."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokiškieji kryžiuočių kelių aprašymai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokiškieji kryžiuočių kelių aprašymai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-61566
+
 ## Citatos
 
 - id: c-61562
@@ -52,6 +121,8 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-61564
   autorius: "Petras Dusburgietis"
@@ -69,6 +140,8 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-61565
   autorius: "Petras Dusburgietis"
@@ -88,6 +161,8 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-61566
   autorius: "Petras Dusburgietis"
@@ -103,96 +178,5 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202762
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 187"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
-  citata_originali: |
-    545 D.— contra territorium [...] Wayken, intraverunt territorium Waykinam, Jer.—
-    zu Waiken. Vaikių valsčiaus bandyta ieškoti tarp Mituvos ir Raseinių (Łowmiański H.,
-    Studja..., 2, p. 102; plg. SZM, p. 237), į vakarus nuo Raseinių (Ivinskis Z.). Taigi įtikimiau
-    jį būtų lokalizuoti į rytus nuo Viduklės, kur, kaip rašoma kryžiuočių kelių aprašymuose,
-    buvęs lant Wayke (Weg. 20) ir Waykowsoppe (Weg. 52; Biržiška V., Kryžiuočių keliai...,
-    p. 48—49); matyt, Vaikiai sietini su Vaikupiu (LUEV, p. 183).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-206092
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
-  citata_originali: |
-    Vokiškuose kryžiuočių kelių aprašymuose
-    — Rangith (Weg. 6), Rangnit (Weg. 7, 8, 15, 18 22, 43), Rangnith (Weg. 8, 90), Rangit
-    (Weg. 8), Ragnit (Weg. 12, 18, 22, 43).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-## Teiginiai
-
-<a id="claim-t-220623"></a>
-- t-001
-  teiginys: "Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vokiškieji kryžiuočių kelių aprašymai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokiškieji kryžiuočių kelių aprašymai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202762
-
-<a id="claim-t-222111"></a>
-- t-002
-  teiginys: "1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vokiškieji kryžiuočių kelių aprašymai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokiškieji kryžiuočių kelių aprašymai\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje minimą 1384 m. kelio aprašymą."
-
-<a id="claim-t-224752"></a>
-- t-003
-  teiginys: "Vokiškuose kryžiuočių kelių aprašymuose Ragainė minima formomis Rangith, Rangnit, Rangnith, Rangit ir Ragnit."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vokiškieji kryžiuočių kelių aprašymai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokiškieji kryžiuočių kelių aprašymai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206092
-
+  pagrindzia:
+    - t-004

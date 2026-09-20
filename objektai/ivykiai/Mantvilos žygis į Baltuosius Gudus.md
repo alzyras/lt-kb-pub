@@ -42,6 +42,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201331"></a>
+- t-001
+  teiginys: "Neilgai buvus Mantvila, kunigaikštis Žemaičių, sukėlęs kareivius žemaičių ir lietuvių, traukė vėl į Baltuosius Gudus."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184681
+
 ## Citatos
 
 - id: c-184681
@@ -72,20 +86,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201331"></a>
-- t-001
-  teiginys: "Neilgai buvus Mantvila, kunigaikštis Žemaičių, sukėlęs kareivius žemaičių ir lietuvių, traukė vėl į Baltuosius Gudus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184681
-

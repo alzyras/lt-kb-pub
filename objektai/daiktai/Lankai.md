@@ -49,6 +49,64 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-192071"></a>
+- t-001
+  teiginys: "Narbuto pasakojime šauliai žygiavo kariuomenės šonuose su lankais, paruoštais smūgiui."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Ietys: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lankai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Ietys: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lankai\" parinktas kaip owner_note_path. Targetas \"Ietys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174943
+
+<a id="claim-t-192073"></a>
+- t-002
+  teiginys: "LDK karių perkėlų statybą per upę dengė dviejų patrankų, šautuvų ir lankų ugnis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]"
+  ryšio_patikimumas: "susije_su -> Totoriai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lankai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Totoriai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lankai\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-174941
+
+<a id="claim-t-192503"></a>
+- t-003
+  teiginys: "Narbuto aprašyme vadas išvedė visiškai apsiginklavusius riterius, o kariuomenės šonuose žygiavo šauliai su lankais, paruoštais smūgiui."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ietys: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lankai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Ietys: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lankai\" parinktas kaip owner_note_path. Targetas \"Ietys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175293
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbuto pasakojime šauliai žygiavo kariuomenės šonuose su lankais, paruoštais smūgiui.'
@@ -87,8 +145,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192073
+  pagrindzia:
+    - t-002
 
 - id: c-174943
   autorius: "Teodoras Narbutas"
@@ -103,6 +161,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-175293
   autorius: "Teodoras Narbutas"
@@ -122,82 +182,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195251
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
-  citata_originali: |
-    Kitą dieną priešams buvo atsiųsta pagalba —
-    prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
-    stovyklos visiškai apsiginklavus: skydai spindėjo kaip
-    žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
-    ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
-    liai su lankais, paruoštais smūgiui. Pats Danielius, ant
-    žirgo jodamas, tvarkė kariuomenės gretas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-213218"></a>
-- t-001
-  teiginys: "Narbuto pasakojime šauliai žygiavo kariuomenės šonuose su lankais, paruoštais smūgiui."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Ietys: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lankai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ietys: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lankai\" parinktas kaip owner_note_path. Targetas \"Ietys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-215272"></a>
-- t-002
-  teiginys: "Narbuto aprašyme vadas išvedė visiškai apsiginklavusius riterius, o kariuomenės šonuose žygiavo šauliai su lankais, paruoštais smūgiui."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Ietys: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lankai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ietys: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lankai\" parinktas kaip owner_note_path. Targetas \"Ietys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-195251
-
-<a id="claim-t-192073"></a>
-- t-192073
-  teiginys: "LDK karių perkėlų statybą per upę dengė dviejų patrankų, šautuvų ir lankų ugnis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]"
-  ryšio_patikimumas: "susije_su -> Totoriai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lankai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Totoriai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lankai\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-174941
-
+  pagrindzia:
+    - t-003

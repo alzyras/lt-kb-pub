@@ -36,6 +36,17 @@ historical_names: []
 
 Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas salas (Mart. p. 442).
 
+## Teiginiai
+
+<a id="claim-t-58717"></a>
+- t-001
+  teiginys: "Hospitaljerai užėmė turkų gyvenamą Rodo salą ir dar penkias salas."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59349
+
 ## Citatos
 
 - id: c-59349
@@ -54,13 +65,5 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-222907"></a>
-- t-001
-  teiginys: "Hospitaljerai užėmė turkų gyvenamą Rodo salą ir dar penkias salas."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
+  pagrindzia:
+    - t-001

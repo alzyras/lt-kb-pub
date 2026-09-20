@@ -27,6 +27,21 @@ media_all_json: |-
 
 Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją išgelbėję iš Saliamono šventyklos, o paskui atsinešę į Lietuvą.
 
+## Teiginiai
+
+<a id="claim-t-194791"></a>
+- t-001
+  teiginys: "Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją išgelbėję iš Saliamono šventyklos, o paskui atsinešę į Lietuvą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-177187
+
 ## Citatos
 
 - id: c-177187
@@ -50,44 +65,5 @@ Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199553
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 223"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
-  citata_originali: |
-    Kuo la­
-    biau tauta buvo linkusi į perdėtą pamaldumą, tuo labiau ji
-    garbindavo ugnį. Turime pirštu prikišamą pavyzdį - mūsų Lie­
-    tuvos žydus, perdėtai pamaldžius ir pernelyg prietaringus; jų
-    mokyklose, tai yra salėse, esančiose šalia sinagogų, kur jų da­
-    vatkos, skaitydamos asketiškas knygas, praleidžia dienas nak­
-    tis, nuolat laikomos degančios lempos arba tam tikros rūšies
-    žvakės. Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi
-    nuo to laiko, kai ją išgelbėję iš Saliamono šventyklos, o paskui
-    atsinešę į Lietuvą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-217385"></a>
-- t-001
-  teiginys: "Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją išgelbėję iš Saliamono šventyklos, o paskui atsinešę į Lietuvą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-199553
-

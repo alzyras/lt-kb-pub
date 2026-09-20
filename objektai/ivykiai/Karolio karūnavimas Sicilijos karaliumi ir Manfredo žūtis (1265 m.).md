@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Karolio karūnavimas Sicilijos karaliumi ir Manfredo žūtis (1265 m.)'
+pavadinimas: Karolio karūnavimas Sicilijos karaliumi ir Manfredo žūtis (1265 m.)
 variantai:
-  - 'Karolio karūnavimas Sicilijos karaliumi ir Manfredo žūtis'
+  - Karolio karūnavimas Sicilijos karaliumi ir Manfredo žūtis
 aliases:
-  - 'Karolio karūnavimas Sicilijos karaliumi ir Manfredo žūtis'
+  - Karolio karūnavimas Sicilijos karaliumi ir Manfredo žūtis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1265 m.'
+  - 1265 m.
 date_start: '1265'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Karolio karūnavimas Sicilijos karaliumi ir Manfredo žūtis (1265 m.)
 
@@ -82,6 +79,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

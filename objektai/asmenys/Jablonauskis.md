@@ -33,6 +33,17 @@ canonical_biography: "[Vadas] Jablonauskis mus sušaukęs pareiškė, kad „kir
 
 [Vadas] Jablonauskis mus sušaukęs pareiškė, kad „kirilas“ jau atsitraukė ir liepė mums dainuoti.
 
+## Teiginiai
+
+<a id="claim-t-39747"></a>
+- t-001
+  teiginys: "Vadas Jablonauskis sušaukė karius, pranešė apie „kirilo“ atsitraukimą ir liepė jiems dainuoti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-41551
+
 ## Citatos
 
 - id: c-41551
@@ -49,17 +60,5 @@ canonical_biography: "[Vadas] Jablonauskis mus sušaukęs pareiškė, kad „kir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-39747"></a>
-- t-001
-  teiginys: "Vadas Jablonauskis sušaukė karius, pranešė apie „kirilo“ atsitraukimą ir liepė jiems dainuoti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-41551
-

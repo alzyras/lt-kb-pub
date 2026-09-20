@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jonas Saksas'
+pavadinimas: Jonas Saksas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e913e72772a58794c31131b9"
-canonical_name: "Jonas Saksas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jonas Saksas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e913e72772a58794c31131b9
+canonical_name: Jonas Saksas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jonas Saksas
 sameAs: []
-canonical_biography: "Jonas Saksas iš Gilberštetės mirė Karaliaučiaus pilyje."
+canonical_biography: Jonas Saksas iš Gilberštetės mirė Karaliaučiaus pilyje.
 ---
 # Jonas Saksas
 
@@ -67,6 +66,5 @@ Jonas Saksas iš Gilberštetės mirė Karaliaučiaus pilyje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

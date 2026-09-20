@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Kaukazo kalnai'
+pavadinimas: Kaukazo kalnai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-cf8e69562a6b51ee2cfed3c7"
-canonical_name: "Kaukazo kalnai"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kaukazo kalnai"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-cf8e69562a6b51ee2cfed3c7
+canonical_name: Kaukazo kalnai
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kaukazo kalnai
 sameAs: []
-canonical_biography: "Žinomi šios tautos likučiai, Kaukazo kalnų gyventojai osetinai."
+canonical_biography: 'Žinomi šios tautos likučiai, Kaukazo kalnų gyventojai osetinai.'
 ---
 # Kaukazo kalnai
 
@@ -65,6 +64,5 @@ canonical_biography: "Žinomi šios tautos likučiai, Kaukazo kalnų gyventojai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

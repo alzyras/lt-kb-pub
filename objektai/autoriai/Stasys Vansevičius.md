@@ -35,6 +35,20 @@ Stasys Vansevičius, sekdamas G. Demčenka, aptarė nusikaltimo ir bausmės samp
 
 Stasys Vansevičius, sekdamas G. Demčenka, aptarė nusikaltimo ir bausmės sampratos kaitą Lietuvos Statutuose bei išskyrė nusikaltimų rūšis ir už juos taikytas bausmes.
 
+## Teiginiai
+
+<a id="claim-t-203709"></a>
+- t-001
+  teiginys: "Stasys Vansevičius, sekdamas G. Demčenka, aptarė nusikaltimo ir bausmės sampratos kaitą Lietuvos Statutuose bei išskyrė nusikaltimų rūšis ir už juos taikytas bausmes."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186313
+
 ## Citatos
 
 - id: c-186313
@@ -55,20 +69,5 @@ Stasys Vansevičius, sekdamas G. Demčenka, aptarė nusikaltimo ir bausmės samp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203709"></a>
-- t-001
-  teiginys: "Stasys Vansevičius, sekdamas G. Demčenka, aptarė nusikaltimo ir bausmės sampratos kaitą Lietuvos Statutuose bei išskyrė nusikaltimų rūšis ir už juos taikytas bausmes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186313
-

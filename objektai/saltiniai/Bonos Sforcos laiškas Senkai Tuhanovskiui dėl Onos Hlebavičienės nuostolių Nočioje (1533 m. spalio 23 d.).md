@@ -34,6 +34,46 @@ media_all_json: |-
 
 1514 ---- • --- 375 ## Puslapis 392 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIENĖ BONA, 1533 metų spalio mėnesio 23 dieną, 7 indikte, rusų kalka Vilniuje datuotu laišku, su parašu Walerijan (tikriausiai tai turėjo kūti raštininkas) ir prispaustu antspaudu. .], liepia karališkajam dvariškiui Tukanovskiui išnagrinėti karalienės valdinių padarytus nuostolius Polocko vaivadienei Onai Hlekavičienei jos valdoje Nočioje ties Kłecku (Iš Radvilų archyvo) BONA, DIEVO MALONE LENKIJOS KARALIENĖ, DIDŽIOJI LIETUVOS, RUSIOS. Mums skundėsi Polocko vaivadienė ponia Ona Jonienė Hlebavičienė, buvusi Ona Jurjevaitė, esą jos Nočios valdoje, esančioje ties Kłecku, buvo padaryta daug nuostolių ir ža­ los mūsų žmonių Senevlianų, užgrobiant jos žemes, miškus ir pievas ir daugelį kitų.
 
+## Teiginiai
+
+<a id="claim-t-88243"></a>
+- t-001
+  teiginys: "1533 m. spalio 23 d. Vilniuje datuotu laišku Bona Sforca liepė Senkai Tuhanovskiui ištirti Onos Hlebavičienės patirtus nuostolius Nočioje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bona Sforca: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Bona Sforca: mention_match, person, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.)\" parinktas kaip owner_note_path. Targetas \"Bona Sforca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1533 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas yra antraštinis ir su OCR triukšmu, o citata pagrindžia laiško datą, adresatą ir pavedimą."
+  pagrindžia:
+    - c-84223
+
+<a id="claim-t-88244"></a>
+- t-002
+  teiginys: "1533 m. spalio 23 d. Vilniuje rašytame Bonos Sforcos laiške įsakyta ištirti Onos Hlebavičienės nuostolius Nočioje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.)\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1533 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko glaustą teiginį apie laiško turinį ir datą."
+  pagrindžia:
+    - c-84222
+
 ## Citatos
 
 - id: c-84222
@@ -88,7 +128,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-84223
@@ -125,46 +165,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-88243"></a>
-- t-001
-  teiginys: "1533 m. spalio 23 d. Vilniuje datuotu laišku Bona Sforca liepė Senkai Tuhanovskiui ištirti Onos Hlebavičienės patirtus nuostolius Nočioje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bona Sforca: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Bona Sforca: mention_match, person, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.)\" parinktas kaip owner_note_path. Targetas \"Bona Sforca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1533 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis tekstas yra antraštinis ir su OCR triukšmu, o citata pagrindžia laiško datą, adresatą ir pavedimą."
-  pagrindžia:
-    - c-84223
-
-<a id="claim-t-88244"></a>
-- t-002
-  teiginys: "1533 m. spalio 23 d. Vilniuje rašytame Bonos Sforcos laiške įsakyta ištirti Onos Hlebavičienės nuostolius Nočioje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.)\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1533 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko glaustą teiginį apie laiško turinį ir datą."
-  pagrindžia:
-    - c-84222
-

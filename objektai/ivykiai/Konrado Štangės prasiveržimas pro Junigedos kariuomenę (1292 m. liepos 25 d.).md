@@ -50,6 +50,49 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-66632"></a>
+- t-001
+  teiginys: "Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Junigeda: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas Štangė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Konradas Štangė patraukė link Junigedos pilies."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Konradas Štangė keliavo į Junigeda (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1292 m.; įvykio data: apie 1292 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir paremtas citatos informacija."
+  pagrindžia:
+    - c-66830
+
+<a id="claim-t-66633"></a>
+- t-002
+  teiginys: "Konradas Štangė padrąsino savo būrį ir prasiveržė pro lietuvių kariuomenę prie Junigedos."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-66830
+
+<a id="claim-t-196951"></a>
+- t-003
+  teiginys: "Per daugelį žiemos meto karo žygių, o ypač per tą, apie kurį jau kalbėta, akylas žmogus galėtų pastebėti keistų ir nuostabių dalykų: štai ir mūsų minėta kariuomenė požiemyje, kai ledą iš viršaus tirpdo saulės spinduliai, o iš apačios graužia srovė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-66829
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies.'
@@ -89,6 +132,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-66830
   autorius: "Petras Dusburgietis"
@@ -107,60 +152,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-203316
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 185"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
-  citata_originali: |
-    Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,
-    vienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,
-    kodėl tada ledas neįlūžta ir išlaiko tokį didelį svorį, vienas dievas šitai žino. Per daugelį
-    žiemos meto karo žygių, o ypač per tą, apie kurį jau kalbėta, akylas žmogus galėtų
-    pastebėti keistų ir nuostabių dalykų: štai ir mūsų minėta kariuomenė požiemyje, kai
-    ledą iš viršaus tirpdo saulės spinduliai, o iš apačios graužia srovė, vidurnaktyje su ginklu
-    rankose perėjo ledu Nemuną; kai jie saugiai nusigavo į kitą krantą, ledas taip suskilo
-    ir sutruko, kad išaušus jo nebeliko nė pėdsakų. Kas šitai valiotų padaryti, jeigu ne tas,
-    kuris įsakė jūrai stovėti kaip mūras jų dešinėje ir kairėje, kad Izraelio tauta ją galėtų
-    pereiti sausomis kojomis?
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-221634
-
-## Teiginiai
-
-<a id="claim-t-225835"></a>
-- t-001
-  teiginys: "Per daugelį žiemos meto karo žygių, o ypač per tą, apie kurį jau kalbėta, akylas žmogus galėtų pastebėti keistų ir nuostabių dalykų: štai ir mūsų minėta kariuomenė požiemyje, kai ledą iš viršaus tirpdo saulės spinduliai, o iš apačios graužia srovė."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203316
-
-<a id="claim-t-221634"></a>
-- t-221634
-  teiginys: "Konradas Štangė padrąsino savo būrį ir prasiveržė pro lietuvių kariuomenę prie Junigedos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas Štangė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje Konrado Štangės pusė prasiveržia pro lietuvių kariuomenę ir nukovia daugelį jos karių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203316
-
+    - t-002

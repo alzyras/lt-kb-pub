@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Lenkų karalystė'
+pavadinimas: Lenkų karalystė
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b83927c798722de3871c20b3"
-canonical_name: "Lenkų karalystė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Lenkų karalystė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b83927c798722de3871c20b3
+canonical_name: Lenkų karalystė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Lenkų karalystė
 sameAs: []
-canonical_biography: "Caro valdžia neleido kurti Blaivybės brolijų Lenkų Karalystėje."
+canonical_biography: Caro valdžia neleido kurti Blaivybės brolijų Lenkų Karalystėje.
 place_authority: true
 historical_names: []
 ---

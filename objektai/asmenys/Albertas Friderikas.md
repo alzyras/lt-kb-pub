@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Albertas Friderikas'
+pavadinimas: Albertas Friderikas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-29f8219e04495a516eab1d70"
-canonical_name: "Albertas Friderikas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Albertas Friderikas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-29f8219e04495a516eab1d70
+canonical_name: Albertas Friderikas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Albertas Friderikas
 sameAs: []
-canonical_biography: "Tas ąžuolas buvo tuščiaviduris ir tokio storumo, kad į jį su arkliu buvo galima įjoti ir patogiai apsig ręžti, o taip ir padarė švento atminimo markgrafas Albertas Friderikas."
+canonical_biography: 'Tas ąžuolas buvo tuščiaviduris ir tokio storumo, kad į jį su arkliu buvo galima įjoti ir patogiai apsig ręžti, o taip ir padarė švento atminimo markgrafas Albertas Friderikas.'
 ---
 # Albertas Friderikas
 
@@ -67,6 +66,5 @@ Tas ąžuolas buvo tuščiaviduris ir tokio storumo, kad į jį su arkliu buvo g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

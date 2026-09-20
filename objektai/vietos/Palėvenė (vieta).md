@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Palėvenė (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Palėvenė (vieta)
+identifikacija: vieta
 variantai:
-  - 'Palėvenė'
+  - Palėvenė
 aliases:
-  - 'Palėvenė'
+  - Palėvenė
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-589d80330dd284442c16b0d7"
-canonical_name: "Palėvenė (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Palėvenė","Palėvenė (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-589d80330dd284442c16b0d7
+canonical_name: Palėvenė (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Palėvenė
+  - Palėvenė (vieta)
 sameAs: []
-canonical_biography: "Palėvenėje vyskupas skelbė blaivybę."
+canonical_biography: Palėvenėje vyskupas skelbė blaivybę.
 place_authority: true
 historical_names: []
 ---

@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Britanija (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Britanija (vieta)
+identifikacija: vieta
 variantai:
-  - 'Britanija'
+  - Britanija
 aliases:
-  - 'Britanija'
+  - Britanija
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-42f1878809210120c91c96b8"
-canonical_name: "Britanija (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Britanija","Britanija (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-42f1878809210120c91c96b8
+canonical_name: Britanija (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Britanija
+  - Britanija (vieta)
 sameAs: []
-canonical_biography: "Hamilkaras atrado Albioną, arba Britaniją. Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
+canonical_biography: 'Hamilkaras atrado Albioną, arba Britaniją. Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą.'
 ---
 # Britanija (vieta)
 
@@ -83,7 +83,7 @@ Hamilkaras atrado Albioną, arba Britaniją. Apie Pitėją manoma, jog jis kelia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-195450
@@ -101,6 +101,5 @@ Hamilkaras atrado Albioną, arba Britaniją. Apie Pitėją manoma, jog jis kelia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

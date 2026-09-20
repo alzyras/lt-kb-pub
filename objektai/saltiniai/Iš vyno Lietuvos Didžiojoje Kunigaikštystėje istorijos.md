@@ -65,8 +65,6 @@ Liudo Glemžos straipsnis „Iš vyno Lietuvos Didžiojoje Kunigaikštystėje is
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 18."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:29"
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -53,6 +53,29 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62860"></a>
+- t-001
+  teiginys: "1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė danų vasalinėje priklausomybėje buvusią Revelio žemę."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "puole -> Revelis: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pskoviečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Revelis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad pskoviečiai kartu su lietuviais užpuolė Revelio žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pskoviečiai puolė Revelis (0.95); Lietuvos kariuomenė puolė Dorpatas (0.85)"
+  temporaliniai_duomenys: "įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m.; įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-63697
+
 ## Citatos
 
 - id: c-63697
@@ -76,25 +99,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-224753"></a>
-- t-001
-  teiginys: "1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė danų vasalinėje priklausomybėje buvusią Revelio žemę."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "puole -> Revelis: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pskoviečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Revelis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad pskoviečiai kartu su lietuviais užpuolė Revelio žemę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Pskoviečiai puolė Revelis (0.95); Lietuvos kariuomenė puolė Dorpatas (0.85)"
-  temporaliniai_duomenys: "įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m.; įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-
+  pagrindzia:
+    - t-001

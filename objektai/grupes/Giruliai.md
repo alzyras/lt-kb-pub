@@ -27,6 +27,24 @@ media_all_json: |-
 
 Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų vardas.
 
+## Teiginiai
+
+<a id="claim-t-07834"></a>
+- t-001
+  teiginys: "Šeštajame amžiuje giruliais arba girionimis vadinti žemaičiai ir kalnėnai mokėjo auginti linus."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Giruliai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Giruliai\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-10065
+
 ## Citatos
 
 - id: c-10065
@@ -43,20 +61,5 @@ Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų var
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210189"></a>
-- t-001
-  teiginys: "Šeštajame amžiuje giruliais arba girionimis vadinti žemaičiai ir kalnėnai mokėjo auginti linus."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Giruliai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Giruliai\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
+  pagrindzia:
+    - t-001

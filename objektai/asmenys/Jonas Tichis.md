@@ -39,6 +39,20 @@ canonical_biography: "Šio konflikto turinys nėra žinomas, bet jau kitais 1520
 
 Šio konflikto turinys nėra žinomas, bet jau kitais 1520 m. Vilniuje apsilankęs popiežiaus legatas Zacharias Ferreri gavo Vilniaus miestiečio Jono Tichio (Czuchi) skundą, kuriame buvo kaltinami Kauno bernardinai, apgaule išgabenę į Lenkiją daug brangenybių.
 
+## Teiginiai
+
+<a id="claim-t-202111"></a>
+- t-001
+  teiginys: "Šio konflikto turinys nėra žinomas, bet jau kitais 1520 m. Vilniuje apsilankęs popiežiaus legatas Zacharias Ferreri gavo Vilniaus miestiečio Jono Tichio (Czuchi) skundą, kuriame buvo kaltinami Kauno bernardinai, apgaule išgabenę į Lenkiją daug brangenybių."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185458
+
 ## Citatos
 
 - id: c-185458
@@ -58,20 +72,5 @@ canonical_biography: "Šio konflikto turinys nėra žinomas, bet jau kitais 1520
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202111"></a>
-- t-001
-  teiginys: "Šio konflikto turinys nėra žinomas, bet jau kitais 1520 m. Vilniuje apsilankęs popiežiaus legatas Zacharias Ferreri gavo Vilniaus miestiečio Jono Tichio (Czuchi) skundą, kuriame buvo kaltinami Kauno bernardinai, apgaule išgabenę į Lenkiją daug brangenybių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185458
-

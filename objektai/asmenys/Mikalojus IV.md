@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Mikalojus IV'
+pavadinimas: Mikalojus IV
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1288 m.'
+  - 1288 m.
 date_start: '1288'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9e160d7d664ebd4e8bec2be4"
-canonical_name: "Mikalojus IV"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mikalojus IV"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9e160d7d664ebd4e8bec2be4
+canonical_name: Mikalojus IV
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mikalojus IV
 sameAs: []
-canonical_biography: "Mikalojus IV 1288 metais buvo popiežius ir priklausė mažesniųjų brolių ordinui."
+canonical_biography: Mikalojus IV 1288 metais buvo popiežius ir priklausė mažesniųjų brolių ordinui.
 ---
 # Mikalojus IV
 
@@ -73,6 +72,5 @@ Mikalojus IV 1288 metais buvo popiežius ir priklausė mažesniųjų brolių ord
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

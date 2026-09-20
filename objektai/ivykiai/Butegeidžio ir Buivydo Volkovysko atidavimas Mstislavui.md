@@ -42,6 +42,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205962"></a>
+- t-001
+  teiginys: "Voluinės metraštis pasakoja, kad Lietuvos kunigaikštis Butegeidis ir jo brolis Buivydas atidavė Mstislavui Volkovyską, kad šis laikytųsi su jais taikos."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188577
+
 ## Santrauka
 
 Voluinės metraštis pasakoja, kad Lietuvos kunigaikštis Butegeidis ir jo brolis Buivydas atidavė Mstislavui Volkovyską, kad šis laikytųsi su jais taikos.
@@ -64,20 +78,5 @@ Voluinės metraštis pasakoja, kad Lietuvos kunigaikštis Butegeidis ir jo broli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205962"></a>
-- t-001
-  teiginys: "Voluinės metraštis pasakoja, kad Lietuvos kunigaikštis Butegeidis ir jo brolis Buivydas atidavė Mstislavui Volkovyską, kad šis laikytųsi su jais taikos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188577
-

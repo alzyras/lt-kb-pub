@@ -1,11 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'Tautiškumas (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: Tautiškumas (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'Tautiškumas'
+  - Tautiškumas
 aliases:
-  - 'Tautiškumas'
+  - Tautiškumas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Tautiškumas (sąvoka)
 
@@ -70,6 +67,5 @@ Ne į latvius, kurie yra lyvių-lietuvių šaka, bet į vi durio lietuvius, ¡ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

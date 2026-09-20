@@ -42,6 +42,32 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201919"></a>
+- t-001
+  teiginys: "1618 m. Zigmantas Vaza sprendė bylą, kurioje Kauno katalikiškoji dvasininkija kaltino liuteronus, kad šie, nepaisydami 2 draudžiamųjų raštų (šie raštai neišliko, tai galėjo būti katalikų išgauti valdovų raštai), įsirengė bažnyčią, mokyklą, špitolę."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185266
+
+<a id="claim-t-201920"></a>
+- t-002
+  teiginys: "Zigmantas Vaza nusprendė, kad liuteronai privalo nugriauti savo bažnyčią, mokyklą, špitolę, jiems iš viso buvo uždrausta atlikinėti savo tikėjimo apeigas, be to, už sprendimo nevykdymą grėsė 10000 kapų grašių bauda."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185267
+
 ## Citatos
 
 - id: c-185266
@@ -60,7 +86,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185267
@@ -78,32 +104,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201919"></a>
-- t-001
-  teiginys: "1618 m. Zigmantas Vaza sprendė bylą, kurioje Kauno katalikiškoji dvasininkija kaltino liuteronus, kad šie, nepaisydami 2 draudžiamųjų raštų (šie raštai neišliko, tai galėjo būti katalikų išgauti valdovų raštai), įsirengė bažnyčią, mokyklą, špitolę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185266
-
-<a id="claim-t-201920"></a>
-- t-002
-  teiginys: "Zigmantas Vaza nusprendė, kad liuteronai privalo nugriauti savo bažnyčią, mokyklą, špitolę, jiems iš viso buvo uždrausta atlikinėti savo tikėjimo apeigas, be to, už sprendimo nevykdymą grėsė 10000 kapų grašių bauda."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185267
-

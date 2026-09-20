@@ -27,6 +27,33 @@ media_all_json: |-
 
 Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadintas krašto kunigaikštis gyveno ežero viduryje netoli Loetzen. Šio krašto kunigaikštis, kurį vėlesnis kronikininkas vadina .Jesugubu, gyveno netoli Loetzen, vieno ežero viduryje (Hanneberger.
 
+## Teiginiai
+
+<a id="claim-t-191837"></a>
+- t-001
+  teiginys: "Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadintas krašto kunigaikštis gyveno ežero viduryje netoli Loetzen."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174719
+
+<a id="claim-t-197671"></a>
+- t-002
+  teiginys: "Šio krašto kunigaikštis, kurį vėlesnis kronikininkas vadina .Jesugubu, gyveno netoli Loetzen, vieno ežero viduryje (Hanneberger."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174719
+
 ## Citatos
 
 - id: c-174719
@@ -49,56 +76,6 @@ Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadinta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195548
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 363"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 363."
-  citata_originali: |
-    Pilys padėjo apsiginti iš Mazovijos pusės, bet isto­
-    rija nemini pilių pavadinimų, net nežinome, kur gyveno
-    ta šventoji pranašė, kuri dėl savo reikšmės ir pranašys­
-    čių valdė ir tvarkė savo kraštą (Domina, guae secundum
-    ritum ipsorum sacra et Prophetissa reputabatur, ad cujus
-    itnperium hujus terrae facta singula regebantur). Šio
-    krašto kunigaikštis, kurį vėlesnis kronikininkas vadina
-    .Jesugubu, gyveno netoli Loetzen, vieno ežero viduryje
-    (Hanneberger.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-213547"></a>
-- t-001
-  teiginys: "Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadintas krašto kunigaikštis gyveno ežero viduryje netoli Loetzen."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-195548
-
-<a id="claim-t-214020"></a>
-- t-002
-  teiginys: "Šio krašto kunigaikštis, kurį vėlesnis kronikininkas vadina .Jesugubu, gyveno netoli Loetzen, vieno ežero viduryje (Hanneberger."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195548
-

@@ -40,6 +40,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205968"></a>
+- t-001
+  teiginys: "Po aštuoniolikos mėnesių Gediminas, pasak Teodoro Narbuto, sudarė Aleksandrui sąlygas toliau būti pirmuoju Pskovo respublikos kunigaikščiu."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188583
+
+<a id="claim-t-205969"></a>
+- t-002
+  teiginys: "Pasak Teodoro Narbuto, Pskovo žemė atsiskyrė nuo Didžiojo Naugardo, įgijo savarankišką valdymą, o Gediminas vyskupu paskyrė Arsenijų."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188584
+
 ## Santrauka
 
 Po aštuoniolikos mėnesių Gediminas, pasak Teodoro Narbuto, sudarė Aleksandrui sąlygas toliau būti pirmuoju Pskovo respublikos kunigaikščiu. Pasak Teodoro Narbuto, Pskovo žemė atsiskyrė nuo Didžiojo Naugardo, įgijo savarankišką valdymą, o Gediminas vyskupu paskyrė Arsenijų.
@@ -67,7 +95,7 @@ Po aštuoniolikos mėnesių Gediminas, pasak Teodoro Narbuto, sudarė Aleksandru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188584
@@ -91,34 +119,5 @@ Po aštuoniolikos mėnesių Gediminas, pasak Teodoro Narbuto, sudarė Aleksandru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-205968"></a>
-- t-001
-  teiginys: "Po aštuoniolikos mėnesių Gediminas, pasak Teodoro Narbuto, sudarė Aleksandrui sąlygas toliau būti pirmuoju Pskovo respublikos kunigaikščiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188583
-
-<a id="claim-t-205969"></a>
-- t-002
-  teiginys: "Pasak Teodoro Narbuto, Pskovo žemė atsiskyrė nuo Didžiojo Naugardo, įgijo savarankišką valdymą, o Gediminas vyskupu paskyrė Arsenijų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188584
-

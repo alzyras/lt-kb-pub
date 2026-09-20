@@ -34,6 +34,32 @@ canonical_biography: "Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti 
 
 Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras Cartorijskis su Skabeika Verbų sekmadienį1 7 įvažiavo į Trakų pilį. Aleksandras Cartorijskis labai mėgo medžioklę.
 
+## Teiginiai
+
+<a id="claim-t-194096"></a>
+- t-001
+  teiginys: "Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras Cartorijskis su Skabeika Verbų sekmadienį1 7 įvažiavo į Trakų pilį."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-176709
+
+<a id="claim-t-196806"></a>
+- t-002
+  teiginys: "Aleksandras Cartorijskis labai mėgo medžioklę."
+  atnaujinta: "2026-07-12 22:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-178923
+
 ## Citatos
 
 - id: c-176709
@@ -63,6 +89,8 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-178923
   autorius: "Anoniminis metraštininkas"
@@ -85,27 +113,5 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193134
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 123."
-  citata_originali: |
-    O lenkų ponai neno­
-    rėjo išleisti jo iš savo žemės, kadangi jų karalius, Jo­
-    gailos sūnus Vladislovas, kuris valdė Vengrijos ir Len­
-    kijos karalystes, tą vasarą per mūšį su turkais be žinios
-    dingo karo lauke, ir dar nebuvo tikrai sužinoję, ar gy­
-    vas, ar ne l3, ir todėl nenorėjo karalaičio išleisti. Lie­
-    tuvos pasiuntiniai ėmė pasakoti apie Lietuvos kraštą,
-    apie Lietuvos taurų, stumbrų ir kitų įvairių žvėrių me­
-    džioklės malonumus. Ir karalaičiui Kazimierui labai pa­
-    tiko, nes jis labai mėgo medžioklę.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

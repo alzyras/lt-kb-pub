@@ -80,11 +80,9 @@ Nenurodyta
     tais (per dvidešimt metų nuo II Gesu užbaigos) ir užbaigta 1615 metais,
     tiksliai pakartoja Romos pavyzdžio planą ir bendrą kompoziciją.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

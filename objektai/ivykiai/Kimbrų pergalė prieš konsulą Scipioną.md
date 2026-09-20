@@ -40,34 +40,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-214836"></a>
-- t-003
-  teiginys: "Italijoje, netoli Veronos, slėnyje tarp Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių senovės kirnbrų, kurie, pasitraukę nuo Baltijos jūros, pa garsėjo pergale prieš konsulą Scipioną 169 metais prieš Kristaus gimimą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194602
-
-<a id="claim-t-213472"></a>
-- t-213472
-  teiginys: "Visa tai rodo pėdsakus, kad tie Prūsijos gy ventojai sembai-kimbrai paliko lietuvių žemėje savo kartų ainių, išlikusių net iki mūsų laikų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197595
-
-<a id="claim-t-214022"></a>
-- t-214022
+<a id="claim-t-191870"></a>
+- t-001
   teiginys: "Teodoras Narbutas kimbrų pergalę prieš konsulą Scipioną 169 m. pr. Kr. siejo su nuo Baltijos pasitraukusiais kimbrais, kurių ainiai, jo manymu, gyveno prie Veronos."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -86,7 +62,19 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Išskleistas įvykio ryšys su kimbrais ir Veronos vieta. Narbuto interpretacija palikta su atribucija, nepridedant daugiau apie romėnų karus."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-197595
+    - c-174752
+
+<a id="claim-t-197546"></a>
+- t-002
+  teiginys: "Visa tai rodo pėdsakus, kad tie Prūsijos gy ventojai sembai-kimbrai paliko lietuvių žemėje savo kartų ainių, išlikusių net iki mūsų laikų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174752
 
 ## Citatos
 
@@ -116,57 +104,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194602
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
-  citata_originali: |
-    Italijoje, netoli Veronos, slėnyje tarp
-    Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių
-    senovės kirnbrų, kurie, pasitraukę nuo Baltijos jūros, pa­
-    garsėjo pergale prieš konsulą Scipioną 169 metais prieš
-    Kristaus gimimą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- id: c-197595
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
-  citata_originali: |
-    Lietuvių kalba pasakojamuose apsaky­
-    muose, kurių nemažai surinkau, pasakojama apie kažko­
-    kius žmones, vadinamus Kimbarej, vienaskaita — Kimba-
-    ras, buvusius klajoklius ir vogusius arklius. Iškart pri­
-    skyriau tuos žmones prie čigonų, bet, kai vėliau teko la­
-    biau patyrinėti svetimą mūsų žemei tautą2, įsitikinau,
-    kad pasakojimuose kalbama apie visai kitką. Lietuvoje
-    taip pat esama garbingų bajorų šeimų, turinčių Kimbarų
-    pavardes. Visa tai rodo pėdsakus, kad tie Prūsijos gy­
-    ventojai sembai-kimbrai
-    paliko
-    lietuvių
-    žemėje savo
-    kartų ainių, išlikusių net iki mūsų laikų.
-    1 Origines Gauloises par La Tour d’Auvergne Corret.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213472
-    - t-214022
+  pagrindzia:
+    - t-001
+    - t-002
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Kimbrai]]

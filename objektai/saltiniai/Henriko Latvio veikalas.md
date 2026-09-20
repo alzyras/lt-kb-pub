@@ -28,6 +28,21 @@ Visą šį paragrafą pažodžiui perteikėme paėmę iš Henriko Lat vio, kadan
 
 Visą šį paragrafą pažodžiui perteikėme paėmę iš Henriko Lat vio, kadangi ten yra užuominų, labai artimų mūsų veikalo temai ir patvirtinančių žinias apie Zvelgaitį, su kurio vardu pirmą kartą susi dūrėme genealoginėje lentelėje.
 
+## Teiginiai
+
+<a id="claim-t-205328"></a>
+- t-001
+  teiginys: "Visą šį paragrafą pažodžiui perteikėme paėmę iš Henriko Lat vio, kadangi ten yra užuominų, labai artimų mūsų veikalo temai ir patvirtinančių žinias apie Zvelgaitį, su kurio vardu pirmą kartą susi dūrėme genealoginėje lentelėje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187715
+
 ## Citatos
 
 - id: c-187715
@@ -44,21 +59,5 @@ Visą šį paragrafą pažodžiui perteikėme paėmę iš Henriko Lat vio, kadan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205328"></a>
-- t-001
-  teiginys: "Visą šį paragrafą pažodžiui perteikėme paėmę iš Henriko Lat vio, kadangi ten yra užuominų, labai artimų mūsų veikalo temai ir patvirtinančių žinias apie Zvelgaitį, su kurio vardu pirmą kartą susi dūrėme genealoginėje lentelėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-187715
-

@@ -26,6 +26,28 @@ media_all_json: |-
 
 Narbutas nurodo, kad, anot Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“.
 
+## Teiginiai
+
+<a id="claim-t-190538"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad, anot Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Juostos: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. I. Kraševskio veikalas apie Lietuvą: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Juostos: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. I. Kraševskio veikalas apie Lietuvą\" parinktas kaip owner_note_path. Targetas \"Juostos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173421
+
 ## Citatos
 
 - id: c-173421
@@ -47,4 +69,5 @@ Narbutas nurodo, kad, anot Kraševskio, mirusįjį palietę žmonės tapdavo „
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

@@ -1,12 +1,12 @@
 ---
 tipas: vieta
-pavadinimas: 'Skalva'
+pavadinimas: Skalva
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1253 m.'
-  - '1259 m.'
+  - 1253 m.
+  - 1259 m.
 date_start: '1253'
 date_end: '1259'
 sukurta: ''
@@ -16,34 +16,162 @@ tags:
   - vieta
   - žemė
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-175ab9568e13a2a18bfeb291"
-canonical_name: "Skalva"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Skalva"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-175ab9568e13a2a18bfeb291
+canonical_name: Skalva
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Skalva
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją, pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina kaip prūsų gyvenamą3. Dusburgietis teigia, kad 1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr."
+canonical_biography: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją, pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina kaip prūsų gyvenamą3. Dusburgietis teigia, kad 1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Skalva","url":"https://lt.wikipedia.org/wiki/Skalva","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Skalva","url":"https://www.vle.lt/straipsnis/skalva/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:49:33+00:00","source_checked_at":"2026-09-19T18:49:33+00:00","counts":{"relations":5,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Skalva","url":"https://lt.wikipedia.org/wiki/Skalva","publisher":"Vikipedija","language":"lt","article_id":"28041","revision_id":"7638256","published_at":"2025-09-10T19:19:03Z","version_pk":"","content_hash":"f1671dfa86dc3f576e9c7d82871ff32c01b305d548f6c840ebdcc0b0d1083b26","retrieved_at":"2026-09-19T18:48:20+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Skalva&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"28041"}},"intro":"Skalva (lot. Scalovia, Sclavonia, Schlavonia, vok. Sclavonia, Schalauen, prūsų k. Skālwa) – skalvių genties žemė, buvusi tarp Nadruvos ir Žemaičių. Ši žemė apėmė Nemuno žemupį nuo Smalininkų ir Minijos žemupį nuo Priekulės apylinkių. Centras – Ragainė. Skalvai dažnai priskiriama Lamata arba Lamotė, kurios ribos beveik sutampa su Šilutės rajono savivaldybės riba, bet dar priskiriama Priekulės, Agluonėnų, Veiviržėnų, Judrėnų apylinkės. Skalvos religiniu centru laikomas Rambynas. Nuo XIII a. 5 dešimtmečio Skalvą pradėjo puldinėti kryžiuočiai. 1259 m. rugpjūčio 7 d. nutarimu Mindaugas Skalvą dovanojo kryžiuočiams. 1274–1278 m., po didžiojo prūsų sukilimo, vokiečių riteriai šią žemę užkariavo. Nuo 1289 m. priklausė Ragainės komtūrijai, o nuo XVI a. beveik visa Skalva tapo Mažosios Lietuvos dalimi.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Skalva","url":"https://lt.wikipedia.org/wiki/Skalva","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Skalva","url":"https://www.vle.lt/straipsnis/skalva/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Skalva","https://www.vle.lt/straipsnis/skalva/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"936f32f4c873682de736ede7","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Prūsijos žemės dalis","context":"Petro iš Dusburgo kronikoje Skalva išvardyta tarp 11 Prūsijos žemės dalių.","support_ids":["t-221442","c-204791"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221442","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204791","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."}],"status":"published","conflict_status":"clear"},{"trait_id":"386a10b85091b03e419ddfe8","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Lietuvos valdovo žemė","context":"Šaltinio autoriaus vertinimu, 1253–1259 m. Mindaugo dokumentai liudija, kad tuo metu Skalva tarptautinėje plotmėje buvo laikoma Lietuvos valdovo žeme.","support_ids":["t-223797","c-203320"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223797","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203320","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Ragainė","claim_id":"t-225347","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-223797","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-221442","confidence":0.82},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Žemaitija","claim_id":"t-225213","confidence":0.91},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Patrikas","claim_id":"t-179849","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b1dea6b87d0bcc6c
+object_page_generated_at: '2026-09-19T18:49:33+00:00'
+object_page_source_checked_at: '2026-09-19T18:49:33+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Skalva: Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga…'
+object_page_seo_input_hash: c32e3144f696e08d6559fee425142074f3bd5ed6d2eea156c99a2d5bda57c426
+object_page_seo_generated_at: '2026-09-19T18:49:33+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Skalva
 
 ## Santrauka
 
 Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją, pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina kaip prūsų gyvenamą3. Dusburgietis teigia, kad 1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr.
+
+## Teiginiai
+
+<a id="claim-t-58373"></a>
+- t-001
+  teiginys: "Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš skalvius."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skalviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Skalviai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalva\" parinktas kaip owner_note_path. Targetas \"Skalviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59010
+
+<a id="claim-t-58374"></a>
+- t-002
+  teiginys: "Petro iš Dusburgo kronikoje Skalva priskirta vienai iš 11 Prūsijos žemės dalių."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59008
+
+<a id="claim-t-58375"></a>
+- t-003
+  teiginys: "1253-1259 m. Mindaugo dokumentai liudija, kad Skalva tarptautinėje plotmėje laikyta Lietuvos valdovo žeme."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Skalva laikyta Lietuvos valdovo žeme."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Skalva priklausė Lietuva (0.86); Nadruva priklausė Lietuva (0.86); Dainava priklausė Lietuva (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1253-1259; įvykio data: 1259 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-59005
+
+<a id="claim-t-58376"></a>
+- t-004
+  teiginys: "Skalvos centras buvo Ragainė (dab."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Skalva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Skalva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ragainė tiesiogiai įvardyta kaip Skalvos centras."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ragainė priklausė Skalva (0.86)"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  pagrindžia:
+    - c-59006
+
+<a id="claim-t-58377"></a>
+- t-005
+  teiginys: "Sembų fogtas Ditrichas su Ordino pajėgomis atplaukė į skalvių žemę abiejose Nemuno pusėse ir užpuolė Ragainės vietoje stovėjusią pilį."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalva\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59007
+
+<a id="claim-t-58378"></a>
+- t-006
+  teiginys: "Kai kurie tyrinėtojai teritoriją nuo Pamedės iki Skalvos prie Nemuno apibūdino kaip prūsų gyvenamą."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalva\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59008
+
+<a id="claim-t-185144"></a>
+- t-007
+  teiginys: "Pirmasis staigus smūgis buvo planuotas prieš Skalvių miestą ir pilį."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Skalviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Skalviai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalva\" parinktas kaip owner_note_path. Targetas \"Skalviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168505
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -98,6 +226,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-59006
   autorius: "Petras Dusburgietis"
@@ -114,6 +244,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-59007
   autorius: "Petras Dusburgietis"
@@ -132,6 +264,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-59008
   autorius: "Petras Dusburgietis"
@@ -152,6 +286,9 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+    - t-006
 
 - id: c-59009
   autorius: "Petras Dusburgietis"
@@ -175,7 +312,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-59010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -194,6 +330,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-168505
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -216,169 +354,9 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185144
-
-- id: c-204313
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 60"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 60."
-  citata_originali: |
-    Teritorija abipus Nemuno
-    žemupio — rytuose maždaug iki Viešvilės, vakaruose iki Atmatos, šiaurėje siekė
-    Sešuvies ir Jūros santaką, o pietuose ėjo iki Nemuno—Priegliaus takoskyros. XIII a.
-    Skalvos centras buvo Ragainė (dab. Nemanas) kair. Nemuno krante.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222841
-    - t-225347
-    - t-225444
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Puolė Skalvą: [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
 - Skalva priklausė [[objektai/vietos/Žemaitija]]
-
-## Teiginiai
-
-<a id="claim-t-223797"></a>
-- t-001
-  teiginys: "1253-1259 m. Mindaugo dokumentai liudija, kad Skalva tarptautinėje plotmėje laikyta Lietuvos valdovo žeme."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skalva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Skalva laikyta Lietuvos valdovo žeme."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Skalva priklausė Lietuva (0.86); Nadruva priklausė Lietuva (0.86); Dainava priklausė Lietuva (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1253-1259; įvykio data: 1259 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, gramatiškas ir tiesiogiai paremtas citata."
-
-<a id="claim-t-225382"></a>
-- t-002
-  teiginys: "Sembų fogtas Ditrichas su Ordino pajėgomis atplaukė į skalvių žemę abiejose Nemuno pusėse ir užpuolė Ragainės vietoje stovėjusią pilį."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skalva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalva\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-185144"></a>
-- t-185144
-  teiginys: "Pirmasis staigus smūgis buvo planuotas prieš Skalvių miestą ir pilį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Skalviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skalva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Skalviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalva\" parinktas kaip owner_note_path. Targetas \"Skalviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168505
-
-<a id="claim-t-220316"></a>
-- t-220316
-  teiginys: "Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš skalvius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skalviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skalva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Skalviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalva\" parinktas kaip owner_note_path. Targetas \"Skalviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-220934"></a>
-- t-220934
-  teiginys: "Broliai po Nadruvos užkariavimo nukreipė ginklus prieš skalvius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-221442"></a>
-- t-221442
-  teiginys: "Petro iš Dusburgo kronikoje Skalva priskirta vienai iš 11 Prūsijos žemės dalių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skalva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Skalva išvardyta tarp Prūsijos žemės dalių, todėl priklausymo ryšys su Prūsija tiesiogiai palaikomas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Skalva priklausė Prūsija (0.82)"
-
-<a id="claim-t-222841"></a>
-- t-222841
-  teiginys: "XIII a. Skalvos centras buvo Ragainė kairiajame Nemuno krante."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204313
-
-<a id="claim-t-225347"></a>
-- t-225347
-  teiginys: "Skalvos centras buvo Ragainė (dab."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Skalva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ragainė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Skalva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ragainė tiesiogiai įvardyta kaip Skalvos centras."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Ragainė priklausė Skalva (0.86)"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  pagrindžia:
-    - c-204313
-
-<a id="claim-t-225444"></a>
-- t-225444
-  teiginys: "Kai kurie tyrinėtojai teritoriją nuo Pamedės iki Skalvos prie Nemuno apibūdino kaip prūsų gyvenamą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skalva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalva\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204313
-

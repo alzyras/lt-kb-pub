@@ -59,24 +59,8 @@ Nenurodyta
     Kepurė irgi buvusi miestiška, ap- siavęs naginėmis, o kartais ir batais, įėjęs į grįčią ne poterius kalba, bet giesmę gieda.
   citata_rodoma: "Kepurė irgi buvusi miestiška, ap- siavęs naginėmis, o kartais ir batais, įėjęs į grįčią ne poterius kalba, bet giesmę gieda."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 01:47"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-195349"></a>
-- t-001
-  teiginys: "Elgetos apavas."
-  atnaujinta: "2026-09-13 18:03"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177755
-

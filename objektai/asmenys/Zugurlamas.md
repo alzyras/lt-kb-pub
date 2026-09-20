@@ -35,6 +35,28 @@ canonical_biography: "Narbutas, remdamasis islandų sagomis ir Torfėjaus chrono
 
 Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vadina įžymiu rusų karaliumi, gyvenusiu III amžiuje.
 
+## Teiginiai
+
+<a id="claim-t-191488"></a>
+- t-001
+  teiginys: "Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vadina įžymiu rusų karaliumi, gyvenusiu III amžiuje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zugurlamas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zugurlamas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174370
+
 ## Citatos
 
 - id: c-174370
@@ -60,54 +82,5 @@ Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197573
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 242"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
-  citata_originali: |
-    Torfėjas, chronologiškai vardijęs
-    danų istorijos įvykius, palygintus su tiksliausiais skaičia­
-    vimais, Frotono III valdymą sieja su III krikščioniškosios
-    eros amžiumi.
-    234
-    Islandų sakmėse, vadinamose šiaurinėmis sagomis,
-    esama žinių apie įžymų rusų karalių, vadinamą Zugurla-
-    mu, kuris, anot Torfėjo chronologinių skaičiavimų, taip
-    pat gyveno III amžiuje3. Iš to paties šaltinio žinoma, jog
-    rusų genties valdovo ir didvyrio Heiraudo dukra Heiridė
-    ištekėjo už norvego Augmundo; kartu ji gavo kraičio ne­
-    mažą Rusios valdą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-213234"></a>
-- t-001
-  teiginys: "Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vadina įžymiu rusų karaliumi, gyvenusiu III amžiuje."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zugurlamas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zugurlamas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-197573
-

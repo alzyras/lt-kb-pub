@@ -24,6 +24,20 @@ media_all_json: |-
 
 Į broliją susibūrę laivavedžiai prašė magistrato parengti jų cecho nuostatus, reikalingus ne tik jiems, bet ir pirkliams, kurių prekės gabenamos kauniečių laivais.
 
+## Teiginiai
+
+<a id="claim-t-201872"></a>
+- t-001
+  teiginys: "Į broliją susibūrę laivavedžiai prašė magistrato parengti jų cecho nuostatus, reikalingus ne tik jiems, bet ir pirkliams, kurių prekės gabenamos kauniečių laivais."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185219
+
 ## Citatos
 
 - id: c-185219
@@ -43,20 +57,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201872"></a>
-- t-001
-  teiginys: "Į broliją susibūrę laivavedžiai prašė magistrato parengti jų cecho nuostatus, reikalingus ne tik jiems, bet ir pirkliams, kurių prekės gabenamos kauniečių laivais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185219
-

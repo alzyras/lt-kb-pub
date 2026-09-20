@@ -36,6 +36,32 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201280"></a>
+- t-001
+  teiginys: "Tą išgirdęs, Albertas sukėlė kalavijonis, mel džionis ir perkrikštus, traukė į Turaidą patrakusiųjų drausti, kursai tuojau iš visos galios Dabrelio pilį apgulė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184630
+
+<a id="claim-t-201281"></a>
+- t-002
+  teiginys: "Letgaliai bekariaudami buvo naują bokštą pilėj padirbę, kurį ant jos nelaimos vieną naktį viesulas pakilęs išvertė ir daug žmonių išmušė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184631
+
 ## Citatos
 
 - id: c-184630
@@ -60,7 +86,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184631
@@ -90,32 +116,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201280"></a>
-- t-001
-  teiginys: "Tą išgirdęs, Albertas sukėlė kalavijonis, mel džionis ir perkrikštus, traukė į Turaidą patrakusiųjų drausti, kursai tuojau iš visos galios Dabrelio pilį apgulė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184630
-
-<a id="claim-t-201281"></a>
-- t-002
-  teiginys: "Letgaliai bekariaudami buvo naują bokštą pilėj padirbę, kurį ant jos nelaimos vieną naktį viesulas pakilęs išvertė ir daug žmonių išmušė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184631
-

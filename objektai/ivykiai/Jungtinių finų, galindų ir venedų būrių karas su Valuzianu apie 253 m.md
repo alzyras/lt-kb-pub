@@ -45,6 +45,44 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-191047"></a>
+- t-001
+  teiginys: "Narbutas apie 253 m. datuoja jungtinių finų, galindų ir venedų būrių karą su imperatoriumi Valuzianu, kai šis kariavo su sarmatais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "dalyvavo_musyje -> Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Galindai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Galindai tiesiogiai įvardyti kaip jungtinių būrių, kariavusių šiame įvykyje, dalis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Galindai dalyvavo mūšyje Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m (0.90); Venedai dalyvavo mūšyje Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m (0.90); Galindai buvo sąjungininkas su Venedai (0.76)"
+  temporaliniai_duomenys: "mūšio data: 253 m; mūšio data: apie 253 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Galindai buvo sąjungininkas su Venedai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Galindai dalyvavo mūšyje Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Venedai dalyvavo mūšyje Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus sakinys apie karo datavimą, dalyvius ir Valuziano kontekstą. Narbuto atribucija palikta, nes tai jo argumentuojamas kronikinis datavimas."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173929
+
+<a id="claim-t-197543"></a>
+- t-002
+  teiginys: "Esama neabejotinų įrodymų, nes, valdant imperatoriui Galui, apie 253 metus jungtiniai finų, galindų ir venedų būriai kariavo su imperatorium Valuzianu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo vino kaip vandalų, finų, galindų ir venedų nugalėto ją."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-173929
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas apie 253 m. datuoja jungtinių finų, galindų ir venedų būrių karą su imperatoriumi Valuzianu, kai šis kariavo su sarmatais.'
@@ -105,41 +143,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Galindai]], [[objektai/grupes/Venedai]]
-
-## Teiginiai
-
-<a id="claim-t-212712"></a>
-- t-001
-  teiginys: "Esama neabejotinų įrodymų, nes, valdant imperatoriui Galui, apie 253 metus jungtiniai finų, galindų ir venedų būriai kariavo su imperatorium Valuzianu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo vino kaip vandalų, finų, galindų ir venedų nugalėto ją."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-215348"></a>
-- t-002
-  teiginys: "Narbutas apie 253 m. datuoja jungtinių finų, galindų ir venedų būrių karą su imperatoriumi Valuzianu, kai šis kariavo su sarmatais."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "dalyvavo_musyje -> Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Galindai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Galindai tiesiogiai įvardyti kaip jungtinių būrių, kariavusių šiame įvykyje, dalis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Galindai dalyvavo mūšyje Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m (0.90); Venedai dalyvavo mūšyje Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m (0.90); Galindai buvo sąjungininkas su Venedai (0.76)"
-  temporaliniai_duomenys: "mūšio data: 253 m; mūšio data: apie 253 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Galindai buvo sąjungininkas su Venedai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Galindai dalyvavo mūšyje Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Venedai dalyvavo mūšyje Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus sakinys apie karo datavimą, dalyvius ir Valuziano kontekstą. Narbuto atribucija palikta, nes tai jo argumentuojamas kronikinis datavimas."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-

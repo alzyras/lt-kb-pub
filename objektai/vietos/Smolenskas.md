@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Smolenskas'
+pavadinimas: Smolenskas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -8,19 +8,19 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1239 m.'
-  - '1276 m.'
-  - '1297 m.'
-  - '1345 m.'
-  - '1396 m.'
-  - '1401 m.'
-  - '1404 m.'
-  - '1411 m.'
-  - '1470 m.'
-  - '1654 m.'
+  - 1239 m.
+  - 1276 m.
+  - 1297 m.
+  - 1345 m.
+  - 1396 m.
+  - 1401 m.
+  - 1404 m.
+  - 1411 m.
+  - 1470 m.
+  - 1654 m.
 date_start: '1239'
 date_end: '1654'
 sukurta: ''
@@ -31,29 +31,41 @@ tags:
   - miestas
   - vieta
 amziai:
-  - 'XIII'
-  - 'XVII'
+  - XIII
+  - XVII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-2c9856af46e949ccc96031a5"
-canonical_name: "Smolenskas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Smolenskas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-2c9856af46e949ccc96031a5
+canonical_name: Smolenskas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Smolenskas
 sameAs: []
-canonical_biography: "Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos."
+canonical_biography: 'Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Smolenskas","url":"https://lt.wikipedia.org/wiki/Smolenskas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Smolenskas","url":"https://www.vle.lt/straipsnis/smolenskas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-18T23:45:41+00:00","source_checked_at":"2026-09-18T23:45:41+00:00","counts":{"relations":27,"gallery":0,"sources":12},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Tuo pat metu betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų. Kar- tu su Glinskiu jis apgulė daugelį Lietuvos miestų ir artinosi prie svarbiausiojo strateginio punkto, saugančio Dniepro aukštupį, — prie Smolensko.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","claim_id":"t-180565","evidence_id":"c-164162","origin":"internal"},"wiki":{"status":"published","source":{"title":"Smolenskas","url":"https://lt.wikipedia.org/wiki/Smolenskas","publisher":"Vikipedija","language":"lt","article_id":"32344","revision_id":"7869222","published_at":"2026-06-28T05:23:49Z","version_pk":"","content_hash":"bfd31eebba79166accbbbbfec72d4162203085c6b9f66e35c0c40e72cc100f83","retrieved_at":"2026-09-18T23:40:42+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Smolenskas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"32344"}},"intro":"Smolenskas – miestas Rusijoje, prie Dniepro upės, srities centras, geležinkelio mazgas. Įsikūręs 400 km į pietvakarius nuo Maskvos ir 500 km į šiaurės rytus nuo Vilniaus. Išvystyta mašinų gamyba, lengvoji ir maisto pramonė. 7 vidurinės mokyklos, 2 teatrai. Smolensko linų muziejus, Didžiojo tėvynės karo muziejus, dailės galerija, skulptūrų muziejus. Yra istorijos, architektūros ir dailės muziejus – draustinis. Daugiau kaip pusantro šimto metų, – nuo 1395 m. iki 1514 m. ir nuo 1611 m. iki 1667 m. buvo Lietuvos Didžiosios Kunigaikštystės miestas, Romos apeigų katalikų ir graikų apeigų katalikų (unitų) Smolensko vyskupysčių centras, čia veikė jėzuitų akademija. ATR valdovas Zigmantas Vaza miestui buvo suteikęs Magdeburgo teisę. Smolensko dailės galerijoje saugomi LDK didikų giminių Pacų, Sapiegų ir su jais susijusių giminių portretai. Vilniuje Naujamiesčio seniūnijoje yra Smolensko miesto vardo gatvė. Rusijos, Gudijos ir Ukrainos miestuose taip pat yra Smolensko miesto vardo gatvės.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Smolenskas","url":"https://lt.wikipedia.org/wiki/Smolenskas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Smolenskas","url":"https://www.vle.lt/straipsnis/smolenskas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Smolenskas","https://www.vle.lt/straipsnis/smolenskas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7935cc013e3d9586cc975625","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Smolenskas yra prie Dniepro aukštupio, Padneprėje.","context":"A. Šapoka (red.), „Lietuvos istorija“ (1936 m.) Smolenską aprašo kaip prie Dniepro aukštupio esantį punktą; Teodoras Narbutas „Lietuvių tautos istorijoje“ (2001 m.) jį priskiria Padneprei.","support_ids":["t-180538","c-164162","t-206579","c-189194"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180538","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-206579","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-164162","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tuo pat metu betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų. Kar- tu su Glinskiu jis apgulė daugelį Lietuvos miestų ir artinosi prie svarbiausiojo strateginio punkto, saugančio Dniepro aukštupį, — prie Smolensko."},{"kind":"evidence","evidence_id":"c-189194","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Šiaip ar taip, nelengva buvo num al­ šinti šį maištą, pirma, kad Smolenskas buvo viena galingiausių 455 Padneprės tvirtovių, antra, kad tenykščiai bajorai ir gyvento­ jai iš visos širdies pritarė pasipriešinimui; pagaliau tie kuni­ gaikščiai palaikė ryšius su Rusios kunigaikščiais, netgi pats didysis kunigaikštis Bazilijus laukė progos, kuri, galutinai pri­ baigus reikalus su Lietuvos didžiuoju kunigaikščiu, pastūm ė­ tų juos vasalinėn jo p aties priklausom ybėn"}],"status":"published","conflict_status":"clear"},{"trait_id":"b1c9a855305a6928320fd0d5","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Smolenskas apibūdinamas kaip svarbus strateginis punktas, Dniepro tvirtovė, viena galingiausių Padneprės tvirtovių; šaltinyje minimi galingi Smolensko bokštai ir pylimai.","context":"Tai nurodoma A. Šapokos (red.) „Lietuvos istorijoje“ (1936 m.), Zenono Ivinskio „Lietuvos istorijoje iki Vytauto Didžiojo mirties“ (1978 m.) ir Teodoro Narbuto „Lietuvių tautos istorijoje“ (2001 m.).","support_ids":["t-180538","c-164162","t-180555","c-32434","t-206577","c-189192","t-206579","c-189194","t-185148","c-168509"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180538","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-180555","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"internal_claim","claim_id":"t-206577","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"internal_claim","claim_id":"t-206579","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"internal_claim","claim_id":"t-185148","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-164162","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tuo pat metu betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų. Kar- tu su Glinskiu jis apgulė daugelį Lietuvos miestų ir artinosi prie svarbiausiojo strateginio punkto, saugančio Dniepro aukštupį, — prie Smolensko."},{"kind":"evidence","evidence_id":"c-32434","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską. Lietuvos ekspansijoje į rytus ši Dniepro aukštupio kunigaikštija žymią rolę vaidino nuo Mindaugo laikų, nes yra duomenų, kad jau XIII amž. pusėje lietuvių kunigaikštis Edvydas buvo įsitvirtinęs Smolenske^7. Ši Dniepro tvirtovė buvo svarbus raktas į didžiausius plotus. Smolenskas ilgai saugojo Lietuvos valstybės šiaurės-rytų valdas, ir lietuviai nuo 1514 per visą šimt­ metį nedarė su Maskva pastovios taikos, iš visų jėgų stengdamiesi jį atgal atsiimti."},{"kind":"evidence","evidence_id":"c-189192","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Pastarasis nuvyko derėtis su Tovlubijum, ir jam taip ėjo­ si, kad toji kariauna, tik tepažvelgusi į galingus Smolensko bokštus, pasuko atgal"},{"kind":"evidence","evidence_id":"c-189194","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Šiaip ar taip, nelengva buvo num al­ šinti šį maištą, pirma, kad Smolenskas buvo viena galingiausių 455 Padneprės tvirtovių, antra, kad tenykščiai bajorai ir gyvento­ jai iš visos širdies pritarė pasipriešinimui; pagaliau tie kuni­ gaikščiai palaikė ryšius su Rusios kunigaikščiais, netgi pats didysis kunigaikštis Bazilijus laukė progos, kuri, galutinai pri­ baigus reikalus su Lietuvos didžiuoju kunigaikščiu, pastūm ė­ tų juos vasalinėn jo p aties priklausom ybėn"},{"kind":"evidence","evidence_id":"c-168509","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Mat Jurijaus uošvis, Riazanės kunigaikštis Olegas, regėdamas neto­ liese augančią Vytauto galią, iš baimės ir pavydo ska­ tino jaunuolio užmojus ir žadino visokius sumanymus. Vytautas, nutaręs užgesinti vis įsiliepsnojant) pavojų, įsakė kariuomenės būriams, traukiantiems į Lietuvą, nedelsiant pasukti atgal į Rusią, išvijęs iš Oršos kraš­ to priešus, užpuolė Smolenską, maišto pradininką. Kaip įprasta tiems, kurių visas karingumas tik ant liežuvio, 350 ## Puslapis 349 Jurijus, suvokęs, jog netrukus prasidės grumtynės, o jam neužtenka nei jėgų, nei narsos, nedrįso nei atvirai į kovos lauką traukti, nei už Smolensko pylimų gintis, todėl, nieko nelaukęs, pabėgo su žmona pas uošvį, su- kursčiusį…"}],"status":"published","conflict_status":"clear"},{"trait_id":"d6d0d9213bed07997311ff5a","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Smolenskas saugojo Dniepro aukštupį, buvo svarbus raktas į didelius plotus ir ilgai saugojo Lietuvos valstybės šiaurės rytų valdas.","context":"A. Šapoka (red.) (1936 m.) jį vadina strateginiu punktu, saugančiu Dniepro aukštupį; Zenonas Ivinskis (1978 m.) apibūdina Smolenską kaip Dniepro tvirtovę ir Lietuvos šiaurės rytų valdų saugotoją.","support_ids":["t-180538","c-164162","t-180555","c-32434"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180538","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-180555","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-164162","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tuo pat metu betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų. Kar- tu su Glinskiu jis apgulė daugelį Lietuvos miestų ir artinosi prie svarbiausiojo strateginio punkto, saugančio Dniepro aukštupį, — prie Smolensko."},{"kind":"evidence","evidence_id":"c-32434","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską. Lietuvos ekspansijoje į rytus ši Dniepro aukštupio kunigaikštija žymią rolę vaidino nuo Mindaugo laikų, nes yra duomenų, kad jau XIII amž. pusėje lietuvių kunigaikštis Edvydas buvo įsitvirtinęs Smolenske^7. Ši Dniepro tvirtovė buvo svarbus raktas į didžiausius plotus. Smolenskas ilgai saugojo Lietuvos valstybės šiaurės-rytų valdas, ir lietuviai nuo 1514 per visą šimt­ metį nedarė su Maskva pastovios taikos, iš visų jėgų stengdamiesi jį atgal atsiimti."}],"status":"published","conflict_status":"clear"},{"trait_id":"b34db068b4e5214b78146bb4","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Smolenske veikė jėzuitų kolegija; šaltiniuose taip pat minimi miesto bokštai, pylimai ir pilis.","context":"A. Šapokos (red.) „Lietuvos istorijoje“ (1936 m.) minima Smolensko jėzuitų kolegija; Teodoras Narbutas (2001 m.) mini galingus bokštus, o Albertas Vijūkas-Kojelavičius (1989 m.) – Smolensko pylimus ir pilį.","support_ids":["t-180539","c-46736","t-206577","c-189192","t-185148","c-168509","t-185152","c-168513","t-196744","c-178884"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180539","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-206577","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"internal_claim","claim_id":"t-185148","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"internal_claim","claim_id":"t-185152","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"internal_claim","claim_id":"t-196744","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-46736","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig- manto fundacija), Smolenske (klebono Lempickio ir kt. fun- dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau- garduke (sudėtinė fundacija), Bobruiske (Triznos fun- dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa- šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja), Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš- kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa- piegos f-ja)."},{"kind":"evidence","evidence_id":"c-189192","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Pastarasis nuvyko derėtis su Tovlubijum, ir jam taip ėjo­ si, kad toji kariauna, tik tepažvelgusi į galingus Smolensko bokštus, pasuko atgal"},{"kind":"evidence","evidence_id":"c-168509","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Mat Jurijaus uošvis, Riazanės kunigaikštis Olegas, regėdamas neto­ liese augančią Vytauto galią, iš baimės ir pavydo ska­ tino jaunuolio užmojus ir žadino visokius sumanymus. Vytautas, nutaręs užgesinti vis įsiliepsnojant) pavojų, įsakė kariuomenės būriams, traukiantiems į Lietuvą, nedelsiant pasukti atgal į Rusią, išvijęs iš Oršos kraš­ to priešus, užpuolė Smolenską, maišto pradininką. Kaip įprasta tiems, kurių visas karingumas tik ant liežuvio, 350 ## Puslapis 349 Jurijus, suvokęs, jog netrukus prasidės grumtynės, o jam neužtenka nei jėgų, nei narsos, nedrįso nei atvirai į kovos lauką traukti, nei už Smolensko pylimų gintis, todėl, nieko nelaukęs, pabėgo su žmona pas uošvį, su- kursčiusį…"},{"kind":"evidence","evidence_id":"c-168513","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Nenusise­ kęs žygis smarkiai suerzino Kazimierą, mat jaunikaitis dar nemokėjo ramiai žiūrėti Pats p a tra u k ia p rieš į nesėkmę ir, neraukdamas sm o le n sk ie č iu s ir at- kaktos, lyg niekur nieko taik- siim a p ilį stytis su permainingo liki­ mo išdaigomis. Nepakęsda­ mas atidėliojimo, pats patraukė į Smolenską, nors kar­ vedžiai iš paskutiniųjų įtikinėjo, jog metų laikas nieku būdu netinkąs karui. Visuomet kariuomenė sėkmingai kariauja, kai valdovas ne tik jai duoda nurodymų, o betarpiškai ją veda į kovą, nes jo dalyvavimas rodo, kad karas esąs labai svarbus, todėl neilgai trukus Kazi­ mieras nesunkiai užėmė pilį."},{"kind":"evidence","evidence_id":"c-178884","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Mat prieš jį ko­ vojo galybė žmonių, kurie, jo galva, ilgai nejus jokių nuostolių ir dėl to atkakliai veršis į priekį, nuolatos ma­ žindami apgulos žiedą. Išvykus Andriui, paprasti Smo­ lensko žmonės, užėmę pilį, nustūmė į Dneprą maršalą Petriką, o Andrejų Dimitrijevičių, Dorogobužo kunigai­ kštį, paskyrė Smolensko seniūnu, tačiau netrukus, ne­ pasitikėdami šio jėgomis ir bijodami bausmės už maišto sukėlimą, pradėjo dairytis kito viršininko, galinčio ap­ ginti nuo valdovo, susimaniusio keršyti. Mat jie gavo ži­ nią, kad bajorai, nenorėdami pripažinti Andrejaus val­ džios, išsiuntė žygūnus ir paprašė Kazimierą kariuomenės."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Smolenskas – istorinis miestas ir viena galingiausių Padneprės tvirtovių, saugojusi svarbų Dniepro aukštupio strateginį punktą. 1404 m. birželio 27 d. Vytautas jį užvaldė ir vėl paskyrė savo vietininką, o 1411 m. pavasarį, Vytautui su Jogaila keliaujant per Smolenską į Kijevą, vietos kunigaikščiai reiškė Vytautui paklusnumą. Miesto reikšmę ypač išryškino karai su Maskva: 1507–1508 m. Vosylius III su Glinskiu artinosi prie Smolensko, o vėliau Maskvos kariuomenė jį buvo apgulusi net tris kartus. Zigmanto Vazos laikais Smolenskas buvo atgautas, tačiau Jono Kazimiero laikais Andrusavos sutartimi vėl atiduotas Maskvai. 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas šį miestą, kurio pasipriešinimą stiprino gyventojų parama ir ryšiai su Rusios kunigaikščiais.","sentences":[{"sentence_id":"s1","text":"Smolenskas – istorinis miestas ir viena galingiausių Padneprės tvirtovių, saugojusi svarbų Dniepro aukštupio strateginį punktą.","support_ids":["t-180565","t-206579"]},{"sentence_id":"s2","text":"1404 m. birželio 27 d. Vytautas jį užvaldė ir vėl paskyrė savo vietininką, o 1411 m. pavasarį, Vytautui su Jogaila keliaujant per Smolenską į Kijevą, vietos kunigaikščiai reiškė Vytautui paklusnumą.","support_ids":["t-180578","t-180563","t-180569"]},{"sentence_id":"s3","text":"Miesto reikšmę ypač išryškino karai su Maskva: 1507–1508 m. Vosylius III su Glinskiu artinosi prie Smolensko, o vėliau Maskvos kariuomenė jį buvo apgulusi net tris kartus.","support_ids":["t-180565","t-193232"]},{"sentence_id":"s4","text":"Zigmanto Vazos laikais Smolenskas buvo atgautas, tačiau Jono Kazimiero laikais Andrusavos sutartimi vėl atiduotas Maskvai.","support_ids":["t-180566"]},{"sentence_id":"s5","text":"1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas šį miestą, kurio pasipriešinimą stiprino gyventojų parama ir ryšiai su Rusios kunigaikščiais.","support_ids":["t-180567","t-206579"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia Smolensko kaip galingos Padneprės tvirtovės ir svarbaus Dniepro aukštupio strateginio punkto reikšmę, tačiau nepatvirtina apibūdinimo „istorinis miestas“."},{"sentence_id":"s2","supported":true,"reason":"Visi teiginio faktai tiesiogiai paremti nurodytais šaltiniais: 1404 m. birželio 27 d. Vytautas užėmė Smolenską ir paskyrė vietininką, o 1411 m. su Jogaila keliavo pro Smolenską į Kijevą ir sulaukė kunigaikščių paklusnumo."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai patvirtina 1507–1508 m. Vosyliaus III ir Glinskio artėjimą prie Smolensko bei tris Maskvos kariuomenės apgultis."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina, kad Zigmanto Vazos laikais Smolenskas buvo atgautas, o Jono Kazimiero laikais Andrusavos sutartimi grąžintas Maskvai."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Chodkevičiaus kovą su Maskvos kariuomene ginant Smolenską ir nurodo gyventojų bei bajorų paramą pasipriešinimui bei ryšius su Rusios kunigaikščiais."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-180565","t-206579"]},{"sentence_id":"s2","supported":false,"support_ids":["t-180578","t-180563","t-180569"]},{"sentence_id":"s3","supported":false,"support_ids":["t-180565","t-193232"]},{"sentence_id":"s4","supported":false,"support_ids":["t-180566"]},{"sentence_id":"s5","supported":false,"support_ids":["t-180567","t-206579"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Sviatoslavas","claim_id":"t-182085","confidence":0.84},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Jonas Karolis Chodkevičius","claim_id":"t-177787","confidence":0.95},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Stanislovas Kiška","claim_id":"t-79162","confidence":0.94},{"predicate":"gyne","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-09881","confidence":0.93},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jaunutis","claim_id":"t-180540","confidence":0.72},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-180569","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Sofija Vytautaitė","claim_id":"t-79159","confidence":0.93},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vasilijus III","claim_id":"t-40501","confidence":0.64},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-180569","confidence":0.92},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-88516","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Mstislavlis","claim_id":"t-182083","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-02157","confidence":0.88},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Maskva","claim_id":"t-02157","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Rusija","claim_id":"t-10469","confidence":0.98},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Toropiec","claim_id":"t-99915","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Viazma","claim_id":"t-184322","confidence":0.78},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Muradas II","claim_id":"t-35152","confidence":0.88},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Kazimieras Jogailaitis","claim_id":"t-184751","confidence":0.94},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-10105","confidence":0.88},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-34497","confidence":0.84},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Rusiškoji bajorų partija","claim_id":"t-95932","confidence":0.76},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Jurijus Sviatoslavovičius","claim_id":"t-186120","confidence":0.89},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Sviatoslavas","claim_id":"t-179683","confidence":0.9},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Andrius Sakavičius","claim_id":"t-186034","confidence":0.78},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Stanislovas Strumila Petravičius","claim_id":"t-184649","confidence":0.78},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-178747","confidence":0.82},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-180575","confidence":0.93}],"timeline":[{"date":"1345 m.","label":"1345 m.","claimId":"t-180540"},{"date":"1401 m.","label":"1401 m.","claimId":"t-180573"},{"date":"1404 m.","label":"Vytautas 1404 m.","claimId":"t-180578"},{"date":"1411 m.","label":"1411 m.","claimId":"t-180563"},{"date":"1411 m.","label":"1411 m.","claimId":"t-180569"},{"date":"1440 m.","label":"1440 m.","claimId":"t-203959"},{"date":"1512 m.","label":"1512 m.","claimId":"t-180547"}],"support_disclosure":{"claims":52,"sources":10}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3e591076e5d6ead1
+object_page_generated_at: '2026-09-18T23:45:41+00:00'
+object_page_source_checked_at: '2026-09-18T23:45:41+00:00'
+object_page_content_state: content
+object_page_claim_count: '52'
+object_page_source_count: '10'
+object_page_seo_description: 'Smolenskas – istorinis miestas ir viena galingiausių Padneprės tvirtovių, saugojusi svarbų Dniepro aukštupio strateginį punktą. 1404 m. birželio 27 d.…'
+object_page_seo_input_hash: a5c2a070ce592f50d254747b4045e9a11e504a893b85c906cb8044b92df1230d
+object_page_seo_generated_at: '2026-09-18T23:45:41+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Smolenskas
 
@@ -63,87 +75,10 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 
 ## Teiginiai
 
-<a id="claim-t-180576"></a>
-- t-024
-  teiginys: "Pasak cituojamo metraščio, dalį Lietuvos miestų valdė Smolensko kunigaikščiai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Smolensko kunigaikščiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Smolenskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Smolensko kunigaikščiai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Smolenskas\" parinktas kaip owner_note_path. Targetas \"Smolensko kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-164156
-
-<a id="claim-t-210840"></a>
-- t-210840
-  teiginys: "Bychovco kronikos tekstas, kuris dar remiasi anks tesnių sąvadų medžiaga, baigiasi perrašytu iš Trumpojo sąvado, bet taip pat perredaguotu pasakojimu apie 1440 m. sukilimą Smolenske ir 1445 m. pradžios karą su Maskvos didžiąja kunigaikštyste."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193051
-
-<a id="claim-t-211004"></a>
-- t-211004
-  teiginys: "Švitrigaila M33.V.3 buvo Smolenske, VI13 — Polocke."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193822
-
-<a id="claim-t-211606"></a>
-- t-211606
-  teiginys: "Ir Smolensko vyskupas Semionas2, ir kunigaikš čiai, ir bajorai, ir miestiečiai, ir prastieji žmonės prisie kė Andriui laikysią jį pas save Smolensko vaivada, kaip pridera."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193665
-
-<a id="claim-t-211728"></a>
-- t-211728
-  teiginys: "Švitrigaila pabėgo į Smolenską, kur rusų kunigaikščiai ir bajorai jį išrinko didžiuoju rusų kunigaikščiu."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193662
-
-<a id="claim-t-211979"></a>
-- t-211979
-  teiginys: "Vytautas ir Jogaila vėliau atgavo Smolensko miestą bei visą žemę."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193088
-
 <a id="claim-t-180537"></a>
-- t-180537
+- t-001
   teiginys: "Vytautas užėmė Smolenską ir pasodino ten savo vietininką kunigaikštį Jomantą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -157,9 +92,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164148
 
 <a id="claim-t-180538"></a>
-- t-180538
+- t-002
   teiginys: "Vosylius III su Glinskiu artinosi prie Smolensko, laikyto svarbiausiu Dniepro aukštupį saugančiu strateginiu punktu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dniepras: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -173,9 +108,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164162
 
 <a id="claim-t-180539"></a>
-- t-180539
+- t-003
   teiginys: "Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bobruiskas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -189,9 +124,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-46736
 
 <a id="claim-t-180540"></a>
-- t-180540
+- t-004
   teiginys: "1345 m. Jaunutis, pabėgęs nuo Kęstučio puolimo Vilniuje, prieglobsčio ieškojo Smolenske."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vilniaus pilis: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -210,9 +145,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164145
 
 <a id="claim-t-180541"></a>
-- t-180541
+- t-005
   teiginys: "Caras pyko, kad Steponas Batoras nepripažino jam Smolensko kunigaikščio titulo ir pats vartojo šį titulą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -226,9 +161,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164151
 
 <a id="claim-t-180543"></a>
-- t-180543
+- t-006
   teiginys: "Vytautas buvo įsirengęs stovyklą prie Smolensko ir vėliau užėmė šį miestą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -243,9 +178,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164155
 
 <a id="claim-t-180546"></a>
-- t-180546
+- t-007
   teiginys: "Jaunutis po pabėgimo ieškojo prieglobsčio Smolenske."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vilniaus pilis: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -262,9 +197,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164145
 
 <a id="claim-t-180547"></a>
-- t-180547
+- t-008
   teiginys: "1512 m. prasidėjus karui, visos Maskvos jėgos buvo nukreiptos į Smolenską."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -280,9 +215,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-46732
 
 <a id="claim-t-180552"></a>
-- t-180552
+- t-009
   teiginys: "Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pietų Rusija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -296,9 +231,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164144
 
 <a id="claim-t-180553"></a>
-- t-180553
+- t-010
   teiginys: "1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyne -> Smolenskas: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -316,9 +251,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164149
 
 <a id="claim-t-180554"></a>
-- t-180554
+- t-011
   teiginys: "Vytautas dvi savaites Smolenske vaišino savo dukterį Zofiją su vaikais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -333,9 +268,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-37723
 
 <a id="claim-t-180555"></a>
-- t-180555
+- t-012
   teiginys: "Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dniepras: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -349,9 +284,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-32434
 
 <a id="claim-t-180558"></a>
-- t-180558
+- t-013
   teiginys: "Po Liublino unijos Lietuva kartu su Lenkija vėliau atsiėmė Smolenską."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Augustas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -368,9 +303,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164147
 
 <a id="claim-t-180559"></a>
-- t-180559
+- t-014
   teiginys: "Vytautui priklausė Smolenskas ir visa pietų Rusia, tačiau jis siekė sumušti totorius ir plėsti įtaką rytuose."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pietų Rusija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -384,9 +319,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164144
 
 <a id="claim-t-180560"></a>
-- t-180560
+- t-015
   teiginys: "Smolenskas buvo vienas iš miestų, iš kurių susidarė atskiros kunigaikštijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -401,9 +336,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164165
 
 <a id="claim-t-180562"></a>
-- t-180562
+- t-016
   teiginys: "Smolenskui buvo suteikta privilegija, garantavusi miestui dalį savarankiškumo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Smolenskas: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -417,9 +352,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164168
 
 <a id="claim-t-180563"></a>
-- t-180563
+- t-017
   teiginys: "1411 m. pavasarį Vytautui vykstant pro Smolenską iki Kijevo, tų kraštų kunigaikščiai reiškė jam paklusnumą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -436,9 +371,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164143
 
 <a id="claim-t-180565"></a>
-- t-180565
+- t-018
   teiginys: "1507-1508 m. kare Vosylius III su Glinskiu artinosi prie Smolensko, laikyto svarbiu strateginiu punktu prie Dniepro aukštupio."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dniepras: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -456,9 +391,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164162
 
 <a id="claim-t-180566"></a>
-- t-180566
+- t-019
   teiginys: "Zigmanto Vazos laikais, Maskvoje vykstant didžiajai suirutei, Smolenskas buvo atgautas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Augustas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -474,9 +409,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-46735
 
 <a id="claim-t-180569"></a>
-- t-180569
+- t-020
   teiginys: "1411 m. pavasarį Vytautas su Jogaila keliavo pro Smolenską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Smolenskas: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -494,9 +429,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164143
 
 <a id="claim-t-180572"></a>
-- t-180572
+- t-021
   teiginys: "Caras pyko, kad karalius nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų, o pats juos vartojo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -510,9 +445,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164151
 
 <a id="claim-t-180573"></a>
-- t-180573
+- t-022
   teiginys: "1401 m. Smolenske vėl įsigalėjo išvarytasis Jurgis Sviatoslavaitis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jurgis Sviatoslavaitis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -529,9 +464,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-32436
 
 <a id="claim-t-180575"></a>
-- t-180575
+- t-023
   teiginys: "Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Polockas: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -545,10 +480,27 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - c-164160
 
+<a id="claim-t-180576"></a>
+- t-024
+  teiginys: "Pasak cituojamo metraščio, dalį Lietuvos miestų valdė Smolensko kunigaikščiai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Smolensko kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Smolenskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Smolensko kunigaikščiai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Smolenskas\" parinktas kaip owner_note_path. Targetas \"Smolensko kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-164156
+
 <a id="claim-t-180577"></a>
-- t-180577
+- t-025
   teiginys: "Kai kurie Lietuvos miestai tuo metu buvo valdomi Smolensko kunigaikščių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -562,9 +514,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164156
 
 <a id="claim-t-180578"></a>
-- t-180578
+- t-026
   teiginys: "Vytautas 1404 m. birželio 27 d. užvaldė Smolenską ir jame vėl paskyrė savo vietininką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Smolenskas: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -582,9 +534,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-32437
 
 <a id="claim-t-180579"></a>
-- t-180579
+- t-027
   teiginys: "Kojelavičius ir Stryjkovskis klydo teigdami, kad Švitrigaila pabėgo į Smolenską, o ne į Polocką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Polockas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -598,9 +550,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164159
 
 <a id="claim-t-183090"></a>
-- t-183090
+- t-028
   teiginys: "Po nesėkmingo sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Smolensko bei kelias kitas sritis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -618,9 +570,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164160
 
 <a id="claim-t-185148"></a>
-- t-185148
+- t-029
   teiginys: "Kojelavičiaus pasakojime Vytautas išvijo priešininkus iš Oršos krašto ir užpuolė Smolenską, pavadintą maišto pradininku."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -638,9 +590,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-168509
 
 <a id="claim-t-185150"></a>
-- t-185150
+- t-030
   teiginys: "Ivanas Boreikaitis Chodkevičius į sutartą vietą atvyko su Seversko ir Smolensko kariais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -657,9 +609,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-168511
 
 <a id="claim-t-185152"></a>
-- t-185152
+- t-031
   teiginys: "Kazimieras pats patraukė į Smolenską, nors karvedžiai teigė, kad metų laikas netinka karui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -676,9 +628,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-168513
 
 <a id="claim-t-185154"></a>
-- t-185154
+- t-032
   teiginys: "Karvedžių pasitarime nuspręsta, kad karalius su smulkesniais būriais apsistos Smolensko apylinkėse."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -694,10 +646,30 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - c-168515
 
+<a id="claim-t-187653"></a>
+- t-033
+  teiginys: "Jonas Goštautas buvo Smolensko vietininkas ir tuo metu buvo Smolenske, tolimame Didžiosios Kunigaikštystės mieste."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> didysis kunigaikštis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Smolenskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "didysis kunigaikštis: mention_match, thing, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Smolenskas\" parinktas kaip owner_note_path. Targetas \"didysis kunigaikštis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170597
+
 <a id="claim-t-193231"></a>
-- t-193231
+- t-034
   teiginys: "Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -708,9 +680,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164160
 
 <a id="claim-t-193232"></a>
-- t-193232
+- t-035
   teiginys: "Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -719,10 +691,22 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - c-175969
 
+<a id="claim-t-194755"></a>
+- t-036
+  teiginys: "Antroji žmona buvo Smolensko kunigaikštytė Olga."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-177151
+
 <a id="claim-t-196742"></a>
-- t-196742
+- t-037
   teiginys: "Kojelavičiaus pasakojime Smolensko valdovas Jurijus prie Vitebsko grįžęs įsiveržė į Oršos dvarą, išvijo valdytojus ir laukus padalijo saviškiams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -733,9 +717,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-168509
 
 <a id="claim-t-196744"></a>
-- t-196744
+- t-038
   teiginys: "Išvykus Andriui, Smolensko žmonės užėmė pilį, maršalą Petriką nustūmė į Dneprą ir seniūnu paskyrė Andrejų Dimitrijevičių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -746,9 +730,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-178884
 
 <a id="claim-t-203959"></a>
-- t-203959
+- t-039
   teiginys: "1440 m. maišto Smolenske metu prastuomenė nuskandino Smolensko maršalką Petriką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -761,9 +745,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-186563
 
 <a id="claim-t-206577"></a>
-- t-206577
+- t-040
   teiginys: "Po derybų su Tovlubijumi jo kariauna, pamačiusi galingus Smolensko bokštus, pasuko atgal."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -774,9 +758,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-189192
 
 <a id="claim-t-206578"></a>
-- t-206578
+- t-041
   teiginys: "Narbutas rašo, kad Smolenskas dėl kunigaikščio Jono Sviatoslavovičiaus pasipriešinimo nebuvo išplėštas iš Lietuvos valdžios."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -786,9 +770,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-189193
 
 <a id="claim-t-206579"></a>
-- t-206579
+- t-042
   teiginys: "Narbutas aiškina, kad Smolensko maištą buvo sunku numalšinti dėl miesto kaip vienos galingiausių Padneprės tvirtovių padėties, gyventojų paramos ir ryšių su Rusios kunigaikščiais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -797,42 +781,6 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
   pagrindžia:
     - c-189194
-
-<a id="claim-t-208058"></a>
-- t-208058
-  teiginys: "Smolensko seimelis buvo Augusto III laikų geriausias pavyzdys."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  pagrindžia:
-    - c-190676
-
-<a id="claim-t-208059"></a>
-- t-208059
-  teiginys: "Smolenskas davė geriausią rezultatą visoje Lietuvos Didžiojoje Kunigaikštystėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  pagrindžia:
-    - c-190677
-
-<a id="claim-t-208089"></a>
-- t-208089
-  teiginys: "Iš 28 Smolensko deputatų seimelių sėkmingai baigėsi 19, o iš 14 pasiuntinių seimelių - 12."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  pagrindžia:
-    - c-190677
 
 ## Reikšmingi paminėjimai
 - c-023
@@ -944,8 +892,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180555
+  pagrindzia:
+    - t-012
 
 - id: c-32436
   autorius: "Zenonas Ivinskis"
@@ -962,8 +910,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180573
+  pagrindzia:
+    - t-022
 
 - id: c-32437
   autorius: "Zenonas Ivinskis"
@@ -978,8 +926,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180578
+  pagrindzia:
+    - t-026
 
 - id: c-37723
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1002,8 +950,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180554
+  pagrindzia:
+    - t-011
 
 - id: c-46732
   redaktorius: "A. Šapoka"
@@ -1019,8 +967,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180547
+  pagrindzia:
+    - t-008
 
 - id: c-46735
   redaktorius: "A. Šapoka"
@@ -1038,8 +986,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180566
+  pagrindzia:
+    - t-019
 
 - id: c-46736
   redaktorius: "A. Šapoka"
@@ -1065,8 +1013,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180539
+  pagrindzia:
+    - t-003
 
 - id: c-164143
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1090,9 +1038,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180563
-    - t-180569
+  pagrindzia:
+    - t-017
+    - t-020
 
 - id: c-164144
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1116,9 +1064,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180552
-    - t-180559
+  pagrindzia:
+    - t-009
+    - t-014
 
 - id: c-164145
   autorius: "Michał Baliński"
@@ -1142,9 +1090,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180540
-    - t-180546
+  pagrindzia:
+    - t-004
+    - t-007
 
 - id: c-164147
   sudarytojas: "Karolis Zikaras"
@@ -1166,8 +1114,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180558
+  pagrindzia:
+    - t-013
 
 - id: c-164148
   sudarytojas: "Karolis Zikaras"
@@ -1191,8 +1139,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180537
+  pagrindzia:
+    - t-001
 
 - id: c-164149
   sudarytojas: "Karolis Zikaras"
@@ -1211,8 +1159,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180553
+  pagrindzia:
+    - t-010
 
 - id: c-164151
   redaktorius: "A. Šapoka"
@@ -1233,9 +1181,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180541
-    - t-180572
+  pagrindzia:
+    - t-005
+    - t-021
 
 - id: c-164153
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1257,8 +1205,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180554
+  pagrindzia:
+    - t-011
 
 - id: c-164155
   autorius: "Michał Baliński"
@@ -1283,8 +1231,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180543
+  pagrindzia:
+    - t-006
 
 - id: c-164156
   autorius: "Michał Baliński"
@@ -1316,14 +1264,13 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     čiaus.
   citata_rodoma: "Lietuva tuo laiku duoklę\nmokėjo Polocko kunigaikščiams, o\nvaldoma savo etmonų, o Lietuvos\nmiestai jau buvo valdomi Kijevo ku­\nnigaikščių: vieni - Černigovo, kiti -\nSmolensko, kiti - Polocko. Ir Vilnia\n[Vilnius] buvo priverstas duoti\nduoklę Ugrų karaliui (tikriausiai Ha­\nličo) už saugojimą nuo didžiojo ku­\nnigaikščio Mstislavo Rogvoldovi-\nčiaus."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-024
-    - t-180577
+    - t-025
 
 - id: c-164159
   autorius: "Michał Baliński"
@@ -1360,8 +1307,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180579
+  pagrindzia:
+    - t-027
 
 - id: c-164160
   redaktorius: "A. Šapoka"
@@ -1385,10 +1332,10 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180575
-    - t-183090
-    - t-193231
+  pagrindzia:
+    - t-023
+    - t-028
+    - t-034
 
 - id: c-164162
   redaktorius: "A. Šapoka"
@@ -1408,9 +1355,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180538
-    - t-180565
+  pagrindzia:
+    - t-002
+    - t-018
 
 - id: c-164165
   redaktorius: "A. Šapoka"
@@ -1429,8 +1376,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180560
+  pagrindzia:
+    - t-015
 
 - id: c-164168
   redaktorius: "A. Šapoka"
@@ -1449,8 +1396,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180562
+  pagrindzia:
+    - t-016
 
 - id: c-168509
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1482,9 +1429,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185148
-    - t-196742
+  pagrindzia:
+    - t-029
+    - t-037
 
 - id: c-168511
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1518,8 +1465,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185150
+  pagrindzia:
+    - t-030
 
 - id: c-168513
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1549,8 +1496,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185152
+  pagrindzia:
+    - t-031
 
 - id: c-168515
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1577,8 +1524,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185154
+  pagrindzia:
+    - t-032
 
 - id: c-170597
   autorius: "Anoniminis metraštininkas"
@@ -1611,6 +1558,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-033
 
 - id: c-175969
   redaktorius: "A. Šapoka"
@@ -1627,8 +1576,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193232
+  pagrindzia:
+    - t-035
 
 - id: c-177151
   autorius: "Teodoras Narbutas"
@@ -1649,6 +1598,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-036
 
 - id: c-178884
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1673,8 +1624,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196744
+  pagrindzia:
+    - t-038
 
 - id: c-186563
   autorius: "Andrej Ryčkov"
@@ -1689,8 +1640,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203959
+  pagrindzia:
+    - t-039
 
 - id: c-189192
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -1705,8 +1656,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206577
+  pagrindzia:
+    - t-040
 
 - id: c-189193
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -1721,8 +1672,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206578
+  pagrindzia:
+    - t-041
 
 - id: c-189194
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -1744,146 +1695,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206579
-
-- id: c-190676
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 52"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 52."
-  citata_originali: |
-    Didikų įtaka seimeliuose neretai turėjo teigiamų pasekmių. Augusto III
-    valdymo laikų geriausias pavyzdys - Smolensko seimelis. Iš 28 deputatų seimelių
-    sėkmingai baigėsi 19, o Smolensko deputatas naujos kadencijos Lietuvos
-    Didžiosios Kunigaikštystės Vyriausiajame Tribunole penkis kartus buvo išrinktas
-    rusų kadencijos raštininku.
-  citata_rodoma: "Augusto III \nvaldymo laikų geriausias pavyzdys - Smolensko seimelis. Iš 28 deputatų seimelių \nsėkmingai baigėsi 19, o Smolensko deputatas naujos kadencijos Lietuvos \nDidžiosios Kunigaikštystės Vyriausiajame Tribunole penkis kartus buvo išrinktas \nrusų kadencijos raštininku."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208058
-
-- id: c-190677
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 52"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 52."
-  citata_originali: |
-    Iš 28 deputatų seimelių
-    sėkmingai baigėsi 19, o Smolensko deputatas naujos kadencijos Lietuvos
-    Didžiosios Kunigaikštystės Vyriausiajame Tribunole penkis kartus buvo išrinktas
-    rusų kadencijos raštininku. Tai buvo geriausias rezultatas visoje Lietuvos
-    Didžiojoje Kunigaikštystėje. Iš 14 Smolensko pasiuntinių seimelių sėkmingai
-    baigėsi 12. lš viso sėkmingai baigėsi 31 Smolensko pasiuntinių ir deputatų seimelis.
-  citata_rodoma: "Tai buvo geriausias rezultatas visoje Lietuvos \nDidžiojoje Kunigaikštystėje. Iš 14 Smolensko pasiuntinių seimelių sėkmingai \nbaigėsi 12."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208059
-    - t-208089
-
-- id: c-193051
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 16"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 16."
-  citata_originali: |
-    Bychovco kronikos tekstas, kuris dar remiasi anks­
-    tesnių sąvadų medžiaga, baigiasi perrašytu iš Trumpojo
-    sąvado, bet taip pat perredaguotu pasakojimu apie
-    1440 m. sukilimą Smolenske ir 1445 m. pradžios karą
-    su Maskvos didžiąja kunigaikštyste.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210840
-
-- id: c-193088
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 99"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 99."
-  citata_originali: |
-    Didysis kunigaikštis Vytautas, tai išgirdęs, susijun­
-    gė su savo broliu, Lenkijos karaliumi Vladislovu Jogai­
-    la 40, ir tą patį rudenį su visomis savo kariuomenėmis
-    atvyko į Smolenską11, išvijo kunigaikščius Jurijų Sve-
-    toslavovičių ir Riazanės kunigaikštį Olegą iš Smolensko
-    ir atgavo Smolensko miestą 12 bei visą žemę
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211979
-
-- id: c-193662
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 115"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 115."
-  citata_originali: |
-    Didysis kunigaikštis Švitrigaila 1 pabėgo į Polocką
-    ir Smolenską !, ir rusų kunigaikščiai bei bajorai išrinko
-    kunigaikštį Švitrigailą didžiuoju rusų kunigaikščiu3.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211728
-
-- id: c-193665
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 127"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 127."
-  citata_originali: |
-    Ir Smolensko vyskupas Semionas2, ir kunigaikš­
-    čiai, ir bajorai, ir miestiečiai, ir prastieji žmonės prisie­
-    kė Andriui laikysią jį pas save Smolensko vaivada,
-    kaip pridera.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211606
-
-- id: c-193822
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 270."
-  citata_originali: |
-    Švitrigaila M33.V.3 buvo Smolenske, VI13 — Polocke.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211004
+  pagrindzia:
+    - t-042
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Sviatoslavas]], [[objektai/asmenys/Švitrigaila]]

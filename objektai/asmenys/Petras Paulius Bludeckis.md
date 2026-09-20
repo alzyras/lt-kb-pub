@@ -40,6 +40,20 @@ canonical_biography: "1578 m. į Jėzuitų ordiną įstojo kaunietis Petras Paul
 
 1578 m. į Jėzuitų ordiną įstojo kaunietis Petras Paulius Bludeckis, 1582 m. Laurynas Manikaitis ir Jonas Valentinavičius, 1584 m. Jurgis Rava.
 
+## Teiginiai
+
+<a id="claim-t-202196"></a>
+- t-001
+  teiginys: "1578 m. į Jėzuitų ordiną įstojo kaunietis Petras Paulius Bludeckis, 1582 m. Laurynas Manikaitis ir Jonas Valentinavičius, 1584 m. Jurgis Rava."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185543
+
 ## Citatos
 
 - id: c-185543
@@ -54,20 +68,5 @@ canonical_biography: "1578 m. į Jėzuitų ordiną įstojo kaunietis Petras Paul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202196"></a>
-- t-001
-  teiginys: "1578 m. į Jėzuitų ordiną įstojo kaunietis Petras Paulius Bludeckis, 1582 m. Laurynas Manikaitis ir Jonas Valentinavičius, 1584 m. Jurgis Rava."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185543
-

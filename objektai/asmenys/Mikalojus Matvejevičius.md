@@ -43,6 +43,24 @@ canonical_biography: "1584 m. Upytės pavieto vaznys Mikalojus Matvejevičius pr
 
 1584 m. Upytės pavieto vaznys Mikalojus Matvejevičius pranešė, kad Mykolas Andrejevičius su geraisiais žmonėmis negalėjo atsiimti pavaldinio iš Ščastnos Borovskos valdų: savininkai buvo išvykę, o jų duktė atsisakė veikti be tėvų sutikimo.
 
+## Teiginiai
+
+<a id="claim-t-203783"></a>
+- t-001
+  teiginys: "1584 m. Upytės pavieto vaznys Mikalojus Matvejevičius pranešė, kad Mykolas Andrejevičius su geraisiais žmonėmis negalėjo atsiimti pavaldinio iš Ščastnos Borovskos valdų: savininkai buvo išvykę, o jų duktė atsisakė veikti be tėvų sutikimo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1584 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinti OCR ir sakinio pabaigos trūkumai, išskleisti subjektai bei priežastys, neįtraukiant šaltinyje nepaminėtų faktų."
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186387
+
 ## Citatos
 
 - id: c-186387
@@ -63,24 +81,5 @@ canonical_biography: "1584 m. Upytės pavieto vaznys Mikalojus Matvejevičius pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203783"></a>
-- t-001
-  teiginys: "1584 m. Upytės pavieto vaznys Mikalojus Matvejevičius pranešė, kad Mykolas Andrejevičius su geraisiais žmonėmis negalėjo atsiimti pavaldinio iš Ščastnos Borovskos valdų: savininkai buvo išvykę, o jų duktė atsisakė veikti be tėvų sutikimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  temporaliniai_duomenys: "įvykio data: 1584 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinti OCR ir sakinio pabaigos trūkumai, išskleisti subjektai bei priežastys, neįtraukiant šaltinyje nepaminėtų faktų."
-  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
-  pagrindžia:
-    - c-186387
-

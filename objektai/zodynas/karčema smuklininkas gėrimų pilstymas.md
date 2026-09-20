@@ -27,6 +27,24 @@ media_all_json: |-
 
 Be to, pagal šią fundaciją ir tvarką, mūsų perimtą iš ją įvedusio pirmojo fundatoriaus, norime, kad šiose anksčiau minėtose ribose nebūtų jokių kitų karčemų, išskyrus priklau­ sančias Pabaisko bažnyčiai, tik jose nebus draudžiama pils­ tyti midų, alų, degtinę.
 
+## Teiginiai
+
+<a id="claim-t-86531"></a>
+- t-001
+  teiginys: "Pabaisko bažnyčios valdose leista laikyti tik jai priklausančias karčemas, kuriose buvo galima pilstyti midų, alų ir degtinę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> filija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "karčema smuklininkas gėrimų pilstymas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "filija: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karčema smuklininkas gėrimų pilstymas\" parinktas kaip owner_note_path. Targetas \"filija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82510
+
 ## Citatos
 
 - id: c-82510
@@ -61,24 +79,5 @@ Be to, pagal šią fundaciją ir tvarką, mūsų perimtą iš ją įvedusio pirm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-86531"></a>
-- t-001
-  teiginys: "Pabaisko bažnyčios valdose leista laikyti tik jai priklausančias karčemas, kuriose buvo galima pilstyti midų, alų ir degtinę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> filija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "karčema smuklininkas gėrimų pilstymas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "filija: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karčema smuklininkas gėrimų pilstymas\" parinktas kaip owner_note_path. Targetas \"filija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82510
-

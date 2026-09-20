@@ -49,6 +49,97 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-191012"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojime III a. pabaigoje ar IV a. pradžioje slavų tiveriečiai persikėlė nuo Dnestro žemupio prie Dnepro ir pasiekė Rosės žiotis."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Dnepras: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Slavai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Slavų tiveriečių gentys tiesiogiai aprašytos kaip persikėlusios prie Dnepro."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Slavai keliavo į Dnepras (0.86)"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-173894
+
+<a id="claim-t-191014"></a>
+- t-002
+  teiginys: "Narbutas nurodo, kad 1128 m. nutautėję hiriai su pečenegais persikėlė į kairįjį Dnepro krantą, vėliau buvo išstumti už Dono ir davė pradžią Belgorodo totoriams."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Donas: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hiriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Donas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo hirių išstūmimą už Dono."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Hiriai keliavo į Donas (0.80)"
+  temporaliniai_duomenys: "kelionės data: 1128 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Hiriai keliavo į Donas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnai išskleidžia hirių, pečenegų ir poloviečių poslinkių seką. Atribucija Narbutui tinka, nes kalbama apie jo etninės kilmės aiškinimą."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173896
+
+<a id="claim-t-191869"></a>
+- t-003
+  teiginys: "Teodoro Narbuto aiškinimu, hiriai nuo III a. pabaigos beveik iki XII a. vidurio gyveno prie Rosės ir suteikė jai mitinį vardą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174751
+
+<a id="claim-t-197540"></a>
+- t-004
+  teiginys: "III amžiaus pabaigoje ar IV amžiaus pradžioje slavų tiveriečių gen tys dėl kažkokių aplinkybių pokyčių persikėlė nuo Dnest ro žemupio prie Dnepro ir pasistūmėjo palei šią upę aukšlyn net iki Rosės žiočių kaip tik tada, kai jau dauguma birių perėjo prie."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179237
+
+<a id="claim-t-197541"></a>
+- t-005
+  teiginys: "Tačiau jis negalėjo įkurti jokių kolonijų krašte, esančiame prie Rosės, nes ten gyveno pečenegai su orda, vadinama Charoboe."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179238
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoro Narbuto pasakojime Jaroslavas po 1031 m. žygio į Lenkiją belaisvius kėlė arčiau Kijevo, bet Rosės krašte kolonijų nesteigė dėl pečenegų.'
@@ -100,6 +191,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-173896
   autorius: "Teodoras Narbutas"
@@ -122,6 +215,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-174751
   autorius: "Teodoras Narbutas"
@@ -149,6 +244,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-179237
   autorius: "Teodoras Narbutas"
@@ -174,6 +271,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-179238
   autorius: "Teodoras Narbutas"
@@ -197,170 +296,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194394
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 298"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
-  citata_originali: |
-    Tas pats Jaroslavas 1041
-    metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų
-    lietuvių belaisvius perkėlęs į Ukrainą, taiip pat niekur
-    negalima matyti ukrainiečių tautybės žmonių susimai­
-    šymo su lietuviais. Smukus pečenegams dešiniojoje Dnep-
-    ro pakrantėje, nutautėję hiriai su tomis gentimis persi­
-    kėlė į kairiąją šios upės pakrantę; jie įsiterpė tarp polo-
-    viečių ir kartu su jais buvo išstumti kitapus Dono, kur
-    davė pradžią Belgorodo totoriams. Tai įvyko 1128 me­
-    tais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- id: c-194503
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 297"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 297."
-  citata_originali: |
-    Gotams persikėlus į deši­
-    nįjį Dnestro krantą, tai žinoma iš gotų istorijos ir Bizan­
-    tijos rašytojų kūrinių, nei gotų, nei dakų ten jau nega­
-    lėjo būti; todėl žemė buvo neužimta, ir lietuvių tauta hi-
-    riai, ėję įkandin gotų, tikriausiai ten ir apsigyveno maž­
-    daug II krikščioniškosios eros amžiaus pabaigoje. Šią
-    liesą patvirtina ir vėlesnė šio krašto istorija. III amžiaus
-    pabaigoje ar IV amžiaus pradžioje slavų tiveriečių gen­
-    tys dėl kažkokių aplinkybių pokyčių persikėlė nuo Dnest­
-    ro žemupio prie Dnepro ir pasistūmėjo palei šią upę aukš-
-    lyn net iki Rosės žiočių kaip tik tada, kai jau dauguma
-    birių perėjo prie Dunojaus, galbūt norėdami sustiprinti
-    pastipusią skiriu ir sudargų karinę galią.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- id: c-194895
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 298"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
-  citata_originali: |
-    Tačiau jis negalėjo įkurti jokių kolonijų
-    krašte, esančiame prie Rosės, nes ten gyveno pečenegai
-    su orda, vadinama Charoboe. Tas pats Jaroslavas 1041
-    metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų
-    lietuvių belaisvius perkėlęs į Ukrainą, taiip pat niekur
-    negalima matyti ukrainiečių tautybės žmonių susimai­
-    šymo su lietuviais. Smukus pečenegams dešiniojoje Dnep-
-    ro pakrantėje, nutautėję hiriai su tomis gentimis persi­
-    kėlė į kairiąją šios upės pakrantę; jie įsiterpė tarp polo-
-    viečių ir kartu su jais buvo išstumti kitapus Dono, kur
-    davė pradžią Belgorodo totoriams.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-## Teiginiai
-
-<a id="claim-t-214211"></a>
-- t-001
-  teiginys: "Teodoro Narbuto aiškinimu, hiriai nuo III a. pabaigos beveik iki XII a. vidurio gyveno prie Rosės ir suteikė jai mitinį vardą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-214220"></a>
-- t-002
-  teiginys: "Teodoro Narbuto pasakojime III a. pabaigoje ar IV a. pradžioje slavų tiveriečiai persikėlė nuo Dnestro žemupio prie Dnepro ir pasiekė Rosės žiotis."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Dnepras: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Slavai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Slavų tiveriečių gentys tiesiogiai aprašytos kaip persikėlusios prie Dnepro."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Slavai keliavo į Dnepras (0.86)"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-
-<a id="claim-t-214492"></a>
-- t-003
-  teiginys: "Narbutas nurodo, kad 1128 m. nutautėję hiriai su pečenegais persikėlė į kairįjį Dnepro krantą, vėliau buvo išstumti už Dono ir davė pradžią Belgorodo totoriams."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Donas: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hiriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Donas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo hirių išstūmimą už Dono."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Hiriai keliavo į Donas (0.80)"
-  temporaliniai_duomenys: "kelionės data: 1128 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Hiriai keliavo į Donas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnai išskleidžia hirių, pečenegų ir poloviečių poslinkių seką. Atribucija Narbutui tinka, nes kalbama apie jo etninės kilmės aiškinimą."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-194394
-
-<a id="claim-t-214623"></a>
-- t-004
-  teiginys: "III amžiaus pabaigoje ar IV amžiaus pradžioje slavų tiveriečių gen tys dėl kažkokių aplinkybių pokyčių persikėlė nuo Dnest ro žemupio prie Dnepro ir pasistūmėjo palei šią upę aukšlyn net iki Rosės žiočių kaip tik tada, kai jau dauguma birių perėjo prie."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194503
-
-<a id="claim-t-215317"></a>
-- t-005
-  teiginys: "Tačiau jis negalėjo įkurti jokių kolonijų krašte, esančiame prie Rosės, nes ten gyveno pečenegai su orda, vadinama Charoboe."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194895
-

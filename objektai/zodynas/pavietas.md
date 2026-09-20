@@ -1,6 +1,6 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'pavietas'
+pavadinimas: pavietas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -19,12 +19,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Pavietas","url":"https://lt.wikipedia.org/wiki/Pavietas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T20:19:47+00:00","source_checked_at":"2026-09-19T20:19:47+00:00","counts":{"relations":0,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Senoji pi­ liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­ tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­ jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos pavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia, ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­ das.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-113663","evidence_id":"c-104852","origin":"internal"},"wiki":{"status":"published","source":{"title":"Pavietas","url":"https://lt.wikipedia.org/wiki/Pavietas","publisher":"Vikipedija","language":"lt","article_id":"94279","revision_id":"7382198","published_at":"2024-09-15T06:24:15Z","version_pk":"","content_hash":"7ffd52b6cf7651502bde5ce7fabc81b72611e807f52be3e9f9e638df5e4fafe5","retrieved_at":"2026-09-19T20:17:37+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Pavietas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"94279"}},"intro":"Pavietas (lenk. powiat, lot. castellania) – Lenkijos administracinis-teritorinis vienetas. Pavietas taip pat buvo administracinis vienetas Lenkijos karalystėje (nuo XV a.), Lietuvos Didžiojoje Kunigaikštystėje (nuo XVI a. antrosios pusės) ir Abiejų Tautų Respublikoje. Vaivadijos dalis, turinti renkamą kolektyvinio valdymo instituciją, administraciją, teritorijos valdytoją kaštelioną. 1975–1998 m. Lenkijoje pavietų nebuvo.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Pavietas","url":"https://lt.wikipedia.org/wiki/Pavietas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Pavietas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3bc7c17a73927da4dc265b2b","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Lietuvos valstybės teritorinis administracinis vienetas.","context":"XV–XVIII a. Kaunas aprašomas kaip seniūnijos arba pavieto centras.","support_ids":["t-201505","c-184852"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201505","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184852","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Savavaldaus miesto laikotarpio Kauno istorijos objektas yra sudėtingas. Kau- nas, kaip ir visi kiti XV-XVIII a. Lietuvos miestai, buvo tarsi trinaris, jį sudarė pats savavaldus miestas ir jo miestiečių bendruomenė bei nemiestiškos Kauno dalys, pilis kaip Lietuvos valstybės teritorinio administracinio vieneto, Kauno seniūni­ jos/pavieto centras ir bažnyčios struktūros; katalikų parapinė bažnyčia/parapija, Kaune įsikūrusios vienuolijos, vėliau atsiradusi liuteronų bažnyčia/bendruomenė."}],"status":"published","conflict_status":"clear"},{"trait_id":"141a52927c8a1e5c07ed0f29","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Pavietas vartojamas istoriniam teritoriniam vienetui, kuriame būdavo sprendžiamos žemės ribų bylos ir veikdavo pakamorė.","context":"A. Šapokos aprašomame naujai sudarytų pavietų administraciniame ir teisiniame kontekste.","support_ids":["t-182966","c-166365"],"source_refs":[{"kind":"internal_claim","claim_id":"t-182966","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-166365","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tik bylos dėl žemės ribų (ežių) buvo pa- vestos atskiram pakamorės teismui. Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręs- davo vietoje. Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, vadinamajam pilies teismui."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"daef9c43898a3039e81d4979","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Pavietas vartojamas teritorijai, turėjusiai centrą; Veliuona kurį laiką buvo Žemaitijos pavieto centras.","context":"Michało Balińskio istoriniame Veliuonos aprašyme; laikinis kontekstas – „kurį laiką“ pagal šaltinį.","support_ids":["t-113661","c-104852"],"source_refs":[{"kind":"internal_claim","claim_id":"t-113661","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-104852","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Senoji pi­ liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­ tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­ jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos pavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia, ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­ das."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"3fb9ab58d056c204cd2a8158","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Pavietas vartojamas bajorų suvažiavimų ir teismų organizavimo kontekste: viso pavieto bajorai rinkdavosi į seimelį.","context":"A. Šapokos aprašomas istorinis žemės teismų rinkimo kontekstas.","support_ids":["t-193153","c-175905"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193153","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-175905","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais. Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo teismą ir kitus urėdus."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Pavietas šiame šaltinių rinkinyje apibūdinamas kaip teritorinis vienetas, kuriame buvo organizuojamas teisingumas, skiriami pareigūnai ir sprendžiami bajorijos reikalai. Veliuona kurį laiką buvo Žemaitijos pavieto centras; jos senoji piliavietė apėmė du prie Nemuno esančius kalnus, sujungtus tiltu per gilią griovą, o tarp tilto polių buvo įrengtas kalėjimas. Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę – urėdą, vietoje sprendusį žemės ribų bylas. Žemės teismams rinkti buvo rengiami viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais, kuriuose bajorai aptardavo savo reikalus, rinkdavo teismą ir kitus urėdus. Vis dėlto pateiktoje medžiagoje nenurodytas tikslus pavieto susidarymo ar egzistavimo laikotarpis, todėl objekto chronologinis apibūdinimas lieka nepakankamas.","sentences":[{"sentence_id":"s1","text":"Pavietas šiame šaltinių rinkinyje apibūdinamas kaip teritorinis vienetas, kuriame buvo organizuojamas teisingumas, skiriami pareigūnai ir sprendžiami bajorijos reikalai.","support_ids":["t-182966","c-166365","t-193153","c-175905"]},{"sentence_id":"s2","text":"Veliuona kurį laiką buvo Žemaitijos pavieto centras; jos senoji piliavietė apėmė du prie Nemuno esančius kalnus, sujungtus tiltu per gilią griovą, o tarp tilto polių buvo įrengtas kalėjimas.","support_ids":["t-113661","c-104852"]},{"sentence_id":"s3","text":"Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę – urėdą, vietoje sprendusį žemės ribų bylas.","support_ids":["t-182966","c-166365"]},{"sentence_id":"s4","text":"Žemės teismams rinkti buvo rengiami viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais, kuriuose bajorai aptardavo savo reikalus, rinkdavo teismą ir kitus urėdus.","support_ids":["t-193153","c-175905"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Nurodyti šaltiniai patvirtina pakamorės ir seimelių funkcijas, bet tiesiogiai neapibrėžia pavieto kaip teritorinio vieneto, kuriame organizuojamas teisingumas, skiriami pareigūnai ir sprendžiami bajorijos reikalai."},{"sentence_id":"s2","supported":true,"reason":"Sakinį tiesiogiai patvirtina t-113661 ir c-104852."},{"sentence_id":"s3","supported":true,"reason":"Sakinį tiesiogiai patvirtina t-182966 ir c-166365."},{"sentence_id":"s4","supported":true,"reason":"Sakinį tiesiogiai patvirtina t-193153 ir c-175905."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-182966","c-166365","t-193153","c-175905"]},{"sentence_id":"s2","supported":true,"support_ids":["t-113661","c-104852"]},{"sentence_id":"s3","supported":true,"support_ids":["t-182966","c-166365"]},{"sentence_id":"s4","supported":true,"support_ids":["t-193153","c-175905"]}],"verifier":"gpt-5.6-luna"},"quality":53,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":8,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 35572b2a1e94563b
+object_page_generated_at: '2026-09-19T20:19:47+00:00'
+object_page_source_checked_at: '2026-09-19T20:19:47+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '4'
+object_page_seo_description: 'Pavietas šiame šaltinių rinkinyje apibūdinamas kaip teritorinis vienetas, kuriame buvo organizuojamas teisingumas, skiriami pareigūnai ir sprendžiami…'
+object_page_seo_input_hash: 79ba76dce476989dc164a4ef95476bb9cf839aaf4c84ede43a4e531ad63b06cd
+object_page_seo_generated_at: '2026-09-19T20:19:47+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # pavietas
 
@@ -34,23 +44,10 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
 
 ## Teiginiai
 
-<a id="claim-t-209608"></a>
-- t-209608
-  teiginys: "Pavietas su pavietu ilgų laiką negalėjo susisiekti, kaimas su mies tų, miestas su kaimu; viena pusė Nemuno su kita puse, vienas miestas su kitu."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  vertinimo_atnaujinta: "2026-07-26T18:22:38Z"
-  pagrindžia:
-    - c-192228
-
 <a id="claim-t-113660"></a>
-- t-113660
+- t-001
   teiginys: "Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> didysis kunigaikštis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -64,9 +61,9 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
     - c-104855
 
 <a id="claim-t-113661"></a>
-- t-113661
+- t-002
   teiginys: "Veliuona kurį laiką buvo Žemaitijos pavieto centras."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Veliuona: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,9 +77,9 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
     - c-104852
 
 <a id="claim-t-113662"></a>
-- t-113662
+- t-003
   teiginys: "Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Brasta: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -96,9 +93,9 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
     - c-104854
 
 <a id="claim-t-182966"></a>
-- t-182966
+- t-004
   teiginys: "Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo po vieną pakamorę žemės ribų byloms spręsti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,9 +112,9 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
     - c-166365
 
 <a id="claim-t-193153"></a>
-- t-193153
+- t-005
   teiginys: "Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -127,9 +124,9 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
     - c-175905
 
 <a id="claim-t-201505"></a>
-- t-201505
+- t-006
   teiginys: "Lietuvos miestai, buvo tarsi trinaris, jį sudarė pats savavaldus miestas ir jo miestiečių bendruomenė bei nemiestiškos Kauno dalys, pilis kaip Lietuvos valstybės teritorinio administracinio vieneto, Kauno seniūni jos/pavieto centras ir bažnyčios struktūros."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -162,8 +159,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113661
+  pagrindzia:
+    - t-002
 
 - id: c-104854
   autorius: "Michał Baliński"
@@ -204,8 +201,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113662
+  pagrindzia:
+    - t-003
 
 - id: c-104855
   redaktorius: "A. Šapoka"
@@ -224,8 +221,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113660
+  pagrindzia:
+    - t-001
 
 - id: c-166365
   redaktorius: "A. Šapoka"
@@ -244,8 +241,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-182966
+  pagrindzia:
+    - t-004
 
 - id: c-175905
   redaktorius: "A. Šapoka"
@@ -262,8 +259,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193153
+  pagrindzia:
+    - t-005
 
 - id: c-184852
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -281,24 +278,5 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201505
-
-- id: c-192228
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 62"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 62."
-  citata_originali: |
-    Pavietas su pavietu
-    ilgų laiką negalėjo susisiekti, kaimas su mies­
-    tų, miestas su kaimu; viena pusė Nemuno
-    su kita puse, vienas miestas su kitu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209608
-
+  pagrindzia:
+    - t-006

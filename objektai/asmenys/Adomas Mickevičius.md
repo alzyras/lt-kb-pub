@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Adomas Mickevičius (poetas)'
+pavadinimas: Adomas Mickevičius (poetas)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
 datos:
-  - '1791 m.'
-  - '1897 m.'
+  - 1791 m.
+  - 1897 m.
 date_start: '1791'
 date_end: '1897'
 sukurta: ''
@@ -15,29 +15,42 @@ tags:
   - asmuo
   - kunigas
 amziai:
-  - 'XVIII'
-  - 'XIX'
+  - XVIII
+  - XIX
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-658768e7a1676e6429cbb7c0"
-canonical_name: "Adomas Mickevičius (poetas)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Adomas Mickevičius","Adomas Mickevičius (poetas)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-658768e7a1676e6429cbb7c0
+canonical_name: Adomas Mickevičius (poetas)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Adomas Mickevičius
+  - Adomas Mickevičius (poetas)
 sameAs: []
-canonical_biography: "A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą. Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi. Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų."
+canonical_biography: A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą. Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi. Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
+external_sources_json: '[{"title":"Adomas Mickevičius","url":"https://lt.wikipedia.org/wiki/Adomas_Mickevi%C4%8Dius","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Adomas Mickevičius","url":"https://www.vle.lt/straipsnis/adomas-mickevicius/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T17:59:25+00:00","source_checked_at":"2026-09-19T17:59:25+00:00","counts":{"relations":2,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Adomas Mickevičius","url":"https://lt.wikipedia.org/wiki/Adomas_Mickevi%C4%8Dius","publisher":"Vikipedija","language":"lt","article_id":"35979","revision_id":"7922525","published_at":"2026-09-11T13:21:00Z","version_pk":"","content_hash":"75a6947ccf2f0d64470a930c8a8eac7958f5511a35339da5d7e684d56e1f2de6","retrieved_at":"2026-09-19T17:57:51+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Adomas_Mickevi%C4%8Dius&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"35979"}},"intro":"Adomas Bernardas Mickevičius (lenk. Adam Bernard Mickiewicz, 1798 m. gruodžio 24 d. Zaosėje, netoli Naugarduko – 1855 m. lapkričio 26 d. Konstantinopolyje, Osmanų imperija) – lenkų poetas, kilęs iš istorinės Lietuvos Didžiosios Kunigaikštystės, lenkų kalba rašęs poetas, dramaturgas, eseistas, publicistas, vertėjas, politinis aktyvistas. Adomas Mickevičius minimas greta Gėtės, Šilerio, Bairono, Puškino. Česlovo Milošo įvardintas: „pomirtiniu senosios Respublikos kūdikiu“.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1798 m. gruodžio 24 d.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Zaosė, prie Naugarduko, Lietuvos gubernija, Rusijos imperija","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1855 m. lapkričio 26 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Konstantinopolis, Osmanų imperija","source":"wikipedia_infobox"},{"code":"spouse","label":"Sutuoktiniai","value":"Celina Šimanovska","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Mikalojus Mickevičius ir Barbora Majevska","source":"wikipedia_infobox"},{"code":"children","label":"Vaikai","value":"Marija Mickevičiūtė- Gorecka, Helena Mickevičiūtė, Vladislovas Mickevičius, Juozas Mickevičius, Aleksandras Mickevičius, Jonas Mickevičius","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Adomas Mickevičius","url":"https://lt.wikipedia.org/wiki/Adomas_Mickevi%C4%8Dius","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Adomas Mickevičius","url":"https://www.vle.lt/straipsnis/adomas-mickevicius/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Adomas_Mickevi%C4%8Dius","https://www.vle.lt/straipsnis/adomas-mickevicius/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"e28ea689fea4a01d8831b38d","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Žymus XIX a. lenkų poetas, tapęs istorinės Lietuvos dainiumi.","context":"Lietuvos istorijos autorių vertinimas, XIX a.","support_ids":["t-45927","c-21545"],"source_refs":[{"kind":"internal_claim","claim_id":"t-45927","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-21545","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe- tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz)."}],"status":"published","conflict_status":"clear"},{"trait_id":"2df1d34c216ae13a6746177c","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.","context":"Vilniaus romantizmo mokyklos kontekstas.","support_ids":["t-45928","c-21546"],"source_refs":[{"kind":"internal_claim","claim_id":"t-45928","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-21546","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tačiau ir tomis su- dėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid."}],"status":"published","conflict_status":"clear"},{"trait_id":"a8cea2707246e55921baaf22","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Rašė apie Tėvynę Lietuvą.","context":"Šaltinyje aprašoma jo kūrybinė veikla.","support_ids":["t-183517","c-166911"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183517","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166911","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tarp šių organizacijų narių buvo ir A. Mickevičius, rašęs ir apie Tėvynę Lietu- Adomas Mickevičius. Dail. S. Heymann, 1897 m."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Kaunas","claim_id":"t-05717","confidence":0.76},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Rusija","claim_id":"t-05717","confidence":0.88}],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 4fe85ac047f4ec37
+object_page_generated_at: '2026-09-19T17:59:25+00:00'
+object_page_source_checked_at: '2026-09-19T17:59:25+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Adomas Mickevičius (poetas): A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą. Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir…'
+object_page_seo_input_hash: 0fc941d5d58e79e1fa478d5b41fdb496d00f66fd2e35c53a3cec9dc5e9ca7b60
+object_page_seo_generated_at: '2026-09-19T17:59:25+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Adomas Mickevičius (poetas)
 
@@ -46,6 +59,76 @@ canonical_biography: "A. Mickevičius buvo vienas organizacijų narių ir rašė
 A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą. Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi. Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 
 ## Teiginiai
+
+<a id="claim-t-45926"></a>
+- t-001
+  teiginys: "A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą."
+  atnaujinta: "2026-05-23 13:41"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Mickevičius (poetas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Mickevičius (poetas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-21547
+
+<a id="claim-t-45927"></a>
+- t-002
+  teiginys: "Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Mickevičius (poetas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Mickevičius (poetas)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-21545
+
+<a id="claim-t-45928"></a>
+- t-003
+  teiginys: "Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų."
+  atnaujinta: "2026-05-23 13:41"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mickevičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Mickevičius (poetas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mickevičius: mention_match, author, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Mickevičius (poetas)\" parinktas kaip owner_note_path. Targetas \"Mickevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-21546
+
+<a id="claim-t-45929"></a>
+- t-004
+  teiginys: "Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Mickevičius (poetas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Mickevičius (poetas)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1896 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia išplėsti inicialą į pilną asmens vardą ir pavardę."
+  pagrindžia:
+    - c-48583
+    - c-21549
 
 <a id="claim-t-45930"></a>
 - t-005
@@ -63,105 +146,10 @@ A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuv�
   pagrindžia:
     - c-21548
 
-<a id="claim-t-209317"></a>
-- t-209317
-  teiginys: "Adomo Mickevičiaus „Odėje jaunystei“ deklaruojami romantizmo idealai aukštino emancipuotą, laisvą ir tautos labui pasiaukojančią asmenybę."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
-  pagrindžia:
-    - c-191990
-
-<a id="claim-t-218277"></a>
-- t-218277
-  teiginys: "Adomo Mickevičiaus draugai filomatai ir filaretai su sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus ir dainas."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201393
-
-<a id="claim-t-45926"></a>
-- t-45926
-  teiginys: "A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Mickevičius (poetas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Mickevičius (poetas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-21547
-
-<a id="claim-t-45927"></a>
-- t-45927
-  teiginys: "Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Mickevičius (poetas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Mickevičius (poetas)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-21545
-
-<a id="claim-t-45928"></a>
-- t-45928
-  teiginys: "Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mickevičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Mickevičius (poetas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Mickevičius: mention_match, author, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Mickevičius (poetas)\" parinktas kaip owner_note_path. Targetas \"Mickevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-21546
-
-<a id="claim-t-45929"></a>
-- t-45929
-  teiginys: "Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Mickevičius (poetas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Mickevičius (poetas)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1896 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia išplėsti inicialą į pilną asmens vardą ir pavardę."
-  pagrindžia:
-    - c-48583
-    - c-21549
-
 <a id="claim-t-183517"></a>
-- t-183517
+- t-006
   teiginys: "Mickevičius, rašęs ir apie Tėvynę LietuAdomas Mickevičius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 17:11"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -192,8 +180,8 @@ A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuv�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-45927
+  pagrindzia:
+    - t-002
 
 - id: c-21546
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -230,8 +218,8 @@ A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuv�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-45928
+  pagrindzia:
+    - t-003
 
 - id: c-21547
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -252,8 +240,8 @@ A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuv�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-45926
+  pagrindzia:
+    - t-001
 
 - id: c-21548
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -268,12 +256,11 @@ A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuv�
     jų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus.
   citata_rodoma: "Apkaltinus per 100 asmenų, dvidešimt, tarp\njų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-21549
@@ -298,8 +285,8 @@ A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuv�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-45929
+  pagrindzia:
+    - t-004
 
 - id: c-48583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -328,8 +315,8 @@ A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuv�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-45929
+  pagrindzia:
+    - t-004
 
 - id: c-166911
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -346,60 +333,5 @@ A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuv�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183517
-
-- id: c-191990
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 122"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 122."
-  citata_originali: |
-    Vietoj išvadų
-    Blaivybės idėjų atsiradimas Lietuvoje, jų plėtra ir vystymasis
-    per praėjusį, XIX amžių išgyveno kelias stadijas, kurių kiekviena
-    įspaudė mūsų istoriniame kelyje savus pėdsakus, vienaip ar kitaip
-    klostė lietuviams būdingą požiūrį į alkoholinių gėrimų vartojimą, į
-    blaivinimo būdus. Pirmoji stadija aprėpia amžiaus pradžios įvykius,
-    Vilniaus universiteto klestėjimo metus, paties didžiausio lietuvių
-    kultūrinės veiklos pakilimo ir organizacinės struktūros formavimosi
-    laikotarpi. Šiuo metu radosi mokslinis girtavimo nešamų blogybių, patį
-    girtavimą nešančių reiškinių, taip pat blaivybės privalumų suvokimas,
-    akademinėje ir intelektualinėje Lietuvos visuomenėje pamažu
-    įsiviešpatavo nepakantumas stingdančiam dvasią hedonistiniam
-    gyvenimo būdui, pradėta siekti A. Mickevičiaus "Odės jaunystei"
-    deklaruojamų
-    romantizmo
-    šviesiausių
-    idealų,
-    aukštinančių
-    emancipuotą, laisvą ir tautos labui pasiaukojančią asmenybę.
-  citata_rodoma: "Šiuo metu radosi mokslinis girtavimo nešamų blogybių, patį \ngirtavimą nešančių reiškinių, taip pat blaivybės privalumų suvokimas, \nakademinėje ir intelektualinėje Lietuvos visuomenėje pamažu \nįsiviešpatavo nepakantumas stingdančiam dvasią hedonistiniam \ngyvenimo būdui, pradėta siekti A. Mickevičiaus \"Odės jaunystei\" \ndeklaruojamų \nromantizmo \nšviesiausių \nidealų, \naukštinančių \nemancipuotą, laisvą ir tautos labui pasiaukojančią asmenybę"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209317
-
-- id: c-201393
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
-  citata_originali: |
-    Adomo Mickevičiaus draugai filomatai ir filaretai su­
-    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
-    ir dainas
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218277
-
+  pagrindzia:
+    - t-006

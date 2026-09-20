@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'A. Kalenda'
+pavadinimas: A. Kalenda
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1858 m.'
+  - 1858 m.
 date_start: '1858'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f889924cdd53af5ce097ad70"
-canonical_name: "A. Kalenda"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["A. Kalenda"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f889924cdd53af5ce097ad70
+canonical_name: A. Kalenda
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - A. Kalenda
 sameAs: []
-canonical_biography: "A. Kalendos raštas buvo panaudotas kaip atsakymas valdžiai apie blaivybės organizacijas."
+canonical_biography: A. Kalendos raštas buvo panaudotas kaip atsakymas valdžiai apie blaivybės organizacijas.
 ---
 # A. Kalenda
 

@@ -70,9 +70,9 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
     - c-42383
 
 <a id="claim-t-40589"></a>
-- t-40589
+- t-002
   teiginys: "Albertas Daugirdas gimė 1971 m. ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
   ryšio_patikimumas: "susije_su -> Daugirdas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -89,9 +89,9 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
     - c-42384
 
 <a id="claim-t-40590"></a>
-- t-40590
+- t-003
   teiginys: "Albertas Daugirdas buvo AT gynybos dalyvis ir tyrė 1944–1953 m. rezistencinių kovų bei 1991 m. pasipriešinimo genezę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
   ryšio_patikimumas: "susije_su -> Daugirdas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -118,12 +118,11 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
     P. 239, AT rūmų gynybos ruožai 1991 m. sausio-rugpjūčio mėnesiais, Albertas Daugirdas,
     Karolis Zikaras, Loreta Uzdraitė.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-42384
@@ -149,7 +148,6 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-40589
-    - t-40590
-
+  pagrindzia:
+    - t-002
+    - t-003

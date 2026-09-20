@@ -1,11 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'sutartis (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: sutartis (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'sutartis'
+  - sutartis
 aliases:
-  - 'sutartis'
+  - sutartis
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # sutartis (sąvoka)
 
@@ -68,6 +65,5 @@ Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo iš jo žemės, bet, n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

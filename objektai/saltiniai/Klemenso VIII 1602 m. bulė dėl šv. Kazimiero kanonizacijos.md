@@ -1,28 +1,25 @@
 ---
 tipas: saltinis
-pavadinimas: 'Klemenso VIII 1602 m. bulė dėl šv. Kazimiero kanonizacijos'
+pavadinimas: Klemenso VIII 1602 m. bulė dėl šv. Kazimiero kanonizacijos
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1602 m.'
+  - 1602 m.
 date_start: '1602'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVII'
+  - XVII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Klemenso VIII 1602 m. bulė dėl šv. Kazimiero kanonizacijos
 

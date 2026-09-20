@@ -26,6 +26,18 @@ media_all_json: |-
 
 Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė tautiškus lietuvių reikalus, o nuo 1878 m. Šerno redaguojamoji „Lietuviška Ceitunga" net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat, joje buvo pradėję rašyti ir. Lietuviška Ceitunga: bet prieš radikalųjį jos tautiškumą kilo nepasitenkinimas, ir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be jokios ideologijos. Tokio pat likimo susilaukė ir kitų laikraš- čių panašūs bandymai.
 
+## Teiginiai
+
+<a id="claim-t-67433"></a>
+- t-001
+  teiginys: "Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pavertė ją informaciniu laikraščiu be ideologijos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-67331
+
 ## Citatos
 
 - id: c-67331
@@ -47,18 +59,5 @@ Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-67433"></a>
-- t-001
-  teiginys: "Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pavertė ją informaciniu laikraščiu be ideologijos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-67331
-

@@ -34,6 +34,28 @@ media_all_json: |-
 
 Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino brolis Teodoras.
 
+## Teiginiai
+
+<a id="claim-t-28655"></a>
+- t-001
+  teiginys: "Kijevo kunigaikštystė nuo Gedimino laikų buvo didžiojo Lietuvos kunigaikščio priklausomybėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kijevo kunigaikštystė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Kijevo kunigaikštystė buvo didžiojo Lietuvos kunigaikščio priklausomybėje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kijevo kunigaikštystė priklausė Lietuva (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1342 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-28559
+
 ## Citatos
 
 - id: c-28559
@@ -53,31 +75,8 @@ Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Kijevo kunigaikštystė priklausė [[objektai/vietos/Lietuva]]
-
-## Teiginiai
-
-<a id="claim-t-28655"></a>
-- t-001
-  teiginys: "Kijevo kunigaikštystė nuo Gedimino laikų buvo didžiojo Lietuvos kunigaikščio priklausomybėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kijevo kunigaikštystė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Kijevo kunigaikštystė buvo didžiojo Lietuvos kunigaikščio priklausomybėje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kijevo kunigaikštystė priklausė Lietuva (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1342 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-28559
-

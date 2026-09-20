@@ -44,6 +44,51 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
 
 Šaltinyje greta pateikiamas `Kunigas`, todėl tiksli leksinė riba tarp formų nėra visiškai aiški.
 
+## Teiginiai
+
+<a id="claim-t-192266"></a>
+- t-001
+  teiginys: "Narbuto aiškinimu, Rejkis buvo provincijas valdžiusių karaliukų pavadinimas, o ne vieno konkretaus asmens vardas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175096
+
+<a id="claim-t-192267"></a>
+- t-002
+  teiginys: "Narbuto aiškinimu, provincijas valdė karaliukai, vadinami Rejkis ir Kunigas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175096
+
+<a id="claim-t-192571"></a>
+- t-003
+  teiginys: "Narbuto aiškinimu, krašto bajorai buvo priklausomi nuo provincijas valdžiusių karaliukų, vadinamų Rejkis ir Kunigas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Pamedė: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pamedė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste bajorai apibūdinami kaip ponai, o tęsinys sako, kad tokie ponai gyveno Pamedėje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Bajorai gyveno Pamedė (0.68)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175348
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -107,6 +152,9 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002
 
 - id: c-175348
   autorius: "Teodoras Narbutas"
@@ -130,43 +178,5 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-212980"></a>
-- t-001
-  teiginys: "Narbuto aiškinimu, Rejkis buvo provincijas valdžiusių karaliukų pavadinimas, o ne vieno konkretaus asmens vardas."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-
-<a id="claim-t-213035"></a>
-- t-002
-  teiginys: "Narbuto aiškinimu, krašto bajorai buvo priklausomi nuo provincijas valdžiusių karaliukų, vadinamų Rejkis ir Kunigas."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Pamedė: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pamedė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste bajorai apibūdinami kaip ponai, o tęsinys sako, kad tokie ponai gyveno Pamedėje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Bajorai gyveno Pamedė (0.68)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-
-<a id="claim-t-214149"></a>
-- t-003
-  teiginys: "Narbuto aiškinimu, provincijas valdė karaliukai, vadinami Rejkis ir Kunigas."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-
+  pagrindzia:
+    - t-003

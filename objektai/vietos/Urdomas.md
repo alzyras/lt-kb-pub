@@ -43,6 +43,28 @@ historical_names: []
 
 Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link, kurioje tuo metu rezidavo Rusijos valdovas Ivanas rv.
 
+## Teiginiai
+
+<a id="claim-t-80619"></a>
+- t-001
+  teiginys: "1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos, perėjusios Volgą, sudegino Urdomą ir pasuko Staricos link."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Urdomas: 0.85"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Radvilos: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Urdomas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Radvilos pajėgos tiesiogiai nurodomos kaip sudeginusios Urdomo miestą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Radvilos puolė Urdomas (0.85); Radvilos keliavo į Starica (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1581 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pašalinti inicialą ir suformuluoti sklandesnį enciklopedinį sakinį."
+  pagrindžia:
+    - c-77320
+
 ## Citatos
 
 - id: c-77320
@@ -66,28 +88,5 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-80619"></a>
-- t-001
-  teiginys: "1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos, perėjusios Volgą, sudegino Urdomą ir pasuko Staricos link."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Urdomas: 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Radvilos: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Urdomas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Radvilos pajėgos tiesiogiai nurodomos kaip sudeginusios Urdomo miestą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Radvilos puolė Urdomas (0.85); Radvilos keliavo į Starica (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1581 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pašalinti inicialą ir suformuluoti sklandesnį enciklopedinį sakinį."
-  pagrindžia:
-    - c-77320
-

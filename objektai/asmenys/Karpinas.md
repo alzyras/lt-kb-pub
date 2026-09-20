@@ -42,6 +42,28 @@ canonical_biography: "Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelion�
 
 Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą aprašė Kaukazo alanus, vadintus Jassi, Asses ir Aries.
 
+## Teiginiai
+
+<a id="claim-t-191428"></a>
+- t-001
+  teiginys: "Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą aprašė Kaukazo alanus, vadintus Jassi, Asses ir Aries."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaukazas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karpinas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaukazas: mention_match, place, gap=83"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karpinas\" parinktas kaip owner_note_path. Targetas \"Kaukazas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174310
+
 ## Citatos
 
 - id: c-174310
@@ -66,52 +88,5 @@ Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194927
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 65"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 65."
-  citata_originali: |
-    Čingischano va­
-    dai irgi kariavo 1223 metais toje pačioje ¡pusėje su ala­
-    nais, kuriems pusiau su poloviečiais priklausė Dagesta­
-    nas, nors jų kilmė ir kalba buvo visiškai skirtingos2. Ka­
-    talikų vienuoliai Karpinas ir Rusbergas, arba Rubrikvis,
-    keliavę XIII amžiuje per Rytus į didelę mongolų ordą,
-    kalba apie Kaukazo alanus, kuriuos taip pat vadina Jassi,
-    Asses, Aries; jie tuomet buvę krikščionys, gabūs kalviai
-    ir šaltkalviai, gaminę puikius ginklus ir saugoję savo ne­
-    priklausomybę3. Iš išlikusių žinių galima teigti, jog jie
-    nepriklausę mongolams.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-215768"></a>
-- t-001
-  teiginys: "Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą aprašė Kaukazo alanus, vadintus Jassi, Asses ir Aries."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kaukazas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karpinas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaukazas: mention_match, place, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karpinas\" parinktas kaip owner_note_path. Targetas \"Kaukazas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-194927
-

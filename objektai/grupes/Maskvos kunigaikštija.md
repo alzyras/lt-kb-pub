@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Maskvos kunigaikštija'
+pavadinimas: Maskvos kunigaikštija
 saltiniai:
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1425 m.'
-  - '1427 m.'
+  - 1425 m.
+  - 1427 m.
 date_start: '1425'
 date_end: '1427'
 sukurta: ''
@@ -14,19 +14,29 @@ tags:
   - grupe
   - ordinas
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T07:12:35+00:00","source_checked_at":"2026-09-20T07:12:35+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"9454421358fd7b2a49cd3b52","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Nuo 1425 m. Didžiojoje Maskvos kunigaikštijoje viešpatavo Vytauto globojamas jo anūkas Vosylius.","context":"Šaltinis aprašo padėtį nuo 1425 m. ir autoriaus vertinimu teigia, kad kunigaikštija dėl to nerodė atsparumo Vytautui.","support_ids":["t-92731","c-36915"],"source_refs":[{"kind":"internal_claim","claim_id":"t-92731","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-36915","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Kad ir po didelių pastangų, bet į gyvenimo galą jam pasisekė paimti savo įtakon ir Pskovą su išdidžiuoju Nau­ gardu^3 ), nes Didž. Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė. Vytauto autoritetą rytuose liudija jo juokdario, Ordino agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę — ekspediciją savo valstybės rytiniu pakraščiu 1427 met."}],"status":"published","conflict_status":"clear"},{"trait_id":"18e9d42fd1f9789eb94c52de","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Maskvos kunigaikštija vadino Vytautą savo globėju ir turėjo krašte ramybę.","context":"Šaltinis tai nurodo aprašydamas laikotarpį iki Vytauto mirties; po jo mirties, autoriaus teigimu, kunigaikštijoje kilo ilgi sumaiščiai dėl sosto.","support_ids":["t-92730","c-88233"],"source_refs":[{"kind":"internal_claim","claim_id":"t-92730","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-88233","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Taip pat Tveriaus kunigaikštis, turėjęs savo že­ mes Maskvos kairėje, su Vytautu buvo užmezgęs taikius santy­ kius (1427). Taigi Maskvos kunigaikštija buvo apsupta žemių, tuo ar kitu būdu pripažinusių Vytauto autoritetą. Ji pati vadina Vytautą savo globėju ir turėjo krašte ramybę, o kai Vytautas mi­ rė, Maskvos kunigaikštijoje kilo ilgi sumaiščiai dėl sosto."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/asmenys/Vytautas","claim_id":"t-92728","confidence":0.78}],"timeline":[],"support_disclosure":{"claims":6,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 565fdb197fc20106
+object_page_generated_at: '2026-09-20T07:12:35+00:00'
+object_page_source_checked_at: '2026-09-20T07:12:35+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '1'
+object_page_seo_description: 'Maskvos kunigaikštija: Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t. Taigi…'
+object_page_seo_input_hash: b2e1c60ff4f066f7f36889982635c3deea6c8c5d4c2403b77e938fd38709483e
+object_page_seo_generated_at: '2026-09-20T07:12:35+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Maskvos kunigaikštija
 
@@ -35,6 +45,39 @@ media_all_json: |-
 Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t. Taigi Maskvos kunigaikštija buvo apsupta žemių, tuo ar kitu būdu pripažinusių Vytauto autoritetą. Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė.
 
 ## Teiginiai
+
+<a id="claim-t-92727"></a>
+- t-001
+  teiginys: "Maskvos kunigaikštija buvo apsupta žemių, kurios vienu ar kitu būdu pripažino Vytauto autoritetą."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskvos kunigaikštija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvos kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-36914
+
+<a id="claim-t-92728"></a>
+- t-002
+  teiginys: "Pskovo ir Naugardo respublikos labiau šliejosi prie Livonijos ordino ir Maskvos, priešingų Vytauto įsigalėjimui Rytuose."
+  atnaujinta: "2026-06-13 17:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvos kunigaikštija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Maskva įvardyta kaip viena galybių, priešingų Vytauto įsigalėjimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Maskvos kunigaikštija buvo priešas Vytautas (Lietuvos valdovas, XIV–XV a.) (0.78)"
+  pagrindžia:
+    - c-88231
 
 <a id="claim-t-92729"></a>
 - t-003
@@ -52,43 +95,10 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
   pagrindžia:
     - c-88232
 
-<a id="claim-t-92727"></a>
-- t-92727
-  teiginys: "Maskvos kunigaikštija buvo apsupta žemių, kurios vienu ar kitu būdu pripažino Vytauto autoritetą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskvos kunigaikštija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvos kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36914
-
-<a id="claim-t-92728"></a>
-- t-92728
-  teiginys: "Pskovo ir Naugardo respublikos labiau šliejosi prie Livonijos ordino ir Maskvos, priešingų Vytauto įsigalėjimui Rytuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvos kunigaikštija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Maskva įvardyta kaip viena galybių, priešingų Vytauto įsigalėjimui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Maskvos kunigaikštija buvo priešas Vytautas (Lietuvos valdovas, XIV–XV a.) (0.78)"
-  pagrindžia:
-    - c-88231
-
 <a id="claim-t-92730"></a>
-- t-92730
+- t-004
   teiginys: "1427 m. Maskvos kunigaikštija buvo apsupta žemių, kurios vienu ar kitu būdu pripažino Vytauto autoritetą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -105,9 +115,9 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - c-88233
 
 <a id="claim-t-92731"></a>
-- t-92731
+- t-005
   teiginys: "Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -124,9 +134,9 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - c-36915
 
 <a id="claim-t-92732"></a>
-- t-92732
+- t-006
   teiginys: "Rusų kronikos Vytautui priskyrė susitarimą su Tochtamyšu, pagal kurį jis ketino valdyti Didžiąją Maskvos kunigaikštiją ir visą Rusiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -161,8 +171,8 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-92727
+  pagrindzia:
+    - t-001
 
 - id: c-36915
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -185,8 +195,8 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-92731
+  pagrindzia:
+    - t-005
 
 - id: c-36916
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -210,8 +220,8 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-92732
+  pagrindzia:
+    - t-006
 
 - id: c-88231
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -233,8 +243,8 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-92728
+  pagrindzia:
+    - t-002
 
 - id: c-88232
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -253,12 +263,11 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     samprotavimo priskyrimas būtų anachronizmas, bet esmėje jis
     yra teisingas.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-88233
@@ -279,6 +288,5 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-92730
-
+  pagrindzia:
+    - t-004

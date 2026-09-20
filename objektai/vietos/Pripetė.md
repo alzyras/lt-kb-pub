@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Pripetė'
+pavadinimas: Pripetė
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1936 m.'
-  - '2026 m.'
+  - 1936 m.
+  - 2026 m.
 date_start: '1936'
 date_end: '2026'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - vieta
   - upė
 amziai:
-  - 'XX'
-  - 'XXI'
+  - XX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ee9f9525e4cb60932abf89fa"
-canonical_name: "Pripetė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pripetė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ee9f9525e4cb60932abf89fa
+canonical_name: Pripetė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pripetė
 sameAs: []
-canonical_biography: "Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla. Kaidanas Pripetės žiotyse įrengė karo stovyklą ir išsiuntė būrius niokoti krašto. Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus."
+canonical_biography: 'Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla. Kaidanas Pripetės žiotyse įrengė karo stovyklą ir išsiuntė būrius niokoti krašto. Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Prypjat (Fluss)","url":"https://de.wikipedia.org/wiki/Prypjat_(Fluss)","publisher":"Wikipedia (vokiečių)","kind":"encyclopedia","status":"published","confidence":0.99,"language":"de"},{"title":"Pripetė","url":"https://www.vle.lt/straipsnis/pripete/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:18:39+00:00","source_checked_at":"2026-09-19T21:18:39+00:00","counts":{"relations":2,"gallery":0,"sources":4},"featured_claim_ids":["t-183082","t-213506","t-213778","t-214315","t-212787","t-212835","t-213839"],"featured_claims":[{"claim_id":"t-183082","text":"Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-166471"]},{"claim_id":"t-213506","text":"Teodoras Narbutas aiškina, kad Pripetė Padneprės slėnyje kadaise tekėjo lygiagrečiai Dneprui ir sudarė jo dešiniąją vagą.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-197512"]},{"claim_id":"t-213778","text":"Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196417"]},{"claim_id":"t-214315","text":"Pripetė tekste apibūdinama kaip senovinė vakarinė Dnepro šaka, kurios baseinas jungėsi su Nemuno sistema.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-194683"]},{"claim_id":"t-212787","text":"Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti palei senas Rusijos sienas su Lietuvos valstybe, de šiniojoje driekiasi už Borisovo.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-195885"]},{"claim_id":"t-212835","text":"Narbutas nurodo, kad Dnepro vidurupyje pilkapių ypač daug nuo Sklovo aukštupio iki Pripetės žiočių.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-197682"]},{"claim_id":"t-213839","text":"Pagaliau Pripetė ten, kur ji dabar įteka į Padneprės slėnį, plaukė maždaug varsto atstumu savo slė niu lygiagrečiai su kairiąja Dnepro vaga.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-197512"]}],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Prypjat (Fluss)","url":"https://de.wikipedia.org/wiki/Prypjat_(Fluss)","publisher":"Wikipedia (vokiečių)","language":"de","article_id":"56252","revision_id":"266928749","published_at":"2026-05-09T18:46:25Z","version_pk":"","content_hash":"5a06f5355db8357749186f6a57ca8715c16ea3fc2981b83346227445cb34dcc6","retrieved_at":"2026-09-19T21:16:27+00:00","history_url":"https://de.wikipedia.org/w/index.php?title=Prypjat_(Fluss)&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"56252"}},"intro":"Pripetė (ukrainietiškai Прип''ять, baltarusiškai Прыпяць Prypjac, rusiškai Припять Pripiat, lenkiškai Prypeć, lietuviškai Pripetė, vokiškai Pripjet, pasenęs pavadinimas Pripetz) yra vienas didžiausių Dniepro intakų Baltarusijoje ir Ukrainoje.","original_intro":"Der Prypjat (ukrainisch Прип''ять, belarussisch Прыпяць Prypjaz, russisch Припять Pripjat, polnisch Prypeć, litauisch Pripetė, deutsch Pripjet, veraltet Pripetz) ist einer der größten Nebenflüsse des Dnepr in Belarus und in der Ukraine.","translation_status":"translated_verified","infobox":[],"identity_signals":{"exact_title":false,"api_redirect":true,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"de","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Wikipedia (vokiečių)","title":"Prypjat (Fluss)","url":"https://de.wikipedia.org/wiki/Prypjat_(Fluss)","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Pripetė","url":"https://www.vle.lt/straipsnis/pripete/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://de.wikipedia.org/wiki/Prypjat_(Fluss)","https://www.vle.lt/straipsnis/pripete/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"4ab09865622f3468b2b6ca81","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Senovinė vakarinė Dnepro šaka; Padneprės slėnyje tekėjo lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo dešiniąją vagą.","context":"Teodoro Narbuto aprašymas istoriniame kontekste.","support_ids":["t-213506","c-197512"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213506","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197512","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tų įdubų juos­ tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­ grindinės upės vandens lygis buvo gerokai aukštesnis, tekėdavo visais metų laikais. Plytėjo ilga įlanka, arba kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­ lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­ je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai ežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa- dneprės slėnį, plaukė maždaug varsto atstumu savo slė­ niu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­ šiniąją, senų geografų vadinamą Borysthenis occidentale latus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją šaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą…"}],"status":"published","conflict_status":"clear"},{"trait_id":"a5076d410660e2e4a53f6a9a","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Vandens baseinas jungėsi su Nemuno sistema.","context":"Teodoras Narbutas Pripetę apibūdina kaip senovėje vakarine Dnepro šaka laikytą upę; istorinis aprašymas.","support_ids":["t-214315","c-194683"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214315","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194683","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"atėjo į kairįjį krantą Pripetės, senovėje laikytos vakarine Dnepro šaka1, Pentikapo upe, kurios vandens baseinas jungėsi su Nemuno sistema"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"32f75622e02787001225e5fb","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Jungia Baltijos ir Juodosios jūros vandens baseinus.","context":"Teodoras Narbutas Pripetę tapatina su Pantikapu; istorinis autoriaus vertinimas.","support_ids":["t-213778","c-196417"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213778","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196417","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Pantikapas, o tai panašiausia į tikrovę, yra šiandienė Pripetė, jungianti Baltijos ir Juodosios jūros vandens baseinus. Šiuo vardu Skitijos geografijoje galėjo būti vadinama ne viena upė ir vietovė, nes žinoma, kad šiandien Kerčės tvirtovė sto­ vi ant Pantikapėjos miesto griuvėsių1. Taip pat nėra pagrindo neigti, kad šiandien Arklių Vandenimis vadina­ ma upė buvo kitados graikų vadinta Pantikapu."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"1761283881b86fdbb4fd9164","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Pripetės žiotys yra vietovė, ties kuria Dnepro vidurupyje ypač gausu pilkapių.","context":"Teodoro Narbuto aprašymas apie pilkapių paplitimą Baltarusijoje; istorinis kontekstas.","support_ids":["t-212787","c-195885"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212787","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195885","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tokių kalvų kartais randama išsibarsčiusių laukuose, netgi sausose pievose po dvi, kelias, o kai kur jų esti la­ bai daug netvarkingai išmėtytų įvairiomis kryptimis ir įvairaus dydžio: daugiausia vidutinių, mažiau mažų, o didelių nedaug, daugiausia stūkso atskirai, nuošaliau nuo kitų ar poromis. Paprastai jos būva netoli gyvenviečių arba joms tinkamose vietose. Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti palei senas Rusijos sienas su Lietuvos valstybe, de­ šiniojoje driekiasi už Borisovo apskrities net iki tikrosios Lietuvos."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Pripetė yra upė, aprašomuose šaltiniuose siejama su Dnepro slėniu ir Baltijos bei Juodosios jūros vandens keliais. Teodoras Narbutas teigia, kad ties įtekėjimu į Padneprės slėnį ji kadaise tekėjo maždaug varsto atstumu lygiagrečiai su kairiąja Dnepro vaga ir sudarė senąją dešiniąją jo vagą. Tame pačiame pasakojime Pripetė apibūdinama kaip senovinė vakarinė Dnepro šaka, kurios baseinas jungėsi su Nemuno sistema. Narbutas taip pat spėja, kad Pripetė galėjo būti senovės geografijoje minima Pantikapo upė, jungianti Baltijos ir Juodosios jūros baseinus. Jos regioninė reikšmė atsiskleidžia ir per kanalą, jungusį Pripetės intaką Piną su Bugo intaku Muchavcu: šis vandens kelias sudarė susisiekimą tarp Dniepro ir Vyslos.","sentences":[{"sentence_id":"s1","text":"Pripetė yra upė, aprašomuose šaltiniuose siejama su Dnepro slėniu ir Baltijos bei Juodosios jūros vandens keliais.","support_ids":["t-213506","t-213778"]},{"sentence_id":"s2","text":"Teodoras Narbutas teigia, kad ties įtekėjimu į Padneprės slėnį ji kadaise tekėjo maždaug varsto atstumu lygiagrečiai su kairiąja Dnepro vaga ir sudarė senąją dešiniąją jo vagą.","support_ids":["t-213506","t-213839"]},{"sentence_id":"s3","text":"Tame pačiame pasakojime Pripetė apibūdinama kaip senovinė vakarinė Dnepro šaka, kurios baseinas jungėsi su Nemuno sistema.","support_ids":["t-214315"]},{"sentence_id":"s4","text":"Narbutas taip pat spėja, kad Pripetė galėjo būti senovės geografijoje minima Pantikapo upė, jungianti Baltijos ir Juodosios jūros baseinus.","support_ids":["t-213778"]},{"sentence_id":"s5","text":"Jos regioninė reikšmė atsiskleidžia ir per kanalą, jungusį Pripetės intaką Piną su Bugo intaku Muchavcu: šis vandens kelias sudarė susisiekimą tarp Dniepro ir Vyslos.","support_ids":["t-183082"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniais: Pripetė minima kaip upė, susijusi su Padneprės slėniu ir Baltijos bei Juodosios jūros baseinais."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina lygiagretų tekėjimą su kairiąja Dnepro vaga ir senosios dešiniosios vagos sudarymą."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai apibūdina Pripetę kaip senovinę vakarinę Dnepro šaką, kurios baseinas jungėsi su Nemuno sistema."},{"sentence_id":"s4","supported":true,"reason":"Narbutas tiesiogiai tapatina Pantikapą su Pripete ir nurodo, kad ji jungė Baltijos bei Juodosios jūros baseinus."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo kanalą tarp Pinos ir Muchavco bei jo sudarytą kelią Dniepru ir Vysla."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-213506","t-213778"]},{"sentence_id":"s2","supported":false,"support_ids":["t-213506","t-213839"]},{"sentence_id":"s3","supported":false,"support_ids":["t-214315"]},{"sentence_id":"s4","supported":false,"support_ids":["t-213778"]},{"sentence_id":"s5","supported":false,"support_ids":["t-183082"]}],"verifier":"gpt-5.6-luna"},"quality":53,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Gelonai","claim_id":"t-214484","confidence":0.76},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/grupes/Jotvingiai","claim_id":"t-215150","confidence":0.62}],"timeline":[],"support_disclosure":{"claims":8,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e3d04c38937d0c57
+object_page_generated_at: '2026-09-19T21:18:39+00:00'
+object_page_source_checked_at: '2026-09-19T21:18:39+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '2'
+object_page_seo_description: 'Pripetė yra upė, aprašomuose šaltiniuose siejama su Dnepro slėniu ir Baltijos bei Juodosios jūros vandens keliais. Teodoras Narbutas teigia, kad ties…'
+object_page_seo_input_hash: c541caf18aadb395578174ff69eeb8d5f4955045edb624c90f52530bea34f0ef
+object_page_seo_generated_at: '2026-09-19T21:18:39+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Pripetė
 
@@ -48,72 +60,10 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
 
 ## Teiginiai
 
-<a id="claim-t-214315"></a>
-- t-214315
-  teiginys: "Pripetė tekste apibūdinama kaip senovinė vakarinė Dnepro šaka, kurios baseinas jungėsi su Nemuno sistema."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194683
-
-<a id="claim-t-212787"></a>
-- t-212787
-  teiginys: "Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti palei senas Rusijos sienas su Lietuvos valstybe, de šiniojoje driekiasi už Borisovo."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195885
-
-<a id="claim-t-212835"></a>
-- t-212835
-  teiginys: "Narbutas nurodo, kad Dnepro vidurupyje pilkapių ypač daug nuo Sklovo aukštupio iki Pripetės žiočių."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Borisovas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pripetė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Borisovas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pripetė\" parinktas kaip owner_note_path. Targetas \"Borisovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-
-<a id="claim-t-213778"></a>
-- t-213778
-  teiginys: "Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pripetė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pripetė\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-196417
-
 <a id="claim-t-183082"></a>
-- t-183082
+- t-001
   teiginys: "Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -129,10 +79,49 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   pagrindžia:
     - c-166471
 
-<a id="claim-t-213506"></a>
-- t-213506
+<a id="claim-t-185100"></a>
+- t-002
+  teiginys: "Kaidanas Pripetės žiotyse įrengė karo stovyklą ir išsiuntė būrius niokoti krašto."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Dniepras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pripetė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dniepras: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pripetė\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168461
+
+<a id="claim-t-192724"></a>
+- t-003
+  teiginys: "Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pripetė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pripetė\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175494
+
+<a id="claim-t-192725"></a>
+- t-004
   teiginys: "Teodoras Narbutas aiškina, kad Pripetė Padneprės slėnyje kadaise tekėjo lygiagrečiai Dneprui ir sudarė jo dešiniąją vagą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -146,26 +135,52 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pripetė\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175495
 
-<a id="claim-t-213839"></a>
-- t-213839
-  teiginys: "Pagaliau Pripetė ten, kur ji dabar įteka į Padneprės slėnį, plaukė maždaug varsto atstumu savo slė niu lygiagrečiai su kairiąja Dnepro vaga."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-192726"></a>
+- t-005
+  teiginys: "Narbutas nurodo, kad Dnepro vidurupyje pilkapių ypač daug nuo Sklovo aukštupio iki Pripetės žiočių."
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Borisovas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pripetė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Borisovas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pripetė\" parinktas kaip owner_note_path. Targetas \"Borisovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175496
 
-<a id="claim-t-214498"></a>
-- t-214498
+<a id="claim-t-197907"></a>
+- t-006
   teiginys: "Pagaliau Pripetė ten, kur ji dabar įteka į Padneprės slėnį, plaukė maždaug varsto atstumu savo slė niu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de šiniąją, senų geografų vadinamą Borysthenis occidentale latus vagą, kuri įsiliejo priešais Desnos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-175495
+
+<a id="claim-t-197908"></a>
+- t-007
+  teiginys: "Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti palei senas Rusijos sienas su Lietuvos valstybe, de šiniojoje driekiasi už Borisovo."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179390
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -207,8 +222,8 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183082
+  pagrindzia:
+    - t-001
 
 - id: c-168461
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -229,6 +244,8 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-175494
   autorius: "Teodoras Narbutas"
@@ -249,6 +266,8 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-175495
   autorius: "Teodoras Narbutas"
@@ -281,6 +300,9 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+    - t-006
 
 - id: c-175496
   autorius: "Teodoras Narbutas"
@@ -310,6 +332,8 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-179390
   autorius: "Teodoras Narbutas"
@@ -335,73 +359,5 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194683
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
-  citata_originali: |
-    atėjo į kairįjį krantą Pripetės, senovėje laikytos
-    vakarine Dnepro šaka1, Pentikapo upe, kurios vandens
-    baseinas jungėsi su Nemuno sistema
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214315
-
-- id: c-195885
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 381"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
-  citata_originali: |
-    Tokių kalvų kartais randama išsibarsčiusių laukuose,
-    netgi sausose pievose po dvi, kelias, o kai kur jų esti la­
-    bai daug netvarkingai išmėtytų įvairiomis kryptimis ir
-    įvairaus dydžio: daugiausia vidutinių, mažiau mažų, o
-    didelių nedaug, daugiausia stūkso atskirai, nuošaliau nuo
-    kitų ar poromis. Paprastai jos būva netoli gyvenviečių
-    arba joms tinkamose vietose.
-    Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
-    daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
-    Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
-    palei senas Rusijos sienas su Lietuvos valstybe, de­
-    šiniojoje driekiasi už Borisovo apskrities net iki tikrosios
-    Lietuvos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212787
-
-- id: c-196417
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 54"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
-  citata_originali: |
-    Pantikapas, o
-    tai panašiausia į tikrovę, yra šiandienė Pripetė, jungianti
-    Baltijos ir Juodosios jūros vandens baseinus. Šiuo vardu
-    Skitijos geografijoje galėjo būti vadinama ne viena upė
-    ir vietovė, nes žinoma, kad šiandien Kerčės tvirtovė sto­
-    vi ant Pantikapėjos miesto griuvėsių1. Taip pat nėra
-    pagrindo neigti, kad šiandien Arklių Vandenimis vadina­
-    ma upė buvo kitados graikų vadinta Pantikapu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213778
-
+  pagrindzia:
+    - t-007

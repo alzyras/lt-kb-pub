@@ -34,6 +34,29 @@ media_all_json: |-
 
 1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į pagalbą. 1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos. Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.
 
+## Teiginiai
+
+<a id="claim-t-66320"></a>
+- t-001
+  teiginys: "1923 m. sausio 24 d. Lietuvos Seimas patenkino VMLGK prašymą dėl pagalbos Klaipėdos kraštui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Vyriausias Mažosios Lietuvos gelbėjimo komitetas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos seimas (seimas): llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vyriausias Mažosios Lietuvos gelbėjimo komitetas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Seimas patenkino komiteto pagalbos prašymą, todėl tiesiogiai išreikšta institucinė parama."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuvos seimas (seimas) rėmė Vyriausias Mažosios Lietuvos gelbėjimo komitetas (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1923 m.; įvykio data: 1924 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Antroji sakinio dalis labiau apie Ambasadorių konferenciją, todėl teiginys sutelktas į VMLGK prašymą."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  pagrindžia:
+    - c-22823
+
 ## Citatos
 
 - id: c-22823
@@ -55,29 +78,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-66320"></a>
-- t-001
-  teiginys: "1923 m. sausio 24 d. Lietuvos Seimas patenkino VMLGK prašymą dėl pagalbos Klaipėdos kraštui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vyriausias Mažosios Lietuvos gelbėjimo komitetas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos seimas (seimas): llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vyriausias Mažosios Lietuvos gelbėjimo komitetas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Seimas patenkino komiteto pagalbos prašymą, todėl tiesiogiai išreikšta institucinė parama."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuvos seimas (seimas) rėmė Vyriausias Mažosios Lietuvos gelbėjimo komitetas (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1923 m.; įvykio data: 1924 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Antroji sakinio dalis labiau apie Ambasadorių konferenciją, todėl teiginys sutelktas į VMLGK prašymą."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-22823
-

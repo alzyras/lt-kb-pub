@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kristburgo brolių pergalė prieš pagudėnus'
+pavadinimas: Kristburgo brolių pergalė prieš pagudėnus
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kristburgo brolių pergalė prieš pagudėnus
 
@@ -74,6 +71,5 @@ Ditrichas Rodė su šimtu brolių ir maldininkų apiplėšė Pagudės žemę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -46,23 +46,10 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
 
 ## Teiginiai
 
-<a id="claim-t-200788"></a>
-- t-003
-  teiginys: "Šv. Jono bažnyčios puošnus fasadas uždarė ketvirtąją Didžiojo rūmų kiemo pusę, kai kitos trys buvo apsuptos arkadomis."
-  atnaujinta: "2026-07-14 21:36"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
-  vertinimo_atnaujinta: "2026-07-14T18:29:35Z"
-  pagrindžia:
-    - c-184133
-
 <a id="claim-t-86280"></a>
-- t-86280
+- t-001
   teiginys: "Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Goštautai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -76,13 +63,26 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
     - c-82260
 
 <a id="claim-t-86281"></a>
-- t-86281
+- t-002
   teiginys: "Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82259
+
+<a id="claim-t-200788"></a>
+- t-003
+  teiginys: "Šv. Jono bažnyčios puošnus fasadas uždarė ketvirtąją Didžiojo rūmų kiemo pusę, kai kitos trys buvo apsuptos arkadomis."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:35Z"
+  pagrindžia:
+    - c-184133
 
 ## Citatos
 
@@ -106,8 +106,8 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-86281
+  pagrindzia:
+    - t-002
 
 - id: c-82260
   autorius: "Michał Baliński"
@@ -130,8 +130,8 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-86280
+  pagrindzia:
+    - t-001
 
 - id: c-184133
   autorius: "Mikalojus Vorobjovas"
@@ -144,11 +144,9 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
     niu šv. Jono bažnyčios fasadu, šis kiemas žavi mus plačia ir vienkart dar­
     niai organizuota erdve.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

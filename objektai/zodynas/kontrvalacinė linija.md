@@ -28,6 +28,20 @@ Kontrvalacinė linija apibrėžiama kaip apgulėjų aplink tvirtovę blokados me
 
 Kontrvalacinė linija apibrėžiama kaip apgulėjų aplink tvirtovę blokados metu statoma karinė vidinė koncentrinė įtvirtinta pozicija.
 
+## Teiginiai
+
+<a id="claim-t-206657"></a>
+- t-001
+  teiginys: "Kontrvalacinė linija apibrėžiama kaip apgulėjų aplink tvirtovę blokados metu statoma karinė vidinė koncentrinė įtvirtinta pozicija."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189272
+
 ## Citatos
 
 - id: c-189272
@@ -50,20 +64,5 @@ Kontrvalacinė linija apibrėžiama kaip apgulėjų aplink tvirtovę blokados me
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206657"></a>
-- t-001
-  teiginys: "Kontrvalacinė linija apibrėžiama kaip apgulėjų aplink tvirtovę blokados metu statoma karinė vidinė koncentrinė įtvirtinta pozicija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189272
-

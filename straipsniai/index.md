@@ -16,15 +16,15 @@ cssclasses:
 ## Publikacijos
 
 <a class="article-card article-card--valancius-imperija" href="/straipsniai/motiejus-valancius-ir-rusijos-imperija/">
-  <span class="article-card-kicker">Motiejaus Valančiaus ciklas · Redakcinė peržiūra</span>
-  <strong>Valančius ir Rusijos imperija</strong>
-  <span>Viešas lojalumas, 1863 metų laiškų redagavimas ir veikimas valdžios nustatytose ribose.</span>
+  <span class="article-card-kicker">Motiejaus Valančiaus ciklas</span>
+  <strong>Valančius ir caro valdžia</strong>
+  <span>Kodėl Valančius pasirašė valdžios reikalaujamą laišką ir kaip vėliau organizavo draudžiamų knygų leidimą.</span>
   <em>Skaityti straipsnį →</em>
 </a>
 
 <a class="article-card article-card--valancius-kasdienybe" href="/straipsniai/kaip-valancius-keite-kasdienybe/">
-  <span class="article-card-kicker">Motiejaus Valančiaus ciklas · Redakcinė peržiūra</span>
-  <strong>Kai kaimas atsisakė degtinės</strong>
+  <span class="article-card-kicker">Motiejaus Valančiaus ciklas</span>
+  <strong>Kodėl kaimas gėrė ir kaip Valančius ragino negerti</strong>
   <span>Karčema, dvaro pajamos ir blaivybės pažadas: ką Valančiaus sąjūdis pakeitė žmonių gyvenime?</span>
   <em>Skaityti straipsnį →</em>
 </a>

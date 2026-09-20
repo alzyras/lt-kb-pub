@@ -39,6 +39,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205252"></a>
+- t-001
+  teiginys: "Šie misionieriai, naudodamiesi savo mokytojo metodais, gerbdami žmonių papročius, kuriuos buvo pas tebėję, visur stengėsi prisitaikyti prie jų požiūrių, neprimesdami varginančių asketinių priedermių ir perdėto die votumo, dėl ko vienuoliai savo celėse anuos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188174
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šie misionieriai, naudodamiesi savo mokytojo metodais, gerbdami žmonių papročius, kuriuos buvo pas tebėję, visur stengėsi prisitaikyti prie jų požiūrių, neprimesdami varginančių asketinių priedermių ir perdėto die votumo, dėl ko vienuoliai savo celėse anuos.'
@@ -88,21 +103,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205252"></a>
-- t-001
-  teiginys: "Šie misionieriai, naudodamiesi savo mokytojo metodais, gerbdami žmonių papročius, kuriuos buvo pas tebėję, visur stengėsi prisitaikyti prie jų požiūrių, neprimesdami varginančių asketinių priedermių ir perdėto die votumo, dėl ko vienuoliai savo celėse anuos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-188174
-

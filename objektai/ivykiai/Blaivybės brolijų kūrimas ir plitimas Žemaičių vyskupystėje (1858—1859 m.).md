@@ -44,6 +44,35 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-66501"></a>
+- t-001
+  teiginys: "1858 m. pradėtas blaivybės brolijų darbas greitai išsiplėtė, o daugumas tikinčiųjų pasižadėjo niekada nebegerti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66714
+
+<a id="claim-t-66502"></a>
+- t-002
+  teiginys: "Vyskupo Valančiaus valdoma Žemaičių vyskupystė tapo vieta, kur Lietuvoje blaivybės skelbimas turėjo didžiausią pasisekimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66715
+
+<a id="claim-t-66503"></a>
+- t-003
+  teiginys: "Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 procentai gyventojų, todėl sumažėjo iždo degtinės pajamos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66713
+
 ## Citatos
 
 - id: c-66713
@@ -64,7 +93,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-66714
@@ -84,7 +113,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-66715
@@ -107,35 +136,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-66501"></a>
-- t-001
-  teiginys: "1858 m. pradėtas blaivybės brolijų darbas greitai išsiplėtė, o daugumas tikinčiųjų pasižadėjo niekada nebegerti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66714
-
-<a id="claim-t-66502"></a>
-- t-002
-  teiginys: "Vyskupo Valančiaus valdoma Žemaičių vyskupystė tapo vieta, kur Lietuvoje blaivybės skelbimas turėjo didžiausią pasisekimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66715
-
-<a id="claim-t-66503"></a>
-- t-003
-  teiginys: "Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 procentai gyventojų, todėl sumažėjo iždo degtinės pajamos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66713
-

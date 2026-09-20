@@ -27,6 +27,21 @@ media_all_json: |-
 
 Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstiečių dar mokėtą liudijimą apie Pilvytės mito žinomumą. Narbutas aiškino, kad Strijkovskio Pilwitos arba Pilwite reiškia turto deivę.
 
+## Teiginiai
+
+<a id="claim-t-189557"></a>
+- t-001
+  teiginys: "Narbutas aiškino, kad Strijkovskio Pilwitos arba Pilwite reiškia turto deivę."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172445
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstiečių dar mokėtą liudijimą apie Pilvytės mito žinomumą.'
@@ -69,17 +84,5 @@ Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstieči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-218811"></a>
-- t-001
-  teiginys: "Narbutas aiškino, kad Strijkovskio Pilwitos arba Pilwite reiškia turto deivę."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-
+  pagrindzia:
+    - t-001

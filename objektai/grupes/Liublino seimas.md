@@ -27,6 +27,30 @@ media_all_json: |-
 
 Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami, kad abidvi valstybės pasiliktų savarankiškos. Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi išsiderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti. Toliau dar nustatoma, kad abi jungtinės valstybės turėsiančios bendrus seimus (. 8), kurie visada rinksiąsi Lenkijoje (. 16; sudarius uniją, tas pats Liublino seimas nutarė, kad seimai turės rinktis Varšuvoje).
 
+## Teiginiai
+
+<a id="claim-t-65847"></a>
+- t-001
+  teiginys: "Liublino seime lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai siekė išlaikyti abiejų valstybių savarankiškumą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66214
+
+<a id="claim-t-193113"></a>
+- t-002
+  teiginys: "Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi išsiderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-175873
+
 ## Citatos
 
 - id: c-66214
@@ -51,7 +75,7 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-175873
@@ -81,30 +105,5 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-65847"></a>
-- t-001
-  teiginys: "Liublino seime lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai siekė išlaikyti abiejų valstybių savarankiškumą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66214
-
-<a id="claim-t-193113"></a>
-- t-002
-  teiginys: "Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi išsiderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-175873
-

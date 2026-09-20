@@ -46,6 +46,58 @@ historical_names: []
 
 Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18. Trejybės prie­ glauda (špitolė), mieste garsi savo labdaringa veikla.
 
+## Teiginiai
+
+<a id="claim-t-195211"></a>
+- t-001
+  teiginys: "Dvasios bažnyčios pastatyti vie šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado vaujant Vilniaus vyskupui18."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177575
+
+<a id="claim-t-195212"></a>
+- t-002
+  teiginys: "Karalius testamentu pavedė seserims plėsti Švč. Trejybės prieglaudą, supirkinėjant aplinkinius namus."
+  atnaujinta: "2026-07-19 17:26"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata palaiko prieglaudos plėtimo pavedimą, bet pradinis teiginys nutrūkęs."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177576
+
+<a id="claim-t-195213"></a>
+- t-003
+  teiginys: "1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra aiškus, enciklopedinis ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1545 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, enciklopedinis ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177577
+
+<a id="claim-t-195214"></a>
+- t-004
+  teiginys: "Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata palaiko prieglaudos plėtimo faktą, bet pradinis teiginys yra OCR fragmentas."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Namas|Namas]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177578
+
 ## Citatos
 
 - id: c-177575
@@ -69,7 +121,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177576
@@ -91,7 +143,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177577
@@ -112,7 +164,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-177578
@@ -136,58 +188,5 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-## Teiginiai
-
-<a id="claim-t-195211"></a>
-- t-001
-  teiginys: "Dvasios bažnyčios pastatyti vie šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado vaujant Vilniaus vyskupui18."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177575
-
-<a id="claim-t-195212"></a>
-- t-002
-  teiginys: "Karalius testamentu pavedė seserims plėsti Švč. Trejybės prieglaudą, supirkinėjant aplinkinius namus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata palaiko prieglaudos plėtimo pavedimą, bet pradinis teiginys nutrūkęs."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177576
-
-<a id="claim-t-195213"></a>
-- t-003
-  teiginys: "1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus, enciklopedinis ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1545 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, enciklopedinis ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177577
-
-<a id="claim-t-195214"></a>
-- t-004
-  teiginys: "Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata palaiko prieglaudos plėtimo faktą, bet pradinis teiginys yra OCR fragmentas."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Namas|Namas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177578
-

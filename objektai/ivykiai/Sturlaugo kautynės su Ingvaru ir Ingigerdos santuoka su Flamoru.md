@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Sturlaugo kautynės su Ingvaru ir Ingigerdos santuoka su Flamoru'
+pavadinimas: Sturlaugo kautynės su Ingvaru ir Ingigerdos santuoka su Flamoru
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Sturlaugo kautynės su Ingvaru ir Ingigerdos santuoka su Flamoru
 
@@ -72,6 +69,5 @@ Sturlaugas kautynėse nužudė Ingvarą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

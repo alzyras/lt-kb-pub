@@ -32,6 +32,44 @@ media_all_json: |-
 
 Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogystės bažnytinei valdžiai Karaliaučiuje, vadinamajai Sambijos konsistorijai. 1615 m.liuteronų bendruomenės bažnytinių mokesčių knygose buvo įrašyta l30 tokių mokesčių mokėto jų, t. 1655 m. Jonas Kazimieras nusprendė, kad tie liuteronai, kurie turi Kaune nekilnojamojo turto ir yra miestui prisiekę, yra miesto piliečiai, turi teisę naudotis visomis miestiečių teisėmis; kad tiems liuteronams, kurie Kaune jau yra įsikūrę ar atėję užkuriais.
 
+## Teiginiai
+
+<a id="claim-t-201833"></a>
+- t-001
+  teiginys: "Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogystės bažnytinei valdžiai Karaliaučiuje, vadinamajai Sambijos konsistorijai."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185180
+
+<a id="claim-t-201834"></a>
+- t-002
+  teiginys: "1615 m.liuteronų bendruomenės bažnytinių mokesčių knygose buvo įrašyta l30 tokių mokesčių mokėto jų, t."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185181
+
+<a id="claim-t-201835"></a>
+- t-003
+  teiginys: "1655 m. Jonas Kazimieras nusprendė, kad tie liuteronai, kurie turi Kaune nekilnojamojo turto ir yra miestui prisiekę, yra miesto piliečiai, turi teisę naudotis visomis miestiečių teisėmis; kad tiems liuteronams, kurie Kaune jau yra įsikūrę ar atėję užkuriais."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185182
+
 ## Citatos
 
 - id: c-185180
@@ -51,7 +89,7 @@ Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogyst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185181
@@ -70,7 +108,7 @@ Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogyst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-185182
@@ -90,44 +128,5 @@ Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogyst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-201833"></a>
-- t-001
-  teiginys: "Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogystės bažnytinei valdžiai Karaliaučiuje, vadinamajai Sambijos konsistorijai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185180
-
-<a id="claim-t-201834"></a>
-- t-002
-  teiginys: "1615 m.liuteronų bendruomenės bažnytinių mokesčių knygose buvo įrašyta l30 tokių mokesčių mokėto jų, t."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185181
-
-<a id="claim-t-201835"></a>
-- t-003
-  teiginys: "1655 m. Jonas Kazimieras nusprendė, kad tie liuteronai, kurie turi Kaune nekilnojamojo turto ir yra miestui prisiekę, yra miesto piliečiai, turi teisę naudotis visomis miestiečių teisėmis; kad tiems liuteronams, kurie Kaune jau yra įsikūrę ar atėję užkuriais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185182
-

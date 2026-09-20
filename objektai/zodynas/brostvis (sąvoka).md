@@ -29,6 +29,20 @@ media_all_json: |-
 
 Kryžėjai tame džiaugsme užmiršo, jog antra dalis Sviatopelko kariaunos buvo dar liuosa, kuri, gavusi pragumą susirindoti ir 4000 lietuvių ir žemaičių susinerti, grūdos ant kryžėjų su visų didžiausia narsybe, tuojau patį marčelgą Berleviną ir visus brostvius.
 
+## Teiginiai
+
+<a id="claim-t-201209"></a>
+- t-001
+  teiginys: "Kryžėjai tame džiaugsme užmiršo, jog antra dalis Sviatopelko kariaunos buvo dar liuosa, kuri, gavusi pragumą susirindoti ir 4000 lietuvių ir žemaičių susinerti, grūdos ant kryžėjų su visų didžiausia narsybe, tuojau patį marčelgą Berleviną ir visus brostvius."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184559
+
 ## Citatos
 
 - id: c-184559
@@ -59,20 +73,5 @@ Kryžėjai tame džiaugsme užmiršo, jog antra dalis Sviatopelko kariaunos buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201209"></a>
-- t-001
-  teiginys: "Kryžėjai tame džiaugsme užmiršo, jog antra dalis Sviatopelko kariaunos buvo dar liuosa, kuri, gavusi pragumą susirindoti ir 4000 lietuvių ir žemaičių susinerti, grūdos ant kryžėjų su visų didžiausia narsybe, tuojau patį marčelgą Berleviną ir visus brostvius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184559
-

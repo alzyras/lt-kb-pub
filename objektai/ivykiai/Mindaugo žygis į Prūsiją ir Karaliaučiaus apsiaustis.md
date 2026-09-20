@@ -39,6 +39,33 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-193476"></a>
+- t-001
+  teiginys: "Sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-176177
+
+<a id="claim-t-196224"></a>
+- t-002
+  teiginys: "Kojelavičiaus aiškinimu, Mindaugas po žygio į Prūsiją kurstė prūsus atsimesti nuo kryžiuočių ir, pasiuntęs žemaičių karių, vėl sukėlė karą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178585
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją.'
@@ -89,6 +116,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-178585
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -113,21 +142,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-196224"></a>
-- t-001
-  teiginys: "Kojelavičiaus aiškinimu, Mindaugas po žygio į Prūsiją kurstė prūsus atsimesti nuo kryžiuočių ir, pasiuntęs žemaičių karių, vėl sukėlė karą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178585
-
+  pagrindzia:
+    - t-002

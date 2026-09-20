@@ -69,11 +69,9 @@ Zigmas Aleksa-Angarietis 1769 m. įvykius įvardijo „plačiausiu valstiečių 
     įvykius Z. Angarietis įvardijo „plačiausiu valstiečių suki-
     limu XVIII amžiuje“.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

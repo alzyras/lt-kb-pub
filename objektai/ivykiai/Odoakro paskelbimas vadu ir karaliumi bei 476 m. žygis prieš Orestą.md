@@ -39,6 +39,53 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-191048"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi, o Odoakras iš Panonijos išžygiavo prieš Orestą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "paskyre -> Odoakras: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skiriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Skiriai tiesiogiai įvardyti tarp genčių, paskelbusių Odoakrą vadu ir karaliumi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Herulai paskyrė Odoakras (0.86); Skiriai paskyrė Odoakras (0.86)"
+  temporaliniai_duomenys: "įvykio data: 476 m"
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Herulai paskyrė Odoakras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skiriai paskyrė Odoakras“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išlaikytas įvykio subjektas, data, gentys ir Odoakro veiksmas. Valdovo titulo vartojimas paliktas su Narbuto atribucija, nepridedant papildomų žygio detalių."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-173930
+
+<a id="claim-t-191049"></a>
+- t-002
+  teiginys: "Odoakro kariuomenei apgulus Paviją, miestas buvo užimtas, apiplėštas ir sunaikintas, o Orestas žuvo."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Orestas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Orestas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Orestas žuvo Odoakro kariuomenės apgulties ir miesto užėmimo metu, todėl tiesiogiai yra priešininkas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Odoakras kariavo prieš Orestas (0.82); Odoakras apgulė Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą (0.78)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173931
+
 ## Citatos
 
 - id: c-173930
@@ -66,6 +113,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-173931
   autorius: "Teodoras Narbutas"
@@ -87,47 +136,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-212977"></a>
-- t-001
-  teiginys: "Odoakro kariuomenei apgulus Paviją, miestas buvo užimtas, apiplėštas ir sunaikintas, o Orestas žuvo."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Orestas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Orestas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Orestas žuvo Odoakro kariuomenės apgulties ir miesto užėmimo metu, todėl tiesiogiai yra priešininkas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Odoakras kariavo prieš Orestas (0.82); Odoakras apgulė Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą (0.78)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-
-<a id="claim-t-214898"></a>
-- t-002
-  teiginys: "Narbutas rašo, kad 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi, o Odoakras iš Panonijos išžygiavo prieš Orestą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "paskyre -> Odoakras: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skiriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Skiriai tiesiogiai įvardyti tarp genčių, paskelbusių Odoakrą vadu ir karaliumi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Herulai paskyrė Odoakras (0.86); Skiriai paskyrė Odoakras (0.86)"
-  temporaliniai_duomenys: "įvykio data: 476 m"
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Herulai paskyrė Odoakras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skiriai paskyrė Odoakras“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išlaikytas įvykio subjektas, data, gentys ir Odoakro veiksmas. Valdovo titulo vartojimas paliktas su Narbuto atribucija, nepridedant papildomų žygio detalių."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
+  pagrindzia:
+    - t-002

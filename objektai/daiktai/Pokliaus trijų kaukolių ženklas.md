@@ -49,17 +49,15 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-217846"></a>
-- t-217846
-  teiginys: "Pokliaus ženklas buvo trys kaukolės: žmogaus, jaučio ir arklio."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+<a id="claim-t-187983"></a>
+- t-001
+  teiginys: "Narbutas Pokliaus ženklą apibūdina kaip tris kaukoles: žmogaus, jaučio ir arklio."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "gap::items"
+  teiginio_tipas: "saltinio_teiginys"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-200803
+    - c-170990
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -95,21 +93,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-200803
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 107"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 107."
-  citata_originali: |
-    Pokliaus ženklas buvo trys kaukolės: žmogaus, jaučio ir
-    arklio.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217846
-
+  pagrindzia:
+    - t-001

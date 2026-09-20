@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Chadži-bėjus'
+pavadinimas: Chadži-bėjus
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-1905d3e278d1d1487a94707e"
-canonical_name: "Chadži-bėjus"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Chadži-bėjus"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-1905d3e278d1d1487a94707e
+canonical_name: Chadži-bėjus
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Chadži-bėjus
 sameAs: []
-canonical_biography: "Didysis kunigaikštis Algirdas, sutelkęs savo lietuvių pajėgas, išžygiavo į žygį ir ties Mėly naisiais Vandenimis sumušė totorius 1 — tris brolius: Chadži-bėjų, Kutiubugą 2 ir Dimitrą."
+canonical_biography: 'Didysis kunigaikštis Algirdas, sutelkęs savo lietuvių pajėgas, išžygiavo į žygį ir ties Mėly naisiais Vandenimis sumušė totorius 1 — tris brolius: Chadži-bėjų, Kutiubugą 2 ir Dimitrą.'
 ---
 # Chadži-bėjus
 
@@ -68,6 +67,5 @@ Didysis kunigaikštis Algirdas, sutelkęs savo lietuvių pajėgas, išžygiavo �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

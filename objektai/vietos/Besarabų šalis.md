@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Besarabų šalis'
+pavadinimas: Besarabų šalis
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-494f07edee8622a615617c6f"
-canonical_name: "Besarabų šalis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Besarabų šalis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-494f07edee8622a615617c6f
+canonical_name: Besarabų šalis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Besarabų šalis
 sameAs: []
-canonical_biography: "Lietuvos metraštis teigia, kad ir Moldavų bei Besarabų šalies valdovai, valachų kalba vadinami vaivadomis5, ir Bu'garų šalies val dovas, bulgarų kalba vadinamas despotu6, ir kiti di dieji kunigaikščiai — Tverės didysis kunigaikštis, ir Riazanės didysis kunigaikštis, ir Odojevo didysis ku."
+canonical_biography: 'Lietuvos metraštis teigia, kad ir Moldavų bei Besarabų šalies valdovai, valachų kalba vadinami vaivadomis5, ir Bu''garų šalies val dovas, bulgarų kalba vadinamas despotu6, ir kiti di dieji kunigaikščiai — Tverės didysis kunigaikštis, ir Riazanės didysis kunigaikštis, ir Odojevo didysis ku.'
 ---
 # Besarabų šalis
 
@@ -69,6 +68,5 @@ Lietuvos metraštis teigia, kad ir Moldavų bei Besarabų šalies valdovai, vala
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -38,22 +38,10 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
 
 ## Teiginiai
 
-<a id="claim-t-211336"></a>
-- t-211336
-  teiginys: "Vytautas paėmė Pskovo miestą Krasnyj Gorodą."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194159
-
-<a id="claim-t-211798"></a>
-- t-211798
+<a id="claim-t-187241"></a>
+- t-001
   teiginys: "Krasnyj Gorod tapatinamas su Krasnogorodskoje, esančiu 30 km į šiaurės vakarus nuo Opočkos."
-  atnaujinta: "2026-09-12 19:43"
+  atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Opočka: 0.85"
@@ -65,11 +53,13 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krasnyj Gorod\" parinktas kaip owner_note_path. Targetas \"Opočka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170304
 
-<a id="claim-t-212038"></a>
-- t-212038
+<a id="claim-t-187242"></a>
+- t-002
   teiginys: "Komentare Krasnyj gorod tapatinamas su Krasnogorodskoje."
-  atnaujinta: "2026-09-12 19:43"
+  atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Krasnogorodskoje: 0.85"
@@ -80,11 +70,13 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   ryšio_targeto_parinkimas: "Krasnogorodskoje: mention_match, place, gap=29"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krasnyj Gorod\" parinktas kaip owner_note_path. Targetas \"Krasnogorodskoje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-170304
 
-<a id="claim-t-211396"></a>
-- t-211396
+<a id="claim-t-187587"></a>
+- t-003
   teiginys: "Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -98,6 +90,8 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas paėmė Krasnyj Gorod."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170534
 
 ## Citatos
 
@@ -116,6 +110,9 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002
 
 - id: c-170534
   autorius: "Anoniminis metraštininkas"
@@ -148,22 +145,5 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194159
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 102."
-  citata_originali: |
-    Sekančiais metais didysis kunigaikštis Vytautas išsi­
-    rengė prieš Pskovo miestą5 ir paėmė Pskovo miestus
-    Veližą6 ir Krasnyj Gorod7.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211336
-
+  pagrindzia:
+    - t-003

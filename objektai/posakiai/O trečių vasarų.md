@@ -45,6 +45,24 @@ Ji nurodoma kaip Bychovco kronikos laiko žymuo pereinant prie kito pasakojimo e
 
 Chronikinė datavimo formulė, rodanti trečią vasarą ar trečius metus įvykių sekoje.
 
+## Teiginiai
+
+<a id="claim-t-199232"></a>
+- t-001
+  teiginys: "Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Reikia glaudesnės sakinio formos be perteklinio įvado."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kerskorfas|Kerskorfas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Upytė; llm_object: Upytė"
+  temporaliniai_duomenys: "įvykio data: 1434 m.; įvykio data: 1435 m.; įvykio data: apie 1435 m.; įvykio data: 1971 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Reikia glaudesnės sakinio formos be perteklinio įvado."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-181748
+
 ## Citatos
 
 - id: c-181748
@@ -68,20 +86,5 @@ Chronikinė datavimo formulė, rodanti trečią vasarą ar trečius metus įvyki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210371"></a>
-- t-001
-  teiginys: "Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Reikia glaudesnės sakinio formos be perteklinio įvado."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kerskorfas|Kerskorfas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Upytė; llm_object: Upytė"
-  temporaliniai_duomenys: "įvykio data: 1434 m.; įvykio data: 1435 m.; įvykio data: apie 1435 m.; įvykio data: 1971 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Reikia glaudesnės sakinio formos be perteklinio įvado."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-
+  pagrindzia:
+    - t-001

@@ -33,6 +33,25 @@ canonical_biography: "Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros k
 
 Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.
 
+## Teiginiai
+
+<a id="claim-t-30317"></a>
+- t-001
+  teiginys: "Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Sviatoslavas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jurgis (Sviatoslavo sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sviatoslavas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Jurgis buvo Sviatoslavo sūnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jurgis (Sviatoslavo sūnus) buvo sūnus Sviatoslavas (0.93)"
+  pagrindžia:
+    - c-32764
+
 ## Citatos
 
 - id: c-32764
@@ -51,28 +70,8 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sviatoslavas]]
-
-## Teiginiai
-
-<a id="claim-t-30317"></a>
-- t-001
-  teiginys: "Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Sviatoslavas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis (Sviatoslavo sūnus): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sviatoslavas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Jurgis buvo Sviatoslavo sūnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jurgis (Sviatoslavo sūnus) buvo sūnus Sviatoslavas (0.93)"
-  pagrindžia:
-    - c-32764
-

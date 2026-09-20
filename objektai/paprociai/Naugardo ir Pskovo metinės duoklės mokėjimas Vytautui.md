@@ -1,6 +1,6 @@
 ---
 tipas: paprotys
-pavadinimas: 'Naugardo ir Pskovo metinės duoklės mokėjimas Vytautui'
+pavadinimas: Naugardo ir Pskovo metinės duoklės mokėjimas Vytautui
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Naugardo ir Pskovo metinės duoklės mokėjimas Vytautui
 
@@ -81,6 +78,5 @@ Naugardiečiai kasmet į Vytauto iždą mokėjo 10 000 auksinų, 40 sunkiųjų �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

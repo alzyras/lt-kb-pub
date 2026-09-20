@@ -34,6 +34,44 @@ canonical_biography: "Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizm�
 
 Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje. Tai kartu paaiškina ir Vilniaus Gaono autoritetą. Didžiausias Gaono nuopelnas – Babilono Talmudo redagavimas ir komentavimas.
 
+## Teiginiai
+
+<a id="claim-t-193692"></a>
+- t-001
+  teiginys: "Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176361
+
+<a id="claim-t-193693"></a>
+- t-002
+  teiginys: "Tai kartu paaiškina ir Vilniaus Gaono autoritetą."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176362
+
+<a id="claim-t-193694"></a>
+- t-003
+  teiginys: "Didžiausias Gaono nuopelnas – Babilono Talmudo redagavimas ir komentavimas."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176363
+
 ## Citatos
 
 - id: c-176361
@@ -54,7 +92,7 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-176362
@@ -77,7 +115,7 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-176363
@@ -98,44 +136,5 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-193692"></a>
-- t-001
-  teiginys: "Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176361
-
-<a id="claim-t-193693"></a>
-- t-002
-  teiginys: "Tai kartu paaiškina ir Vilniaus Gaono autoritetą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176362
-
-<a id="claim-t-193694"></a>
-- t-003
-  teiginys: "Didžiausias Gaono nuopelnas – Babilono Talmudo redagavimas ir komentavimas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176363
-

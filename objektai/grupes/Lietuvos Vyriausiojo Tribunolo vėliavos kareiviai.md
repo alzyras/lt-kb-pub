@@ -34,6 +34,24 @@ media_all_json: |-
 
 1724 m. Lietuvos Vyriausiojo Tribunolo vėliavos kareiviai sudarė apie 40 žmonių ginkluotos gaujos, vadovaujamos brolių Florijono ir Benedikto Grabovskių, dalį.
 
+## Teiginiai
+
+<a id="claim-t-203845"></a>
+- t-001
+  teiginys: "1724 m. Lietuvos Vyriausiojo Tribunolo vėliavos kareiviai sudarė apie 40 žmonių ginkluotos gaujos, vadovaujamos brolių Florijono ir Benedikto Grabovskių, dalį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1724 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ištaisyta linksnio ir skaičiaus derinimo klaida bei aiškiau parodytas kareivių santykis su gauja. Kiti gaujos nariai ir užpuolimo veiksmai neįtraukti."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186449
+
 ## Citatos
 
 - id: c-186449
@@ -53,24 +71,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203845"></a>
-- t-001
-  teiginys: "1724 m. Lietuvos Vyriausiojo Tribunolo vėliavos kareiviai sudarė apie 40 žmonių ginkluotos gaujos, vadovaujamos brolių Florijono ir Benedikto Grabovskių, dalį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1724 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Ištaisyta linksnio ir skaičiaus derinimo klaida bei aiškiau parodytas kareivių santykis su gauja. Kiti gaujos nariai ir užpuolimo veiksmai neįtraukti."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186449
-

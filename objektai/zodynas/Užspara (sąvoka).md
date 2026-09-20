@@ -1,11 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'Užspara (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: Užspara (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'Užspara'
+  - Užspara
 aliases:
-  - 'Užspara'
+  - Užspara
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Užspara (sąvoka)
 
@@ -66,6 +63,5 @@ Viename senoviškame sienų nustatymo dokumente, ku rio data nežinoma, bet kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

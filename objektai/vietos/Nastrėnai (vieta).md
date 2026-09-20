@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Nastrėnai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Nastrėnai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Nastrėnai'
+  - Nastrėnai
 aliases:
-  - 'Nastrėnai'
+  - Nastrėnai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3151fdd3b60f1689e96f31da"
-canonical_name: "Nastrėnai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Nastrėnai","Nastrėnai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3151fdd3b60f1689e96f31da
+canonical_name: Nastrėnai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Nastrėnai
+  - Nastrėnai (vieta)
 sameAs: []
-canonical_biography: "Nastrėnų—Nasrėnų kaimą Valančius visur vadina Medsėdžiais."
+canonical_biography: Nastrėnų—Nasrėnų kaimą Valančius visur vadina Medsėdžiais.
 place_authority: true
 historical_names: []
 ---

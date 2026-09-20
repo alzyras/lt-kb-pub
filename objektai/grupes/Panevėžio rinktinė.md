@@ -27,6 +27,41 @@ media_all_json: |-
 
 Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekiodama priešą gegužės 27 d. užėmė Troškūnus ir Subačių. Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, kariuomenės vadovybė įsakė tolimesnį puolimą sustabdyti, kad išsilygintų fronto linija.
 
+## Teiginiai
+
+<a id="claim-t-38892"></a>
+- t-001
+  teiginys: "Išvadavusi Panevėžį, Panevėžio rinktinė gegužės 27 d. persekiodama priešą užėmė Troškūnus ir Subačių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Subačius: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Panevėžio rinktinė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Subačius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Panevėžio rinktinė užėmė Subačių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Panevėžio rinktinė užėmė Troškūnai (0.95); Panevėžio rinktinė užėmė Subačius (0.95)"
+  pagrindžia:
+    - c-40697
+
+<a id="claim-t-38893"></a>
+- t-002
+  teiginys: "Kariuomenės vadovybė sustabdė puolimą, nes Ukmergės rinktinė buvo išsiveržusi į priekį, o Panevėžio rinktinė atsiliko apie 20 km."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Panevėžio rinktinė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Panevėžio rinktinė\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-40696
+
 ## Citatos
 
 - id: c-40696
@@ -52,7 +87,7 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-40697
@@ -78,44 +113,8 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Panevėžio rinktinė užėmė [[objektai/vietos/Subačius]], [[objektai/vietos/Troškūnai]]
-
-## Teiginiai
-
-<a id="claim-t-38892"></a>
-- t-001
-  teiginys: "Išvadavusi Panevėžį, Panevėžio rinktinė gegužės 27 d. persekiodama priešą užėmė Troškūnus ir Subačių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Subačius: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Panevėžio rinktinė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Subačius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Panevėžio rinktinė užėmė Subačių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Panevėžio rinktinė užėmė Troškūnai (0.95); Panevėžio rinktinė užėmė Subačius (0.95)"
-  pagrindžia:
-    - c-40697
-
-<a id="claim-t-38893"></a>
-- t-002
-  teiginys: "Kariuomenės vadovybė sustabdė puolimą, nes Ukmergės rinktinė buvo išsiveržusi į priekį, o Panevėžio rinktinė atsiliko apie 20 km."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Panevėžio rinktinė: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Panevėžio rinktinė\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-40696
-

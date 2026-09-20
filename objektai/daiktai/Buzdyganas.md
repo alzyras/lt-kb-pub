@@ -46,6 +46,17 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-40700"></a>
+- t-001
+  teiginys: "Buzdyganas XVII a. pabaigoje - XVIII a. buvo ATR tautinės kavalerijos karininkų valdžios ženklas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-44644
+
 ## Citatos
 
 - id: c-44644
@@ -70,17 +81,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-40700"></a>
-- t-001
-  teiginys: "Buzdyganas XVII a. pabaigoje - XVIII a. buvo ATR tautinės kavalerijos karininkų valdžios ženklas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44644
-

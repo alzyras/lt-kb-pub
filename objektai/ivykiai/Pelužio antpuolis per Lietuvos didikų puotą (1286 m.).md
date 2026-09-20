@@ -46,6 +46,54 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-185761"></a>
+- t-001
+  teiginys: "Per Pelužio antpuolį žuvo septyniasdešimt kunigaikščių bei didikų, o jaunikis, jaunoji ir tarybos narių šeimos buvo išgabenti į Karaliaučių."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Pelužio antpuolis per Lietuvos didikų puotą (1286 m.): 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pelužis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pelužio antpuolis per Lietuvos didikų puotą (1286 m.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Įvykis tiesiogiai įvardytas kaip Pelužio antpuolis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Pelužis puolė Pelužio antpuolis per Lietuvos didikų puotą (1286 m.) (0.82)"
+  pagrindžia:
+    - c-169122
+
+<a id="claim-t-196237"></a>
+- t-002
+  teiginys: "Kojelavičiaus pasakojime Pelužio žygio planas buvo slepiamas nuo paprastų karių, kad lietuviai nebūtų įspėti apie rengiamas skerdynes."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178591
+
+<a id="claim-t-196238"></a>
+- t-003
+  teiginys: "Per Pelužio antpuolį, be daugelio žemesnės padėties žmonių, žuvo septyniasdešimt kunigaikščių ir didikų, o jaunikiai ir moterys išgabenti į Karaliaučių."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-169122
+
 ## Citatos
 
 - id: c-169122
@@ -77,7 +125,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-003
 
@@ -104,54 +152,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-185761"></a>
-- t-001
-  teiginys: "Per Pelužio antpuolį žuvo septyniasdešimt kunigaikščių bei didikų, o jaunikis, jaunoji ir tarybos narių šeimos buvo išgabenti į Karaliaučių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Pelužio antpuolis per Lietuvos didikų puotą (1286 m.): 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pelužis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pelužio antpuolis per Lietuvos didikų puotą (1286 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Įvykis tiesiogiai įvardytas kaip Pelužio antpuolis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Pelužis puolė Pelužio antpuolis per Lietuvos didikų puotą (1286 m.) (0.82)"
-  pagrindžia:
-    - c-169122
-
-<a id="claim-t-196237"></a>
-- t-002
-  teiginys: "Kojelavičiaus pasakojime Pelužio žygio planas buvo slepiamas nuo paprastų karių, kad lietuviai nebūtų įspėti apie rengiamas skerdynes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178591
-
-<a id="claim-t-196238"></a>
-- t-003
-  teiginys: "Per Pelužio antpuolį, be daugelio žemesnės padėties žmonių, žuvo septyniasdešimt kunigaikščių ir didikų, o jaunikiai ir moterys išgabenti į Karaliaučių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-169122
-

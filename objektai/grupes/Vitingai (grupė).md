@@ -33,6 +33,47 @@ Narbutas teigia, kad vitingai buvo Danijos naujakuriai, laikui bėgant nutautėj
 
 Narbutas teigia, kad vitingai buvo Danijos naujakuriai, laikui bėgant nutautėję ir gausiausiai gyvenę Sambijoje. Teodoras Narbutas teigia, kad vitingai, gavę rikių vardą, sudarė kariuomenės pulką ir vėliau atskirą rinktinę Kryžiuočių ordino tarnyboje. Pasak Narbuto, vitingais vadinti danų naujakuriai apsigyveno Prūsijoje, atsimetė nuo metropolijos valdžios ir susiliejo su prūsais į vieną tautą.
 
+## Teiginiai
+
+<a id="claim-t-205188"></a>
+- t-001
+  teiginys: "Narbutas teigia, kad vitingai buvo Danijos naujakuriai, laikui bėgant nutautėję ir gausiausiai gyvenę Sambijoje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-187748
+
+<a id="claim-t-205196"></a>
+- t-002
+  teiginys: "Pasak Narbuto, vitingais vadinti danų naujakuriai apsigyveno Prūsijoje, atsimetė nuo metropolijos valdžios ir susiliejo su prūsais į vieną tautą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188191
+
+<a id="claim-t-205202"></a>
+- t-003
+  teiginys: "Teodoras Narbutas teigia, kad vitingai, gavę rikių vardą, sudarė kariuomenės pulką ir vėliau atskirą rinktinę Kryžiuočių ordino tarnyboje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188007
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Pasak Narbuto, vitingais vadinti danų naujakuriai apsigyveno Prūsijoje, atsimetė nuo metropolijos valdžios ir susiliejo su prūsais į vieną tautą.'
@@ -68,7 +109,7 @@ Narbutas teigia, kad vitingai buvo Danijos naujakuriai, laikui bėgant nutautėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188007
@@ -93,7 +134,7 @@ Narbutas teigia, kad vitingai buvo Danijos naujakuriai, laikui bėgant nutautėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-188191
@@ -115,47 +156,5 @@ Narbutas teigia, kad vitingai buvo Danijos naujakuriai, laikui bėgant nutautėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-205188"></a>
-- t-001
-  teiginys: "Narbutas teigia, kad vitingai buvo Danijos naujakuriai, laikui bėgant nutautėję ir gausiausiai gyvenę Sambijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
-  pagrindžia:
-    - c-187748
-
-<a id="claim-t-205196"></a>
-- t-002
-  teiginys: "Pasak Narbuto, vitingais vadinti danų naujakuriai apsigyveno Prūsijoje, atsimetė nuo metropolijos valdžios ir susiliejo su prūsais į vieną tautą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-188191
-
-<a id="claim-t-205202"></a>
-- t-003
-  teiginys: "Teodoras Narbutas teigia, kad vitingai, gavę rikių vardą, sudarė kariuomenės pulką ir vėliau atskirą rinktinę Kryžiuočių ordino tarnyboje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-188007
-

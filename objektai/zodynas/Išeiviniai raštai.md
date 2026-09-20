@@ -28,6 +28,20 @@ Raštiniai įrodymai apie priklausomybės ryšių nebuvimą turėjo didelę reik
 
 Raštiniai įrodymai apie priklausomybės ryšių nebuvimą turėjo didelę reikšmę atvykėlio legalizavimuisi miesto erdvėje.
 
+## Teiginiai
+
+<a id="claim-t-203760"></a>
+- t-001
+  teiginys: "Raštiniai įrodymai apie priklausomybės ryšių nebuvimą turėjo didelę reikšmę atvykėlio legalizavimuisi miesto erdvėje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186364
+
 ## Citatos
 
 - id: c-186364
@@ -51,20 +65,5 @@ Raštiniai įrodymai apie priklausomybės ryšių nebuvimą turėjo didelę reik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203760"></a>
-- t-001
-  teiginys: "Raštiniai įrodymai apie priklausomybės ryšių nebuvimą turėjo didelę reikšmę atvykėlio legalizavimuisi miesto erdvėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186364
-

@@ -1,33 +1,30 @@
 ---
 tipas: ivykis
-pavadinimas: 'Tariamo Mindaugo kapo atradimas Agluonoje (1618 m.)'
+pavadinimas: Tariamo Mindaugo kapo atradimas Agluonoje (1618 m.)
 variantai:
-  - 'Tariamo Mindaugo kapo atradimas Agluonoje'
+  - Tariamo Mindaugo kapo atradimas Agluonoje
 aliases:
-  - 'Tariamo Mindaugo kapo atradimas Agluonoje'
+  - Tariamo Mindaugo kapo atradimas Agluonoje
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1618 m.'
-  - '1690 m.'
+  - 1618 m.
+  - 1690 m.
 date_start: '1618'
 date_end: '1690'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVII'
+  - XVII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Tariamo Mindaugo kapo atradimas Agluonoje (1618 m.)
 
@@ -85,6 +82,5 @@ Tenai pasakyta, kad 1618 metais Agluonoje, prie Dauguvos, buvusios nuvalytos sen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

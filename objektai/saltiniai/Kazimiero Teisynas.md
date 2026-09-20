@@ -28,6 +28,35 @@ Kazimiero teisyne buvo nustatyta bausmė už priklausomų žmonių išvedimą, o
 
 Kazimiero teisyne buvo nustatyta bausmė už priklausomų žmonių išvedimą, o šią nuostatą pakartojo Antrasis Lietuvos Statutas.
 
+## Teiginiai
+
+<a id="claim-t-203713"></a>
+- t-001
+  teiginys: "Kazimiero teisyne buvo nustatyta bausmė už priklausomų žmonių išvedimą, o šią nuostatą pakartojo Antrasis Lietuvos Statutas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186317
+
+<a id="claim-t-203733"></a>
+- t-002
+  teiginys: "1468 m. Kazimiero teisyno 8 straipsnis nustatė, kad valkatos nusikaltimu padarytą žalą turi atlyginti jį slapta laikęs ir teismui nepristatęs asmuo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1468 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo teisyno straipsnį, atsakomybę ir atsakingą asmenį. Formuluotė tiesiogiai pagrįsta citata."
+  pagrindžia:
+    - c-186337
+
 ## Citatos
 
 - id: c-186317
@@ -48,7 +77,7 @@ Kazimiero teisyne buvo nustatyta bausmė už priklausomų žmonių išvedimą, o
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186337
@@ -67,35 +96,5 @@ Kazimiero teisyne buvo nustatyta bausmė už priklausomų žmonių išvedimą, o
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-203713"></a>
-- t-001
-  teiginys: "Kazimiero teisyne buvo nustatyta bausmė už priklausomų žmonių išvedimą, o šią nuostatą pakartojo Antrasis Lietuvos Statutas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186317
-
-<a id="claim-t-203733"></a>
-- t-002
-  teiginys: "1468 m. Kazimiero teisyno 8 straipsnis nustatė, kad valkatos nusikaltimu padarytą žalą turi atlyginti jį slapta laikęs ir teismui nepristatęs asmuo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  temporaliniai_duomenys: "įvykio data: 1468 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo teisyno straipsnį, atsakomybę ir atsakingą asmenį. Formuluotė tiesiogiai pagrįsta citata."
-  pagrindžia:
-    - c-186337
-

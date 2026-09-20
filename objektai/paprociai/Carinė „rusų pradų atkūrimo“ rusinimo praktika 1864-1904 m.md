@@ -55,6 +55,96 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-54214"></a>
+- t-001
+  teiginys: "Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti rusai mokytojai."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Rusija: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Rusai mokytojai nurodyti kaip atvykę iš Rusijos gilumos; kryptis tekste neįvardyta, bet kilmės vieta aiški."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Rusai keliavo į Rusija (0.76)"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  pagrindžia:
+    - c-55127
+
+<a id="claim-t-54215"></a>
+- t-002
+  teiginys: "Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1864-1904; įvykio data: 1904 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-55128
+
+<a id="claim-t-54216"></a>
+- t-003
+  teiginys: "Rusintojai siekė „lenkų pradų naikinimo“ politiką papildyti „rusų pradų atkūrimu“, nes separatizmą siejo su vietos bajorija."
+  atnaujinta: "2026-05-23 15:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> separatizmas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "separatizmas: mention_match, thing, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m\" parinktas kaip owner_note_path. Targetas \"separatizmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-55126
+
+<a id="claim-t-54217"></a>
+- t-004
+  teiginys: "Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Rusija: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Rusai mokytojai apibūdinami kaip atvykę iš Rusijos gilumos; objektas Rusija yra tiesiogiai paminėtas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Rusai keliavo į Rusija (0.76)"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  pagrindžia:
+    - c-55127
+
+<a id="claim-t-54218"></a>
+- t-005
+  teiginys: "Rusintojai tikėjosi laimėti, kai „lenkų pradų naikinimo“ politiką papildys „rusų pradų atkūrimo“ politika."
+  atnaujinta: "2026-06-13 17:18"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> separatizmas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "separatizmas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m\" parinktas kaip owner_note_path. Targetas \"separatizmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
+  pagrindžia:
+    - c-55126
+
 ## Citatos
 
 - id: c-55126
@@ -78,7 +168,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-005
 
@@ -100,7 +190,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-004
 
@@ -131,96 +221,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-54214"></a>
-- t-001
-  teiginys: "Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti rusai mokytojai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Rusija: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Rusai mokytojai nurodyti kaip atvykę iš Rusijos gilumos; kryptis tekste neįvardyta, bet kilmės vieta aiški."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Rusai keliavo į Rusija (0.76)"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-55127
-
-<a id="claim-t-54215"></a>
-- t-002
-  teiginys: "Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1864-1904; įvykio data: 1904 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-55128
-
-<a id="claim-t-54216"></a>
-- t-003
-  teiginys: "Rusintojai siekė „lenkų pradų naikinimo“ politiką papildyti „rusų pradų atkūrimu“, nes separatizmą siejo su vietos bajorija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> separatizmas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "separatizmas: mention_match, thing, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m\" parinktas kaip owner_note_path. Targetas \"separatizmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-55126
-
-<a id="claim-t-54217"></a>
-- t-004
-  teiginys: "Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Rusija: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Rusai mokytojai apibūdinami kaip atvykę iš Rusijos gilumos; objektas Rusija yra tiesiogiai paminėtas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Rusai keliavo į Rusija (0.76)"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-55127
-
-<a id="claim-t-54218"></a>
-- t-005
-  teiginys: "Rusintojai tikėjosi laimėti, kai „lenkų pradų naikinimo“ politiką papildys „rusų pradų atkūrimo“ politika."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> separatizmas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "separatizmas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m\" parinktas kaip owner_note_path. Targetas \"separatizmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  pagrindžia:
-    - c-55126
-

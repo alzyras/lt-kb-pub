@@ -29,6 +29,23 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
 
 ## Teiginiai
 
+<a id="claim-t-40869"></a>
+- t-001
+  teiginys: "Bolševikų 2-asis šaulių pulkas artėjo Kėdainių kryptimi ir turėjo apie 900 ar 1 000 kovotojų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kėdainiai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bolševikų 2-asis šaulių pulkas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kėdainiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo pulko artėjimą Kėdainių kryptimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Bolševikų 2-asis šaulių pulkas keliavo į Kėdainiai (0.86)"
+  pagrindžia:
+    - c-44727
+
 <a id="claim-t-183653"></a>
 - t-002
   teiginys: "Bolševikų 2-asis šaulių pulkas turėjo sunkiųjų kulkosvaidžių ir du lengvuosius pabūklus."
@@ -47,23 +64,6 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167045
-
-<a id="claim-t-40869"></a>
-- t-40869
-  teiginys: "Bolševikų 2-asis šaulių pulkas artėjo Kėdainių kryptimi ir turėjo apie 900 ar 1 000 kovotojų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Kėdainiai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bolševikų 2-asis šaulių pulkas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kėdainiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo pulko artėjimą Kėdainių kryptimi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Bolševikų 2-asis šaulių pulkas keliavo į Kėdainiai (0.86)"
-  pagrindžia:
-    - c-44727
 
 ## Citatos
 
@@ -98,8 +98,8 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-40869
+  pagrindzia:
+    - t-001
 
 - id: c-167045
   sudarytojas: "Karolis Zikaras"
@@ -125,11 +125,9 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
 
     pajėgų, o ir ginkluotė jų buvo menkesnė.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

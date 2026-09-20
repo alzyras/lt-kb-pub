@@ -37,6 +37,25 @@ historical_names: []
 
 Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smotryčą, Bakotą ir kt.), užvesti ūkinį gyvenimą.
 
+## Teiginiai
+
+<a id="claim-t-32073"></a>
+- t-001
+  teiginys: "Karijotaičiai Podolėje statė pilis, tarp jų Kamieniecą, Smotryčą ir Bakotą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Bakota: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karijotaičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Bakota: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Bakota minima tarp Karijotaičių statytų pilių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Karijotaičiai pastatė Bakota (0.88)"
+  pagrindžia:
+    - c-33803
+
 ## Citatos
 
 - id: c-33803
@@ -60,41 +79,5 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-193968
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 70"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 70."
-  citata_originali: |
-    Kitoje vietoje, ant kalno,
-    gyveno vienuoliai, ir toje vietoje įkūrė Bakotos 8 mies­
-    tą
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-32073"></a>
-- t-001
-  teiginys: "Karijotaičiai Podolėje statė pilis, tarp jų Kamieniecą, Smotryčą ir Bakotą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Bakota: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karijotaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bakota: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Bakota minima tarp Karijotaičių statytų pilių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Karijotaičiai pastatė Bakota (0.88)"
-  pagrindžia:
-    - c-33803
-

@@ -27,6 +27,44 @@ media_all_json: |-
 
 Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta, suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės. 2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.
 
+## Teiginiai
+
+<a id="claim-t-74771"></a>
+- t-001
+  teiginys: "Konstitucija nustatė, kad valstybės valdžią Lietuvoje vykdo Seimas, Respublikos prezidentas, Vyriausybė ir teismas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos Respublikos Seimas (seimas): llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo, kad Seimas vykdo valstybės valdžią Lietuvoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuvos Respublikos Seimas (seimas) valdė Lietuva (0.82)"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  pagrindžia:
+    - c-72787
+
+<a id="claim-t-74773"></a>
+- t-002
+  teiginys: "Pagal Konstituciją Seimas kartu su Respublikos prezidentu, Vyriausybe ir teismu vykdo valstybės valdžią Lietuvoje."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos Respublikos Seimas (seimas): llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Seimas įvardytas kaip vienas valstybės valdžią Lietuvoje vykdančių subjektų, todėl ryšys atitinka valdymą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuvos Respublikos Seimas (seimas) valdė Lietuva (0.80)"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  pagrindžia:
+    - c-22569
+
 ## Citatos
 
 - id: c-22569
@@ -53,7 +91,7 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-72787
@@ -79,78 +117,5 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-190133
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 326"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 326."
-  citata_originali: |
-    Atminties vietų koncepcija nerei-
-    kalauja, kad praeities reiškinys taptų valstybės atminties vieta. Vis dėlto Lietuvos Res-
-    publikos Seimas inicijavo tokias diskusijas ir įvairių šalių mokslininkai bei politikai iš
-    esmės sutarė – Gegužės 3-ioji buvo kliūtis imperinei Rusijai. Dėl to po šių diskusijų kilusios
-    aistros dar sykį privertė kelti klausimą – ar istorinės atminties modeliai yra vien stereo-
-    tipų nulemtas reiškinys.
-  citata_rodoma: "Lietuvos Res-\npublikos Seimas inicijavo tokias diskusijas ir įvairių šalių mokslininkai bei politikai iš \nesmės sutarė – Gegužės 3-ioji buvo kliūtis imperinei Rusijai. Dėl to po"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-## Teiginiai
-
-<a id="claim-t-74771"></a>
-- t-001
-  teiginys: "Konstitucija nustatė, kad valstybės valdžią Lietuvoje vykdo Seimas, Respublikos prezidentas, Vyriausybė ir teismas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos Respublikos Seimas (seimas): llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo, kad Seimas vykdo valstybės valdžią Lietuvoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuvos Respublikos Seimas (seimas) valdė Lietuva (0.82)"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-72787
-
-<a id="claim-t-74773"></a>
-- t-002
-  teiginys: "Pagal Konstituciją Seimas kartu su Respublikos prezidentu, Vyriausybe ir teismu vykdo valstybės valdžią Lietuvoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos Respublikos Seimas (seimas): llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Seimas įvardytas kaip vienas valstybės valdžią Lietuvoje vykdančių subjektų, todėl ryšys atitinka valdymą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuvos Respublikos Seimas (seimas) valdė Lietuva (0.80)"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-22569
-
-<a id="claim-t-207516"></a>
-- t-003
-  teiginys: "Lietuvos Respublikos Seimas inicijavo diskusijas dėl Gegužės 3-iosios."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  pagrindžia:
-    - c-190133
-

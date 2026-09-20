@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Paštuvos ir Gaižuvos valsčių nuniokojimas'
+pavadinimas: Paštuvos ir Gaižuvos valsčių nuniokojimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1294 m.'
+  - 1294 m.
 date_start: '1294'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Paštuvos ir Gaižuvos valsčių nuniokojimas
 
@@ -79,6 +76,5 @@ Ragainės broliai su sembais įsiveržė į Paštuvos, o kita kariuomenės dalis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

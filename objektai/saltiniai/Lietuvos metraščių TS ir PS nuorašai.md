@@ -1,28 +1,25 @@
 ---
 tipas: saltinis
-pavadinimas: 'Lietuvos metraščių TS ir PS nuorašai'
+pavadinimas: Lietuvos metraščių TS ir PS nuorašai
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1429 m.'
+  - 1429 m.
 date_start: '1429'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Lietuvos metraščių TS ir PS nuorašai
 
@@ -66,6 +63,5 @@ Tokiu pačiu sakiniu prasideda Lietuvos metraščių TS nuora šų trumpas pasak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -42,6 +42,28 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-193016"></a>
+- t-001
+  teiginys: "Žiemos kinkinys, pasak Narbuto, leido žiemą keliauti pasroviui arba vandens kelių kryptimi, kai vasarą pakakdavo valties."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žiemos kinkinys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žiemos kinkinys\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175786
+
 ## Citatos
 
 - id: c-175786
@@ -67,66 +89,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194580
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
-  citata_originali: |
-    Tokioje žemėje didesnės
-    upės buvo tarsi lengviau įveikiami keliai, jų vandenys
-    išplukdydavo nuvirtusius medžius, nusausindavo krantus
-    ir vedė prie dar didesnių plaukiančių arba stovinčių van­
-    denų. Šie keliai buvo prieinami ir vasarą, ir žiemą: pir­
-    muoju atveju pakako turėti šiokią tokią valtį, o antruo­
-    ju — žiemos kinkinį, kad pasroviui arba tų vandens kelių
-    kryptimi galima būtų keliauti, nes taip lengviausia pa­
-    tenkinti gyvenimo poreikius. Tokie ¡natūraliai įsivaizduo­
-    jami daugybės žmonių persikėlimai iš tikrųjų vykdavo la­
-    bai seniai; tuo ¡galima įsitikinti skaitant senovės amžių
-    istorijas ir žiūrint į geografijos žemėlapius.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-212128"></a>
-- t-001
-  teiginys: "Žiemos kinkinys, pasak Narbuto, leido žiemą keliauti pasroviui arba vandens kelių kryptimi, kai vasarą pakakdavo valties."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žiemos kinkinys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žiemos kinkinys\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-194580
-
-<a id="claim-t-214366"></a>
-- t-002
-  teiginys: "Žiemos kinkinys buvo naudojamas keliauti vandens kelių kryptimi žiemą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194580
-

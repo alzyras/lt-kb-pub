@@ -1,28 +1,25 @@
 ---
 tipas: paprotys
-pavadinimas: 'Meldimasis prie šventos blindės per šventes'
+pavadinimas: Meldimasis prie šventos blindės per šventes
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1805 m.'
+  - 1805 m.
 date_start: '1805'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Meldimasis prie šventos blindės per šventes
 
@@ -85,6 +82,5 @@ Narbutas 1805 m. Kalnėnų kaime prie Jurbarko pastebėjo ištekėjusių moterų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

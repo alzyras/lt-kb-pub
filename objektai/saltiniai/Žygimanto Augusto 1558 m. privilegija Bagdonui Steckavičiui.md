@@ -34,6 +34,24 @@ media_all_json: |-
 
 1558 m. Žygimanto Augusto privilegija dvaro stalininkui Bagdonui Steckavičiui suteikė tarnybas leno teise ir numatė jų paveldėjimą žmonai, vaikams bei vyriškosios lyties palikuonims.
 
+## Teiginiai
+
+<a id="claim-t-204079"></a>
+- t-001
+  teiginys: "1558 m. Žygimanto Augusto privilegija dvaro stalininkui Bagdonui Steckavičiui suteikė tarnybas leno teise ir numatė jų paveldėjimą žmonai, vaikams bei vyriškosios lyties palikuonims."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1558 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pridėta šaltinyje nurodyta privilegijos paveldėjimo sąlyga ir aiškiai įvardyti jos gavėjas bei objektas. Paveldėjimo kategorijos perteiktos pagal citatą."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186683
+
 ## Citatos
 
 - id: c-186683
@@ -53,24 +71,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204079"></a>
-- t-001
-  teiginys: "1558 m. Žygimanto Augusto privilegija dvaro stalininkui Bagdonui Steckavičiui suteikė tarnybas leno teise ir numatė jų paveldėjimą žmonai, vaikams bei vyriškosios lyties palikuonims."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1558 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pridėta šaltinyje nurodyta privilegijos paveldėjimo sąlyga ir aiškiai įvardyti jos gavėjas bei objektas. Paveldėjimo kategorijos perteiktos pagal citatą."
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186683
-

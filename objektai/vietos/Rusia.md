@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Rusia'
+pavadinimas: Rusia
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1430 m.'
-  - '1621 m.'
+  - 1430 m.
+  - 1621 m.
 date_start: '1430'
 date_end: '1621'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - vieta
   - pilis
 amziai:
-  - 'XV'
-  - 'XVII'
+  - XV
+  - XVII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6196aaab95248d6f05ed46b3"
-canonical_name: "Rusia"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Rusia"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6196aaab95248d6f05ed46b3
+canonical_name: Rusia
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Rusia
 sameAs: []
-canonical_biography: "Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi. 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios. Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu."
+canonical_biography: 'Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi. 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios. Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Rusia","url":"https://lt.wikipedia.org/wiki/Rusia","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Rusia","url":"https://www.vle.lt/straipsnis/rusia/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T20:13:51+00:00","source_checked_at":"2026-09-19T20:13:51+00:00","counts":{"relations":6,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Rusia","url":"https://lt.wikipedia.org/wiki/Rusia","publisher":"Vikipedija","language":"lt","article_id":"72283","revision_id":"7492129","published_at":"2025-02-09T18:17:54Z","version_pk":"","content_hash":"c558be24e21e96eea0cfe8298f0d883c8175f20cfe50b4abd48f6d7f8a02ff3c","retrieved_at":"2026-09-19T20:11:25+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Rusia&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"72283"}},"intro":"Rusia (lot. Ruthenia arba Rutenia, lenk. Ruś, bltr. Рутэнія, Русь, rus. Русь, ukr. Рутенія, Русь) – kultūrinis-istorinis rytų slavų žemių istorinis regionas, egzistavęs Rytų Europos lygumos teritorijose, kurios šiuo metu apima Europinę Rusijos dalį, Baltarusiją, šiaurinę pusę Ukrainos, pietrytinį Lenkijos (Liublino, Pakarpatės, Palenkės vaivadijų) pakraštį.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Rusia","url":"https://lt.wikipedia.org/wiki/Rusia","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Rusia","url":"https://www.vle.lt/straipsnis/rusia/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Rusia","https://www.vle.lt/straipsnis/rusia/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"c0ca513b6ff8ef762a259a3e","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Atskiras kraštas, vėliau apėmęs tik tikrąją Rusią.","context":"Pasak Teodoro Narbuto, Rusia kaip atskiras kraštas minima VI amžiuje.","support_ids":["t-212979","c-197471"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212979","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197471","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"vėliau jis apėmė tik tikrąją Rusią, kuri, kaip atskiras kraštas, minima VI amžiuje"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Fridleifas","claim_id":"t-212798","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-213377","confidence":0.83},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-212272","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Salavija","claim_id":"t-213400","confidence":0.92},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-186155","confidence":0.55},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-85945","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":8,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e802e3f12756f2e9
+object_page_generated_at: '2026-09-19T20:13:51+00:00'
+object_page_source_checked_at: '2026-09-19T20:13:51+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '4'
+object_page_seo_description: 'Rusia: Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi. 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės…'
+object_page_seo_input_hash: e62b96b476df2d5f9db759c6e77250e7863cadfa2e8fc19558859dc5ac4baefd
+object_page_seo_generated_at: '2026-09-19T20:13:51+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Rusia
 
@@ -49,73 +61,10 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 
 ## Teiginiai
 
-<a id="claim-t-212979"></a>
-- t-212979
-  teiginys: "Rusia minima kaip atskiras kraštas, kuris vėliau apėmė tik tikrąją Rusią."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197471
-
-<a id="claim-t-212761"></a>
-- t-212761
-  teiginys: "Narbutas rašo, kad Frotono pasiųstas riteris ir slavų kunigaikštis Vinas pirmiausia nuvyko į Rusią, o iš jos žygiavo į maištaujančius kraštus."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusia: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusia\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-195797
-
-<a id="claim-t-212798"></a>
-- t-212798
-  teiginys: "Narbutas pasakoja, kad Frotono III sūnus Fridleifas buvo auklėtas Rusioje pas motinos giminaičius ir jų padedamas susigrąžino Danijos sostą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Rusia: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fridleifas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rusia: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Fridleifas buvo auklėjamas Rusioje, tai palaiko jo buvimo ar gyvenimo toje vietoje ryšį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Fridleifas gyveno Rusia (0.78)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-
-<a id="claim-t-219091"></a>
-- t-219091
-  teiginys: "Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur slavų krivičių tauta."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201313
-
 <a id="claim-t-85942"></a>
-- t-85942
+- t-001
   teiginys: "Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -129,9 +78,9 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
     - c-81925
 
 <a id="claim-t-85943"></a>
-- t-85943
+- t-002
   teiginys: "1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Trakai: 0.83"
   ryšio_patikimumo_lygis: "aukstas"
@@ -149,9 +98,9 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
     - c-81923
 
 <a id="claim-t-85945"></a>
-- t-85945
+- t-003
   teiginys: "Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Rusia: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -165,10 +114,63 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   pagrindžia:
     - c-81924
 
+<a id="claim-t-192746"></a>
+- t-004
+  teiginys: "Narbutas pasakoja, kad Frotono III sūnus Fridleifas buvo auklėtas Rusioje pas motinos giminaičius ir jų padedamas susigrąžino Danijos sostą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Rusia: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Fridleifas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Rusia: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Fridleifas buvo auklėjamas Rusioje, tai palaiko jo buvimo ar gyvenimo toje vietoje ryšį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Fridleifas gyveno Rusia (0.78)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175516
+
+<a id="claim-t-192747"></a>
+- t-005
+  teiginys: "Narbutas rašo, kad Frotono pasiųstas riteris ir slavų kunigaikštis Vinas pirmiausia nuvyko į Rusią, o iš jos žygiavo į maištaujančius kraštus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusia: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusia\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175517
+
+<a id="claim-t-193427"></a>
+- t-006
+  teiginys: "Todėl, būdamas ramus dėl vidaus reikalų, Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į Rusią."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-176149
+
 <a id="claim-t-193428"></a>
-- t-193428
+- t-007
   teiginys: "Kojelavičiaus pasakojime Kazimieras, vadinamas Lenkijos karaliumi, Belzą ir Volynę perdavė su sąlyga, kad aukščiausia galia Rusioje priklausys Lenkijos karaliui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -177,6 +179,18 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-176150
+
+<a id="claim-t-194750"></a>
+- t-008
+  teiginys: "Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur slavų krivičių tauta."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-177146
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -256,8 +270,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-85943
+  pagrindzia:
+    - t-002
 
 - id: c-81924
   autorius: "Michał Baliński"
@@ -292,8 +306,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-85945
+  pagrindzia:
+    - t-003
 
 - id: c-81925
   autorius: "Michał Baliński"
@@ -323,8 +337,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-85942
+  pagrindzia:
+    - t-001
 
 - id: c-175516
   autorius: "Teodoras Narbutas"
@@ -349,6 +363,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-175517
   autorius: "Teodoras Narbutas"
@@ -372,6 +388,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-176149
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -399,6 +417,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-176150
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -430,8 +450,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193428
+  pagrindzia:
+    - t-007
 
 - id: c-177146
   autorius: "Teodoras Narbutas"
@@ -454,75 +474,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195797
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 243"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
-  citata_originali: |
-    Karalius Frotonas, valdęs, pasak Torfėjo skaičiavimų, maž­
-    daug IV amžiaus viduryje, sužinojo, kad lietuvių genties
-    tautos, gyvenančios rytinėse Baltijos jūros pakrantėse;
-    rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
-    jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
-    nijos karalystei. Jis išsiuntė riterį drauge su slavų kuni­
-    gaikščiu Vinu, įpareigojęs grąžinti tuose kraštuose jo
-    valdžią. Jie pirmiausia nuvyko į Rusią, o iš ten žygiavo
-    į maištaujančius kraštus. Visur laukė puikios pergalės;
-    kraštai arba pasiduodavo gera valia, arba būdavo paver­
-    giami ginklu2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212761
-
-- id: c-197471
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 246."
-  citata_originali: |
-    vėliau jis apėmė
-    tik tikrąją Rusią, kuri, kaip atskiras kraštas, minima VI
-    amžiuje
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212979
-
-- id: c-201313
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 429"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
-  citata_originali: |
-    Dabar pateiksime šį lietuvių mitologijos gabalėlį.
-    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
-    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
-    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
-    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
-    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
-    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
-    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
-    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
-    nių apeigų papročių, vienodų su jų lietuvių apeigomis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219091
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Rusia priklausė [[objektai/vietos/Salavija]]

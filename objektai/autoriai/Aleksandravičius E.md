@@ -42,33 +42,12 @@ canonical_biography: "Aleksandravičius E., Kulakauskas A."
 
 Aleksandravičius E., Kulakauskas A.
 
-## Citatos
-
-- id: c-22114
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
-  citata_originali: |
-    Literatūra
-    tolesniam skaitymui
-    Aleksandravičius E., Kulakauskas A. Carų valdžioje. Lietuva XIX am-
-    žiuje. Vilnius, 1996.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-45593"></a>
 - t-001
   teiginys: "E. Aleksandravičius ir A. Kulakauskas 1996 m. Vilniuje išleido veikalą „Carų valdžioje. Lietuva XIX amžiuje“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -87,7 +66,7 @@ Aleksandravičius E., Kulakauskas A.
 <a id="claim-t-45594"></a>
 - t-002
   teiginys: "E. Aleksandravičius kartu su A. Kulakausku yra leidinio „Carų valdžioje. Lietuva XIX amžiuje“ autorius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -100,3 +79,23 @@ Aleksandravičius E., Kulakauskas A.
   pagrindžia:
     - c-22114
 
+## Citatos
+
+- id: c-22114
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
+  citata_originali: |
+    Literatūra
+    tolesniam skaitymui
+    Aleksandravičius E., Kulakauskas A. Carų valdžioje. Lietuva XIX am-
+    žiuje. Vilnius, 1996.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002

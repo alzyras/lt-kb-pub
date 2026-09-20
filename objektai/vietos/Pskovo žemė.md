@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Pskovo žemė'
+pavadinimas: Pskovo žemė
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1342 m.'
+  - 1342 m.
 date_start: '1342'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b5118e67070526c43e45b44f"
-canonical_name: "Pskovo žemė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pskovo žemė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b5118e67070526c43e45b44f
+canonical_name: Pskovo žemė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pskovo žemė
 sameAs: []
-canonical_biography: "Jurijus (Jurgis) Vytautaitis apie 1342 metus valdė Pskovo žemę."
+canonical_biography: Jurijus (Jurgis) Vytautaitis apie 1342 metus valdė Pskovo žemę.
 ---
 # Pskovo žemė
 
@@ -71,6 +70,5 @@ Jurijus (Jurgis) Vytautaitis apie 1342 metus valdė Pskovo žemę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

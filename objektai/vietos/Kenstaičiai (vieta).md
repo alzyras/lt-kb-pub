@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Kenstaičiai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Kenstaičiai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Kenstaičiai'
+  - Kenstaičiai
 aliases:
-  - 'Kenstaičiai'
+  - Kenstaičiai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4af645f78f50fd88431e650b"
-canonical_name: "Kenstaičiai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kenstaičiai","Kenstaičiai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4af645f78f50fd88431e650b
+canonical_name: Kenstaičiai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kenstaičiai
+  - Kenstaičiai (vieta)
 sameAs: []
-canonical_biography: "Tuos kunigus, kurie neturė jo sąlygų gyventi parapijose, ganytojas nusiųsdavo į vie nuolynus arba Kenstaičių kunigų invalidų namus."
+canonical_biography: 'Tuos kunigus, kurie neturė jo sąlygų gyventi parapijose, ganytojas nusiųsdavo į vie nuolynus arba Kenstaičių kunigų invalidų namus.'
 place_authority: true
 historical_names: []
 ---

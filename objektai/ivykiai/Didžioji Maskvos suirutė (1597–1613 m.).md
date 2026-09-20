@@ -43,6 +43,35 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-66514"></a>
+- t-001
+  teiginys: "Po bevaikio Teodoro mirties 1597 m. caru pasiskelbė Godunovas, o po šešerių metų Lenkijoje atsirado Dimitrijumi pasivadinęs jaunikaitis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66730
+
+<a id="claim-t-66517"></a>
+- t-002
+  teiginys: "Didžioji Maskvos suirutė (1597–1613 m.): lenkų ponų padedamas, jis 1605 m. užėmė Maskvą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66726
+
+<a id="claim-t-66518"></a>
+- t-003
+  teiginys: "Vasylių Šuiskį paskelbus caru, Maskvoje ramybė neįsigalėjo: krašte prasidėjo nauji sukilimai ir atsirado antras apsimetėlis Dimitrijas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66729
+
 ## Citatos
 
 - id: c-66726
@@ -62,7 +91,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-66729
@@ -81,7 +110,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-66730
@@ -103,35 +132,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-66514"></a>
-- t-001
-  teiginys: "Po bevaikio Teodoro mirties 1597 m. caru pasiskelbė Godunovas, o po šešerių metų Lenkijoje atsirado Dimitrijumi pasivadinęs jaunikaitis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66730
-
-<a id="claim-t-66517"></a>
-- t-002
-  teiginys: "Didžioji Maskvos suirutė (1597–1613 m.): lenkų ponų padedamas, jis 1605 m. užėmė Maskvą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66726
-
-<a id="claim-t-66518"></a>
-- t-003
-  teiginys: "Vasylių Šuiskį paskelbus caru, Maskvoje ramybė neįsigalėjo: krašte prasidėjo nauji sukilimai ir atsirado antras apsimetėlis Dimitrijas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66729
-

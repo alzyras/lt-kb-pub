@@ -36,6 +36,30 @@ historical_names: []
 
 Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo chanatas (Perekopu vadinosi jų sostinės pilis). Sudaręs sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis ragino chaną pulti Lietuvą.
 
+## Teiginiai
+
+<a id="claim-t-68250"></a>
+- t-001
+  teiginys: "Auksinei Ordai suskilus, Krime atsirado Perekopo chanatas, kurio sostinės pilis vadinosi Perekopu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67885
+    - c-166425
+
+<a id="claim-t-193193"></a>
+- t-002
+  teiginys: "Sudaręs sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis ragino chaną pulti Lietuvą."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-175937
+
 ## Citatos
 
 - id: c-67885
@@ -56,7 +80,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166425
@@ -77,7 +101,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-175937
@@ -96,30 +120,5 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-68250"></a>
-- t-001
-  teiginys: "Auksinei Ordai suskilus, Krime atsirado Perekopo chanatas, kurio sostinės pilis vadinosi Perekopu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67885
-    - c-166425
-
-<a id="claim-t-193193"></a>
-- t-002
-  teiginys: "Sudaręs sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis ragino chaną pulti Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-175937
-

@@ -36,6 +36,61 @@ canonical_biography: "Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus
 
 Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė temniką Mamajų ir, pasak autoriaus, atsikratė totorių jungo. Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas. Lietuvos metraščio pasakojime Kijevo didysis kunigaikštis Dimitrijus po Batu antpuolio užėmė Drucko žemę, pastatydino Drucko miestą ir pasivadino Drucko didžiuoju kunigaikščiu.
 
+## Teiginiai
+
+<a id="claim-t-186105"></a>
+- t-001
+  teiginys: "Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė temniką Mamajų ir, pasak autoriaus, atsikratė totorių jungo."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_valdovas -> Maskva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dimitrijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Dimitrijus tiesiogiai vadinamas Maskvos kunigaikščiu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Dimitrijus buvo valdovas Maskva (0.86); Dimitrijus kariavo prieš Totoriai (0.86)"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-169466
+
+<a id="claim-t-186106"></a>
+- t-002
+  teiginys: "Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Akademijos teatro įranga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dimitrijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Akademijos teatro įranga: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dimitrijus\" parinktas kaip owner_note_path. Targetas \"Akademijos teatro įranga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169467
+
+<a id="claim-t-193905"></a>
+- t-003
+  teiginys: "Lietuvos metraščio pasakojime Kijevo didysis kunigaikštis Dimitrijus po Batu antpuolio užėmė Drucko žemę, pastatydino Drucko miestą ir pasivadino Drucko didžiuoju kunigaikščiu."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176530
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Lietuvos metraščio pasakojime Kijevo didysis kunigaikštis Dimitrijus po Batu antpuolio užėmė Drucko žemę, pastatydino Drucko miestą ir pasivadino Drucko didžiuoju kunigaikščiu.'
@@ -89,8 +144,8 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186105
+  pagrindzia:
+    - t-001
 
 - id: c-169467
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -122,8 +177,8 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186106
+  pagrindzia:
+    - t-002
 
 - id: c-176530
   autorius: "Anoniminis metraštininkas"
@@ -150,57 +205,5 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210747"></a>
-- t-001
-  teiginys: "Lietuvos metraščio pasakojime Kijevo didysis kunigaikštis Dimitrijus po Batu antpuolio užėmė Drucko žemę, pastatydino Drucko miestą ir pasivadino Drucko didžiuoju kunigaikščiu."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-
-<a id="claim-t-186105"></a>
-- t-186105
-  teiginys: "Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė temniką Mamajų ir, pasak autoriaus, atsikratė totorių jungo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_valdovas -> Maskva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dimitrijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dimitrijus tiesiogiai vadinamas Maskvos kunigaikščiu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Dimitrijus buvo valdovas Maskva (0.86); Dimitrijus kariavo prieš Totoriai (0.86)"
-  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
-  pagrindžia:
-    - c-169466
-
-<a id="claim-t-186106"></a>
-- t-186106
-  teiginys: "Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Akademijos teatro įranga: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dimitrijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Akademijos teatro įranga: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dimitrijus\" parinktas kaip owner_note_path. Targetas \"Akademijos teatro įranga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169467
-
+  pagrindzia:
+    - t-003

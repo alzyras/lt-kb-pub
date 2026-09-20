@@ -38,6 +38,20 @@ Narbutas nurodo, kad šiuo ediktu riterių luomo lietuvaičiams suteikta teisė 
 
 Narbutas nurodo, kad šiuo ediktu riterių luomo lietuvaičiams suteikta teisė testamente daryti įrašus Livonijos provincijos kryžiuočių riterių naudai.
 
+## Teiginiai
+
+<a id="claim-t-205470"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad šiuo ediktu riterių luomo lietuvaičiams suteikta teisė testamente daryti įrašus Livonijos provincijos kryžiuočių riterių naudai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187674
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad šiuo ediktu riterių luomo lietuvaičiams suteikta teisė testamente daryti įrašus Livonijos provincijos kryžiuočių riterių naudai.'
@@ -77,20 +91,5 @@ Narbutas nurodo, kad šiuo ediktu riterių luomo lietuvaičiams suteikta teisė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205470"></a>
-- t-001
-  teiginys: "Narbutas nurodo, kad šiuo ediktu riterių luomo lietuvaičiams suteikta teisė testamente daryti įrašus Livonijos provincijos kryžiuočių riterių naudai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187674
-

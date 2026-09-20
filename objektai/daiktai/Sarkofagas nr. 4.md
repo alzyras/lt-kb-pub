@@ -45,6 +45,35 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203984"></a>
+- t-001
+  teiginys: "1998 m. Kijevo Pečorų lauros vienuolyno Uspenjės sobore aptiktame sarkofage nr. 4 buvo palaidotas 30–35 metų aukšto socialinio statuso vyras."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "mirties data: 1998 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai apibūdina sarkofage palaidotą asmenį bei archeologinį kontekstą. Šaltinyje esanti giminystės interpretacija sąmoningai neįtraukta."
+  pagrindžia:
+    - c-186588
+
+<a id="claim-t-203985"></a>
+- t-002
+  teiginys: "Sarkofage nr. 4 kūnas buvo išdėliotas anatomiškai, tačiau pėdos padėtos ties keliais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186589
+
 ## Santrauka
 
 1998 m. Kijevo Pečorų lauros vienuolyno Uspenjės sobore aptiktame sarkofage nr. 4 buvo palaidotas 30–35 metų aukšto socialinio statuso vyras. Sarkofage nr. 4 kūnas buvo išdėliotas anatomiškai, tačiau pėdos padėtos ties keliais.
@@ -67,7 +96,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186589
@@ -83,35 +112,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-203984"></a>
-- t-001
-  teiginys: "1998 m. Kijevo Pečorų lauros vienuolyno Uspenjės sobore aptiktame sarkofage nr. 4 buvo palaidotas 30–35 metų aukšto socialinio statuso vyras."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  temporaliniai_duomenys: "mirties data: 1998 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai apibūdina sarkofage palaidotą asmenį bei archeologinį kontekstą. Šaltinyje esanti giminystės interpretacija sąmoningai neįtraukta."
-  pagrindžia:
-    - c-186588
-
-<a id="claim-t-203985"></a>
-- t-002
-  teiginys: "Sarkofage nr. 4 kūnas buvo išdėliotas anatomiškai, tačiau pėdos padėtos ties keliais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  pagrindžia:
-    - c-186589
-

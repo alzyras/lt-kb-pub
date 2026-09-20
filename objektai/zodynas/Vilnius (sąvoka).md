@@ -86,12 +86,11 @@ Vorobjovas Vilnių laikė meno lobynu, galinčiu lenktyniauti su gražiausiais E
     skaistus tautos atminimas apie nužygiuotą amžių kelią — tai mūsų autobio-
     grafija, išdėstyta meno paminklų kalba.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184167
@@ -108,11 +107,9 @@ Vorobjovas Vilnių laikė meno lobynu, galinčiu lenktyniauti su gražiausiais E
     juoti meno istoriją ne iš vadovėlių, o iš pačių meno šedevrų; jis gali tapti
     neišsemiamu estetinio jaunosios kartos auklėjimo šaltiniu.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

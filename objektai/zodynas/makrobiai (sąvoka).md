@@ -1,11 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'makrobiai (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: makrobiai (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'makrobiai'
+  - makrobiai
 aliases:
-  - 'makrobiai'
+  - makrobiai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # makrobiai (sąvoka)
 
@@ -67,6 +64,5 @@ Tad čia ir bu vusi rojaus vieta, čia ir yra Elisiejus, kurį Homeras ket virto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

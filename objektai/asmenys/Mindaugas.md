@@ -6,17 +6,17 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvių tautos istorija, t. 3'
-  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - Lietuvos Didžioji Kunigaikštija ir jos tradicija
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1219 m.'
-  - '1265 m.'
+  - 1219 m.
+  - 1265 m.
 date_start: '1219'
 date_end: '1265'
 sukurta: ''
@@ -27,29 +27,50 @@ tags:
   - kunigaikštis
   - mokslininkas
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '2'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'manuscript_depiction_of'
-media_primary_json: |-
-  {"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugo atvaizdas 1578 m. kronikos iliustracijoje","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mindaugas in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-18T21:31:24.211505+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas viduramžių valdovas ant žirgo, laikantis ietį ir skydą; tai atitinka pateiktą Mindaugo kronikinį atvaizdą.","metadataEvidence":"Failo pavadinimas „Mindaugas.jpg“, aprašas nurodo Lietuvos karalių Mindaugą, o kūrėju nurodytas Alexander Guagnini, 1578 m.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Mindaugą.","isPrimary":1}
-media_direct_json: |-
-  [{"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugo atvaizdas 1578 m. kronikos iliustracijoje","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mindaugas in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-18T21:31:24.211505+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas viduramžių valdovas ant žirgo, laikantis ietį ir skydą; tai atitinka pateiktą Mindaugo kronikinį atvaizdą.","metadataEvidence":"Failo pavadinimas „Mindaugas.jpg“, aprašas nurodo Lietuvos karalių Mindaugą, o kūrėju nurodytas Alexander Guagnini, 1578 m.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Mindaugą.","isPrimary":1},{"mediaId":"m-1229ab18e5ed1b09e1c8e5e6","title":"Piešinys ,,Mindaugas - Lietuvos karalius\"","caption":"Mindaugo, Lietuvos karaliaus, istorinis portretas piešinyje.","originalTitle":"Piešinys ,,Mindaugas - Lietuvos karalius\"","creator":"","provider":"europeana","providerLabel":"Tauragė Regional Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_440697506","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-440697506/thumbnail-original/440713121.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftkm-bucket%2FLIMIS-440697506%2Fthumbnail-original%2F440713121.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-440697506/thumbnail-original/440713121.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Carta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Crtež","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Desen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Desenho","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dessin","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dibuix","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dibujo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Disegno","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Drawing","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hârtie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Joonistus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Karta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kresba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Líníocht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Marrazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paber","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paperi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papier","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papir","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papír","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papīrs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Piešimas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Piirustus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Popierius","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Páipéar","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rajz","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Risba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rysunek","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Teckning","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tegning","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tekening","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zeichnung","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zīmējums","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:20:28.022898+03:00","reviewedAt":"2026-07-18T21:32:54.043917+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas įrėmintas piešinys, vaizduojantis karūnuotą, barzdotą valdovą su kardu ir skydu; apačioje aiškiai įrašyta „MINDAUGAS LIETUVOS KARALIUS“.","metadataEvidence":"Kandidato pavadinimas „Piešinys ,,Mindaugas - Lietuvos karalius\"“ ir aprašymas tiesiogiai nurodo Mindaugo portretą; objektas saugomas Tauragės regioniniame muziejuje.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų istorinį asmenį Mindaugą, todėl tai tiesioginis portretinis atvaizdas.","isPrimary":0}]
-media_contextual_json: |-
-  []
-media_all_json: |-
-  [{"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugo atvaizdas 1578 m. kronikos iliustracijoje","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mindaugas in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-18T21:31:24.211505+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas viduramžių valdovas ant žirgo, laikantis ietį ir skydą; tai atitinka pateiktą Mindaugo kronikinį atvaizdą.","metadataEvidence":"Failo pavadinimas „Mindaugas.jpg“, aprašas nurodo Lietuvos karalių Mindaugą, o kūrėju nurodytas Alexander Guagnini, 1578 m.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Mindaugą.","isPrimary":1},{"mediaId":"m-1229ab18e5ed1b09e1c8e5e6","title":"Piešinys ,,Mindaugas - Lietuvos karalius\"","caption":"Mindaugo, Lietuvos karaliaus, istorinis portretas piešinyje.","originalTitle":"Piešinys ,,Mindaugas - Lietuvos karalius\"","creator":"","provider":"europeana","providerLabel":"Tauragė Regional Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_440697506","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-440697506/thumbnail-original/440713121.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftkm-bucket%2FLIMIS-440697506%2Fthumbnail-original%2F440713121.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-440697506/thumbnail-original/440713121.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Carta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Crtež","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Desen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Desenho","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dessin","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dibuix","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dibujo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Disegno","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Drawing","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hârtie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Joonistus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Karta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kresba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Líníocht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Marrazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paber","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paperi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papier","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papir","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papír","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papīrs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Piešimas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Piirustus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Popierius","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Páipéar","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rajz","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Risba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rysunek","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Teckning","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tegning","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tekening","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zeichnung","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zīmējums","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:20:28.022898+03:00","reviewedAt":"2026-07-18T21:32:54.043917+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas įrėmintas piešinys, vaizduojantis karūnuotą, barzdotą valdovą su kardu ir skydu; apačioje aiškiai įrašyta „MINDAUGAS LIETUVOS KARALIUS“.","metadataEvidence":"Kandidato pavadinimas „Piešinys ,,Mindaugas - Lietuvos karalius\"“ ir aprašymas tiesiogiai nurodo Mindaugo portretą; objektas saugomas Tauragės regioniniame muziejuje.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų istorinį asmenį Mindaugą, todėl tai tiesioginis portretinis atvaizdas.","isPrimary":0}]
-entity_id: "ent-027f0e1e24cf09546085eadb"
-canonical_name: "Mindaugas (valdovas, XIII a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["karaliui Mindaugui","karalius Mindaugas","Mendog","Mendoga","Mendovga","Mindaugas","Mindaugas (valdovas, XIII a.)","Mindaugo","Mindaugui","Mindowe","Mindowes"]
+media_primary_directness: direct
+media_primary_relation_type: manuscript_depiction_of
+media_primary_json: '{"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugo atvaizdas 1578 m. kronikos iliustracijoje","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mindaugas in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-18T21:31:24.211505+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas viduramžių valdovas ant žirgo, laikantis ietį ir skydą; tai atitinka pateiktą Mindaugo kronikinį atvaizdą.","metadataEvidence":"Failo pavadinimas „Mindaugas.jpg“, aprašas nurodo Lietuvos karalių Mindaugą, o kūrėju nurodytas Alexander Guagnini, 1578 m.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Mindaugą.","isPrimary":1}'
+media_direct_json: '[{"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugo atvaizdas 1578 m. kronikos iliustracijoje","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mindaugas in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-18T21:31:24.211505+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas viduramžių valdovas ant žirgo, laikantis ietį ir skydą; tai atitinka pateiktą Mindaugo kronikinį atvaizdą.","metadataEvidence":"Failo pavadinimas „Mindaugas.jpg“, aprašas nurodo Lietuvos karalių Mindaugą, o kūrėju nurodytas Alexander Guagnini, 1578 m.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Mindaugą.","isPrimary":1},{"mediaId":"m-1229ab18e5ed1b09e1c8e5e6","title":"Piešinys ,,Mindaugas - Lietuvos karalius\"","caption":"Mindaugo, Lietuvos karaliaus, istorinis portretas piešinyje.","originalTitle":"Piešinys ,,Mindaugas - Lietuvos karalius\"","creator":"","provider":"europeana","providerLabel":"Tauragė Regional Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_440697506","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-440697506/thumbnail-original/440713121.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftkm-bucket%2FLIMIS-440697506%2Fthumbnail-original%2F440713121.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-440697506/thumbnail-original/440713121.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Carta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Crtež","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Desen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Desenho","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dessin","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dibuix","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dibujo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Disegno","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Drawing","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hârtie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Joonistus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Karta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kresba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Líníocht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Marrazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paber","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paperi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papier","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papir","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papír","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papīrs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Piešimas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Piirustus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Popierius","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Páipéar","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rajz","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Risba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rysunek","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Teckning","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tegning","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tekening","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zeichnung","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zīmējums","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:20:28.022898+03:00","reviewedAt":"2026-07-18T21:32:54.043917+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas įrėmintas piešinys, vaizduojantis karūnuotą, barzdotą valdovą su kardu ir skydu; apačioje aiškiai įrašyta „MINDAUGAS LIETUVOS KARALIUS“.","metadataEvidence":"Kandidato pavadinimas „Piešinys ,,Mindaugas - Lietuvos karalius\"“ ir aprašymas tiesiogiai nurodo Mindaugo portretą; objektas saugomas Tauragės regioniniame muziejuje.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų istorinį asmenį Mindaugą, todėl tai tiesioginis portretinis atvaizdas.","isPrimary":0}]'
+media_contextual_json: '[]'
+media_all_json: '[{"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugo atvaizdas 1578 m. kronikos iliustracijoje","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mindaugas in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-18T21:31:24.211505+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas viduramžių valdovas ant žirgo, laikantis ietį ir skydą; tai atitinka pateiktą Mindaugo kronikinį atvaizdą.","metadataEvidence":"Failo pavadinimas „Mindaugas.jpg“, aprašas nurodo Lietuvos karalių Mindaugą, o kūrėju nurodytas Alexander Guagnini, 1578 m.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Mindaugą.","isPrimary":1},{"mediaId":"m-1229ab18e5ed1b09e1c8e5e6","title":"Piešinys ,,Mindaugas - Lietuvos karalius\"","caption":"Mindaugo, Lietuvos karaliaus, istorinis portretas piešinyje.","originalTitle":"Piešinys ,,Mindaugas - Lietuvos karalius\"","creator":"","provider":"europeana","providerLabel":"Tauragė Regional Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_440697506","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-440697506/thumbnail-original/440713121.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftkm-bucket%2FLIMIS-440697506%2Fthumbnail-original%2F440713121.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-440697506/thumbnail-original/440713121.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Carta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Crtež","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Desen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Desenho","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dessin","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dibuix","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dibujo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Disegno","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Drawing","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hârtie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Joonistus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Karta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kresba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Líníocht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Marrazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paber","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paperi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papier","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papir","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papír","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papīrs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Piešimas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Piirustus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Popierius","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Páipéar","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rajz","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Risba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rysunek","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Teckning","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tegning","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tekening","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zeichnung","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zīmējums","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:20:28.022898+03:00","reviewedAt":"2026-07-18T21:32:54.043917+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas įrėmintas piešinys, vaizduojantis karūnuotą, barzdotą valdovą su kardu ir skydu; apačioje aiškiai įrašyta „MINDAUGAS LIETUVOS KARALIUS“.","metadataEvidence":"Kandidato pavadinimas „Piešinys ,,Mindaugas - Lietuvos karalius\"“ ir aprašymas tiesiogiai nurodo Mindaugo portretą; objektas saugomas Tauragės regioniniame muziejuje.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų istorinį asmenį Mindaugą, todėl tai tiesioginis portretinis atvaizdas.","isPrimary":0}]'
+entity_id: ent-027f0e1e24cf09546085eadb
+canonical_name: 'Mindaugas (valdovas, XIII a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - karaliui Mindaugui
+  - karalius Mindaugas
+  - Mendog
+  - Mendoga
+  - Mendovga
+  - Mindaugas
+  - 'Mindaugas (valdovas, XIII a.)'
+  - Mindaugo
+  - Mindaugui
+  - Mindowe
+  - Mindowes
 sameAs: []
-canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje. Mindaugas žuvo 1263 m. dėl giminės nesantaikos, kilusios nepasitenkinus jo politika vokiečių atžvilgiu. Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams."
+canonical_biography: '1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje. Mindaugas žuvo 1263 m. dėl giminės nesantaikos, kilusios nepasitenkinus jo politika vokiečių atžvilgiu. Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams.'
+external_sources_json: '[{"title":"Mindaugas","url":"https://lt.wikipedia.org/wiki/Mindaugas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-18T22:54:01+00:00","source_checked_at":"2026-09-18T22:54:01+00:00","counts":{"relations":29,"gallery":2,"sources":12},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai- čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma- tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą. Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","claim_id":"t-113909","evidence_id":"c-105085","origin":"internal"},"wiki":{"status":"published","source":{"title":"Mindaugas","url":"https://lt.wikipedia.org/wiki/Mindaugas","publisher":"Vikipedija","language":"lt","article_id":"1105","revision_id":"7626891","published_at":"2025-08-26T17:43:04Z","version_pk":"","content_hash":"293b56329f9c0cc03efbae7199f455e9f82311e28348d324deea52d6e83a0863","retrieved_at":"2026-09-18T22:46:34+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Mindaugas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"1105"}},"intro":"Mindaugas (apie 1200 m. – 1263 m. rugsėjo 12 d.) – Lietuvos didysis kunigaikštis (apie 1236–1253), taip pat pirmasis Lietuvos karalius (1253–1263). Liepos 6 d., manoma Mindaugo vainikavimo Lietuvos karaliumi diena, yra Lietuvos Respublikos valstybinė šventė.","original_intro":"","translation_status":"native","infobox":[{"code":"positions","label":"Pareigos","value":"Lietuvos didysis kunigaikštis · Lietuvos karalius; Lietuvos didysis kunigaikštis; Lietuvos karalius","source":"wikipedia_infobox"},{"code":"birth_date","label":"Gimė","value":"~~1200 m.","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1263 m. rugsėjo 12 d.","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Nežinomas","source":"wikipedia_infobox"},{"code":"spouse","label":"Sutuoktiniai","value":"Morta","source":"wikipedia_infobox"},{"code":"children","label":"Vaikai","value":"Vaišelga · Daumantas (Domantas) · Rūklys · Rupeikis","source":"wikipedia_infobox"},{"code":"reign","label":"Valdymas","value":"1236 m. – 1253 m.; 1253 m. – 1263 m.","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Mindaugas","url":"https://lt.wikipedia.org/wiki/Mindaugas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Mindaugas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"6d427f24e7d090e1306b1265","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas; 1253 m. karūnuotas Lietuvos karaliumi.","context":"2013 m. Lietuvos istorijoje Mindaugas apibūdinamas kaip pirmasis valstybės valdovas, pasikrikštijęs ir 1253 m. karūnuotas.","support_ids":["t-113902","c-105088"],"source_refs":[{"kind":"internal_claim","claim_id":"t-113902","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-105088","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Valstybė – Lietuvos Didžioji Kunigaikš- tija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net Įvadas • L I E T U VA – V I D U R I O E U R O P O S D A L I S 17 suspėjo krikštytis, o 1253 m."}],"status":"published","conflict_status":"clear"},{"trait_id":"343754967bf7b61077246445","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Sukūrė valstybę ir laikinai įtraukė ją į Europos šalių sistemą.","context":"2013 m. autoriai teigia, kad Mindaugas sugebėjo sukurti valstybę ir paversti tautą bei valstybę istoriniu subjektu; vertinimas pateikiamas autoriaus vardu.","support_ids":["t-203249","c-179896"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203249","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-179896","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min- daugas ne tik sugebėjo sukurti valstybę, bet ir įeiti, nors laikinai, į Europos šalių sistemą. Jis buvo vienintelis naujausiosios Viduramžių Europos valdo- vas, sugebėjęs paversti savo tautą ir valstybę istoriniu subjektu. Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"420d182a18a3393daf2369f8","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Naudojo diplomatiją valdžiai įtvirtinti: pasinaudojo Livonijos vidaus prieštaravimais ir patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą.","context":"1248–1251 m. opozicijos aplinkybėmis, kaip aprašyta 2013 m. Lietuvos istorijoje.","support_ids":["t-198193","c-105085"],"source_refs":[{"kind":"internal_claim","claim_id":"t-198193","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-105085","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai- čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma- tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą. Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną."}],"status":"published","conflict_status":"clear"},{"trait_id":"2de0b731f843db95a8bf6281","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Organizavo karinius žygius ir vadovavo valstybės kovai prieš Kryžiuočių ordino agresiją.","context":"1259–1263 m. Mindaugo valdoma Lietuva, pasak 1985 m. šaltinio, plačiu frontu kovojo prieš Ordino agresiją; 1262 m. jo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje.","support_ids":["t-221276","c-204745","t-220187","c-205219"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221276","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-220187","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204745","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Mindaugo valdoma Lietuva (ypač 1259— 1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją, aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą. Ypač glaudžiai lietuviai bendradarbiavo su kaimynystėje gyvenusiais jotvingiais — dalis jų žemių įėjo į Mindaugo valstybės"},{"kind":"evidence","evidence_id":"c-205219","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Štai Didžiojo prūsų sukilimo metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė Ordino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259— 1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją, aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f3a202ff2f55a40dc1dfe505","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Priėmė katalikų tikėjimą, tačiau šaltiniuose aprašomas ir vėlesnis grįžimas prie pagoniško tikėjimo.","context":"1930 m. šaltinis krikštą sieja su taika su Livonijos ordinu; 2007 m. Michał Baliński, perteikdamas Gedimino laiško teiginį, grįžimą prie protėvių tikėjimo aiškina kryžiuočių smurtu ir išdavystėmis.","support_ids":["t-198165","c-36463","t-198191","c-179897"],"source_refs":[{"kind":"internal_claim","claim_id":"t-198165","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-198191","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-36463","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Gelbėdamasis Mindaugas buvo priverstas taikintis su pavojingiausiu priešu — Livonijos Ordinu, o tas statė vieną sąlygą — priimti katalikų tikėjimą. Ir 1250 met. Mindaugas apsikrikštijo; apkrikštijo ir daug savo didikų."},{"kind":"evidence","evidence_id":"c-179897","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Jau seniai esame girdėję, kad visi krikščionių tikėjimo iš­ pažinėjai turi paklusti tavo valiai bei tėviškai [globai] ir kad pats katalikų tikėjimas yra tvarkomas Romos bažnyčios rū­ pesčiu. Tai ir yra priežastis, kad jūsų kilnybei šiuo laišku pareiš­ kiame, jog mūsų pirmtakas karalius Mindaugas su visa sa­ vo karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl bro­ lių iš teutonų namo magistro [daromų] žiaurių nuoskaudų ir nesuskaičiuojamų išdavysčių jie visi nuo to tikėjimo at­ krito; kaip tik dėl to ir mes, deja, ligi šios dienos esame pri­ versti pasilikti savo senolių klaidoje. Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­ daryti taiką, siuntė savo pasiuntinius ponams…"}],"status":"published","conflict_status":"clear"},{"trait_id":"c72fb158a37ec2908e39fb2c","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Leido ediktą, suteikusį riterių luomo lietuvaičiams teisę testamentu daryti įrašus Livonijos provincijos kryžiuočių riterių naudai.","context":"1257 m. ediktą taip aprašo Teodoras Narbutas 1994 m. veikale.","support_ids":["t-205560","c-187934"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205560","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187934","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Turime neabejotiną pėd­ saką, kad didieji kunigaikščiai nuo senų laikų skelbdavo ediktus, turėjusius įstatymų galią, jeigu tik iškildavo tam kokia būtinybė. Taip Mindaugas 1257 metais išleido ediktą, kuriuo riterių luomo lietuvaičiams buvo suteikiama teisė daryti įrašus testamente Livonijos provincijos kryžiuočių riterių naudai3."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"20217798a684a6ebde6172d3","canonical_code":"person.habits","label":"Įpročiai","group":"Asmens bruožai","value":"Medžiojo Žemgalos ir Lietuvos giriose.","context":"1263 m. rudens įvykį taip pasakoja Teodoras Narbutas 1997 m.; šaltinis nurodo, kad Mindaugas medžiojo su nedideliu būriu dvariškių.","support_ids":["t-205704","c-188319"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205704","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188319","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"1263 metų rudenį karalius Mindaugas buvo savo kara­ lystės šiaurinėje dalyje, kur tikriausiai su nedideliu bū­ riu dvariškių leido laiką medžiodamas Zemgalos ir Lie­ tuvos giriose, nusidriekusiose Dauguvos link. Sąmoksli­ ninkai, nutaikę progą, Treniotos ir Daumanto vedami, rug­ sėjo 12 dieną užpuolė miegančio karaliaus palapinę ir klastingai nužudė jį kartu su dviem sūnumis."}],"status":"published","conflict_status":"clear"},{"trait_id":"f29775634bcd98547611c1c0","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Šaltinyje vaizduojamas kaip įžvalgiai pasirenkantis politinius pagalbininkus ir siekiantis Lietuvai palankesnių sąlygų.","context":"2013 m. autoriai taip vertina Mindaugo politiką, aprašydami jo pasirinkimą bendradarbiauti su Livonijos ordino broliu Kristijonu ir sąlygų išdėstymą popiežiui; tai autoriaus vertinimas, o ne neutrali išvada.","support_ids":["t-113916","c-105100"],"source_refs":[{"kind":"internal_claim","claim_id":"t-113916","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-105100","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"O Mindaugas, karūnavęsis per Vokietijos vasalą – Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją. Maža to, po keleto metų Mindaugas gavo karaliaus vainiką visai dinastijai – po- piežius leido vainikuotis ir sūnui. Visa tai – Mindaugo politikos rezulta- tas. Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro- lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera- toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie- žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne…"}],"status":"published","conflict_status":"clear"},{"trait_id":"93fec2dfc28263608ffce4ff","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Sukūrė Lietuvos valstybę, suteikusią lietuvių tautai galimybę išlikti ir vėliau perimti Vakarų civilizaciją.","context":"2013 m. Lietuvos istorijos autoriai Mindaugą dėl šio vaidmens laiko viena svarbiausių ir Lietuvai daugiausia nusipelniusių asmenybių; tai jų istorinis vertinimas.","support_ids":["t-203262","c-179886"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203262","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-179886","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"L I E T U V O S I S T O R I J A 30 tarsi užbaigia valstybės susikūrimą, nes Lietuvą pripažino to meto pasau- lis. Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai dau- giausia nusipelniusių asmenybių. Mindaugas sukūrė didžiausią ankstyvo- sios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių tautai ir vėliau perimti Vakarų civilizaciją."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Mindaugas buvo Lietuvos valdovas, sukūręs Lietuvos valstybę ir tapęs pirmuoju bei vieninteliu vainikuotu Lietuvos karaliumi. Jo valdžia stiprėjo sudėtingomis aplinkybėmis: 1248 m. prieš jį susitelkė brolvaikiai, Livonijos ordinas ir Voluinė, tačiau jis pasipriešinimą įveikė karybos bei diplomatijos priemonėmis. 1251 m. Mindaugas pasikrikštijo, už tai Livonijos ordinui perleisdamas didelę dalį Žemaitijos, o 1253 m. liepos 6 d. buvo karūnuotas. Per Livonijos ordiną jis tapo popiežiaus vasalu ir gavo teisę į tiesiogiai popiežiui pavaldžią vyskupiją, todėl Lietuva, nors ir laikinai, įsitraukė į Europos šalių sistemą. Šaltiniuose Mindaugo sukurta valstybė vertinama kaip kūrinys, padėjęs lietuvių tautai išlikti ir vėliau perimti Vakarų civilizaciją; 1263 m. jis buvo nužudytas sąmokslininkų kartu su dviem sūnumis.","sentences":[{"sentence_id":"s1","text":"Mindaugas buvo Lietuvos valdovas, sukūręs Lietuvos valstybę ir tapęs pirmuoju bei vieninteliu vainikuotu Lietuvos karaliumi.","support_ids":["t-207447","c-190026","t-203128","c-105104"]},{"sentence_id":"s2","text":"Jo valdžia stiprėjo sudėtingomis aplinkybėmis: 1248 m. prieš jį susitelkė brolvaikiai, Livonijos ordinas ir Voluinė, tačiau jis pasipriešinimą įveikė karybos bei diplomatijos priemonėmis.","support_ids":["t-113909","c-105085"]},{"sentence_id":"s3","text":"1251 m. Mindaugas pasikrikštijo, už tai Livonijos ordinui perleisdamas didelę dalį Žemaitijos, o 1253 m. liepos 6 d. buvo karūnuotas.","support_ids":["t-113908","c-105104","t-203128","c-105104"]},{"sentence_id":"s4","text":"Per Livonijos ordiną jis tapo popiežiaus vasalu ir gavo teisę į tiesiogiai popiežiui pavaldžią vyskupiją, todėl Lietuva, nors ir laikinai, įsitraukė į Europos šalių sistemą.","support_ids":["t-198157","c-105100","t-198170","c-105091"]},{"sentence_id":"s5","text":"Šaltiniuose Mindaugo sukurta valstybė vertinama kaip kūrinys, padėjęs lietuvių tautai išlikti ir vėliau perimti Vakarų civilizaciją; 1263 m. jis buvo nužudytas sąmokslininkų kartu su dviem sūnumis.","support_ids":["t-203291","c-179886","t-205704","c-188319"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Visi teiginio faktai tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1248 m. opoziciją ir jos įveikimą karyba bei diplomatija."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina 1251 m. krikštą, Žemaitijos perleidimą ir 1253 m. liepos 6 d. karūnavimą."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina vasaliteto ryšį, vyskupijos teisę ir laikiną Lietuvos įsitraukimą į Europos sistemą."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina valstybės reikšmės vertinimą ir 1263 m. Mindaugo bei dviejų jo sūnų nužudymą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-207447","c-190026","t-203128","c-105104"]},{"sentence_id":"s2","supported":true,"support_ids":["t-113909","c-105085"]},{"sentence_id":"s3","supported":true,"support_ids":["t-113908","c-105104","t-203128","c-105104"]},{"sentence_id":"s4","supported":true,"support_ids":["t-198157","c-105100","t-198170","c-105091"]},{"sentence_id":"s5","supported":true,"support_ids":["t-203291","c-179886","t-205704","c-188319"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-1229ab18e5ed1b09e1c8e5e6","reason":"visual_verified_identity_primary","identity_verified":true,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-bbe59a74d3ba1b0a210f879b","relation_type":"manuscript_depiction_of"}],"media_verification":{"status":"verified","primary_media_id":"m-1229ab18e5ed1b09e1c8e5e6","candidate_count":2,"visual_verified_count":2,"identity_verified_count":2,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų istorinį asmenį Mindaugą, todėl tai tiesioginis portretinis atvaizdas.","visual_evidence":"Matomas įrėmintas piešinys, vaizduojantis karūnuotą, barzdotą valdovą su kardu ir skydu; apačioje aiškiai įrašyta „MINDAUGAS LIETUVOS KARALIUS“.","metadata_evidence":"Kandidato pavadinimas „Piešinys ,,Mindaugas - Lietuvos karalius\"“ ir aprašymas tiesiogiai nurodo Mindaugo portretą; objektas saugomas Tauragės regioniniame muziejuje.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/asmenys/Daumantas","claim_id":"t-05161","confidence":0.78},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Andrius Štirlandas","claim_id":"t-18809","confidence":0.82},{"predicate":"buvo_sajungininkas_su","direction":"outbound","target":"objektai/grupes/Rusai","claim_id":"t-184788","confidence":0.82},{"predicate":"buvo_sunus","direction":"outbound","target":"objektai/asmenys/Maukoldas","claim_id":"t-87550","confidence":0.95},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Vaišelga","claim_id":"t-119109","confidence":0.96},{"predicate":"buvo_vyras","direction":"outbound","target":"objektai/asmenys/Morta","claim_id":"t-113909","confidence":0.94},{"predicate":"buvo_zmona","direction":"inbound","target":"objektai/asmenys/Morta","claim_id":"t-13489","confidence":0.95},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Gedvydas","claim_id":"t-40121","confidence":0.88},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-171531","confidence":0.8},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-211322","confidence":0.78},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Tautvilas","claim_id":"t-40121","confidence":0.88},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-220187","confidence":0.86},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Cesys","claim_id":"t-32101","confidence":0.95},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Embutė","claim_id":"t-41712","confidence":0.88},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kuršas","claim_id":"t-90763","confidence":0.9},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-113911","confidence":0.88},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Mazovija","claim_id":"t-184788","confidence":0.91},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-184787","confidence":0.86},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Semba","claim_id":"t-185219","confidence":0.92},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-184788","confidence":0.9},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Brianskas","claim_id":"t-184685","confidence":0.78},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Kuršas","claim_id":"t-41712","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-32101","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Brianskas","claim_id":"t-179764","confidence":0.86},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Gardino žemė","claim_id":"t-32171","confidence":0.79},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Černigovas","claim_id":"t-179764","confidence":0.86},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-221525","confidence":0.95},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Slanimas","claim_id":"t-169170","confidence":0.9},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Valkaviskas","claim_id":"t-169170","confidence":0.9}],"timeline":[{"date":"1219 m.","label":"Mindaugas 1219 m.","claimId":"t-113913"},{"date":"1219 m.","label":"Mindaugas 1219 m.","claimId":"t-198184"},{"date":"1240 m.","label":"Genealoginėje ištraukoje Mindaugas nurodomas kaip Lietuvos kunigaikštis 1240 m., Erdeno nužudytas 1263 m.","claimId":"t-198192"},{"date":"1244 m.","label":"Pasak eiliuotosios Livonijos kronikos, 1244 m.","claimId":"t-113911"},{"date":"1244 m.","label":"Pasak eiliuotosios Livonijos kronikos, 1244 m.","claimId":"t-198185"},{"date":"1248 m.","label":"1248 m.","claimId":"t-113909"},{"date":"1248 m.","label":"1248 m.","claimId":"t-198193"},{"date":"1251 m.","label":"1251 m.","claimId":"t-113908"}],"support_disclosure":{"claims":79,"sources":11}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d5030e9d0162882f
+object_page_generated_at: '2026-09-18T22:54:01+00:00'
+object_page_source_checked_at: '2026-09-18T22:54:01+00:00'
+object_page_content_state: content
+object_page_claim_count: '79'
+object_page_source_count: '11'
+object_page_seo_description: 'Mindaugas (valdovas, XIII a.): Mindaugas buvo Lietuvos valdovas, sukūręs Lietuvos valstybę ir tapęs pirmuoju bei vieninteliu vainikuotu Lietuvos karaliumi. Jo…'
+object_page_seo_input_hash: 2b24e5d5fdd0597b00ff2c26f3562a772c0532d9ff26b010bc55c8a2701f7ef9
+object_page_seo_generated_at: '2026-09-18T22:54:01+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Mindaugas (valdovas, XIII a.)
 
@@ -58,6 +79,372 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
 1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje. Mindaugas žuvo 1263 m. dėl giminės nesantaikos, kilusios nepasitenkinus jo politika vokiečių atžvilgiu. Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams.
 
 ## Teiginiai
+
+<a id="claim-t-10097"></a>
+- t-001
+  teiginys: "Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams, o Vakarų Europos parama Ordinui sustiprėjo."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos faktus."
+  susije_objektai: "llm_object: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Europa; mentioned_place: Lietuva"
+  temporaliniai_duomenys: "įvykio data: 1260 m.; įvykio data: 1274 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos faktus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179892
+    - c-42149
+
+<a id="claim-t-113898"></a>
+- t-002
+  teiginys: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kryžiuočių ordinas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Mindaugo kariuomenės nusiaubtas Ordino užnugaris tiesiogiai rodo puolimą prieš Ordiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) puolė Kryžiuočių ordinas (0.86); Lietuviai apgulė Vėluva (0.84); Sūduviai apgulė Vėluva (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1262 m.; įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-105096
+    - c-179913
+
+<a id="claim-t-113899"></a>
+- t-003
+  teiginys: "Mindaugas žuvo 1263 m. dėl giminės nesantaikos, kilusios nepasitenkinus jo politika vokiečių atžvilgiu."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į pilną faktinį sakinį apie Mindaugą."
+  pagrindžia:
+    - c-36464
+
+<a id="claim-t-113900"></a>
+- t-004
+  teiginys: "Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzkariavo -> Prūsai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "deterministic_validation_passed; llm_structured_decision; prusai_group_context"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kryžiuočiai nukariavo prūsų gentis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsai (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1260 m.; įvykio data: 1274 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-42149
+
+<a id="claim-t-113901"></a>
+- t-005
+  teiginys: "Mindaugas, gelbėdamasis nuo Livonijos Ordino, buvo priverstas taikytis ir priimti katalikų tikėjimą."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-36463
+
+<a id="claim-t-113906"></a>
+- t-006
+  teiginys: "Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys apima platesnį kontekstą; perrašyta aiškiai apie Mindaugą ir jo veiksmą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-105091
+    - c-166953
+
+<a id="claim-t-113908"></a>
+- t-007
+  teiginys: "1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1251 m.; įvykio data: 1253 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-105104
+    - c-179922
+
+<a id="claim-t-113909"></a>
+- t-008
+  teiginys: "1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_vyras -> Morta: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Morta: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Morta tiesiogiai įvardyta Mindaugo žmona."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1248 m.; įvykio data: 1251 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per bendras; citata leidžia suformuluoti konkretesnį faktą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-105085
+
+<a id="claim-t-113911"></a>
+- t-009
+  teiginys: "Pasak eiliuotosios Livonijos kronikos, 1244 m. Mindaugas su 30 000 lietuvių nuniokojo Livonijos Ordino žemes."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Livonija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nuniokojimas Livonijos Ordino žemių tiesiogiai rodo Mindaugo puolimą Livonijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) puolė Livonija (0.88); Lietuviai puolė Livonija (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1244 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tinkamai priskiria informaciją Livonijos kronikai ir atitinka citatą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-36462
+    - c-179889
+
+<a id="claim-t-113913"></a>
+- t-010
+  teiginys: "Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: iki 1263 m.; įvykio data: 1219 m.; įvykio data: 1236 m.; įvykio data: 1249 m.; įvykio data: 1254 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Mindaugo veiksmą, paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-42150
+    - c-179891
+
+<a id="claim-t-113915"></a>
+- t-011
+  teiginys: "Mindaugas sukūrė valstybę ir, nors laikinai, įvedė ją į Europos šalių sistemą."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-105091
+
+<a id="claim-t-113916"></a>
+- t-012
+  teiginys: "Mindaugas, karūnavęsis per Livonijos ordiną, tapo popiežiaus vasalu ir gavo teisę į tiesiai popiežiui pavaldžią vyskupiją."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-105100
+    - c-179920
+
+<a id="claim-t-113921"></a>
+- t-013
+  teiginys: "Mindaugas tapo popiežiaus, o ne imperatoriaus vasalu ir gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-105100
+    - c-179920
+
+<a id="claim-t-113926"></a>
+- t-014
+  teiginys: "1245–1246 m. vokiečių kronikininkas Mindaugą pavadino „aukščiausiuoju karaliumi“."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1219 m.; įvykio data: 1235 m.; įvykio data: 1240 m.; įvykio data: apie 1240 m.; įvykio data: 1245-1246"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus faktinis teiginys apie Mindaugą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-105082
+    - c-179923
+
+<a id="claim-t-113927"></a>
+- t-015
+  teiginys: "Mindaugas sukūrė Lietuvos valstybę, kuri suteikė lietuvių tautai galimybę išlikti ir vėliau perimti Vakarų civilizaciją."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-105081
+
+<a id="claim-t-113928"></a>
+- t-016
+  teiginys: "Teiginys apie žynių luomo nebuvimą buvo grindžiamas duomenimis apie Mindaugo ir Kęstučio dalyvavimą aukojimo apeigose."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-105095
+    - c-179919
+
+<a id="claim-t-113930"></a>
+- t-017
+  teiginys: "Dalis jotvingių žemių įėjo į Mindaugo valstybės sudėtį."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-105090
+    - c-179917
+
+<a id="claim-t-113931"></a>
+- t-018
+  teiginys: "Mindaugas žuvo 1263 m. dėl giminės nesantaikos."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-36464
+    - c-179900
+
+<a id="claim-t-113935"></a>
+- t-019
+  teiginys: "1259 m. Mindaugo dokumente išvardytos Dainavos, arba Jotvingijos, terrulae."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1259 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko dokumento turinį, bet ne platesnes spėjamas išvadas."
+  pagrindžia:
+    - c-105097
+    - c-179906
 
 <a id="claim-t-184787"></a>
 - t-020
@@ -80,6 +467,192 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-168148
     - c-186000
 
+<a id="claim-t-184788"></a>
+- t-021
+  teiginys: "Mindaugas, gavęs rusų paramą, didžiulių miškų takais slaptai ir netikėtai įsibrovė į Mazoviją."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Mazovija: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Įsibrovimas į Mazoviją tiesiogiai rodo Mindaugo puolimą prieš šią teritoriją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) puolė Mazovija (0.91); Rusai rėmė Mindaugas (valdovas, XIII a.) (0.90); Mindaugas (valdovas, XIII a.) buvo sąjungininkas su Rusai (0.82)"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168149
+
+<a id="claim-t-184789"></a>
+- t-022
+  teiginys: "Mirus Mindaugo žmonai, Daumanto žmona atvyko į Mindaugo rūmus tvarkyti šeimynos moterų ir surengti šermenų."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Krikščionys: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168150
+
+<a id="claim-t-190921"></a>
+- t-023
+  teiginys: "Narbutas aiškesnės Lietuvos istorijos pradžią siejo su Mindaugu ir laikotarpiu nuo 1240 iki 1386 metų."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-173803
+
+<a id="claim-t-193627"></a>
+- t-024
+  teiginys: "Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-176298
+    - c-179901
+
+<a id="claim-t-193628"></a>
+- t-025
+  teiginys: "O sava valstybė, atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių, ateities planų garantas, pati didžiausia vertybė."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176299
+
+<a id="claim-t-193958"></a>
+- t-026
+  teiginys: "Lietuvos metraštis Mindaugą vaizduoja kaip valdovą, kuris žudė brolius ir giminaičius, kitus išvarė ir vienas kunigaikščiavo visoje Lietuvoje."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176583
+
+<a id="claim-t-196564"></a>
+- t-027
+  teiginys: "Pasak Kojelavičiaus, dėl nevienodo Mindaugo sūnaus Vaišelgos vardo istoriografijoje atsirado du veikiantieji asmenys."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178769
+
+<a id="claim-t-196565"></a>
+- t-028
+  teiginys: "Pasak Kojelavičiaus, kai kas teigė, kad Vytį kaip herbą ėmė vartoti karalius Mindaugas ir skyde pridėjo du kryžius."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178770
+
+<a id="claim-t-198154"></a>
+- t-029
+  teiginys: "Narbutas Mindaugą vadina Lietuvos ir Rusios kunigaikščiu ir jo žudikais įvardija Daumantą, Treniotą bei Tautvilą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Palikta atribucija dėl titulo ir žudikų įvardijimo. Atsisakyta perteklinio lobio dalybų fragmento, nes teiginys sutelktas į Mindaugą."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179908
+
+<a id="claim-t-198161"></a>
+- t-030
+  teiginys: "Lietuvos metraštis vaizduoja Mindaugą išsigandusį Tautvilos rėmėjų ir slapta pasiuntusį dovanas Rygos magistrui Andriui."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Subjektas ir adresatas įvardyti aiškiai, o Mindaugo baimė palikta kaip metraščio vaizdavimas. Nepridėta nieko daugiau nei citatoje minimos dovanos ir pasiuntiniai."
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-179911
+
+<a id="claim-t-198163"></a>
+- t-031
+  teiginys: "Balińskis Gedimino laiškuose išskyrė užuominą apie karaliaus Mindaugo grįžimą prie pagonybės dėl Kryžiuočių ordino kaltės."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179915
+
 <a id="claim-t-198166"></a>
 - t-032
   teiginys: "Maukoldas citatoje nurodomas kaip Mindaugo, dar vadinto Mendogu, tėvas."
@@ -99,6 +672,78 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   pagrindžia:
     - c-179899
 
+<a id="claim-t-198168"></a>
+- t-033
+  teiginys: "Balińskis teigė, kad Gedimino veiklumo dėka buvo įgyvendintos Mindaugo pastangos."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179887
+
+<a id="claim-t-198172"></a>
+- t-034
+  teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Claimas buvo nutrūkęs; citata palaiko užbaigtą sakinį apie Mindaugo krikštą ir atsimetimo priežastį."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179914
+
+<a id="claim-t-198191"></a>
+- t-035
+  teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet vėliau nuo jo atkrito."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Ryga"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179897
+
+<a id="claim-t-198192"></a>
+- t-036
+  teiginys: "Genealoginėje ištraukoje Mindaugas nurodomas kaip Lietuvos kunigaikštis 1240 m., Erdeno nužudytas 1263 m. arba 1265 m."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pirminis teiginys buvo OCR ir lentelės fragmentas; citata leidžia suformuoti pilną sakinį."
+  susije_objektai: "mentioned_place: Lietuva"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1240 m.; valdymo laikotarpis: 1263 m.; valdymo laikotarpis: 1265 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys buvo OCR ir lentelės fragmentas; citata leidžia suformuoti pilną sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179888
+
+<a id="claim-t-198198"></a>
+- t-037
+  teiginys: "Narbutas Mindaugo valdymo pradžią sieja su 1240 metais ir nuo jos skiria aiškesnės Lietuvos istorijos laikotarpį."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Turinio fragmentas perrašytas į pilną sakinį apie Mindaugą. Atribucija palikta, nes tai Narbuto istoriografinė periodizacija."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; llm_object: Lietuva"
+  semantiniai_rysiai: "[[objektai/asmenys/Mindaugas|Mindaugas]] valdė Lietuva"
+  ryšio_patikimumas: "valde -> Lietuva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Mindaugo valdymas tekste naudojamas Lietuvos istorijos periodui apibrėžti."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179918
+
 <a id="claim-t-203034"></a>
 - t-038
   teiginys: "Michał Baliński teigia, kad Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas."
@@ -111,6 +756,89 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   pagrindžia:
     - c-179899
 
+<a id="claim-t-203052"></a>
+- t-039
+  teiginys: "Michał Baliński knygoje „Vilniaus miesto istorija“ rašo, kad viename Gedimino laiške popiežiui ir kardinolams teigta, esą karalius Mindaugas su visa savo tauta būtų priėmęs krikščioniškąjį tikėjimą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas sakinys apie Gedimino laiške pateiktą Mindaugo krikšto vertinimą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-179914
+
+<a id="claim-t-203053"></a>
+- t-040
+  teiginys: "Michał Baliński rašo, kad Gediminas viename laiške teigė, esą karalius Mindaugas su visa savo tauta būtų priėmęs krikščioniškąjį tikėjimą, tačiau dėl nesuskaičiuojamų kryžiuočių išdavysčių nuo jo atsiskyrė."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys aiškiai perteikia laiško turinį ir yra paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Ryga"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-179914
+
+<a id="claim-t-203118"></a>
+- t-041
+  teiginys: "Veikale „Vilniaus miesto istorija“ Michał Baliński rašė apie mažai težinomą ir Europai visai negirdėtą Lietuvos istoriją, garsią riterių žygiais bei, jo vertinimu, išmintingiausia Mindaugo, Gedimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, ir apie pagonybės nuo kitų Europos šalių atskirtą tautą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-179907
+
+<a id="claim-t-203128"></a>
+- t-042
+  teiginys: "Mindaugas pasikrikštijo ir 1253 m. buvo karūnuotas Lietuvos karaliumi."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradiniame teiginyje yra puslapio ir antraštės triukšmo, citata palaiko aiškų sakinį apie Mindaugą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva"
+  temporaliniai_duomenys: "įvykio data: 1253 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra puslapio ir antraštės triukšmo, citata palaiko aiškų sakinį apie Mindaugą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-105104
+
+<a id="claim-t-203249"></a>
+- t-043
+  teiginys: "Šaltinyje „Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija“ rašoma, kad Mindaugas sugebėjo sukurti valstybę ir laikinai įeiti į Europos šalių sistemą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys apima platesnį kontekstą; perrašyta aiškiai apie Mindaugą ir jo veiksmą."
+  susije_objektai: "mentioned_place: Europa; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Nalšia"
+  temporaliniai_duomenys: "įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys apima platesnį kontekstą; perrašyta aiškiai apie Mindaugą ir jo veiksmą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-179896
+
+<a id="claim-t-203262"></a>
+- t-044
+  teiginys: "Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio knygoje „Lietuvos istorija“ teigiama, kad Mindaugas sukūrė ankstyvosios Lietuvos valstybę, suteikusią galimybę išlikti lietuvių tautai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-179886
+
+<a id="claim-t-203291"></a>
+- t-045
+  teiginys: "Knygoje „Lietuvos istorija“ Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas ir Mindaugas Tamošaitis teigia, kad Mindaugas sukūrė valstybę, suteikusią lietuvių tautai galimybę išlikti ir vėliau perimti Vakarų civilizaciją."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Sakinys yra pilnas faktinis teiginys apie Mindaugo vaidmenį."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-179886
+
 <a id="claim-t-203407"></a>
 - t-046
   teiginys: "Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio „Lietuvos istorijoje“ Mindaugo krikštas ir karalystė laikomi epizodu, o pagoniški dievai tebesiejami su Mindaugo laikų Lietuva."
@@ -120,8 +848,21 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   susije_objektai: "mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„ir mes turime vieną Dievą…“|„ir mes turime vieną Dievą…“]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Viena; mentioned_place: Vilnius"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-105105
     - c-179902
+
+<a id="claim-t-203417"></a>
+- t-047
+  teiginys: "Pasak leidinio „Žymiausi Lietuvos mūšiai ir karinės operacijos“, žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  susije_objektai: "llm_object: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lietuva"
+  temporaliniai_duomenys: "įvykio data: 1260 m.; įvykio data: 1274 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-179892
 
 <a id="claim-t-203423"></a>
 - t-048
@@ -137,807 +878,10 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   pagrindžia:
     - c-168150
 
-<a id="claim-t-221276"></a>
-- t-221276
-  teiginys: "Mindaugo vadovaujama Lietuva 1259–1263 m. plačiu frontu kovojo prieš Kryžiuočių ordino agresiją."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204745
-
-<a id="claim-t-212058"></a>
-- t-212058
-  teiginys: "Lietuvos metraštis Mindaugą vaizduoja kaip valdovą, kuris žudė brolius ir giminaičius, kitus išvarė ir vienas kunigaikščiavo visoje Lietuvoje."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys sutrumpintas iki aiškaus sakinio apie Mindaugą ir jo valdžią. Smurtas bei valdovo vaizdavimas palikti su metraščio atribucija, moraliniai vertinimai neišplėsti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-194231
-
-<a id="claim-t-216101"></a>
-- t-216101
-  teiginys: "Narbutas Mindaugą vadina Lietuvos ir Rusios kunigaikščiu ir jo žudikais įvardija Daumantą, Treniotą bei Tautvilą."
-  atnaujinta: "2026-09-13 23:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Palikta atribucija dėl titulo ir žudikų įvardijimo. Atsisakyta perteklinio lobio dalybų fragmento, nes teiginys sutelktas į Mindaugą."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-199762
-
-<a id="claim-t-221354"></a>
-- t-221354
-  teiginys: "Teiginys apie žynių luomo nebuvimą buvo grindžiamas duomenimis apie Mindaugo ir Kęstučio dalyvavimą aukojimo apeigose."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata kalba apie tvirtinimą ir jo argumentą, todėl būtina atribucinio pobūdžio formuluotė."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-205461
-
-<a id="claim-t-224175"></a>
-- t-224175
-  teiginys: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata."
-  susije_objektai: "llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Vėluva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Vėluva"
-  semantiniai_rysiai: "[[objektai/asmenys/Mindaugas|Mindaugas]] puolė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
-  temporaliniai_duomenys: "įvykio data: 1262 m.; įvykio data: 1263 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-205219
-
-<a id="claim-t-225720"></a>
-- t-225720
-  teiginys: "Dalis jotvingių žemių įėjo į Mindaugo valstybės sudėtį."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata tiesiogiai patvirtina faktą apie Mindaugo valstybę."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Viena"
-  ryšio_patikimumas: "puole -> Livonija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nuniokojimas Livonijos Ordino žemių tiesiogiai rodo Mindaugo puolimą Livonijoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-205362
-
-<a id="claim-t-10097"></a>
-- t-10097
-  teiginys: "Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams, o Vakarų Europos parama Ordinui sustiprėjo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos faktus."
-  susije_objektai: "llm_object: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Europa; mentioned_place: Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1260 m.; įvykio data: 1274 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos faktus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-42149
-    - c-179892
-
-<a id="claim-t-113899"></a>
-- t-113899
-  teiginys: "Mindaugas žuvo 1263 m. dėl giminės nesantaikos, kilusios nepasitenkinus jo politika vokiečių atžvilgiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=84"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1263 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į pilną faktinį sakinį apie Mindaugą."
-  pagrindžia:
-    - c-179900
-    - c-36464
-
-<a id="claim-t-113900"></a>
-- t-113900
-  teiginys: "Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzkariavo -> Prūsai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "deterministic_validation_passed; llm_structured_decision; prusai_group_context"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kryžiuočiai nukariavo prūsų gentis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1260 m.; įvykio data: 1274 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-42149
-    - c-179892
-
-<a id="claim-t-113901"></a>
-- t-113901
-  teiginys: "Mindaugas, gelbėdamasis nuo Livonijos Ordino, buvo priverstas taikytis ir priimti katalikų tikėjimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-36463
-    - c-179890
-
-<a id="claim-t-113902"></a>
-- t-113902
-  teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, pasikrikštijęs ir 1253 m. karūnuotas karaliumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1253 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra puslapio ir antraštės triukšmo, citata palaiko aiškų sakinį apie Mindaugą."
-  pagrindžia:
-    - c-105088
-    - c-179903
-
-<a id="claim-t-113903"></a>
-- t-113903
-  teiginys: "Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-105082
-    - c-105105
-    - c-179902
-    - c-179923
-
-<a id="claim-t-113906"></a>
-- t-113906
-  teiginys: "Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1263 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys apima platesnį kontekstą; perrašyta aiškiai apie Mindaugą ir jo veiksmą."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-105091
-    - c-166953
-    - c-179895
-    - c-179896
-
-<a id="claim-t-113907"></a>
-- t-113907
-  teiginys: "Mindaugas sukūrė ankstyvosios Lietuvos valstybę, kuri suteikė galimybę išlikti lietuvių tautai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-105081
-    - c-179886
-    - c-105082
-    - c-179923
-
-<a id="claim-t-113908"></a>
-- t-113908
-  teiginys: "1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1251 m.; įvykio data: 1253 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-105104
-    - c-179922
-
-<a id="claim-t-113909"></a>
-- t-113909
-  teiginys: "1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_vyras -> Morta: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Morta: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Morta tiesiogiai įvardyta Mindaugo žmona."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1248 m.; įvykio data: 1251 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per bendras; citata leidžia suformuluoti konkretesnį faktą."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-105085
-    - c-179898
-
-<a id="claim-t-113910"></a>
-- t-113910
-  teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, krikštijęsis ir 1253 m. karūnuotas karaliumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1253 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia tikslesnį sakinį su krikštu ir 1253 m. karūnacija."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-105088
-    - c-179903
-
-<a id="claim-t-113911"></a>
-- t-113911
-  teiginys: "Pasak eiliuotosios Livonijos kronikos, 1244 m. Mindaugas su 30 000 lietuvių nuniokojo Livonijos Ordino žemes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Livonija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nuniokojimas Livonijos Ordino žemių tiesiogiai rodo Mindaugo puolimą Livonijoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) puolė Livonija (0.88); Lietuviai puolė Livonija (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1244 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tinkamai priskiria informaciją Livonijos kronikai ir atitinka citatą."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-179889
-    - c-36462
-
-<a id="claim-t-113913"></a>
-- t-113913
-  teiginys: "Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: iki 1263 m.; įvykio data: 1219 m.; įvykio data: 1236 m.; įvykio data: 1249 m.; įvykio data: 1254 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Mindaugo veiksmą, paremtas citata."
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-42150
-    - c-179891
-
-<a id="claim-t-113915"></a>
-- t-113915
-  teiginys: "Mindaugas sukūrė valstybę ir, nors laikinai, įvedė ją į Europos šalių sistemą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1263 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-105091
-    - c-166953
-    - c-179895
-    - c-179896
-
-<a id="claim-t-113916"></a>
-- t-113916
-  teiginys: "Mindaugas, karūnavęsis per Livonijos ordiną, tapo popiežiaus vasalu ir gavo teisę į tiesiai popiežiui pavaldžią vyskupiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-105100
-    - c-179920
-
-<a id="claim-t-113919"></a>
-- t-113919
-  teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas ir XIII a. viduryje krikštijosi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1253 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-105088
-    - c-179903
-
-<a id="claim-t-113921"></a>
-- t-113921
-  teiginys: "Mindaugas tapo popiežiaus, o ne imperatoriaus vasalu ir gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-105100
-    - c-179920
-
-<a id="claim-t-113926"></a>
-- t-113926
-  teiginys: "1245–1246 m. vokiečių kronikininkas Mindaugą pavadino „aukščiausiuoju karaliumi“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1219 m.; įvykio data: 1235 m.; įvykio data: 1240 m.; įvykio data: apie 1240 m.; įvykio data: 1245-1246"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus faktinis teiginys apie Mindaugą."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-105082
-    - c-179923
-
-<a id="claim-t-113927"></a>
-- t-113927
-  teiginys: "Mindaugas sukūrė Lietuvos valstybę, kuri suteikė lietuvių tautai galimybę išlikti ir vėliau perimti Vakarų civilizaciją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-105081
-    - c-179886
-
-<a id="claim-t-113931"></a>
-- t-113931
-  teiginys: "Mindaugas žuvo 1263 m. dėl giminės nesantaikos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1263 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-179900
-    - c-36464
-
-<a id="claim-t-184788"></a>
-- t-184788
-  teiginys: "Mindaugas, gavęs rusų paramą, didžiulių miškų takais slaptai ir netikėtai įsibrovė į Mazoviją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Mazovija: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Įsibrovimas į Mazoviją tiesiogiai rodo Mindaugo puolimą prieš šią teritoriją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) puolė Mazovija (0.91); Rusai rėmė Mindaugas (valdovas, XIII a.) (0.90); Mindaugas (valdovas, XIII a.) buvo sąjungininkas su Rusai (0.82)"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168149
-
-<a id="claim-t-184789"></a>
-- t-184789
-  teiginys: "Mirus Mindaugo žmonai, Daumanto žmona atvyko į Mindaugo rūmus tvarkyti šeimynos moterų ir surengti šermenų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Krikščionys: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168150
-
-<a id="claim-t-193627"></a>
-- t-193627
-  teiginys: "Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-176298
-    - c-179901
-
-<a id="claim-t-193628"></a>
-- t-193628
-  teiginys: "O sava valstybė, atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių, ateities planų garantas, pati didžiausia vertybė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176299
-    - c-179916
-
-<a id="claim-t-196564"></a>
-- t-196564
-  teiginys: "Pasak Kojelavičiaus, dėl nevienodo Mindaugo sūnaus Vaišelgos vardo istoriografijoje atsirado du veikiantieji asmenys."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178769
-
-<a id="claim-t-196565"></a>
-- t-196565
-  teiginys: "Pasak Kojelavičiaus, kai kas teigė, kad Vytį kaip herbą ėmė vartoti karalius Mindaugas ir skyde pridėjo du kryžius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178770
-
-<a id="claim-t-198163"></a>
-- t-198163
-  teiginys: "Balińskis Gedimino laiškuose išskyrė užuominą apie karaliaus Mindaugo grįžimą prie pagonybės dėl Kryžiuočių ordino kaltės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-179915
-
-<a id="claim-t-198168"></a>
-- t-198168
-  teiginys: "Balińskis teigė, kad Gedimino veiklumo dėka buvo įgyvendintos Mindaugo pastangos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-179887
-    - c-179910
-
-<a id="claim-t-198172"></a>
-- t-198172
-  teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Claimas buvo nutrūkęs; citata palaiko užbaigtą sakinį apie Mindaugo krikštą ir atsimetimo priežastį."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-179914
-
-<a id="claim-t-198177"></a>
-- t-198177
-  teiginys: "Gedimino laikais įsitvirtinus leniniam valdymui, buvo įgyvendintos Mindaugo politinės pastangos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Claimas buvo per ilgas ir su Vilniui skirtu kontekstu; citata palaiko trumpą teiginį apie Mindaugo pastangas."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-179887
-    - c-179910
-
-<a id="claim-t-198191"></a>
-- t-198191
-  teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet vėliau nuo jo atkrito."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Ryga"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-179897
-
-<a id="claim-t-198192"></a>
-- t-198192
-  teiginys: "Genealoginėje ištraukoje Mindaugas nurodomas kaip Lietuvos kunigaikštis 1240 m., Erdeno nužudytas 1263 m. arba 1265 m."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pirminis teiginys buvo OCR ir lentelės fragmentas; citata leidžia suformuoti pilną sakinį."
-  susije_objektai: "mentioned_place: Lietuva"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1240 m.; valdymo laikotarpis: 1263 m.; valdymo laikotarpis: 1265 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys buvo OCR ir lentelės fragmentas; citata leidžia suformuoti pilną sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-179888
-
-<a id="claim-t-203052"></a>
-- t-203052
-  teiginys: "Michał Baliński knygoje „Vilniaus miesto istorija“ rašo, kad viename Gedimino laiške popiežiui ir kardinolams teigta, esą karalius Mindaugas su visa savo tauta būtų priėmęs krikščioniškąjį tikėjimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas sakinys apie Gedimino laiške pateiktą Mindaugo krikšto vertinimą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-179914
-
-<a id="claim-t-203053"></a>
-- t-203053
-  teiginys: "Michał Baliński rašo, kad Gediminas viename laiške teigė, esą karalius Mindaugas su visa savo tauta būtų priėmęs krikščioniškąjį tikėjimą, tačiau dėl nesuskaičiuojamų kryžiuočių išdavysčių nuo jo atsiskyrė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys aiškiai perteikia laiško turinį ir yra paremtas citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Ryga"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-179914
-
-<a id="claim-t-203118"></a>
-- t-203118
-  teiginys: "Veikale „Vilniaus miesto istorija“ Michał Baliński rašė apie mažai težinomą ir Europai visai negirdėtą Lietuvos istoriją, garsią riterių žygiais bei, jo vertinimu, išmintingiausia Mindaugo, Gedimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, ir apie pagonybės nuo kitų Europos šalių atskirtą tautą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-179907
-
-<a id="claim-t-203127"></a>
-- t-203127
-  teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas ir pasikrikštijo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1253 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-105088
-    - c-179903
-
-<a id="claim-t-203128"></a>
-- t-203128
-  teiginys: "Mindaugas pasikrikštijo ir 1253 m. buvo karūnuotas Lietuvos karaliumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradiniame teiginyje yra puslapio ir antraštės triukšmo, citata palaiko aiškų sakinį apie Mindaugą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1253 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra puslapio ir antraštės triukšmo, citata palaiko aiškų sakinį apie Mindaugą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-105104
-
-<a id="claim-t-203249"></a>
-- t-203249
-  teiginys: "Šaltinyje „Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija“ rašoma, kad Mindaugas sugebėjo sukurti valstybę ir laikinai įeiti į Europos šalių sistemą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradinis teiginys apima platesnį kontekstą; perrašyta aiškiai apie Mindaugą ir jo veiksmą."
-  susije_objektai: "mentioned_place: Europa; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Nalšia"
-  temporaliniai_duomenys: "įvykio data: 1263 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys apima platesnį kontekstą; perrašyta aiškiai apie Mindaugą ir jo veiksmą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-179896
-
-<a id="claim-t-203262"></a>
-- t-203262
-  teiginys: "Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio knygoje „Lietuvos istorija“ teigiama, kad Mindaugas sukūrė ankstyvosios Lietuvos valstybę, suteikusią galimybę išlikti lietuvių tautai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-105081
-    - c-179886
-
-<a id="claim-t-203291"></a>
-- t-203291
-  teiginys: "Knygoje „Lietuvos istorija“ Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas ir Mindaugas Tamošaitis teigia, kad Mindaugas sukūrė valstybę, suteikusią lietuvių tautai galimybę išlikti ir vėliau perimti Vakarų civilizaciją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Sakinys yra pilnas faktinis teiginys apie Mindaugo vaidmenį."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-105081
-    - c-179886
-
-<a id="claim-t-203417"></a>
-- t-203417
-  teiginys: "Pasak leidinio „Žymiausi Lietuvos mūšiai ir karinės operacijos“, žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  susije_objektai: "llm_object: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1260 m.; įvykio data: 1274 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-179892
-
 <a id="claim-t-203526"></a>
-- t-203526
+- t-049
   teiginys: "Albertas Vijūkas-Kojelavičius veikale „Lietuvos istorija“ teigia, kad Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai didžiulių miškų takais įsibrovė į Mazoviją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -950,9 +894,9 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-168149
 
 <a id="claim-t-205560"></a>
-- t-205560
+- t-050
   teiginys: "Teodoras Narbutas teigia, kad Mindaugas 1257 metais išleido ediktą, suteikusį riterių luomo lietuvaičiams teisę testamente daryti įrašus Livonijos provincijos kryžiuočių riterių naudai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -963,9 +907,9 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-187934
 
 <a id="claim-t-205703"></a>
-- t-205703
+- t-051
   teiginys: "Mindaugas valdė Peluziją ir Rusios žemes."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -975,9 +919,9 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-188318
 
 <a id="claim-t-205704"></a>
-- t-205704
+- t-052
   teiginys: "Teodoras Narbutas rašo, kad 1263 m. rudenį karalius Mindaugas medžiojo Žemgalos ir Lietuvos giriose, o rugsėjo 12 d. sąmokslininkai jį ir du jo sūnus nužudė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -988,9 +932,9 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-188319
 
 <a id="claim-t-205705"></a>
-- t-205705
+- t-053
   teiginys: "Teodoras Narbutas Mindaugą vaizduoja kaip krikštą priėmusį ir apaštališkąja galia karaliumi apvainikuotą Lietuvos valdovą, kuris dėl vieno iš brolių išdavystės buvo žiauriai nužudytas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -999,82 +943,6 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
   pagrindžia:
     - c-188320
-
-<a id="claim-t-207445"></a>
-- t-207445
-  teiginys: "Vaišelga buvo Mindaugo sūnus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  pagrindžia:
-    - c-190079
-
-<a id="claim-t-207447"></a>
-- t-207447
-  teiginys: "Mindaugas sukūrė Lietuvos valstybę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190026
-
-<a id="claim-t-212198"></a>
-- t-212198
-  teiginys: "Narbutas aiškesnės Lietuvos istorijos pradžią siejo su Mindaugu ir laikotarpiu nuo 1240 iki 1386 metų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-194760
-
-<a id="claim-t-217478"></a>
-- t-217478
-  teiginys: "Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui, jo žudikai kunigaikščiai - Užgirio (Transilvaticus) Dauman tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir du jo sūnus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199762
-
-<a id="claim-t-225151"></a>
-- t-225151
-  teiginys: "1259 m. Mindaugo dokumente išvardytos Dainavos, arba Jotvingijos, terrulae."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1259 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko dokumento turinį, bet ne platesnes spėjamas išvadas."
-  pagrindžia:
-    - c-203560
 
 ## Reikšmingi paminėjimai
 - c-019
@@ -1161,8 +1029,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113911
+  pagrindzia:
+    - t-009
 
 - id: c-36463
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1180,8 +1048,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113901
+  pagrindzia:
+    - t-005
 
 - id: c-36464
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1201,9 +1069,9 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113899
-    - t-113931
+  pagrindzia:
+    - t-003
+    - t-018
 
 - id: c-42149
   sudarytojas: "Karolis Zikaras"
@@ -1223,9 +1091,9 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-10097
-    - t-113900
+  pagrindzia:
+    - t-001
+    - t-004
 
 - id: c-42150
   sudarytojas: "Karolis Zikaras"
@@ -1253,8 +1121,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113913
+  pagrindzia:
+    - t-010
 
 - id: c-105081
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1274,11 +1142,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113907
-    - t-113927
-    - t-203262
-    - t-203291
+  pagrindzia:
+    - t-015
 
 - id: c-105082
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1300,10 +1165,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113903
-    - t-113907
-    - t-113926
+  pagrindzia:
+    - t-014
 
 - id: c-105085
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1324,8 +1187,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113909
+  pagrindzia:
+    - t-008
 
 - id: c-105088
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1352,12 +1215,6 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113902
-    - t-113910
-    - t-113919
-    - t-203127
-
 - id: c-105090
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1375,6 +1232,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
 
 - id: c-105091
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1395,9 +1254,9 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113906
-    - t-113915
+  pagrindzia:
+    - t-006
+    - t-011
 
 - id: c-105095
   autorius: "Petras Dusburgietis"
@@ -1413,6 +1272,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 - id: c-105096
   autorius: "Petras Dusburgietis"
@@ -1433,6 +1294,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-105097
   autorius: "Petras Dusburgietis"
@@ -1452,6 +1315,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 - id: c-105100
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1480,9 +1345,9 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113916
-    - t-113921
+  pagrindzia:
+    - t-012
+    - t-013
 
 - id: c-105104
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1501,9 +1366,9 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113908
-    - t-203128
+  pagrindzia:
+    - t-007
+    - t-042
 
 - id: c-105105
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1528,10 +1393,6 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-046
-    - t-113903
-
 - id: c-166953
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1549,9 +1410,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113906
-    - t-113915
+  pagrindzia:
+    - t-006
 
 - id: c-168148
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1574,12 +1434,11 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     kerštą.
   citata_rodoma: "Ka­\ndangi miestą gynė rinktinių karių įgula, apsuptis\nbuvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­\nrasta daug be galo narsių karių, kurie tiltu per Prieg­\nliaus upę atkakliai veržėsi prie miesto vartų, nepaisy­\ndami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­\nmaitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­\nnorėdamas, kad atrodytų, jog veltui puolęs Prūsiją,\nsukurstė žmones visame krašte atsimesti nuo kryžiuo­\nčių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-\nlerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­\nčiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie\nkerštą."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-020
 
 - id: c-168149
@@ -1610,9 +1469,9 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184788
-    - t-203526
+  pagrindzia:
+    - t-021
+    - t-049
 
 - id: c-168150
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1635,14 +1494,13 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     dorą, jis pasilaikė ją už
     žmoną.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-022
     - t-048
-    - t-184789
 
 - id: c-173803
   autorius: "Teodoras Narbutas"
@@ -1659,6 +1517,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
 
 - id: c-176298
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1682,8 +1542,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193627
+  pagrindzia:
+    - t-024
 
 - id: c-176299
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1700,8 +1560,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193628
+  pagrindzia:
+    - t-025
 
 - id: c-176583
   autorius: "Anoniminis metraštininkas"
@@ -1721,6 +1581,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-026
 
 - id: c-178769
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1737,8 +1599,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196564
+  pagrindzia:
+    - t-027
 
 - id: c-178770
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1772,8 +1634,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196565
+  pagrindzia:
+    - t-028
 
 - id: c-179886
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1793,11 +1655,9 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113907
-    - t-113927
-    - t-203262
-    - t-203291
+  pagrindzia:
+    - t-044
+    - t-045
 
 - id: c-179887
   autorius: "Michał Baliński"
@@ -1824,9 +1684,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198168
-    - t-198177
+  pagrindzia:
+    - t-033
 
 - id: c-179888
   autorius: "Michał Baliński"
@@ -1848,8 +1707,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198192
+  pagrindzia:
+    - t-036
 
 - id: c-179889
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1869,8 +1728,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113911
+  pagrindzia:
+    - t-009
 
 - id: c-179890
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1889,9 +1748,6 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113901
-
 - id: c-179891
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1918,8 +1774,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113913
+  pagrindzia:
+    - t-010
 
 - id: c-179892
   sudarytojas: "Karolis Zikaras"
@@ -1939,10 +1795,9 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-10097
-    - t-113900
-    - t-203417
+  pagrindzia:
+    - t-001
+    - t-047
 
 - id: c-179894
   autorius: "Teodoras Narbutas"
@@ -1960,7 +1815,6 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179895
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1979,10 +1833,6 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113906
-    - t-113915
-
 - id: c-179896
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2002,10 +1852,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113906
-    - t-113915
-    - t-203249
+  pagrindzia:
+    - t-043
 
 - id: c-179897
   autorius: "Michał Baliński"
@@ -2038,8 +1886,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198191
+  pagrindzia:
+    - t-035
 
 - id: c-179898
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2061,9 +1909,6 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113909
-
 - id: c-179899
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2077,12 +1922,11 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     a
     PyccKaH AeToriHCb cb BocKpe- Tepöyprb 1793.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-032
     - t-038
 
@@ -2104,9 +1948,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113899
-    - t-113931
+  pagrindzia:
+    - t-018
 
 - id: c-179901
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2130,8 +1973,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193627
+  pagrindzia:
+    - t-024
 
 - id: c-179902
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2151,14 +1994,12 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     išpranašaus Vilniaus įkūrimą ir šlovę.
   citata_rodoma: "Lietuva \nliko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis \nir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar \ngyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo \nlaikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir \niki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą, \nkiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas \nGedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir \nišpranašaus Vilniaus įkūrimą ir šlovę."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-046
-    - t-113903
 
 - id: c-179903
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2185,12 +2026,6 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113902
-    - t-113910
-    - t-113919
-    - t-203127
-
 - id: c-179906
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2209,6 +2044,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 - id: c-179907
   autorius: "Michał Baliński"
@@ -2253,8 +2090,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203118
+  pagrindzia:
+    - t-041
 
 - id: c-179908
   autorius: "Teodoras Narbutas"
@@ -2277,6 +2114,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-029
 
 - id: c-179910
   autorius: "Michał Baliński"
@@ -2304,10 +2143,6 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198168
-    - t-198177
-
 - id: c-179911
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2330,6 +2165,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-030
 
 - id: c-179913
   autorius: "Petras Dusburgietis"
@@ -2350,6 +2187,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-179914
   autorius: "Michał Baliński"
@@ -2378,10 +2217,10 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198172
-    - t-203052
-    - t-203053
+  pagrindzia:
+    - t-034
+    - t-039
+    - t-040
 
 - id: c-179915
   autorius: "Michał Baliński"
@@ -2400,8 +2239,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198163
+  pagrindzia:
+    - t-031
 
 - id: c-179916
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2419,9 +2258,6 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193628
-
 - id: c-179917
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2439,6 +2275,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
 
 - id: c-179918
   autorius: "Teodoras Narbutas"
@@ -2456,6 +2294,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-037
 
 - id: c-179919
   autorius: "Petras Dusburgietis"
@@ -2471,6 +2311,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 - id: c-179920
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2499,9 +2341,9 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113916
-    - t-113921
+  pagrindzia:
+    - t-012
+    - t-013
 
 - id: c-179921
   autorius: "Anoniminis metraštininkas"
@@ -2522,7 +2364,6 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179922
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2540,8 +2381,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113908
+  pagrindzia:
+    - t-007
 
 - id: c-179923
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2563,10 +2404,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113903
-    - t-113907
-    - t-113926
+  pagrindzia:
+    - t-014
 
 - id: c-186000
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2588,7 +2427,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-020
 
 - id: c-187934
@@ -2611,8 +2450,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205560
+  pagrindzia:
+    - t-050
 
 - id: c-188318
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -2633,8 +2472,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205703
+  pagrindzia:
+    - t-051
 
 - id: c-188319
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -2655,8 +2494,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205704
+  pagrindzia:
+    - t-052
 
 - id: c-188320
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -2696,239 +2535,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205705
-
-- id: c-190026
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 84"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 84."
-  citata_originali: |
-    Todėl šiandien ši data yra tokia pat valstybės šventė kaip Vasario 16-oji ir
-    Kovo 11-oji.
-    Mindaugas sukūrė Lietuvos valstybę. Atrodo, vien to pakaktų Mindaugą laikyti
-    viena iš svarbiausių ir Lietuvai daugiausia nusipelniusių asmenybių.
-  citata_rodoma: "Mindaugas sukūrė Lietuvos valstybę. Atrodo, vien to pakaktų Mindaugą laikyti \nviena iš svarbiausių ir Lietuvai daugiausia nusipelniusių asmenybių."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207447
-
-- id: c-190079
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 110"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 110."
-  citata_originali: |
-    Stačiatikiškos kultūros vaidmuo valstybės branduoliui prasidėjo jau nuo Mindaugo
-    laikų. Mindaugo karūnacijos liudytojas teigia, kad lietuviai nuo kūdikystės pažįsta krikš-
-    čionybę, nes juos auklėja auklės krikščionės. Mindaugo sūnus Vaišelga, kaip minėta, tapo
-    karštai įtikėjusiu stačiatikių vienuoliu.
-  citata_rodoma: "Mindaugo sūnus Vaišelga, kaip minėta, tapo \nkarštai įtikėjusiu stačiatikių vienuoliu."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207445
-
-- id: c-194231
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 51"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 51."
-  citata_originali: |
-    Buvo šitaip. Jis kunigaikščiavo Lietuvos žemėje ir
-    ėmė žudyti savo brolius ir savo giminaičius, o kitus
-    išvarė iš krašto, ir ėmė pats vienas kunigaikščiauti vi­
-    soje Lietuvos žemėje, ir ėmė labai didžiuotis, girtis di­
-    džia šlove bei didybe, ir nepakentė nė vieno, kuris
-    būtų galėjęs jam paprieštarauti.
-    Turėjo jis sūnų Vaišvilką ir dukterį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212058
-
-- id: c-194760
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 518"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 518."
-  citata_originali: |
-    II. Abejotinos istorijos periodas, t. y. nuo nuolatinių Lietuvos žy­
-    gių į rusų kraštus (Pskovą ir Naugardą) iki 1240 metų, t. y. Min­
-    daugo valdymo.
-    III. Aiškesnė istorija — nuo Mindaugo (1240) iki 1386 metų.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212198
-
-- id: c-199762
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 213"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
-  citata_originali: |
-    Šiojo sūnus Liu­
-    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
-    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
-    jo žudikai kunigaikščiai - Užgirio (Transilvaticus) Dauman­
-    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
-    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
-    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
-    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
-    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
-    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216101
-    - t-217478
-
-- id: c-200815
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 457"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
-  citata_originali: |
-    II. Abejotinos istorijos periodas, tai yra nuo nuolatinių Lie­
-    tuvos žygių i rusų kraštus (Pskovą ir Naugardą) iki 1240 metų,
-    tai yra Mindaugo valdymo.
-    III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
-    metų.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203560
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 55-56"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 55-56."
-  citata_originali: |
-    Galbūt šis terminas buvo žinomas ir kitose prūsų, jotvingių bei
-
-    Pirma — Kulmo190 ir
-
-    lietuvių žemėse, tai rodytų, galimas daiktas, 1259 m. Mindaugo dokumentas, kuriame
-    išvardijama Dainavos, arba Jotvingijos, terrulae, tarp jų Cresmen (PUB, 1, 1, Nr. 79,
-    p. 70), atitinkančią D. territorium [...] Crasimam (D. III, 209).
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225151
-
-- id: c-204745
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 11"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
-  citata_originali: |
-    Mindaugo valdoma Lietuva (ypač 1259—
-    1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
-    aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą. Ypač glaudžiai
-    lietuviai bendradarbiavo su kaimynystėje gyvenusiais jotvingiais — dalis jų žemių
-    įėjo į Mindaugo valstybės
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221276
-
-- id: c-205219
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 11"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
-  citata_originali: |
-    Štai Didžiojo prūsų sukilimo
-    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
-    Ordino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
-    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
-    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
-    sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—
-    1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
-    aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224175
-
-- id: c-205362
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 11"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
-  citata_originali: |
-    Ypač glaudžiai
-    lietuviai bendradarbiavo su kaimynystėje gyvenusiais jotvingiais — dalis jų žemių
-    įėjo į Mindaugo valstybės sudėtį31. Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
-    suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
-    norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės
-    baltų žemės (Livonija ir Prūsija).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225720
-
-- id: c-205461
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 67"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
-  citata_originali: |
-    171— 172). Tvirtinama, jog žynių luomo buvimą
-    neigia faktai apie vyriausiuosius aukotojus—valdovus (remiamasi duomenimis apie
-    Mindaugo, Kęstučio ir kt. dalyvavimą aukojimo apeigose).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221354
+  pagrindzia:
+    - t-053
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Morta]]

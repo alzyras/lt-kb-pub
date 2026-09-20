@@ -60,6 +60,48 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-195607"></a>
+- t-001
+  teiginys: "Iš pradžių degtukus vartojo tik miestiečiai ir jie juos naudojo atsargiai."
+  atnaujinta: "2026-07-12 07:26"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178013
+
+<a id="claim-t-195608"></a>
+- t-002
+  teiginys: "1862 m. degtukai pasirodė krautuvėse."
+  atnaujinta: "2026-07-12 07:26"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178013
+
+<a id="claim-t-195609"></a>
+- t-003
+  teiginys: "Vėliau degtukai ėmė skverbtis į kaimo grįčias."
+  atnaujinta: "2026-07-12 07:26"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178012
+
+<a id="claim-t-195610"></a>
+- t-004
+  teiginys: "Kaime degtukų nekentė dėl to, kad jie perkami, ir bijojo dėl gaisro pavojaus."
+  atnaujinta: "2026-07-12 07:26"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178012
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -84,7 +126,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-004
 
@@ -101,49 +143,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-195607"></a>
-- t-001
-  teiginys: "Iš pradžių degtukus vartojo tik miestiečiai ir jie juos naudojo atsargiai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::events"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178013
-
-<a id="claim-t-195608"></a>
-- t-002
-  teiginys: "1862 m. degtukai pasirodė krautuvėse."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::events"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178013
-
-<a id="claim-t-195609"></a>
-- t-003
-  teiginys: "Vėliau degtukai ėmė skverbtis į kaimo grįčias."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::events"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178012
-
-<a id="claim-t-195610"></a>
-- t-004
-  teiginys: "Kaime degtukų nekentė dėl to, kad jie perkami, ir bijojo dėl gaisro pavojaus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::events"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178012
-

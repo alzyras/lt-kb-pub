@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Naretva (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Naretva (vieta)
+identifikacija: vieta
 variantai:
-  - 'Naretva'
+  - Naretva
 aliases:
-  - 'Naretva'
+  - Naretva
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7a03a5b40e4b9bc900b7b66c"
-canonical_name: "Naretva (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Naretva","Naretva (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7a03a5b40e4b9bc900b7b66c
+canonical_name: Naretva (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Naretva
+  - Naretva (vieta)
 sameAs: []
-canonical_biography: "Mažoji ir Didžioji Naretvos susiliejusios sudaro Dalmatijos upę Narentą arba Naroną."
+canonical_biography: Mažoji ir Didžioji Naretvos susiliejusios sudaro Dalmatijos upę Narentą arba Naroną.
 ---
 # Naretva (vieta)
 
@@ -71,6 +71,5 @@ Mažoji ir Didžioji Naretvos susiliejusios sudaro Dalmatijos upę Narentą arba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

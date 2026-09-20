@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Kempinė (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Kempinė (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Kempinė'
+  - Kempinė
 aliases:
-  - 'Kempinė'
+  - Kempinė
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kempinė (daiktas)
 
@@ -91,7 +88,7 @@ Ir didysis kunigaikštis Algirdas ištrau kė iš maišiuko kempinę bei titnag�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200784
@@ -110,6 +107,5 @@ Ir didysis kunigaikštis Algirdas ištrau kė iš maišiuko kempinę bei titnag�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

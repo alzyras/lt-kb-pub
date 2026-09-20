@@ -41,6 +41,33 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-194625"></a>
+- t-001
+  teiginys: "Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami Lėlės (Lela) ir Mėnulės (Menula) vardais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177024
+
+<a id="claim-t-197253"></a>
+- t-002
+  teiginys: "Toliau šiame veikale rasime kitas dangaus kūnų judėjimo pažinimo liekanas, daugiausia straipsniuose „Šventės“, „Iškil mės“."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-172711
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas lietuvių mitologijoje Saulę vaizduoja kaip deivę, Mėnulio žmoną, kurios vaikai buvo žvaigždės.'
@@ -85,6 +112,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-177024
   autorius: "Teodoras Narbutas"
@@ -105,101 +134,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199136
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 187"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 187."
-  citata_originali: |
-    Toliau šiame veikale rasime kitas dangaus kūnų judėjimo
-    pažinimo liekanas, daugiausia straipsniuose „Šventės“, „Iškil­
-    mės“.
-    Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis
-    perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami
-    Lėlės (Lela) ir Mėnulės (Menula) vardais.
-    Vyskupo Petro rankraštyje yra tokia užuomina apie lietu­
-    vių tikėjimo suasmenintus reikšmingiausius dangaus kūnus:
-    „Tarp tos prigimties dievų po Saulės pirmą vietą pripažįsta
-    Mėnuliui, kuriam paprastai nusilenkia kaip deivei Lelia Me-
-    nelia.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-218434
-
-- id: c-200549
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 187"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 187."
-  citata_originali: |
-    Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis
-    perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami
-    Lėlės (Lela) ir Mėnulės (Menula) vardais.
-    Vyskupo Petro rankraštyje yra tokia užuomina apie lietu­
-    vių tikėjimo suasmenintus reikšmingiausius dangaus kūnus:
-    „Tarp tos prigimties dievų po Saulės pirmą vietą pripažįsta
-    Mėnuliui, kuriam paprastai nusilenkia kaip deivei Lelia Me-
-    nelia. Jis valdė naktį ir todėl matavo laiką“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-217987"></a>
-- t-001
-  teiginys: "Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami Lėlės (Lela) ir Mėnulės (Menula) vardais."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-200549
-
-<a id="claim-t-219253"></a>
-- t-002
-  teiginys: "Toliau šiame veikale rasime kitas dangaus kūnų judėjimo pažinimo liekanas, daugiausia straipsniuose „Šventės“, „Iškil mės“."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199136
-
-<a id="claim-t-218434"></a>
-- t-218434
-  teiginys: "Narbutas rašo, kad latviai Saulės aptemimą vadino Majtaszana arba Saules majtaszana, tai yra Saulės gadinimu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dangaus kūnų sudievinimas ir Saulės bei Mėnulio garbinimo vaizdiniai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dangaus kūnų sudievinimas ir Saulės bei Mėnulio garbinimo vaizdiniai\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-199136
-

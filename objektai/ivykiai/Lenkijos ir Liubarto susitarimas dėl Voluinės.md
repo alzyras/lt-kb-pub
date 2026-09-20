@@ -36,6 +36,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206752"></a>
+- t-001
+  teiginys: "Lenkijos kariaunai perėjus per Belipai žemę, Jurgis Narimantaitis, valdęs ją iki gyvos galvos, prisiekė likti Lenkijos priklausomybėje, o jo teisės nebuvo pažeistos."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189367
+
+<a id="claim-t-206753"></a>
+- t-002
+  teiginys: "Pasak Teodoro Narbuto, Liubartas įsipareigojo būti didžiojo kunigaikščio vasalu, remti Lenkijos karalių kare su svetimais priešais, išskyrus Lietuvą, o Lenkijos ir Lietuvos valdovai pažadėjo jam globą ir paramą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189368
+
 ## Santrauka
 
 Lenkijos kariaunai perėjus per Belipai žemę, Jurgis Narimantaitis, valdęs ją iki gyvos galvos, prisiekė likti Lenkijos priklausomybėje, o jo teisės nebuvo pažeistos. Pasak Teodoro Narbuto, Liubartas įsipareigojo būti didžiojo kunigaikščio vasalu, remti Lenkijos karalių kare su svetimais priešais, išskyrus Lietuvą, o Lenkijos ir Lietuvos valdovai pažadėjo jam globą ir paramą.
@@ -65,7 +93,7 @@ Lenkijos kariaunai perėjus per Belipai žemę, Jurgis Narimantaitis, valdęs j�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189368
@@ -85,34 +113,5 @@ Lenkijos kariaunai perėjus per Belipai žemę, Jurgis Narimantaitis, valdęs j�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206752"></a>
-- t-001
-  teiginys: "Lenkijos kariaunai perėjus per Belipai žemę, Jurgis Narimantaitis, valdęs ją iki gyvos galvos, prisiekė likti Lenkijos priklausomybėje, o jo teisės nebuvo pažeistos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189367
-
-<a id="claim-t-206753"></a>
-- t-002
-  teiginys: "Pasak Teodoro Narbuto, Liubartas įsipareigojo būti didžiojo kunigaikščio vasalu, remti Lenkijos karalių kare su svetimais priešais, išskyrus Lietuvą, o Lenkijos ir Lietuvos valdovai pažadėjo jam globą ir paramą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189368
-

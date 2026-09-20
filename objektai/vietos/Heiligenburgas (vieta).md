@@ -38,6 +38,20 @@ historical_names: []
 
 Žiemai atėjus, traukė pats su kariauna per pašalusias balas taip pat į Jelgavą, nuo kurios netoli ant taip vadinamo švento kalno įkūrė pilį, vadinamą Heiligenburgu, ir tenai įdėdamas 300 rimtų vyrų apveizėjo dar mi talu ir ginklu, kurią vienok žemaičiai.
 
+## Teiginiai
+
+<a id="claim-t-201146"></a>
+- t-001
+  teiginys: "Žiemai atėjus, traukė pats su kariauna per pašalusias balas taip pat į Jelgavą, nuo kurios netoli ant taip vadinamo švento kalno įkūrė pilį, vadinamą Heiligenburgu, ir tenai įdėdamas 300 rimtų vyrų apveizėjo dar mi talu ir ginklu, kurią vienok žemaičiai."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184496
+
 ## Citatos
 
 - id: c-184496
@@ -64,20 +78,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201146"></a>
-- t-001
-  teiginys: "Žiemai atėjus, traukė pats su kariauna per pašalusias balas taip pat į Jelgavą, nuo kurios netoli ant taip vadinamo švento kalno įkūrė pilį, vadinamą Heiligenburgu, ir tenai įdėdamas 300 rimtų vyrų apveizėjo dar mi talu ir ginklu, kurią vienok žemaičiai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184496
-

@@ -1,34 +1,31 @@
 ---
 tipas: ivykis
-pavadinimas: 'Vaclovo Čekijos karaliaus mirtis ir sosto perėmimas (1307 m.)'
+pavadinimas: Vaclovo Čekijos karaliaus mirtis ir sosto perėmimas (1307 m.)
 variantai:
-  - 'Vaclovo Čekijos karaliaus mirtis ir sosto perėmimas'
+  - Vaclovo Čekijos karaliaus mirtis ir sosto perėmimas
 aliases:
-  - 'Vaclovo Čekijos karaliaus mirtis ir sosto perėmimas'
+  - Vaclovo Čekijos karaliaus mirtis ir sosto perėmimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1227 m.'
-  - '1307 m.'
+  - 1227 m.
+  - 1307 m.
 date_start: '1227'
 date_end: '1307'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
-  - 'XIV'
+  - XIII
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vaclovo Čekijos karaliaus mirtis ir sosto perėmimas (1307 m.)
 
@@ -84,6 +81,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

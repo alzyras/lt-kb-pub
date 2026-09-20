@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Keptuvė (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Keptuvė (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Keptuvė'
+  - Keptuvė
 aliases:
-  - 'Keptuvė'
+  - Keptuvė
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Keptuvė (daiktas)
 
@@ -81,6 +78,5 @@ Lietuviai saulę prilygino aukso keptuvei, ku rioje kaista amžinasis aliejus, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

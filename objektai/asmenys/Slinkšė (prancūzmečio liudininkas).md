@@ -52,6 +52,28 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
 
 - prancūzmečio liudininkas
 
+## Teiginiai
+
+<a id="claim-t-195562"></a>
+- t-001
+  teiginys: "Žmonės Slinkšę laikė patikimu prancūzmečio liudininku, nes anuomet jis jau buvo vedęs ir turėjo daugiau kaip trisdešimt metų."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177979
+
+<a id="claim-t-195563"></a>
+- t-002
+  teiginys: "Slinkšė buvo laikomas tų namų šeimininko „strujumi“."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177980
+
 ## Citatos
 
 - id: c-177979
@@ -67,7 +89,7 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177980
@@ -87,28 +109,5 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-195562"></a>
-- t-001
-  teiginys: "Žmonės Slinkšę laikė patikimu prancūzmečio liudininku, nes anuomet jis jau buvo vedęs ir turėjo daugiau kaip trisdešimt metų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177979
-
-<a id="claim-t-195563"></a>
-- t-002
-  teiginys: "Slinkšė buvo laikomas tų namų šeimininko „strujumi“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177980
-

@@ -48,6 +48,41 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 
 ## Teiginiai
 
+<a id="claim-t-55106"></a>
+- t-001
+  teiginys: "Vilniaus kahalo žydams buvo perduota 5 500 auksinų suma."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "susije_su -> Vilniaus kapitula: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus žydų kahalas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilniaus kapitula: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus žydų kahalas\" parinktas kaip owner_note_path. Targetas \"Vilniaus kapitula\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55911
+
+<a id="claim-t-55107"></a>
+- t-002
+  teiginys: "Vilniaus kahalas iki 1763 m. Valerijono konvikto gyventojams mokėjo 8 procentus, o nuo 1763 m. - 3 procentus."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "susije_su -> Valerijonas (raštininkas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus žydų kahalas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Valerijonas (raštininkas): mention_match, person, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus žydų kahalas\" parinktas kaip owner_note_path. Targetas \"Valerijonas (raštininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: iki 1763 m.; įvykio data: po 1763 m.; įvykio data: 1763 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytus mokėjimo procentus ir laikotarpius."
+  pagrindžia:
+    - c-55911
+
 <a id="claim-t-55108"></a>
 - t-003
   teiginys: "Kahalas mokėjo procentus nuo jame investuotų sumų įpareigotų pamaldų reikmėms."
@@ -64,45 +99,10 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   pagrindžia:
     - c-55912
 
-<a id="claim-t-55106"></a>
-- t-55106
-  teiginys: "Vilniaus kahalo žydams buvo perduota 5 500 auksinų suma."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "susije_su -> Vilniaus kapitula: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus žydų kahalas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus kapitula: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus žydų kahalas\" parinktas kaip owner_note_path. Targetas \"Vilniaus kapitula\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55911
-
-<a id="claim-t-55107"></a>
-- t-55107
-  teiginys: "Vilniaus kahalas iki 1763 m. Valerijono konvikto gyventojams mokėjo 8 procentus, o nuo 1763 m. - 3 procentus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "susije_su -> Valerijonas (raštininkas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus žydų kahalas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Valerijonas (raštininkas): mention_match, person, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus žydų kahalas\" parinktas kaip owner_note_path. Targetas \"Valerijonas (raštininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: iki 1763 m.; įvykio data: po 1763 m.; įvykio data: 1763 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytus mokėjimo procentus ir laikotarpius."
-  pagrindžia:
-    - c-55911
-
 <a id="claim-t-81750"></a>
-- t-81750
+- t-004
   teiginys: "Tėvas Juraha viderkafto mokestį priskyrė kahale investuotoms sumoms, nuo kurių kahalas mokėjo procentus įpareigotoms pamaldoms."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
   ryšio_patikimumas: "susije_su -> kahalas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -116,9 +116,9 @@ Vilniaus žydų bendruomenės savivaldos institucija.
     - c-78324
 
 <a id="claim-t-81751"></a>
-- t-81751
+- t-005
   teiginys: "1631 m. Vilniaus kahalo žydams buvo perduota 5500 auksinų suma, nuo kurios kahalas iki 1763 m. mokėjo 8 procentus Valerijono konvikto gyventojams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
   ryšio_patikimumas: "susije_su -> Valerijonas (raštininkas): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -162,9 +162,9 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55106
-    - t-55107
+  pagrindzia:
+    - t-001
+    - t-002
 
 - id: c-55912
   autorius: "Michał Baliński"
@@ -186,12 +186,11 @@ Vilniaus žydų bendruomenės savivaldos institucija.
     Iš kahalo nuo 5 500 auksinų sumos komisijos sprendimo
     vigore [galia] - 165 auks.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-78324
@@ -222,8 +221,8 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-81750
+  pagrindzia:
+    - t-004
 
 - id: c-78325
   autorius: "Michał Baliński"
@@ -253,6 +252,5 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-81751
-
+  pagrindzia:
+    - t-005

@@ -45,6 +45,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-191066"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad Strijkovskis kimbrų pasitraukimą nuo Baltijos siejo su pirmuoju jų karu prieš romėnus prie Nortbėjos 190 m. pr. Kr."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kimbrų pirmasis karas su romėnais prie Nortbėjos: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kimbrų pirmasis karas su romėnais prie Nortbėjos\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 190 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie įvykį, aiškiai nurodo Strijkovskio poziciją per Narbuto aptarimą. Datos ir vietos informacija neplečiama už citatos ribų."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173948
+
 ## Citatos
 
 - id: c-173948
@@ -74,60 +99,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194898
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 46"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
-  citata_originali: |
-    Tačiau esama sunku­
-    mų nustatant datą, kada tai galėjo įvykti: kalbėdamas
-    apie dalykus, susijusius su įvykiais, galėjusiais įvykti
-    daugiau negu šimtmetis prieš naują erą, jis mini 1190
-    metus ir kalba apie tą potvynį, kuris, anot jo pasakoji­
-    mų, turėjęs būti iki prūsų įsikūrimo prie Baltijos jūros3.
-    Strijkovskis neabejotinai taiso šios vietos prieštaravimus
-    ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
-    epochą, vesdamas juos nuo Baltijos jūros pakrančių tie­
-    siai į Ilyriją, kur jie prie Nortbėjos pirmąsyk kariauja su
-    tenykščio prokonsulo Cyras-Karbo** vadovaujamais ro­
-    mėnais; tai įvyko 190 metais prieš Kristaus gimimą4. Iš
-    to išplaukia, kad buvo pastebėta Rozencveigo ar klaidin­
-    gai į egzempliorius, buvusius po ranka Hartknochui ir
-    Pretorijui, o gal ir Strijkovskiui, įrašyta data, tikriausiai
-    prieš skaičių 190 pridėtas vienas vienetas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-214716"></a>
-- t-001
-  teiginys: "Narbutas nurodo, kad Strijkovskis kimbrų pasitraukimą nuo Baltijos siejo su pirmuoju jų karu prieš romėnus prie Nortbėjos 190 m. pr. Kr."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kimbrų pirmasis karas su romėnais prie Nortbėjos: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kimbrų pirmasis karas su romėnais prie Nortbėjos\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 190 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie įvykį, aiškiai nurodo Strijkovskio poziciją per Narbuto aptarimą. Datos ir vietos informacija neplečiama už citatos ribų."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-194898
-

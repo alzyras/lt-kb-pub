@@ -46,6 +46,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206824"></a>
+- t-001
+  teiginys: "1376 m. birželio 8 d. Algirdo, Kęstučio ir Svirdeikos vedami Lietuvos daliniai netikėtai įsiveržė į Nadruvą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189439
+
 ## Santrauka
 
 1376 m. birželio 8 d. Algirdo, Kęstučio ir Svirdeikos vedami Lietuvos daliniai netikėtai įsiveržė į Nadruvą.
@@ -71,20 +85,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206824"></a>
-- t-001
-  teiginys: "1376 m. birželio 8 d. Algirdo, Kęstučio ir Svirdeikos vedami Lietuvos daliniai netikėtai įsiveržė į Nadruvą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189439
-

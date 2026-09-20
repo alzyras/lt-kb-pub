@@ -35,6 +35,16 @@ Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas. Jonas Pliateris Kartu su
 
 ## Teiginiai
 
+<a id="claim-t-200515"></a>
+- t-001
+  teiginys: "Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas."
+  atnaujinta: "2026-07-26 17:50"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  pagrindžia:
+    - c-183870
+
 <a id="claim-t-200516"></a>
 - t-002
   teiginys: "Jonas Pliateris tuo metu buvo Vilniuje kartu su Antanu Davainiu Solohubu, Brigita Petronėle ir Jurgiu Abramovičiumi."
@@ -43,16 +53,6 @@ Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas. Jonas Pliateris Kartu su
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
-  pagrindžia:
-    - c-183870
-
-<a id="claim-t-200515"></a>
-- t-200515
-  teiginys: "Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183870
 
@@ -65,9 +65,7 @@ Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas. Jonas Pliateris Kartu su
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 10."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindžia:
+  pagrindzia:
+    - t-001
     - t-002
-    - t-200515
-

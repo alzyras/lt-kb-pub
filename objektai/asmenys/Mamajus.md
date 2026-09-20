@@ -36,32 +36,42 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
 
 ## Teiginiai
 
-<a id="claim-t-213231"></a>
-- t-213231
-  teiginys: "Si nuomonė darosi vis panašesnė į tiesą, kai Kojalavičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro do istoriją, aprašančią pagalbą totorių vado Mamajaus, kuris sugriovė tų poloviečių-lietuvių sostinę, vadinamą Beloserka. Mamajus puldinėjo XIV."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-191441"></a>
+- t-001
+  teiginys: "Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puldinėjo ir sugriovė poloviečių-lietuvių sostinę Beloserką."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Totoriai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mamajus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mamajus\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174323
+
+<a id="claim-t-197776"></a>
+- t-002
+  teiginys: "Ar tai nebuvo tas pats miestas, kurį sugriovė Mamajus?"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-194506
-
-<a id="claim-t-215306"></a>
-- t-215306
-  teiginys: "Ar tai nebuvo tas pats miestas, kurį sugriovė Mamajus?"
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+    - c-174323
 
 <a id="claim-t-206359"></a>
-- t-206359
+- t-003
   teiginys: "1380 m. Mamajus sutelkė poloviečius, Chazarijos turkus, čerkesus, jasus, burtanus, armėnus ir Krymo genujiečius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -112,6 +122,9 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002
 
 - id: c-188974
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -130,57 +143,5 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206359
-
-- id: c-194506
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 106-107"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106-107."
-  citata_originali: |
-    Tačiau, peržvelgę tų 72 metų rusų istorijos įvykius,
-    kuriuose vyrauja poloviečiai, kaip ir ankstesnius susidū­
-    rimus su pečenegais, nepastebime jokio šių tautų sąlyčio
-    su lietuviais, gyvenusiais į vakarus nuo Rusios, žodžiu,
-    109
-
-    visa pečenegų istorijos visuma neteikia nieko, iš ko ga­
-    lima būtų daryti išvadas apie kokius nors ryšius su lietu­
-    viais. Be to, iš gimininio-fizionominio tautų susiskirstymo
-    negalima spręsti apie tokią giminystę. Vadinasi, reikia
-    dar patyrinėti, ar neišsivedė pečenegai arba polovieciai,
-    įsiveržę kur nors į gyvenamąsias žemes, su savimi kokios
-    lietuvių kolonijos gyventojų.
-    100
-    Geografija. Viena dešiniojoje Dnepro pakrantėje gy­
-    venusi pečenegų orda Charoboe turėjo dalį Padneprės
-    žemių tarp Dnepro ir Bugo aukštupio; jos sostinė, pasak
-    Purpurinio, buvo Belotzebo miestas, o slaviškai Belaja
-    Cerkovė1. Tad nuo X iki XII amžiaus antrojo dešimtme­
-    čio šiai ordai priklausė kraštas prie Rosés upės. Šiai
-    pečenegų pusei galutinai žlugus, po 1121 metų Charoboe
-    orda su savo tautos likučiais išsikėlė į kairiąją Dono že­
-    mupio pakrantę. Vėliau aptarsime ir tai, kad tame pa­
-    čiame krašte prie Rosės nuo senų amžių gyveno ir lietu­
-    vių genties tautos, kurių likučiai, po hunų antpuolių ar­
-    ba gotų ir hunų neišvesti už Dnepro, turėjo gyventi toje
-    pačioje vietoje iki X amžiaus, kol ten pasirodė pečenegai.
-    Taigi nėra įrodymų paneigti prielaidai, jog Charoboe or­
-    da XII amžiuje išsivedė su savimi lietuvių genčių kolo­
-    nistus, nuo seno gyvenusius prie Rosės upės.
-    101
-    Si nuomonė darosi vis panašesnė į tiesą, kai Kojala-
-    vičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro­
-    do istoriją, aprašančią pagalbą totorių vado Mamajaus,
-    kuris sugriovė tų poloviečių-lietuvių sostinę, vadinamą
-    Beloserka. Mamajus puldinėjo XIV amžiaus viduryje
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213231
-
+  pagrindzia:
+    - t-003

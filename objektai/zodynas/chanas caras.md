@@ -33,6 +33,40 @@ media_all_json: |-
 
 Vytautas Vilniuje paskelbė Tochtamyšą Užvolgio skitų chanu, paprastai vadinamu caru, ir pakėlė jį į valdovus. Po chano Saladino mirties Užvolgio skitai suskilo grupėmis, kurios skirtingus mirusio valdovo sūnus siūlė sosto įpėdiniais.
 
+## Teiginiai
+
+<a id="claim-t-185400"></a>
+- t-001
+  teiginys: "Vytautas Vilniuje paskelbė Tochtamyšą Užvolgio skitų chanu, paprastai vadinamu caru, ir pakėlė jį į valdovus."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "chanas caras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"chanas caras\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168761
+
+<a id="claim-t-196367"></a>
+- t-002
+  teiginys: "Po chano Saladino mirties Užvolgio skitai suskilo grupėmis, kurios skirtingus mirusio valdovo sūnus siūlė sosto įpėdiniais."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-168761
+
 ## Citatos
 
 - id: c-168761
@@ -64,21 +98,6 @@ Vytautas Vilniuje paskelbė Tochtamyšą Užvolgio skitų chanu, paprastai vadin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-196367"></a>
-- t-001
-  teiginys: "Po chano Saladino mirties Užvolgio skitai suskilo grupėmis, kurios skirtingus mirusio valdovo sūnus siūlė sosto įpėdiniais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168761
-
+    - t-002

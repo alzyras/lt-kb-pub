@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Beržoras (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Beržoras (vieta)
+identifikacija: vieta
 variantai:
-  - 'Beržoras'
+  - Beržoras
 aliases:
-  - 'Beržoras'
+  - Beržoras
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ea5c1dc4bc50627617cdca6d"
-canonical_name: "Beržoras (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Beržoras","Beržoras (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ea5c1dc4bc50627617cdca6d
+canonical_name: Beržoras (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Beržoras
+  - Beržoras (vieta)
 sameAs: []
-canonical_biography: "Kaip jo priešingybė vaizduojamas elgeta Petras iš Beržoro."
+canonical_biography: Kaip jo priešingybė vaizduojamas elgeta Petras iš Beržoro.
 place_authority: true
 historical_names: []
 ---

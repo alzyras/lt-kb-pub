@@ -42,6 +42,28 @@ canonical_biography: "Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ v�
 
 Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas buvo Vilniaus burmistras ir auksaka­ lys (Proconsul et aurifex) Erazmas Bretneris.
 
+## Teiginiai
+
+<a id="claim-t-87660"></a>
+- t-001
+  teiginys: "Vilniaus burmistras ir auksakalys Erazmas Bretneris 1546 m. testamentu skyrė savo namą Švč. Trejybės špitolei."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Erazmas Bretneris: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Erazmas Bretneris: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Žodžiai „savo namą“ rodo, kad namas priklausė Erazmui Bretneriui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Namas priklausė Erazmas Bretneris (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1546 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata apie Bretnerio testamentą."
+  pagrindžia:
+    - c-83639
+
 ## Citatos
 
 - id: c-83639
@@ -66,31 +88,8 @@ Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Namas]]
-
-## Teiginiai
-
-<a id="claim-t-87660"></a>
-- t-001
-  teiginys: "Vilniaus burmistras ir auksakalys Erazmas Bretneris 1546 m. testamentu skyrė savo namą Švč. Trejybės špitolei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Erazmas Bretneris: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Erazmas Bretneris: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Žodžiai „savo namą“ rodo, kad namas priklausė Erazmui Bretneriui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Namas priklausė Erazmas Bretneris (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1546 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata apie Bretnerio testamentą."
-  pagrindžia:
-    - c-83639
-

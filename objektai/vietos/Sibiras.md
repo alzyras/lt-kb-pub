@@ -44,6 +44,55 @@ historical_names: []
 
 Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą. Represinės institucijos, slopindamos partizaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse.
 
+## Teiginiai
+
+<a id="claim-t-69238"></a>
+- t-001
+  teiginys: "Dalis lietuvių inteligentijos iškeliavo į Vakarus arba į Sibirą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Sibiras: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sibiras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim kalba apie lietuvių inteligentijos iškeliavimą į Sibirą; leistinas artimiausias subjektas yra lietuviai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuviai keliavo į Sibiras (0.72)"
+  pagrindžia:
+    - c-68626
+
+<a id="claim-t-69239"></a>
+- t-002
+  teiginys: "Sovietų Sąjunga vykdė masines deportacijas iš Lietuvos į Sibirą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Sibiras: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sovietų Sąjunga: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sibiras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Deportacijos į Sibirą buvo vykdytos Sovietų Sąjungos, todėl tai tiesioginis siuntimo į vietą ryšys."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Sovietų Sąjunga siuntė į Sibiras (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1944 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys glaustai nusako citatoje minimą deportacijų į Sibirą faktą."
+  pagrindžia:
+    - c-68627
+
+<a id="claim-t-69241"></a>
+- t-003
+  teiginys: "Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-68624
+    - c-167027
+
 ## Citatos
 
 - id: c-68624
@@ -75,8 +124,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
+  pagrindzia:
+    - t-003
 
 - id: c-68625
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -98,9 +147,6 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - id: c-68626
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -115,7 +161,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-68627
@@ -137,7 +183,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-167027
@@ -165,73 +211,5 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-## Teiginiai
-
-<a id="claim-t-69238"></a>
-- t-001
-  teiginys: "Dalis lietuvių inteligentijos iškeliavo į Vakarus arba į Sibirą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Sibiras: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Sibiras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim kalba apie lietuvių inteligentijos iškeliavimą į Sibirą; leistinas artimiausias subjektas yra lietuviai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuviai keliavo į Sibiras (0.72)"
-  pagrindžia:
-    - c-68626
-
-<a id="claim-t-69239"></a>
-- t-002
-  teiginys: "Sovietų Sąjunga vykdė masines deportacijas iš Lietuvos į Sibirą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Sibiras: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sovietų Sąjunga: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Sibiras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Deportacijos į Sibirą buvo vykdytos Sovietų Sąjungos, todėl tai tiesioginis siuntimo į vietą ryšys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Sovietų Sąjunga siuntė į Sibiras (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1944 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys glaustai nusako citatoje minimą deportacijų į Sibirą faktą."
-  pagrindžia:
-    - c-68627
-
-<a id="claim-t-69240"></a>
-- t-003
-  teiginys: "Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sibiras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sibiras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1941 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-68625
-
-<a id="claim-t-69241"></a>
-- t-004
-  teiginys: "Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-68624
-    - c-167027
-
+  pagrindzia:
+    - t-003

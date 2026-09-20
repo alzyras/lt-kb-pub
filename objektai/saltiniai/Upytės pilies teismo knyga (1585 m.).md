@@ -38,6 +38,20 @@ media_all_json: |-
 
 1585 m. gegužę Upytės pilies teismo knygoje užfiksuotas Jono Visgirdo skundas dėl dviejų pabėgusių nelaisvųjų brolių.
 
+## Teiginiai
+
+<a id="claim-t-203795"></a>
+- t-001
+  teiginys: "1585 m. gegužę Upytės pilies teismo knygoje užfiksuotas Jono Visgirdo skundas dėl dviejų pabėgusių nelaisvųjų brolių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186399
+
 ## Citatos
 
 - id: c-186399
@@ -61,20 +75,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203795"></a>
-- t-001
-  teiginys: "1585 m. gegužę Upytės pilies teismo knygoje užfiksuotas Jono Visgirdo skundas dėl dviejų pabėgusių nelaisvųjų brolių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186399
-

@@ -39,6 +39,32 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205095"></a>
+- t-001
+  teiginys: "Kuopos nariai taip pat rinkdavosi aptarti apylinkės politikos ir kariuomenės reikalų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187912
+
+<a id="claim-t-205145"></a>
+- t-002
+  teiginys: "Tačiau, kai nu skriaustoji pusė nenorėjo eiti į derybas, tada abi pusės stodavo prieš kuopą, tai yra šešiasdešimties vyrų teismą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187675
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kuopos nariai taip pat rinkdavosi aptarti apylinkės politikos ir kariuomenės reikalų.'
@@ -73,7 +99,7 @@ Tačiau, kai nu skriaustoji pusė nenorėjo eiti į derybas, tada abi pusės sto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-187912
@@ -94,32 +120,5 @@ Tačiau, kai nu skriaustoji pusė nenorėjo eiti į derybas, tada abi pusės sto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205095"></a>
-- t-001
-  teiginys: "Kuopos nariai taip pat rinkdavosi aptarti apylinkės politikos ir kariuomenės reikalų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187912
-
-<a id="claim-t-205145"></a>
-- t-002
-  teiginys: "Tačiau, kai nu skriaustoji pusė nenorėjo eiti į derybas, tada abi pusės stodavo prieš kuopą, tai yra šešiasdešimties vyrų teismą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187675
-

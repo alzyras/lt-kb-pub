@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Hunų įsiveržimas į Europą'
+pavadinimas: Hunų įsiveržimas į Europą
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Hunų įsiveržimas į Europą
 
@@ -71,6 +68,5 @@ Hunų įsiveržimas į Europą sutrukdė Germanarikui įtvirtinti gotų karalyst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

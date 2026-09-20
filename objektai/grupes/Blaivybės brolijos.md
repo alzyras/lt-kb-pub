@@ -1,38 +1,48 @@
 ---
 tipas: grupe
-pavadinimas: 'Blaivybės brolijos'
+pavadinimas: Blaivybės brolijos
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 datos:
-  - '1858 m.'
-  - '1863 m.'
+  - 1858 m.
+  - 1863 m.
 date_start: '1858'
 date_end: '1863'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 variantai:
-  - 'Blaivybės Brolija'
-  - 'blaivybės brolijos'
-laikotarpis: '1858–1863 m.'
-periodas: 'naujieji_laikai'
+  - Blaivybės Brolija
+  - blaivybės brolijos
+laikotarpis: 1858–1863 m.
+periodas: naujieji_laikai
 tags:
   - grupe
   - organizacija
+external_sources_json: '[{"title":"blaivybės brolijos","url":"https://www.vle.lt/straipsnis/blaivybes-brolijos/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T10:13:41+00:00","source_checked_at":"2026-09-19T10:13:41+00:00","counts":{"relations":0,"gallery":0,"sources":5},"featured_claim_ids":["t-208432","t-195531","t-19661","t-209254","t-208431","t-209342","t-209387"],"featured_claims":[{"claim_id":"t-208432","text":"Blaivybės brolijos nariai turėjo visą gyvenimą nevartoti degtinės, romo ir arako, raginti kitus prisidėti bei per Grabnyčias atnaujinti blaivybės apžadą.","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","evidence_ids":["c-191052"]},{"claim_id":"t-195531","text":"Blaivybės brolijų plitimas siejamas su bravarų užgesimu ir gertuvių ištuštėjimu.","source":"darbas/sources/Mūsų tautosaka, t.4 (1931).md","evidence_ids":["c-177947","c-177949"]},{"claim_id":"t-19661","text":"Blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-22365"]},{"claim_id":"t-209254","text":"Iki 1858 m. gruodžio 23 d. blaivybės brolijų tinklas buvo išsiskleidęs visoje Žemaičių (Telšių) vyskupystėje.","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md","evidence_ids":["c-192003"]},{"claim_id":"t-208431","text":"Pagal Blaivybės brolijos įstatus, Žemaičių vyskupijoje brolijai vadovavo vyskupas, o parapijose – klebonai.","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","evidence_ids":["c-191051"]},{"claim_id":"t-209342","text":"Papildomai surašant blaivybės brolijų narius iš jų buvo reikalaujama dar kartą prisiekti, kad blaivybės laikysis iki mirties.","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md","evidence_ids":["c-191953"]},{"claim_id":"t-209387","text":"1858–1864 m. blaivybės brolijų sėkminga veikla buvo susijusi su masiniu valstiečių dalyvavimu blaivybės akcijoje, tačiau šie reiškiniai buvo prieštaringi.","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md","evidence_ids":["c-191984"]}],"featured_quote":{"text":"Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžusiam girtuokliavimui, įvesdamas „Blaivybės Broliją“.","source":"darbas/sources/Mūsų tautosaka, t.4 (1931).md","claim_id":"t-195529","evidence_id":"c-177947","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"blaivybės brolijos","url":"https://www.vle.lt/straipsnis/blaivybes-brolijos/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/blaivybes-brolijos/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"82820b756d582650079abb3f","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Blaivybės brolijoms priklausė per 80 proc. Žemaičių vyskupijos gyventojų katalikų.","context":"Po 1860 m., kaip aprašoma Lietuvos istorijoje.","support_ids":["t-19661","c-22365"],"source_refs":[{"kind":"internal_claim","claim_id":"t-19661","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-22365","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Ne- gana to, 1858 m. M. Valančius, remdamasis kituose katalikiškuo- se kraštuose platinamomis blai- vybės idėjomis, inicijavo blaivybės sąjūdį. Po poros metų šių blaivybės brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei- Motiejus Valančius iš J. K. Vilčinskio „Vilniaus albumo“."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d6459ddd532b48467dbbf578","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"1858–1864 m. blaivybės akcijoje masiškai dalyvavo valstiečiai.","context":"Egidijus Aleksandravičius šį dalyvavimą ir brolijų veiklą apibūdina kaip prieštaringus reiškinius.","support_ids":["t-209387","c-191984"],"source_refs":[{"kind":"internal_claim","claim_id":"t-209387","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md"},{"kind":"evidence","evidence_id":"c-191984","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md","quote":"Masinis valstiečių dalyvavimas blaivybės akcijoje, sėkminga blaivybės brolijų veikla 1858-1864 m. iš esmės reiškė labai prieštaringus dalykus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"05d68e3900272c551c5e79d8","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Žemaičių vyskupijoje brolijai vadovavo vyskupas, o parapijose – klebonai.","context":"Pagal Blaivybės brolijos įstatus.","support_ids":["t-208431","c-191051"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208431","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"evidence","evidence_id":"c-191051","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Remiantis šiais įstatais, Blaivybės brolijos pirmininkas Žemaičių vyskupijoje yra vyskupas, parapijose — klebo­ nai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7b96c2d37e8e164b76b1cf65","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Blaivybės brolijos buvo steigiamos parapijose.","context":"Aprašant brolijų organizavimą Žemaičių vyskupijoje.","support_ids":["t-208434","c-191054"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208434","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"evidence","evidence_id":"c-191054","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Be to, reikalavo paaiškinti, kuo remiantis parapijose- steigiamos Blaivybės brolijos''."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"32cf28248182cbab91693a5e","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Blaivybės brolijų įstatuose buvo numatytos „brolių ir seserų knygos“.","context":"Šios knygos buvo naudojamos blaivininkų sąrašams sudaryti.","support_ids":["t-208433","c-191053"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208433","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md"},{"kind":"evidence","evidence_id":"c-191053","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md","quote":"Dar daugiau, blaivininkų sąrašų sudarymo pretekstu buvo įvestos blaivybės brolijų įstatuose numatytos “brolių ir seserų knygos\", kurių iki tol neturėjo kai kurių parapijų brolijos."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f98d7becf9fbebf09d82f4b2","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Iki 1858 m. gruodžio 23 d. blaivybės brolijų tinklas buvo išsiskleidęs visoje Žemaičių (Telšių) vyskupystėje.","context":"Egidijus Aleksandravičius aprašo padėtį prieš M. Valančiaus 1858 m. gruodžio 23 d. laišką.","support_ids":["t-209254","c-192003"],"source_refs":[{"kind":"internal_claim","claim_id":"t-209254","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md"},{"kind":"evidence","evidence_id":"c-192003","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md","quote":"Taigi, kol valdžia apsižiūrėjo, blaivybės brolijų tinklas jau buvo išsiskleidęs visoje Žemaičių (Telšių) vyskupystėje. Prieš pat Kalėdas, 1858 m. gruodžio 23 d., buvo išsiuntinėtas iškilmingas M. Valančiaus laiškas (pirmoji M. Valančiaus \"blaivybės gromata\"), kurį kunigai skaitė liaudžiai iš ambonų. Jis rodė, kad pradinis blaivybės judėjimo etapas baigėsi."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9045f5fd04730ced2bb1cc41","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Brolijos siekė nutraukti girtuokliavimą ir skatinti blaivybę.","context":"1931 m. tautosakos šaltinyje teigiama, kad Vyskupas Valančius 1858 m. įvedė Blaivybės Broliją kaip priemonę girtuokliavimui nutraukti.","support_ids":["t-195529","c-177947"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195529","source":"darbas/sources/Mūsų tautosaka, t.4 (1931).md"},{"kind":"evidence","evidence_id":"c-177947","source":"darbas/sources/Mūsų tautosaka, t.4 (1931).md","quote":"Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžusiam girtuokliavimui, įvesdamas „Blaivybės Broliją“."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2e230e9c0c943fdf72c5d7e7","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Blaivybės brolijos nariai turėjo raginti kitus žmones, ypač girtuoklius, stoti į broliją.","context":"Pagal Blaivybės brolijos narių pareigas, nurodytas įstatuose.","support_ids":["t-208432","c-191052"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208432","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"evidence","evidence_id":"c-191052","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Blaivybės brolijos narių pareigos yra tokios: 1) visą amžių negerti degtinės, romo ir arako (leidžiama saikin­ gai gerti vyną, alų ir midų); 2) raginti kitus žmones, ypač girtuoklius, stoti į Blaivybės broliją; 3) kiekvieną šven­ tadienį sukalbėti šv. Bernardo maldą Švč. M. Marijai, ku­ rioje yra ištvermės prašymas (nemokantys šios maldos gali kalbėti 3 kartus „Sveika Marija\"), 4) per Grabnyčių šventę (vasario 2 d.) atnaujinti blaivybės apžadą prieš Švč. M. Marijos altorių arba paveikslą (ir neatnaujinęs apžado lieka Blaivybės brolijos nariu); tą dieną klebo­ nas, kaip parapijos Blaivybės brolijos pirmininkas, pri­ valo nariams pasakyti pamokslą, išvardyti mirusius na­ rius ir atlaikyti…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"1611ec684d013079c70d9b6e","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Blaivybės brolijos nariai turėjo visą gyvenimą nevartoti degtinės, romo ir arako; buvo leidžiama saikingai gerti vyną, alų ir midų.","context":"Pagal Blaivybės brolijos įstatus.","support_ids":["t-208432","c-191052"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208432","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"evidence","evidence_id":"c-191052","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Blaivybės brolijos narių pareigos yra tokios: 1) visą amžių negerti degtinės, romo ir arako (leidžiama saikin­ gai gerti vyną, alų ir midų); 2) raginti kitus žmones, ypač girtuoklius, stoti į Blaivybės broliją; 3) kiekvieną šven­ tadienį sukalbėti šv. Bernardo maldą Švč. M. Marijai, ku­ rioje yra ištvermės prašymas (nemokantys šios maldos gali kalbėti 3 kartus „Sveika Marija\"), 4) per Grabnyčių šventę (vasario 2 d.) atnaujinti blaivybės apžadą prieš Švč. M. Marijos altorių arba paveikslą (ir neatnaujinęs apžado lieka Blaivybės brolijos nariu); tą dieną klebo­ nas, kaip parapijos Blaivybės brolijos pirmininkas, pri­ valo nariams pasakyti pamokslą, išvardyti mirusius na­ rius ir atlaikyti…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5f4d7f756ed105939dceab3e","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Nariai kiekvieną šventadienį turėjo kalbėti šv. Bernardo maldą Švč. Mergelei Marijai, o per Grabnyčias atnaujinti blaivybės apžadą.","context":"Pagal Blaivybės brolijos narių pareigas, nurodytas įstatuose.","support_ids":["t-208432","c-191052"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208432","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"evidence","evidence_id":"c-191052","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Blaivybės brolijos narių pareigos yra tokios: 1) visą amžių negerti degtinės, romo ir arako (leidžiama saikin­ gai gerti vyną, alų ir midų); 2) raginti kitus žmones, ypač girtuoklius, stoti į Blaivybės broliją; 3) kiekvieną šven­ tadienį sukalbėti šv. Bernardo maldą Švč. M. Marijai, ku­ rioje yra ištvermės prašymas (nemokantys šios maldos gali kalbėti 3 kartus „Sveika Marija\"), 4) per Grabnyčių šventę (vasario 2 d.) atnaujinti blaivybės apžadą prieš Švč. M. Marijos altorių arba paveikslą (ir neatnaujinęs apžado lieka Blaivybės brolijos nariu); tą dieną klebo­ nas, kaip parapijos Blaivybės brolijos pirmininkas, pri­ valo nariams pasakyti pamokslą, išvardyti mirusius na­ rius ir atlaikyti…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"49baa364aef80ffa5cfd2f6e","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"1861 m. blaivybės brolijos minėjo trečiąsias savo veiklos metines.","context":"Egidijaus Aleksandravičiaus pateiktas 1861 m. veiklos aprašymas.","support_ids":["t-209278","c-191902"],"source_refs":[{"kind":"internal_claim","claim_id":"t-209278","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md"},{"kind":"evidence","evidence_id":"c-191902","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md","quote":"Net 1861 m., kai blaivybės brolijos minėjo trečiąsias savo veiklos metines, vyskupui teko tramdyti Troškūnų bernardinus ir Raseinių hei Palėvenio dominikonų vienuolynus, kurie pelnėsi iš degtinės gamybos ir pardavimo64."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Blaivybės brolijos – Lietuvos katalikų organizacinė forma, turėjusi analogų Vakarų pasaulyje. 1858 m. vyskupo Motiejaus Valančiaus pradėtas sąjūdis per kelis mėnesius išplito visoje Žemaičių (Telšių) vyskupystėje, o iki 1858 m. gruodžio 23 d. čia jau veikė platus brolijų tinklas. Brolijai vyskupijoje vadovavo vyskupas, o parapijose – klebonai, todėl ši organizacija buvo glaudžiai susieta su Katalikų Bažnyčios struktūra. Nariai įsipareigodavo visą gyvenimą nevartoti degtinės, romo ir arako, raginti kitus prisidėti bei per Grabnyčias atnaujinti blaivybės apžadą. Sąjūdžio mastą rodo tai, kad po poros metų brolijoms priklausė per 80 proc. vyskupijos katalikų; jų veikla siejama su bravarų užgesimu ir gertuvių ištuštėjimu, o įstatuose buvo numatytos ir „brolių bei seserų knygos“.","sentences":[{"sentence_id":"s1","text":"Blaivybės brolijos – Lietuvos katalikų organizacinė forma, turėjusi analogų Vakarų pasaulyje.","support_ids":["t-209338","c-192024"]},{"sentence_id":"s2","text":"1858 m. vyskupo Motiejaus Valančiaus pradėtas sąjūdis per kelis mėnesius išplito visoje Žemaičių (Telšių) vyskupystėje, o iki 1858 m. gruodžio 23 d. čia jau veikė platus brolijų tinklas.","support_ids":["t-195529","c-177947","t-209254","c-192003"]},{"sentence_id":"s3","text":"Brolijai vyskupijoje vadovavo vyskupas, o parapijose – klebonai, todėl ši organizacija buvo glaudžiai susieta su Katalikų Bažnyčios struktūra.","support_ids":["t-208431","c-191051"]},{"sentence_id":"s4","text":"Nariai įsipareigodavo visą gyvenimą nevartoti degtinės, romo ir arako, raginti kitus prisidėti bei per Grabnyčias atnaujinti blaivybės apžadą.","support_ids":["t-208432","c-191052"]},{"sentence_id":"s5","text":"Sąjūdžio mastą rodo tai, kad po poros metų brolijoms priklausė per 80 proc. vyskupijos katalikų; jų veikla siejama su bravarų užgesimu ir gertuvių ištuštėjimu, o įstatuose buvo numatytos ir „brolių bei seserų knygos“.","support_ids":["t-19661","c-22365","t-195531","c-177949","t-208433","c-191053"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta nurodytais šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai patvirtina 1858 m. pradžią ir tinklo išplitimą visoje vyskupystėje iki gruodžio 23 d."},{"sentence_id":"s3","supported":false,"reason":"Šaltinis patvirtina vadovavimą vyskupijoje ir parapijose, tačiau glaudaus susiejimo su Katalikų Bažnyčios struktūra tiesiogiai neįrodo."},{"sentence_id":"s4","supported":true,"reason":"Visi išvardyti narių įsipareigojimai tiesiogiai pateikti šaltinyje."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai patvirtina daugiau kaip 80 proc. narių, bravarų užgesimą, gertuvių ištuštėjimą ir brolių bei seserų knygas."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-209338","c-192024"]},{"sentence_id":"s2","supported":true,"support_ids":["t-195529","c-177947","t-209254","c-192003"]},{"sentence_id":"s3","supported":true,"support_ids":["t-208431","c-191051"]},{"sentence_id":"s4","supported":true,"support_ids":["t-208432","c-191052"]},{"sentence_id":"s5","supported":true,"support_ids":["t-19661","c-22365","t-195531","c-177949","t-208433","c-191053"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":13,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c6846f8d9f02b036
+object_page_generated_at: '2026-09-19T10:13:41+00:00'
+object_page_source_checked_at: '2026-09-19T10:13:41+00:00'
+object_page_content_state: content
+object_page_claim_count: '13'
+object_page_source_count: '4'
+object_page_seo_description: 'Blaivybės brolijos – Lietuvos katalikų organizacinė forma, turėjusi analogų Vakarų pasaulyje. 1858 m. vyskupo Motiejaus Valančiaus pradėtas sąjūdis per kelis…'
+object_page_seo_input_hash: a38df83e12d023b278be198c4205d8d4512760ea585a4d6c6a567b0da7bd1e04
+object_page_seo_generated_at: '2026-09-19T10:13:41+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Blaivybės brolijos
 
@@ -42,144 +52,10 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 
 ## Teiginiai
 
-<a id="claim-t-208430"></a>
-- t-208430
-  teiginys: "Puzaras daro prielaidą, kad Motiejus Valančius pamoksluose ragino tikinčiuosius atsisakyti girtavimo ir stoti į Blaivybės broliją."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
-  pagrindžia:
-    - c-191050
-
-<a id="claim-t-208431"></a>
-- t-208431
-  teiginys: "Pagal Blaivybės brolijos įstatus, Žemaičių vyskupijoje brolijai vadovavo vyskupas, o parapijose – klebonai."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
-  pagrindžia:
-    - c-191051
-
-<a id="claim-t-208432"></a>
-- t-208432
-  teiginys: "Blaivybės brolijos nariai turėjo visą gyvenimą nevartoti degtinės, romo ir arako, raginti kitus prisidėti bei per Grabnyčias atnaujinti blaivybės apžadą."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
-  pagrindžia:
-    - c-191052
-
-<a id="claim-t-208433"></a>
-- t-208433
-  teiginys: "Blaivybės brolijų įstatuose buvo numatytos „brolių ir seserų knygos“."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
-  pagrindžia:
-    - c-191053
-
-<a id="claim-t-208434"></a>
-- t-208434
-  teiginys: "Blaivybės brolijos buvo steigiamos parapijose."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
-  pagrindžia:
-    - c-191054
-
-<a id="claim-t-209254"></a>
-- t-209254
-  teiginys: "Iki 1858 m. gruodžio 23 d. blaivybės brolijų tinklas buvo išsiskleidęs visoje Žemaičių (Telšių) vyskupystėje."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  temporaliniai_duomenys: "įvykio data: 1858 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslintas subjektas, paverčiant brolijas tinklu, ir įtrauktas ištraukoje nurodytas laikas. Kitų šaltinyje esančių aplinkybių nepridėta."
-  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
-  pagrindžia:
-    - c-192003
-
-<a id="claim-t-209278"></a>
-- t-209278
-  teiginys: "1861 m. blaivybės brolijos minėjo trečiąsias veiklos metines."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  pagrindžia:
-    - c-191902
-
-<a id="claim-t-209338"></a>
-- t-209338
-  teiginys: "Lietuvos katalikų blaivybės brolijos buvo organizacinė forma, turėjusi analogų Vakarų pasaulyje."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  pagrindžia:
-    - c-192024
-
-<a id="claim-t-209342"></a>
-- t-209342
-  teiginys: "Papildomai surašant blaivybės brolijų narius iš jų buvo reikalaujama dar kartą prisiekti, kad blaivybės laikysis iki mirties."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
-  pagrindžia:
-    - c-191953
-
-<a id="claim-t-209387"></a>
-- t-209387
-  teiginys: "1858–1864 m. blaivybės brolijų sėkminga veikla buvo susijusi su masiniu valstiečių dalyvavimu blaivybės akcijoje, tačiau šie reiškiniai buvo prieštaringi."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  temporaliniai_duomenys: "įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sujungti abu ištraukoje nurodyti reiškiniai ir išlaikytas šaltinio akcentuojamas jų prieštaringumas. Nauji vertinimai nepridėti."
-  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
-  pagrindžia:
-    - c-191984
-
 <a id="claim-t-19661"></a>
-- t-19661
+- t-001
   teiginys: "Blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 05:44"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
@@ -197,9 +73,9 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     - c-22365
 
 <a id="claim-t-195529"></a>
-- t-195529
+- t-002
   teiginys: "Vyskupas Valančius 1858 m. įvedė Blaivybės Broliją kaip priemonę įsisiautėjusiam girtuokliavimui nutraukti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 05:44"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -207,30 +83,19 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     - c-177947
 
 <a id="claim-t-195530"></a>
-- t-195530
+- t-003
   teiginys: "Norintieji pristoti prie blaivybės brolijos turėjo prisiekti iki mirties neragauti degtinės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 05:44"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177950
 
-<a id="claim-t-195531"></a>
-- t-195531
-  teiginys: "Blaivybės brolijų plitimas siejamas su bravarų užgesimu ir gertuvių ištuštėjimu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177947
-    - c-177949
-
 <a id="claim-t-195533"></a>
-- t-195533
+- t-004
   teiginys: "Aprašyta blaivybės būklė tęsėsi iki 1863 m. sukilimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 05:59"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -260,8 +125,8 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-19661
+  pagrindzia:
+    - t-001
 
 - id: c-177947
   autorius: "M. Katkus"
@@ -276,9 +141,8 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195529
-    - t-195531
+  pagrindzia:
+    - t-002
 
 - id: c-177948
   autorius: "M. Katkus"
@@ -293,8 +157,8 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195533
+  pagrindzia:
+    - t-004
 
 - id: c-177949
   autorius: "M. Katkus"
@@ -305,15 +169,11 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     Svietas siekė ir pildė priesaiką, ir bravarai užgeso, gertuvės patuštėjo, langai jų išdaužyti, gyvenusieji jose žydai išsidangino.
   citata_rodoma: "Svietas siekė ir pildė priesaiką, ir bravarai užgeso, gertuvės patuštėjo, langai jų išdaužyti, gyvenusieji jose žydai išsidangino."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 05:44"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195531
-
 - id: c-177950
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -332,272 +192,5 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195530
-
-- id: c-191050
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 27"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 27."
-  citata_originali: |
-    Vėliau matysime, kad vysk. M. Valančius labai buvo
-    susirūpinęs tikinčiųjų katalikišku švietimu, blaivybe, nau­
-    jų bažnyčių statymu bei puošimu. Tai buvo ano meto ak­
-    tualios problemos. Todėl galima spėti, kad jos turėjo ryš­
-    kiai atsispindėti ir vysk. M.'Valančiaus pamoksluose. Rei­
-    kia manyti, kad vyskupas pamoksluose ne tik tikėjimo
-    tiesas aiškino, bet nuolat ragino mokytis skaityti, atsiža­
-    dėti girtavimo ir stoti į Blaivybės broliją, puošti bei sta­
-    tyti bažnyčias.
-  citata_rodoma: "Vėliau matysime, kad vysk. M. Valančius labai buvo \nsusirūpinęs tikinčiųjų katalikišku švietimu, blaivybe, nau­\njų bažnyčių statymu bei puošimu. Tai buvo ano meto ak­\ntualios problemos. Todėl galima spėti, kad jos turėjo ryš­\nkiai atsispindėti ir vysk. M.'Valančiaus pamoksluose. Rei­\nkia manyti, kad vyskupas pamoksluose ne tik tikėjimo \ntiesas aiškino, bet nuolat ragino mokytis skaityti, atsiža­\ndėti girtavimo ir stoti į Blaivybės broliją, puošti bei sta­\ntyti bažnyčias"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208430
-
-- id: c-191051
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 127"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 127."
-  citata_originali: |
-    lijos įstatai, pritaikyti Žemaičių vyskupijos katalikams.
-    Remiantis šiais įstatais, Blaivybės brolijos pirmininkas
-    Žemaičių vyskupijoje yra vyskupas, parapijose — klebo­
-    nai. Kiekvienoje parapijoje turi būti blaivininkų knyga.
-  citata_rodoma: "Remiantis šiais įstatais, Blaivybės brolijos pirmininkas \nŽemaičių vyskupijoje yra vyskupas, parapijose — klebo­\nnai."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208431
-
-- id: c-191052
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 127"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 127."
-  citata_originali: |
-    Blaivybės brolijos narių pareigos yra tokios: 1) visą
-    amžių negerti degtinės, romo ir arako (leidžiama saikin­
-    gai gerti vyną, alų ir midų); 2) raginti kitus žmones, ypač
-    girtuoklius, stoti į Blaivybės broliją; 3) kiekvieną šven­
-    tadienį sukalbėti šv. Bernardo maldą Švč. M. Marijai, ku­
-    rioje yra ištvermės prašymas (nemokantys šios maldos
-    gali kalbėti 3 kartus „Sveika Marija"), 4) per Grabnyčių
-    šventę (vasario 2 d.) atnaujinti blaivybės apžadą prieš
-    Švč. M. Marijos altorių arba paveikslą (ir neatnaujinęs
-    apžado lieka Blaivybės brolijos nariu); tą dieną klebo­
-    nas, kaip parapijos Blaivybės brolijos pirmininkas, pri­
-    valo nariams pasakyti pamokslą, išvardyti mirusius na­
-    rius ir atlaikyti giedotas šv. Mišias už jų vėles.
-  citata_rodoma: "Blaivybės brolijos narių pareigos yra tokios: 1) visą \namžių negerti degtinės, romo ir arako (leidžiama saikin­\ngai gerti vyną, alų ir midų); 2) raginti kitus žmones, ypač \ngirtuoklius, stoti į Blaivybės broliją; 3) kiekvieną šven­\ntadienį sukalbėti šv. Bernardo maldą Švč. M. Marijai, ku­\nrioje yra ištvermės prašymas (nemokantys šios maldos \ngali kalbėti 3 kartus „Sveika Marija\"), 4) per Grabnyčių \nšventę (vasario 2 d.) atnaujinti blaivybės apžadą prieš \nŠvč. M. Marijos altorių arba paveikslą (ir neatnaujinęs \napžado lieka Blaivybės brolijos nariu); tą dieną klebo­\nnas, kaip parapijos Blaivybės brolijos pirmininkas, pri­\nvalo nariams pasakyti pamokslą, išvardyti mirusius na­\nrius ir atlaikyti giedotas šv. Mišias už jų vėles"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208432
-
-- id: c-191053
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 71"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 71."
-  citata_originali: |
-    , šitaip jomis rūpintųsi generalgubernatorius su visa savo kanceliarija.
-    Dar daugiau, blaivininkų sąrašų sudarymo pretekstu buvo įvestos
-    blaivybės brolijų įstatuose numatytos “brolių ir seserų knygos", kurių
-    iki tol neturėjo kai kurių parapijų brolijos. Šitaip M. Valančius,
-    naudodamasis krašto administracijos svyravimais, palankia politine
-    konjunktūra reformos išvakarėse ir neaiškia juridine blaivybės brolijų
-    padėtimi, žengė dar vieną žingsnį masinio (ir kone visuotinio)
-    valstiečių blaivybės judėjimo link31.
-  citata_rodoma: "Dar daugiau, blaivininkų sąrašų sudarymo pretekstu buvo įvestos \nblaivybės brolijų įstatuose numatytos “brolių ir seserų knygos\", kurių \niki tol neturėjo kai kurių parapijų brolijos."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208433
-
-- id: c-191054
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 139"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 139."
-  citata_originali: |
-    Be to, reikalavo paaiškinti, kuo
-    remiantis parapijose- steigiamos Blaivybės brolijos'.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208434
-
-- id: c-191902
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 90"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 90."
-  citata_originali: |
-    Brolijos maršalų paskirtos nuobaudos, valstiečiams,
-    sulaužiusiems priesakas negerti, neretai pasiekdavo policijos įstaigas,
-    ir tuo kaipmat pasinaudodavo valdžios atstovai, siekę apriboti katalikų
-    bažnyčios įtaką liaudžiai augimą, tuo tarpu bajorijos ir pačios
-    dvasininkijos elgsena, jos reguliavimas buvo labai subtilus dalykas. Juk
-    alkoholio vartojimas tarp kunigų, net kai kurių bažnyčios institucijų,
-    t.y. vienuolynų, gaminama degtinė buvo nemaža problema. Net 1861
-    m., kai blaivybės brolijos minėjo trečiąsias savo veiklos metines,
-    vyskupui teko tramdyti Troškūnų bernardinus ir Raseinių hei
-    Palėvenio dominikonų vienuolynus, kurie pelnėsi iš degtinės gamybos
-    ir pardavimo64.
-  citata_rodoma: "Net 1861 \nm., kai blaivybės brolijos minėjo trečiąsias savo veiklos metines, \nvyskupui teko tramdyti Troškūnų bernardinus ir Raseinių hei \nPalėvenio dominikonų vienuolynus, kurie pelnėsi iš degtinės gamybos \nir pardavimo64."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209278
-
-- id: c-191953
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 70"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 70."
-  citata_originali: |
-    Blaivininkų surašymui buvo duotas vienas mėnuo. K. Giečys yra
-    pažymėjęs, jog ir ši generalgubernatoriaus kontrolės akcija M.
-    Valančiaus toliaregiškumo dėka panaudota saviems tikslams. Mat
-    papildomai surašant Blaivybės brolijos narius buvo iš jų reikalaujama
-    dar sykį prisiekti, kad blaivybės laikysis iki pat mirties.
-  citata_rodoma: "Mat \npapildomai surašant Blaivybės brolijos narius buvo iš jų reikalaujama \ndar sykį prisiekti, kad blaivybės laikysis iki pat mirties."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209342
-
-- id: c-191984
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 73"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 73."
-  citata_originali: |
-    Labiausiai tikėtina,
-    kad
-    oficialiųjų
-    sluoksnių
-    pasimetimas,
-    prieštaravimai vyriausybėje buvo pakankama sąlyga blaivybės brolijoms
-    gyvuoti. Kad M. Valančiaus pastangos nenuėjo niekais, kad Žemaičių
-    vyskupas labai gerai susiorientavo painiuose politikos reikaluose
-    Lietuvoje, rodytų ir tai, jog Vilniaus vyskupystėje valdžia darė kur kas
-    daugiau kliūčių blaivybės .brolijų veiklai.
-    Masinis valstiečių dalyvavimas blaivybės akcijoje, sėkminga
-    blaivybės brolijų veikla 1858-1864 m. iš esmės reiškė labai prieštaringus
-    dalykus.
-  citata_rodoma: "Masinis valstiečių dalyvavimas blaivybės akcijoje, sėkminga \nblaivybės brolijų veikla 1858-1864 m. iš esmės reiškė labai prieštaringus \ndalykus."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209387
-
-- id: c-192003
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 67"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 67."
-  citata_originali: |
-    Taigi, kol valdžia apsižiūrėjo,
-    blaivybės brolijų tinklas jau buvo išsiskleidęs visoje Žemaičių (Telšių)
-    vyskupystėje. Prieš pat Kalėdas, 1858 m. gruodžio 23 d., buvo
-    išsiuntinėtas iškilmingas M. Valančiaus laiškas (pirmoji M. Valančiaus
-    "blaivybės gromata"), kurį kunigai skaitė liaudžiai iš ambonų. Jis rodė,
-    kad pradinis blaivybės judėjimo etapas baigėsi.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209254
-
-- id: c-192014
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 81"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 81."
-  citata_originali: |
-    Blaivybės
-    judėjimo pakilimo metu pasirodė kalendoriai turinio kokybe gerokai
-    skiriasi nuo ankstesniųjų. Taip atsitiko todėl, kad L. Ivinskio
-    bendradarbių sąrašą tuo metu papildė išties talentingi žmonės - A.
-    Baranauskas, J.S. Dovydaitis, kiti lietuvių raštijos puoselėtojai. Visi jie
-    iš esmės ir sudarė M. Valančiaus blaivybės judėjimo organizacinį
-    branduolį .
-  citata_rodoma: "Visi jie \niš esmės ir sudarė M. Valančiaus blaivybės judėjimo organizacinį \nbranduolį ."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-192024
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 59"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 59."
-  citata_originali: |
-    Teliko viena - steigti religines brolijas
-    kovai su girtavimu. Kaip priemonę blaivinti liaudį, šią formą mini jau
-    J. Simkevįčius, iš dalies bandė ją taikyti Šiaulėnų parapijos valstiečiai,
-    tačiau jų praktika nebuvo plačiau išgarsinta.
-    Kita vertus, Lietuvos katalikų blaivybės brolijos, kaip
-    organizacinė forma, turėjo analogų Vakarų pasaulyje.
-  citata_rodoma: "Kita vertus, Lietuvos katalikų blaivybės brolijos, kaip \norganizacinė forma, turėjo analogų Vakarų pasaulyje."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209338
-
+  pagrindzia:
+    - t-003

@@ -28,6 +28,20 @@ Už neteisingą apkaltinimą majestoto įžeidimu Statute numatyta mirties bausm
 
 Už neteisingą apkaltinimą majestoto įžeidimu Statute numatyta mirties bausmė.
 
+## Teiginiai
+
+<a id="claim-t-203675"></a>
+- t-001
+  teiginys: "Už neteisingą apkaltinimą majestoto įžeidimu Statute numatyta mirties bausmė."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186279
+
 ## Citatos
 
 - id: c-186279
@@ -45,20 +59,5 @@ Už neteisingą apkaltinimą majestoto įžeidimu Statute numatyta mirties bausm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203675"></a>
-- t-001
-  teiginys: "Už neteisingą apkaltinimą majestoto įžeidimu Statute numatyta mirties bausmė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186279
-

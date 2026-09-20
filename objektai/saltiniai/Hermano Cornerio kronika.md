@@ -32,6 +32,40 @@ media_all_json: |-
 
 Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Kornerio (Chron.
 
+## Teiginiai
+
+<a id="claim-t-88187"></a>
+- t-001
+  teiginys: "Michałas Balińskis rašė, kad Gedimino laiško pabaiga prieštarauja Hermano Kornerio teiginiui apie Gedimino ištikimybę tėvų tikėjimui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gyventi ir mirti savo tėvų tikėjimą išpažindamas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hermano Cornerio kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gyventi ir mirti savo tėvų tikėjimą išpažindamas: mention_match, thing, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermano Cornerio kronika\" parinktas kaip owner_note_path. Targetas \"Gyventi ir mirti savo tėvų tikėjimą išpažindamas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-84166
+
+<a id="claim-t-88188"></a>
+- t-002
+  teiginys: "Hermano Cornerio kronikoje rašoma, kad Vilniaus miestiečiai buvo palankesni Jogailai negu Kęstučiui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hermanas Corneris: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hermano Cornerio kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Hermanas Corneris: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermano Cornerio kronika\" parinktas kaip owner_note_path. Targetas \"Hermanas Corneris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-84167
+
 ## Citatos
 
 - id: c-84166
@@ -53,7 +87,7 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-84167
@@ -82,40 +116,5 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-88187"></a>
-- t-001
-  teiginys: "Michałas Balińskis rašė, kad Gedimino laiško pabaiga prieštarauja Hermano Kornerio teiginiui apie Gedimino ištikimybę tėvų tikėjimui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gyventi ir mirti savo tėvų tikėjimą išpažindamas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hermano Cornerio kronika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gyventi ir mirti savo tėvų tikėjimą išpažindamas: mention_match, thing, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermano Cornerio kronika\" parinktas kaip owner_note_path. Targetas \"Gyventi ir mirti savo tėvų tikėjimą išpažindamas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-84166
-
-<a id="claim-t-88188"></a>
-- t-002
-  teiginys: "Hermano Cornerio kronikoje rašoma, kad Vilniaus miestiečiai buvo palankesni Jogailai negu Kęstučiui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hermanas Corneris: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hermano Cornerio kronika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Hermanas Corneris: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermano Cornerio kronika\" parinktas kaip owner_note_path. Targetas \"Hermanas Corneris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-84167
-

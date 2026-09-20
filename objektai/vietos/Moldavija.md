@@ -1,12 +1,12 @@
 ---
 tipas: vieta
-pavadinimas: 'Moldavija'
+pavadinimas: Moldavija
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1431 m.'
-  - '2026 m.'
+  - 1431 m.
+  - 2026 m.
 date_start: '1431'
 date_end: '2026'
 sukurta: ''
@@ -15,29 +15,41 @@ tags:
   - vieta
   - valstybė
 amziai:
-  - 'XV'
-  - 'XXI'
+  - XV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-766e366c2e1abaff4fbb9dbf"
-canonical_name: "Moldavija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Moldavija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-766e366c2e1abaff4fbb9dbf
+canonical_name: Moldavija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Moldavija
 sameAs: []
-canonical_biography: "Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kryžiuočių magistras (jam imperatorius uždraudė prisiekti Zigmantui vasalystę; tatai magistras turėjo padaryti pagal 1466 m. Torno sutartį, — žiūr."
+canonical_biography: 'Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kryžiuočių magistras (jam imperatorius uždraudė prisiekti Zigmantui vasalystę; tatai magistras turėjo padaryti pagal 1466 m. Torno sutartį, — žiūr.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Moldavija","url":"https://lt.wikipedia.org/wiki/Moldavija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Moldavija","url":"https://www.vle.lt/straipsnis/moldavija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:14:53+00:00","source_checked_at":"2026-09-20T03:14:53+00:00","counts":{"relations":0,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Moldavija","url":"https://lt.wikipedia.org/wiki/Moldavija","publisher":"Vikipedija","language":"lt","article_id":"34","revision_id":"7842825","published_at":"2026-05-22T14:35:33Z","version_pk":"","content_hash":"a1563f2e365729aa88e2a0bc765843b70847ce07a232bd5e5bbd5dd2b338dbad","retrieved_at":"2026-09-20T03:13:12+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Moldavija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"34"}},"intro":"Moldavija (arba Moldova, rumun. Moldova; oficialiai Moldovos Respublika, rumun. Republica Moldova) – valstybė Pietryčių Europoje. Vakaruose ribojasi su Rumunija, šiaurėje, rytuose ir pietuose – su Ukraina. Šalies sostinė ir didžiausias miestas – Kišiniovas. Moldova nuo 1994 m. priklauso Nepriklausomų valstybių sandraugai. Nepaisant to, nuo 2007 m. šalis siekia tapti ES nare. 2022 m. birželio 23 d. Moldovai suteiktas ES kandidatės statusas.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Moldavija","url":"https://lt.wikipedia.org/wiki/Moldavija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Moldavija","url":"https://www.vle.lt/straipsnis/moldavija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Moldavija","https://www.vle.lt/straipsnis/moldavija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"df341acaff3be6a8bc3551df","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"avių ir galvijų auginimo regionas","context":"Šaltinyje Moldavija priskiriama avių ir galvijų auginimo regionams pagal vyraujantį palivarko produkcijos pobūdį.","support_ids":["t-203626","c-186230"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203626","source":"darbas/sources/Lituanistika-32634-ATR-palivarko-ukis.md"},{"kind":"evidence","evidence_id":"c-186230","source":"darbas/sources/Lituanistika-32634-ATR-palivarko-ukis.md","quote":"pagal vyraujantį palivarko produkcijos pobūdį schema. Grūdų augi­ nimo regionui priskiriama Lenkija, Livo­ nijos žemės, avių ir galvijų auginimo regi­ onams – Mecklenburgas, Vakarų Pamarys, Moldavija, Valakija (dabartinė Rumunijos sritis), Vengrija. Miškų ūkio regionu laiko­ mos Livonijos žemės, kanapių ir linų ga­ mybos regionais – Lietuva ir rusėniškosios LDK žemės (dabartinė Rytų Baltarusija)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 5635cb3885a85664
+object_page_generated_at: '2026-09-20T03:14:53+00:00'
+object_page_source_checked_at: '2026-09-20T03:14:53+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Moldavija: Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kryžiuočių magistras (jam imperatorius uždraudė prisiekti Zigmantui…'
+object_page_seo_input_hash: 1ce9fd2647a06dae4507bb4f9b22d08dedde8e9ce8d0e713e73299aa8f6c7954
+object_page_seo_generated_at: '2026-09-20T03:14:53+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Moldavija
 
@@ -47,60 +59,10 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 
 ## Teiginiai
 
-<a id="claim-t-210416"></a>
-- t-003
-  teiginys: "Iš sekan čio— beveik 40 metų — laikotarpio (iki 1492 m.) By chovco kronikoje beveik nėra nė vieno platesnio pa sakojimo iš pačios Lietuvos valstybės vidaus gyveni mo, o kalbama apie tolimus Lenkijos pasienius — Prū siją, Sileziją, Moldaviją, Juodosios jūros."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194088
-
-<a id="claim-t-210565"></a>
-- t-004
-  teiginys: "Į Moldaviją buvo pasiųsti pasiuntiniai ieškoti Švitrigailos."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193045
-
-<a id="claim-t-207890"></a>
-- t-207890
-  teiginys: "1500 m. Bohušas vyko į Moldaviją."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  temporaliniai_duomenys: "įvykio data: 1500 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-190434
-
-<a id="claim-t-210395"></a>
-- t-210395
-  teiginys: "Ir užbaigė susitardami, kad jie patys užims Vilniaus ir Trakų pilis ir laikys jas kunigaikščiui Švitri gailai, kuris po Pabaisko pralaimėjimo mūšyje su Mykoliuku Zygimantaičiu buvo pabėgęs į Moldaviją."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193715
-
 <a id="claim-t-171837"></a>
-- t-171837
+- t-001
   teiginys: "Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lenkija: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -115,9 +77,9 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     - c-156307
 
 <a id="claim-t-203626"></a>
-- t-203626
+- t-002
   teiginys: "Moldavija priskiriama avių ir galvijų auginimo regionams pagal vyraujantį palivarko produkcijos pobūdį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -175,8 +137,8 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-171837
+  pagrindzia:
+    - t-001
 
 - id: c-186230
   autorius: "Darius Žiemelis"
@@ -202,89 +164,5 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203626
-
-- id: c-190434
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 199"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 199."
-  citata_originali: |
-    „Mes, Lietuva"
-    Lietuvos Didžiosios Kunigaikštystės bajorija XVI a.
-    1515 m. ir 1518 m. dirbdamas Imperijoje, šis pasiuntinys jau turėjo keliolikos
-    metų diplomatinio darbo Rytuose patirtį. Karjerą B. Bohovitinovičius, spėjama, pradėjo
-    dar 1500 m., kada, kaip rašoma šaltinyje, djakas Bohušas vyko į Moldaviją. 1509 m.
-    pradžioje Bohovitinovičius, tuo metu jau būdamas raštininku ir Žiežmarių bei Daugų
-    vietininku, dalyvavo pasiuntinybėje į Maskvą.
-  citata_rodoma: "Karjerą B. Bohovitinovičius, spėjama, pradėjo\ndar 1500 m., kada, kaip rašoma šaltinyje, djakas Bohušas vyko į Moldaviją."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207890
-
-- id: c-193045
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 120"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 120."
-  citata_originali: |
-    Išsiuntę Skabeiką, pasiuntė į Moldaviją16 ieškoti
-    kunigaikščio Švitrigailos
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- id: c-193715
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 120"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 120."
-  citata_originali: |
-    Ir tie trys ponai sumanė
-    ir nutarė nužudyti kunigaikštį Žygimantą. O kitų ku­
-    nigaikščių ir didikų prie Žygimanto tuo metu nė vieno
-    nebuvo. Ir užbaigė susitardami, kad jie patys užims
-    Vilniaus ir Trakų pilis ir laikys jas kunigaikščiui Švitri­
-    gailai, kuris po Pabaisko pralaimėjimo mūšyje su My-
-    koliuku Zygimantaičiu buvo pabėgęs į Moldaviją
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210395
-
-- id: c-194088
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 16"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 16."
-  citata_originali: |
-    Iš sekan­
-    čio— beveik 40 metų — laikotarpio (iki 1492 m.) By­
-    chovco kronikoje beveik nėra nė vieno platesnio pa­
-    sakojimo iš pačios Lietuvos valstybės vidaus gyveni­
-    mo, o kalbama apie tolimus Lenkijos pasienius — Prū­
-    siją, Sileziją, Moldaviją, Juodosios jūros pakraščius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
+  pagrindzia:
+    - t-002

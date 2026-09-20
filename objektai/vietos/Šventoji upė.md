@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Šventoji upė'
+pavadinimas: Šventoji upė
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8802dee3856786da1fdb8524"
-canonical_name: "Šventoji upė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Šventoji upė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8802dee3856786da1fdb8524
+canonical_name: Šventoji upė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šventoji upė
 sameAs: []
-canonical_biography: "Šventoji minima kaip Žemaitijai priklausęs uostamiestis Vazų valdymo laikais."
+canonical_biography: Šventoji minima kaip Žemaitijai priklausęs uostamiestis Vazų valdymo laikais.
 ---
 # Šventoji upė
 
@@ -66,6 +65,5 @@ canonical_biography: "Šventoji minima kaip Žemaitijai priklausęs uostamiestis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

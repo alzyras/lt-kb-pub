@@ -46,6 +46,19 @@ Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijon
 
 ## Teiginiai
 
+<a id="claim-t-206971"></a>
+- t-001
+  teiginys: "Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijonai, Algirdo žmonai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189586
+
 <a id="claim-t-206972"></a>
 - t-002
   teiginys: "Narbutas neabejodamas nurodo, kad laišką parašė didysis komtūras Vilhelmas Helfenšteinas ir laiko jį 1382 metų antrosios pusės dokumentu."
@@ -59,23 +72,10 @@ Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijon
   pagrindžia:
     - c-189587
 
-<a id="claim-t-206971"></a>
-- t-206971
-  teiginys: "Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijonai, Algirdo žmonai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189586
-
 <a id="claim-t-206973"></a>
-- t-206973
+- t-003
   teiginys: "1393 m. Marienburgo tvirtovėje Vilhelmas Helfenšteinas, kurį Narbutas įvardija didžiuoju Teutonų ordino patikėtiniu, perdavė valstybės notarui du pergamentinius laiškus, kad šis juos deramai perrašytų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -99,8 +99,8 @@ Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206971
+  pagrindzia:
+    - t-001
 
 - id: c-189587
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -111,12 +111,11 @@ Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijon
     helmo Helfenšteino. D ata nenurodyta, tačiau laikytina, kad
     tai 1382 metų antroji pusė.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-189588
@@ -143,6 +142,5 @@ Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206973
-
+  pagrindzia:
+    - t-003

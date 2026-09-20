@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Domės Ness'
+pavadinimas: Domės Ness
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5f7cf58b919abfaef287da0e"
-canonical_name: "Domės Ness"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Domės Ness"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5f7cf58b919abfaef287da0e
+canonical_name: Domės Ness
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Domės Ness
 sameAs: []
-canonical_biography: "Jūra nuo Dauguvos žiočių iki Domės Ness kyšulio buvo pasiglemžusi daug sausumos, ypač tarp kyšulio ir Engūrės ežero."
+canonical_biography: 'Jūra nuo Dauguvos žiočių iki Domės Ness kyšulio buvo pasiglemžusi daug sausumos, ypač tarp kyšulio ir Engūrės ežero.'
 ---
 # Domės Ness
 
@@ -66,6 +65,5 @@ Jūra nuo Dauguvos žiočių iki Domės Ness kyšulio buvo pasiglemžusi daug sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

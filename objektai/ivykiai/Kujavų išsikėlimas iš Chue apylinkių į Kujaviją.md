@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kujavų išsikėlimas iš Chue apylinkių į Kujaviją'
+pavadinimas: Kujavų išsikėlimas iš Chue apylinkių į Kujaviją
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kujavų išsikėlimas iš Chue apylinkių į Kujaviją
 
@@ -75,6 +72,5 @@ Po kujavų išsikėlimo slavai toliau gyveno Chue mieste ir jo apylinkėse.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

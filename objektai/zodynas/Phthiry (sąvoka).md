@@ -1,11 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'Phthiry (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: Phthiry (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'Phthiry'
+  - Phthiry
 aliases:
-  - 'Phthiry'
+  - Phthiry
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Phthiry (sąvoka)
 
@@ -66,6 +63,5 @@ Gelonų gyvenimo būdas visiškai skiriasi nuo bu dinu5, kurie yra autochtonai, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

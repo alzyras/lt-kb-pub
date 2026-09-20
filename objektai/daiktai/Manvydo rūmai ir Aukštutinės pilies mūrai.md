@@ -52,6 +52,25 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-87083"></a>
+- t-001
+  teiginys: "1396 metais pilies kalno nuošliaužos užslinko ant Manvydo rūmų, o Aukštutinės pilies mūrai nuostolių nepatyrė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Manvydas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Manvydo rūmai ir Aukštutinės pilies mūrai: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Manvydas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Posakis „Manvydo rūmų“ rodo priklausomybę Manvydui, nors objekto pastaba apima ir kitą statinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Manvydo rūmai ir Aukštutinės pilies mūrai priklausė Manvydas (0.72)"
+  pagrindžia:
+    - c-83062
+
 ## Citatos
 
 - id: c-83062
@@ -72,25 +91,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87083"></a>
-- t-001
-  teiginys: "1396 metais pilies kalno nuošliaužos užslinko ant Manvydo rūmų, o Aukštutinės pilies mūrai nuostolių nepatyrė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Manvydas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Manvydo rūmai ir Aukštutinės pilies mūrai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Manvydas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Posakis „Manvydo rūmų“ rodo priklausomybę Manvydui, nors objekto pastaba apima ir kitą statinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Manvydo rūmai ir Aukštutinės pilies mūrai priklausė Manvydas (0.72)"
-  pagrindžia:
-    - c-83062
-

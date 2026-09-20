@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Lipsa (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Lipsa (vieta)
+identifikacija: vieta
 variantai:
-  - 'Lipsa'
+  - Lipsa
 aliases:
-  - 'Lipsa'
+  - Lipsa
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-eccaad4383ac98dd10ec5d9f"
-canonical_name: "Lipsa (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Lipsa","Lipsa (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-eccaad4383ac98dd10ec5d9f
+canonical_name: Lipsa (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Lipsa
+  - Lipsa (vieta)
 sameAs: []
-canonical_biography: "Liubeko pirklių pa statytas uostas, vadinamas Lipsa, ir daug kitų."
+canonical_biography: 'Liubeko pirklių pa statytas uostas, vadinamas Lipsa, ir daug kitų.'
 ---
 # Lipsa (vieta)
 
@@ -70,6 +70,5 @@ Liubeko pirklių pa statytas uostas, vadinamas Lipsa, ir daug kitų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

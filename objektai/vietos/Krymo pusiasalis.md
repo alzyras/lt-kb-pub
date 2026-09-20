@@ -36,6 +36,25 @@ historical_names: []
 
 Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės buveinės - Krymo pusiasalio nuošalumas nuo stiprių galios centrų, tokių kaip Lenkija, Lietuva ar Maskvos valstybė.
 
+## Teiginiai
+
+<a id="claim-t-41810"></a>
+- t-001
+  teiginys: "Krymo pusiasalio nuošalumas nuo Lenkijos, Lietuvos ir Maskvos valstybės totoriams teikė strateginį pranašumą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Krymo pusiasalis: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Krymo pusiasalis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Krymo pusiasalis įvardytas kaip pagrindinė totorių buveinė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Totoriai gyveno Krymo pusiasalis (0.80)"
+  pagrindžia:
+    - c-45152
+
 ## Citatos
 
 - id: c-45152
@@ -63,25 +82,5 @@ Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-41810"></a>
-- t-001
-  teiginys: "Krymo pusiasalio nuošalumas nuo Lenkijos, Lietuvos ir Maskvos valstybės totoriams teikė strateginį pranašumą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Krymo pusiasalis: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Krymo pusiasalis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Krymo pusiasalis įvardytas kaip pagrindinė totorių buveinė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Totoriai gyveno Krymo pusiasalis (0.80)"
-  pagrindžia:
-    - c-45152
-

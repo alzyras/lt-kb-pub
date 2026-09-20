@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Karkinęs miestas'
+pavadinimas: Karkinęs miestas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8d1616f6863f50f84325cef0"
-canonical_name: "Karkinęs miestas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Karkinęs miestas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8d1616f6863f50f84325cef0
+canonical_name: Karkinęs miestas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Karkinęs miestas
 sameAs: []
-canonical_biography: "Kijevo vietoje stovėjusi skitų žemdirbių gyvenvietė seniai buvo žinoma Karkinęs pavadinimu."
+canonical_biography: Kijevo vietoje stovėjusi skitų žemdirbių gyvenvietė seniai buvo žinoma Karkinęs pavadinimu.
 ---
 # Karkinęs miestas
 
@@ -66,6 +65,5 @@ Kijevo vietoje stovėjusi skitų žemdirbių gyvenvietė seniai buvo žinoma Kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

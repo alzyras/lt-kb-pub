@@ -45,6 +45,29 @@ media_all_json: |-
 
 ## Teiginiai
 
+<a id="claim-t-202363"></a>
+- t-001
+  teiginys: "1624 m. Laurynas Kojalavičius buvo išrinktas Kauno parapinės bažnyčios ūkvedžiu, o 1626 m. buvo jos statybos prižiūrėtojas."
+  atnaujinta: "2026-07-26 21:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ūkvedys (sąvoka): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ūkvedys (sąvoka)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  temporaliniai_duomenys: "įvykio data: 1624 m.; įvykio data: 1626 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir aiškiai nurodo Lauryno Kojalavičiaus pareigas bei datas. Šaltinio terminų ir papildomų aplinkybių sąmoningai nepridėta."
+  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
+  pagrindžia:
+    - c-185710
+
 <a id="claim-t-202364"></a>
 - t-002
   teiginys: "1614 m. Jonas Kojalavičius, būdamas metiniu miesto ūkvedžiu, rūpinosi miesto namų statyba ir priežiūra, pasiuntinių išrengimu bei byloms reikalingų išrašų parūpinimu."
@@ -68,29 +91,6 @@ media_all_json: |-
   pagrindžia:
     - c-185711
 
-<a id="claim-t-202363"></a>
-- t-202363
-  teiginys: "1624 m. Laurynas Kojalavičius buvo išrinktas Kauno parapinės bažnyčios ūkvedžiu, o 1626 m. buvo jos statybos prižiūrėtojas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ūkvedys (sąvoka): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ūkvedys (sąvoka)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
-  temporaliniai_duomenys: "įvykio data: 1624 m.; įvykio data: 1626 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir aiškiai nurodo Lauryno Kojalavičiaus pareigas bei datas. Šaltinio terminų ir papildomų aplinkybių sąmoningai nepridėta."
-  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
-  pagrindžia:
-    - c-185710
-
 ## Citatos
 
 - id: c-185710
@@ -101,8 +101,8 @@ media_all_json: |-
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-26 21:24"
-  pagrindžia:
-    - t-202363
+  pagrindzia:
+    - t-001
 
 - id: c-185711
   autorius: "Zigmantas Kiaupa"
@@ -111,8 +111,6 @@ media_all_json: |-
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 4."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 21:24"
-  pagrindžia:
+  pagrindzia:
     - t-002
-

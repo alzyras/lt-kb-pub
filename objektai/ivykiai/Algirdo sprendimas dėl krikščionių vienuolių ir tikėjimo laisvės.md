@@ -48,6 +48,56 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-55117"></a>
+- t-001
+  teiginys: "Algirdas viešai nubaudė pranciškonų nužudymo vadeivas ir liepė paskelbti krikščionių vienuolių gyvenimo bei tikėjimo laisvę."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78374
+
+<a id="claim-t-55118"></a>
+- t-002
+  teiginys: "Po Algirdo sprendimo Goštautas vėl atsikvietė vienuolių iš Lenkijos ir pastatydino mūrinę bažnyčią bei vienuolyną Smėlynėje."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78374
+
+<a id="claim-t-81825"></a>
+- t-003
+  teiginys: "Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė valią nevaržomai gyventi krikščionių vienuoliams bei laisvai išpažinti tikėjimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78374
+
 ## Citatos
 
 - id: c-78374
@@ -88,58 +138,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-55117"></a>
-- t-001
-  teiginys: "Algirdas viešai nubaudė pranciškonų nužudymo vadeivas ir liepė paskelbti krikščionių vienuolių gyvenimo bei tikėjimo laisvę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78374
-
-<a id="claim-t-55118"></a>
-- t-002
-  teiginys: "Po Algirdo sprendimo Goštautas vėl atsikvietė vienuolių iš Lenkijos ir pastatydino mūrinę bažnyčią bei vienuolyną Smėlynėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78374
-
-<a id="claim-t-81825"></a>
-- t-003
-  teiginys: "Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė valią nevaržomai gyventi krikščionių vienuoliams bei laisvai išpažinti tikėjimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78374
-

@@ -29,6 +29,44 @@ media_all_json: |-
 
 Įprasta savavaldžių miestų tvarkymo priemonė buvo tarybos nutarimai arba vadinamieji vilkierai (plebiscitum, Willkiir, 8UJlbKep). Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Kauno miestiečių bendruomenės nariams. Kita Kauno miesto tarybos funkcija buvo tvarkyti miesto gyvenimą parengtais ir paskelbtais vidaus gyvenimo nuostatais, vadinamaisiais vilkierais.
 
+## Teiginiai
+
+<a id="claim-t-201770"></a>
+- t-001
+  teiginys: "Įprasta savavaldžių miestų tvarkymo priemonė buvo tarybos nutarimai arba vadinamieji vilkierai (plebiscitum, Willkiir, 8UJlbKep)."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185117
+
+<a id="claim-t-201771"></a>
+- t-002
+  teiginys: "Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Kauno miestiečių bendruomenės nariams."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185118
+
+<a id="claim-t-201772"></a>
+- t-003
+  teiginys: "Kita Kauno miesto tarybos funkcija buvo tvarkyti miesto gyvenimą parengtais ir paskelbtais vidaus gyvenimo nuostatais, vadinamaisiais vilkierais."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185119
+
 ## Citatos
 
 - id: c-185117
@@ -45,7 +83,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185118
@@ -62,7 +100,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-185119
@@ -80,44 +118,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-201770"></a>
-- t-001
-  teiginys: "Įprasta savavaldžių miestų tvarkymo priemonė buvo tarybos nutarimai arba vadinamieji vilkierai (plebiscitum, Willkiir, 8UJlbKep)."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185117
-
-<a id="claim-t-201771"></a>
-- t-002
-  teiginys: "Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Kauno miestiečių bendruomenės nariams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185118
-
-<a id="claim-t-201772"></a>
-- t-003
-  teiginys: "Kita Kauno miesto tarybos funkcija buvo tvarkyti miesto gyvenimą parengtais ir paskelbtais vidaus gyvenimo nuostatais, vadinamaisiais vilkierais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185119
-

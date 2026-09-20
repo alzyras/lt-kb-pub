@@ -33,6 +33,20 @@ Po Mikalojaus Radvilos Rudojo mirties Naruševičiai buvo tarp svarbių LDK gimi
 
 Po Mikalojaus Radvilos Rudojo mirties Naruševičiai buvo tarp svarbių LDK giminių, toliau išlaikiusių didžiojo LDK medžioklio pareigybę.
 
+## Teiginiai
+
+<a id="claim-t-204128"></a>
+- t-001
+  teiginys: "Po Mikalojaus Radvilos Rudojo mirties Naruševičiai buvo tarp svarbių LDK giminių, toliau išlaikiusių didžiojo LDK medžioklio pareigybę."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186782
+
 ## Citatos
 
 - id: c-186782
@@ -54,20 +68,5 @@ Po Mikalojaus Radvilos Rudojo mirties Naruševičiai buvo tarp svarbių LDK gimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204128"></a>
-- t-001
-  teiginys: "Po Mikalojaus Radvilos Rudojo mirties Naruševičiai buvo tarp svarbių LDK giminių, toliau išlaikiusių didžiojo LDK medžioklio pareigybę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  pagrindžia:
-    - c-186782
-

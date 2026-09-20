@@ -34,6 +34,27 @@ canonical_biography: "Boleslovas per žygį paėmė į nelaisvę Toločino kunig
 
 Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Ivanovičių ir įsakė jį paskandinti.
 
+## Teiginiai
+
+<a id="claim-t-186238"></a>
+- t-001
+  teiginys: "Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Ivanovičių ir įsakė jį paskandinti."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Michaila Ivanovičius: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Boleslovas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Michaila Ivanovičius: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Boleslovas paėmė Michailą Ivanovičių į nelaisvę ir įsakė jį paskandinti, todėl tai tiesioginis priešiškas veiksmas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169599
+
 ## Citatos
 
 - id: c-169599
@@ -56,27 +77,5 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-186238"></a>
-- t-001
-  teiginys: "Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Ivanovičių ir įsakė jį paskandinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Michaila Ivanovičius: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Boleslovas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Michaila Ivanovičius: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Boleslovas paėmė Michailą Ivanovičių į nelaisvę ir įsakė jį paskandinti, todėl tai tiesioginis priešiškas veiksmas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169599
-

@@ -27,6 +27,32 @@ media_all_json: |-
 
 Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie nuolį, Cereto vyskupą, kadaise Vengrijos karalienės. Tas lėšas Vladislovas Jogaila dar padidino skirdamas katedrai ir vyskupams nemažą Vilniaus miesto dalį - visą plotą nuo pilies iki pat Šv.
 
+## Teiginiai
+
+<a id="claim-t-194302"></a>
+- t-001
+  teiginys: "Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie nuolį, Cereto vyskupą, kadaise Vengrijos karalienės."
+  atnaujinta: "2026-07-06 12:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176894
+
+<a id="claim-t-194303"></a>
+- t-002
+  teiginys: "Tas lėšas Vladislovas Jogaila dar padidino skirdamas katedrai ir vyskupams nemažą Vilniaus miesto dalį - visą plotą nuo pilies iki pat Šv."
+  atnaujinta: "2026-07-06 12:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176895
+
 ## Citatos
 
 - id: c-176894
@@ -53,7 +79,7 @@ Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-176895
@@ -75,32 +101,5 @@ Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-194302"></a>
-- t-001
-  teiginys: "Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie nuolį, Cereto vyskupą, kadaise Vengrijos karalienės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176894
-
-<a id="claim-t-194303"></a>
-- t-002
-  teiginys: "Tas lėšas Vladislovas Jogaila dar padidino skirdamas katedrai ir vyskupams nemažą Vilniaus miesto dalį - visą plotą nuo pilies iki pat Šv."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176895
-

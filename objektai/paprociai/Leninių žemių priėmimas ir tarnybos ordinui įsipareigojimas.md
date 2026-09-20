@@ -45,6 +45,34 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206927"></a>
+- t-001
+  teiginys: "Vytautas savo ir tėvui priklausiusius kraštus iš Ordino priėmė lenais, įsipareigodamas su visais žmonėmis tarnauti didžiajam magistrui ir Ordinui prieš jų skriaudėjus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189542
+
+<a id="claim-t-206928"></a>
+- t-002
+  teiginys: "Vytautas raštu be išlygų patvirtino ankstesnius pažadus Vokiečių ordino didžiajam magistrui ir Ordinui bei įsipareigojo niekada nesiimti veiksmų prieš Ordiną."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189543
+
 ## Santrauka
 
 Vytautas savo ir tėvui priklausiusius kraštus iš Ordino priėmė lenais, įsipareigodamas su visais žmonėmis tarnauti didžiajam magistrui ir Ordinui prieš jų skriaudėjus. Vytautas raštu be išlygų patvirtino ankstesnius pažadus Vokiečių ordino didžiajam magistrui ir Ordinui bei įsipareigojo niekada nesiimti veiksmų prieš Ordiną.
@@ -68,7 +96,7 @@ Vytautas savo ir tėvui priklausiusius kraštus iš Ordino priėmė lenais, įsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189543
@@ -93,34 +121,5 @@ Vytautas savo ir tėvui priklausiusius kraštus iš Ordino priėmė lenais, įsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206927"></a>
-- t-001
-  teiginys: "Vytautas savo ir tėvui priklausiusius kraštus iš Ordino priėmė lenais, įsipareigodamas su visais žmonėmis tarnauti didžiajam magistrui ir Ordinui prieš jų skriaudėjus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189542
-
-<a id="claim-t-206928"></a>
-- t-002
-  teiginys: "Vytautas raštu be išlygų patvirtino ankstesnius pažadus Vokiečių ordino didžiajam magistrui ir Ordinui bei įsipareigojo niekada nesiimti veiksmų prieš Ordiną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189543
-

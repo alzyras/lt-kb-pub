@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Kuršių marios'
+pavadinimas: Kuršių marios
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -8,10 +8,10 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1252 m.'
-  - '1612 m.'
-  - '1936 m.'
-  - '2026 m.'
+  - 1252 m.
+  - 1612 m.
+  - 1936 m.
+  - 2026 m.
 date_start: '1252'
 date_end: '2026'
 sukurta: ''
@@ -20,29 +20,41 @@ tags:
   - pilis
   - vieta
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-390cbbd9ff5805d91e7b726b"
-canonical_name: "Kuršių marios"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kuršių marios"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-390cbbd9ff5805d91e7b726b
+canonical_name: Kuršių marios
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kuršių marios
 sameAs: []
-canonical_biography: "Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija."
+canonical_biography: 'Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Kuršių marios","url":"https://lt.wikipedia.org/wiki/Kur%C5%A1i%C5%B3_marios","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Kuršių marios","url":"https://www.vle.lt/straipsnis/kursiu-marios/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T17:25:54+00:00","source_checked_at":"2026-09-19T17:25:54+00:00","counts":{"relations":0,"gallery":0,"sources":6},"featured_claim_ids":["t-223960","t-201624","t-214658","t-225697","t-68371","t-215029","t-225612"],"featured_claims":[{"claim_id":"t-223960","text":"Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-205393"]},{"claim_id":"t-201624","text":"1612 m. Kuršių mariose nukentėjo 40 laivų, tarp jų ir kauniečių.","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","evidence_ids":["c-184971"]},{"claim_id":"t-214658","text":"Teodoras Narbutas rašo, kad Kuršių marios senovėje vadintos Rusna, o nuo XV a. turėjo kryžiuočių suteiktą Curisch-Haft vardą.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-194943"]},{"claim_id":"t-225697","text":"Kuršių marios iki Klaipėdos ilgą laiką laikytos Nemuno tąsa.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-203354"]},{"claim_id":"t-68371","text":"Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-32172"]},{"claim_id":"t-215029","text":"O pačios marios senovėje buvo vadinamos Rusna, Kurtoniszke Russe, Kur tom, o nuo XV amžiaus turi šiandienį kryžiuočių suteiktą Curisch-Haft, Kuršių įlankos, vardą, kilusį iš kuršių ko lonijos, buvusios jos vakariniame gale; ją įkūrė Kuršo kryžiuočiai.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-194943"]},{"claim_id":"t-225612","text":"Kronikoje pasakojama, kad broliai, traukdami per ploną Kuršių marių ledą, buvo Dievo globojami.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-205061"]}],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Kuršių marios","url":"https://lt.wikipedia.org/wiki/Kur%C5%A1i%C5%B3_marios","publisher":"Vikipedija","language":"lt","article_id":"12274","revision_id":"7216149","published_at":"2024-03-05T20:14:45Z","version_pk":"","content_hash":"fb8703e1f599604830a8bcdbc78150a40f19a9e0a38799b555270ae589c469ad","retrieved_at":"2026-09-19T17:23:10+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Kur%C5%A1i%C5%B3_marios&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"12274"}},"intro":"Kuršių marios, Kuršmarės, seniau vadintos Prūsų jūra (prūs. Kursjanmari, vok. Kurisches Haff, rus. Kуршский залив) – vandens telkinys Baltijos jūros baseine, nuo jūros atskirtas Kuršių nerija. Sembos pusiasalis skiria nuo Aismarių. Pietinė ir didesnė marių dalis priklauso Rusijos Kaliningrado sričiai. Bendras marių plotas yra 1584 km², tačiau Lietuvai priklausanti marių dalis tesudaro 381,6 km². Marių ilgis (nuo Klaipėdos sąsiaurio žiočių uosto vartuose iki marių pietinio kranto) 93 kilometrai, didžiausias plotis 46 kilometrai, siauriausia vieta esanti Klaipėdos sąsiauryje yra 390 m pločio. Kranto linijos ilgis 324 km; iš jų Lietuvai priklausančio vakarinio (Kuršių nerijos) kranto 60,35 km, rytinio kranto 98,94 kilometro. Kuršių marios susidarė prieš 3000 metų prieš mūsų erą, kai vėjas ir Baltijos jūros bangos suplakė siaurą Kuršių neriją. Savo kilme Kuršių marios yra bahiros tipo. Vandens apykaitos režimas – estuarinio tipo lagūna. Mariose yra viena sala – Kiaulės Nugara.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Kuršių marios","url":"https://lt.wikipedia.org/wiki/Kur%C5%A1i%C5%B3_marios","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Kuršių marios","url":"https://www.vle.lt/straipsnis/kursiu-marios/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kur%C5%A1i%C5%B3_marios","https://www.vle.lt/straipsnis/kursiu-marios/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"891001b929bb6afcc02dec04","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Užšalusios Kuršių marios turėjo minkštą, bangavusį ledą, panašų į audros metu kylantį ir besileidžiantį vandenį.","context":"Petro Dusburgiečio kronikoje aprašant kariuomenės žygį užšalusiomis mariomis.","support_ids":["t-223960","c-205393"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223960","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205393","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Kai vėliau traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką. Ledas buvo toks minkštas, kad bangavo nelyginant vanduo audros metu, kai, stipriam vėjui pučiant, jis kyla aukštyn ir krinta žemyn. Todėl ir žmonės tarpais kopė ledu sakytum į kalną, tarpais leidosi žemyn nelyginant į klonį, tačiau, viešpaties globojami, nė vienas nenuskendo."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c633567ab5a8d520d4799d8c","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Kuršių marios iki Klaipėdos ilgą laiką laikytos Nemuno tąsa.","context":"Petro Dusburgiečio Prūsijos žemės kronikos komentare apie istorinį marių supratimą.","support_ids":["t-225697","c-203354"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225697","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203354","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa. Dusburgietis Nemuną vadina Memela (plg."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e325cfd78564197577ac353c","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Naudotos kariuomenei pereiti žiemą per ledą.","context":"Petro Dusburgiečio kronikoje aprašomas kariuomenės traukimas per užšalusias ir ploną ledą turėjusias marias.","support_ids":["t-223960","c-205393","t-225612","c-205061"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223960","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-225612","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205393","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Kai vėliau traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką. Ledas buvo toks minkštas, kad bangavo nelyginant vanduo audros metu, kai, stipriam vėjui pučiant, jis kyla aukštyn ir krinta žemyn. Todėl ir žmonės tarpais kopė ledu sakytum į kalną, tarpais leidosi žemyn nelyginant į klonį, tačiau, viešpaties globojami, nė vienas nenuskendo."},{"kind":"evidence","evidence_id":"c-205061","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama, vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos globojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Kuršių marios yra istoriniuose šaltiniuose minima vandens telkinio vieta, svarbi susisiekimui, karo žygiams ir laivybai. Seniau jos vadintos Rusna, Kurtoniszke Russe ir Kurtom, o nuo XV amžiaus minimas kryžiuočių suteiktas Curisch-Haft vardas, siejamas su vakarinėje dalyje buvusia kuršių kolonija. Prūsijoje prie marių veikė mažos kolonijos, kurių pavadinimas aiškintas vietos žvejų, vadintų kuršiais, vardu. XIII–XIV amžių karo pasakojimuose minimas kariuomenės žygis užšalusiomis mariomis: ledas buvo toks minkštas, kad bangavo tarsi vanduo, tačiau kariai saugiai perėjo. Vėliau Algirdas ir Kęstutis, niokodami marių pakraščius, nužygiavo iki Deimenos, o 1612 metais mariose nukentėjo 40 laivų, tarp jų ir kauniečių.","sentences":[{"sentence_id":"s1","text":"Kuršių marios yra istoriniuose šaltiniuose minima vandens telkinio vieta, svarbi susisiekimui, karo žygiams ir laivybai.","support_ids":["t-201624","t-223960","t-68371"]},{"sentence_id":"s2","text":"Seniau jos vadintos Rusna, Kurtoniszke Russe ir Kurtom, o nuo XV amžiaus minimas kryžiuočių suteiktas Curisch-Haft vardas, siejamas su vakarinėje dalyje buvusia kuršių kolonija.","support_ids":["t-214658","t-215029"]},{"sentence_id":"s3","text":"Prūsijoje prie marių veikė mažos kolonijos, kurių pavadinimas aiškintas vietos žvejų, vadintų kuršiais, vardu.","support_ids":["t-212354"]},{"sentence_id":"s4","text":"Karo pasakojimuose minimas kariuomenės žygis užšalusiomis mariomis: ledas buvo toks minkštas, kad bangavo tarsi vanduo, tačiau kariai saugiai perėjo.","support_ids":["t-223960","t-225612"]},{"sentence_id":"s5","text":"Vėliau Algirdas ir Kęstutis, niokodami marių pakraščius, nužygiavo iki Deimenos, o 1612 metais mariose nukentėjo 40 laivų, tarp jų ir kauniečių.","support_ids":["t-68371","t-201624"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia karo žygius ir laivų nukentėjimą, tačiau tiesiogiai nepatvirtina, kad Kuršių marios buvo svarbios susisiekimui ir laivybai."},{"sentence_id":"s2","supported":true,"reason":"Visi pavadinimai, XV amžiaus datavimas, kryžiuočių suteiktas Curisch-Haft vardas ir jo siejimas su vakarinėje dalyje buvusia kuršių kolonija tiesiogiai pateikti šaltiniuose."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai mini mažas kolonijas Prūsijoje prie Kuršių marių ir aiškina jų pavadinimą vietos žvejais, vadintais kuršiais."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai aprašo žygį užšalusiomis mariomis, minkštą banguojantį ledą ir sėkmingą kariuomenės perėjimą."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Algirdo ir Kęstučio žygį iki Deimenos bei 1612 metais Kuršių mariose nukentėjusius 40 laivų, tarp jų kauniečių."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-201624","t-223960","t-68371"]},{"sentence_id":"s2","supported":false,"support_ids":["t-214658","t-215029"]},{"sentence_id":"s3","supported":false,"support_ids":["t-212354"]},{"sentence_id":"s4","supported":false,"support_ids":["t-223960","t-225612"]},{"sentence_id":"s5","supported":false,"support_ids":["t-68371","t-201624"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":8,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b68098071481b394
+object_page_generated_at: '2026-09-19T17:25:54+00:00'
+object_page_source_checked_at: '2026-09-19T17:25:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '4'
+object_page_seo_description: 'Kuršių marios yra istoriniuose šaltiniuose minima vandens telkinio vieta, svarbi susisiekimui, karo žygiams ir laivybai. Seniau jos vadintos Rusna…'
+object_page_seo_input_hash: 91c4a170260627f579a9b18396cb4327e9630c6ca77d9d8d015a9d489a6d904a
+object_page_seo_generated_at: '2026-09-19T17:25:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kuršių marios
 
@@ -52,66 +64,10 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
 
 ## Teiginiai
 
-<a id="claim-t-212354"></a>
-- t-212354
-  teiginys: "Prūsijoje prie Kuršių marių buvo mažų kolonijų, siejamų su kuršiais."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196399
-
-<a id="claim-t-223960"></a>
-- t-223960
-  teiginys: "Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuršiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kuršių marios: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kuršių marios\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205393
-
-<a id="claim-t-225612"></a>
-- t-225612
-  teiginys: "Kronikoje pasakojama, kad broliai, traukdami per ploną Kuršių marių ledą, buvo Dievo globojami."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuršiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kuršių marios: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kuršių marios\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-225697"></a>
-- t-225697
-  teiginys: "Kuršių marios iki Klaipėdos ilgą laiką laikytos Nemuno tąsa."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuršiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kuršių marios: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kuršių marios\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
 <a id="claim-t-68371"></a>
-- t-68371
+- t-001
   teiginys: "Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Deimena: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -125,10 +81,27 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   pagrindžia:
     - c-32172
 
+<a id="claim-t-68372"></a>
+- t-002
+  teiginys: "Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kuršių marios: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kuršių marios\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-67968
+    - c-167559
+
 <a id="claim-t-68374"></a>
-- t-68374
+- t-003
   teiginys: "1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -144,22 +117,42 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   pagrindžia:
     - c-67964
 
-<a id="claim-t-201624"></a>
-- t-201624
-  teiginys: "1612 m. Kuršių mariose nukentėjo 40 laivų, tarp jų ir kauniečių."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-68375"></a>
+- t-004
+  teiginys: "Kronikoje pasakojama, kad broliai, traukdami per ploną Kuršių marių ledą, buvo Dievo globojami."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  ryšio_patikimumas: "susije_su -> Kuršiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kuršių marios: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kuršių marios\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-184971
+    - c-67967
 
-<a id="claim-t-214658"></a>
-- t-214658
+<a id="claim-t-68376"></a>
+- t-005
+  teiginys: "Kuršių marios iki Klaipėdos ilgą laiką laikytos Nemuno tąsa."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kuršių marios: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kuršių marios\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-67966
+
+<a id="claim-t-192686"></a>
+- t-006
   teiginys: "Teodoras Narbutas rašo, kad Kuršių marios senovėje vadintos Rusna, o nuo XV a. turėjo kryžiuočių suteiktą Curisch-Haft vardą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -174,19 +167,19 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-194943
+    - c-175456
 
-<a id="claim-t-215029"></a>
-- t-215029
-  teiginys: "O pačios marios senovėje buvo vadinamos Rusna, Kurtoniszke Russe, Kur tom, o nuo XV amžiaus turi šiandienį kryžiuočių suteiktą Curisch-Haft, Kuršių įlankos, vardą, kilusį iš kuršių ko lonijos, buvusios jos vakariniame gale; ją įkūrė Kuršo kryžiuočiai."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-201624"></a>
+- t-007
+  teiginys: "1612 m. Kuršių mariose nukentėjo 40 laivų, tarp jų ir kauniečių."
+  atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
-    - c-194943
+    - c-184971
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -261,8 +254,8 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-68371
+  pagrindzia:
+    - t-001
 
 - id: c-67964
   redaktorius: "A. Šapoka"
@@ -280,8 +273,8 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-68374
+  pagrindzia:
+    - t-003
 
 - id: c-67966
   autorius: "Petras Dusburgietis"
@@ -297,6 +290,8 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-67967
   autorius: "Petras Dusburgietis"
@@ -315,6 +310,8 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-67968
   autorius: "Petras Dusburgietis"
@@ -333,6 +330,8 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-167559
   autorius: "Petras Dusburgietis"
@@ -351,6 +350,8 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-175456
   autorius: "Teodoras Narbutas"
@@ -373,6 +374,8 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-184971
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -387,86 +390,5 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201624
-
-- id: c-194664
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 366"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 366."
-  citata_originali: |
-    šiaurėje ir rytuose ją
-    skalavo jūra ir Kuršių marios.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-194943
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 220"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 220."
-  citata_originali: |
-    Priešais jos žiotis buvo protaka per Kuršių
-    neriją prie Rasytės, kuri vadinosi Gausse. O pačios marios
-    senovėje buvo vadinamos Rusna, Kurtoniszke Russe, Kur­
-    tom, o nuo XV amžiaus turi šiandienį kryžiuočių suteiktą
-    Curisch-Haft, Kuršių įlankos, vardą, kilusį iš kuršių ko­
-    lonijos, buvusios jos vakariniame gale; ją įkūrė Kuršo
-    kryžiuočiai.
-    225
-    Taip pat negalima nepaminėti kai kurių paaiškinimų,
-    susijusių su senovės Rusios miestais.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214658
-    - t-215029
-
-- id: c-196399
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 291"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 291."
-  citata_originali: |
-    yra mažų kolonijų
-    Prūsijoje prie Kuršių marių, kurios pavadintos jų vardu,
-    nes tenykščiai žvejai buvo vadinami kuršiais
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212354
-
-- id: c-205393
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 197"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
-  citata_originali: |
-    Kai vėliau
-    traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką. Ledas
-    buvo toks minkštas, kad bangavo nelyginant vanduo audros metu, kai, stipriam vėjui
-    pučiant, jis kyla aukštyn ir krinta žemyn. Todėl ir žmonės tarpais kopė ledu sakytum į
-    kalną, tarpais leidosi žemyn nelyginant į klonį, tačiau, viešpaties globojami, nė vienas
-    nenuskendo.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223960
-
+  pagrindzia:
+    - t-007

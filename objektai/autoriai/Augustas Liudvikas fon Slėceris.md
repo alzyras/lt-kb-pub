@@ -36,42 +36,10 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
 
 ## Teiginiai
 
-<a id="claim-t-215876"></a>
-- t-215876
-  teiginys: "Augustas Liudvikas fon Slėceris buvo vokiečių publicistas ir istorikas."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194921
-
-<a id="claim-t-213476"></a>
-- t-213476
-  teiginys: "Narbutas svarstė, kad Augustas Liudvikas fon Slėceris galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustas Liudvikas fon Slėceris: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustas Liudvikas fon Slėceris\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-195564
-
-<a id="claim-t-212775"></a>
-- t-212775
+<a id="claim-t-191570"></a>
+- t-001
   teiginys: "Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su lietuvišku žodžiu „lihtars“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -86,7 +54,27 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-195564
+    - c-174452
+
+<a id="claim-t-191571"></a>
+- t-002
+  teiginys: "Narbutas svarstė, kad Augustas Liudvikas fon Slėceris galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustas Liudvikas fon Slėceris: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustas Liudvikas fon Slėceris\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174453
 
 ## Citatos
 
@@ -111,6 +99,8 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-174453
   autorius: "Teodoras Narbutas"
@@ -135,53 +125,5 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194921
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 4"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 4."
-  citata_originali: |
-    T. Narbutas buvo skaitęs ir
-    XVIII amžiaus pabaigos vokiečių publicisto ir istoriko
-    Augusto Liudviko fon Slėcerio tyrinėjimus, žinojo ir jo
-    nuomonę, jog lietuviai iki pat jų valstybės sukūrimo bu­
-    vo didelė, galinga, bet barbariška tauta, o Palemonas —
-    išgalvota asmenybė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215876
-
-- id: c-195564
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 373"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
-  citata_originali: |
-    Taip jūros plotas vis didėjo, ir
-    galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra
-    didėjo. Tad tie, kurie pastebėjo fizinių įvykių, lėmusių
-    žemių prie Baltijos jūros dingimą, sakė tikrą tiesą, ir
-    tie, kurie, kaip Melą, teigė, jog Baltijos jūra užgriozta
-    pakrantės salų, kurios vieną sykį panašios į sausumą, o
-    kitą — į archipelagą, sakė taip pat ne mažiau tiesos. Tad
-    kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal­
-    būt nesilankė prie Baltijos, neturėjo tikro supratimo apie
-    Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės
-    šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su­
-    vokė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212775
-    - t-213476
-
+  pagrindzia:
+    - t-002

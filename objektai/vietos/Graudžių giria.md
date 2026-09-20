@@ -37,6 +37,21 @@ Per Graudžių girią žygiuota sunkiai; Vitingai ir Insterburgo pasienio sargyb
 
 Per Graudžių girią žygiuota sunkiai; Vitingai ir Insterburgo pasienio sargyba sudarė žygio priešakinį būrį.
 
+## Teiginiai
+
+<a id="claim-t-206636"></a>
+- t-001
+  teiginys: "Per Graudžių girią žygiuota sunkiai; Vitingai ir Insterburgo pasienio sargyba sudarė žygio priešakinį būrį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189251
+
 ## Citatos
 
 - id: c-189251
@@ -54,21 +69,5 @@ Per Graudžių girią žygiuota sunkiai; Vitingai ir Insterburgo pasienio sargyb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206636"></a>
-- t-001
-  teiginys: "Per Graudžių girią žygiuota sunkiai; Vitingai ir Insterburgo pasienio sargyba sudarė žygio priešakinį būrį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189251
-

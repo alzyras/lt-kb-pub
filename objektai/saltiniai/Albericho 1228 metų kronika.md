@@ -32,6 +32,28 @@ media_all_json: |-
 
 Narbutas Albericho 1228 metų kronika rėmė teiginį, kad be Sambijos buvo Vitlandijos kraštas, driekęsis rytine Vyslos pakrante.
 
+## Teiginiai
+
+<a id="claim-t-191825"></a>
+- t-001
+  teiginys: "Narbutas Albericho 1228 metų kronika rėmė teiginį, kad be Sambijos buvo Vitlandijos kraštas, driekęsis rytine Vyslos pakrante."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vitlandija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albericho 1228 metų kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vitlandija: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albericho 1228 metų kronika\" parinktas kaip owner_note_path. Targetas \"Vitlandija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174707
+
 ## Citatos
 
 - id: c-174707
@@ -54,63 +76,5 @@ Narbutas Albericho 1228 metų kronika rėmė teiginį, kad be Sambijos buvo Vitl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197353
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 346"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
-  citata_originali: |
-    Taip pat apie skirtingas šalis ra­
-    šo Alberichas savo 1228 metų kronikoje (Leibnitz: Access.
-    Histor. P. 527; Gruber. I c. P. 171): E r ant autem hoc
-    anno in iis partibus quinque tantummodo provinciae pa-
-    ganorum acquirendae, ista videlicet, de qua agitur Prū­
-    dą, Curlandia, Lethonia, Witlandia et Sambria, Tai jau
-    įtikina mus, kad, be Sambijos, buvo ir kraštas, žinomas
-    Vitlandijos vardu, Be to, ši senovės Vitlandija driekėsi
-    rytine Vyslos pakrante.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-212849"></a>
-- t-001
-  teiginys: "Alberichas savo 1228 metų kronikoje (Leibnitz: Access."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197353
-
-<a id="claim-t-214120"></a>
-- t-002
-  teiginys: "Narbutas Albericho 1228 metų kronika rėmė teiginį, kad be Sambijos buvo Vitlandijos kraštas, driekęsis rytine Vyslos pakrante."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Vitlandija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albericho 1228 metų kronika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vitlandija: mention_match, place, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albericho 1228 metų kronika\" parinktas kaip owner_note_path. Targetas \"Vitlandija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-197353
-

@@ -65,9 +65,9 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     - c-32789
 
 <a id="claim-t-30359"></a>
-- t-30359
+- t-002
   teiginys: "Marquardas von Salzbachas buvo uolus Vytauto patarėjas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Liublinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,9 +81,9 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     - c-32790
 
 <a id="claim-t-30360"></a>
-- t-30360
+- t-003
   teiginys: "Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris Marquardas von Salzbachas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -114,12 +114,11 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     pradžios buvo užsimezgusios derybos.
   citata_rodoma: "Salzbacho padedamas, Vytautas pataikė ordine į\nlaimingą momentą. Tarp Jogailos ir vyr."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-32790
@@ -139,8 +138,8 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-30359
+  pagrindzia:
+    - t-002
 
 - id: c-32791
   autorius: "Zenonas Ivinskis"
@@ -159,6 +158,5 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-30360
-
+  pagrindzia:
+    - t-003

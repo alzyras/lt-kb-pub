@@ -35,6 +35,23 @@ media_all_json: |-
 
 1559 m. Grigaliaus Grinkavičiaus Valavičiaus girių aprašymas buvo vienas LDK valdovo medžioklės ūkį saugančių įstatymų sistemos pagrindų.
 
+## Teiginiai
+
+<a id="claim-t-204162"></a>
+- t-001
+  teiginys: "1559 m. Grigaliaus Grinkavičiaus Valavičiaus girių aprašymas buvo vienas LDK valdovo medžioklės ūkį saugančių įstatymų sistemos pagrindų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1559 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra taisyklingas ir tiksliai nurodo dokumento vietą LDK valdovo medžioklės ūkį saugančios sistemos pagrinduose. Papildomi sistemos dokumentai nevardijami."
+  pagrindžia:
+    - c-186766
+
 ## Citatos
 
 - id: c-186766
@@ -54,23 +71,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204162"></a>
-- t-001
-  teiginys: "1559 m. Grigaliaus Grinkavičiaus Valavičiaus girių aprašymas buvo vienas LDK valdovo medžioklės ūkį saugančių įstatymų sistemos pagrindų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1559 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra taisyklingas ir tiksliai nurodo dokumento vietą LDK valdovo medžioklės ūkį saugančios sistemos pagrinduose. Papildomi sistemos dokumentai nevardijami."
-  pagrindžia:
-    - c-186766
-

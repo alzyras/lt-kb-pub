@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Baltvyžių giria'
+pavadinimas: Baltvyžių giria
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1837 m.'
+  - 1837 m.
 date_start: '1837'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6c7e1da060cbe18a31ba173b"
-canonical_name: "Baltvyžių giria"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Baltvyžių giria"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6c7e1da060cbe18a31ba173b
+canonical_name: Baltvyžių giria
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Baltvyžių giria
 sameAs: []
-canonical_biography: "1837 metais Baltvyžių girioje rasta didelė auksinė moneta."
+canonical_biography: 1837 metais Baltvyžių girioje rasta didelė auksinė moneta.
 ---
 # Baltvyžių giria
 
@@ -84,7 +83,7 @@ canonical_biography: "1837 metais Baltvyžių girioje rasta didelė auksinė mon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200850
@@ -101,6 +100,5 @@ canonical_biography: "1837 metais Baltvyžių girioje rasta didelė auksinė mon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

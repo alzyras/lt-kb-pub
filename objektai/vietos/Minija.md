@@ -38,34 +38,10 @@ historical_names: []
 
 ## Teiginiai
 
-<a id="claim-t-213062"></a>
-- t-002
-  teiginys: "Senoji Nemuno vaga iš dešiniosios pakrantės priėmė Tenenio upę, kuri vėliau tekėjo Minijos vaga."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195091
-
-<a id="claim-t-210559"></a>
-- t-210559
-  teiginys: "Minija seniau prie Dituvos suko dešinėn, o jos senosios žiotys buvo į Memelį."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197472
-
 <a id="claim-t-32367"></a>
-- t-32367
+- t-001
   teiginys: "Lietuva Žemaičiuose apėmė Ventos ir Minijos aukštupius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuva: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -99,45 +75,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-32367
-
-- id: c-195091
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 180"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 180."
-  citata_originali: |
-    senovinė Nemuno vaga iš
-    dešiniosios pakrantės priėmė Tenenio upę, kuri ten, kur
-    šiandien įteka į Miniją, tekėjo tos pačios Minijos vaga
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-197472
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 181"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 181."
-  citata_originali: |
-    Ir
-    Minija prie Dituvos kaimo suko dešinėn, Sudnagų kaimo
-    link, ir upokšnio vaga plaukė į pietus nuo Stariškių kaimo.
-    Tad čia buvusios senų senovės Minijos žiotys į Memelį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210559
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lamatiečiai]], [[objektai/grupes/Skalviai]]

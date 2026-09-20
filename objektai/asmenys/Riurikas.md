@@ -36,6 +36,49 @@ canonical_biography: "Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai 
 
 Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", yra kaip tik tas, kuris, viena vertus, atbloškė Riuriką ir jo variagus į Rusiją, kita ver­ tus, galbūt tariamąjį Palemoną su draugais - į Lietuvą.
 
+## Teiginiai
+
+<a id="claim-t-87845"></a>
+- t-001
+  teiginys: "Riurikas su variagais, autoriaus nuomone, į Rusiją galėjo būti atblokštas Petro Olai „Danų kronikoje“ aprašyto įvykio."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Riurikas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Riurikas\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83824
+
+<a id="claim-t-201026"></a>
+- t-002
+  teiginys: "Tas tėra 'žinoma, jog, nustipus Gostomyslui, gudai užteikė variagus, arba rusus, į savo žemę, kurių trys broliai, vardu Riurikas, Sineus ir Truvoras, metuose 862 atkeliavę su talka ir savo tarnais į Gudus, pradėjo viešpatau ti, Riurikas, tai yra Rusnio rykys."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184376
+
+<a id="claim-t-205435"></a>
+- t-003
+  teiginys: "Narbuto pasakojime Riurikas po brolių mirties suvienijo jų valdas, sostinę įkūrė Naugarde ir paliko paveldėjimo teisę mažamečiam sūnui Igoriui."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187905
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašo, kad dauguma mokslininkų neigia slavų rusų egzistavimą iki Riuriko.'
@@ -89,7 +132,7 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184376
@@ -121,7 +164,7 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-187905
@@ -142,49 +185,5 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-87845"></a>
-- t-001
-  teiginys: "Riurikas su variagais, autoriaus nuomone, į Rusiją galėjo būti atblokštas Petro Olai „Danų kronikoje“ aprašyto įvykio."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Riurikas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Riurikas\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83824
-
-<a id="claim-t-201026"></a>
-- t-002
-  teiginys: "Tas tėra 'žinoma, jog, nustipus Gostomyslui, gudai užteikė variagus, arba rusus, į savo žemę, kurių trys broliai, vardu Riurikas, Sineus ir Truvoras, metuose 862 atkeliavę su talka ir savo tarnais į Gudus, pradėjo viešpatau ti, Riurikas, tai yra Rusnio rykys."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184376
-
-<a id="claim-t-205435"></a>
-- t-003
-  teiginys: "Narbuto pasakojime Riurikas po brolių mirties suvienijo jų valdas, sostinę įkūrė Naugarde ir paliko paveldėjimo teisę mažamečiam sūnui Igoriui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187905
-

@@ -39,6 +39,20 @@ canonical_biography: "1488 m. Kazimieras Jogailaitis atleido nuo muitų Kaune sa
 
 1488 m. Kazimieras Jogailaitis atleido nuo muitų Kaune savo prekybos agentą Minsko miestietį Luką Tereškovičių, o su Gardinu kažkaip susijęs Mackus Kosterevičius samdė Kaune laivus grūdams gabenti.
 
+## Teiginiai
+
+<a id="claim-t-202145"></a>
+- t-001
+  teiginys: "1488 m. Kazimieras Jogailaitis atleido nuo muitų Kaune savo prekybos agentą Minsko miestietį Luką Tereškovičių, o su Gardinu kažkaip susijęs Mackus Kosterevičius samdė Kaune laivus grūdams gabenti."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185492
+
 ## Citatos
 
 - id: c-185492
@@ -55,20 +69,5 @@ canonical_biography: "1488 m. Kazimieras Jogailaitis atleido nuo muitų Kaune sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202145"></a>
-- t-001
-  teiginys: "1488 m. Kazimieras Jogailaitis atleido nuo muitų Kaune savo prekybos agentą Minsko miestietį Luką Tereškovičių, o su Gardinu kažkaip susijęs Mackus Kosterevičius samdė Kaune laivus grūdams gabenti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185492
-

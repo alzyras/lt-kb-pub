@@ -33,6 +33,33 @@ canonical_biography: "Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą
 
 Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į mokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars Romana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė ponas Laurinavičius -. Laurinavičius norėjo pradžiuginti motiną ką tik pražydusiomis gėlėmis, kurias pro karalienės rūmų langą pamatė žydinčias Rasos (Ross) upės pakrantėje; tuo tikslu ji nepastebėta išbėgo iš rūmų.
 
+## Teiginiai
+
+<a id="claim-t-194844"></a>
+- t-001
+  teiginys: "Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į mokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars Romana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė ponas Laurinavičius -."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-177240
+
+<a id="claim-t-197317"></a>
+- t-002
+  teiginys: "Laurinavičius norėjo pradžiuginti motiną ką tik pražydusiomis gėlėmis, kurias pro karalienės rūmų langą pamatė žydinčias Rasos (Ross) upės pakrantėje; tuo tikslu ji nepastebėta išbėgo iš rūmų."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179126
+
 ## Citatos
 
 - id: c-177240
@@ -59,6 +86,8 @@ Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179126
   autorius: "Teodoras Narbutas"
@@ -83,29 +112,5 @@ Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-200714
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
-  citata_originali: |
-    Kartą pavasarį ji norėjo
-    pradžiuginti motiną ką tik pražydusiomis gėlėmis, kurias pro
-    karalienės rūmų langą pamatė žydinčias Rasos (Ross) upės
-    pakrantėje; tuo tikslu ji nepastebėta išbėgo iš rūmų. Vienas
-    gražiausių pavasario žiedų, tarytum augantis prie pat kranto,
-    pasirodė esąs vidury upės; jį lengvai supo tekantis vanduo, pa­
-    dvigubindamas žiedo grožį nuostabių spalvų švytėjimu, lyg tai
-    būtų buvę brangakmeniai. Toje vietoje upė buvo labai sekli,
-    tekėjo per geltoną smėlį. Karalaitė, suviliota žavingos gėlės,
-    nusiavusi raudonas kurpeles, išdrįso įbristi į vandenį. Vos ji
-    pasilenkė skinti tariamojo laimikio, upės dugnas prasivėrė ir
-    įtraukė ją į požemio gelmę - pragarą (Pragaras).
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

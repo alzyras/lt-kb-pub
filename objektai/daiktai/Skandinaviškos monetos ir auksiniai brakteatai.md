@@ -42,6 +42,28 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-189747"></a>
+- t-001
+  teiginys: "T. Volianskis atkreipė T. Narbuto dėmesį į skandinaviškas monetas ir auksinius brakteatus, kuriuos laikė susijusiais su Lietuva."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skandinaviškos monetos ir auksiniai brakteatai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinaviškos monetos ir auksiniai brakteatai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172630
+
 ## Citatos
 
 - id: c-172630
@@ -65,77 +87,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197718
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 66."
-  citata_originali: |
-    T. Vo-
-    lianskis atkreipė T. Narbuto dėmesį į skandinaviškus numiz­
-    matinius paminklus, kurie, jo nuomone, turi nenuginčijamą
-    ryšį su Lietuva. Poznanės kolekcionierius ypač žavėjosi Kara­
-    liškojo Danijos lobyno rinkiniais, kurių dauguma jau buvo pub­
-    likuota. Skandinaviškose monetose bei ten pat saugomuose
-    auksiniuose brakteatuose pavaizduotas figūras bei užrašus
-    T Volianskis ir bandė perskaityti, anot paties T. Narbuto, pa­
-    darydamas tai, ko negalėjo niekas padaryti jau daugiau kaip
-    pusšimtį metų.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-002
-    - t-003
-
-## Teiginiai
-
-<a id="claim-t-216262"></a>
-- t-001
-  teiginys: "T. Volianskis atkreipė T. Narbuto dėmesį į skandinaviškas monetas ir auksinius brakteatus, kuriuos laikė susijusiais su Lietuva."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinaviškos monetos ir auksiniai brakteatai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinaviškos monetos ir auksiniai brakteatai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-197718
-
-<a id="claim-t-216850"></a>
-- t-002
-  teiginys: "Narbuto dėmesį į skandinaviškus numiz matinius paminklus, kurie, jo nuomone, turi nenuginčijamą ryšį su Lietuva. Poznanės kolekcionierius ypač žavėjosi Kara liškojo Danijos lobyno rinkiniais, kurių dauguma jau buvo pub likuota."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197718
-
-<a id="claim-t-219170"></a>
-- t-003
-  teiginys: "Skandinaviškose monetose ir auksiniuose brakteatuose buvo pavaizduotos figūros bei užrašai, kuriuos T. Volianskis bandė perskaityti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197718
-

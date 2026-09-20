@@ -24,6 +24,20 @@ media_all_json: |-
 
 Meldžionys vokyčiai, nuveikę, kaip minavojau, padaugavionis, norėjo dar tolesniai savo valdžią platinti, todėl v.
 
+## Teiginiai
+
+<a id="claim-t-201251"></a>
+- t-001
+  teiginys: "Meldžionys vokyčiai, nuveikę, kaip minavojau, padaugavionis, norėjo dar tolesniai savo valdžią platinti, todėl v."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184601
+
 ## Citatos
 
 - id: c-184601
@@ -47,20 +61,5 @@ Meldžionys vokyčiai, nuveikę, kaip minavojau, padaugavionis, norėjo dar tole
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201251"></a>
-- t-001
-  teiginys: "Meldžionys vokyčiai, nuveikę, kaip minavojau, padaugavionis, norėjo dar tolesniai savo valdžią platinti, todėl v."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184601
-

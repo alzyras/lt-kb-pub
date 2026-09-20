@@ -5,12 +5,12 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-  - 'Lituanistika-3-Kazimiero-Jogailaicio-dvaras'
+  - Lituanistika-3-Kazimiero-Jogailaicio-dvaras
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1408 m.'
-  - '1492 m.'
+  - 1408 m.
+  - 1492 m.
 date_start: '1408'
 date_end: '1492'
 sukurta: ''
@@ -21,29 +21,41 @@ tags:
   - valdovas
   - vyskupas
 amziai:
-  - 'XV'
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '4'
 media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE'
 media_primary_canonical_url: 'https://www.europeana.eu/item/0940429/_nnnXSmV'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'depicts'
-media_primary_json: |-
-  {"mediaId":"m-d60eb9e648b870ab4e6e2c9a","title":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","caption":"Kazimieras Jogailaitis ir Elžbieta Habsburgaitė su dvaro palyda, 1447–1492 m.","originalTitle":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","creator":"#agentOf:nnnXSmV_1","provider":"europeana","providerLabel":"Library of the Wroclaw University","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1875","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/0940429/_nnnXSmV","sourceUrl":"https://www.bibliotekacyfrowa.pl/Content/6401/PDF/document.pdf","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","displayUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:29:22.265247+03:00","reviewedAt":"2026-07-18T14:29:47.040366+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre pavaizduota karališkoji pora; kompozicijoje matyti karūnuotas valdovas, karalienė, dvariškiai, Lenkijos erelis ir herbai.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai identifikuoja Kazimierzą Jagiellończyką, nurodo 1447–1492 m. laikotarpį ir pateikia jo kaip Lenkijos karaliaus bei Lietuvos didžiojo kunigaikščio statusą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Kazimiero Jogailaičio atvaizdas.","isPrimary":0}
-media_direct_json: |-
-  [{"mediaId":"m-4317c3d5ed25c8bd49e21347","title":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","caption":"Kazimiero Jogailaičio antkapinio paminklo figūra Vavelio katedroje Krokuvoje.","originalTitle":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","creator":"Aleksander Narcyz Przezdziecki (1814–1871)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Przeździecki, Aleksander. Wzory sztuki średniowiecznej i z epoki odrodzenia po koniec wieku XVII w dawnej Polsce . Ser. 2. Page 64.","dateDisplay":"1855-1858","dateStart":null,"dateEnd":null,"width":2389,"height":3037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kapavietė","label":"kapavietė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Tomb monument of Casimir Jagiellon in the Wawel Cathedral","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:51.548315+03:00","reviewedAt":"2026-08-11T00:56:55.498139+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma karūnuota viduramžių valdovo figūra su kalaviju, skeptru ir heraldiniais atributais antkapiniame paminkle.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Kazimieras Jogailaitis (Casimir IV Jagiellon), nurodyta antkapio figūra Vavelio katedroje ir 1855–1858 m. data.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja Kazimiero Jogailaičio istorinį antkapinį atvaizdą.","isPrimary":1},{"mediaId":"m-d60eb9e648b870ab4e6e2c9a","title":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","caption":"Kazimieras Jogailaitis ir Elžbieta Habsburgaitė su dvaro palyda, 1447–1492 m.","originalTitle":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","creator":"#agentOf:nnnXSmV_1","provider":"europeana","providerLabel":"Library of the Wroclaw University","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1875","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/0940429/_nnnXSmV","sourceUrl":"https://www.bibliotekacyfrowa.pl/Content/6401/PDF/document.pdf","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","displayUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:29:22.265247+03:00","reviewedAt":"2026-07-18T14:29:47.040366+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre pavaizduota karališkoji pora; kompozicijoje matyti karūnuotas valdovas, karalienė, dvariškiai, Lenkijos erelis ir herbai.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai identifikuoja Kazimierzą Jagiellończyką, nurodo 1447–1492 m. laikotarpį ir pateikia jo kaip Lenkijos karaliaus bei Lietuvos didžiojo kunigaikščio statusą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Kazimiero Jogailaičio atvaizdas.","isPrimary":0}]
-media_contextual_json: |-
-  [{"mediaId":"m-40ecefdb646de21ceeb3e31a","title":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","caption":"Kazimiero Jogailaičio vardu išduotas saugaus elgesio raštas Burgundijos pasiuntinybei į Persiją, 1474 m.","originalTitle":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","creator":"Inlibris.com","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://inlibris.com/item/bn56145/","dateDisplay":"1474","dateStart":null,"dateEnd":null,"width":2400,"height":1753,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg/1920px-Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"diplomatinis-įvykis","label":"diplomatinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"laiškas","label":"laiškas","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Anselm Adornes","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"International relations of Iran","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Latin letters","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Letters of the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Relations of Iran and Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uzun Hassan","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T14:28:36.505818+03:00","reviewedAt":"2026-07-18T14:29:21.180148+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XV a. lotyniškas pergamentinis raštas su valdovo vardu ir didžiąja iniciale.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Kazimierz IV Jagiellon bei 1474 m. išduotą saugaus elgesio raštą.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas tiesiogiai susijęs su Kazimiero Jogailaičio valdovo veiksmu, tačiau pats jo neatvaizduoja.","isPrimary":0},{"mediaId":"m-4e44e5206640d67a8846ec82","title":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","caption":"Kazimiero Jogailaičio antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1470 m.","originalTitle":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","creator":"Seal belong to Casimir IV Jagiellon (the former King of Poland and Grand Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1470","dateStart":null,"dateEnd":null,"width":605,"height":711,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1470 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Poland in nobility heraldry","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media contributed by Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals from Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Polish monarchs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 15th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:33:38.006157+03:00","reviewedAt":"2026-07-18T14:29:21.194417+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas raudono vaško antspaudas su heraldiniu skydu, Lenkijos ereliu ir Lietuvos Vyčiu.","metadataEvidence":"Pavadinimas ir aprašas aiškiai nurodo Seal of Kazimieras Jogailaitis, 1470 m.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai autentiškas su Kazimieru Jogailaičiu susietas valdovo antspaudas; ryšys yra artefaktinis, todėl contextual.","isPrimary":0}]
-media_all_json: |-
-  [{"mediaId":"m-4317c3d5ed25c8bd49e21347","title":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","caption":"Kazimiero Jogailaičio antkapinio paminklo figūra Vavelio katedroje Krokuvoje.","originalTitle":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","creator":"Aleksander Narcyz Przezdziecki (1814–1871)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Przeździecki, Aleksander. Wzory sztuki średniowiecznej i z epoki odrodzenia po koniec wieku XVII w dawnej Polsce . Ser. 2. Page 64.","dateDisplay":"1855-1858","dateStart":null,"dateEnd":null,"width":2389,"height":3037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kapavietė","label":"kapavietė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Tomb monument of Casimir Jagiellon in the Wawel Cathedral","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:51.548315+03:00","reviewedAt":"2026-08-11T00:56:55.498139+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma karūnuota viduramžių valdovo figūra su kalaviju, skeptru ir heraldiniais atributais antkapiniame paminkle.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Kazimieras Jogailaitis (Casimir IV Jagiellon), nurodyta antkapio figūra Vavelio katedroje ir 1855–1858 m. data.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja Kazimiero Jogailaičio istorinį antkapinį atvaizdą.","isPrimary":1},{"mediaId":"m-d60eb9e648b870ab4e6e2c9a","title":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","caption":"Kazimieras Jogailaitis ir Elžbieta Habsburgaitė su dvaro palyda, 1447–1492 m.","originalTitle":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","creator":"#agentOf:nnnXSmV_1","provider":"europeana","providerLabel":"Library of the Wroclaw University","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1875","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/0940429/_nnnXSmV","sourceUrl":"https://www.bibliotekacyfrowa.pl/Content/6401/PDF/document.pdf","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","displayUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:29:22.265247+03:00","reviewedAt":"2026-07-18T14:29:47.040366+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre pavaizduota karališkoji pora; kompozicijoje matyti karūnuotas valdovas, karalienė, dvariškiai, Lenkijos erelis ir herbai.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai identifikuoja Kazimierzą Jagiellończyką, nurodo 1447–1492 m. laikotarpį ir pateikia jo kaip Lenkijos karaliaus bei Lietuvos didžiojo kunigaikščio statusą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Kazimiero Jogailaičio atvaizdas.","isPrimary":0},{"mediaId":"m-40ecefdb646de21ceeb3e31a","title":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","caption":"Kazimiero Jogailaičio vardu išduotas saugaus elgesio raštas Burgundijos pasiuntinybei į Persiją, 1474 m.","originalTitle":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","creator":"Inlibris.com","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://inlibris.com/item/bn56145/","dateDisplay":"1474","dateStart":null,"dateEnd":null,"width":2400,"height":1753,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg/1920px-Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"diplomatinis-įvykis","label":"diplomatinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"laiškas","label":"laiškas","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Anselm Adornes","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"International relations of Iran","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Latin letters","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Letters of the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Relations of Iran and Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uzun Hassan","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T14:28:36.505818+03:00","reviewedAt":"2026-07-18T14:29:21.180148+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XV a. lotyniškas pergamentinis raštas su valdovo vardu ir didžiąja iniciale.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Kazimierz IV Jagiellon bei 1474 m. išduotą saugaus elgesio raštą.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas tiesiogiai susijęs su Kazimiero Jogailaičio valdovo veiksmu, tačiau pats jo neatvaizduoja.","isPrimary":0},{"mediaId":"m-4e44e5206640d67a8846ec82","title":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","caption":"Kazimiero Jogailaičio antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1470 m.","originalTitle":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","creator":"Seal belong to Casimir IV Jagiellon (the former King of Poland and Grand Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1470","dateStart":null,"dateEnd":null,"width":605,"height":711,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1470 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Poland in nobility heraldry","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media contributed by Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals from Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Polish monarchs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 15th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:33:38.006157+03:00","reviewedAt":"2026-07-18T14:29:21.194417+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas raudono vaško antspaudas su heraldiniu skydu, Lenkijos ereliu ir Lietuvos Vyčiu.","metadataEvidence":"Pavadinimas ir aprašas aiškiai nurodo Seal of Kazimieras Jogailaitis, 1470 m.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai autentiškas su Kazimieru Jogailaičiu susietas valdovo antspaudas; ryšys yra artefaktinis, todėl contextual.","isPrimary":0}]
-entity_id: "ent-abc0127202fdff310aa801b0"
-canonical_name: "Kazimieras Jogailaitis (valdovas, XV a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Kazimieras Jogailaitis","Kazimieras Jogailaitis (valdovas, XV a.)"]
+media_primary_directness: direct
+media_primary_relation_type: depicts
+media_primary_json: '{"mediaId":"m-d60eb9e648b870ab4e6e2c9a","title":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","caption":"Kazimieras Jogailaitis ir Elžbieta Habsburgaitė su dvaro palyda, 1447–1492 m.","originalTitle":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","creator":"#agentOf:nnnXSmV_1","provider":"europeana","providerLabel":"Library of the Wroclaw University","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1875","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/0940429/_nnnXSmV","sourceUrl":"https://www.bibliotekacyfrowa.pl/Content/6401/PDF/document.pdf","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","displayUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:29:22.265247+03:00","reviewedAt":"2026-07-18T14:29:47.040366+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre pavaizduota karališkoji pora; kompozicijoje matyti karūnuotas valdovas, karalienė, dvariškiai, Lenkijos erelis ir herbai.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai identifikuoja Kazimierzą Jagiellończyką, nurodo 1447–1492 m. laikotarpį ir pateikia jo kaip Lenkijos karaliaus bei Lietuvos didžiojo kunigaikščio statusą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Kazimiero Jogailaičio atvaizdas.","isPrimary":0}'
+media_direct_json: '[{"mediaId":"m-4317c3d5ed25c8bd49e21347","title":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","caption":"Kazimiero Jogailaičio antkapinio paminklo figūra Vavelio katedroje Krokuvoje.","originalTitle":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","creator":"Aleksander Narcyz Przezdziecki (1814–1871)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Przeździecki, Aleksander. Wzory sztuki średniowiecznej i z epoki odrodzenia po koniec wieku XVII w dawnej Polsce . Ser. 2. Page 64.","dateDisplay":"1855-1858","dateStart":null,"dateEnd":null,"width":2389,"height":3037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kapavietė","label":"kapavietė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Tomb monument of Casimir Jagiellon in the Wawel Cathedral","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:51.548315+03:00","reviewedAt":"2026-08-11T00:56:55.498139+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma karūnuota viduramžių valdovo figūra su kalaviju, skeptru ir heraldiniais atributais antkapiniame paminkle.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Kazimieras Jogailaitis (Casimir IV Jagiellon), nurodyta antkapio figūra Vavelio katedroje ir 1855–1858 m. data.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja Kazimiero Jogailaičio istorinį antkapinį atvaizdą.","isPrimary":1},{"mediaId":"m-d60eb9e648b870ab4e6e2c9a","title":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","caption":"Kazimieras Jogailaitis ir Elžbieta Habsburgaitė su dvaro palyda, 1447–1492 m.","originalTitle":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","creator":"#agentOf:nnnXSmV_1","provider":"europeana","providerLabel":"Library of the Wroclaw University","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1875","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/0940429/_nnnXSmV","sourceUrl":"https://www.bibliotekacyfrowa.pl/Content/6401/PDF/document.pdf","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","displayUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:29:22.265247+03:00","reviewedAt":"2026-07-18T14:29:47.040366+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre pavaizduota karališkoji pora; kompozicijoje matyti karūnuotas valdovas, karalienė, dvariškiai, Lenkijos erelis ir herbai.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai identifikuoja Kazimierzą Jagiellończyką, nurodo 1447–1492 m. laikotarpį ir pateikia jo kaip Lenkijos karaliaus bei Lietuvos didžiojo kunigaikščio statusą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Kazimiero Jogailaičio atvaizdas.","isPrimary":0}]'
+media_contextual_json: '[{"mediaId":"m-40ecefdb646de21ceeb3e31a","title":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","caption":"Kazimiero Jogailaičio vardu išduotas saugaus elgesio raštas Burgundijos pasiuntinybei į Persiją, 1474 m.","originalTitle":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","creator":"Inlibris.com","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://inlibris.com/item/bn56145/","dateDisplay":"1474","dateStart":null,"dateEnd":null,"width":2400,"height":1753,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg/1920px-Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"diplomatinis-įvykis","label":"diplomatinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"laiškas","label":"laiškas","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Anselm Adornes","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"International relations of Iran","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Latin letters","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Letters of the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Relations of Iran and Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uzun Hassan","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T14:28:36.505818+03:00","reviewedAt":"2026-07-18T14:29:21.180148+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XV a. lotyniškas pergamentinis raštas su valdovo vardu ir didžiąja iniciale.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Kazimierz IV Jagiellon bei 1474 m. išduotą saugaus elgesio raštą.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas tiesiogiai susijęs su Kazimiero Jogailaičio valdovo veiksmu, tačiau pats jo neatvaizduoja.","isPrimary":0},{"mediaId":"m-4e44e5206640d67a8846ec82","title":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","caption":"Kazimiero Jogailaičio antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1470 m.","originalTitle":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","creator":"Seal belong to Casimir IV Jagiellon (the former King of Poland and Grand Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1470","dateStart":null,"dateEnd":null,"width":605,"height":711,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1470 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Poland in nobility heraldry","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media contributed by Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals from Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Polish monarchs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 15th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:33:38.006157+03:00","reviewedAt":"2026-07-18T14:29:21.194417+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas raudono vaško antspaudas su heraldiniu skydu, Lenkijos ereliu ir Lietuvos Vyčiu.","metadataEvidence":"Pavadinimas ir aprašas aiškiai nurodo Seal of Kazimieras Jogailaitis, 1470 m.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai autentiškas su Kazimieru Jogailaičiu susietas valdovo antspaudas; ryšys yra artefaktinis, todėl contextual.","isPrimary":0}]'
+media_all_json: '[{"mediaId":"m-4317c3d5ed25c8bd49e21347","title":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","caption":"Kazimiero Jogailaičio antkapinio paminklo figūra Vavelio katedroje Krokuvoje.","originalTitle":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","creator":"Aleksander Narcyz Przezdziecki (1814–1871)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Przeździecki, Aleksander. Wzory sztuki średniowiecznej i z epoki odrodzenia po koniec wieku XVII w dawnej Polsce . Ser. 2. Page 64.","dateDisplay":"1855-1858","dateStart":null,"dateEnd":null,"width":2389,"height":3037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kapavietė","label":"kapavietė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Tomb monument of Casimir Jagiellon in the Wawel Cathedral","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:51.548315+03:00","reviewedAt":"2026-08-11T00:56:55.498139+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma karūnuota viduramžių valdovo figūra su kalaviju, skeptru ir heraldiniais atributais antkapiniame paminkle.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Kazimieras Jogailaitis (Casimir IV Jagiellon), nurodyta antkapio figūra Vavelio katedroje ir 1855–1858 m. data.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja Kazimiero Jogailaičio istorinį antkapinį atvaizdą.","isPrimary":1},{"mediaId":"m-d60eb9e648b870ab4e6e2c9a","title":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","caption":"Kazimieras Jogailaitis ir Elžbieta Habsburgaitė su dvaro palyda, 1447–1492 m.","originalTitle":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","creator":"#agentOf:nnnXSmV_1","provider":"europeana","providerLabel":"Library of the Wroclaw University","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1875","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/0940429/_nnnXSmV","sourceUrl":"https://www.bibliotekacyfrowa.pl/Content/6401/PDF/document.pdf","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","displayUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:29:22.265247+03:00","reviewedAt":"2026-07-18T14:29:47.040366+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre pavaizduota karališkoji pora; kompozicijoje matyti karūnuotas valdovas, karalienė, dvariškiai, Lenkijos erelis ir herbai.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai identifikuoja Kazimierzą Jagiellończyką, nurodo 1447–1492 m. laikotarpį ir pateikia jo kaip Lenkijos karaliaus bei Lietuvos didžiojo kunigaikščio statusą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Kazimiero Jogailaičio atvaizdas.","isPrimary":0},{"mediaId":"m-40ecefdb646de21ceeb3e31a","title":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","caption":"Kazimiero Jogailaičio vardu išduotas saugaus elgesio raštas Burgundijos pasiuntinybei į Persiją, 1474 m.","originalTitle":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","creator":"Inlibris.com","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://inlibris.com/item/bn56145/","dateDisplay":"1474","dateStart":null,"dateEnd":null,"width":2400,"height":1753,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg/1920px-Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"diplomatinis-įvykis","label":"diplomatinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"laiškas","label":"laiškas","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Anselm Adornes","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"International relations of Iran","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Latin letters","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Letters of the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Relations of Iran and Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uzun Hassan","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T14:28:36.505818+03:00","reviewedAt":"2026-07-18T14:29:21.180148+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XV a. lotyniškas pergamentinis raštas su valdovo vardu ir didžiąja iniciale.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Kazimierz IV Jagiellon bei 1474 m. išduotą saugaus elgesio raštą.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas tiesiogiai susijęs su Kazimiero Jogailaičio valdovo veiksmu, tačiau pats jo neatvaizduoja.","isPrimary":0},{"mediaId":"m-4e44e5206640d67a8846ec82","title":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","caption":"Kazimiero Jogailaičio antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1470 m.","originalTitle":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","creator":"Seal belong to Casimir IV Jagiellon (the former King of Poland and Grand Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1470","dateStart":null,"dateEnd":null,"width":605,"height":711,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1470 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Poland in nobility heraldry","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media contributed by Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals from Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Polish monarchs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 15th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:33:38.006157+03:00","reviewedAt":"2026-07-18T14:29:21.194417+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas raudono vaško antspaudas su heraldiniu skydu, Lenkijos ereliu ir Lietuvos Vyčiu.","metadataEvidence":"Pavadinimas ir aprašas aiškiai nurodo Seal of Kazimieras Jogailaitis, 1470 m.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai autentiškas su Kazimieru Jogailaičiu susietas valdovo antspaudas; ryšys yra artefaktinis, todėl contextual.","isPrimary":0}]'
+entity_id: ent-abc0127202fdff310aa801b0
+canonical_name: 'Kazimieras Jogailaitis (valdovas, XV a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Kazimieras Jogailaitis
+  - 'Kazimieras Jogailaitis (valdovas, XV a.)'
 sameAs: []
-canonical_biography: "Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus miestiečius nuo muito visoje Lietuvoje. Kazimiero karaliavimas Lenkijoje ir jo santykiai su. Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką."
+canonical_biography: 'Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus miestiečius nuo muito visoje Lietuvoje. Kazimiero karaliavimas Lenkijoje ir jo santykiai su. Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.'
+external_sources_json: '[{"title":"Kazimieras Jogailaitis","url":"https://lt.wikipedia.org/wiki/Kazimieras_Jogailaitis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Kazimieras Jogailaitis","url":"https://www.vle.lt/straipsnis/kazimieras-jogailaitis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T00:10:25+00:00","source_checked_at":"2026-09-19T00:10:25+00:00","counts":{"relations":2,"gallery":4,"sources":10},"featured_claim_ids":["t-198148","t-201533","t-202439","t-204348","t-184750","t-203344","t-196514"],"featured_claims":[{"claim_id":"t-198148","text":"Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-179842"]},{"claim_id":"t-201533","text":"Teisėjas, narpliojantis šituos Kauno ir Dancigo ginčus, buvo valdovas Kazimieras Jogailaitis.","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","evidence_ids":["c-184880"]},{"claim_id":"t-202439","text":"Pirmaisiais karaliavimo metais Kazimieras Jogailaitis didžiąsias šventes ir medžioklės sezonus leisdavo Didžiojoje Kunigaikštystėje, tačiau prasidėjus Trylikos metų karui daugiau dėmesio skyrė Karūnos reikalams.","source":"darbas/sources/Lituanistika-3-Kazimiero-Jogailaicio-dvaras.md","evidence_ids":["c-185786"]},{"claim_id":"t-204348","text":"Kazimiero Jogailaičio ilgo valdymo metu brendusios valdymo sistemos permainos, susijusios su valdovo rezidavimo Lietuvoje stygiumi ir institucionalizacijos pažanga, išryškėjo Aleksandro, ypač Žygimanto Senojo, valdymo metais.","source":"darbas/sources/Lituanistika-5702-Bajoru-suvažiavimai.md","evidence_ids":["c-186952"]},{"claim_id":"t-184750","text":"Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-168111","c-178741","c-178745"]},{"claim_id":"t-203344","text":"1454 m. prieš Ordino valdžią sukilę miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-179823"]},{"claim_id":"t-196514","text":"Smolensko bajorai, nenorėdami pripažinti Andrejaus valdžios, išsiuntė žygūnus ir paprašė Kazimiero Jogailaičio kariuomenės.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-178741"]}],"featured_quote":{"text":"Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė Lenkų karaliui Kazimierui.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","claim_id":"t-82508","evidence_id":"c-78986","origin":"internal"},"wiki":{"status":"published","source":{"title":"Kazimieras Jogailaitis","url":"https://lt.wikipedia.org/wiki/Kazimieras_Jogailaitis","publisher":"Vikipedija","language":"lt","article_id":"47964","revision_id":"7858713","published_at":"2026-06-16T10:03:17Z","version_pk":"","content_hash":"8611200e7058ca80f812d73a58be62a6914c83376251a31a336e428c9267ec38","retrieved_at":"2026-09-19T00:06:15+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Kazimieras_Jogailaitis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"47964"}},"intro":"Kazimieras IV Jogailaitis (lenk. Kazimierz IV Jagiellończyk; 1427 m. lapkričio 30 d. Krokuvoje – 1492 m. birželio 7 d. Gardine), Lietuvos didysis kunigaikštis Kazimieras Jogailaitis (1440–1492 m.), Lenkijos karalius Kazimieras IV Jogailaitis (1447-1492 m.). Kazimieras Jogailaitis buvo Jogailos sūnus ir jaunesnysis Vladislovo III Varniečio brolis. Lenkijos sostą užėmė po brolio mirties ir metus laiko trukusio tarpuvaldžio.","original_intro":"","translation_status":"native","infobox":[{"code":"positions","label":"Pareigos","value":"Lenkijos karalius ir Lietuvos didysis kunigaikštis; Lietuvos didysis kunigaikštis; Lenkijos karalius","source":"wikipedia_infobox"},{"code":"birth_date","label":"Gimė","value":"~1427 m. lapkričio 30 d.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Krokuva","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1492 m. lapkričio 7 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Gardinas","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Vavelio katedra","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Jogaila; Sofija Alšėniškė","source":"wikipedia_infobox"},{"code":"spouse","label":"Sutuoktiniai","value":"Elżbieta Habsburgaitė","source":"wikipedia_infobox"},{"code":"children","label":"Vaikai","value":"Aleksandras · Šv. Kazimieras · Jonas Albrechtas · Zigmantas Senasis · Vladislovas II · Fridrikas · Jadvyga Bavarė · Sofija Jogailaitė · Ona Pamario kunigaikštienė · Barbora Saksė · Elžbieta Leignico kunigaikštienė","source":"wikipedia_infobox"},{"code":"reign","label":"Valdymas","value":"1440 m. – 1492 m.; 1447 m. – 1492 m.","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Kazimieras Jogailaitis","url":"https://lt.wikipedia.org/wiki/Kazimieras_Jogailaitis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Kazimieras Jogailaitis","url":"https://www.vle.lt/straipsnis/kazimieras-jogailaitis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kazimieras_Jogailaitis","https://www.vle.lt/straipsnis/kazimieras-jogailaitis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"d58d354c3af964b8837c6860","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"1440 m. išrinktas didžiuoju Lietuvos kunigaikščiu; vėliau buvo Lenkijos karalius.","context":"A. Šapokos redaguotoje „Lietuvos istorijoje“ nurodoma, kad Kazimieras 1440 m. išrinktas didžiuoju Lietuvos kunigaikščiu; kituose šaltiniuose jis vadinamas karaliumi.","support_ids":["t-82514","c-78978","t-184750","c-168111"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82514","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-184750","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-78978","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"1. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). 177"},{"kind":"evidence","evidence_id":"c-168111","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Lenkams prieš­ taraujant, lietuviai nė nemanė garsinti savo sumanymo, bijodami tuo būdu pakenkti kunigaikščiui ir valstybei. Štai todėl jie sumanė pasinaudoti lenkų lengvapėdišku­ mu, nors pastarieji tikėjosi iš jų visai ko kito: lietuvių N o rs len k a i p riešin a ­ si, p a k e lia m a s V iln iu ­ je L ietu vo s d id žiu o ju k u n igaikščiu 470 ## Puslapis 469 luomai nulydėjo Kazimierą į šv. Stanislovo katedrą, ir čia maršalas jį paskelbė Lietuvos didžiuoju kunigaikš­ čiu, o Vilniaus vyskupas su įprastinėmis apeigomis pa­ kėlė į sostą."}],"status":"published","conflict_status":"clear"},{"trait_id":"3d23f91098e77cb4daa6d896","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Pasak Alberto Vijūko-Kojelavičiaus, Kazimieras mėgo ramybę ir vengė karo su maskvėnais.","context":"Šaltinio autoriaus vertinimas, aprašant Kazimiero elgesį susidūrus su maskvėnų grėsme; XV a. valdant Kazimierui.","support_ids":["t-184753","c-168114"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184753","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168114","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Tverė turėjo labai galingas karo jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­ ties tūkstančių raitelių. Lietuviams tikrai buvo pavo­ jinga maskvėnų sėkmė, toks smarkus jų augimas kai­ mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi seniai mėgdamas ramybę, po senovei vengė karo. To­ dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­ bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai jį pagerbęs, bet nieko doro nepažadėjęs."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c65645efe2345b422541c1bf","canonical_code":"person.habits","label":"Įpročiai","group":"Asmens bruožai","value":"Mėgo medžioklę.","context":"Bychovco kronika taip aprašo karalaičio Kazimiero reakciją į pasakojimus apie Lietuvos medžiokles; pasakojimo laikas – iki jo išvykimo į Lietuvą.","support_ids":["t-210500","c-194310"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210500","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194310","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"O lenkų ponai neno­ rėjo išleisti jo iš savo žemės, kadangi jų karalius, Jo­ gailos sūnus Vladislovas, kuris valdė Vengrijos ir Len­ kijos karalystes, tą vasarą per mūšį su turkais be žinios dingo karo lauke, ir dar nebuvo tikrai sužinoję, ar gy­ vas, ar ne l3 , ir todėl nenorėjo karalaičio išleisti. Lie­ tuvos pasiuntiniai ėmė pasakoti apie Lietuvos kraštą, apie Lietuvos taurų, stumbrų ir kitų įvairių žvėrių me­ džioklės malonumus. Ir karalaičiui Kazimierui labai pa­ tiko, nes jis labai mėgo medžioklę."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e7a7cb11f63fabb73dd673cf","canonical_code":"person.habits","label":"Įpročiai","group":"Asmens bruožai","value":"Pirmaisiais karaliavimo metais didžiąsias šventes ir medžioklės sezonus leisdavo Didžiojoje Kunigaikštystėje.","context":"Lituanistikos šaltinis aprašo laikotarpį iki Trylikos metų karo su Vokiečių ordinu pradžios.","support_ids":["t-202439","c-185786"],"source_refs":[{"kind":"internal_claim","claim_id":"t-202439","source":"darbas/sources/Lituanistika-3-Kazimiero-Jogailaicio-dvaras.md"},{"kind":"evidence","evidence_id":"c-185786","source":"darbas/sources/Lituanistika-3-Kazimiero-Jogailaicio-dvaras.md","quote":"Valdovas turėjo pasirodyti savo valdiniams, išklausyti jų skundus, teisti už jų nusikaltimus, spręsti jų ginčus, pelnyti jų palankumą. Kazimieras pirmaisiais savo karaliavimo metais, iki Trylikos metų karo su Vokiečių ordinu pradžios, didžiąsias šventes (taip pat ir medžioklės sezonus) leisdavo savo gimtinėje - Didžiojoje Kuni­ gaikštystėje, tačiau vėliau jam teko daugiau dėmesio skirti Karūnos reikalams, nors jis niekada nepamiršo LDK politikos. 1469 m., praleidęs Kalėdų šventes Gardine bei apsilankęs Vilniuje ir Trakuose, karalius kartu su karaliene ir „vos ne visa Lietuvos diduomene\" apvažiavo Polocką, Vitebską ir Smolenską, pirmą sykį po beveik šešioli­ kos metų apsilankė šiose…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"76f580d0da01f740a078b0cb","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Buvo apibūdinamas kaip mandagiai ir nuoširdžiai pagerbęs pabėgėlį, nors nieko konkretaus jam nepažadėjo.","context":"Alberto Vijūko-Kojelavičiaus pasakojimas apie Kazimiero elgesį, kai jis, teisindamasis paliaubomis su Vasiljevičiumi, atleido pabėgėlį.","support_ids":["t-184753","c-168114"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184753","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168114","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Tverė turėjo labai galingas karo jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­ ties tūkstančių raitelių. Lietuviams tikrai buvo pavo­ jinga maskvėnų sėkmė, toks smarkus jų augimas kai­ mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi seniai mėgdamas ramybę, po senovei vengė karo. To­ dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­ bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai jį pagerbęs, bet nieko doro nepažadėjęs."}],"status":"published","conflict_status":"clear"},{"trait_id":"11d163c520c981df68cf90e8","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Nagrinėjo ir sprendė Kauno bei Dancigo ginčus kartu su Lietuvos ponų taryba.","context":"Zigmantas Kiaupa aprašo Kazimiero, kaip valdovo ir teisėjo, veiklą paskutiniais jo valdymo dešimtmečiais; konkretūs sprendimai minimi 1481, 1483, 1488 ir 1492 m.","support_ids":["t-201533","c-184880"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201533","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184880","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Teisėjas, narpliojantis šituos Kauno ir Dancigo ginčus, buvo valdovas Kazimieras Jogailaitis. Per paskutinius valdymo dešimtmečius jam teko ne kartą nagrinėti abiejų miestų skundus, jų įrodymus, pageidavimus. 1468 m. Kazimieras Jogailaitis paskyrė susiėjimą Trakuose, apie 1470 m. suteikė nuostatus Hanzos kontorai Kaune, 1480 m. Kaunui nurodė laikytis savo teisės, 1481 m., paskui kelis kartus 1483, 1488 ir 1492 m., Kauno ir Dancigo ginčą sprendė kartu su Lietuvos ponų taryba."}],"status":"published","conflict_status":"clear"},{"trait_id":"f9d331e6cd992f5dc3bb8b6e","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Pirmenybę teikė Lietuvai ir nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.","context":"Michał Baliński taip apibūdina Kazimiero pasirinkimą po jo pašaukimo į Lenkijos sostą; jis dažniausiai gyveno Trakuose arba Vilniuje.","support_ids":["t-198136","c-179836"],"source_refs":[{"kind":"internal_claim","claim_id":"t-198136","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-179836","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"tas pats Žy­ gimantas Vilniaus kapitulai padova­ nojo Vainelgų dvarą. 223 ## Puslapis 240 VILNIAUS MIESTO ISTORIJA// TOMAS Žygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­ tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­ gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­ tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4b8c3934d71816cf7c3e46c6","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero laikai (1440–1492 m.) vadinami pereinamuoju laikotarpiu.","context":"Tai šaltinio autoriaus istorinis laikotarpio vertinimas, o ne tiesioginis Kazimiero asmeninės savybės aprašymas.","support_ids":["t-82507","c-78984"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82507","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-78984","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Kazimieras Jogailaitis buvo Lietuvos didysis kunigaikštis ir valdovas, reikšmingai veikęs Lietuvos Didžiosios Kunigaikštystės politinį bei miestų gyvenimą. Vilniaus šv. Stanislovo katedroje maršalas jį paskelbė Lietuvos didžiuoju kunigaikščiu, o Vilniaus vyskupas pagal įprastas apeigas pakėlė į sostą. Nors buvo pašauktas į Lenkijos sostą, Kazimieras nepanoro Lietuvos valdyti per vietininką ir dažnai gyveno Trakuose arba Vilniuje, o pirmaisiais karaliavimo metais didžiąsias šventes bei medžioklės sezonus leisdavo Didžiojoje Kunigaikštystėje. Jo reikšmę miestams rodo 1441 metais Brastoje išleista privilegija, atnaujinusi Vilniui Magdeburgo teises, nustačiusi prekymečius ir savaitinius turgus, taip pat privilegijos, įtvirtinusios Kauno teismų veikimą pagal Magdeburgo teisę. Kazimieras mirė 1492 metų birželio 7 dieną, susirgęs kelyje iš Vilniaus į Trakus.","sentences":[{"sentence_id":"s1","text":"Kazimieras Jogailaitis buvo Lietuvos didysis kunigaikštis ir valdovas, reikšmingai veikęs Lietuvos Didžiosios Kunigaikštystės politinį bei miestų gyvenimą.","support_ids":["t-184750","c-168111","t-198136","c-179836"]},{"sentence_id":"s2","text":"Vilniaus šv. Stanislovo katedroje maršalas jį paskelbė Lietuvos didžiuoju kunigaikščiu, o Vilniaus vyskupas pagal įprastas apeigas pakėlė į sostą.","support_ids":["t-184750","c-168111"]},{"sentence_id":"s3","text":"Nors buvo pašauktas į Lenkijos sostą, Kazimieras nepanoro Lietuvos valdyti per vietininką ir dažnai gyveno Trakuose arba Vilniuje, o pirmaisiais karaliavimo metais didžiąsias šventes bei medžioklės sezonus leisdavo Didžiojoje Kunigaikštystėje.","support_ids":["t-198136","c-179836","t-202439","c-185786"]},{"sentence_id":"s4","text":"Jo reikšmę miestams rodo 1441 metais Brastoje išleista privilegija, atnaujinusi Vilniui Magdeburgo teises, nustačiusi prekymečius ir savaitinius turgus, taip pat privilegijos, įtvirtinusios Kauno teismų veikimą pagal Magdeburgo teisę.","support_ids":["t-198148","c-179842","t-201529","c-184876"]},{"sentence_id":"s5","text":"Kazimieras mirė 1492 metų birželio 7 dieną, susirgęs kelyje iš Vilniaus į Trakus.","support_ids":["t-198145","c-179825"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Nurodyti Kazimiero Jogailaičio vaidmuo ir reikšmė pagrįsti pateiktais šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai patvirtina paskelbimą didžiuoju kunigaikščiu ir pakėlimą į sostą Vilniaus katedroje."},{"sentence_id":"s3","supported":true,"reason":"Visi teiginio faktai tiesiogiai paremti šaltiniais: pašaukimas į Lenkijos sostą, atsisakymas valdyti per vietininką, gyvenimas Trakuose ar Vilniuje ir švenčių bei medžioklės sezonų leidimas LDK."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina 1441 m. Brastoje išleistą Vilniaus privilegiją ir Kauno teismų veikimą pagal Magdeburgo teisę."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo mirties datą ir ligą kelyje iš Vilniaus į Trakus."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-184750","c-168111","t-198136","c-179836"]},{"sentence_id":"s2","supported":true,"support_ids":["t-184750","c-168111"]},{"sentence_id":"s3","supported":true,"support_ids":["t-198136","c-179836","t-202439","c-185786"]},{"sentence_id":"s4","supported":true,"support_ids":["t-198148","c-179842","t-201529","c-184876"]},{"sentence_id":"s5","supported":true,"support_ids":["t-198145","c-179825"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-4317c3d5ed25c8bd49e21347","reason":"visual_verified_identity_primary","identity_verified":true,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-d60eb9e648b870ab4e6e2c9a","relation_type":"depicts"},{"media_id":"m-40ecefdb646de21ceeb3e31a","relation_type":"event_documentation_of"},{"media_id":"m-4e44e5206640d67a8846ec82","relation_type":"seal_of"}],"media_verification":{"status":"verified","primary_media_id":"m-4317c3d5ed25c8bd49e21347","candidate_count":4,"visual_verified_count":4,"identity_verified_count":2,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja Kazimiero Jogailaičio istorinį antkapinį atvaizdą.","visual_evidence":"Matoma karūnuota viduramžių valdovo figūra su kalaviju, skeptru ir heraldiniais atributais antkapiniame paminkle.","metadata_evidence":"Pavadinime ir apraše tiesiogiai įvardytas Kazimieras Jogailaitis (Casimir IV Jagiellon), nurodyta antkapio figūra Vavelio katedroje ir 1855–1858 m. data.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Trakai","claim_id":"t-180609","confidence":0.82},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Smolenskas","claim_id":"t-184751","confidence":0.94}],"timeline":[{"date":"1432 m.","label":"1432 m.","claimId":"t-201529"},{"date":"1440 m.","label":"Kazimieras Jogailaitis 1440 m.","claimId":"t-82514"},{"date":"1440 m.","label":"Kazimieras Jogailaitis 1440 m.","claimId":"t-198151"},{"date":"1443 m.","label":"1443 m.","claimId":"t-201530"},{"date":"1454 m.","label":"1454 m.","claimId":"t-82508"},{"date":"1454 m.","label":"1454 m.","claimId":"t-203344"},{"date":"1463 m.","label":"Šį dovanoj imą 1463 m.","claimId":"t-201534"},{"date":"1488 m.","label":"1488 m.","claimId":"t-201532"}],"support_disclosure":{"claims":38,"sources":8}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: eab0db14938b15d8
+object_page_generated_at: '2026-09-19T00:10:25+00:00'
+object_page_source_checked_at: '2026-09-19T00:10:25+00:00'
+object_page_content_state: content
+object_page_claim_count: '38'
+object_page_source_count: '8'
+object_page_seo_description: 'Kazimieras Jogailaitis (valdovas, XV a.): Kazimieras Jogailaitis buvo Lietuvos didysis kunigaikštis ir valdovas, reikšmingai veikęs Lietuvos Didžiosios…'
+object_page_seo_input_hash: 03e08f921dc4d0c10413a7bab19f52cb1b07edc337d40b33a43ca11eaa823fc7
+object_page_seo_generated_at: '2026-09-19T00:10:25+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kazimieras Jogailaitis (valdovas, XV a.)
 
@@ -52,6 +64,294 @@ canonical_biography: "Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikš
 Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus miestiečius nuo muito visoje Lietuvoje. Kazimiero karaliavimas Lenkijoje ir jo santykiai su. Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
 
 ## Teiginiai
+
+<a id="claim-t-82505"></a>
+- t-001
+  teiginys: "Kazimiero karaliavimas Lenkijoje ir jo santykiai su."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1447 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-78987
+
+<a id="claim-t-82507"></a>
+- t-002
+  teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1440-1492; įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata yra turinio antraštė ir vertinimas, todėl tinka atribucinis perrašymas."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-78984
+
+<a id="claim-t-82508"></a>
+- t-003
+  teiginys: "1454 m. prieš Ordino valdžią sukilę miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui Jogailaičiui."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1454 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginį verta sutrumpinti ir aiškiau susieti su Kazimieru Jogailaičiu."
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-78986
+
+<a id="claim-t-82513"></a>
+- t-004
+  teiginys: "Nuo Kazimiero Jogailaičio Lietuvos valdovais buvo renkami Jogailos palikuonys, todėl jo šeima jautėsi turinti sosto paveldėjimo teisių."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-78979
+
+<a id="claim-t-82514"></a>
+- t-005
+  teiginys: "Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1440 m.; įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Antraštės fragmentą reikia paversti pilnu faktiniu sakiniu."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-78978
+
+<a id="claim-t-184749"></a>
+- t-006
+  teiginys: "Kazimieras Jogailaitis priėmė po kojų puolusį prašytoją, pažadėjo jam malonę ir leido laisvai toliau žygiuoti."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Kazimieras patraukė į Vilnių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-168110
+
+<a id="claim-t-184750"></a>
+- t-007
+  teiginys: "Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-168111
+    - c-178741
+    - c-178745
+
+<a id="claim-t-184751"></a>
+- t-008
+  teiginys: "Kazimieras Jogailaitis, užėmęs Smolensko pilį, paliko joje vietininku Andrių Sakavičių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Smolenskas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Kazimieras Jogailaitis užėmė Smolensko pilį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kazimieras Jogailaitis užėmė Smolenskas (0.94)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-168112
+
+<a id="claim-t-184752"></a>
+- t-009
+  teiginys: "Kazimieras Jogailaitis skubiai patraukė į Severską, atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Severskas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Severskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Kazimieras Jogailaitis patraukė į Severską."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-168113
+
+<a id="claim-t-184753"></a>
+- t-010
+  teiginys: "Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-168114
+
+<a id="claim-t-184754"></a>
+- t-011
+  teiginys: "Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai apibendrina citatoje nurodytus Kazimiero veiksmus."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-168115
+
+<a id="claim-t-193935"></a>
+- t-012
+  teiginys: "Lietuvos metraštis pasakoja, kad karalaičiui Kazimierui patiko pasakojimai apie Lietuvos medžiokles, nes jis mėgo medžioti."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-176560
+    - c-179830
+
+<a id="claim-t-196513"></a>
+- t-013
+  teiginys: "Breste Kazimierą Jogailaitį pasitikę Lietuvos didikų giminių atstovai rodė jam džiaugsmą, pagarbą ir palankumą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168110
+
+<a id="claim-t-196514"></a>
+- t-014
+  teiginys: "Smolensko bajorai, nenorėdami pripažinti Andrejaus valdžios, išsiuntė žygūnus ir paprašė Kazimiero Jogailaičio kariuomenės."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178741
+
+<a id="claim-t-196515"></a>
+- t-015
+  teiginys: "Kviečiamas į Parčevo seimą, Kazimieras Jogailaitis pasakė negalįs patogiai ten vykti ir pažadėjo lenkų pasiuntinių laukti Breste."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178742
+
+<a id="claim-t-196516"></a>
+- t-016
+  teiginys: "Per krikštą kūdikiui buvo suteiktas Kazimiero vardas."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-178743
+    - c-185999
 
 <a id="claim-t-196518"></a>
 - t-017
@@ -65,6 +365,165 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178745
+
+<a id="claim-t-196839"></a>
+- t-018
+  teiginys: "Lietuvos metraštis Kazimierą vadina didžiuoju karaliumi, kurio valia Lenkijos ir Lietuvos didikai suvažiavo į Parčevą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-178936
+    - c-179845
+
+<a id="claim-t-198131"></a>
+- t-019
+  teiginys: "Kazimieras su sūnumis A lbertu ir Aleksandru išvyko iš Kro kuvos 1485.V.18."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179826
+
+<a id="claim-t-198136"></a>
+- t-020
+  teiginys: "Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatos faktą apie Kazimiero Jogailaičio valdymo pasirinkimą."
+  susije_objektai: "llm_object: Trakai; llm_object: Vilnius; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lionas; mentioned_place: Trakai; mentioned_place: Vilnius"
+  semantiniai_rysiai: "[[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] gyveno Trakai; [[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] gyveno Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1436 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktą apie Kazimiero Jogailaičio valdymo pasirinkimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-179836
+
+<a id="claim-t-198141"></a>
+- t-021
+  teiginys: "Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus miestiečius nuo muito visoje Lietuvoje."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatą."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-179835
+
+<a id="claim-t-198145"></a>
+- t-022
+  teiginys: "Kazimieras Jogailaitis mirė 1492 metų birželio 7 dieną, susirgęs kelyje iš Vilniaus į Trakus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys tiksliai nurodo Kazimiero Jogailaičio mirties datą ir aplinkybes."
+  susije_objektai: "llm_object: Trakai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vengrija"
+  semantiniai_rysiai: "[[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] keliavo į Trakai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179825
+
+<a id="claim-t-198148"></a>
+- t-023
+  teiginys: "Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys aiškiai nusako 1441 m. privilegijos poveikį Vilniui."
+  susije_objektai: "mentioned_place: Brasta; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-179842
+
+<a id="claim-t-201529"></a>
+- t-024
+  teiginys: "1432 m. Žygimanto Kęstutaičio, 1440 ir 1463 m. Kazimiero Jogailaičio privilegijose nurodoma, kad miestiečiai privalo paklusti tarėjų ir vaito teismams, kad taryba ir vaitas turi teisti pagal Magdeburgo teisės knygas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184876
+
+<a id="claim-t-201530"></a>
+- t-025
+  teiginys: "1443 m. Kazimieras Jogailaitis išdavė Vilniaus miestiečiams raštą, kuriame nurodė savo vietiniams pareigūnams - vietininkams ir tijūnams - bei bajorams netrukdyti vilniečių prekybos laivams laisvai plaukti Nerimi iki Kauno ir atgal."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184877
+
+<a id="claim-t-201531"></a>
+- t-026
+  teiginys: "Kazimieras skundėsi, kad Dancigas nenori leisti parduoti jo grūdų kitų kraštų pirkliams, ir reikalavo užtikrinti jų pardavimą Flandrijos pirkliams."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184878
+
+<a id="claim-t-201532"></a>
+- t-027
+  teiginys: "1488 m. Kazimieras Jogailaitis atleido nuo muitų Kaune savo prekybos agentą Minsko miestietį Luką Tereškovičių, o su Gardinu kažkaip susijęs Mackus Kosterevičius samdė Kaune laivus grūdams gabenti."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184879
+
+<a id="claim-t-201533"></a>
+- t-028
+  teiginys: "Teisėjas, narpliojantis šituos Kauno ir Dancigo ginčus, buvo valdovas Kazimieras Jogailaitis."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184880
+
+<a id="claim-t-201534"></a>
+- t-029
+  teiginys: "Šį dovanoj imą 1463 m. privilegijoje Kaunui patvirtino Kazimieras Jogailaitis."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184881
 
 <a id="claim-t-202439"></a>
 - t-030
@@ -85,399 +544,24 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   pagrindžia:
     - c-185786
 
-<a id="claim-t-210492"></a>
-- t-210492
-  teiginys: "Lietuvos metraštis Kazimierą vadina didžiuoju karaliumi, kurio valia Lenkijos ir Lietuvos didikai suvažiavo į Parčevą."
-  atnaujinta: "2026-09-12 20:05"
+<a id="claim-t-203265"></a>
+- t-031
+  teiginys: "Alberto Vijūko-Kojelavičiaus „Lietuvos istorijoje“ teigiama, kad karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Valdovo titulas paliktas su privaloma šaltinio atribucija. Sąmoningai nepridėtas vėlesnis pasakojimas apie lenkų didikų ketinimus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-194274
-
-<a id="claim-t-82505"></a>
-- t-82505
-  teiginys: "Kazimiero karaliavimas Lenkijoje ir jo santykiai su."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1447 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-78987
-    - c-179846
-
-<a id="claim-t-82507"></a>
-- t-82507
-  teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1440-1492; įvykio data: 1492 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata yra turinio antraštė ir vertinimas, todėl tinka atribucinis perrašymas."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-179841
-    - c-78984
-
-<a id="claim-t-82508"></a>
-- t-82508
-  teiginys: "1454 m. prieš Ordino valdžią sukilę miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui Jogailaičiui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1454 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginį verta sutrumpinti ir aiškiau susieti su Kazimieru Jogailaičiu."
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-78986
-    - c-179823
-
-<a id="claim-t-82512"></a>
-- t-82512
-  teiginys: "Kazimieras Jogailaitis turėjo 6 sūnus ir 5 dukteris."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-78983
-    - c-179831
-
-<a id="claim-t-82513"></a>
-- t-82513
-  teiginys: "Nuo Kazimiero Jogailaičio Lietuvos valdovais buvo renkami Jogailos palikuonys, todėl jo šeima jautėsi turinti sosto paveldėjimo teisių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-78979
-    - c-179834
-
-<a id="claim-t-82514"></a>
-- t-82514
-  teiginys: "Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1440 m.; įvykio data: 1492 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Antraštės fragmentą reikia paversti pilnu faktiniu sakiniu."
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-78978
-    - c-179838
-
-<a id="claim-t-184750"></a>
-- t-184750
-  teiginys: "Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  sudarymo_pagrindimas: "Citata remia Kazimiero laikyseną ir paliaubų motyvą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Tverė"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-168111
-    - c-178741
-    - c-178745
-
-<a id="claim-t-184751"></a>
-- t-184751
-  teiginys: "Kazimieras Jogailaitis, užėmęs Smolensko pilį, paliko joje vietininku Andrių Sakavičių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "uzeme -> Smolenskas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Kazimieras Jogailaitis užėmė Smolensko pilį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Kazimieras Jogailaitis užėmė Smolenskas (0.94)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-168112
-
-<a id="claim-t-184753"></a>
-- t-184753
-  teiginys: "Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-168114
-    - c-168115
-
-<a id="claim-t-184754"></a>
-- t-184754
-  teiginys: "Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1492 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai apibendrina citatoje nurodytus Kazimiero veiksmus."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-168115
-
-<a id="claim-t-196513"></a>
-- t-196513
-  teiginys: "Breste Kazimierą Jogailaitį pasitikę Lietuvos didikų giminių atstovai rodė jam džiaugsmą, pagarbą ir palankumą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168110
-
-<a id="claim-t-196514"></a>
-- t-196514
-  teiginys: "Smolensko bajorai, nenorėdami pripažinti Andrejaus valdžios, išsiuntė žygūnus ir paprašė Kazimiero Jogailaičio kariuomenės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178741
-
-<a id="claim-t-196515"></a>
-- t-196515
-  teiginys: "Kviečiamas į Parčevo seimą, Kazimieras Jogailaitis pasakė negalįs patogiai ten vykti ir pažadėjo lenkų pasiuntinių laukti Breste."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178742
-
-<a id="claim-t-196516"></a>
-- t-196516
-  teiginys: "Per krikštą kūdikiui buvo suteiktas Kazimiero vardas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-178743
-
-<a id="claim-t-198136"></a>
-- t-198136
-  teiginys: "Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatos faktą apie Kazimiero Jogailaičio valdymo pasirinkimą."
-  susije_objektai: "llm_object: Trakai; llm_object: Vilnius; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lionas; mentioned_place: Trakai; mentioned_place: Vilnius"
-  semantiniai_rysiai: "[[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] gyveno Trakai; [[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] gyveno Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1436 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktą apie Kazimiero Jogailaičio valdymo pasirinkimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-179836
-
-<a id="claim-t-198141"></a>
-- t-198141
-  teiginys: "Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus miestiečius nuo muito visoje Lietuvoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatą."
-  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-179835
-
-<a id="claim-t-198145"></a>
-- t-198145
-  teiginys: "Kazimieras Jogailaitis mirė 1492 metų birželio 7 dieną, susirgęs kelyje iš Vilniaus į Trakus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys tiksliai nurodo Kazimiero Jogailaičio mirties datą ir aplinkybes."
-  susije_objektai: "llm_object: Trakai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vengrija"
-  semantiniai_rysiai: "[[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] keliavo į Trakai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-179825
-
-<a id="claim-t-198148"></a>
-- t-198148
-  teiginys: "Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys aiškiai nusako 1441 m. privilegijos poveikį Vilniui."
-  susije_objektai: "mentioned_place: Brasta; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-179842
-
-<a id="claim-t-201529"></a>
-- t-201529
-  teiginys: "1432 m. Žygimanto Kęstutaičio, 1440 ir 1463 m. Kazimiero Jogailaičio privilegijose nurodoma, kad miestiečiai privalo paklusti tarėjų ir vaito teismams, kad taryba ir vaitas turi teisti pagal Magdeburgo teisės knygas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184876
-
-<a id="claim-t-201530"></a>
-- t-201530
-  teiginys: "1443 m. Kazimieras Jogailaitis išdavė Vilniaus miestiečiams raštą, kuriame nurodė savo vietiniams pareigūnams - vietininkams ir tijūnams - bei bajorams netrukdyti vilniečių prekybos laivams laisvai plaukti Nerimi iki Kauno ir atgal."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184877
-
-<a id="claim-t-201531"></a>
-- t-201531
-  teiginys: "Kazimieras skundėsi, kad Dancigas nenori leisti parduoti jo grūdų kitų kraštų pirkliams, ir reikalavo užtikrinti jų pardavimą Flandrijos pirkliams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184878
-
-<a id="claim-t-201532"></a>
-- t-201532
-  teiginys: "1488 m. Kazimieras Jogailaitis atleido nuo muitų Kaune savo prekybos agentą Minsko miestietį Luką Tereškovičių, o su Gardinu kažkaip susijęs Mackus Kosterevičius samdė Kaune laivus grūdams gabenti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184879
-
-<a id="claim-t-201533"></a>
-- t-201533
-  teiginys: "Teisėjas, narpliojantis šituos Kauno ir Dancigo ginčus, buvo valdovas Kazimieras Jogailaitis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184880
-
-<a id="claim-t-201534"></a>
-- t-201534
-  teiginys: "Šį dovanoj imą 1463 m. privilegijoje Kaunui patvirtino Kazimieras Jogailaitis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184881
 
 <a id="claim-t-203344"></a>
-- t-203344
+- t-032
   teiginys: "1454 m. prieš Ordino valdžią sukilę miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginį verta sutrumpinti ir aiškiau susieti su Kazimieru Jogailaičiu."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Tanenbergas"
@@ -489,9 +573,9 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179823
 
 <a id="claim-t-203483"></a>
-- t-203483
+- t-033
   teiginys: "Leidinyje „A. Šapoka (red.), Lietuvos istorija“ teigiama, kad nuo Kazimiero Jogailaičio Lietuvos valdovais buvo renkami Jogailos palikuonys, todėl Kazimiero šeima jautėsi turinti sosto paveldėjimo teisių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pašalinta kontekstinė pradžia ir teiginys padarytas savarankišku sakiniu."
   susije_objektai: "mentioned_place: Lietuva"
@@ -500,9 +584,9 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179834
 
 <a id="claim-t-203531"></a>
-- t-203531
+- t-034
   teiginys: "Smolensko įvykių metu bajorai, nenorėdami pripažinti Andrejaus valdžios, išsiuntė žygūnus ir paprašė Kazimiero kariuomenės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -512,9 +596,9 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-178741
 
 <a id="claim-t-204348"></a>
-- t-204348
+- t-035
   teiginys: "Kazimiero Jogailaičio ilgo valdymo metu brendusios valdymo sistemos permainos, susijusios su valdovo rezidavimo Lietuvoje stygiumi ir institucionalizacijos pažanga, išryškėjo Aleksandro, ypač Žygimanto Senojo, valdymo metais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -525,9 +609,9 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-186952
 
 <a id="claim-t-204349"></a>
-- t-204349
+- t-036
   teiginys: "M. Liubavskis 1445–1446 m. datas siejo su pirmuoju „visuotinio Seimo“ susirinkimu Kazimiero karūnacijos išvakarėse."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -541,9 +625,9 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-186953
 
 <a id="claim-t-204350"></a>
-- t-204350
+- t-037
   teiginys: "M. Liubavskis Kazimiero Jogailaičio laikų suvažiavimus traktavo kaip išplėstinius valdovo tarybos posėdžius, atskirai neanalizuodamas tarybos, bajorų sueigų ir Seimo santykio."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -554,9 +638,9 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-186954
 
 <a id="claim-t-205192"></a>
-- t-205192
+- t-038
   teiginys: "Vėliau, 1454 metais, 'Kazimieras Jogailaitis dar dau giau nuveikė šioje srityje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -565,17 +649,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
   pagrindžia:
     - c-188171
-
-<a id="claim-t-210500"></a>
-- t-210500
-  teiginys: "Lietuvos metraštis pasakoja, kad karalaičiui Kazimierui patiko pasakojimai apie Lietuvos medžiokles, nes jis mėgo medžioti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
 
 ## Reikšmingi paminėjimai
 - c-008
@@ -714,8 +787,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82514
+  pagrindzia:
+    - t-005
 
 - id: c-78979
   redaktorius: "A. Šapoka"
@@ -737,8 +810,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82513
+  pagrindzia:
+    - t-004
 
 - id: c-78983
   redaktorius: "A. Šapoka"
@@ -756,9 +829,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82512
-
 - id: c-78984
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -779,8 +849,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82507
+  pagrindzia:
+    - t-002
 
 - id: c-78986
   redaktorius: "A. Šapoka"
@@ -798,8 +868,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82508
+  pagrindzia:
+    - t-003
 
 - id: c-78987
   redaktorius: "A. Šapoka"
@@ -818,8 +888,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82505
+  pagrindzia:
+    - t-001
 
 - id: c-168110
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -848,8 +918,9 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196513
+  pagrindzia:
+    - t-006
+    - t-013
 
 - id: c-168111
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -880,8 +951,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184750
+  pagrindzia:
+    - t-007
 
 - id: c-168112
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -903,8 +974,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184751
+  pagrindzia:
+    - t-008
 
 - id: c-168113
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -943,6 +1014,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 - id: c-168114
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -965,8 +1038,9 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184753
+  pagrindzia:
+    - t-010
+    - t-031
 
 - id: c-168115
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1003,9 +1077,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184753
-    - t-184754
+  pagrindzia:
+    - t-011
 
 - id: c-176560
   autorius: "Anoniminis metraštininkas"
@@ -1029,6 +1102,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 - id: c-178741
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1053,10 +1128,10 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184750
-    - t-196514
-    - t-203531
+  pagrindzia:
+    - t-007
+    - t-014
+    - t-034
 
 - id: c-178742
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1086,8 +1161,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196515
+  pagrindzia:
+    - t-015
 
 - id: c-178743
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1109,8 +1184,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196516
+  pagrindzia:
+    - t-016
 
 - id: c-178745
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1143,14 +1218,13 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     damas ginkluota jėga jam atkeršyti už Olbrachto pra­
     laimėjimą kaip už savo paties pažeminimą.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-007
     - t-017
-    - t-184750
 
 - id: c-178936
   autorius: "Anoniminis metraštininkas"
@@ -1173,6 +1247,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
 
 - id: c-179823
   redaktorius: "A. Šapoka"
@@ -1190,9 +1266,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203344
-    - t-82508
+  pagrindzia:
+    - t-032
 
 - id: c-179825
   autorius: "Michał Baliński"
@@ -1217,8 +1292,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198145
+  pagrindzia:
+    - t-022
 
 - id: c-179826
   autorius: "Anoniminis metraštininkas"
@@ -1235,6 +1310,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 - id: c-179830
   autorius: "Anoniminis metraštininkas"
@@ -1258,6 +1335,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 - id: c-179831
   redaktorius: "A. Šapoka"
@@ -1275,9 +1354,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82512
-
 - id: c-179834
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1298,9 +1374,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203483
-    - t-82513
+  pagrindzia:
+    - t-033
 
 - id: c-179835
   autorius: "Michał Baliński"
@@ -1322,8 +1397,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198141
+  pagrindzia:
+    - t-021
 
 - id: c-179836
   autorius: "Michał Baliński"
@@ -1361,8 +1436,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198136
+  pagrindzia:
+    - t-020
 
 - id: c-179838
   redaktorius: "A. Šapoka"
@@ -1383,9 +1458,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82514
-
 - id: c-179841
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1407,9 +1479,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82507
-
 - id: c-179842
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1443,8 +1512,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198148
+  pagrindzia:
+    - t-023
 
 - id: c-179845
   autorius: "Anoniminis metraštininkas"
@@ -1467,6 +1536,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
 
 - id: c-179846
   redaktorius: "A. Šapoka"
@@ -1486,9 +1557,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82505
-
 - id: c-184876
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
   puslapiai: "PDF 50"
@@ -1502,8 +1570,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201529
+  pagrindzia:
+    - t-024
 
 - id: c-184877
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1520,8 +1588,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201530
+  pagrindzia:
+    - t-025
 
 - id: c-184878
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1540,8 +1608,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201531
+  pagrindzia:
+    - t-026
 
 - id: c-184879
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1557,8 +1625,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201532
+  pagrindzia:
+    - t-027
 
 - id: c-184880
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1576,8 +1644,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201533
+  pagrindzia:
+    - t-028
 
 - id: c-184881
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1592,8 +1660,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201534
+  pagrindzia:
+    - t-029
 
 - id: c-185786
   autorius: "Rowell, Stephen Christopher"
@@ -1612,12 +1680,11 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     kos metų apsilankė šiose svarbiose Lietuvos Rusios kunigaikštystėse
     6.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-030
 
 - id: c-185999
@@ -1639,6 +1706,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 - id: c-186952
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -1660,8 +1729,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204348
+  pagrindzia:
+    - t-035
 
 - id: c-186953
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -1678,8 +1747,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204349
+  pagrindzia:
+    - t-036
 
 - id: c-186954
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -1700,8 +1769,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204350
+  pagrindzia:
+    - t-037
 
 - id: c-188171
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -1721,33 +1790,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205192
-
-- id: c-194274
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 134."
-  citata_originali: |
-    Lenkijos ir Lietuvos didikai savo valdovo, didžiojo
-    karaliaus Kazimiero, valia suvažiavo į Parčevą. Ir Lie­
-    tuvos ponai, nieko apie tai nežinodami, ir pirmąją die­
-    ną, ir antrąją vyko tartis su lenkų didikais, o trečiąją
-    dieną lenkų ponai ryžosi pagaliau visus lietuvių didi­
-    kus išpiautil2.
-    Buvo vienas aukštos kilmės lenkas, Andrius Roga-
-    tinskis l3, ir jis gavo tikrą žinią apie pražūtį lietuviams
-    ir slapta pranešė tai lietuvių didikams Jonui Goštau­
-    tui 14 ir 2emaičių seniūnui KęsgailaiIS.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 20:05"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210492
+  pagrindzia:
+    - t-038
 
 ## Ryšiai
 - Kazimieras Jogailaitis (valdovas, XV a.) užėmė [[objektai/vietos/Smolenskas]]

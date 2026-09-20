@@ -26,6 +26,61 @@ media_all_json: |-
 
 Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų kalbinių ir religinių panašumų įrodymų bei pavyzdžių. Pasak Narbuto, Hartknochas pateikė žinių apie prie Baltijos jūros gyvavusius padavimus dėl tenykščių genčių, ypač prūsų, ištakų. Hartknochas pateikia XV amžiuje gyvenusio prūsų kilmės Frydriko Zamilio lotynų kalba parašytos poemos ištrauką, kur, sakydamas savo sūnums apie savo lietuviš ką kilmę, be kita ko, jis mini protėvius pelazgus1.
 
+## Teiginiai
+
+<a id="claim-t-191711"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų kalbinių ir religinių panašumų įrodymų bei pavyzdžių."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Christoph Hartknoch, Alt- und neues Preussen: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Christoph Hartknoch, Alt- und neues Preussen\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174593
+
+<a id="claim-t-191712"></a>
+- t-002
+  teiginys: "Pasak Narbuto, Hartknochas pateikė žinių apie prie Baltijos jūros gyvavusius padavimus dėl tenykščių genčių, ypač prūsų, ištakų."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Baltija: 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo, kad prie Baltijos jūros buvo padavimai apie tenykščių genčių, ypač prūsų, ištakas; tai sieja prūsus su Baltijos aplinka."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Prūsai gyveno Baltija (0.73)"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174594
+
+<a id="claim-t-197667"></a>
+- t-003
+  teiginys: "Hartknochas pateikia XV amžiuje gyvenusio prūsų kilmės Frydriko Zamilio lotynų kalba parašytos poemos ištrauką, kur, sakydamas savo sūnums apie savo lietuviš ką kilmę, be kita ko, jis mini protėvius pelazgus1."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179287
+
 ## Citatos
 
 - id: c-174593
@@ -47,6 +102,8 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-174594
   autorius: "Teodoras Narbutas"
@@ -69,6 +126,8 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-179287
   autorius: "Teodoras Narbutas"
@@ -96,110 +155,5 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194817
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 194"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 194."
-  citata_originali: |
-    Ilgai čia reikėtų dėstyti jo įrodymus, parem­
-    tus vien žodžių ir religinių apeigų panašumu, bet pasaky­
-    sime tik tiek, jog šis autorius, puikiai mokėjęs abi kalbas,
-    labiau įrodė jų kilmę iš vieno šaltinio negu jų tapatybę.
-    O lyginant ją su graikų kalba, nustatyta nemažai stebi­
-    nančių ne tik atskirų žodžių, bet ištisų frazių ir posakių
-    panašumų. Smalsus tyrinėtojas ras tam dar išsamiau iš­
-    nagrinėtų įrodymų ir pavyzdžių Hartknocho darbuose3.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-- id: c-196578
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 196"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 196."
-  citata_originali: |
-    Hartknochas pateikia XV amžiuje gyvenusio prūsų
-    kilmės Frydriko Zamilio lotynų kalba parašytos poemos
-    ištrauką, kur, sakydamas savo sūnums apie savo lietuviš­
-    ką kilmę, be kita ko, jis mini protėvius pelazgus1. Dabar
-    panagrinėkime naujesnius pėdsakus, liudijančius, kad šių
-    protėvių vardas ne tik nebuvo svetimas Lietuvoje, bet ir
-    įsiamžino įžymių žmonių, giminių asmenvardžiuose, upių,
-    ežerų, gyvenviečių pavadinimuose. Dusiburgas2 primena
-    vardą įžymaus žmogaus, kilusio iš kunigaikščio Pelužio
-    giminės; anot vietinių tyrinėjimų, Lydos apskrityje būta
-    ir kilmingos Pelužių, arba Pelusų, Pelasų, giminės; ten
-    taip pat Pelesos upė ir to paties pavadinimo ežeras, į kurį
-    ji įteka, be to, esama kaimų, senovinių gyvenviečių, yra
-    senoji ir naujoji Pelesa, taip pat Palaškos, esančios toje
-    pačioje apskrityje ir netoli šių vandens telkinių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-214307"></a>
-- t-001
-  teiginys: "Hartknochas pateikia XV amžiuje gyvenusio prūsų kilmės Frydriko Zamilio lotynų kalba parašytos poemos ištrauką, kur, sakydamas savo sūnums apie savo lietuviš ką kilmę, be kita ko, jis mini protėvius pelazgus1."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196578
-
-<a id="claim-t-214640"></a>
-- t-002
-  teiginys: "Pasak Narbuto, Hartknochas pateikė žinių apie prie Baltijos jūros gyvavusius padavimus dėl tenykščių genčių, ypač prūsų, ištakų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Baltija: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prūsai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad prie Baltijos jūros buvo padavimai apie tenykščių genčių, ypač prūsų, ištakas; tai sieja prūsus su Baltijos aplinka."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Prūsai gyveno Baltija (0.73)"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-
-<a id="claim-t-215486"></a>
-- t-003
-  teiginys: "Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų kalbinių ir religinių panašumų įrodymų bei pavyzdžių."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Christoph Hartknoch, Alt- und neues Preussen: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Christoph Hartknoch, Alt- und neues Preussen\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-194817
-

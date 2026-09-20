@@ -1,28 +1,25 @@
 ---
 tipas: saltinis
-pavadinimas: 'Ekonominė ir teisinė katalikų bažnyčios padėtis Lietuvoje'
+pavadinimas: Ekonominė ir teisinė katalikų bažnyčios padėtis Lietuvoje
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1956 m.'
+  - 1956 m.
 date_start: '1956'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Ekonominė ir teisinė katalikų bažnyčios padėtis Lietuvoje
 

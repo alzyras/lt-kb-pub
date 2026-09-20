@@ -1,8 +1,8 @@
 ---
 tipas: autorius
-pavadinimas: 'K. Gečys'
+pavadinimas: K. Gečys
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a5139dee0c6b0ad2adb8af3b"
-canonical_name: "K. Gečys"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["K. Gečys"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a5139dee0c6b0ad2adb8af3b
+canonical_name: K. Gečys
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - K. Gečys
 sameAs: []
-canonical_biography: "K. Gečys pastebėjo, kad Daukantas iš Varnių iškeliavo anksčiau, negu kilo blaivybės sąjūdis."
+canonical_biography: 'K. Gečys pastebėjo, kad Daukantas iš Varnių iškeliavo anksčiau, negu kilo blaivybės sąjūdis.'
 ---
 # K. Gečys
 

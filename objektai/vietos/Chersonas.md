@@ -38,6 +38,53 @@ historical_names: []
 
 citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra turėjusi su tolimais kraštais, kurių pirmieji vardai, nuo lietuvių, kalnėnų ir žemaičių, pramanyti^55 , lig šiai dienai užsiturėjo^56. ## vocabulary-pazines-003 - status: unused -.
 
+## Teiginiai
+
+<a id="claim-t-192869"></a>
+- t-001
+  teiginys: "Narbutas Chersoną mini tarp graikų Juodosios jūros prekyviečių, kurios nuo VII a. pr. Kr. klestėjo ir vėliau tapo turtingos."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Chersonas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chersonas\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175639
+
+<a id="claim-t-201053"></a>
+- t-002
+  teiginys: "Paskui pergalėjęs bulgarus pavolgy ir su jais būk pakajų suderėjęs, žadėdami bendring ai su vieni antrais gy venti, paskiaus dar užėmęs miestą Chersoną, kurio iros šiandien dar tebėra regimos Kryme."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184403
+
+<a id="claim-t-205267"></a>
+- t-003
+  teiginys: "Chersono miesto vyskupai Bazilijus, Efremas, Eu genijus, Elpidijus, Agatodonas, Eterėjus ir Kapitonas išgarsėja kaip kankiniai ir stropūs Kristaus mokiniai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187832
+
 ## Citatos
 
 - id: c-175639
@@ -60,6 +107,8 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-184403
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -82,8 +131,8 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201053
+  pagrindzia:
+    - t-002
 
 - id: c-187832
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -105,78 +154,5 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205267
-
-- id: c-195044
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 52"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
-  citata_originali: |
-    33
-    Jau labai senais laikais graikai užmezgė santykius su
-    Juodosios jūros pakrančių skitais. Sakoma, kad Neopto-
-    lemas pirmasis pradėjo steigti pirmas pastovias graikų
-    gyvenvietes, pirmiausia prie Dnestro, paskui ir prie Dnep-
-    ro žiočių. Tai davė pradžią graikų emporiumams, arba
-    prekyvietėms; jie jau VII amžiuje prieš Kristaus gimimą
-    pradėjo klestėti ir vėliau virto tokiais turtingais kaip
-    Olbija, Heraklėja, Chersonas ir kiti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-212957"></a>
-- t-001
-  teiginys: "Narbutas Chersoną mini tarp graikų Juodosios jūros prekyviečių, kurios nuo VII a. pr. Kr. klestėjo ir vėliau tapo turtingos."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chersonas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chersonas\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-195044
-
-<a id="claim-t-201053"></a>
-- t-201053
-  teiginys: "Paskui pergalėjęs bulgarus pavolgy ir su jais būk pakajų suderėjęs, žadėdami bendring ai su vieni antrais gy venti, paskiaus dar užėmęs miestą Chersoną, kurio iros šiandien dar tebėra regimos Kryme."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184403
-
-<a id="claim-t-205267"></a>
-- t-205267
-  teiginys: "Chersono miesto vyskupai Bazilijus, Efremas, Eu genijus, Elpidijus, Agatodonas, Eterėjus ir Kapitonas išgarsėja kaip kankiniai ir stropūs Kristaus mokiniai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-187832
-
+  pagrindzia:
+    - t-003

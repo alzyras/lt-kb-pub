@@ -128,7 +128,7 @@
   gap: 0.45rem;
   margin: 0 0 1rem;
   color: var(--secondary);
-  font: 600 0.75rem/1.2 var(--bodyFont);
+  font: 800 0.75rem/1.2 var(--bodyFont);
   letter-spacing: 0.12em;
   text-transform: uppercase;
 }
@@ -185,8 +185,8 @@
   border: 1px solid rgba(77, 56, 42, 0.24);
   border-radius: 999px;
   color: var(--exhibition-ink);
-  font-size: 0.75rem;
-  font-weight: 600;
+  font-size: 0.66rem;
+  font-weight: 800;
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
@@ -206,7 +206,7 @@
   align-items: center;
   gap: 0.5rem;
   color: inherit;
-  font-weight: 600;
+  font-weight: 800;
   text-decoration: none;
 }
 
@@ -255,7 +255,7 @@
   padding: 0.8rem;
   border-right: 1px solid var(--lightgray);
   color: var(--darkgray);
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   font-weight: 750;
   line-height: 1.25;
   text-decoration: none;
@@ -333,7 +333,7 @@
 
 .exhibition-chapter-number {
   color: var(--secondary);
-  font: 600 0.64rem/1 var(--codeFont);
+  font: 800 0.64rem/1 var(--codeFont);
 }
 
 .exhibition-chapters a[data-active] .exhibition-chapter-number {
@@ -363,7 +363,7 @@
 .exhibition-section > header > span {
   grid-row: 1 / 3;
   color: var(--secondary);
-  font: 600 0.8rem/1 var(--codeFont);
+  font: 800 0.8rem/1 var(--codeFont);
 }
 
 .exhibition-section h2 {
@@ -537,7 +537,7 @@
 
 .exhibition-item-number {
   color: var(--secondary);
-  font: 600 0.72rem/1 var(--codeFont);
+  font: 800 0.72rem/1 var(--codeFont);
 }
 
 .exhibition-item-copy h3 {
@@ -564,7 +564,7 @@
   border-left: 2px solid var(--exhibition-gold);
   background: color-mix(in srgb, var(--exhibition-gold) 9%, transparent);
   color: var(--gray);
-  font-size: 0.75rem;
+  font-size: 0.74rem;
   line-height: 1.45;
 }
 
@@ -580,8 +580,8 @@
 .exhibition-narrative-label {
   margin-top: 1.1rem;
   color: var(--gray);
-  font-size: 0.75rem;
-  font-weight: 600;
+  font-size: 0.64rem;
+  font-weight: 800;
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
@@ -618,7 +618,7 @@
 .exhibition-inherited-claims {
   margin: 1rem 0;
   color: var(--gray);
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   line-height: 1.55;
 }
 
@@ -639,7 +639,7 @@
 
 .exhibition-inherited-claims a {
   color: var(--secondary);
-  font: 600 0.7rem/1 var(--codeFont);
+  font: 800 0.7rem/1 var(--codeFont);
 }
 
 .exhibition-item-rights {
@@ -647,7 +647,7 @@
   flex-wrap: wrap;
   gap: 0.35rem 0.8rem;
   color: var(--gray);
-  font-size: 0.75rem;
+  font-size: 0.68rem;
   overflow-wrap: anywhere;
 }
 
@@ -688,12 +688,12 @@
   color: var(--secondary);
   cursor: pointer;
   font-size: 0.76rem;
-  font-weight: 600;
+  font-weight: 800;
 }
 
 .exhibition-claims summary code {
   color: var(--gray);
-  font-size: 0.75rem;
+  font-size: 0.62rem;
   white-space: nowrap;
 }
 
@@ -713,14 +713,14 @@
 
 .exhibition-claims p strong {
   color: var(--secondary);
-  font-weight: 600;
+  font-weight: 800;
 }
 
 .exhibition-claim-label {
   margin-top: 0.75rem;
   color: var(--gray);
-  font-size: 0.75rem;
-  font-weight: 600;
+  font-size: 0.64rem;
+  font-weight: 800;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -737,14 +737,14 @@
   align-items: center;
   gap: 0.35rem;
   color: var(--secondary);
-  font-size: 0.75rem;
-  font-weight: 600;
+  font-size: 0.74rem;
+  font-weight: 800;
 }
 
 .exhibition-claims small {
   display: block;
   color: var(--gray);
-  font-size: 0.75rem;
+  font-size: 0.66rem;
 }
 
 .exhibition-tag-groups {
@@ -776,7 +776,7 @@
   margin-top: 1rem;
   color: var(--secondary);
   font-size: 0.75rem;
-  font-weight: 600;
+  font-weight: 800;
 }
 
 .exhibition-related-block {
@@ -790,8 +790,8 @@
 .exhibition-related-heading {
   margin: 0;
   color: var(--secondary);
-  font-size: 0.75rem;
-  font-weight: 600;
+  font-size: 0.68rem;
+  font-weight: 800;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -837,7 +837,7 @@
 .exhibition-related-item p {
   margin: 0.45rem 0 0;
   color: var(--darkgray);
-  font-size: 0.75rem;
+  font-size: 0.74rem;
   line-height: 1.45;
 }
 
@@ -845,7 +845,7 @@
 .exhibition-related-item .exhibition-item-relation {
   margin: 0.35rem 0 0;
   color: var(--gray);
-  font-size: 0.75rem;
+  font-size: 0.66rem;
 }
 
 .exhibition-related-item .exhibition-claims {
@@ -910,12 +910,12 @@
 .exhibition-catalogue .exhibition-item-meta {
   margin: 0.45rem 0 0.7rem;
   color: var(--gray);
-  font-size: 0.75rem;
+  font-size: 0.72rem;
 }
 
 .exhibition-catalogue .exhibition-item-relation {
   color: var(--gray);
-  font-size: 0.75rem;
+  font-size: 0.72rem;
 }
 
 .exhibition-footer {
@@ -988,8 +988,8 @@
 
 .exhibitions-index article > div > span {
   color: var(--secondary);
-  font-size: 0.75rem;
-  font-weight: 600;
+  font-size: 0.72rem;
+  font-weight: 800;
   text-transform: uppercase;
 }
 
@@ -1005,6 +1005,10 @@
 }
 
 @media (max-width: 800px) {
+  // Keep the edited A title inside its card, including padding.
+  .exhibition-page[data-exhibition-id="valancius-laiskai-imperijos-seselyje"] .exhibition-hero-content {
+    box-sizing: border-box;
+  }
   // The B booklet is a document to see, not a background hidden behind its title.
   .exhibition-page[data-exhibition-id="valancius-nuo-sakyklos-iki-skaitytojo"] {
     .exhibition-hero {
@@ -1067,7 +1071,7 @@
     min-height: 3.5rem;
     padding: 0.7rem 0.65rem;
     border-bottom: 1px solid var(--lightgray);
-    font-size: 0.75rem;
+    font-size: 0.66rem;
   }
   .exhibition-section-claims {
     grid-column: 1 / -1;

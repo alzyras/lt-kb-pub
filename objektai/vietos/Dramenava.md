@@ -36,6 +36,58 @@ historical_names: []
 
 Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių. Dusburgietis teigia, kad ir Jer.— Dramenow; Dramenava (vėliau — Drebnau), kaimas į pietus nuo Pabečių (Sch-K; GAO, p. 30).
 
+## Teiginiai
+
+<a id="claim-t-90339"></a>
+- t-001
+  teiginys: "Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė belaisvių ir išžudė daug žmonių."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Dramenava: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dramenava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja Teutonų ordino brolius su Dramenavos kaimo nusiaubimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Teutonai puolė Dramenava (0.88)"
+  pagrindžia:
+    - c-86199
+
+<a id="claim-t-90340"></a>
+- t-002
+  teiginys: "Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą ir grįžo su dideliu grobiu."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Dramenava: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dramenava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nusiaubimas kariniame kontekste tiesiogiai pagrindžia Teutonų puolimą prieš Dramenavą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Teutonai puolė Dramenava (0.88)"
+  pagrindžia:
+    - c-86201
+
+<a id="claim-t-90341"></a>
+- t-003
+  teiginys: "Dramenava, vėliau vadinta Drebnau, buvo kaimas į pietus nuo Pabečių."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dramenava: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dramenava\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-86200
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė belaisvių ir išžudė daug žmonių.'
@@ -79,6 +131,8 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-86200
   autorius: "Petras Dusburgietis"
@@ -94,6 +148,8 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-86201
   autorius: "Petras Dusburgietis"
@@ -115,50 +171,5 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-220560"></a>
-- t-001
-  teiginys: "Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė belaisvių ir išžudė daug žmonių."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Dramenava: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dramenava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja Teutonų ordino brolius su Dramenavos kaimo nusiaubimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Teutonai puolė Dramenava (0.88)"
-
-<a id="claim-t-221198"></a>
-- t-002
-  teiginys: "Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą ir grįžo su dideliu grobiu."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Dramenava: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dramenava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nusiaubimas kariniame kontekste tiesiogiai pagrindžia Teutonų puolimą prieš Dramenavą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Teutonai puolė Dramenava (0.88)"
-
-<a id="claim-t-222539"></a>
-- t-222539
-  teiginys: "Dramenava, vėliau vadinta Drebnau, buvo kaimas į pietus nuo Pabečių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dramenava: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dramenava\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
+  pagrindzia:
+    - t-002

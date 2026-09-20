@@ -1,6 +1,6 @@
 ---
 tipas: paprotys
-pavadinimas: 'Ragučio garbinimo apeigos ir šventės'
+pavadinimas: Ragučio garbinimo apeigos ir šventės
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Ragučio garbinimo apeigos ir šventės
 
@@ -76,6 +73,5 @@ Plačiau apie tas smul kmenas papasakosime toliau, atskiruose straipsniuose, kur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

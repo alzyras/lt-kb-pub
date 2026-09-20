@@ -34,6 +34,72 @@ canonical_biography: "Po Teodoriko pergalės prieš herulus Tufą, vienas seniau
 
 Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedžių, perėjo į Teodoriko pusę. Teodoriko valdžia nepatenkintas Tufą su jam patikėta kariuomene paliko Teodoriką ir vėl perėjo pas Odoakrą. Vienas se niausių jo karvedžių Tufą perėjo priešo pusėn.
 
+## Teiginiai
+
+<a id="claim-t-191330"></a>
+- t-001
+  teiginys: "Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedžių, perėjo į Teodoriko pusę."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Teodorikas: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tufą: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Po Teodoriko pergalės Tufą perėjo į priešo, t. y. Teodoriko, pusę; tai palaiko sąjungos perėjimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174212
+
+<a id="claim-t-191331"></a>
+- t-002
+  teiginys: "Teodoriko valdžia nepatenkintas Tufą su jam patikėta kariuomene paliko Teodoriką ir vėl perėjo pas Odoakrą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_priesas -> Teodorikas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tufą: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tufą paliko Teodoriką ir perėjo priešingai pusei, todėl ryšys su Teodoriku tampa priešiškas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174213
+
+<a id="claim-t-197835"></a>
+- t-003
+  teiginys: "Vienas se niausių jo karvedžių Tufą perėjo priešo pusėn."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174212
+
+<a id="claim-t-197836"></a>
+- t-004
+  teiginys: "Teodoriko valdžia nepatenkintas Tufą su visa jam patikėta kariuomene paliko jį ir vėl perėjo pas Odoakrą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174213
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedžių, perėjo į Teodoriko pusę.'
@@ -72,6 +138,9 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-003
 
 - id: c-174213
   autorius: "Teodoras Narbutas"
@@ -91,89 +160,6 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195726
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 322"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
-  citata_originali: |
-    Teodoriko valdžia nepatenkintas
-    Tufą su visa jam patikėta kariuomene paliko jį ir vėl
-    perėjo pas Odoakrą. Taip pat ir rugių vadas Frederikas
-    paliko gotus ir su saviškiais pasitraukė pas herulus. Teo­
-    dorikas buvo apsuptas Pavijoje, Odoakrui nepalankiame
-    mieste nuo tų laikų, kai ten buvo nugalėtas Orestas; po
-    šio pralaimėjimo miestas sustiprėjo ir buvo atstatytas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+  pagrindzia:
+    - t-002
     - t-004
-
-## Teiginiai
-
-<a id="claim-t-212367"></a>
-- t-001
-  teiginys: "Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedžių, perėjo į Teodoriko pusę."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Teodorikas: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tufą: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Po Teodoriko pergalės Tufą perėjo į priešo, t. y. Teodoriko, pusę; tai palaiko sąjungos perėjimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-212448"></a>
-- t-002
-  teiginys: "Vienas se niausių jo karvedžių Tufą perėjo priešo pusėn."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-213105"></a>
-- t-003
-  teiginys: "Teodoriko valdžia nepatenkintas Tufą su jam patikėta kariuomene paliko Teodoriką ir vėl perėjo pas Odoakrą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_priesas -> Teodorikas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tufą: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tufą paliko Teodoriką ir perėjo priešingai pusei, todėl ryšys su Teodoriku tampa priešiškas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-195726
-
-<a id="claim-t-215135"></a>
-- t-004
-  teiginys: "Teodoriko valdžia nepatenkintas Tufą su visa jam patikėta kariuomene paliko jį ir vėl perėjo pas Odoakrą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195726
-

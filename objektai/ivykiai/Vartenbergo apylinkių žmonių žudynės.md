@@ -43,6 +43,57 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62521"></a>
+- t-001
+  teiginys: "Vartenbergo pilis stovėjo Kulmo žemėje ant kalno ežero viduryje, o joje gyveno Ordino broliai su ginklanešiais."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Kulmas: 0.84"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vartenbergo pilis lokalizuojama Kulmo žemėje, todėl siejama priklausymo vietovei ryšiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vartenbergas priklausė Kulmas (0.84); Kryžiuočių ordinas gyveno Vartenbergas (0.78)"
+  pagrindžia:
+    - c-63206
+
+<a id="claim-t-183973"></a>
+- t-002
+  teiginys: "Vieną sekmadienį iš Sūduvos atvykusi kariuomenė išžudė Vartenbergo apylinkių kaimų žmones, o moteris ir vaikus išsivarė į nelaisvę."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vartenbergas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vartenbergo apylinkių žmonių žudynės: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vartenbergas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vartenbergo apylinkių žmonių žudynės\" parinktas kaip owner_note_path. Targetas \"Vartenbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-63206
+
+<a id="claim-t-194430"></a>
+- t-003
+  teiginys: "Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero, pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-63206
+
 ## Citatos
 
 - id: c-63206
@@ -66,49 +117,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-220314"></a>
-- t-001
-  teiginys: "Vieną sekmadienį iš Sūduvos atvykusi kariuomenė išžudė Vartenbergo apylinkių kaimų žmones, o moteris ir vaikus išsivarė į nelaisvę."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Vartenbergas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vartenbergo apylinkių žmonių žudynės: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vartenbergas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vartenbergo apylinkių žmonių žudynės\" parinktas kaip owner_note_path. Targetas \"Vartenbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-221462"></a>
-- t-002
-  teiginys: "Vartenbergo pilis stovėjo Kulmo žemėje ant kalno ežero viduryje, o joje gyveno Ordino broliai su ginklanešiais."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "priklause -> Kulmas: 0.84"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vartenbergo pilis lokalizuojama Kulmo žemėje, todėl siejama priklausymo vietovei ryšiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vartenbergas priklausė Kulmas (0.84); Kryžiuočių ordinas gyveno Vartenbergas (0.78)"
-
-<a id="claim-t-222790"></a>
-- t-003
-  teiginys: "Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero, pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
+  pagrindzia:
+    - t-001
+    - t-002
+    - t-003

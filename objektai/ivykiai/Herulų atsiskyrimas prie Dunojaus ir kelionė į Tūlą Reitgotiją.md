@@ -38,6 +38,65 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-191043"></a>
+- t-001
+  teiginys: "Narbuto pasakojimu, po pralaimėjimo longobardams herulų būrys 493 m. pabaigoje atsiskyrė prie Dunojaus ir patraukė kita kryptimi."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Isteris: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Isteris: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Herulų būrys tiesiogiai aprašytas kaip atsiskyręs prie Dunojaus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Herulai keliavo į Isteris (0.82); Herulai keliavo į Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją (0.78)"
+  temporaliniai_duomenys: "kelionės data: 493 m"
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Herulai keliavo į Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Herulai keliavo į Isteris“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo herulų būrio atsiskyrimą, laiką ir kryptį. Kronikinis pasakojimas paliktas su Narbuto atribucija."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173925
+
+<a id="claim-t-191044"></a>
+- t-002
+  teiginys: "Narbutas artimiausiu ir saugiausiu herulų keliu į Reitgotiją laikė maršrutą per Pamarį, Kujaviją, Mazoviją ir Prūsiją."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Reitgotija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Reitgotija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad herulai keliavo į Reitgotiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Herulai keliavo į Reitgotija (0.90); Herulai keliavo į Prūsija (0.88); Herulai keliavo į Mazovija (0.86); Herulai keliavo į Kujavija (0.86)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173926
+
+<a id="claim-t-197537"></a>
+- t-003
+  teiginys: "Tad artimiausias ir saugiausias herulų kelias vingiavo į Šiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš kur buvo visai netoli iki herulų gimtosios Jūros upės krantų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-173926
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas artimiausiu ir saugiausiu herulų keliu į Reitgotiją laikė maršrutą per Pamarį, Kujaviją, Mazoviją ir Prūsiją.'
@@ -82,6 +141,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-173926
   autorius: "Teodoras Narbutas"
@@ -107,86 +168,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194611
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 325"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 325."
-  citata_originali: |
-    Nedaug herulų, gal išlikusių kažkur Rytų valsty­
-    bės provincijose po to, kai prieš keturiasdešimt metų bu­
-    vo išblaškyti, liko šiose vietose gyventi1.
-    332
-    Tačiau reikšmingesnis už kitus herulų būrius buvo
-    tas, kuris po patirto pralaimėjimo prieš longobardus at­
-    siskyrė prie Dunojaus 493 metų pabaigoje ir skyrėsi nuo
-    kito, kuris, tai jau rašėme anksčiau (§30), patraukė prie
-    šios upės žemupio. Būrys, eidamas priešinga kryptimi,
-    dar syki susidūrė su kitu longobardų būriu, ketinusiu
-    juos apiplėšti, ir jam pralaimėjo.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-212770"></a>
-- t-001
-  teiginys: "Narbuto pasakojimu, po pralaimėjimo longobardams herulų būrys 493 m. pabaigoje atsiskyrė prie Dunojaus ir patraukė kita kryptimi."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Isteris: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Isteris: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Herulų būrys tiesiogiai aprašytas kaip atsiskyręs prie Dunojaus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Herulai keliavo į Isteris (0.82); Herulai keliavo į Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją (0.78)"
-  temporaliniai_duomenys: "kelionės data: 493 m"
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Herulai keliavo į Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Herulai keliavo į Isteris“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo herulų būrio atsiskyrimą, laiką ir kryptį. Kronikinis pasakojimas paliktas su Narbuto atribucija."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-194611
-
-<a id="claim-t-215004"></a>
-- t-002
-  teiginys: "Narbutas artimiausiu ir saugiausiu herulų keliu į Reitgotiją laikė maršrutą per Pamarį, Kujaviją, Mazoviją ir Prūsiją."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Reitgotija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Reitgotija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad herulai keliavo į Reitgotiją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Herulai keliavo į Reitgotija (0.90); Herulai keliavo į Prūsija (0.88); Herulai keliavo į Mazovija (0.86); Herulai keliavo į Kujavija (0.86)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-
-<a id="claim-t-215671"></a>
-- t-003
-  teiginys: "Tad artimiausias ir saugiausias herulų kelias vingiavo į Šiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš kur buvo visai netoli iki herulų gimtosios Jūros upės krantų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
+  pagrindzia:
+    - t-002
+    - t-003

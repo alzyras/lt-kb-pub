@@ -47,6 +47,25 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-39215"></a>
+- t-001
+  teiginys: "MP 40 buvo Antrojo pasaulinio karo vokiečių kariuomenės žemesniosios grandies vadų pistoletas-kulkosvaidis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vokiečiai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pistoletas-kulkosvaidis MP 40: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad MP 40 buvo vokiečių kariuomenės vadų ginklas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pistoletas-kulkosvaidis MP 40 priklausė Vokiečiai (0.82)"
+  pagrindžia:
+    - c-41019
+
 ## Citatos
 
 - id: c-41019
@@ -72,25 +91,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-39215"></a>
-- t-001
-  teiginys: "MP 40 buvo Antrojo pasaulinio karo vokiečių kariuomenės žemesniosios grandies vadų pistoletas-kulkosvaidis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vokiečiai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pistoletas-kulkosvaidis MP 40: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad MP 40 buvo vokiečių kariuomenės vadų ginklas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Pistoletas-kulkosvaidis MP 40 priklausė Vokiečiai (0.82)"
-  pagrindžia:
-    - c-41019
-

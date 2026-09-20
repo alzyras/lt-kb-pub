@@ -47,44 +47,10 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
 
 ## Teiginiai
 
-<a id="claim-t-220487"></a>
-- t-220487
-  teiginys: "1274 metais Grigalius X sušaukė Liono sinodą."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204841
-
-<a id="claim-t-200994"></a>
-- t-200994
-  teiginys: "Gavo tuojau kryžėjai pagalbą iš Rymo ir Teu tonuos; į popiežiaus suolą buvo pakeltas Teobaldas, archidiakonas Liuticho, Gregorium X vadina mas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184344
-
-<a id="claim-t-221139"></a>
-- t-221139
-  teiginys: "Grigalius X kanonizavo šventą Jadvygą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-223607"></a>
-- t-223607
+<a id="claim-t-60125"></a>
+- t-001
   teiginys: "1272 m. Grigalius X buvo popiežius ir kanonizavo šventąją Jadvygą, Lenkijos kunigaikštienę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -97,6 +63,20 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
   temporaliniai_duomenys: "įvykio data: 1272 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata aiškiai remia faktą, o pradinis teiginys turi boilerplate ir OCR triukšmo."
+  pagrindžia:
+    - c-60757
+
+<a id="claim-t-200994"></a>
+- t-002
+  teiginys: "Gavo tuojau kryžėjai pagalbą iš Rymo ir Teu tonuos; į popiežiaus suolą buvo pakeltas Teobaldas, archidiakonas Liuticho, Gregorium X vadina mas."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184344
 
 ## Citatos
 
@@ -117,6 +97,8 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-184344
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -138,23 +120,5 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-200994
-
-- id: c-204841
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 236"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236."
-  citata_originali: |
-    1274 viešpaties metais Grigalius X, popiežius, norėdamas padėti šventajai žemei,
-    sušaukė Lione sinodą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220487
-
+  pagrindzia:
+    - t-002

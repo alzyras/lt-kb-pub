@@ -43,6 +43,23 @@ historical_names: []
 
 1732 m. vienuolyną nusiaubę Marcijono Pozniako pasiųsti tarnai ir Lietuvos Vyriausiojo Tribunolo kareiviai akmenimis išdaužė Šv. Dvasios cerkvės langus.
 
+## Teiginiai
+
+<a id="claim-t-203841"></a>
+- t-001
+  teiginys: "1732 m. vienuolyną nusiaubę Marcijono Pozniako pasiųsti tarnai ir Lietuvos Vyriausiojo Tribunolo kareiviai akmenimis išdaužė Šv. Dvasios cerkvės langus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1732 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai įvardija veikėjus, veiksmą, laiką ir objektą; papildomos šaltinio interpretacijos nepridėtos."
+  pagrindžia:
+    - c-186445
+
 ## Citatos
 
 - id: c-186445
@@ -63,23 +80,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203841"></a>
-- t-001
-  teiginys: "1732 m. vienuolyną nusiaubę Marcijono Pozniako pasiųsti tarnai ir Lietuvos Vyriausiojo Tribunolo kareiviai akmenimis išdaužė Šv. Dvasios cerkvės langus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1732 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškiai įvardija veikėjus, veiksmą, laiką ir objektą; papildomos šaltinio interpretacijos nepridėtos."
-  pagrindžia:
-    - c-186445
-

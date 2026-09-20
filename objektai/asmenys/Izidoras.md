@@ -33,6 +33,21 @@ canonical_biography: "Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoj
 
 Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė šventu.
 
+## Teiginiai
+
+<a id="claim-t-194833"></a>
+- t-001
+  teiginys: "Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė šventu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-177229
+
 ## Citatos
 
 - id: c-177229
@@ -56,39 +71,5 @@ Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199929
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 232"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
-  citata_originali: |
-    Izidoras, gy­
-    venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly­
-    gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas
-    statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė
-    šventu.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-218127"></a>
-- t-001
-  teiginys: "Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė šventu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-199929
-

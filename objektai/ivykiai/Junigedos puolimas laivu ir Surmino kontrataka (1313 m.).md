@@ -52,25 +52,10 @@ Laivas buvo paimtas ir sudegintas.
 
 ## Teiginiai
 
-<a id="claim-t-222439"></a>
-- t-222439
-  teiginys: "Surmino vadovaujami lietuviai laivą paėmė, nužudė jo sargybą ir sudegino."
-  atnaujinta: "2026-09-13 18:02"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Junigedos puolimas laivu ir Surmino kontrataka (1313 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-223595"></a>
-- t-223595
+<a id="claim-t-55708"></a>
+- t-001
   teiginys: "Kai laivą prie kranto nubloškė vėjas, Junigedos pilėnai jį užpuolė, bet pirmąjį susidūrimą broliai ir ginklanešiai atlaikė."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Junigeda: 0.85"
@@ -81,11 +66,13 @@ Laivas buvo paimtas ir sudegintas.
   ryšio_targeto_parinkimas: "Junigeda: mention_match, place, gap=34"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)\" parinktas kaip owner_note_path. Targetas \"Junigeda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-56333
 
-<a id="claim-t-225096"></a>
-- t-225096
+<a id="claim-t-55709"></a>
+- t-002
   teiginys: "1313 m. Verneris, Ragainės komtūras, pasistatydino sienomis apsaugotą karo laivą ir su juo nuplaukė pulti Junigedos pilies."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Junigeda: 0.85"
@@ -99,11 +86,13 @@ Laivas buvo paimtas ir sudegintas.
   temporaliniai_duomenys: "įvykio data: 1313 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-56334
 
-<a id="claim-t-225504"></a>
-- t-225504
+<a id="claim-t-55710"></a>
+- t-003
   teiginys: "Dusburgietis pasakoja, kad Surminas su gausia lietuvių jėga buvo pasiųstas sunaikinti karo laivo."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "terminas_ar_titulas"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
@@ -114,6 +103,8 @@ Laivas buvo paimtas ir sudegintas.
   ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=19"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-56335
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -164,6 +155,8 @@ Laivas buvo paimtas ir sudegintas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-56334
   autorius: "Petras Dusburgietis"
@@ -183,6 +176,8 @@ Laivas buvo paimtas ir sudegintas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-56335
   autorius: "Petras Dusburgietis"
@@ -205,4 +200,5 @@ Laivas buvo paimtas ir sudegintas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-003

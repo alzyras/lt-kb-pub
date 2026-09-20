@@ -1,12 +1,12 @@
 ---
 tipas: saltinis
-pavadinimas: 'Žemaičių kalbos gramatika (Juozas Čiulda)'
+pavadinimas: Žemaičių kalbos gramatika (Juozas Čiulda)
 variantai:
-  - 'Žemaičių kalbos gramatika'
+  - Žemaičių kalbos gramatika
 aliases:
-  - 'Žemaičių kalbos gramatika'
+  - Žemaičių kalbos gramatika
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -15,12 +15,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Žemaičių kalbos gramatika (Juozas Čiulda)
 

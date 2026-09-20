@@ -1,18 +1,18 @@
 ---
 tipas: vieta
-pavadinimas: 'Ryga'
+pavadinimas: Ryga
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1323 m.'
-  - '1561 m.'
-  - '1582 m.'
-  - '1621 m.'
-  - '1989 m.'
+  - 1323 m.
+  - 1561 m.
+  - 1582 m.
+  - 1621 m.
+  - 1989 m.
 date_start: '1323'
 date_end: '1989'
 sukurta: ''
@@ -23,29 +23,42 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XIV'
-  - 'XX'
+  - XIV
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d50fef14e1dcbbfd46a134bf"
-canonical_name: "Ryga"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ryga","Rygos"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d50fef14e1dcbbfd46a134bf
+canonical_name: Ryga
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ryga
+  - Rygos
 sameAs: []
-canonical_biography: "Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu. Ryga: tė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu. Ryga: pas ir miestiečiai buvo priversti padaryti taiką su ordinu ir nu- traukti sąjungą su Vyteniu."
+canonical_biography: 'Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu. Ryga: tė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu. Ryga: pas ir miestiečiai buvo priversti padaryti taiką su ordinu ir nu- traukti sąjungą su Vyteniu.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Ryga","url":"https://lt.wikipedia.org/wiki/Ryga","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Ryga","url":"https://www.vle.lt/straipsnis/ryga/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T13:42:08+00:00","source_checked_at":"2026-09-19T13:42:08+00:00","counts":{"relations":16,"gallery":0,"sources":7},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Ryga","url":"https://lt.wikipedia.org/wiki/Ryga","publisher":"Vikipedija","language":"lt","article_id":"9693","revision_id":"7808888","published_at":"2026-04-16T05:19:43Z","version_pk":"","content_hash":"1ce0c81c33a406553324d7bb572a37e081d277d881b125ca7c7852f561cba1c7","retrieved_at":"2026-09-19T13:40:17+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Ryga&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"9693"}},"intro":"Ryga (latv. Rīga, lyv. Rīgõ) – didžiausias Latvijos miestas, šalies sostinė. 2025 m. duomenimis gyventojų skaičius – 591 882 gyventojai. Įkurtas 1201 m., priklausė Hanzos sąjungai. Nuo 1997 m. Rygos istorinis centras įtrauktas į UNESCO pasaulio paveldo sąrašą, pasižymi jugendo ir XIX a. medine architektūra. Miestas įtrauktas į Europos plytų gotikos kelią. Mieste nemažai mokslo įstaigų, tarp kurių Latvijos universitetas, Rygos technikos universitetas ir Rygos Stradinio universitetas. 1989 m. įkurtas didžiausias Baltijos šalyse automobilių muziejus. 2021 m. Rygoje apsilankė apie 1,9 mln. svečių.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Ryga","url":"https://lt.wikipedia.org/wiki/Ryga","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Ryga","url":"https://www.vle.lt/straipsnis/ryga/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Ryga","https://www.vle.lt/straipsnis/ryga/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"65cdfc76a0342d15ab5a1151","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Prekybos centras","context":"XIV a. Vytauto laikais; šaltinio autoriaus teigimu, Ryga buvo vienas iš prekybos centrų netoli Lietuvos.","support_ids":["t-95147","c-90130"],"source_refs":[{"kind":"internal_claim","claim_id":"t-95147","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-90130","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Geografinė jo didingos valstybės būklė prekybai buvo gana patogi, nes jos teritorija siekė Baltijos ir Juodųjų jūrų, su ku­ riomis ją jungė platūs Nemuno ir Dniepro baseinai, Pietų Būgo, Dniestro ir kitos upės. Nuo Lietuvos buvo taip pat netoli tokie anų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7a89ca7f3fa862eea9211ea0","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Prekybos centras ir prekybos punktas","context":"XIII–XIV a.; A. Šapokos redaguoto šaltinio teigimu, Ryga buvo svarbiausias Lietuvos prekybos punktas ir per ją vyko prekyba su Dauguvos bei Dniepro upyno miestais.","support_ids":["t-95149","c-90127","t-95152","c-90125"],"source_refs":[{"kind":"internal_claim","claim_id":"t-95149","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-95152","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-90127","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Ryga tada buvo labai turtingas miestas. Per ją ėjo prekyba su visais Lietuvai priklausiusiais ir dar nepriklau- siusiais Dauguvos ir Dniepro upyno miestais. Per ją ėjo vienin- telis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko."},{"kind":"evidence","evidence_id":"c-90125","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis pre- kybos punktas buvo Rygos miestas. Nemuno žiotys buvo ap- gultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos pre- kybą. Priėjimas prie Rygos Dauguvos upe taip pat buvo ga- na sunkus, — čia irgi trukdė tie patys kryžiuočiai, — vis dėlto čia buvo kiek lengviau: mat, Ryga buvo laisvas miestas, kuris, no- rėdamas pasipelnyti, buvo sukalbamesnis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f20b27017f84b9cb3af68940","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Prekybos kelias Dauguvos upe per Rygą","context":"Iki 1621 m.; A. Šapokos redaguoto šaltinio teigimu, šiuo keliu vyko Lietuvos prekyba, o 1621 m. Rygai atitekus Švedams laisvoji prekyba keliu užsidarė.","support_ids":["t-95150","c-24451"],"source_refs":[{"kind":"internal_claim","claim_id":"t-95150","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-24451","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėju- siam Dauguvos upe per Rygą. Kai 1621 m. Ryga atiteko Šve- dams, laisvajai prekybai užsidarė ir šis kelias."}],"status":"published","conflict_status":"clear"},{"trait_id":"8c40ffd7379043b8c026bb30","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Laisvas miestas","context":"XIII–XIV a.; A. Šapokos redaguotame šaltinyje Ryga apibūdinama kaip laisvas miestas, buvęs sukalbamesnis dėl siekio pasipelnyti.","support_ids":["t-95152","c-90125"],"source_refs":[{"kind":"internal_claim","claim_id":"t-95152","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-90125","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis pre- kybos punktas buvo Rygos miestas. Nemuno žiotys buvo ap- gultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos pre- kybą. Priėjimas prie Rygos Dauguvos upe taip pat buvo ga- na sunkus, — čia irgi trukdė tie patys kryžiuočiai, — vis dėlto čia buvo kiek lengviau: mat, Ryga buvo laisvas miestas, kuris, no- rėdamas pasipelnyti, buvo sukalbamesnis."}],"status":"published","conflict_status":"clear"},{"trait_id":"44a6e84c45e257cd1003b609","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Kelias į pasaulį","context":"Istoriniame Lietuvos prekybos aprašyme; A. Šapokos redaguoto šaltinio teigimu, per Rygą ėjo vienintelis kelias į pasaulį.","support_ids":["t-95149","c-90127"],"source_refs":[{"kind":"internal_claim","claim_id":"t-95149","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-90127","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Ryga tada buvo labai turtingas miestas. Per ją ėjo prekyba su visais Lietuvai priklausiusiais ir dar nepriklau- siusiais Dauguvos ir Dniepro upyno miestais. Per ją ėjo vienin- telis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Jonas Karolis Katkevičius","claim_id":"t-79042","confidence":0.86},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Domininkonų ordinas","claim_id":"t-112507","confidence":0.84},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Baltramiejus (Aleto vyskupas)","claim_id":"t-220797","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)","claim_id":"t-223099","confidence":0.86},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Bertoldas","claim_id":"t-87485","confidence":0.93},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-31104","confidence":0.78},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Naugardas","claim_id":"t-94771","confidence":0.76},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Polockas","claim_id":"t-34554","confidence":0.88},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-135481","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Livonija","claim_id":"t-225132","confidence":0.82},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-221774","confidence":0.71},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Švedai","claim_id":"t-180206","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-180258","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Švedija","claim_id":"t-02535","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-87180","confidence":0.78},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/asmenys/Steponas Batoras","claim_id":"t-95151","confidence":0.9}],"timeline":[{"date":"1313 m.","label":"1313 m.","claimId":"t-95157"},{"date":"1323 m.","label":"1323 m.","claimId":"t-223887"},{"date":"1621 m.","label":"1621 m.","claimId":"t-95150"},{"date":"1989 m.","label":"1989 m.","claimId":"t-95151"}],"support_disclosure":{"claims":11,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 03e8ef33c5876d4f
+object_page_generated_at: '2026-09-19T13:42:08+00:00'
+object_page_source_checked_at: '2026-09-19T13:42:08+00:00'
+object_page_content_state: content
+object_page_claim_count: '11'
+object_page_source_count: '5'
+object_page_seo_description: 'Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu. Ryga: tė Rygos…'
+object_page_seo_input_hash: b71e267f3370e566500f8eb0b88f3cc6da2371157b19cce27890c5f53dced1a0
+object_page_seo_generated_at: '2026-09-19T13:42:08+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ryga
 
@@ -55,39 +68,10 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 
 ## Teiginiai
 
-<a id="claim-t-224474"></a>
-- t-224474
-  teiginys: "Kronikoje užfiksuota žinių apie Ordino santykius su Ryga."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205972
-
-<a id="claim-t-223887"></a>
-- t-223887
-  teiginys: "1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ryga: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ryga\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą sutarties datą, vietą ir šalis."
-
 <a id="claim-t-95147"></a>
-- t-95147
+- t-001
   teiginys: "Vytauto laikais Ryga buvo vienas iš prekybos centrų, buvusių netoli Lietuvos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -104,9 +88,9 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - c-90130
 
 <a id="claim-t-95149"></a>
-- t-95149
+- t-002
   teiginys: "Ryga buvo turtingas miestas, per kurį ėjo prekyba su Dauguvos ir Dniepro upyno miestais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dauguva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -121,9 +105,9 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - c-90127
 
 <a id="claim-t-95150"></a>
-- t-95150
+- t-003
   teiginys: "1621 m. Rygai atitekus Švedams, Lietuvos laisvoji prekyba Dauguvos keliu per Rygą užsidarė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dauguva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -141,9 +125,9 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - c-24451
 
 <a id="claim-t-95151"></a>
-- t-95151
+- t-004
   teiginys: "1989 m. rugpjūčio 23 d. Baltijos kelias buvo rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzkariavo -> Ryga: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -162,36 +146,55 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - c-90124
 
 <a id="claim-t-95152"></a>
-- t-95152
+- t-005
   teiginys: "XIII-XIV a. Ryga buvo svarbiausias Lietuvos prekybos punktas, nes laisvas miestas buvo sukalbamesnis už kryžiuočius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-90125
 
+<a id="claim-t-95155"></a>
+- t-006
+  teiginys: "1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ryga: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ryga\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1323 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą sutarties datą, vietą ir šalis."
+  pagrindžia:
+    - c-90122
+
 <a id="claim-t-95157"></a>
-- t-95157
+- t-007
   teiginys: "1313 m. Rygos arkivyskupas ir miestiečiai buvo priversti taikytis su ordinu ir nutraukti sąjungą su Vyteniu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-90123
 
 <a id="claim-t-95158"></a>
-- t-95158
+- t-008
   teiginys: "Ryga nepripažino 1561 m. Livonijos pasidavimo sutarties ir liko nepriklausoma iki 1582 m., kai ją nukariavo Steponas Batoras."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-90129
 
 <a id="claim-t-95159"></a>
-- t-95159
+- t-009
   teiginys: "Po kautynių, kuriose žuvo 9 000 švedų, Ryga buvo išgelbėta."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -209,9 +212,9 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - c-24449
 
 <a id="claim-t-194259"></a>
-- t-194259
+- t-010
   teiginys: "Li vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Helmenas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas, Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diunamundė, Ryga, Šmetenė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -254,8 +257,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-95159
+  pagrindzia:
+    - t-009
 
 - id: c-24451
   redaktorius: "A. Šapoka"
@@ -271,8 +274,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-95150
+  pagrindzia:
+    - t-003
 
 - id: c-90122
   autorius: "Petras Dusburgietis"
@@ -297,6 +300,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-90123
   redaktorius: "A. Šapoka"
@@ -316,8 +321,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-95157
+  pagrindzia:
+    - t-007
 
 - id: c-90124
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -348,8 +353,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-95151
+  pagrindzia:
+    - t-004
 
 - id: c-90125
   redaktorius: "A. Šapoka"
@@ -369,8 +374,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-95152
+  pagrindzia:
+    - t-005
 
 - id: c-90127
   redaktorius: "A. Šapoka"
@@ -388,8 +393,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-95149
+  pagrindzia:
+    - t-002
 
 - id: c-90129
   redaktorius: "A. Šapoka"
@@ -413,8 +418,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-95158
+  pagrindzia:
+    - t-008
 
 - id: c-90130
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -440,8 +445,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-95147
+  pagrindzia:
+    - t-001
 
 - id: c-176853
   autorius: "Michał Baliński"
@@ -478,27 +483,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194259
-
-- id: c-205972
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 31"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 31."
-  citata_originali: |
-    Kronikoje užfiksuota daug žinių apie prūsų išsivaduojamąją kovą XIII a., apie Herkų
-    Mantą ir kitus jo bendražygius, Lietuvos karą prieš Vakarų Europos feodalų ir popiežijos
-    agresiją, ypač XIII a. pabaigoje— XIV a. pirmajame trečdalyje, apie santykius su Ryga,
-    Lenkija, popiežiaus kurija
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224474
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]]

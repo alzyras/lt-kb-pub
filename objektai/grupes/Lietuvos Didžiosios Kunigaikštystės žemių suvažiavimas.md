@@ -34,6 +34,48 @@ Visos LDK masto suvažiavimai įvairiuose šaltiniuose vadinami terminais „die
 
 Visos LDK masto suvažiavimai įvairiuose šaltiniuose vadinami terminais „dieta“, „conventus terrarum“, „conventio ģenerālis“, „tag“ ir „сойм“. Iki 1492 m. LDK žemių suvažiavimų veikla nebuvo reglamentuota, o jų šaukimo tvarka nežinoma. XV a. antroje pusėje kilmingųjų suvažiavimas išaugo į platesnį, vis dar nereglamentuotą ir daugiafunkcinį LDK žemių suvažiavimą.
 
+## Teiginiai
+
+<a id="claim-t-204380"></a>
+- t-001
+  teiginys: "Visos LDK masto suvažiavimai įvairiuose šaltiniuose vadinami terminais „dieta“, „conventus terrarum“, „conventio ģenerālis“, „tag“ ir „сойм“."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186984
+
+<a id="claim-t-204381"></a>
+- t-002
+  teiginys: "Iki 1492 m. LDK žemių suvažiavimų veikla nebuvo reglamentuota, o jų šaukimo tvarka nežinoma."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia iki 1492 m. suvažiavimų institucinį neapibrėžtumą."
+  pagrindžia:
+    - c-186985
+
+<a id="claim-t-204382"></a>
+- t-003
+  teiginys: "XV a. antroje pusėje kilmingųjų suvažiavimas išaugo į platesnį, vis dar nereglamentuotą ir daugiafunkcinį LDK žemių suvažiavimą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-186986
+
 ## Citatos
 
 - id: c-186984
@@ -55,7 +97,7 @@ Visos LDK masto suvažiavimai įvairiuose šaltiniuose vadinami terminais „die
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186985
@@ -77,7 +119,7 @@ Visos LDK masto suvažiavimai įvairiuose šaltiniuose vadinami terminais „die
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-186986
@@ -99,48 +141,5 @@ Visos LDK masto suvažiavimai įvairiuose šaltiniuose vadinami terminais „die
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-204380"></a>
-- t-001
-  teiginys: "Visos LDK masto suvažiavimai įvairiuose šaltiniuose vadinami terminais „dieta“, „conventus terrarum“, „conventio ģenerālis“, „tag“ ir „сойм“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186984
-
-<a id="claim-t-204381"></a>
-- t-002
-  teiginys: "Iki 1492 m. LDK žemių suvažiavimų veikla nebuvo reglamentuota, o jų šaukimo tvarka nežinoma."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1492 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia iki 1492 m. suvažiavimų institucinį neapibrėžtumą."
-  pagrindžia:
-    - c-186985
-
-<a id="claim-t-204382"></a>
-- t-003
-  teiginys: "XV a. antroje pusėje kilmingųjų suvažiavimas išaugo į platesnį, vis dar nereglamentuotą ir daugiafunkcinį LDK žemių suvažiavimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  pagrindžia:
-    - c-186986
-

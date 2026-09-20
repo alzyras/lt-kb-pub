@@ -44,6 +44,44 @@ canonical_biography: "Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ke
 
 Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užsidegė meile žodžio Dievo ir gailesiu savo bendro Vaitiekaus vėl eiti netikėlių mokyti; to dėjęsis, leidos į Parusnį metuo se 1008 su 18 savo tarnų, tarp kurių du buvusiu zokanyku. Kristijonas, apmo vęs abitu, vieną tarp jų, vardu Bruną, pakėlė rėdy toju, arba mistru. Būt rasi ir tą patį metą kryžėjai į Samiją trau kę, jei nebūt atkeliavęs į Parusnį Brunas, vyskupas Oknico, garsus ne vien kilčia ir grakštybe, bet pa girtas savo išminčia, gudryba ir mandagumu, kurs į vardą savo viešpaties Otokaro, karaliaus Čekų, kaipo jo.
 
+## Teiginiai
+
+<a id="claim-t-201394"></a>
+- t-001
+  teiginys: "Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užsidegė meile žodžio Dievo ir gailesiu savo bendro Vaitiekaus vėl eiti netikėlių mokyti; to dėjęsis, leidos į Parusnį metuo se 1008 su 18 savo tarnų, tarp kurių du buvusiu zokanyku."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184744
+
+<a id="claim-t-201395"></a>
+- t-002
+  teiginys: "Kristijonas, apmo vęs abitu, vieną tarp jų, vardu Bruną, pakėlė rėdy toju, arba mistru."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184745
+
+<a id="claim-t-201396"></a>
+- t-003
+  teiginys: "Būt rasi ir tą patį metą kryžėjai į Samiją trau kę, jei nebūt atkeliavęs į Parusnį Brunas, vyskupas Oknico, garsus ne vien kilčia ir grakštybe, bet pa girtas savo išminčia, gudryba ir mandagumu, kurs į vardą savo viešpaties Otokaro, karaliaus Čekų, kaipo jo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184746
+
 ## Citatos
 
 - id: c-184744
@@ -73,7 +111,7 @@ Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užside
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184745
@@ -93,7 +131,7 @@ Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užside
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184746
@@ -124,44 +162,5 @@ Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užside
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-201394"></a>
-- t-001
-  teiginys: "Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užsidegė meile žodžio Dievo ir gailesiu savo bendro Vaitiekaus vėl eiti netikėlių mokyti; to dėjęsis, leidos į Parusnį metuo se 1008 su 18 savo tarnų, tarp kurių du buvusiu zokanyku."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184744
-
-<a id="claim-t-201395"></a>
-- t-002
-  teiginys: "Kristijonas, apmo vęs abitu, vieną tarp jų, vardu Bruną, pakėlė rėdy toju, arba mistru."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184745
-
-<a id="claim-t-201396"></a>
-- t-003
-  teiginys: "Būt rasi ir tą patį metą kryžėjai į Samiją trau kę, jei nebūt atkeliavęs į Parusnį Brunas, vyskupas Oknico, garsus ne vien kilčia ir grakštybe, bet pa girtas savo išminčia, gudryba ir mandagumu, kurs į vardą savo viešpaties Otokaro, karaliaus Čekų, kaipo jo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184746
-

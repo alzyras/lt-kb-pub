@@ -27,6 +27,36 @@ media_all_json: |-
 
 Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”, tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite jūsų tėvų darbus, kuriuos jie yra padarę savo.
 
+## Teiginiai
+
+<a id="claim-t-59079"></a>
+- t-001
+  teiginys: "Pasakojime apie Višogrudo pilies sugriovimą cituojamas Matatijo raginimas sūnums atsiminti tėvų darbus ir laimėti garbę."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Višogrudas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Atsiminkite jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir amžiną vardą: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Višogrudas: mention_match, place, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atsiminkite jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir amžiną vardą\" parinktas kaip owner_note_path. Targetas \"Višogrudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59711
+
+<a id="claim-t-197041"></a>
+- t-002
+  teiginys: "Ar kas kada girdėjo apie tokią baisybę, tu padarei tokią piktadarystę, kurios nėra buvę nuo pat Ordino įsikūrimo pradžios."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-179014
+
 ## Citatos
 
 - id: c-59711
@@ -47,6 +77,8 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179014
   autorius: "Petras Dusburgietis"
@@ -63,51 +95,5 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-203176
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 258"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 258."
-  citata_originali: |
-    Štai tavo brolio kraujas nuo žemės šaukiasi dievo. Ar kas kada girdėjo apie
-    tokią baisybę, tu padarei tokią piktadarystę, kurios nėra buvę nuo pat Ordino įsikūrimo
-    pradžios. Tu nė trupučio nepagalvojai, ką reiškia tavo vardas, nes Jonas reiškia tą,
-    kuriam suteikta malonė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-225010"></a>
-- t-001
-  teiginys: "Pasakojime apie Višogrudo pilies sugriovimą cituojamas Matatijo raginimas sūnums atsiminti tėvų darbus ir laimėti garbę."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Višogrudas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Atsiminkite jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir amžiną vardą: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Višogrudas: mention_match, place, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atsiminkite jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir amžiną vardą\" parinktas kaip owner_note_path. Targetas \"Višogrudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-225724"></a>
-- t-002
-  teiginys: "Ar kas kada girdėjo apie tokią baisybę, tu padarei tokią piktadarystę, kurios nėra buvę nuo pat Ordino įsikūrimo pradžios."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203176
-

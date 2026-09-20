@@ -34,6 +34,40 @@ canonical_biography: "Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją 
 
 Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Evarikui, norėdamas pelnyti jo palankumą. Odoakras ne trukus perleido šią provinciją visigotų karaliui Evarikui, norėdamas taip pelnyti jo palankumą, o kiek anksčiau jis užmezgė draugiškus santykius su galingu Afrikos vandalų karaliumi Genseriku, iš kurio tam tikromis są lygomis gavo Siciliją.
 
+## Teiginiai
+
+<a id="claim-t-191393"></a>
+- t-001
+  teiginys: "Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Evarikui, norėdamas pelnyti jo palankumą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Afrika: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Evarikas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Afrika: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Evarikas\" parinktas kaip owner_note_path. Targetas \"Afrika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
+  pagrindžia:
+    - c-174275
+
+<a id="claim-t-197728"></a>
+- t-002
+  teiginys: "Odoakras ne trukus perleido šią provinciją visigotų karaliui Evarikui, norėdamas taip pelnyti jo palankumą, o kiek anksčiau jis užmezgė draugiškus santykius su galingu Afrikos vandalų karaliumi Genseriku, iš kurio tam tikromis są lygomis gavo Siciliją."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174275
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Evarikui, norėdamas pelnyti jo palankumą.'
@@ -91,34 +125,6 @@ Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Eva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-212161"></a>
-- t-001
-  teiginys: "Odoakras ne trukus perleido šią provinciją visigotų karaliui Evarikui, norėdamas taip pelnyti jo palankumą, o kiek anksčiau jis užmezgė draugiškus santykius su galingu Afrikos vandalų karaliumi Genseriku, iš kurio tam tikromis są lygomis gavo Siciliją."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-215929"></a>
-- t-002
-  teiginys: "Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Evarikui, norėdamas pelnyti jo palankumą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Afrika: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Evarikas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Afrika: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Evarikas\" parinktas kaip owner_note_path. Targetas \"Afrika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-
+  pagrindzia:
+    - t-001
+    - t-002

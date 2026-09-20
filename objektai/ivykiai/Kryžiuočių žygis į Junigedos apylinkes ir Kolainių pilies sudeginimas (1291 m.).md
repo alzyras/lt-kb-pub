@@ -46,6 +46,44 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-185809"></a>
+- t-001
+  teiginys: "Vasario pradžioje Karaliaučiaus komtūras Bertoldas Briuhavenas atvedė daugiau kaip 1500 raitelių į Junigedos apylinkes."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "surenge_zygi_i -> Junigeda: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bertoldas Briuhavenas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Bertoldas Briuhavenas tiesiogiai atvedė kariuomenę į Junigedos apylinkes."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Bertoldas Briuhavenas surengė žygį į Junigeda (0.92)"
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatinis ir paremtas citata."
+  pagrindžia:
+    - c-169170
+
+<a id="claim-t-196190"></a>
+- t-002
+  teiginys: "Kojelavičiaus pasakojime, gynėjams išsibėgiojus iš baimės, kryžiuočiai užėmė ir sudegino Kolainių pilį, nuniokojo kaimus ir išsivarė 700 žmonių."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-169170
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vasario pradžioje Karaliaučiaus komtūras Bertoldas Briuhavenas atvedė daugiau kaip 1500 raitelių į Junigedos apylinkes.'
@@ -116,45 +154,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-185809"></a>
-- t-001
-  teiginys: "Vasario pradžioje Karaliaučiaus komtūras Bertoldas Briuhavenas atvedė daugiau kaip 1500 raitelių į Junigedos apylinkes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "surenge_zygi_i -> Junigeda: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bertoldas Briuhavenas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Bertoldas Briuhavenas tiesiogiai atvedė kariuomenę į Junigedos apylinkes."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Bertoldas Briuhavenas surengė žygį į Junigeda (0.92)"
-  temporaliniai_duomenys: "įvykio data: 1291 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatinis ir paremtas citata."
-  pagrindžia:
-    - c-169170
-
-<a id="claim-t-196190"></a>
-- t-002
-  teiginys: "Kojelavičiaus pasakojime, gynėjams išsibėgiojus iš baimės, kryžiuočiai užėmė ir sudegino Kolainių pilį, nuniokojo kaimus ir išsivarė 700 žmonių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-169170
-

@@ -44,6 +44,25 @@ canonical_biography: "Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux
 
 Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, Mazovijos kunigaikštis]0.
 
+## Teiginiai
+
+<a id="claim-t-87639"></a>
+- t-001
+  teiginys: "Gedimino laiškų rašytojas dviejuose laiškuose Mazovijos kunigaikštį vadino Bonislavu, nors Balińskis tokio kunigaikščio nerado."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Mazovija: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bonislavas (Mazovijos kunigaikštis ): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Titulinė formuluotė vadina Bonislovą Mazovijos kunigaikščiu, bet pats tekstas pabrėžia šio identifikavimo abejotinumą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Bonislavas (Mazovijos kunigaikštis ) valdė Mazovija (0.62)"
+  pagrindžia:
+    - c-83618
+
 ## Citatos
 
 - id: c-83618
@@ -71,25 +90,5 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87639"></a>
-- t-001
-  teiginys: "Gedimino laiškų rašytojas dviejuose laiškuose Mazovijos kunigaikštį vadino Bonislavu, nors Balińskis tokio kunigaikščio nerado."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Mazovija: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bonislavas (Mazovijos kunigaikštis ): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Titulinė formuluotė vadina Bonislovą Mazovijos kunigaikščiu, bet pats tekstas pabrėžia šio identifikavimo abejotinumą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Bonislavas (Mazovijos kunigaikštis ) valdė Mazovija (0.62)"
-  pagrindžia:
-    - c-83618
-

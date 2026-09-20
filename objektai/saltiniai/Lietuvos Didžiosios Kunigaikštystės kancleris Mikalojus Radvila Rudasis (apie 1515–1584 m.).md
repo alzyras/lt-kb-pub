@@ -39,6 +39,20 @@ Pirmuose dviejuose monografijos skyriuose analizuojama didžiojo medžioklio par
 
 Pirmuose dviejuose monografijos skyriuose analizuojama didžiojo medžioklio pareigybės svarba Mikalojaus Radvilos Rudojo tolesnei karjerai.
 
+## Teiginiai
+
+<a id="claim-t-204160"></a>
+- t-001
+  teiginys: "Pirmuose dviejuose monografijos skyriuose analizuojama didžiojo medžioklio pareigybės svarba Mikalojaus Radvilos Rudojo tolesnei karjerai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186784
+
 ## Citatos
 
 - id: c-186784
@@ -60,20 +74,5 @@ Pirmuose dviejuose monografijos skyriuose analizuojama didžiojo medžioklio par
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204160"></a>
-- t-001
-  teiginys: "Pirmuose dviejuose monografijos skyriuose analizuojama didžiojo medžioklio pareigybės svarba Mikalojaus Radvilos Rudojo tolesnei karjerai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  pagrindžia:
-    - c-186784
-

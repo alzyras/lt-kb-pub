@@ -43,6 +43,23 @@ canonical_biography: "1437 m., Švitrigailos valdymo metais, Petras Volkovijus b
 
 1437 m., Švitrigailos valdymo metais, Petras Volkovijus buvo Lietuvos didysis medžioklis.
 
+## Teiginiai
+
+<a id="claim-t-204164"></a>
+- t-001
+  teiginys: "1437 m., Švitrigailos valdymo metais, Petras Volkovijus buvo Lietuvos didysis medžioklis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1437 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai įvardija asmenį, pareigybę, datą ir valdovo valdymo laikotarpį. Jis pagrįstas šaltinio nurodomu faktu."
+  pagrindžia:
+    - c-186755
+
 ## Citatos
 
 - id: c-186755
@@ -65,23 +82,5 @@ canonical_biography: "1437 m., Švitrigailos valdymo metais, Petras Volkovijus b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204164"></a>
-- t-001
-  teiginys: "1437 m., Švitrigailos valdymo metais, Petras Volkovijus buvo Lietuvos didysis medžioklis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1437 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškiai įvardija asmenį, pareigybę, datą ir valdovo valdymo laikotarpį. Jis pagrįstas šaltinio nurodomu faktu."
-  pagrindžia:
-    - c-186755
-

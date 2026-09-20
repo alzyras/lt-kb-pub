@@ -44,6 +44,42 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-66945"></a>
+- t-001
+  teiginys: "Pagudėnai su sūduviais ir kitomis Prūsijos gentimis sudegino pilaitę tarp Ragavos ir Veisikos upių."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Pilaitė: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pilaitė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pagudėnai įvardyti kaip kariuomenės subūrėjai, po antpuolio sudeginę pilaitę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pagudėnai puolė Pilaitė (0.87); Sūduviai puolė Pilaitė (0.80)"
+  vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
+  pagrindžia:
+    - c-67036
+
+<a id="claim-t-66946"></a>
+- t-002
+  teiginys: "Užpuolikai prie Ragavos upės ilgai puolė Veklico pilį, palaužė jos gynėjus, pilį sudegino, o žmones paėmė į nelaisvę arba nukovė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Veklicas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Veklico pilies ir vienos pilaitės sugriovimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Veklicas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Veklico pilies ir vienos pilaitės sugriovimas\" parinktas kaip owner_note_path. Targetas \"Veklicas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-67035
+
 ## Citatos
 
 - id: c-67035
@@ -64,6 +100,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-67036
   autorius: "Petras Dusburgietis"
@@ -96,74 +134,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-206118
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 146-147"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146-147."
-  citata_originali: |
-    Apie Veklico pilies ir vienos pilaitės sugriovimą
-
-      Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,
-    antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė
-    visus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui
-    patraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu
-    vienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado. Sutrikę dėl jo mirties,
-    pasitraukė iki vienos pilaitės, pastaytos tarp Ragavos ir Veisikos upių451, toje vietoje,
-
-      447 D.— castrum Hemsot, Jer.— Heimsôt, dab. Pšečnas (Przeczno), per 9 km  į
-    pietvakarius nuo Kulmenzės (dab. Chelmža), tarp Torunės ir Kulmo (SZCh, p. 102).
-      448 D.— castrum [...] dicti Cippel, Jer.— Zipfil; dab. Czaple Wielkie, kaimas per 9 km
-    į šiaurės vakarus nuo Vonbžezno (Wąbrzeźno).
-      449 D.— relicta hereditate paterna; paterna hereditas — iš tėvų paveldėtas turtas,
-    tėvonija (Jurginis J., Baudžiavos.., p. 160).
-      450 D.— Wirtel, Jer.— ein Prûze, der hîz Wirtil (prūsas, vardu Virtilas).
-      451 D.— Rogow, Jer.— Rogouwe (plg. lie. Ragava) ir D.— Weseca, Jer.— Weiske;
-
-    kur Veisika įteka į Drūsinės ežerą452, ir po neilgo antpuolio ją sudegino, žmones paėmė
-    į nelaisvę ar nužudė, išskyrus tuos, kurie valtimis paspruko per Drūsinės ežerą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-222635"></a>
-- t-001
-  teiginys: "Pagudėnai su sūduviais ir kitomis Prūsijos gentimis sudegino pilaitę tarp Ragavos ir Veisikos upių."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Pilaitė: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pilaitė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pagudėnai įvardyti kaip kariuomenės subūrėjai, po antpuolio sudeginę pilaitę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Pagudėnai puolė Pilaitė (0.87); Sūduviai puolė Pilaitė (0.80)"
-  vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
-  pagrindžia:
-    - c-206118
-
-<a id="claim-t-225335"></a>
-- t-002
-  teiginys: "Užpuolikai prie Ragavos upės ilgai puolė Veklico pilį, palaužė jos gynėjus, pilį sudegino, o žmones paėmė į nelaisvę arba nukovė."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Veklicas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Veklico pilies ir vienos pilaitės sugriovimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Veklicas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Veklico pilies ir vienos pilaitės sugriovimas\" parinktas kaip owner_note_path. Targetas \"Veklicas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-

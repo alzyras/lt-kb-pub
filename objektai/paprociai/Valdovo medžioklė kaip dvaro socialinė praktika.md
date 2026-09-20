@@ -39,6 +39,33 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-204140"></a>
+- t-001
+  teiginys: "XVI a. valdovo organizuojamomis medžioklėmis siekta teigiamų emocijų ir pasitenkinimo, nes džiaugsmingas valdovo gyvenimas laikytas pavaldinių gyvenimo kokybę veikiančiu veiksniu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186752
+
+<a id="claim-t-204177"></a>
+- t-002
+  teiginys: "Medžioklė LDK valdovo aplinkoje buvo ne vien viešo dvaro gyvenimo dalis, bet ir valdovo asmeninio ryšio su kilmingaisiais išraiška."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186772
+
 ## Santrauka
 
 XVI a. valdovo organizuojamomis medžioklėmis siekta teigiamų emocijų ir pasitenkinimo, nes džiaugsmingas valdovo gyvenimas laikytas pavaldinių gyvenimo kokybę veikiančiu veiksniu. Medžioklė LDK valdovo aplinkoje buvo ne vien viešo dvaro gyvenimo dalis, bet ir valdovo asmeninio ryšio su kilmingaisiais išraiška.
@@ -64,7 +91,7 @@ XVI a. valdovo organizuojamomis medžioklėmis siekta teigiamų emocijų ir pasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186772
@@ -89,33 +116,5 @@ XVI a. valdovo organizuojamomis medžioklėmis siekta teigiamų emocijų ir pasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-204140"></a>
-- t-001
-  teiginys: "XVI a. valdovo organizuojamomis medžioklėmis siekta teigiamų emocijų ir pasitenkinimo, nes džiaugsmingas valdovo gyvenimas laikytas pavaldinių gyvenimo kokybę veikiančiu veiksniu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186752
-
-<a id="claim-t-204177"></a>
-- t-002
-  teiginys: "Medžioklė LDK valdovo aplinkoje buvo ne vien viešo dvaro gyvenimo dalis, bet ir valdovo asmeninio ryšio su kilmingaisiais išraiška."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  pagrindžia:
-    - c-186772
-

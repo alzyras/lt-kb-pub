@@ -31,6 +31,20 @@ canonical_biography: "Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekau
 
 Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nuo netikėlių, noris visų bran giausiai, atpirkti, ko dėjęsis, išsiuntė karalius siun tinius į Parusnį.
 
+## Teiginiai
+
+<a id="claim-t-201416"></a>
+- t-001
+  teiginys: "Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nuo netikėlių, noris visų bran giausiai, atpirkti, ko dėjęsis, išsiuntė karalius siun tinius į Parusnį."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184766
+
 ## Citatos
 
 - id: c-184766
@@ -53,20 +67,5 @@ Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201416"></a>
-- t-001
-  teiginys: "Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nuo netikėlių, noris visų bran giausiai, atpirkti, ko dėjęsis, išsiuntė karalius siun tinius į Parusnį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184766
-

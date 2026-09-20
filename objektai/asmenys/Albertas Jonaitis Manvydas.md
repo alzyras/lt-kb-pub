@@ -44,6 +44,38 @@ canonical_biography: "1460 m. Albertas Jonaitis Manvydas siuntė savo bajorus nu
 
 1460 m. Albertas Jonaitis Manvydas siuntė savo bajorus nustatyti ribų tarp savo ir Vilniaus arkidiakono Motiejaus valdų. 1475 m. Albertas Jonaitis Manvydas dalyvavo Landshuto vestuvėse su 50 žmonių palyda, kuri išsiskyrė iš kitų Lenkijos ir Lietuvos ponų.
 
+## Teiginiai
+
+<a id="claim-t-204067"></a>
+- t-001
+  teiginys: "1460 m. Albertas Jonaitis Manvydas siuntė savo bajorus nustatyti ribų tarp savo ir Vilniaus arkidiakono Motiejaus valdų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1460 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Albertą Jonaitį Manvydą, datą ir jo administracinį veiksmą. Papildomų faktų ar atribucijos nereikia."
+  pagrindžia:
+    - c-186671
+
+<a id="claim-t-204068"></a>
+- t-002
+  teiginys: "1475 m. Albertas Jonaitis Manvydas dalyvavo Landshuto vestuvėse su 50 žmonių palyda, kuri išsiskyrė iš kitų Lenkijos ir Lietuvos ponų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1475 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nusako Alberto Jonaičio Manvydo dalyvavimą ir palydos dydį bei išskirtinumą. Nieko papildomai nepridėta."
+  pagrindžia:
+    - c-186672
+
 ## Citatos
 
 - id: c-186671
@@ -64,7 +96,7 @@ canonical_biography: "1460 m. Albertas Jonaitis Manvydas siuntė savo bajorus nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186672
@@ -83,38 +115,5 @@ canonical_biography: "1460 m. Albertas Jonaitis Manvydas siuntė savo bajorus nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-204067"></a>
-- t-001
-  teiginys: "1460 m. Albertas Jonaitis Manvydas siuntė savo bajorus nustatyti ribų tarp savo ir Vilniaus arkidiakono Motiejaus valdų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1460 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Albertą Jonaitį Manvydą, datą ir jo administracinį veiksmą. Papildomų faktų ar atribucijos nereikia."
-  pagrindžia:
-    - c-186671
-
-<a id="claim-t-204068"></a>
-- t-002
-  teiginys: "1475 m. Albertas Jonaitis Manvydas dalyvavo Landshuto vestuvėse su 50 žmonių palyda, kuri išsiskyrė iš kitų Lenkijos ir Lietuvos ponų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1475 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nusako Alberto Jonaičio Manvydo dalyvavimą ir palydos dydį bei išskirtinumą. Nieko papildomai nepridėta."
-  pagrindžia:
-    - c-186672
-

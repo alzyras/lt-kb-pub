@@ -27,6 +27,42 @@ media_all_json: |-
 
 Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (principatus supremus terre Littwanie), ir visos jos dominijos turi tekti Jogailai ir Lenkijai. Gi visi turtai, žemės, kunigaikš­ tijos ir visos Lietuvos dominijos, ką Vytautas valdo kaip tėviš­ kę, irgi turi tekti Jogailai, jo įpėdiniams, karūnai ir lenkų kara­ lystei (debent reverti, adiungxi plenarie et redire).
 
+## Teiginiai
+
+<a id="claim-t-173016"></a>
+- t-001
+  teiginys: "Vytauto valdytos Lietuvos dominijos, žemės, turtai ir kunigaikštijos turėjo tekti Jogailai, jo įpėdiniams, karūnai ir Lenkijos karalystei."
+  atnaujinta: "2026-05-31 14:13"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.64"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata formuluoja, kad Lietuvos dominijos turėjo atitekti Lenkijai, bet tai dokumento numatyta sąlyga, ne faktinė būsena."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuva priklausė Lenkija (0.64)"
+  pagrindžia:
+    - c-157354
+
+<a id="claim-t-173017"></a>
+- t-002
+  teiginys: "Dokumente numatyta, kad po Vytauto mirties Didžioji Lietuvos Kunigaikštystė ir jos dominijos turi tekti Jogailai ir Lenkijai."
+  atnaujinta: "2026-05-31 14:13"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Didžioji Lietuvos kunigaikštystė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Dokumento sąlyga nurodo, kad po Vytauto mirties Lietuvos kunigaikštystė turėtų atitekti Lenkijai ir Jogailai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Didžioji Lietuvos kunigaikštystė priklausė Lenkija (0.72)"
+  pagrindžia:
+    - c-157355
+
 ## Citatos
 
 - id: c-157354
@@ -50,7 +86,7 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-157355
@@ -74,42 +110,5 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-173016"></a>
-- t-001
-  teiginys: "Vytauto valdytos Lietuvos dominijos, žemės, turtai ir kunigaikštijos turėjo tekti Jogailai, jo įpėdiniams, karūnai ir Lenkijos karalystei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata formuluoja, kad Lietuvos dominijos turėjo atitekti Lenkijai, bet tai dokumento numatyta sąlyga, ne faktinė būsena."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuva priklausė Lenkija (0.64)"
-  pagrindžia:
-    - c-157354
-
-<a id="claim-t-173017"></a>
-- t-002
-  teiginys: "Dokumente numatyta, kad po Vytauto mirties Didžioji Lietuvos Kunigaikštystė ir jos dominijos turi tekti Jogailai ir Lenkijai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Didžioji Lietuvos kunigaikštystė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dokumento sąlyga nurodo, kad po Vytauto mirties Lietuvos kunigaikštystė turėtų atitekti Lenkijai ir Jogailai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Didžioji Lietuvos kunigaikštystė priklausė Lenkija (0.72)"
-  pagrindžia:
-    - c-157355
-

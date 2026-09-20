@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Adolfas iš Nasau'
+pavadinimas: Adolfas iš Nasau
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1298 m.'
+  - 1298 m.
 date_start: '1298'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-922a8afbf073f11f870d7f0b"
-canonical_name: "Adolfas iš Nasau"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Adolfas iš Nasau"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-922a8afbf073f11f870d7f0b
+canonical_name: Adolfas iš Nasau
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Adolfas iš Nasau
 sameAs: []
-canonical_biography: "Albrechtas 1298 metais nukovė Adolfą ir paveldėjo jo sostą."
+canonical_biography: Albrechtas 1298 metais nukovė Adolfą ir paveldėjo jo sostą.
 ---
 # Adolfas iš Nasau
 
@@ -73,6 +72,5 @@ Albrechtas 1298 metais nukovė Adolfą ir paveldėjo jo sostą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

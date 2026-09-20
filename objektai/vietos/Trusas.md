@@ -37,6 +37,53 @@ historical_names: []
 
 42, 50, 61, 63, 67, 92, 376 Trusas (Drausensee) 111 Truska L.
 
+## Teiginiai
+
+<a id="claim-t-192857"></a>
+- t-001
+  teiginys: "Narbuto pasakojime Trusas buvo prekybinis miestas prie Drūsinės ežero, galbūt ten, kur vėliau įkurtas Elbliongas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Drūsinė: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Trusas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Drūsinė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Trusas lokalizuojamas prie Drūsinės ežero."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Trusas priklausė Drūsinė (0.80)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175627
+
+<a id="claim-t-197934"></a>
+- t-002
+  teiginys: "Daugiausiai dėmesio vertas šios provincijos prekybinis miestas Trusas prie Drūsinės eže ro, buvęs, ko gero, ten, kur vėliau buvo įkurtas Elbliongas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-175627
+
+<a id="claim-t-201109"></a>
+- t-003
+  teiginys: "Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaičių jūrą, ant jos skardžio yra preky bos vietovė, vadinama Trusas, į kurią atkeliavęs 7 naktimis irkluodamas dieną ir naktį."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184459
+
 ## Citatos
 
 - id: c-175627
@@ -61,6 +108,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002
 
 - id: c-184459
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -82,80 +132,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-196899
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 357"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
-  citata_originali: |
-    Ki­
-    ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
-    mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
-    gezanijos tėvo, vardą. Daugiausiai dėmesio vertas šios
-    provincijos prekybinis miestas Trusas prie Drūsinės eže­
-    ro, buvęs, ko gero, ten, kur vėliau buvo įkurtas Elblion-
-    gas. Tačiau su tuo miestu susiję dalykai išnyksta prieš­
-    istorinėje praeityje, jog net nežinome, ar buvo šio seno­
-    vinio miesto pėdsakų prieš įkuriant Elbliongą. Jei netu­
-    rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
-    nieko nežinotume apie šį miestą.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-201109"></a>
-- t-001
-  teiginys: "Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaičių jūrą, ant jos skardžio yra preky bos vietovė, vadinama Trusas, į kurią atkeliavęs 7 naktimis irkluodamas dieną ir naktį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184459
-
-<a id="claim-t-213124"></a>
-- t-002
-  teiginys: "Narbuto pasakojime Trusas buvo prekybinis miestas prie Drūsinės ežero, galbūt ten, kur vėliau įkurtas Elbliongas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Drūsinė: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Trusas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Drūsinė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Trusas lokalizuojamas prie Drūsinės ežero."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Trusas priklausė Drūsinė (0.80)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-196899
-
-<a id="claim-t-214279"></a>
-- t-003
-  teiginys: "Daugiausiai dėmesio vertas šios provincijos prekybinis miestas Trusas prie Drūsinės eže ro, buvęs, ko gero, ten, kur vėliau buvo įkurtas Elbliongas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196899
-

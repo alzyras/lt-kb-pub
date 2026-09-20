@@ -33,6 +33,28 @@ media_all_json: |-
 
 Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas, kuriame numatyta bausti tuos, kurie niekins ir įžeidinės lietuvių tautą, Lietuvos vyriausybę, valstybi­nius L I E T U V O S I S T O R I J A 180.
 
+## Teiginiai
+
+<a id="claim-t-26492"></a>
+- t-001
+  teiginys: "1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas numatė bausti už lietuvių tautos, Lietuvos vyriausybės ir valstybinių ženklų niekinimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Klaipėda: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Lietuvos kontrolę Klaipėdos atžvilgiu, nors formuluotė kalba apie kontrolės silpnėjimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Klaipėda priklausė Lietuva (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta pašalinant perteklinį kontekstą ir OCR triukšmą."
+  pagrindžia:
+    - c-26717
+
 ## Citatos
 
 - id: c-26717
@@ -58,28 +80,5 @@ Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tauta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-26492"></a>
-- t-001
-  teiginys: "1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas numatė bausti už lietuvių tautos, Lietuvos vyriausybės ir valstybinių ženklų niekinimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Klaipėda: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Lietuvos kontrolę Klaipėdos atžvilgiu, nors formuluotė kalba apie kontrolės silpnėjimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Klaipėda priklausė Lietuva (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1934 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta pašalinant perteklinį kontekstą ir OCR triukšmą."
-  pagrindžia:
-    - c-26717
-

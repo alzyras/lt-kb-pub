@@ -47,6 +47,30 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
 
 ## Teiginiai
 
+<a id="claim-t-202087"></a>
+- t-001
+  teiginys: "Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (1609- 1677) jėzuitu tapo 1627 m., matyt, tėvams dar esant gyviems, jo jaunesnieji broliai jau buvę našlaičiai: 1634 m. Kazimieras (1617-1674), 1637 m. Petras (1620-1654)."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185434
+
+<a id="claim-t-202088"></a>
+- t-002
+  teiginys: "Kauno miestiečių sūnūs buvo jau minėti broliai Albertas, Kazimieras ir Petras Kojaiavičiai, žinomi jėzuitų veikėjai, Albertas - didžiausias XVII a."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185435
+
 <a id="claim-t-202995"></a>
 - t-003
   teiginys: "Kazimiero ir Petro Kojalavičių išlaikymas sudarė didžiąją globėjo išlaidų dalį."
@@ -67,30 +91,6 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
   pagrindžia:
     - c-185958
 
-<a id="claim-t-202087"></a>
-- t-202087
-  teiginys: "Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (1609- 1677) jėzuitu tapo 1627 m., matyt, tėvams dar esant gyviems, jo jaunesnieji broliai jau buvę našlaičiai: 1634 m. Kazimieras (1617-1674), 1637 m. Petras (1620-1654)."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185434
-
-<a id="claim-t-202088"></a>
-- t-202088
-  teiginys: "Kauno miestiečių sūnūs buvo jau minėti broliai Albertas, Kazimieras ir Petras Kojaiavičiai, žinomi jėzuitų veikėjai, Albertas - didžiausias XVII a."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185435
-
 ## Citatos
 
 - id: c-185434
@@ -106,8 +106,8 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-202087
+  pagrindzia:
+    - t-001
 
 - id: c-185435
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -124,8 +124,8 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-202088
+  pagrindzia:
+    - t-002
 
 - id: c-185958
   autorius: "Zigmantas Kiaupa"
@@ -134,8 +134,6 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 21:24"
-  pagrindžia:
+  pagrindzia:
     - t-003
-

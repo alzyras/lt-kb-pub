@@ -1,38 +1,37 @@
 ---
 tipas: asmuo
-pavadinimas: 'Mikalojus Mikalojaitis Radvila Jaunasis'
+pavadinimas: Mikalojus Mikalojaitis Radvila Jaunasis
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1505 m.'
-  - '1522 m.'
+  - 1505 m.
+  - 1522 m.
 date_start: '1505'
 date_end: '1522'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVI'
+  - XVI
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-de00acc87b2318249336ac4d"
-canonical_name: "Mikalojus Mikalojaitis Radvila Jaunasis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mikalojus Mikalojaitis Radvila Jaunasis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-de00acc87b2318249336ac4d
+canonical_name: Mikalojus Mikalojaitis Radvila Jaunasis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mikalojus Mikalojaitis Radvila Jaunasis
 sameAs: []
-canonical_biography: "Mikalojus Mikalojaitis Radvila Jaunasis buvo Mikalojus Radvilos Senojo sūnus. Vėliau, 1505.1, Mikalojus Radvila Jaunasis buvo paskirtas Trakų vaivada, o 1510."
+canonical_biography: 'Mikalojus Mikalojaitis Radvila Jaunasis buvo Mikalojus Radvilos Senojo sūnus. Vėliau, 1505.1, Mikalojus Radvila Jaunasis buvo paskirtas Trakų vaivada, o 1510.'
 ---
 # Mikalojus Mikalojaitis Radvila Jaunasis
 
@@ -88,7 +87,7 @@ Mikalojus Mikalojaitis Radvila Jaunasis buvo Mikalojus Radvilos Senojo sūnus. V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-193580
@@ -107,6 +106,5 @@ Mikalojus Mikalojaitis Radvila Jaunasis buvo Mikalojus Radvilos Senojo sūnus. V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

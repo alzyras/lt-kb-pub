@@ -36,6 +36,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206751"></a>
+- t-001
+  teiginys: "Paliaubų susitarimas numatė taikos laikotarpį tarp Prūsijos, Lietuvos ir Rusios nuo paskutinio sekmadienio prieš Sekmines iki liepos 27 d., į jį įtraukiant ir Livoniją."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189366
+
 ## Santrauka
 
 Paliaubų susitarimas numatė taikos laikotarpį tarp Prūsijos, Lietuvos ir Rusios nuo paskutinio sekmadienio prieš Sekmines iki liepos 27 d., į jį įtraukiant ir Livoniją.
@@ -58,21 +73,5 @@ Paliaubų susitarimas numatė taikos laikotarpį tarp Prūsijos, Lietuvos ir Rus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206751"></a>
-- t-001
-  teiginys: "Paliaubų susitarimas numatė taikos laikotarpį tarp Prūsijos, Lietuvos ir Rusios nuo paskutinio sekmadienio prieš Sekmines iki liepos 27 d., į jį įtraukiant ir Livoniją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189366
-

@@ -42,23 +42,10 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
 
 ## Teiginiai
 
-<a id="claim-t-223619"></a>
-- t-223619
-  teiginys: "Prūsai Heilsbergo pilį apsupo trimis kariuomenėmis ir trimis apgulos pabūklais."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-205282
-
-<a id="claim-t-224923"></a>
-- t-224923
+<a id="claim-t-184156"></a>
+- t-001
   teiginys: "Ordino magistras ir broliai užkariavo pagudėnų valdytą Heilsbergo pilį, jos žmones išžudė arba paėmė į nelaisvę."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -73,25 +60,26 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Pagudėnai valdė Heilsbergas (0.91)"
   pagrindžia:
-    - c-204984
+    - c-167541
 
-<a id="claim-t-179914"></a>
-- t-179914
-  teiginys: "Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-184960"></a>
+- t-002
+  teiginys: "Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Varmė: 0.72"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Heilsbergas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Varmė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys Heilsbergo pilį lokalizuoja Varmės žemėje, bet formuluotė yra netiesioginė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Heilsbergas priklausė Varmė (0.72)"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Heilsbergas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heilsbergas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-32070
+    - c-168321
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -134,9 +122,6 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179914
-
 - id: c-167541
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -155,6 +140,8 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-168321
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -181,45 +168,8 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-204984
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
-  citata_originali: |
-    Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
-    subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,
-    plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami į nelaisvę.
-    Be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones
-    išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo
-    taika.
-    172 (167).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224923
-
-- id: c-205282
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 117"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 117."
-  citata_originali: |
-    Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis]
-    bei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223619
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Pagudėnai]]

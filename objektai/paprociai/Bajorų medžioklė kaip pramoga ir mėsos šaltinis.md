@@ -39,6 +39,32 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-204301"></a>
+- t-001
+  teiginys: "XVI a. pabaigoje medžioklė virto ponų ir bajorų pramoga."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186932
+
+<a id="claim-t-204326"></a>
+- t-002
+  teiginys: "Žvėriena buvo neatsiejama bajorų virtuvės dalis, o bajorai dažniausiai valgydavo stumbrieną, šernieną, stirnieną, briedieną ir elnieną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186893
+
 ## Santrauka
 
 XVI a. pabaigoje medžioklė virto ponų ir bajorų pramoga. Žvėriena buvo neatsiejama bajorų virtuvės dalis, o bajorai dažniausiai valgydavo stumbrieną, šernieną, stirnieną, briedieną ir elnieną.
@@ -67,7 +93,7 @@ XVI a. pabaigoje medžioklė virto ponų ir bajorų pramoga. Žvėriena buvo nea
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-186932
@@ -92,32 +118,5 @@ XVI a. pabaigoje medžioklė virto ponų ir bajorų pramoga. Žvėriena buvo nea
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204301"></a>
-- t-001
-  teiginys: "XVI a. pabaigoje medžioklė virto ponų ir bajorų pramoga."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  pagrindžia:
-    - c-186932
-
-<a id="claim-t-204326"></a>
-- t-002
-  teiginys: "Žvėriena buvo neatsiejama bajorų virtuvės dalis, o bajorai dažniausiai valgydavo stumbrieną, šernieną, stirnieną, briedieną ir elnieną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  pagrindžia:
-    - c-186893
-

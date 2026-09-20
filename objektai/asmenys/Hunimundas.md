@@ -34,6 +34,41 @@ canonical_biography: "Jordano pasakojime svebų karaliukai Hunimundas ir Alarika
 
 Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais, pavydo paskatinti ėmė maištauti prieš gotus ir sukėlė pilietinį karą. Tačiau atsitiko taip, kad svebų kara liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių bendrininkai, kažin kokio pavydo šiai pagrindinei tautai paskatinti, ėmė maištauti ir sukėlė pilietinį karą.
 
+## Teiginiai
+
+<a id="claim-t-191418"></a>
+- t-001
+  teiginys: "Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais, pavydo paskatinti ėmė maištauti prieš gotus ir sukėlė pilietinį karą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Gotai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hunimundas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Maištas prieš gotus ir pilietinio karo sukėlimas tiesiogiai rodo konfliktą su gotais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Hunimundas kariavo prieš Gotai (0.86)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
+  pagrindžia:
+    - c-174300
+
+<a id="claim-t-197754"></a>
+- t-002
+  teiginys: "Tačiau atsitiko taip, kad svebų kara liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių bendrininkai, kažin kokio pavydo šiai pagrindinei tautai paskatinti, ėmė maištauti ir sukėlė pilietinį karą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174300
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais, pavydo paskatinti ėmė maištauti prieš gotus ir sukėlė pilietinį karą.'
@@ -88,35 +123,6 @@ Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-212399"></a>
-- t-001
-  teiginys: "Tačiau atsitiko taip, kad svebų kara liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių bendrininkai, kažin kokio pavydo šiai pagrindinei tautai paskatinti, ėmė maištauti ir sukėlė pilietinį karą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-213858"></a>
-- t-002
-  teiginys: "Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais, pavydo paskatinti ėmė maištauti prieš gotus ir sukėlė pilietinį karą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Gotai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hunimundas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Maištas prieš gotus ir pilietinio karo sukėlimas tiesiogiai rodo konfliktą su gotais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Hunimundas kariavo prieš Gotai (0.86)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-
+  pagrindzia:
+    - t-001
+    - t-002

@@ -28,6 +28,21 @@ Rašte nurodoma, kad Vytautas turėjo Ordinui užrašyti visas savo žemes, dal�
 
 Rašte nurodoma, kad Vytautas turėjo Ordinui užrašyti visas savo žemes, dalį jų palikti Ordinui, kitą atsiimti leno teise, asmeniškai tarnauti pašauktas ir be įpėdinių perduoti Ordinui visą palikimą.
 
+## Teiginiai
+
+<a id="claim-t-207069"></a>
+- t-001
+  teiginys: "Rašte nurodoma, kad Vytautas turėjo Ordinui užrašyti visas savo žemes, dalį jų palikti Ordinui, kitą atsiimti leno teise, asmeniškai tarnauti pašauktas ir be įpėdinių perduoti Ordinui visą palikimą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189684
+
 ## Citatos
 
 - id: c-189684
@@ -47,21 +62,5 @@ Rašte nurodoma, kad Vytautas turėjo Ordinui užrašyti visas savo žemes, dal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-207069"></a>
-- t-001
-  teiginys: "Rašte nurodoma, kad Vytautas turėjo Ordinui užrašyti visas savo žemes, dalį jų palikti Ordinui, kitą atsiimti leno teise, asmeniškai tarnauti pašauktas ir be įpėdinių perduoti Ordinui visą palikimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189684
-

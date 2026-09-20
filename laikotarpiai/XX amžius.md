@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XX amžius"
 periodo_pradzia: 1901
 periodo_pabaiga: 2000
-periodo_objektu_skaicius: 2772
+periodo_objektu_skaicius: 2758
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 2772.
+Objektų skaičius: 2758.
 
 ## Susiję objektai
 
@@ -1897,7 +1897,6 @@ Objektų skaičius: 2772.
 ### Šaltiniai
 - [[objektai/saltiniai/1655 metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m]]
 - [[objektai/saltiniai/1830-1831 m. sukilėlių valdžia Lietuvoje]]
-- [[objektai/saltiniai/1858 m. sausio 10 d. Motiejaus Valančiaus ganytojiškas laiškas apie valstiečių reformos ruošimą]]
 - [[objektai/saltiniai/1918–1940 m. Lietuvos žemėlapis]]
 - [[objektai/saltiniai/1920 m. liepos 12 d. taika su Sovietų Rusija]]
 - [[objektai/saltiniai/1938 metų gegužės 12 dienos Lietuvos Konstitucija]]
@@ -1940,7 +1939,6 @@ Objektų skaičius: 2772.
 - [[objektai/saltiniai/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)]]
 - [[objektai/saltiniai/Ambasadorių konferencijos sprendimas dėl Vilniaus ir sienų (1923 m. kovo 15 d.)]]
 - [[objektai/saltiniai/Ambrassat A. Die Provinz Ostpreussen]]
-- [[objektai/saltiniai/Anoniminis „garbingos ponios“ laiškas M. Valančiui]]
 - [[objektai/saltiniai/Antanas Smetona ir jo aplinka]]
 - [[objektai/saltiniai/Antanas Smetona ir jo laikai]]
 - [[objektai/saltiniai/Antano Šukio prisiminimai Du mediniai ir trys geležiniai kryžiai]]
@@ -1968,7 +1966,6 @@ Objektų skaičius: 2772.
 - [[objektai/saltiniai/Bibliography of Baltic Bibliographies]]
 - [[objektai/saltiniai/Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie]]
 - [[objektai/saltiniai/Bolonijos deklaracija]]
-- [[objektai/saltiniai/Bractwa trzežwošci na Litwie, głownie w diecezji żmudzkiej, 1858-1863]]
 - [[objektai/saltiniai/Bresto taika]]
 - [[objektai/saltiniai/Bučačo taikos sutartis (1672 m.)]]
 - [[objektai/saltiniai/Būdas senovės lietuvių Kalnėnų ir Žemaičių]]
@@ -2060,15 +2057,12 @@ Objektų skaičius: 2772.
 - [[objektai/saltiniai/K. Hevekeb, Die Schlacht bei Tannenberg]]
 - [[objektai/saltiniai/Kalevalos dr-jos metraštis]]
 - [[objektai/saltiniai/Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimas (1990 m. gegužės 18 d.)]]
-- [[objektai/saltiniai/Kaltinamoji išvada]]
 - [[objektai/saltiniai/Karo Archyvas]]
 - [[objektai/saltiniai/Karolomachija]]
 - [[objektai/saltiniai/Karwasińska J. Złote bulle Karola IV w sprawie chrztu Litwy]]
 - [[objektai/saltiniai/Katalikų Bažnyčia Lietuvoje]]
-- [[objektai/saltiniai/Kauno gubernatoriaus 1866 m. gruodžio 12 d. raštas Vilniaus generalgubernatoriui]]
 - [[objektai/saltiniai/Kauno miestiečiai ir Lietuvos bernardinų provincijos ikūrimas XVI a. pradžioje]]
 - [[objektai/saltiniai/Kauno pilis]]
-- [[objektai/saltiniai/Kazimiero Bagdzevičiaus 1828-12-14 laiškas Motiejui Valančiui]]
 - [[objektai/saltiniai/Kazlauskas J. Prūsai ir jų raštai]]
 - [[objektai/saltiniai/Keli moksleivių vertimai]]
 - [[objektai/saltiniai/KGB kontržvalgybos sąvokų žodynas]]
@@ -2265,8 +2259,6 @@ Objektų skaičius: 2772.
 - [[objektai/saltiniai/Monumentą Poloniae historica]]
 - [[objektai/saltiniai/Mortensen G. Beiträge zu den Nationalitäten und Siedlungsverhältnissen von Pr. Litauen]]
 - [[objektai/saltiniai/Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts]]
-- [[objektai/saltiniai/Vytautas Merkys - Motiejus Valancius - Tarp katalikiskojo universalizmo ir tautiskumo|Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo]]
-- [[objektai/saltiniai/Mozyriaus apskritinės mokyklos vedėjo 1827. VI. 5 pranešimas Minsko mokyklų direktoriui]]
 - [[objektai/saltiniai/Mroczko T. Ruch budowlany na ziemi Chełmińskiej w XIII w]]
 - [[objektai/saltiniai/Musų senovė]]
 - [[objektai/saltiniai/Mykolo Radvilos pastangos prijungti Lietuvai Rygą]]
@@ -2455,7 +2447,6 @@ Objektų skaičius: 2772.
 - [[objektai/saltiniai/Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj]]
 - [[objektai/saltiniai/Vakarų fronte nieko naujo]]
 - [[objektai/saltiniai/Valančius M. Raštai. T. 1]]
-- [[objektai/saltiniai/Valančius – Lituanistikos tyrimų rinkinys]]
 - [[objektai/saltiniai/Valstiečių «tarnyba» - feodalinio prievolių vienetas iki valakų įvedimo Lietuvoje]]
 - [[objektai/saltiniai/Valstiečių «veldamai» Lietuvoje XV-XVI a]]
 - [[objektai/saltiniai/Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais]]
@@ -2478,9 +2469,6 @@ Objektų skaičius: 2772.
 - [[objektai/saltiniai/Vileišio laiškai lietuviškų knygų spausdinimo klausimu]]
 - [[objektai/saltiniai/Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje]]
 - [[objektai/saltiniai/Vilniaus klasicizmas]]
-- [[objektai/saltiniai/Vilniaus laikinojo auditoriato 1865 m. spalio 23 d. išvada]]
-- [[objektai/saltiniai/Vilniaus laikinojo auditoriato išvada]]
-- [[objektai/saltiniai/Vilniaus laikinojo lauko auditoriato 1865 m. spalio 23 d. išvada]]
 - [[objektai/saltiniai/Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos]]
 - [[objektai/saltiniai/Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais]]
 - [[objektai/saltiniai/Vilniaus perdavimo sutartis (1939 m. spalio 10 d.)]]
@@ -2494,9 +2482,7 @@ Objektų skaičius: 2772.
 - [[objektai/saltiniai/Volkaitė-Kulikauskienė R. Lietuva valstybės susidarymo išvakarėse]]
 - [[objektai/saltiniai/Volumina Legum]]
 - [[objektai/saltiniai/Vudro Vilsono 14 punktų]]
-- [[objektai/saltiniai/Vydžių bažnyčios administratoriaus Stanislovo Tauroševičiaus 1854. III. 24 raštas M. Valančiui]]
 - [[objektai/saltiniai/Vyriausias Lietuvos Tribunolas XVI-XVIII amž]]
-- [[objektai/saltiniai/Vyskupas Motiejus Valančius nauja medžiaga iš Vatikano archyvo - laiškai 1850-1868]]
 - [[objektai/saltiniai/Vytautas D. istorinėje literatūroje ir jo periodo bibliografija]]
 - [[objektai/saltiniai/Vytautas Didysis ir jo Čekijos politika Venceliui mirus]]
 - [[objektai/saltiniai/Vytauto Didžiojo nuopelnai dvasinės kultūros srityje]]

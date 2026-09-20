@@ -36,6 +36,25 @@ historical_names: []
 
 Dusburgietis teigia, kad ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.
 
+## Teiginiai
+
+<a id="claim-t-58734"></a>
+- t-001
+  teiginys: "Ir Tepliava) Suvalkai Sūduonia, Sūduonė, u."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Suvalkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sūduonia: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Suvalkai: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduonia\" parinktas kaip owner_note_path. Targetas \"Suvalkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  pagrindžia:
+    - c-59366
+
 ## Citatos
 
 - id: c-59366
@@ -53,43 +72,5 @@ Dusburgietis teigia, kad ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-205614
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 318"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
-  citata_originali: |
-    ir Tepliava)
-    Suvalkai
-    Sūduonia, Sūduonė, u.
-    Sūduva (Sudowia), ž.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-223531"></a>
-- t-001
-  teiginys: "Ir Tepliava) Suvalkai Sūduonia, Sūduonė, u."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Suvalkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sūduonia: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Suvalkai: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduonia\" parinktas kaip owner_note_path. Targetas \"Suvalkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  pagrindžia:
-    - c-205614
-

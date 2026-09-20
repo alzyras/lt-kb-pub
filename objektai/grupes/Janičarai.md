@@ -27,6 +27,38 @@ media_all_json: |-
 
 Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą. Trečią kovų dieną janičarai po artilerinio apšaudymo atakavo LDK didžiojo etmono ginamus įtvirtinimus ir kazokų stovyklą.
 
+## Teiginiai
+
+<a id="claim-t-40893"></a>
+- t-001
+  teiginys: "Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kazokai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Janičarai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kazokai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad janičarai atakavo Ukrainos kazokų stovyklą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Janičarai puolė Kazokai (0.90)"
+  pagrindžia:
+    - c-44747
+
+<a id="claim-t-193732"></a>
+- t-002
+  teiginys: "Trečią kovų dieną janičarai po artilerinio apšaudymo atakavo LDK didžiojo etmono ginamus įtvirtinimus ir kazokų stovyklą."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-42679
+
 ## Citatos
 
 - id: c-42679
@@ -49,7 +81,7 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-44747
@@ -70,42 +102,9 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Puolė Janičarai: [[objektai/grupes/Lisovčikai]]
 - Janičarai puolė [[objektai/grupes/Kazokai]]
-
-## Teiginiai
-
-<a id="claim-t-40893"></a>
-- t-001
-  teiginys: "Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kazokai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Janičarai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kazokai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad janičarai atakavo Ukrainos kazokų stovyklą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Janičarai puolė Kazokai (0.90)"
-  pagrindžia:
-    - c-44747
-
-<a id="claim-t-193732"></a>
-- t-002
-  teiginys: "Trečią kovų dieną janičarai po artilerinio apšaudymo atakavo LDK didžiojo etmono ginamus įtvirtinimus ir kazokų stovyklą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-42679
-

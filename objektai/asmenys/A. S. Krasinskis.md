@@ -2,40 +2,40 @@
 tipas: asmuo
 pavadinimas: 'A. S. Krasinskis (vyskupas, XIX a.)'
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1860 m.'
+  - 1860 m.
 date_start: '1860'
 date_end: ''
 variantai:
-  - 'A. S. Krasinskis'
+  - A. S. Krasinskis
 aliases:
-  - 'A. S. Krasinskis'
+  - A. S. Krasinskis
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8459e4ba33411b05954c094c"
-canonical_name: "A. S. Krasinskis (vyskupas, XIX a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["A. S. Krasinskis","A. S. Krasinskis (vyskupas, XIX a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8459e4ba33411b05954c094c
+canonical_name: 'A. S. Krasinskis (vyskupas, XIX a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - A. S. Krasinskis
+  - 'A. S. Krasinskis (vyskupas, XIX a.)'
 sameAs: []
-canonical_biography: "A. S. Krasinskis buvo Vilniaus vyskupas, dalyvavęs 1860 m. spalio 1 d. iškilmėse katedroje."
+canonical_biography: 'A. S. Krasinskis buvo Vilniaus vyskupas, dalyvavęs 1860 m. spalio 1 d. iškilmėse katedroje.'
 ---
 # A. S. Krasinskis (vyskupas, XIX a.)
 

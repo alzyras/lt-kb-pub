@@ -37,6 +37,20 @@ media_all_json: |-
 
 Dusburgietis teigia, kad 376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane (Brauno) yra prie Steindamm gatvės.
 
+## Teiginiai
+
+<a id="claim-t-61054"></a>
+- t-001
+  teiginys: "Brauno 1550 m. Karaliaučiaus plane Mikalojaus bažnyčia pažymėta prie Steindamm gatvės."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 250 m; įvykio data: apie 250 m.; įvykio data: 1550 m.; įvykio data: 1613 m.; įvykio data: 1815 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys ir tiesiogiai remiasi citata."
+  pagrindžia:
+    - c-61686
+
 ## Citatos
 
 - id: c-61686
@@ -53,36 +67,5 @@ Dusburgietis teigia, kad 376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-205152
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 121"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121."
-  citata_originali: |
-    376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane (Brauno) yra prie Steindamm
-    gatvės. Vėliau — Steindamm Kirche (1613 m, XX a. planai), polnische Kirche (1815 m.
-    planas). Bažnyčia stovėjo apie 250 m į šiaurės vakarus nuo buv. pilies.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-222038"></a>
-- t-001
-  teiginys: "Brauno 1550 m. Karaliaučiaus plane Mikalojaus bažnyčia pažymėta prie Steindamm gatvės."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 250 m; įvykio data: apie 250 m.; įvykio data: 1550 m.; įvykio data: 1613 m.; įvykio data: 1815 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys ir tiesiogiai remiasi citata."
-  pagrindžia:
-    - c-205152
-

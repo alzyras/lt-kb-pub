@@ -31,6 +31,20 @@ media_all_json: |-
 
 Tai sakoma 1576 m. Stepono Batoro leidime, apie tai kalbama ir 1584 m. Kauno miesto tarybos nutarime, 1594 m. Zigmanto Vazos leidime.
 
+## Teiginiai
+
+<a id="claim-t-202295"></a>
+- t-001
+  teiginys: "Tai sakoma 1576 m. Stepono Batoro leidime, apie tai kalbama ir 1584 m. Kauno miesto tarybos nutarime, 1594 m. Zigmanto Vazos leidime."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185642
+
 ## Citatos
 
 - id: c-185642
@@ -46,20 +60,5 @@ Tai sakoma 1576 m. Stepono Batoro leidime, apie tai kalbama ir 1584 m. Kauno mie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202295"></a>
-- t-001
-  teiginys: "Tai sakoma 1576 m. Stepono Batoro leidime, apie tai kalbama ir 1584 m. Kauno miesto tarybos nutarime, 1594 m. Zigmanto Vazos leidime."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185642
-

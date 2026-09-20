@@ -27,6 +27,21 @@ media_all_json: |-
 
 Po kelių mėnesių Ramanauskas-Vanagas buvo pakeltas į Merkio rinktinės vado pareigas.
 
+## Teiginiai
+
+<a id="claim-t-193812"></a>
+- t-001
+  teiginys: "Rugpjūtį jo vadovaujama kuopa buvo performuota į Merkinės batalioną."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-176457
+
 ## Citatos
 
 - id: c-176457
@@ -46,21 +61,5 @@ Po kelių mėnesių Ramanauskas-Vanagas buvo pakeltas į Merkio rinktinės vado 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193812"></a>
-- t-001
-  teiginys: "Rugpjūtį jo vadovaujama kuopa buvo performuota į Merkinės batalioną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-176457
-

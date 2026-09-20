@@ -31,6 +31,44 @@ media_all_json: |-
 
 Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistratas, kuriam Nabienė suteikė patronavimo ir kunigo pristatymo teisę, prašė Vilniaus vyskupo Alberto Radvilos į Šv. 1577 m. Kauno magistratas patvirtino batsiuvių cecho nuostatus. Statyba rūpinosi klebonai ir Kauno magistratas, tai buvo bendras rūpestis.
 
+## Teiginiai
+
+<a id="claim-t-201856"></a>
+- t-001
+  teiginys: "Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistratas, kuriam Nabienė suteikė patronavimo ir kunigo pristatymo teisę, prašė Vilniaus vyskupo Alberto Radvilos į Šv."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185203
+
+<a id="claim-t-201857"></a>
+- t-002
+  teiginys: "1577 m. Kauno magistratas patvirtino batsiuvių cecho nuostatus."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185204
+
+<a id="claim-t-201858"></a>
+- t-003
+  teiginys: "Statyba rūpinosi klebonai ir Kauno magistratas, tai buvo bendras rūpestis."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185205
+
 ## Citatos
 
 - id: c-185203
@@ -47,7 +85,7 @@ Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185204
@@ -62,7 +100,7 @@ Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-185205
@@ -80,44 +118,5 @@ Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-201856"></a>
-- t-001
-  teiginys: "Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistratas, kuriam Nabienė suteikė patronavimo ir kunigo pristatymo teisę, prašė Vilniaus vyskupo Alberto Radvilos į Šv."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185203
-
-<a id="claim-t-201857"></a>
-- t-002
-  teiginys: "1577 m. Kauno magistratas patvirtino batsiuvių cecho nuostatus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185204
-
-<a id="claim-t-201858"></a>
-- t-003
-  teiginys: "Statyba rūpinosi klebonai ir Kauno magistratas, tai buvo bendras rūpestis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185205
-

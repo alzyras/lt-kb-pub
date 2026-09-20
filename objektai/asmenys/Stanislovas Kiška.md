@@ -47,6 +47,89 @@ canonical_biography: "LDK valdovas Aleksandras vyriausiais kariuomenės vadais p
 
 Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patirties kovose su totoriais ir maskvėnais (po to, kai 1502 m. jam pavyko apginti Smolenską nuo maskvėnų, jam buvo patikėtos etmono pareigos). Rugpjūčio 5 d. paryčiais žygio vargai etmoną Stanislovą Kišką išvertė iš kojų.
 
+## Teiginiai
+
+<a id="claim-t-79162"></a>
+- t-001
+  teiginys: "LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Smolenskas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Stanislovas Kiška: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad Kiškai pavyko apginti Smolenską nuo maskvėnų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Stanislovas Kiška gynė Smolenskas (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1502 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti Stanislovo Kiškos pareigas ir pašalinti trumpinį."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-76241
+
+<a id="claim-t-79163"></a>
+- t-002
+  teiginys: "Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kiška: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stanislovas Kiška: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kiška: mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Kiška\" parinktas kaip owner_note_path. Targetas \"Kiška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-76240
+
+<a id="claim-t-184831"></a>
+- t-003
+  teiginys: "Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Maskva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Stanislovas Kiška: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nusiaubtos Maskvos valdos rodo Kiškos karinį puolimą prieš Maskvos valdas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Stanislovas Kiška puolė Maskva (0.82); Stanislovas Kiška gynė Lietuva (0.73)"
+  temporaliniai_duomenys: "įvykio data: 1442 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys labiau akcentuoja Kazimiero veiksmą, todėl perrašyta aiškiau apie Kiškos vaidmenį."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  pagrindžia:
+    - c-168192
+
+<a id="claim-t-184832"></a>
+- t-004
+  teiginys: "Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Viazma: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Stanislovas Kiška: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Viazma: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kiškos veiksmas tiesiogiai nukreiptas prieš Viazmos žemę, kurią jis nusiaubė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Stanislovas Kiška puolė Viazma (0.88)"
+  pagrindžia:
+    - c-168193
+
 ## Citatos
 
 - id: c-76240
@@ -68,7 +151,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-76241
@@ -95,7 +178,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-168192
@@ -130,7 +213,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-168193
@@ -153,92 +236,8 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 ## Ryšiai
 - Stanislovas Kiška gynė [[objektai/vietos/Smolenskas]]
-
-## Teiginiai
-
-<a id="claim-t-79162"></a>
-- t-001
-  teiginys: "LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Smolenskas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stanislovas Kiška: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad Kiškai pavyko apginti Smolenską nuo maskvėnų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Stanislovas Kiška gynė Smolenskas (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1502 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti Stanislovo Kiškos pareigas ir pašalinti trumpinį."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-76241
-
-<a id="claim-t-79163"></a>
-- t-002
-  teiginys: "Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kiška: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stanislovas Kiška: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kiška: mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Kiška\" parinktas kaip owner_note_path. Targetas \"Kiška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-76240
-
-<a id="claim-t-184831"></a>
-- t-003
-  teiginys: "Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Maskva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stanislovas Kiška: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nusiaubtos Maskvos valdos rodo Kiškos karinį puolimą prieš Maskvos valdas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Stanislovas Kiška puolė Maskva (0.82); Stanislovas Kiška gynė Lietuva (0.73)"
-  temporaliniai_duomenys: "įvykio data: 1442 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys labiau akcentuoja Kazimiero veiksmą, todėl perrašyta aiškiau apie Kiškos vaidmenį."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  pagrindžia:
-    - c-168192
-
-<a id="claim-t-184832"></a>
-- t-004
-  teiginys: "Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Viazma: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stanislovas Kiška: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Viazma: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kiškos veiksmas tiesiogiai nukreiptas prieš Viazmos žemę, kurią jis nusiaubė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Stanislovas Kiška puolė Viazma (0.88)"
-  pagrindžia:
-    - c-168193
-

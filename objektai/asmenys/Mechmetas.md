@@ -34,6 +34,20 @@ canonical_biography: "Ir jis pa skyrė jiems chaną, vardu Mechmetą l0."
 
 Ir jis pa skyrė jiems chaną, vardu Mechmetą l0.
 
+## Teiginiai
+
+<a id="claim-t-194139"></a>
+- t-001
+  teiginys: "Ir jis pa skyrė jiems chaną, vardu Mechmetą l0."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-176752
+
 ## Citatos
 
 - id: c-176752
@@ -53,39 +67,5 @@ Ir jis pa skyrė jiems chaną, vardu Mechmetą l0.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193727
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 180"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 180."
-  citata_originali: |
-    Ir jie patys atvyko ir nusilenkė jam, šlo­
-    vingajam valdovui, didžiajam kunigaikščiui Vytautui, ir
-    atnešė brangių dovanų, ir prašo iš jo chano. Ir jis pa­
-    skyrė jiems chaną, vardu Mechmetą l0.
-    Kaip kad iš jūros daug upių teka, taip iš šio didžio­
-    jo valdovo, didžiojo kunigaikščio Vytauto — išmintis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-211290"></a>
-- t-001
-  teiginys: "Ir jis pa skyrė jiems chaną, vardu Mechmetą l0."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193727
-

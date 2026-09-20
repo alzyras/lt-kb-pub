@@ -40,6 +40,38 @@ Periodinis leidinys, kuriame A. R. Niemis paskelbė bent 1899 m. straipsnį apie
 
 A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
+## Teiginiai
+
+<a id="claim-t-195220"></a>
+- t-001
+  teiginys: "1899 m. „Virittaja“ paskelbtas A. R. Niemio darbas „Apie mūsų (suomių) būrimo poezijos atsiradimą“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177588
+
+<a id="claim-t-195221"></a>
+- t-002
+  teiginys: "1900 m. „Virittaja“ paskelbta A. R. Niemio „Ritvalos Helkos šventė“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177586
+
+<a id="claim-t-195222"></a>
+- t-003
+  teiginys: "1914 m. „Virittaja“ paskelbtas A. R. Niemio straipsnis „Apie lietuvių burtažodžius“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177587
+
 ## Citatos
 
 - id: c-177586
@@ -59,7 +91,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177587
@@ -77,7 +109,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-177588
@@ -95,38 +127,5 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195220"></a>
-- t-001
-  teiginys: "1899 m. „Virittaja“ paskelbtas A. R. Niemio darbas „Apie mūsų (suomių) būrimo poezijos atsiradimą“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177588
-
-<a id="claim-t-195221"></a>
-- t-002
-  teiginys: "1900 m. „Virittaja“ paskelbta A. R. Niemio „Ritvalos Helkos šventė“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177586
-
-<a id="claim-t-195222"></a>
-- t-003
-  teiginys: "1914 m. „Virittaja“ paskelbtas A. R. Niemio straipsnis „Apie lietuvių burtažodžius“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177587
-

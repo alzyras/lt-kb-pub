@@ -27,6 +27,18 @@ media_all_json: |-
 
 Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems kelio lietuviai. žygis: ordinas gebėjo kasmet suruošti į Lietuvą ne mažiau, kaip du žy- gius: vienas paprastai būdavo sausio ar vasario mėnesį, o antras — vasaros gale, dažniausiai rugpiūčio mėnesį. žygis: šitie nereguliarūs žygiai dažniausiai būdavo ruošiami tada, kai iš Vakarų atvykdavo svečių. Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė.
 
+## Teiginiai
+
+<a id="claim-t-70429"></a>
+- t-001
+  teiginys: "Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69442
+    - c-166392
+
 ## Citatos
 
 - id: c-69442
@@ -48,7 +60,7 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166392
@@ -71,18 +83,5 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-70429"></a>
-- t-001
-  teiginys: "Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69442
-    - c-166392
-

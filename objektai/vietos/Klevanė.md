@@ -36,6 +36,42 @@ historical_names: []
 
 Čartoriskiai (Klevanė), Vyšnioveckiai (Vyšnivecis) ir kiti,.
 
+## Teiginiai
+
+<a id="claim-t-76582"></a>
+- t-001
+  teiginys: "Klevanėje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Čartoriskiai."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Klevanė: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Čartoriskiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Klevanė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tėvonijos sukūrimas Klevanėje rodo Čartoriskių valdomą teritorinę atramą, nors santykis išreikštas netiesiogiai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Čartoriskiai valdė teritoriją Klevanė (0.72)"
+  pagrindžia:
+    - c-24196
+
+<a id="claim-t-76583"></a>
+- t-002
+  teiginys: "Voluinėje Čartoriskiai sukūrė tėvoniją Klevanėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Klevanė: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Čartoriskiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Klevanė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Čartoriskiai siejami su Klevane kaip tėvonijos vieta."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Čartoriskiai valdė teritoriją Klevanė (0.70)"
+  pagrindžia:
+    - c-74133
+
 ## Citatos
 
 - id: c-24196
@@ -59,7 +95,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-74133
@@ -87,42 +123,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-76582"></a>
-- t-001
-  teiginys: "Klevanėje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Čartoriskiai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Klevanė: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Čartoriskiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Klevanė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tėvonijos sukūrimas Klevanėje rodo Čartoriskių valdomą teritorinę atramą, nors santykis išreikštas netiesiogiai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Čartoriskiai valdė teritoriją Klevanė (0.72)"
-  pagrindžia:
-    - c-24196
-
-<a id="claim-t-76583"></a>
-- t-002
-  teiginys: "Voluinėje Čartoriskiai sukūrė tėvoniją Klevanėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Klevanė: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Čartoriskiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Klevanė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Čartoriskiai siejami su Klevane kaip tėvonijos vieta."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Čartoriskiai valdė teritoriją Klevanė (0.70)"
-  pagrindžia:
-    - c-74133
-

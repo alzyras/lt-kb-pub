@@ -48,6 +48,24 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205970"></a>
+- t-001
+  teiginys: "Po Vytenio mirties 1316 m. pradžioje Gediminas, kaip aprašo Teodoras Narbutas, buvo iškeltas didžiuoju kunigaikščiu į tėvo sostą, dalyvaujant broliams Gvaželučiui ir Vainiui."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1316 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas įvykio laikas, paveldėjimo aplinkybė ir dalyviai. Didžiojo kunigaikščio titulavimas paliktas su atribucija."
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188585
+
 ## Santrauka
 
 Po Vytenio mirties 1316 m. pradžioje Gediminas, kaip aprašo Teodoras Narbutas, buvo iškeltas didžiuoju kunigaikščiu į tėvo sostą, dalyvaujant broliams Gvaželučiui ir Vainiui.
@@ -74,24 +92,5 @@ Po Vytenio mirties 1316 m. pradžioje Gediminas, kaip aprašo Teodoras Narbutas,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205970"></a>
-- t-001
-  teiginys: "Po Vytenio mirties 1316 m. pradžioje Gediminas, kaip aprašo Teodoras Narbutas, buvo iškeltas didžiuoju kunigaikščiu į tėvo sostą, dalyvaujant broliams Gvaželučiui ir Vainiui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas įvykio laikas, paveldėjimo aplinkybė ir dalyviai. Didžiojo kunigaikščio titulavimas paliktas su atribucija."
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188585
-

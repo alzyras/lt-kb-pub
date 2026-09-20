@@ -37,6 +37,24 @@ historical_names: []
 
 148 Uturiai, prie Betygalos 177 Uzbekas, chanas 183, 241, 242 Užnemunė 61, 78, 95, 96, 105, 108, 254, 326 Užpaliai 118 Užsienio Lietuvių Spaudos Metraštis 17 Vaclovas, Čekijos karalius 336, 356, žr.
 
+## Teiginiai
+
+<a id="claim-t-32626"></a>
+- t-001
+  teiginys: "Uturiai buvo prie Betygalos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Betygala: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Uturiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Betygala: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uturiai\" parinktas kaip owner_note_path. Targetas \"Betygala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-34066
+
 ## Citatos
 
 - id: c-34066
@@ -98,24 +116,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-32626"></a>
-- t-001
-  teiginys: "Uturiai buvo prie Betygalos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Betygala: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Uturiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Betygala: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uturiai\" parinktas kaip owner_note_path. Targetas \"Betygala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-34066
-

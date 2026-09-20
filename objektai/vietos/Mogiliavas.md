@@ -47,6 +47,56 @@ historical_names: []
 
 Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes.
 
+## Teiginiai
+
+<a id="claim-t-114776"></a>
+- t-001
+  teiginys: "1578 m. sausio 28 d. Steponas Batoras suteikė Mogiliavui privilegiją, kuria miestas gavo Magdeburgo teisę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltarusija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mogiliavas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltarusija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mogiliavas\" parinktas kaip owner_note_path. Targetas \"Baltarusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1578 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas bibliografinis ir OCR triukšmas, paliktas esminis faktas."
+  pagrindžia:
+    - c-105804
+
+<a id="claim-t-114777"></a>
+- t-002
+  teiginys: "Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Mogiliavas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Mogiliavas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Rusų sudegintas Mogiliavas tiesiogiai rodo karinį puolimą prieš miestą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Rusai puolė Mogiliavas (0.88); Rusai puolė Šklovas (0.84)"
+  pagrindžia:
+    - c-105805
+
+<a id="claim-t-201634"></a>
+- t-003
+  teiginys: "Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Brestas, Kijevas, Mogiliavas, Pinskas, Polockas, Vitebskas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184981
+
 ## Citatos
 
 - id: c-105804
@@ -65,7 +115,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-105805
@@ -87,7 +137,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184981
@@ -103,93 +153,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-- id: c-190680
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 248"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 248."
-  citata_originali: |
-    J. K, Glaubicą pasikvietė Kijevo metropolitas, Polocko arkivyskupas
-    Florijonas Hrebnickis {Florian Hrebnicki, 1684-1761), jam pavedęs suprojektuoti
-    ir pastatyti metropolito rezidenciją Strunioje, taip pat unitų Šv. Sofijos katedrą
-    bei bazilijonų vienuolyną (statybos baigtos apie 176z m.) Polocke.
-    Architekto gebėjimai 1756 m. sudomino ir Mogiliavo vyskupą Georgijų Ko-
-    niskį {Grigorij Konisski, Jerzy Koniski, 1717-1795), kurio pageidavimu J. K. Glau­
-    bicui patikėta suprojektuoti ir pastatyti Mogiliavo Išganytojo Atsimainymo
-    katedrą, vienuolyno ansamblį, seminariją bei vyskupijos rūmus (statyba baigta
-    176} m.)".
-  citata_rodoma: "1756 m. sudomino ir Mogiliavo vyskupą Georgijų Ko-\nniskį {Grigorij Konisski, Jerzy Koniski, 1717-1795), kurio pageidavimu J. K. Glau­\nbicui patikėta suprojektuoti ir pastatyti Mogiliavo Išganytojo Atsimainymo \nkatedrą, vienuolyno ansamblį, seminariją bei vyskupijos rūmus"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-## Teiginiai
-
-<a id="claim-t-114776"></a>
-- t-001
-  teiginys: "1578 m. sausio 28 d. Steponas Batoras suteikė Mogiliavui privilegiją, kuria miestas gavo Magdeburgo teisę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltarusija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mogiliavas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltarusija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mogiliavas\" parinktas kaip owner_note_path. Targetas \"Baltarusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1578 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas bibliografinis ir OCR triukšmas, paliktas esminis faktas."
-  pagrindžia:
-    - c-105804
-
-<a id="claim-t-114777"></a>
-- t-002
-  teiginys: "Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Mogiliavas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Mogiliavas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Rusų sudegintas Mogiliavas tiesiogiai rodo karinį puolimą prieš miestą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Rusai puolė Mogiliavas (0.88); Rusai puolė Šklovas (0.84)"
-  pagrindžia:
-    - c-105805
-
-<a id="claim-t-201634"></a>
-- t-003
-  teiginys: "Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Brestas, Kijevas, Mogiliavas, Pinskas, Polockas, Vitebskas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184981
-
-<a id="claim-t-208046"></a>
-- t-004
-  teiginys: "Mogiliave J. K. Glaubicas projektavo ir statė Išganytojo Atsimainymo katedrą, vienuolyno ansamblį, seminariją bei vyskupijos rūmus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  pagrindžia:
-    - c-190680
-

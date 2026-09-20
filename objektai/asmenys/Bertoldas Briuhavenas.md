@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Bertoldas Briuhavenas'
+pavadinimas: Bertoldas Briuhavenas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
@@ -14,19 +14,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-227fc268a045d5b9c9c89573"
-canonical_name: "Bertoldas Briuhavenas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Bertoldas Briuhavenas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-227fc268a045d5b9c9c89573
+canonical_name: Bertoldas Briuhavenas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Bertoldas Briuhavenas
 sameAs: []
-canonical_biography: "Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas. Bertoldas Briuhavenas puolė Medrabą, ją užėmė ir, pasak Kojelavičiaus, išvadavo ten kalintus krikščionis. Bertoldas Briuhavenas, Karaliaučiaus komtūras, Livonijoje su Prūsijos kryžiuočių daliniu nugalėjo apgulties išsekintus lietuvius."
+canonical_biography: 'Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas. Bertoldas Briuhavenas puolė Medrabą, ją užėmė ir, pasak Kojelavičiaus, išvadavo ten kalintus krikščionis. Bertoldas Briuhavenas, Karaliaučiaus komtūras, Livonijoje su Prūsijos kryžiuočių daliniu nugalėjo apgulties išsekintus lietuvius.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:25:53+00:00","source_checked_at":"2026-09-20T03:25:53+00:00","counts":{"relations":2,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"fab475894d88cbabf500cc1d","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Karaliaučiaus komtūras","context":"Albertas Vijūkas-Kojelavičius, „Lietuvos istorija“ (1989 m.), ir Teodoras Narbutas, „Lietuvių tautos istorija“, t. 4 (1997 m.), Bertoldą Briuhaveną įvardija Karaliaučiaus komtūru.","support_ids":["t-196427","c-178679","t-205655","c-188270"],"source_refs":[{"kind":"internal_claim","claim_id":"t-196427","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"internal_claim","claim_id":"t-205655","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-178679","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Toje stovykloje kartu su ry- giečiais buvo keturi tūkstančiai karių, kurie ryžtingai spaudė apgultuosius. Sėkmingai užbaigti kovos nedavė Bertoldas Briuhavenas, Karaliaučiaus komtūras, pasiųs­ tas pagalbon į Livoniją su Prūsijos kryžiuočių daliniu: užpuolęs su nepavargusia kariuomene sunkios apgul- ties išsekintus lietuvius, nugalėjo juos ir išvaikė; dau­ gybė žuvo, daugybė nuskendo upėje, per kurią bėg­ dami turėjo keltis. Šiek tiek vėliau Vytenis, gal bijo­ damas, kad po jo pergalės pablogėjusi Livonijos ordino padėtis, Prūsijos kryžiuočiams suteikus pagalbą ko­ voje prieš Rygą, nesustiprėtų, gal norėdamas gandais apie vidaus sąmyšius atgrasinti Prūsijos kryžiuočius nuo karo Livonijoje…"},{"kind":"evidence","evidence_id":"c-188270","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Apgulta Naujojo Malūno pilis buvo reikalinga skubios pagalbos, tad buvo išsiųstas stiprus riterių ir ginkluotų žmonių dalinys, vadovaujamas Kara­ liaučiaus komtūro Bertoldo Briuhaveno, su kuriuo kartu vietoj Brunono atvyko Livonijos magistru paskirtas Gotf­ ridas Rogė."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Bertoldas Briuhavenas buvo Karaliaučiaus komtūras ir kryžiuočių karinis vadovas, minimas Livonijos karo veiksmų kontekste. Kai buvo apgulta Naujojo Malūno pilis, jis vadovavo skubiai pasiųstam stipriam riterių ir ginkluotų žmonių daliniui; kartu su juo atvyko Livonijos magistru paskirtas Gotfridas Rogė. Vėliau Briuhavenas, atvykęs į Livoniją su Prūsijos kryžiuočių daliniu, užpuolė sunkios apgulties išsekintus lietuvius, juos nugalėjo ir išvaikė; pasakojime minima, kad daug žmonių žuvo arba nuskendo bandydami pasitraukti per upę. Pasinaudojęs šia pergale, jis surengė žygį į Rygą, šturmu paėmė arkivyskupo pilį ir apiplėšė jos iždą bei bažnyčias, iš kurių aukso ir sidabro reikmenų esą prisigrobė už šešis tūkstančius sidabro grivinų.","sentences":[{"sentence_id":"s1","text":"Bertoldas Briuhavenas buvo Karaliaučiaus komtūras ir kryžiuočių karinis vadovas, minimas Livonijos karo veiksmų kontekste.","support_ids":["t-196427","t-205655"]},{"sentence_id":"s2","text":"Kai buvo apgulta Naujojo Malūno pilis, jis vadovavo skubiai pasiųstam stipriam riterių ir ginkluotų žmonių daliniui; kartu su juo atvyko Livonijos magistru paskirtas Gotfridas Rogė.","support_ids":["t-205655"]},{"sentence_id":"s3","text":"Vėliau Briuhavenas, atvykęs į Livoniją su Prūsijos kryžiuočių daliniu, užpuolė sunkios apgulties išsekintus lietuvius, juos nugalėjo ir išvaikė; pasakojime minima, kad daug žmonių žuvo arba nuskendo bandydami pasitraukti per upę.","support_ids":["t-196427"]},{"sentence_id":"s4","text":"Pasinaudojęs šia pergale, jis surengė žygį į Rygą, šturmu paėmė arkivyskupo pilį ir apiplėšė jos iždą bei bažnyčias, iš kurių aukso ir sidabro reikmenų esą prisigrobė už šešis tūkstančius sidabro grivinų.","support_ids":["t-205656"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai tiesiogiai nurodo, kad Bertoldas Briuhavenas buvo Karaliaučiaus komtūras ir veikė Livonijos karo veiksmuose."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai patvirtina, kad jis vadovavo pagalbon Naujojo Malūno piliai pasiųstam daliniui, kartu su juo atvykstant Gotfridui Rogei."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai aprašo jo atvykimą su Prūsijos kryžiuočių daliniu, lietuvių puolimą, pergalę, išblaškymą, žūtis ir nuskendimus upėje."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina žygį į Rygą, arkivyskupo pilies paėmimą šturmu, iždo ir bažnyčių apiplėšimą bei šešių tūkstančių sidabro grivinų vertės grobį."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-196427","t-205655"]},{"sentence_id":"s2","supported":false,"support_ids":["t-205655"]},{"sentence_id":"s3","supported":false,"support_ids":["t-196427"]},{"sentence_id":"s4","supported":false,"support_ids":["t-205656"]}],"verifier":"gpt-5.6-luna"},"quality":58,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-185107","confidence":0.75},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Junigeda","claim_id":"t-185809","confidence":0.92}],"timeline":[],"support_disclosure":{"claims":4,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a8998c8965d85cbc
+object_page_generated_at: '2026-09-20T03:25:53+00:00'
+object_page_source_checked_at: '2026-09-20T03:25:53+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '2'
+object_page_seo_description: 'Bertoldas Briuhavenas buvo Karaliaučiaus komtūras ir kryžiuočių karinis vadovas, minimas Livonijos karo veiksmų kontekste. Kai buvo apgulta Naujojo Malūno…'
+object_page_seo_input_hash: ca9f4bf331e53396f4ea9a36b35923337a4b22b68544f388c60779c1687e575b
+object_page_seo_generated_at: '2026-09-20T03:25:53+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Bertoldas Briuhavenas
 
@@ -36,42 +48,22 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
 
 ## Teiginiai
 
-<a id="claim-t-223175"></a>
-- t-223175
-  teiginys: "1291 m. Bertoldas Bruhavenas sudegino tuščią Kolainių pilį ir nusiaubė Junigedos valsčių."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202146
-
 <a id="claim-t-186098"></a>
-- t-186098
+- t-001
   teiginys: "Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Bertoldas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bertoldas Briuhavenas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bertoldas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bertoldas Briuhavenas\" parinktas kaip owner_note_path. Targetas \"Bertoldas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-169459
     - c-178679
 
 <a id="claim-t-196426"></a>
-- t-196426
+- t-002
   teiginys: "Bertoldas Briuhavenas puolė Medrabą, ją užėmė ir, pasak Kojelavičiaus, išvadavo ten kalintus krikščionis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,9 +74,9 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
     - c-169459
 
 <a id="claim-t-196427"></a>
-- t-196427
+- t-003
   teiginys: "Bertoldas Briuhavenas, Karaliaučiaus komtūras, Livonijoje su Prūsijos kryžiuočių daliniu nugalėjo apgulties išsekintus lietuvius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -95,9 +87,9 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
     - c-178679
 
 <a id="claim-t-205655"></a>
-- t-205655
+- t-004
   teiginys: "Teodoras Narbutas aprašo, kad apgultai Naujojo Malūno piliai padėti pasiųstam daliniui vadovavo Karaliaučiaus komtūras Bertoldas Briuhavenas, o kartu atvyko Livonijos magistru paskirtas Gotfridas Rogė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -108,9 +100,9 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
     - c-188270
 
 <a id="claim-t-205656"></a>
-- t-205656
+- t-005
   teiginys: "Po pergalės Karaliaučiaus komtūras Bertoldas Briuhavenas surengė žygį į Rygą, šturmu paėmė arkivyskupo pilį ir apiplėšė jos iždą bei bažnyčias."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -160,9 +152,8 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186098
-    - t-196426
+  pagrindzia:
+    - t-002
 
 - id: c-178679
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -200,9 +191,9 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186098
-    - t-196427
+  pagrindzia:
+    - t-001
+    - t-003
 
 - id: c-188270
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -224,8 +215,8 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205655
+  pagrindzia:
+    - t-004
 
 - id: c-188271
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -249,55 +240,8 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205656
-
-- id: c-202146
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 179-180"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179-180."
-  citata_originali: |
-    Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų
-    įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį:
-    išsivarė daug žmonių ir išsivežė galybę visokių daiktų. Nors šis Jazbutas rodėsi einąs
-    su netikėliais, tačiau slapta gerbė brolius. Jis įspėjo juos anksčiau, nei pats patraukė
-    su kariuomene į žygį. Dėl to magistras pasiuntė brolį Henriką Cutsvertą ir 29 brolius su
-    1200 vyrų, turėjusių jam pastoti kelią. Šie, nužygiavę į dykras, plytinčias tarp dviejų
-    upių, tai yra tarp Luko530 ir Narevo, jų ten tykojo aštuonetą dienų, smarkiai piktindamiesi
-    ir didžiai trūkdami maisto. Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,
-    voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia
-    530  D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk),
-    deš. Bebro intakas.
-
-    nesėkmė“. Vadas sušuko, kad jis nutiltų. Tačiau jis nesiliovė šaukęs, kol broliai, iššokę
-    su savo kariais iš pasalų, neužpuolė jų ir nenukovė 350 jų žmonių. Kiti išbėgiojo, ir kurie
-    ne kurie dykroje iš sielvarto pasikorė, o kiti ten išmirė, negaudami nei atsigerti, nei
-    pavalgyti, tik vienas kitas išsigelbėjo nuo žūties.
-    242 (235). Apie paguodą, suteiktą broliams bei krikščionims
-    Kai ši brolių kariuomenė, nugalėjusi priešą, dar nebuvo sugrįžusi iš žygio, kartą brolis
-    Meinhardas, magistras, prisėdo su kuriais ne kuriais Ordino vyresniaisiais pasišnekėti apie
-    rūpesčius, kuriuos kėlė minėtoji kariuomenė, užgaišusi kur kas ilgiau, nei turėjo, ir apie
-    Ragainės komtūro bei jo karių mirtį. Kai jie nuliūdę šnekučiavosi, atvyko žygūnas, kuris
-    pranešė, kad Ragainės broliai nukovę 25 plėšikautojus. Nespėjus baigti kalbos, atvyko
-    antras ir pranešė, jog brolių kariuomenė nugalėjo priešą ir sugrįžta. Šiam vos baigus
-    kalbėti, atskubėjo trečias, kuris pranešė, kad nukautas vienas kunigaikštis, norėjęs,
-    pasak visų, pavergti Prūsijos žemę ir išvaryti iš čia brolius531. Todėl magistras bei broliai
-    didžiai nudžiugo ir padėkojo už galybę suteiktų malonių dievui, guodžiančiam savo
-    žmones kiekvienoje nelaimėje. Štai šitaip pragaras, visai neseniai džiūgavęs teisingojo
-    dievo lėmimu, patyrė skausmą, o brolių liūdesys pavirto džiaugsmu.
-    243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
-    1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
-    Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
-    pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223175
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Bertoldas Briuhavenas surengė žygį į [[objektai/vietos/Junigeda]]

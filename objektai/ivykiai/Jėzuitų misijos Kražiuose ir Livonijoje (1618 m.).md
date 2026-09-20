@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Jėzuitų misijos Kražiuose ir Livonijoje (1618 m.)'
+pavadinimas: Jėzuitų misijos Kražiuose ir Livonijoje (1618 m.)
 variantai:
-  - 'Jėzuitų misijos Kražiuose ir Livonijoje'
+  - Jėzuitų misijos Kražiuose ir Livonijoje
 aliases:
-  - 'Jėzuitų misijos Kražiuose ir Livonijoje'
+  - Jėzuitų misijos Kražiuose ir Livonijoje
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1618 m.'
+  - 1618 m.
 date_start: '1618'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVII'
+  - XVII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Jėzuitų misijos Kražiuose ir Livonijoje (1618 m.)
 
@@ -96,7 +93,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200334
@@ -120,6 +117,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -38,6 +38,20 @@ historical_names: []
 
 Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo pavoju nei nuo svilksnių, nei nuo vylyčių, apgulė pilį Gundingenos.
 
+## Teiginiai
+
+<a id="claim-t-201162"></a>
+- t-001
+  teiginys: "Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo pavoju nei nuo svilksnių, nei nuo vylyčių, apgulė pilį Gundingenos."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184512
+
 ## Citatos
 
 - id: c-184512
@@ -68,20 +82,5 @@ Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201162"></a>
-- t-001
-  teiginys: "Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo pavoju nei nuo svilksnių, nei nuo vylyčių, apgulė pilį Gundingenos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184512
-

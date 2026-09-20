@@ -34,6 +34,25 @@ canonical_biography: "Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods,
 
 Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė. Marija (pirmoji Vytauto žmona) turėjo tada 33 metus, ir krikščionybė jam nebuvo svetima, nes savo tėvo Kęstučio dvare Trakuose susi­ tikdavo su svečiais katalikais iš Mozūrijos, kur buvo nutekė­ jusi jo sesuo Danuta, iš Malburgo ir kartais iš kitų Vakarų Eu­ ropos kraštų, o per abi savo žmonas stačiatikes suartėjo su jų tikėjimu, nes mirus pirmajai žmonai Marijai, Vytautas vedė Smolensko kunigaikštytę Oną, taip pat stačiatikę.
 
+## Teiginiai
+
+<a id="claim-t-35217"></a>
+- t-001
+  teiginys: "Vytauto pirmoji žmona Marija buvo Rusijos kunigaikštytė ir, anot šaltinio, veikiausiai stačiatikė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_zmona -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Marija (pirmoji Vytauto žmona): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Mariją kaip pirmąją Vytauto žmoną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Marija (pirmoji Vytauto žmona) buvo žmona Vytautas (Lietuvos valdovas, XIV–XV a.) (0.98)"
+  pagrindžia:
+    - c-38088
+
 ## Citatos
 
 - id: c-38088
@@ -54,28 +73,8 @@ Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė. Ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-
-## Teiginiai
-
-<a id="claim-t-35217"></a>
-- t-001
-  teiginys: "Vytauto pirmoji žmona Marija buvo Rusijos kunigaikštytė ir, anot šaltinio, veikiausiai stačiatikė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_zmona -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Marija (pirmoji Vytauto žmona): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Mariją kaip pirmąją Vytauto žmoną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Marija (pirmoji Vytauto žmona) buvo žmona Vytautas (Lietuvos valdovas, XIV–XV a.) (0.98)"
-  pagrindžia:
-    - c-38088
-

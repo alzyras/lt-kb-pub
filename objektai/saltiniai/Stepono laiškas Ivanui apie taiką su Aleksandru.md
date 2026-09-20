@@ -26,6 +26,21 @@ media_all_json: |-
 
 Stepono laiške Ivanui teigta, kad valachai ir skitai galėtų būti ramūs, jei Ivanas juos įspėtų neskriausti kitų.
 
+## Teiginiai
+
+<a id="claim-t-196361"></a>
+- t-001
+  teiginys: "Stepono laiške Ivanui teigta, kad valachai ir skitai galėtų būti ramūs, jei Ivanas juos įspėtų neskriausti kitų."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-169666
+
 ## Citatos
 
 - id: c-169666
@@ -54,21 +69,5 @@ Stepono laiške Ivanui teigta, kad valachai ir skitai galėtų būti ramūs, jei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-196361"></a>
-- t-001
-  teiginys: "Stepono laiške Ivanui teigta, kad valachai ir skitai galėtų būti ramūs, jei Ivanas juos įspėtų neskriausti kitų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-169666
-

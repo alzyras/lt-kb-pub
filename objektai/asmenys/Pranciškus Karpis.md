@@ -35,6 +35,20 @@ Jodaičių seniūnui Pranciškui Karpiui Rėkyvos dvaras buvo atiduotas valdyti 
 
 Jodaičių seniūnui Pranciškui Karpiui Rėkyvos dvaras buvo atiduotas valdyti iki gyvos galvos.
 
+## Teiginiai
+
+<a id="claim-t-203722"></a>
+- t-001
+  teiginys: "Jodaičių seniūnui Pranciškui Karpiui Rėkyvos dvaras buvo atiduotas valdyti iki gyvos galvos."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  pagrindžia:
+    - c-186326
+
 ## Citatos
 
 - id: c-186326
@@ -53,20 +67,5 @@ Jodaičių seniūnui Pranciškui Karpiui Rėkyvos dvaras buvo atiduotas valdyti 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203722"></a>
-- t-001
-  teiginys: "Jodaičių seniūnui Pranciškui Karpiui Rėkyvos dvaras buvo atiduotas valdyti iki gyvos galvos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
-  pagrindžia:
-    - c-186326
-

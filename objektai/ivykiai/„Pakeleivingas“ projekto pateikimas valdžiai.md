@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: '„Pakeleivingas“ projekto pateikimas valdžiai'
+pavadinimas: „Pakeleivingas“ projekto pateikimas valdžiai
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1859 m.'
+  - 1859 m.
 date_start: '1859'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # „Pakeleivingas“ projekto pateikimas valdžiai
 

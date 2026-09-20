@@ -1,8 +1,8 @@
 ---
 tipas: autorius
-pavadinimas: 'A. Kitovičius'
+pavadinimas: A. Kitovičius
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6a7853455bd015f2dabcdeba"
-canonical_name: "A. Kitovičius"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["A. Kitovičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6a7853455bd015f2dabcdeba
+canonical_name: A. Kitovičius
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - A. Kitovičius
 sameAs: []
-canonical_biography: "A. Kitovičius parašė Augusto III laikų kasdieninio gyvenimo ir papročių aprašymą."
+canonical_biography: A. Kitovičius parašė Augusto III laikų kasdieninio gyvenimo ir papročių aprašymą.
 ---
 # A. Kitovičius
 

@@ -36,6 +36,37 @@ historical_names: []
 
 Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę ir toliau keliu Gelvonų link, einančiu per dabartinį Pabaiską, vakarine Žirnajų ežero pakrante. Rugsėjo mėnesį lenkai užėmė Širvintas, Gelvonus, Bagaslaviskj (24) Želvą, Balnininkus, Alantą, Salaką ir kitas vietoves iki plento Kaunas Zarasaig&).
 
+## Teiginiai
+
+<a id="claim-t-41728"></a>
+- t-001
+  teiginys: "Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę keliu Gelvonų link."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Pašilė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pašilė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Švitrigailos pajėgų kelias tiesiogiai ėjo pro Pašilę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Švitrigaila keliavo į Pašilė (0.82); Švitrigaila keliavo į Gelvonai (0.78)"
+  pagrindžia:
+    - c-45099
+
+<a id="claim-t-203809"></a>
+- t-002
+  teiginys: "1754 m. tarp Tado Gurskio pagalbininkų, užpuolusių misionieriams priklausiusį mūrinį namą, buvo Gelvonų valdų pavaldinių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186413
+
 ## Citatos
 
 - id: c-45099
@@ -59,7 +90,7 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186413
@@ -78,73 +109,5 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-190833
-  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
-  puslapiai: "PDF 235"
-  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 235."
-  citata_originali: |
-    Vis dėlto liūdniausią minorinę
-    gaidą Vilniaus pranciškonų memoriale kuria 1831 m. carinės valdžios vajus po
-    1831 m. sukilimo uždarinėti katalikų vienuolynus. Šios represijos tiesiogiai ir
-    skaudžiai palietė pranciškonus konventualus. įgyvendinus 1831 m. liepos 19 d.
-    caro Nikolajaus I įsaką, iš 41 Lietuvos pranciškonų provincijos vienuolyno liko
-    tik io64. Memoriale fiksuojami keli atvejai, kai, pranciškonų manymu, pasaulie­
-    tinė dvasininkija (pvz., Vilniaus vyskupas sufraganas Benediktas Klongevičius)
-    bendradarbiavo su caro valdžia uždarant vieną ar kitą vienuolyną (pvz., Gelvonų,
-    Valkininkų)65.
-  citata_rodoma: "Memoriale fiksuojami keli atvejai, kai, pranciškonų manymu, pasaulie­\ntinė dvasininkija (pvz., Vilniaus vyskupas sufraganas Benediktas Klongevičius) \nbendradarbiavo su caro valdžia uždarant vieną ar kitą vienuolyną (pvz., Gelvonų, \nValkininkų)65."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-## Teiginiai
-
-<a id="claim-t-41728"></a>
-- t-001
-  teiginys: "Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę keliu Gelvonų link."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Pašilė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pašilė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Švitrigailos pajėgų kelias tiesiogiai ėjo pro Pašilę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Švitrigaila keliavo į Pašilė (0.82); Švitrigaila keliavo į Gelvonai (0.78)"
-  pagrindžia:
-    - c-45099
-
-<a id="claim-t-203809"></a>
-- t-002
-  teiginys: "1754 m. tarp Tado Gurskio pagalbininkų, užpuolusių misionieriams priklausiusį mūrinį namą, buvo Gelvonų valdų pavaldinių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  pagrindžia:
-    - c-186413
-
-<a id="claim-t-208289"></a>
-- t-003
-  teiginys: "Gelvonai minimi kaip vienas iš vienuolynų, kuriuos uždarant, pranciškonų manymu, bendradarbiavo pasaulietinė dvasininkija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  pagrindžia:
-    - c-190833
-

@@ -1,12 +1,12 @@
 ---
 tipas: ivykis
-pavadinimas: 'Dante Alighieri sustojimas prie Šv. Mykolo salos (1916 m.)'
+pavadinimas: Dante Alighieri sustojimas prie Šv. Mykolo salos (1916 m.)
 variantai:
-  - 'Dante Alighieri sustojimas prie Šv. Mykolo salos'
+  - Dante Alighieri sustojimas prie Šv. Mykolo salos
 aliases:
-  - 'Dante Alighieri sustojimas prie Šv. Mykolo salos'
+  - Dante Alighieri sustojimas prie Šv. Mykolo salos
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -15,12 +15,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Dante Alighieri sustojimas prie Šv. Mykolo salos (1916 m.)
 
@@ -80,6 +77,5 @@ Mykolo salų, kur mūsų laivas semia paprastai anglis tilimesnei ( kelionei.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

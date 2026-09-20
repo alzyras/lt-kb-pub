@@ -66,6 +66,37 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 - kunigas
 - teologijos daktaras
 
+## Teiginiai
+
+<a id="claim-t-181560"></a>
+- t-001
+  teiginys: "1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Abraomas Kulvietis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Abraomas Kulvietis atvyko į Vilnių ir ten veikė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Abraomas Kulvietis gyveno Vilnius (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1539 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai pagrindžia veiklą, bet pradinis teiginys nutrūkęs."
+  pagrindžia:
+    - c-165096
+
+<a id="claim-t-181561"></a>
+- t-002
+  teiginys: "Karaliaus sprendimu Abraomas Kulvietis turėjo stoti prieš dvasinį teismą, prisipažinti nusikaltęs ir paklusti kanoninei bausmei."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-165097
+
 ## Citatos
 
 - id: c-165096
@@ -97,7 +128,7 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-165097
@@ -129,40 +160,8 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 ## Ryšiai
 - Abraomas Kulvietis keliavo į [[objektai/vietos/Prūsija]], [[objektai/vietos/Vilnius]]
-
-## Teiginiai
-
-<a id="claim-t-181560"></a>
-- t-001
-  teiginys: "1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Abraomas Kulvietis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Abraomas Kulvietis atvyko į Vilnių ir ten veikė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Abraomas Kulvietis gyveno Vilnius (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1539 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai pagrindžia veiklą, bet pradinis teiginys nutrūkęs."
-  pagrindžia:
-    - c-165096
-
-<a id="claim-t-181561"></a>
-- t-002
-  teiginys: "Karaliaus sprendimu Abraomas Kulvietis turėjo stoti prieš dvasinį teismą, prisipažinti nusikaltęs ir paklusti kanoninei bausmei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-165097
-

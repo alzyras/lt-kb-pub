@@ -48,6 +48,18 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-67043"></a>
+- t-001
+  teiginys: "Aukso laisvės ideologai netvarką laikė Respublikos saugumo sąlyga, nes manė, kad tokia valstybė niekam nepavojinga."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-67096
+
 ## Citatos
 
 - id: c-67096
@@ -71,18 +83,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-67043"></a>
-- t-001
-  teiginys: "Aukso laisvės ideologai netvarką laikė Respublikos saugumo sąlyga, nes manė, kad tokia valstybė niekam nepavojinga."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-67096
-

@@ -42,6 +42,32 @@ canonical_biography: "Narbutas mini lotynišką rankraštį, kuriame rašoma, ka
 
 Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 d. Ketleris atvyko padėti Chodkevičiui.
 
+## Teiginiai
+
+<a id="claim-t-191380"></a>
+- t-001
+  teiginys: "Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 d. Ketleris atvyko padėti Chodkevičiui."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "reme -> Chodkevičius: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ketleris: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Chodkevičius: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Ketlerio atvykimas pagelbėti Chodkevičiui tiesiogiai rodo rėmimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Ketleris rėmė Chodkevičius (0.88)"
+  temporaliniai_duomenys: "kelionės data: 1605 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Ketleris rėmė Chodkevičius“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Chodkevičių ir cituojamą rankraščio detalę. Paliktas Narbuto minimos rankraštinės žinios kontekstas, nepridedant mūšio interpretacijų."
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+  pagrindžia:
+    - c-174262
+
 ## Citatos
 
 - id: c-174262
@@ -71,28 +97,5 @@ Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-214804"></a>
-- t-001
-  teiginys: "Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 d. Ketleris atvyko padėti Chodkevičiui."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "reme -> Chodkevičius: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ketleris: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Chodkevičius: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Ketlerio atvykimas pagelbėti Chodkevičiui tiesiogiai rodo rėmimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Ketleris rėmė Chodkevičius (0.88)"
-  temporaliniai_duomenys: "kelionės data: 1605 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Ketleris rėmė Chodkevičius“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Chodkevičių ir cituojamą rankraščio detalę. Paliktas Narbuto minimos rankraštinės žinios kontekstas, nepridedant mūšio interpretacijų."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-
+  pagrindzia:
+    - t-001

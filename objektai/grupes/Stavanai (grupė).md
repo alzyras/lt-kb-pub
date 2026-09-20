@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Stavanai (grupė)'
-identifikacija: 'grupė'
+pavadinimas: Stavanai (grupė)
+identifikacija: grupė
 variantai:
-  - 'Stavanai'
+  - Stavanai
 aliases:
-  - 'Stavanai'
+  - Stavanai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Stavanai (grupė)
 
@@ -64,6 +61,5 @@ Jis nurodo ir konkretesnę alanų gyvenamą ją vietą, rašydamas, kad jie buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

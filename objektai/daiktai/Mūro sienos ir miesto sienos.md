@@ -1,14 +1,14 @@
 ---
 tipas: daiktas
-pavadinimas: 'Mūro sienos ir miesto sienos'
+pavadinimas: Mūro sienos ir miesto sienos
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1160 m.'
-  - '1330 m.'
-  - '1505 m.'
-  - '1506 m.'
+  - 1160 m.
+  - 1330 m.
+  - 1505 m.
+  - 1506 m.
 date_start: '1160'
 date_end: '1506'
 sukurta: ''
@@ -17,20 +17,30 @@ tags:
   - daiktas
   - paminklas
 amziai:
-  - 'XII'
-  - 'XVI'
+  - XII
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T20:25:41+00:00","source_checked_at":"2026-09-19T20:25:41+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"31b95ad9e2e0beb2a9388333","canonical_code":"object.materials","label":"Medžiagos","group":"Daikto bruožai","value":"Mūras","context":"Šaltiniuose sienos apibūdinamos kaip mūro sienos.","support_ids":["t-55045","c-55711"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55045","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55711","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusikratė teutonų pareigūnų (Schultheiss) ir teisių, jiems duotų lombardų, ir Romos institu­ cijų pavyzdžiu savo valdžios priekyje pastatė konsulus. Vė­ liau per savo turtus įgiję vis daugiau laisvių, kai, vis dar val­ dant Otonui, beveik visi, saugodamiesi vengrų ir saracėnų užpuolimų, apsitvėrė mūro sienomis, net patys tapo savaran­ kiškomis feodalinėmis valstybėmis. Kitaip klostėsi Ispanijoje, kur po maurų išvarymo Kastilijos bajorija į naujai pastatytus arba iš saracėnų išvaduotus miestus kvietė krikščionis, kad juo­ se įsikūrę ateityje laiduotų šaliai saugumą nuo kitatikių."}],"status":"published","conflict_status":"clear"},{"trait_id":"8ee31d2803834a764a04abaa","canonical_code":"object.purpose","label":"Paskirtis","group":"Naudojimas","value":"Apsauga nuo priešų ir antpuolių","context":"1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, kad jis būtų apsaugotas nuo priešų, ypač pagonių, antpuolių. Italijos miestai mūro sienomis saugojosi vengrų ir saracėnų užpuolimų.","support_ids":["t-55047","c-55713","t-55045","c-55711"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55047","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-55045","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55713","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tad 1505 metais, kai tie barbarai buvo mažumėlę aprimę, karalius savo sprendimu atleido Vilniaus gyvento­ jus nuo karo tarnybos vieneriems metams, su sąlyga, kad apsaugojimui nuo priešų, ypač pagonių, antpuolių, apjuostų miestą mūro siena, kiekvienas pagal jam priskirtą rajoną, o kas negalėtų mūrinės pastatyti, tegu tveria statinių tvorą. Šiuo sprendimu buvo nurodyta sienoje į miestą palikti tik­ tai penketą vartų: pirmuosius -Vilijos link, antruosius - prie kelio į Trakus, trečiuosius - palei Švč. Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spa- so) bažnyčia ir penktuosius - nuo Pilies."},{"kind":"evidence","evidence_id":"c-55711","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusikratė teutonų pareigūnų (Schultheiss) ir teisių, jiems duotų lombardų, ir Romos institu­ cijų pavyzdžiu savo valdžios priekyje pastatė konsulus. Vė­ liau per savo turtus įgiję vis daugiau laisvių, kai, vis dar val­ dant Otonui, beveik visi, saugodamiesi vengrų ir saracėnų užpuolimų, apsitvėrė mūro sienomis, net patys tapo savaran­ kiškomis feodalinėmis valstybėmis. Kitaip klostėsi Ispanijoje, kur po maurų išvarymo Kastilijos bajorija į naujai pastatytus arba iš saracėnų išvaduotus miestus kvietė krikščionis, kad juo­ se įsikūrę ateityje laiduotų šaliai saugumą nuo kitatikių."}],"status":"published","conflict_status":"clear"},{"trait_id":"1f5d3e0b1c0584fff7315d2f","canonical_code":"object.form","label":"Forma","group":"Daikto bruožai","value":"Gerai sutvirtintos sienos; sienoje palikti penki vartai","context":"Krokuvos mūro sienos autoriaus apibūdinamos kaip geriausiai sutvirtintos. 1505 m. Vilniaus sienoje buvo nurodyta palikti penketą vartų.","support_ids":["t-89429","c-85392","t-55047","c-55713"],"source_refs":[{"kind":"internal_claim","claim_id":"t-89429","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-55047","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-85392","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"7 ## Puslapis 24 ĮVADAS Lenkijos miestų, jau XII amžiuje dėl savo prekybinių ryšių bu­ vo žinoma net Rytuose. Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­ dajam."},{"kind":"evidence","evidence_id":"c-55713","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tad 1505 metais, kai tie barbarai buvo mažumėlę aprimę, karalius savo sprendimu atleido Vilniaus gyvento­ jus nuo karo tarnybos vieneriems metams, su sąlyga, kad apsaugojimui nuo priešų, ypač pagonių, antpuolių, apjuostų miestą mūro siena, kiekvienas pagal jam priskirtą rajoną, o kas negalėtų mūrinės pastatyti, tegu tveria statinių tvorą. Šiuo sprendimu buvo nurodyta sienoje į miestą palikti tik­ tai penketą vartų: pirmuosius -Vilijos link, antruosius - prie kelio į Trakus, trečiuosius - palei Švč. Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spa- so) bažnyčia ir penktuosius - nuo Pilies."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lionas","claim_id":"t-222504","confidence":0.74}],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 4a078879ed144a40
+object_page_generated_at: '2026-09-19T20:25:41+00:00'
+object_page_source_checked_at: '2026-09-19T20:25:41+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Mūro sienos ir miesto sienos: Mūro sienos aprašomos kaip miestų fizinė gynybinė infrastruktūra. Jos siejamos su miestų saugumu, privilegijomis ir…'
+object_page_seo_input_hash: 9643bea1a7b70ab7e5e1c37a158501edc6b63e2ad4235fc39a878de769ae6608
+object_page_seo_generated_at: '2026-09-19T20:25:41+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Mūro sienos ir miesto sienos
 
@@ -65,41 +75,10 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 
 ## Teiginiai
 
-<a id="claim-t-211819"></a>
-- t-211819
-  teiginys: "Tuo metu, bestatant Budą ir apjuosiant mies tą mūro siena, jis nužudė trečiąjį savo brolį, Bledoną."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193357
-
-<a id="claim-t-220552"></a>
-- t-220552
-  teiginys: "1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Eberhardas (Varmės vyskupas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Eberhardas (Varmės vyskupas): mention_match, person, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūro sienos ir miesto sienos\" parinktas kaip owner_note_path. Targetas \"Eberhardas (Varmės vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1330 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nebaigtas ir painus; citata pagrindžia konkretų faktą apie miesto sieną."
-  pagrindžia:
-    - c-202060
-
 <a id="claim-t-55045"></a>
-- t-55045
+- t-001
   teiginys: "Otono Didžiojo laikais Italijos miestai, saugodamiesi vengrų ir saracėnų antpuolių, apsitvėrė mūro sienomis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Italija: 0.84"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -114,9 +93,9 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-55711
 
 <a id="claim-t-55046"></a>
-- t-55046
+- t-002
   teiginys: "Krokuva Lešekui Juodajam buvo skolinga už svarbias privilegijas, svetimtaučių antplūdį ir gerai sutvirtintas mūro sienas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -130,9 +109,9 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-85392
 
 <a id="claim-t-55047"></a>
-- t-55047
+- t-003
   teiginys: "1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Išganytojo (Spaso) bažnyčia Vilniuje: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -147,10 +126,29 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   pagrindžia:
     - c-55713
 
+<a id="claim-t-89428"></a>
+- t-004
+  teiginys: "1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Eberhardas (Varmės vyskupas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Eberhardas (Varmės vyskupas): mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūro sienos ir miesto sienos\" parinktas kaip owner_note_path. Targetas \"Eberhardas (Varmės vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1330 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nebaigtas ir painus; citata pagrindžia konkretų faktą apie miesto sieną."
+  pagrindžia:
+    - c-85389
+
 <a id="claim-t-89429"></a>
-- t-89429
+- t-005
   teiginys: "Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -164,9 +162,9 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-85392
 
 <a id="claim-t-89430"></a>
-- t-89430
+- t-006
   teiginys: "Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bokštai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -180,9 +178,9 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-85390
 
 <a id="claim-t-89431"></a>
-- t-89431
+- t-007
   teiginys: "1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Minskas: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -223,8 +221,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55045
+  pagrindzia:
+    - t-001
 
 - id: c-55713
   autorius: "Michał Baliński"
@@ -248,8 +246,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55047
+  pagrindzia:
+    - t-003
 
 - id: c-85389
   autorius: "Petras Dusburgietis"
@@ -274,6 +272,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-85390
   autorius: "Michał Baliński"
@@ -296,8 +296,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89430
+  pagrindzia:
+    - t-006
 
 - id: c-85391
   autorius: "Michał Baliński"
@@ -325,8 +325,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89431
+  pagrindzia:
+    - t-007
 
 - id: c-85392
   autorius: "Michał Baliński"
@@ -353,52 +353,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55046
-    - t-89429
-
-- id: c-193357
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 38"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 38."
-  citata_originali: |
-    Tuo metu, bestatant Budą ir apjuosiant mies­
-    tą mūro siena, jis nužudė trečiąjį savo brolį, Bledoną
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211819
-
-- id: c-202060
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 256"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
-  citata_originali: |
-    Apie Rygos miesto sugriovimą
-
-      Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos
-    miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė)
-    Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė laikinai aprimo; didėjant
-    nepritekliui ir stiprėjant nesantaikai, kurios su baime laukta kilsiant tarp miesto valdytojų
-    ir paprastų žmonių, miestiečiai turėjo ir save, ir savo šeimas, ir miestą, ir savo laisves
-    bei visas teises ir privilegijas patikėti broliui Eberhardui iš Manheimo, Livonijos žemės
-    magistrui, bei broliams tam, kad jie viską tvarkytų ir rikiuotų, kaip jiems rodysis tinkama.
-    Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
-    spraga. Tarė tada viena moteris: „Matyt, tas magistras labai storas, jeigu jam reikia
-    tokios skylės ir negali įeiti pro kitus vartus kaip kiti krikščionys”.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220552
-
+  pagrindzia:
+    - t-002
+    - t-005

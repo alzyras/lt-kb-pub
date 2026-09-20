@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Kojalavičius Naruševičius'
+pavadinimas: Kojalavičius Naruševičius
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a50f2ded40f0ca67cb9528c9"
-canonical_name: "Kojalavičius Naruševičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Kojalavičius Naruševičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a50f2ded40f0ca67cb9528c9
+canonical_name: Kojalavičius Naruševičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Kojalavičius Naruševičius
 sameAs: []
-canonical_biography: "Nors autorius ir ne vienas pats stojo Lietuvos istorijos tyrinėjimų srityje (kaip jis nori tvir tinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženk liai atnaujinę jos pėdsakus, vis dėlto jo."
+canonical_biography: 'Nors autorius ir ne vienas pats stojo Lietuvos istorijos tyrinėjimų srityje (kaip jis nori tvir tinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženk liai atnaujinę jos pėdsakus, vis dėlto jo.'
 ---
 # Kojalavičius Naruševičius
 
@@ -69,6 +68,5 @@ Nors autorius ir ne vienas pats stojo Lietuvos istorijos tyrinėjimų srityje (k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

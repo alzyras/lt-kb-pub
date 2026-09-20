@@ -44,6 +44,28 @@ canonical_biography: "O [Ordino] broliai priešinasi jiems vyriškai, ir daugeli
 
 O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėliavos penkios dešimtys nukauta.
 
+## Teiginiai
+
+<a id="claim-t-80718"></a>
+- t-001
+  teiginys: "Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Strėva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Lonei: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Strėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai nurodo, kad Jonas Lonei žuvo Strėvos mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jonas Lonei mirė Strėva (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo ilgas kronikos fragmentas; citata leidžia suformuluoti aiškų faktą apie asmenį."
+  pagrindžia:
+    - c-42020
+
 ## Citatos
 
 - id: c-42020
@@ -79,28 +101,5 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-80718"></a>
-- t-001
-  teiginys: "Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Strėva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Lonei: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Strėva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai nurodo, kad Jonas Lonei žuvo Strėvos mūšyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jonas Lonei mirė Strėva (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1348 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo ilgas kronikos fragmentas; citata leidžia suformuluoti aiškų faktą apie asmenį."
-  pagrindžia:
-    - c-42020
-

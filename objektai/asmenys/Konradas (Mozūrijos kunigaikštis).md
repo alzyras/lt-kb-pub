@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Konradas (Mozūrijos kunigaikštis)'
+pavadinimas: Konradas (Mozūrijos kunigaikštis)
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos: []
 date_start: ''
 date_end: ''
@@ -25,25 +25,173 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3575be7b02a118d54e67aa65"
-canonical_name: "Konradas (Mozūrijos kunigaikštis)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Konradas (Mozūrijos kunigaikštis)","Konrado","Mozūrijos kunigaikštis Konradas","Mozūrų kunigaikštis Konradas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3575be7b02a118d54e67aa65
+canonical_name: Konradas (Mozūrijos kunigaikštis)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Konradas (Mozūrijos kunigaikštis)
+  - Konrado
+  - Mozūrijos kunigaikštis Konradas
+  - Mozūrų kunigaikštis Konradas
 sameAs: []
-canonical_biography: "Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Ordino įsitvirtinimo pradžia. Šaltiniuose jis minimas kaip vyskupo Kristijono globėjas ir kaip valdovas, pakvietęs Ordiną į Prūsus bei padovanojęs jam Kulmo žemę."
+canonical_biography: 'Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Ordino įsitvirtinimo pradžia. Šaltiniuose jis minimas kaip vyskupo Kristijono globėjas ir kaip valdovas, pakvietęs Ordiną į Prūsus bei padovanojęs jam Kulmo žemę.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:30:00+00:00","source_checked_at":"2026-09-19T23:30:00+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":["t-93423","t-93419","t-93426","t-223333","t-225280"],"featured_claims":[{"claim_id":"t-93423","text":"1230 m. Mozūrijos kunigaikštis Konradas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė į pagalbą Kryžiuočių ordiną.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-21828"]},{"claim_id":"t-93419","text":"Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-21824"]},{"claim_id":"t-93426","text":"Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-21825"]},{"claim_id":"t-223333","text":"Vokiečių ordino įsikūrimas Kulmo žemėje siejamas su Mazovijos kunigaikščio Konrado dovanojimu Ordinui.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-201942"]},{"claim_id":"t-225280","text":"„Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas ir Vokiečių ordino pakvietimą.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-204306"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"e867e4a32872d8efe01770ce","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Mozūrų (Mazovijos) kunigaikštis","context":"Šaltiniuose Konradas tiesiogiai įvardijamas Mozūrų arba Mazovijos kunigaikščiu.","support_ids":["t-93419","c-21824","t-93423","c-21828","t-223333","c-201942"],"source_refs":[{"kind":"internal_claim","claim_id":"t-93419","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-93423","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-223333","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-21824","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tada Mozūrų kunigaikš- tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys- kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že- mės pakraštėj."},{"kind":"evidence","evidence_id":"c-21828","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"1230 met. Mozūrų kunigaikštis Konradas ir pirmasis prū­ sų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo prūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­ čių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­ jamų kryžių paprastai vadinamas kryžiuočių Ordinu."},{"kind":"evidence","evidence_id":"c-201942","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Dusburgietis, rašydamas apie lietuvių puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti prieš Lietuvą (III, 343—346, 357—358). Senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos Prūsijoje pagrindu (II, 5, 6)."}],"status":"published","conflict_status":"clear"},{"trait_id":"2dab4745bab7d1dc35d412c5","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Jam ypač rūpėjo pakrikštyti prūsus","context":"A. Šapokos redaguotoje Lietuvos istorijoje (1936 m.) taip apibūdinamas Konrado rūpestis, siejamas su vyskupo Kristijono įkurdinimu Kulmo žemės pakraštyje.","support_ids":["t-93419","c-21824"],"source_refs":[{"kind":"internal_claim","claim_id":"t-93419","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-21824","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tada Mozūrų kunigaikš- tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys- kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že- mės pakraštėj."}],"status":"published","conflict_status":"clear"},{"trait_id":"8bdda95d727d326dd78ab4b3","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Kvietė Vokiečių ordiną persikelti į Prūsus ir prisiimti vietinių bei aplinkinių krikščionių apsaugą","context":"Tai aprašoma kaip Konrado veiksmas šaltinyje A. Šapokos redaguotoje Lietuvos istorijoje (1936 m.).","support_ids":["t-93426","c-21825"],"source_refs":[{"kind":"internal_claim","claim_id":"t-93426","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-21825","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą."}],"status":"published","conflict_status":"clear"},{"trait_id":"88427e9c9442a1f5af034af8","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Jo dovanota Kulmo žemė šaltinyje laikoma Vokiečių ordino veiklos Prūsijoje pagrindu","context":"Petras Dusburgietis, Prūsijos žemės kronikos leidimo (1985 m.) komentare, šį vertinimą priskiria senai Vokiečių ordino tradicijai.","support_ids":["t-223333","c-201942"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223333","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201942","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Dusburgietis, rašydamas apie lietuvių puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti prieš Lietuvą (III, 343—346, 357—358). Senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos Prūsijoje pagrindu (II, 5, 6)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"published","text":"Konradas buvo Mozūrijos, arba Mazovijos, kunigaikštis, siejęs savo valdą su prūsų krikšto ir gynybos reikalais. Siekdamas pakrikštyti prūsus, jis vyskupą Kristijoną įkurdino Kulmo žemės pakraštyje, Mozūrams priklausiusioje teritorijoje. 1230 m., negalėdamas apsiginti nuo prūsų puolimų, Konradas kartu su Kristijonu pasikvietė į pagalbą Kryžiuočių ordiną. Konradas pakvietė Ordiną persikelti į Prūsus ir perimti vietinių bei aplinkinių krikščionių apsaugą. Ordino įsikūrimas Kulmo žemėje buvo siejamas su Konrado dovanojimu, o šis aktas laikytas Ordino veiklos Prūsijoje pagrindu; šaltiniuose taip pat minima, kad pagonys brovėsi į jo valdas.","sentences":[{"sentence_id":"s1","text":"Konradas buvo Mozūrijos, arba Mazovijos, kunigaikštis, siejęs savo valdą su prūsų krikšto ir gynybos reikalais.","support_ids":["t-93419","c-21824","t-93423","c-21828"]},{"sentence_id":"s2","text":"Siekdamas pakrikštyti prūsus, jis vyskupą Kristijoną įkurdino Kulmo žemės pakraštyje, Mozūrams priklausiusioje teritorijoje.","support_ids":["t-93419","c-21824"]},{"sentence_id":"s3","text":"1230 m., negalėdamas apsiginti nuo prūsų puolimų, Konradas kartu su Kristijonu pasikvietė į pagalbą Kryžiuočių ordiną.","support_ids":["t-93423","c-21828"]},{"sentence_id":"s4","text":"Konradas pakvietė Ordiną persikelti į Prūsus ir perimti vietinių bei aplinkinių krikščionių apsaugą.","support_ids":["t-93426","c-21825"]},{"sentence_id":"s5","text":"Ordino įsikūrimas Kulmo žemėje buvo siejamas su Konrado dovanojimu, o šis aktas laikytas Ordino veiklos Prūsijoje pagrindu; šaltiniuose taip pat minima, kad pagonys brovėsi į jo valdas.","support_ids":["t-223333","c-201942","t-225280","c-204306"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai tiesiogiai nurodo, kad Konradas buvo Mozūrų kunigaikštis, rūpinosi prūsų krikštu ir negalėjo apsiginti nuo prūsų puolimų."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemėje, priklausiusioje Mozūrams."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad 1230 m. Konradas kartu su Kristijonu, negalėdami apsiginti nuo prūsų puolimų, pasikvietė Kryžiuočių ordiną."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad Konradas pakvietė Ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai sieja Ordino įsikūrimą Kulmo žemėje su Konrado dovanojimu ir šį aktą laiko Ordino veiklos Prūsijoje pagrindu; taip pat minima, kad pagonys brovėsi į Konrado valdas."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-93419","c-21824","t-93423","c-21828"]},{"sentence_id":"s2","supported":true,"support_ids":["t-93419","c-21824"]},{"sentence_id":"s3","supported":true,"support_ids":["t-93423","c-21828"]},{"sentence_id":"s4","supported":true,"support_ids":["t-93426","c-21825"]},{"sentence_id":"s5","supported":true,"support_ids":["t-223333","c-201942","t-225280","c-204306"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c696da35bef6ec65
+object_page_generated_at: '2026-09-19T23:30:00+00:00'
+object_page_source_checked_at: '2026-09-19T23:30:00+00:00'
+object_page_summary_support_json: '[{"sentence_id":"s1","text":"Konradas buvo Mozūrijos, arba Mazovijos, kunigaikštis, siejęs savo valdą su prūsų krikšto ir gynybos reikalais.","support_ids":["t-93419","c-21824","t-93423","c-21828"]},{"sentence_id":"s2","text":"Siekdamas pakrikštyti prūsus, jis vyskupą Kristijoną įkurdino Kulmo žemės pakraštyje, Mozūrams priklausiusioje teritorijoje.","support_ids":["t-93419","c-21824"]},{"sentence_id":"s3","text":"1230 m., negalėdamas apsiginti nuo prūsų puolimų, Konradas kartu su Kristijonu pasikvietė į pagalbą Kryžiuočių ordiną.","support_ids":["t-93423","c-21828"]},{"sentence_id":"s4","text":"Konradas pakvietė Ordiną persikelti į Prūsus ir perimti vietinių bei aplinkinių krikščionių apsaugą.","support_ids":["t-93426","c-21825"]},{"sentence_id":"s5","text":"Ordino įsikūrimas Kulmo žemėje buvo siejamas su Konrado dovanojimu, o šis aktas laikytas Ordino veiklos Prūsijoje pagrindu; šaltiniuose taip pat minima, kad pagonys brovėsi į jo valdas.","support_ids":["t-223333","c-201942","t-225280","c-204306"]}]'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '3'
+object_page_seo_description: 'Konradas (Mozūrijos kunigaikštis): Konradas buvo Mozūrijos, arba Mazovijos, kunigaikštis, siejęs savo valdą su prūsų krikšto ir gynybos reikalais. Siekdamas…'
+object_page_seo_input_hash: ceb530d115cc8ebd2d775f4f9a4486a8dab1cc08726ba27f6eb4863b9f6bc7ed
+object_page_seo_generated_at: '2026-09-19T23:30:00+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Konradas (Mozūrijos kunigaikštis)
 
 ## Santrauka
 
 Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Ordino įsitvirtinimo pradžia. Šaltiniuose jis minimas kaip vyskupo Kristijono globėjas ir kaip valdovas, pakvietęs Ordiną į Prūsus bei padovanojęs jam Kulmo žemę.
+
+## Teiginiai
+
+<a id="claim-t-93419"></a>
+- t-001
+  teiginys: "Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-21824
+
+<a id="claim-t-93420"></a>
+- t-002
+  teiginys: "Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "kelionės data: 1217 m.; kelionės data: 1232 m.; kelionės data: 1234 m.; kelionės data: apie 1234 m.; kelionės data: 1347 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Kulmas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko Konrado atvykimą ir dalyvavimą statant miestą; pašalinti komentarai ir išnašos."
+  pagrindžia:
+    - c-88788
+
+<a id="claim-t-93422"></a>
+- t-003
+  teiginys: "Vokiečių ordino įsikūrimas Kulmo žemėje siejamas su Mazovijos kunigaikščio Konrado dovanojimu Ordinui."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-88786
+
+<a id="claim-t-93423"></a>
+- t-004
+  teiginys: "1230 m. Mozūrijos kunigaikštis Konradas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė į pagalbą Kryžiuočių ordiną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "valdymo pradžia: 1230 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko Konrado veiksmą; pašalintas nutrūkęs ir triukšmingas tekstas."
+  pagrindžia:
+    - c-21828
+
+<a id="claim-t-93424"></a>
+- t-005
+  teiginys: "Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją."
+  atnaujinta: "2026-06-11 12:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-21828
+
+<a id="claim-t-93425"></a>
+- t-006
+  teiginys: "„Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas ir Vokiečių ordino pakvietimą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-88789
+
+<a id="claim-t-93426"></a>
+- t-007
+  teiginys: "Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-21825
+
+<a id="claim-t-197117"></a>
+- t-008
+  teiginys: "Tokį vardą pelno su prūsais bendradarbiavęs Pamario kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą prieš Ordiną."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-88786
 
 ## Reikšmingi paminėjimai
 - c-006
@@ -86,7 +234,6 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-21824
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -107,8 +254,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-93419
+  pagrindzia:
+    - t-001
 
 - id: c-21825
   redaktorius: "A. Šapoka"
@@ -131,8 +278,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-93426
+  pagrindzia:
+    - t-007
 
 - id: c-21828
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -153,8 +300,9 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-93423
+  pagrindzia:
+    - t-004
+    - t-005
 
 - id: c-36417
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -176,7 +324,6 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-88786
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -195,6 +342,9 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+    - t-008
 
 - id: c-88788
   autorius: "Petras Dusburgietis"
@@ -241,6 +391,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-88789
   autorius: "Petras Dusburgietis"
@@ -257,6 +409,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-88791
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -278,185 +432,3 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-203811
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 73-74"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 73-74."
-  citata_originali: |
-    Apie Marienverderio miesto pastatymą
-
-      Kol Magdeburgo burggrafas užsilaikė Kulme, nes dar nebuvo davęs taip didžiai
-    trokštamų  įžadų, atvyko daug  kunigaikščių  iš  Lenkijos:  kunigaikštis  Konradas227,
-    Kujavijos kunigaikštis228, Krokuvos kunigaikštis ir Vroclavo kunigaikštis Henrikas, kurį
-
-      Archeologiniai tyrinėjimai parodė, jog, prieš įsikuriant kryžiuočiams. Chelmnas buvo
-    dab. Kalduso (Kaldus) kaimo piliakalnyje (tarp dab. Chelmno ir Starogrudo) jau nuo X
-    a.; prūsų sunaikintas greičiausiai 1217 m., buvo atstatytas, kai atiteko Ordinui 1232 m.
-    Manoma, kad Senasis Kulmas buvęs dab. Kalduse, o gretimame Starogrude — kryžiuočių
-    administracinis centras (Kola A., Wczesnośredniowieczne Chełmno..., p. 54— 57).
-      224 Burggrafas Burchardas iš Magdeburgo, kilęs iš tos pačios giminės kaip ir Brunonas
-    iŠ Kverfurfo (mir. 1009), vienas pirmųjų misionierių, veikusių prūsų žemėse.
-      225 Kvedino (plg. pr. Quidin — GAO, p. 78) sala buvo Vyslos ir Senojo Nogato tėkmėje
-    ties Livos žiotimis. Senoji pilis, atrodo, pastatyta dab. Marezos kaimo vietoje, prieš
-    dab. Kvidziną. Nauja Marienverderio pilis (Jer. Merginwerdir, Mergenwerder) pastatyta
-    apie 1234 m. (perkėlus ją iš salos) greičiausiai senos prūsų pilies vietoje, piliakalnyje,
-    esančiame per 5 km  į šiaurę nuo dab. Kvidzino (Ewald A. L., Die Eroberung...,  i p.
-    160—161; HP, 1, 1, p. 488; plg. Powierski I., Stosunki..., p. 44—45; Górnowicz H.,
-    Toponimia..., p. 85—86, 11, 13). Nauja Marienverderio pilis dab. Kvidzine buvo pastatyta
-    XIV a. 1-oje pusėje (1320—1347 m.).
-      226 D.— Rysen, Reysen, Jer — Risin — prūsų valsčius Reisiai, jo centras Reisiai
-    (vėliau Rizenburgas —19 km  į rytus nuo Kvidzino), gretiminis vardas Prābūtis (dab.
-    Prabuty); GAO, p. 141; Górnowicz H., Toponimia..., p. 135—136, 218, 129; D. III, 14 ir
-    paaiškinimas 3.
-      227  Žr. D. II, 1, paaiškinimą 160.
-      228 Konrado sūnus Kazimieras.
-
-    vėliau nužudė totoriai229, taip pat Gnezno kunigaikštis Odoničius bei daug kitų kilmingų
-    bei galingų vyrų, gyvenančių tarp Oderio ir Vyslos upių ir tarp Bebro ir Netos upių, be
-    to, Sventopelkas, Pomeranijos kunigaikštis230, su savo broliu Samboru. Jie visi atvyko
-    su tokia didele kariuomene ir tokia gausybe ginkluotų vyrų, kokios dar niekas Prūsijoje
-    niekad nebuvo matęs, ir, pastatydami Marienverderio miestą, sustiprino anksčiau įkurtą
-    pilį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-204306
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 22"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
-  citata_originali: |
-    „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio
-    Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,
-    o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą,
-    apie Sventopelko, Lietuvos ir prūsų bendrą kovą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-## Teiginiai
-
-<a id="claim-t-221189"></a>
-- t-001
-  teiginys: "Tokį vardą pelno su prūsais bendradarbiavęs Pamario kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą prieš Ordiną."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-221642"></a>
-- t-002
-  teiginys: "Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konradas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "kelionės data: 1217 m.; kelionės data: 1232 m.; kelionės data: 1234 m.; kelionės data: apie 1234 m.; kelionės data: 1347 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Kulmas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko Konrado atvykimą ir dalyvavimą statant miestą; pašalinti komentarai ir išnašos."
-  pagrindžia:
-    - c-203811
-
-<a id="claim-t-223333"></a>
-- t-003
-  teiginys: "Vokiečių ordino įsikūrimas Kulmo žemėje siejamas su Mazovijos kunigaikščio Konrado dovanojimu Ordinui."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-225280"></a>
-- t-004
-  teiginys: "„Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas ir Vokiečių ordino pakvietimą."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204306
-
-<a id="claim-t-93419"></a>
-- t-93419
-  teiginys: "Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-21824
-
-<a id="claim-t-93423"></a>
-- t-93423
-  teiginys: "1230 m. Mozūrijos kunigaikštis Konradas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė į pagalbą Kryžiuočių ordiną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konradas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "valdymo pradžia: 1230 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko Konrado veiksmą; pašalintas nutrūkęs ir triukšmingas tekstas."
-  pagrindžia:
-    - c-21828
-
-<a id="claim-t-93426"></a>
-- t-93426
-  teiginys: "Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konradas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-21825
-

@@ -38,6 +38,28 @@ A. R. Niemio ir kun. A. Sabaliausko dainų rinkinio knyga, susijusi su 1910-1912
 
 A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
+## Teiginiai
+
+<a id="claim-t-195223"></a>
+- t-001
+  teiginys: "1912 m. minima knyga „Lietuvių dainos ir giesmės šiaurės rytų Lietuvoje“, parengta drauge su kun. A. Sabaliausko rinkiniu."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177590
+
+<a id="claim-t-195224"></a>
+- t-002
+  teiginys: "Per 1910-1912 m. keliones A. R. Niemis surinko apie 3500 liaudies dainų, kurių dalis išleista „Lietuvių dainos ir giesmės“ knygoje drauge su A. Sabaliausko rinkiniu."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177589
+
 ## Citatos
 
 - id: c-177589
@@ -66,7 +88,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177590
@@ -84,28 +106,5 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195223"></a>
-- t-001
-  teiginys: "1912 m. minima knyga „Lietuvių dainos ir giesmės šiaurės rytų Lietuvoje“, parengta drauge su kun. A. Sabaliausko rinkiniu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177590
-
-<a id="claim-t-195224"></a>
-- t-002
-  teiginys: "Per 1910-1912 m. keliones A. R. Niemis surinko apie 3500 liaudies dainų, kurių dalis išleista „Lietuvių dainos ir giesmės“ knygoje drauge su A. Sabaliausko rinkiniu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177589
-

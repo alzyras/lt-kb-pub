@@ -44,6 +44,20 @@ canonical_biography: "1594 m. Jonas Kliukovskis davė pakvitavimą Gardino pavie
 
 1594 m. Jonas Kliukovskis davė pakvitavimą Gardino pavieto stalininkui Jonui Melcškai.
 
+## Teiginiai
+
+<a id="claim-t-204101"></a>
+- t-001
+  teiginys: "1594 m. Jonas Kliukovskis davė pakvitavimą Gardino pavieto stalininkui Jonui Melcškai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186705
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1594 m. Jonas Kliukovskis davė pakvitavimą Gardino pavieto stalininkui Jonui Melcškai.'
@@ -78,20 +92,5 @@ canonical_biography: "1594 m. Jonas Kliukovskis davė pakvitavimą Gardino pavie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204101"></a>
-- t-001
-  teiginys: "1594 m. Jonas Kliukovskis davė pakvitavimą Gardino pavieto stalininkui Jonui Melcškai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
-  pagrindžia:
-    - c-186705
-

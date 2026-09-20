@@ -1,28 +1,25 @@
 ---
 tipas: saltinis
-pavadinimas: 'Vilniaus dvasinės akademijos perkėlimas į Peterburgą'
+pavadinimas: Vilniaus dvasinės akademijos perkėlimas į Peterburgą
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1981 m.'
+  - 1981 m.
 date_start: '1981'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vilniaus dvasinės akademijos perkėlimas į Peterburgą
 

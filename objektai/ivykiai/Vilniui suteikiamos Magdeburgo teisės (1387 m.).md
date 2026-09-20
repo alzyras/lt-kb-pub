@@ -57,6 +57,22 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54696"></a>
+- t-001
+  teiginys: "Merkinėje rašytu iškilmingu aktu Vilniui buvo suteiktos Magdeburgo teisės."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniui suteikiamos Magdeburgo teisės (1387 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniui suteikiamos Magdeburgo teisės (1387 m.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55661
+
 <a id="claim-t-54697"></a>
 - t-002
   teiginys: "Magdeburgo teisių suteikimu Jogaila siekė vilioti svetimtaučius kurtis Vilniuje, bet privilegiją ribojo miestiečių pavaldumas Vilniaus seniūnui."
@@ -72,22 +88,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55660
-
-<a id="claim-t-54696"></a>
-- t-54696
-  teiginys: "Merkinėje rašytu iškilmingu aktu Vilniui buvo suteiktos Magdeburgo teisės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniui suteikiamos Magdeburgo teisės (1387 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniui suteikiamos Magdeburgo teisės (1387 m.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55661
 
 ## Citatos
 
@@ -112,12 +112,11 @@ Nenurodyta
     vališkos valdžios perlenkimais.
   citata_rodoma: "Prisižiū­\nrėjęs į klestinčią Krokuvą, Vladislovas Jogaila nusprendė vi­\nlioti svetimtaučius kurdintis Vilniaus mieste, tačiau palankūs \ntos privilegijos padariniai sumenko per išlygą, jog nepai­\nsant naujų nuostatų, visi miestiečiai pavaldūs Vilniaus se­\nniūnui, dėl ko jiems kilo pavojus ne kartą susidurti su sava­\nvališkos valdžios perlenkimais."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-55661
@@ -141,6 +140,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54696
-
+  pagrindzia:
+    - t-001

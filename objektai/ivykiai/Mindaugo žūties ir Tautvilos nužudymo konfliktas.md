@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Mindaugo žūties ir Tautvilos nužudymo konfliktas'
+pavadinimas: Mindaugo žūties ir Tautvilos nužudymo konfliktas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Mindaugo žūties ir Tautvilos nužudymo konfliktas
 
@@ -74,6 +71,5 @@ Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui, jo žudikai kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -55,6 +55,28 @@ Suomių literatūros draugija buvo mokslo draugija, kurioje A. R. Niemis 1900–
 
 Mokslo draugija.
 
+## Teiginiai
+
+<a id="claim-t-195502"></a>
+- t-001
+  teiginys: "1900–1909 m. A. R. Niemis buvo Suomių literatūros draugijos sekretorius."
+  atnaujinta: "2026-07-12 04:52"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177927
+
+<a id="claim-t-195503"></a>
+- t-002
+  teiginys: "Nuo 1897 m. A. R. Niemis šaltinyje priskiriamas prie Suomių literatūros draugijai priklausiusių mokslo draugijų narių."
+  atnaujinta: "2026-07-12 04:52"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177926
+
 ## Citatos
 
 - id: c-177926
@@ -80,7 +102,7 @@ Mokslo draugija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177927
@@ -96,28 +118,5 @@ Mokslo draugija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195502"></a>
-- t-001
-  teiginys: "1900–1909 m. A. R. Niemis buvo Suomių literatūros draugijos sekretorius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177927
-
-<a id="claim-t-195503"></a>
-- t-002
-  teiginys: "Nuo 1897 m. A. R. Niemis šaltinyje priskiriamas prie Suomių literatūros draugijai priklausiusių mokslo draugijų narių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177926
-

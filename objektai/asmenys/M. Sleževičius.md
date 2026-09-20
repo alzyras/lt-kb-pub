@@ -43,6 +43,28 @@ canonical_biography: "M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos
 
 M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius. Šio antrojo kabineto pirmininku buvo M. Sleževičius. Kabinetas tuojau paskelbė visų piliečių šaukimą į savanorių pulkus ginti nepriklausomybės. Valstybės prezidentu buvo išrinktas d r. Kazys Grinius, o ministerių pirmininku buvo paskirtas valstiečių liaudininkų lyderis M. Sleževičius.
 
+## Teiginiai
+
+<a id="claim-t-79104"></a>
+- t-001
+  teiginys: "1919 m. rugpjūčio 30 d. ministras pirmininkas M. Sleževičius pasveikino vyr. kariuomenės vadą gen. S. Žukauską."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Daugpilis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Sleževičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Daugpilis: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Sleževičius\" parinktas kaip owner_note_path. Targetas \"Daugpilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie M. Sleževičių ir remiasi cituotu fragmentu."
+  vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
+  pagrindžia:
+    - c-42117
+
 ## Citatos
 
 - id: c-42117
@@ -66,8 +88,8 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+  pagrindzia:
+    - t-001
 
 - id: c-76194
   redaktorius: "A. Šapoka"
@@ -90,37 +112,3 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-79103"></a>
-- t-001
-  teiginys: "M. Sleževičius buvo Lietuvių draugijos nukentėjusiems dėl karo šelpti Centro komiteto narys."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-76194
-
-<a id="claim-t-79104"></a>
-- t-002
-  teiginys: "1919 m. rugpjūčio 30 d. ministras pirmininkas M. Sleževičius pasveikino vyr. kariuomenės vadą gen. S. Žukauską."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Daugpilis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "M. Sleževičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Daugpilis: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Sleževičius\" parinktas kaip owner_note_path. Targetas \"Daugpilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie M. Sleževičių ir remiasi cituotu fragmentu."
-  vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
-  pagrindžia:
-    - c-42117
-

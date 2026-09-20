@@ -33,25 +33,12 @@ Galimas dalykas, kad dauguma Vijūkų neturėjo spaudų.
 
 Galimas dalykas, kad dauguma Vijūkų neturėjo spaudų.
 
-## Citatos
-
-- id: c-185966
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-07-26 21:24"
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-203003"></a>
 - t-001
   teiginys: "Galimas dalykas, kad dauguma Vijūkų neturėjo spaudų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 21:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,3 +54,15 @@ Galimas dalykas, kad dauguma Vijūkų neturėjo spaudų.
   pagrindžia:
     - c-185966
 
+## Citatos
+
+- id: c-185966
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
+  puslapiai: "PDF 6"
+  indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 21:24"
+  pagrindzia:
+    - t-001

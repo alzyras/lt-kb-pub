@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kryžiuočių kariuomenės perėjimas per Nemuno ledą'
+pavadinimas: Kryžiuočių kariuomenės perėjimas per Nemuno ledą
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kryžiuočių kariuomenės perėjimas per Nemuno ledą
 
@@ -70,6 +67,5 @@ Dusburgietis pasakoja, kad dievo padedama didelė kryžiuočių kariuomenė vidu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

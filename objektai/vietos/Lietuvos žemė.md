@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Lietuvos žemė'
+pavadinimas: Lietuvos žemė
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-52c08ce44fb9523e863f4b0c"
-canonical_name: "Lietuvos žemė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Lietuvos žemė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-52c08ce44fb9523e863f4b0c
+canonical_name: Lietuvos žemė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Lietuvos žemė
 sameAs: []
-canonical_biography: "Sarkų pilis stovėjo Skalvos dalyje prie Lietuvos žemės pasienio. Lietuvos žemė buvo Prūsijos žemės kaimynystėje anapus Nemuno. Ordino kariuomenė įsiveržė į Lietuvos žemę ir užėmė Bisenės pilį."
+canonical_biography: Sarkų pilis stovėjo Skalvos dalyje prie Lietuvos žemės pasienio. Lietuvos žemė buvo Prūsijos žemės kaimynystėje anapus Nemuno. Ordino kariuomenė įsiveržė į Lietuvos žemę ir užėmė Bisenės pilį.
 ---
 # Lietuvos žemė
 
@@ -90,7 +89,7 @@ Sarkų pilis stovėjo Skalvos dalyje prie Lietuvos žemės pasienio. Lietuvos ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-203402
@@ -108,7 +107,7 @@ Sarkų pilis stovėjo Skalvos dalyje prie Lietuvos žemės pasienio. Lietuvos ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-206214
@@ -126,6 +125,5 @@ Sarkų pilis stovėjo Skalvos dalyje prie Lietuvos žemės pasienio. Lietuvos ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

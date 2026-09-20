@@ -36,17 +36,17 @@ KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas
 
 ## Teiginiai
 
-<a id="claim-t-211438"></a>
-- t-211438
-  teiginys: "O da bar prašau tave, pripiršk man Sofiją — jaunesniąją kunigaikščio Semiono dukterėčią."
-  atnaujinta: "2026-09-12 19:43"
+<a id="claim-t-194103"></a>
+- t-001
+  teiginys: "KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas su Jogailai užsuko į Drucką2 ir pietavo pas Drucko kunigaikštį Semioną Dimitrijevičių3 ."
+  atnaujinta: "2026-07-19 17:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
-    - c-193348
+    - c-176716
 
 ## Citatos
 
@@ -68,24 +68,5 @@ KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193348
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 99"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 99."
-  citata_originali: |
-    Ir Jogaila ėmė prašyti Vytautą, sakyda­
-    mas: „Turėjau vedęs tris žmonas, dvi lenkaites, o tre­
-    čią vokietę, bet vaisiaus su jomis neprigyvenau. O da­
-    bar prašau tave, pripiršk man Sofiją — jaunesniąją
-    kunigaikščio Semiono dukterėčią.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211438
-
+  pagrindzia:
+    - t-001

@@ -32,6 +32,28 @@ media_all_json: |-
 
 Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vietinė forma `Lotriškieji` paliekama kaip to paties pasakojimo variantas.
 
+## Teiginiai
+
+<a id="claim-t-07841"></a>
+- t-001
+  teiginys: "1276 m. Lotoriai su vokiečiais meldžionimis ir gudais nusiaubė Lietuvą bei Žemaičius ir mėgino įsilaužti į Naujapilę."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  ryšio_patikimumas: "puole -> Lietuva: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lotoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lotoriai minimi tarp grupių, nusiaubusių Lietuvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  semantiniai_rysiai: "Lotoriai puolė Lietuva (0.70); Vokiečiai puolė Lietuva (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1276 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia pateikti konkretų veiksmą, o ne metapastabą apie fragmentą."
+  pagrindžia:
+    - c-10074
+
 ## Citatos
 
 - id: c-10074
@@ -51,24 +73,5 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210291"></a>
-- t-001
-  teiginys: "1276 m. Lotoriai su vokiečiais meldžionimis ir gudais nusiaubė Lietuvą bei Žemaičius ir mėgino įsilaužti į Naujapilę."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  ryšio_patikimumas: "puole -> Lietuva: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lotoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lotoriai minimi tarp grupių, nusiaubusių Lietuvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  semantiniai_rysiai: "Lotoriai puolė Lietuva (0.70); Vokiečiai puolė Lietuva (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1276 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia pateikti konkretų veiksmą, o ne metapastabą apie fragmentą."
-
+  pagrindzia:
+    - t-001

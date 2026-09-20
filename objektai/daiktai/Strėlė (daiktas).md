@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Strėlė (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Strėlė (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Strėlė'
+  - Strėlė
 aliases:
-  - 'Strėlė'
+  - Strėlė
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Strėlė (daiktas)
 
@@ -118,7 +115,7 @@ Smolensko prastieji žmonės sukilimo metu buvo apsiginklavę strėlėmis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-196258
@@ -136,7 +133,7 @@ Smolensko prastieji žmonės sukilimo metu buvo apsiginklavę strėlėmis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-204192
@@ -153,7 +150,7 @@ Smolensko prastieji žmonės sukilimo metu buvo apsiginklavę strėlėmis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-206070
@@ -173,6 +170,5 @@ Smolensko prastieji žmonės sukilimo metu buvo apsiginklavę strėlėmis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

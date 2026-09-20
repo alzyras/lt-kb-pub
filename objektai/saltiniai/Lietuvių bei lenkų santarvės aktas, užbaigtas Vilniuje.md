@@ -26,6 +26,28 @@ media_all_json: |-
 
 Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.
 
+## Teiginiai
+
+<a id="claim-t-186336"></a>
+- t-001
+  teiginys: "Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių bei lenkų santarvės aktas, užbaigtas Vilniuje: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių bei lenkų santarvės aktas, užbaigtas Vilniuje\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-169697
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.'
@@ -102,28 +124,5 @@ Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir le
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-186336"></a>
-- t-001
-  teiginys: "Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių bei lenkų santarvės aktas, užbaigtas Vilniuje: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių bei lenkų santarvės aktas, užbaigtas Vilniuje\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-169697
-

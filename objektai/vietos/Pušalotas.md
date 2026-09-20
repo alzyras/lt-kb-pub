@@ -44,22 +44,10 @@ historical_names: []
 
 ## Teiginiai
 
-<a id="claim-t-208590"></a>
-- t-208590
-  teiginys: "Pušaloto altarista 1854 m. kreipėsi į vysk. M. Valančių dėl paskyrimo į Kenstaičius arba kitą vienuolyną."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191210
-
 <a id="claim-t-42074"></a>
-- t-42074
+- t-001
   teiginys: "Blinkevičius prašė Pušaloto valsčiaus valdžios leidimo surinkti miške likusius lavonus ir tokį leidimą gavo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Blinkevičius: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -92,29 +80,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-42074
-
-- id: c-191210
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 77"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 77."
-  citata_originali: |
-    Tuos kunigus, kurie neturė­
-    jo sąlygų gyventi parapijose, ganytojas nusiųsdavo į vie­
-    nuolynus arba Kenstaičių kunigų invalidų namus. Tai
-    liudija Pušaloto altaristos 1854.X.21 prašymas, kuriuo jis
-    kreipėsi į vysk. M. Valančių, kad jį skirtų į Kenstaičius
-    arba į kurį nors kitą vienuolyną n.
-  citata_rodoma: "Tai \nliudija Pušaloto altaristos 1854.X.21 prašymas, kuriuo jis \nkreipėsi į vysk. M. Valančių, kad jį skirtų į Kenstaičius \narba į kurį nors kitą vienuolyną n."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208590
-
+  pagrindzia:
+    - t-001

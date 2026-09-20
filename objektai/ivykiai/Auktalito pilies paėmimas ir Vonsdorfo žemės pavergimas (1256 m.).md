@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Auktalito pilies paėmimas ir Vonsdorfo žemės pavergimas (1256 m.)'
+pavadinimas: Auktalito pilies paėmimas ir Vonsdorfo žemės pavergimas (1256 m.)
 variantai:
-  - 'Auktalito pilies paėmimas ir Vonsdorfo žemės pavergimas'
+  - Auktalito pilies paėmimas ir Vonsdorfo žemės pavergimas
 aliases:
-  - 'Auktalito pilies paėmimas ir Vonsdorfo žemės pavergimas'
+  - Auktalito pilies paėmimas ir Vonsdorfo žemės pavergimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1256 m.'
+  - 1256 m.
 date_start: '1256'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Auktalito pilies paėmimas ir Vonsdorfo žemės pavergimas (1256 m.)
 
@@ -82,6 +79,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

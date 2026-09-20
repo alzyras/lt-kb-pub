@@ -46,6 +46,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-204135"></a>
+- t-001
+  teiginys: "XVI a. LDK laiško retorika medžioklės laimikio dalijimąsi siejo su deramo dėmesio demonstravimu ir meilumo išraiška."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186740
+
 ## Santrauka
 
 XVI a. LDK laiško retorika medžioklės laimikio dalijimąsi siejo su deramo dėmesio demonstravimu ir meilumo išraiška.
@@ -74,21 +89,5 @@ XVI a. LDK laiško retorika medžioklės laimikio dalijimąsi siejo su deramo d�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204135"></a>
-- t-001
-  teiginys: "XVI a. LDK laiško retorika medžioklės laimikio dalijimąsi siejo su deramo dėmesio demonstravimu ir meilumo išraiška."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186740
-

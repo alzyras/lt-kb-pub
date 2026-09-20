@@ -1,13 +1,13 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'Avizuoti (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: Avizuoti (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'Avizuoti'
+  - Avizuoti
 aliases:
-  - 'Avizuoti'
+  - Avizuoti
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Avizuoti (sąvoka)
 
@@ -65,6 +62,5 @@ Kitą dieną nuė jau policijon, anoji nenorėjo visai avizuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

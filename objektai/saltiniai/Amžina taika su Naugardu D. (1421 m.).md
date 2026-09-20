@@ -32,6 +32,24 @@ media_all_json: |-
 
 Vy­ tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­ kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­ nas padarė amžiną taiką ir su Naugardu D.
 
+## Teiginiai
+
+<a id="claim-t-36033"></a>
+- t-001
+  teiginys: "Ordinas 1421 metais sudarė amžiną taiką su Didžiuoju Naugardu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Amžina taika su Naugardu D. (1421 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Amžina taika su Naugardu D. (1421 m.)\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-38402
+
 ## Citatos
 
 - id: c-38402
@@ -57,24 +75,5 @@ Vy­ tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­ kais pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-36033"></a>
-- t-001
-  teiginys: "Ordinas 1421 metais sudarė amžiną taiką su Didžiuoju Naugardu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Amžina taika su Naugardu D. (1421 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Amžina taika su Naugardu D. (1421 m.)\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-38402
-

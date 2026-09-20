@@ -1,11 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'orda (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: orda (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'orda'
+  - orda
 aliases:
-  - 'orda'
+  - orda
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # orda (sąvoka)
 
@@ -65,6 +62,5 @@ Kara liškoji, orda, kurioje gyveno karalius, įsakinėjęs visoms gentims.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

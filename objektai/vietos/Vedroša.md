@@ -44,6 +44,45 @@ historical_names: []
 
 šaltieji ginklai) Skyrių įvadų autorius Karolis Zikaras Istorijos šaltinių citatas rinko: Auksė Ūsienė, Karolis Zikaras Antras pataisytas leidimas O UAB „ALIO“, Vilnius ISBN 978-9986-827-05-4 ## Puslapis 7 Turinys Apie šią knygą 6 Mūšiai už Lietuvą: pergalės.
 
+## Teiginiai
+
+<a id="claim-t-185251"></a>
+- t-001
+  teiginys: "Po paliaubų Lietuva neatgavo prie Vedrošos į nelaisvę paimtų didikų, kurie liko Maskvos rankose."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168612
+
+<a id="claim-t-193442"></a>
+- t-002
+  teiginys: "Pavyko atgauti vieną kitą nereikšmingą pilį, bet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa galiau didikų, prie Vedrošos paimtų į nelaisvę, kurie pasiliko Maskvos rankose."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168612
+
+<a id="claim-t-193443"></a>
+- t-003
+  teiginys: "Kojelavičiaus pasakojime Stanislovas Kiška vengė traukti atviromis vietomis, kad nepakartotų Ostrogiškio nesėkmės prie Vedrošos."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-168610
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Smolensko vaivadą Stanislovą Kišką pasiekė žinia, kad prie Vedrošos pasirodė priešų kariuomenė.'
@@ -148,7 +187,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-168612
@@ -172,7 +211,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -198,50 +237,3 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
-## Teiginiai
-
-<a id="claim-t-185251"></a>
-- t-001
-  teiginys: "Po paliaubų Lietuva neatgavo prie Vedrošos į nelaisvę paimtų didikų, kurie liko Maskvos rankose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168612
-    - c-176156
-
-<a id="claim-t-193442"></a>
-- t-002
-  teiginys: "Pavyko atgauti vieną kitą nereikšmingą pilį, bet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa galiau didikų, prie Vedrošos paimtų į nelaisvę, kurie pasiliko Maskvos rankose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168612
-    - c-176156
-
-<a id="claim-t-193443"></a>
-- t-003
-  teiginys: "Kojelavičiaus pasakojime Stanislovas Kiška vengė traukti atviromis vietomis, kad nepakartotų Ostrogiškio nesėkmės prie Vedrošos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168610
-    - c-176156
-

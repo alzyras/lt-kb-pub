@@ -40,6 +40,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205938"></a>
+- t-001
+  teiginys: "Anot Teodoro Narbuto, Mindaugo pasiuntiniai Livonijoje su turtingomis dovanomis pateikė pasiūlymų, po kurių magistras Andrius sudarė ordinui ir krikščionybei naudingą sandėrį."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188553
+
+<a id="claim-t-205939"></a>
+- t-002
+  teiginys: "Anot Teodoro Narbuto, Livonijos ordinas nutraukė susitarimus su maištaujančiais kunigaikščiais, o didysis kunigaikštis jam skyrė pavienių dvarų, valdų ir miestų, nesudarančių vientisos provincijos."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188554
+
 ## Santrauka
 
 Anot Teodoro Narbuto, Mindaugo pasiuntiniai Livonijoje su turtingomis dovanomis pateikė pasiūlymų, po kurių magistras Andrius sudarė ordinui ir krikščionybei naudingą sandėrį. Anot Teodoro Narbuto, Livonijos ordinas nutraukė susitarimus su maištaujančiais kunigaikščiais, o didysis kunigaikštis jam skyrė pavienių dvarų, valdų ir miestų, nesudarančių vientisos provincijos.
@@ -63,7 +91,7 @@ Anot Teodoro Narbuto, Mindaugo pasiuntiniai Livonijoje su turtingomis dovanomis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188554
@@ -90,34 +118,5 @@ Anot Teodoro Narbuto, Mindaugo pasiuntiniai Livonijoje su turtingomis dovanomis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-205938"></a>
-- t-001
-  teiginys: "Anot Teodoro Narbuto, Mindaugo pasiuntiniai Livonijoje su turtingomis dovanomis pateikė pasiūlymų, po kurių magistras Andrius sudarė ordinui ir krikščionybei naudingą sandėrį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188553
-
-<a id="claim-t-205939"></a>
-- t-002
-  teiginys: "Anot Teodoro Narbuto, Livonijos ordinas nutraukė susitarimus su maištaujančiais kunigaikščiais, o didysis kunigaikštis jam skyrė pavienių dvarų, valdų ir miestų, nesudarančių vientisos provincijos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188554
-

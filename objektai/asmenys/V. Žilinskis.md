@@ -2,40 +2,40 @@
 tipas: asmuo
 pavadinimas: 'V. Žilinskis (vyskupas, XIX a.)'
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1860 m.'
+  - 1860 m.
 date_start: '1860'
 date_end: ''
 variantai:
-  - 'V. Žilinskis'
+  - V. Žilinskis
 aliases:
-  - 'V. Žilinskis'
+  - V. Žilinskis
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-54be35099a12b1fc3388cea8"
-canonical_name: "V. Žilinskis (vyskupas, XIX a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["V. Žilinskis","V. Žilinskis (vyskupas, XIX a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-54be35099a12b1fc3388cea8
+canonical_name: 'V. Žilinskis (vyskupas, XIX a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - V. Žilinskis
+  - 'V. Žilinskis (vyskupas, XIX a.)'
 sameAs: []
-canonical_biography: "V. Žilinskis, kaip metropolitas, dalyvavo 1860 m. spalio 1 d. iškilmėse katedroje."
+canonical_biography: 'V. Žilinskis, kaip metropolitas, dalyvavo 1860 m. spalio 1 d. iškilmėse katedroje.'
 ---
 # V. Žilinskis (vyskupas, XIX a.)
 

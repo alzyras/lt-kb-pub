@@ -44,35 +44,10 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 
 ## Teiginiai
 
-<a id="claim-t-193415"></a>
-- t-003
-  teiginys: "Živinbudas susirgo ir pasimirė, vyras, kuris pelnytai priskirtinas prie žymiausių Lietuvos didvyrių."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-176137
-
-<a id="claim-t-210813"></a>
-- t-210813
-  teiginys: "Lietuvos metraštyje Živinbudas vadinamas Lietuvos ir Žemaičių didžiuoju kunigaikščiu, po kurio mirties sostą perėmė jo sūnus Kukovaitis."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-193454
-
-<a id="claim-t-224638"></a>
-- t-224638
+<a id="claim-t-60477"></a>
+- t-001
   teiginys: "Živinbudo, kaip manoma, valdoma priešmindauginė Lietuva 1219 m. sudarė sutartį su Volyne."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Lietuva: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -86,28 +61,56 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   temporaliniai_duomenys: "įvykio data: 1205 m.; įvykio data: 1210 m.; įvykio data: 1218 m.; įvykio data: 1219 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko atsargią, spėjamą formuluotę; pradinis teiginys nutrūkęs ir perkrautas kontekstu."
+  pagrindžia:
+    - c-61109
 
-<a id="claim-t-184904"></a>
-- t-184904
-  teiginys: "Ligos kamuojamas Živinbudas, išgirdęs apie pergalę ir pamatęs sūnų Kukovaitį, perdavė jam valdžią."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-184901"></a>
+- t-002
+  teiginys: "Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę."
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Živinbudas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Živinbudas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_patikimumas: "vede -> Pajauta: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Živinbudas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pajauta: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginyje aiškiai pasakyta, kad Živinbudas vedė Pajautą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1221 m."
+  semantiniai_rysiai: "Živinbudas vedė Pajauta (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1089 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia ligą, sūnaus grįžimą ir valdžios perdavimą."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia įsūnijimą, vedybas ir kraitį."
   pagrindžia:
-    - c-168265
+    - c-168262
+
+<a id="claim-t-193415"></a>
+- t-003
+  teiginys: "Živinbudas susirgo ir pasimirė, vyras, kuris pelnytai priskirtinas prie žymiausių Lietuvos didvyrių."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-176137
+
+<a id="claim-t-194022"></a>
+- t-004
+  teiginys: "Lietuvos metraštyje Živinbudas vadinamas Lietuvos ir Žemaičių didžiuoju kunigaikščiu, po kurio mirties sostą perėmė jo sūnus Kukovaitis."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176647
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -198,6 +201,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-168262
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -224,6 +229,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-168265
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -270,9 +277,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184904
-
 - id: c-176137
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -298,12 +302,11 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     priskirtinas prie žymiausių Lietuvos didvyrių.
   citata_rodoma: "Atleidęs\npasiuntinius, įsakė juos klyst-\n82\n\n## Puslapis 81\n\nitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių\nvaldovui ne tik didesnę pagarbą bei palankumą, bet\nir pastovesnę ištikimybę. Tuo pat metu miręs Vykin­\ntas, Žemaitijos kunigaikštis, paliko savo įpėdiniu bro­\nlį Erdvilą, tačiau šis, manydamas, jog vieno valdovo\nper maža skirtingoms valstybėms, kaip per maža vie­\nnos sielos į dvi dalis padalytam kūnui, be to, norėda­\nmas atsiteisti už pagalbą, kurios neseniai sulaukė, per­\nleido Živinbudui visas teises į Žemaitiją. Tačiau neilgai\ntrukus jis susirgo ir pasimirė, vyras, kuris pelnytai\npriskirtinas prie žymiausių Lietuvos didvyrių."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-176647
@@ -332,36 +335,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193454
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 47"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 47."
-  citata_originali: |
-    Didysis kunigaikštis Skirmantas iškilmingai pasitiko
-    Kukovaitį, Lietuvos didžiojo kunigaikščio Zivinbudo
-    sūnų, ir, apdovanojęs nesuskaičiuojama aukso ir sidab­
-    ro daugybe bei eikliais žirgais, garbingai išleido pas
-    jo tėvą, Lietuvos ir 2emaičių kunigaikštį. Parvykęs
-    pas savo tėvą, nebeilgai prie jo tegyveno, ir tėvas,
-    Lietuvos ir 2emaičių didysis kunigaikštis 2ivinbudas,
-    pasimirė, o jo sūnus Kukovaitis sėdo Lietuvos ir Že­
-    maičių Didžiosios Kunigaikštystės sostan.
-    Tuo metu Užvolgio chanu buvo chanas, vardu Ba-
-    laklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį
-    kunigaikštį Skirmantą, kad duotų jam duoklę ir laiky­
-    tų jo baskakus tuose miestuose, kaip kad iš tų miestų
-    buvo duodama duoklė, valdant jo pirmtakams, rusų
-    kunigaikščiams.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210813
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Pajauta]]

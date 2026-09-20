@@ -1,16 +1,16 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'vasalas'
+pavadinimas: vasalas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1350 m.'
-  - '1384 m.'
-  - '2026 m.'
+  - 1350 m.
+  - 1384 m.
+  - 2026 m.
 date_start: '1350'
 date_end: '2026'
 sukurta: ''
@@ -19,20 +19,30 @@ tags:
   - istorinė-sąvoka
   - sąvoka
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Vasalas","url":"https://lt.wikipedia.org/wiki/Vasalas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Vasalas","url":"https://www.vle.lt/straipsnis/vasalas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:18:16+00:00","source_checked_at":"2026-09-19T19:18:16+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Vasalas","url":"https://lt.wikipedia.org/wiki/Vasalas","publisher":"Vikipedija","language":"lt","article_id":"66652","revision_id":"6806998","published_at":"2022-12-07T13:40:07Z","version_pk":"","content_hash":"6814cfb1873adb9488684d7e080b8fc4bf86284513450880060adaf40a3be435","retrieved_at":"2026-09-19T19:17:03+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Vasalas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"66652"}},"intro":"Vasalu (iš keltų gwas, lot. vassus ''tarnas'') ankstyvaisiais viduramžiais vadintas kilmingasis, kuris savanoriškai stodavo į kito didiko tarnybą, duodavo ištikimybės priesaiką bei atlikdavo įvairias karines ir diplomatines prievoles. Vasalas turėjo pristatyti tam tikrą skaičių karių, kad galėtų paremti savo senjorą kare. Už tai vasalas iš savo senjoro gaudavo apsaugą. Vasalu galėjo būti ir kunigaikštis, stojęs į kito kunigaikščio tarnybą. Geras tokių santykių pavyzdys yra XII a. Anglijos ir Prancūzijos karaliai. Anglijos karalius turėjo daug valdų Prancūzijoje, tačiau jos visos formaliai buvo suteiktos Prancūzijos karaliaus. Tuo būdu Anglijos karalius buvo Prancūzijos karaliaus vasalas. Būdamas Normandijos hercogu, Anžu, Bretanės ir kitų grafysčių grafu jis buvo galingiausias vasalas Prancūzijoje, tačiau visgi vasalas, taigi turėjo tarnystės Filipui II pareigą, nors kaip Anglijos karalius hierarchiškai su juo buvo lygus. Vasalas buvo įsipareigojęs savo senjorui teikti consilium et auxilium, ištikimai padėti savo ponui patarimais ir darbais. Blogi patarimai ar nesuteikta parama galėjo baigtis bausme ar vasalinių santykių nutraukimu. Vasaliniai santykiai teoriškai buvo naudingi abiem šalims. Vasalas turėjo siuzereno apsaugą, pastarasis esant reikalui turėjo jį ginti visomis priemonėmis. Tuo tarpu senjoras galėjo remtis savo vasalų pagalba, kurie jam teikė karius ir buvo įpareigoti visaip kitaip padėti. Panašūs santykiai egzistavo ir kituose kraštuose (Japonijoje ir kt.).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Vasalas","url":"https://lt.wikipedia.org/wiki/Vasalas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Vasalas","url":"https://www.vle.lt/straipsnis/vasalas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Vasalas","https://www.vle.lt/straipsnis/vasalas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b6e4d237569fa9ed73a59b1c","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Pirmojo Lietuvos Statuto epochoje „vasalas“ („vassallus“) apibūdino santykius tarp didikų ir bajorų, o ne tarp didžiojo kunigaikščio ir bajorų.","context":"Pirmojo Lietuvos Statuto epocha; šaltinio autoriaus vertinimas („iš visko sprendžiant“, „galima manyti“).","support_ids":["t-204003","c-186607"],"source_refs":[{"kind":"internal_claim","claim_id":"t-204003","source":"darbas/sources/Lituanistika-64400-Feodalines-teises-apraiskos-LDK.md"},{"kind":"evidence","evidence_id":"c-186607","source":"darbas/sources/Lituanistika-64400-Feodalines-teises-apraiskos-LDK.md","quote":"Straipsnio pradžioje cituotas 1529 m. Statuto skyrius buvo pirmasis ir vienintelis rašytinis šių santykių teisinio reguliavimo atvejis. Iš visko sprendžiant, didžioji dalis tokių sandorių buvo sudaroma žodžiu ir nereikalavo specialaus raštiško apiforminimo. Bet kuriuo atveju galima manyti, kad tokia ius feodali vartojimo tradicija išliko iki pat Pirmojo Lietuvos Statuto epochos. Taigi sąvokos lenas (feudum) ir vasalas (vassallus) tuo metu apibūdino santykius ne tarp didžiojo kunigaikščio ir bajorų, bet tarp didikų ir bajorų."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 712e02476875826e
+object_page_generated_at: '2026-09-19T19:18:16+00:00'
+object_page_source_checked_at: '2026-09-19T19:18:16+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'vasalas: Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir išlikusiems sričių kunigaikščiams leido reikšti ištikimybės priesaikas…'
+object_page_seo_input_hash: a9234c584eee8da0e009c6a386be657a16b446dc2d936ff207b919901ff60938
+object_page_seo_generated_at: '2026-09-19T19:18:16+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # vasalas
 
@@ -42,22 +52,10 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 
 ## Teiginiai
 
-<a id="claim-t-210802"></a>
-- t-210802
-  teiginys: "Ir jis prašė kara lių suteikti pagalbą ir gelbėti jį bei jo žemę, žadėda mas amžinai su visa žeme būti karaliaus vasalu."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193417
-
 <a id="claim-t-111382"></a>
-- t-111382
+- t-001
   teiginys: "Vokiečių Prūsija tapo Lenkijos karūnos vasale."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkija: 0.76"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -72,9 +70,9 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - c-102994
 
 <a id="claim-t-111383"></a>
-- t-111383
+- t-002
   teiginys: "Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir priimtų įvesdinimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -88,9 +86,9 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - c-102993
 
 <a id="claim-t-111384"></a>
-- t-111384
+- t-003
   teiginys: "1384 m. sausio 30 d. Karaliaučiuje Vytautas išdavė magistrui raštą, pasižadėdamas būti jo vasalu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -107,9 +105,9 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - c-14723
 
 <a id="claim-t-111385"></a>
-- t-111385
+- t-004
   teiginys: "Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir iš Lietuvos valdovo priimtų įvesdinimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -123,9 +121,9 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - c-102992
 
 <a id="claim-t-111386"></a>
-- t-111386
+- t-005
   teiginys: "Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkija: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -141,9 +139,9 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - c-102995
 
 <a id="claim-t-182988"></a>
-- t-182988
+- t-006
   teiginys: "Vytautas žodžiais dėjosi esąs Jogailos ir Lenkijos vasalas, bet Lietuvą valdė pats vienas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -161,9 +159,9 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - c-166385
 
 <a id="claim-t-204003"></a>
-- t-204003
+- t-007
   teiginys: "Pirmojo Lietuvos Statuto epochoje sąvoka „vasalas“ („vassallus“) apibūdino didikų ir bajorų, o ne didžiojo kunigaikščio ir bajorų santykius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -193,8 +191,8 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-111384
+  pagrindzia:
+    - t-003
 
 - id: c-102992
   autorius: "Michał Baliński"
@@ -222,8 +220,8 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-111385
+  pagrindzia:
+    - t-004
 
 - id: c-102993
   autorius: "Michał Baliński"
@@ -248,8 +246,8 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-111383
+  pagrindzia:
+    - t-002
 
 - id: c-102994
   sudarytojas: "Karolis Zikaras"
@@ -268,8 +266,8 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-111382
+  pagrindzia:
+    - t-001
 
 - id: c-102995
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -289,8 +287,8 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-111386
+  pagrindzia:
+    - t-005
 
 - id: c-166385
   redaktorius: "A. Šapoka"
@@ -310,8 +308,8 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-182988
+  pagrindzia:
+    - t-006
 
 - id: c-186607
   autorius: "Rimvydas Petrauskas"
@@ -331,24 +329,5 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204003
-
-- id: c-193417
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 141"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 141."
-  citata_originali: |
-    Ir jis prašė kara­
-    lių suteikti pagalbą ir gelbėti jį bei jo žemę, žadėda­
-    mas amžinai su visa žeme būti karaliaus vasalu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210802
-
+  pagrindzia:
+    - t-007

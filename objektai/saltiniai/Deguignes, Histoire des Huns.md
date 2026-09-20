@@ -33,6 +33,20 @@ media_all_json: |-
 
 Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns.
 
+## Teiginiai
+
+<a id="claim-t-194321"></a>
+- t-001
+  teiginys: "Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns."
+  atnaujinta: "2026-07-06 12:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176913
+
 ## Citatos
 
 - id: c-176913
@@ -51,20 +65,5 @@ Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-194321"></a>
-- t-001
-  teiginys: "Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176913
-

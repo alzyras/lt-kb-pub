@@ -47,6 +47,26 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
 
 ## Teiginiai
 
+<a id="claim-t-77779"></a>
+- t-001
+  teiginys: "1992 m. Prancūzijos prezidento Fransua Miterano vizito metu Vytautas Landsbergis su svečiu lankėsi Vilniaus senamiestyje prie Aušros vartų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Aušros vartai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas Landsbergis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Aušros vartai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Landsbergio lankymasis prie Aušros vartų atitinka kryptinį apsilankymo ryšį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Vytautas Landsbergis keliavo į Aušros vartai (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1992 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas nuotraukos antrašte."
+  pagrindžia:
+    - c-75104
+
 <a id="claim-t-200773"></a>
 - t-002
   teiginys: "Vorobjovo pasakojime viena stabmeldiškoji šventykla stovėjo netoli Aušros vartų, šventame alke."
@@ -87,26 +107,6 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   pagrindžia:
     - c-184119
 
-<a id="claim-t-77779"></a>
-- t-77779
-  teiginys: "1992 m. Prancūzijos prezidento Fransua Miterano vizito metu Vytautas Landsbergis su svečiu lankėsi Vilniaus senamiestyje prie Aušros vartų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Aušros vartai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas Landsbergis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aušros vartai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Landsbergio lankymasis prie Aušros vartų atitinka kryptinį apsilankymo ryšį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Vytautas Landsbergis keliavo į Aušros vartai (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1992 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas nuotraukos antrašte."
-  pagrindžia:
-    - c-75104
-
 ## Citatos
 
 - id: c-75104
@@ -127,8 +127,8 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-77779
+  pagrindzia:
+    - t-001
 
 - id: c-184118
   autorius: "Mikalojus Vorobjovas"
@@ -143,12 +143,11 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
     Katedra, taipgi netoli Aušros Vartų ir Antakalnyje). Po 1387 metų, įvedus
     krikščionybę, prasidėjo gyva statyba.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184119
@@ -168,11 +167,9 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
     santį bastiono paviršių architektūrinių bei figūrinių motyvų ornamentu,
     su Vyčiu vidury.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

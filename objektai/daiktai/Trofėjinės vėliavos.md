@@ -1,32 +1,29 @@
 ---
 tipas: daiktas
-pavadinimas: 'Trofėjinės vėliavos'
+pavadinimas: Trofėjinės vėliavos
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1409 m.'
-  - '1411 m.'
-  - '1529 m.'
-  - '1966 m.'
+  - 1409 m.
+  - 1411 m.
+  - 1529 m.
+  - 1966 m.
 date_start: '1409'
 date_end: '1966'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
-  - 'XX'
+  - XV
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Trofėjinės vėliavos
 
@@ -100,7 +97,7 @@ Krokuvos pilies (Vavelio) katedroje 1411 m. rudenj buvo pa kabinta 51 kryžiuoč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-193965
@@ -118,6 +115,5 @@ Krokuvos pilies (Vavelio) katedroje 1411 m. rudenj buvo pa kabinta 51 kryžiuoč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

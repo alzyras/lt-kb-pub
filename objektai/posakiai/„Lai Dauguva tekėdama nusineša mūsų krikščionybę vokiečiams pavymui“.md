@@ -28,6 +28,21 @@ Vos tik kryžiuočių flotilė paliko Dauguvos žio-- tis, latviai ėmė burtis 
 
 Vos tik kryžiuočių flotilė paliko Dauguvos žio-- tis, latviai ėmė burtis į pasitarimus, maudytis pirtyse, iš kurių išbėgę puldavo į Dauguvą apsiprausti krikšto van denyje, šaukdami: „Lai Dauguva tekėdama nusineša mū sų krikščionybę vokiečiams pavymui“.
 
+## Teiginiai
+
+<a id="claim-t-205427"></a>
+- t-001
+  teiginys: "Vos tik kryžiuočių flotilė paliko Dauguvos žio-- tis, latviai ėmė burtis į pasitarimus, maudytis pirtyse, iš kurių išbėgę puldavo į Dauguvą apsiprausti krikšto van denyje, šaukdami: „Lai Dauguva tekėdama nusineša mū sų krikščionybę vokiečiams pavymui“."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187962
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vos tik kryžiuočių flotilė paliko Dauguvos žio-- tis, latviai ėmė burtis į pasitarimus, maudytis pirtyse, iš kurių išbėgę puldavo į Dauguvą apsiprausti krikšto van denyje, šaukdami: „Lai Dauguva tekėdama nusineša mū sų krikščionybę vokiečiams pavymui“.'
@@ -66,21 +81,5 @@ Vos tik kryžiuočių flotilė paliko Dauguvos žio-- tis, latviai ėmė burtis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205427"></a>
-- t-001
-  teiginys: "Vos tik kryžiuočių flotilė paliko Dauguvos žio-- tis, latviai ėmė burtis į pasitarimus, maudytis pirtyse, iš kurių išbėgę puldavo į Dauguvą apsiprausti krikšto van denyje, šaukdami: „Lai Dauguva tekėdama nusineša mū sų krikščionybę vokiečiams pavymui“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187962
-

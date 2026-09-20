@@ -2,29 +2,26 @@
 tipas: saltinis
 pavadinimas: 'Bractwa trzežwošci na Litwie, głownie w diecezji żmudzkiej, 1858-1863'
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1858 m.'
-  - '1918 m.'
+  - 1858 m.
+  - 1918 m.
 date_start: '1858'
 date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
-  - 'XX'
+  - XIX
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Bractwa trzežwošci na Litwie, głownie w diecezji żmudzkiej, 1858-1863
 

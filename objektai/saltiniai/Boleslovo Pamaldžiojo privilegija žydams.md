@@ -32,6 +32,28 @@ media_all_json: |-
 
 146 ## Puslapis 163 Il KNYGA nėtinai didelį skaičių žydų Lietuvoje ir Voluinėje, ir pačioje sosti­ nėje jaugi nemažai jų buvo, Lucke (1408 m.) visiems Lietuvos žydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­ sios Lenkijos kunigaikščio Boleslovo.
 
+## Teiginiai
+
+<a id="claim-t-88411"></a>
+- t-001
+  teiginys: "1408 m. Lucke visiems Lietuvos žydams suteiktos laisvės rėmėsi XIII a. Boleslovo Pamaldžiojo privilegijos pavyzdžiu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini žydus Lietuvoje, todėl palaiko žydų gyvenimo Lietuvoje ryšį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Žydai gyveno Lietuva (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1408 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas turi puslapio triukšmo, o citata aiškiai sieja 1408 m. laisves su Boleslovo privilegija."
+  pagrindžia:
+    - c-84390
+
 ## Citatos
 
 - id: c-84390
@@ -61,28 +83,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-88411"></a>
-- t-001
-  teiginys: "1408 m. Lucke visiems Lietuvos žydams suteiktos laisvės rėmėsi XIII a. Boleslovo Pamaldžiojo privilegijos pavyzdžiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini žydus Lietuvoje, todėl palaiko žydų gyvenimo Lietuvoje ryšį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Žydai gyveno Lietuva (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1408 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis tekstas turi puslapio triukšmo, o citata aiškiai sieja 1408 m. laisves su Boleslovo privilegija."
-  pagrindžia:
-    - c-84390
-

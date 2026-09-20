@@ -35,6 +35,33 @@ media_all_json: |-
 
 Kitaip sakant, tas valdinys dėl senaties tapo Magdeburgo teisės žmogumi.
 
+## Teiginiai
+
+<a id="claim-t-201794"></a>
+- t-001
+  teiginys: "Kitaip sakant, tas valdinys dėl senaties tapo Magdeburgo teisės žmogumi."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185141
+
+<a id="claim-t-203741"></a>
+- t-002
+  teiginys: "Senaties termino skaičiavimas Statute buvo taikomas tik įsikūrusiam, o ne samdiniu keliaujančiam ieškomam asmeniui."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186345
+
 ## Citatos
 
 - id: c-185141
@@ -51,7 +78,7 @@ Kitaip sakant, tas valdinys dėl senaties tapo Magdeburgo teisės žmogumi.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186345
@@ -73,33 +100,5 @@ Kitaip sakant, tas valdinys dėl senaties tapo Magdeburgo teisės žmogumi.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201794"></a>
-- t-001
-  teiginys: "Kitaip sakant, tas valdinys dėl senaties tapo Magdeburgo teisės žmogumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185141
-
-<a id="claim-t-203741"></a>
-- t-002
-  teiginys: "Senaties termino skaičiavimas Statute buvo taikomas tik įsikūrusiam, o ne samdiniu keliaujančiam ieškomam asmeniui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
-  pagrindžia:
-    - c-186345
-

@@ -43,6 +43,21 @@ canonical_biography: "Motiejus Dominikas Dogelis citatoje pristatomas kaip įžy
 
 Motiejus Dominikas Dogelis citatoje pristatomas kaip įžymus archeografas, parengęs „Codex diplomaticus Regni Poloniae et Magni Ducatus Lituaniae“.
 
+## Teiginiai
+
+<a id="claim-t-191654"></a>
+- t-001
+  teiginys: "Motiejus Dominikas Dogelis citatoje pristatomas kaip įžymus archeografas, parengęs „Codex diplomaticus Regni Poloniae et Magni Ducatus Lituaniae“."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174536
+
 ## Citatos
 
 - id: c-174536
@@ -61,22 +76,5 @@ Motiejus Dominikas Dogelis citatoje pristatomas kaip įžymus archeografas, pare
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194458
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 421"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 421."
-  citata_originali: |
-    Čia cituojama įžymaus archeografo Motiejaus
-    Dominiko Dogelio (1715—1760) šaltinių pub­
-    likacija (Codex diplomaticus Regni Poloniae
-    et Magni Ducatus Lituaniae... Vilna, 1758,
-    1759, 1764).
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

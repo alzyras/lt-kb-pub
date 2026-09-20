@@ -41,45 +41,12 @@ canonical_biography: "Antanas Dambrauskas išvertė cituotą Ovidijaus „Metamo
 
 Antanas Dambrauskas išvertė cituotą Ovidijaus „Metamorfozių“ ištrauką, naudotą pagal 1979 m. Vilniaus leidimą.
 
-## Citatos
-
-- id: c-173228
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 513"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 513."
-  citata_originali: |
-    Versta pagal leidinį: Ovidijus. Metamorfozės. - V.,
-    1979. - P. 35-36. Vertė Antanas Dambrauskas.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-201509
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 513"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 513."
-  citata_originali: |
-    Versta pagal leidinį: Ovidijus. Metamorfozės. - V.,
-    1979. - P. 35-36. Vertė Antanas Dambrauskas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
-<a id="claim-t-219343"></a>
+<a id="claim-t-190345"></a>
 - t-001
   teiginys: "Antanas Dambrauskas išvertė cituotą Ovidijaus „Metamorfozių“ ištrauką, naudotą pagal 1979 m. Vilniaus leidimą."
-  atnaujinta: "2026-09-12 23:46"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -97,5 +64,22 @@ Antanas Dambrauskas išvertė cituotą Ovidijaus „Metamorfozių“ ištrauką,
   temporalinis_llm_pakomentavimas: "Iš trumpos bibliografinės pastabos padarytas pilnas sakinys apie Antaną Dambrauską. Nepridėta informacijos apie vertimo apimtį ar leidėją."
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-201509
+    - c-173228
 
+## Citatos
+
+- id: c-173228
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 513"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 513."
+  citata_originali: |
+    Versta pagal leidinį: Ovidijus. Metamorfozės. - V.,
+    1979. - P. 35-36. Vertė Antanas Dambrauskas.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

@@ -34,6 +34,25 @@ canonical_biography: "Įvadinis tekstas Johaną Severiną Faterį mini tarp kalb
 
 Įvadinis tekstas Johaną Severiną Faterį mini tarp kalbininkų, kurių darbais naudojosi T. Narbutas. Tas pats tekstas nurodo J. S. Faterio aiškinimą, kad „Signat“ reiškia „laiminti“.
 
+## Teiginiai
+
+<a id="claim-t-187948"></a>
+- t-001
+  teiginys: "Johanas Severinas Fateris buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::authors"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Johanas Severinas Fateris: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Johanas Severinas Fateris\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-170933
+
 ## Citatos
 
 - id: c-170933
@@ -68,21 +87,5 @@ canonical_biography: "Įvadinis tekstas Johaną Severiną Faterį mini tarp kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-219500"></a>
-- t-001
-  teiginys: "Johanas Severinas Fateris buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "gap::authors"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Johanas Severinas Fateris: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Johanas Severinas Fateris\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-
+  pagrindzia:
+    - t-001

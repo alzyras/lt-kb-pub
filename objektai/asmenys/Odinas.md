@@ -33,6 +33,49 @@ canonical_biography: "Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino 
 
 Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovės skitų dalies kelionę į Skandinaviją su Odinu priešakyje. Teodoras Narbutas spėja, kad šiaurės didvyriai iš pradžių vadinosi Wod, tai yra Vodino arba Odino bičiuliais.
 
+## Teiginiai
+
+<a id="claim-t-191166"></a>
+- t-001
+  teiginys: "Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovės skitų dalies kelionę į Skandinaviją su Odinu priešakyje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Skandinavija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Odinas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Skandinavija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo kelionę į Skandinaviją, kuriai vadovavo Odinas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Odinas keliavo į Skandinavija (0.86)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174048
+
+<a id="claim-t-191167"></a>
+- t-002
+  teiginys: "Teodoras Narbutas spėja, kad šiaurės didvyriai iš pradžių vadinosi Wod, tai yra Vodino arba Odino bičiuliais."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Keltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Odinas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Keltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Odinas\" parinktas kaip owner_note_path. Targetas \"Keltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174049
+
 ## Citatos
 
 - id: c-174048
@@ -56,6 +99,8 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-174049
   autorius: "Teodoras Narbutas"
@@ -79,52 +124,5 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195751
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 82."
-  citata_originali: |
-    Plutarchas Kjamilio gyveni­
-    mo aprašyme išdėstė senovės padavimą apie keltų gen­
-    čių persikėlimą iš Pietų per Rifėjų kalnus ir įsikūrimą
-    tolimoje šalyje, esančioje Europos šiaurėje. Sis pasako­
-    jimas patvirtina mūsų padavimą apie dalies senovės ski­
-    tų su Odinu priešakyje kelionę į Skandinaviją (§ 13). Si
-    keltų šaka, išsiplėtusi Siaurės krašte, skyrėsi nuo jai
-    giminingų genčių savo ypatingu azartinių žygių pomė­
-    giu, neramiu charakteriu, neprisirišimu prie vienos vie­
-    tos, polinkiu grobti ir panieka žmoniškumo teisėms.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-214127"></a>
-- t-001
-  teiginys: "Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovės skitų dalies kelionę į Skandinaviją su Odinu priešakyje."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Skandinavija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skandinavija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo kelionę į Skandinaviją, kuriai vadovavo Odinas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Odinas keliavo į Skandinavija (0.86)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-195751
-
+  pagrindzia:
+    - t-002

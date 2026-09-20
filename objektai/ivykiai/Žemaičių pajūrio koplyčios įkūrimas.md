@@ -42,6 +42,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201304"></a>
+- t-001
+  teiginys: "Paskesniai rašo, jog S vendas, saulėlydinių žuvėdų (danų) viešpats, norėdamas Žemaičių jūroj pa ką jų įgyti, metuose 1048 perkalbėjęs vieną žuvėdų prekiotoją, idant jis toj vietoj, kurioj žiemavodavęs •Žemaičių pajūryj, koplyčią įkurtų ir tenai kunigą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184654
+
 ## Citatos
 
 - id: c-184654
@@ -72,20 +86,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201304"></a>
-- t-001
-  teiginys: "Paskesniai rašo, jog S vendas, saulėlydinių žuvėdų (danų) viešpats, norėdamas Žemaičių jūroj pa ką jų įgyti, metuose 1048 perkalbėjęs vieną žuvėdų prekiotoją, idant jis toj vietoj, kurioj žiemavodavęs •Žemaičių pajūryj, koplyčią įkurtų ir tenai kunigą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184654
-

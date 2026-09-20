@@ -36,6 +36,26 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 
 - Žodis turi ir moralės, ir buities tvarkos niuansą.
 
+## Teiginiai
+
+<a id="claim-t-07649"></a>
+- t-001
+  teiginys: "Viežlybumą moterys turėjo saugoti namuose kartu su ugnimi."
+  atnaujinta: "2026-07-26 21:29"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09582
+
+<a id="claim-t-07650"></a>
+- t-002
+  teiginys: "Viežlybumas siejamas su namuose saugota dora, švara ir tvarkingu gyvenimu."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09582
+
 ## Citatos
 
 - id: c-09581
@@ -52,7 +72,6 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-09582
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -66,20 +85,6 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210001"></a>
-- t-001
-  teiginys: "Viežlybumas siejamas su namuose saugota dora, švara ir tvarkingu gyvenimu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
-<a id="claim-t-210193"></a>
-- t-002
-  teiginys: "Viežlybumą moterys turėjo saugoti namuose kartu su ugnimi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
+  pagrindzia:
+    - t-001
+    - t-002

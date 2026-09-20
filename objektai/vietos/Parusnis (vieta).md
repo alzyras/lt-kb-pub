@@ -38,6 +38,44 @@ historical_names: []
 
 Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nuo netikėlių, noris visų bran giausiai, atpirkti, ko dėjęsis, išsiuntė karalius siun tinius į Parusnį. Atvedė tas gau jas į Parusnį karvedžiai Zinenbergas ir Ekerbergas su daugybe diduomenės, su kuriais mistras kryžėjų susinėręs gulė visuotinai į Lietuvą. Rudenop atėjo nauja talka meldžionų į Parusnį, kurią atvedė viešpats Essų Otas.
 
+## Teiginiai
+
+<a id="claim-t-201122"></a>
+- t-001
+  teiginys: "Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nuo netikėlių, noris visų bran giausiai, atpirkti, ko dėjęsis, išsiuntė karalius siun tinius į Parusnį."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184472
+
+<a id="claim-t-201123"></a>
+- t-002
+  teiginys: "Atvedė tas gau jas į Parusnį karvedžiai Zinenbergas ir Ekerbergas su daugybe diduomenės, su kuriais mistras kryžėjų susinėręs gulė visuotinai į Lietuvą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184473
+
+<a id="claim-t-201124"></a>
+- t-003
+  teiginys: "Rudenop atėjo nauja talka meldžionų į Parusnį, kurią atvedė viešpats Essų Otas."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184474
+
 ## Citatos
 
 - id: c-184472
@@ -60,7 +98,7 @@ Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184473
@@ -87,7 +125,7 @@ Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184474
@@ -110,44 +148,5 @@ Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-201122"></a>
-- t-001
-  teiginys: "Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nuo netikėlių, noris visų bran giausiai, atpirkti, ko dėjęsis, išsiuntė karalius siun tinius į Parusnį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184472
-
-<a id="claim-t-201123"></a>
-- t-002
-  teiginys: "Atvedė tas gau jas į Parusnį karvedžiai Zinenbergas ir Ekerbergas su daugybe diduomenės, su kuriais mistras kryžėjų susinėręs gulė visuotinai į Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184473
-
-<a id="claim-t-201124"></a>
-- t-003
-  teiginys: "Rudenop atėjo nauja talka meldžionų į Parusnį, kurią atvedė viešpats Essų Otas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184474
-

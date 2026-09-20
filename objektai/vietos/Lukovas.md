@@ -36,6 +36,50 @@ historical_names: []
 
 Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuviškų kapų pridėjo 2 flor.
 
+## Teiginiai
+
+<a id="claim-t-86082"></a>
+- t-001
+  teiginys: "Lukove Turčinas, keisdamas lietuviškas monetas į lenkiškas, prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82061
+
+<a id="claim-t-185035"></a>
+- t-002
+  teiginys: "Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "surenge_zygi_i -> Sandomiras: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sandomiras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vytenis nuvedė kariuomenę į Sandomiro žemę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Vytenis surengė žygį į Sandomiras (0.90); Vytenis puolė Lukovas (0.86); Vytenis kariavo prieš Lenkai (0.75)"
+  pagrindžia:
+    - c-168396
+
+<a id="claim-t-196715"></a>
+- t-003
+  teiginys: "Vytenis, sutelkęs didesnę nei paprastai kariuomenę, užpuolė lenkų kraštą ir, nuniokojęs Lukovo apygardas, nuvedė ją į Sandomiro žemę."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-168396
+
 ## Citatos
 
 - id: c-82061
@@ -53,7 +97,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-168396
@@ -94,51 +138,6 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-86082"></a>
-- t-001
-  teiginys: "Lukove Turčinas, keisdamas lietuviškas monetas į lenkiškas, prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82061
-
-<a id="claim-t-185035"></a>
-- t-002
-  teiginys: "Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "surenge_zygi_i -> Sandomiras: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sandomiras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytenis nuvedė kariuomenę į Sandomiro žemę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Vytenis surengė žygį į Sandomiras (0.90); Vytenis puolė Lukovas (0.86); Vytenis kariavo prieš Lenkai (0.75)"
-  pagrindžia:
-    - c-168396
-
-<a id="claim-t-196715"></a>
-- t-003
-  teiginys: "Vytenis, sutelkęs didesnę nei paprastai kariuomenę, užpuolė lenkų kraštą ir, nuniokojęs Lukovo apygardas, nuvedė ją į Sandomiro žemę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168396
-

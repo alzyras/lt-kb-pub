@@ -29,6 +29,20 @@ media_all_json: |-
 
 Tuojau ant to balso popiežiaus sukilo ne vien diduomenė vokyčių, anglų, vengrų, bet dar pats 1 Dusburg, c.
 
+## Teiginiai
+
+<a id="claim-t-201434"></a>
+- t-001
+  teiginys: "Tuojau ant to balso popiežiaus sukilo ne vien diduomenė vokyčių, anglų, vengrų, bet dar pats 1 Dusburg, c."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184784
+
 ## Citatos
 
 - id: c-184784
@@ -53,20 +67,5 @@ Tuojau ant to balso popiežiaus sukilo ne vien diduomenė vokyčių, anglų, ven
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201434"></a>
-- t-001
-  teiginys: "Tuojau ant to balso popiežiaus sukilo ne vien diduomenė vokyčių, anglų, vengrų, bet dar pats 1 Dusburg, c."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184784
-

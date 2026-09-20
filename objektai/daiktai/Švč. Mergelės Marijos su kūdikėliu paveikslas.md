@@ -1,29 +1,26 @@
 ---
 tipas: daiktas
-pavadinimas: 'Švč. Mergelės Marijos su kūdikėliu paveikslas'
+pavadinimas: Švč. Mergelės Marijos su kūdikėliu paveikslas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1411 m.'
-  - '1419 m.'
+  - 1411 m.
+  - 1419 m.
 date_start: '1411'
 date_end: '1419'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Švč. Mergelės Marijos su kūdikėliu paveikslas
 
@@ -91,6 +88,5 @@ Sūduvis iš Lenkijos išgabeno Švč. Mergelės Marijos su kūdikėliu ant rank
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -31,6 +31,20 @@ canonical_biography: "Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas i
 
 Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas iškeliavo į Teutoniją tenai meldžionų į karę telkti, bekeliaudamas jau užteikė margrafus Brandenburgijos Joną I ir Otoną III.
 
+## Teiginiai
+
+<a id="claim-t-201421"></a>
+- t-001
+  teiginys: "Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas iškeliavo į Teutoniją tenai meldžionų į karę telkti, bekeliaudamas jau užteikė margrafus Brandenburgijos Joną I ir Otoną III."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184771
+
 ## Citatos
 
 - id: c-184771
@@ -54,20 +68,5 @@ Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas iškeliavo į Teutonij�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201421"></a>
-- t-001
-  teiginys: "Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas iškeliavo į Teutoniją tenai meldžionų į karę telkti, bekeliaudamas jau užteikė margrafus Brandenburgijos Joną I ir Otoną III."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184771
-

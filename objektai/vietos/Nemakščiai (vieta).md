@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Nemakščiai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Nemakščiai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Nemakščiai'
+  - Nemakščiai
 aliases:
-  - 'Nemakščiai'
+  - Nemakščiai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d56abb8deec90b670a091c28"
-canonical_name: "Nemakščiai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Nemakščiai","Nemakščiai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d56abb8deec90b670a091c28
+canonical_name: Nemakščiai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Nemakščiai
+  - Nemakščiai (vieta)
 sameAs: []
-canonical_biography: "Valančius tais metais ap lankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če kiškę 6 7."
+canonical_biography: 'Valančius tais metais ap lankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če kiškę 6 7.'
 place_authority: true
 historical_names: []
 ---

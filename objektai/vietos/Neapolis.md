@@ -44,22 +44,10 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
 
 ## Teiginiai
 
-<a id="claim-t-215012"></a>
-- t-215012
-  teiginys: "Lukulanumas buvo įtvirtintas miestas netoli Neapolio."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-193035
-
-<a id="claim-t-222246"></a>
-- t-222246
+<a id="claim-t-58708"></a>
+- t-001
   teiginys: "1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apulijos karalystę ir Neapolį, o Neapolio sienas sugriovė iki pamatų."
-  atnaujinta: "2026-09-13 18:12"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Apulija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -72,6 +60,8 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
   temporaliniai_duomenys: "įvykio data: 1251 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, tiesiogiai paremtas citata apie Neapolį."
+  pagrindžia:
+    - c-59340
 
 ## Citatos
 
@@ -93,23 +83,8 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193035
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 314"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
-  citata_originali: |
-    jam davė įtvirtintą
-    miestą, esanti netoli Neapolio, t. y. Lukulanumą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215012
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Puolė Neapolį: [[objektai/asmenys/Konradas (Fridricho II sūnus)]]

@@ -32,6 +32,21 @@ media_all_json: |-
 
 Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux).
 
+## Teiginiai
+
+<a id="claim-t-194900"></a>
+- t-001
+  teiginys: "Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-177296
+
 ## Citatos
 
 - id: c-177296
@@ -51,40 +66,5 @@ Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196765
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 42"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
-  citata_originali: |
-    Juodąja jūrą pavadino vėliau dėl dažnai virš jos tvy­
-    rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė
-    vyko Argo laivu, taip vadinamu gal dėl jo statytojo, o
-    plaukę kartu jūreiviai buvo vadinami argonautais. Tai
-    buvo 1350 metais iki Kristaus gimimo, 70 metų prieš
-    1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)*.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-214412"></a>
-- t-001
-  teiginys: "Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-196765
-

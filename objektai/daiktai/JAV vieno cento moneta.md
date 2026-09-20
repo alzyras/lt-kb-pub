@@ -56,6 +56,28 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-64932"></a>
+- t-001
+  teiginys: "JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gime -> Šiauliai: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Victor David Brenner: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Šiauliai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Formuluotė „kilęs iš Šiaulių“ pagrindžia asmens kilmės vietą, tačiau ne visiškai tiesiogiai pasako gimimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Victor David Brenner gimė Šiauliai (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1901 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata sieja JAV vieno cento autorių su Victor David Brenneriu, o pradinė pretenzija nukrypsta nuo objekto."
+  pagrindžia:
+    - c-65498
+
 ## Citatos
 
 - id: c-65498
@@ -87,28 +109,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-64932"></a>
-- t-001
-  teiginys: "JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gime -> Šiauliai: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Victor David Brenner: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Šiauliai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė „kilęs iš Šiaulių“ pagrindžia asmens kilmės vietą, tačiau ne visiškai tiesiogiai pasako gimimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Victor David Brenner gimė Šiauliai (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1901 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata sieja JAV vieno cento autorių su Victor David Brenneriu, o pradinė pretenzija nukrypsta nuo objekto."
-  pagrindžia:
-    - c-65498
-

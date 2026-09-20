@@ -56,6 +56,28 @@ Juška aprašomas kaip kaimo daraktorius ir nuomininkas, žiemomis mokęs vaikus
 - daraktorius
 - nuomininkas
 
+## Teiginiai
+
+<a id="claim-t-195258"></a>
+- t-001
+  teiginys: "Juška gyveno geresnėje ir atidirbdavo dvidešimt keturias dienas per metus."
+  atnaujinta: "2026-07-12 01:05"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177624
+
+<a id="claim-t-195259"></a>
+- t-002
+  teiginys: "Juškos tikrasis darbas buvo žiemomis mokyti vaikus, už kiekvieną vaiką imant po griviną per savaitę ir gaunant maistą."
+  atnaujinta: "2026-07-12 01:05"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177623
+
 ## Citatos
 
 - id: c-177623
@@ -71,7 +93,7 @@ Juška aprašomas kaip kaimo daraktorius ir nuomininkas, žiemomis mokęs vaikus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177624
@@ -87,28 +109,5 @@ Juška aprašomas kaip kaimo daraktorius ir nuomininkas, žiemomis mokęs vaikus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195258"></a>
-- t-001
-  teiginys: "Juška gyveno geresnėje ir atidirbdavo dvidešimt keturias dienas per metus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177624
-
-<a id="claim-t-195259"></a>
-- t-002
-  teiginys: "Juškos tikrasis darbas buvo žiemomis mokyti vaikus, už kiekvieną vaiką imant po griviną per savaitę ir gaunant maistą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177623
-

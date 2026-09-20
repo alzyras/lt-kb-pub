@@ -35,22 +35,10 @@ Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. K
 
 ## Teiginiai
 
-<a id="claim-t-219245"></a>
-- t-002
-  teiginys: "J. I. Kraševskis lietuvių dievus ir pusdievius klasifikavo pagal indų ir persų mitologijos prigimtį."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199550
-
-<a id="claim-t-214884"></a>
-- t-214884
+<a id="claim-t-191422"></a>
+- t-001
   teiginys: "Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. Kraševskiu."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,7 +53,7 @@ Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. K
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-196413
+    - c-174304
 
 ## Citatos
 
@@ -88,56 +76,5 @@ Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196413
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 451"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 451."
-  citata_originali: |
-    Galima
-    spėti, jog būtent ši recenzija
-    davė pradžią šaltiems
-    T. Narbuto ir J. I. Kraševskio santykiams (nors, jeigu
-    tikėsime pirmuoju, jie niekuomet nebuvo asmeniškai pa­
-    žįstami). Ši nuostata ypač ryški istoriko laiškuose arti-
-    miausiems bičiuliams. Beje, T. Narbutas dėl J. I. Kra­
-    ševskio istorinių darbų išsakė identiškų priekaištų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214884
-
-- id: c-199550
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 36-37"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 36-37."
-  citata_originali: |
-    Daugiausia T. Narbutu rėmėsi
-    J. I. Kraševskis19, nors to tiesiog ir nenurodo, o kartais net
-    18 Hanusch I. J. Wissenschaft des slawischen Mythus im weites­
-    ten den altpreussisch-lithauischen Mythus mitumfassenden Sinne. -
-    Lemberg, Stanislawöw und Tarnow, 1842.
-    19 Kraszewski J. I. Litwa. Starožytne dzieje, ustawy, język, wiara,
-    obyczaje, piešni, pzyslowia, podania ir t. d. - Warszawa, 1847. - T. 1:
-    Historia do XII wieku. - S. 99-141.
-    37
-
-    priešingai - truputį jį pakritikuoja, plačiai aptardamas ir klasi­
-    fikuodamas lietuvių dievus ir pusdievius pagal indų ir persų
-    mitologijos prigimtį, nes manė, kad lietuvių mitologija yra ki­
-    lusi iš Rytų
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
+  pagrindzia:
+    - t-001

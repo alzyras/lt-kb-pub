@@ -34,6 +34,25 @@ canonical_biography: "Jonui, Polocko............................Stanislovui Jonu
 
 Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui ir stalininkui Nikodemui Janavičiui iš Čechanovičių, Lietu­ vos Didžiosios Kunigaikštystės arklidininkui Mikalojui Andriuševičiui ir.
 
+## Teiginiai
+
+<a id="claim-t-87806"></a>
+- t-001
+  teiginys: "Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Melnikas: 0.82"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Nikodemas Janavičius iš Čechanovičių: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Melnikas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Melniko seniūno pareigos rodo administracinį valdymo ryšį su Melniku."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Nikodemas Janavičius iš Čechanovičių valdė miestą Melnikas (0.82)"
+  pagrindžia:
+    - c-83785
+
 ## Citatos
 
 - id: c-83785
@@ -53,25 +72,5 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87806"></a>
-- t-001
-  teiginys: "Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Melnikas: 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Nikodemas Janavičius iš Čechanovičių: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Melnikas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Melniko seniūno pareigos rodo administracinį valdymo ryšį su Melniku."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Nikodemas Janavičius iš Čechanovičių valdė miestą Melnikas (0.82)"
-  pagrindžia:
-    - c-83785
-

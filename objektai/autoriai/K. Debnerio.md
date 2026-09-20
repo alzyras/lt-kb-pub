@@ -1,37 +1,37 @@
 ---
 tipas: autorius
-pavadinimas: 'K. Debnerio'
+pavadinimas: K. Debnerio
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1837 m.'
+  - 1837 m.
 date_start: '1837'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a4be8a1783a935f084ed4646"
-canonical_name: "K. Debnerio"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["K. Debnerio"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a4be8a1783a935f084ed4646
+canonical_name: K. Debnerio
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - K. Debnerio
 sameAs: []
-canonical_biography: "Debnerio knygutė."
+canonical_biography: Debnerio knygutė.
 ---
 # K. Debnerio
 

@@ -42,6 +42,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-194809"></a>
+- t-001
+  teiginys: "Narbutas teigia, kad lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal kas laikoma Dievo įžeidimu3."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177205
+
 ## Citatos
 
 - id: c-177205
@@ -64,4 +79,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

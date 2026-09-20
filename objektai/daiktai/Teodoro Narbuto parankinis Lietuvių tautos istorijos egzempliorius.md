@@ -1,29 +1,26 @@
 ---
 tipas: daiktas
-pavadinimas: 'Teodoro Narbuto parankinis Lietuvių tautos istorijos egzempliorius'
+pavadinimas: Teodoro Narbuto parankinis Lietuvių tautos istorijos egzempliorius
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1846 m.'
-  - '1863 m.'
+  - 1846 m.
+  - 1863 m.
 date_start: '1846'
 date_end: '1863'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Teodoro Narbuto parankinis Lietuvių tautos istorijos egzempliorius
 
@@ -100,7 +97,7 @@ Narbuto parankiniame LTI egzemplioriuje, visose devyniose dalyse, atsirado daugy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-199664
@@ -118,6 +115,5 @@ Narbuto parankiniame LTI egzemplioriuje, visose devyniose dalyse, atsirado daugy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

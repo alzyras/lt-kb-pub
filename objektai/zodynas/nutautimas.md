@@ -28,6 +28,44 @@ media_all_json: |-
 
 Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai eina jų nutautimas, nes jie atskirti nuo savo tautos ka- mieno ir auklėjami tautiškumui priešingoje — komunistiškoje dvasioje. nutautimas: daugumas jų susibūrė J. Amerikos Valstybėse, kur betgi lietuviams išeiviams jau gresia rimtas pavojus nutausti.
 
+## Teiginiai
+
+<a id="claim-t-100285"></a>
+- t-001
+  teiginys: "Šapokos redaguotoje Lietuvos istorijoje teigta, kad SSRS lietuvių nutautimą spartino atskyrimas nuo tautos kamieno ir komunistinis auklėjimas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> SSRS: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata kalba apie SSRS lietuvių būklę, todėl remia lietuvių gyvenimą ar buvimą SSRS erdvėje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Lietuviai gyveno SSRS (0.78)"
+  pagrindžia:
+    - c-94127
+
+<a id="claim-t-100286"></a>
+- t-002
+  teiginys: "SSSR lietuvių nutautimas aiškintas jų atskyrimu nuo tautos kamieno ir auklėjimu komunistiškoje dvasioje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-94127
+
+<a id="claim-t-100287"></a>
+- t-003
+  teiginys: "Jungtinėse Amerikos Valstybėse susibūrusiems lietuvių išeiviams grėsė rimtas nutautimo pavojus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
+  pagrindžia:
+    - c-94129
+
 ## Citatos
 
 - id: c-94127
@@ -50,7 +88,7 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -75,44 +113,5 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-100285"></a>
-- t-001
-  teiginys: "Šapokos redaguotoje Lietuvos istorijoje teigta, kad SSRS lietuvių nutautimą spartino atskyrimas nuo tautos kamieno ir komunistinis auklėjimas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> SSRS: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata kalba apie SSRS lietuvių būklę, todėl remia lietuvių gyvenimą ar buvimą SSRS erdvėje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Lietuviai gyveno SSRS (0.78)"
-  pagrindžia:
-    - c-94127
-
-<a id="claim-t-100286"></a>
-- t-002
-  teiginys: "SSSR lietuvių nutautimas aiškintas jų atskyrimu nuo tautos kamieno ir auklėjimu komunistiškoje dvasioje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-94127
-
-<a id="claim-t-100287"></a>
-- t-003
-  teiginys: "Jungtinėse Amerikos Valstybėse susibūrusiems lietuvių išeiviams grėsė rimtas nutautimo pavojus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
-  pagrindžia:
-    - c-94129
-

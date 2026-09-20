@@ -43,6 +43,24 @@ canonical_biography: "1549 m. LDK maršalas Radvila Juodasis dėkojo Mikalojui R
 
 1549 m., anot Raimondos Ragauskienės, LDK maršalas Radvila Juodasis ironiškai dėkojo Mikalojui Radvilai Rudajam už žvėrieną ir siejo pareigybę su apsirūpinimu maistu.
 
+## Teiginiai
+
+<a id="claim-t-204163"></a>
+- t-001
+  teiginys: "1549 m., anot Raimondos Ragauskienės, LDK maršalas Radvila Juodasis ironiškai dėkojo Mikalojui Radvilai Rudajam už žvėrieną ir siejo pareigybę su apsirūpinimu maistu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1549 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ironijos ir sarkazmo vertinimas paliktas su šaltinyje nurodyta atribucija. Aiškiai išskleistas veiksmas ir jo objektas, nepridedant kitų faktų."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186756
+
 ## Citatos
 
 - id: c-186756
@@ -62,24 +80,5 @@ canonical_biography: "1549 m. LDK maršalas Radvila Juodasis dėkojo Mikalojui R
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204163"></a>
-- t-001
-  teiginys: "1549 m., anot Raimondos Ragauskienės, LDK maršalas Radvila Juodasis ironiškai dėkojo Mikalojui Radvilai Rudajam už žvėrieną ir siejo pareigybę su apsirūpinimu maistu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1549 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Ironijos ir sarkazmo vertinimas paliktas su šaltinyje nurodyta atribucija. Aiškiai išskleistas veiksmas ir jo objektas, nepridedant kitų faktų."
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186756
-

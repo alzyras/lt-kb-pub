@@ -42,6 +42,20 @@ canonical_biography: "P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajam
 
 P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo bestseleriu ir buvo išverstos beveik į visas slavų kalbas. P. J. Šafaržykas įžvelgia paslėptą prūsų, o ne vokiečių-burgundų (kaip kad buvo manyta iki tol) vardą.
 
+## Teiginiai
+
+<a id="claim-t-197631"></a>
+- t-001
+  teiginys: "P. J. Šafaržykas įžvelgia paslėptą prūsų, o ne vokiečių-burgundų (kaip kad buvo manyta iki tol) vardą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179269
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo bestseleriu ir buvo išverstos beveik į visas slavų kalbas.'
@@ -84,41 +98,5 @@ P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197072
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 262"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 262."
-  citata_originali: |
-    Šio nepaprastai mokslingo tyrinėtojo (nelaimei, pernelyg
-    dainai besiremiančio nuojauta, — dėl to jo išvados dažnai klaidin­
-    gos) įrodinėjimus verta čia išdėstyti bent jau tam, kad išsakytume ir
-    savo nuomonę. Žodyje phrugundiones jis įžvelgia paslėptą prūsų, o
-    ne vokiečių-burgundų (kaip kad buvo manyta iki tol) vardą. Tą žodį
-    jis dalija į dvi dalis: Phru, jo manymu, yra Pru, o pridėjus raidę
-    „s" — Prus, o dalį Gunde randa Estijos vietovardžiuose; ji reiškia
-    šalį, pavietą, gentį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-215911"></a>
-- t-001
-  teiginys: "P. J. Šafaržykas įžvelgia paslėptą prūsų, o ne vokiečių-burgundų (kaip kad buvo manyta iki tol) vardą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197072
-

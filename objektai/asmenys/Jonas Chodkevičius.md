@@ -48,22 +48,46 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 
 ## Teiginiai
 
-<a id="claim-t-217960"></a>
-- t-217960
-  teiginys: "Jonas Chodkevičius stojo už karo veiksmų tęsą."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-63715"></a>
+- t-001
+  teiginys: "Jonas Chodkevičius buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo Livonijos etmonu."
+  atnaujinta: "2026-06-13 17:20"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Chodkevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Chodkevičiai: mention_match, group, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Chodkevičius\" parinktas kaip owner_note_path. Targetas \"Chodkevičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:20:43Z"
   pagrindžia:
-    - c-201232
+    - c-64669
 
-<a id="claim-t-216755"></a>
-- t-216755
+<a id="claim-t-63716"></a>
+- t-002
+  teiginys: "XVI a. antrojoje pusėje Jonas Chodkevičius Roneburgo pilies bažnyčioje rado Petro iš Dusburgo kronikos nuorašą ir perdavė jį Augustinui Rotundui."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Chodkevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Chodkevičiai: mention_match, group, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Chodkevičius\" parinktas kaip owner_note_path. Targetas \"Chodkevičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1582 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys glaustai ir tiksliai perteikia citatos faktus."
+  pagrindžia:
+    - c-64668
+
+<a id="claim-t-188549"></a>
+- t-003
   teiginys: "Narbutas rašo, kad Jonas Chodkevičius ir Romanas Sanguška 1567 metais palaikė karo veiksmų su Rusija tęsimą."
-  atnaujinta: "2026-09-12 23:46"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -78,29 +102,12 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-198927
-
-<a id="claim-t-63715"></a>
-- t-63715
-  teiginys: "Jonas Chodkevičius buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo Livonijos etmonu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonas Chodkevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Chodkevičiai: mention_match, group, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Chodkevičius\" parinktas kaip owner_note_path. Targetas \"Chodkevičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:20:43Z"
-  pagrindžia:
-    - c-64669
+    - c-171438
 
 <a id="claim-t-201525"></a>
-- t-201525
+- t-004
   teiginys: "1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgiui Reineriui sklypą seniūnijos žemėje Jiesios ir Vyčio upių santakoje popieriaus malūnui statyti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -142,6 +149,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-64669
   sudarytojas: "Karolis Zikaras"
@@ -172,8 +181,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-63715
+  pagrindzia:
+    - t-001
 
 - id: c-171438
   autorius: "Teodoras Narbutas"
@@ -200,6 +209,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-184872
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -214,65 +225,5 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201525
-
-- id: c-198927
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 514"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
-  citata_originali: |
-    Romanas Sanguška kovojo kruvinus mū­
-    šius su Rusija; įvyko taip, kad karalius, Piotrkovo
-    seime parengęs abiejų tautų žygį, rudenį su ka­
-    riuomene išžygiavo iš Vilniaus, bet pasiekė tik Ra-
-    daškovičius; ten jis susitiko su caro pasiuntiniais,
-    pareiškusiais pageidavimą taikytis. Nors karalius
-    nenutraukė karo veiksmų, už kuriuos stojo San­
-    guška ir Jonas Chodkevičius, tačiau, matyt, sku­
-    bėjo sušaukti seimą Gardine dar 1567 metų pa­
-    baigoje, išsiuntinėjęs universalus Lietuvai. Čia ap­
-    rašomas seimas pradėjo posėdžiauti 1568 metų pa­
-    vasarį, nes Gardino archyvuose yra likęs pėdsa­
-    kas, jog tų metų balandžio 28 dieną karaliaus bū­
-    ta Gardine.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216755
-
-- id: c-201232
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 514"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
-  citata_originali: |
-    Iš tikrųjų tais me­
-    tais vyko Lenkijos seimas Piotrkove, trukęs ilgai
-    ir sėkmingai posėdžiavęs. Tais metais karaliui Žy­
-    gimantui buvo daug darbų ir rūpesčių; mat, be ši­
-    to darbštaus seimo, dar kariavo šiaurėje karą su
-    Rusija. Romanas Sanguška kovojo kruvinus mū­
-    šius su Rusija; įvyko taip, kad karalius, Piotrkovo
-    seime parengęs abiejų tautų žygį, rudenį su ka­
-    riuomene išžygiavo iš Vilniaus, bet pasiekė tik Ra-
-    daškovičius; ten jis susitiko su caro pasiuntiniais,
-    pareiškusiais pageidavimą taikytis. Nors karalius
-    nenutraukė karo veiksmų, už kuriuos stojo San­
-    guška ir Jonas Chodkevičius, tačiau, matyt, sku­
-    bėjo sušaukti seimą Gardine dar 1567 metų pa­
-    baigoje, išsiuntinėjęs universalus Lietuvai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217960
-
+  pagrindzia:
+    - t-004

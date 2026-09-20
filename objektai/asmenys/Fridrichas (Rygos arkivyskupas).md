@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Fridrichas (Rygos arkivyskupas)'
+pavadinimas: Fridrichas (Rygos arkivyskupas)
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1323 m.'
-  - '1325 m.'
+  - 1323 m.
+  - 1325 m.
 date_start: '1323'
 date_end: '1325'
 sukurta: ''
@@ -16,28 +16,44 @@ tags:
   - valdovas
   - asmuo
 amziai:
-  - 'XIV'
+  - XIV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a89eae834294d34bd9b6d9f9"
-canonical_name: "Fridrichas (Rygos arkivyskupas)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["arkivyskupas Fridrichas","fratris Priderki","Fridrichas","Fridrichas (Rygos arkivyskupas)","Rygos arkivyskupas Fridrichas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a89eae834294d34bd9b6d9f9
+canonical_name: Fridrichas (Rygos arkivyskupas)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - arkivyskupas Fridrichas
+  - fratris Priderki
+  - Fridrichas
+  - Fridrichas (Rygos arkivyskupas)
+  - Rygos arkivyskupas Fridrichas
 sameAs: []
-canonical_biography: "Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimino ir Vytenio santykiais su Ryga, minoritų kvietimu ir ginču su Kryžiuočių ordinu. Pasakojime pateikiamos ir jam nepalankios versijos apie Gedimino vardu parengtus laiškus bei popiežiaus rūmų veikimą."
+canonical_biography: 'Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimino ir Vytenio santykiais su Ryga, minoritų kvietimu ir ginču su Kryžiuočių ordinu. Pasakojime pateikiamos ir jam nepalankios versijos apie Gedimino vardu parengtus laiškus bei popiežiaus rūmų veikimą.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T14:22:26+00:00","source_checked_at":"2026-09-19T14:22:26+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":["t-222338","t-54964","t-54965","t-89713","t-54967","t-89716","t-54968"],"featured_claims":[{"claim_id":"t-222338","text":"Rygos arkivyskupas Fridrichas įkalbėjo popiežių Joną XXII pasiųsti į Livoniją du legatus pakrikštyti lietuvių ir rusų karaliaus.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-203425"]},{"claim_id":"t-54964","text":"Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55507"]},{"claim_id":"t-54965","text":"Responsio per Procuratorem Ordinis kaltino Rygos arkivyskupą Fridrichą pasiuntus pasiuntinius pas lietuvių valdovą ir sudarius prieš Ordiną nukreiptą sąjungą.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55508"]},{"claim_id":"t-89713","text":"Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-85646"]},{"claim_id":"t-54967","text":"Šaltinio pasakojime Rygos arkivyskupas kaltinamas Gedimino vardu parengęs ir išsiuntinėjęs laiškus prieš Kryžiuočių ordiną.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55511"]},{"claim_id":"t-89716","text":"Balińskis manė, kad Rygos arkivyskupas Fridrichas Gedimino vardu parengė ir išsiuntinėjo laiškus prieš Kryžiuočių ordiną.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55511"]},{"claim_id":"t-54968","text":"1325 m. balandį po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55512"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"26a711c2a8bc6109462f58ad","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Rygos arkivyskupas","context":"Šaltiniuose Fridrichas įvardijamas Rygos arkivyskupu; 1324 m. jis kartu su Rygos gyventojais įkalbėjo popiežių Joną XXII pasiųsti į Livoniją du legatus.","support_ids":["t-222338","c-203425"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222338","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203425","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­ čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo, bei to paties miesto gyventojų, du legatus, būtent: Baltramiejų, Aleto vyskupą, ir Bernardą, švento Benedikto ordino švento Teofrido vienuolyno abatą Le Piui vyskupystėje, pakrikštyti lietuvių ir rusų karaliaus. Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto, šventės (rugsėjo 22) atvyko į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo karaliaus bei jo valdinių iš vienos pusės ir tarp krikščionių iš kitos…"}],"status":"published","conflict_status":"clear"},{"trait_id":"effd7135d33c59bc1a5e687a","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"„Kupinas senos neapykantos“","context":"Tai kryžiuočių tarpe įsigalėjusi nuomonė apie Fridrichą, aprašyta pasakojant apie lietuvių įsiveržimą į Livoniją; tai nėra neutrali autoriaus išvada.","support_ids":["t-89713","c-85646"],"source_refs":[{"kind":"internal_claim","claim_id":"t-89713","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-85646","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­ čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė nuomonė, esą kupinas senos neapykantos Rygos arkivys­ kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­ nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­ vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 . Kadangi grėsmingi buvo Gedimino nukariavimų planai, atėjus žiniai apie naują kryžiuočių kariauną Čekijoje ir a D u s b."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a7f0317c7fcb87ce2c65dab2","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Gudrus ir siekiantis savo kėslų","context":"Balińskis, aiškindamas 1325 m. Fridricho kelionę į popiežiaus rūmus, rašo apie jo „gudrius planus“ ir siekį įgyvendinti savo planą.","support_ids":["t-54968","c-55512"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54968","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55512","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Arkivyskupui nieko kita neliko, tik tvirtai laikytis savojo plano. Popiežių, regis, pergudravo, įrodydamas jam, kokie nepatikimi esą Lietuvos valdovo sumanymai, o kad dar la­ biau įtikintų savo žodžiais, 1325-ųjų balandį, kai popiežiaus pasiuntiniai dar buvo Rygoje, ryžosi naujam žingsniui. Ne­ trukus po šių Gedimino laiškų paskelbimo Rygos arkivysku­ pas nuvyko į popiežiaus rūmusx, be abejonės, užsimojęs to­ liau vykdyti savo gudrius planus, o popiežius 1323 metų X R a y n a 1 d, annal eccles. an."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5b947f84192dded5e190fcc8","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Palaikė ryšį ir sudarė sąjungą su Gediminu prieš Kryžiuočių ordiną","context":"Šaltinis teigia, kad Fridrichas su Gediminu buvo susimokęs, o Gediminas veikė paisydamas jo patarimų ir planų; teiginys pateikiamas kaip kryžiuočių pasakojimo kontekstas.","support_ids":["t-54964","c-55507"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54964","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55507","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tas valdovas po pergalingų žygių, tikriausiai todėl, kad kryžiuočiai tolydžio artinosi, nuo Rytų atsigręžė į Vakarus ir į juos nukreipė savo kruviną kardą. Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­ čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė nuomonė, esą kupinas senos neapykantos Rygos arkivys­ kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­ nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­ vo susimokęs ir veikė jo patarimų ir planų…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"bb9ff11de4474114234601cf","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Siuntė pasiuntinius pas Lietuvos valdovą ir sudarė prieš Ordiną nukreiptą konfederaciją","context":"Responsio per Procuratorem Ordinis Fridrichą ir jo bendrininkus kaltina pasiuntinių siuntimu pas Lietuvos karalių bei susitarimu įsileisti lietuvių kariuomenę į Livoniją.","support_ids":["t-54965","c-55508"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54965","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55508","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"334. b Minėtas anksčiau Responsio per Pro­ curat. Ordinis apie tai plačiai pasa­ koja. Be kita ko, ten yra pasakyta: Tempore Friderici dudum Archiepisco- pi, idem Archiepiscopus cum suis com­ plicibus nitens ad totale exterminium Ordinis prelibati Ambaxiatores ad re­ gem Litwinorum infidelium miserunt, per quos cum eisdem rege et infidelibus contra ipsum Ordinem confederaciones fecerunt, cum eisdem que ordinarunt, quod in manu forti venirent versus Li­ goniam et quod transitum haberent per terras ecclesie Rigensis et in ipsis Cast­ ris et terris possent ad exterminium dic­ ti Ordinis stare et per ea Ordinem in­ vadere [Anuomet valdant arkivysku­ pui Fridrichui, pats arkivyskupas, su savo…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"be019c8e6927ae1c515f77b1","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Rengė ir siuntinėjo laiškus Gedimino vardu","context":"Balińskis teigia, kad Fridrichas, prisidengęs Gedimino vardu, parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną ir pelnyti popiežiaus palankumą; tai autoriaus vertinimas.","support_ids":["t-89716","c-55511"],"source_refs":[{"kind":"internal_claim","claim_id":"t-89716","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55511","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"VILNIAUS MIESTO ISTORIJA I TOMAS Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­ monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­ nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­ dimino, bet nei su jo žinia, nei jo valia parašyti. Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą ginče su kryžiuočiais. Šiuo teiginiu verčia tikėti tokie įrodymai: jeigu: 1) meste­ lėsime akį į laiško turinį popiežiui, nieko daugiau nepaste­ bėsime, vien tik šmeižtus bei skundus…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"30df69530243f52810ed76a0","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Įtikino popiežių Joną XXII pasiųsti į Livoniją du legatus","context":"Dusburgietis nurodo, kad popiežius legatus pasiuntė Fridricho ir Rygos gyventojų įkalbėtas; įvykis datuojamas 1324 metais.","support_ids":["t-222338","c-203425"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222338","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203425","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­ čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo, bei to paties miesto gyventojų, du legatus, būtent: Baltramiejų, Aleto vyskupą, ir Bernardą, švento Benedikto ordino švento Teofrido vienuolyno abatą Le Piui vyskupystėje, pakrikštyti lietuvių ir rusų karaliaus. Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto, šventės (rugsėjo 22) atvyko į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo karaliaus bei jo valdinių iš vienos pusės ir tarp krikščionių iš kitos…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Fridrichas buvo Rygos arkivyskupas, aktyviai veikęs XIV amžiaus pirmosios pusės Livonijos politiniuose ir religiniuose konfliktuose. 1324 m. jis, kartu su Rygos gyventojais, įkalbėjo popiežių Joną XXII pasiųsti į Livoniją du legatus, turėjusius pakrikštyti Lietuvos ir Rusios valdovą; jų atvykimas baigėsi taikos sutartimi tarp valdovo bei jo pavaldinių ir krikščionių. Kryžiuočių aplinkoje Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną, o kronikiniame pasakojime teigiama, kad iš senos neapykantos jis atsikvietė lietuvių pajėgas. Kitame Ordino šaltinyje arkivyskupas kaltinamas siuntęs pasiuntinius pas Lietuvos valdovą ir sudaręs prieš Ordiną nukreiptą sąjungą, leidusią lietuviams judėti per Rygos bažnyčios žemes. Balińskio pateiktu vertinimu, 1325 m. balandį Fridrichas nuvyko į popiežiaus rūmus, o Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas paveikti popiežiaus sprendimą ginče su kryžiuočiais.","sentences":[{"sentence_id":"s1","text":"Fridrichas buvo Rygos arkivyskupas, aktyviai veikęs XIV amžiaus pirmosios pusės Livonijos politiniuose ir religiniuose konfliktuose.","support_ids":["t-54964","c-55507"]},{"sentence_id":"s2","text":"1324 m. jis, kartu su Rygos gyventojais, įkalbėjo popiežių Joną XXII pasiųsti į Livoniją du legatus, turėjusius pakrikštyti Lietuvos ir Rusios valdovą; jų atvykimas baigėsi taikos sutartimi tarp valdovo bei jo pavaldinių ir krikščionių.","support_ids":["t-222338","c-203425"]},{"sentence_id":"s3","text":"Kryžiuočių aplinkoje Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną, o kronikiniame pasakojime teigiama, kad iš senos neapykantos jis atsikvietė lietuvių pajėgas.","support_ids":["t-54964","c-55507","t-89713","c-85646"]},{"sentence_id":"s4","text":"Kitame Ordino šaltinyje arkivyskupas kaltinamas siuntęs pasiuntinius pas Lietuvos valdovą ir sudaręs prieš Ordiną nukreiptą sąjungą, leidusią lietuviams judėti per Rygos bažnyčios žemes.","support_ids":["t-54965","c-55508"]},{"sentence_id":"s5","text":"Balińskio pateiktu vertinimu, 1325 m. balandį Fridrichas nuvyko į popiežiaus rūmus, o Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas paveikti popiežiaus sprendimą ginče su kryžiuočiais.","support_ids":["t-54968","c-55512","t-89716","c-55511"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai patvirtina, kad Fridrichas buvo Rygos arkivyskupas ir siejamas su Gedimino veikla, tačiau nepakankamai tiesiogiai pagrindžia teiginį apie aktyvų veikimą visuose XIV a. pirmosios pusės politiniuose ir religiniuose konfliktuose."},{"sentence_id":"s2","supported":true,"reason":"Dusburgo kronika tiesiogiai nurodo 1324 m. popiežiaus Jono XXII sprendimą, Fridricho ir Rygos gyventojų įtaką, du legatus, jų tikslą bei taikos sutartį."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai nurodo kryžiuočių nuomonę apie Fridricho seną neapykantą, lietuvių pajėgų atsikvietimą ir jo sąsajas su Gediminu."},{"sentence_id":"s4","supported":true,"reason":"Responsio per Procuratorem Ordinis tiesiogiai kaltina Fridrichą pasiuntinių siuntimu, sąjungos sudarymu ir leidimu lietuviams judėti per Rygos bažnyčios žemes."},{"sentence_id":"s5","supported":true,"reason":"Balińskio vertinime tiesiogiai nurodyta, kad 1325 m. balandį Fridrichas nuvyko į popiežiaus rūmus ir Gedimino vardu parengė bei išsiuntinėjo laiškus, siekdamas palankaus popiežiaus sprendimo."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-54964","c-55507"]},{"sentence_id":"s2","supported":true,"support_ids":["t-222338","c-203425"]},{"sentence_id":"s3","supported":true,"support_ids":["t-54964","c-55507","t-89713","c-85646"]},{"sentence_id":"s4","supported":true,"support_ids":["t-54965","c-55508"]},{"sentence_id":"s5","supported":true,"support_ids":["t-54968","c-55512","t-89716","c-55511"]}],"verifier":"gpt-5.6-luna"},"quality":47,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-54967","confidence":0.62}],"timeline":[],"support_disclosure":{"claims":11,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 275ef7aa1bcd76f5
+object_page_generated_at: '2026-09-19T14:22:26+00:00'
+object_page_source_checked_at: '2026-09-19T14:22:26+00:00'
+object_page_content_state: content
+object_page_claim_count: '11'
+object_page_source_count: '2'
+object_page_seo_description: 'Fridrichas (Rygos arkivyskupas): Fridrichas buvo Rygos arkivyskupas, aktyviai veikęs XIV amžiaus pirmosios pusės Livonijos politiniuose ir religiniuose…'
+object_page_seo_input_hash: c121dced73a7b29a8a0e57be0d26cf13b06c9ed48162f0f34f1cca641b15ff7e
+object_page_seo_generated_at: '2026-09-19T14:22:26+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Fridrichas (Rygos arkivyskupas)
 
@@ -71,6 +87,200 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - Rygos arkivyskupas
 - dvasininkas
 
+## Teiginiai
+
+<a id="claim-t-54964"></a>
+- t-001
+  teiginys: "Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Livonija: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai aprašo lietuvių pulko įsiveržimą į Livoniją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Lietuviai puolė Livonija (0.82); Lietuviai puolė Dorpatas (0.78)"
+  pagrindžia:
+    - c-55507
+
+<a id="claim-t-54965"></a>
+- t-002
+  teiginys: "Responsio per Procuratorem Ordinis kaltino Rygos arkivyskupą Fridrichą pasiuntus pasiuntinius pas lietuvių valdovą ir sudarius prieš Ordiną nukreiptą sąjungą."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55508
+
+<a id="claim-t-54966"></a>
+- t-003
+  teiginys: "Vytenis laišku prašė Rygos arkivyskupo Fridricho ir popiežiaus legato Pranciškaus atsiųsti jam minoritų."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55509
+
+<a id="claim-t-54967"></a>
+- t-004
+  teiginys: "Šaltinio pasakojime Rygos arkivyskupas kaltinamas Gedimino vardu parengęs ir išsiuntinėjęs laiškus prieš Kryžiuočių ordiną."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekste Fridricho veiksmas apibūdinamas kaip nukreiptas prieš Kryžiuočių ordiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Fridrichas (Rygos arkivyskupas) buvo priešas Kryžiuočių ordinas (0.62)"
+  pagrindžia:
+    - c-55511
+
+<a id="claim-t-54968"></a>
+- t-005
+  teiginys: "1325 m. balandį po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "kelionės data: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
+  pagrindžia:
+    - c-55512
+
+<a id="claim-t-54969"></a>
+- t-006
+  teiginys: "Dusburgo citatoje Jonas XXII pasiuntė du legatus į Livoniją Fridricho ir Rygos miestiečių prašymu."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55513
+
+<a id="claim-t-89710"></a>
+- t-007
+  teiginys: "Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam minoritų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55509
+
+<a id="claim-t-89711"></a>
+- t-008
+  teiginys: "Rygos arkivyskupą Fridrichą Ordino broliai klastingai išmetė iš bažnyčios."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-85645
+
+<a id="claim-t-89712"></a>
+- t-009
+  teiginys: "Rygos arkivyskupas Fridrichas įkalbėjo popiežių Joną XXII pasiųsti į Livoniją du legatus pakrikštyti lietuvių ir rusų karaliaus."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Fridrichas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Fridrichas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Fridrichas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-85642
+
+<a id="claim-t-89713"></a>
+- t-010
+  teiginys: "Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Livonija: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai aprašo lietuvių pulko įsiveržimą į Livoniją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Lietuviai puolė Livonija (0.82)"
+  pagrindžia:
+    - c-85646
+
+<a id="claim-t-89714"></a>
+- t-011
+  teiginys: "Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonus į jau pastatytą bažnyčią."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Isamas (Rygos arkivyskupas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Isamas (Rygos arkivyskupas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Isamas (Rygos arkivyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-85645
+
+<a id="claim-t-89716"></a>
+- t-012
+  teiginys: "Balińskis manė, kad Rygos arkivyskupas Fridrichas Gedimino vardu parengė ir išsiuntinėjo laiškus prieš Kryžiuočių ordiną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekste Fridricho laiškų rengimas apibūdintas kaip nukreiptas prieš Kryžiuočių ordiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Fridrichas (Rygos arkivyskupas) buvo priešas Kryžiuočių ordinas (0.62)"
+  pagrindžia:
+    - c-55511
+
 ## Citatos
 
 - id: c-55507
@@ -96,8 +306,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54964
+  pagrindzia:
+    - t-001
 
 - id: c-55508
   autorius: "Michał Baliński"
@@ -141,8 +351,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54965
+  pagrindzia:
+    - t-002
 
 - id: c-55509
   autorius: "Michał Baliński"
@@ -171,9 +381,9 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54966
-    - t-89710
+  pagrindzia:
+    - t-003
+    - t-007
 
 - id: c-55510
   autorius: "Michał Baliński"
@@ -197,7 +407,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-55511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -224,9 +433,9 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54967
-    - t-89716
+  pagrindzia:
+    - t-004
+    - t-012
 
 - id: c-55512
   autorius: "Michał Baliński"
@@ -249,8 +458,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54968
+  pagrindzia:
+    - t-005
 
 - id: c-55513
   autorius: "Michał Baliński"
@@ -279,8 +488,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54969
+  pagrindzia:
+    - t-006
 
 - id: c-85642
   autorius: "Petras Dusburgietis"
@@ -308,6 +517,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 - id: c-85645
   autorius: "Michał Baliński"
@@ -336,8 +547,9 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89714
+  pagrindzia:
+    - t-008
+    - t-011
 
 - id: c-85646
   autorius: "Michał Baliński"
@@ -365,221 +577,5 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89713
-
-- id: c-203425
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 221"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
-  citata_originali: |
-    356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
-    čionių 1324 metais
-    Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą,
-    įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo, bei to paties
-    miesto gyventojų, du legatus, būtent: Baltramiejų, Aleto vyskupą, ir Bernardą, švento
-    Benedikto ordino švento Teofrido vienuolyno abatą Le Piui vyskupystėje, pakrikštyti
-    lietuvių ir rusų karaliaus. Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto,
-    šventės (rugsėjo 22) atvyko į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo
-    karaliaus bei jo valdinių iš vienos pusės ir tarp krikščionių iš kitos ir apaštališkojo sosto
-    valia pasiūlė tvirtai jos laikytis, pridurdami, kad toji šalis, kuri lengvapėdiškai pažeisianti
-    šį susitarimą, kuri sakysianti tokius žodžius ar darysianti tokius veiksmus, griebsiantisi
-    tokių sumanymų ar darbų, kurie galėtų trukdyti šiam susitarimui ar jį vilkinti, būsianti
-    dėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,
-    tik apaštališkasis sostas, prie kurio jie patys per tris mėnesius turėsią prisistatyti,
-    kad atvykę deramai pataisytų tai, kas atsitiko.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-222338"></a>
-- t-001
-  teiginys: "Rygos arkivyskupas Fridrichas įkalbėjo popiežių Joną XXII pasiųsti į Livoniją du legatus pakrikštyti lietuvių ir rusų karaliaus."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Fridrichas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Fridrichas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Fridrichas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203425
-
-<a id="claim-t-54964"></a>
-- t-54964
-  teiginys: "Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Livonija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai aprašo lietuvių pulko įsiveržimą į Livoniją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Lietuviai puolė Livonija (0.82); Lietuviai puolė Dorpatas (0.78)"
-  pagrindžia:
-    - c-55507
-
-<a id="claim-t-54965"></a>
-- t-54965
-  teiginys: "Responsio per Procuratorem Ordinis kaltino Rygos arkivyskupą Fridrichą pasiuntus pasiuntinius pas lietuvių valdovą ir sudarius prieš Ordiną nukreiptą sąjungą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55508
-
-<a id="claim-t-54966"></a>
-- t-54966
-  teiginys: "Vytenis laišku prašė Rygos arkivyskupo Fridricho ir popiežiaus legato Pranciškaus atsiųsti jam minoritų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55509
-
-<a id="claim-t-54967"></a>
-- t-54967
-  teiginys: "Šaltinio pasakojime Rygos arkivyskupas kaltinamas Gedimino vardu parengęs ir išsiuntinėjęs laiškus prieš Kryžiuočių ordiną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekste Fridricho veiksmas apibūdinamas kaip nukreiptas prieš Kryžiuočių ordiną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Fridrichas (Rygos arkivyskupas) buvo priešas Kryžiuočių ordinas (0.62)"
-  pagrindžia:
-    - c-55511
-
-<a id="claim-t-54968"></a>
-- t-54968
-  teiginys: "1325 m. balandį po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "kelionės data: 1325 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
-  pagrindžia:
-    - c-55512
-
-<a id="claim-t-54969"></a>
-- t-54969
-  teiginys: "Dusburgo citatoje Jonas XXII pasiuntė du legatus į Livoniją Fridricho ir Rygos miestiečių prašymu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dusburgas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55513
-
-<a id="claim-t-89710"></a>
-- t-89710
-  teiginys: "Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam minoritų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55509
-
-<a id="claim-t-89713"></a>
-- t-89713
-  teiginys: "Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Livonija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai aprašo lietuvių pulko įsiveržimą į Livoniją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Lietuviai puolė Livonija (0.82)"
-  pagrindžia:
-    - c-85646
-
-<a id="claim-t-89714"></a>
-- t-89714
-  teiginys: "Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonus į jau pastatytą bažnyčią."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Isamas (Rygos arkivyskupas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Isamas (Rygos arkivyskupas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Isamas (Rygos arkivyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-85645
-
-<a id="claim-t-89716"></a>
-- t-89716
-  teiginys: "Balińskis manė, kad Rygos arkivyskupas Fridrichas Gedimino vardu parengė ir išsiuntinėjo laiškus prieš Kryžiuočių ordiną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fridrichas (Rygos arkivyskupas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekste Fridricho laiškų rengimas apibūdintas kaip nukreiptas prieš Kryžiuočių ordiną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Fridrichas (Rygos arkivyskupas) buvo priešas Kryžiuočių ordinas (0.62)"
-  pagrindžia:
-    - c-55511
-
+  pagrindzia:
+    - t-010

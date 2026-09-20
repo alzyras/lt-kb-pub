@@ -47,6 +47,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205397"></a>
+- t-001
+  teiginys: "1544 m. Brastos bei 1551 ir 1552 m. Vilniaus seimuose lietuviai reikalavo abiejų Žygimantų panaikinti šią prievolę, bet reikalavimai nebuvo patenkinti."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187730
+
 ## Santrauka
 
 1544 m. Brastos bei 1551 ir 1552 m. Vilniaus seimuose lietuviai reikalavo abiejų Žygimantų panaikinti šią prievolę, bet reikalavimai nebuvo patenkinti.
@@ -73,20 +87,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205397"></a>
-- t-001
-  teiginys: "1544 m. Brastos bei 1551 ir 1552 m. Vilniaus seimuose lietuviai reikalavo abiejų Žygimantų panaikinti šią prievolę, bet reikalavimai nebuvo patenkinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187730
-

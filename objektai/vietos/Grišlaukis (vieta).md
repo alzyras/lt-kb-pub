@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Grišlaukis (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Grišlaukis (vieta)
+identifikacija: vieta
 variantai:
-  - 'Grišlaukis'
+  - Grišlaukis
 aliases:
-  - 'Grišlaukis'
+  - Grišlaukis
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-c61c4eb3c4ee7b6cde551286"
-canonical_name: "Grišlaukis (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Grišlaukis","Grišlaukis (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-c61c4eb3c4ee7b6cde551286
+canonical_name: Grišlaukis (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Grišlaukis
+  - Grišlaukis (vieta)
 sameAs: []
-canonical_biography: "Brunavos ir Grišlaukio parapijoms."
+canonical_biography: Brunavos ir Grišlaukio parapijoms.
 place_authority: true
 historical_names: []
 ---

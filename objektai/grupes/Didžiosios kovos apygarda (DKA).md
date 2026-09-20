@@ -34,6 +34,44 @@ media_all_json: |-
 
 Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizanų apygardų vadus siekęs sunaikinti J.
 
+## Teiginiai
+
+<a id="claim-t-40874"></a>
+- t-001
+  teiginys: "Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakų apskritis: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Didžiosios kovos apygarda (DKA): llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakų apskritis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Apygardoje įkurta rinktinė „A“ siejama su Trakų apskritimi, todėl tai jos veikimo teritorijos ryšys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Didžiosios kovos apygarda (DKA) gyveno Trakų apskritis (0.66)"
+  pagrindžia:
+    - c-44732
+
+<a id="claim-t-40875"></a>
+- t-002
+  teiginys: "1946 m. Žaliam Velniui patekus į Juozo Markulio-Erelio pinkles, beveik visa Didžiosios kovos apygarda buvo sunaikinta."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Didžiosios kovos apygarda (DKA): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžiosios kovos apygarda (DKA)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1946 m.; įvykio data: 1947 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas trumpinys, kad sakinys aiškiai įvardytų objektą."
+  pagrindžia:
+    - c-42660
+
 ## Citatos
 
 - id: c-42660
@@ -52,7 +90,7 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-44732
@@ -73,44 +111,5 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-40874"></a>
-- t-001
-  teiginys: "Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Trakų apskritis: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Didžiosios kovos apygarda (DKA): llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Trakų apskritis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Apygardoje įkurta rinktinė „A“ siejama su Trakų apskritimi, todėl tai jos veikimo teritorijos ryšys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Didžiosios kovos apygarda (DKA) gyveno Trakų apskritis (0.66)"
-  pagrindžia:
-    - c-44732
-
-<a id="claim-t-40875"></a>
-- t-002
-  teiginys: "1946 m. Žaliam Velniui patekus į Juozo Markulio-Erelio pinkles, beveik visa Didžiosios kovos apygarda buvo sunaikinta."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Didžiosios kovos apygarda (DKA): owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžiosios kovos apygarda (DKA)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1946 m.; įvykio data: 1947 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išplėstas trumpinys, kad sakinys aiškiai įvardytų objektą."
-  pagrindžia:
-    - c-42660
-

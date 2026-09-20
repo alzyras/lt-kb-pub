@@ -46,22 +46,10 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
 
 ## Teiginiai
 
-<a id="claim-t-217694"></a>
-- t-217694
-  teiginys: "Lietuvių garbinti dangaus kū nai (Saulė, Mėnuo, Aušra, Vakarinė, žvaigždės) daugiausia api būdinami pagal Liudviko Rėzos paskelbtąsias (1825) ir latvių mitologines dainas."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201507
-
 <a id="claim-t-193585"></a>
-- t-193585
+- t-001
   teiginys: "Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poema „Metai“ (su vertimu į vokiečių kalbą)."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -69,6 +57,18 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176260
+
+<a id="claim-t-197319"></a>
+- t-002
+  teiginys: "Liudvikas Rėza nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš akių; kiti lydi mirusįjį iki laidojimo vietos."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179128
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -112,8 +112,8 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193585
+  pagrindzia:
+    - t-001
 
 - id: c-179128
   autorius: "Teodoras Narbutas"
@@ -132,42 +132,5 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199468
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 363"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
-  citata_originali: |
-    Toje
-    vietoje būna įkaltas stulpelis ir ant jo padėtas pinigas. Raite­
-    liai nuo tam tikros vietos leidžiasi lenktynių stulpelio link; tas,
-    kuris prijos pirmasis ir paims pinigą, pelno nemenką šlovę. Jis
-    nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš
-    akių; kiti lydi mirusįjį iki laidojimo vietos.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-201507
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 26"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 26."
-  citata_originali: |
-    Lietuvių garbinti dangaus kū­
-    nai (Saulė, Mėnuo, Aušra, Vakarinė, žvaigždės) daugiausia api­
-    būdinami pagal Liudviko Rėzos paskelbtąsias (1825) ir latvių
-    mitologines dainas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217694
-
+  pagrindzia:
+    - t-002

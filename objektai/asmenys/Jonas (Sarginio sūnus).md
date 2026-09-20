@@ -34,6 +34,25 @@ canonical_biography: "Dusburgietis teigia, kad apie antrąjį minėtojo Marienve
 
 Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.
 
+## Teiginiai
+
+<a id="claim-t-60343"></a>
+- t-001
+  teiginys: "Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Jonas (Sarginio sūnus): 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Belichovas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Jonas (Sarginio sūnus): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Belichovo pilis priklausė Jonui, Sarginio sūnui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Belichovas priklausė Jonas (Sarginio sūnus) (0.92)"
+  pagrindžia:
+    - c-60975
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.'
@@ -72,19 +91,8 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Belichovas]]
-
-## Teiginiai
-
-<a id="claim-t-220990"></a>
-- t-001
-  teiginys: "Jonas (Sarginio sūnus) ne kartą buvo su ašaromis viešpaties prašęs."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-

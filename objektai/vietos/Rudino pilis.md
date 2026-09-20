@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Rudino pilis'
+pavadinimas: Rudino pilis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1234 m.'
+  - 1234 m.
 date_start: '1234'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-2ce20e0176489dba1eec707f"
-canonical_name: "Rudino pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Rudino pilis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-2ce20e0176489dba1eec707f
+canonical_name: Rudino pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Rudino pilis
 sameAs: []
-canonical_biography: "1234 m. Rudino pilis pastatyta tarp Pamedės ir Kulmo žemių."
+canonical_biography: 1234 m. Rudino pilis pastatyta tarp Pamedės ir Kulmo žemių.
 ---
 # Rudino pilis
 
@@ -72,6 +71,5 @@ canonical_biography: "1234 m. Rudino pilis pastatyta tarp Pamedės ir Kulmo žem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

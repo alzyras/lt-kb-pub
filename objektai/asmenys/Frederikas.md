@@ -34,6 +34,29 @@ canonical_biography: "Teodoro Narbuto pasakojime rugių vadas Frederikas paliko 
 
 Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiais pasitraukė pas herulus.
 
+## Teiginiai
+
+<a id="claim-t-191203"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiais pasitraukė pas herulus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Herulai: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Frederikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Herulai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Frederikas su saviškiais pasitraukė pas herulus, tai leidžia daryti atsargų sąjungos ar prisidėjimo ryšį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Frederikas buvo sąjungininkas su Herulai (0.66); Frederikas buvo priešas Gotai (0.62)"
+  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
+  pagrindžia:
+    - c-174085
+
 ## Citatos
 
 - id: c-174085
@@ -54,62 +77,5 @@ Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195537
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 322"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
-  citata_originali: |
-    Teodoriko valdžia nepatenkintas
-    Tufą su visa jam patikėta kariuomene paliko jį ir vėl
-    perėjo pas Odoakrą. Taip pat ir rugių vadas Frederikas
-    paliko gotus ir su saviškiais pasitraukė pas herulus. Teo­
-    dorikas buvo apsuptas Pavijoje, Odoakrui nepalankiame
-    mieste nuo tų laikų, kai ten buvo nugalėtas Orestas; po
-    šio pralaimėjimo miestas sustiprėjo ir buvo atstatytas.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-213841"></a>
-- t-001
-  teiginys: "Frederikas paliko gotus ir pasitraukė pas herulus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195537
-
-<a id="claim-t-215763"></a>
-- t-002
-  teiginys: "Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiais pasitraukė pas herulus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Herulai: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Frederikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Frederikas su saviškiais pasitraukė pas herulus, tai leidžia daryti atsargų sąjungos ar prisidėjimo ryšį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Frederikas buvo sąjungininkas su Herulai (0.66); Frederikas buvo priešas Gotai (0.62)"
-  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-  pagrindžia:
-    - c-195537
-

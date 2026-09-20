@@ -34,6 +34,28 @@ media_all_json: |-
 
 Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).
 
+## Teiginiai
+
+<a id="claim-t-19876"></a>
+- t-001
+  teiginys: "Nuo 1934 m. Lietuvos karo aviacijai vadovavęs Antanas Gustaitis sukonstravo ANBO lėktuvų seriją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Lėktuvai: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Antanas Gustaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lėktuvai: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Antanas Gustaitis sukonstravo lėktuvų seriją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Antanas Gustaitis pastatė Lėktuvai (0.87)"
+  temporaliniai_duomenys: "įvykio data: po 1934 m.; įvykio data: 1934 m.; įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus sakinys apie Lietuvos karo aviaciją."
+  pagrindžia:
+    - c-22609
+
 ## Citatos
 
 - id: c-22609
@@ -55,28 +77,5 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-19876"></a>
-- t-001
-  teiginys: "Nuo 1934 m. Lietuvos karo aviacijai vadovavęs Antanas Gustaitis sukonstravo ANBO lėktuvų seriją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Lėktuvai: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antanas Gustaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lėktuvai: llm_allowed_candidate, thing"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Antanas Gustaitis sukonstravo lėktuvų seriją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Antanas Gustaitis pastatė Lėktuvai (0.87)"
-  temporaliniai_duomenys: "įvykio data: po 1934 m.; įvykio data: 1934 m.; įvykio data: 1935 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus sakinys apie Lietuvos karo aviaciją."
-  pagrindžia:
-    - c-22609
-

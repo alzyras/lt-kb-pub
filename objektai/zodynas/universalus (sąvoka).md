@@ -1,34 +1,31 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'universalus (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: universalus (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'universalus'
+  - universalus
 aliases:
-  - 'universalus'
+  - universalus
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1567 m.'
-  - '1568 m.'
+  - 1567 m.
+  - 1568 m.
 date_start: '1567'
 date_end: '1568'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # universalus (sąvoka)
 
@@ -77,6 +74,5 @@ Nors karalius nenutraukė karo veiksmų, už kuriuos stojo San guška ir Jonas C
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

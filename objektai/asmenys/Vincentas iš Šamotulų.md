@@ -34,6 +34,41 @@ canonical_biography: "Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš
 
 Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą. Vincentas iš Šamotulų su visa kariuomene patraukė į Lenkiją.
 
+## Teiginiai
+
+<a id="claim-t-186088"></a>
+- t-001
+  teiginys: "Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Lvovas: 0.55"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vincentas iš Šamotulų: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lvovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vincentas buvo išsiųstas iš Lvovo, tačiau leidžiamas ryšys neturi atskiros krypties „iš“, todėl interpretacija ribota."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Vincentas iš Šamotulų siuntė į Lvovas (0.55)"
+  pagrindžia:
+    - c-169449
+
+<a id="claim-t-196628"></a>
+- t-002
+  teiginys: "Vincentas iš Šamotulų su visa kariuomene patraukė į Lenkiją."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169450
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė suversti vežimus po ledu ir atlaisvinti kelią kitiems būriams.'
@@ -77,7 +112,7 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-169450
@@ -101,41 +136,5 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-186088"></a>
-- t-001
-  teiginys: "Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "siunte_i -> Lvovas: 0.55"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vincentas iš Šamotulų: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lvovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vincentas buvo išsiųstas iš Lvovo, tačiau leidžiamas ryšys neturi atskiros krypties „iš“, todėl interpretacija ribota."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Vincentas iš Šamotulų siuntė į Lvovas (0.55)"
-  pagrindžia:
-    - c-169449
-
-<a id="claim-t-196628"></a>
-- t-002
-  teiginys: "Vincentas iš Šamotulų su visa kariuomene patraukė į Lenkiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-169450
-

@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Gedimino paskelbimas Lietuvos didžiuoju kunigaikščiu (1316 m.)'
+pavadinimas: Gedimino paskelbimas Lietuvos didžiuoju kunigaikščiu (1316 m.)
 variantai:
-  - 'Gedimino paskelbimas Lietuvos didžiuoju kunigaikščiu'
+  - Gedimino paskelbimas Lietuvos didžiuoju kunigaikščiu
 aliases:
-  - 'Gedimino paskelbimas Lietuvos didžiuoju kunigaikščiu'
+  - Gedimino paskelbimas Lietuvos didžiuoju kunigaikščiu
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1316 m.'
+  - 1316 m.
 date_start: '1316'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Gedimino paskelbimas Lietuvos didžiuoju kunigaikščiu (1316 m.)
 
@@ -82,6 +79,5 @@ Narbutas nurodo, kad prieš paskelbimą Gediminas gyveno Ariogaloje ir valdė ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Telšių apskritis'
+pavadinimas: Telšių apskritis
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b44624f82c837b5736295c95"
-canonical_name: "Telšių apskritis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Telšių apskritis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b44624f82c837b5736295c95
+canonical_name: Telšių apskritis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Telšių apskritis
 sameAs: []
-canonical_biography: "Kitose apskrityse blaivininkų buvo tiek: Panevėžio — 89,4 proc., Šiaulių — 88,6 proc., Tel šių — 88,3 proc., Ukmergės — 84,9 proc., Raseinių — 72 proc."
+canonical_biography: 'Kitose apskrityse blaivininkų buvo tiek: Panevėžio — 89,4 proc., Šiaulių — 88,6 proc., Tel šių — 88,3 proc., Ukmergės — 84,9 proc., Raseinių — 72 proc.'
 place_authority: true
 historical_names: []
 ---

@@ -37,6 +37,61 @@ historical_names: []
 
 Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją. Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra. Taip Darijus buvo priverstas greitai pereiti visą Skitiją, persikelti per to kias dideles upes kaip Dnestras, Būgas, Dnepras ir Donecas.
 
+## Teiginiai
+
+<a id="claim-t-185274"></a>
+- t-001
+  teiginys: "Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Skitija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mikalojus Radvila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Skitija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Radvila patraukė į skitų kraštą, tapatinamą su Skitija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Mikalojus Radvila keliavo į Skitija (0.86)"
+  pagrindžia:
+    - c-168635
+
+<a id="claim-t-192761"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Padneprė: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Boristeniečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Padneprė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Boristeniečiai tiesiogiai apibūdinami kaip Padneprės graikų kolonistai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Boristeniečiai gyveno Padneprė (0.87)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175531
+
+<a id="claim-t-197929"></a>
+- t-003
+  teiginys: "Taip Darijus buvo priverstas greitai pereiti visą Skitiją, persikelti per to kias dideles upes kaip Dnestras, Būgas, Dnepras ir Donecas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179405
+
 ## Citatos
 
 - id: c-168635
@@ -58,8 +113,8 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185274
+  pagrindzia:
+    - t-001
 
 - id: c-175531
   autorius: "Teodoras Narbutas"
@@ -80,6 +135,8 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-179405
   autorius: "Teodoras Narbutas"
@@ -106,116 +163,10 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197375
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 150"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
-  citata_originali: |
-    Priartinus mūsų tyrimus prie
-    geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
-    tėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi
-    apie gintaringas vietas; boristeniečiai, ariba Padneprės
-    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
-    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
-    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
-    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-197433
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 56"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
-  citata_originali: |
-    Kadangi priešo būriai buvo narsūs ir puikiai gink­
-    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
-    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
-    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
-    jo nesuskaičiuojamų atsargų našta. Taip Darijus buvo
-    priverstas greitai pereiti visą Skitiją, persikelti per to­
-    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
-    cas. Antra vertus, persų karalius, pasak Herodoto, savo
-    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
-    čio tarytum padėjo skitams įgyvendinti jų ketinimus. Jo
-    brolis Artabanas veltui stengėsi įrodyti, kad nenaudinga
-    aukoti septynissyk šimtatūkstantinę armiją nepažįstamam,
-    visiškai nusiaubtam ir sausringam kraštui, kur visko la­
-    bai stigo, o tai buvo pavojingiau negu priešo ginklai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Herodotas]], [[objektai/asmenys/Jerim Berdis]]
 - Puolė Skitiją: [[objektai/grupes/Persai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Darijus]]
-
-## Teiginiai
-
-<a id="claim-t-212490"></a>
-- t-001
-  teiginys: "Taip Darijus buvo priverstas greitai pereiti visą Skitiją, persikelti per to kias dideles upes kaip Dnestras, Būgas, Dnepras ir Donecas."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197433
-
-<a id="claim-t-214036"></a>
-- t-002
-  teiginys: "Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Padneprė: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Boristeniečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Padneprė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Boristeniečiai tiesiogiai apibūdinami kaip Padneprės graikų kolonistai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Boristeniečiai gyveno Padneprė (0.87)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-197375
-
-<a id="claim-t-185274"></a>
-- t-185274
-  teiginys: "Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Skitija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mikalojus Radvila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Radvila patraukė į skitų kraštą, tapatinamą su Skitija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Mikalojus Radvila keliavo į Skitija (0.86)"
-  pagrindžia:
-    - c-168635
-

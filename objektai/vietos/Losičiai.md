@@ -36,6 +36,24 @@ historical_names: []
 
 Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir Čirčinsko že­ mėmis ir visais Smolnėnų ir Čirčinsko žmonėmis, panašiai ir dvarą, vadinamą Horodišče, ir Losičius su visomis Horodiščės ir Losičių žemėmis ir, žinoma, su visais.
 
+## Teiginiai
+
+<a id="claim-t-86208"></a>
+- t-001
+  teiginys: "Losičiai buvo dovanojami kartu su Horodiščės ir Losičių žemėmis bei visais kaimiečiais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Horodiščė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Losičiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Horodiščė: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Losičiai\" parinktas kaip owner_note_path. Targetas \"Horodiščė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82187
+
 ## Citatos
 
 - id: c-82187
@@ -62,24 +80,5 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-86208"></a>
-- t-001
-  teiginys: "Losičiai buvo dovanojami kartu su Horodiščės ir Losičių žemėmis bei visais kaimiečiais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Horodiščė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Losičiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Horodiščė: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Losičiai\" parinktas kaip owner_note_path. Targetas \"Horodiščė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82187
-

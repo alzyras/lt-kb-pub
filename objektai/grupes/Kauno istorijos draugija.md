@@ -24,6 +24,20 @@ media_all_json: |-
 
 Čia paminėtų kolegų ir daugelio nepaminėtų Istorijos katedros darbuotojų, taip pat Kauno istorijos draugijos (vadovai Linas Saldukas ir Kastytis Antanaitis) narių kuriama intelektuali aplinka buvo nepaprastai vertinga paspirtis rašant Kauno istorijos I tomą.
 
+## Teiginiai
+
+<a id="claim-t-201884"></a>
+- t-001
+  teiginys: "Čia paminėtų kolegų ir daugelio nepaminėtų Istorijos katedros darbuotojų, taip pat Kauno istorijos draugijos (vadovai Linas Saldukas ir Kastytis Antanaitis) narių kuriama intelektuali aplinka buvo nepaprastai vertinga paspirtis rašant Kauno istorijos I tomą."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185231
+
 ## Citatos
 
 - id: c-185231
@@ -45,20 +59,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201884"></a>
-- t-001
-  teiginys: "Čia paminėtų kolegų ir daugelio nepaminėtų Istorijos katedros darbuotojų, taip pat Kauno istorijos draugijos (vadovai Linas Saldukas ir Kastytis Antanaitis) narių kuriama intelektuali aplinka buvo nepaprastai vertinga paspirtis rašant Kauno istorijos I tomą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185231
-

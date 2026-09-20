@@ -1,38 +1,37 @@
 ---
 tipas: asmuo
-pavadinimas: 'Dominykas Sakalauskas'
+pavadinimas: Dominykas Sakalauskas
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 datos:
-  - '1859 m.'
-  - '1861 m.'
+  - 1859 m.
+  - 1861 m.
 date_start: '1859'
 date_end: '1861'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3d16930b4286f1a221e55ac5"
-canonical_name: "Dominykas Sakalauskas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Dominykas Sakalauskas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3d16930b4286f1a221e55ac5
+canonical_name: Dominykas Sakalauskas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Dominykas Sakalauskas
 sameAs: []
-canonical_biography: "11 Skapiškio klebonas Dominykas Sa kalauskas rašė Valančiui, kad labai uoliai skelbęs blai vybę, dėl to žmonės visiškai nustoję girtauti. 1861 m. sausio 10 d. Dominykas Sakalauskas teisinosi Valančiui, kad pareigas eiti trukdo chroniška liga, nusilpimas ir energijos stoka."
+canonical_biography: '11 Skapiškio klebonas Dominykas Sa kalauskas rašė Valančiui, kad labai uoliai skelbęs blai vybę, dėl to žmonės visiškai nustoję girtauti. 1861 m. sausio 10 d. Dominykas Sakalauskas teisinosi Valančiui, kad pareigas eiti trukdo chroniška liga, nusilpimas ir energijos stoka.'
 ---
 # Dominykas Sakalauskas
 

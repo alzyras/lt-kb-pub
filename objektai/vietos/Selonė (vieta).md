@@ -50,6 +50,34 @@ historical_names: []
 
 1200 metais vienas iš lietuvių vadų, užėmęs Lovatės miestą ir pasukęs Nalučo link, dabartinės Selonės apylinkėse puolė iki Seredos, į vakarus nuo Rusės. 1217 metų žiemą arba 1218 metų pradžioje lietuviai, perėję Pskovo žemę, įsiveržė anapus Dauguvos ir užpuolė Naugardui priklausiusią Selonės provinciją.
 
+## Teiginiai
+
+<a id="claim-t-205858"></a>
+- t-001
+  teiginys: "1200 metais vienas iš lietuvių vadų, užėmęs Lovatės miestą ir pasukęs Nalučo link, dabartinės Selonės apylinkėse puolė iki Seredos, į vakarus nuo Rusės."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188473
+
+<a id="claim-t-205859"></a>
+- t-002
+  teiginys: "1217 metų žiemą arba 1218 metų pradžioje lietuviai, perėję Pskovo žemę, įsiveržė anapus Dauguvos ir užpuolė Naugardui priklausiusią Selonės provinciją."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188474
+
 ## Citatos
 
 - id: c-188473
@@ -70,7 +98,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188474
@@ -97,34 +125,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-205858"></a>
-- t-001
-  teiginys: "1200 metais vienas iš lietuvių vadų, užėmęs Lovatės miestą ir pasukęs Nalučo link, dabartinės Selonės apylinkėse puolė iki Seredos, į vakarus nuo Rusės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
-  pagrindžia:
-    - c-188473
-
-<a id="claim-t-205859"></a>
-- t-002
-  teiginys: "1217 metų žiemą arba 1218 metų pradžioje lietuviai, perėję Pskovo žemę, įsiveržė anapus Dauguvos ir užpuolė Naugardui priklausiusią Selonės provinciją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
-  pagrindžia:
-    - c-188474
-

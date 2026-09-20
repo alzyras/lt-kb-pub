@@ -42,6 +42,21 @@ Pasak Teodoro Narbuto, Vieviu vadinama vietovė yra šiauriniame ežero krante, 
 
 Pasak Teodoro Narbuto, Vieviu vadinama vietovė yra šiauriniame ežero krante, o jos apylinkių vaizdą autorius vertina kaip puikų.
 
+## Teiginiai
+
+<a id="claim-t-205861"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, Vieviu vadinama vietovė yra šiauriniame ežero krante, o jos apylinkių vaizdą autorius vertina kaip puikų."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188476
+
 ## Citatos
 
 - id: c-188476
@@ -64,21 +79,5 @@ Pasak Teodoro Narbuto, Vieviu vadinama vietovė yra šiauriniame ežero krante, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205861"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, Vieviu vadinama vietovė yra šiauriniame ežero krante, o jos apylinkių vaizdą autorius vertina kaip puikų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
-  pagrindžia:
-    - c-188476
-

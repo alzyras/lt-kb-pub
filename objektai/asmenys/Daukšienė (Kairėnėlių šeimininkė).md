@@ -52,6 +52,18 @@ Daukšienė vestuvių pasakojime pristatoma kaip Kairėnėlių šeimininkė, su 
 
 - šeimininkė
 
+## Teiginiai
+
+<a id="claim-t-195564"></a>
+- t-001
+  teiginys: "Kairėnėliuose Daukšienė su duona ir rūgštimi pasitiko jaunuosius."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177981
+
 ## Citatos
 
 - id: c-177981
@@ -67,18 +79,5 @@ Daukšienė vestuvių pasakojime pristatoma kaip Kairėnėlių šeimininkė, su 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195564"></a>
-- t-001
-  teiginys: "Kairėnėliuose Daukšienė su duona ir rūgštimi pasitiko jaunuosius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177981
-

@@ -44,6 +44,36 @@ canonical_biography: "Hubatsch^158."
 
 Hubatsch^158.
 
+## Teiginiai
+
+<a id="claim-t-64883"></a>
+- t-001
+  teiginys: "Bonnos universiteto profesorius W. Hubatschas parašė išsamią monografiją apie Prūsų hercogą Albrechtą."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "W. Hubatsch: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"W. Hubatsch\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-65467
+
+<a id="claim-t-64884"></a>
+- t-002
+  teiginys: "W. Hubatschas 1948 m. Getingene išleido „Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum“ antrąją dalį."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1948 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nurodo W. Hubatschą kaip leidėją ir pateikia leidimo vietą bei metus."
+  pagrindžia:
+    - c-65468
+
 ## Citatos
 
 - id: c-65467
@@ -62,8 +92,8 @@ Hubatsch^158.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-64883
+  pagrindzia:
+    - t-001
 
 - id: c-65468
   autorius: "Petras Dusburgietis"
@@ -80,53 +110,5 @@ Hubatsch^158.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-205388
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
-  citata_originali: |
-    Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525.— Pars
-    II: Regesta privilegiorum Ordinis S. Mariae Theutonicorum / Bearbeitet unter Mitwirkung
-    zahlreicher anderer von E. Joachim; Herausgegeben von W. Hubatsch.— Göttingen,
-    1948.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-224835"></a>
-- t-001
-  teiginys: "W. Hubatschas 1948 m. Getingene išleido „Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum“ antrąją dalį."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1948 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nurodo W. Hubatschą kaip leidėją ir pateikia leidimo vietą bei metus."
-  pagrindžia:
-    - c-205388
-
-<a id="claim-t-64883"></a>
-- t-64883
-  teiginys: "Bonnos universiteto profesorius W. Hubatschas parašė išsamią monografiją apie Prūsų hercogą Albrechtą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "W. Hubatsch: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"W. Hubatsch\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-65467
-
+  pagrindzia:
+    - t-002

@@ -48,6 +48,21 @@ historical_names: []
 
 1209 m. Adijos latviai pranešė kuršiams numanomą laiką, kai Rygoje būdavo mažiausiai vokiečių, ir taip paspartino puolimą.
 
+## Teiginiai
+
+<a id="claim-t-205195"></a>
+- t-001
+  teiginys: "1209 m. Adijos latviai pranešė kuršiams numanomą laiką, kai Rygoje būdavo mažiausiai vokiečių, ir taip paspartino puolimą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187969
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1209 m. Adijos latviai pranešė kuršiams numanomą laiką, kai Rygoje būdavo mažiausiai vokiečių, ir taip paspartino puolimą.'
@@ -83,21 +98,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205195"></a>
-- t-001
-  teiginys: "1209 m. Adijos latviai pranešė kuršiams numanomą laiką, kai Rygoje būdavo mažiausiai vokiečių, ir taip paspartino puolimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-187969
-

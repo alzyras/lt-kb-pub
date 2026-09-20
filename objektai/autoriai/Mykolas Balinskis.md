@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Mykolas Balinskis'
+pavadinimas: Mykolas Balinskis
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -22,19 +22,39 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-443142ae76a82f0cd511be48"
-canonical_name: "Mykolas Balinskis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Balinskis M.","Baliński","M. Balinskio","M. Balinskis","Michał Baliński","Michała Balińskiego","Mykolas B A L I N S K I S","Mykolas Balinskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-443142ae76a82f0cd511be48
+canonical_name: Mykolas Balinskis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Balinskis M.
+  - Baliński
+  - M. Balinskio
+  - M. Balinskis
+  - Michał Baliński
+  - Michała Balińskiego
+  - Mykolas B A L I N S K I S
+  - Mykolas Balinskis
 sameAs: []
-canonical_biography: "Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Vilniaus miesto istorija“, pirmą kartą lietuviškai išleista 2007 m. Jo darbai apėmė Vilniaus akademijos istoriją, „Senovės Lenkiją“, biografijas, istorinius leidinius ir publicistiką. „Vilniaus miesto istorijos“ rengimas rėmėsi kronikomis, archyviniais rankraščiais, dokumentų paieška ir pagalbininkų teikta medžiaga."
+canonical_biography: 'Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Vilniaus miesto istorija“, pirmą kartą lietuviškai išleista 2007 m. Jo darbai apėmė Vilniaus akademijos istoriją, „Senovės Lenkiją“, biografijas, istorinius leidinius ir publicistiką. „Vilniaus miesto istorijos“ rengimas rėmėsi kronikomis, archyviniais rankraščiais, dokumentų paieška ir pagalbininkų teikta medžiaga.'
+external_sources_json: '[{"title":"Mykolas Balinskis","url":"https://lt.wikipedia.org/wiki/Mykolas_Balinskis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Mykolas Balinskis","url":"https://www.vle.lt/straipsnis/mykolas-balinskis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T14:37:03+00:00","source_checked_at":"2026-09-19T14:37:03+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":["t-55010","t-55014","t-55012","t-55013","t-55016"],"featured_claims":[{"claim_id":"t-55010","text":"Balinskis paliko istorinių darbų ir apybraižų, tarp jų „Vilniaus akademijos istoriją“ ir su Tadu Lipinskiu parengtą „Senovės Lenkiją“.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55265"]},{"claim_id":"t-55014","text":"Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už istorinę dokumentinę pagalbą.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55269"]},{"claim_id":"t-55012","text":"Balinskis Vilniaus miesto istorijos pirmąjį tomą baigė rašyti 1825 m. pradžioje ir svarstė trijų ar keturių tomų veikalą.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55266"]},{"claim_id":"t-55013","text":"Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55268"]},{"claim_id":"t-55016","text":"Balinskio publicistikai priskiriami „Laiškai nuo Kražantės upės kranto“, spausdinti „Gazeta Warszawska“.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55271"]}],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Mykolas Balinskis","url":"https://lt.wikipedia.org/wiki/Mykolas_Balinskis","publisher":"Vikipedija","language":"lt","article_id":"193670","revision_id":"7536758","published_at":"2025-04-07T20:33:44Z","version_pk":"","content_hash":"06c3aa8cecfc1ee2543d8092ec3de5484644f2f0473121da38e23b93f6331e30","retrieved_at":"2026-09-19T14:34:48+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Mykolas_Balinskis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"193670"}},"intro":"Mykolas Balinskis (lenk. Michał Baliński, 1794 m. rugpjūčio 14 d. Ciarespolis netoli Polocko – 1864 m. sausio 3 d. Vilnius) – lenkų kalba rašęs istorikas, publicistas.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1794 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Ciarespolis netoli Polocko","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1864 m.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Vilnius","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Jašiūnai","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Ignotas Balinskis","source":"wikipedia_infobox"},{"code":"children","label":"Vaikai","value":"Jonas Balinskis","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Mykolas Balinskis","url":"https://lt.wikipedia.org/wiki/Mykolas_Balinskis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Mykolas Balinskis","url":"https://www.vle.lt/straipsnis/mykolas-balinskis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Mykolas_Balinskis","https://www.vle.lt/straipsnis/mykolas-balinskis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"d5feeeb7caa7bdfe6cc6ca0d","canonical_code":"author.character","label":"Būdas","group":"Asmens bruožai","value":"Darbštus","context":"Šaltinyje aprašoma, kad Balinskis, rinkdamas su Vilniaus miesto istorija susijusius dokumentus, buvo darbštus. Šaltinis: „Michał Baliński, Vilniaus miesto istorija“ (2007 m.).","support_ids":["t-55010","c-55265"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55010","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55265","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Būdamas darbštus ir plačių interesų, Vilniuje pradėjo rinkti su miesto istorija susijusius dokumentus. M. Balinskis pa­ liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­ čiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­ rašymui."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"292cfc1158ba17f33d140d94","canonical_code":"author.character","label":"Būdas","group":"Asmens bruožai","value":"Kruopštus ir pedantiškas","context":"Vytautas Berenis Balinskį apibūdino kaip kruopštų, pedantišką istoriką, vengdavusį rašyti apie istorinius įvykius be atitinkamos faktografinės bazės. Šaltinis: „Michał Baliński, Vilniaus miesto istorija“ (2007 m.).","support_ids":["t-55011","c-55267"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55011","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55267","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Gimęs Lenkijos-Lie­ tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­ tiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­ lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­ gimo liudininkas, miesto kultūrinio gyvenimo dalyvis. Lenkų ir lietuvių istoriografijoje M. Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus. M. Balinskis buvo kruopštus, pedantiškas istorikas, kitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­ zės vengdavęs rašyti apie vieną ar kitą istorinį įvykį."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2e978f993729515378132392","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Rašė istorinius darbus ir apybraižas","context":"Šaltinyje nurodoma, kad Balinskis paliko nemažai istorinių darbų ir apybraižų, tarp jų „Vilniaus akademijos istoriją“ ir kartu su Tadu Lipinskiu parengtą „Senovės Lenkiją“. Šaltinis: „Michał Baliński, Vilniaus miesto istorija“ (2007 m.).","support_ids":["t-55010","c-55265"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55010","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55265","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Būdamas darbštus ir plačių interesų, Vilniuje pradėjo rinkti su miesto istorija susijusius dokumentus. M. Balinskis pa­ liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­ čiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­ rašymui."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c00eb075eb80e7fba85fd830","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Rašė publicistiką","context":"Šaltinyje nurodoma, kad Balinskio publicistinei literatūrai priskiriami straipsniai „Laiškai nuo Kražantės upės kranto“, spausdinti „Gazeta Warszawska“ penktame–šeštame XIX a. dešimtmetyje. Šaltinis: „Michał Baliński, Vilniaus miesto istorija“ (2007 m.).","support_ids":["t-55016","c-55271"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55016","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55271","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­ džiausiai dėkojame\"12. Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­ tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū- rinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a. dešimtmetyje."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"de54dc638573a23ef899e83c","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Istorikas","context":"Šaltinyje Balinskis tiesiogiai vadinamas istoriku; Vytautas Berenis jį apibūdina kaip kruopštų, pedantišką istoriką. Šaltinis: „Michał Baliński, Vilniaus miesto istorija“ (2007 m.).","support_ids":["t-55011","c-55267"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55011","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55267","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Gimęs Lenkijos-Lie­ tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­ tiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­ lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­ gimo liudininkas, miesto kultūrinio gyvenimo dalyvis. Lenkų ir lietuvių istoriografijoje M. Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus. M. Balinskis buvo kruopštus, pedantiškas istorikas, kitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­ zės vengdavęs rašyti apie vieną ar kitą istorinį įvykį."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Mykolas Balinskis – istorinių darbų ir apybraižų autorius, daug dėmesio skyręs Vilniaus praeičiai. Vilniuje jis rinko su miesto istorija susijusius dokumentus, o tarp svarbiausių jo darbų minimos „Vilniaus akademijos istorija“ ir kartu su Tadu Lipinskiu parengta „Senovės Lenkija“, kurios vienas tomas skirtas Lietuvos Didžiosios Kunigaikštystės istorinei topografijai. Pirmąjį „Vilniaus miesto istorijos“ tomą Balinskis baigė 1825 metų pradžioje ir svarstė parašyti tris, o gal keturis tomus. Pirmoji šio veikalo dalis pasirodė 1836 m.; joje Vilniaus istorija siejama ir su platesne ikikrikščioniškos Lietuvos valstybės raida, o pasakojimas baigiamas 1430 m. Vytauto Didžiojo mirtimi. Balinskio publicistinį palikimą papildė „Laiškai nuo Kražantės upės kranto“, spausdinti laikraštyje „Gazeta Warszawska“ ir laikomi vertingu XIX amžiaus Lietuvos bei Lenkijos visuomeninio-kultūrinio gyvenimo šaltiniu.","sentences":[{"sentence_id":"s1","text":"Mykolo Balinskis – istorinių darbų ir apybraižų autorius, daug dėmesio skyręs Vilniaus praeičiai.","support_ids":["t-55010","c-55265"]},{"sentence_id":"s2","text":"Vilniuje jis rinko su miesto istorija susijusius dokumentus, o tarp svarbiausių jo darbų minimos „Vilniaus akademijos istorija“ ir kartu su Tadu Lipinskiu parengta „Senovės Lenkija“, kurios vienas tomas skirtas Lietuvos Didžiosios Kunigaikštystės istorinei topografijai.","support_ids":["t-55010","c-55265"]},{"sentence_id":"s3","text":"Pirmąjį „Vilniaus miesto istorijos“ tomą Balinskis baigė 1825 metų pradžioje ir svarstė parašyti tris, o gal keturis tomus.","support_ids":["t-55012","c-55266"]},{"sentence_id":"s4","text":"Pirmoji šio veikalo dalis pasirodė 1836 m.; joje Vilniaus istorija siejama ir su platesne ikikrikščioniškos Lietuvos valstybės raida, o pasakojimas baigiamas 1430 m. Vytauto Didžiojo mirtimi.","support_ids":["t-55013","c-55268","t-55014","c-55269"]},{"sentence_id":"s5","text":"Balinskio publicistinį palikimą papildė „Laiškai nuo Kražantės upės kranto“, spausdinti laikraštyje „Gazeta Warszawska“ ir laikomi vertingu XIX amžiaus Lietuvos bei Lenkijos visuomeninio-kultūrinio gyvenimo šaltiniu.","support_ids":["t-55016","c-55271"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta nurodytais šaltiniais: Balinskis įvardijamas istorinių darbų ir apybraižų autoriumi, rinkusiu su Vilniaus istorija susijusius dokumentus."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina dokumentų rinkimą, „Vilniaus akademijos istoriją“ ir su Tadu Lipinskiu parengtą „Senovės Lenkiją“, kurios vienas tomas skirtas LDK istorinei topografijai."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai patvirtinta, kad pirmąjį tomą Balinskis baigė 1825 metų pradžioje ir planavo tris arba keturis tomus."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai patvirtina pirmosios dalies pasirodymą 1836 m., ikikrikščioniškos Lietuvos valstybės istorijos aptarimą ir pasakojimo pabaigą 1430 m. Vytauto Didžiojo mirtimi."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo „Laiškus nuo Kražantės upės kranto“, jų publikavimą „Gazeta Warszawska“ ir vertę XIX a. Lietuvos bei Lenkijos visuomeninio-kultūrinio gyvenimo istorijai."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-55010","c-55265"]},{"sentence_id":"s2","supported":true,"support_ids":["t-55010","c-55265"]},{"sentence_id":"s3","supported":true,"support_ids":["t-55012","c-55266"]},{"sentence_id":"s4","supported":true,"support_ids":["t-55013","c-55268","t-55014","c-55269"]},{"sentence_id":"s5","supported":true,"support_ids":["t-55016","c-55271"]}],"verifier":"gpt-5.6-luna"},"quality":52,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":7,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1e4c9de4c08f8da7
+object_page_generated_at: '2026-09-19T14:37:03+00:00'
+object_page_source_checked_at: '2026-09-19T14:37:03+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '1'
+object_page_seo_description: 'Mykolas Balinskis – istorinių darbų ir apybraižų autorius, daug dėmesio skyręs Vilniaus praeičiai. Vilniuje jis rinko su miesto istorija susijusius…'
+object_page_seo_input_hash: 4a1d3e5688ddffca4909c10558307b93d25becd070f14405834b405ded11714d
+object_page_seo_generated_at: '2026-09-19T14:37:03+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Mykolas Balinskis
 
@@ -64,6 +84,22 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 
 ## Teiginiai
 
+<a id="claim-t-55010"></a>
+- t-001
+  teiginys: "Balinskis paliko istorinių darbų ir apybraižų, tarp jų „Vilniaus akademijos istoriją“ ir su Tadu Lipinskiu parengtą „Senovės Lenkiją“."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55265
+
 <a id="claim-t-55011"></a>
 - t-002
   teiginys: "Vytautas Berenis apibūdino Mykolą Balinskį kaip kruopštų, pedantišką istoriką, vengusį rašyti be faktografinės bazės."
@@ -79,6 +115,95 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55267
+
+<a id="claim-t-55012"></a>
+- t-003
+  teiginys: "Balinskis Vilniaus miesto istorijos pirmąjį tomą baigė rašyti 1825 m. pradžioje ir svarstė trijų ar keturių tomų veikalą."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1825 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55266
+
+<a id="claim-t-55013"></a>
+- t-004
+  teiginys: "Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1835 m.; įvykio data: 1836 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-55268
+
+<a id="claim-t-55014"></a>
+- t-005
+  teiginys: "Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už istorinę dokumentinę pagalbą."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55269
+
+<a id="claim-t-55015"></a>
+- t-006
+  teiginys: "Balinskis buvo vienas iš „Biblioteka Warszawska“ steigėjų, rašė biografijas, istorinius veikalus ir rengė Mikalojaus Koperniko raštus bei kronikas."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1841 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55264
+
+<a id="claim-t-55016"></a>
+- t-007
+  teiginys: "Balinskio publicistikai priskiriami „Laiškai nuo Kražantės upės kranto“, spausdinti „Gazeta Warszawska“."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55271
 
 <a id="claim-t-55017"></a>
 - t-008
@@ -99,22 +224,69 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   pagrindžia:
     - c-55270
 
-<a id="claim-t-212233"></a>
-- t-212233
-  teiginys: "1837—1838 metais „Tygodnik Petersburski“ bu vo spausdinamas didelis jo rašinys, skirtas Mykolo Balinskio monografijos „Vilnius“ analizei."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-64768"></a>
+- t-009
+  teiginys: "Balinskis siejamas su „Opisanie Statyst. Wilna“."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55272
+
+<a id="claim-t-188456"></a>
+- t-010
+  teiginys: "Mykolui Balinskiui priskiriama dalies anonimiškų straipsnių, kritikavusių Narbuto „Mažesniuosius istorijos raštus“, autorystė."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-194677
+    - c-171346
 
-<a id="claim-t-213291"></a>
-- t-213291
+<a id="claim-t-190768"></a>
+- t-011
+  teiginys: "Mykolui Balinskiui priskiriami straipsniai, kurių dauguma kritikavo 1856 m. T. Narbuto „Mažesniuosius istorinius raštus“."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1856 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Subjektas išskleistas kaip Mykolas Balinskis, o kritikos kontekstas susietas su 1856 m. veikalu. Nepalikta platesnio „pasirašytų“ apibendrinimo, nes citata tik aiškiai mini ir anonimiškus straipsnius."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-173650
+
+<a id="claim-t-190769"></a>
+- t-012
   teiginys: "Mykolas Balinskis galėjo būti anoniminės „Lietuvių mitologijos“ recenzijos autorius, bet citatoje ši autorystė pateikiama tik kaip hipotezė."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -128,127 +300,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-
-<a id="claim-t-55010"></a>
-- t-55010
-  teiginys: "Balinskis paliko istorinių darbų ir apybraižų, tarp jų „Vilniaus akademijos istoriją“ ir su Tadu Lipinskiu parengtą „Senovės Lenkiją“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-55265
-
-<a id="claim-t-55012"></a>
-- t-55012
-  teiginys: "Balinskis Vilniaus miesto istorijos pirmąjį tomą baigė rašyti 1825 m. pradžioje ir svarstė trijų ar keturių tomų veikalą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1825 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55266
-
-<a id="claim-t-55013"></a>
-- t-55013
-  teiginys: "Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1835 m.; įvykio data: 1836 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-55268
-
-<a id="claim-t-55014"></a>
-- t-55014
-  teiginys: "Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už istorinę dokumentinę pagalbą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55269
-
-<a id="claim-t-55015"></a>
-- t-55015
-  teiginys: "Balinskis buvo vienas iš „Biblioteka Warszawska“ steigėjų, rašė biografijas, istorinius veikalus ir rengė Mikalojaus Koperniko raštus bei kronikas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1841 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55264
-
-<a id="claim-t-55016"></a>
-- t-55016
-  teiginys: "Balinskio publicistikai priskiriami „Laiškai nuo Kražantės upės kranto“, spausdinti „Gazeta Warszawska“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55271
-
-<a id="claim-t-64768"></a>
-- t-64768
-  teiginys: "Balinskis siejamas su „Opisanie Statyst. Wilna“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55272
+    - c-173651
 
 ## Citatos
 
@@ -272,8 +325,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55015
+  pagrindzia:
+    - t-006
 
 - id: c-55265
   autorius: "Michał Baliński"
@@ -293,8 +346,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55010
+  pagrindzia:
+    - t-001
 
 - id: c-55266
   autorius: "Michał Baliński"
@@ -313,8 +366,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55012
+  pagrindzia:
+    - t-003
 
 - id: c-55267
   autorius: "Michał Baliński"
@@ -335,12 +388,11 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     kitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­
     zės vengdavęs rašyti apie vieną ar kitą istorinį įvykį.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-55268
@@ -361,8 +413,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55013
+  pagrindzia:
+    - t-004
 
 - id: c-55269
   autorius: "Michał Baliński"
@@ -382,8 +434,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55014
+  pagrindzia:
+    - t-005
 
 - id: c-55270
   autorius: "Michał Baliński"
@@ -418,12 +470,11 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     Jūratė Dalia Baronienė, 2007
     © Romas Dubonis, apipavidalinimas,
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-55271
@@ -445,8 +496,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55016
+  pagrindzia:
+    - t-007
 
 - id: c-55272
   autorius: "Michał Baliński"
@@ -472,8 +523,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-64768
+  pagrindzia:
+    - t-009
 
 - id: c-171346
   autorius: "Teodoras Narbutas"
@@ -493,6 +544,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-173650
   autorius: "Teodoras Narbutas"
@@ -516,6 +569,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-173651
   autorius: "Teodoras Narbutas"
@@ -535,22 +590,5 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194677
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 7."
-  citata_originali: |
-    1837—1838 metais „Tygodnik Petersburski“ bu­
-    vo spausdinamas didelis jo rašinys, skirtas Mykolo Ba-
-    linskio monografijos „Vilnius“ analizei.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212233
-
+  pagrindzia:
+    - t-012

@@ -61,6 +61,25 @@ Sovietizacijos metu tapo perdavimo ir pasisavinimo objektu.
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-13781"></a>
+- t-001
+  teiginys: "Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos auksas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo Lietuvos aukso priklausomybę Lietuvai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuvos auksas priklausė Lietuva (0.90)"
+  pagrindžia:
+    - c-16909
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
@@ -90,28 +109,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Lietuvos auksas priklausė [[objektai/vietos/Lietuva]]
-
-## Teiginiai
-
-<a id="claim-t-13781"></a>
-- t-001
-  teiginys: "Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::items"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos auksas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo Lietuvos aukso priklausomybę Lietuvai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuvos auksas priklausė Lietuva (0.90)"
-  pagrindžia:
-    - c-16909
-

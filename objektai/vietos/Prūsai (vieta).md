@@ -42,6 +42,21 @@ Teodoras Narbutas pasakoja, kad slapta su Jogaila susitaikęs Vytautas pasitrauk
 
 Teodoras Narbutas pasakoja, kad slapta su Jogaila susitaikęs Vytautas pasitraukė iš Prūsų, pakeliui degindamas vokiečių pilis ir naikindamas jų įgulas.
 
+## Teiginiai
+
+<a id="claim-t-206643"></a>
+- t-001
+  teiginys: "Teodoras Narbutas pasakoja, kad slapta su Jogaila susitaikęs Vytautas pasitraukė iš Prūsų, pakeliui degindamas vokiečių pilis ir naikindamas jų įgulas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189258
+
 ## Citatos
 
 - id: c-189258
@@ -59,21 +74,5 @@ Teodoras Narbutas pasakoja, kad slapta su Jogaila susitaikęs Vytautas pasitrauk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206643"></a>
-- t-001
-  teiginys: "Teodoras Narbutas pasakoja, kad slapta su Jogaila susitaikęs Vytautas pasitraukė iš Prūsų, pakeliui degindamas vokiečių pilis ir naikindamas jų įgulas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189258
-

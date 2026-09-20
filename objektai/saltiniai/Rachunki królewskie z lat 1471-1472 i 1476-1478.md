@@ -70,11 +70,9 @@ Rachunki królewskie z lat 1471–1472 ir 1476–1478 pateikia apvažiavimo išl
     Komisji Nauk Hist. PAN Oddzial w Krakowie, 2], Wrocla\v-Krak6\v, 1960 (toliau - Rachunki krolewskie),
     s. 71-72, 164-166, 88, 71, 140 (kompensacijos).
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

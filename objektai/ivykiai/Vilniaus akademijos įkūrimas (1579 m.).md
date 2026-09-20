@@ -43,6 +43,27 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-66953"></a>
+- t-001
+  teiginys: "Vilniaus akademijos įkūrimui Lietuvoje priešinosi protestantai didikai Radvila ir Valavičius, atsisakę spausti valstybinį antspaudą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67044
+
+<a id="claim-t-66955"></a>
+- t-002
+  teiginys: "1578 m. Vilniaus jėzuitams paprašius leisti įkurti akademiją, Steponas Batoras sutiko ir davė privilegijos raštą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-67043
+
 ## Citatos
 
 - id: c-67043
@@ -62,7 +83,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-67044
@@ -82,27 +103,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-66953"></a>
-- t-001
-  teiginys: "Vilniaus akademijos įkūrimui Lietuvoje priešinosi protestantai didikai Radvila ir Valavičius, atsisakę spausti valstybinį antspaudą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67044
-
-<a id="claim-t-66955"></a>
-- t-002
-  teiginys: "1578 m. Vilniaus jėzuitams paprašius leisti įkurti akademiją, Steponas Batoras sutiko ir davė privilegijos raštą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-67043
-

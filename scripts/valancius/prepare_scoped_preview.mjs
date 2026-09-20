@@ -4,12 +4,14 @@
  */
 import fs from "node:fs"
 import path from "node:path"
+import os from "node:os"
 import { fileURLToPath } from "node:url"
 
 const root = fileURLToPath(new URL("../../", import.meta.url))
-if (path.basename(root.replace(/\/$/, "")) !== "lt-kb-pub-valancius")
+if (!["lt-kb-pub-valancius", "lt-kb-pub-valancius-integration"].includes(path.basename(root.replace(/\/$/, ""))))
   throw new Error("Restricted to the isolated review worktree")
-const input = path.join(root, "valancius-preview-input")
+// Keep input outside .cache: Quartz's ignore patterns also apply to its input path.
+const input = fs.mkdtempSync(path.join(os.tmpdir(), "valancius-preview-"))
 const registry = JSON.parse(fs.readFileSync(path.join(root, "scripts/valancius/evidence-register.json")))
 const files = new Set(registry.filter(r => r.publicStatus === "accepted").map(r => r.notePath))
 for (const name of fs.readdirSync(path.join(root, "straipsniai")))

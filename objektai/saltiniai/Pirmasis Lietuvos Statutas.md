@@ -1,12 +1,12 @@
 ---
 tipas: saltinis
-pavadinimas: 'Pirmasis Lietuvos Statutas'
+pavadinimas: Pirmasis Lietuvos Statutas
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1528 m.'
-  - '1564 m.'
-  - '1807 m.'
+  - 1528 m.
+  - 1564 m.
+  - 1807 m.
 date_start: '1528'
 date_end: '1807'
 sukurta: ''
@@ -14,20 +14,30 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XVI'
-  - 'XIX'
+  - XVI
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Pirmasis Lietuvos Statutas","url":"https://www.vle.lt/straipsnis/pirmasis-lietuvos-statutas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T15:14:46+00:00","source_checked_at":"2026-09-19T15:14:46+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Pirmasis Lietuvos Statutas","url":"https://www.vle.lt/straipsnis/pirmasis-lietuvos-statutas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/pirmasis-lietuvos-statutas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"473d5e6b821b51c7a665cfdd","canonical_code":"source.date","label":"Datavimas","group":"Šaltinio bruožai","value":"1528 m. lapkričio 17 d.","context":"Pasak Michało Balińskio, Pirmasis Lietuvos Statutas buvo paskelbtas Lietuvos seime.","support_ids":["t-88271","c-84250"],"source_refs":[{"kind":"internal_claim","claim_id":"t-88271","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-84250","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"1528 metų sausio 20 dieną karalius pasirašė Žemaičių žemei atskirą įstatymą, garantuojantį jos teises ir privilegi­ jas. 1528 metų lapkričio 17 dieną Lietuvos seime, kur, pagal anų laikų paprotį, posėdžiavo tiktai senatoriai, prelatai ir kunigaikščiai, buvo paskelbtas pirmasis Lietuvos Statutas, kuriame stengtasi suderinti gana skirtingus atskirų provin­ cijų įstatymus ir papročius. Tačiau šis Statutas tarnavo išim­ tinai tik šlėktų luomui, nes miestui kuo iškilmingiausiai bu­ vo garantuojamos Magdeburgo teisės."}],"status":"published","conflict_status":"clear"},{"trait_id":"741fca0d319309be4d3ba147","canonical_code":"source.language","label":"Kalba","group":"Šaltinio bruožai","value":"Lotynų, rusėnų, vėliau lenkų; ne lietuvių.","context":"Anatolijus Bumblauskas nurodo, kad Pirmasis Lietuvos Statutas buvo surašomas šiomis labiau paplitusiomis LDK kalbomis.","support_ids":["t-207564","c-190181"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207564","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190181","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"Pirmasis Lietuvos Statutas, kaip ir vėlesni Statutai, buvo surašomas visomis labiau paplitusiomis LDK kalbomis – lotynų, rusėnų, vėliau lenkų – tik ne lietuvių."}],"status":"published","conflict_status":"clear"},{"trait_id":"04206c425bb2ef18a8ef3ff0","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Statutas","context":"Šaltiniuose objektas tiesiogiai vadinamas Lietuvos Statutu.","support_ids":["t-88271","c-84250"],"source_refs":[{"kind":"internal_claim","claim_id":"t-88271","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-84250","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"1528 metų sausio 20 dieną karalius pasirašė Žemaičių žemei atskirą įstatymą, garantuojantį jos teises ir privilegi­ jas. 1528 metų lapkričio 17 dieną Lietuvos seime, kur, pagal anų laikų paprotį, posėdžiavo tiktai senatoriai, prelatai ir kunigaikščiai, buvo paskelbtas pirmasis Lietuvos Statutas, kuriame stengtasi suderinti gana skirtingus atskirų provin­ cijų įstatymus ir papročius. Tačiau šis Statutas tarnavo išim­ tinai tik šlėktų luomui, nes miestui kuo iškilmingiausiai bu­ vo garantuojamos Magdeburgo teisės."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 82fa73b59ac8f302
+object_page_generated_at: '2026-09-19T15:14:46+00:00'
+object_page_source_checked_at: '2026-09-19T15:14:46+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Pirmasis Lietuvos Statutas: Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi kokios naudos ar iš prekybos, ar iš praplėstų gyventojų…'
+object_page_seo_input_hash: 5c1628e76b9f99bba2409eadd2d11c604001e819e8bf824c6994bdcba80c1301
+object_page_seo_generated_at: '2026-09-19T15:14:46+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Pirmasis Lietuvos Statutas
 
@@ -37,24 +47,10 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
 
 ## Teiginiai
 
-<a id="claim-t-207773"></a>
-- t-207773
-  teiginys: "1529 m. paskelbtas Pirmasis Lietuvos Statutas nustatė karo tarnybos tvarką."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  temporaliniai_duomenys: "įvykio data: 1529 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-190383
-
 <a id="claim-t-88271"></a>
-- t-88271
+- t-001
   teiginys: "Pirmasis Lietuvos Statutas buvo paskelbtas 1528 m. lapkričio 17 d. Lietuvos seime."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -71,9 +67,9 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     - c-84250
 
 <a id="claim-t-88272"></a>
-- t-88272
+- t-002
   teiginys: "Skelbdamas Pirmąjį Lietuvos Statutą, Žygimantas Senasis Vilniaus miestiečiams taikė Magdeburgo teisės bylinėjimosi laisvės principą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -87,9 +83,9 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     - c-84251
 
 <a id="claim-t-88273"></a>
-- t-88273
+- t-003
   teiginys: "Viena Balińskio aptarta privilegija vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -103,9 +99,9 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     - c-84252
 
 <a id="claim-t-203671"></a>
-- t-203671
+- t-004
   teiginys: "1529 m. priimtu Pirmuoju Lietuvos Statutu valstybės teisė buvo kodifikuota ir turėjo būti taikoma vienodai visoje valstybės teritorijoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,9 +111,9 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     - c-186275
 
 <a id="claim-t-203734"></a>
-- t-203734
+- t-005
   teiginys: "Pirmajame Statute įtvirtinta, kad buvusiam šeimininkui dešimt metų nepagarsinus pabėgimo ir tylėjus, vėlesnės pretenzijos dėl perbėgusio žmogaus nepriimamos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -127,9 +123,9 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     - c-186338
 
 <a id="claim-t-203735"></a>
-- t-203735
+- t-006
   teiginys: "Pirmajame Lietuvos Statute 1529 m. jau buvo numatytos bausmės už pabėgimą ir pabėgusiųjų slėpimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -142,9 +138,9 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     - c-186339
 
 <a id="claim-t-204000"></a>
-- t-204000
+- t-007
   teiginys: "1529 m. Lietuvos Statuto straipsnis nustatė, kad didikas, norintis savo tarnui užrašyti dvarą, privalo dokumentą patvirtinti valdovo kanceliarijoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -158,9 +154,9 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     - c-186604
 
 <a id="claim-t-204312"></a>
-- t-204312
+- t-008
   teiginys: "Pirmajame Lietuvos Statute buvo nustatyta sankcija už apynių nuniokojimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -168,18 +164,6 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
   pagrindžia:
     - c-186892
-
-<a id="claim-t-207564"></a>
-- t-207564
-  teiginys: "Pirmasis Lietuvos Statutas buvo rašomas visomis labiau paplitusiomis LDK kalbomis, tik ne lietuvių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  pagrindžia:
-    - c-190181
 
 ## Citatos
 
@@ -203,8 +187,8 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-88271
+  pagrindzia:
+    - t-001
 
 - id: c-84251
   autorius: "Michał Baliński"
@@ -232,8 +216,8 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-88272
+  pagrindzia:
+    - t-002
 
 - id: c-84252
   autorius: "Michał Baliński"
@@ -261,8 +245,8 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-88273
+  pagrindzia:
+    - t-003
 
 - id: c-186275
   autorius: "Gitana Zujienė"
@@ -280,8 +264,8 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203671
+  pagrindzia:
+    - t-004
 
 - id: c-186338
   autorius: "Giedrė Sabaitytė"
@@ -304,8 +288,8 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203734
+  pagrindzia:
+    - t-005
 
 - id: c-186339
   autorius: "Giedrė Sabaitytė"
@@ -324,8 +308,8 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203735
+  pagrindzia:
+    - t-006
 
 - id: c-186604
   autorius: "Rimvydas Petrauskas"
@@ -343,8 +327,8 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204000
+  pagrindzia:
+    - t-007
 
 - id: c-186892
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
@@ -368,57 +352,5 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204312
-
-- id: c-190181
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 150"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 150."
-  citata_originali: |
-    Tiek šis, tiek Martynas Mažvydas turėjo kurti emigracijoje – Ka-
-    raliaučiuje. LDK visuomenė tuo metu nebuvo pribrendusi lietuviakalbei knygai. Pirmasis
-    Lietuvos Statutas, kaip ir vėlesni Statutai, buvo surašomas visomis labiau paplitusiomis
-    LDK kalbomis – lotynų, rusėnų, vėliau lenkų – tik ne lietuvių.
-  citata_rodoma: "Pirmasis \nLietuvos Statutas, kaip ir vėlesni Statutai, buvo surašomas visomis labiau paplitusiomis \nLDK kalbomis – lotynų, rusėnų, vėliau lenkų – tik ne lietuvių."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207564
-
-- id: c-190383
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 164"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 164."
-  citata_originali: |
-    Taip pat nustatome, kad jei kuris bajoras karo tarnybos metu užpultų kurio nors
-    bajoro namus ar kluoną arba, vykdamas į karą, pakeliui plėšikautų, ir būtų įrodyta, kad
-    tai jis pagrobė ar padarė žalą, už kiekvieną tokį veiksmą turės smurtpinigius sumokėti.
-    Jeigu kam nors, esant kariuomenėje, maisto sau ir pašaro žirgui nebūtų, turi toks
-    kartu su etmono pasiuntiniu kur nors nuvažiuoti ar nueiti ir pasiimti reikalingą maistą
-    sau ir pašarą žirgui, o už tai sumokėti nuostatais numatytą kainą. Malkas turi imti iš
-    miško, namų neardyti, tvorų nekūrenti, tvenkiniuose žuvų negaudyti ir vandens iš jų
-    nenuleidinėti, nei rugių, nei kviečių trypti ir naikinti neturi. Ö jei kuris tokią žalą
-    padarytų, privalo etmonas mūsų tokį grandinėmis sukaustyti, o tas turi žalą atlyginti ir
-    smurtpinigius sumokėti.
-    O jeigu kuris, tarnaudamas mums, kariuomenės stovykloje kitą užpultų ir jį sužeistų
-    arba sumuštų, tas, kaip prievartautojas, galvos netenka"
-    13.
-    otai tokią karo tarnybos tvarką nustatė 1529 m. paskelbtas pirmasis Lietuvos Sta-
-    tutas - pagrindinis Lietuvos valstybės tvarkos ir teisingumo garantas.
-  citata_rodoma: "Taip pat nustatome, kad jei kuris bajoras karo tarnybos metu užpultų kurio nors\nbajoro namus ar kluoną arba, vykdamas į karą, pakeliui plėšikautų, ir būtų įrodyta, kad\ntai jis pagrobė ar padarė žalą, už kiekvieną tokį veiksmą turės smurtpinigius sumokėti.\nJeigu kam nors, esant kariuomenėje, maisto sau ir pašaro žirgui nebūtų, turi toks\nkartu su etmono pasiuntiniu kur nors nuvažiuoti ar nueiti ir pasiimti reikalingą maistą\nsau ir pašarą žirgui, o už tai sumokėti nuostatais numatytą kainą. Malkas turi imti iš\nmiško, namų neardyti, tvorų nekūrenti, tvenkiniuose žuvų negaudyti ir vandens iš jų\nnenuleidinėti, nei rugių, nei kviečių trypti ir naikinti neturi. Ö jei kuris tokią žalą\npadarytų, privalo etmonas mūsų tokį grandinėmis sukaustyti, o tas turi žalą atlyginti ir\nsmurtpinigius sumokėti.\nO jeigu kuris, tarnaudamas mums, kariuomenės stovykloje kitą užpultų ir jį sužeistų\narba sumuštų, tas, kaip prievartautojas, galvos netenka\"\n13.\notai tokią karo tarnybos tvarką nustatė 1529 m. paskelbtas pirmasis Lietuvos Sta-\ntutas - pagrindinis Lietuvos valstybės tvarkos ir teisingumo garantas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207773
-
+  pagrindzia:
+    - t-008

@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Adomas Stanislovas Naruševičius'
+pavadinimas: Adomas Stanislovas Naruševičius
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -17,19 +17,37 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-459fa93386267b9fe56d256e"
-canonical_name: "Adomas Stanislovas Naruševičius"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Adomas Naruševičius","Adomas Stanislovas Naruševičius","Naniszewicz A.","NaruszewiczA.","Naruševičius","S. Naruševičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-459fa93386267b9fe56d256e
+canonical_name: Adomas Stanislovas Naruševičius
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Adomas Naruševičius
+  - Adomas Stanislovas Naruševičius
+  - Naniszewicz A.
+  - NaruszewiczA.
+  - Naruševičius
+  - S. Naruševičius
 sameAs: []
-canonical_biography: "Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų tautos istorija»^34 pradėjo kritiškas praeities studijas."
+canonical_biography: Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų tautos istorija»^34 pradėjo kritiškas praeities studijas.
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T07:03:08+00:00","source_checked_at":"2026-09-19T07:03:08+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":["t-216421","t-187943","t-213010","t-214199","t-215867","t-216130","t-212596"],"featured_claims":[{"claim_id":"t-216421","text":"Leidinio pastaba Adomą Stanislovą Naruševičių vadina lenkų poetu ir istoriku bei sieja jį su „Historya narodu Polskiego“.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-200635"]},{"claim_id":"t-187943","text":"Adomas Stanislovas Naruševičius šešių tomų veikalu „Lenkų tautos istorija“ pradėjo kritiškas praeities studijas.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-170927"]},{"claim_id":"t-213010","text":"Naruševičius parašė veikalą „Historya narodu Polskiego, od początku chrzesciaństwa“.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196276"]},{"claim_id":"t-214199","text":"Naruševičius, Narbuto vertinimu, iki XII a. jotvingiams priskyrė pernelyg plačias valdas nuo Bugo iki Beržūnos ir nuo Pripetės iki Narvos.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-195624"]},{"claim_id":"t-215867","text":"Naruševičius gotų išėjimą aiškino tuo, kad dakai ir getai pasikvietė gotus, norėdami jungtis su jais, o ne būti svetimų valdomi.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-197540"]},{"claim_id":"t-216130","text":"Narbutas laiške Anicetui Renjė kritikavo Naruševičių, kad šis rašė apie valdžios veiksmus ir karo įvykius, bet ne apie tautą.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-199191"]},{"claim_id":"t-212596","text":"Narbutas rašo, kad Naruševičius rėmė nuomonę, jog Owim žemė buvo dabartinė Prūsija.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-197243"]}],"featured_quote":{"text":"Gotų žygis su Filimeru. 161 krikščioniško­ sios eros metais, pasak Naruševičiaus tyrimų1, gotai su savo karaliumi Filimeru, pereidami iš Germanijos į Sar- matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­ met ribojo senovės geografų taip pavadintus kraštus. Bet atsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir buvo nuneštas srovės.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","claim_id":"t-212312","evidence_id":"c-195952","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"495dfb35ab1bc3a29ae5b3b9","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Vyskupas, poetas ir istorikas.","context":"Ivinskis jį vadina vyskupu, o leidinio pastaba – žymiu lenkų poetu ir istoriku; vertinimai pateikti XX a. šaltiniuose apie jo XVIII a. gyvenimą ir XIX a. išleistą veikalą.","support_ids":["t-187943","c-170927","t-216421","c-200635"],"source_refs":[{"kind":"internal_claim","claim_id":"t-187943","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"internal_claim","claim_id":"t-216421","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-170927","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Pradėjus leisti originalius tekstus buvo galima sistemingiau tirti savo krašto praeitį. Plačiai užgriebdamas ir Lietuvos istoriją, vysk. Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų tautos istorija»^34 pradėjo kritiškas praeities studijas. Sudarydamas savo istorijos rašymo « mokyklą », Naruševičius visokių negerovių šaltiniu telaikė monarcho valdžios aprėžimą."},{"kind":"evidence","evidence_id":"c-200635","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"P. 173* - Tai žymaus lenkų poeto ir istoriko Adomo Stanis­ lovo Naruševičiaus (1733-1796) veikalas (Nanis- zewiczA. Historya narodu Polskiego, od początku chrzescianstwa. - T. I-VII. - Warszawa, 1803- 1804)."}],"status":"published","conflict_status":"clear"},{"trait_id":"eea6766953f778092dd397cf","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Parašė septynių tomų veikalą „Historya narodu Polskiego, od początku chrześcijaństwa“ ir šešių tomų „Lenkų tautos istoriją“.","context":"Tai nurodoma Teodoro Narbuto veikalo komentare ir tekste apie Naruševičiaus istorinius darbus.","support_ids":["t-213010","c-196276","t-187943","c-170927"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213010","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-187943","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-196276","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tai žymaus lenkų poeto ir istoriko Adomo Stanislovo Naruševi­ čiaus (1733—1796) veikalas (Naruszewicz A. Historya narodu Polskiego, od początku chrzesciañstwa. T. 1—7. Warszawa, 1803— 1804"},{"kind":"evidence","evidence_id":"c-170927","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Pradėjus leisti originalius tekstus buvo galima sistemingiau tirti savo krašto praeitį. Plačiai užgriebdamas ir Lietuvos istoriją, vysk. Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų tautos istorija»^34 pradėjo kritiškas praeities studijas. Sudarydamas savo istorijos rašymo « mokyklą », Naruševičius visokių negerovių šaltiniu telaikė monarcho valdžios aprėžimą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8b6bd2607141b4cadcc51d79","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Istoriniuose darbuose rėmė nuomones apie gotų migraciją, Owim žemės tapatinimą su Prūsija, agatirų kolonijų vietą ir gelonų gyvenimą Nemuno aukštupyje.","context":"Tai autoriaus istorinių tyrimų ir išvadų apibūdinimas, pateiktas Teodoro Narbuto 1995 m. veikale; kai kur Narbutas šiuos teiginius vertina atsargiai.","support_ids":["t-212312","c-195952","t-212596","c-197243","t-215209","c-195734","t-214943","c-195366"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212312","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-212596","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-215209","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-214943","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195952","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Gotų žygis su Filimeru. 161 krikščioniško­ sios eros metais, pasak Naruševičiaus tyrimų1, gotai su savo karaliumi Filimeru, pereidami iš Germanijos į Sar- matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­ met ribojo senovės geografų taip pavadintus kraštus. Bet atsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir buvo nuneštas srovės."},{"kind":"evidence","evidence_id":"c-197243","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tarp mokslininkų ¡buvęs Hugo Grocijus2*, taip ¡pat Pilypas Kjiu- veris3**, kuris rašo: „Žemė Owim, plytėjusi priešais go­ tus, yra ne kokia kita, o dabar vadinama Prūsija, pilna pelkių ir ežerų, sunki armijai keliauti ir daugelyje vietų visiškai neįžengiama; šią žemę net ir šiais laikais saksai vadina Owimu. Pagaliau ir ¡pats Naruševičius, žinojęs tuos pačius ir, ko gero, dar ir kitus mums nežinomus įro­ dymus, visiškai rėmė šią nuomonę4. 247 Tas pats Jordanas, puikiai išmanęs istoriją ¡gotų, nuo neatmenamų laikų turėjusių glaudžių santykių su lietuvių žemėmis, tikriausiai žinojo jų geografinę padėtį ir pava­ dinimus, be to, jo žinios mums labai svarbios."},{"kind":"evidence","evidence_id":"c-195734","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tuo remdamasis, Naruševičius savo Lenkijos istorijos pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje šios upės pakrantėje. Tebus ir čia leista at­ kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra dalelė Rus ir Ross — lietuviško šventos upės pavadini­ mo. O savo gyvenimą tolimame Septynių miestų krašte, kur jie buvo laiko audrų nublokšti, agatirai galėjo iš­ keisti į gyvenvietes tarp giminingų kartų, kai nesiliau­ jančios sarmatų revoliucijos neleido jiems ilgiau ramiai gyventi prie Marokos."},{"kind":"evidence","evidence_id":"c-195366","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tai, be abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­ tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­ nės sutampa. Sis geografas pastarosios aukštupyje kuo aiškiausiai apgyvendina gelonų tautą2. Naruševičius taip pat patvirtina tai daugelyje savo darbų3. Pats Ptolemėjas, kuris šį sykį mini toje žemėje gyvenančią igelonų tautą, 1 Zelva — lietuviškas pavadinimas — taip pat kartojasi ne vienoje vietoje. Mes nesigilinsime į upių pavadinimų etimologinį ty­ rimą, nes tai mus nuvestų toli nuo pageidaujamo trumpumo; tai pa­ liekame lietuvių kalbos ir jos ištakų tyrinėtojams."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8d764a99df8e4eda7a250bf1","canonical_code":"author.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Savo šešių tomų veikalu pradėjo kritiškas praeities studijas ir sudarė istorijos rašymo mokyklą.","context":"Zenonas Ivinskis taip apibūdina Naruševičiaus reikšmę istorijos tyrimams 1978 m. veikale.","support_ids":["t-187943","c-170927"],"source_refs":[{"kind":"internal_claim","claim_id":"t-187943","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-170927","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Pradėjus leisti originalius tekstus buvo galima sistemingiau tirti savo krašto praeitį. Plačiai užgriebdamas ir Lietuvos istoriją, vysk. Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų tautos istorija»^34 pradėjo kritiškas praeities studijas. Sudarydamas savo istorijos rašymo « mokyklą », Naruševičius visokių negerovių šaltiniu telaikė monarcho valdžios aprėžimą."}],"status":"published","conflict_status":"clear"},{"trait_id":"95358fcb08ddda64f6274cbc","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Narbuto vertinimu, iki XII a. jotvingiams priskyrė pernelyg plačias valdas.","context":"Teodoro Narbuto kritinis vertinimas, pateiktas 1995 m. istoriniame veikale.","support_ids":["t-214199","c-195624"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214199","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195624","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Mechovita taip kalba apie čigonus, žmones, kuriuos kai kada priskirdavo prie jot­ vingių. 116 Naruševičius iki XII amžiaus priskiria jotvingiams pernelyg plačias valdas, kurios plyti nuo Bugo iki Ber- žūnos, nuo Pripetės iki Narvos1. Iš pradžių ši tauta, nors gausi ir didelė, gyveno nelabai plačiai, nes ją supo pa­ žįstamos kitų tautų gyvenamosios vietovės."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a51f4b67ec63f75d90372f0a","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Narbutas teigė, kad Naruševičius daugiausia dėstė valdžios veiksmus ir karo įvykius, o ne tautos istoriją.","context":"Tai Teodoro Narbuto laiške Anicetui Renjė išreikštas vertinimas, cituojamas 1998 m. leidinyje; vertinimas susijęs su Naruševičiaus istorinio rašymo pobūdžiu.","support_ids":["t-216130","c-199191"],"source_refs":[{"kind":"internal_claim","claim_id":"t-216130","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199191","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Lyg atsakydamas gausiems savo darbo kritikams, T. Nar­ butas laiške Vilniaus gydytojui ir artimam šeimos draugui Ani­ cetui Renjė rašė: „Mūsų istorijoje tiek mažai faktų, tiek daug visuotinės istorijos <...>. Istorikas Naruševičius nieko apie tautą nerašė, tik dėstė valdžios veiksmus ir karo įvykius, o Le­ levelis, norėdamas tai ištaisyti, puolė į kitą suklydimą: sam­ protaudamas ir lygindamas ją su kitomis europietiškomis vals­ tybėmis, savo tyrimuose faktams neskyrė pakankamai vietos."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Adomas Stanislovas Naruševičius – lenkų poetas, istorikas ir autorius, reikšmingas kritiškesnio praeities tyrimo tradicijai. Jis gyveno 1733–1796 m., o svarbiausias jo istorinis veikalas „Historya narodu Polskiego, od początku chrześcijaństwa“ buvo išleistas Varšuvoje 1803–1804 m. Septynių tomų istorijoje, plačiai aprėpusioje ir Lietuvos praeitį, Naruševičius pradėjo kritiškas praeities studijas ir subūrė savitą istorijos rašymo mokyklą. Jo tyrinėjimai apėmė sudėtingus baltų ir senųjų tautų geografijos bei kilmės klausimus: jis gelonų gyvenamąją vietą siejo su Nemuno aukštupiu, o Owim žemę – su Prūsija. Vis dėlto Teodoras Narbutas kritikavo Naruševičių, teigdamas, kad šis daugiausia aprašė valdžios veiksmus ir karus, o ne pačią tautą.","sentences":[{"sentence_id":"s1","text":"Adomas Stanislovas Naruševičius – lenkų poetas, istorikas ir autorius, reikšmingas kritiškesnio praeities tyrimo tradicijai.","support_ids":["c-200635","c-170927"]},{"sentence_id":"s2","text":"Jis gyveno 1733–1796 m., o svarbiausias jo istorinis veikalas „Historya narodu Polskiego, od początku chrześcijaństwa“ buvo išleistas Varšuvoje 1803–1804 m.","support_ids":["c-196276","c-200635"]},{"sentence_id":"s3","text":"Septynių tomų istorijoje, plačiai aprėpusioje ir Lietuvos praeitį, Naruševičius pradėjo kritiškas praeities studijas ir subūrė savitą istorijos rašymo mokyklą.","support_ids":["c-170927"]},{"sentence_id":"s4","text":"Jo tyrinėjimai apėmė sudėtingus baltų ir senųjų tautų geografijos bei kilmės klausimus: jis gelonų gyvenamąją vietą siejo su Nemuno aukštupiu, o Owim žemę – su Prūsija.","support_ids":["c-195366","c-197243"]},{"sentence_id":"s5","text":"Vis dėlto Teodoras Narbutas kritikavo Naruševičių, teigdamas, kad šis daugiausia aprašė valdžios veiksmus ir karus, o ne pačią tautą.","support_ids":["c-199191"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai Naruševičių tiesiogiai apibūdina kaip lenkų poetą ir istoriką bei sieja su kritiškų praeities studijų pradžia ir istorijos rašymo mokyklos sudarymu."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1733–1796 m. datas, veikalo pavadinimą, septynis tomus, Varšuvą ir 1803–1804 m. leidybą."},{"sentence_id":"s3","supported":false,"reason":"Šaltinis nurodo šešių, o ne septynių tomų veikalą; todėl sakinys neatitinka įrodymų."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai sieja gelonų gyvenamąją vietą su Nemuno aukštupiu ir Owim žemę su dabartine Prūsija."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai cituoja Narbuto kritiką, kad Naruševičius rašė apie valdžios veiksmus ir karus, bet ne apie tautą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["c-200635","c-170927"]},{"sentence_id":"s2","supported":false,"support_ids":["c-196276","c-200635"]},{"sentence_id":"s3","supported":false,"support_ids":["c-170927"]},{"sentence_id":"s4","supported":false,"support_ids":["c-195366","c-197243"]},{"sentence_id":"s5","supported":false,"support_ids":["c-199191"]}],"verifier":"gpt-5.6-luna"},"quality":75,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":17,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b41c78c5ee960132
+object_page_generated_at: '2026-09-19T07:03:08+00:00'
+object_page_source_checked_at: '2026-09-19T07:03:08+00:00'
+object_page_content_state: content
+object_page_claim_count: '17'
+object_page_source_count: '3'
+object_page_seo_description: 'Adomas Stanislovas Naruševičius – lenkų poetas, istorikas ir autorius, reikšmingas kritiškesnio praeities tyrimo tradicijai. Jis gyveno 1733–1796 m., o…'
+object_page_seo_input_hash: e44b466aeaee2d010e8e4811cac5d1cc12f4653e76531e37621e950934388fb1
+object_page_seo_generated_at: '2026-09-19T07:03:08+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Adomas Stanislovas Naruševičius
 
@@ -39,214 +57,73 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 
 ## Teiginiai
 
-<a id="claim-t-213010"></a>
-- t-213010
-  teiginys: "Naruševičius parašė veikalą „Historya narodu Polskiego, od początku chrzesciaństwa“."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
+<a id="claim-t-187940"></a>
+- t-001
+  teiginys: "Leidinio pastaba Adomą Stanislovą Naruševičių vadina lenkų poetu ir istoriku bei sieja jį su „Historya narodu Polskiego“."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::authors::validation_repair"
   teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196276
-
-<a id="claim-t-212593"></a>
-- t-212593
-  teiginys: "161 krikščioniško sios eros metais, pasak Naruševičiaus tyrimų1, gotai su savo karaliumi Filimeru, pereidami iš Germanijos į Sarmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo met ribojo senovės geografų taip pavadintus kraštus."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197534
-
-<a id="claim-t-212596"></a>
-- t-212596
-  teiginys: "Narbutas rašo, kad Naruševičius rėmė nuomonę, jog Owim žemė buvo dabartinė Prūsija."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-197243
+    - c-170920
 
-<a id="claim-t-213575"></a>
-- t-213575
-  teiginys: "Tuo remdamasis, Naruševičius savo Lenkijos istorijos pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje šios upės pakrantėje."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195734
-
-<a id="claim-t-214199"></a>
-- t-214199
-  teiginys: "Naruševičius, Narbuto vertinimu, iki XII a. jotvingiams priskyrė pernelyg plačias valdas nuo Bugo iki Beržūnos ir nuo Pripetės iki Narvos."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Beržūna: 0.85"
+<a id="claim-t-187941"></a>
+- t-002
+  teiginys: "Narbutas, remdamasis Naruševičiumi, rašė, kad Henilą garbino serbai ir kitos slavų tautos."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "gap::authors::validation_repair"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Beržūna: mention_match, place, gap=102"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Beržūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-195624
+    - c-170918
 
-<a id="claim-t-214330"></a>
-- t-214330
-  teiginys: "Naruševičius taip pat patvirtina tai daugelyje savo darbų3."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195366
-
-<a id="claim-t-214707"></a>
-- t-214707
-  teiginys: "Naruševičius, Narbuto perteikimu, Ptolemėjo chunus siejo su graikų-skitų gentimi ir galimu atsikėlimu iš Chijo salos."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Salos: 0.85"
+<a id="claim-t-187942"></a>
+- t-003
+  teiginys: "Narbutas Naruševičiui priskyrė nuomonę, kad slavai žinojo panašią ugnį, vadintą Zwicz."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "gap::authors::validation_repair"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Salos: mention_match, place, gap=111"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Salos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-
-<a id="claim-t-214943"></a>
-- t-214943
-  teiginys: "Naruševičius, Narbuto teigimu, daugelyje darbų patvirtino nuomonę apie gelonų tautos gyvenimą Nemuno aukštupyje."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Gelonai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Gelonai: mention_match, group, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Gelonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-195366
+    - c-170919
 
-<a id="claim-t-215209"></a>
-- t-215209
-  teiginys: "Naruševičius Lenkijos istorijos I tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus upės pakrantėje."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
+<a id="claim-t-187943"></a>
+- t-004
+  teiginys: "Adomas Stanislovas Naruševičius šešių tomų veikalu „Lenkų tautos istorija“ pradėjo kritiškas praeities studijas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::authors::validation_repair"
   teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Agatirai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Agatirai: mention_match, group, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Agatirai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  sudarymo_pagrindimas: "Teiginys yra enciklopedinis, gramatiškas ir paremtas citata."
+  susije_objektai: "mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-195734
+    - c-170927
 
-<a id="claim-t-215260"></a>
-- t-215260
-  teiginys: "Naruševičius, Narbuto teigimu, pateikė žinių, rėmusių nuomonę, kad poloviečiai buvo rusų kaimynai iš rytų ir vakarų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Poloviečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Poloviečiai: mention_match, group, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Poloviečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-194916
-
-<a id="claim-t-215523"></a>
-- t-215523
-  teiginys: "Naruševičių Narbutas mini kaip vieną senovės tyrinėtojų, aptikusių gelonų-budinų buvimo pėdsakų Sniatyno apylinkėse."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-
-<a id="claim-t-215867"></a>
-- t-215867
-  teiginys: "Naruševičius gotų išėjimą aiškino tuo, kad dakai ir getai pasikvietė gotus, norėdami jungtis su jais, o ne būti svetimų valdomi."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Getai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Getai: mention_match, group, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Getai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-197540
-
-<a id="claim-t-216130"></a>
-- t-216130
+<a id="claim-t-188395"></a>
+- t-005
   teiginys: "Narbutas laiške Anicetui Renjė kritikavo Naruševičių, kad šis rašė apie valdžios veiksmus ir karo įvykius, bet ne apie tautą."
-  atnaujinta: "2026-09-12 23:46"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -261,39 +138,52 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-199191
+    - c-171286
 
-<a id="claim-t-216421"></a>
-- t-216421
-  teiginys: "Leidinio pastaba Adomą Stanislovą Naruševičių vadina lenkų poetu ir istoriku bei sieja jį su „Historya narodu Polskiego“."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "gap::authors::validation_repair"
+<a id="claim-t-188396"></a>
+- t-006
+  teiginys: "Naruševičiaus manymu, slavai taip pat žinojo panašią ugnį, vadintą Zwicz."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-
-<a id="claim-t-187943"></a>
-- t-187943
-  teiginys: "Adomas Stanislovas Naruševičius šešių tomų veikalu „Lenkų tautos istorija“ pradėjo kritiškas praeities studijas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::authors::validation_repair"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra enciklopedinis, gramatiškas ir paremtas citata."
-  susije_objektai: "mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-170927
+    - c-170919
 
-<a id="claim-t-212312"></a>
-- t-212312
+<a id="claim-t-190672"></a>
+- t-007
+  teiginys: "Naruševičius gotų išėjimą aiškino tuo, kad dakai ir getai pasikvietė gotus, norėdami jungtis su jais, o ne būti svetimų valdomi."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Getai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Getai: mention_match, group, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Getai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173554
+
+<a id="claim-t-190673"></a>
+- t-008
   teiginys: "Gotai, pasak Narbuto cituojamų Naruševičiaus tyrimų, 161 m. su karaliumi Filimeru iš Germanijos į Sarmatiją kėlėsi per Vyslos žemupį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -312,41 +202,252 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   temporalinis_llm_pakomentavimas: "Teiginys tiesiogiai remiasi citata ir aiškiai nurodo Naruševičiaus tyrimų atribuciją. Tilto įlūžimo detalė sąmoningai nepridėta."
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-197534
+    - c-173555
 
-<a id="claim-t-216352"></a>
-- t-216352
-  teiginys: "Narbutas, remdamasis Naruševičiumi, rašė, kad Henilą garbino serbai ir kitos slavų tautos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::authors::validation_repair"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
+<a id="claim-t-190674"></a>
+- t-009
+  teiginys: "Naruševičių Narbutas mini tarp autorių, kurių požiūris turėjo pagrįsti nuomonę, kad venedams priklausė Lietuvos istorijai svarbios gentys."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Venedai: 0.61"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Slavai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Venedai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata vartoja formuluotę „venedų slavai“, kuri tiesiogiai sieja slavus su venedais, nors platesnis teiginys yra svarstomasis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Slavai priklausė Venedai (0.61)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173556
+
+<a id="claim-t-190675"></a>
+- t-010
+  teiginys: "Naruševičius, Narbuto perteikimu, Ptolemėjo chunus siejo su graikų-skitų gentimi ir galimu atsikėlimu iš Chijo salos."
+  atnaujinta: "2026-07-24 15:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Salos: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  ryšio_targeto_parinkimas: "Salos: mention_match, place, gap=111"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Salos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-199191
+    - c-173557
 
-<a id="claim-t-219363"></a>
-- t-219363
-  teiginys: "Narbutas Naruševičiui priskyrė nuomonę, kad slavai žinojo panašią ugnį, vadintą Zwicz."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::authors::validation_repair"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
+<a id="claim-t-190676"></a>
+- t-011
+  teiginys: "Naruševičius, Narbuto teigimu, pateikė žinių, rėmusių nuomonę, kad poloviečiai buvo rusų kaimynai iš rytų ir vakarų."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Poloviečiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Poloviečiai: mention_match, group, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Poloviečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173558
+
+<a id="claim-t-190678"></a>
+- t-012
+  teiginys: "Naruševičius, Narbuto vertinimu, iki XII a. jotvingiams priskyrė pernelyg plačias valdas nuo Bugo iki Beržūnos ir nuo Pripetės iki Narvos."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Beržūna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Beržūna: mention_match, place, gap=102"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Beržūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173560
+
+<a id="claim-t-190682"></a>
+- t-013
+  teiginys: "Naruševičių Narbutas mini kaip vieną senovės tyrinėtojų, aptikusių gelonų-budinų buvimo pėdsakų Sniatyno apylinkėse."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173564
+
+<a id="claim-t-190683"></a>
+- t-014
+  teiginys: "Naruševičius, Narbuto teigimu, daugelyje darbų patvirtino nuomonę apie gelonų tautos gyvenimą Nemuno aukštupyje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gelonai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Gelonai: mention_match, group, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Gelonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173565
+
+<a id="claim-t-191874"></a>
+- t-015
+  teiginys: "Naruševičius Lenkijos istorijos I tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus upės pakrantėje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Agatirai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Agatirai: mention_match, group, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Agatirai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174756
+
+<a id="claim-t-192517"></a>
+- t-016
+  teiginys: "Narbutas rašo, kad Naruševičius rėmė nuomonę, jog Owim žemė buvo dabartinė Prūsija."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175305
+
+<a id="claim-t-194644"></a>
+- t-017
+  teiginys: "Kaip mano Naruševičius', slavai taip pat žinojo panašią ugnį, vadintą Zwicz."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-199191
+    - c-170919
+
+<a id="claim-t-197274"></a>
+- t-018
+  teiginys: "Adomas Stanislovas Naruševičius šį paprotį, menantį seniausius budizmo principus, pastebėjo Kašmiro žemumoje."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179097
+
+<a id="claim-t-197572"></a>
+- t-019
+  teiginys: "161 krikščioniško sios eros metais, pasak Naruševičiaus tyrimų1, gotai su savo karaliumi Filimeru, pereidami iš Germanijos į Sarmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo met ribojo senovės geografų taip pavadintus kraštus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179248
+
+<a id="claim-t-197573"></a>
+- t-020
+  teiginys: "A. Naruševičius sako, kad jie nepriklauso nei sarmatams, nei germanams, turi daug žemių, vakaruose teka Vysla; jų kaimynai — estai bei gitonai (.. 66—80), šiaurėje — finai, pietuose — peucinai, o rytuose yra nežinomos sritys."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179249
+
+<a id="claim-t-197574"></a>
+- t-021
+  teiginys: "A. Naruševičius teigia, kad, remdami mozūrų Maslavą, kovojo jotvingiai ir slovėnai, t."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179250
+
+<a id="claim-t-197576"></a>
+- t-022
+  teiginys: "Naruševičius taip pat patvirtina tai daugelyje savo darbų3."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-173565
+
+<a id="claim-t-197577"></a>
+- t-023
+  teiginys: "Tuo remdamasis, Naruševičius savo Lenkijos istorijos pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje šios upės pakrantėje."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174756
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -425,6 +526,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-170919
   autorius: "Teodoras Narbutas"
@@ -444,6 +547,10 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+    - t-006
+    - t-017
 
 - id: c-170920
   autorius: "Teodoras Narbutas"
@@ -462,6 +569,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-170927
   autorius: "Zenonas Ivinskis"
@@ -482,8 +591,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187943
+  pagrindzia:
+    - t-004
 
 - id: c-171286
   autorius: "Teodoras Narbutas"
@@ -504,6 +613,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-173554
   autorius: "Teodoras Narbutas"
@@ -527,6 +638,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-173555
   autorius: "Teodoras Narbutas"
@@ -547,6 +660,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 - id: c-173556
   autorius: "Teodoras Narbutas"
@@ -572,6 +687,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 - id: c-173557
   autorius: "Teodoras Narbutas"
@@ -593,6 +710,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-173558
   autorius: "Teodoras Narbutas"
@@ -615,6 +734,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-173560
   autorius: "Teodoras Narbutas"
@@ -636,6 +757,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 - id: c-173564
   autorius: "Teodoras Narbutas"
@@ -660,6 +783,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 - id: c-173565
   autorius: "Teodoras Narbutas"
@@ -683,6 +808,9 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+    - t-022
 
 - id: c-174756
   autorius: "Teodoras Narbutas"
@@ -705,6 +833,9 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+    - t-023
 
 - id: c-175305
   autorius: "Teodoras Narbutas"
@@ -731,6 +862,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 - id: c-179097
   autorius: "Teodoras Narbutas"
@@ -747,6 +880,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
 
 - id: c-179248
   autorius: "Teodoras Narbutas"
@@ -769,6 +904,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 - id: c-179249
   autorius: "Teodoras Narbutas"
@@ -791,6 +928,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
 
 - id: c-179250
   autorius: "Teodoras Narbutas"
@@ -811,297 +950,5 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194728
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 98."
-  citata_originali: |
-    Tad atleiskime
-    senovės autoriams, kurių geografinių žinių gavimo gali­
-    mybės buvo labiau ribotos negu mūsų; jos pražuvo, mums
-    liko vien spausdintos Plinijaus ištraukos arba kitų geog­
-    rafų traktatų fragmentai. Siek tiek labiau venedų reika­
-    lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
-    klauso nei sarmatams, nei germanams, turi daug žemių,
-    vakaruose teka Vysla; jų kaimynai — estai bei gitonai
-    (§§ 66—80), šiaurėje — finai, pietuose — peucinai, o
-    rytuose yra nežinomos sritys.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-194916
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
-  citata_originali: |
-    Mūsų mokslininkas, lietuvių istorijos tyri­
-    nėtojas Ksaveras Bogušas priskiria lietuvių genties tau­
-    toms iš kitur pažįstamus poloviečius', remdamasis tokio­
-    mis pat Kojalavičiaus prielaidomis1 2. Naruševičius patei­
-    kia žinių, kurios, rodos, taip pat remia šią nuomonę, kad
-    poloviečiai buvę rusų kaimynai nuo saulės patekėjimo ir
-    nusileidimo pusių3. Šie teiginiai įpareigoja mus patyri­
-    nėti istorinius faktus, kurie geriau paaiškintų tai ir at­
-    skleistų tikrą ar spėjamą giminystę, kurią mini mūsų pirm­
-    takai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215260
-
-- id: c-195141
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 115"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 115."
-  citata_originali: |
-    Bet Kromeris, jei skaitysime
-    jo originalų leidinį, ketvirtoje knygoje labiau išplėtoja
-    šią mintį. Jis teigia, kad, remdami mozūrų Maslavą, ko­
-    vojo jotvingiai ir slovėnai, t. y. gentys, priklausiusios
-    prūsų lygai. Jis laiko tuos jotvingius Ptolemėjo meta-
-    nastais, kilusiais iš Jazigibano, t. y. jotvingių žemės, ply­
-    tinčios Vengrijoje prie Tisos upės, nes jų likučių ten tu­
-    rėję būti net ligi autoriaus laikų.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-195366
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 211"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
-  citata_originali: |
-    Tai, be
-    abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
-    tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
-    nės sutampa. Sis geografas pastarosios aukštupyje kuo
-    aiškiausiai apgyvendina gelonų tautą2. Naruševičius taip
-    pat patvirtina tai daugelyje savo darbų3. Pats Ptolemėjas,
-    kuris šį sykį mini toje žemėje gyvenančią igelonų tautą,
-    1 Zelva — lietuviškas pavadinimas — taip pat kartojasi ne
-    vienoje vietoje. Mes nesigilinsime į upių pavadinimų etimologinį ty­
-    rimą, nes tai mus nuvestų toli nuo pageidaujamo trumpumo; tai pa­
-    liekame lietuvių kalbos ir jos ištakų tyrinėtojams.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214330
-    - t-214943
-
-- id: c-195624
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 119"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 119."
-  citata_originali: |
-    Mechovita taip kalba apie
-    čigonus, žmones, kuriuos kai kada priskirdavo prie jot­
-    vingių.
-    116
-    Naruševičius iki XII amžiaus priskiria jotvingiams
-    pernelyg plačias valdas, kurios plyti nuo Bugo iki Ber-
-    žūnos, nuo Pripetės iki Narvos1. Iš pradžių ši tauta, nors
-    gausi ir didelė, gyveno nelabai plačiai, nes ją supo pa­
-    žįstamos kitų tautų gyvenamosios vietovės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214199
-
-- id: c-195734
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 289"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
-  citata_originali: |
-    Tuo remdamasis, Naruševičius savo Lenkijos istorijos
-    pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta
-    dešiniojoje šios upės pakrantėje. Tebus ir čia leista at­
-    kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
-    dalelė Rus ir Ross — lietuviško šventos upės pavadini­
-    mo. O savo gyvenimą tolimame Septynių miestų krašte,
-    kur jie buvo laiko audrų nublokšti, agatirai galėjo iš­
-    keisti į gyvenvietes tarp giminingų kartų, kai nesiliau­
-    jančios sarmatų revoliucijos neleido jiems ilgiau ramiai
-    gyventi prie Marokos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213575
-    - t-215209
-
-- id: c-196276
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 476"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 476."
-  citata_originali: |
-    Tai žymaus lenkų poeto ir istoriko Adomo Stanislovo Naruševi­
-    čiaus
-    (1733—1796)
-    veikalas
-    (Naruszewicz A. Historya narodu
-    Polskiego, od początku chrzesciañstwa. T. 1—7. Warszawa, 1803—
-    1804
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213010
-
-- id: c-197243
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 253"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 253."
-  citata_originali: |
-    Tarp
-    mokslininkų ¡buvęs Hugo Grocijus2*, taip ¡pat Pilypas Kjiu-
-    veris3**, kuris rašo: „Žemė Owim, plytėjusi priešais go­
-    tus, yra ne kokia kita, o dabar vadinama Prūsija, pilna
-    pelkių ir ežerų, sunki armijai keliauti ir daugelyje vietų
-    visiškai neįžengiama; šią žemę net ir šiais laikais saksai
-    vadina Owimu. Pagaliau ir ¡pats Naruševičius, žinojęs
-    tuos pačius ir, ko gero, dar ir kitus mums nežinomus įro­
-    dymus, visiškai rėmė šią nuomonę4.
-    247
-    Tas pats Jordanas, puikiai išmanęs istoriją ¡gotų, nuo
-    neatmenamų laikų turėjusių glaudžių santykių su lietuvių
-    žemėmis, tikriausiai žinojo jų geografinę padėtį ir pava­
-    dinimus, be to, jo žinios mums labai svarbios.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212596
-
-- id: c-197534
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 85"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
-  citata_originali: |
-    161 krikščioniško­
-    sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
-    savo karaliumi Filimeru, pereidami iš Germanijos į Sar-
-    matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­
-    met ribojo senovės geografų taip pavadintus kraštus. Bet
-    atsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir
-    buvo nuneštas srovės. Yra senovės istorikų prielaidų, jog
-    Filimeras, baimindamasis didelio žmonių susigrūdimo,
-    nes visi žmonės norėjo iškeliauti, tyčia pagreitino šį įvy­
-    kį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212312
-    - t-212593
-
-- id: c-197540
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 84"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 84."
-  citata_originali: |
-    Šitaip susiklosčiusi politinė pa­
-    dėtis, kiek suprantu, tapo priežastimi, kuri ir nulėmė
-    drąsų gotų ketinimą iškeliauti į tolimas Rytų Europos
-    šalis ir susirasti patogių kolonijai vietų palaimintose Ry­
-    tų šalyse, į kurias visuomet viliojo kažin koks pagundos
-    jausmas ir kažkada ten protėvių patirtos laimės prisimi­
-    nimai. Naruševičius šį išėjimą aiškina kitaip. Jis rašo:
-    „Panašu į tiesą, kad dakai su getais, prisimindami tiek iš
-    romėnų patirtų pralaimėjimų, pasikvietė pas save gotus,
-    pasiryžę veikiau jungtis su jais negu būti svetimų val­
-    domi“1.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215867
-
-- id: c-199191
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 11"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 11."
-  citata_originali: |
-    Lyg atsakydamas gausiems savo darbo kritikams, T. Nar­
-    butas laiške Vilniaus gydytojui ir artimam šeimos draugui Ani­
-    cetui Renjė rašė: „Mūsų istorijoje tiek mažai faktų, tiek daug
-    visuotinės istorijos <...>. Istorikas Naruševičius nieko apie
-    tautą nerašė, tik dėstė valdžios veiksmus ir karo įvykius, o Le­
-    levelis, norėdamas tai ištaisyti, puolė į kitą suklydimą: sam­
-    protaudamas ir lygindamas ją su kitomis europietiškomis vals­
-    tybėmis, savo tyrimuose faktams neskyrė pakankamai vietos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216130
-    - t-216352
-    - t-219363
-
-- id: c-201494
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
-  citata_originali: |
-    Šitaip galindų tauta turėjo Rosės * 5
-    šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
-    likti tokį garbinimą (Hiegels. Reise nach Indien). Jis šį paprotį, menantį
-    seniausius budizmo principus, pastebėjo Kašmiro žemumoje*.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-021

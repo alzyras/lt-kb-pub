@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Jėzuitų misija Žemaitijoje ir Livonijoje (1583 m.)'
+pavadinimas: Jėzuitų misija Žemaitijoje ir Livonijoje (1583 m.)
 variantai:
-  - 'Jėzuitų misija Žemaitijoje ir Livonijoje'
+  - Jėzuitų misija Žemaitijoje ir Livonijoje
 aliases:
-  - 'Jėzuitų misija Žemaitijoje ir Livonijoje'
+  - Jėzuitų misija Žemaitijoje ir Livonijoje
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1583 m.'
+  - 1583 m.
 date_start: '1583'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Jėzuitų misija Žemaitijoje ir Livonijoje (1583 m.)
 
@@ -84,6 +81,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

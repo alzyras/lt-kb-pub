@@ -1,6 +1,6 @@
 ---
 tipas: saltinis
-pavadinimas: 'Ptolemėjaus geografijos veikalas'
+pavadinimas: Ptolemėjaus geografijos veikalas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Ptolemėjaus geografijos veikalas
 
@@ -58,6 +55,5 @@ Tokį pat nuotolį nuo Vys los žiočių į Panoniją suskaičiuoja ir Ptolemėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

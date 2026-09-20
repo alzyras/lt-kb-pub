@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Glotavos valsčiaus puolimas ir 72 lietuvių žūtis (1300 m.)'
+pavadinimas: Glotavos valsčiaus puolimas ir 72 lietuvių žūtis (1300 m.)
 variantai:
-  - 'Glotavos valsčiaus puolimas ir 72 lietuvių žūtis'
+  - Glotavos valsčiaus puolimas ir 72 lietuvių žūtis
 aliases:
-  - 'Glotavos valsčiaus puolimas ir 72 lietuvių žūtis'
+  - Glotavos valsčiaus puolimas ir 72 lietuvių žūtis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1300 m.'
+  - 1300 m.
 date_start: '1300'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Glotavos valsčiaus puolimas ir 72 lietuvių žūtis (1300 m.)
 
@@ -84,6 +81,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -38,22 +38,10 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
 
 ## Teiginiai
 
-<a id="claim-t-215033"></a>
-- t-215033
-  teiginys: "Žeimelio parapijoje pamaldos vyko vokiečių ir latvių kalbomis."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-193112
-
 <a id="claim-t-42392"></a>
-- t-42392
+- t-001
   teiginys: "Lapkričio 20 d. Pasvalio batalionas užėmė Žeimelį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,9 +55,9 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
     - c-45480
 
 <a id="claim-t-193789"></a>
-- t-193789
+- t-002
   teiginys: "Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos, apie 100 kulkosvaidžių, 10 minosvaidžių, @ Lapkričio 20 d. Pasvalio batalionas užima Žeimelį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -103,25 +91,6 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193789
-    - t-42392
-
-- id: c-193112
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 291"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 291."
-  citata_originali: |
-    Lietuvoje prie Kuršo sienos, ypač dviejose liuteroniškose
-    Žeimelio ir Biržų parapijose, kur pamaldos vyksta ne
-    tik vokiečių, bet ir latvių kalbomis
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215033
-
+  pagrindzia:
+    - t-001
+    - t-002

@@ -1,6 +1,6 @@
 ---
 tipas: daiktas
-pavadinimas: 'Senovinis užrašas Prūsijoje'
+pavadinimas: Senovinis užrašas Prūsijoje
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Senovinis užrašas Prūsijoje
 
@@ -73,6 +70,5 @@ Sį pavadinimą senovės tyrinėtojai aptiko senoviniame už raše, kurį rado P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

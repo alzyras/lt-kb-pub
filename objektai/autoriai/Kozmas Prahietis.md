@@ -35,17 +35,26 @@ Narbutas rašo, kad Kozmo Prahiečio šv. Adalberto biografijoje prūsų minios 
 
 ## Teiginiai
 
-<a id="claim-t-216895"></a>
-- t-216895
-  teiginys: "Iš šventojo Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab meldžių žynys Siggo, kuris buvo pats pirmasis žudikas."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-190435"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad Kozmo Prahiečio šv. Adalberto biografijoje prūsų minios vadu prie Fišhauzeno įvardytas žynys Siggo."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Adalbertas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Adalbertas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata aiškiai sako, kad prūsai užpuolė Adalbertą."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Prūsai puolė Adalbertas (0.88)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-198710
+    - c-173318
 
 ## Citatos
 
@@ -70,24 +79,5 @@ Narbutas rašo, kad Kozmo Prahiečio šv. Adalberto biografijoje prūsų minios 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198710
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 294"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 294."
-  citata_originali: |
-    Iš šventojo
-    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
-    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
-    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
-    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216895
-
+  pagrindzia:
+    - t-001

@@ -43,6 +43,64 @@ canonical_biography: "Rytų krikščionybę taip pat perėmęs ketvirtasis Traid
 
 Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis Lietuvos valdovo pavedimu veikė prieš Lenkiją. Jos gynybai greičiausiai vadovavo Traidenio brolis Sirputis.
 
+## Teiginiai
+
+<a id="claim-t-79156"></a>
+- t-001
+  teiginys: "Sirputis, ketvirtasis Traidenio brolis, perėmė Rytų krikščionybę ir Lietuvos valdovo pavedimu veikė prieš Lenkiją."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_brolis -> Traidenis (valdovas, XIII a.): 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sirputis (Traidenio brolis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Traidenis (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai vadina Sirputį Traidenio broliu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sirputis (Traidenio brolis) buvo brolis Traidenis (valdovas, XIII a.) (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1260-1274; įvykio data: 1274 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata."
+  pagrindžia:
+    - c-76235
+
+<a id="claim-t-79157"></a>
+- t-002
+  teiginys: "Traidenio brolis Sirputis greičiausiai vadovavo Naugarduko pilies gynybai."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardukas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sirputis (Traidenio brolis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Naugardukas: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sirputis (Traidenio brolis)\" parinktas kaip owner_note_path. Targetas \"Naugardukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-42219
+
+<a id="claim-t-79158"></a>
+- t-003
+  teiginys: "Rytų krikščionybę perėmęs Traidenio brolis Sirputis Lietuvos valdovo pavedimu veikė prieš Lenkiją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_brolis -> Traidenis (valdovas, XIII a.): 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sirputis (Traidenio brolis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Traidenis (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Sirputį kaip Traidenio brolį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sirputis (Traidenio brolis) buvo brolis Traidenis (valdovas, XIII a.) (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1260-1274; įvykio data: 1274 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Sirputį ir citatoje pagrįstą jo veikimą prieš Lenkiją."
+  pagrindžia:
+    - c-76235
+
 ## Citatos
 
 - id: c-42219
@@ -60,7 +118,7 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-76235
@@ -89,68 +147,9 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-003
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-
-## Teiginiai
-
-<a id="claim-t-79156"></a>
-- t-001
-  teiginys: "Sirputis, ketvirtasis Traidenio brolis, perėmė Rytų krikščionybę ir Lietuvos valdovo pavedimu veikė prieš Lenkiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Traidenis (valdovas, XIII a.): 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sirputis (Traidenio brolis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Traidenis (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai vadina Sirputį Traidenio broliu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sirputis (Traidenio brolis) buvo brolis Traidenis (valdovas, XIII a.) (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1260-1274; įvykio data: 1274 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata."
-  pagrindžia:
-    - c-76235
-
-<a id="claim-t-79157"></a>
-- t-002
-  teiginys: "Traidenio brolis Sirputis greičiausiai vadovavo Naugarduko pilies gynybai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardukas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sirputis (Traidenio brolis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Naugardukas: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sirputis (Traidenio brolis)\" parinktas kaip owner_note_path. Targetas \"Naugardukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-42219
-
-<a id="claim-t-79158"></a>
-- t-003
-  teiginys: "Rytų krikščionybę perėmęs Traidenio brolis Sirputis Lietuvos valdovo pavedimu veikė prieš Lenkiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Traidenis (valdovas, XIII a.): 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sirputis (Traidenio brolis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Traidenis (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Sirputį kaip Traidenio brolį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sirputis (Traidenio brolis) buvo brolis Traidenis (valdovas, XIII a.) (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1260-1274; įvykio data: 1274 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Sirputį ir citatoje pagrįstą jo veikimą prieš Lenkiją."
-  pagrindžia:
-    - c-76235
-

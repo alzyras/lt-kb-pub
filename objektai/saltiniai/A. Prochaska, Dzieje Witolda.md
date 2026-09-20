@@ -39,6 +39,20 @@ media_all_json: |-
 
 Prochaska: Dzieje Witolda, 1914, 306-308 p. (^26) Žr.
 
+## Teiginiai
+
+<a id="claim-t-31599"></a>
+- t-001
+  teiginys: "A. Prochaskos „Dzieje Witolda“ cituojamas 1914 m. leidimo 306-308 puslapiais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1914 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko tik bibliografinę nuorodą į leidimą ir puslapius."
+  pagrindžia:
+    - c-33514
+
 ## Citatos
 
 - id: c-33514
@@ -58,20 +72,5 @@ Prochaska: Dzieje Witolda, 1914, 306-308 p. (^26) Žr.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-31599"></a>
-- t-001
-  teiginys: "A. Prochaskos „Dzieje Witolda“ cituojamas 1914 m. leidimo 306-308 puslapiais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1914 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko tik bibliografinę nuorodą į leidimą ir puslapius."
-  pagrindžia:
-    - c-33514
-

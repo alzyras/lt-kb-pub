@@ -55,6 +55,18 @@ Turku šiame šaltinyje minimas kaip miestas prie Augusto Roberto Niemio gimimo 
 
 Turku šiame šaltinyje yra miestas.
 
+## Teiginiai
+
+<a id="claim-t-195482"></a>
+- t-001
+  teiginys: "1880 m. Augustas Robertas Niemi įstojo į Turku suomių licėjų."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177903
+
 ## Citatos
 
 - id: c-177903
@@ -77,18 +89,5 @@ Turku šiame šaltinyje yra miestas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195482"></a>
-- t-001
-  teiginys: "1880 m. Augustas Robertas Niemi įstojo į Turku suomių licėjų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177903
-

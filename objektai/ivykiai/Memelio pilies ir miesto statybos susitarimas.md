@@ -1,29 +1,26 @@
 ---
 tipas: ivykis
-pavadinimas: 'Memelio pilies ir miesto statybos susitarimas'
+pavadinimas: Memelio pilies ir miesto statybos susitarimas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1252 m.'
-  - '1253 m.'
+  - 1252 m.
+  - 1253 m.
 date_start: '1252'
 date_end: '1253'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Memelio pilies ir miesto statybos susitarimas
 
@@ -110,7 +107,7 @@ Pagal susitarimą Livonijos kryžiuočiai, magistraujant Eberhardui Zeinui, penk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-194997
@@ -132,6 +129,5 @@ Pagal susitarimą Livonijos kryžiuočiai, magistraujant Eberhardui Zeinui, penk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

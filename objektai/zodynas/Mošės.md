@@ -66,18 +66,3 @@ Terminas vartojamas vestuvių dovanų paskirstymo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-195632"></a>
-- t-001
-  teiginys: "Mošės šiame šaltinyje yra vyro seserys."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178034
-

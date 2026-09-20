@@ -58,6 +58,38 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-195381"></a>
+- t-001
+  teiginys: "Jaunoji kraičvežiams dovanodavo rankšluosčius, kuriuos jie persirišdavo per pečius."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177797
+
+<a id="claim-t-195382"></a>
+- t-002
+  teiginys: "Jaunikis turėdavo išpirkti vadinamą didelį kraitį, duodamas motinai ne mažiau kaip rublį."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177800
+
+<a id="claim-t-195383"></a>
+- t-003
+  teiginys: "Atlyginti kraičvežiai išveždavo skrynią ir ryšulį į jaunikio namus, kur jų laukdavo sukviesti svečiai."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177799
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -76,7 +108,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177798
@@ -99,9 +131,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - id: c-177799
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -121,7 +150,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-177800
@@ -147,39 +176,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-195381"></a>
-- t-001
-  teiginys: "Jaunoji kraičvežiams dovanodavo rankšluosčius, kuriuos jie persirišdavo per pečius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177797
-
-<a id="claim-t-195382"></a>
-- t-002
-  teiginys: "Jaunikis turėdavo išpirkti vadinamą didelį kraitį, duodamas motinai ne mažiau kaip rublį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177800
-
-<a id="claim-t-195383"></a>
-- t-003
-  teiginys: "Atlyginti kraičvežiai išveždavo skrynią ir ryšulį į jaunikio namus, kur jų laukdavo sukviesti svečiai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177798
-    - c-177799
-

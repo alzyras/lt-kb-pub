@@ -1,6 +1,6 @@
 ---
 tipas: paprotys
-pavadinimas: 'Valdovų stumbrų medžioklė ir pokyliai'
+pavadinimas: Valdovų stumbrų medžioklė ir pokyliai
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Valdovų stumbrų medžioklė ir pokyliai
 
@@ -78,6 +75,5 @@ Vytautas žiemai pasikvietė Jogailą į Bieloviežo girią pramogai medžioti s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

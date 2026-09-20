@@ -37,23 +37,10 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
 
 ## Teiginiai
 
-<a id="claim-t-207555"></a>
-- t-207555
-  teiginys: "Brastos Bibliją Alfredas Bumblauskas apibūdina kaip įspūdingą leidybos kūrinį, pasirodžiusį po dešimtmečio."
-  atnaujinta: "2026-09-13 23:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190172
-
 <a id="claim-t-23389"></a>
-- t-23389
+- t-001
   teiginys: "Po Mikalojaus Radvilos Juodojo 1553 m. Brastoje įkurtos spaustuvės po dešimtmečio pasirodė „Brastos Biblija“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Brasta: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -70,9 +57,9 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
     - c-75421
 
 <a id="claim-t-23390"></a>
-- t-23390
+- t-002
   teiginys: "Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų kalbą, nes ji būtų suprantama liaudžiai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -87,21 +74,6 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir citata tiesiogiai patvirtina Radvilos Juodojo poziciją."
   pagrindžia:
     - c-75422
-
-<a id="claim-t-207554"></a>
-- t-207554
-  teiginys: "Mikalojus Radvila Juodasis 1563 m. išleido „Brastos Bibliją“ lenkų kalba."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  temporaliniai_duomenys: "įvykio data: 1563 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra gramatiškas, turi aiškų veikėją, datą ir leidinio kalbą. Nieko papildomai nepridėta."
-  pagrindžia:
-    - c-190171
 
 ## Citatos
 
@@ -127,8 +99,8 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-23389
+  pagrindzia:
+    - t-001
 
 - id: c-75422
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -156,47 +128,5 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-23390
-
-- id: c-190171
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 22"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 22."
-  citata_originali: |
-    Lenkų kalbos vaidmenį Lietuvos kultūroje simboliškai nusakė vienas iš Radvilų savo
-    laiške (rašytame 1615 m.): „Nors lietuviu esu gimęs ir lietuviu teks man mirti, tačiau turime
-    vartoti mūsų tėvynėje lenkų kalbą.“ 1563 m. Mikalojus Radvila Juodasis garsiąją „Brastos
-    Bibliją“ išleidžia lenkų kalba (anksčiau negu Lenkijoje), nes, kaip nuosekliam reformatui,
-    jam rūpi, kad ją suprastų liaudis.
-  citata_rodoma: "1563 m. Mikalojus Radvila Juodasis garsiąją „Brastos \nBibliją“ išleidžia lenkų kalba (anksčiau negu Lenkijoje), nes, kaip nuosekliam reformatui, \njam rūpi, kad ją suprastų liaudis."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207554
-
-- id: c-190172
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 150"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 150."
-  citata_originali: |
-    Brastoje įkū-
-    rė Mikalojus Radvila Juodasis. Tai buvo reformacijos nulemtas įvykis. Po dešimtmečio
-    čia pasirodė įspūdingas leidybos kūrinys – Brastos Biblija.
-  citata_rodoma: "Po dešimtmečio \nčia pasirodė įspūdingas leidybos kūrinys – Brastos Biblija."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207555
-
+  pagrindzia:
+    - t-002

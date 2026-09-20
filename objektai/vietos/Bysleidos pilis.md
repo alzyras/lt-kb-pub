@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Bysleidos pilis'
+pavadinimas: Bysleidos pilis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7c4be29c96e8b187c221a816"
-canonical_name: "Bysleidos pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Bysleidos pilis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7c4be29c96e8b187c221a816
+canonical_name: Bysleidos pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Bysleidos pilis
 sameAs: []
-canonical_biography: "Sūduviai, nadruviai ir skalviai apsiautė Bysleidos pilį netoli Bartenšteino, Kartenės miške."
+canonical_biography: 'Sūduviai, nadruviai ir skalviai apsiautė Bysleidos pilį netoli Bartenšteino, Kartenės miške.'
 ---
 # Bysleidos pilis
 
@@ -66,6 +65,5 @@ Sūduviai, nadruviai ir skalviai apsiautė Bysleidos pilį netoli Bartenšteino,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -48,6 +48,25 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 
 ## Teiginiai
 
+<a id="claim-t-43651"></a>
+- t-001
+  teiginys: "Iš Kuršo ir Žiemgalos sudaryta kunigaikštystė turėjo sostinę Jelgavoje, dar vadintoje Mintauja."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata teigia, kad Livonija pasidavė Lietuvos didžiajam kunigaikščiui; kaip objektas kandidatuose yra Lietuva."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Livonija priklausė Lietuva (0.62)"
+  temporaliniai_duomenys: "įvykio data: iki 1582 m.; įvykio data: 1561 m.; įvykio data: 1582 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-47055
+
 <a id="claim-t-43652"></a>
 - t-002
   teiginys: "Jelgavoje jėzuitai buvo įkūrę vieną iš mažesnių savo mokyklų."
@@ -64,29 +83,10 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   pagrindžia:
     - c-47056
 
-<a id="claim-t-43651"></a>
-- t-43651
-  teiginys: "Iš Kuršo ir Žiemgalos sudaryta kunigaikštystė turėjo sostinę Jelgavoje, dar vadintoje Mintauja."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata teigia, kad Livonija pasidavė Lietuvos didžiajam kunigaikščiui; kaip objektas kandidatuose yra Lietuva."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Livonija priklausė Lietuva (0.62)"
-  temporaliniai_duomenys: "įvykio data: iki 1582 m.; įvykio data: 1561 m.; įvykio data: 1582 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-47055
-
 <a id="claim-t-201063"></a>
-- t-201063
+- t-003
   teiginys: "Tas pats mistras ateinantį metą, norėdamas žem galius sudrausti, užėmė jiems Jelgavą ir tenai sau pilį įkūrė ir Mitau pramanė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -119,8 +119,8 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-43651
+  pagrindzia:
+    - t-001
 
 - id: c-47056
   redaktorius: "A. Šapoka"
@@ -137,12 +137,11 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     Alūkstoje, Daugpily, Jelgavoj ir kitur.
   citata_rodoma: "Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —\nVarniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,\nAlūkstoje, Daugpily, Jelgavoj ir kitur."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184413
@@ -166,6 +165,5 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201063
-
+  pagrindzia:
+    - t-003

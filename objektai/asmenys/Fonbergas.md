@@ -42,6 +42,21 @@ canonical_biography: "Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė 
 
 Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
 
+## Teiginiai
+
+<a id="claim-t-194832"></a>
+- t-001
+  teiginys: "Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-177228
+
 ## Citatos
 
 - id: c-177228
@@ -58,4 +73,5 @@ Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

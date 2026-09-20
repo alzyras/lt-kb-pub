@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Henrikas Veidas'
+pavadinimas: Henrikas Veidas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1249 m.'
+  - 1249 m.
 date_start: '1249'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f956e3dd10415bf63933dfa0"
-canonical_name: "Henrikas Veidas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Henrikas Veidas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f956e3dd10415bf63933dfa0
+canonical_name: Henrikas Veidas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Henrikas Veidas
 sameAs: []
-canonical_biography: "1249 m. prūsų magistras Henrikas Veidas sudarė su Sventopelku sutartį dėl Aistmarių pasidalijimo žūklei."
+canonical_biography: 1249 m. prūsų magistras Henrikas Veidas sudarė su Sventopelku sutartį dėl Aistmarių pasidalijimo žūklei.
 ---
 # Henrikas Veidas
 
@@ -76,6 +75,5 @@ canonical_biography: "1249 m. prūsų magistras Henrikas Veidas sudarė su Svent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -44,30 +44,12 @@ canonical_biography: "Anušauskas A."
 
 Anušauskas A.
 
-## Citatos
-
-- id: c-20701
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
-  citata_originali: |
-    Anušauskas A. Teroras. 1940–1958 m. Vilnius, 2012.
-  citata_rodoma: "Anušauskas A. Teroras. 1940–1958 m. Vilnius, 2012."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-17683"></a>
 - t-001
   teiginys: "A. Anušauskas parašė veikalą „Teroras. 1940–1958 m.“, išleistą Vilniuje 2012 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -83,3 +65,20 @@ Anušauskas A.
   pagrindžia:
     - c-20701
 
+## Citatos
+
+- id: c-20701
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
+  citata_originali: |
+    Anušauskas A. Teroras. 1940–1958 m. Vilnius, 2012.
+  citata_rodoma: "Anušauskas A. Teroras. 1940–1958 m. Vilnius, 2012."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

@@ -43,6 +43,45 @@ canonical_biography: "Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu�
 
 Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­ rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­ gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­ garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada Goštautu ir daugeliu kitų. Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš Polocko, likus 5 die­ noms iki Mergelės Marijos gimimo, tai yra, 1432 metų rugsėjo 3 dieną, kuriame jam praneša, kad kuni­ gaikštis Žygimantas ir Alšėnų kuni­ gaikštis Simonas užpuolę.
 
+## Teiginiai
+
+<a id="claim-t-87573"></a>
+- t-001
+  teiginys: "Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Švitrigaila: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Simonas (Alšėnų kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Simonas minimas kaip Žygimanto sąjungininkas žygyje, kurio metu įsiveržta į Švitrigailos dvarą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Simonas (Alšėnų kunigaikštis) puolė Švitrigaila (0.76); Simonas (Alšėnų kunigaikštis) surengė žygį į Ašmena (0.75)"
+  pagrindžia:
+    - c-83552
+
+<a id="claim-t-87574"></a>
+- t-002
+  teiginys: "1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Švitrigaila: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Simonas (Alšėnų kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatoje Simonas kartu su Žygimantu įvardytas kaip Švitrigailos dvaro užpuolikas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Simonas (Alšėnų kunigaikštis) puolė Švitrigaila (0.82); Simonas (Alšėnų kunigaikštis) puolė Ašmena (0.73)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Simonas (Alšėnų kunigaikštis) buvo valdovas Alšėnai“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai nurodo datuotą pranešimą apie Simono dalyvavimą užpuolime."
+  pagrindžia:
+    - c-83553
+
 ## Citatos
 
 - id: c-83552
@@ -100,7 +139,7 @@ canonical_biography: "Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-83553
@@ -131,45 +170,5 @@ canonical_biography: "Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-87573"></a>
-- t-001
-  teiginys: "Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Švitrigaila: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Simonas (Alšėnų kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Simonas minimas kaip Žygimanto sąjungininkas žygyje, kurio metu įsiveržta į Švitrigailos dvarą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Simonas (Alšėnų kunigaikštis) puolė Švitrigaila (0.76); Simonas (Alšėnų kunigaikštis) surengė žygį į Ašmena (0.75)"
-  pagrindžia:
-    - c-83552
-
-<a id="claim-t-87574"></a>
-- t-002
-  teiginys: "1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Švitrigaila: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Simonas (Alšėnų kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Simonas kartu su Žygimantu įvardytas kaip Švitrigailos dvaro užpuolikas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Simonas (Alšėnų kunigaikštis) puolė Švitrigaila (0.82); Simonas (Alšėnų kunigaikštis) puolė Ašmena (0.73)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1432 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Simonas (Alšėnų kunigaikštis) buvo valdovas Alšėnai“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai nurodo datuotą pranešimą apie Simono dalyvavimą užpuolime."
-  pagrindžia:
-    - c-83553
-

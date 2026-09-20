@@ -50,6 +50,20 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-194305"></a>
+- t-001
+  teiginys: "1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir."
+  atnaujinta: "2026-07-06 12:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176897
+
 ## Citatos
 
 - id: c-176897
@@ -77,20 +91,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-194305"></a>
-- t-001
-  teiginys: "1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176897
-

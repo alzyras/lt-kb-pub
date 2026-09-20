@@ -46,22 +46,10 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 
 ## Teiginiai
 
-<a id="claim-t-220600"></a>
-- t-220600
-  teiginys: "Hartmanas iš Heldrungeno buvo aštuntasis Teutonų namų ordino didysis magistras."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202368
-
-<a id="claim-t-222481"></a>
-- t-222481
+<a id="claim-t-59966"></a>
+- t-001
   teiginys: "Hartmanas iš Heldrungeno kartu su Konradu, Ditrichu iš Gruningeno ir keliais namiškiais buvo Teneburgo pilyje."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Hartmanas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -71,11 +59,13 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   ryšio_targeto_parinkimas: "Hartmanas: mention_match, person, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hartmanas iš Heldrungeno\" parinktas kaip owner_note_path. Targetas \"Hartmanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60598
 
-<a id="claim-t-222596"></a>
-- t-222596
+<a id="claim-t-59967"></a>
+- t-002
   teiginys: "Hartmanas iš Heldrungeno buvo didysis magistras, broliu tapęs prieš 1237 m. ir miręs 1282 m."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Hartmanas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -88,6 +78,25 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   temporaliniai_duomenys: "įvykio data: 1237 m.; įvykio data: 1282 m.; įvykio data: po 1313 m.; įvykio data: 1313 m.; įvykio data: po 1324 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir atitinka citatoje pateiktą informaciją."
+  pagrindžia:
+    - c-60597
+
+<a id="claim-t-59968"></a>
+- t-003
+  teiginys: "Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą pastarajam."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Po susijungimo Livonija aiškiai aprašyta kaip atitekusi Vokiečių ordinui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Livonija priklausė Kryžiuočių ordinas (0.86)"
+  pagrindžia:
+    - c-60599
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -120,6 +129,8 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-60598
   autorius: "Petras Dusburgietis"
@@ -139,6 +150,8 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-60599
   autorius: "Petras Dusburgietis"
@@ -156,21 +169,5 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202368
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 236"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236."
-  citata_originali: |
-    Brolis Hartmanas iš Heldrungeno tuo metu buvo Teutonų namų ordino aštuntu
-    didžiuoju magistru, o mirė rugpjūčio 19 dieną
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220600
-
+  pagrindzia:
+    - t-003

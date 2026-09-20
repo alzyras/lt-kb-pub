@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'A. Zavadskis'
+pavadinimas: A. Zavadskis
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 datos:
-  - '1853 m.'
+  - 1853 m.
 date_start: '1853'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-30218893db73e150b8a1172a"
-canonical_name: "A. Zavadskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["A. Zavadskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-30218893db73e150b8a1172a
+canonical_name: A. Zavadskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - A. Zavadskis
 sameAs: []
-canonical_biography: "Zavadskiui -•''rašė, kad knygą ,,Žiwataj Szwęntuju\" atiduosiąs jam vel tui, tik susitarsiąs su Šnidhauzenu dėl kainos."
+canonical_biography: 'Zavadskiui -•''''rašė, kad knygą ,,Žiwataj Szwęntuju" atiduosiąs jam vel tui, tik susitarsiąs su Šnidhauzenu dėl kainos.'
 ---
 # A. Zavadskis
 

@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Viekšniai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Viekšniai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Viekšniai'
+  - Viekšniai
 aliases:
-  - 'Viekšniai'
+  - Viekšniai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-55c95cd220eebdc17e7b1472"
-canonical_name: "Viekšniai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Viekšniai","Viekšniai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-55c95cd220eebdc17e7b1472
+canonical_name: Viekšniai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Viekšniai
+  - Viekšniai (vieta)
 sameAs: []
-canonical_biography: "Viekšnių bažnyčia buvo statoma visų parapijiečių rūpesčiu ir aukomis."
+canonical_biography: Viekšnių bažnyčia buvo statoma visų parapijiečių rūpesčiu ir aukomis.
 place_authority: true
 historical_names: []
 ---

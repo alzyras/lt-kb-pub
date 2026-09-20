@@ -42,6 +42,28 @@ canonical_biography: "Jai formaliai vadovavo generolai Paulius fon Hindenburgas 
 
 Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) ir Ėrichas Liudendorfas (Erich Ludendorff) ir naudojo visus krašto išteklius Vokietijos kariuomenės reikalams.
 
+## Teiginiai
+
+<a id="claim-t-78068"></a>
+- t-001
+  teiginys: "Oberostui formaliai vadovavo generolai Paulius fon Hindenburgas ir Ėrichas Liudendorfas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Ėrichas Liudendorfas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Paulius fon Hindenburgas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ėrichas Liudendorfas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Abu generolai kartu vadovavo Oberostui, todėl tiesiogiai palaikomas bendro veikimo ryšys."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Paulius fon Hindenburgas buvo sąjungininkas su Ėrichas Liudendorfas (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1915 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Hindenburgo vaidmenį."
+  pagrindžia:
+    - c-75373
+
 ## Citatos
 
 - id: c-75373
@@ -65,28 +87,5 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-78068"></a>
-- t-001
-  teiginys: "Oberostui formaliai vadovavo generolai Paulius fon Hindenburgas ir Ėrichas Liudendorfas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Ėrichas Liudendorfas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Paulius fon Hindenburgas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ėrichas Liudendorfas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Abu generolai kartu vadovavo Oberostui, todėl tiesiogiai palaikomas bendro veikimo ryšys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Paulius fon Hindenburgas buvo sąjungininkas su Ėrichas Liudendorfas (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1915 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Hindenburgo vaidmenį."
-  pagrindžia:
-    - c-75373
-

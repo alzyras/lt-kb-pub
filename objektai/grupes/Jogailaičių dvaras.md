@@ -70,11 +70,9 @@ Karaliavimo pradžioje, kaip nurodoma šaltinyje, valdovas į Lietuvą kartais v
     1 2. Dvariškiai, kaip ir senesnių laikų Didžiojo kunigaikščio kariaunos nariai,
     Zrödloznawcze 37 (2000), s.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

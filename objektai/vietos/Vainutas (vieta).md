@@ -1,42 +1,42 @@
 ---
 tipas: vieta
-pavadinimas: 'Vainutas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Vainutas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Vainutas'
+  - Vainutas
 aliases:
-  - 'Vainutas'
+  - Vainutas
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 datos:
-  - '1861 m.'
-  - '1862 m.'
-  - '1863 m.'
+  - 1861 m.
+  - 1862 m.
+  - 1863 m.
 date_start: '1861'
 date_end: '1863'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3acd1a077b69e5397103bcc7"
-canonical_name: "Vainutas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vainutas","Vainutas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3acd1a077b69e5397103bcc7
+canonical_name: Vainutas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vainutas
+  - Vainutas (vieta)
 sameAs: []
-canonical_biography: "Vainuto bažnyčiai buvo prašoma leidimo uždengti stogą."
+canonical_biography: Vainuto bažnyčiai buvo prašoma leidimo uždengti stogą.
 place_authority: true
 historical_names: []
 ---

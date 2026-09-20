@@ -1,6 +1,6 @@
 ---
 tipas: saltinis
-pavadinimas: 'Bychovco kronika'
+pavadinimas: Bychovco kronika
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -14,12 +14,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Bychovco kronika","url":"https://lt.wikipedia.org/wiki/Bychovco_kronika","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Bychovco Kronika","url":"https://www.vle.lt/straipsnis/bychovco-kronika/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T09:18:32+00:00","source_checked_at":"2026-09-20T09:18:32+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Bychovco kronika","url":"https://lt.wikipedia.org/wiki/Bychovco_kronika","publisher":"Vikipedija","language":"lt","article_id":"196928","revision_id":"7488321","published_at":"2025-02-04T21:36:09Z","version_pk":"","content_hash":"974dfb73880def3201db65eb09aa1c10b7c27ffa940e1750655eb29aab216d79","retrieved_at":"2026-09-20T09:17:05+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Bychovco_kronika&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"196928"}},"intro":"Bychovco kronika, arba Lietuvos metraštis – Lietuvos metraščių Plačiojo sąvado plačiausias variantas.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Bychovco kronika","url":"https://lt.wikipedia.org/wiki/Bychovco_kronika","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Bychovco Kronika","url":"https://www.vle.lt/straipsnis/bychovco-kronika/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Bychovco_kronika","https://www.vle.lt/straipsnis/bychovco-kronika/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"12c213f6cd37a94facaec6a9","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Lietuvos metraštis; vėlyvoji Lietuvos metraščio redakcija","context":"Šaltiniuose Bychovco kronika tiesiogiai įvardijama kaip Lietuvos metraštis ir vėlyvoji Lietuvos metraščio redakcija.","support_ids":["t-200950","c-184300","t-205339","c-188022"],"source_refs":[{"kind":"internal_claim","claim_id":"t-200950","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"internal_claim","claim_id":"t-205339","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-184300","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Si publikacija buvo itin svarbi, nes įrodė, kad Lietuva tikrai turėjo savo met­ raščius. Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakciją — Bychovco kroniką, kuria Daukantas pasinaudoti nebespės. Lietuviškus metraščius jam kompensavo vėlyva Mo­ tiejaus Strijkovskio kronika, Teodoro Lepnerio Ma­ žosios Lietuvos aprašymai, Motiejaus Pretorijaus prūsų ir lietuvių praeities tyrinėjimai bei garsioji Al­ berto Vijūko-Kojalavičiaus „Lietuvos istorija\"."},{"kind":"evidence","evidence_id":"c-188022","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"1834 metų pabaigoje, Vincentui Janovskiui tarpininkaujant, T. Narbuto rankas pasiekė geidžiamasis Lietuvos metraštis, arba Bychovco kronika1. Antrasis ir trečiasis „Istorijos“ tomai, jau parengti spau­ dai, gulėjo ant istoriko stalo, bet Kronika, „tasai neįkai­ nojamas dalykas“1 2, vertė viską peržiūrėti iš naujo. Atsi­ rado ir daugiau naujų šaltinių."}],"status":"published","conflict_status":"clear"},{"trait_id":"2bcb1240b8a46e0fe271f9b5","canonical_code":"source.survival","label":"Išlikimas","group":"Šaltinio istorija","value":"1834 m. pabaigoje perduota T. Narbutui","context":"Šaltinyje nurodoma, kad 1834 m. pabaigoje Lietuvos metraštis, arba Bychovco kronika, pasiekė T. Narbuto rankas.","support_ids":["t-205339","c-188022"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205339","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188022","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"1834 metų pabaigoje, Vincentui Janovskiui tarpininkaujant, T. Narbuto rankas pasiekė geidžiamasis Lietuvos metraštis, arba Bychovco kronika1. Antrasis ir trečiasis „Istorijos“ tomai, jau parengti spau­ dai, gulėjo ant istoriko stalo, bet Kronika, „tasai neįkai­ nojamas dalykas“1 2, vertė viską peržiūrėti iš naujo. Atsi­ rado ir daugiau naujų šaltinių."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: cdbf6e4bb7611828
+object_page_generated_at: '2026-09-20T09:18:32+00:00'
+object_page_source_checked_at: '2026-09-20T09:18:32+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Bychovco kronika: (^11) PSRL, 17, 525 p. (Bychovco kronika). Šaltinių citatos.'
+object_page_seo_input_hash: a79036e045833b94283491056b2894b7e34800d0554f336080fb658bb1fa8da4
+object_page_seo_generated_at: '2026-09-20T09:18:32+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Bychovco kronika
 
@@ -29,22 +39,10 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-219928"></a>
-- t-219928
-  teiginys: "T. Narbutas vėliau susidūrė su kitais Vilniaus leidėjais, kai spausdino „Bychovco kroniką“."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201333
-
 <a id="claim-t-100152"></a>
-- t-100152
+- t-001
   teiginys: "Bychovco kronika nurodyta PSRL 17 tome, 525 puslapyje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:38:41Z"
@@ -52,9 +50,9 @@ media_all_json: |-
     - c-94042
 
 <a id="claim-t-200950"></a>
-- t-200950
+- t-002
   teiginys: "Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakciją — Bychovco kroniką, kuria Daukantas pasinaudoti nebespės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,9 +62,9 @@ media_all_json: |-
     - c-184300
 
 <a id="claim-t-205339"></a>
-- t-205339
+- t-003
   teiginys: "1834 m. pabaigoje T. Narbutui buvo perduotas Lietuvos metraštis, arba Bychovco kronika."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -76,9 +74,9 @@ media_all_json: |-
     - c-188022
 
 <a id="claim-t-206242"></a>
-- t-206242
+- t-004
   teiginys: "Teodoras Narbutas nurodė, kad Bychovco kronika ir Lindenblatto šaltinis neužsimena apie antrąją Vytauto emigraciją, o po 1390 m. Vytautui priskiria tik vieną emigraciją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -109,8 +107,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-100152
+  pagrindzia:
+    - t-001
 
 - id: c-184300
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -132,8 +130,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-200950
+  pagrindzia:
+    - t-002
 
 - id: c-188022
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -155,8 +153,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205339
+  pagrindzia:
+    - t-003
 
 - id: c-188857
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -176,24 +174,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206242
-
-- id: c-201333
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 52"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 52."
-  citata_originali: |
-    Vėliau, susidūręs su kitais Vilniaus leidėjais (ypač kai
-    spausdino „Bychovco kroniką“ ir „Mažesniuosius istorijos raš­
-    tus“), įvertino LTI leidėjo privalumus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219928
-
+  pagrindzia:
+    - t-004

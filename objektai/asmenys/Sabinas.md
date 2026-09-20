@@ -34,6 +34,25 @@ canonical_biography: "Dusburgietis teigia, kad sabinas subūrė brolių kariuome
 
 Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė įvairiose vietose, notangai, piktosios dvasios sukurstyti, dar kartą pakluso senam įsiūčiui ir iš neapykantos Jėzui Kristui vėl padarė atskalūnybės nuodėmę, o savo kariuomenės vadu išsirinko vyrą, vardu Sabinas.
 
+## Teiginiai
+
+<a id="claim-t-60431"></a>
+- t-001
+  teiginys: "Notangai savo kariuomenės vadu išsirinko vyrą, vardu Sabinas."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Sabinas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Notangai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sabinas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Notangai tiesiogiai išsirinko Sabiną kariuomenės vadu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Notangai paskyrė Sabinas (0.86)"
+  pagrindžia:
+    - c-61063
+
 ## Citatos
 
 - id: c-61063
@@ -60,21 +79,5 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-224376"></a>
-- t-001
-  teiginys: "Notangai savo kariuomenės vadu išsirinko vyrą, vardu Sabinas."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Sabinas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Notangai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Sabinas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Notangai tiesiogiai išsirinko Sabiną kariuomenės vadu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Notangai paskyrė Sabinas (0.86)"
-
+  pagrindzia:
+    - t-001

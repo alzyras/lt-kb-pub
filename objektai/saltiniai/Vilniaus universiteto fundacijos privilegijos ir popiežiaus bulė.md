@@ -35,6 +35,43 @@ media_all_json: |-
 
 Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­ kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­ rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai išleisti dekretai57. Protasevičiaus pėdomis sekė ir jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­ liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­ kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą dvasiškai jaunuomenei lavintis, vadinamą.
 
+## Teiginiai
+
+<a id="claim-t-88350"></a>
+- t-001
+  teiginys: "Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jurgis Radvila (vyskupas, XVI a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Jurgis Radvila (vyskupas, XVI a.): mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė\" parinktas kaip owner_note_path. Targetas \"Jurgis Radvila (vyskupas, XVI a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įkūrimo data: 1582 m.; įkūrimo data: 1823 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko aiškų faktą apie Jurgio Radvilos veiksmą, o pradinis sakinys nutrūksta ir turi OCR triukšmo."
+  pagrindžia:
+    - c-84330
+
+<a id="claim-t-88351"></a>
+- t-002
+  teiginys: "Balandžio 1 d. dekretais karalius vyskupo Protasevičiaus funduotą jėzuitų kolegiją pakėlė iki universiteto laipsnio."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Valerijonas (raštininkas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Valerijonas (raštininkas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė\" parinktas kaip owner_note_path. Targetas \"Valerijonas (raštininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-84329
+
 ## Citatos
 
 - id: c-84329
@@ -63,7 +100,7 @@ Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-84330
@@ -94,43 +131,5 @@ Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-88350"></a>
-- t-001
-  teiginys: "Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jurgis Radvila (vyskupas, XVI a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Jurgis Radvila (vyskupas, XVI a.): mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė\" parinktas kaip owner_note_path. Targetas \"Jurgis Radvila (vyskupas, XVI a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įkūrimo data: 1582 m.; įkūrimo data: 1823 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko aiškų faktą apie Jurgio Radvilos veiksmą, o pradinis sakinys nutrūksta ir turi OCR triukšmo."
-  pagrindžia:
-    - c-84330
-
-<a id="claim-t-88351"></a>
-- t-002
-  teiginys: "Balandžio 1 d. dekretais karalius vyskupo Protasevičiaus funduotą jėzuitų kolegiją pakėlė iki universiteto laipsnio."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valerijonas (raštininkas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Valerijonas (raštininkas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė\" parinktas kaip owner_note_path. Targetas \"Valerijonas (raštininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-84329
-

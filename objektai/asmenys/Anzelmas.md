@@ -7,7 +7,7 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1254 m.'
+  - 1254 m.
 date_start: '1254'
 date_end: ''
 sukurta: ''
@@ -18,28 +18,41 @@ tags:
   - kunigaikštis
   - valdovas
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-527a87e38044b9ceeff45726"
-canonical_name: "Anzelmas (vyskupas, XIII a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Anzelmas","Anzelmas (vyskupas, XIII a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-527a87e38044b9ceeff45726
+canonical_name: 'Anzelmas (vyskupas, XIII a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Anzelmas
+  - 'Anzelmas (vyskupas, XIII a.)'
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną. Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus."
+canonical_biography: 'Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną. Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:40:02+00:00","source_checked_at":"2026-09-19T22:40:02+00:00","counts":{"relations":1,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"64b233fd7654803caa2b5ba6","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Varmės vyskupas ir Teutonų ordino brolis.","context":"Petras Dusburgietis tai nurodo aprašydamas Brunsbergo pilies ir miesto statybą bei vėlesnį prūsų puolimą; antrosios atskalūnybės metais.","support_ids":["t-220573","c-203548"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220573","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203548","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele kariuomene ją apsupo, visą dieną smarkiai puolė."}],"status":"published","conflict_status":"clear"},{"trait_id":"a7378bfba66bc51fd60aadcc","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Brunsbergo pilies ir miesto Serijos upės žemupio saloje statytojas.","context":"Petras Dusburgietis kronikoje tiesiogiai teigia, kad Anzelmas pastatė Brunsbergo pilį ir miestą; aprašomas laikotarpis prieš antrosios atskalūnybės metų prūsų puolimą.","support_ids":["t-221707","c-203548"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221707","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203548","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele kariuomene ją apsupo, visą dieną smarkiai puolė."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Brunsbergas","claim_id":"t-220573","confidence":0.94}],"timeline":[],"support_disclosure":{"claims":7,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b89b38431fde3f19
+object_page_generated_at: '2026-09-19T22:40:02+00:00'
+object_page_source_checked_at: '2026-09-19T22:40:02+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '4'
+object_page_seo_description: 'Anzelmas (vyskupas, XIII a.): Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko…'
+object_page_seo_input_hash: 351ed2d204ff221a40a4d8141469c985c4f7322a7c8ec765b497dad698b868f5
+object_page_seo_generated_at: '2026-09-19T22:40:02+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Anzelmas (vyskupas, XIII a.)
 
@@ -49,47 +62,27 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 
 ## Teiginiai
 
-<a id="claim-t-218331"></a>
-- t-218331
-  teiginys: "Ąžuolą taip pat nukirto valdant kryžiuočiams, Varmijos vys kupo Anzelmo laikais, kaip mes aukščiau sakėme."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-60084"></a>
+- t-001
+  teiginys: "Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  ryšio_patikimumas: "pastate -> Brunsbergas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Anzelmas (vyskupas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Brunsbergas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai teigia, kad Anzelmas pastatė Brunsbergo pilį ir miestą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Anzelmas (vyskupas, XIII a.) pastatė Brunsbergas (0.94)"
   pagrindžia:
-    - c-200283
+    - c-60717
 
-<a id="claim-t-215758"></a>
-- t-215758
-  teiginys: "Viena me Varmijos vyskupo Anzelmo rašte (Bacho."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  pagrindžia:
-    - c-195931
-
-<a id="claim-t-200969"></a>
-- t-200969
-  teiginys: "Jis gi nuleido antrą raštą Anzelmui, Varmijos vyskupui, keldamas jį siuntiniu savo Parusny ir liepdamas jam, idant visiems meldžionims, susirin kusiems ant totorių, įsakytų nertis su kryžėjais ir eiti netikėlių lietuvių kariauti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184319
-
-<a id="claim-t-217158"></a>
-- t-217158
+<a id="claim-t-188513"></a>
+- t-002
   teiginys: "Pasak Narbuto cituojamo Treterio, Varmijos vyskupas Anzelmas įsakė nukirsti ąžuolą, prie kurio žmonės garbino dievus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -103,44 +96,32 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Anzelmas (vyskupas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-199649
+    - c-171403
 
-<a id="claim-t-219625"></a>
-- t-219625
-  teiginys: "Sunaikinus Kurko šventyklą, tas ąžuolas dar stovėjo, ir pa prasti žmonės, nepaisydami Varmijos vyskupo Anzelmo pa mokslų ir pamokymų, nesiliovė po juo garbinti dievų."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-194910"></a>
+- t-003
+  teiginys: "Viena me Varmijos vyskupo Anzelmo rašte (Bacho."
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
-    - c-199649
+    - c-177306
 
-<a id="claim-t-220573"></a>
-- t-220573
-  teiginys: "Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Brunsbergas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Anzelmas (vyskupas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Brunsbergas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai teigia, kad Anzelmas pastatė Brunsbergo pilį ir miestą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Anzelmas (vyskupas, XIII a.) pastatė Brunsbergas (0.94)"
-
-<a id="claim-t-221707"></a>
-- t-221707
-  teiginys: "Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-200969"></a>
+- t-004
+  teiginys: "Jis gi nuleido antrą raštą Anzelmui, Varmijos vyskupui, keldamas jį siuntiniu savo Parusny ir liepdamas jam, idant visiems meldžionims, susirin kusiems ant totorių, įsakytų nertis su kryžėjais ir eiti netikėlių lietuvių kariauti."
+  atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184319
 
 ## Citatos
 
@@ -164,6 +145,8 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-171403
   autorius: "Teodoras Narbutas"
@@ -188,6 +171,8 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-177306
   autorius: "Teodoras Narbutas"
@@ -204,6 +189,8 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-184319
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -234,73 +221,8 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-200969
-
-- id: c-195931
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 347"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
-  citata_originali: |
-    Viena­
-    me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1. P. 289),
-    neminint liudytojų, taip pat minimas Lemptenburgas, kai
-    rašoma apie Rudolfus in Lemptenburg plebanus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215758
-
-- id: c-199649
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 236"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
-  citata_originali: |
-    Varmijos vyskupų biografas Trete-
-    ris sako: „Toje vietoje, kur yra Heiligenbeilis, augo milžiniš­
-    kas ąžuolas, kuris tiek vasarą, tiek žiemą žaliavo (be abejo,
-    velnio pastangomis).
-    Sunaikinus Kurko šventyklą, tas ąžuolas dar stovėjo, ir pa­
-    prasti žmonės, nepaisydami Varmijos vyskupo Anzelmo pa­
-    mokslų ir pamokymų, nesiliovė po juo garbinti dievų. Tad, kai
-    vyskupas įsakė ąžuolą nukirsti, atsitiko taip, jog kirvis, atšokęs
-    nuo kamieno, mirtinai sužeidė žmogų, todėl krikščionys ne­
-    bedrįso jo liesti, kol pats vyskupas, paėmęs į rankas kirvį, ne­
-    pradėjo vadovauti kirtimui, tačiau ir šiaip be ugnies nepajėgta
-    susidoroti su ąžuolu.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217158
-    - t-219625
-
-- id: c-200283
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
-  citata_originali: |
-    Ąžuolą taip pat nukirto valdant kryžiuočiams, Varmijos vys­
-    kupo Anzelmo laikais, kaip mes aukščiau sakėme. Miesto her­
-    be išliko kirvukas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218331
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Anzelmas (vyskupas, XIII a.) pastatė [[objektai/vietos/Brunsbergas]]

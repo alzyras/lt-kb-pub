@@ -39,6 +39,20 @@ canonical_biography: "1525 m. Kauno miestietė Barbora Juškienė, burmistro Jur
 
 1525 m. Kauno miestietė Barbora Juškienė, burmistro Jurgio Juškaus Smietankos našlė, testamentu užrašė Kauno parapinės bažnyčios Švč.
 
+## Teiginiai
+
+<a id="claim-t-202080"></a>
+- t-001
+  teiginys: "1525 m. Kauno miestietė Barbora Juškienė, burmistro Jurgio Juškaus Smietankos našlė, testamentu užrašė Kauno parapinės bažnyčios Švč."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185427
+
 ## Citatos
 
 - id: c-185427
@@ -54,20 +68,5 @@ canonical_biography: "1525 m. Kauno miestietė Barbora Juškienė, burmistro Jur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202080"></a>
-- t-001
-  teiginys: "1525 m. Kauno miestietė Barbora Juškienė, burmistro Jurgio Juškaus Smietankos našlė, testamentu užrašė Kauno parapinės bažnyčios Švč."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185427
-

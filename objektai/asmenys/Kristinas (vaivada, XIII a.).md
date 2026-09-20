@@ -3,41 +3,41 @@ tipas: asmuo
 pavadinimas: 'Kristinas (vaivada, XIII a.)'
 identifikacija: 'vaivada, XIII a.'
 variantai:
-  - 'Kristinas'
+  - Kristinas
 aliases:
-  - 'Kristinas'
+  - Kristinas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1216 m.'
-  - '1217 m.'
+  - 1216 m.
+  - 1217 m.
 date_start: '1216'
 date_end: '1217'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-84b4a71c41703a4e27fb939b"
-canonical_name: "Kristinas (vaivada, XIII a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Kristinas","Kristinas (vaivada, XIII a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-84b4a71c41703a4e27fb939b
+canonical_name: 'Kristinas (vaivada, XIII a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Kristinas
+  - 'Kristinas (vaivada, XIII a.)'
 sameAs: []
-canonical_biography: "Kristinas buvo Mazovijos vaivada ir 1216 arba 1217 m. pradžioje pateko į prūsų nelaisvę."
+canonical_biography: Kristinas buvo Mazovijos vaivada ir 1216 arba 1217 m. pradžioje pateko į prūsų nelaisvę.
 ---
 # Kristinas (vaivada, XIII a.)
 
@@ -79,6 +79,5 @@ Kristinas buvo Mazovijos vaivada ir 1216 arba 1217 m. pradžioje pateko į prūs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

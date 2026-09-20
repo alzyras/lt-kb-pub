@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'A. Filipeckio pamokslų rinkinys'
+pavadinimas: A. Filipeckio pamokslų rinkinys
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1039 m.'
-  - '1871 m.'
+  - 1039 m.
+  - 1871 m.
 date_start: '1039'
 date_end: '1871'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XI'
-  - 'XIX'
+  - XI
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # A. Filipeckio pamokslų rinkinys
 

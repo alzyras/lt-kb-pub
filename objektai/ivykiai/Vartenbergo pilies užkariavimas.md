@@ -44,6 +44,26 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62522"></a>
+- t-001
+  teiginys: "Sūduviai po ilgų antpuolių sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudydami du Ordino brolius su visa šeimyna."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "puole -> Vartenbergas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sūduviai nurodyti atžygiavę prie Vartenbergo pilies ir vykdę ilgus antpuolius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sūduviai puolė Vartenbergas (0.90)"
+  pagrindžia:
+    - c-63208
+
 ## Citatos
 
 - id: c-63208
@@ -64,22 +84,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-222750"></a>
-- t-001
-  teiginys: "Sūduviai po ilgų antpuolių sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudydami du Ordino brolius su visa šeimyna."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "puole -> Vartenbergas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sūduviai nurodyti atžygiavę prie Vartenbergo pilies ir vykdę ilgus antpuolius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sūduviai puolė Vartenbergas (0.90)"
-
+  pagrindzia:
+    - t-001

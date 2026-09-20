@@ -35,6 +35,32 @@ J. Kiaupienės tyrimai parodė, kad per visą XVI–XVIII a. laikotarpį Žemait
 
 J. Kiaupienės tyrimai parodė, kad per visą XVI–XVIII a. laikotarpį Žemaitijoje išliko feodalinio ūkio organizavimo forma, būdinga senjorijai siaurąja prasme.
 
+## Teiginiai
+
+<a id="claim-t-203652"></a>
+- t-001
+  teiginys: "J. Kiaupienės tyrimai parodė, kad per visą XVI–XVIII a. laikotarpį Žemaitijoje išliko feodalinio ūkio organizavimo forma, būdinga senjorijai siaurąja prasme."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186256
+
+<a id="claim-t-203666"></a>
+- t-002
+  teiginys: "Jūratė Kiaupienė pastebėjo, kad XVI a. pradžioje Vakarų Europoje populiarėjo valstybės teisės, keičiančios privilegijomis papildytą paprotinę teisę, idėja."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186270
+
 ## Citatos
 
 - id: c-186256
@@ -59,7 +85,7 @@ J. Kiaupienės tyrimai parodė, kad per visą XVI–XVIII a. laikotarpį Žemait
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186270
@@ -78,32 +104,5 @@ J. Kiaupienės tyrimai parodė, kad per visą XVI–XVIII a. laikotarpį Žemait
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-203652"></a>
-- t-001
-  teiginys: "J. Kiaupienės tyrimai parodė, kad per visą XVI–XVIII a. laikotarpį Žemaitijoje išliko feodalinio ūkio organizavimo forma, būdinga senjorijai siaurąja prasme."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
-  pagrindžia:
-    - c-186256
-
-<a id="claim-t-203666"></a>
-- t-002
-  teiginys: "Jūratė Kiaupienė pastebėjo, kad XVI a. pradžioje Vakarų Europoje populiarėjo valstybės teisės, keičiančios privilegijomis papildytą paprotinę teisę, idėja."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186270
-

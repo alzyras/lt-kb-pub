@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Konstancija Skirmuntaitė'
+pavadinimas: Konstancija Skirmuntaitė
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-85460e807dd96a9e82132188"
-canonical_name: "Konstancija Skirmuntaitė"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Konstancija Skirmuntaitė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-85460e807dd96a9e82132188
+canonical_name: Konstancija Skirmuntaitė
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Konstancija Skirmuntaitė
 sameAs: []
-canonical_biography: "Linksmūnėlis45, Jonas Šliūpas46, Konstancija Skirmuntaitė47), nors ir žinodami visą kritiką, iš dalies juo rėmėsi, ragino liau dyje ieškoti dar išlikusių dainų ir padavimų apie jo paminėtus dievus."
+canonical_biography: 'Linksmūnėlis45, Jonas Šliūpas46, Konstancija Skirmuntaitė47), nors ir žinodami visą kritiką, iš dalies juo rėmėsi, ragino liau dyje ieškoti dar išlikusių dainų ir padavimų apie jo paminėtus dievus.'
 ---
 # Konstancija Skirmuntaitė
 
@@ -68,6 +68,5 @@ Linksmūnėlis45, Jonas Šliūpas46, Konstancija Skirmuntaitė47), nors ir žino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

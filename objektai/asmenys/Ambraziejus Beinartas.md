@@ -39,6 +39,20 @@ canonical_biography: "Tačiau, matyt, ilgainiui vietų jose ėmė trūkti, nes 1
 
 Tačiau, matyt, ilgainiui vietų jose ėmė trūkti, nes 1605 m. Vilniaus kanauninkas Ambraziejus Beinartas, kilęs iš bajorų giminės, susijusios su Kauno miestu, suteikė fundaciją dar vienai špitolei.
 
+## Teiginiai
+
+<a id="claim-t-202135"></a>
+- t-001
+  teiginys: "Tačiau, matyt, ilgainiui vietų jose ėmė trūkti, nes 1605 m. Vilniaus kanauninkas Ambraziejus Beinartas, kilęs iš bajorų giminės, susijusios su Kauno miestu, suteikė fundaciją dar vienai špitolei."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185482
+
 ## Citatos
 
 - id: c-185482
@@ -54,20 +68,5 @@ Tačiau, matyt, ilgainiui vietų jose ėmė trūkti, nes 1605 m. Vilniaus kanaun
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202135"></a>
-- t-001
-  teiginys: "Tačiau, matyt, ilgainiui vietų jose ėmė trūkti, nes 1605 m. Vilniaus kanauninkas Ambraziejus Beinartas, kilęs iš bajorų giminės, susijusios su Kauno miestu, suteikė fundaciją dar vienai špitolei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185482
-

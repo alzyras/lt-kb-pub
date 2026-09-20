@@ -41,6 +41,17 @@ historical_names: []
 
 Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių brolių Mamoničių namuose įsteigta spaustu­ vė visų pirma spausdino slaviškas knygas68. Mamoničių namai sto­ vėjo, rodos, toje vietoje, kur dabar Sledzinskio namai, Nr. 203, o šalia, kampiniame name, seniau buvo cerkvelė.
 
+## Teiginiai
+
+<a id="claim-t-86086"></a>
+- t-001
+  teiginys: "Mamoničių namai, pasak autoriaus, stovėjo dabartinių Sledzinskio namų Nr. 203 vietoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82064
+
 ## Citatos
 
 - id: c-82064
@@ -61,17 +72,5 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-86086"></a>
-- t-001
-  teiginys: "Mamoničių namai, pasak autoriaus, stovėjo dabartinių Sledzinskio namų Nr. 203 vietoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82064
-

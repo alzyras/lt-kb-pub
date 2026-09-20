@@ -40,6 +40,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206756"></a>
+- t-001
+  teiginys: "Metraštininkai nurodo, kad po didžiojo kunigaikščio mirties Manvydas vadovavo kariuomenei, o septyni Gedimino sūnūs prisiekė atkeršyti kryžiuočiams."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189371
+
+<a id="claim-t-206757"></a>
+- t-002
+  teiginys: "Narbutas Liudolfą Kionichą, įvardijamą didžiuoju magistru, apibūdina kaip prastą karį ir rašo, kad jo vadovaujami kryžiuočiai grasino pulti Lietuvą, bet vėliau sudarė paliaubų sutartį, apie kurią išsamesnių žinių nepateikia."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189372
+
 ## Santrauka
 
 Metraštininkai nurodo, kad po didžiojo kunigaikščio mirties Manvydas vadovavo kariuomenei, o septyni Gedimino sūnūs prisiekė atkeršyti kryžiuočiams. Narbutas Liudolfą Kionichą, įvardijamą didžiuoju magistru, apibūdina kaip prastą karį ir rašo, kad jo vadovaujami kryžiuočiai grasino pulti Lietuvą, bet vėliau sudarė paliaubų sutartį, apie kurią išsamesnių žinių nepateikia.
@@ -67,7 +95,7 @@ Metraštininkai nurodo, kad po didžiojo kunigaikščio mirties Manvydas vadovav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189372
@@ -93,34 +121,5 @@ Metraštininkai nurodo, kad po didžiojo kunigaikščio mirties Manvydas vadovav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206756"></a>
-- t-001
-  teiginys: "Metraštininkai nurodo, kad po didžiojo kunigaikščio mirties Manvydas vadovavo kariuomenei, o septyni Gedimino sūnūs prisiekė atkeršyti kryžiuočiams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189371
-
-<a id="claim-t-206757"></a>
-- t-002
-  teiginys: "Narbutas Liudolfą Kionichą, įvardijamą didžiuoju magistru, apibūdina kaip prastą karį ir rašo, kad jo vadovaujami kryžiuočiai grasino pulti Lietuvą, bet vėliau sudarė paliaubų sutartį, apie kurią išsamesnių žinių nepateikia."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189372
-

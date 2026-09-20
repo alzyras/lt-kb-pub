@@ -45,6 +45,57 @@ canonical_biography: "Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lie
 
 Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdninkuose smagiai leisdavo laiką medžiodami. Vis dėlto pasakojama apie giliai gelmėje glūdinčius požemius ir rūsius, ir pats mačiau čia kartais išariamų Zigmanto III epochos sidabrinių ir varinių pini­ gėlių.
 
+## Teiginiai
+
+<a id="claim-t-87594"></a>
+- t-001
+  teiginys: "Zigmantas III, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Rūdninkai: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas III: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Rūdninkai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas rodo, kad Zigmantas III leisdavo laiką Rūdninkuose; tai pakankama buvimo ar laikino gyvenimo vietos nuoroda."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Zigmantas III gyveno Rūdninkai (0.62)"
+  pagrindžia:
+    - c-83574
+
+<a id="claim-t-188652"></a>
+- t-002
+  teiginys: "Valdant Zigmantui III, jėzuitų pastangomis bažnyčia sugrįžo katalikams po laikotarpio, kai priklausė evangelikams reformatams."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> kunigas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zigmantas III: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "kunigas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas III\" parinktas kaip owner_note_path. Targetas \"kunigas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171541
+
+<a id="claim-t-194247"></a>
+- t-003
+  teiginys: "Vis dėlto pasakojama apie giliai gelmėje glūdinčius požemius ir rūsius, ir pats mačiau čia kartais išariamų Zigmanto III epochos sidabrinių ir varinių pini gėlių."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176843
+
 ## Citatos
 
 - id: c-83574
@@ -67,7 +118,7 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-171541
@@ -88,6 +139,8 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-176843
   autorius: "Michał Baliński"
@@ -110,95 +163,8 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-197820
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
-  citata_originali: |
-    Valdant Žygimantui Augus­
-    tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
-    cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
-    iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
-    Zigmantui III. Ši trumpa ekskursija į istoriją remiasi vietinių
-    istorijos mokovų apklausa ir klebonijos užrašais, kuriais vie­
-    los klebonas leido man pasinaudoti 1805 metais.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-    - t-004
 
 ## Ryšiai
 - Zigmantas III buvo valdovas [[objektai/grupes/Abiejų Tautų Respublika]]
-
-## Teiginiai
-
-<a id="claim-t-87594"></a>
-- t-001
-  teiginys: "Zigmantas III, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Rūdninkai: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigmantas III: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rūdninkai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas rodo, kad Zigmantas III leisdavo laiką Rūdninkuose; tai pakankama buvimo ar laikino gyvenimo vietos nuoroda."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Zigmantas III gyveno Rūdninkai (0.62)"
-  pagrindžia:
-    - c-83574
-
-<a id="claim-t-194247"></a>
-- t-002
-  teiginys: "Vis dėlto pasakojama apie giliai gelmėje glūdinčius požemius ir rūsius, ir pats mačiau čia kartais išariamų Zigmanto III epochos sidabrinių ir varinių pini gėlių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176843
-
-<a id="claim-t-219591"></a>
-- t-003
-  teiginys: "Valdant Zigmantui III, Veliuonos bažnyčia sugrįžo katalikams jėzuitų pastangomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197820
-
-<a id="claim-t-219924"></a>
-- t-004
-  teiginys: "Valdant Zigmantui III, jėzuitų pastangomis bažnyčia sugrįžo katalikams po laikotarpio, kai priklausė evangelikams reformatams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> kunigas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zigmantas III: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "kunigas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas III\" parinktas kaip owner_note_path. Targetas \"kunigas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-197820
-

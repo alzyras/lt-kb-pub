@@ -27,6 +27,40 @@ media_all_json: |-
 
 Lygašonis ir tulisonis Narbutas apibūdina kaip laidotuvių žynius, atlikdavusius apeigas ir pranašaudavusius mirusiojo sielos likimą. Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lygašonys per laidotuves sakydavo kalbas, garbstydami mirusiojo žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai tą ant.
 
+## Teiginiai
+
+<a id="claim-t-189123"></a>
+- t-001
+  teiginys: "Lygašonis ir tulisonis Narbutas apibūdina kaip laidotuvių žynius, atlikdavusius apeigas ir pranašaudavusius mirusiojo sielos likimą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lygašonys ir tulisonys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lygašonys ir tulisonys\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172011
+
+<a id="claim-t-197373"></a>
+- t-002
+  teiginys: "Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lygašonys per laidotuves sakydavo kalbas, garbstydami mirusiojo žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai tą ant."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179154
+
 ## Citatos
 
 - id: c-172011
@@ -52,6 +86,8 @@ Lygašonis ir tulisonis Narbutas apibūdina kaip laidotuvių žynius, atlikdavus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179154
   autorius: "Teodoras Narbutas"
@@ -74,90 +110,5 @@ Lygašonis ir tulisonis Narbutas apibūdina kaip laidotuvių žynius, atlikdavus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198072
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 364"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 364."
-  citata_originali: |
-    Neturime jokio pa­
-    tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka­
-    bindavo karalių kūnus, parištus ant aukso grandinių .
-    Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lyga-
-    šonys per laidotuves sakydavo kalbas, garbstydami mirusiojo
-    žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi­
-    naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai­
-    tą ant puikaus žirgo, ginkluotą, šuoliuojančią dangaus vidu­
-    riu, Paukščių taku, laikančią rankoje tris žvaigždes ir su didele
-    draugų palyda kylančią į amžinosios laimės buveinę .
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-201414
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 295"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 295."
-  citata_originali: |
-    Lygašonys ir tulisonys
-    (Lingussones ir Tilussones)
-    Tai buvo laidotuvių žyniai, kurių pareiga atlikti laidotuvių
-    apeigas ir išpranašauti, kas įvyko mirusiojo sielai po jo mir­
-    ties. Pirmieji praminti nuo senovės prūsų žodžio Linguot, tai
-    reiškia skraidyti ore išskleistais sparnais; antrieji - nuo tokios
-    pat kilmės žodžio Tilussut, reiškiančio murmėti. Tad, šitaip su­
-    prasdami, kronikininkai sako, esą pirmųjų pareiga buvusi at­
-    likti garsines apeigas, kaip antai šaukti, giedoti, brązginti me­
-    talinius daiktus, o antrieji šnibždėdavo maldas ir tyloje kalbė­
-    davosi su vėlėmis. Apie juos dar kalbėsime straipsnyje „Lai­
-    dotuvių papročiai“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-218301"></a>
-- t-001
-  teiginys: "Lygašonis ir tulisonis Narbutas apibūdina kaip laidotuvių žynius, atlikdavusius apeigas ir pranašaudavusius mirusiojo sielos likimą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lygašonys ir tulisonys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lygašonys ir tulisonys\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-201414
-
-<a id="claim-t-219621"></a>
-- t-002
-  teiginys: "Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lygašonys per laidotuves sakydavo kalbas, garbstydami mirusiojo žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai tą ant."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198072
-

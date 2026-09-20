@@ -40,6 +40,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205126"></a>
+- t-001
+  teiginys: "Šie tuoj pat be tvarkos metėsi bėgti, patys stumdydami ir trypdami vienas kitą, brovėsi į miš kus ir pelkėtas vietas, tad vokiečių riteriai buvo palikti patys vieni."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187896
+
+<a id="claim-t-205403"></a>
+- t-002
+  teiginys: "Tai gi su Vestardu patraukė per penkiasdešimt vyrų, gink luotų lankais ir kilpiniais, taip pat prisijungė ir kai kurie kalavijuočių riteriai, vadovaujami Danieliaus, kuriuos žemgaliai kuo maloniausiai priėmė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187664
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tai gi su Vestardu patraukė per penkiasdešimt vyrų, gink luotų lankais ir kilpiniais, taip pat prisijungė ir kai kurie kalavijuočių riteriai, vadovaujami Danieliaus, kuriuos žemgaliai kuo maloniausiai priėmė.'
@@ -82,7 +110,7 @@ Tai gi su Vestardu patraukė per penkiasdešimt vyrų, gink luotų lankais ir ki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-187896
@@ -103,34 +131,5 @@ Tai gi su Vestardu patraukė per penkiasdešimt vyrų, gink luotų lankais ir ki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205126"></a>
-- t-001
-  teiginys: "Šie tuoj pat be tvarkos metėsi bėgti, patys stumdydami ir trypdami vienas kitą, brovėsi į miš kus ir pelkėtas vietas, tad vokiečių riteriai buvo palikti patys vieni."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187896
-
-<a id="claim-t-205403"></a>
-- t-002
-  teiginys: "Tai gi su Vestardu patraukė per penkiasdešimt vyrų, gink luotų lankais ir kilpiniais, taip pat prisijungė ir kai kurie kalavijuočių riteriai, vadovaujami Danieliaus, kuriuos žemgaliai kuo maloniausiai priėmė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187664
-

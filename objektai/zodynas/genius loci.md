@@ -70,11 +70,9 @@ Vorobjovo interpretacijoje Vilniaus „genius loci“ siejamas su lietuvišku mi
     žygiams ne menkėdavo, p, atvirkščiai, pakildavo išorinių nelaimių lai­
     kotarpiais.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

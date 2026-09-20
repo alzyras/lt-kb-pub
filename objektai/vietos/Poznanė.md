@@ -1,21 +1,21 @@
 ---
 tipas: vieta
-pavadinimas: 'Poznanė'
+pavadinimas: Poznanė
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1198 m.'
-  - '1253 m.'
-  - '1519 m.'
-  - '1525 m.'
-  - '1536 m.'
-  - '1538 m.'
-  - '1822 m.'
-  - '1925 m.'
-  - '2026 m.'
+  - 1198 m.
+  - 1253 m.
+  - 1519 m.
+  - 1525 m.
+  - 1536 m.
+  - 1538 m.
+  - 1822 m.
+  - 1925 m.
+  - 2026 m.
 date_start: '1198'
 date_end: '2026'
 sukurta: ''
@@ -24,29 +24,41 @@ tags:
   - vieta
   - pilis
 amziai:
-  - 'XII'
-  - 'XXI'
+  - XII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-11d0376afaec9090f8762bec"
-canonical_name: "Poznanė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Poznanė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-11d0376afaec9090f8762bec
+canonical_name: Poznanė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Poznanė
 sameAs: []
-canonical_biography: "1925 m. Poznanė siejama su IV visuotiniu Lenkijos istorikų suvažiavimu. Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises. Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
+canonical_biography: '1925 m. Poznanė siejama su IV visuotiniu Lenkijos istorikų suvažiavimu. Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises. Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Poznanė","url":"https://lt.wikipedia.org/wiki/Poznan%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Poznanė","url":"https://www.vle.lt/straipsnis/poznane/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T10:47:18+00:00","source_checked_at":"2026-09-19T10:47:18+00:00","counts":{"relations":1,"gallery":0,"sources":5},"featured_claim_ids":["t-114857","t-114853","t-114855","t-114856","t-114860","t-114863","t-114852"],"featured_claims":[{"claim_id":"t-114857","text":"Jonas II 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-105865"]},{"claim_id":"t-114853","text":"Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-105860"]},{"claim_id":"t-114855","text":"Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau tapo Poznanės vyskupu.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-105863"]},{"claim_id":"t-114856","text":"Jonas II 1536 m. buvo perkeltas į Poznanės vyskupiją ir mirė 1538 m., sulaukęs 40 metų.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-105865"]},{"claim_id":"t-114860","text":"Laurynas Goslickis, buvęs karaliaus Stepono sekretorius, galiausiai tapo Poznanės vyskupu.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-105863"]},{"claim_id":"t-114863","text":"Martino Galiaus pasakojimu, Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-105860"]},{"claim_id":"t-114852","text":"Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-105862"]}],"featured_quote":{"text":"Tadas Volianskis - garsus to meto Poznanės kolekcionie­ rius (vėliau didžioji jo rinkinių dalis atsidūrė Peterburge), nu­ mizmatikos specialistas -1845 metais spaudoje paskelbė savo atvirus laiškus T. Narbutui43.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","claim_id":"t-219861","evidence_id":"c-198989","origin":"internal"},"wiki":{"status":"published","source":{"title":"Poznanė","url":"https://lt.wikipedia.org/wiki/Poznan%C4%97","publisher":"Vikipedija","language":"lt","article_id":"28940","revision_id":"7757779","published_at":"2026-02-21T13:56:42Z","version_pk":"","content_hash":"8070a13c69c6e67380ec7bc58834744fe21bf033c2f1970a3125f2f055630a8d","retrieved_at":"2026-09-19T10:44:25+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Poznan%C4%97&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"28940"}},"intro":"Poznãnė (lenk. Poznań, vok. Posen, lot. Posnania) – miestas-apskritis, Didžiosios Lenkijos vaivadijos administracinis centras. 2021 m. duomenimis, Poznanė yra 5-as pagal gyventojų skaičių Lenkijos ir 90-as Europos žemyno miestas – 2020 m. gruodžio 31 d. gyveno 532 048 žmonių. Miestas įsikūręs vakarinėje Lenkijoje, prie Vartos upės, regiono komercinis, kultūrinis ir susisiekimo centras. Yra tarptautinis oro uostas, miestu važinėja tramvajai. Išvystyta mašinų, maisto, gumos, parfumerijos, stiklo, lengvoji pramonė. Veikia medicinos akademija, keletas teatrų (tarp jų ir operos, kuriame dainavo ir žinomas Lietuvos bosas Liudas Mikalauskas), kasmet vyksta tarptautinės mugės. Yra nacionalinis muziejus, archeologijos muziejus, kelios gotikinės bažnyčios (tarp jų ir XIII–XV a. katedra), renesanso stiliaus rotušė (XIII–XVI a.), XVI–XIX a. namai. Miesto centro puošmena – 2003 m. atnaujintas Senasis bravoras. 4 km į pietus nuo Poznanės centro yra Kšesinų karinis aerodromas, jame dislokuota Lenkijos karinių oro pajėgų 31-oji taktinės aviacijos bazė.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Poznanė","url":"https://lt.wikipedia.org/wiki/Poznan%C4%97","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Poznanė","url":"https://www.vle.lt/straipsnis/poznane/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Poznan%C4%97","https://www.vle.lt/straipsnis/poznane/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"221958400832a6e636137bcc","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.","context":"Martino Galiaus pasakojimu, Poznanė taip elgdavosi; laikotarpis šaltinyje nenurodytas.","support_ids":["t-114853","c-105860"],"source_refs":[{"kind":"internal_claim","claim_id":"t-114853","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-105860","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"51. Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 gin­ kluotų skydais, Gnieznas - 1 500 šarvuotųjų ir 5 000 pėstininkų; Vladislavovo pilis - 800 šarvuotų­ jų, 2 000 su skydais, Gdečas - 300 pirmųjų ir 2 000 antrųjų."}],"status":"published","conflict_status":"clear"},{"trait_id":"3cb8733f213f9e141327d77f","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Garsėjo turtais ir gyventojų gausa.","context":"Šaltinio autoriaus teigimu, Boleslovo laikais Poznanė, kaip ir kiti Didžiosios Lenkijos miestai, garsėjo turtais ir gyventojų gausa.","support_ids":["t-114862","c-105868"],"source_refs":[{"kind":"internal_claim","claim_id":"t-114862","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-105868","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbin- Bandtk. Capit. XIV p. 70. Mensam ve- gai laikydavo, kad kiekvieną pa­ ro suam sic ordinate, sic honorifice re- prastą dieną keturiasdešimt pagrin- tinebat, quod omni die privato quadra- dinių stalų, neskaitant mažesnių, ginta mensas principales, exceptis parengti stovėdavo]. Tai, ką sako minoribus, erigi faciebat, etc. [O savo Martinas Callas apie Boleslovą, 6 ## Puslapis 23 ĮVADAS Didžiosios Lenkijos miestai garsėjo turtų ir gyventojų gausa; jau daugybę narsių karių kartu su aplinkinėmis žemėmis pergalin­ giems jo pulkams teikėc)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Poznanė – miestas, 1253 m. pradėjęs tvarkytis pagal vokiečių miestų teises. Martino Galiaus pasakojime ji iškyla kaip reikšmingas karinis centras, galėjęs sutelkti 1300 šarvuotųjų ir 4000 skydais ginkluotų karių. Su Poznanės istorija siejama ir religinė raida: Jonas II, 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. buvo perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų. Miesto kultūrinį ir intelektinį vaidmenį liudija Poznanės kustodo Godzislavo Baško parašyta kronika „Lechitów i Polaków“. Vėlesnėje miesto atmintyje išsiskiria ir kolekcionierius Tadas Volianskis, apibūdintas kaip garsus to meto Poznanės kolekcionierius bei numizmatikos specialistas.","sentences":[{"sentence_id":"s1","text":"Poznanė – miestas, 1253 m. pradėjęs tvarkytis pagal vokiečių miestų teises.","support_ids":["t-114852","c-105862"]},{"sentence_id":"s2","text":"Martino Galiaus pasakojime ji iškyla kaip reikšmingas karinis centras, galėjęs sutelkti 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.","support_ids":["t-114853","c-105860"]},{"sentence_id":"s3","text":"Su Poznanės istorija siejama ir religinė raida: Jonas II, 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. buvo perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų.","support_ids":["t-114856","c-105865"]},{"sentence_id":"s4","text":"Miesto kultūrinį ir intelektinį vaidmenį liudija Poznanės kustodo Godzislavo Baško parašyta kronika „Lechitów i Polaków“.","support_ids":["t-114858","c-105859"]},{"sentence_id":"s5","text":"Vėlesnėje miesto atmintyje išsiskiria ir kolekcionierius Tadas Volianskis, apibūdintas kaip garsus to meto Poznanės kolekcionierius bei numizmatikos specialistas.","support_ids":["t-219861","c-198989"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniu: 1253 m. Poznanė ėmė tvarkytis pagal vokiečių miestų teises."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta Martino Galiaus pasakojimu apie 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."},{"sentence_id":"s3","supported":true,"reason":"Visi nurodyti faktai ir datos tiesiogiai pateikti šaltinyje."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad kroniką parašė Poznanės kustodas Godzislovas Baško."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai apibūdina Tadą Volianskį kaip garsų to meto Poznanės kolekcionierių ir numizmatikos specialistą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-114852","c-105862"]},{"sentence_id":"s2","supported":true,"support_ids":["t-114853","c-105860"]},{"sentence_id":"s3","supported":true,"support_ids":["t-114856","c-105865"]},{"sentence_id":"s4","supported":true,"support_ids":["t-114858","c-105859"]},{"sentence_id":"s5","supported":true,"support_ids":["t-219861","c-198989"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Didžioji Lenkija","claim_id":"t-114861","confidence":0.82}],"timeline":[{"date":"1253 m.","label":"Poznanė 1253 m.","claimId":"t-114852"},{"date":"1519 m.","label":"Jonas II 1519 m.","claimId":"t-114857"},{"date":"1536 m.","label":"Jonas II 1536 m.","claimId":"t-114856"}],"support_disclosure":{"claims":12,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 22126e2ab4e816af
+object_page_generated_at: '2026-09-19T10:47:18+00:00'
+object_page_source_checked_at: '2026-09-19T10:47:18+00:00'
+object_page_content_state: content
+object_page_claim_count: '12'
+object_page_source_count: '3'
+object_page_seo_description: 'Poznanė – miestas, 1253 m. pradėjęs tvarkytis pagal vokiečių miestų teises. Martino Galiaus pasakojime ji iškyla kaip reikšmingas karinis centras, galėjęs…'
+object_page_seo_input_hash: bf73d4aeb5f750835195dc0c80f05482f32c9650149be56e7c680c80de01b6dd
+object_page_seo_generated_at: '2026-09-19T10:47:18+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Poznanė
 
@@ -56,40 +68,10 @@ historical_names: []
 
 ## Teiginiai
 
-<a id="claim-t-219861"></a>
-- t-219861
-  teiginys: "T. Volianskis apibūdinamas kaip to meto Poznanės kolekcionierius."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198989
-
-<a id="claim-t-114851"></a>
-- t-114851
-  teiginys: "1925 m. Poznanė siejama su IV visuotiniu Lenkijos istorikų suvažiavimu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1925 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-105861
-
 <a id="claim-t-114852"></a>
-- t-114852
+- t-001
   teiginys: "Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -106,9 +88,9 @@ historical_names: []
     - c-105862
 
 <a id="claim-t-114853"></a>
-- t-114853
+- t-002
   teiginys: "Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gnieznas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -122,9 +104,9 @@ historical_names: []
     - c-105860
 
 <a id="claim-t-114855"></a>
-- t-114855
+- t-003
   teiginys: "Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau tapo Poznanės vyskupu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Anglai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -138,9 +120,9 @@ historical_names: []
     - c-105863
 
 <a id="claim-t-114856"></a>
-- t-114856
+- t-004
   teiginys: "Jonas II 1536 m. buvo perkeltas į Poznanės vyskupiją ir mirė 1538 m., sulaukęs 40 metų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jonas II: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -157,9 +139,9 @@ historical_names: []
     - c-105865
 
 <a id="claim-t-114857"></a>
-- t-114857
+- t-005
   teiginys: "Jonas II 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jonas II: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -176,9 +158,9 @@ historical_names: []
     - c-105865
 
 <a id="claim-t-114858"></a>
-- t-114858
+- t-006
   teiginys: "Kroniką „Lechitów i Polaków“ parašė Poznanės kustodas Godzislovas Baško."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> kustodas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -194,9 +176,9 @@ historical_names: []
     - c-105859
 
 <a id="claim-t-114860"></a>
-- t-114860
+- t-007
   teiginys: "Laurynas Goslickis, buvęs karaliaus Stepono sekretorius, galiausiai tapo Poznanės vyskupu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Anglai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -210,9 +192,9 @@ historical_names: []
     - c-105863
 
 <a id="claim-t-114861"></a>
-- t-114861
+- t-008
   teiginys: "Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkija: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -227,9 +209,9 @@ historical_names: []
     - c-24404
 
 <a id="claim-t-114862"></a>
-- t-114862
+- t-009
   teiginys: "Boleslovo laikais Krušvica, Poznanė ir kiti Didžiosios Lenkijos miestai garsėjo turtais ir gyventojų gausa."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -243,9 +225,9 @@ historical_names: []
     - c-105868
 
 <a id="claim-t-114863"></a>
-- t-114863
+- t-010
   teiginys: "Martino Galiaus pasakojimu, Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gnieznas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -259,9 +241,9 @@ historical_names: []
     - c-105860
 
 <a id="claim-t-114864"></a>
-- t-114864
+- t-011
   teiginys: "„Kronika Lechitów i Polaków“ buvo parašyta Poznanės kustodo Godzislavo Baško."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gniezno: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -278,9 +260,9 @@ historical_names: []
     - c-105859
 
 <a id="claim-t-194988"></a>
-- t-194988
+- t-012
   teiginys: "RDzSG = Roczniki Dziejów Społecznych i Gospodarczych, Poznanė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -308,8 +290,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-114861
+  pagrindzia:
+    - t-008
 
 - id: c-105859
   autorius: "Michał Baliński"
@@ -337,9 +319,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-114858
-    - t-114864
+  pagrindzia:
+    - t-006
+    - t-011
 
 - id: c-105860
   autorius: "Michał Baliński"
@@ -361,9 +343,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-114853
-    - t-114863
+  pagrindzia:
+    - t-002
+    - t-010
 
 - id: c-105861
   autorius: "Zenonas Ivinskis"
@@ -382,9 +364,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-114851
-
 - id: c-105862
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -407,8 +386,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-114852
+  pagrindzia:
+    - t-001
 
 - id: c-105863
   autorius: "Michał Baliński"
@@ -438,9 +417,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-114855
-    - t-114860
+  pagrindzia:
+    - t-003
+    - t-007
 
 - id: c-105865
   autorius: "Michał Baliński"
@@ -462,9 +441,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-114856
-    - t-114857
+  pagrindzia:
+    - t-004
+    - t-005
 
 - id: c-105868
   autorius: "Michał Baliński"
@@ -493,8 +472,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-114862
+  pagrindzia:
+    - t-009
 
 - id: c-177372
   autorius: "Zenonas Ivinskis"
@@ -512,25 +491,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194988
-
-- id: c-198989
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 65"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 65."
-  citata_originali: |
-    Tadas Volianskis - garsus to meto Poznanės kolekcionie­
-    rius (vėliau didžioji jo rinkinių dalis atsidūrė Peterburge), nu­
-    mizmatikos specialistas -1845 metais spaudoje paskelbė savo
-    atvirus laiškus T. Narbutui43.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219861
-
+  pagrindzia:
+    - t-012

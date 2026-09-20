@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Moneta (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Moneta (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Moneta'
+  - Moneta
 aliases:
-  - 'Moneta'
+  - Moneta
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Moneta (daiktas)
 
@@ -93,7 +90,7 @@ Padavimas skelbia, jog kažkada čia gyve no Nadruvą valdęs kunigaikštis Kami
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-195280
@@ -114,6 +111,5 @@ Padavimas skelbia, jog kažkada čia gyve no Nadruvą valdęs kunigaikštis Kami
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

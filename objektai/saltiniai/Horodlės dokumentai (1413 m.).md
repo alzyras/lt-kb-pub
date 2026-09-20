@@ -38,6 +38,23 @@ media_all_json: |-
 
 1413 m. Horodlės dokumentuose buvo numatyti bendri lenkų ir lietuvių bajorų suvažiavimai Liubline arba Parčeve.
 
+## Teiginiai
+
+<a id="claim-t-204418"></a>
+- t-001
+  teiginys: "1413 m. Horodlės dokumentuose buvo numatyti bendri lenkų ir lietuvių bajorų suvažiavimai Liubline arba Parčeve."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1413 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau yra gramatiškas, aiškus ir tiesiogiai apibūdina 1413 m. Horodlės dokumentų turinį. Papildoma Sochackos interpretacija sąmoningai neįtraukta."
+  pagrindžia:
+    - c-187022
+
 ## Citatos
 
 - id: c-187022
@@ -55,23 +72,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204418"></a>
-- t-001
-  teiginys: "1413 m. Horodlės dokumentuose buvo numatyti bendri lenkų ir lietuvių bajorų suvažiavimai Liubline arba Parčeve."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1413 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra gramatiškas, aiškus ir tiesiogiai apibūdina 1413 m. Horodlės dokumentų turinį. Papildoma Sochackos interpretacija sąmoningai neįtraukta."
-  pagrindžia:
-    - c-187022
-

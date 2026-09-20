@@ -44,6 +44,32 @@ historical_names: []
 
 1463 m. Kazimieras Jogailaitis, tvirtindamas ir praplėsdamas pirmtakų privilegijas Kauno miestui, užrašė, kad Laukus, taip pat mūsų ir pievas, Skavais vadinamas, į ilgį nuo miesto iki upelio ar upokšnio Girstupio, o į plotį nuo Nemuno upės net iki kalvos. Kryžiaus bažnyčios ir raižinyje nematomo Girstupio, spietėsi keli vieno aukšto namai.
 
+## Teiginiai
+
+<a id="claim-t-201710"></a>
+- t-001
+  teiginys: "1463 m. Kazimieras Jogailaitis, tvirtindamas ir praplėsdamas pirmtakų privilegijas Kauno miestui, užrašė, kad Laukus, taip pat mūsų ir pievas, Skavais vadinamas, į ilgį nuo miesto iki upelio ar upokšnio Girstupio, o į plotį nuo Nemuno upės net iki kalvos."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185057
+
+<a id="claim-t-201711"></a>
+- t-002
+  teiginys: "Kryžiaus bažnyčios ir raižinyje nematomo Girstupio, spietėsi keli vieno aukšto namai."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185058
+
 ## Citatos
 
 - id: c-185057
@@ -64,7 +90,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185058
@@ -81,32 +107,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201710"></a>
-- t-001
-  teiginys: "1463 m. Kazimieras Jogailaitis, tvirtindamas ir praplėsdamas pirmtakų privilegijas Kauno miestui, užrašė, kad Laukus, taip pat mūsų ir pievas, Skavais vadinamas, į ilgį nuo miesto iki upelio ar upokšnio Girstupio, o į plotį nuo Nemuno upės net iki kalvos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185057
-
-<a id="claim-t-201711"></a>
-- t-002
-  teiginys: "Kryžiaus bažnyčios ir raižinyje nematomo Girstupio, spietėsi keli vieno aukšto namai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185058
-

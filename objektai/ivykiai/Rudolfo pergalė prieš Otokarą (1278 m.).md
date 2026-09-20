@@ -1,10 +1,10 @@
 ---
 tipas: ivykis
-pavadinimas: 'Rudolfo pergalė prieš Otokarą (1278 m.)'
+pavadinimas: Rudolfo pergalė prieš Otokarą (1278 m.)
 variantai:
-  - 'Rudolfo pergalė prieš Otokarą'
+  - Rudolfo pergalė prieš Otokarą
 aliases:
-  - 'Rudolfo pergalė prieš Otokarą'
+  - Rudolfo pergalė prieš Otokarą
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -15,12 +15,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Rudolfo pergalė prieš Otokarą (1278 m.)
 
@@ -75,6 +72,5 @@ Rudolfas kare nukovė Otokarą, Čekijos karalių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

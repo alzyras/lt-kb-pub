@@ -34,6 +34,33 @@ Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi mis, uoliai rūpinosi
 
 Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi mis, uoliai rūpinosi jos nauda ir žiūrėjo tvarkos. Veikiai riterių aptiktas, buvo ati duotas pasaulietiniam teismui.
 
+## Teiginiai
+
+<a id="claim-t-205475"></a>
+- t-001
+  teiginys: "Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi mis, uoliai rūpinosi jos nauda ir žiūrėjo tvarkos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187862
+
+<a id="claim-t-205489"></a>
+- t-002
+  teiginys: "Veikiai riterių aptiktas, buvo ati duotas pasaulietiniam teismui."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187840
+
 ## Citatos
 
 - id: c-187840
@@ -50,7 +77,7 @@ Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi mis, uoliai rūpinosi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-187862
@@ -73,33 +100,5 @@ Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi mis, uoliai rūpinosi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205475"></a>
-- t-001
-  teiginys: "Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi mis, uoliai rūpinosi jos nauda ir žiūrėjo tvarkos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187862
-
-<a id="claim-t-205489"></a>
-- t-002
-  teiginys: "Veikiai riterių aptiktas, buvo ati duotas pasaulietiniam teismui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187840
-

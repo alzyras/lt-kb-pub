@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Valtys'
+pavadinimas: Valtys
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '880 m.'
+  - 880 m.
 date_start: '880'
 date_end: ''
 sukurta: ''
@@ -14,19 +14,29 @@ tags:
   - daiktas
   - transportas
 amziai:
-  - 'IX'
+  - IX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T12:22:05+00:00","source_checked_at":"2026-09-20T12:22:05+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a683f0ace6a39dd3
+object_page_generated_at: '2026-09-20T12:22:05+00:00'
+object_page_source_checked_at: '2026-09-20T12:22:05+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Valtys: Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei…'
+object_page_seo_input_hash: 0704fcb5b911ff1c6aa03e1ec1e1b3ec3a84a4b2d813eb2da375eef6132c5f4c
+object_page_seo_generated_at: '2026-09-20T12:22:05+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Valtys
 
@@ -56,22 +66,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-215589"></a>
-- t-215589
-  teiginys: "Šie keliai buvo prieinami ir vasarą, ir žiemą: pir muoju atveju pakako turėti šiokią tokią valtį, o antruo ju — žiemos kinkinį, kad pasroviui arba tų vandens kelių kryptimi galima būtų keliauti, nes taip lengviausia pa tenkinti gyvenimo poreikius."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196987
-
-<a id="claim-t-213815"></a>
-- t-213815
+<a id="claim-t-192074"></a>
+- t-001
   teiginys: "Narbutas pasakoja, kad po sutriuškinimo į įlanką įplaukę nugalėtojai turėjo brautis pro sudužusias valtis."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Rusai: 0.83"
@@ -82,11 +80,13 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Rusai: mention_match, group"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valtys\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174945
 
-<a id="claim-t-214930"></a>
-- t-214930
+<a id="claim-t-192075"></a>
+- t-002
   teiginys: "Narbutas rašo, kad rusai prie įėjimo į Rusnės įlanką stojo į mūšį susirinkę labai daug valčių."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Rusai: 0.85"
@@ -97,11 +97,28 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=20"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valtys\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174946
 
-<a id="claim-t-215939"></a>
-- t-215939
+<a id="claim-t-192076"></a>
+- t-003
+  teiginys: "Apie 880 m. iš Danijos išvaryti tremtiniai sutelkė valtis, persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją."
+  susije_objektai: "mentioned_place: Karelija; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Viena"
+  temporaliniai_duomenys: "įvykio data: 880 m; įvykio data: apie 880 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-174944
+
+<a id="claim-t-192506"></a>
+- t-004
   teiginys: "Narbuto pasakojime po rusų jūros pajėgų sutriuškinimo nugalėtojai įplaukę į įlanką turėjo brautis pro sudužusias valtis."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,21 +132,8 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valtys\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-192076"></a>
-- t-192076
-  teiginys: "Apie 880 m. iš Danijos išvaryti tremtiniai sutelkė valtis, persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją."
-  susije_objektai: "mentioned_place: Karelija; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Viena"
-  temporaliniai_duomenys: "įvykio data: 880 m; įvykio data: apie 880 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-174944
+    - c-175296
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -196,8 +200,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192076
+  pagrindzia:
+    - t-003
 
 - id: c-174945
   autorius: "Teodoras Narbutas"
@@ -223,6 +227,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-174946
   autorius: "Teodoras Narbutas"
@@ -247,6 +253,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-175296
   autorius: "Teodoras Narbutas"
@@ -268,24 +276,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196987
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
-  citata_originali: |
-    Šie keliai buvo prieinami ir vasarą, ir žiemą: pir­
-    muoju atveju pakako turėti šiokią tokią valtį, o antruo­
-    ju — žiemos kinkinį, kad pasroviui arba tų vandens kelių
-    kryptimi galima būtų keliauti, nes taip lengviausia pa­
-    tenkinti gyvenimo poreikius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215589
-
+  pagrindzia:
+    - t-004

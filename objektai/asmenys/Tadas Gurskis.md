@@ -43,6 +43,21 @@ canonical_biography: "1754 m. Tadas Gurskis buvo Smolensko pavieto iždininkaiti
 
 1754 m. Smolensko pavieto iždininkaitis Tadas Gurskis su ginkluotais pagalbininkais užpuolė misionieriams priklausiusį mūrinį namą, kuriame gyveno Volanskių šeima.
 
+## Teiginiai
+
+<a id="claim-t-203945"></a>
+- t-001
+  teiginys: "1754 m. Smolensko pavieto iždininkaitis Tadas Gurskis su ginkluotais pagalbininkais užpuolė misionieriams priklausiusį mūrinį namą, kuriame gyveno Volanskių šeima."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186549
+
 ## Citatos
 
 - id: c-186549
@@ -61,21 +76,5 @@ canonical_biography: "1754 m. Tadas Gurskis buvo Smolensko pavieto iždininkaiti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203945"></a>
-- t-001
-  teiginys: "1754 m. Smolensko pavieto iždininkaitis Tadas Gurskis su ginkluotais pagalbininkais užpuolė misionieriams priklausiusį mūrinį namą, kuriame gyveno Volanskių šeima."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186549
-

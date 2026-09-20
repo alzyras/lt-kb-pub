@@ -41,6 +41,21 @@ LDK tarėjo sąvoka nevirto asmens titulu, todėl didikai dokumentų intituliaci
 
 LDK tarėjo sąvoka nevirto asmens titulu, todėl didikai dokumentų intituliacijose savęs tarėjais nevadino, nors šalia vardo pamažu ėmė rašyti pareigybes.
 
+## Teiginiai
+
+<a id="claim-t-204367"></a>
+- t-001
+  teiginys: "LDK tarėjo sąvoka nevirto asmens titulu, todėl didikai dokumentų intituliacijose savęs tarėjais nevadino, nors šalia vardo pamažu ėmė rašyti pareigybes."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186971
+
 ## Citatos
 
 - id: c-186971
@@ -61,21 +76,5 @@ LDK tarėjo sąvoka nevirto asmens titulu, todėl didikai dokumentų intituliaci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204367"></a>
-- t-001
-  teiginys: "LDK tarėjo sąvoka nevirto asmens titulu, todėl didikai dokumentų intituliacijose savęs tarėjais nevadino, nors šalia vardo pamažu ėmė rašyti pareigybes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186971
-

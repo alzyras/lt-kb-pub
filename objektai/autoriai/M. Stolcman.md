@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'M. Stolcman'
+pavadinimas: M. Stolcman
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ce352e6080c8cac618410841"
-canonical_name: "M. Stolcman"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["M. Stolcman"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ce352e6080c8cac618410841
+canonical_name: M. Stolcman
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - M. Stolcman
 sameAs: []
-canonical_biography: "M. Stolcman teigė, kad A. Marcinovskis nukrypo nuo XIX amžiuje dominavusio profesionalaus leidėjo tipo."
+canonical_biography: 'M. Stolcman teigė, kad A. Marcinovskis nukrypo nuo XIX amžiuje dominavusio profesionalaus leidėjo tipo.'
 ---
 # M. Stolcman
 
@@ -71,6 +71,5 @@ M. Stolcman teigė, kad A. Marcinovskis nukrypo nuo XIX amžiuje dominavusio pro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

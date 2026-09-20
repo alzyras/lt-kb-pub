@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Griunvaldo miškas'
+pavadinimas: Griunvaldo miškas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4526a1ef4ba8dff19892b8bc"
-canonical_name: "Griunvaldo miškas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Griunvaldo miškas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4526a1ef4ba8dff19892b8bc
+canonical_name: Griunvaldo miškas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Griunvaldo miškas
 sameAs: []
-canonical_biography: "Žalgirio mūšis įvyko dviem parom vėliau, bet ne ties pačia Dubrovna — Gtlgenburgu, o už 7 km | šiaurės rytus nuo Dubrov nos, prie Griunvaldo miško, tarp Liudvigsdorto ir Tanenbergo kaimų."
+canonical_biography: 'Žalgirio mūšis įvyko dviem parom vėliau, bet ne ties pačia Dubrovna — Gtlgenburgu, o už 7 km | šiaurės rytus nuo Dubrov nos, prie Griunvaldo miško, tarp Liudvigsdorto ir Tanenbergo kaimų.'
 ---
 # Griunvaldo miškas
 
@@ -66,6 +65,5 @@ canonical_biography: "Žalgirio mūšis įvyko dviem parom vėliau, bet ne ties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

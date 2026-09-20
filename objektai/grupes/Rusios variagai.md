@@ -28,6 +28,60 @@ media_all_json: |-
 
 Šiaip ar taip, pianašu į tiesą, kad šis Bretanės karalius buvo kilęs iš Rusios va riagų ir turėjo būti palikuonis to paties galiūno, apie kurį pasakoja lietuvių legendos. Betgi patį garsiausią vardą ir didžiausią reikšmę tu rėjo skandinavai, o IX amžiuje tarp jų suklestėjo Rusios variagai, tai yra skandinavų nausėdininkai Rusioje, mū sų supratimu, Lietuvos žemių užkariautojai, įsikūrę Ru sioje, Nemuno žemupyje. Pagaliau sla vai ir jų sąjungininkai — čiūdai, krivičiai ir vešiai iš siuntė pasiuntinius pas Rusios variagus, prašydami jų vadą užimti valdžią jų valstybėje, pairusioje dėl vidaus netvarkos.
 
+## Teiginiai
+
+<a id="claim-t-205075"></a>
+- t-001
+  teiginys: "Pagaliau sla vai ir jų sąjungininkai — čiūdai, krivičiai ir vešiai iš siuntė pasiuntinius pas Rusios variagus, prašydami jų vadą užimti valdžią jų valstybėje, pairusioje dėl vidaus netvarkos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187875
+
+<a id="claim-t-205179"></a>
+- t-002
+  teiginys: "Šiaip ar taip, pianašu į tiesą, kad šis Bretanės karalius buvo kilęs iš Rusios va riagų ir turėjo būti palikuonis to paties galiūno, apie kurį pasakoja lietuvių legendos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187747
+
+<a id="claim-t-205315"></a>
+- t-003
+  teiginys: "Betgi patį garsiausią vardą ir didžiausią reikšmę tu rėjo skandinavai, o IX amžiuje tarp jų suklestėjo Rusios variagai, tai yra skandinavų nausėdininkai Rusioje, mū sų supratimu, Lietuvos žemių užkariautojai, įsikūrę Ru sioje, Nemuno žemupyje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187757
+
+<a id="claim-t-205424"></a>
+- t-004
+  teiginys: "Mat senose Rusios kronikose, Riuriko viešpatavimo lai kams pasibaigus, Lietuva, Žemgala, Kuršas ir Neroma daugelį metų nebeminima."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187955
+
 ## Citatos
 
 - id: c-187747
@@ -52,7 +106,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-187757
@@ -79,7 +133,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-187875
@@ -105,7 +159,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-187955
@@ -126,60 +180,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-## Teiginiai
-
-<a id="claim-t-205075"></a>
-- t-001
-  teiginys: "Pagaliau sla vai ir jų sąjungininkai — čiūdai, krivičiai ir vešiai iš siuntė pasiuntinius pas Rusios variagus, prašydami jų vadą užimti valdžią jų valstybėje, pairusioje dėl vidaus netvarkos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187875
-
-<a id="claim-t-205179"></a>
-- t-002
-  teiginys: "Šiaip ar taip, pianašu į tiesą, kad šis Bretanės karalius buvo kilęs iš Rusios va riagų ir turėjo būti palikuonis to paties galiūno, apie kurį pasakoja lietuvių legendos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187747
-
-<a id="claim-t-205315"></a>
-- t-003
-  teiginys: "Betgi patį garsiausią vardą ir didžiausią reikšmę tu rėjo skandinavai, o IX amžiuje tarp jų suklestėjo Rusios variagai, tai yra skandinavų nausėdininkai Rusioje, mū sų supratimu, Lietuvos žemių užkariautojai, įsikūrę Ru sioje, Nemuno žemupyje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187757
-
-<a id="claim-t-205424"></a>
-- t-004
-  teiginys: "Mat senose Rusios kronikose, Riuriko viešpatavimo lai kams pasibaigus, Lietuva, Žemgala, Kuršas ir Neroma daugelį metų nebeminima."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187955
-

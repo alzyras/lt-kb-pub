@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Osetinai (grupė)'
-identifikacija: 'grupė'
+pavadinimas: Osetinai (grupė)
+identifikacija: grupė
 variantai:
-  - 'Osetinai'
+  - Osetinai
 aliases:
-  - 'Osetinai'
+  - Osetinai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Osetinai (grupė)
 
@@ -47,6 +44,18 @@ media_all_json: |-
   pagrindžia:
     - c-200203
 
+<a id="claim-t-212968"></a>
+- t-212968
+  teiginys: "Žinomi šios tautos likučiai, Kaukazo kalnų gyventojai osetinai, ištirti mokslininko, senovės istoriko pono Klaproto, kuris veikale „Asia Polyglotta“ pateikia osetinų kalbos žo dyną, kuriame nerandame nieko, ką galima būtų vadinti panašumu į lietuvių kalbą."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194706
+
 ## Citatos
 
 - id: c-194706
@@ -63,11 +72,13 @@ media_all_json: |-
     panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
     tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
   statusas: verified
-  atnaujinta: "2026-09-12 23:39"
+  atnaujinta: "2026-09-13 18:01"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212968
 
 - id: c-200203
   autorius: "Teodoras Narbutas"

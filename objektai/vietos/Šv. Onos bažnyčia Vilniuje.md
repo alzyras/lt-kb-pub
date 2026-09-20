@@ -1,20 +1,20 @@
 ---
 tipas: vieta
-pavadinimas: 'Šv. Onos bažnyčia Vilniuje'
+pavadinimas: Šv. Onos bažnyčia Vilniuje
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1581 m.'
+  - 1581 m.
 date_start: '1581'
 date_end: ''
 aliases:
-  - 'Šv. Onos bažnyčia Vilniuje'
-  - 'Šv. Onos bažnyčia Vilniuje'
+  - Šv. Onos bažnyčia Vilniuje
+  - Šv. Onos bažnyčia Vilniuje
 variantai:
-  - 'Šv. Onos bažnyčia Vilniuje'
-  - 'Šv. Onos bažnyčia Vilniuje'
+  - Šv. Onos bažnyčia Vilniuje
+  - Šv. Onos bažnyčia Vilniuje
 amziai:
-  - 'XVI'
+  - XVI
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,27 +27,117 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7b832a69a3a4ec0d7de50942"
-canonical_name: "Šv. Onos bažnyčia Vilniuje"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Šv. Onos bažnyčia Vilniuje"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7b832a69a3a4ec0d7de50942
+canonical_name: Šv. Onos bažnyčia Vilniuje
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šv. Onos bažnyčia Vilniuje
 sameAs: []
-canonical_biography: "Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje. O kadangi dabartinė to paties vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 metais, tad gal būtų galima manyti, jog Žemutinės pilies te­ ritorija tęsėsi iki bernardinų sienų, arba kad. Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo."
+canonical_biography: 'Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje. O kadangi dabartinė to paties vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 metais, tad gal būtų galima manyti, jog Žemutinės pilies te­ ritorija tęsėsi iki bernardinų sienų, arba kad. Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T08:50:20+00:00","source_checked_at":"2026-09-20T08:50:20+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3e40ea83f65da1095050785d","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Skirta Žygimanto Augusto žmonoms Elžbietai ir Barborai bei jam pačiam palaidoti, jei jis mirtų Lietuvoje.","context":"Žygimanto Augusto pradėtos statybos paskirtis, kaip aprašė Michał Balińskis 2007 m. leidinyje.","support_ids":["t-195205","c-177570"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195205","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177570","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Taip pat savo lėšomis pilies teritori­ joje karalius pradėjo statyti Šv. Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje. Ta­ čiau, karaliui esant gyvam, pastatų užbaigti nepavyko, ir visų su šia bažnyčia susijusių savo sumanymų įgyvendini­ mą Žygimantas Augustas testamentu rūpestingai pavedė se­ serims36."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"523b513d0e8c007bddbdd5c3","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Bažnyčia buvo skirta Dievo garbei ir tarnystei.","context":"Šaltinyje cituojamas fundacinis įpareigojimas, susijęs su Šv. Onos bažnyčia; aprašyta Michał Balińskio 2007 m. leidinyje.","support_ids":["t-195206","c-177569"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195206","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177569","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"O už tai jų dideny­ bes įpareigojame, kad mylimo Dievo garbei ir šlovei fun- duotų ir aprūpintų Šv. Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų. Taip pat, kad jiems prie tos pačios Šv. Onos bažnyčios įsakytų pastatyti trylikai asmenų pagal jų kunigišką luomą [pritinkantį būs­ tą]."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"dbf869e9cd6f783c414df7f7","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Prie bažnyčios buvo numatyta klebonija, namai mansionieriams ir būstas trylikai asmenų.","context":"Numatyta fundacijos ir statybos infrastruktūra, aprašyta Michał Balińskio 2007 m. leidinyje.","support_ids":["t-195205","c-177570","t-195206","c-177569"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195205","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-195206","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177570","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Taip pat savo lėšomis pilies teritori­ joje karalius pradėjo statyti Šv. Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje. Ta­ čiau, karaliui esant gyvam, pastatų užbaigti nepavyko, ir visų su šia bažnyčia susijusių savo sumanymų įgyvendini­ mą Žygimantas Augustas testamentu rūpestingai pavedė se­ serims36."},{"kind":"evidence","evidence_id":"c-177569","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"O už tai jų dideny­ bes įpareigojame, kad mylimo Dievo garbei ir šlovei fun- duotų ir aprūpintų Šv. Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų. Taip pat, kad jiems prie tos pačios Šv. Onos bažnyčios įsakytų pastatyti trylikai asmenų pagal jų kunigišką luomą [pritinkantį būs­ tą]."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d1f80a98beb370ee997d4be3","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Bažnyčiai buvo paskirti bažnytinis auksas, sidabras, indai, apdarai ir kitos puošmenos.","context":"Rūmų iždo daiktų paskyrimas Šv. Onos bažnyčiai; aprašyta Michał Balińskio 2007 m. leidinyje.","support_ids":["t-195207","c-177572"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195207","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177572","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zales- kį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pa- cifikalus, liktorius, tribularijus, ampules, ampulėles, varpelius, taip ir arnotus ir kitus bažnytinius apdarus, antepedijus, ši- žinkas, korporalus, absoliučiai visas puošmenas, drabužius ir indus, priklausančius Dievo tarnystei bažnyčioje, kad jie būtų tai minėtai Šv. Onos bažnyčiai Vilniuje išduoti, išskyrus auk­ sinį kryžių, papuoštą safyru, su jame esančiu Šventojo Kry­ žiaus medžiu, pakabintu ant grandinės, ir prašome bei pa­ skiriame, kad šis kryžius su Šv.…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9d360cf996f95d5125ec8f5b","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Dabartinė Šv. Onos bažnyčia stovi prie bernardinų bažnyčios.","context":"Michał Balińskio 2007 m. leidinyje pateiktas dabartinės bažnyčios vietos aprašymas.","support_ids":["t-195210","c-177573"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195210","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177573","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­ čios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus pilyje pėdsakų vis dėlto nėra. O kadangi dabartinė to paties vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 metais, tad gal būtų galima manyti, jog Žemutinės pilies te­ ritorija tęsėsi iki bernardinų sienų, arba kad pirmutiniai Šv. Onos bažnyčios pamatai, šio karaliaus pilyje pastatyti, buvę 35 36 G w a g n i n i Kronika Sarmacyi Em- Žr. VIII priedą. ropejskiej, vert."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"15e2fdc0141af8209a467a74","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Dabartinė bažnyčia buvo užbaigta ir pašventinta 1581 metais.","context":"Michał Balińskio 2007 m. leidinyje nurodyta bažnyčios užbaigimo ir pašventinimo data, po Žygimanto Augusto mirties.","support_ids":["t-195210","c-177573"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195210","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177573","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­ čios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus pilyje pėdsakų vis dėlto nėra. O kadangi dabartinė to paties vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 metais, tad gal būtų galima manyti, jog Žemutinės pilies te­ ritorija tęsėsi iki bernardinų sienų, arba kad pirmutiniai Šv. Onos bažnyčios pamatai, šio karaliaus pilyje pastatyti, buvę 35 36 G w a g n i n i Kronika Sarmacyi Em- Žr. VIII priedą. ropejskiej, vert."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 968c39d77cc51072
+object_page_generated_at: '2026-09-20T08:50:20+00:00'
+object_page_source_checked_at: '2026-09-20T08:50:20+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '1'
+object_page_seo_description: 'Šv. Onos bažnyčia Vilniuje: Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo…'
+object_page_seo_input_hash: 4993ce0addf0e4616c0925c3df2a66efe6ff2463a9622ecca66b1d44428764a3
+object_page_seo_generated_at: '2026-09-20T08:50:20+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Šv. Onos bažnyčia Vilniuje
 
 ## Santrauka
 
 Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje. O kadangi dabartinė to paties vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 metais, tad gal būtų galima manyti, jog Žemutinės pilies te­ ritorija tęsėsi iki bernardinų sienų, arba kad. Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo.
+
+## Teiginiai
+
+<a id="claim-t-195205"></a>
+- t-001
+  teiginys: "Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata palaiko aiškų faktą apie statybos pradžią ir paskirtį."
+  susije_objektai: "llm_object: Šv. Onos bažnyčia Vilniuje; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]"
+  semantiniai_rysiai: "[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] pastatė Šv. Onos bažnyčia Vilniuje"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177570
+
+<a id="claim-t-195206"></a>
+- t-002
+  teiginys: "Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata pagrindžia fundacijos ir aprūpinimo turinį."
+  susije_objektai: "mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177569
+
+<a id="claim-t-195207"></a>
+- t-003
+  teiginys: "Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje nurodytą paskyrimą."
+  susije_objektai: "mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Krokuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177572
+
+<a id="claim-t-195208"></a>
+- t-004
+  teiginys: "Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje."
+  atnaujinta: "2026-07-19 17:26"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata kalba apie autoriaus prielaidas dėl Šv. Onos bažnyčios atsiradimo ir nukreipia į konkretų puslapį."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177571
+
+<a id="claim-t-195209"></a>
+- t-005
+  teiginys: "Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata leidžia suformuluoti pilną faktą apie prašymą ir siektą rezultatą."
+  susije_objektai: "mentioned_place: Šv. Onos bažnyčia; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/mansionieriai|mansionieriai]]; mentioned_person: [[objektai/asmenys/Ona Jogailaitė|Ona Jogailaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177574
+
+<a id="claim-t-195210"></a>
+- t-006
+  teiginys: "Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Šv. Onos bažnyčia; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1581 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177573
 
 ## Citatos
 
@@ -73,7 +163,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177570
@@ -97,7 +187,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177571
@@ -120,7 +210,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-177572
@@ -149,7 +239,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-177573
@@ -175,7 +265,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-177574
@@ -202,84 +292,5 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-## Teiginiai
-
-<a id="claim-t-195205"></a>
-- t-001
-  teiginys: "Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata palaiko aiškų faktą apie statybos pradžią ir paskirtį."
-  susije_objektai: "llm_object: Šv. Onos bažnyčia Vilniuje; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] pastatė Šv. Onos bažnyčia Vilniuje"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177570
-
-<a id="claim-t-195206"></a>
-- t-002
-  teiginys: "Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata pagrindžia fundacijos ir aprūpinimo turinį."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177569
-
-<a id="claim-t-195207"></a>
-- t-003
-  teiginys: "Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje nurodytą paskyrimą."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Krokuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177572
-
-<a id="claim-t-195208"></a>
-- t-004
-  teiginys: "Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata kalba apie autoriaus prielaidas dėl Šv. Onos bažnyčios atsiradimo ir nukreipia į konkretų puslapį."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177571
-
-<a id="claim-t-195209"></a>
-- t-005
-  teiginys: "Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata leidžia suformuluoti pilną faktą apie prašymą ir siektą rezultatą."
-  susije_objektai: "mentioned_place: Šv. Onos bažnyčia; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/mansionieriai|mansionieriai]]; mentioned_person: [[objektai/asmenys/Ona Jogailaitė|Ona Jogailaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177574
-
-<a id="claim-t-195210"></a>
-- t-006
-  teiginys: "Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Šv. Onos bažnyčia; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1581 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177573
-

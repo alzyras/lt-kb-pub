@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Neurai (grupė)'
-identifikacija: 'grupė'
+pavadinimas: Neurai (grupė)
+identifikacija: grupė
 variantai:
-  - 'Neurai'
+  - Neurai
 aliases:
-  - 'Neurai'
+  - Neurai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Neurai (grupė)
 
@@ -64,6 +61,5 @@ Narbutas neurus apibūdina kaip miškų gyventojus, kurie nepereidavo į atviras
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

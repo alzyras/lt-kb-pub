@@ -27,6 +27,37 @@ media_all_json: |-
 
 Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog čia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios reikalaudavo nesibaigiančio finansavimo).
 
+## Teiginiai
+
+<a id="claim-t-22126"></a>
+- t-001
+  teiginys: "Sovietmečiu Lietuvoje nebūdavo „dolgostrojų“, nes naujos įmonės buvo paleidžiamos daugiau ar mažiau laiku."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-166810
+
+<a id="claim-t-183416"></a>
+- t-002
+  teiginys: "Sovietų valdžia Lietuvoje noriai investavo, nes čia nebūdavo „dolgostrojų“, o naujos įmonės būdavo paleidžiamos daugiau ar mažiau laiku."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Leningradas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "dolgostrojai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Leningradas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"dolgostrojai\" parinktas kaip owner_note_path. Targetas \"Leningradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
+  pagrindžia:
+    - c-166810
+
 ## Citatos
 
 - id: c-24812
@@ -55,9 +86,6 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - id: c-166810
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -82,46 +110,6 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-22126"></a>
-- t-001
-  teiginys: "Sovietmečiu Lietuvoje nebūdavo „dolgostrojų“, nes naujos įmonės buvo paleidžiamos daugiau ar mažiau laiku."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Leningradas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "dolgostrojai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Leningradas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"dolgostrojai\" parinktas kaip owner_note_path. Targetas \"Leningradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-24812
-    - c-166810
-
-<a id="claim-t-183416"></a>
-- t-002
-  teiginys: "Sovietų valdžia Lietuvoje noriai investavo, nes čia nebūdavo „dolgostrojų“, o naujos įmonės būdavo paleidžiamos daugiau ar mažiau laiku."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Leningradas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "dolgostrojai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Leningradas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"dolgostrojai\" parinktas kaip owner_note_path. Targetas \"Leningradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  pagrindžia:
-    - c-166810
-

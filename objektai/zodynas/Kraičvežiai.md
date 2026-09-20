@@ -52,10 +52,10 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
 
 ## Teiginiai
 
-<a id="claim-t-195627"></a>
-- t-195627
-  teiginys: "Kraičvežiai šiame šaltinyje yra du su pastote atvykstantys kraičio vežėjai."
-  atnaujinta: "2026-09-13 16:11"
+<a id="claim-t-195626"></a>
+- t-001
+  teiginys: "Kraičvežiai šiame šaltinyje saugo kraitį ir gauna vaišes bei dovanas."
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -80,13 +80,12 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
     Jaunikio namuose kraitį iškelia iš ratų ir pastato kieme.
   citata_rodoma: "Skrynia įdėta į ratus, prie jos padėtas didelis ryšulys pagalvių ir duknų, kraičvežiams atpilta į bonką degtinė, kurią jie atsivežė, ir dabar jie, visu kuo atlyginti, lipa į ratus ir stati važiuoja; vienas arklius valdo, kitas daboja kraitį."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195627
+  pagrindzia:
+    - t-001
 
 - id: c-178029
   autorius: "M. Katkus"
@@ -108,4 +107,3 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

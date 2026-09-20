@@ -95,6 +95,11 @@ def main():
             r['rightsNote']='Viešoji sritis pagal pirminio rinkinio IIIF / Wikimedia Commons įrašą. Nurodomi autorius, saugotojas ir kilmė. '+i.get('catalogNote','')
             if 'vu' in i:r['rightsNote']+=' VU biblioteka prašo pranešti apie panaudojimą; pranešimas nesiųstas.'
             records[i['key']]=r
+    # Current curation owns copy for A as well as B; the archive owns only history.
+    for cycle in cur.values():
+        for section in cycle['sections']:
+            for item in section['items']:
+                records[item['key']].update(title=item['title'],description=item['description'])
     target=dict(con.execute("SELECT item_id,note_path,title FROM items WHERE note_path='objektai/asmenys/Motiejus Valančius.md' AND status='active'").fetchone())
     ids=[]
     for r in records.values():
@@ -120,8 +125,20 @@ def main():
     catalogue=read(ROOT/'quartz/static/mediaCatalogSource.json');catalogue['entries']=[x for x in catalogue['entries'] if x['mediaId'] not in ids]+read(supplement)['entries']
     save(ROOT/'quartz/static/mediaCatalogSource.json',catalogue)
     old_export=read(ARCHIVE/'exhibitionValancius.json')['exhibitions'];a=next(e for e in old_export if 'imperijos' in e['slug'])
+    # Archived selection supplies identities, not the latest authored copy.
+    for field in ['title','seo_title','subtitle','description']:
+        a[field]=cur['A'][field]
+    for section in a['sections']:
+        authored=next(s for s in cur['A']['sections'] if s['slug']==section['slug'])
+        section.update(title=authored['title'],lead=authored['lead'])
+        for item in section['items']:
+            prose=next(i for i in authored['items'] if item['exhibitionItemId']==a['exhibitionId']+'-'+i['key'])
+            item.update(descriptionLt=prose['description'],catalogDescriptionLt=prose['description'])
+            item['media']['visualEvidence']=prose['description']
     links=a['relatedContent']
-    links[2]['title']='Kai kaimas atsisakė degtinės · straipsnis';links[3]['title']='Karčema, pažadas, permaina · paroda'
+    links[0]['title']='Valančius ir caro valdžia · straipsnis'
+    links[1]['title']='Valančiaus laiškai ir draudžiamos knygos · paroda'
+    links[2]['title']='Kodėl kaimas gėrė ir kaip Valančius ragino negerti · straipsnis';links[3]['title']='Valančiaus blaivybės brolijos · paroda'
     b=cur['B'];slug=b['slug'];payload={'schemaVersion':'ltkb-exhibition/v1','exhibitionId':slug,'slug':'parodos/'+slug,
         **{k:b[k] for k in ['title','seo_title','subtitle','description']},'status':'draft','noindex':True,'editorialProfile':'compact-documentary',
         'theme':'documents','relatedContent':links,'relatedObject':a['relatedObject'],'heroMediaId':records[b['hero']]['mediaId'],'sections':[]}

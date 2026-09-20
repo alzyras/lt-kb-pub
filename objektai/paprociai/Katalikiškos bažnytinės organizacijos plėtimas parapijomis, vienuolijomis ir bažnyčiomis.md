@@ -98,12 +98,10 @@ Nenurodyta
     bažnyčios.
   citata_rodoma: "Iki XVI  a. vidurio susikūrė sep-\ntynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios \n18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine. Stato-\nmos puošnios vienuolynų bažnyčios su prabangiais altoriais, jose – dau-\ngybė paveikslų, skulptūrų bei freskų, o nuo XV a. pabaigos – ir vargonai. \nVisur, net ir toliausiai nuo vyskupijų centrų, kurtos parapijos ir statytos \nbažnyčios."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

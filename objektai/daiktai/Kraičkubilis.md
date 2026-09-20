@@ -62,9 +62,9 @@ Nenurodyta
     - c-177737
 
 <a id="claim-t-195339"></a>
-- t-195339
+- t-002
   teiginys: "Kitur tas pats daiktas tiesiogiai apibrėžtas kaip statiniukė su dangčiu ir užrakinama."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 01:47"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -85,12 +85,11 @@ Nenurodyta
     Mūsų jaunosios kraitis tilpo mažoje skrynelėje, kurią ji išsivežė pasisėdus; dar buvo šis tas sudėta į „kraičkubilį“ , pastatytą ratų užpakalyje.
   citata_rodoma: "Mūsų jaunosios kraitis tilpo mažoje skrynelėje, kurią ji išsivežė pasisėdus; dar buvo šis tas sudėta į „kraičkubilį“ , pastatytą ratų užpakalyje."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177738
@@ -106,6 +105,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195339
-
+  pagrindzia:
+    - t-002

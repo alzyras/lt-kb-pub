@@ -54,11 +54,9 @@ Teodoras Narbutas pranašystę apibūdina kaip kryžiuočių satyrinę išmonę 
     kupus, tuometiniu papročiu galėjusi lengvatikių protams
     padaryti didelę įtaką.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-12 08:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

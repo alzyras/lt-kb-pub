@@ -42,6 +42,26 @@ historical_names: []
 
 Čia sodybos šeimininkams papasakojo, kad iš balso atpažino šį bunkerį išdavusį Vladą Karosą-Vilką, suimtą Tarzano bunkeryje prie Denionių ežero.
 
+## Teiginiai
+
+<a id="claim-t-41672"></a>
+- t-001
+  teiginys: "Prie Denionių ežero buvusiame Tarzano bunkeryje buvo suimtas Vladas Karosas-Vilkas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Partizanų bunkeriai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Denionių ežeras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Partizanų bunkeriai: mention_match, thing, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Denionių ežeras\" parinktas kaip owner_note_path. Targetas \"Partizanų bunkeriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1949 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-45070
+
 ## Citatos
 
 - id: c-45070
@@ -68,26 +88,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-41672"></a>
-- t-001
-  teiginys: "Prie Denionių ežero buvusiame Tarzano bunkeryje buvo suimtas Vladas Karosas-Vilkas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Partizanų bunkeriai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Denionių ežeras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Partizanų bunkeriai: mention_match, thing, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Denionių ežeras\" parinktas kaip owner_note_path. Targetas \"Partizanų bunkeriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-45070
-

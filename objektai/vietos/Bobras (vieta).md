@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Bobras (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Bobras (vieta)
+identifikacija: vieta
 variantai:
-  - 'Bobras'
+  - Bobras
 aliases:
-  - 'Bobras'
+  - Bobras
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-39927f39c2a2142c9eab569d"
-canonical_name: "Bobras (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Bobras","Bobras (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-39927f39c2a2142c9eab569d
+canonical_name: Bobras (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Bobras
+  - Bobras (vieta)
 sameAs: []
-canonical_biography: "Bobras buvo Berezinos (Dniepro) kairysis intakas, tekėjęs apie 40 km į rytus nuo Borisovo."
+canonical_biography: 'Bobras buvo Berezinos (Dniepro) kairysis intakas, tekėjęs apie 40 km į rytus nuo Borisovo.'
 ---
 # Bobras (vieta)
 
@@ -71,6 +71,5 @@ Bobras buvo Berezinos (Dniepro) kairysis intakas, tekėjęs apie 40 km į rytus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

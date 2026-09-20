@@ -49,6 +49,29 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62333"></a>
+- t-001
+  teiginys: "1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "uzeme -> Konstantinopolis: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sakinys nurodo, kad Konstantinopolio miestą užėmė prancūzai ir Venecijos kariai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Prancūzai užėmė Konstantinopolis (0.88); Lotynai valdė miestą Konstantinopolis (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1200 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, faktinis ir paremtas citatos turiniu."
+  pagrindžia:
+    - c-62896
+
 ## Citatos
 
 - id: c-62896
@@ -70,25 +93,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-220867"></a>
-- t-001
-  teiginys: "1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "uzeme -> Konstantinopolis: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sakinys nurodo, kad Konstantinopolio miestą užėmė prancūzai ir Venecijos kariai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Prancūzai užėmė Konstantinopolis (0.88); Lotynai valdė miestą Konstantinopolis (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1200 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, faktinis ir paremtas citatos turiniu."
-
+  pagrindzia:
+    - t-001

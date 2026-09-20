@@ -28,6 +28,34 @@ Pasak Teodoro Narbuto, įžeistas didysis kunigaikštis įsakė Uždneprės ir P
 
 Pasak Teodoro Narbuto, įžeistas didysis kunigaikštis įsakė Uždneprės ir Padonės totoriams, o šie, jo apibūdinimu, didžiuliais pulkais pasklido po Podolę tarsi skėriai. Uždneprės ir Padonės totoriai susitelkė ir pasitraukė Dnepro link, o juos persekioję vengrai stepėje dėl maisto stokos neteko žirgų ir žmonių.
 
+## Teiginiai
+
+<a id="claim-t-206675"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, įžeistas didysis kunigaikštis įsakė Uždneprės ir Padonės totoriams, o šie, jo apibūdinimu, didžiuliais pulkais pasklido po Podolę tarsi skėriai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189290
+
+<a id="claim-t-206676"></a>
+- t-002
+  teiginys: "Uždneprės ir Padonės totoriai susitelkė ir pasitraukė Dnepro link, o juos persekioję vengrai stepėje dėl maisto stokos neteko žirgų ir žmonių."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189291
+
 ## Citatos
 
 - id: c-189290
@@ -47,7 +75,7 @@ Pasak Teodoro Narbuto, įžeistas didysis kunigaikštis įsakė Uždneprės ir P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189291
@@ -66,34 +94,5 @@ Pasak Teodoro Narbuto, įžeistas didysis kunigaikštis įsakė Uždneprės ir P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206675"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, įžeistas didysis kunigaikštis įsakė Uždneprės ir Padonės totoriams, o šie, jo apibūdinimu, didžiuliais pulkais pasklido po Podolę tarsi skėriai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189290
-
-<a id="claim-t-206676"></a>
-- t-002
-  teiginys: "Uždneprės ir Padonės totoriai susitelkė ir pasitraukė Dnepro link, o juos persekioję vengrai stepėje dėl maisto stokos neteko žirgų ir žmonių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189291
-

@@ -37,31 +37,19 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
 
 ## Teiginiai
 
-<a id="claim-t-207751"></a>
-- t-207751
-  teiginys: "M. Stryjkovskis buvo autorius, rašęs eilėmis ir proza įvairių žanrų kūrinius."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190455
-
 <a id="claim-t-30860"></a>
-- t-30860
+- t-001
   teiginys: "XIX a. istorikai romantikai Motiejaus Stryjkovskio aprašymus nekritiškai laikė pirmykštės pagonybės liudijimu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33070
 
 <a id="claim-t-201496"></a>
-- t-201496
+- t-002
   teiginys: "Stryjkovskio, kada bernardinų pamokslininkas, Didįjį penktadienį Kaune sakydamas pamokslą apie Viešpaties kančią, kai atėjo laikas kalbėti apie jo plakimą, ėmė rimbu mušti Jėzaus Kristaus atvaizdą, žemaitis, paprastas valstietis, klausė draugo: a ku totej."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -92,8 +80,8 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-30860
+  pagrindzia:
+    - t-001
 
 - id: c-184843
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -112,28 +100,5 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201496
-
-- id: c-190455
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 74"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 74."
-  citata_originali: |
-    Ar iš tiesų M. Stryjkovskis menkai tesuvokė riterystės idėjos prasmę, nesugebėjo jos
-    pritaikyti Lietuvos Didžiosios Kunigaikštystės gyvenimo realijoms? Tai klausimas, kurį,
-    manyčiau, prasminga svarstyti.
-    Pasirinkti tekstai M. Stryjkovskio, autoriaus, rašiusio eilėmis ir proza įvairių žanrų
-    kūrinius, tarp kurių yra ir garsioji „Kronika" arba XVI a. parašyta pirmoji spausdinta
-    Lietuvos Didžiosios Kunigaikštystės istorija.
-  citata_rodoma: "Pasirinkti tekstai M. Stryjkovskio, autoriaus, rašiusio eilėmis ir proza įvairių žanrų\nkūrinius, tarp kurių yra ir garsioji „Kronika\" arba XVI a. parašyta pirmoji spausdinta\nLietuvos Didžiosios Kunigaikštystės istorija."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207751
-
+  pagrindzia:
+    - t-002

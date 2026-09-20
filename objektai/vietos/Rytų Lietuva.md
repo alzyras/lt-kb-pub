@@ -46,6 +46,28 @@ historical_names: []
 
 Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą. 1922 m. sausį jie surengė rinkimus Vilniaus krašte – Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ situacijoje.
 
+## Teiginiai
+
+<a id="claim-t-181515"></a>
+- t-001
+  teiginys: "1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rytų Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=5"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rytų Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradžia „Tuo metu“ yra kontekstinė, todėl datą reikia padaryti aiškią."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  pagrindžia:
+    - c-165054
+
 ## Citatos
 
 - id: c-165054
@@ -64,72 +86,5 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-190673
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 89"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 89."
-  citata_originali: |
-    Taip pat pastebima, kad konfliktiškos
-    Lietuvos Didžiosios Kunigaikštystės istorijos simbolinių elementų interpretaci­
-    jos funkcionuoja labiau kaip vyresniųjų kartų atmintyje išlikę praeities reliktai,
-    jaunesniiyų kartų iš dalies „užmirštami", iš dalies interpretuojami iš naujo. Tad
-    įvairių Lietuvos tautinių grupių apsisprendimas gyventi vienoje valstybėje leidžia
-    Lietuvos Didžiosios Kunigaikštystės istorijoje rasti išteklių ne tik paremti pilietinei
-    teritorinei visų grupių tautinės tapatybės dimensijai (tiek puoselėjant tolerancijos
-    vertybes bei pilietinio lietuviškumo tradiciją, tiek bendromis ar hibridiškomis
-    simbolinėmis šio laikotarpio interpretacijomis), bet ir kurti požiūrius, išreiškiamus
-    kokybiniame tyrime užfiksuotomis giminystės ir „broliškumo" metaforomis".
-    Kita vertus, atlikta Rytų Lietuvos atminimo kultūros turinio analizė", apė­
-    musi paminklus, gatvėvardžius, memorialines lentas ir kitas kultūrinės atminties
-    raiškos formas, leidžia teigti, kad regione vyrauja su po Liublino unijos gyvavusia
-    Abiejų Tautų Respublika susiję istoriniai siužetai ir asmenybės, kas ryškiai kon­
-    trastuoja su kitur Lietuvoje (su nedidelėmis išimtimis) dominuojančiu didžiuoju
-    nacionaliniu pasakojimu.
-  citata_rodoma: "Kita vertus, atlikta Rytų Lietuvos atminimo kultūros turinio analizė\", apė­\nmusi paminklus, gatvėvardžius, memorialines lentas ir kitas kultūrinės atminties \nraiškos formas, leidžia teigti, kad regione vyrauja su po Liublino unijos gyvavusia \nAbiejų Tautų Respublika susiję istoriniai siužetai ir asmenybės, kas ryškiai kon­\ntrastuoja su kitur Lietuvoje (su nedidelėmis išimtimis) dominuojančiu didžiuoju \nnacionaliniu pasakojimu"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-181515"></a>
-- t-001
-  teiginys: "1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rytų Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=5"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rytų Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradžia „Tuo metu“ yra kontekstinė, todėl datą reikia padaryti aiškią."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  pagrindžia:
-    - c-165054
-
-<a id="claim-t-208055"></a>
-- t-002
-  teiginys: "Kita vertus, atlikta Rytų Lietuvos atminimo kultūros turinio analizė\", apė musi paminklus, gatvėvardžius, memorialines lentas ir kitas kultūrinės atminties raiškos formas, leidžia teigti, kad regione vyrauja su po Liublino unijos gyvavusia Abiejų Tautų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  pagrindžia:
-    - c-190673
-

@@ -1,6 +1,6 @@
 ---
 tipas: daiktas
-pavadinimas: 'Aukso žiedas su raudonu akmeniu'
+pavadinimas: Aukso žiedas su raudonu akmeniu
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Aukso žiedas su raudonu akmeniu
 
@@ -78,6 +75,5 @@ Prie Merkinės valstietis rado aukso žiedą su raudonu akmeniu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

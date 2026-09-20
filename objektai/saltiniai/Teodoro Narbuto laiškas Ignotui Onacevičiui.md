@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'Teodoro Narbuto laiškas Ignotui Onacevičiui'
+pavadinimas: Teodoro Narbuto laiškas Ignotui Onacevičiui
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1569 m.'
-  - '1837 m.'
+  - 1569 m.
+  - 1837 m.
 date_start: '1569'
 date_end: '1837'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVI'
-  - 'XIX'
+  - XVI
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Teodoro Narbuto laiškas Ignotui Onacevičiui
 
@@ -86,6 +83,5 @@ Laiške T. Narbutas savo uždavinį apibūdino kaip praeities įvykių esmės at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

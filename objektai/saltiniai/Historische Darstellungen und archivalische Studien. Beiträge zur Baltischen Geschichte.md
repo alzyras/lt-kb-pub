@@ -34,6 +34,20 @@ media_all_json: |-
 
 Schie­ mann, be kitko, išsp. Historische Darstellungen und archivalische Studien.
 
+## Teiginiai
+
+<a id="claim-t-29851"></a>
+- t-001
+  teiginys: "Theodoras Schiemannas 1886 m. išspausdino „Historische Darstellungen und archivalische Studien. Beiträge zur Baltischen Geschichte“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1886 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata patvirtina autorių, pavadinimą ir išleidimo metus."
+  pagrindžia:
+    - c-29756
+
 ## Citatos
 
 - id: c-29756
@@ -51,20 +65,5 @@ Schie­ mann, be kitko, išsp. Historische Darstellungen und archivalische Studi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-29851"></a>
-- t-001
-  teiginys: "Theodoras Schiemannas 1886 m. išspausdino „Historische Darstellungen und archivalische Studien. Beiträge zur Baltischen Geschichte“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1886 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patvirtina autorių, pavadinimą ir išleidimo metus."
-  pagrindžia:
-    - c-29756
-

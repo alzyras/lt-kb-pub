@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Ordino pergalė prieš Vytenį 1311 metais'
+pavadinimas: Ordino pergalė prieš Vytenį 1311 metais
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1311 m.'
+  - 1311 m.
 date_start: '1311'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Ordino pergalė prieš Vytenį 1311 metais
 
@@ -60,9 +57,25 @@ Nenurodyta
     vyskupystę, kad viskas, ko negynė pilys bei įtvirtinimai, paliko sudeginta, išžudyta
     ar paimta į nelaisvę.
   statusas: verified
-  atnaujinta: "2026-09-13 11:39"
+  atnaujinta: "2026-09-13 18:04"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-225088"></a>
+- t-001
+  teiginys: "1311 m. balandžio pradžioje Vytenis su 4 tūkstančiais vyrų nusiaubė Varmės vyskupystę."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205561
 

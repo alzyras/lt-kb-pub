@@ -39,6 +39,24 @@ Naujai pakrikštytas asmuo, kurio padėtį tvarko Ordino valdžia.
 
 Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
 
+## Teiginiai
+
+<a id="claim-t-70237"></a>
+- t-001
+  teiginys: "Naujakrikščiai šiame šaltinyje vaizduojami kaip atskiras Ordino tvarkomas statusas."
+  atnaujinta: "2026-07-19 16:57"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> naujakrikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "naujakrikštis: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "naujakrikščiai: mention_match, thing, gap=1"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"naujakrikštis\" parinktas kaip owner_note_path. Targetas \"naujakrikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-69301
+
 ## Citatos
 
 - id: c-69301
@@ -63,6 +81,8 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-69302
   autorius: "Petras Dusburgietis"
@@ -86,48 +106,3 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-203681
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 172"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 172."
-  citata_originali: |
-    Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei
-    libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis
-    turi tarnauti broliams taip, kaip to reikalauja po šiai dienai Prūsijoje išlikę papročiai; vis
-    dėlto, paisydami jų nuopelnų ar nusižengimų, broliai gali ir kitaip elgtis, pavyzdžiui, negi
-    nekilmingasis, atskalūnybės metais ar kitokių tikėjimui iškilusių negandų atvejais likęs
-    ištikimas tikėjimui ir broliams, nėra taip didžiai nusipelnęs, kad iš nekilmingųjų būtų
-    pakeltas į garbingus kilminguosius, o vergovė jam pakeista pelnyta laisve? Žinoma, kad
-    taip. Priešingais atvejais broliai irgi tinkamai elgėsi. Dėl to Prūsijoje daug naujakrikščių,
-    kurių protėviai gimę iš kilmingų šeimų, tačiau jie patys dėl nusikaltimų, padarytų tikėjimui
-    bei tikintiesiems, buvo palaikyti prastos kilmės žmonėmis, tuo tarpu kiti, kurių tėvai
-    buvę nekilmingi, pelnė laisvę už ištikimą tarnybą tikėjimui ir broliams518.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-223233"></a>
-- t-001
-  teiginys: "Naujakrikščiai šiame šaltinyje vaizduojami kaip atskiras Ordino tvarkomas statusas."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> naujakrikščiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "naujakrikštis: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "naujakrikščiai: mention_match, thing, gap=1"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"naujakrikštis\" parinktas kaip owner_note_path. Targetas \"naujakrikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203681
-

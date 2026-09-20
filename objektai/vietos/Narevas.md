@@ -1,19 +1,19 @@
 ---
 tipas: vieta
-pavadinimas: 'Narevas'
+pavadinimas: Narevas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1200 m.'
-  - '1237 m.'
-  - '1282 m.'
-  - '1520 m.'
-  - '1521 m.'
-  - '2026 m.'
+  - 1200 m.
+  - 1237 m.
+  - 1282 m.
+  - 1520 m.
+  - 1521 m.
+  - 2026 m.
 date_start: '1200'
 date_end: '2026'
 sukurta: ''
@@ -22,29 +22,41 @@ tags:
   - vieta
   - upė
 amziai:
-  - 'XII'
-  - 'XXI'
+  - XII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5b97e50cb1b761cb43cf0c54"
-canonical_name: "Narevas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Narevas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5b97e50cb1b761cb43cf0c54
+canonical_name: Narevas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Narevas
 sameAs: []
-canonical_biography: "Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs L I E T U V O S I S T O R I J A 40 grūdais pagrindinį Europos duonos uostą – Gdanską."
+canonical_biography: 'Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs L I E T U V O S I S T O R I J A 40 grūdais pagrindinį Europos duonos uostą – Gdanską.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Narevas","url":"https://lt.wikipedia.org/wiki/Narevas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Narevas","url":"https://www.vle.lt/straipsnis/narevas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T17:01:48+00:00","source_checked_at":"2026-09-19T17:01:48+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Narevas","url":"https://lt.wikipedia.org/wiki/Narevas","publisher":"Vikipedija","language":"lt","article_id":"110968","revision_id":"7772133","published_at":"2026-03-07T10:33:18Z","version_pk":"","content_hash":"e6547bb0ef0100065f59ab612c859723e6fe4fbf67c36e7bb95e74a9fd79a4bd","retrieved_at":"2026-09-19T17:00:59+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Narevas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"110968"}},"intro":"Apie kaimą tokiu pačiu pavadinimu žr. Narevas (kaimas). Narevas, Narvė arba Naura (lenk. Narew, bltr. Нараў, Narav, ukr. Нарва, Narva) – upė Baltarusijos vakaruose ir Lenkijos šiaurės rytuose; dešinysis Vyslos intakas (tačiau dalyje šaltinių nurodoma kaip Vakarinio Bugo intakas). Prasideda Baltarusijoje, Belovežo girioje. Upės ilgis 484 km iš kurių Lenkijos teritorijoje upė teka 448 km, Baltarusijoje – 36 km, 1 km upė teka per valstybės sieną. Upės baseino plotas 75,200 km² iš kurių 21,302 km² yra Baltarusijoje ir 53,873 km² Lenkijoje. Upė teka Šiaurinės Palenkės ir Šiaurinės Mazovijos žemumose, Narevo aukštupio slėniu ir Narevo žemupio slėniu. Nuo Suražo iki Žendzianų tęsiasi Narevo nacionalinis parkas. 1994 m. įkurtas Lomžos Narevo upės slėnio kraštovaizdžio parkas. Didžiausi intakai: Vakarinis Bugas (kairysis), Bebra, Vkra, Pisa (dešinieji). Upė būna užšalusi nuo gruodžio iki kovo. Bebros upe ir Augustavo kanalu sujungtas su Nemunu. Pre upės įsikūręs Lomžos miestas. Dėl upės žiočių ilgą laiką vyksta diskusijos: ties Bugo-Narevo-Vyslos santaka yra susidaręs painus protakų ir meandrų labirintas. Kadangi Bugas ilgesnis už Narevą, laikyta, kad jis yra pagrindinis Vyslos intakas. Tačiau Narevas kur kas vandeningesnis. Įrengus Zegžinsko tvenkinį Narevas laikomas pagrindine upe, o Bugas – intaku. Kai kuriuose šaltiniuose vengiant šios dviprasmybės Vyslos intaku įvardijama bendra upė – Bugonarevas.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Narevas","url":"https://lt.wikipedia.org/wiki/Narevas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Narevas","url":"https://www.vle.lt/straipsnis/narevas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Narevas","https://www.vle.lt/straipsnis/narevas/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 01968717ce48be42
+object_page_generated_at: '2026-09-19T17:01:48+00:00'
+object_page_source_checked_at: '2026-09-19T17:01:48+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Narevas: Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs L I E T U V O S I S T O R I J A 40 grūdais pagrindinį Europos…'
+object_page_seo_input_hash: 520c3875950718467eaebd4aefb471f9a7fa404d3f3250e415f3b2c477240aa1
+object_page_seo_generated_at: '2026-09-19T17:01:48+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Narevas
 
@@ -54,46 +66,86 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 
 ## Teiginiai
 
-<a id="claim-t-213201"></a>
-- t-213201
-  teiginys: "1264 metais jotvingiai buvo sutriuškinti Polesėje tarp Bugo ir Narevo."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-175392"></a>
+- t-001
+  teiginys: "Lietuviai puolė kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo, kai Livonijos magistras buvo prie Vilniaus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vizna: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vizna: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuvių ataką prieš Viznos apylinkes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai puolė Vizna (0.82)"
+  pagrindžia:
+    - c-159520
+
+<a id="claim-t-175393"></a>
+- t-002
+  teiginys: "Vytauto kariuomenė žygiavo tarp Narevo ir Bugo upių, o jų santakoje persikėlė per Narevą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Narevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Narevas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-37557
+
+<a id="claim-t-185059"></a>
+- t-003
+  teiginys: "Lietuviai, prieš kelias dienas perkėlę grobį ir kariuomenę per Narevą, pasislėpė miško tankmėje."
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Narevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Narevas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-197546
+    - c-168420
 
-<a id="claim-t-215195"></a>
-- t-215195
-  teiginys: "Vėliau, VI amžiaus pradžioje, plačiai išplitę dešiniojoje Vyslos pakrantėje slavai, užėmę budinu kraštus (tai tei gia ponas Suroveckis1), galėjo visiškai išstumti ir ga lindus iš Nemuno vidurupio net už Narevo, o po to nuvyti juos į čia mūsų aptariamos."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-192702"></a>
+- t-004
+  teiginys: "Teodoras Narbutas sprendė, kad po 1237 m. jotvingiai traukėsi nuo Bugo ir Narevo Prūsijos bei Lietuvos sienų link."
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste nurodoma, kad jotvingiai traukėsi Lietuvos sienų link."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Jotvingiai keliavo į Prūsija (0.68)"
+  temporaliniai_duomenys: "kelionės data: po 1237 m.; kelionės data: 1237 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jotvingiai keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jotvingiai keliavo į Prūsija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas laiko kontekstas pagal citatoje minimus 1237 metus. Narbuto interpretacija palikta su atribucija, nepridedant kitų jotvingių judėjimo priežasčių."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-196293
+    - c-175472
 
-<a id="claim-t-215310"></a>
-- t-215310
-  teiginys: "Narevo upės pakrantėse buvo randama gražių gintaro egzempliorių."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194792
-
-<a id="claim-t-215900"></a>
-- t-215900
+<a id="claim-t-192703"></a>
+- t-005
   teiginys: "Teodoro Narbuto pasakojime 1282 m. Lešeko Juodojo vadovaujami lenkai prie Narevo užklupo jotvingius ties Ostrolenka."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -112,64 +164,12 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   temporalinis_llm_pakomentavimas: "Sakinys sutvarko nutrūkusį OCR tekstą ir išskleidžia veikėjus, vietą bei datą. Vertinimai apie lemtį ir pražūtį neperimti kaip neutralūs faktai."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-196443
-
-<a id="claim-t-175392"></a>
-- t-175392
-  teiginys: "Lietuviai puolė kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo, kai Livonijos magistras buvo prie Vilniaus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vizna: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vizna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuvių ataką prieš Viznos apylinkes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuviai puolė Vizna (0.82)"
-  pagrindžia:
-    - c-159520
-
-<a id="claim-t-175393"></a>
-- t-175393
-  teiginys: "Vytauto kariuomenė žygiavo tarp Narevo ir Bugo upių, o jų santakoje persikėlė per Narevą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Narevas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Narevas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-37557
-
-<a id="claim-t-185059"></a>
-- t-185059
-  teiginys: "Lietuviai, prieš kelias dienas perkėlę grobį ir kariuomenę per Narevą, pasislėpė miško tankmėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Narevas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Narevas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168420
+    - c-175473
 
 <a id="claim-t-201635"></a>
-- t-201635
+- t-006
   teiginys: "Pačiame karo įkarštyje 1520 m. gegužės 7 d. Žygimantas Senasis rašė Lietuvos kancleriui ir Vilniaus vaivadai Mikalojui Radvilai, kad dėl kelio į Kauną uždarymo visa druska ir kitos prekės, paprastai vežamos per Kauną, pasuko Bugu ir Narevu, o Kauno muitinės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -177,19 +177,6 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184982
-
-<a id="claim-t-207598"></a>
-- t-207598
-  teiginys: "Prie Bugo ir Narevo susiformavo pagrindinis LDK javų ūkis, aprūpinęs grūdais pagrindinį Europos duonos uostą Gdanską."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
-  pagrindžia:
-    - c-190215
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -229,8 +216,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175393
+  pagrindzia:
+    - t-002
 
 - id: c-159520
   sudarytojas: "Karolis Zikaras"
@@ -253,8 +240,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175392
+  pagrindzia:
+    - t-001
 
 - id: c-168420
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -274,8 +261,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185059
+  pagrindzia:
+    - t-003
 
 - id: c-175472
   autorius: "Teodoras Narbutas"
@@ -298,6 +285,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-175473
   autorius: "Teodoras Narbutas"
@@ -318,6 +307,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-184982
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -335,108 +326,5 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201635
-
-- id: c-190215
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 112"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 112."
-  citata_originali: |
-    Taigi svarbiausias politinio lietuvių elito vaidmuo stačiatikiškoje kultūroje yra tas, kad
-    jie buvo šios kultūros užsakovai. Vakarinė LDK dalis – tarp Vilniaus ir Lucko – buvo ne
-    tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs reziden-
-    cijas didikai. Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis,
-    aprūpinęs grūdais pagrindinį Europos duonos uostą – Gdanską.
-  citata_rodoma: "Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, \naprūpinęs grūdais pagrindinį Europos duonos uostą – Gdanską."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207598
-
-- id: c-194792
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
-  citata_originali: |
-    o tais laikais
-    itin gražių ¡gintaro egzempliorių rasta ir Narevo upės pa­
-    krantėse
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215310
-
-- id: c-196293
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 266."
-  citata_originali: |
-    Vėliau, VI amžiaus pradžioje, plačiai išplitę dešiniojoje
-    Vyslos pakrantėje slavai, užėmę budinu kraštus (tai tei­
-    gia ponas Suroveckis1), galėjo visiškai išstumti ir ga­
-    lindus iš Nemuno vidurupio net už Narevo, o po to nuvyti
-    juos į čia mūsų aptariamos provincijos teritoriją.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215195
-
-- id: c-196443
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
-  citata_originali: |
-    Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be
-    to, Traidenis vakarinėje Jotvingijoje paliko visos tautos
-    pražūties užuomazgą, nes savo užpuolimais galutinai įer­
-    zino lenkus, kurie, Lešeko Juodojo vadovaujami, 1282 me­
-    tais prie Narevo įvykdė tai, ką jotvingiams skyrė nelai­
-    minga lemtis: jie visi buvo užklupti prie garsėjusios dau­
-    geliu kraujo praliejimų Ostrolenkos. Tačiau jotvingiai
-    paniekino nelaisvę ir leidosi visi iškapojami.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215900
-
-- id: c-197546
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 132."
-  citata_originali: |
-    Jis su didžiule ka­
-    riuomene prie Zavichosto persikėlė per Vyslą įr įsiveržė
-    į patį Polesės vidurį, kažkur tarp Bugo ir Narevo su­
-    spaudęs jotvingius, birželio 23 dieną visiškai juos sutriuš­
-    kino.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213201
-
+  pagrindzia:
+    - t-006

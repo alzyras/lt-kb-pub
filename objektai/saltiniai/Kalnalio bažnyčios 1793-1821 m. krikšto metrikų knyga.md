@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'Kalnalio bažnyčios 1793-1821 m. krikšto metrikų knyga'
+pavadinimas: Kalnalio bažnyčios 1793-1821 m. krikšto metrikų knyga
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1793 m.'
-  - '1821 m.'
+  - 1793 m.
+  - 1821 m.
 date_start: '1793'
 date_end: '1821'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVIII'
-  - 'XIX'
+  - XVIII
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kalnalio bažnyčios 1793-1821 m. krikšto metrikų knyga
 

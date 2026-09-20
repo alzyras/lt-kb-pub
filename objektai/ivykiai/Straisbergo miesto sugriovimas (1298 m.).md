@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Straisbergo miesto sugriovimas (1298 m.)'
+pavadinimas: Straisbergo miesto sugriovimas (1298 m.)
 variantai:
-  - 'Straisbergo miesto sugriovimas'
+  - Straisbergo miesto sugriovimas
 aliases:
-  - 'Straisbergo miesto sugriovimas'
+  - Straisbergo miesto sugriovimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1298 m.'
+  - 1298 m.
 date_start: '1298'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Straisbergo miesto sugriovimas (1298 m.)
 
@@ -85,6 +82,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

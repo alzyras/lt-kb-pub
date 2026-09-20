@@ -37,6 +37,29 @@ historical_names: []
 
 Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.
 
+## Teiginiai
+
+<a id="claim-t-189059"></a>
+- t-001
+  teiginys: "Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Rytų Sibiras: 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Nerčia: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Rytų Sibiras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nerčia tiesiogiai apibūdinta kaip Rytų Sibiro upė, todėl fiksuojamas geografinis priklausymas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Nerčia priklausė Rytų Sibiras (0.73)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171948
+
 ## Citatos
 
 - id: c-171948
@@ -60,4 +83,5 @@ Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miesta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

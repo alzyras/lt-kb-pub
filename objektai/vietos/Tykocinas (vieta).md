@@ -49,6 +49,23 @@ Aleksandras Jogailaitis Tykocine apsilankė vieną kartą – 1500 m. sausį.
 
 Aleksandras Jogailaitis Tykocine apsilankė vieną kartą – 1500 m. sausį.
 
+## Teiginiai
+
+<a id="claim-t-203970"></a>
+- t-001
+  teiginys: "Aleksandras Jogailaitis Tykocine apsilankė vieną kartą – 1500 m. sausį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir atitinka šaltinyje pateiktą Aleksandro Jogailaičio itinerariumo informaciją apie vienintelį apsilankymą 1500 m. sausį."
+  pagrindžia:
+    - c-186574
+
 ## Citatos
 
 - id: c-186574
@@ -67,23 +84,5 @@ Aleksandras Jogailaitis Tykocine apsilankė vieną kartą – 1500 m. sausį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203970"></a>
-- t-001
-  teiginys: "Aleksandras Jogailaitis Tykocine apsilankė vieną kartą – 1500 m. sausį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  temporaliniai_duomenys: "įvykio data: 1500 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir atitinka šaltinyje pateiktą Aleksandro Jogailaičio itinerariumo informaciją apie vienintelį apsilankymą 1500 m. sausį."
-  pagrindžia:
-    - c-186574
-

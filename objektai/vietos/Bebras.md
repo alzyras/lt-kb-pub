@@ -38,29 +38,14 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
 
 ## Teiginiai
 
-<a id="claim-t-212566"></a>
-- t-002
-  teiginys: "Po kryžiuočių ir totorių puolimų jotvingiai pasitraukė prie Bebro upės ir Bugo žemupio."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-58687"></a>
+- t-001
+  teiginys: "Bebras kronikos rodyklėje siejamas su vardais Biber, Bobare, Bibber ir Bobir, o dabartinis jo vardas yra Biebrza."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-192957
-
-<a id="claim-t-210477"></a>
-- t-210477
-  teiginys: "Bebras yra 145 km ilgio upė, prasidedanti 20 km į vakarus nuo Gardino."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193644
+    - c-59319
 
 ## Citatos
 
@@ -78,43 +63,5 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-192957
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 132."
-  citata_originali: |
-    Kryžiuočių ir gal totorių iš Galicijos pusės
-    puolimų įbauginti ir neseniai Mazovijos Ziemovito suda­
-    rytos taikos sutarties su kryžiuočiais atgrasinti jotvingiai
-    pasitraukė prie Bebro upės ir Bugo žemupio, iš kur, pa­
-    dvigubinę savo jėgas, puldinėdavo kitapus Vyslos ir darė
-    daug žalos Lenkijai ir Mazovijai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-193644
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 207"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 207."
-  citata_originali: |
-    Bebras— didžiausia buvusio Jotvingių krašto (dabar Lenkijos
-    Balstogės vaivadijos) upė (145 km), prasidedanti 20 km | vakarus
-    nuo Gardino; jteka į Vislos intaką Narevą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210477
-
+  pagrindzia:
+    - t-001

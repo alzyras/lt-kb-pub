@@ -27,6 +27,21 @@ media_all_json: |-
 
 Net savo priešų Mindaugas buvo vadinamas išmintinguoju.
 
+## Teiginiai
+
+<a id="claim-t-193677"></a>
+- t-001
+  teiginys: "Net savo priešų Mindaugas buvo vadinamas išmintinguoju."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  pagrindžia:
+    - c-176346
+
 ## Citatos
 
 - id: c-176346
@@ -45,21 +60,5 @@ Net savo priešų Mindaugas buvo vadinamas išmintinguoju.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193677"></a>
-- t-001
-  teiginys: "Net savo priešų Mindaugas buvo vadinamas išmintinguoju."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  pagrindžia:
-    - c-176346
-

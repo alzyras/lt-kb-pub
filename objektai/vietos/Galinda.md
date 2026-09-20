@@ -1,12 +1,12 @@
 ---
 tipas: vieta
-pavadinimas: 'Galinda'
+pavadinimas: Galinda
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1253 m.'
+  - 1253 m.
 date_start: '1253'
 date_end: ''
 sukurta: ''
@@ -17,28 +17,40 @@ tags:
   - vieta
   - žemė
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d21b9bdaea784bf00d7d5265"
-canonical_name: "Galinda"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Galinda"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d21b9bdaea784bf00d7d5265
+canonical_name: Galinda
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Galinda
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad olštiną) vakaruose iki Nagutino (Negocino) ir Snervų ežerų rytuose (rytinė siena su jotvingiais nėra aiški; galindų žemės galėjo būti ir už šių ežerų, iki Lego upės); siena su Barta ėjo kiek į šiaurę nuo dab."
+canonical_biography: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad olštiną) vakaruose iki Nagutino (Negocino) ir Snervų ežerų rytuose (rytinė siena su jotvingiais nėra aiški; galindų žemės galėjo būti ir už šių ežerų, iki Lego upės); siena su Barta ėjo kiek į šiaurę nuo dab.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Galinda","url":"https://lt.wikipedia.org/wiki/Galinda","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T20:08:42+00:00","source_checked_at":"2026-09-19T20:08:42+00:00","counts":{"relations":5,"gallery":0,"sources":4},"featured_claim_ids":["t-215128","t-212488","t-213548","t-214937","t-218571","t-213110"],"featured_claims":[{"claim_id":"t-215128","text":"Galindos vakarinė siena prasidėjo prie Sasavos žemės, Hohenšteino ir Noidenburgo, o Alnos upe ribojosi su Varmija.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196512"]},{"claim_id":"t-212488","text":"1253 m. kryžiuočiai, siekdami lengviau užimti Sembą, pirmiausia turėjo užkariauti Galindą ir atskirti jotvingius nuo Panemunės kraštų.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-197496"]},{"claim_id":"t-213548","text":"Galindai priklausė žemės nuo Radzilovo prie Viznos iki Choželių prie Orzicos.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196686"]},{"claim_id":"t-214937","text":"Pietuose jos kaimynė buvo Mazovija, bet didesnė krašto dalis, šiandien priklausanti Lenkijos Karalystei, tuomet priklausė Galindai.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-197406"]},{"claim_id":"t-218571","text":"Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, kad jie vos galėjo sutilpti.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-200762"]},{"claim_id":"t-213110","text":"1253 metų kryžiuočių kampanijos tikslas buvo nusiaubti Bartą ir Galindą.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196556"]}],"featured_quote":{"text":"Rusios didysis kunigaikštis Iziaslavas surengė žygį į Prūsijos provinciją Galindą, kuri tada buvo netoliese nuo senųjų slavų žemių, plytinčių tarp Ne­ muno vidupio ir Narvos upės, aūba tiesės, jungiančios Gar­ diną su Ostrolenka, plote. Tos žemės kartu su Jotvingija jau priklausė Rusios Didžiajai Kunigaikštystei.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","claim_id":"t-205366","evidence_id":"c-187737","origin":"internal"},"wiki":{"status":"published","source":{"title":"Galinda","url":"https://lt.wikipedia.org/wiki/Galinda","publisher":"Vikipedija","language":"lt","article_id":"253953","revision_id":"7241089","published_at":"2024-04-04T17:52:02Z","version_pk":"","content_hash":"e382949676444b01162aee8bc3095b661df83080bfd8fe34effbeadb1a601af1","retrieved_at":"2026-09-19T20:06:28+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Galinda&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"253953"}},"intro":"Galinda (prūs. Galinda, lot. Galindia) – prūsų žemė tarp Alnos, Geldapės ir Niauros (dab. Narevas) upių. Rytinė riba siekė didžiuosius Senprūsių ežerus (dab. Mozūrų ežerai) ir Sūduvą, šiaurinė – Bartos pakraštį, vakarinė – Pagudę, siekė Alnaštyno (dab. Olštynas) apylinkes su Liubavos sritimi, pietryčiuose – Palenkę. Galindos gyventojai priskiriami prūsams, nors jų materialinė kultūra šiek tiek skiriasi nuo varmių, notangų, ypač nuo sembų.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Galinda","url":"https://lt.wikipedia.org/wiki/Galinda","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Galinda"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"34e4047b8833c629b4d87c67","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Galinda buvo tarp senųjų slavų žemių, plytinčių tarp Nemuno vidupio ir Narvos upės; pietuose ribojosi su Mazovija, vakaruose – su Varmija prie Alnos upės, šiaurėje – su Barta.","context":"Teodoras Narbutas tai aprašo kaip istorinę Galindos padėtį; šaltinis nurodo, kad šios žemės kartu su Jotvingija jau priklausė Rusios Didžiajai Kunigaikštystei.","support_ids":["t-205366","c-187737","t-215128","c-196512"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205366","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"internal_claim","claim_id":"t-215128","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-187737","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Rusios didysis kunigaikštis Iziaslavas surengė žygį į Prūsijos provinciją Galindą, kuri tada buvo netoliese nuo senųjų slavų žemių, plytinčių tarp Ne­ muno vidupio ir Narvos upės, aūba tiesės, jungiančios Gar­ diną su Ostrolenka, plote. Tos žemės kartu su Jotvingija jau priklausė Rusios Didžiajai Kunigaikštystei."},{"kind":"evidence","evidence_id":"c-196512","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Galinda Galindos, septintos provincijos, pietuose buvo Barta, vakaruose jos siena prasidėjo prie Sasavos žemės, nuo Hohenšteino ir Noidenburgo, prie Alnos versmių ir ta pačia upe ribojosi su Varmija. Jos šiaurėje taip pat buvo Barta, vadinasi, siena driekėsi nuo Rezlio Rastenburgo link. Pietuose jos kaimynė buvo Mazovija, bet didesnė krašto dalis, šiandien priklausanti Lenkijos Karalystei, tuomet priklausė Galindai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"fea4d87dd408b8f6a87e3228","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Galindai priklausė žemės nuo Radzilovo prie Viznos iki Choželių prie Orzicos upės.","context":"Teodoras Narbutas aprašo Galindos teritorinį mastą.","support_ids":["t-213548","c-196686"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213548","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196686","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Vadinasi, nemažai žemių nuo Radzilovo mieste­ lio prie Viznos net iki Choželių miesto prie Orzico upės priklausė Galindai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0612b8c0b45a8574d24af02f","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Galinda apibūdinama kaip septintoji provincija.","context":"Teodoras Narbutas Galindos administracinį-teritorinį statusą nurodo istoriniame aprašyme.","support_ids":["t-215128","c-196512"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215128","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196512","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Galinda Galindos, septintos provincijos, pietuose buvo Barta, vakaruose jos siena prasidėjo prie Sasavos žemės, nuo Hohenšteino ir Noidenburgo, prie Alnos versmių ir ta pačia upe ribojosi su Varmija. Jos šiaurėje taip pat buvo Barta, vadinasi, siena driekėsi nuo Rezlio Rastenburgo link. Pietuose jos kaimynė buvo Mazovija, bet didesnė krašto dalis, šiandien priklausanti Lenkijos Karalystei, tuomet priklausė Galindai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"bdff75ff7eea4d2bc2e398bc","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"1253 m. kryžiuočių kampanijos tikslas buvo nusiaubti Galindą.","context":"Tai Teodoro Narbuto pateiktas 1253 metų kryžiuočių kampanijos tikslo vertinimas.","support_ids":["t-213110","c-196556"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213110","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196556","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Be to, 1253 metų kryžiuočių kampanijos tikslas bu­ vo pirmiausia nusiaubti Bartą ir Galindą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f8666e2f8a0e4936f65867a0","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Norėdami lengviau užimti Sembą, kryžiuočiai pirmiausia turėjo užkariauti Galindą ir nutraukti jotvingių ryšius su Panemunės kraštais.","context":"Teodoras Narbutas taip aprašo 1253 m. kryžiuočių strateginį tikslą ir veiksmų seką.","support_ids":["t-212488","c-197496"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212488","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197496","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"123 Kai 1253 metų pradžioje susiklostė draugiški Pamario kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­ tinga Sembos provincija, bet šie atkaklūs bandymai ją užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­ sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą, sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­ nės kraštais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"1d2de9f2af4e85464c611deb","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Galindų kraštas, pasak Dusburgiečio pasakojimo, klestėjo dėl ilgos taikos, o gyventojų buvo tiek daug, kad jie vos galėjo sutilpti.","context":"Teodoras Narbutas perteikia Dusburgiečio pasakojimą apie Galindų kraštą; tai šaltinio autoriaus pateiktas istorinis apibūdinimas.","support_ids":["t-218571","c-200762"],"source_refs":[{"kind":"internal_claim","claim_id":"t-218571","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-200762","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Apie vieną iš jų tokį pasakojimą paliko Dus- burgietis. Galindų krašte, klestinčiame dėl ilgos taikos, taip padau­ gėjo žmonių, kad jie vos galėjo sutilpti. Tuomet krašto seniū­ nai nutarė, kad moteriškos lyties kūdikiai kurį laiką privalą būti žudomi paliekant vien berniukus karo reikalui."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Galinda buvo istorinė Prūsijos provincija ir galindų gyvenamas kraštas. Ji driekėsi nuo Radzilovo prie Viznos iki Choželių prie Orzicos, o pietuose ribojosi su Mazovija; vakarinė siena siekė Sasavos žemę, Hohenšteiną ir Noidenburgą, o Alnos upe kraštas ribojosi su Varmija. 1253 m. Galinda tapo svarbiu kryžiuočių karo taikiniu: ją planuota užkariauti, kad būtų lengviau paimti Sembą, sutramdyti jotvingius ir atkirsti juos nuo Panemunės kraštų. Tų pačių metų kampanijos metu kryžiuočiai siekė nusiaubti Bartą ir Galindą. Pasak pateikto šaltinio, Galinda kartu su Jotvingija jau priklausė Rusios Didžiajai Kunigaikštystei, o ilgos taikos laikotarpiu jos gyventojų taip padaugėjo, kad kraštas sunkiai juos talpino.","sentences":[{"sentence_id":"s1","text":"Galinda buvo istorinė Prūsijos provincija ir galindų gyvenamas kraštas.","support_ids":["t-212488","c-197496","t-215128","c-196512"]},{"sentence_id":"s2","text":"Ji driekėsi nuo Radzilovo prie Viznos iki Choželių prie Orzicos, o pietuose ribojosi su Mazovija; vakarinė siena siekė Sasavos žemę, Hohenšteiną ir Noidenburgą, o Alnos upe kraštas ribojosi su Varmija.","support_ids":["t-213548","c-196686","t-214937","c-197406","t-215128","c-196512"]},{"sentence_id":"s3","text":"1253 m. Galinda tapo svarbiu kryžiuočių karo taikiniu: ją planuota užkariauti, kad būtų lengviau paimti Sembą, sutramdyti jotvingius ir atkirsti juos nuo Panemunės kraštų.","support_ids":["t-212488","c-197496"]},{"sentence_id":"s4","text":"Tų pačių metų kampanijos metu kryžiuočiai siekė nusiaubti Bartą ir Galindą.","support_ids":["t-213110","c-196556"]},{"sentence_id":"s5","text":"Pasak pateikto šaltinio, Galinda kartu su Jotvingija jau priklausė Rusios Didžiajai Kunigaikštystei, o ilgos taikos laikotarpiu jos gyventojų taip padaugėjo, kad kraštas sunkiai juos talpino.","support_ids":["t-205366","c-187737","t-218571","c-200762"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Support_ids tiesiogiai neparemia teiginio, kad Galinda buvo galindų gyvenamas kraštas."},{"sentence_id":"s2","supported":true,"reason":"Visos nurodytos Galindos ribos ir kaimynystės tiesiogiai paremtos pateiktais šaltiniais."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1253 m. planus užkariauti Galindą, paimti Sembą, sutramdyti jotvingius ir nutraukti jų ryšius su Panemunės kraštais."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad 1253 m. kampanijos tikslas buvo nusiaubti Bartą ir Galindą."},{"sentence_id":"s5","supported":true,"reason":"Abi sakinio dalys tiesiogiai paremtos pateiktais šaltiniais: priklausymas Rusios Didžiajai Kunigaikštystei ir gyventojų pagausėjimas ilgos taikos metu."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-212488","c-197496","t-215128","c-196512"]},{"sentence_id":"s2","supported":true,"support_ids":["t-213548","c-196686","t-214937","c-197406","t-215128","c-196512"]},{"sentence_id":"s3","supported":true,"support_ids":["t-212488","c-197496"]},{"sentence_id":"s4","supported":true,"support_ids":["t-213110","c-196556"]},{"sentence_id":"s5","supported":true,"support_ids":["t-205366","c-187737","t-218571","c-200762"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Galindai","claim_id":"t-214388","confidence":0.68},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-223585","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Vartenbergas","claim_id":"t-222709","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-221524","confidence":0.88},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-212488","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":7,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e516f7e485af2472
+object_page_generated_at: '2026-09-19T20:08:42+00:00'
+object_page_source_checked_at: '2026-09-19T20:08:42+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '3'
+object_page_seo_description: 'Galinda buvo istorinė Prūsijos provincija ir galindų gyvenamas kraštas. Ji driekėsi nuo Radzilovo prie Viznos iki Choželių prie Orzicos, o pietuose ribojosi…'
+object_page_seo_input_hash: a94d2543559990acbee2647117d0d27e9d2b823bc74bf461a23c0a315bcb174b
+object_page_seo_generated_at: '2026-09-19T20:08:42+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Galinda
 
@@ -48,49 +60,47 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 
 ## Teiginiai
 
-<a id="claim-t-213110"></a>
-- t-213110
-  teiginys: "1253 metų kryžiuočių kampanijos tikslas buvo nusiaubti Bartą ir Galindą."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-58551"></a>
+- t-001
+  teiginys: "Galindos žemė buvo į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196556
-
-<a id="claim-t-213548"></a>
-- t-213548
-  teiginys: "Galindai priklausė žemės nuo Radzilovo prie Viznos iki Choželių prie Orzicos."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196686
-
-<a id="claim-t-223585"></a>
-- t-223585
-  teiginys: "Petro Dusburgiečio kronikoje Galinda įvardyta kaip viena iš vienuolikos Prūsijos žemės dalių."
-  atnaujinta: "2026-09-13 18:03"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumas: "gyveno -> Galinda: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
   ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Galinda: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata Galindą pateikia kaip vieną iš Prūsijos žemės dalių."
+  ryšio_subjekto_parinkimas: "Galindai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Galinda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Formuluotė „galindų žemės“ leidžia sieti galindus su Galindos teritorija, bet tai nėra tiesioginė gyvenimo vietos formuluotė."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Galinda priklausė Prūsija (0.82)"
+  semantiniai_rysiai: "Galindai gyveno Galinda (0.68)"
+  pagrindžia:
+    - c-59183
 
-<a id="claim-t-212488"></a>
-- t-212488
+<a id="claim-t-188692"></a>
+- t-002
+  teiginys: "Narbutas pasakojo, kad supykdyti kaimynai nuniokojo Galindą taip, jog kraštas daugeliui metų liko beveik negyvenamas."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Krikščionys: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Galinda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Galinda\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171581
+
+<a id="claim-t-192661"></a>
+- t-003
   teiginys: "1253 m. kryžiuočiai, siekdami lengviau užimti Sembą, pirmiausia turėjo užkariauti Galindą ir atskirti jotvingius nuo Panemunės kraštų."
-  atnaujinta: "2026-09-13 18:12"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -109,24 +119,12 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   temporalinis_llm_pakomentavimas: "Išskleistas laiko ir karo veiksmų kontekstas, vengiant moralinio „godumo“ vertinimo. Nepridėta daugiau apie Pamario kunigaikščius."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-197496
+    - c-175431
 
-<a id="claim-t-214937"></a>
-- t-214937
-  teiginys: "Pietuose jos kaimynė buvo Mazovija, bet didesnė krašto dalis, šiandien priklausanti Lenkijos Karalystei, tuomet priklausė Galindai."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197406
-
-<a id="claim-t-215128"></a>
-- t-215128
-  teiginys: "Galindos vakarinė siena prasidėjo prie Sasavos žemės, Hohenšteino ir Noidenburgo, o Alnos upe ribojosi su Varmija."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-192662"></a>
+- t-004
+  teiginys: "Narbutas Galindą apibūdino kaip vieną seniausių provincijų, kadaise plačiau besidriekusią Mazovijos ir Polesės link."
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -141,24 +139,56 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-196512
+    - c-175432
 
-<a id="claim-t-218571"></a>
-- t-218571
+<a id="claim-t-192663"></a>
+- t-005
+  teiginys: "Galindos vakarinė siena prasidėjo prie Sasavos žemės, Hohenšteino ir Noidenburgo, o Alnos upe ribojosi su Varmija."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Galindai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Galinda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Galindai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Galinda\" parinktas kaip owner_note_path. Targetas \"Galindai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175433
+
+<a id="claim-t-194732"></a>
+- t-006
   teiginys: "Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, kad jie vos galėjo sutilpti."
-  atnaujinta: "2026-09-12 23:46"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-200762
+    - c-177128
+
+<a id="claim-t-197879"></a>
+- t-007
+  teiginys: "Pietuose jos kaimynė buvo Mazovija, bet didesnė krašto dalis, šiandien priklausanti Lenkijos Karalystei, tuomet priklausė Galindai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179378
 
 <a id="claim-t-205366"></a>
-- t-205366
+- t-008
   teiginys: "Pasak teksto, Galinda kartu su Jotvingija jau priklausė Rusios Didžiajai Kunigaikštystei."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -211,7 +241,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-59183
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -228,6 +257,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-171581
   autorius: "Teodoras Narbutas"
@@ -248,6 +279,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-175431
   autorius: "Teodoras Narbutas"
@@ -271,6 +304,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-175432
   autorius: "Teodoras Narbutas"
@@ -298,6 +333,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-175433
   autorius: "Teodoras Narbutas"
@@ -319,6 +356,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-177128
   autorius: "Teodoras Narbutas"
@@ -337,6 +376,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-179378
   autorius: "Teodoras Narbutas"
@@ -357,6 +398,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-187737
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -378,156 +421,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205366
-
-- id: c-196512
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 362"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 362."
-  citata_originali: |
-    Galinda
-    Galindos, septintos provincijos, pietuose buvo Barta,
-    vakaruose jos siena prasidėjo prie Sasavos žemės, nuo
-    Hohenšteino ir Noidenburgo, prie Alnos versmių ir ta
-    pačia upe ribojosi su Varmija. Jos šiaurėje taip pat buvo
-    Barta, vadinasi, siena driekėsi nuo Rezlio Rastenburgo
-    link. Pietuose jos kaimynė buvo Mazovija, bet didesnė
-    krašto dalis, šiandien priklausanti Lenkijos Karalystei,
-    tuomet priklausė Galindai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215128
-
-- id: c-196556
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 125"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 125."
-  citata_originali: |
-    Be to, 1253 metų kryžiuočių kampanijos tikslas bu­
-    vo pirmiausia nusiaubti Bartą ir Galindą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213110
-
-- id: c-196686
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 362"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 362."
-  citata_originali: |
-    Vadinasi, nemažai žemių nuo Radzilovo mieste­
-    lio prie Viznos net iki Choželių miesto prie Orzico upės
-    priklausė Galindai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213548
-
-- id: c-197406
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 362"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 362."
-  citata_originali: |
-    Pietuose jos kaimynė buvo Mazovija, bet didesnė
-    krašto dalis, šiandien priklausanti Lenkijos Karalystei,
-    tuomet priklausė Galindai. Šios provincijos siena su Ma­
-    zovija prasidėdavo ten, kur Vizna įteka į Bebrą, toliau
-    ėjo ta pačia Vizna net iki Narvemedės miško, o. iš ten —
-    iki Vincentos upės, kur įteka į Pisą. Iš ten ji driekėsi pa­
-    lei Ribno, tuomet Rubins, ežerą, po to net iki Turoslio
-    upės, seniau vadintos Targawiten.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214937
-
-- id: c-197496
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
-  citata_originali: |
-    123
-    Kai 1253 metų pradžioje susiklostė draugiški Pamario
-    kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems
-    saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis
-    užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­
-    tinga Sembos provincija, bet šie atkaklūs bandymai ją
-    užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė
-    toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­
-    sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą,
-    sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­
-    nės kraštais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212488
-
-- id: c-200762
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 304"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 304."
-  citata_originali: |
-    Apie vieną iš jų tokį pasakojimą paliko Dus-
-    burgietis.
-    Galindų krašte, klestinčiame dėl ilgos taikos, taip padau­
-    gėjo žmonių, kad jie vos galėjo sutilpti. Tuomet krašto seniū­
-    nai nutarė, kad moteriškos lyties kūdikiai kurį laiką privalą
-    būti žudomi paliekant vien berniukus karo reikalui.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218571
-
-- id: c-206171
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 61"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61."
-  citata_originali: |
-    T.,   ja į pietus nuo Bartos, nuo
-    Alnos (dab. Lynos) aukštumos (apie dab. Olštiną) vakaruose iki Nagutino (Negocino)
-    ir Snervų ežerų rytuose (rytinė siena su jotvingiais nėra aiški; galindų žemės galėjo
-    būti ir už šių ežerų, iki Lego upės); siena su Barta ėjo kiek į šiaurę nuo dab. Biskupeco,
-    pietuose žemė siekė dab.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Puolė Galindą: [[objektai/grupes/Sūduviai]]

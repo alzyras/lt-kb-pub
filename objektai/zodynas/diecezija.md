@@ -1,6 +1,6 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'diecezija'
+pavadinimas: diecezija
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -15,18 +15,91 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:34:21+00:00","source_checked_at":"2026-09-20T13:34:21+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"54ae002b18ec16374f79448c","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Žodis „diecezija“ vartojamas kalbant apie Vilniaus ir Gniezno bažnytines jurisdikcijas bei apie italų dieceziją.","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.), aprašo Vilniaus vyskupą ir Gniezno dieceziją; Teodoras Narbutas, „Lietuvių tautos istorija“, t. 2 (1995 m.), žodį vartoja aprašydamas Odoakrui patikėtą valdžią italų diecezijoje.","support_ids":["t-192167","c-175041","t-192168","c-175042","t-212570","c-196727"],"source_refs":[{"kind":"internal_claim","claim_id":"t-192167","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-192168","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-212570","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-175041","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta. Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­ rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­ nuolį, Cereto vyskupą, kadaise Vengrijos karalienės Elžbie­ tos nuodėmklausį, pavyzdingą vyrą ir garsų pamokslinin­ ką9. O keturi naujai įvesti prelatų ir aštuoni kanauninkų titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­ tiems Lietuvoje Kristaus tikėjimą."},{"kind":"evidence","evidence_id":"c-175042","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam bet ir kai kuriais padavimais ar užuominomis, kurias aptikau Vil­ niaus kapitulos ar Karaliauč. slapt. archyvo dokumentuose. 8 Katedra pastatyta Švč. Trejybės ir Dievo Motinos Švč. Mergelės Mari­ jos garbei, tačiau pašvęsta ypačiai šv. Stanislovui, kankiniui ir vysku­ pui bei šv."},{"kind":"evidence","evidence_id":"c-196727","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Dėl to Romos se- natas nusiuntė į Konstantinopolį pasiuntinius, pranešda- mas, jog nereikia skelbti imperatorių Romoje, nes auk- ščiausio rango pareigūnas yra Rytų imperijoje; imperato- rius gali drąsiai pasikliauti dora ir karingumu Odoakro kaip patricijaus, kuriam jis teikiasi patikėti valdžią italų diecezijoje."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 31faa0b4074a072d
+object_page_generated_at: '2026-09-20T13:34:21+00:00'
+object_page_source_checked_at: '2026-09-20T13:34:21+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '2'
+object_page_seo_description: 'diecezija: Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­ rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu…'
+object_page_seo_input_hash: c91feda04858246d33b4d904d0093ae6aa78965b3aac90a4fe134b2110fc3954
+object_page_seo_generated_at: '2026-09-20T13:34:21+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # diecezija
 
 ## Santrauka
 
 Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­ rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­ nuolį, Cereto vyskupą, kadaise Vengrijos karalienės. Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam bet ir kai kuriais padavimais ar užuominomis, kurias aptikau Vil­ niaus kapitulos ar Karaliauč.
+
+## Teiginiai
+
+<a id="claim-t-192165"></a>
+- t-001
+  teiginys: "Narbutas žodį „diecezija“ vartoja kalbėdamas apie Odoakrui patikėtą valdžią Italijoje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "valde -> Italija: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai kalba apie Odoakrui patikėtą valdžią Italijoje, todėl tai atitinka valdymo ryšį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175043
+
+<a id="claim-t-192166"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad Romos senatas Odoakrą pristatė kaip patricijų, kuriam patikima valdžia italų diecezijoje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "siunte_i -> Konstantinopolis: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Romos senatas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Romos senatas siuntė pasiuntinius į Konstantinopolį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Romos senatas siuntė į Konstantinopolis (0.89)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175043
+
+<a id="claim-t-192167"></a>
+- t-003
+  teiginys: "Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_place: Vasilevas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Vengrija; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-175041
+
+<a id="claim-t-192168"></a>
+- t-004
+  teiginys: "Klodovo klebonija, duota naujajam vyskupui, buvo Gniezno diecezijoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Nepaisant įterpto triukšmo, citata palaiko trumpą faktą apie Gniezno dieceziją."
+  susije_objektai: "mentioned_place: Gniezno; mentioned_place: Klodovas; llm_object: Gniezno"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-175042
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -77,8 +150,8 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192167
+  pagrindzia:
+    - t-003
 
 - id: c-175042
   autorius: "Michał Baliński"
@@ -105,8 +178,8 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192168
+  pagrindzia:
+    - t-004
 
 - id: c-175043
   autorius: "Teodoras Narbutas"
@@ -127,73 +200,6 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-212570"></a>
-- t-001
-  teiginys: "Narbutas žodį „diecezija“ vartoja kalbėdamas apie Odoakrui patikėtą valdžią Italijoje."
-  atnaujinta: "2026-09-13 21:45"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "valde -> Italija: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai kalba apie Odoakrui patikėtą valdžią Italijoje, todėl tai atitinka valdymo ryšį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-
-<a id="claim-t-192167"></a>
-- t-192167
-  teiginys: "Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_place: Vasilevas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Vengrija; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-175041
-
-<a id="claim-t-192168"></a>
-- t-192168
-  teiginys: "Klodovo klebonija, duota naujajam vyskupui, buvo Gniezno diecezijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Nepaisant įterpto triukšmo, citata palaiko trumpą faktą apie Gniezno dieceziją."
-  susije_objektai: "mentioned_place: Gniezno; mentioned_place: Klodovas; llm_object: Gniezno"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-175042
-
-<a id="claim-t-213520"></a>
-- t-213520
-  teiginys: "Odoakrui buvo patikėta valdžia italų diecezijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-214696"></a>
-- t-214696
-  teiginys: "Narbutas rašo, kad Romos senatas Odoakrą pristatė kaip patricijų, kuriam patikima valdžia italų diecezijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "siunte_i -> Konstantinopolis: 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Romos senatas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Romos senatas siuntė pasiuntinius į Konstantinopolį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Romos senatas siuntė į Konstantinopolis (0.89)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-
+  pagrindzia:
+    - t-001
+    - t-002

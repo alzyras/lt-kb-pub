@@ -35,6 +35,21 @@ historical_names: []
 
 Glebui Svetoslavovičiui buvo duotas Polonos miestas.
 
+## Teiginiai
+
+<a id="claim-t-199792"></a>
+- t-001
+  teiginys: "Lietuvos metraštyje rašoma, kad Glebui Svetoslavovičiui buvo duotas Polonos miestas."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Kronikos pasakojime vartojamas titulas pašalintas, o faktas suformuluotas aiškiai."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Smolenskas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-182696
+
 ## Citatos
 
 - id: c-182696
@@ -59,17 +74,5 @@ Glebui Svetoslavovičiui buvo duotas Polonos miestas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-211523"></a>
-- t-001
-  teiginys: "Lietuvos metraštyje rašoma, kad Glebui Svetoslavovičiui buvo duotas Polonos miestas."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Kronikos pasakojime vartojamas titulas pašalintas, o faktas suformuluotas aiškiai."
-  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Smolenskas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-
+  pagrindzia:
+    - t-001

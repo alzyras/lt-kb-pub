@@ -46,6 +46,23 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-204134"></a>
+- t-001
+  teiginys: "1561 m. į didžiojo kunigaikščio medžioklę Valkininkuose iš Kaniavos ir Dubičių dvarų turėjo būti pasiųsta 100 valstiečių penkioms dienoms."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1561 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir tiksliai nurodo datą, vietą, žmonių skaičių bei trukmę. Šaltinio modalumas „turėjo būti“ išlaikytas."
+  pagrindžia:
+    - c-186775
+
 ## Santrauka
 
 1561 m. į didžiojo kunigaikščio medžioklę Valkininkuose iš Kaniavos ir Dubičių dvarų turėjo būti pasiųsta 100 valstiečių penkioms dienoms.
@@ -72,23 +89,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204134"></a>
-- t-001
-  teiginys: "1561 m. į didžiojo kunigaikščio medžioklę Valkininkuose iš Kaniavos ir Dubičių dvarų turėjo būti pasiųsta 100 valstiečių penkioms dienoms."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1561 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir tiksliai nurodo datą, vietą, žmonių skaičių bei trukmę. Šaltinio modalumas „turėjo būti“ išlaikytas."
-  pagrindžia:
-    - c-186775
-

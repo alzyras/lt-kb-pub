@@ -1,13 +1,13 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'sekuliarizacija (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: sekuliarizacija (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'sekuliarizacija'
+  - sekuliarizacija
 aliases:
-  - 'sekuliarizacija'
+  - sekuliarizacija
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # sekuliarizacija (sąvoka)
 

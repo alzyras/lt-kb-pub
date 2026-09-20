@@ -47,6 +47,27 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-67123"></a>
+- t-001
+  teiginys: "Konfederaciniuose seimuose numatyti klausimai buvo sprendžiami balsų dauguma, todėl veto teisė juose nebeveikė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67150
+
+<a id="claim-t-67124"></a>
+- t-002
+  teiginys: "Konfederaciniuose seimuose numatyti klausimai buvo sprendžiami balsų dauguma, todėl juose nebeveikė veto teisė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-67150
+
 ## Citatos
 
 - id: c-67150
@@ -68,28 +89,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-67123"></a>
-- t-001
-  teiginys: "Konfederaciniuose seimuose numatyti klausimai buvo sprendžiami balsų dauguma, todėl veto teisė juose nebeveikė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67150
-
-<a id="claim-t-67124"></a>
-- t-002
-  teiginys: "Konfederaciniuose seimuose numatyti klausimai buvo sprendžiami balsų dauguma, todėl juose nebeveikė veto teisė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-67150
-

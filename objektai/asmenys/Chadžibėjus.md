@@ -35,6 +35,25 @@ canonical_biography: "Jie susirėmė su Juodosios jūros pajūrio ir Krymo totor
 
 Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų vadų-kunigaikščių Chadžibėjaus, Kutlugbugo, Dmitrijaus kariuomene.
 
+## Teiginiai
+
+<a id="claim-t-39502"></a>
+- t-001
+  teiginys: "Chadžibėjus buvo vienas iš trijų vadų-kunigaikščių, kurių kariuomenė susirėmė su Lietuvos kariuomene."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Lietuvos kariuomenė: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Chadžibėjus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Chadžibėjaus kariuomenė susirėmė su Lietuvos kariuomene."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Chadžibėjus kariavo prieš Lietuvos kariuomenė (0.90)"
+  pagrindžia:
+    - c-41306
+
 ## Citatos
 
 - id: c-41306
@@ -59,28 +78,8 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Chadžibėjus kariavo prieš [[objektai/grupes/Lietuvos kariuomenė]]
-
-## Teiginiai
-
-<a id="claim-t-39502"></a>
-- t-001
-  teiginys: "Chadžibėjus buvo vienas iš trijų vadų-kunigaikščių, kurių kariuomenė susirėmė su Lietuvos kariuomene."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Lietuvos kariuomenė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Chadžibėjus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Chadžibėjaus kariuomenė susirėmė su Lietuvos kariuomene."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Chadžibėjus kariavo prieš Lietuvos kariuomenė (0.90)"
-  pagrindžia:
-    - c-41306
-

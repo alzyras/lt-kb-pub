@@ -50,17 +50,23 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-211634"></a>
-- t-211634
-  teiginys: "Septyni vienuoliai buvo pririšti prie kryžių ir paleisti Nerimi."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
+<a id="claim-t-186839"></a>
+- t-001
+  teiginys: "Lietuvos metraštis pasakoja, kad Vilniuje septyni pranciškonai buvo pririšti prie kryžių ir paleisti Nerimi žemyn."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžius: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžius\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
-    - c-193273
+    - c-170022
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -117,28 +123,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193273
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 75"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 75."
-  citata_originali: |
-    nenorėdami, kad
-    būtų Romos tikėjimo krikščionių, vienuolyną sudegino
-    ir septynis vienuolius sukapojo, o kitus septynis vie­
-    nuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­
-    kydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­
-    kite. Kam mūsų dievus naikinote." 2 O vyskupo sode,
-    kur juos iškapojo, toje vietoje ir dabar stovi kryžius 3
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211634
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Pranciškonų ordinas]]

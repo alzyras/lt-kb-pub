@@ -33,6 +33,17 @@ canonical_biography: "Be to, buvo keturi sidabriniai dubenys, užstatyti pas auk
 
 Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 16 May ad diem 18 Aug.
 
+## Teiginiai
+
+<a id="claim-t-87902"></a>
+- t-001
+  teiginys: "Auksakaliui Adomui nuo gegužės 16 d. iki rugpjūčio 18 d. buvo užstatyti keturi sidabriniai dubenys už 300 florinų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83881
+
 ## Citatos
 
 - id: c-83881
@@ -50,17 +61,5 @@ Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87902"></a>
-- t-001
-  teiginys: "Auksakaliui Adomui nuo gegužės 16 d. iki rugpjūčio 18 d. buvo užstatyti keturi sidabriniai dubenys už 300 florinų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83881
-

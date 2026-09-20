@@ -36,6 +36,41 @@ historical_names: []
 
 Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenčionėlių linijoje. (3 Spalio 17 d. lenkai puola, užima Švenčionėlius, tačiau batalionai iki vakaro ginasi ties Merkiu prieš dvi lenkų brigadas, galiausiai atsitraukia į pietines Vilniaus prieigas.
 
+## Teiginiai
+
+<a id="claim-t-42385"></a>
+- t-001
+  teiginys: "Spalio 17 d. lenkai užėmė Švenčionėlius, o batalionai iki vakaro gynėsi ties Merkiu ir atsitraukė į pietines Vilniaus prieigas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Švenčionėliai: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švenčionėliai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad lenkai užėmė Švenčionėlius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lenkai užėmė Švenčionėliai (0.96); Lenkai puolė Švenčionėliai (0.92)"
+  pagrindžia:
+    - c-45475
+
+<a id="claim-t-42386"></a>
+- t-002
+  teiginys: "Frontas nusistovėjo Kernavės, Musninkų, Širvintų, Giedraičių, Dubingių ir Švenčionėlių linijoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švenčionėliai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švenčionėliai\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-45476
+
 ## Citatos
 
 - id: c-45475
@@ -54,7 +89,7 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-45476
@@ -80,45 +115,9 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 ## Ryšiai
 - Puolė Švenčionėliai: [[objektai/grupes/Lenkai]]
 - Užėmė Švenčionėliai: [[objektai/grupes/Lenkai]]
-
-## Teiginiai
-
-<a id="claim-t-42385"></a>
-- t-001
-  teiginys: "Spalio 17 d. lenkai užėmė Švenčionėlius, o batalionai iki vakaro gynėsi ties Merkiu ir atsitraukė į pietines Vilniaus prieigas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Švenčionėliai: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Švenčionėliai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad lenkai užėmė Švenčionėlius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lenkai užėmė Švenčionėliai (0.96); Lenkai puolė Švenčionėliai (0.92)"
-  pagrindžia:
-    - c-45475
-
-<a id="claim-t-42386"></a>
-- t-002
-  teiginys: "Frontas nusistovėjo Kernavės, Musninkų, Širvintų, Giedraičių, Dubingių ir Švenčionėlių linijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švenčionėliai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švenčionėliai\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-45476
-

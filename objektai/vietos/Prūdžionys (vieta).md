@@ -87,11 +87,9 @@ historical_names: []
     Kriaunų palivarko su arkliais, žemės ūkio padargais ir namų rakandais pasitraukė aštuoni valstiečiai, radę
     prieglobstį pas bajorą Racevičių.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 13:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

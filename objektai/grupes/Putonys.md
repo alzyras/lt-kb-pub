@@ -27,6 +27,21 @@ media_all_json: |-
 
 Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius iš stebimo vandens, jo ūžimo ar putų.
 
+## Teiginiai
+
+<a id="claim-t-189530"></a>
+- t-001
+  teiginys: "Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius iš stebimo vandens, jo ūžimo ar putų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172418
+
 ## Citatos
 
 - id: c-172418
@@ -47,41 +62,5 @@ Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201006
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 297"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 297."
-  citata_originali: |
-    Apie tai kalbėsime straipsnyje
-    „Burtai“.
-    Putonys (Puttones)
-    Buvo pranašautojai, nusakantys ateitį iš stebimo vandens,
-    ypač pagal jo ūžimą arba putas. Tačiau šias pareigas gerbti-
-    niausiomis visuomenėje laikė todėl, kad jų priedermė buvo
-    sutaikyti priešus ir susipykusius bet kurio luomo žmones.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-218133"></a>
-- t-001
-  teiginys: "Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius iš stebimo vandens, jo ūžimo ar putų."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-201006
-

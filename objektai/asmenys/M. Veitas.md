@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'M. Veitas'
+pavadinimas: M. Veitas
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-1e33b323fb6fb1fecf3c1e57"
-canonical_name: "M. Veitas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["M. Veitas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-1e33b323fb6fb1fecf3c1e57
+canonical_name: M. Veitas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - M. Veitas
 sameAs: []
-canonical_biography: "Veitui, rašyti paties vyskupo ranka rusų, len kų ir lotynų kalbomis."
+canonical_biography: 'Veitui, rašyti paties vyskupo ranka rusų, len kų ir lotynų kalbomis.'
 ---
 # M. Veitas
 

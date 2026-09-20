@@ -1,40 +1,40 @@
 ---
 tipas: vieta
-pavadinimas: 'Putnas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Putnas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Putnas'
+  - Putnas
 aliases:
-  - 'Putnas'
+  - Putnas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1470 m.'
+  - 1470 m.
 date_start: '1470'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d7000cbd71c112a2e42d7116"
-canonical_name: "Putnas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Putnas","Putnas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d7000cbd71c112a2e42d7116
+canonical_name: Putnas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Putnas
+  - Putnas (vieta)
 sameAs: []
-canonical_biography: "Putnas buvo tvirtovinio tipo vienuolynas šiaurės Rumunijoje, įsteigtas Moldavijos vaivados Stepono Didžiojo."
+canonical_biography: 'Putnas buvo tvirtovinio tipo vienuolynas šiaurės Rumunijoje, įsteigtas Moldavijos vaivados Stepono Didžiojo.'
 ---
 # Putnas (vieta)
 
@@ -82,6 +82,5 @@ Putnas buvo tvirtovinio tipo vienuolynas šiaurės Rumunijoje, įsteigtas Moldav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

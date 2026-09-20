@@ -39,6 +39,20 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205122"></a>
+- t-001
+  teiginys: "Narbutas pasakoja, kad minėtoje cerkvėje kasmet liepos 28-ąją pagal rusų kalendorių turėjo vykti gedulingos pamaldos už bajoro Stepono ir bajorės Olitos sielas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187980
+
 ## Santrauka
 
 Narbutas pasakoja, kad minėtoje cerkvėje kasmet liepos 28-ąją pagal rusų kalendorių turėjo vykti gedulingos pamaldos už bajoro Stepono ir bajorės Olitos sielas.
@@ -63,20 +77,5 @@ Narbutas pasakoja, kad minėtoje cerkvėje kasmet liepos 28-ąją pagal rusų ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205122"></a>
-- t-001
-  teiginys: "Narbutas pasakoja, kad minėtoje cerkvėje kasmet liepos 28-ąją pagal rusų kalendorių turėjo vykti gedulingos pamaldos už bajoro Stepono ir bajorės Olitos sielas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187980
-

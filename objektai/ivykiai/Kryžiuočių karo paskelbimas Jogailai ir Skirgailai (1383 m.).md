@@ -40,6 +40,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206808"></a>
+- t-001
+  teiginys: "Kryžiuočiai teigė, kad Jogaila ir Skirgaila sužlugdė anksčiau sutartą suvažiavimą, turėjusį įtvirtinti draugiškus ryšius."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189423
+
 ## Santrauka
 
 Kryžiuočiai teigė, kad Jogaila ir Skirgaila sužlugdė anksčiau sutartą suvažiavimą, turėjusį įtvirtinti draugiškus ryšius.
@@ -77,20 +91,5 @@ Kryžiuočiai teigė, kad Jogaila ir Skirgaila sužlugdė anksčiau sutartą suv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206808"></a>
-- t-001
-  teiginys: "Kryžiuočiai teigė, kad Jogaila ir Skirgaila sužlugdė anksčiau sutartą suvažiavimą, turėjusį įtvirtinti draugiškus ryšius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189423
-

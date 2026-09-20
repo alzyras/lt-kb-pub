@@ -6,16 +6,16 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvių tautos istorija, t. 3'
-  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - Lietuvos Didžioji Kunigaikštija ir jos tradicija
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1214 m.'
-  - '1259 m.'
+  - 1214 m.
+  - 1259 m.
 date_start: '1214'
 date_end: '1259'
 sukurta: ''
@@ -26,28 +26,41 @@ tags:
   - kunigaikštis
   - kunigas
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8bf22d56a52406f6babf3472"
-canonical_name: "Kristijonas (vyskupas, XIII a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Kristijonas","Kristijonas (vyskupas, XIII a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8bf22d56a52406f6babf3472
+canonical_name: 'Kristijonas (vyskupas, XIII a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Kristijonas
+  - 'Kristijonas (vyskupas, XIII a.)'
 sameAs: []
-canonical_biography: "Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, kuriam turėjo ir priklausyti. Kristijonui pasisekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215 m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius. Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristijonas."
+canonical_biography: 'Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, kuriam turėjo ir priklausyti. Kristijonui pasisekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215 m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius. Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristijonas.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T02:45:12+00:00","source_checked_at":"2026-09-19T02:45:12+00:00","counts":{"relations":6,"gallery":0,"sources":11},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru- nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui, taip pat turėdami omenyje kronikininkams būdingus trūku­ mus, negalime neginti Grunau15. Žinią apie vyriausiuosius žy­ nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­ dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį. Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­ kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­ ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko Davido mirties rankraščių net…","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","claim_id":"t-216167","evidence_id":"c-198494","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"2945e34b1261a1d7c3899709","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Mokėjo lietuvių kalbą, lietuviškai perrašė Donato kalbamokslę ir mokė krikščionybės.","context":"Daukanto pasakojime apie Kristijono veiklą po to, kai jis pramoko lietuvių kalbos.","support_ids":["t-201007","c-184357"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201007","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184357","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Kristijoną, kol pramoko lietuvių kalbos, galėdamas jau kalbėti, pasigerino netikėliams lietuviams, kurių daugybes apkrikštijo ir kalbamokslę Donatą lietuviškai perguldė, iš kurios jaunuomenė galėjo mokytis iškalose1. Besant Vilhelmui Kulmijoj, v. Kristijonas norėjo ketamą zokaną kareivių įkurti, kurio pasiteiravęs, lūgojo popiežiaus patvirtinimo, kursai ir patvirtino."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5ab36c7f4bd14af628c3f53d","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Skelbė krikščionybę ir pakrikštijo daug prūsų bei lietuvių.","context":"Šaltiniuose aprašoma XIII a. Kristijono misionieriška veikla Prūsijoje ir Lietuvoje.","support_ids":["t-93427","c-21837","t-201005","c-184355"],"source_refs":[{"kind":"internal_claim","claim_id":"t-93427","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-201005","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-21837","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Kristijonui pasi- sekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215 m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius."},{"kind":"evidence","evidence_id":"c-184355","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Kristijonas, ap­ krikštijęs dar didžias daugybes netikėlių, rūpinos paskui skelbimu žodžio Dievo apygardoj Draudžiu ežero ir, sekdamas Albertą, vyskupą Rygos, keliavo su tiedviem kunigaikščiais tą patį metą į Rymą po­ piežiui aprodyti ir apipasakoti apie platinimos tiky­ bos krikščionų toje šalyje. Pasakojant Kristijonui, popiežius, matydamas skaitlių perkrikštų gausų esant, užvis jog tuodu kunigaikščiu, dėkavodamu už moks­ lą savo mokytojui Kristijonui, kunigaikštystas savo jam padovenojo, todėl Inocentas III pakėlė jį vys­ kupu Kulmijos ir visų tų kraštų, Parusniu vadina­ mų, vildamos, jog Kristijonas, išsiliuosavęs nuo zo- kano, dar didesniai steigs platinti tikybą krikščionų Lietuvos…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0b68751f290d68075ead9a68","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Teikė Mindaugui informaciją apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.","context":"Alfredo Bumblausko ir bendraautorių vertinime Kristijonas aprašomas kaip Mindaugo pasirinktas pagalbininkas XIII a.","support_ids":["t-207495","c-190063"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207495","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190063","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio išgavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5f888b827fef89949c986bfe","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Mokėjo kalbėti lietuviškai ir tuo pasigerino lietuviams.","context":"Daukanto pasakojime apie Kristijono veiklą tarp lietuvių, jam pramokus lietuvių kalbos.","support_ids":["t-201007","c-184357"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201007","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184357","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Kristijoną, kol pramoko lietuvių kalbos, galėdamas jau kalbėti, pasigerino netikėliams lietuviams, kurių daugybes apkrikštijo ir kalbamokslę Donatą lietuviškai perguldė, iš kurios jaunuomenė galėjo mokytis iškalose1. Besant Vilhelmui Kulmijoj, v. Kristijonas norėjo ketamą zokaną kareivių įkurti, kurio pasiteiravęs, lūgojo popiežiaus patvirtinimo, kursai ir patvirtino."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"45c4b80d8120eb7835b42465","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Ragino prūsus atsisakyti stabų ir garbinti Jėzų Kristų.","context":"Petro Dusburgiečio kronikos pasakojime apie Prūsijos vyskupo Kristijono veiklą XIII a.","support_ids":["t-225414","c-201986"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225414","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201986","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Antra knygos dalis BAIGIASI PIRMA ŠIOS KNYGOS DALIS PRASIDEDA ANTRA APIE TEUTONŲ ORDINO BROLIŲ ATVYKIMĄ Į PRŪSIJOS ŽEMĘ 1. Apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą Jėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą."}],"status":"published","conflict_status":"clear"},{"trait_id":"50318034c2129515af8c1ecc","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Buvo Prūsijos vyskupas ir cistersų ordino vienuolis.","context":"Petro Dusburgiečio kronikoje Kristijonas taip apibūdinamas XIII a. Prūsijoje.","support_ids":["t-223630","c-201986"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223630","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201986","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Antra knygos dalis BAIGIASI PIRMA ŠIOS KNYGOS DALIS PRASIDEDA ANTRA APIE TEUTONŲ ORDINO BROLIŲ ATVYKIMĄ Į PRŪSIJOS ŽEMĘ 1. Apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą Jėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"dd2bb4999afb6d31fcd74e6e","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Buvo pirmasis Kulmo, arba Prūsijos, vyskupas.","context":"Narbuto perteikiamame Hartknocho teiginyje apie Kristijono vaidmenį XIII a.","support_ids":["t-215917","c-197075"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215917","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197075","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"* ¥ * III skyrius S E N O V Ė S Ž I N I Ų T Ę S I N Y S 171 Sausumos atradimai. Iš imperatoriaus Augusto valdy­ mo Romos valstybėje epochos išliko geografijos—istorijos paminklas, susijęs su mūsų tema. ITartknochas savo prūsų istorijos 20 puslapyje rašo« jog pirmasis Kulmo, arba Prū­ sijos, vyskupas Kristijonas, autorius kronikos, kuri buvo laikoma pradingusia, apie senovės Prūsiją, — ją cituoja ir mūsų kronikininkai Grunau, Henenbergeris, Vaiselijus ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio, neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­ te, vėliau pavadintame Prūsija, stebėjimus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"da1de8e4cc6edf72e1efc3c4","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Buvo misionierius, skelbęs Dievo žodį ir vadovavęs krikščionybės plėtrai.","context":"Šaltiniuose aprašoma Kristijono misija tarp prūsų XIII a. pirmojoje pusėje.","support_ids":["t-205580","c-187771","t-201005","c-184355"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205580","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"internal_claim","claim_id":"t-201005","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-187771","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Tikruoju Prūsijos apaš- I aIu buvo lemta tapti kam kitam. Jis buvo vienuolis, iš­ pažinęs cistersų regulą — Kristijonas. Gimęs jis buvo l''amaryje, Frejenvaldo mieste."},{"kind":"evidence","evidence_id":"c-184355","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Kristijonas, ap­ krikštijęs dar didžias daugybes netikėlių, rūpinos paskui skelbimu žodžio Dievo apygardoj Draudžiu ežero ir, sekdamas Albertą, vyskupą Rygos, keliavo su tiedviem kunigaikščiais tą patį metą į Rymą po­ piežiui aprodyti ir apipasakoti apie platinimos tiky­ bos krikščionų toje šalyje. Pasakojant Kristijonui, popiežius, matydamas skaitlių perkrikštų gausų esant, užvis jog tuodu kunigaikščiu, dėkavodamu už moks­ lą savo mokytojui Kristijonui, kunigaikštystas savo jam padovenojo, todėl Inocentas III pakėlė jį vys­ kupu Kulmijos ir visų tų kraštų, Parusniu vadina­ mų, vildamos, jog Kristijonas, išsiliuosavęs nuo zo- kano, dar didesniai steigs platinti tikybą krikščionų Lietuvos…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4348f438302334ef337592b4","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Jo misijos metu XIII a. 3–4 dešimtmečiais Kulmo regione įsitvirtino Kulmo vardas.","context":"Petro Dusburgiečio kronikos leidinio komentare Kristijono misija siejama su regiono raida.","support_ids":["t-221492","c-202901"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221492","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202901","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino XIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame regione metu"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Kristijonas buvo XIII a. Prūsijos vyskupas ir cistersų vienuolis, tarp prūsų skleidęs krikščionybę. Jis pakrikštijo prie Vyslos gyvenusius prūsus, o 1215 m. į Romą nusivežė du prūsų kunigaikščius, kad juos pakrikštytų. 1230 m. Kristijonas kartu su Mozūrų kunigaikščiu Konradu, neatsilaikydami prieš prūsų puolimus, pasikvietė Kryžiuočių ordiną į pagalbą. Kituose pateiktuose duomenyse Kristijonas minimas kaip Mindaugo pagalbininkas iš Livonijos ordino, teikęs informaciją apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais. Mindaugo diecezijos vyskupas Kristijonas 1259 m. galutinai pasitraukė į Vokietiją, tačiau dalis šaltinių jį papildomai vadina pirmuoju Kulmo arba Prūsijos vyskupu ir dingusios kronikos autoriumi, todėl pateikti duomenys gali jungti ne vieną istorinį asmenį.","sentences":[{"sentence_id":"s1","text":"Kristijonas buvo XIII a. Prūsijos vyskupas ir cistersų vienuolis, tarp prūsų skleidęs krikščionybę.","support_ids":["t-223630","t-225414"]},{"sentence_id":"s2","text":"Jis pakrikštijo prie Vyslos gyvenusius prūsus, o 1215 m. į Romą nusivežė du prūsų kunigaikščius, kad juos pakrikštytų.","support_ids":["t-93427"]},{"sentence_id":"s3","text":"1230 m. Kristijonas kartu su Mozūrų kunigaikščiu Konradu, neatsilaikydami prieš prūsų puolimus, pasikvietė Kryžiuočių ordiną į pagalbą.","support_ids":["t-93432"]},{"sentence_id":"s4","text":"Kituose pateiktuose duomenyse Kristijonas minimas kaip Mindaugo pagalbininkas iš Livonijos ordino, teikęs informaciją apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.","support_ids":["t-183554"]},{"sentence_id":"s5","text":"Mindaugo diecezijos vyskupas Kristijonas 1259 m. galutinai pasitraukė į Vokietiją, tačiau dalis šaltinių jį papildomai vadina pirmuoju Kulmo arba Prūsijos vyskupu ir dingusios kronikos autoriumi, todėl pateikti duomenys gali jungti ne vieną istorinį asmenį.","support_ids":["t-93433","t-215622","t-215917"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniais: Kristijonas nurodomas kaip Prūsijos vyskupas, cistersų vienuolis ir krikščionybės skleidėjas tarp prūsų."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo prūsų prie Vyslos krikštą ir 1215 m. į Romą nugabentus du prūsų kunigaikščius."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1230 m. Konrado ir Kristijono kreipimąsi į Kryžiuočių ordiną dėl prūsų puolimų."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo Kristijoną kaip Livonijos ordino brolį kunigą, Mindaugo pagalbininką ir informacijos apie Bažnyčią bei popiežiaus santykius teikėją."},{"sentence_id":"s5","supported":false,"reason":"Šaltiniai atskirai pagrindžia 1259 m. pasitraukimą ir Kristijono vadinimą pirmuoju Kulmo arba Prūsijos vyskupu bei kronikos autoriumi, tačiau tiesiogiai nepatvirtina išvados, kad pateikti duomenys jungia ne vieną istorinį asmenį."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-223630","t-225414"]},{"sentence_id":"s2","supported":false,"support_ids":["t-93427"]},{"sentence_id":"s3","supported":false,"support_ids":["t-93432"]},{"sentence_id":"s4","supported":false,"support_ids":["t-183554"]},{"sentence_id":"s5","supported":false,"support_ids":["t-93433","t-215622","t-215917"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-220515","confidence":0.78},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Santyras","claim_id":"t-220286","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Dobrinės ordinas","claim_id":"t-01302","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lubavos žemė","claim_id":"t-221851","confidence":0.94},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Lanzanija","claim_id":"t-224054","confidence":0.76},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Lubava","claim_id":"t-224054","confidence":0.76}],"timeline":[{"date":"1215 m.","label":"Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m.","claimId":"t-93427"},{"date":"1219 m.","label":"1219 m.","claimId":"t-205144"},{"date":"1230 m.","label":"1230 m.","claimId":"t-93432"},{"date":"1259 m.","label":"Mindaugo diecezijos vyskupas Kristijonas 1259 m.","claimId":"t-93433"}],"support_disclosure":{"claims":26,"sources":11}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 28a5a007057ae661
+object_page_generated_at: '2026-09-19T02:45:12+00:00'
+object_page_source_checked_at: '2026-09-19T02:45:12+00:00'
+object_page_content_state: content
+object_page_claim_count: '26'
+object_page_source_count: '11'
+object_page_seo_description: 'Kristijonas (vyskupas, XIII a.): Kristijonas buvo XIII a. Prūsijos vyskupas ir cistersų vienuolis, tarp prūsų skleidęs krikščionybę. Jis pakrikštijo prie…'
+object_page_seo_input_hash: 8767978ee6090ac2916570196da2f509d1b49872440fef0d05925bb417fdec8b
+object_page_seo_generated_at: '2026-09-19T02:45:12+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kristijonas (vyskupas, XIII a.)
 
@@ -57,142 +70,10 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
 
 ## Teiginiai
 
-<a id="claim-t-221492"></a>
-- t-221492
-  teiginys: "Kulmo vardas įsitvirtino XIII a. 3–4 dešimtmečiais vyskupo Kristijono misijos ir kryžiuočių įkurdinimo regione metu."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202901
-
-<a id="claim-t-212199"></a>
-- t-212199
-  teiginys: "Narbutas vyskupo Kristijono žinias vertino kaip tiesos išlaikiusį liudijimą apie senąjį kraštą."
-  atnaujinta: "2026-09-13 21:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-
-<a id="claim-t-213004"></a>
-- t-213004
-  teiginys: "Narbutas rašė, kad Kulmo vyskupas Kristijonas XIII amžiaus pirmojoje pusėje teigė prūsų kildinimą iš gotų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristijonas (vyskupas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas (vyskupas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-
-<a id="claim-t-213432"></a>
-- t-213432
-  teiginys: "Narbutas Kristijono pasakojimą laikė tikrovišku, nes manė, kad Kristijonas neturėjo naujųjų amžių kelionių aprašymų pavyzdžių."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Mazovija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristijonas (vyskupas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Mazovija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas (vyskupas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Mazovija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-195579
-
-<a id="claim-t-216167"></a>
-- t-216167
-  teiginys: "Narbutas laikė tikėtina, kad Grunau žinią apie vyriausiuosius žynius paėmė iš vyskupo Kristijono kronikos."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Foigtas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Foigtas: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Foigtas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198494
-
-<a id="claim-t-216190"></a>
-- t-216190
-  teiginys: "Narbutas teigė, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūrimą bei krivį grindė pirmojo Prūsijos vyskupo Kristijono kronika."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Krivis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201007
-
-<a id="claim-t-216795"></a>
-- t-216795
-  teiginys: "Narbutas sprendė, kad vyskupas Kristijonas žinojo apie krivio buvimą ir galėjo jį pažinti būdamas prūsų nelaisvėje."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198625
-
-<a id="claim-t-225679"></a>
-- t-225679
-  teiginys: "Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
 <a id="claim-t-93427"></a>
-- t-93427
+- t-001
   teiginys: "Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -209,10 +90,26 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   pagrindžia:
     - c-21837
 
+<a id="claim-t-93428"></a>
+- t-002
+  teiginys: "Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-88793
+
 <a id="claim-t-93429"></a>
-- t-93429
+- t-003
   teiginys: "Nuo 1216 m. Kristijonas, gavęs „Prūsų vyskupo“ titulą, kaip cistersų vienuolis taikiu būdu bandė krikštyti prūsus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -229,9 +126,9 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
     - c-04162
 
 <a id="claim-t-93430"></a>
-- t-93430
+- t-004
   teiginys: "Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -245,9 +142,9 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
     - c-88794
 
 <a id="claim-t-93432"></a>
-- t-93432
+- t-005
   teiginys: "1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -264,9 +161,9 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
     - c-88795
 
 <a id="claim-t-93433"></a>
-- t-93433
+- t-006
   teiginys: "Mindaugo diecezijos vyskupas Kristijonas 1259 m. galutinai pasitraukė į Vokietiją, o jo įpėdiniai į lietuvių žemę nebegrįžo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -281,10 +178,42 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   pagrindžia:
     - c-04161
 
+<a id="claim-t-93436"></a>
+- t-007
+  teiginys: "Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kujavija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kujavija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Kujavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-88792
+
+<a id="claim-t-93437"></a>
+- t-008
+  teiginys: "Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-88796
+
 <a id="claim-t-183554"></a>
-- t-183554
+- t-009
   teiginys: "Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie popiežiaus santykius su Europos valdovais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -300,133 +229,87 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   pagrindžia:
     - c-166947
 
-<a id="claim-t-201005"></a>
-- t-201005
-  teiginys: "Kristijonas, ap krikštijęs dar didžias daugybes netikėlių, rūpinos paskui skelbimu žodžio Dievo apygardoj Draudžiu ežero ir, sekdamas Albertą, vyskupą Rygos, keliavo su tiedviem kunigaikščiais tą patį metą į Rymą po piežiui aprodyti ir apipasakoti apie."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-188568"></a>
+- t-010
+  teiginys: "Narbutas teigė, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūrimą bei krivį grindė pirmojo Prūsijos vyskupo Kristijono kronika."
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-184355
+    - c-171457
 
-<a id="claim-t-201006"></a>
-- t-201006
-  teiginys: "Todėl ro dės Kristijonui didžiai reikalingu ir naudingu per krikštams jų senų dienų liuosybę kuo didesniai saugoti ir taupyti, todėl gi pats buvo karvedžiu su sirinkusių meldžionų, kurie trečius metus gulėjo duonose netikėlių krašte, vienok jiems nieko pikto."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-188569"></a>
+- t-011
+  teiginys: "Narbutas sprendė, kad vyskupas Kristijonas žinojo apie krivio buvimą ir galėjo jį pažinti būdamas prūsų nelaisvėje."
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-184356
+    - c-171458
 
-<a id="claim-t-201007"></a>
-- t-201007
-  teiginys: "Kristijoną, kol pramoko lietuvių kalbos, galėdamas jau kalbėti, pasigerino netikėliams lietuviams, kurių daugybes apkrikštijo ir kalbamokslę Donatą lietuviškai perguldė, iš kurios jaunuomenė galėjo mokytis iškalose1."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-188570"></a>
+- t-012
+  teiginys: "Narbutas laikė tikėtina, kad Grunau žinią apie vyriausiuosius žynius paėmė iš vyskupo Kristijono kronikos."
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  ryšio_patikimumas: "susije_su -> Foigtas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Foigtas: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Foigtas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-184357
+    - c-171459
 
-<a id="claim-t-205144"></a>
-- t-205144
-  teiginys: "1219 m. popiežius Honoratas Kristijonui nurodė išaiškinti kryžiuočiams, kad jų paskirtis yra ginti naująją bažnyčią ir naujakrikščius."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-190908"></a>
+- t-013
+  teiginys: "Narbuto nuomone, senojoje prūsų vyskupo Kristijono kronikoje galėjo būti žinių apie sieros šaltinį prie Romovės."
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romovė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristijonas (vyskupas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Romovė: mention_match, place, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas (vyskupas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Romovė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-187809
+    - c-173790
 
-<a id="claim-t-205580"></a>
-- t-205580
-  teiginys: "Tikruoju Prūsijos apašI aIu buvo lemta tapti kam kitam. Jis buvo vienuolis, iš pažinęs cistersų regulą — Kristijonas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187771
-
-<a id="claim-t-205697"></a>
-- t-205697
-  teiginys: "Teodoro Narbuto pasakojimu, Kryžiuočių ordino dvasininkas Kristijonas karaliaus reikalavimu buvo Rygos arkivyskupo Alberto įšventintas vyskupu, tačiau vėliau karalius jį apskundė popiežiui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-188312
-
-<a id="claim-t-205698"></a>
-- t-205698
-  teiginys: "Teodoras Narbutas nurodo, kad tais pačiais metais kryžiuočių vienuolis Kristijonas buvo įšventintas Lietuvos vyskupu ir svarsto, kad Kristijonas galėjo būti skirtas Lietuvos Naugardukui arba Kernavei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-188313
-
-<a id="claim-t-207495"></a>
-- t-207495
-  teiginys: "Mindaugas, Alfredo Bumblausko teigimu, pagalbininku pasirinko Livonijos ordino brolį kunigą Kristijoną ir iš jo gavo informacijos apie Katalikų bažnyčios organizaciją bei popiežiaus santykius su Europos valdovais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190063
-
-<a id="claim-t-213174"></a>
-- t-213174
-  teiginys: "Sis tvirtinimas labiau už kitus įrodymus parodo vys kupo Kristijono žiniose išlikusią tiesą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-215622"></a>
-- t-215622
-  teiginys: "Kristijonas buvo pirmasis Kulmo, arba Prūsijos, vyskupas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197075
-
-<a id="claim-t-215917"></a>
-- t-215917
+<a id="claim-t-190909"></a>
+- t-014
   teiginys: "Narbuto perteikiamas Hartknochas Kristijoną vadino pirmuoju Kulmo arba Prūsijos vyskupu ir dingusios kronikos autoriumi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -441,35 +324,160 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-197075
+    - c-173791
 
-<a id="claim-t-223630"></a>
-- t-223630
-  teiginys: "Kristijonas buvo Prūsijos vyskupas ir cistersų ordino vienuolis."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-190910"></a>
+- t-015
+  teiginys: "Narbutas Kristijono pasakojimą laikė tikrovišku, nes manė, kad Kristijonas neturėjo naujųjų amžių kelionių aprašymų pavyzdžių."
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-201986
-
-<a id="claim-t-225414"></a>
-- t-225414
-  teiginys: "Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kujavija: 0.83"
+  ryšio_patikimumas: "susije_su -> Mazovija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kujavija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Kujavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  ryšio_subjekto_parinkimas: "Kristijonas (vyskupas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mazovija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas (vyskupas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Mazovija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-201986
+    - c-173792
+
+<a id="claim-t-190912"></a>
+- t-016
+  teiginys: "Narbutas vyskupo Kristijono žinias vertino kaip tiesos išlaikiusį liudijimą apie senąjį kraštą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173794
+
+<a id="claim-t-191959"></a>
+- t-017
+  teiginys: "Narbutas rašė, kad Kulmo vyskupas Kristijonas XIII amžiaus pirmojoje pusėje teigė prūsų kildinimą iš gotų."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristijonas (vyskupas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas (vyskupas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174841
+
+<a id="claim-t-197771"></a>
+- t-018
+  teiginys: "Sis tvirtinimas labiau už kitus įrodymus parodo vys kupo Kristijono žiniose išlikusią tiesą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-173794
+
+<a id="claim-t-201005"></a>
+- t-019
+  teiginys: "Kristijonas, ap krikštijęs dar didžias daugybes netikėlių, rūpinos paskui skelbimu žodžio Dievo apygardoj Draudžiu ežero ir, sekdamas Albertą, vyskupą Rygos, keliavo su tiedviem kunigaikščiais tą patį metą į Rymą po piežiui aprodyti ir apipasakoti apie."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184355
+
+<a id="claim-t-201006"></a>
+- t-020
+  teiginys: "Todėl ro dės Kristijonui didžiai reikalingu ir naudingu per krikštams jų senų dienų liuosybę kuo didesniai saugoti ir taupyti, todėl gi pats buvo karvedžiu su sirinkusių meldžionų, kurie trečius metus gulėjo duonose netikėlių krašte, vienok jiems nieko pikto."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184356
+
+<a id="claim-t-201007"></a>
+- t-021
+  teiginys: "Kristijoną, kol pramoko lietuvių kalbos, galėdamas jau kalbėti, pasigerino netikėliams lietuviams, kurių daugybes apkrikštijo ir kalbamokslę Donatą lietuviškai perguldė, iš kurios jaunuomenė galėjo mokytis iškalose1."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184357
+
+<a id="claim-t-205144"></a>
+- t-022
+  teiginys: "1219 m. popiežius Honoratas Kristijonui nurodė išaiškinti kryžiuočiams, kad jų paskirtis yra ginti naująją bažnyčią ir naujakrikščius."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187809
+
+<a id="claim-t-205580"></a>
+- t-023
+  teiginys: "Tikruoju Prūsijos apašI aIu buvo lemta tapti kam kitam. Jis buvo vienuolis, iš pažinęs cistersų regulą — Kristijonas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187771
+
+<a id="claim-t-205697"></a>
+- t-024
+  teiginys: "Teodoro Narbuto pasakojimu, Kryžiuočių ordino dvasininkas Kristijonas karaliaus reikalavimu buvo Rygos arkivyskupo Alberto įšventintas vyskupu, tačiau vėliau karalius jį apskundė popiežiui."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188312
+
+<a id="claim-t-205698"></a>
+- t-025
+  teiginys: "Teodoras Narbutas nurodo, kad tais pačiais metais kryžiuočių vienuolis Kristijonas buvo įšventintas Lietuvos vyskupu ir svarsto, kad Kristijonas galėjo būti skirtas Lietuvos Naugardukui arba Kernavei."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188313
 
 ## Reikšmingi paminėjimai
 - c-008
@@ -566,8 +574,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-93433
+  pagrindzia:
+    - t-006
 
 - id: c-04162
   autorius: "Zenonas Ivinskis"
@@ -586,8 +594,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-93429
+  pagrindzia:
+    - t-003
 
 - id: c-21837
   redaktorius: "A. Šapoka"
@@ -604,8 +612,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-93427
+  pagrindzia:
+    - t-001
 
 - id: c-88792
   autorius: "Petras Dusburgietis"
@@ -633,6 +641,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-88793
   autorius: "Petras Dusburgietis"
@@ -656,6 +666,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-88794
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -676,8 +688,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-93430
+  pagrindzia:
+    - t-004
 
 - id: c-88795
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -697,8 +709,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-93432
+  pagrindzia:
+    - t-005
 
 - id: c-88796
   autorius: "Petras Dusburgietis"
@@ -716,6 +728,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 - id: c-166947
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -734,8 +748,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183554
+  pagrindzia:
+    - t-009
 
 - id: c-171457
   autorius: "Teodoras Narbutas"
@@ -753,6 +767,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-171458
   autorius: "Teodoras Narbutas"
@@ -777,6 +793,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-171459
   autorius: "Teodoras Narbutas"
@@ -801,6 +819,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 - id: c-173790
   autorius: "Teodoras Narbutas"
@@ -818,6 +838,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 - id: c-173791
   autorius: "Teodoras Narbutas"
@@ -844,6 +866,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
 
 - id: c-173792
   autorius: "Teodoras Narbutas"
@@ -866,6 +890,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
 
 - id: c-173794
   autorius: "Teodoras Narbutas"
@@ -886,6 +912,9 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+    - t-018
 
 - id: c-174841
   autorius: "Teodoras Narbutas"
@@ -911,6 +940,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
 
 - id: c-184355
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -941,8 +972,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201005
+  pagrindzia:
+    - t-019
 
 - id: c-184356
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -965,8 +996,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201006
+  pagrindzia:
+    - t-020
 
 - id: c-184357
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -986,8 +1017,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201007
+  pagrindzia:
+    - t-021
 
 - id: c-187771
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -1003,8 +1034,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205580
+  pagrindzia:
+    - t-023
 
 - id: c-187809
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -1024,8 +1055,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205144
+  pagrindzia:
+    - t-022
 
 - id: c-188312
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -1049,8 +1080,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205697
+  pagrindzia:
+    - t-024
 
 - id: c-188313
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -1071,231 +1102,8 @@ Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205698
-
-- id: c-190063
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 84"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 84."
-  citata_originali: |
-    Maža to, po keleto metų Mindaugas gavo karaliaus vainiką visai di-
-    nastijai – popiežius leido vainikuotis ir sūnui. Visa tai – Mindaugo politikos rezultatas.
-    Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš
-    kurio išgavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su
-    Europos valdovais, ypač imperatoriumi.
-  citata_rodoma: "Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš \nkurio išgavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su \nEuropos valdovais, ypač imperatoriumi."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207495
-
-- id: c-195579
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 171"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 171."
-  citata_originali: |
-    Ten juos
-    pažino Divonis; juos valdė kažkoks Mazovijos slavų ka­
-    raliukas ar viršininkas, vadinamas Masosu, kuriam jie mo­
-    kėjo duoklę vaikais. Jaroslavas ir Kristijonas gyveno tais
-    laikais, kai naujųjų amžių atradimai tautų, gyvenusių to­
-    kiame kaip ulmigerai civilizacijos lygyje, dar nebuvo ži­
-    nomi, vadinasi, jei jie būtų ketinę aprašyti išgalvotus da­
-    lykus, jie nebūtų turėję pavyzdžio ir nebūtų galėję nupiešti
-    tokio tikroviško gamtos vaikų vaizdo. Iš to išplaukia, kad
-    jie rėmėsi tikrove, kuri visur ir visada yra vienoda.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213432
-
-- id: c-197075
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
-  citata_originali: |
-    *  ¥  *
-    III skyrius
-    S E N O V Ė S  Ž I N I Ų  T Ę S I N Y S
-    171
-    Sausumos atradimai. Iš imperatoriaus Augusto valdy­
-    mo Romos valstybėje epochos išliko geografijos—istorijos
-    paminklas, susijęs su mūsų tema. ITartknochas savo prūsų
-    istorijos 20 puslapyje rašo« jog pirmasis Kulmo, arba Prū­
-    sijos, vyskupas Kristijonas, autorius kronikos, kuri buvo
-    laikoma pradingusia, apie senovės Prūsiją, — ją cituoja
-    ir mūsų kronikininkai Grunau, Henenbergeris, Vaiselijus
-    ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
-    neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
-    te, vėliau pavadintame Prūsija, stebėjimus.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215622
-    - t-215917
-
-- id: c-198494
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 432"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
-  citata_originali: |
-    Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
-    nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
-    taip pat turėdami omenyje kronikininkams būdingus trūku­
-    mus, negalime neginti Grunau15. Žinią apie vyriausiuosius žy­
-    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
-    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
-    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
-    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
-    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
-    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
-    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
-    Davido mirties rankraščių net rasti išrašų iš jos likučiai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216167
-
-- id: c-198625
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 415"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
-  citata_originali: |
-    O pats
-    krivis visoje jų istorijoje atlieka tokį svarbų vaidmenį ir yra
-    toks svarbus objektas, kad jeigu jis būtų buvęs pramanytas, tai
-    būtų sugriuvusi visa jos sandara. Todėl reiktų padaryti prie­
-    kaištą Lukui Davidui, kad arba jis išgalvojo pačią vyskupo Kris­
-    tijono kroniką, arba pripasakojo nebūtų joje dalykų; kai dėl
-    antrojo, tai negalima nieko sakyti, nes yra ir kitas liudytojas -
-    kronikininkas Grunau, kuris tą patį perskaitė minėtoje kroni­
-    koje, tad nėra abejonės, kad vyskupas Kristijonas žinojo krivį
-    esant, o gal ir pažino jį iš arti, būdamas prūsų nelaisvėje.
-    Prie šių svetimų įrodymų galima būtų pridurti dar kitus,
-    išplaukiančius iš paties dalyko.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216795
-
-- id: c-201007
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 415"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
-  citata_originali: |
-    Abu šie kronikinin­
-    kai - Lukas Davidas (kn. I. - P. 16,53-54) ir Simonas Grunau
-    (traktatas II. - Skyrius 1. - Skirsnis 4) - aiškiai įtikina, kad jų
-    žinios apie Romovės įkūrimą ir krivio buvimą remiasi pirmo­
-    jo Prūsijos vyskupo Kristijono kronika.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216190
-
-- id: c-201986
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 42"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
-  citata_originali: |
-    Antra knygos dalis
-
-
-                BAIGIASI PIRMA ŠIOS KNYGOS DALIS PRASIDEDA ANTRA
-
-               APIE TEUTONŲ ORDINO BROLIŲ ATVYKIMĄ Į PRŪSIJOS ŽEMĘ
-
-
-                          1. Apie tai, kaip prūsai niokojo Kulmo žemę
-
-      Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai
-    krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos
-    vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai
-    sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą
-    Jėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223630
-    - t-225414
-
-- id: c-202388
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 44"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
-  citata_originali: |
-    4. Apie Kristaus karių ordino brolius
-
-      Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
-    suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
-    ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi
-    Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo
-    metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;
-    minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge
-    su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
-      165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
-    įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-202901
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
-  citata_originali: |
-    Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino
-    XIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame
-    regione metu
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221492
+  pagrindzia:
+    - t-025
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lubavos žemė]]

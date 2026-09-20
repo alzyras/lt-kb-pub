@@ -43,6 +43,34 @@ Konradas, kaip pasakoja Teodoras Narbutas, vasarą sumanė pulti svarbiausią pr
 
 Konradas, kaip pasakoja Teodoras Narbutas, vasarą sumanė pulti svarbiausią prūsų išeivių gyvenvietę Gardiną.
 
+## Teiginiai
+
+<a id="claim-t-205850"></a>
+- t-001
+  teiginys: "Konradas, kaip pasakoja Teodoras Narbutas, vasarą sumanė pulti svarbiausią prūsų išeivių gyvenvietę Gardiną."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188465
+
+<a id="claim-t-206472"></a>
+- t-002
+  teiginys: "Pasak Teodoro Narbuto, Jeronimas Prahiškis, Gardine gavęs saugumo garantiją, buvo pasiųstas į valsčius, kuriuos autorius apibūdina kaip išpažįstančius pagonybę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189087
+
 ## Citatos
 
 - id: c-188465
@@ -64,7 +92,7 @@ Konradas, kaip pasakoja Teodoras Narbutas, vasarą sumanė pulti svarbiausią pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189087
@@ -82,34 +110,5 @@ Konradas, kaip pasakoja Teodoras Narbutas, vasarą sumanė pulti svarbiausią pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-205850"></a>
-- t-001
-  teiginys: "Konradas, kaip pasakoja Teodoras Narbutas, vasarą sumanė pulti svarbiausią prūsų išeivių gyvenvietę Gardiną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188465
-
-<a id="claim-t-206472"></a>
-- t-002
-  teiginys: "Pasak Teodoro Narbuto, Jeronimas Prahiškis, Gardine gavęs saugumo garantiją, buvo pasiųstas į valsčius, kuriuos autorius apibūdina kaip išpažįstančius pagonybę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189087
-

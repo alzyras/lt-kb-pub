@@ -43,6 +43,31 @@ canonical_biography: "Šventikas Andrejus apie 1560-1563 m. metropolito Makarija
 
 Šventikas Andrejus apie 1560-1563 m. metropolito Makarijaus iniciatyva parašė rusų istorijos ir literatūros paminklą „Степенная книга“.
 
+## Teiginiai
+
+<a id="claim-t-190410"></a>
+- t-001
+  teiginys: "Šventikas Andrejus apie 1560-1563 m. metropolito Makarijaus iniciatyva parašė rusų istorijos ir literatūros paminklą „Степенная книга“."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "šventikas Andrejus: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"šventikas Andrejus\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1560-1563; įvykio data: 1563 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas asmuo ir kūrinio kontekstas, pataisant OCR klaidą metropolito varde. Nepridėta nieko daugiau už autorystę, datavimą ir šaltinyje nurodytą kūrinio pobūdį."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173293
+
 ## Citatos
 
 - id: c-173293
@@ -61,4 +86,5 @@ canonical_biography: "Šventikas Andrejus apie 1560-1563 m. metropolito Makarija
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

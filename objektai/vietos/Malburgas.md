@@ -1,25 +1,25 @@
 ---
 tipas: vieta
-pavadinimas: 'Malburgas'
+pavadinimas: Malburgas
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1235 m.'
-  - '1281 m.'
-  - '1388 m.'
-  - '1404 m.'
+  - 1235 m.
+  - 1281 m.
+  - 1388 m.
+  - 1404 m.
 date_start: '1235'
 date_end: '1404'
 variantai:
-  - 'Malburgas'
-  - 'Malburgas Marienburgas'
+  - Malburgas
+  - Malburgas Marienburgas
 aliases:
-  - 'Malburgas'
-  - 'Malburgas Marienburgas'
+  - Malburgas
+  - Malburgas Marienburgas
 amziai:
-  - 'XIII'
-  - 'XV'
+  - XIII
+  - XV
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,21 +31,34 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f2866cb020d7ed0ef925e027"
-canonical_name: "Malburgas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Malburgas","Malburgas Marienburgas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f2866cb020d7ed0ef925e027
+canonical_name: Malburgas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Malburgas
+  - Malburgas Marienburgas
 sameAs: []
-canonical_biography: "Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules, drausdami Vok. Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę."
+canonical_biography: 'Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules, drausdami Vok. Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T00:57:53+00:00","source_checked_at":"2026-09-20T00:57:53+00:00","counts":{"relations":2,"gallery":0,"sources":2},"featured_claim_ids":["t-195100","t-195098","t-195099","t-195102","t-195097"],"featured_claims":[{"claim_id":"t-195100","text":"1388-1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII pasiuntė į Malburgą kelias bules, drausdami Vokiečių Ordinui pulti lietuvius neofitus.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-177479"]},{"claim_id":"t-195098","text":"Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-177482"]},{"claim_id":"t-195099","text":"Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-177482"]},{"claim_id":"t-195102","text":"Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-177482"]},{"claim_id":"t-195097","text":"Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-177478"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"054fcf11872f0684e9e83b59","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"1281 m. pastatytas kryžiuočių.","context":"Michał Balińskio veikale Malburgas, dar vadinamas Marienburgu, minimas tarp XIII a. kryžiuočių pastatytų miestų ir pilių.","support_ids":["t-195098","c-177482"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195098","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177482","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Teutonų ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­ gonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­ tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­ kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti bemaž visi Varmės miestai. Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­ kų karalių - Boleslovas Didysis, pramintas Narsiuoju."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Malburgas, dar vadintas Marienburgu, yra kryžiuočių 1281 m. pastatyta vieta. Ji buvo įkurta Baltijos pakrantėse tuo metu, kai Vokiečių ordinas plėtė miestų ir pilių tinklą bei stiprino savo įtaką regione. 1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII į Malburgą pasiuntė kelias bules, kuriomis draudė Vokiečių ordinui pulti lietuvius neofitus, taip apribodami religiniu pretekstu grindžiamus karo žygius prieš Lietuvą. Malburgas taip pat minimas kaip vieta, į kurią po nutrūkusio Kauno salos suvažiavimo grįžo Ordino pasiuntinys, supratęs, kad Vytautas lengvai neatsisakys Žemaitijos, o Makras dar labiau kryps Vytauto pusėn.","sentences":[{"sentence_id":"s1","text":"Malburgas, dar vadintas Marienburgu, yra kryžiuočių 1281 m. pastatyta vieta.","support_ids":["t-195098","c-177482"]},{"sentence_id":"s2","text":"Ji buvo įkurta Baltijos pakrantėse tuo metu, kai Vokiečių ordinas plėtė miestų ir pilių tinklą bei stiprino savo įtaką regione.","support_ids":["t-195098","c-177482"]},{"sentence_id":"s3","text":"1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII į Malburgą pasiuntė kelias bules, kuriomis draudė Vokiečių ordinui pulti lietuvius neofitus.","support_ids":["t-195100","c-177479"]},{"sentence_id":"s4","text":"Malburgas taip pat minimas kaip vieta, į kurią po nutrūkusio Kauno salos suvažiavimo grįžo Ordino pasiuntinys, supratęs, kad Vytautas lengvai neatsisakys Žemaitijos, o Makras dar labiau kryps Vytauto pusėn.","support_ids":["t-195097","c-177478"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta c-177482: Malburgas (Marienburgas) pastatytas kryžiuočių 1281 m."},{"sentence_id":"s2","supported":false,"reason":"Šaltinis patvirtina miestų ir pilių gausėjimą Baltijos pakrantėse, tačiau tiesiogiai neparemia teiginio apie Ordino įtakos regione stiprinimą."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta c-177479: 1388–1404 m. minėti popiežiai pasiuntė į Malburgą bules, draudžiančias pulti lietuvius neofitus."},{"sentence_id":"s4","supported":false,"reason":"Šaltinis nurodo, kad Makras jau palinko Vytauto pusėn, o sakinyje teigiama, kad jis dar labiau kryps į jo pusę; tai neatitinka šaltinio laiko ir veiksmo formuluotės."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-195098","c-177482"]},{"sentence_id":"s2","supported":true,"support_ids":["t-195098","c-177482"]},{"sentence_id":"s3","supported":true,"support_ids":["t-195100","c-177479"]},{"sentence_id":"s4","supported":true,"support_ids":["t-195097","c-177478"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"pastate","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-175432","confidence":0.88},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Bonifacas IX","claim_id":"t-184254","confidence":0.92}],"timeline":[],"support_disclosure":{"claims":5,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 08dd54ed1f859f40
+object_page_generated_at: '2026-09-20T00:57:53+00:00'
+object_page_source_checked_at: '2026-09-20T00:57:53+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '2'
+object_page_seo_description: 'Malburgas, dar vadintas Marienburgu, yra kryžiuočių 1281 m. pastatyta vieta. Ji buvo įkurta Baltijos pakrantėse tuo metu, kai Vokiečių ordinas plėtė miestų ir…'
+object_page_seo_input_hash: c10c13950e4127b3548d55adf4f4ae6cebfb22411b0552a27080c097000e62a6
+object_page_seo_generated_at: '2026-09-20T00:57:53+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Malburgas
 
@@ -54,6 +67,49 @@ historical_names: []
 Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules, drausdami Vok. Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę.
 
 ## Teiginiai
+
+<a id="claim-t-195096"></a>
+- t-001
+  teiginys: "1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata patikimai pagrindžia laiško vietą, datą ir adresatus."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Marienburgas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lietuva"
+  temporaliniai_duomenys: "įvykio data: 1576 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata patikimai pagrindžia laiško vietą, datą ir adresatus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177481
+
+<a id="claim-t-195097"></a>
+- t-002
+  teiginys: "Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Salos"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177478
+
+<a id="claim-t-195098"></a>
+- t-003
+  teiginys: "Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "llm_object: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija"
+  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Malburgas"
+  temporaliniai_duomenys: "pastatymo data: 1281 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177482
 
 <a id="claim-t-195099"></a>
 - t-004
@@ -71,53 +127,10 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   pagrindžia:
     - c-177482
 
-<a id="claim-t-195096"></a>
-- t-195096
-  teiginys: "1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata patikimai pagrindžia laiško vietą, datą ir adresatus."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Marienburgas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1576 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patikimai pagrindžia laiško vietą, datą ir adresatus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177481
-
-<a id="claim-t-195097"></a>
-- t-195097
-  teiginys: "Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Salos"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177478
-
-<a id="claim-t-195098"></a>
-- t-195098
-  teiginys: "Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  susije_objektai: "llm_object: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Malburgas"
-  temporaliniai_duomenys: "pastatymo data: 1281 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177482
-
 <a id="claim-t-195100"></a>
-- t-195100
+- t-005
   teiginys: "1388-1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII pasiuntė į Malburgą kelias bules, drausdami Vokiečių Ordinui pulti lietuvius neofitus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -133,9 +146,9 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     - c-177479
 
 <a id="claim-t-195101"></a>
-- t-195101
+- t-006
   teiginys: "Didysis magistras slapta iš Marienburgo išplaukė Vysla laivais, o paskui per jūros įlanką įplaukė į Nemuną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys yra faktinis, gramatiškas ir paremtas citata."
@@ -145,9 +158,9 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     - c-177480
 
 <a id="claim-t-195102"></a>
-- t-195102
+- t-007
   teiginys: "Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys paremtas citata, bet reikia pašalinti OCR triukšmą ir perteklinį miestų sąrašą."
@@ -179,8 +192,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195097
+  pagrindzia:
+    - t-002
 
 - id: c-177479
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -200,8 +213,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195100
+  pagrindzia:
+    - t-005
 
 - id: c-177480
   autorius: "Michał Baliński"
@@ -226,8 +239,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195101
+  pagrindzia:
+    - t-006
 
 - id: c-177481
   autorius: "Michał Baliński"
@@ -267,8 +280,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195096
+  pagrindzia:
+    - t-001
 
 - id: c-177482
   autorius: "Michał Baliński"
@@ -288,15 +301,14 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
   citata_rodoma: "Teutonų \nordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­\ngonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­\ntais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­\nkami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 \nmetais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti \nbemaž visi Varmės miestai.\nTuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik \namžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­\nkų karalių - Boleslovas Didysis, pramintas Narsiuoju."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-003
     - t-004
-    - t-195098
-    - t-195102
+    - t-007
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Bonifacas IX]]

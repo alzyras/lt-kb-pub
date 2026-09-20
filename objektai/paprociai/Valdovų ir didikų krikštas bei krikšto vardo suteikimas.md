@@ -1,6 +1,6 @@
 ---
 tipas: paprotys
-pavadinimas: 'Valdovų ir didikų krikštas bei krikšto vardo suteikimas'
+pavadinimas: Valdovų ir didikų krikštas bei krikšto vardo suteikimas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Valdovų ir didikų krikštas bei krikšto vardo suteikimas
 
@@ -79,6 +76,5 @@ Jogai la, įėjęs į bažnyčią, ten priėmė krikštą ir Romos tikė jimą, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

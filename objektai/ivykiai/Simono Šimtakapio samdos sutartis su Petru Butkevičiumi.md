@@ -42,6 +42,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201956"></a>
+- t-001
+  teiginys: "1551 m. Kauno miestietis ir šiporius Simonas Šimtakapis sudarė tokią Kauno miesto vaito aktų knygoje įrašytą samdos sutartį: Petras Butkevičius asmeniškai stojęs savanoriškai pareiškė, kad skolingas ponui Simonui Šimtakapiui 11 kapų lietuviškųjų grašių bei 14."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185303
+
 ## Citatos
 
 - id: c-185303
@@ -61,20 +75,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201956"></a>
-- t-001
-  teiginys: "1551 m. Kauno miestietis ir šiporius Simonas Šimtakapis sudarė tokią Kauno miesto vaito aktų knygoje įrašytą samdos sutartį: Petras Butkevičius asmeniškai stojęs savanoriškai pareiškė, kad skolingas ponui Simonui Šimtakapiui 11 kapų lietuviškųjų grašių bei 14."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185303
-

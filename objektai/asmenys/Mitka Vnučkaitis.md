@@ -35,6 +35,21 @@ canonical_biography: "Mitka Vnučkaitis bajoras dokumentų klastojimas teismo sp
 
 1522 m. bajorui Mitkai Vnučkaičiui už dokumentų klastojimą teismo sprendimu skirta mirties bausmė, ieškovo prašymu pakeista laisvės atėmimu.
 
+## Teiginiai
+
+<a id="claim-t-203994"></a>
+- t-001
+  teiginys: "1522 m. bajorui Mitkai Vnučkaičiui už dokumentų klastojimą teismo sprendimu skirta mirties bausmė, ieškovo prašymu pakeista laisvės atėmimu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186598
+
 ## Citatos
 
 - id: c-186598
@@ -65,21 +80,5 @@ canonical_biography: "Mitka Vnučkaitis bajoras dokumentų klastojimas teismo sp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203994"></a>
-- t-001
-  teiginys: "1522 m. bajorui Mitkai Vnučkaičiui už dokumentų klastojimą teismo sprendimu skirta mirties bausmė, ieškovo prašymu pakeista laisvės atėmimu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
-  pagrindžia:
-    - c-186598
-

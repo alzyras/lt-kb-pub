@@ -46,23 +46,10 @@ historical_names: []
 
 ## Teiginiai
 
-<a id="claim-t-209613"></a>
-- t-209613
-  teiginys: "Tarp Berno ir Friburgo susitikdavo sužeistųjų traukiniai."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
-  pagrindžia:
-    - c-192233
-
 <a id="claim-t-123781"></a>
-- t-123781
+- t-001
   teiginys: "Vilniaus konferencijai išrinkus Lietuvos Tarybą, 1917 m. lapkričio 2–10 d. Berne buvo sušaukta nauja konferencija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -79,9 +66,9 @@ historical_names: []
     - c-46449
 
 <a id="claim-t-123784"></a>
-- t-123784
+- t-002
   teiginys: "1917 m. lapkričio 2–10 d. Berne sušaukta konferencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė Klaipėdos uosto reikalą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilniaus konferencija (1917 m. rugsėjo 18–22 d.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -119,23 +106,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-123781
-    - t-123784
-
-- id: c-192233
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 24"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 24."
-  citata_originali: |
-    Tarp
-    Berno ir Friburg'o susitinka traukiniai
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209613
-
+  pagrindzia:
+    - t-001
+    - t-002

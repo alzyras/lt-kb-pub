@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Divanas Klokinis'
+pavadinimas: Divanas Klokinis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4b32b2cbe29f9c84ac616cf9"
-canonical_name: "Divanas Klokinis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Divanas Klokinis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4b32b2cbe29f9c84ac616cf9
+canonical_name: Divanas Klokinis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Divanas Klokinis
 sameAs: []
-canonical_biography: "Divanas Klokinis su didele kariuomene įsiveržė į Kulmo žemę."
+canonical_biography: Divanas Klokinis su didele kariuomene įsiveržė į Kulmo žemę.
 ---
 # Divanas Klokinis
 
@@ -65,6 +64,5 @@ Divanas Klokinis su didele kariuomene įsiveržė į Kulmo žemę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

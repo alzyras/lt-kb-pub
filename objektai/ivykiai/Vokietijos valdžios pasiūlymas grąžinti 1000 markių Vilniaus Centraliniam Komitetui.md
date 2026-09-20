@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Vokietijos valdžios pasiūlymas grąžinti 1000 markių Vilniaus Centraliniam Komitetui'
+pavadinimas: Vokietijos valdžios pasiūlymas grąžinti 1000 markių Vilniaus Centraliniam Komitetui
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 datos:
-  - '1000 m.'
+  - 1000 m.
 date_start: '1000'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'X'
+  - X
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vokietijos valdžios pasiūlymas grąžinti 1000 markių Vilniaus Centraliniam Komitetui
 
@@ -89,6 +86,5 @@ Pasakotojas su tuo nesutiko ir reikalavo pinigus grąžinti jam.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -52,6 +52,18 @@ Plačiukas Ažytėnų gertuvės epizode atvyksta su svečiu gerti, sulaukia Kazi
 
 - gertuvės dalyvis
 
+## Teiginiai
+
+<a id="claim-t-195539"></a>
+- t-001
+  teiginys: "Plačiukas į gertuvę atėjo su svečiu ir ten sėdo gerti."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177955
+
 ## Citatos
 
 - id: c-177955
@@ -67,18 +79,5 @@ Plačiukas Ažytėnų gertuvės epizode atvyksta su svečiu gerti, sulaukia Kazi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195539"></a>
-- t-001
-  teiginys: "Plačiukas į gertuvę atėjo su svečiu ir ten sėdo gerti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177955
-

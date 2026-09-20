@@ -44,6 +44,18 @@ Ažytėnų ganykla apibūdinama kaip didelis mišku apaugęs plotas, turėjęs d
 
 Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
 
+## Teiginiai
+
+<a id="claim-t-195478"></a>
+- t-001
+  teiginys: "Ažytėnų ganykla anuomet buvo vadinama dviem vardais: Pridotku ir Radviliškiu."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177899
+
 ## Citatos
 
 - id: c-177899
@@ -59,9 +71,8 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-002
 
 - id: c-177900
   autorius: "M. Katkus"
@@ -77,31 +88,3 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-195478"></a>
-- t-001
-  teiginys: "Ažytėnų ganykla anuomet buvo vadinama dviem vardais: Pridotku ir Radviliškiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177899
-    - c-177900
-
-<a id="claim-t-195479"></a>
-- t-002
-  teiginys: "Ažytėnų ganykla apibūdinama kaip apie pusantro šimto hektarų mišku ir aikštėmis apaugęs plotas, prieinantis Bilazaro mišką."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177899
-    - c-177900
-

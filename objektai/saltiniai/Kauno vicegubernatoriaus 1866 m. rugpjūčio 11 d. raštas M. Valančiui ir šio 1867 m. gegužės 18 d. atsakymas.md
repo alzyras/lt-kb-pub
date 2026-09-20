@@ -1,29 +1,26 @@
 ---
 tipas: saltinis
-pavadinimas: 'Kauno vicegubernatoriaus 1866 m. rugpjūčio 11 d. raštas M. Valančiui ir šio 1867 m. gegužės 18 d. atsakymas'
+pavadinimas: Kauno vicegubernatoriaus 1866 m. rugpjūčio 11 d. raštas M. Valančiui ir šio 1867 m. gegužės 18 d. atsakymas
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1866 m.'
-  - '1867 m.'
+  - 1866 m.
+  - 1867 m.
 date_start: '1866'
 date_end: '1867'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kauno vicegubernatoriaus 1866 m. rugpjūčio 11 d. raštas M. Valančiui ir šio 1867 m. gegužės 18 d. atsakymas
 

@@ -35,6 +35,25 @@ canonical_biography: "Švitrigaila įsakė sudeginti metropolitą Gerasimą."
 
 Švitrigaila įsakė sudeginti metropolitą Gerasimą.
 
+## Teiginiai
+
+<a id="claim-t-87678"></a>
+- t-001
+  teiginys: "Švitrigaila įsakė sudeginti metropolitą Gerasimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Gerasimas: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gerasimas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Sudeginimas yra tiesioginis smurtinis veiksmas prieš Gerasimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Švitrigaila puolė Gerasimas (0.74)"
+  pagrindžia:
+    - c-83657
+
 ## Citatos
 
 - id: c-83657
@@ -58,25 +77,5 @@ canonical_biography: "Švitrigaila įsakė sudeginti metropolitą Gerasimą."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87678"></a>
-- t-001
-  teiginys: "Švitrigaila įsakė sudeginti metropolitą Gerasimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Gerasimas: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gerasimas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Sudeginimas yra tiesioginis smurtinis veiksmas prieš Gerasimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Švitrigaila puolė Gerasimas (0.74)"
-  pagrindžia:
-    - c-83657
-

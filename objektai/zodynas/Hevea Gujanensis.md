@@ -43,6 +43,41 @@ Botaninė ir lyginamoji terminija, skirta gintaro kilmės panašumams aiškinti.
 
 Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų aprašytas palyginimo objektas.
 
+## Teiginiai
+
+<a id="claim-t-192256"></a>
+- t-001
+  teiginys: "Narbutas, remdamasis gamtininkais, apibūdina Hevea Gujanensis kamieną, vaisių, sėklų branduolius ir sakus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175091
+
+<a id="claim-t-192257"></a>
+- t-002
+  teiginys: "Narbuto perteikiamu gamtininkų aprašymu, Hevea Gujanensis sakai yra aromatingi ir naudojami žvakėms bei deglams daryti."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175091
+
+<a id="claim-t-192258"></a>
+- t-003
+  teiginys: "Narbutas, remdamasis gamtininkų aprašymais, Hevea Gujanensis pristato kaip labai aukštą medį."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175091
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -87,33 +122,7 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-213022"></a>
-- t-001
-  teiginys: "Narbutas, remdamasis gamtininkais, apibūdina Hevea Gujanensis kamieną, vaisių, sėklų branduolius ir sakus."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-
-<a id="claim-t-213601"></a>
-- t-002
-  teiginys: "Narbuto perteikiamu gamtininkų aprašymu, Hevea Gujanensis sakai yra aromatingi ir naudojami žvakėms bei deglams daryti."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-
-<a id="claim-t-213816"></a>
-- t-003
-  teiginys: "Narbutas, remdamasis gamtininkų aprašymais, Hevea Gujanensis pristato kaip labai aukštą medį."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-
+  pagrindzia:
+    - t-001
+    - t-002
+    - t-003

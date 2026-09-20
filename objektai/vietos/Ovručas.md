@@ -44,6 +44,27 @@ historical_names: []
 
 Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą.
 
+## Teiginiai
+
+<a id="claim-t-36470"></a>
+- t-001
+  teiginys: "1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Ovručas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ovručas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Vytautas paėmė Ovručą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Ovručas (0.95); Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Žitomiras (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1394 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-38593
+
 ## Citatos
 
 - id: c-38593
@@ -63,69 +84,8 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-190220
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 108"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 108."
-  citata_originali: |
-    Todėl kartais istorikai mano, kad net dinastinės
-    vedybos vykdavo tiesioginiu kariniu spaudimu – kaip antai Algirdo paveldėjimo teisės į
-    Vitebską, o Liubarto – į Voluinės Vladimirą buvo įgytos karu. Kai kurių istorikų manymu,
-    galima kalbėti ir apie 1322–1323 m. Gedimino karinę operaciją prieš Kijevą su Ovručo
-    apgultimi ir Irpenės mūšiu – tada Gedimino brolis, apsikrikštijęs stačiatikiu ir gavęs Teo-
-    doro vardą, tapo Kijevo kunigaikščiu, o Kijevo kunigaikštija pateko į LDK politinės įtakos
-    sritį.
-  citata_rodoma: "rių istorikų manymu, \ngalima kalbėti ir apie 1322–1323 m. Gedimino karinę operaciją prieš Kijevą su Ovručo \napgultimi ir Irpenės mūšiu – tada"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 - Užėmė Ovručą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-
-## Teiginiai
-
-<a id="claim-t-36470"></a>
-- t-001
-  teiginys: "1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Ovručas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ovručas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Vytautas paėmė Ovručą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Ovručas (0.95); Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Žitomiras (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1394 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-38593
-
-<a id="claim-t-207603"></a>
-- t-002
-  teiginys: "Kai kurių istorikų manymu, 1322–1323 m. Gedimino karinėje operacijoje prieš Kijevą vyko Ovručo apgultis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  temporaliniai_duomenys: "įvykio data: 1322-1323; įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įtraukta citatoje esanti atribucija kai kurių istorikų nuomonei ir išskleistas laikotarpis. Nepatikimas vertinimas nepateiktas kaip neutralus faktas."
-  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
-  pagrindžia:
-    - c-190220
-

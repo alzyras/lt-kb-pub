@@ -51,17 +51,3 @@ Compositio Pruss., p. 35, parašyta: Tandem Christianissimum principem dominum C
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-88412"></a>
-- t-001
-  teiginys: "„Compositio Pruss“ rašoma, kad karaliaus brolis Kazimieras, vadintas Cortgello, buvo nužudytas ir paniekintas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-84391
-

@@ -47,6 +47,49 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-187980"></a>
+- t-001
+  teiginys: "Narbutas Atrimpo simbolį aiškina kaip žaltį vandens pilnoje vonioje ir sieja jį su senovės lietuvių jūrų dievo vaizdiniu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::items"
+  teiginio_tipas: "interpretacija"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Atrimpo vandens indas arba urna su žalčiu: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=82"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atrimpo vandens indas arba urna su žalčiu\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-170987
+
+<a id="claim-t-187981"></a>
+- t-002
+  teiginys: "Narbutas Atrimpo ženklą aprašo kaip javų pėdu uždengtą vandens pripildytą indą arba urną, kurioje laikomas vandens žaltys."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "gap::items"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-170988
+
+<a id="claim-t-188374"></a>
+- t-003
+  teiginys: "Narbutas Atrimpo ženklą aprašo kaip javų pėdu uždengtą indą arba urną su vandeniu, kurioje laikomas vandens žaltys."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171268
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -86,6 +129,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-170988
   autorius: "Teodoras Narbutas"
@@ -101,6 +146,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-171268
   autorius: "Teodoras Narbutas"
@@ -122,41 +169,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-216806"></a>
-- t-001
-  teiginys: "Narbutas Atrimpo simbolį aiškina kaip žaltį vandens pilnoje vonioje ir sieja jį su senovės lietuvių jūrų dievo vaizdiniu."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "gap::items"
-  teiginio_tipas: "interpretacija"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Atrimpo vandens indas arba urna su žalčiu: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=82"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atrimpo vandens indas arba urna su žalčiu\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-
-<a id="claim-t-216770"></a>
-- t-216770
-  teiginys: "Narbutas Atrimpo ženklą aprašo kaip javų pėdu uždengtą vandens pripildytą indą arba urną, kurioje laikomas vandens žaltys."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::items"
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-
-<a id="claim-t-220060"></a>
-- t-220060
-  teiginys: "Narbutas Atrimpo ženklą aprašo kaip javų pėdu uždengtą indą arba urną su vandeniu, kurioje laikomas vandens žaltys."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-
+  pagrindzia:
+    - t-003

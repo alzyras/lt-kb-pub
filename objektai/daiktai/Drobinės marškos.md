@@ -39,6 +39,20 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203986"></a>
+- t-001
+  teiginys: "Prieš egzekuciją išdavikai būdavo perrengiami paprastomis drobinėmis marškomis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186590
+
 ## Santrauka
 
 Prieš egzekuciją išdavikai būdavo perrengiami paprastomis drobinėmis marškomis.
@@ -60,20 +74,5 @@ Prieš egzekuciją išdavikai būdavo perrengiami paprastomis drobinėmis maršk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203986"></a>
-- t-001
-  teiginys: "Prieš egzekuciją išdavikai būdavo perrengiami paprastomis drobinėmis marškomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  pagrindžia:
-    - c-186590
-

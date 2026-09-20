@@ -44,6 +44,41 @@ canonical_biography: "Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio 
 
 Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rūpesčiais dalinęsis, kovojęs su juo dar kartu prieš totorius, kur Kulikovo lauke (1380 metų rugsėjo 8-ą) prie perga­ lės daugiausia prisidėjęs, dalyvavo mūšiuose, - Skirgaila užsibuvo.
 
+## Teiginiai
+
+<a id="claim-t-87652"></a>
+- t-001
+  teiginys: "Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dmitrijus Doniškis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Dmitrijus Doniškis kartu kovojo prieš totorius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Dmitrijus Doniškis kariavo prieš Totoriai (0.91)"
+  temporaliniai_duomenys: "mūšio data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Dmitrijus Doniškis kariavo prieš Totoriai“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia Dmitrijaus Doniškio ryšį su Andriumi ir Kulikovo mūšiu, bet pradinis sakinys fragmentiškas."
+  pagrindžia:
+    - c-83631
+
+<a id="claim-t-194700"></a>
+- t-002
+  teiginys: "Iškalti Dmitrijaus Doniškio laikų rusiški žen klai ir kitokie lietuvių kariški ženklai 2 pav."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-177096
+
 ## Citatos
 
 - id: c-83631
@@ -87,7 +122,7 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177096
@@ -116,29 +151,8 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Dmitrijus Doniškis kariavo prieš [[objektai/grupes/Totoriai]]
-
-## Teiginiai
-
-<a id="claim-t-87652"></a>
-- t-001
-  teiginys: "Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dmitrijus Doniškis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Dmitrijus Doniškis kartu kovojo prieš totorius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Dmitrijus Doniškis kariavo prieš Totoriai (0.91)"
-  temporaliniai_duomenys: "mūšio data: 1380 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Dmitrijus Doniškis kariavo prieš Totoriai“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia Dmitrijaus Doniškio ryšį su Andriumi ir Kulikovo mūšiu, bet pradinis sakinys fragmentiškas."
-  pagrindžia:
-    - c-83631
-

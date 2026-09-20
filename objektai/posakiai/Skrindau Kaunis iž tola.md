@@ -28,6 +28,34 @@ media_all_json: |-
 
 Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido Kaunis iš toli, Kur vasara amžinoji“. Mūsų kraštuose dar išliko dainelė, susijusi su tuo dievuku: Skrindau Kaunis iž tola, Kur vvassara umžynoja.
 
+## Teiginiai
+
+<a id="claim-t-189567"></a>
+- t-001
+  teiginys: "Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido Kaunis iš toli, Kur vasara amžinoji“."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172455
+
+<a id="claim-t-194696"></a>
+- t-002
+  teiginys: "Mūsų kraštuose dar išliko dainelė, susijusi su tuo dievuku: Skrindau Kaunis iž tola, Kur vvassara umžynoja."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177093
+
 ## Citatos
 
 - id: c-172455
@@ -52,6 +80,8 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-177093
   autorius: "Teodoras Narbutas"
@@ -77,86 +107,5 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199072
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
-  citata_originali: |
-    Mūsų kraštuose dar išliko dainelė, susijusi
-    su tuo dievuku:
-    Skrindau Kaunis iž tola,
-    Kur vvassara umžynoja.
-    Man pasakė Naszaugole,
-    Jog tinaj mejlis karaujoja:
-    Unt szinvu arklu rejtwažoja
-    Su didu iždu nuoplesiu.
-    E j sugriže Dewutesiu!
-    Paimk jus unt salios sparnos,
-    Atneszk man jus swejku tiktej,
-    Ne noru až brangiu diklej,
-    Gan man sauos apimirnos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-199682
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
-  citata_originali: |
-    (Skrido Kaunis iš toli,
-    Kur vasara amžinoji.
-    Man pasakė neužauguolis,
-    Jog tenai medis kariaujoja:
-    Ant širvų arklių raitvažiuoja
-    Su didžiu iždu nuoplėšių.
-    FA, sugrįžk, Dievutėliau!
-    Paimk juos ant savus sparnus,
-    Atnešk man juos sveiką tiktai,
-    Nenoriu aš brangių daiktų,
-    Gan man tavo apėmimo)*.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-219787"></a>
-- t-001
-  teiginys: "Mūsų kraštuose dar išliko dainelė, susijusi su tuo dievuku: Skrindau Kaunis iž tola, Kur vvassara umžynoja."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-199072
-
-<a id="claim-t-219998"></a>
-- t-002
-  teiginys: "Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido Kaunis iš toli, Kur vasara amžinoji“."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-199682
-

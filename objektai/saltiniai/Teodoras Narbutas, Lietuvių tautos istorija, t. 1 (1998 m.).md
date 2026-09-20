@@ -47,6 +47,65 @@ Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė speciali�
 
 Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiško originalo lietuviškas vertimas su redakcine ir įvadine medžiaga.
 
+## Teiginiai
+
+<a id="claim-t-188037"></a>
+- t-001
+  teiginys: "Įvadiniame straipsnyje „Lietuvių tautos istorija“ vadinama Lietuvos istoriografijos paminklu ir lietuvių tautos kultūriniu palikimu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-170731
+
+<a id="claim-t-188038"></a>
+- t-002
+  teiginys: "Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Norbertas Vėlius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): owner_note_path, source"
+  ryšio_targeto_parinkimas: "Norbertas Vėlius: mention_match, author, gap=114"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)\" parinktas kaip owner_note_path. Targetas \"Norbertas Vėlius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-170733
+
+<a id="claim-t-188039"></a>
+- t-003
+  teiginys: "1998 m. pirmasis „Lietuvių tautos istorijos“ tomas verstas iš 1835 m. Vilniuje išleisto Narbuto „Mitologia Litewska“."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1835 m.; įvykio data: 1998 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas iki metrikoje tiesiogiai paliudytų leidybinių duomenų. Nepridėta platesnio originalo pavadinimo interpretacijų už citatos ribų."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-170732
+
 ## Citatos
 
 - id: c-170731
@@ -68,6 +127,8 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-170732
   autorius: "Teodoras Narbutas"
@@ -93,6 +154,8 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-170733
   autorius: "Teodoras Narbutas"
@@ -125,4 +188,5 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

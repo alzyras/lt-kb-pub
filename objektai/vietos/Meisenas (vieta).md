@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Meisenas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Meisenas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Meisenas'
+  - Meisenas
 aliases:
-  - 'Meisenas'
+  - Meisenas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e41755c18948b3bb7111d90d"
-canonical_name: "Meisenas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Meisenas","Meisenas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e41755c18948b3bb7111d90d
+canonical_name: Meisenas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Meisenas
+  - Meisenas (vieta)
 sameAs: []
-canonical_biography: "Meiseno markgrafas Ditrichas."
+canonical_biography: Meiseno markgrafas Ditrichas.
 ---
 # Meisenas (vieta)
 
@@ -69,6 +69,5 @@ Meiseno markgrafas Ditrichas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

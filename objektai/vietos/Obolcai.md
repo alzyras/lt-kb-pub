@@ -36,6 +36,32 @@ historical_names: []
 
 Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.
 
+## Teiginiai
+
+<a id="claim-t-185293"></a>
+- t-001
+  teiginys: "Aleksandras, sužinojęs apie pralaimėjimą prie Bobro upės, įtaisė karo stovyklą Obolcuose."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168654
+
+<a id="claim-t-193452"></a>
+- t-002
+  teiginys: "Apie šį pralaimėjimą Aleksandras sužinojo prie Bobro upės; norėdamas su stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuose."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168654
+
 ## Citatos
 
 - id: c-168654
@@ -60,4 +86,6 @@ Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001
+    - t-002

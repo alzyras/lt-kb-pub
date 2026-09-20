@@ -57,9 +57,9 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
     - c-84063
 
 <a id="claim-t-88084"></a>
-- t-88084
+- t-002
   teiginys: "Vinco Vyčino „Raštų“ I-II tomai buvo išleisti 2002-2007 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -126,7 +126,6 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-84063
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -165,12 +164,10 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
     Estetika - XX a.
   citata_rodoma: "41a, LT-08217 Vilnius.\nKaina sutartinė\n\n## Puslapis 495\n\nIšleista:\nJozefas Frankas \nAtsiminimai apie Vilnių, 2001\nŽygimantas Liauksminas \nRinktiniai raštai, 2004\nTeodoras Narbutas\nLietuvių tautos istorija, I-V tomai, 1995-2001\nStasys Šalkauskis \nRaštai, I-VIII tomai, 1990-2005\nVincas Vyčinas \nRaštai, I-II tomai, 2002-2007\nRengiama spaudai:\nSudarytojas Antanas Katalynas \nEstetika - XX a."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-88084
-
+    - t-002

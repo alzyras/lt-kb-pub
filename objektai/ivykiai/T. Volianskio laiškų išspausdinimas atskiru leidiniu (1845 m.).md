@@ -1,33 +1,30 @@
 ---
 tipas: ivykis
-pavadinimas: 'T. Volianskio laiškų išspausdinimas atskiru leidiniu (1845 m.)'
+pavadinimas: T. Volianskio laiškų išspausdinimas atskiru leidiniu (1845 m.)
 variantai:
-  - 'T. Volianskio laiškų išspausdinimas atskiru leidiniu'
+  - T. Volianskio laiškų išspausdinimas atskiru leidiniu
 aliases:
-  - 'T. Volianskio laiškų išspausdinimas atskiru leidiniu'
+  - T. Volianskio laiškų išspausdinimas atskiru leidiniu
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1844 m.'
-  - '1845 m.'
+  - 1844 m.
+  - 1845 m.
 date_start: '1844'
 date_end: '1845'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # T. Volianskio laiškų išspausdinimas atskiru leidiniu (1845 m.)
 
@@ -95,6 +92,5 @@ Volianskio laiškai 1 Minėtas piešinys spausdinamas šio teksto gale.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

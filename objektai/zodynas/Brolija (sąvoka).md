@@ -29,6 +29,20 @@ media_all_json: |-
 
 Vienas iš dvasininkų ir pasauliečių bendravimo būdų buvo bažnytinės brolijos ir veikla jose.
 
+## Teiginiai
+
+<a id="claim-t-201797"></a>
+- t-001
+  teiginys: "Vienas iš dvasininkų ir pasauliečių bendravimo būdų buvo bažnytinės brolijos ir veikla jose."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185144
+
 ## Citatos
 
 - id: c-185144
@@ -46,20 +60,5 @@ Vienas iš dvasininkų ir pasauliečių bendravimo būdų buvo bažnytinės brol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201797"></a>
-- t-001
-  teiginys: "Vienas iš dvasininkų ir pasauliečių bendravimo būdų buvo bažnytinės brolijos ir veikla jose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185144
-

@@ -43,6 +43,21 @@ Prasidėjus 1322 metų žiemai, Teodoras Narbutas aprašo kryžiuočių kariuome
 
 Prasidėjus 1322 metų žiemai, Teodoras Narbutas aprašo kryžiuočių kariuomenę, kuriai vadovavo kunigaikštis Bernardas Svidnickis, grafas Geroldizekė iš Švabijos ir du grafai iš Julicho bei Vildenbergo.
 
+## Teiginiai
+
+<a id="claim-t-206103"></a>
+- t-001
+  teiginys: "Prasidėjus 1322 metų žiemai, Teodoras Narbutas aprašo kryžiuočių kariuomenę, kuriai vadovavo kunigaikštis Bernardas Svidnickis, grafas Geroldizekė iš Švabijos ir du grafai iš Julicho bei Vildenbergo."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188718
+
 ## Citatos
 
 - id: c-188718
@@ -68,21 +83,5 @@ Prasidėjus 1322 metų žiemai, Teodoras Narbutas aprašo kryžiuočių kariuome
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206103"></a>
-- t-001
-  teiginys: "Prasidėjus 1322 metų žiemai, Teodoras Narbutas aprašo kryžiuočių kariuomenę, kuriai vadovavo kunigaikštis Bernardas Svidnickis, grafas Geroldizekė iš Švabijos ir du grafai iš Julicho bei Vildenbergo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
-  pagrindžia:
-    - c-188718
-

@@ -44,6 +44,44 @@ historical_names: []
 
 17) daug žemių Vilniaus apylinkėse (Malėtus, La­ banorus, Verkus), Tauragnų pilį, kelis namus Vilniaus mieste, vienus mūrinius namus didžiojo kunigaikščio pilyje ir ten pat keturis medinius namus^3 ).
 
+## Teiginiai
+
+<a id="claim-t-115024"></a>
+- t-001
+  teiginys: "1387 m. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Tauragnų pilį."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Tauragnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tauragnų pilis (pilis): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Tauragnai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tauragnų pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Tauragnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1387 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-106014
+
+<a id="claim-t-115025"></a>
+- t-002
+  teiginys: "Vilniaus katedra iškilmingu aktu buvo aprūpinta kunigaikštiška Tauragnų pilimi su visu pavietu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vilniaus katedra: 0.85"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tauragnų pilis (pilis): llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilniaus katedra: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tauragnų pilis nurodyta kaip dovanojama Vilniaus katedros aprūpinimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Tauragnų pilis (pilis) priklausė Vilniaus katedra (0.85)"
+  pagrindžia:
+    - c-106015
+
 ## Citatos
 
 - id: c-106014
@@ -63,7 +101,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-106015
@@ -103,44 +141,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-115024"></a>
-- t-001
-  teiginys: "1387 m. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Tauragnų pilį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tauragnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tauragnų pilis (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Tauragnai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tauragnų pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Tauragnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1387 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-106014
-
-<a id="claim-t-115025"></a>
-- t-002
-  teiginys: "Vilniaus katedra iškilmingu aktu buvo aprūpinta kunigaikštiška Tauragnų pilimi su visu pavietu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilniaus katedra: 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tauragnų pilis (pilis): llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilniaus katedra: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tauragnų pilis nurodyta kaip dovanojama Vilniaus katedros aprūpinimui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Tauragnų pilis (pilis) priklausė Vilniaus katedra (0.85)"
-  pagrindžia:
-    - c-106015
-

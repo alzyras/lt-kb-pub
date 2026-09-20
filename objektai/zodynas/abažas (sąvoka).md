@@ -35,6 +35,56 @@ media_all_json: |-
 
 Įėję meldžionys į Natangiją, ką sutikdami, tą teriojo ir degino ir toj vietoj, kur šiandien vietovė Brandenburgas yra, į abažą sustojo. Kalavijonys norėjo juos pavyti, bet lietuviai, tą nujautę, į pamūrius Rygos pasitraukė ir tenai į taborių, arba abažą, sustojo. Kryžėjai, atėję vakarop pas abažą lietuvių, tuojau jį nakčia pagal apsiautė, auštant antpuolė jį su viena dalia savo kariaunos.
 
+## Teiginiai
+
+<a id="claim-t-201191"></a>
+- t-001
+  teiginys: "Įėję meldžionys į Natangiją, ką sutikdami, tą teriojo ir degino ir toj vietoj, kur šiandien vietovė Brandenburgas yra, į abažą sustojo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184541
+
+<a id="claim-t-201192"></a>
+- t-002
+  teiginys: "Kalavijonys norėjo juos pavyti, bet lietuviai, tą nujautę, į pamūrius Rygos pasitraukė ir tenai į taborių, arba abažą, sustojo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184542
+
+<a id="claim-t-201193"></a>
+- t-003
+  teiginys: "Kryžėjai, atėję vakarop pas abažą lietuvių, tuojau jį nakčia pagal apsiautė, auštant antpuolė jį su viena dalia savo kariaunos."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184543
+
+<a id="claim-t-201194"></a>
+- t-004
+  teiginys: "Ateinantį metą žiemos vidų marčelga kryžėjų Plockė, įpuolęs į Žemaičius, apygardas Varnių nuteriojo, vienok, nestengdamas į pačią pilį įsigriau ti, sustojo į abažą, arba taborių."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184544
+
 ## Citatos
 
 - id: c-184541
@@ -55,7 +105,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184542
@@ -80,7 +130,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184543
@@ -101,7 +151,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-184544
@@ -133,56 +183,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-## Teiginiai
-
-<a id="claim-t-201191"></a>
-- t-001
-  teiginys: "Įėję meldžionys į Natangiją, ką sutikdami, tą teriojo ir degino ir toj vietoj, kur šiandien vietovė Brandenburgas yra, į abažą sustojo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184541
-
-<a id="claim-t-201192"></a>
-- t-002
-  teiginys: "Kalavijonys norėjo juos pavyti, bet lietuviai, tą nujautę, į pamūrius Rygos pasitraukė ir tenai į taborių, arba abažą, sustojo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184542
-
-<a id="claim-t-201193"></a>
-- t-003
-  teiginys: "Kryžėjai, atėję vakarop pas abažą lietuvių, tuojau jį nakčia pagal apsiautė, auštant antpuolė jį su viena dalia savo kariaunos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184543
-
-<a id="claim-t-201194"></a>
-- t-004
-  teiginys: "Ateinantį metą žiemos vidų marčelga kryžėjų Plockė, įpuolęs į Žemaičius, apygardas Varnių nuteriojo, vienok, nestengdamas į pačią pilį įsigriau ti, sustojo į abažą, arba taborių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184544
-

@@ -28,6 +28,29 @@ media_all_json: |-
 
 Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
 
+## Teiginiai
+
+<a id="claim-t-192976"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "paskyre -> Odoakras: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Turcilingai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Turcilingai tiesiogiai išvardyti tarp genčių, paskelbusių Odoakrą vadu ir karaliumi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Turcilingai paskyrė Odoakras (0.90); Skiriai paskyrė Odoakras (0.90); Herulai paskyrė Odoakras (0.90)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175746
+
 ## Citatos
 
 - id: c-175746
@@ -55,38 +78,8 @@ Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Turcilingai paskyrė [[objektai/asmenys/Odoakras]]
-
-## Teiginiai
-
-<a id="claim-t-215170"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "paskyre -> Odoakras: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Turcilingai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Turcilingai tiesiogiai išvardyti tarp genčių, paskelbusių Odoakrą vadu ir karaliumi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Turcilingai paskyrė Odoakras (0.90); Skiriai paskyrė Odoakras (0.90); Herulai paskyrė Odoakras (0.90)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-215766"></a>
-- t-002
-  teiginys: "476 metų pradžioje turcilingai paskelbė Odoakrą savo vadu ir karaliumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-

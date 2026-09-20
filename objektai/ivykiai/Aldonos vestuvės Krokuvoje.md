@@ -36,6 +36,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201268"></a>
+- t-001
+  teiginys: "Atėjus svodbai, kas gal tą iškilmę aprašyti, su kuria Aldona, didžioji kunigaikštaitė Lietuvos, ap klėsta diduomene vyrų ir žmonų lenkių ir lietuvių, keliavo iš Vilniaus į Krokuvą pas savo jaunikį."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184618
+
 ## Citatos
 
 - id: c-184618
@@ -63,20 +77,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201268"></a>
-- t-001
-  teiginys: "Atėjus svodbai, kas gal tą iškilmę aprašyti, su kuria Aldona, didžioji kunigaikštaitė Lietuvos, ap klėsta diduomene vyrų ir žmonų lenkių ir lietuvių, keliavo iš Vilniaus į Krokuvą pas savo jaunikį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184618
-

@@ -35,6 +35,21 @@ Visi nurodyti dvarai buvo užrašyti Raseinių karūžaičiui Eustachijui Karpiu
 
 Visi nurodyti dvarai buvo užrašyti Raseinių karūžaičiui Eustachijui Karpiui kaip paveldėtojui.
 
+## Teiginiai
+
+<a id="claim-t-203719"></a>
+- t-001
+  teiginys: "Visi nurodyti dvarai buvo užrašyti Raseinių karūžaičiui Eustachijui Karpiui kaip paveldėtojui."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  vertinimo_atnaujinta: "2026-07-30T18:39:53Z"
+  pagrindžia:
+    - c-186323
+
 ## Citatos
 
 - id: c-186323
@@ -51,21 +66,5 @@ Visi nurodyti dvarai buvo užrašyti Raseinių karūžaičiui Eustachijui Karpiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203719"></a>
-- t-001
-  teiginys: "Visi nurodyti dvarai buvo užrašyti Raseinių karūžaičiui Eustachijui Karpiui kaip paveldėtojui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
-  vertinimo_atnaujinta: "2026-07-30T18:39:53Z"
-  pagrindžia:
-    - c-186323
-

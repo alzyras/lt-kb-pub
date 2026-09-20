@@ -27,6 +27,17 @@ media_all_json: |-
 
 Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbationem 244 ## Puslapis 261 III KNYGA būtų nukelta arba taptų filija ir priklausytų Pabaisko baž­ nyčiai, kaip kad yra Vronove ir Viešėje stovinčios bažny­ čios.
 
+## Teiginiai
+
+<a id="claim-t-86587"></a>
+- t-001
+  teiginys: "Bažnyčia galėjo būti nukelta arba tapti Pabaisko bažnyčiai priklausančia filija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82566
+
 ## Citatos
 
 - id: c-82566
@@ -55,17 +66,5 @@ Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbatio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-86587"></a>
-- t-001
-  teiginys: "Bažnyčia galėjo būti nukelta arba tapti Pabaisko bažnyčiai priklausančia filija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82566
-

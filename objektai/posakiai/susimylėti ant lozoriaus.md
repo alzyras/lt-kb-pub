@@ -45,6 +45,18 @@ Bobos prašymo formulė šeimininkės grįčioje.
 
 Trumpa elgetavimo ir maldavimo formulė.
 
+## Teiginiai
+
+<a id="claim-t-195442"></a>
+- t-001
+  teiginys: "Elgetaujanti moteris prašo „susimylėti ant lozoriaus“."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177863
+
 ## Citatos
 
 - id: c-177863
@@ -60,18 +72,5 @@ Trumpa elgetavimo ir maldavimo formulė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195442"></a>
-- t-001
-  teiginys: "Elgetaujanti moteris prašo „susimylėti ant lozoriaus“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177863
-

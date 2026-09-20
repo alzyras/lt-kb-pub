@@ -27,6 +27,26 @@ media_all_json: |-
 
 Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės konstitucija, kuria buvo grąžinta santvarka, buvusi po I padalinimo. Naujoji valstybės konstitucija (1793 m.): buvo atgaivinta Nuolatinė Taryba ir tada veikusios karo ir iždo komisijos. Kaip ir seniau, jos buvo atskiros Lietuvai ir Lenkijai. Dabar buvo atskirta ir anksčiau buvusi bendra Edukacinė Komisija.
 
+## Teiginiai
+
+<a id="claim-t-67492"></a>
+- t-001
+  teiginys: "1793 m. Gardino seime sudaryta naujoji valstybės konstitucija grąžino santvarką, buvusią po pirmojo padalijimo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67384
+
+<a id="claim-t-67493"></a>
+- t-002
+  teiginys: "Pagal 1793 m. naująją valstybės konstituciją buvo atgaivinta Nuolatinė Taryba, karo ir iždo komisijos, o Edukacinė Komisija atskirta Lietuvai ir Lenkijai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67383
+
 ## Citatos
 
 - id: c-67383
@@ -44,7 +64,7 @@ Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės kons
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-67384
@@ -65,26 +85,5 @@ Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės kons
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-67492"></a>
-- t-001
-  teiginys: "1793 m. Gardino seime sudaryta naujoji valstybės konstitucija grąžino santvarką, buvusią po pirmojo padalijimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67384
-
-<a id="claim-t-67493"></a>
-- t-002
-  teiginys: "Pagal 1793 m. naująją valstybės konstituciją buvo atgaivinta Nuolatinė Taryba, karo ir iždo komisijos, o Edukacinė Komisija atskirta Lietuvai ir Lenkijai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67383
-

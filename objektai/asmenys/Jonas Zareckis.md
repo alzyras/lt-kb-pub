@@ -43,6 +43,23 @@ canonical_biography: "1585 m. Upytės pavieto žemininkas Jonas Zareckis bylinė
 
 1585 m. Upytės pavieto žemininkas Jonas Zareckis bylinėjosi su Grigorijumi Delnickiu.
 
+## Teiginiai
+
+<a id="claim-t-203782"></a>
+- t-001
+  teiginys: "1585 m. Upytės pavieto žemininkas Jonas Zareckis bylinėjosi su Grigorijumi Delnickiu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1585 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir pagrįstas šaltinyje nurodyta Jono Zareckio byla prieš Grigorijų Delnickį."
+  pagrindžia:
+    - c-186386
+
 ## Citatos
 
 - id: c-186386
@@ -61,23 +78,5 @@ canonical_biography: "1585 m. Upytės pavieto žemininkas Jonas Zareckis bylinė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203782"></a>
-- t-001
-  teiginys: "1585 m. Upytės pavieto žemininkas Jonas Zareckis bylinėjosi su Grigorijumi Delnickiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  temporaliniai_duomenys: "įvykio data: 1585 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir pagrįstas šaltinyje nurodyta Jono Zareckio byla prieš Grigorijų Delnickį."
-  pagrindžia:
-    - c-186386
-

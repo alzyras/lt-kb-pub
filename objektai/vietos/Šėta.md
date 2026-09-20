@@ -36,6 +36,26 @@ historical_names: []
 
 Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes ir atsitraukti į Šėtą. Nedidelės ir prastai ginkluotos lietuvių pajėgos, parodžiusios drąsą ir ištvermę, sugebėjo atlaikyti daug didesnių pajėgų puolimą ir neleido užgrobti bolševikų.
 
+## Teiginiai
+
+<a id="claim-t-42387"></a>
+- t-001
+  teiginys: "Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Kėdainiai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kėdainiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad lietuvių pajėgos neleido užgrobti Kėdainių, todėl palaikomas gynimo ryšys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai gynė Kėdainiai (0.72)"
+  vertinimo_atnaujinta: "2026-06-13T14:20:43Z"
+  pagrindžia:
+    - c-45477
+
 ## Citatos
 
 - id: c-45477
@@ -61,26 +81,5 @@ Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-42387"></a>
-- t-001
-  teiginys: "Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Kėdainiai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kėdainiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad lietuvių pajėgos neleido užgrobti Kėdainių, todėl palaikomas gynimo ryšys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuviai gynė Kėdainiai (0.72)"
-  vertinimo_atnaujinta: "2026-06-13T14:20:43Z"
-  pagrindžia:
-    - c-45477
-

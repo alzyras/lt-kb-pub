@@ -39,6 +39,32 @@ canonical_biography: "Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachij
 
 Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdovinių Kauno muitininkų, pasitelkę kitą muitininką Ivaną Kuncevičių, skundė Kauno vaitą Jokūbą Šuką ir suolininkus, kad jie nepranešę valdovo komisarams surašė išmaros teise valdovui. 1554 m. Žygimanto Augusto nurodymu Kauno muitinės laikytojai Ivanas Kuncevičius, Ulrichas Hozijus ir Mikalojus Šembelis tikrino kelius iš Žemaitijos į Prūsi ją ir įsitikino, kad pirkliai dažnai gabendavo kontrabandą.
 
+## Teiginiai
+
+<a id="claim-t-202081"></a>
+- t-001
+  teiginys: "Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdovinių Kauno muitininkų, pasitelkę kitą muitininką Ivaną Kuncevičių, skundė Kauno vaitą Jokūbą Šuką ir suolininkus, kad jie nepranešę valdovo komisarams surašė išmaros teise valdovui."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185428
+
+<a id="claim-t-202082"></a>
+- t-002
+  teiginys: "1554 m. Žygimanto Augusto nurodymu Kauno muitinės laikytojai Ivanas Kuncevičius, Ulrichas Hozijus ir Mikalojus Šembelis tikrino kelius iš Žemaitijos į Prūsi ją ir įsitikino, kad pirkliai dažnai gabendavo kontrabandą."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185429
+
 ## Citatos
 
 - id: c-185428
@@ -59,7 +85,7 @@ Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185429
@@ -77,32 +103,5 @@ Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-202081"></a>
-- t-001
-  teiginys: "Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdovinių Kauno muitininkų, pasitelkę kitą muitininką Ivaną Kuncevičių, skundė Kauno vaitą Jokūbą Šuką ir suolininkus, kad jie nepranešę valdovo komisarams surašė išmaros teise valdovui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185428
-
-<a id="claim-t-202082"></a>
-- t-002
-  teiginys: "1554 m. Žygimanto Augusto nurodymu Kauno muitinės laikytojai Ivanas Kuncevičius, Ulrichas Hozijus ir Mikalojus Šembelis tikrino kelius iš Žemaitijos į Prūsi ją ir įsitikino, kad pirkliai dažnai gabendavo kontrabandą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185429
-

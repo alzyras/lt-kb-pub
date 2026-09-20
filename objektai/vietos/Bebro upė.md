@@ -44,22 +44,10 @@ Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseni
 
 ## Teiginiai
 
-<a id="claim-t-212072"></a>
-- t-212072
-  teiginys: "Traidenis prie Bebro upės aptiko kalną, įkūrė miestą ir pavadino jį Raigardu."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193289
-
-<a id="claim-t-212158"></a>
-- t-212158
+<a id="claim-t-194925"></a>
+- t-001
   teiginys: "Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseniai Mazovijos Ziemovito suda rytos taikos sutarties su kryžiuočiais atgrasinti jotvingiai pasitraukė prie Bebro upės ir Bugo žemupio, iš kur, pa dvigubinę savo jėgas, puldinėdavo kitapus."
-  atnaujinta: "2026-09-13 18:12"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,7 +55,7 @@ Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseni
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-194549
+    - c-177321
 
 ## Citatos
 
@@ -91,47 +79,5 @@ Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193289
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 57"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 57."
-  citata_originali: |
-    Didysis kunigaikštis Traidenis aptiko prie Bebro
-    upės 14 gražų kalną, jam tenai labai patiko, įkūrė ten
-    miestą ir pavadino jį
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212072
-
-- id: c-194549
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 132."
-  citata_originali: |
-    Si sutartis buvo pasirašyta Trošine 1260 metų
-    birželio 15 dieną1.
-    133
-    Nuosmukis. Kryžiuočių ir gal totorių iš Galicijos pusės
-    puolimų įbauginti ir neseniai Mazovijos Ziemovito suda­
-    rytos taikos sutarties su kryžiuočiais atgrasinti jotvingiai
-    pasitraukė prie Bebro upės ir Bugo žemupio, iš kur, pa­
-    dvigubinę savo jėgas, puldinėdavo kitapus Vyslos ir darė
-    daug žalos Lenkijai ir Mazovijai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212158
-
+  pagrindzia:
+    - t-001

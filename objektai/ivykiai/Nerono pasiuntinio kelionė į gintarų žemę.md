@@ -36,6 +36,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201297"></a>
+- t-001
+  teiginys: "Neronas, rymionų viešpats, paskendęs lepume ir goslume, geisdamąs dar didžiuotis Rymo akivaizdoj įvairia puikybe bei turtais, liepė eržilui savo rūmų, arba kavalieriui, keliauti į gintarų žemę ir jų tenai pirkti kiek gaunant."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184647
+
 ## Citatos
 
 - id: c-184647
@@ -62,20 +76,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201297"></a>
-- t-001
-  teiginys: "Neronas, rymionų viešpats, paskendęs lepume ir goslume, geisdamąs dar didžiuotis Rymo akivaizdoj įvairia puikybe bei turtais, liepė eržilui savo rūmų, arba kavalieriui, keliauti į gintarų žemę ir jų tenai pirkti kiek gaunant."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184647
-

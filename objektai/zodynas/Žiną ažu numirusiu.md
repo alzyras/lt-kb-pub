@@ -27,6 +27,21 @@ media_all_json: |-
 
 Tai yra išmalda už mirusiuosius (Žiną ažu numirusiu).
 
+## Teiginiai
+
+<a id="claim-t-194789"></a>
+- t-001
+  teiginys: "Tai yra išmalda už mirusiuosius (Žiną ažu numirusiu)."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177185
+
 ## Citatos
 
 - id: c-177185
@@ -48,4 +63,5 @@ Tai yra išmalda už mirusiuosius (Žiną ažu numirusiu).
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

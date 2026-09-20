@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'K. fon Kaufmanas'
+pavadinimas: K. fon Kaufmanas
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ed26be8187a01c0c387827db"
-canonical_name: "K. fon Kaufmanas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["K. fon Kaufmanas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ed26be8187a01c0c387827db
+canonical_name: K. fon Kaufmanas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - K. fon Kaufmanas
 sameAs: []
-canonical_biography: "1866.IX.1 Kauno gubernatoriaus įstaigos raštas buvo adresuotas Vilniaus generalgubernatoriui K. fon Kaufmanui."
+canonical_biography: 1866.IX.1 Kauno gubernatoriaus įstaigos raštas buvo adresuotas Vilniaus generalgubernatoriui K. fon Kaufmanui.
 ---
 # K. fon Kaufmanas
 

@@ -51,28 +51,18 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-224265"></a>
-- t-002
-  teiginys: "Apaštališkojo sosto vardu buvo įsakyta skelbti kryžiaus karą Sventopelkui ir jo šalininkams."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206267
-
-<a id="claim-t-222651"></a>
-- t-222651
+<a id="claim-t-62841"></a>
+- t-001
   teiginys: "1245 m. apaštališkojo sosto legatas paskelbė kryžiaus karą prieš Sventopelką ir įsakė jį skelbti įvairiose karalystėse bei provincijose."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1245 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir tiksliai atitinka citatą apie legato paskelbtą kryžiaus karą."
+  pagrindžia:
+    - c-63671
 
 ## Citatos
 
@@ -95,7 +85,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-63671
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -117,27 +106,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-206267
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 85"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
-  citata_originali: |
-    Taigi pasiuntinys, matydamas, kad kunigaikštis visai neketina
-    taisytis ir nieku būdu nenori grįžti į šventosios motinos bažnyčios prieglobstį, deramai
-    jį įspėjo, kad, didėjant užsispyrimui, didėsianti ir bausmė; norėdamas sutramdyti šio
-    tirono bei jo šalininkų piktus darbus, jis apaštališkojo sosto vardu įsakė skelbti kryžiaus
-    karą karalystėse ir provincijose, kurios buvo numatytos tam reikalui, įpareigodamas
-    kryžininkus bei Teutonų ordino brolius, davus dorovingus šventojo klusnumo įžadus ir
-    tikintis nuodėmių atleidimo, ginti, kiek jėgos leidžia, Kristaus tikėjimą ir tikinčiųjų bažnyčią
-    Prūsijos žemėse nuo šitokio žiauraus bei neteisingo šio kunigaikščio persekiojimo270.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
+  pagrindzia:
+    - t-001

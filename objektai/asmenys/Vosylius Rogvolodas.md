@@ -43,6 +43,34 @@ Narbutas rašo, kad Polocko kunigaikštystę valdė Boriso sūnus Vosylius Rogvo
 
 Narbutas rašo, kad Polocko kunigaikštystę valdė Boriso sūnus Vosylius Rogvolodas, vienas iš Palemono ainių, turėjęs Kuoknesės valsčių ir tvirtovę. Mes iš tiesų neturime pakankamai žinių iš Polocko kuni gaikštystės istorijos, kad galėtume išdėstyti priežastis, kodėl kunigaikštis Vosylius, neabejojamai tas pats, ku ris 1222 metais valdė Kuoknesę, paėmė į savo rankas Naugardo valdžią.
 
+## Teiginiai
+
+<a id="claim-t-205190"></a>
+- t-001
+  teiginys: "Mes iš tiesų neturime pakankamai žinių iš Polocko kuni gaikštystės istorijos, kad galėtume išdėstyti priežastis, kodėl kunigaikštis Vosylius, neabejojamai tas pats, ku ris 1222 metais valdė Kuoknesę, paėmė į savo rankas Naugardo valdžią."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187775
+
+<a id="claim-t-205546"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad Polocko kunigaikštystę valdė Boriso sūnus Vosylius Rogvolodas, vienas iš Palemono ainių, turėjęs Kuoknesės valsčių ir tvirtovę."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187684
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Polocko kunigaikštystę valdė Boriso sūnus Vosylius Rogvolodas, vienas iš Palemono ainių, turėjęs Kuoknesės valsčių ir tvirtovę.'
@@ -97,7 +125,7 @@ Narbutas rašo, kad Polocko kunigaikštystę valdė Boriso sūnus Vosylius Rogvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-187775
@@ -118,34 +146,5 @@ Narbutas rašo, kad Polocko kunigaikštystę valdė Boriso sūnus Vosylius Rogvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205190"></a>
-- t-001
-  teiginys: "Mes iš tiesų neturime pakankamai žinių iš Polocko kuni gaikštystės istorijos, kad galėtume išdėstyti priežastis, kodėl kunigaikštis Vosylius, neabejojamai tas pats, ku ris 1222 metais valdė Kuoknesę, paėmė į savo rankas Naugardo valdžią."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187775
-
-<a id="claim-t-205546"></a>
-- t-002
-  teiginys: "Narbutas rašo, kad Polocko kunigaikštystę valdė Boriso sūnus Vosylius Rogvolodas, vienas iš Palemono ainių, turėjęs Kuoknesės valsčių ir tvirtovę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187684
-

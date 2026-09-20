@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Ulmigeria (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Ulmigeria (vieta)
+identifikacija: vieta
 variantai:
-  - 'Ulmigeria'
+  - Ulmigeria
 aliases:
-  - 'Ulmigeria'
+  - Ulmigeria
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ebdc6e98e6edc9ba0de0c494"
-canonical_name: "Ulmigeria (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ulmigeria","Ulmigeria (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ebdc6e98e6edc9ba0de0c494
+canonical_name: Ulmigeria (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ulmigeria
+  - Ulmigeria (vieta)
 sameAs: []
-canonical_biography: "Venedai tą kraštą vadino Ulmigeria, o te nykščius žmones — Ulmigeri."
+canonical_biography: 'Venedai tą kraštą vadino Ulmigeria, o te nykščius žmones — Ulmigeri.'
 ---
 # Ulmigeria (vieta)
 
@@ -72,6 +72,5 @@ Venedai tą kraštą vadino Ulmigeria, o te nykščius žmones — Ulmigeri.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

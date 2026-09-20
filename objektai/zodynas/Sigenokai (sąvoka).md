@@ -33,6 +33,21 @@ Tai turėjo būti sigenokai.
 
 Tai turėjo būti sigenokai.
 
+## Teiginiai
+
+<a id="claim-t-205243"></a>
+- t-001
+  teiginys: "Tai turėjo būti sigenokai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187773
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tai turėjo būti sigenokai.'
@@ -59,21 +74,5 @@ Tai turėjo būti sigenokai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205243"></a>
-- t-001
-  teiginys: "Tai turėjo būti sigenokai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
-  pagrindžia:
-    - c-187773
-

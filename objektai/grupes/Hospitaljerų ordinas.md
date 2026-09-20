@@ -1,28 +1,25 @@
 ---
 tipas: grupe
-pavadinimas: 'Hospitaljerų ordinas'
+pavadinimas: Hospitaljerų ordinas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1307 m.'
+  - 1307 m.
 date_start: '1307'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Hospitaljerų ordinas
 
@@ -47,6 +44,18 @@ Burchardas iš Švandeno, Teutonų ordino didysis magistras, persivilko hospital
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-203924
+
+<a id="claim-t-222215"></a>
+- t-222215
+  teiginys: "1307 m. hospitaljerai užėmė Rodo salą ir dar penkias salas."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206086
 
 ## Citatos
 
@@ -79,9 +88,11 @@ Burchardas iš Švandeno, Teutonų ordino didysis magistras, persivilko hospital
     Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas
     salas (Mart. p. 442).
   statusas: verified
-  atnaujinta: "2026-09-13 11:39"
+  atnaujinta: "2026-09-13 18:02"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222215
 

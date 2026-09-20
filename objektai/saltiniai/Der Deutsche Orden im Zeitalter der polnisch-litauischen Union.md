@@ -38,6 +38,26 @@ media_all_json: |-
 
 Oersdorf : Der Deutsche Orden im Zeitalter der 'polnisch-litauischen Union.
 
+## Teiginiai
+
+<a id="claim-t-31657"></a>
+- t-001
+  teiginys: "H. Oersdorfo Der Deutsche Orden im Zeitalter der polnisch-litauischen Union apėmė didžiojo magistro Konrado Zöllnerio 1382–1390 m. tarnybą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Zöllneris: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Der Deutsche Orden im Zeitalter der polnisch-litauischen Union: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Zöllneris: mention_match, person, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Der Deutsche Orden im Zeitalter der polnisch-litauischen Union\" parinktas kaip owner_note_path. Targetas \"Zöllneris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1382-1390; įvykio data: 1390 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-33552
+
 ## Citatos
 
 - id: c-33552
@@ -59,26 +79,5 @@ Oersdorf : Der Deutsche Orden im Zeitalter der 'polnisch-litauischen Union.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-31657"></a>
-- t-001
-  teiginys: "H. Oersdorfo Der Deutsche Orden im Zeitalter der polnisch-litauischen Union apėmė didžiojo magistro Konrado Zöllnerio 1382–1390 m. tarnybą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Zöllneris: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Der Deutsche Orden im Zeitalter der polnisch-litauischen Union: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Zöllneris: mention_match, person, gap=95"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Der Deutsche Orden im Zeitalter der polnisch-litauischen Union\" parinktas kaip owner_note_path. Targetas \"Zöllneris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1382-1390; įvykio data: 1390 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-33552
-

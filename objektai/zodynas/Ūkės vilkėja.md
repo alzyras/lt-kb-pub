@@ -36,6 +36,27 @@ Vartojamos formos: `ūkės vilkėjomis`.
 
 - Terminas čia labiau socialinis vaidmuo nei grynas profesinis pavadinimas.
 
+## Teiginiai
+
+<a id="claim-t-07652"></a>
+- t-001
+  teiginys: "Ūkės vilkėja siejama su didžios gaspadinės vardu ir tokiais darbais kaip sėjimas, arimas, šieno pjovimas bei javų valymas."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09585
+
+<a id="claim-t-07653"></a>
+- t-002
+  teiginys: "Ūkės vilkėjomis vadintos merginos ar moterys, siejamos su gaspadinės vardu, lauko darbais ir rūtos auginimu."
+  atnaujinta: "2026-07-19 16:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09584
+    - c-09585
+
 ## Citatos
 
 - id: c-09584
@@ -51,6 +72,8 @@ Vartojamos formos: `ūkės vilkėjomis`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-09585
   autorius: "Simonas Daukantas"
@@ -65,20 +88,6 @@ Vartojamos formos: `ūkės vilkėjomis`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210018"></a>
-- t-001
-  teiginys: "Ūkės vilkėja siejama su didžios gaspadinės vardu ir tokiais darbais kaip sėjimas, arimas, šieno pjovimas bei javų valymas."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
-<a id="claim-t-210024"></a>
-- t-210024
-  teiginys: "Ūkės vilkėjomis vadintos merginos ar moterys, siejamos su gaspadinės vardu, lauko darbais ir rūtos auginimu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
+  pagrindzia:
+    - t-001
+    - t-002

@@ -51,54 +51,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-215229"></a>
-- t-215229
-  teiginys: "T. Narbutas šį egzempliorių pildė iki 1863 metų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197251
-
-<a id="claim-t-215640"></a>
-- t-215640
-  teiginys: "Egzemplioriuje visose devyniose dalyse buvo atlikta daugybė pataisų ir įklijų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195785
-
-<a id="claim-t-219982"></a>
-- t-219982
-  teiginys: "Narbutas, remdamasis T. Volianskio numizmatiniais tyrinėjimais, pildė parankinio LTI egzemplioriaus tomus ir pridėjo naujų iliustracijų."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Poznanė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "T. Narbuto parankinis LTI egzempliorius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Poznanė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbuto parankinis LTI egzempliorius\" parinktas kaip owner_note_path. Targetas \"Poznanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-198758
-
-<a id="claim-t-220102"></a>
-- t-220102
+<a id="claim-t-189639"></a>
+- t-001
   teiginys: "T. Narbuto parankiniame LTI egzemplioriuje visose devyniose dalyse atsirado daugybė pataisų ir įklijų, skirtų antrajam leidimui."
-  atnaujinta: "2026-09-12 23:46"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -113,7 +69,27 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-198697
+    - c-172522
+
+<a id="claim-t-189640"></a>
+- t-002
+  teiginys: "Narbutas, remdamasis T. Volianskio numizmatiniais tyrinėjimais, pildė parankinio LTI egzemplioriaus tomus ir pridėjo naujų iliustracijų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Poznanė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Narbuto parankinis LTI egzempliorius: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Poznanė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbuto parankinis LTI egzempliorius\" parinktas kaip owner_note_path. Targetas \"Poznanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172523
 
 ## Citatos
 
@@ -140,6 +116,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-172523
   autorius: "Teodoras Narbutas"
@@ -160,91 +138,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195785
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 455"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 455."
-  citata_originali: |
-    Taip T. Narbuto darbiniame LTI egzemp­
-    lioriuje, visose devyniose dalyse, atsirado daugybė pa­
-    taisų, įklijų — visa tai ir turėjo papildyti antrąjį leidimą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215640
-
-- id: c-197251
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 455"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 455."
-  citata_originali: |
-    Savo
-    parankinį LTI egzempliorių T. Narbutas pildė iki lemtin­
-    gų 1863 metų — tai rodo teksto analizė, t. y. datos bei se­
-    nyvam istoriko amžiui būdingas braižas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215229
-
-- id: c-198697
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 64"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 64."
-  citata_originali: |
-    Taip T. Narbuto parankiniame LTI
-    egzemplioriuje, visose devyniose dalyse, atsirado daugybė pa­
-    taisų, įklijų - visa tai ir turėjo papildyti antrąjį leidimą. Ir nors
-    vilčių paskelbti naująjį variantą buvo labai nedaug, T. Narbu­
-    tas nemažai metų koregavo pirmąjį tekstą. 1846 metais jis ra­
-    šė S. Daukantui: „O tuo tarpu ant švarių lapų, įsiūtų į mano
-    parankinį egzempliorių, perrašinėju, taisau, išmetu, lyginu, kol
-    užtenka gyvatos. Tegu tai lieka arba būsimam pakartotiniam
-    leidimui, arba Lietuvos muziejui, kaip ir kiti viso mano gyve­
-    nimo darbai“41. Savo parankinį LTI egzempliorių T. Narbutas
-    pildė iki lemtingų 1863 metų - tai rodo teksto analizė, t. y.
-    datos bei senyvam istoriko amžiui būdingas braižas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220102
-
-- id: c-198758
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 71"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 71."
-  citata_originali: |
-    T. Volianskio dėka senoji Lietu­
-    vos istorija nušvito naujomis spalvomis. Poznanės kolekcio­
-    nieriaus išvadomis istorikas puolė pildyti parankinio LTI eg­
-    zemplioriaus tomus. Šiandien net sunku būtų suskaičiuoti, kiek
-    tokių papildymų buvo padaryta, ir bene daugiausia jų tektų
-    pirmam tomui. T. Narbutas, atsižvelgęs į numizmato tyrinėji­
-    mus, parankinį egzempliorių net buvo papildęs naujomis iliust­
-    racijomis, kurios, deja, ne visos pasiekė mūsų dienas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219982
-
+  pagrindzia:
+    - t-002

@@ -32,30 +32,12 @@ media_all_json: |-
 
 PVL = Povest’ vremennych let, cast’ pervaja.
 
-## Citatos
-
-- id: c-30085
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 21"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 21."
-  citata_originali: |
-    PVL = Povest’ vremennych let, cast’ pervaja. Tekst i perevod.
-    Leningradas 1951.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-30180"></a>
 - t-001
   teiginys: "„Povest’ vremennych let, cast’ pervaja“ teksto ir vertimo leidimas išleistas Leningrade 1951 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Leningradas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -71,3 +53,20 @@ PVL = Povest’ vremennych let, cast’ pervaja.
   pagrindžia:
     - c-30085
 
+## Citatos
+
+- id: c-30085
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 21"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 21."
+  citata_originali: |
+    PVL = Povest’ vremennych let, cast’ pervaja. Tekst i perevod.
+    Leningradas 1951.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

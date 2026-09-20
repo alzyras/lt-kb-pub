@@ -1,29 +1,26 @@
 ---
 tipas: ivykis
-pavadinimas: 'Monopolijų užpuolimai Kauno gubernijoje 1905–1906 m'
+pavadinimas: Monopolijų užpuolimai Kauno gubernijoje 1905–1906 m
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1905 m.'
-  - '1906 m.'
+  - 1905 m.
+  - 1906 m.
 date_start: '1905'
 date_end: '1906'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Monopolijų užpuolimai Kauno gubernijoje 1905–1906 m
 

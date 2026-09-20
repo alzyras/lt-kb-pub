@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Kryžiuočių ordinas'
+pavadinimas: Kryžiuočių ordinas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -11,11 +11,11 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1163 m.'
-  - '1521 m.'
+  - 1163 m.
+  - 1521 m.
 date_start: '1163'
 date_end: '1521'
 sukurta: ''
@@ -24,21 +24,30 @@ tags:
   - grupe
   - ordinas
 amziai:
-  - 'XII'
-  - 'XVI'
+  - XII
+  - XVI
 media_total_count: '10'
 media_primary_thumb_url: 'https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres'
 media_primary_canonical_url: 'https://gallica.bnf.fr/ark:/12148/btv1b10052439p'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'depicts'
-media_primary_json: |-
-  {"mediaId":"m-21f12196c91b730dfc6e9a86","title":"Ritter des deutschen Ordens. Chevalier de l'Ordre Teutonique.","caption":"Vokiečių ordino riteris su baltu apsiaustu ir juodu kryžiumi, XVIII a. pab.","originalTitle":"Ritter des deutschen Ordens. Chevalier de l'Ordre Teutonique.","creator":"","provider":"gallica","providerLabel":"Bibliothèque nationale de France — Gallica","license":"Public Domain","rightsNote":"domaine public | public domain","licenseUrl":"['domaine public', 'public domain']","attribution":"","dateDisplay":"1787-1790","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p","sourceUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","thumbUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","displayUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","institution":"","collection":"","country":"","language":"","tags":[{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karys","label":"karys","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"gallica","field":"subjects","label":"Deutsch-Ordens-Priester (1191-1809) -- Coutumes et pratiques","language":"","canonicalCode":""},{"provider":"gallica","field":"subjects","label":"Ordres de chevalerie -- Costume","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"engraving","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"estampe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image fixe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"still image","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T20:41:00.866018+03:00","reviewedAt":"2026-08-08T20:42:26.106627+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas riteris su baltu apsiaustu, dideliu juodu kryžiumi, ordino kryžiumi ant krūtinės ir kario atributais.","metadataEvidence":"Pavadinime tiesiogiai nurodyta „Ritter des deutschen Ordens“ ir prancūziškas atitikmuo „Chevalier de l'Ordre Teutonique“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Kryžiuočių ordino nario atvaizdas.","isPrimary":1}
-media_direct_json: |-
-  [{"mediaId":"m-21f12196c91b730dfc6e9a86","title":"Ritter des deutschen Ordens. Chevalier de l'Ordre Teutonique.","caption":"Vokiečių ordino riteris su baltu apsiaustu ir juodu kryžiumi, XVIII a. pab.","originalTitle":"Ritter des deutschen Ordens. Chevalier de l'Ordre Teutonique.","creator":"","provider":"gallica","providerLabel":"Bibliothèque nationale de France — Gallica","license":"Public Domain","rightsNote":"domaine public | public domain","licenseUrl":"['domaine public', 'public domain']","attribution":"","dateDisplay":"1787-1790","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p","sourceUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","thumbUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","displayUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","institution":"","collection":"","country":"","language":"","tags":[{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karys","label":"karys","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"gallica","field":"subjects","label":"Deutsch-Ordens-Priester (1191-1809) -- Coutumes et pratiques","language":"","canonicalCode":""},{"provider":"gallica","field":"subjects","label":"Ordres de chevalerie -- Costume","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"engraving","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"estampe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image fixe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"still image","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T20:41:00.866018+03:00","reviewedAt":"2026-08-08T20:42:26.106627+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas riteris su baltu apsiaustu, dideliu juodu kryžiumi, ordino kryžiumi ant krūtinės ir kario atributais.","metadataEvidence":"Pavadinime tiesiogiai nurodyta „Ritter des deutschen Ordens“ ir prancūziškas atitikmuo „Chevalier de l'Ordre Teutonique“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Kryžiuočių ordino nario atvaizdas.","isPrimary":1},{"mediaId":"m-3e474638c075f37fa1980043","title":"Ritter des deutschen Ordens am Tage der Aufnahme. Chevalier de l'Ordre Teutonique au jour de réception.","caption":"Į Vokiečių ordiną priimamas riteris, XVIII a. pab.","originalTitle":"Ritter des deutschen Ordens am Tage der Aufnahme. Chevalier de l'Ordre Teutonique au jour de réception.","creator":"","provider":"gallica","providerLabel":"Bibliothèque nationale de France — Gallica","license":"Public Domain","rightsNote":"domaine public | public domain","licenseUrl":"['domaine public', 'public domain']","attribution":"","dateDisplay":"1787-1790","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387","sourceUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387/f1.highres","thumbUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387/f1.highres","displayUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387/f1.highres","institution":"","collection":"","country":"","language":"","tags":[{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karys","label":"karys","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"gallica","field":"subjects","label":"Deutsch-Ordens-Priester (1191-1809) -- Coutumes et pratiques","language":"","canonicalCode":""},{"provider":"gallica","field":"subjects","label":"Ordres de chevalerie -- Costume","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"engraving","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"estampe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image fixe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"still image","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T20:41:00.871151+03:00","reviewedAt":"2026-08-08T20:42:26.118891+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas šarvuotas riteris su kryžiumi, šalmu, plunksnomis, kardu ir ordino insignijomis.","metadataEvidence":"Pavadinime tiesiogiai nurodyta „Ritter des deutschen Ordens am Tage der Aufnahme“ ir „Chevalier de l'Ordre Teutonique au jour de réception“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Kryžiuočių ordino riterio atvaizdas.","isPrimary":0}]
-media_contextual_json: |-
-  [{"mediaId":"m-97b2e6926298e4225f1e697d","title":"Der Krieg zwischen dem Deutschen Orden und Polen-Littauen, 1409-1411 / von Max Oehler. - 1910. - 110, [2] p., [4] žml. lap.","caption":"Leidinio apie Vokiečių ordino karą su Lenkija ir Lietuva 1409–1411 m. titulinis puslapis.","originalTitle":"Der Krieg zwischen dem Deutschen Orden und Polen-Littauen, 1409-1411 / von Max Oehler. - 1910. - 110, [2] p., [4] žml. lap.","creator":"Oehler, Max (1875-1946)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1910","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C1BLNB1F417959","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BLNB1F417959/original/0001-C1D3245A205D00C64490465805F495CC.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BLNB1F417959/thumbnail-original/C1BLNB1F417959.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BLNB1F417959/original/0001-C1D3245A205D00C64490465805F495CC.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:13:00.006546+03:00","reviewedAt":"2026-08-10T14:37:26.454410+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas titulinis puslapis su aiškiu pavadinimu apie Deutschen Orden ir 1409–1411 m. karą.","metadataEvidence":"Pavadinime tiesiogiai įvardytas „Deutschen Orden“ ir karas su Polen-Littauen.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su target susijusio istorinio leidinio vaizdas, tinkamas kaip kontekstinis dokumentas.","isPrimary":0},{"mediaId":"m-d6fd566cbcaa8a41dff5473a","title":"Historischer Bericht von dem Marianisch-Teutschen Ritter-Orden dess Hospitals Unser Lieben Frauen zu Jerusalem","caption":"Knygos apie Marianinį Vokiečių riterių ordiną įrišimas.","originalTitle":"Historischer Bericht von dem Marianisch-Teutschen Ritter-Orden dess Hospitals Unser Lieben Frauen zu Jerusalem","creator":"Venator Johann Caspar","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1680","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LNB171041691438959557001","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB171041691438959557001/original/K-261-1.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB171041691438959557001/thumbnail-original/K-261-1.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB171041691438959557001/original/K-261-1.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinė-sąvoka","label":"istorinė-sąvoka","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"religinė-bendruomenė","label":"religinė-bendruomenė","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:59.999631+03:00","reviewedAt":"2026-08-10T14:37:26.448503+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis knygos įrišimas; pats ordino atvaizdas nepateiktas.","metadataEvidence":"Pavadinime aiškiai įvardytas „Marianisch-Teutschen Ritter-Orden“, t. y. Vokiečių kryžiuočių ordinas.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su target susijusio istorinio leidinio vaizdas, todėl tinkamas kaip kontekstinis dokumentas.","isPrimary":0},{"mediaId":"m-39f7170a37e002e4b3b28196","title":"Kurtze und warhafftige Beschreibung des Landes zu Preussen : Item: Der alten Heidenischen Vndeutschen Preussen, sampt jrer Religion/ Göttern/ Bäpsten/ vnd Pfaffen: Aberglauben/ Stenden/ Sitten/ Krigsrüstung/ Sterben vnd Begrebnis, [et]c. : Wie sie es nach jrer gewonheit/ ehe vnd dann/ sie durch den Orden bezwungen/ vnd zum Christlichen Glauben bekert worden sind/ in allerley stücken gehalten haben. : Letztlichen eine kurtze Austeilung des Landes/ wie dasselbige in der Heidenschafft/ ehe es der Orden bezwungen/ genent vnd bewonet worden. Auch was für Schlösser vnd Stedte in jderm Fürsthentum gelegen sind. Aus Alten vnd newen Scribenten zusamen gezogen / Durch","caption":"Leidinio apie Prūsiją ir Vokiečių ordino užkariavimus puslapis.","originalTitle":"Kurtze und warhafftige Beschreibung des Landes zu Preussen : Item: Der alten Heidenischen Vndeutschen Preussen, sampt jrer Religion/ Göttern/ Bäpsten/ vnd Pfaffen: Aberglauben/ Stenden/ Sitten/ Krigsrüstung/ Sterben vnd Begrebnis, [et]c. : Wie sie es nach jrer gewonheit/ ehe vnd dann/ sie durch den Orden bezwungen/ vnd zum Christlichen Glauben bekert worden sind/ in allerley stücken gehalten haben. : Letztlichen eine kurtze Austeilung des Landes/ wie dasselbige in der Heidenschafft/ ehe es der Orden bezwungen/ genent vnd bewonet worden. Auch was für Schlösser vnd Stedte in jderm Fürsthentum gelegen sind. Aus Alten vnd newen Scribenten zusamen gezogen / Durch","creator":"Henenbergeris, K. (1529 - 1600-02-29)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1584","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000278733","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000278733/original/0001-LIBIS000000278733.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000278733/thumbnail-original/0001-LIBIS000000278733.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000278733/original/0001-LIBIS000000278733.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:59.990556+03:00","reviewedAt":"2026-08-10T14:37:26.441793+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas senos knygos puslapis su tekstu apie Prūsiją, jos religiją ir laikotarpį iki krašto pavergimo Ordino.","metadataEvidence":"Pavadinime aiškiai nurodoma, kad Prūsija buvo Ordino užkariauta ir christianizuota.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai istorinis dokumentinis šaltinis apie Kryžiuočių ordiną, tačiau ne paties Ordino atvaizdas.","isPrimary":0},{"mediaId":"m-f5ff5be4c7eef86fce784b9a","title":"Samaiten und der Deutsche Orden bis zum Frieden am Melno-See / von Robert Krumbholtz. - 1890. - 209, [1] p., [1] sulankst. žml. lap.","caption":"Knygos apie žemaičius ir Vokiečių ordiną antraštinis lapas.","originalTitle":"Samaiten und der Deutsche Orden bis zum Frieden am Melno-See / von Robert Krumbholtz. - 1890. - 209, [1] p., [1] sulankst. žml. lap.","creator":"Krumbholtz, Robert (1863-1939)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1890","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C1BC10000000404","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BC10000000404/original/0001-CB8BA37B19F3362C5F05B402C5A426F0.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BC10000000404/thumbnail-original/C1BC10000000404.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BC10000000404/original/0001-CB8BA37B19F3362C5F05B402C5A426F0.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"konfliktas","label":"konfliktas","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:59.978529+03:00","reviewedAt":"2026-08-10T14:37:26.419219+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matomas vokiškas pavadinimas „Samaiten und der Deutsche Orden bis zum Frieden am Melno-See“.","metadataEvidence":"Kandidato pavadinime tiesiogiai įvardytas Deutsche Orden, o leidinys nagrinėja Žemaitijos ir Ordino santykius.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne paties Ordino atvaizdas, bet aiškiai su juo susijęs istorinis leidinys.","isPrimary":0},{"mediaId":"m-1aa2effb184523f8769df0fe","title":"Žalgirio mūšio 550 metų sukaktį atžymėti Karys išleido naują knygą: plk. O. Urbono, 1410 metų karas ir Žalgirio mūšis : [reklaminis skelbimas - užsakymo lapelis]","caption":"Užsakymo lapelis 1960 m. išleistai knygai apie 1410 metų karą ir Žalgirio mūšį.","originalTitle":"Žalgirio mūšio 550 metų sukaktį atžymėti Karys išleido naują knygą: plk. O. Urbono, 1410 metų karas ir Žalgirio mūšis : [reklaminis skelbimas - užsakymo lapelis]","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1960","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000782604","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000782604/original/0001-LIBIS000000782604.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000782604/thumbnail-original/0001-LIBIS000000782604.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000782604/original/0001-LIBIS000000782604.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kultūrinis-įvykis","label":"kultūrinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T15:35:43.313822+03:00","reviewedAt":"2026-08-10T15:38:46.814895+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas leidinio užsakymo blankas su tekstu apie plk. O. Urbono knygą „1410 metų karas ir Žalgirio mūšis“ bei „Žalgirio mūšio 550 metų sukaktį“.","metadataEvidence":"Kandidato pavadinimas ir dokumento tekstas aiškiai nurodo 1410 metų karą ir Žalgirio mūšį; target apraše šis mūšis siejamas su Ordino galybės palaužimu.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai pagrįstas dokumentinis leidinio apie target istorinį konfliktą kontekstas, bet ne paties Ordino atvaizdas.","isPrimary":0},{"mediaId":"m-1a6bdd65a0ee54572e428a07","title":"Ordens Archiv. Erste Abtheilung. Enthaltend Urkunden und Materialen zur Geschichte von Preussen … - [XVIII a.]. - 98 lap. ir tušti","caption":"„Ordens Archiv“ repertorijaus viršelis, susijęs su Vokiečių ordino Prūsijoje archyvine medžiaga.","originalTitle":"Ordens Archiv. Erste Abtheilung. Enthaltend Urkunden und Materialen zur Geschichte von Preussen … - [XVIII a.]. - 98 lap. ir tušti","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"[XVIII a.]","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LNB04BD9BCC","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB04BD9BCC/original/0001-A964DC29CB12D2FADFF4F0074AEDECE6.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB04BD9BCC/thumbnail-original/LNB04BD9BCC.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB04BD9BCC/original/0001-A964DC29CB12D2FADFF4F0074AEDECE6.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.82},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.82},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.82},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:58.782978+03:00","reviewedAt":"2026-08-10T12:16:08.265889+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas archyvinio repertorijaus įrištas viršelis su užrašu „Ordens Archiv“ ir „Repertor I.4“.","metadataEvidence":"Pavadinimas nurodo Ordino archyvą, o aprašas – XIII–XVI a. ordino žemių, provincijų ir miestų dokumentų medžiagą.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne paties ordino atvaizdas, bet aiškiai su Vokiečių ordino istorija susijęs archyvinis šaltinis.","isPrimary":0},{"mediaId":"m-5287aaa91a6905850b037354","title":"Žalgiris : 5-ių veiksmų istoriška drama","caption":"1932 m. istorinės dramos „Žalgiris“ leidinio viršelis, siejamas su Žalgirio mūšiu ir Kryžiuočių ordino pralaimėjimu.","originalTitle":"Žalgiris : 5-ių veiksmų istoriška drama","creator":"Vytautas Bičiūnas (1893-08-20 - 1945-11-18)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1932","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C1B0003943129","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0003943129/original/0001-48BEBBCE7C30B33159914D3C8F97FCF2.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0003943129/thumbnail-original/C1B0003943129.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0003943129/original/0001-48BEBBCE7C30B33159914D3C8F97FCF2.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.82},{"code":"kultūrinis-įvykis","label":"kultūrinis-įvykis","facetKind":"tema","confidence":0.82},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T15:35:43.302279+03:00","reviewedAt":"2026-08-10T15:38:46.799560+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas leidinio viršelis su dideliu pavadinimu „ŽALGIRIS“, Vytauto Bičiūno pavarde ir 1932 m. leidybos informacija.","metadataEvidence":"Kandidato pavadinimas nurodo penkių veiksmų istorinę dramą „Žalgiris“, išleistą 1932 m.; target kontekste minimas 1410 m. Žalgirio mūšis ir Ordino galybės palaužimas.","confidenceLevel":"medium","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai nėra Kryžiuočių ordino atvaizdas, tačiau aiškiai su target susijęs istorinis-kultūrinis leidinys apie Žalgirio mūšį.","isPrimary":0},{"mediaId":"m-8832f6d00132704d50bdafea","title":"Ženklelis. Lietuva. Žalgirio mūšiui paminėti.","caption":"Žalgirio mūšiui, kuriame buvo sutriuškinta Kryžiuočių ordino galybė, skirtas ženklelis.","originalTitle":"Ženklelis. Lietuva. Žalgirio mūšiui paminėti.","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinis muziejus","license":"CC BY","rightsNote":"CC BY","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIMIS-958543195","sourceUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-958543195/original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-958543195/thumbnail-original/get.jpg","displayUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-958543195/original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"medalis","label":"medalis","facetKind":"tema","confidence":0.82},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.82},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"commemoration_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T15:35:43.984776+03:00","reviewedAt":"2026-08-10T15:49:03.559632+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Apskritame ženklelyje matomas Vytis ir užrašas „ŽALGIRIO MŪŠIS ... 1410“.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Žalgirio mūšio paminėjimą; target kontekste nurodyta, kad 1410 m. Vytautas palaužė Ordino galybę.","confidenceLevel":"medium","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Ordino atvaizdas, bet aiškus memorialinis įvykio, tiesiogiai susijusio su target, vaizdas.","isPrimary":0}]
-media_all_json: |-
-  [{"mediaId":"m-21f12196c91b730dfc6e9a86","title":"Ritter des deutschen Ordens. Chevalier de l'Ordre Teutonique.","caption":"Vokiečių ordino riteris su baltu apsiaustu ir juodu kryžiumi, XVIII a. pab.","originalTitle":"Ritter des deutschen Ordens. Chevalier de l'Ordre Teutonique.","creator":"","provider":"gallica","providerLabel":"Bibliothèque nationale de France — Gallica","license":"Public Domain","rightsNote":"domaine public | public domain","licenseUrl":"['domaine public', 'public domain']","attribution":"","dateDisplay":"1787-1790","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p","sourceUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","thumbUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","displayUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","institution":"","collection":"","country":"","language":"","tags":[{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karys","label":"karys","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"gallica","field":"subjects","label":"Deutsch-Ordens-Priester (1191-1809) -- Coutumes et pratiques","language":"","canonicalCode":""},{"provider":"gallica","field":"subjects","label":"Ordres de chevalerie -- Costume","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"engraving","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"estampe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image fixe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"still image","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T20:41:00.866018+03:00","reviewedAt":"2026-08-08T20:42:26.106627+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas riteris su baltu apsiaustu, dideliu juodu kryžiumi, ordino kryžiumi ant krūtinės ir kario atributais.","metadataEvidence":"Pavadinime tiesiogiai nurodyta „Ritter des deutschen Ordens“ ir prancūziškas atitikmuo „Chevalier de l'Ordre Teutonique“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Kryžiuočių ordino nario atvaizdas.","isPrimary":1},{"mediaId":"m-3e474638c075f37fa1980043","title":"Ritter des deutschen Ordens am Tage der Aufnahme. Chevalier de l'Ordre Teutonique au jour de réception.","caption":"Į Vokiečių ordiną priimamas riteris, XVIII a. pab.","originalTitle":"Ritter des deutschen Ordens am Tage der Aufnahme. Chevalier de l'Ordre Teutonique au jour de réception.","creator":"","provider":"gallica","providerLabel":"Bibliothèque nationale de France — Gallica","license":"Public Domain","rightsNote":"domaine public | public domain","licenseUrl":"['domaine public', 'public domain']","attribution":"","dateDisplay":"1787-1790","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387","sourceUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387/f1.highres","thumbUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387/f1.highres","displayUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387/f1.highres","institution":"","collection":"","country":"","language":"","tags":[{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karys","label":"karys","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"gallica","field":"subjects","label":"Deutsch-Ordens-Priester (1191-1809) -- Coutumes et pratiques","language":"","canonicalCode":""},{"provider":"gallica","field":"subjects","label":"Ordres de chevalerie -- Costume","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"engraving","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"estampe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image fixe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"still image","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T20:41:00.871151+03:00","reviewedAt":"2026-08-08T20:42:26.118891+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas šarvuotas riteris su kryžiumi, šalmu, plunksnomis, kardu ir ordino insignijomis.","metadataEvidence":"Pavadinime tiesiogiai nurodyta „Ritter des deutschen Ordens am Tage der Aufnahme“ ir „Chevalier de l'Ordre Teutonique au jour de réception“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Kryžiuočių ordino riterio atvaizdas.","isPrimary":0},{"mediaId":"m-97b2e6926298e4225f1e697d","title":"Der Krieg zwischen dem Deutschen Orden und Polen-Littauen, 1409-1411 / von Max Oehler. - 1910. - 110, [2] p., [4] žml. lap.","caption":"Leidinio apie Vokiečių ordino karą su Lenkija ir Lietuva 1409–1411 m. titulinis puslapis.","originalTitle":"Der Krieg zwischen dem Deutschen Orden und Polen-Littauen, 1409-1411 / von Max Oehler. - 1910. - 110, [2] p., [4] žml. lap.","creator":"Oehler, Max (1875-1946)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1910","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C1BLNB1F417959","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BLNB1F417959/original/0001-C1D3245A205D00C64490465805F495CC.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BLNB1F417959/thumbnail-original/C1BLNB1F417959.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BLNB1F417959/original/0001-C1D3245A205D00C64490465805F495CC.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:13:00.006546+03:00","reviewedAt":"2026-08-10T14:37:26.454410+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas titulinis puslapis su aiškiu pavadinimu apie Deutschen Orden ir 1409–1411 m. karą.","metadataEvidence":"Pavadinime tiesiogiai įvardytas „Deutschen Orden“ ir karas su Polen-Littauen.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su target susijusio istorinio leidinio vaizdas, tinkamas kaip kontekstinis dokumentas.","isPrimary":0},{"mediaId":"m-d6fd566cbcaa8a41dff5473a","title":"Historischer Bericht von dem Marianisch-Teutschen Ritter-Orden dess Hospitals Unser Lieben Frauen zu Jerusalem","caption":"Knygos apie Marianinį Vokiečių riterių ordiną įrišimas.","originalTitle":"Historischer Bericht von dem Marianisch-Teutschen Ritter-Orden dess Hospitals Unser Lieben Frauen zu Jerusalem","creator":"Venator Johann Caspar","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1680","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LNB171041691438959557001","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB171041691438959557001/original/K-261-1.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB171041691438959557001/thumbnail-original/K-261-1.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB171041691438959557001/original/K-261-1.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinė-sąvoka","label":"istorinė-sąvoka","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"religinė-bendruomenė","label":"religinė-bendruomenė","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:59.999631+03:00","reviewedAt":"2026-08-10T14:37:26.448503+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis knygos įrišimas; pats ordino atvaizdas nepateiktas.","metadataEvidence":"Pavadinime aiškiai įvardytas „Marianisch-Teutschen Ritter-Orden“, t. y. Vokiečių kryžiuočių ordinas.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su target susijusio istorinio leidinio vaizdas, todėl tinkamas kaip kontekstinis dokumentas.","isPrimary":0},{"mediaId":"m-39f7170a37e002e4b3b28196","title":"Kurtze und warhafftige Beschreibung des Landes zu Preussen : Item: Der alten Heidenischen Vndeutschen Preussen, sampt jrer Religion/ Göttern/ Bäpsten/ vnd Pfaffen: Aberglauben/ Stenden/ Sitten/ Krigsrüstung/ Sterben vnd Begrebnis, [et]c. : Wie sie es nach jrer gewonheit/ ehe vnd dann/ sie durch den Orden bezwungen/ vnd zum Christlichen Glauben bekert worden sind/ in allerley stücken gehalten haben. : Letztlichen eine kurtze Austeilung des Landes/ wie dasselbige in der Heidenschafft/ ehe es der Orden bezwungen/ genent vnd bewonet worden. Auch was für Schlösser vnd Stedte in jderm Fürsthentum gelegen sind. Aus Alten vnd newen Scribenten zusamen gezogen / Durch","caption":"Leidinio apie Prūsiją ir Vokiečių ordino užkariavimus puslapis.","originalTitle":"Kurtze und warhafftige Beschreibung des Landes zu Preussen : Item: Der alten Heidenischen Vndeutschen Preussen, sampt jrer Religion/ Göttern/ Bäpsten/ vnd Pfaffen: Aberglauben/ Stenden/ Sitten/ Krigsrüstung/ Sterben vnd Begrebnis, [et]c. : Wie sie es nach jrer gewonheit/ ehe vnd dann/ sie durch den Orden bezwungen/ vnd zum Christlichen Glauben bekert worden sind/ in allerley stücken gehalten haben. : Letztlichen eine kurtze Austeilung des Landes/ wie dasselbige in der Heidenschafft/ ehe es der Orden bezwungen/ genent vnd bewonet worden. Auch was für Schlösser vnd Stedte in jderm Fürsthentum gelegen sind. Aus Alten vnd newen Scribenten zusamen gezogen / Durch","creator":"Henenbergeris, K. (1529 - 1600-02-29)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1584","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000278733","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000278733/original/0001-LIBIS000000278733.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000278733/thumbnail-original/0001-LIBIS000000278733.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000278733/original/0001-LIBIS000000278733.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:59.990556+03:00","reviewedAt":"2026-08-10T14:37:26.441793+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas senos knygos puslapis su tekstu apie Prūsiją, jos religiją ir laikotarpį iki krašto pavergimo Ordino.","metadataEvidence":"Pavadinime aiškiai nurodoma, kad Prūsija buvo Ordino užkariauta ir christianizuota.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai istorinis dokumentinis šaltinis apie Kryžiuočių ordiną, tačiau ne paties Ordino atvaizdas.","isPrimary":0},{"mediaId":"m-f5ff5be4c7eef86fce784b9a","title":"Samaiten und der Deutsche Orden bis zum Frieden am Melno-See / von Robert Krumbholtz. - 1890. - 209, [1] p., [1] sulankst. žml. lap.","caption":"Knygos apie žemaičius ir Vokiečių ordiną antraštinis lapas.","originalTitle":"Samaiten und der Deutsche Orden bis zum Frieden am Melno-See / von Robert Krumbholtz. - 1890. - 209, [1] p., [1] sulankst. žml. lap.","creator":"Krumbholtz, Robert (1863-1939)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1890","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C1BC10000000404","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BC10000000404/original/0001-CB8BA37B19F3362C5F05B402C5A426F0.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BC10000000404/thumbnail-original/C1BC10000000404.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BC10000000404/original/0001-CB8BA37B19F3362C5F05B402C5A426F0.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"konfliktas","label":"konfliktas","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:59.978529+03:00","reviewedAt":"2026-08-10T14:37:26.419219+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matomas vokiškas pavadinimas „Samaiten und der Deutsche Orden bis zum Frieden am Melno-See“.","metadataEvidence":"Kandidato pavadinime tiesiogiai įvardytas Deutsche Orden, o leidinys nagrinėja Žemaitijos ir Ordino santykius.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne paties Ordino atvaizdas, bet aiškiai su juo susijęs istorinis leidinys.","isPrimary":0},{"mediaId":"m-1aa2effb184523f8769df0fe","title":"Žalgirio mūšio 550 metų sukaktį atžymėti Karys išleido naują knygą: plk. O. Urbono, 1410 metų karas ir Žalgirio mūšis : [reklaminis skelbimas - užsakymo lapelis]","caption":"Užsakymo lapelis 1960 m. išleistai knygai apie 1410 metų karą ir Žalgirio mūšį.","originalTitle":"Žalgirio mūšio 550 metų sukaktį atžymėti Karys išleido naują knygą: plk. O. Urbono, 1410 metų karas ir Žalgirio mūšis : [reklaminis skelbimas - užsakymo lapelis]","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1960","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000782604","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000782604/original/0001-LIBIS000000782604.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000782604/thumbnail-original/0001-LIBIS000000782604.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000782604/original/0001-LIBIS000000782604.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kultūrinis-įvykis","label":"kultūrinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T15:35:43.313822+03:00","reviewedAt":"2026-08-10T15:38:46.814895+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas leidinio užsakymo blankas su tekstu apie plk. O. Urbono knygą „1410 metų karas ir Žalgirio mūšis“ bei „Žalgirio mūšio 550 metų sukaktį“.","metadataEvidence":"Kandidato pavadinimas ir dokumento tekstas aiškiai nurodo 1410 metų karą ir Žalgirio mūšį; target apraše šis mūšis siejamas su Ordino galybės palaužimu.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai pagrįstas dokumentinis leidinio apie target istorinį konfliktą kontekstas, bet ne paties Ordino atvaizdas.","isPrimary":0},{"mediaId":"m-1a6bdd65a0ee54572e428a07","title":"Ordens Archiv. Erste Abtheilung. Enthaltend Urkunden und Materialen zur Geschichte von Preussen … - [XVIII a.]. - 98 lap. ir tušti","caption":"„Ordens Archiv“ repertorijaus viršelis, susijęs su Vokiečių ordino Prūsijoje archyvine medžiaga.","originalTitle":"Ordens Archiv. Erste Abtheilung. Enthaltend Urkunden und Materialen zur Geschichte von Preussen … - [XVIII a.]. - 98 lap. ir tušti","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"[XVIII a.]","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LNB04BD9BCC","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB04BD9BCC/original/0001-A964DC29CB12D2FADFF4F0074AEDECE6.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB04BD9BCC/thumbnail-original/LNB04BD9BCC.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB04BD9BCC/original/0001-A964DC29CB12D2FADFF4F0074AEDECE6.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.82},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.82},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.82},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:58.782978+03:00","reviewedAt":"2026-08-10T12:16:08.265889+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas archyvinio repertorijaus įrištas viršelis su užrašu „Ordens Archiv“ ir „Repertor I.4“.","metadataEvidence":"Pavadinimas nurodo Ordino archyvą, o aprašas – XIII–XVI a. ordino žemių, provincijų ir miestų dokumentų medžiagą.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne paties ordino atvaizdas, bet aiškiai su Vokiečių ordino istorija susijęs archyvinis šaltinis.","isPrimary":0},{"mediaId":"m-5287aaa91a6905850b037354","title":"Žalgiris : 5-ių veiksmų istoriška drama","caption":"1932 m. istorinės dramos „Žalgiris“ leidinio viršelis, siejamas su Žalgirio mūšiu ir Kryžiuočių ordino pralaimėjimu.","originalTitle":"Žalgiris : 5-ių veiksmų istoriška drama","creator":"Vytautas Bičiūnas (1893-08-20 - 1945-11-18)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1932","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C1B0003943129","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0003943129/original/0001-48BEBBCE7C30B33159914D3C8F97FCF2.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0003943129/thumbnail-original/C1B0003943129.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0003943129/original/0001-48BEBBCE7C30B33159914D3C8F97FCF2.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.82},{"code":"kultūrinis-įvykis","label":"kultūrinis-įvykis","facetKind":"tema","confidence":0.82},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T15:35:43.302279+03:00","reviewedAt":"2026-08-10T15:38:46.799560+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas leidinio viršelis su dideliu pavadinimu „ŽALGIRIS“, Vytauto Bičiūno pavarde ir 1932 m. leidybos informacija.","metadataEvidence":"Kandidato pavadinimas nurodo penkių veiksmų istorinę dramą „Žalgiris“, išleistą 1932 m.; target kontekste minimas 1410 m. Žalgirio mūšis ir Ordino galybės palaužimas.","confidenceLevel":"medium","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai nėra Kryžiuočių ordino atvaizdas, tačiau aiškiai su target susijęs istorinis-kultūrinis leidinys apie Žalgirio mūšį.","isPrimary":0},{"mediaId":"m-8832f6d00132704d50bdafea","title":"Ženklelis. Lietuva. Žalgirio mūšiui paminėti.","caption":"Žalgirio mūšiui, kuriame buvo sutriuškinta Kryžiuočių ordino galybė, skirtas ženklelis.","originalTitle":"Ženklelis. Lietuva. Žalgirio mūšiui paminėti.","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinis muziejus","license":"CC BY","rightsNote":"CC BY","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIMIS-958543195","sourceUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-958543195/original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-958543195/thumbnail-original/get.jpg","displayUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-958543195/original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"medalis","label":"medalis","facetKind":"tema","confidence":0.82},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.82},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"commemoration_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T15:35:43.984776+03:00","reviewedAt":"2026-08-10T15:49:03.559632+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Apskritame ženklelyje matomas Vytis ir užrašas „ŽALGIRIO MŪŠIS ... 1410“.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Žalgirio mūšio paminėjimą; target kontekste nurodyta, kad 1410 m. Vytautas palaužė Ordino galybę.","confidenceLevel":"medium","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Ordino atvaizdas, bet aiškus memorialinis įvykio, tiesiogiai susijusio su target, vaizdas.","isPrimary":0}]
+media_primary_directness: direct
+media_primary_relation_type: depicts
+media_primary_json: '{"mediaId":"m-21f12196c91b730dfc6e9a86","title":"Ritter des deutschen Ordens. Chevalier de l''Ordre Teutonique.","caption":"Vokiečių ordino riteris su baltu apsiaustu ir juodu kryžiumi, XVIII a. pab.","originalTitle":"Ritter des deutschen Ordens. Chevalier de l''Ordre Teutonique.","creator":"","provider":"gallica","providerLabel":"Bibliothèque nationale de France — Gallica","license":"Public Domain","rightsNote":"domaine public | public domain","licenseUrl":"[''domaine public'', ''public domain'']","attribution":"","dateDisplay":"1787-1790","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p","sourceUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","thumbUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","displayUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","institution":"","collection":"","country":"","language":"","tags":[{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karys","label":"karys","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"gallica","field":"subjects","label":"Deutsch-Ordens-Priester (1191-1809) -- Coutumes et pratiques","language":"","canonicalCode":""},{"provider":"gallica","field":"subjects","label":"Ordres de chevalerie -- Costume","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"engraving","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"estampe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image fixe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"still image","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T20:41:00.866018+03:00","reviewedAt":"2026-08-08T20:42:26.106627+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas riteris su baltu apsiaustu, dideliu juodu kryžiumi, ordino kryžiumi ant krūtinės ir kario atributais.","metadataEvidence":"Pavadinime tiesiogiai nurodyta „Ritter des deutschen Ordens“ ir prancūziškas atitikmuo „Chevalier de l''Ordre Teutonique“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Kryžiuočių ordino nario atvaizdas.","isPrimary":1}'
+media_direct_json: '[{"mediaId":"m-21f12196c91b730dfc6e9a86","title":"Ritter des deutschen Ordens. Chevalier de l''Ordre Teutonique.","caption":"Vokiečių ordino riteris su baltu apsiaustu ir juodu kryžiumi, XVIII a. pab.","originalTitle":"Ritter des deutschen Ordens. Chevalier de l''Ordre Teutonique.","creator":"","provider":"gallica","providerLabel":"Bibliothèque nationale de France — Gallica","license":"Public Domain","rightsNote":"domaine public | public domain","licenseUrl":"[''domaine public'', ''public domain'']","attribution":"","dateDisplay":"1787-1790","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p","sourceUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","thumbUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","displayUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","institution":"","collection":"","country":"","language":"","tags":[{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karys","label":"karys","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"gallica","field":"subjects","label":"Deutsch-Ordens-Priester (1191-1809) -- Coutumes et pratiques","language":"","canonicalCode":""},{"provider":"gallica","field":"subjects","label":"Ordres de chevalerie -- Costume","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"engraving","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"estampe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image fixe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"still image","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T20:41:00.866018+03:00","reviewedAt":"2026-08-08T20:42:26.106627+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas riteris su baltu apsiaustu, dideliu juodu kryžiumi, ordino kryžiumi ant krūtinės ir kario atributais.","metadataEvidence":"Pavadinime tiesiogiai nurodyta „Ritter des deutschen Ordens“ ir prancūziškas atitikmuo „Chevalier de l''Ordre Teutonique“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Kryžiuočių ordino nario atvaizdas.","isPrimary":1},{"mediaId":"m-3e474638c075f37fa1980043","title":"Ritter des deutschen Ordens am Tage der Aufnahme. Chevalier de l''Ordre Teutonique au jour de réception.","caption":"Į Vokiečių ordiną priimamas riteris, XVIII a. pab.","originalTitle":"Ritter des deutschen Ordens am Tage der Aufnahme. Chevalier de l''Ordre Teutonique au jour de réception.","creator":"","provider":"gallica","providerLabel":"Bibliothèque nationale de France — Gallica","license":"Public Domain","rightsNote":"domaine public | public domain","licenseUrl":"[''domaine public'', ''public domain'']","attribution":"","dateDisplay":"1787-1790","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387","sourceUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387/f1.highres","thumbUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387/f1.highres","displayUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387/f1.highres","institution":"","collection":"","country":"","language":"","tags":[{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karys","label":"karys","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"gallica","field":"subjects","label":"Deutsch-Ordens-Priester (1191-1809) -- Coutumes et pratiques","language":"","canonicalCode":""},{"provider":"gallica","field":"subjects","label":"Ordres de chevalerie -- Costume","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"engraving","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"estampe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image fixe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"still image","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T20:41:00.871151+03:00","reviewedAt":"2026-08-08T20:42:26.118891+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas šarvuotas riteris su kryžiumi, šalmu, plunksnomis, kardu ir ordino insignijomis.","metadataEvidence":"Pavadinime tiesiogiai nurodyta „Ritter des deutschen Ordens am Tage der Aufnahme“ ir „Chevalier de l''Ordre Teutonique au jour de réception“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Kryžiuočių ordino riterio atvaizdas.","isPrimary":0}]'
+media_contextual_json: '[{"mediaId":"m-97b2e6926298e4225f1e697d","title":"Der Krieg zwischen dem Deutschen Orden und Polen-Littauen, 1409-1411 / von Max Oehler. - 1910. - 110, [2] p., [4] žml. lap.","caption":"Leidinio apie Vokiečių ordino karą su Lenkija ir Lietuva 1409–1411 m. titulinis puslapis.","originalTitle":"Der Krieg zwischen dem Deutschen Orden und Polen-Littauen, 1409-1411 / von Max Oehler. - 1910. - 110, [2] p., [4] žml. lap.","creator":"Oehler, Max (1875-1946)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1910","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C1BLNB1F417959","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BLNB1F417959/original/0001-C1D3245A205D00C64490465805F495CC.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BLNB1F417959/thumbnail-original/C1BLNB1F417959.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BLNB1F417959/original/0001-C1D3245A205D00C64490465805F495CC.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:13:00.006546+03:00","reviewedAt":"2026-08-10T14:37:26.454410+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas titulinis puslapis su aiškiu pavadinimu apie Deutschen Orden ir 1409–1411 m. karą.","metadataEvidence":"Pavadinime tiesiogiai įvardytas „Deutschen Orden“ ir karas su Polen-Littauen.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su target susijusio istorinio leidinio vaizdas, tinkamas kaip kontekstinis dokumentas.","isPrimary":0},{"mediaId":"m-d6fd566cbcaa8a41dff5473a","title":"Historischer Bericht von dem Marianisch-Teutschen Ritter-Orden dess Hospitals Unser Lieben Frauen zu Jerusalem","caption":"Knygos apie Marianinį Vokiečių riterių ordiną įrišimas.","originalTitle":"Historischer Bericht von dem Marianisch-Teutschen Ritter-Orden dess Hospitals Unser Lieben Frauen zu Jerusalem","creator":"Venator Johann Caspar","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1680","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LNB171041691438959557001","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB171041691438959557001/original/K-261-1.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB171041691438959557001/thumbnail-original/K-261-1.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB171041691438959557001/original/K-261-1.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinė-sąvoka","label":"istorinė-sąvoka","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"religinė-bendruomenė","label":"religinė-bendruomenė","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:59.999631+03:00","reviewedAt":"2026-08-10T14:37:26.448503+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis knygos įrišimas; pats ordino atvaizdas nepateiktas.","metadataEvidence":"Pavadinime aiškiai įvardytas „Marianisch-Teutschen Ritter-Orden“, t. y. Vokiečių kryžiuočių ordinas.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su target susijusio istorinio leidinio vaizdas, todėl tinkamas kaip kontekstinis dokumentas.","isPrimary":0},{"mediaId":"m-39f7170a37e002e4b3b28196","title":"Kurtze und warhafftige Beschreibung des Landes zu Preussen : Item: Der alten Heidenischen Vndeutschen Preussen, sampt jrer Religion/ Göttern/ Bäpsten/ vnd Pfaffen: Aberglauben/ Stenden/ Sitten/ Krigsrüstung/ Sterben vnd Begrebnis, [et]c. : Wie sie es nach jrer gewonheit/ ehe vnd dann/ sie durch den Orden bezwungen/ vnd zum Christlichen Glauben bekert worden sind/ in allerley stücken gehalten haben. : Letztlichen eine kurtze Austeilung des Landes/ wie dasselbige in der Heidenschafft/ ehe es der Orden bezwungen/ genent vnd bewonet worden. Auch was für Schlösser vnd Stedte in jderm Fürsthentum gelegen sind. Aus Alten vnd newen Scribenten zusamen gezogen / Durch","caption":"Leidinio apie Prūsiją ir Vokiečių ordino užkariavimus puslapis.","originalTitle":"Kurtze und warhafftige Beschreibung des Landes zu Preussen : Item: Der alten Heidenischen Vndeutschen Preussen, sampt jrer Religion/ Göttern/ Bäpsten/ vnd Pfaffen: Aberglauben/ Stenden/ Sitten/ Krigsrüstung/ Sterben vnd Begrebnis, [et]c. : Wie sie es nach jrer gewonheit/ ehe vnd dann/ sie durch den Orden bezwungen/ vnd zum Christlichen Glauben bekert worden sind/ in allerley stücken gehalten haben. : Letztlichen eine kurtze Austeilung des Landes/ wie dasselbige in der Heidenschafft/ ehe es der Orden bezwungen/ genent vnd bewonet worden. Auch was für Schlösser vnd Stedte in jderm Fürsthentum gelegen sind. Aus Alten vnd newen Scribenten zusamen gezogen / Durch","creator":"Henenbergeris, K. (1529 - 1600-02-29)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1584","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000278733","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000278733/original/0001-LIBIS000000278733.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000278733/thumbnail-original/0001-LIBIS000000278733.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000278733/original/0001-LIBIS000000278733.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:59.990556+03:00","reviewedAt":"2026-08-10T14:37:26.441793+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas senos knygos puslapis su tekstu apie Prūsiją, jos religiją ir laikotarpį iki krašto pavergimo Ordino.","metadataEvidence":"Pavadinime aiškiai nurodoma, kad Prūsija buvo Ordino užkariauta ir christianizuota.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai istorinis dokumentinis šaltinis apie Kryžiuočių ordiną, tačiau ne paties Ordino atvaizdas.","isPrimary":0},{"mediaId":"m-f5ff5be4c7eef86fce784b9a","title":"Samaiten und der Deutsche Orden bis zum Frieden am Melno-See / von Robert Krumbholtz. - 1890. - 209, [1] p., [1] sulankst. žml. lap.","caption":"Knygos apie žemaičius ir Vokiečių ordiną antraštinis lapas.","originalTitle":"Samaiten und der Deutsche Orden bis zum Frieden am Melno-See / von Robert Krumbholtz. - 1890. - 209, [1] p., [1] sulankst. žml. lap.","creator":"Krumbholtz, Robert (1863-1939)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1890","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C1BC10000000404","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BC10000000404/original/0001-CB8BA37B19F3362C5F05B402C5A426F0.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BC10000000404/thumbnail-original/C1BC10000000404.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BC10000000404/original/0001-CB8BA37B19F3362C5F05B402C5A426F0.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"konfliktas","label":"konfliktas","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:59.978529+03:00","reviewedAt":"2026-08-10T14:37:26.419219+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matomas vokiškas pavadinimas „Samaiten und der Deutsche Orden bis zum Frieden am Melno-See“.","metadataEvidence":"Kandidato pavadinime tiesiogiai įvardytas Deutsche Orden, o leidinys nagrinėja Žemaitijos ir Ordino santykius.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne paties Ordino atvaizdas, bet aiškiai su juo susijęs istorinis leidinys.","isPrimary":0},{"mediaId":"m-1aa2effb184523f8769df0fe","title":"Žalgirio mūšio 550 metų sukaktį atžymėti Karys išleido naują knygą: plk. O. Urbono, 1410 metų karas ir Žalgirio mūšis : [reklaminis skelbimas - užsakymo lapelis]","caption":"Užsakymo lapelis 1960 m. išleistai knygai apie 1410 metų karą ir Žalgirio mūšį.","originalTitle":"Žalgirio mūšio 550 metų sukaktį atžymėti Karys išleido naują knygą: plk. O. Urbono, 1410 metų karas ir Žalgirio mūšis : [reklaminis skelbimas - užsakymo lapelis]","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1960","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000782604","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000782604/original/0001-LIBIS000000782604.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000782604/thumbnail-original/0001-LIBIS000000782604.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000782604/original/0001-LIBIS000000782604.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kultūrinis-įvykis","label":"kultūrinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T15:35:43.313822+03:00","reviewedAt":"2026-08-10T15:38:46.814895+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas leidinio užsakymo blankas su tekstu apie plk. O. Urbono knygą „1410 metų karas ir Žalgirio mūšis“ bei „Žalgirio mūšio 550 metų sukaktį“.","metadataEvidence":"Kandidato pavadinimas ir dokumento tekstas aiškiai nurodo 1410 metų karą ir Žalgirio mūšį; target apraše šis mūšis siejamas su Ordino galybės palaužimu.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai pagrįstas dokumentinis leidinio apie target istorinį konfliktą kontekstas, bet ne paties Ordino atvaizdas.","isPrimary":0},{"mediaId":"m-1a6bdd65a0ee54572e428a07","title":"Ordens Archiv. Erste Abtheilung. Enthaltend Urkunden und Materialen zur Geschichte von Preussen … - [XVIII a.]. - 98 lap. ir tušti","caption":"„Ordens Archiv“ repertorijaus viršelis, susijęs su Vokiečių ordino Prūsijoje archyvine medžiaga.","originalTitle":"Ordens Archiv. Erste Abtheilung. Enthaltend Urkunden und Materialen zur Geschichte von Preussen … - [XVIII a.]. - 98 lap. ir tušti","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"[XVIII a.]","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LNB04BD9BCC","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB04BD9BCC/original/0001-A964DC29CB12D2FADFF4F0074AEDECE6.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB04BD9BCC/thumbnail-original/LNB04BD9BCC.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB04BD9BCC/original/0001-A964DC29CB12D2FADFF4F0074AEDECE6.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.82},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.82},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.82},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:58.782978+03:00","reviewedAt":"2026-08-10T12:16:08.265889+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas archyvinio repertorijaus įrištas viršelis su užrašu „Ordens Archiv“ ir „Repertor I.4“.","metadataEvidence":"Pavadinimas nurodo Ordino archyvą, o aprašas – XIII–XVI a. ordino žemių, provincijų ir miestų dokumentų medžiagą.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne paties ordino atvaizdas, bet aiškiai su Vokiečių ordino istorija susijęs archyvinis šaltinis.","isPrimary":0},{"mediaId":"m-5287aaa91a6905850b037354","title":"Žalgiris : 5-ių veiksmų istoriška drama","caption":"1932 m. istorinės dramos „Žalgiris“ leidinio viršelis, siejamas su Žalgirio mūšiu ir Kryžiuočių ordino pralaimėjimu.","originalTitle":"Žalgiris : 5-ių veiksmų istoriška drama","creator":"Vytautas Bičiūnas (1893-08-20 - 1945-11-18)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1932","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C1B0003943129","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0003943129/original/0001-48BEBBCE7C30B33159914D3C8F97FCF2.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0003943129/thumbnail-original/C1B0003943129.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0003943129/original/0001-48BEBBCE7C30B33159914D3C8F97FCF2.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.82},{"code":"kultūrinis-įvykis","label":"kultūrinis-įvykis","facetKind":"tema","confidence":0.82},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T15:35:43.302279+03:00","reviewedAt":"2026-08-10T15:38:46.799560+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas leidinio viršelis su dideliu pavadinimu „ŽALGIRIS“, Vytauto Bičiūno pavarde ir 1932 m. leidybos informacija.","metadataEvidence":"Kandidato pavadinimas nurodo penkių veiksmų istorinę dramą „Žalgiris“, išleistą 1932 m.; target kontekste minimas 1410 m. Žalgirio mūšis ir Ordino galybės palaužimas.","confidenceLevel":"medium","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai nėra Kryžiuočių ordino atvaizdas, tačiau aiškiai su target susijęs istorinis-kultūrinis leidinys apie Žalgirio mūšį.","isPrimary":0},{"mediaId":"m-8832f6d00132704d50bdafea","title":"Ženklelis. Lietuva. Žalgirio mūšiui paminėti.","caption":"Žalgirio mūšiui, kuriame buvo sutriuškinta Kryžiuočių ordino galybė, skirtas ženklelis.","originalTitle":"Ženklelis. Lietuva. Žalgirio mūšiui paminėti.","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinis muziejus","license":"CC BY","rightsNote":"CC BY","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIMIS-958543195","sourceUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-958543195/original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-958543195/thumbnail-original/get.jpg","displayUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-958543195/original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"medalis","label":"medalis","facetKind":"tema","confidence":0.82},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.82},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"commemoration_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T15:35:43.984776+03:00","reviewedAt":"2026-08-10T15:49:03.559632+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Apskritame ženklelyje matomas Vytis ir užrašas „ŽALGIRIO MŪŠIS ... 1410“.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Žalgirio mūšio paminėjimą; target kontekste nurodyta, kad 1410 m. Vytautas palaužė Ordino galybę.","confidenceLevel":"medium","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Ordino atvaizdas, bet aiškus memorialinis įvykio, tiesiogiai susijusio su target, vaizdas.","isPrimary":0}]'
+media_all_json: '[{"mediaId":"m-21f12196c91b730dfc6e9a86","title":"Ritter des deutschen Ordens. Chevalier de l''Ordre Teutonique.","caption":"Vokiečių ordino riteris su baltu apsiaustu ir juodu kryžiumi, XVIII a. pab.","originalTitle":"Ritter des deutschen Ordens. Chevalier de l''Ordre Teutonique.","creator":"","provider":"gallica","providerLabel":"Bibliothèque nationale de France — Gallica","license":"Public Domain","rightsNote":"domaine public | public domain","licenseUrl":"[''domaine public'', ''public domain'']","attribution":"","dateDisplay":"1787-1790","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p","sourceUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","thumbUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","displayUrl":"https://gallica.bnf.fr/ark:/12148/btv1b10052439p/f1.highres","institution":"","collection":"","country":"","language":"","tags":[{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karys","label":"karys","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"gallica","field":"subjects","label":"Deutsch-Ordens-Priester (1191-1809) -- Coutumes et pratiques","language":"","canonicalCode":""},{"provider":"gallica","field":"subjects","label":"Ordres de chevalerie -- Costume","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"engraving","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"estampe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image fixe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"still image","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T20:41:00.866018+03:00","reviewedAt":"2026-08-08T20:42:26.106627+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas riteris su baltu apsiaustu, dideliu juodu kryžiumi, ordino kryžiumi ant krūtinės ir kario atributais.","metadataEvidence":"Pavadinime tiesiogiai nurodyta „Ritter des deutschen Ordens“ ir prancūziškas atitikmuo „Chevalier de l''Ordre Teutonique“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Kryžiuočių ordino nario atvaizdas.","isPrimary":1},{"mediaId":"m-3e474638c075f37fa1980043","title":"Ritter des deutschen Ordens am Tage der Aufnahme. Chevalier de l''Ordre Teutonique au jour de réception.","caption":"Į Vokiečių ordiną priimamas riteris, XVIII a. pab.","originalTitle":"Ritter des deutschen Ordens am Tage der Aufnahme. Chevalier de l''Ordre Teutonique au jour de réception.","creator":"","provider":"gallica","providerLabel":"Bibliothèque nationale de France — Gallica","license":"Public Domain","rightsNote":"domaine public | public domain","licenseUrl":"[''domaine public'', ''public domain'']","attribution":"","dateDisplay":"1787-1790","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387","sourceUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387/f1.highres","thumbUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387/f1.highres","displayUrl":"https://gallica.bnf.fr/ark:/12148/btv1b100524387/f1.highres","institution":"","collection":"","country":"","language":"","tags":[{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karys","label":"karys","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"gallica","field":"subjects","label":"Deutsch-Ordens-Priester (1191-1809) -- Coutumes et pratiques","language":"","canonicalCode":""},{"provider":"gallica","field":"subjects","label":"Ordres de chevalerie -- Costume","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"engraving","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"estampe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"image fixe","language":"","canonicalCode":""},{"provider":"gallica","field":"types","label":"still image","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T20:41:00.871151+03:00","reviewedAt":"2026-08-08T20:42:26.118891+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas šarvuotas riteris su kryžiumi, šalmu, plunksnomis, kardu ir ordino insignijomis.","metadataEvidence":"Pavadinime tiesiogiai nurodyta „Ritter des deutschen Ordens am Tage der Aufnahme“ ir „Chevalier de l''Ordre Teutonique au jour de réception“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Kryžiuočių ordino riterio atvaizdas.","isPrimary":0},{"mediaId":"m-97b2e6926298e4225f1e697d","title":"Der Krieg zwischen dem Deutschen Orden und Polen-Littauen, 1409-1411 / von Max Oehler. - 1910. - 110, [2] p., [4] žml. lap.","caption":"Leidinio apie Vokiečių ordino karą su Lenkija ir Lietuva 1409–1411 m. titulinis puslapis.","originalTitle":"Der Krieg zwischen dem Deutschen Orden und Polen-Littauen, 1409-1411 / von Max Oehler. - 1910. - 110, [2] p., [4] žml. lap.","creator":"Oehler, Max (1875-1946)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1910","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C1BLNB1F417959","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BLNB1F417959/original/0001-C1D3245A205D00C64490465805F495CC.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BLNB1F417959/thumbnail-original/C1BLNB1F417959.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BLNB1F417959/original/0001-C1D3245A205D00C64490465805F495CC.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:13:00.006546+03:00","reviewedAt":"2026-08-10T14:37:26.454410+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas titulinis puslapis su aiškiu pavadinimu apie Deutschen Orden ir 1409–1411 m. karą.","metadataEvidence":"Pavadinime tiesiogiai įvardytas „Deutschen Orden“ ir karas su Polen-Littauen.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su target susijusio istorinio leidinio vaizdas, tinkamas kaip kontekstinis dokumentas.","isPrimary":0},{"mediaId":"m-d6fd566cbcaa8a41dff5473a","title":"Historischer Bericht von dem Marianisch-Teutschen Ritter-Orden dess Hospitals Unser Lieben Frauen zu Jerusalem","caption":"Knygos apie Marianinį Vokiečių riterių ordiną įrišimas.","originalTitle":"Historischer Bericht von dem Marianisch-Teutschen Ritter-Orden dess Hospitals Unser Lieben Frauen zu Jerusalem","creator":"Venator Johann Caspar","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1680","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LNB171041691438959557001","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB171041691438959557001/original/K-261-1.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB171041691438959557001/thumbnail-original/K-261-1.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB171041691438959557001/original/K-261-1.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinė-sąvoka","label":"istorinė-sąvoka","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"religinė-bendruomenė","label":"religinė-bendruomenė","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:59.999631+03:00","reviewedAt":"2026-08-10T14:37:26.448503+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis knygos įrišimas; pats ordino atvaizdas nepateiktas.","metadataEvidence":"Pavadinime aiškiai įvardytas „Marianisch-Teutschen Ritter-Orden“, t. y. Vokiečių kryžiuočių ordinas.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su target susijusio istorinio leidinio vaizdas, todėl tinkamas kaip kontekstinis dokumentas.","isPrimary":0},{"mediaId":"m-39f7170a37e002e4b3b28196","title":"Kurtze und warhafftige Beschreibung des Landes zu Preussen : Item: Der alten Heidenischen Vndeutschen Preussen, sampt jrer Religion/ Göttern/ Bäpsten/ vnd Pfaffen: Aberglauben/ Stenden/ Sitten/ Krigsrüstung/ Sterben vnd Begrebnis, [et]c. : Wie sie es nach jrer gewonheit/ ehe vnd dann/ sie durch den Orden bezwungen/ vnd zum Christlichen Glauben bekert worden sind/ in allerley stücken gehalten haben. : Letztlichen eine kurtze Austeilung des Landes/ wie dasselbige in der Heidenschafft/ ehe es der Orden bezwungen/ genent vnd bewonet worden. Auch was für Schlösser vnd Stedte in jderm Fürsthentum gelegen sind. Aus Alten vnd newen Scribenten zusamen gezogen / Durch","caption":"Leidinio apie Prūsiją ir Vokiečių ordino užkariavimus puslapis.","originalTitle":"Kurtze und warhafftige Beschreibung des Landes zu Preussen : Item: Der alten Heidenischen Vndeutschen Preussen, sampt jrer Religion/ Göttern/ Bäpsten/ vnd Pfaffen: Aberglauben/ Stenden/ Sitten/ Krigsrüstung/ Sterben vnd Begrebnis, [et]c. : Wie sie es nach jrer gewonheit/ ehe vnd dann/ sie durch den Orden bezwungen/ vnd zum Christlichen Glauben bekert worden sind/ in allerley stücken gehalten haben. : Letztlichen eine kurtze Austeilung des Landes/ wie dasselbige in der Heidenschafft/ ehe es der Orden bezwungen/ genent vnd bewonet worden. Auch was für Schlösser vnd Stedte in jderm Fürsthentum gelegen sind. Aus Alten vnd newen Scribenten zusamen gezogen / Durch","creator":"Henenbergeris, K. (1529 - 1600-02-29)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1584","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000278733","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000278733/original/0001-LIBIS000000278733.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000278733/thumbnail-original/0001-LIBIS000000278733.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000278733/original/0001-LIBIS000000278733.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:59.990556+03:00","reviewedAt":"2026-08-10T14:37:26.441793+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas senos knygos puslapis su tekstu apie Prūsiją, jos religiją ir laikotarpį iki krašto pavergimo Ordino.","metadataEvidence":"Pavadinime aiškiai nurodoma, kad Prūsija buvo Ordino užkariauta ir christianizuota.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai istorinis dokumentinis šaltinis apie Kryžiuočių ordiną, tačiau ne paties Ordino atvaizdas.","isPrimary":0},{"mediaId":"m-f5ff5be4c7eef86fce784b9a","title":"Samaiten und der Deutsche Orden bis zum Frieden am Melno-See / von Robert Krumbholtz. - 1890. - 209, [1] p., [1] sulankst. žml. lap.","caption":"Knygos apie žemaičius ir Vokiečių ordiną antraštinis lapas.","originalTitle":"Samaiten und der Deutsche Orden bis zum Frieden am Melno-See / von Robert Krumbholtz. - 1890. - 209, [1] p., [1] sulankst. žml. lap.","creator":"Krumbholtz, Robert (1863-1939)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1890","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C1BC10000000404","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BC10000000404/original/0001-CB8BA37B19F3362C5F05B402C5A426F0.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BC10000000404/thumbnail-original/C1BC10000000404.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1BC10000000404/original/0001-CB8BA37B19F3362C5F05B402C5A426F0.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"konfliktas","label":"konfliktas","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:59.978529+03:00","reviewedAt":"2026-08-10T14:37:26.419219+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matomas vokiškas pavadinimas „Samaiten und der Deutsche Orden bis zum Frieden am Melno-See“.","metadataEvidence":"Kandidato pavadinime tiesiogiai įvardytas Deutsche Orden, o leidinys nagrinėja Žemaitijos ir Ordino santykius.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne paties Ordino atvaizdas, bet aiškiai su juo susijęs istorinis leidinys.","isPrimary":0},{"mediaId":"m-1aa2effb184523f8769df0fe","title":"Žalgirio mūšio 550 metų sukaktį atžymėti Karys išleido naują knygą: plk. O. Urbono, 1410 metų karas ir Žalgirio mūšis : [reklaminis skelbimas - užsakymo lapelis]","caption":"Užsakymo lapelis 1960 m. išleistai knygai apie 1410 metų karą ir Žalgirio mūšį.","originalTitle":"Žalgirio mūšio 550 metų sukaktį atžymėti Karys išleido naują knygą: plk. O. Urbono, 1410 metų karas ir Žalgirio mūšis : [reklaminis skelbimas - užsakymo lapelis]","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1960","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000782604","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000782604/original/0001-LIBIS000000782604.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000782604/thumbnail-original/0001-LIBIS000000782604.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000782604/original/0001-LIBIS000000782604.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kultūrinis-įvykis","label":"kultūrinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T15:35:43.313822+03:00","reviewedAt":"2026-08-10T15:38:46.814895+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas leidinio užsakymo blankas su tekstu apie plk. O. Urbono knygą „1410 metų karas ir Žalgirio mūšis“ bei „Žalgirio mūšio 550 metų sukaktį“.","metadataEvidence":"Kandidato pavadinimas ir dokumento tekstas aiškiai nurodo 1410 metų karą ir Žalgirio mūšį; target apraše šis mūšis siejamas su Ordino galybės palaužimu.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai pagrįstas dokumentinis leidinio apie target istorinį konfliktą kontekstas, bet ne paties Ordino atvaizdas.","isPrimary":0},{"mediaId":"m-1a6bdd65a0ee54572e428a07","title":"Ordens Archiv. Erste Abtheilung. Enthaltend Urkunden und Materialen zur Geschichte von Preussen … - [XVIII a.]. - 98 lap. ir tušti","caption":"„Ordens Archiv“ repertorijaus viršelis, susijęs su Vokiečių ordino Prūsijoje archyvine medžiaga.","originalTitle":"Ordens Archiv. Erste Abtheilung. Enthaltend Urkunden und Materialen zur Geschichte von Preussen … - [XVIII a.]. - 98 lap. ir tušti","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"[XVIII a.]","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LNB04BD9BCC","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB04BD9BCC/original/0001-A964DC29CB12D2FADFF4F0074AEDECE6.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB04BD9BCC/thumbnail-original/LNB04BD9BCC.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LNB04BD9BCC/original/0001-A964DC29CB12D2FADFF4F0074AEDECE6.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.82},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.82},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.82},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T12:12:58.782978+03:00","reviewedAt":"2026-08-10T12:16:08.265889+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas archyvinio repertorijaus įrištas viršelis su užrašu „Ordens Archiv“ ir „Repertor I.4“.","metadataEvidence":"Pavadinimas nurodo Ordino archyvą, o aprašas – XIII–XVI a. ordino žemių, provincijų ir miestų dokumentų medžiagą.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne paties ordino atvaizdas, bet aiškiai su Vokiečių ordino istorija susijęs archyvinis šaltinis.","isPrimary":0},{"mediaId":"m-5287aaa91a6905850b037354","title":"Žalgiris : 5-ių veiksmų istoriška drama","caption":"1932 m. istorinės dramos „Žalgiris“ leidinio viršelis, siejamas su Žalgirio mūšiu ir Kryžiuočių ordino pralaimėjimu.","originalTitle":"Žalgiris : 5-ių veiksmų istoriška drama","creator":"Vytautas Bičiūnas (1893-08-20 - 1945-11-18)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1932","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C1B0003943129","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0003943129/original/0001-48BEBBCE7C30B33159914D3C8F97FCF2.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0003943129/thumbnail-original/C1B0003943129.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0003943129/original/0001-48BEBBCE7C30B33159914D3C8F97FCF2.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.82},{"code":"kultūrinis-įvykis","label":"kultūrinis-įvykis","facetKind":"tema","confidence":0.82},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T15:35:43.302279+03:00","reviewedAt":"2026-08-10T15:38:46.799560+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas leidinio viršelis su dideliu pavadinimu „ŽALGIRIS“, Vytauto Bičiūno pavarde ir 1932 m. leidybos informacija.","metadataEvidence":"Kandidato pavadinimas nurodo penkių veiksmų istorinę dramą „Žalgiris“, išleistą 1932 m.; target kontekste minimas 1410 m. Žalgirio mūšis ir Ordino galybės palaužimas.","confidenceLevel":"medium","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai nėra Kryžiuočių ordino atvaizdas, tačiau aiškiai su target susijęs istorinis-kultūrinis leidinys apie Žalgirio mūšį.","isPrimary":0},{"mediaId":"m-8832f6d00132704d50bdafea","title":"Ženklelis. Lietuva. Žalgirio mūšiui paminėti.","caption":"Žalgirio mūšiui, kuriame buvo sutriuškinta Kryžiuočių ordino galybė, skirtas ženklelis.","originalTitle":"Ženklelis. Lietuva. Žalgirio mūšiui paminėti.","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinis muziejus","license":"CC BY","rightsNote":"CC BY","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIMIS-958543195","sourceUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-958543195/original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-958543195/thumbnail-original/get.jpg","displayUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-958543195/original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"medalis","label":"medalis","facetKind":"tema","confidence":0.82},{"code":"mūšis","label":"mūšis","facetKind":"tema","confidence":0.82},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Kryžiuočių ordinas.md","title":"Kryžiuočių ordinas","itemType":"grupe","relationType":"commemoration_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T15:35:43.984776+03:00","reviewedAt":"2026-08-10T15:49:03.559632+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Apskritame ženklelyje matomas Vytis ir užrašas „ŽALGIRIO MŪŠIS ... 1410“.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Žalgirio mūšio paminėjimą; target kontekste nurodyta, kad 1410 m. Vytautas palaužė Ordino galybę.","confidenceLevel":"medium","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Ordino atvaizdas, bet aiškus memorialinis įvykio, tiesiogiai susijusio su target, vaizdas.","isPrimary":0}]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-18T16:29:03+00:00","source_checked_at":"2026-09-18T16:29:03+00:00","counts":{"relations":318,"gallery":10,"sources":14},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Šį raštą mes laikysime nekeičiamu, nes mūsų žodis liks tvirtas kaip plienas. To [rašto] paliudijimui laikėme reikalingu dalyku pridė­ ti prie šio laiško tą mūsų antspaudą, kurį pasiuntėme apaš­ tališkajam viešpačiui ir švenčiausiajam mūsų tėvui ir kurį kryžiuočiai šios pasiuntinybės įžeidimui įmetė į ugnį. Šio antspaudo niekintojus ir teksto klastotojus šiuo laiš­ ku skelbiame tikėjimo persekiotojais, piktais ir klastingais eretikais.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-178870","evidence_id":"c-162633","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"13cfdcdbc22215561c7d90d9","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Ordino nariai buvo dvasininkai, kariai ir kiti broliai.","context":"Pagal Petro Dusburgiečio „Prūsijos žemės kroniką“ (1985 m.), aprašant ordino sudėtį.","support_ids":["t-220527","c-206146"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220527","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-206146","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tad popiežius, išklausęs šią pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties dievo vardu patvirtino. Jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir suteikdamas jiems visokių laisvių, lengvatų bei indulgencijų, kurių apaštališkasis sostas 153 Akonas (Akra, Aka) — miestas ir uostas Viduržemio jūros rytinėje pakrantėje (dab Izraelio teritorijoje), XI a. pabaigoje buvęs Vakarų Europos kryžininkų įkurtoje Jeruzalės karalystėje. 1187 m. jį užėmė Egipto…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2cf5a483a4ca83597b4c3c25","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Ordino nariai dėvėjo baltus apsiaustus su išsiūtu juodu kryžiumi.","context":"A. Šapokos redaguotoje „Lietuvos istorijoje“ (1936 m.) aprašoma, kodėl Lietuvoje jie dažnai vadinti kryžiuočiais.","support_ids":["t-179101","c-13394"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179101","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-13394","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Pastarojo nariai (o taip pat ir templininkai) nešiojo baltus apsiaustus su išsiūtu juodu kryžium, todėl mūsų krašte dažniausiai būdavo vadinami kry- žiuočiais. Kitur juos paprastai vadino vokiečių, arba Marijos Mergelės, ordinu. Ordinas buvo vokiečių imperatorių bei kunigaikščių remia- mas ir labai greit pralobo."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d7cebdbcc01bd035835ec8ce","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Ordino vadovybę sudarė didysis magistras, maršalas, didysis komtūras, komtūrai ir kiti aukšti pareigūnai.","context":"Teodoras Narbutas (2001 m.) aprašo Kryžiuočių ordino kariuomenės vadovybę ir pareigybes.","support_ids":["t-206139","c-188754"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206139","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188754","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Kariauna siekė per keturiasdešimt tūkstančių gin­ kluotų vyrų, aprūpintų ginklais ir visais reikmenimis. Tos ginkluotos rikiuotės priešakyje stojo pats didysis magistras, ly­ dimas ordino maršalkos Zigfrido Dahenfeldo, didžiojo kom ­ tūro H enriko Kniprodės, ordino drabužininko Liudviko Folkenbergo ir daugelio kitų aukštų pareigūnų. Su neapsako­ mu įkarščiu buvo nuspręsta atkeršyti lietuviams už visus nuos­ tolius, kurių jie nesenais laikais kryžiuočių kraštuose pridarė"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4889313398feb374cbca4050","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Ordine svarbią vietą užėmė dvasininkai, kurie taikos metu laikė pamaldas, teikė sakramentus ir skatino brolius pasauliečius laikytis regulos.","context":"Petro Dusburgiečio kronikos (1985 m.) aprašymas apie ordino vidaus veiklą.","support_ids":["t-222325","c-202742"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222325","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202742","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Be to, nemaža tokių, kurie, gilaus širdies pamaldumo skatinami, su begaliniu uolumu patarnauja ligoninėse pasilpėliams ir paliegėliams, sergantiems šiurpiomis ligomis. Garbingą ir naudingą vietą ordine užima dvasininkai, kurie taikos metu, visur pasklidę nelyginant kibirkštys, skatina brolius pasauliečius stropiai laikytis regulos, laiko pamaldas ir teikia sakramentus, o skubantiems į kruvinas žudynes vardan gyvenimo ar mirties rodo nukryžiuotojo viešpaties pavyzdį, šitaip keldami kovotojų narsą; su begaline dvasios malone jie teikė savo patarnavimus visiems — ir tvirtiems kariams, ir silpniems paliegėliams, nešdami jų sąžinei paguodą paskutinę gyvenimo valandą. Štai šį dvasios palaimą…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"142f8bf92af7178827c8428a","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Ordinas siekė užkariauti Prūsiją.","context":"Teodoras Narbutas (1995 m.) taip aprašo ordino siekį po draugiškų santykių su Pamario kunigaikščiais susiklostymo 1253 m.","support_ids":["t-214485","c-194819"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214485","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194819","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"123 Kai 1253 metų pradžioje susiklostė draugiški Pamario kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­ tinga Sembos provincija, bet šie atkaklūs bandymai ją užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­ sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą, sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­ nės kraštais. Buvo baiminamasi didžiausio pralaimėjimo, jei šios provincijos ir gentys, sudariusios tarpusavio są­ jungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­ 1 Henning."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"18be0eb9797c0bd19d4e740e","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Ordinas siekė savo teriojimo žygiais palaužti pagonių kraštą, jį užvaldyti ir ypač spaudė Žemaičius.","context":"Zenonas Ivinskis (1978 m.) šį tikslą priskiria Ordinui XIV a. pradžios veiklos kontekste.","support_ids":["t-198863","c-31126"],"source_refs":[{"kind":"internal_claim","claim_id":"t-198863","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-31126","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Ordinas teturėjo vieną tikslą : savo nepaliaujamais teriojimo žygiais, kurie labiausiai kankino Žemaičius, paklupdyti pagonių kraštą ir jį užvaldyti. Puolimai sekė puolimus. Pvz., 1316 m. pradžioje kryžiuočiai plėšė Dubysos žemupį, paskui jie brovęs krašto gilumon iki Varnių; balandžio mėn. jie sunaikino Biseną, o vasarą vėl teriojo Varnių sritį, kurią trumpu laiku nuliežė kelis kartus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"aeace040765b8bce8c5a50d8","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Ordinas siekė plėsti pasaulietinę ir bažnytinę valdžią Livonijoje, perimdamas vyskupijų valdas.","context":"Teodoras Narbutas (2001 m.) aprašo ordino politiką Livonijoje.","support_ids":["t-206177","c-188792"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206177","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188792","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Kryžiuočiai, nuolat užimti savo pasaulie­ tinės ir bažnytinės valdžios plėtimu, ėmė taikstytis, kaip užimti Livonijos vyskupijos valdas tokiu pat būdu, kaip kad buvo pa­ darę Prūsijoje. Jau Eželio vyskupystę apgyvendinę savo ordi­ no nariais, ėm ėsi Rygos arkivyskupijos; pageidavo, kad tuometinis arkivyskupas Jonas Sintenas su savo kapitula vilk­ tųsi Kryžiuočių ordino abitą; šis siekis sukėlė dvasininkijos įnir­ šį, arkivyskupas ėmė primygtinai spausti grąžinti kai kurias valdas Livonijos magistrų neteisėtai užimtose žemėse, o bū­ tent Rygos miestą"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"85e53033aac3cd22687566b9","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Ordinas siekė užkariauti Žemaitiją ir įsitvirtinti rytuose.","context":"Vytautas Didysis 1350–1430 (1930 m.) autorius šį siekį nurodo aiškindamas Kryžiuočių ordino santykius su Vytautu.","support_ids":["t-178906","c-36843"],"source_refs":[{"kind":"internal_claim","claim_id":"t-178906","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-36843","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Pirmuoju tokiu draugu vi­ suomet būdavo Ordinas. Bet ir pastarasis, bauginamas Vytau­ to laimėjimų rytuose, verčiamas buvo ieškotis taikos Lietuvoj. Kryžiuočiai gerai suprato, kad Vytauto galybės išaugimas ne tik jam padės atsiskaityti su Lenkija, bet ir jų pačių norams — užkariauti Žemaitiją, kaip tiesioginį sausažemiu susisiekimą su Livonijos Ordinu ir įsigalėti rytuose — padarys galą. Todėl jie ir juto reikalą kaip nors susiartinti su Lietuva, kad nors tuo tarpu iš jos ką nors laimėtų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ce8903fe7b5045c5e39f18f1","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Ordino kronikose 1345–1382 m. užregistruoti 66 žygiai iš Prūsijos ir 30 iš Livonijos.","context":"Zenonas Ivinskis (1978 m.) pateikia šį skaičių remdamasis ordino kronikomis.","support_ids":["t-198783","c-180760"],"source_refs":[{"kind":"internal_claim","claim_id":"t-198783","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-180760","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos. Į tą skaičių neįeina pasienyje ordino riterių suorganizuoti savanorių — « plėšikėlių » (vad."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"16fd3db26f2a2740f9541604","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Ordinas statė pilis ir įtvirtinimus, įkurdino juose stiprias įgulas bei vykdė pilių apgultis.","context":"Alberto Vijūko-Kojelavičiaus „Lietuvos istorijoje“ (1989 m.) aprašomi veiksmai prie Veliuonos.","support_ids":["t-184496","c-167857"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184496","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-167857","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Sugrįžo jis lydimas naujų kariaunų, kurias iš Bavarijos buvo atvedęs kunigaikštis Henrikas, vis dėlto, ankstesnio pralaimėjimo pamokytas, neišdrįso stoti į atvirą kovą ir pulti. Skubotai iš abiejų pilies pu­ sių pastatę įtvirtinimus ir įkurdinę juose stiprias įgu­ las, kryžiuočiai, patys nelyginant ilsėdamiesi, pradėjo kamuoti pilėnus apsuptimi: neleisdami atsivežti mais­ to, vylėsi badu priversiu pasiduoti. Tuo tarpu Gedimi­ nas, norėdamas padėti apsuptai Veliuonai, su didelėmis jėgomis užpuolė Fridburgą ir Bajerburgą; jis laikė šias pilis apsuptas ištisas dvidešimt dienų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e2e92b5a15a3e8f1e8dae18f","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Ordinas kūrė ūkius ir į sunaikintą kraštą gabeno gyvulius bei maistą, siekdamas patraukti žemaičius.","context":"A. Šapokos redaguotoje „Lietuvos istorijoje“ (1936 m.) aprašoma ordino veikla Žemaitijoje.","support_ids":["t-203349","c-180679"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203349","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-180679","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Todėl kryžiuočiai pristatė Žemaičiuose daugybę pilių (vieną pilį net patsai Vytautas jiems padėjo statyti). Ordinas bandė ir geruoju patraukti žemaičius: į sunaikintą kraštą gabeno gy- vulius, maistą ir kūrė ūkius. Tuo būdu dalis žemaičių buvo pri- viliota ir vyko į Marijenburgą krikštytis, nes, Vytautui remiant ordiną, nebebuvo vilties išsivaduoti."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"dff108e008828217a8349a3d","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Ordinas vykdė politinę veiklą: kurstė Švitrigailą siekti savo užmačių ir kelti sumaištį Lenkijoje.","context":"Michał Baliński (2007 m.) šį veiksmą aprašo kaip Kryžiuočių ordino politiką po nesėkmės sukiršinti Vytautą su Jogaila.","support_ids":["t-203261","c-180810"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203261","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-180810","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Mat Švitrigaila, iki tol irzęs dėl nuolatinių nesėkmių, nuolatinio bastymosi ir žeminimosi prieš Vytautą, tramdė savyje apmaudą ir neapykantą kara­ liui ir Lenkijai. Kryžiuočiai, neįstengę sukiršinti Vytauto su Jogaila, sulaukė palankaus meto kurstydami Švitrigailą siekti savo senųjų užmačių ar bent jau vėl kelti sumaištį jiems pa­ vojingoje Lenkijoje. Šis kunigaikštis, dar nuo pirmųjų kivir- 1 Lietuvos istorikai Švitrigailą api­ būdina ne per geriausiai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"775003e9d756520c9fb6dc27","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Ordinas platino Vakarų Europoje gandus, kad Lietuvos krikštas buvo tariamas ir paviršutiniškas.","context":"„Vytautas Didysis 1350–1430“ (1930 m.) taip apibūdina ordino informacinę veiklą Vakarų Europoje.","support_ids":["t-178873","c-14980"],"source_refs":[{"kind":"internal_claim","claim_id":"t-178873","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-14980","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Prie­ šingai, kryžiuočiai paleido į Vak. Europos visuomenę gandų, kad Lietuvos krikštas yra tariamas, atliktas paviršutiniškai, be didesnio žmonių paruošimo ir net apsikrikštijusieji tai da­ rė dovanų pavilioti^2 ). Vytautas, jų vadas, esąs grasinąs sa­ vo arklius pagirdyti Reino upėje, vadinasi, katalikas būdamas, norįs užimti ir sunaikinti katalikišką Vokietiją. Vak. Europos visuomenė tikėjo Ordinui ir laikė tik jį tikėjimo gynėju Europos Rytuose."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a6944dbeb0349c497056249c","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Ordinas įkalbėjo iš Anglijos ir Prancūzijos atvykusius savanorius, kad Lietuva tebėra pagonių šalis.","context":"Michał Baliński (2007 m.) šį epizodą pateikia aprašydamas ordino rengiamą žygį.","support_ids":["t-203478","c-180938"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203478","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-180938","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Kai rug­ pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­ ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­ pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­ vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar esanti pagonių šalis. Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino maršalo Engelhardo Rabės22, kadangi didysis magistras Konradas Ciolneris gu­ lėjo pakirstas sunkios ligos."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2ca88652126a5bcc8fd1eba6","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes.","context":"Petro Dusburgiečio „Prūsijos žemės kronikos“ leidimo (1985 m.) komentare ši veikla aiškiai priskiriama Kryžiuočių ordinui.","support_ids":["t-223273","c-203201"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223273","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203201","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Kryžiuočių ordinas visaip stengėsi sužlugdyti minėtąją 1323 m. spalio 2 d. sutartį: jau spalio 24 d. Livonijos ordinas raginamas ją nutraukti, po to imtasi žygių, kad nutrauktų sutartį Rygos miestas ir t. t. Ordinas tęsė agresiją 1324 m., kovo mėn. puldamas Gardino apylinkes, gegužės mėn.— Gedimino pilį Žemaitijoje, metų pabaigoje, rodos, vėl Gardiną. Puldinėjo Lietuvos žemes, grobė jas pasienyje ir Livonijos riteriai57."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8e2ed8091ae9e4b81d929441","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Ordino riteriai vykdė karinius puolimus ir užėmę Kauno pilį sugriovė likusius gynybinius įrenginius, pylimus bei griovius.","context":"Alberto Vijūko-Kojelavičiaus (1989 m.) pasakojimas apie Kauno pilies užėmimą.","support_ids":["t-184500","c-167861"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184500","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-167861","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Pilies įgulą sudarė trys tūkstančiai rink­ tinių karių, apie kurių graudžią mirtį degančios pilies liepsnose paprasti žmonės dar ir dabar tebegieda rau­ das. Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­ tučio sūnumi, gyvi pakliuvo į nelaisvę. Pagerbdami didelę šventę,, kitą dieną kryžiuočiai praleido ramiai, tačiau trečią dieną iki pat pamatų sugriovė kur ne kur tarp sudegintos pilies išlikusius gynybinius įren­ ginius: išvertė sienų likučius, nukasė pylimus, išlygino griovius. Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­ nos pilis: pirmąją išsigandę gynėjai atidavė be kovos, antrąją paėmė po keturias dienas užtrukusios apgul- ties."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f6b52b2f1ce4cc36b26e53de","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Ordinas užgrobė Vysla gabenamus grūdus ir juos išsivežė kitur.","context":"Alberto Vijūko-Kojelavičiaus (1989 m.) pasakojimas apie Jogailos siųstą pagalbą nuniokotai Lietuvai.","support_ids":["t-196082","c-167865"],"source_refs":[{"kind":"internal_claim","claim_id":"t-196082","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-167865","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Užgrobę visus grūdus, J ie su daro k elia s pro- gabenamus Vysla, kryžiuočiai gas karu i juos išsivežė kitur. Kai kara­ lius, pasiuntęs žygūną, parei­ kalavo nelaužyti susitarimo ir nedaryti skriaudų, šie atrėžė, jog elgtasi jų teisingai ir teisėtai, nes atėmė tai, ką karalius siuntė stabmeldžių tautai, kovojančiai prieš krikščionis. Mat nors jie gerai žinojo, jog lietu­ vių tauta su savo didikais daugiau kaip prieš dvidešimt metų priėmė krikščionybę, tačiau po senovei juos va­ dino stabmeldžiais, tariamu dievobaimingumu mulkin­ dami krikščioniškųjų šalių valdovus (ir net pačius Ro­ mos popiežius), dėl kurių paramos ar nuolaidžiavimo ir galėjo tose žemėse kariauti."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"46753d62cab81f2e66bc4e43","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Ordinas sudarė sąjungas ir politinius susitarimus su kitomis jėgomis prieš Lietuvą ar Lenkiją.","context":"Šaltiniuose aprašyta 1431 m. kryžiuočių, Švitrigailos ir Valakijos vaivados sąjunga prieš Lenkiją.","support_ids":["t-178868","c-162605"],"source_refs":[{"kind":"internal_claim","claim_id":"t-178868","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-162605","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Galingą są­ jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos vaivada. Netrukus Voluinėje bei Podolėje įsiplieskė karas su Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kry­ žiuočių ordinu."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[{"index":8,"canonical_code":"group.activity","support_ids":["t-198988","c-162708"],"reason":"invalid_code_or_support"}],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Kryžiuočių ordinas – XIII a. į Prūsijos žemes atsikraustęs vokiečių ordinas, kuris pirmiausia pavergė prūsus. Vėliau jis įsitvirtino kaip karinė ir politinė jėga, trukdžiusi Lietuvos prekybai: kryžiuočiai buvo užėmę pajūrį, kontroliavo Nemuno žiotis ir apsunkino susisiekimą su Ryga. Ordinas taip pat siekė veikti Lietuvos valdovų sprendimus – kurstė Vytauto siekį gauti karūną, o Švitrigaila pas jį ieškojo pagalbos kovai dėl valdžios. Jo karinė galia atsiskleidė 1383 m., kai kartu su Vytautu ir jo šalininkais rugsėjo 11 d. apsupo Trakų pilį ir privertė jos įgulą pasiduoti. Lūžiniu įvykiu tapo 1410 m. liepos 15 d. Žalgirio mūšis, kuriame Lietuvos ir Lenkijos kariuomenės sutriuškino Kryžiuočių ordino kariuomenę; ši pergalė padėjo Lietuvai įtvirtinti pilnavertės Europos valstybės statusą.","sentences":[{"sentence_id":"s1","text":"Kryžiuočių ordinas – XIII a. į Prūsijos žemes atsikraustęs vokiečių ordinas, kuris pirmiausia pavergė prūsus.","support_ids":["t-179044","c-162660"]},{"sentence_id":"s2","text":"Vėliau jis įsitvirtino kaip karinė ir politinė jėga, trukdžiusi Lietuvos prekybai: kryžiuočiai buvo užėmę pajūrį, kontroliavo Nemuno žiotis ir apsunkino susisiekimą su Ryga.","support_ids":["t-179044","c-13400"]},{"sentence_id":"s3","text":"Ordinas taip pat siekė veikti Lietuvos valdovų sprendimus – kurstė Vytauto siekį gauti karūną, o Švitrigaila pas jį ieškojo pagalbos kovai dėl valdžios.","support_ids":["t-178913","c-162645","t-178916","c-162789"]},{"sentence_id":"s4","text":"Jo karinė galia atsiskleidė 1383 m., kai kartu su Vytautu ir jo šalininkais rugsėjo 11 d. apsupo Trakų pilį ir privertė jos įgulą pasiduoti.","support_ids":["t-179042","c-162598"]},{"sentence_id":"s5","text":"Lūžiniu įvykiu tapo 1410 m. liepos 15 d. Žalgirio mūšis, kuriame Lietuvos ir Lenkijos kariuomenės sutriuškino Kryžiuočių ordino kariuomenę; ši pergalė padėjo Lietuvai įtvirtinti pilnavertės Europos valstybės statusą.","support_ids":["t-198736","c-162686"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta nurodytais šaltiniais apie XIII a. ordino atsikėlimą į prūsų žemes ir prūsų pavergimą."},{"sentence_id":"s2","supported":false,"reason":"Šaltinis pagrindžia prekybos trukdymą, pajūrio ir Nemuno žiočių kontrolę bei apsunkintą susisiekimą su Ryga, tačiau nepakankamai tiesiogiai pagrindžia teiginį apie ordino įsitvirtinimą kaip karinę ir politinę jėgą."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai pagrindžia Vytauto karūnos siekio kurstymą ir Švitrigailos pagalbos ieškojimą pas kryžiuočius."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1383 m. rugsėjo 11 d. Trakų pilies apsiaustį kartu su Vytautu, jos sugriovimą ir įgulos pasidavimą."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai pagrindžia 1410 m. liepos 15 d. Žalgirio mūšio baigtį ir pergalės reikšmę Lietuvos statusui."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-179044","c-162660"]},{"sentence_id":"s2","supported":true,"support_ids":["t-179044","c-13400"]},{"sentence_id":"s3","supported":true,"support_ids":["t-178913","c-162645","t-178916","c-162789"]},{"sentence_id":"s4","supported":true,"support_ids":["t-179042","c-162598"]},{"sentence_id":"s5","supported":true,"support_ids":["t-198736","c-162686"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-21f12196c91b730dfc6e9a86","reason":"deterministic_media_primary","identity_verified":false,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-3e474638c075f37fa1980043","relation_type":"depicts"},{"media_id":"m-97b2e6926298e4225f1e697d","relation_type":"edition_image_of"},{"media_id":"m-d6fd566cbcaa8a41dff5473a","relation_type":"edition_image_of"},{"media_id":"m-8832f6d00132704d50bdafea","relation_type":"commemoration_of"}],"media_verification":{"status":"not_required","primary_media_id":"m-21f12196c91b730dfc6e9a86","candidate_count":10,"visual_verified_count":10,"identity_verified_count":0,"primary":{"visual_verified":true,"identity_verified":false,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Tiesioginis istorinis Kryžiuočių ordino nario atvaizdas.","visual_evidence":"Matomas riteris su baltu apsiaustu, dideliu juodu kryžiumi, ordino kryžiumi ant krūtinės ir kario atributais.","metadata_evidence":"Pavadinime tiesiogiai nurodyta „Ritter des deutschen Ordens“ ir prancūziškas atitikmuo „Chevalier de l’Ordre Teutonique“.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Aukaimio pilis","claim_id":"t-184382","confidence":0.82},{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Kaunas","claim_id":"t-184499","confidence":0.94},{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Kauno pilis","claim_id":"t-79425","confidence":0.93},{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Peštvė","claim_id":"t-32446","confidence":0.79},{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Pilėnai","claim_id":"t-184496","confidence":0.89},{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Trakai","claim_id":"t-100044","confidence":0.88},{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Veliuona","claim_id":"t-184496","confidence":0.84},{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-113651","confidence":0.86},{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Višogrudas","claim_id":"t-222862","confidence":0.92},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/asmenys/Aleksandras V","claim_id":"t-35010","confidence":0.64},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/asmenys/Fridrichas (Rygos arkivyskupas)","claim_id":"t-54967","confidence":0.62},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-05169","confidence":0.86},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-35879","confidence":0.84},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/asmenys/Traidenis","claim_id":"t-89340","confidence":0.76},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/asmenys/Vladislovas Jogaila","claim_id":"t-173241","confidence":0.82},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-178813","confidence":0.68},{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/grupes/Lenkai","claim_id":"t-179134","confidence":0.82},{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-179134","confidence":0.82},{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/grupes/Lietuvos Didžioji Kunigaikštija","claim_id":"t-179079","confidence":0.72},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/grupes/Rygiečiai","claim_id":"t-179438","confidence":0.82},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/grupes/Rygos miestiečiai","claim_id":"t-88022","confidence":0.77},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/grupes/Žiemgaliai","claim_id":"t-89339","confidence":0.8},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Derska","claim_id":"t-184690","confidence":0.63},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-35834","confidence":0.72},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-50801","confidence":0.68},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)","claim_id":"t-40545","confidence":0.91},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Zigmantas (Romos imperatorius)","claim_id":"t-97032","confidence":0.82},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Zigmantas Liuksemburgietis","claim_id":"t-176875","confidence":0.92},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-115143","confidence":0.88},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/grupes/Anglai","claim_id":"t-172073","confidence":0.72},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/grupes/Anglų riteriai","claim_id":"t-179326","confidence":0.84},{"predicate":"buvo_sajungininkas_su","direction":"outbound","target":"objektai/asmenys/Vytautas","claim_id":"t-86741","confidence":0.88},{"predicate":"buvo_sajungininkas_su","direction":"outbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-115143","confidence":0.88},{"predicate":"buvo_sajungininkas_su","direction":"outbound","target":"objektai/grupes/Vytauto šalininkai","claim_id":"t-86739","confidence":0.78},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-209972","confidence":0.76},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Gotardas Ketleris","claim_id":"t-87504","confidence":0.75},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Durbės mūšis (1260 m.)","claim_id":"t-179417","confidence":0.78},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai","claim_id":"t-222350","confidence":0.62},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)","claim_id":"t-185735","confidence":0.82},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.)","claim_id":"t-224518","confidence":0.9},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)","claim_id":"t-220869","confidence":0.9},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)","claim_id":"t-220962","confidence":0.9},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Žalgirio mūšis (1410 m.)","claim_id":"t-183291","confidence":0.86},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Karolis Tryrietis","claim_id":"t-183841","confidence":0.76},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Paulius iš Olivos","claim_id":"t-87818","confidence":0.96},{"predicate":"gyne","direction":"outbound","target":"objektai/asmenys/Vytautas","claim_id":"t-34452","confidence":0.84},{"predicate":"gyne","direction":"outbound","target":"objektai/grupes/Totoriai","claim_id":"t-05440","confidence":0.82},{"predicate":"gyne","direction":"outbound","target":"objektai/vietos/Drevenca","claim_id":"t-176200","confidence":0.84},{"predicate":"gyne","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-172965","confidence":0.67},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Baiga","claim_id":"t-222299","confidence":0.88},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Bajerburgas","claim_id":"t-180748","confidence":0.72},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Burcos žemė","claim_id":"t-221068","confidence":0.78},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Vartenbergas","claim_id":"t-221462","confidence":0.78},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-185362","confidence":0.68},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-05154","confidence":0.78},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Herkus Mantas","claim_id":"t-175202","confidence":0.92},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-95319","confidence":0.8},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-176226","confidence":0.82},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Mikalojus Moskoževskis","claim_id":"t-87410","confidence":0.74},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Mindaugas","claim_id":"t-171531","confidence":0.8},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Nameisis (žiemgalių kunigaikštis)","claim_id":"t-183756","confidence":0.79},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Nameisis","claim_id":"t-225534","confidence":0.82},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Narimantas (Pinsko kunigaikštis)","claim_id":"t-115023","confidence":0.86},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Nodamas","claim_id":"t-185802","confidence":0.74},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Pipinas","claim_id":"t-221449","confidence":0.9},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-178994","confidence":0.83},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Sudargas","claim_id":"t-224099","confidence":0.96},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Surminas","claim_id":"t-179485","confidence":0.72},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Sventopelkas","claim_id":"t-221602","confidence":0.78},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Utenis","claim_id":"t-217122","confidence":0.82},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Vladislovas Lokietka","claim_id":"t-184378","confidence":0.85},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-10104","confidence":0.9},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-184886","confidence":0.78},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Bartai","claim_id":"t-225002","confidence":0.82},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/asmenys/Algirdas","claim_id":"t-115020","confidence":0.7},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/asmenys/Karigaila","claim_id":"t-63793","confidence":0.82},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-115020","confidence":0.7},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Jotvingiai","claim_id":"t-212488","confidence":0.7},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Lenkai","claim_id":"t-119671","confidence":0.86},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-114963","confidence":0.84},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Sembai","claim_id":"t-221823","confidence":0.86},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-32740","confidence":0.82},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Kuršiai","claim_id":"t-89351","confidence":0.87},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-32178","confidence":0.86},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-171531","confidence":0.82},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Lietuvos kariuomenė","claim_id":"t-178812","confidence":0.93},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Rygiečiai","claim_id":"t-179439","confidence":0.86},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-220221","confidence":0.9},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-176116","confidence":0.78},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Žiemgaliai","claim_id":"t-223119","confidence":0.78},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Dubysa","claim_id":"t-179820","confidence":0.68},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-171557","confidence":0.9},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Luckas","claim_id":"t-179067","confidence":0.55},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Nemunas","claim_id":"t-80724","confidence":0.8},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Pamedė","claim_id":"t-221221","confidence":0.7},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Papartėnai","claim_id":"t-36476","confidence":0.9},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-171557","confidence":0.91},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Trakai","claim_id":"t-176121","confidence":0.84},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Trapėnai","claim_id":"t-42204","confidence":0.78},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Ukmergės apylinkė","claim_id":"t-28484","confidence":0.9},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-88117","confidence":0.69},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Šiauliai","claim_id":"t-28705","confidence":0.72},{"predicate":"pastate","direction":"outbound","target":"objektai/daiktai/Malūnas","claim_id":"t-220636","confidence":0.76},{"predicate":"pastate","direction":"outbound","target":"objektai/daiktai/Mūrinė pilis","claim_id":"t-179930","confidence":0.72},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Baiga","claim_id":"t-222042","confidence":0.72},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Bajerburgas","claim_id":"t-180363","confidence":0.9},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Bajerburgo pilis","claim_id":"t-178977","confidence":0.8},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Dobė","claim_id":"t-32137","confidence":0.98},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Elbingas","claim_id":"t-221727","confidence":0.94},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Fridburgas","claim_id":"t-216072","confidence":0.94},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Georgenburgas","claim_id":"t-32189","confidence":0.89},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Gotesverderis","claim_id":"t-171534","confidence":0.9},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Kristburgas","claim_id":"t-221221","confidence":0.96},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Kroicburgas","claim_id":"t-222787","confidence":0.93},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Malburgas","claim_id":"t-175432","confidence":0.88},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Marienverderis","claim_id":"t-221470","confidence":0.95},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Marijenburgas","claim_id":"t-180363","confidence":0.9},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Metenburgas","claim_id":"t-179019","confidence":0.92},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Pilaitė","claim_id":"t-223600","confidence":0.7},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-179109","confidence":0.74},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Rezlis","claim_id":"t-222787","confidence":0.93},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Skalvos žemė","claim_id":"t-80129","confidence":0.62},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Torunė","claim_id":"t-175432","confidence":0.93},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Ventės ragas","claim_id":"t-80308","confidence":0.9},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Vizenburgas","claim_id":"t-222787","confidence":0.93},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Štarkenbergas","claim_id":"t-221747","confidence":0.78},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Europa","claim_id":"t-117889","confidence":0.72},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-92939","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Laivai","claim_id":"t-86094","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Kalavijuočių ordinas","claim_id":"t-169682","confidence":0.91},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Jeruzalė","claim_id":"t-224275","confidence":0.61},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-178861","confidence":0.82},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Nemunas","claim_id":"t-180740","confidence":0.66},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Livonijos ordinas","claim_id":"t-01667","confidence":0.61},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-178158","confidence":0.87},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Žiemgaliai","claim_id":"t-31483","confidence":0.66},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Ariogala","claim_id":"t-179754","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Baiga","claim_id":"t-221632","confidence":0.87},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Burcos žemė","claim_id":"t-223911","confidence":0.87},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Drezdenka","claim_id":"t-99921","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Elbingas","claim_id":"t-221632","confidence":0.87},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Fridbergas Vytėnai","claim_id":"t-86019","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Karaliaučius","claim_id":"t-224632","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kaunas","claim_id":"t-179925","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Klaipėda","claim_id":"t-32520","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kolainių pilis","claim_id":"t-223521","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kulmas","claim_id":"t-220393","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kulmija","claim_id":"t-99929","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kulmo žemė","claim_id":"t-221361","confidence":0.73},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-31483","confidence":0.66},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lubava","claim_id":"t-220393","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Marienburgas","claim_id":"t-221781","confidence":0.8},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Michalovos žemės","claim_id":"t-36407","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Nemunas","claim_id":"t-180363","confidence":0.62},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Prūsija","claim_id":"t-224354","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Ragainė","claim_id":"t-221781","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Rusia","claim_id":"t-213377","confidence":0.83},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Rusnė","claim_id":"t-32520","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Ryga","claim_id":"t-221774","confidence":0.71},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Santoko pilis Dobrine","claim_id":"t-99948","confidence":0.96},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Spitenbergas","claim_id":"t-225319","confidence":0.8},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Sūduva","claim_id":"t-42118","confidence":0.94},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Šešupė","claim_id":"t-73959","confidence":0.74},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Žemaitija","claim_id":"t-123009","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Žemaičių kraštas","claim_id":"t-99948","confidence":0.94},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Žemaičių žemė","claim_id":"t-29505","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Jazbutas","claim_id":"t-184718","confidence":0.72},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Mindaugas","claim_id":"t-220187","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Nodamas","claim_id":"t-184808","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Sudargas","claim_id":"t-185353","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Sventopelkas","claim_id":"t-224290","confidence":0.89},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-66999","confidence":0.72},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-185671","confidence":0.94},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Zbignievas Olesnickis","claim_id":"t-176859","confidence":0.63},{"predicate":"puole","direction":"outbound","target":"objektai/asmenys/Dabaras","claim_id":"t-220926","confidence":0.76},{"predicate":"puole","direction":"outbound","target":"objektai/asmenys/Divanas","claim_id":"t-220926","confidence":0.78},{"predicate":"puole","direction":"outbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-66523","confidence":0.64},{"predicate":"puole","direction":"outbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-119671","confidence":0.96},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Galindai","claim_id":"t-212877","confidence":0.96},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Jotvingiai","claim_id":"t-213192","confidence":0.76},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Lenkai","claim_id":"t-179181","confidence":0.93},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-10167","confidence":0.9},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Rygos kapitula","claim_id":"t-86748","confidence":0.66},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Rygos vyskupija Rygos Bažnyčia","claim_id":"t-86783","confidence":0.7},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Sūduvos prūsai","claim_id":"t-184613","confidence":0.78},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Totoriai","claim_id":"t-185492","confidence":0.78},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-176121","confidence":0.73},{"predicate":"puole","direction":"outbound","target":"objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)","claim_id":"t-185559","confidence":0.82},{"predicate":"puole","direction":"outbound","target":"objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)","claim_id":"t-31422","confidence":0.86},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Ariogala","claim_id":"t-184922","confidence":0.72},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Aukaimio pilis","claim_id":"t-224662","confidence":0.84},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Aukaimis","claim_id":"t-102841","confidence":0.76},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Bisenė","claim_id":"t-178938","confidence":0.93},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Christmemelio pilis","claim_id":"t-185262","confidence":0.96},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Drohičinas","claim_id":"t-93933","confidence":0.7},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Dubingiai","claim_id":"t-28509","confidence":0.91},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Eigulių pilis","claim_id":"t-32154","confidence":0.76},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Gaižuva","claim_id":"t-31410","confidence":0.72},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Gardinas","claim_id":"t-173130","confidence":0.9},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Karšuva","claim_id":"t-184973","confidence":0.9},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kaunas","claim_id":"t-179985","confidence":0.86},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kauno pilis","claim_id":"t-79426","confidence":0.94},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kernavė","claim_id":"t-178817","confidence":0.79},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kvedenava","claim_id":"t-221823","confidence":0.75},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kymel","claim_id":"t-31436","confidence":0.87},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-113641","confidence":0.84},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-180234","confidence":0.62},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Mederaba","claim_id":"t-32353","confidence":0.86},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Medininkai","claim_id":"t-185076","confidence":0.88},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Medininkų valsčius","claim_id":"t-185046","confidence":0.88},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Medininkų žemė","claim_id":"t-41919","confidence":0.9},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Pagraudė","claim_id":"t-185046","confidence":0.88},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Palenkė","claim_id":"t-28867","confidence":0.74},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Pamedė","claim_id":"t-63617","confidence":0.88},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Pačtuva","claim_id":"t-31410","confidence":0.82},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Pernarava","claim_id":"t-184501","confidence":0.84},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Peštvė","claim_id":"t-180394","confidence":0.82},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Pieštvė","claim_id":"t-184500","confidence":0.82},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Pograuda","claim_id":"t-28246","confidence":0.72},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Pomeranija","claim_id":"t-224290","confidence":0.84},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Prūsų žemė","claim_id":"t-180234","confidence":0.62},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Ryga","claim_id":"t-87180","confidence":0.78},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Semba","claim_id":"t-220869","confidence":0.86},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Tervetė","claim_id":"t-32581","confidence":0.82},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Vaikiai","claim_id":"t-41919","confidence":0.74},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Veliuona","claim_id":"t-180746","confidence":0.75},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-86032","confidence":0.68},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Šešuoliai","claim_id":"t-28509","confidence":0.91},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Žemaitija","claim_id":"t-123036","confidence":0.94},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-179207","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-179324","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuvos kariuomenė","claim_id":"t-224151","confidence":0.84},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-184596","confidence":0.92},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Falkenbergas","claim_id":"t-34787","confidence":0.83},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Fridrichas II","claim_id":"t-31483","confidence":0.76},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Henrikas (Meiseno markgrafas)","claim_id":"t-63617","confidence":0.9},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-01626","confidence":0.58},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Jordanas iš Pelplino","claim_id":"t-175436","confidence":0.86},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Leopoldas","claim_id":"t-185728","confidence":0.88},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Martynas iš Golino","claim_id":"t-222199","confidence":0.83},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Mata","claim_id":"t-221449","confidence":0.84},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Paulius iš Olivos","claim_id":"t-175436","confidence":0.86},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Pršemyslas Otokaras II","claim_id":"t-39630","confidence":0.91},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176743","confidence":0.86},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Zigmantas (Romos imperatorius)","claim_id":"t-178045","confidence":0.76},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Zigmantas Liuksemburgietis","claim_id":"t-176877","confidence":0.62},{"predicate":"reme","direction":"outbound","target":"objektai/asmenys/Andrius Vingaudas","claim_id":"t-185997","confidence":0.8},{"predicate":"reme","direction":"outbound","target":"objektai/asmenys/Jogaila","claim_id":"t-178940","confidence":0.78},{"predicate":"reme","direction":"outbound","target":"objektai/asmenys/Pelužis","claim_id":"t-184699","confidence":0.86},{"predicate":"reme","direction":"outbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179003","confidence":0.72},{"predicate":"reme","direction":"outbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-180248","confidence":0.72},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Livonijos ordinas","claim_id":"t-179421","confidence":0.9},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Pranciškonų ordinas","claim_id":"t-108293","confidence":0.86},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Gardinas","claim_id":"t-179088","confidence":0.78},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-222862","confidence":0.91},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-179001","confidence":0.89},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-05291","confidence":0.76},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Grigalius IX","claim_id":"t-221730","confidence":0.84},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-185773","confidence":0.94},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Jokūbas (vėliau Urbonas IV)","claim_id":"t-222314","confidence":0.76},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-176226","confidence":0.86},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Paulius Rusdorfas","claim_id":"t-87453","confidence":0.62},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Sventopelkas","claim_id":"t-220705","confidence":0.78},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis)","claim_id":"t-87880","confidence":0.95},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-100056","confidence":0.78},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)","claim_id":"t-40545","confidence":0.94},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-180686","confidence":0.84},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/grupes/Kalavijuočių ordinas","claim_id":"t-66881","confidence":0.86},{"predicate":"sudare_sutarti_su","direction":"outbound","target":"objektai/asmenys/Algirdas","claim_id":"t-179020","confidence":0.64},{"predicate":"sudare_sutarti_su","direction":"outbound","target":"objektai/asmenys/Germantas","claim_id":"t-184595","confidence":0.78},{"predicate":"sudare_sutarti_su","direction":"outbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176639","confidence":0.83},{"predicate":"sudare_sutarti_su","direction":"outbound","target":"objektai/grupes/Mazovijos kunigaikščiai","claim_id":"t-212305","confidence":0.9},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-179048","confidence":0.83},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-135442","confidence":0.94},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/ivykiai/Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)","claim_id":"t-34553","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Ašmena","claim_id":"t-176948","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-05363","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-180264","confidence":0.64},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Prūsų žemė","claim_id":"t-180264","confidence":0.64},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Ragainė","claim_id":"t-222007","confidence":0.5},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Vaikiai","claim_id":"t-87296","confidence":0.91},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Varniai","claim_id":"t-99304","confidence":0.82},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-176948","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Šalčininkai","claim_id":"t-180083","confidence":0.68},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Alna","claim_id":"t-221213","confidence":0.67},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Aukaimio pilis","claim_id":"t-184382","confidence":0.82},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Aukaimis","claim_id":"t-222007","confidence":0.82},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Baiga","claim_id":"t-222299","confidence":0.96},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Barta","claim_id":"t-222758","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Dybovas","claim_id":"t-216836","confidence":0.86},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Eiguliai","claim_id":"t-179988","confidence":0.84},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Kaunas","claim_id":"t-184499","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Kauno pilis","claim_id":"t-185489","confidence":0.95},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Kernavė","claim_id":"t-173445","confidence":0.82},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Klaipėda","claim_id":"t-90697","confidence":0.86},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Kolainiai","claim_id":"t-185715","confidence":0.74},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Maišiagala","claim_id":"t-173445","confidence":0.82},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Mederaba","claim_id":"t-31422","confidence":0.72},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Naujasis Kaunas","claim_id":"t-79878","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Pamaris","claim_id":"t-97308","confidence":0.92},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Pieštvė","claim_id":"t-185084","confidence":0.8},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Pomeranija","claim_id":"t-220776","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Prieglius","claim_id":"t-221213","confidence":0.61},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-178072","confidence":0.94},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Putvė","claim_id":"t-32490","confidence":0.82},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Semba","claim_id":"t-212488","confidence":0.72},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Trakų pilis","claim_id":"t-95320","confidence":0.78},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Veliuona","claim_id":"t-180746","confidence":0.68},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-88085","confidence":0.71},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/grupes/Prūsai","claim_id":"t-113900","confidence":0.9},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/vietos/Galinda","claim_id":"t-212488","confidence":0.86},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/vietos/Nemunas","claim_id":"t-90696","confidence":0.86},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-214755","confidence":0.74},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/vietos/Prūsų žemė","claim_id":"t-179109","confidence":0.86},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/vietos/Sūduva","claim_id":"t-32629","confidence":0.78},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Pamedė","claim_id":"t-217617","confidence":0.91},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Sūduva","claim_id":"t-212675","confidence":0.92},{"predicate":"valde_teritorija","direction":"outbound","target":"objektai/vietos/Vancka","claim_id":"t-223149","confidence":0.9}],"timeline":[{"date":"1211 m.","label":"1211 m.","claimId":"t-223764"},{"date":"1211 m.","label":"1211 m.","claimId":"t-225060"},{"date":"1230 m.","label":"1230 m.","claimId":"t-207511"},{"date":"1247 m.","label":"Narbutas rašo, kad 1247 m.","claimId":"t-219297"},{"date":"1257 m.","label":"Narbutas mini, kad Mindaugo 1257 m.","claimId":"t-205078"},{"date":"1260 m.","label":"1260 m.","claimId":"t-205596"},{"date":"1265 m.","label":"Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas 1265 m.","claimId":"t-217278"},{"date":"1265 m.","label":"Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas 1265 m.","claimId":"t-218718"}],"support_disclosure":{"claims":298,"sources":14}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 5fbfc32f3ed016a8
+object_page_generated_at: '2026-09-18T16:29:03+00:00'
+object_page_source_checked_at: '2026-09-18T16:29:03+00:00'
+object_page_content_state: content
+object_page_claim_count: '298'
+object_page_source_count: '14'
+object_page_seo_description: 'Kryžiuočių ordinas – XIII a. į Prūsijos žemes atsikraustęs vokiečių ordinas, kuris pirmiausia pavergė prūsus. Vėliau jis įsitvirtino kaip karinė ir politinė…'
+object_page_seo_input_hash: 4d989f46a23a10f4b74a44d5cab60204e0352db414e99b44c32ede08e79bd3a2
+object_page_seo_generated_at: '2026-09-18T16:29:03+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kryžiuočių ordinas
 
@@ -48,932 +57,39 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 
 ## Teiginiai
 
-<a id="claim-t-196080"></a>
-- t-210
-  teiginys: "Kojelavičiaus perteiktoje kalboje rusai buvo lyginami su anksčiau lietuvių triuškintais kryžiuočių pulkais."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178517
-
-<a id="claim-t-203142"></a>
-- t-284
-  teiginys: "Michał Baliński knygoje „Vilniaus miesto istorija“ teigia, kad kryžiuočiai visaip kurstė Vytauto ambiciją, Lietuvos karūną vaizduodami kaip puikiausią atpildą už jo laimėjimus."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradinė frazė buvo kontekstinė; citata palaiko aiškesnį teiginį."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva; mentioned_place: Lenkija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-162645
-
-<a id="claim-t-203439"></a>
-- t-327
-  teiginys: "Michał Baliński veikale „Vilniaus miesto istorija“ pateikia kaltinimą, kad Zigmantas ir kryžiuočiai siūlė Vytautui karūną, siekdami supriešinti Lietuvą ir Lenkiją."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Klausiamoji citatos forma perrašyta į enciklopedinį teiginį, neperžengiant citatos turinio."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-180743
-
-<a id="claim-t-203441"></a>
-- t-329
-  teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad po Lietuvos krikšto ir jos pripažinimo Europoje katalikiška valstybe Kryžiuočių ordinas buvo nebepateisinamas."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir pataisyta sakinio pradžia."
-  susije_objektai: "mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prūsija"
-  temporaliniai_duomenys: "įvykio data: 1525 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir pataisyta sakinio pradžia."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-162576
-    - c-180912
-
-<a id="claim-t-203532"></a>
-- t-342
-  teiginys: "Alberto Vijūko-Kojelavičiaus „Lietuvos istorijoje“ rašoma, kad medžiodamas prie Veliuonos karalius vos nepakliuvo į Rastenburgo komtūro surengtą kryžiuočių pasalą."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Įvardytas kontekstas ir pašalintas antraštės triukšmas."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Rastenburgas; mentioned_place: Veliuona; mentioned_place: Viena"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-167869
-
-<a id="claim-t-206135"></a>
-- t-374
-  teiginys: "Pasak Teodoro Narbuto, valdovo valdymas sudavė Kryžiuočių ordino galybei didžiausią smūgį."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-188750
-
-<a id="claim-t-206140"></a>
-- t-379
-  teiginys: "Pasak Teodoro Narbuto, kryžiuočių išgarsinta sėkmė nevirto įžengimu į Lietuvos žemę."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-188755
-
-<a id="claim-t-206171"></a>
-- t-407
-  teiginys: "Vytauto pasiūlytose Noigarteno ir Metenburgo pilaitėse Kryžiuočių ordinas įkurdino įgulas, o jų statybą prižiūrėjo ordino pareigūnai."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-188786
-
-<a id="claim-t-210476"></a>
-- t-210476
-  teiginys: "Kronikoje pasakojama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194326
-
-<a id="claim-t-212338"></a>
-- t-212338
-  teiginys: "Tiesą sakant, numanau, kad šios išvados gali būti pa laikytos perdėtomis, bet man atrodo, kad tai patvirtino kruvina vokiečių riterių patirtis; nes jei vien tik vėzdais ginkluota, dažnai nugalėdama liaudis sugebėjo 53 metus kariauti su gausiomis kryžiuočių."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197299
-
-<a id="claim-t-216809"></a>
-- t-216809
-  teiginys: "Narbutas teigia, kad kryžiuočių riteriai griovė, naikino ir skandino su stabmeldiškųjų dievų vaizdavimu susijusius paminklus."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198878
-
-<a id="claim-t-217035"></a>
-- t-217035
-  teiginys: "Narbutas nurodo, kad Livonijos kryžiuočiai kariavo su krivičiais, o Livonijos broliai lankydavosi Karaliaučiuje."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198384
-
-<a id="claim-t-217050"></a>
-- t-217050
-  teiginys: "Narbutas pasakoja, kad kryžiuočiai buvo užvaldę visą Žemaitiją ir svarbiausiose vietovėse įsirengę būstines."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199232
-
-<a id="claim-t-217807"></a>
-- t-217807
-  teiginys: "Narbutas pasakoja, kad kryžiuočiai, susijungę su kalavijuočiais, vadovaujami Prūsijos komtūro Gotfrido, apiplėšė ir sudegino Senuosius Trakus."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200350
-
-<a id="claim-t-219392"></a>
-- t-219392
-  teiginys: "Seniausias žinomas šito šaltinis yra Simonas Grunau, naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra šantis apie kryžiuočius ir vokiečių tautą - tai tiesa; per daug užsidegęs."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197961
-
-<a id="claim-t-220520"></a>
-- t-220520
-  teiginys: "Dusburgietis pasakoja, kad septyni Teutonų ordino broliai su keliais ginklanešiais įsitvirtino Kulmo žemėje."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203350
-
-<a id="claim-t-222624"></a>
-- t-222624
-  teiginys: "1249 m. prūsai, sulaužę taikos sutartį, nužudė 54 Kryžiuočių ordino brolius ir kitus su jais buvusius žmones."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata pagrindžia sutarties sulaužymą ir žudynių faktą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Baiga"
-  temporaliniai_duomenys: "įvykio data: 1249 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia sutarties sulaužymą ir žudynių faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-201972
-
-<a id="claim-t-211612"></a>
-- t-211612
-  teiginys: "Kryžiuočiai 1411 m. Torūnės taika Žemaitijos atsisakė tik iki Jogailos ir Vytauto mirties, o galutinai ją pripažino 1422 m. Melno taika."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Ištaisyta OCR klaida ir sutrauktas sakinys, išlaikant Torūnės bei Melno taikų kontrastą. Nepridėta kitų taikos sąlygų."
-  temporaliniai_duomenys: "įvykio data: 1411 m.; įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra aiškus sakinys apie Kryžiuočių ordiną ir jo atsisakymą Žemaitijos. Nepridėta papildomų taikos sutarties sąlygų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-193613
-
-<a id="claim-t-212663"></a>
-- t-212663
-  teiginys: "Teodoro Narbuto teigimu, prieš prūsų tautos žlugimą Salavijoje apsigyveno daugiausia iš Lietuvos atsikėlę kryžiuočių žmonės."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Išskleistas vietovės pavadinimas Salavija ir išlaikyta Narbuto atribucija, nes sakinys remiasi jo aiškinimu. Nepridėta platesnė etimologija apie Szalin."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Lietuva; mentioned_place: Salavija; llm_object: Lietuva"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Lietuva"
-  ryšio_patikimumas: "susije_su -> Salynas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Salynas: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Salynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-194597
-
-<a id="claim-t-212791"></a>
-- t-212791
-  teiginys: "Teodoras Narbutas rašė, kad kryžiuočiai beveik iškapojo laisvę gynusius Sūduvos gyventojus, o likusius perkėlė į Sambiją."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Išskleistas kontekstas apie Sūduvos gyventojus ir palikta autoriaus atribucija dėl priešo veiksmų bei smurto vaizdavimo. Nepridėtos detalės apie pilis ar dykros būklę."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Sūduva; llm_object: Sūduva"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Sūduva"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-195793
-
-<a id="claim-t-213457"></a>
-- t-213457
-  teiginys: "Teodoro Narbuto teigimu, kryžiuočiams valdant Sūduva tapo dykra, jos pėdsakų beveik neliko, o apie ją žinoma tik iš Dusburgo paminėto Kirsowia (Kirsnavos) valsčiaus, buvusio tarp Olecko ir Raigardo."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195793
-
-<a id="claim-t-216072"></a>
-- t-216072
-  teiginys: "XIV a. pradžioje kryžiuočiai apgulė Veliuonos pilį, o negalėdami jos paimti priešais pastatė Fridburgą ir Bajerburgą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "apgule -> Veliuona: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad kryžiuočiai apgulė Veliuonos pilį."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Veliuona (0.96); Kryžiuočių ordinas pastatė Fridburgas (0.94); Kryžiuočių ordinas pastatė Bajerburgas (0.90)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-201264
-
-<a id="claim-t-219007"></a>
-- t-219007
-  teiginys: "Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis Birutę pažino grįždamas iš žygio prieš kryžiuočius."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Legendinis Birutės pasakojimas paliktas su Narbuto ir Strijkovskio atribucija. Dėmesys susietas su kryžiuočių žygio kontekstu."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_place: Trakai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-
-<a id="claim-t-220281"></a>
-- t-220281
-  teiginys: "Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Kryžiuočių ordino brolius kaip neturtą ir pavojus pasirinkusius tikėjimo gynėjus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-
-<a id="claim-t-220448"></a>
-- t-220448
-  teiginys: "1239 m. Kryžiuočių ordino broliai užėmė Baigos pilį ir joje apsigyveno su savo ginklanešiais."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata pagrindžia Baigos užėmimą ir brolių įsikūrimą."
-  susije_objektai: "llm_object: Baiga; mentioned_place: Baiga; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Baiga; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] gyveno Baiga"
-  temporaliniai_duomenys: "įvykio data: 1239 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia Baigos užėmimą ir brolių įsikūrimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-204295
-
-<a id="claim-t-220542"></a>
-- t-220542
-  teiginys: "Hermanas iš Zalcos, Teutonų ordino didysis magistras, 1230 m. atsiuntė Hermaną Balką eiti magistro pareigų."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata remia asmens paskyrimą ir datą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kaimas; mentioned_place: Vitchendorfas; mentioned_place: Vysla"
-  temporaliniai_duomenys: "įvykio data: 1230 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia asmens paskyrimą ir datą."
-  ryšio_patikimumas: "susije_su -> Livonija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-201611
-
-<a id="claim-t-220565"></a>
-- t-220565
-  teiginys: "Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a."
-  atnaujinta: "2026-09-13 18:28"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzkariavo -> Prūsų žemė: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "deterministic_validation_passed; llm_structured_decision; prusai_place_context"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai kalba apie prūsų žemių užkariavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsų žemė (0.86)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-
-<a id="claim-t-221142"></a>
-- t-221142
-  teiginys: "Pasak Petro Dusburgiečio, Mergelė Marija broliui Hermanui skundėsi, kad Teutonų ordino broliai kalba apie pasaulio tuštybę."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Tai vizijos ir autoriaus pasakojimo teiginys, todėl reikalinga atribucija."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Viena"
-  temporaliniai_duomenys: "įvykio data: 1259 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Tai vizijos ir autoriaus pasakojimo teiginys, todėl reikalinga atribucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-203429
-
-<a id="claim-t-221250"></a>
-- t-221250
-  teiginys: "Pasak Petro Dusburgiečio, Henrikui pasižadėjus įstoti į Teutonų ordiną, išnyko regėtas sambūris ir regėjimai."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Tai stebuklinės vizijos pasakojimas, todėl palikta šaltinio atribucija."
-  susije_objektai: "mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-205695
-
-<a id="claim-t-221295"></a>
-- t-221295
-  teiginys: "Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata remia faktą apie Ordino pilių statybą po pasidavimo."
-  susije_objektai: "llm_object: Kroicburgas; llm_object: Rezlis; llm_object: Vizenburgas; mentioned_place: Kroicburgas; mentioned_place: Rezlis; mentioned_place: Vizenburgas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Notanga; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Varmė; mentioned_place: Vokietija"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Kroicburgas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Vizenburgas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Rezlis"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-205332
-
-<a id="claim-t-221341"></a>
-- t-221341
-  teiginys: "Pasak Prūsijos žemės kronikos, 1244 m. į Prūsiją atvyko magistras Poponas su Ordino broliais, o Austrijos kunigaikštis į šį kraštą atsiuntė raitųjų lankininkų."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata pagrindžia pagalbos atvykimą Ordino broliams."
-  susije_objektai: "mentioned_place: Austrija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Santyras"
-  temporaliniai_duomenys: "kelionės data: 1244 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas keliavo į Austrija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia pagalbos atvykimą Ordino broliams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204254
-
-<a id="claim-t-221470"></a>
-- t-221470
-  teiginys: "1233 m. magistras ir Kryžiuočių ordino broliai Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Marienverderis: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Marienverderis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad magistras ir broliai pastatė pilį ir pavadino ją Marienverderiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Marienverderis (0.95)"
-  temporaliniai_duomenys: "pastatymo data: 1233 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai nurodo Ordino brolių veiksmą ir datą."
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-205341
-
-<a id="claim-t-221618"></a>
-- t-221618
-  teiginys: "Pasak Petro Dusburgiečio „Prūsijos žemės kronikos“, Henrikas Tupadelis, vėliau tapęs Teutonų ordino broliu ir apibūdintas kaip puikus karys bei įgudęs balistininkas, ragino Vėluvos pilies gynėjus gintis ir drauge su jais daug kartų gesino piliai padegti pakištus degalus."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206352
-
-<a id="claim-t-221652"></a>
-- t-221652
-  teiginys: "„Prūsijos žemės kronikoje“ Petras Dusburgietis teigia, kad Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Lubava"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-221742"></a>
-- t-221742
-  teiginys: "Kryžiuočių ordino broliai Pamedėje atstatė Kristburgo pilį naujoje vietoje ir paliko joje daug karių."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata pagrindžia Kristburgo atstatymą Ordino iniciatyva."
-  susije_objektai: "llm_object: Kristburgas; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Kristburgas; mentioned_place: Pamedė; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vokietija; llm_object: Pamedė"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Kristburgas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Pamedė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-205492
-
-<a id="claim-t-221891"></a>
-- t-221891
-  teiginys: "Mūšyje žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 Ordino brolių."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata pagrindžia Ordino vadų ir brolių žūtį."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]]; mentioned_place: Livonija; mentioned_place: Prūsija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-204282
-
-<a id="claim-t-222154"></a>
-- t-222154
-  teiginys: "Kronikoje Kryžiuočių ordino karinė užduotis Prūsijoje ir Lietuvoje aiškinama suteikiant riterių ginklams religinę prasmę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-202069
-
-<a id="claim-t-222254"></a>
-- t-222254
-  teiginys: "Hermano vadovavimo metais popiežius ir imperatorius suteikė Kryžiuočių ordinui didelių privilegijų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir paremtas citata."
-  susije_objektai: "mentioned_place: Livonija; mentioned_place: Vengrija"
-  ryšio_patikimumas: "pastate -> Marienverderis: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Marienverderis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad magistras ir broliai pastatė pilį ir pavadino ją Marienverderiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-203715
-
-<a id="claim-t-222293"></a>
-- t-222293
-  teiginys: "Atrodo, kad Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras, matyt, buvo Medvėgalis."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradinis teiginys klaidingai priskiria komentarą Dusburgiečiui ir yra perkrautas bibliografija."
-  susije_objektai: "mentioned_place: Medvėgalis; mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Medininkai; mentioned_place: Naugardukas; mentioned_place: Nemunas; mentioned_place: Sizditė; mentioned_place: Telšiai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205704
-
-<a id="claim-t-222297"></a>
-- t-222297
-  teiginys: "Vernerio prierašuose pabrėžiama, kad šie prierašai visuose Ordino namuose turi būti skaitomi keturis kartus per metus, nes visi privalo apie juos žinoti."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205028
-
-<a id="claim-t-222466"></a>
-- t-222466
-  teiginys: "Prūsijos žemės kronikos skyriuje „Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams“ Petras Dusburgietis teigia, kad magistro brolio Hermano iš Zalcos rūpesčiu Teutonų namų ordinas gausiai pasipildė naujais broliais, praturtėjo, įgijo didelę galią ir šlovę."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-222486"></a>
-- t-222486
-  teiginys: "Petras Dusburgietis „Prūsijos žemės kronikoje“ pasakoja, kad Sventopelko šeimynoje buvęs vienas karys, kuriam Teutonų ordino broliai įvarę tokį siaubą, jog jis visas imdavęs virpėti vos išgirdęs minint jų vardą."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204809
-
-<a id="claim-t-222581"></a>
-- t-222581
-  teiginys: "Kryžiuočiai puolė 1233 m. spalio–lapkričio mėn. arba 1234 m. sausio–vasario mėn."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "claim_quality_pipeline deterministic repair"
-  susije_objektai: "mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Pamaris; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Rudinas; mentioned_place: Silezija; mentioned_place: Zirgūna"
-  temporaliniai_duomenys: "įvykio data: po 1202 m.; įvykio data: 1202 m.; įvykio data: po 1229 m.; įvykio data: 1229 m.; įvykio data: po 1232 m.; įvykio data: 1232 m.; įvykio data: 1233 m.; įvykio data: po 1234 m.; įvykio data: 1234 m.; įvykio data: 1235 m.; įvykio data: 1266 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205114
-
-<a id="claim-t-222597"></a>
-- t-222597
-  teiginys: "Petras Dusburgietis rašo, kad brolis Gerhardas atvyko į Prūsijos žemę, davė įžadus Teutonų ordinui ir pradėjo tyrą gyvenimą."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir paremtas citata."
-  susije_objektai: "llm_object: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Marienburgas; mentioned_place: Prūsija; mentioned_place: Viena"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203262
-
-<a id="claim-t-222975"></a>
-- t-222975
-  teiginys: "Pasak Petro Dusburgiečio, Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė naujais broliais, praturtėjo ir įgijo didelę galią bei šlovę."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Lubava"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-223078"></a>
-- t-223078
-  teiginys: "Popiežius patvirtino Jeruzalės ligoninės brolių ordiną ir leido jo broliams dėvėti baltą apsiaustą su juodu kryžiumi."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Nutrūkęs teiginys perrašytas į aiškų faktinį sakinį."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Akonas; mentioned_place: Europa; mentioned_place: Jeruzalė"
-  temporaliniai_duomenys: "įvykio data: iki 1291 m.; įvykio data: 1187 m.; įvykio data: 1191 m.; įvykio data: 1291 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Nutrūkęs teiginys perrašytas į aiškų faktinį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-206146
-
-<a id="claim-t-223273"></a>
-- t-223273
-  teiginys: "Petro Dusburgiečio „Prūsijos žemės kronikoje“ teigiama, kad Kryžiuočių ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra konkretus ir tiesiogiai paremtas citata."
-  susije_objektai: "llm_object: Gardinas; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Ryga"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Gardinas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1323 m.; įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203201
-
-<a id="claim-t-223550"></a>
-- t-223550
-  teiginys: "Šventosios Marijos Teutonų ligoninės namai Jeruzalėje buvo karinis ordinas, kuriame buvo riterių, karių ir labdarybe besirūpinusių brolių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205829
-
-<a id="claim-t-223566"></a>
-- t-223566
-  teiginys: "Šaltinyje „Prūsijos žemės kronika“ teigiama, kad autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių feodalų ir Kryžiuočių ordino ekspansiją į baltų – prūsų, jotvingių ir lietuvių – žemes, niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-223764"></a>
-- t-223764
-  teiginys: "1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra aiškus, konkretus ir paremtas citata."
-  susije_objektai: "mentioned_place: Burcos žemė; mentioned_place: Vengrija; llm_object: Burcos žemė"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] gyveno Burcos žemė"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1211 m.; valdymo laikotarpis: 1225 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas susiję su Vengrija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, konkretus ir paremtas citata."
-  ryšio_patikimumas: "pastate -> Štarkenbergas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Štarkenbergas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Prūsijos magistras su broliais užbaigia statyti pilį, kuri tame pačiame fragmente pavadinama Štarkenbergu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-205944
-
-<a id="claim-t-223788"></a>
-- t-223788
-  teiginys: "Petras Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai Šventosios Marijos Teutonų ordino vienuolių ligoninę, ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-223858"></a>
-- t-223858
-  teiginys: "1330 m. apie Velykas Rygos miestiečiai patikėjo miestą Livonijos Teutonų ordino magistrui Eberhardui iš Manheimo ir broliams."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Reikia aiškiau įvardyti ryšį su Teutonų ordinu."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_group: [[objektai/grupes/Rygos miestiečiai|Rygos miestiečiai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Plockas; mentioned_place: Prūsija; mentioned_place: Ryga; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
-  semantiniai_rysiai: "Ryga priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
-  temporaliniai_duomenys: "įvykio data: 1330 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiau įvardyti ryšį su Teutonų ordinu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-205005
-
-<a id="claim-t-224504"></a>
-- t-224504
-  teiginys: "Kryžiuočių ordino broliai pasitraukė nuo gausesnių priešų, patyrę nemažų sužeistųjų nuostolių."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata leidžia suformuoti pilną faktą apie brolius."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-205576
-
-<a id="claim-t-224777"></a>
-- t-224777
-  teiginys: "1237 m. Kryžiuočių ordino magistras su broliais Pagudėje pastatė pilį, pavadintą Elbingu."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata tiesiogiai remia pilies pastatymo faktą."
-  susije_objektai: "llm_object: Elbingas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Elbingas"
-  temporaliniai_duomenys: "pastatymo data: 1237 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai remia pilies pastatymo faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-205712
-
-<a id="claim-t-224888"></a>
-- t-224888
-  teiginys: "Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pašalintas išnašos numeris ir nutrūkusi pabaiga."
-  susije_objektai: "mentioned_place: Jurbarkas; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Kaimas; mentioned_place: Karšuva; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Minija; mentioned_place: Mituva; mentioned_place: Prūsija; mentioned_place: Skalva; mentioned_place: Viena"
-  temporaliniai_duomenys: "įvykio data: iki 1261 m.; įvykio data: po 1259 m.; įvykio data: 1259 m.; įvykio data: 1261 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas išnašos numeris ir nutrūkusi pabaiga."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-205605
-
-<a id="claim-t-224910"></a>
-- t-224910
-  teiginys: "Petras Dusburgietis teigia, kad popiežius Honorijus III ir imperatorius Fridrichas II suteikė kunigaikščio titulą Hermanui ir jo įpėdiniams – būsimiems Teutonų ordino magistrams."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citata."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus III|Popiežius Honorijus III]]; mentioned_place: Viena"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203006
-
-<a id="claim-t-224964"></a>
-- t-224964
-  teiginys: "Magistras pasiuntė Kryžiuočių ordino kariuomenę į Lenkiją, kur ji apsupo ir sudegino Višogrudo pilį."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata pagrindžia žygį ir rezultatą."
-  susije_objektai: "llm_object: Višogrudas; llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Višogrudas; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija; mentioned_place: Vysla"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Višogrudas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] siuntė į Lenkija"
-  ryšio_patikimumas: "valde -> Vitebskas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Algirdas siejamas su viešpatavimu Vitebske."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-204365
-
-<a id="claim-t-225036"></a>
-- t-225036
-  teiginys: "Pasak Petro Dusburgiečio „Prūsijos žemės kronikos“, Teutonų namų ordinas pradžią gavo 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citata."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Celestinas III|Celestinas III]]; mentioned_person: [[objektai/asmenys/Henrikas VI|Henrikas VI]]; mentioned_person: [[objektai/asmenys/Popiežius Celestinas III|Popiežius Celestinas III]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205347
-
-<a id="claim-t-225047"></a>
-- t-225047
-  teiginys: "Kryžiuočių ordino dvasininkai taikos metu laikė pamaldas, teikė sakramentus ir skatino brolius pasauliečius laikytis regulos."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Sutrumpinta ir pašalinta nutrūkusi pabaiga."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-202742
-
-<a id="claim-t-225317"></a>
-- t-225317
-  teiginys: "Ordino laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Gėlo vandens marias nuo netikėlių."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Reikia aiškiau išlaikyti citatoje nurodytą apsaugos objektą."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Baiga; mentioned_place: Elbingas; mentioned_place: Drūsinė; mentioned_place: Prūsija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-201859
-
-<a id="claim-t-225543"></a>
-- t-225543
-  teiginys: "Popiežius Celestinas III Jeruzalėje įkūrė Šventosios Marijos Teutonų ordino vienuolių ligoninę."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra gramatiškas ir atitinka citatos informaciją."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Celestinas III|Celestinas III]]; mentioned_person: [[objektai/asmenys/Popiežius Celestinas III|Popiežius Celestinas III]]; mentioned_place: Jeruzalė; mentioned_place: Romanija"
-  ryšio_patikimumas: "keliavo_i -> Vaikiai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fridrichas fon Vildenbergas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vaikiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad Fridrichas fon Vildenbergas nuvedė būrį į Vaikius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-
-<a id="claim-t-225562"></a>
-- t-225562
-  teiginys: "„Prūsijos žemės kronikos“ 288 pastaboje nurodoma, kad Dusburgietis praleido Henriko iš Hohenlohės pranešimo duomenis apie Liubeko pirklius, padėjusius maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202875
-
-<a id="claim-t-225634"></a>
-- t-225634
-  teiginys: "Kryžiuočių ordino broliai perdavė Sartovicų pilį Samborui, o vėliau Sventopelkas pradėjo statyti Svečės pilį."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pašalinta nutrūkusi pasakojimo pradžia."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Svečė; mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_place: Santyras; mentioned_place: Vysla"
-  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-201623
-
-<a id="claim-t-225753"></a>
-- t-225753
-  teiginys: "1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra konkretus ir paremtas citata."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]"
-  temporaliniai_duomenys: "įvykio data: 1330 m.; įvykio data: 1411 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-203197
-
-<a id="claim-t-225791"></a>
-- t-225791
-  teiginys: "Pasak Petro Dusburgiečio, Teutonų ordino broliai pradėjo naują karą su prūsais."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202069
-
 <a id="claim-t-12369"></a>
-- t-12369
+- t-001
   teiginys: "Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pataisyta linksnių forma ir paliktas tik citatos palaikomas faktas."
   susije_objektai: "mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_place: Lietuva; mentioned_place: Rusija"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-36829
     - c-180739
+    - c-36829
+
+<a id="claim-t-12371"></a>
+- t-002
+  teiginys: "Vytautas 1410 m. Žalgirio mūšyje palaužė Ordino galybę ir grąžino Žemaitijai laisvę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys, paremtas pateikta citata."
+  susije_objektai: "mentioned_event: Torno taika (1411 m.); mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Torno"
+  temporaliniai_duomenys: "įvykio data: 1410 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, paremtas pateikta citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-185985
+    - c-36840
 
 <a id="claim-t-12372"></a>
-- t-12372
+- t-003
   teiginys: "Po nepavykusio Vilniaus apsiautimo Ordinas grobuoniškus planus nukreipė prieš Žemaitiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pataisyta citatai artimesnė formuluotė ir žodis „grobuoniškus“."
   susije_objektai: "mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius"
@@ -981,27 +97,13 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
+    - c-185986
     - c-162591
-    - c-180841
-
-<a id="claim-t-12375"></a>
-- t-12375
-  teiginys: "Ordino kariuomenė buvo sudaryta iš pėstininkų, raitelių ir artilerijos ir laikyta geresne už lietuvių bei lenkų kariuomenes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Europa"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-36835
-    - c-162510
-    - c-180732
-    - c-180843
 
 <a id="claim-t-178789"></a>
-- t-178789
+- t-004
   teiginys: "Balińskis teigė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus, siekdamas apšmeižti Kryžiuočių ordiną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1016,9 +118,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180759
 
 <a id="claim-t-178790"></a>
-- t-178790
+- t-005
   teiginys: "Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Henrikas Duseneris: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1032,10 +134,28 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-162637
 
+<a id="claim-t-178793"></a>
+- t-006
+  teiginys: "Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Kryžiuočių ordino brolius kaip neturtą ir pavojus pasirinkusius tikėjimo gynėjus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162743
+    - c-180765
+
 <a id="claim-t-178795"></a>
-- t-178795
+- t-007
   teiginys: "Kryžiuočių ordinas priešinosi Jogailos reformai, nes numatė savo nuopuolį sustiprėjus Lietuvai ir Lenkijai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1048,12 +168,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162564
-    - c-180890
 
 <a id="claim-t-178797"></a>
-- t-178797
+- t-008
   teiginys: "1323 m. Vilniuje duotame rašte teigta, kad kryžiuočiai įmetė į ugnį Gedimino pasiuntinybės antspaudą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1068,12 +187,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162553
-    - c-180942
 
 <a id="claim-t-178801"></a>
-- t-178801
+- t-009
   teiginys: "Vytautas atnaujino ryšius su Prūsija ir kryžiuočiams pažadėjo padėti atstatyti sudegintas jų pilis prie Kauno."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1091,30 +209,60 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162560
     - c-180768
 
-<a id="claim-t-178805"></a>
-- t-178805
-  teiginys: "Vytautas 1410 m. Žalgirio mūšyje palaužė Ordino galybę ir grąžino Žemaitijai laisvę."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-178807"></a>
+- t-010
+  teiginys: "Po magistro Hermano mirties Kryžiuočių ordine buvo priskaičiuojama du tūkstančiai brolių iš kilmingų Vokietijos šeimų."
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Vokietija: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1410 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, paremtas pateikta citata."
+  pagrindžia:
+    - c-162792
+
+<a id="claim-t-178809"></a>
+- t-011
+  teiginys: "Henrikas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir, būdamas vienuolyne, pralenkė kitus brolius dorybėmis."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
-    - c-36840
+    - c-162692
+
+<a id="claim-t-178810"></a>
+- t-012
+  teiginys: "Ordino kariuomenė buvo sudaryta iš pėstininkų, raitelių ir artilerijos ir laikyta geresne už lietuvių bei lenkų kariuomenes."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-36835
 
 <a id="claim-t-178812"></a>
-- t-178812
+- t-013
   teiginys: "1410 m. liepos 15 d. Žalgirio mūšyje Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkai: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1134,9 +282,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180946
 
 <a id="claim-t-178813"></a>
-- t-178813
+- t-014
   teiginys: "Vytautas, siekdamas suardyti Lenkijos ir Ordino sąjungą, apskundė Ordiną Europai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.68"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1152,12 +300,50 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-36844
-    - c-180854
+
+<a id="claim-t-178814"></a>
+- t-015
+  teiginys: "Popiežius patvirtino Jeruzalės ligoninės brolių ordiną ir leido jo broliams dėvėti baltą apsiaustą su juodu kryžiumi."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: iki 1291 m.; įvykio data: 1187 m.; įvykio data: 1191 m.; įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Nutrūkęs teiginys perrašytas į aiškų faktinį sakinį."
+  pagrindžia:
+    - c-162774
+    - c-180941
+
+<a id="claim-t-178815"></a>
+- t-016
+  teiginys: "Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzkariavo -> Prūsų žemė: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "deterministic_validation_passed; llm_structured_decision; prusai_place_context"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai kalba apie prūsų žemių užkariavimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsų žemė (0.86)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-162620
+    - c-180803
 
 <a id="claim-t-178816"></a>
-- t-178816
+- t-017
   teiginys: "1432 m. Lietuvos ir lietuviškos Rusios kunigaikščiai, bajorai ir miestai raštu prisiekė laikytis sutarties su Prūsijos ordinu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1175,9 +361,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180730
 
 <a id="claim-t-178817"></a>
-- t-178817
+- t-018
   teiginys: "Lietuvių pasipriešinimas neatbaidė kryžiuočių nuo kasmetinių žygių iki Vilniaus, o 1384 m. jų antpuoliai siekė Kernavę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1196,9 +382,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180832
 
 <a id="claim-t-178820"></a>
-- t-178820
+- t-019
   teiginys: "1448 m. Vilniuje buvo sudaryta garsi sutartis su Prūsijos ordinu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Chadži Girėjus: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1213,12 +399,39 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citatoje nurodyta sutartimi."
   pagrindžia:
     - c-162727
-    - c-180915
+
+<a id="claim-t-178821"></a>
+- t-020
+  teiginys: "Pasak Petro Dusburgiečio, Henrikui pasižadėjus įstoti į Teutonų ordiną, išnyko regėtas sambūris ir regėjimai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162782
+    - c-180920
+
+<a id="claim-t-178822"></a>
+- t-021
+  teiginys: "Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162664
 
 <a id="claim-t-178823"></a>
-- t-178823
+- t-022
   teiginys: "1384 m. Ordino antpuoliai Lietuvoje siekdavo Kernavę, tačiau pralaimėjimas prie Vilniaus ir Ukmergės apsaugojo sostinę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyne -> Vilnius: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1235,13 +448,32 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162497
-    - c-180832
     - c-186049
 
+<a id="claim-t-178824"></a>
+- t-023
+  teiginys: "Pasak Petro Dusburgiečio, Mergelė Marija broliui Hermanui skundėsi, kad Teutonų ordino broliai kalba apie pasaulio tuštybę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gerhardas (valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gerhardas (valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Gerhardas (valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1259 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Tai vizijos ir autoriaus pasakojimo teiginys, todėl reikalinga atribucija."
+  pagrindžia:
+    - c-162795
+    - c-180782
+
 <a id="claim-t-178827"></a>
-- t-178827
+- t-024
   teiginys: "Vytautą nuo sostinės dažnai atitraukdavo karai su Rusios kunigaikščiais, totorių chanais ir kryžiuočiais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1256,9 +488,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162636
 
 <a id="claim-t-178830"></a>
-- t-178830
+- t-025
   teiginys: "Popiežiaus rūmuose Avinjone buvo svarstomi Kryžiuočių ordino santykiai su Lenkija, Ryga ir Lietuvos valdovu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1271,54 +503,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-162509
-    - c-180707
-
-<a id="claim-t-178831"></a>
-- t-178831
-  teiginys: "Trečioji Ordino kariuomenės eilė stovėjo atokiau nuo mūšio lauko ir buvo laikoma atsargai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-36833
-    - c-162619
-    - c-180947
-    - c-180935
-
-<a id="claim-t-178832"></a>
-- t-178832
-  teiginys: "Kai Gedimino skundas pasiekė popiežių, Prūsijos dvasininkai laiškuose stojo ginti Kryžiuočių ordino."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.77"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jordanas iš Pelplino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Jordanas iš Pelplino minimas tarp asmenų, stojusių ginti kryžiuočių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Paulius iš Olivos rėmė Kryžiuočių ordinas (0.77); Jordanas iš Pelplino rėmė Kryžiuočių ordinas (0.77)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-162617
-    - c-180878
-    - c-180948
-    - c-162722
-    - c-180831
 
 <a id="claim-t-178834"></a>
-- t-178834
+- t-026
   teiginys: "Ordino maršalas su 40 000 kryžiuočių įsiveržė į Lietuvą, susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Kernavė: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1335,9 +524,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180894
 
 <a id="claim-t-178835"></a>
-- t-178835
+- t-027
   teiginys: "Ordinas, įgijęs daugiau vilties pasilikti Žemaitijoje, savo politikos su Vytautu nepakeitė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1349,34 +538,28 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-162534
-    - c-180726
 
-<a id="claim-t-178838"></a>
-- t-178838
-  teiginys: "Grabovo suvažiavime Vytautas pareikalavo, kad Ordinas atlygintų už paimtas prekes ir nužudytų pirklių šeimoms."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-178840"></a>
+- t-028
+  teiginys: "Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui ir būsimiems Teutonų ordino magistrams kunigaikščio titulą."
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumas: "susije_su -> magistras: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "magistras: mention_match, thing, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"magistras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-36829
-    - c-162491
-    - c-162555
-    - c-180776
-    - c-180739
-    - c-180750
-    - c-180755
+    - c-162767
 
 <a id="claim-t-178841"></a>
-- t-178841
+- t-029
   teiginys: "1410 m. Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1392,14 +575,30 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162734
-    - c-180773
     - c-162646
-    - c-180774
+
+<a id="claim-t-178842"></a>
+- t-030
+  teiginys: "XIII-XIV a. Vakarų Europoje pasigirsdavo kritikos Kryžiuočių ordinui, įskaitant raginimus jį likviduoti."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162601
+    - c-180870
 
 <a id="claim-t-178843"></a>
-- t-178843
+- t-031
   teiginys: "Po Žalgirio mūšio pagrindinė Vytauto konflikto su Kryžiuočių ordinu priežastis liko Žemaitija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Žemaitija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1412,12 +611,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162521
-    - c-180874
 
 <a id="claim-t-178846"></a>
-- t-178846
+- t-032
   teiginys: "Kryžiuočiai kurstė Švitrigailą siekti senųjų užmačių arba kelti sumaištį Lenkijoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1429,35 +627,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-162488
-    - c-180810
-
-<a id="claim-t-178849"></a>
-- t-178849
-  teiginys: "1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vaikiai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fridrichas fon Vildenbergas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vaikiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad Fridrichas fon Vildenbergas nuvedė būrį į Vaikius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Fridrichas fon Vildenbergas keliavo į Vaikiai (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1322 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir pagrįstas citatos duomenimis."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-162587
-    - c-180896
-    - c-180927
 
 <a id="claim-t-178850"></a>
-- t-178850
+- t-033
   teiginys: "Kryžiuočiai įkalbėjo svetimtaučius savanorius, kad visa Lietuva tebėra pagonių šalis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1470,12 +644,22 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162526
-    - c-180938
+
+<a id="claim-t-178851"></a>
+- t-034
+  teiginys: "Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-167270
+    - c-180899
 
 <a id="claim-t-178852"></a>
-- t-178852
+- t-035
   teiginys: "Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių prisidėti prie Vytauto kariuomenės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
@@ -1483,10 +667,28 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-36833
     - c-180935
 
+<a id="claim-t-178853"></a>
+- t-036
+  teiginys: "Mūšyje žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 Ordino brolių."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas Botelis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas Botelis: mention_match, person, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Henrikas Botelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162744
+    - c-180823
+
 <a id="claim-t-178855"></a>
-- t-178855
+- t-037
   teiginys: "Gedimino laiške teigta, kad Vytenis prašė atsiųsti minoritų, bet Ordinas, tai sužinojęs, pasiuntė ginkluotą būrį sudeginti bažnyčios."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1499,15 +701,30 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162630
-    - c-180677
-    - c-162772
-    - c-180787
-    - c-180884
+
+<a id="claim-t-178857"></a>
+- t-038
+  teiginys: "Kryžiuočių ordino broliai Pamedėje atstatė Kristburgo pilį naujoje vietoje ir paliko joje daug karių."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Kristburgas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kristburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad Ordino broliai pastatė Kristburgo pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Kristburgas (0.96); Kryžiuočių ordinas keliavo į Pamedė (0.70)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162766
+    - c-180903
 
 <a id="claim-t-178859"></a>
-- t-178859
+- t-039
   teiginys: "Balińskis rašė, kad Švitrigailos laikais Kryžiuočių ordinas turėjo itin didelę įtaką Lietuvos reikalams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1521,10 +738,31 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162628
     - c-180917
 
+<a id="claim-t-178860"></a>
+- t-040
+  teiginys: "Hermanas iš Zalcos, Teutonų ordino didysis magistras, 1230 m. atsiuntė Hermaną Balką eiti magistro pareigų."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1230 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia asmens paskyrimą ir datą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162750
+    - c-180670
+
 <a id="claim-t-178861"></a>
-- t-178861
+- t-041
   teiginys: "Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkija: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1541,15 +779,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162536
-    - c-180785
-    - c-166303
-    - c-180704
     - c-180790
 
 <a id="claim-t-178862"></a>
-- t-178862
+- t-042
   teiginys: "Kryžiuočių ordinas, remdamasis Salyno sutartimi, reikalavo grąžinti jam pabėgėlius žemaičius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Salynas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1562,12 +797,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-13397
-    - c-180921
+    - c-186055
 
 <a id="claim-t-178866"></a>
-- t-178866
+- t-043
   teiginys: "Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Livonija: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1581,12 +816,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162540
-    - c-180795
 
 <a id="claim-t-178868"></a>
-- t-178868
+- t-044
   teiginys: "Kryžiuočiai, Švitrigaila ir Valakijos vaivada sudarė sąjungą prieš Lenkiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1603,9 +837,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162605
 
 <a id="claim-t-178869"></a>
-- t-178869
+- t-045
   teiginys: "Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1618,12 +852,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162522
-    - c-180802
 
 <a id="claim-t-178870"></a>
-- t-178870
+- t-046
   teiginys: "Gedimino laiške teigiama, kad kryžiuočiai įmetė į ugnį antspaudą, siųstą apaštališkajam viešpačiui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1636,18 +869,32 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162633
-    - c-162522
-    - c-162553
-    - c-162587
-    - c-180802
-    - c-180896
-    - c-180927
-    - c-180942
+
+<a id="claim-t-178872"></a>
+- t-047
+  teiginys: "Kryžiuočių ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Gardinas: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo Ordino puolimą Gardino apylinkėse."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Gardinas (0.89); Kryžiuočių ordinas puolė Lietuva (0.88); Livonijos ordinas puolė Lietuva (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1323 m.; įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiesiogiai paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162561
 
 <a id="claim-t-178873"></a>
-- t-178873
+- t-048
   teiginys: "Kryžiuočiai Vakarų Europoje skleidė gandus, kad Lietuvos krikštas buvo tariamas ir paviršutiniškas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1662,10 +909,61 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-14980
     - c-180714
 
+<a id="claim-t-178874"></a>
+- t-049
+  teiginys: "XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Tamplierių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Tamplierių ordinas: mention_match, group, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Tamplierių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1312 m.; įvykio data: 1314 m.; įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-162715
+
+<a id="claim-t-178875"></a>
+- t-050
+  teiginys: "Kronika turėjo būti oficialiu Ordino šlovės paminklu73."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-162757
+
+<a id="claim-t-178876"></a>
+- t-051
+  teiginys: "1233 m. magistras ir Kryžiuočių ordino broliai Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Marienverderis: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Marienverderis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad magistras ir broliai pastatė pilį ir pavadino ją Marienverderiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Marienverderis (0.95)"
+  temporaliniai_duomenys: "pastatymo data: 1233 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai nurodo Ordino brolių veiksmą ir datą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-162748
+
 <a id="claim-t-178877"></a>
-- t-178877
+- t-052
   teiginys: "Jogaila sutartimis pasižadėjo laikytis taikos su Ordinais, krikštytis ir užrašė kryžiuočiams beveik visą Žemaitiją iki Dubysos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dubysa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1681,9 +979,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180867
 
 <a id="claim-t-178880"></a>
-- t-178880
+- t-053
   teiginys: "1323 m. Liubeke dėl tariamų Gedimino laiškų nutarta kreiptis patarimo į tuo metu mieste buvusius Ordino riterius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1702,9 +1000,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180692
 
 <a id="claim-t-178881"></a>
-- t-178881
+- t-054
   teiginys: "Albrechto mėginimai susitarti su Lenkija nenusisekė, todėl ordinui teko pradėti karą su lenkais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1720,31 +1018,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-13402
-    - c-180719
-
-<a id="claim-t-178883"></a>
-- t-178883
-  teiginys: "Gedimino laiške popiežiui ir kardinolams teigta, kad Mindaugą nuo krikščionybės atstūmė kryžiuočių magistro smurtas ir išdavystės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-162772
-    - c-180787
-    - c-180884
 
 <a id="claim-t-178885"></a>
-- t-178885
+- t-055
   teiginys: "Ordinas, sustiprinęs viltį likti Žemaitijoje, nepakeitė savo politikos Vytauto atžvilgiu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1760,9 +1038,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180726
 
 <a id="claim-t-178886"></a>
-- t-178886
+- t-056
   teiginys: "Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1775,12 +1053,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-162613
-    - c-180724
+    - c-186037
 
 <a id="claim-t-178887"></a>
-- t-178887
+- t-057
   teiginys: "Ordinas plano nepriėmė, bet ir griežtai jo neatmetė, laukdamas imperatoriaus reakcijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1798,9 +1076,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180738
 
 <a id="claim-t-178889"></a>
-- t-178889
+- t-058
   teiginys: "M. Balinskis svarstė, kad pasakojimas apie kryžiuočių sudegintą valdovo antspaudą galėjo būti įdėtas siekiant tam tikro tikslo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1816,9 +1094,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180882
 
 <a id="claim-t-178890"></a>
-- t-178890
+- t-059
   teiginys: "1337 m. birželio 15 d. Gediminas su kariuomene sustojo ties Bajerburgu ir puolė kryžiuočių tvirtovę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Bajerburgas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1835,12 +1113,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-162581
-    - c-180849
 
 <a id="claim-t-178892"></a>
-- t-178892
+- t-060
   teiginys: "Kryžiuočiai, užėmę Prūsiją, sunaikino Romuvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Romuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1853,14 +1130,112 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162490
-    - c-162751
     - c-180669
-    - c-180892
+
+<a id="claim-t-178894"></a>
+- t-061
+  teiginys: "1237 m. Kryžiuočių ordino magistras su broliais Pagudėje pastatė pilį, pavadintą Elbingu."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Elbingas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Elbingas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad magistras su broliais pastatė pilį ir pavadino ją Elbingu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Elbingas (0.94)"
+  temporaliniai_duomenys: "pastatymo data: 1237 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai remia pilies pastatymo faktą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-162608
+
+<a id="claim-t-178895"></a>
+- t-062
+  teiginys: "1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų namų ordino broliais ir įpareigojo juos kovoti."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Grigalius IX: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Popiežius Grigalius IX tiesiogiai siejamas su susitarimu su Teutonų namų ordino broliais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Grigalius IX sudarė sutartį su Kryžiuočių ordinas (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1230 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-162496
+    - c-162796
+
+<a id="claim-t-178896"></a>
+- t-063
+  teiginys: "Ordino laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Gėlo vandens marias nuo netikėlių."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baiga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baiga: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162483
+
+<a id="claim-t-178898"></a>
+- t-064
+  teiginys: "Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Štarkenbergas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Štarkenbergas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Prūsijos magistras su broliais užbaigia statyti pilį, kuri tame pačiame fragmente pavadinama Štarkenbergu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Štarkenbergas (0.78)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-162567
+    - c-180695
+
+<a id="claim-t-178900"></a>
+- t-065
+  teiginys: "1330 m. apie Velykas Rygos miestiečiai patikėjo miestą Livonijos Teutonų ordino magistrui Eberhardui iš Manheimo ir broliams."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.71"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ryga: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Claimas teigia, kad Rygos miestiečiai patikėjo miestą Teutonų ordino magistrui ir broliams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ryga priklausė Kryžiuočių ordinas (0.71)"
+  temporaliniai_duomenys: "įvykio data: 1330 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiau įvardyti ryšį su Teutonų ordinu."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162707
 
 <a id="claim-t-178901"></a>
-- t-178901
+- t-066
   teiginys: "Kol lenkai dar rikiavosi, Kryžiuočių ordino kariuomenė buvo sustatyta į dvi eiles."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1873,14 +1248,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-36837
-    - c-180851
     - c-167604
-    - c-180815
 
 <a id="claim-t-178902"></a>
-- t-178902
+- t-067
   teiginys: "Vytautas pakėlė savo ir Lietuvos vardą sudarydamas kampaniją prieš Ordiną, kuri galiausiai pasiekė tikslą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.76"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1893,12 +1266,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo priešas Kryžiuočių ordinas (0.76)"
   pagrindžia:
     - c-162639
-    - c-180812
 
 <a id="claim-t-178904"></a>
-- t-178904
+- t-068
   teiginys: "Ordinas išplėtė veiklą Lietuvos pasienyje ir netoli Gardino pastatė Naująjį Gardiną bei Metenburgą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1911,14 +1283,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-36830
-    - c-162666
-    - c-180731
-    - c-180848
 
 <a id="claim-t-178906"></a>
-- t-178906
+- t-069
   teiginys: "Kryžiuočiai suprato, kad Vytauto galybės augimas gali sužlugdyti jų siekį užkariauti Žemaitiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1931,30 +1300,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-36843
-    - c-180857
-
-<a id="claim-t-178907"></a>
-- t-178907
-  teiginys: "Vytautas paėmė nelaisvėn sunaikintose Ordino pilyse buvusius Ordino karius ir pirklius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pilys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Pilys: mention_match, thing, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Pilys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-162491
-    - c-180750
-    - c-180755
+    - c-186030
 
 <a id="claim-t-178908"></a>
-- t-178908
+- t-070
   teiginys: "M. Balinskis manė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus, kuriais siekė apšmeižti Kryžiuočių ordiną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1967,12 +1318,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-162600
-    - c-180759
 
 <a id="claim-t-178913"></a>
-- t-178913
+- t-071
   teiginys: "Kryžiuočiai kurstė Vytauto ambiciją, Lietuvos karūną vaizduodami kaip atpildą už jo laimėjimus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karūna: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1986,9 +1336,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162645
 
 <a id="claim-t-178916"></a>
-- t-178916
+- t-072
   teiginys: "Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą Vytautą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2003,10 +1353,26 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162789
     - c-180767
 
+<a id="claim-t-178917"></a>
+- t-073
+  teiginys: "Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras veikiausiai buvo Medvėgalis."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Medvėgalis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Medvėgalis: mention_match, place, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Medvėgalis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-162669
+
 <a id="claim-t-178918"></a>
-- t-178918
+- t-074
   teiginys: "Kryžiuočiai galėjo laikyti Vytautą itin pasiryžusiu, supratingu ir gabiu mokiniu Prūsuose."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2018,12 +1384,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-162515
-    - c-180866
 
 <a id="claim-t-178923"></a>
-- t-178923
+- t-075
   teiginys: "Veliuonos pilis tikriausiai buvo pastatyta XIII a., kad Žemaitijos siena būtų saugoma nuo kryžiuočių puldinėjimų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2036,12 +1401,29 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-162799
-    - c-180916
+
+<a id="claim-t-178924"></a>
+- t-076
+  teiginys: "Kronikoje Kryžiuočių ordino karinė užduotis Prūsijoje ir Lietuvoje aiškinama suteikiant riterių ginklams religinę prasmę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=86"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162713
+    - c-186041
 
 <a id="claim-t-178926"></a>
-- t-178926
+- t-077
   teiginys: "Skirgaila, remdamasis sandėriu su Ordinu, Prūsijoje rengė naujus antpuolius prieš Kęstutį ir Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2056,10 +1438,51 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162759
     - c-180685
 
+<a id="claim-t-178928"></a>
+- t-078
+  teiginys: "Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jurbarkas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Jurbarkas: mention_match, place, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Jurbarkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: iki 1261 m.; įvykio data: po 1259 m.; įvykio data: 1259 m.; įvykio data: 1261 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas išnašos numeris ir nutrūkusi pabaiga."
+  pagrindžia:
+    - c-162566
+    - c-180911
+
+<a id="claim-t-178930"></a>
+- t-079
+  teiginys: "1239 m. Kryžiuočių ordino broliai užėmė Baigos pilį ir joje apsigyveno su savo ginklanešiais."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Baiga: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baiga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad Ordino broliai užėmė Baigos pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Baiga (0.96); Kryžiuočių ordinas gyveno Baiga (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1239 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia Baigos užėmimą ir brolių įsikūrimą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162684
+
 <a id="claim-t-178931"></a>
-- t-178931
+- t-080
   teiginys: "Tarnybiniame pranešime įrašyti tariamieji Gedimino laiškai buvo saugomi Kryžiuočių archyve."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2072,12 +1495,28 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-162678
-    - c-180930
+
+<a id="claim-t-178934"></a>
+- t-081
+  teiginys: "Kryžiuočių ordino dvasininkai taikos metu laikė pamaldas, teikė sakramentus ir skatino brolius pasauliečius laikytis regulos."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162610
 
 <a id="claim-t-178935"></a>
-- t-178935
+- t-082
   teiginys: "Vytautas ginklus ir arklius gaudavo iš Rygos ir Krokuvos, nors Ordinas draudė juos įvežti į Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2091,10 +1530,27 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162589
     - c-180824
 
+<a id="claim-t-178936"></a>
+- t-083
+  teiginys: "Kryžiuočių ordino broliai pasitraukė nuo gausesnių priešų, patyrę nemažų sužeistųjų nuostolių."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162538
+
 <a id="claim-t-178938"></a>
-- t-178938
+- t-084
   teiginys: "Kryžiuočių kariauna, pakeliui viską degindama, puolė Bisenės pilį ir mėgino ją užimti šturmu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Bisenė: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2111,9 +1567,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180781
 
 <a id="claim-t-178939"></a>
-- t-178939
+- t-085
   teiginys: "Sąjungininkai ties Kauerniku pastebėjo, kad kryžiuočiai jau saugo perėjimą per Drevencos upę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Drevenca: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2129,9 +1585,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180800
 
 <a id="claim-t-178940"></a>
-- t-178940
+- t-086
   teiginys: "Trečiąja sutartimi Jogaila užrašė kryžiuočiams beveik visą vakarinę Žemaitijos dalį iki Dubysos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Jogaila (kunigaikštis, XIV–XV a.): 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2147,9 +1603,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180867
 
 <a id="claim-t-178942"></a>
-- t-178942
+- t-087
   teiginys: "Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2162,14 +1618,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162614
-    - c-175862
-    - c-180737
-    - c-180837
 
 <a id="claim-t-178950"></a>
-- t-178950
+- t-088
   teiginys: "Vytauto laikais Lietuva ir Vilnius nebebuvo atviri kryžiuočių grobimams ir plėšikavimams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2181,12 +1634,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-162696
-    - c-180814
 
 <a id="claim-t-178953"></a>
-- t-178953
+- t-089
   teiginys: "Vilniuje vyko svarbios ir ilgos derybos su kryžiuočiais, čia buvo pasirašomos sutartys su jais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2202,9 +1654,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180712
 
 <a id="claim-t-178956"></a>
-- t-178956
+- t-090
   teiginys: "Net po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis buvo Žemaitija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Žemaitija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2217,32 +1669,29 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162521
-    - c-180874
 
-<a id="claim-t-178957"></a>
-- t-178957
-  teiginys: "Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-178959"></a>
+- t-091
+  teiginys: "Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis."
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzkariavo -> Prūsai: 0.84"
+  ryšio_patikimumas: "pastate -> Kroicburgas: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "deterministic_validation_passed; llm_structured_decision; prusai_group_context"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
   ryšio_sprendimo_taisykle: "llm_validated_relation"
   ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teigiama, kad Teutonų ordinas pavergė prūsus; tai atitinka užkariavimo semantiką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsai (0.84)"
+  ryšio_targeto_parinkimas: "Kroicburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad Ordino broliai pastatė Kroicburgo pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Kroicburgas (0.93); Kryžiuočių ordinas pastatė Vizenburgas (0.93); Kryžiuočių ordinas pastatė Rezlis (0.93)"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-162542
-    - c-180720
-    - c-180940
+    - c-162518
 
 <a id="claim-t-178962"></a>
-- t-178962
+- t-092
   teiginys: "Konrado Valenrodo šlovė ir Ordino iškėlimas į didžiuosius magistrus subūrė gausius kryžininkų pulkus žygiui į Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2255,12 +1704,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162524
-    - c-180937
 
 <a id="claim-t-178963"></a>
-- t-178963
+- t-093
   teiginys: "Kryžiuočių pilis Fridbergas buvo pastatyta tuo pat metu kaip Bajerburgas, už dviejų mylių nuo Veliuonos žemyn Nemunu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajerburgas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2273,33 +1721,29 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162751
-    - c-180892
 
-<a id="claim-t-178967"></a>
-- t-178967
-  teiginys: "Ignas Onacevičius, nuvykęs į Karaliaučių rinkti dokumentų iš slaptojo Kryžiuočių ordino archyvo, parašė laišką M. Balinskiui."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-178968"></a>
+- t-094
+  teiginys: "Magistras pasiuntė Kryžiuočių ordino kariuomenę į Lenkiją, kur ji apsupo ir sudegino Višogrudo pilį."
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  ryšio_patikimumas: "apgule -> Višogrudas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Višogrudas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai sako, kad Ordino kariuomenė apsupo Višogrudo pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Višogrudas (0.92); Kryžiuočių ordinas siuntė į Lenkija (0.91)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-162542
-    - c-162579
-    - c-180869
-    - c-180720
-    - c-180940
+    - c-162584
 
 <a id="claim-t-178970"></a>
-- t-178970
+- t-095
   teiginys: "Vytautas daug prisidėjo prie pergalių prieš kryžiuočius, bet nesiekė visiško jų Ordino sunaikinimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2312,12 +1756,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.82)"
   pagrindžia:
     - c-162484
-    - c-180689
 
 <a id="claim-t-178973"></a>
-- t-178973
+- t-096
   teiginys: "Popiežiaus rūmuose Avinjone buvo svarstomi prieštaringi skundai už ir prieš Kryžiuočių ordiną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Avinjonas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2330,12 +1773,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162509
-    - c-180707
 
 <a id="claim-t-178974"></a>
-- t-178974
+- t-097
   teiginys: "Ordinas galėjo pulti dar nesusitvarkiusius lenkus, bet to nepadarė, nes galėjo bijoti girioje pasislėpusios kariuomenės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2347,12 +1789,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-162619
-    - c-180947
 
 <a id="claim-t-178977"></a>
-- t-178977
+- t-098
   teiginys: "Bajerburgo pilis prie Nemuno apie 1337 m. pastatyta Ordino pavedimu ir padedant Bavarijos kunigaikščiui Henrikui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Bajerburgo pilis: 0.80"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2372,9 +1813,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180696
 
 <a id="claim-t-178979"></a>
-- t-178979
+- t-099
   teiginys: "Vokiečių ordinas darė didelę įtaką Vytauto laikų prekybai, nes per jo žemes ėjo svarbiausi keliai į Vakarų Europą ir Dancigą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dancigas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2387,18 +1828,69 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-36846
-    - c-162571
     - c-162589
-    - c-162708
-    - c-180758
-    - c-180817
-    - c-180824
-    - c-180906
+
+<a id="claim-t-178980"></a>
+- t-100
+  teiginys: "1244 m. į Prūsiją atvyko magistras Poponas su Ordino broliais ir Austrijos kunigaikščio atsiųstais raitaisiais lankininkais."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "kelionės data: 1244 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas keliavo į Austrija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia pagalbos atvykimą Ordino broliams."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162656
+
+<a id="claim-t-178981"></a>
+- t-101
+  teiginys: "Popiežius Celestinas III Jeruzalėje įkūrė Šventosios Marijos Teutonų ordino vienuolių ligoninę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Celestinas III: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Celestinas III: mention_match, person, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Celestinas III\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-162499
+    - c-180864
+
+<a id="claim-t-178983"></a>
+- t-102
+  teiginys: "Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Vancka: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vancka: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad Teutonų ordino broliai pasiliko Vanckos kraštą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas valdė teritoriją Vancka (0.90)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162517
+    - c-180678
 
 <a id="claim-t-178984"></a>
-- t-178984
+- t-103
   teiginys: "1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2417,9 +1909,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180813
 
 <a id="claim-t-178986"></a>
-- t-178986
+- t-104
   teiginys: "Kryžiuočių Slaptajame archyve Karaliaučiuje buvo Vytauto laiškų magistrui Rusdorfui dėl Lietuvos karūnos derybų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karūna: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2434,12 +1926,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir pagrįstas citatos pastaba apie archyvą."
   pagrindžia:
     - c-162520
-    - c-180865
 
 <a id="claim-t-178987"></a>
-- t-178987
+- t-105
   teiginys: "Zigmantas ir kryžiuočiai buvo kaltinami siūlę Vytautui karūną, siekdami supriešinti Lietuvą ir Lenkiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2451,31 +1942,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-162554
-    - c-180743
-
-<a id="claim-t-178988"></a>
-- t-178988
-  teiginys: "Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kryžiuočiai smarkiai puldavo Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Lietuva (0.93); Kalavijuočių ordinas puolė Lietuva (0.85)"
-  pagrindžia:
-    - c-162708
-    - c-180758
-    - c-180906
 
 <a id="claim-t-178991"></a>
-- t-178991
+- t-106
   teiginys: "Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi grąžinti Rygos Bažnyčiai, vyskupams ir kapitulai tai, ką buvo paėmę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ryga: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2488,12 +1959,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162722
-    - c-180831
 
 <a id="claim-t-178992"></a>
-- t-178992
+- t-107
   teiginys: "Gardinas buvo įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2506,12 +1976,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162739
-    - c-180889
 
 <a id="claim-t-178994"></a>
-- t-178994
+- t-108
   teiginys: "Skirgaila iš Trakų pilies išvykdavo į mūšius su Prūsijos ordinu arba maištaujančiais Rusios kunigaikščiais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2525,14 +1994,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162651
-    - c-180907
-    - c-162600
-    - c-180759
 
 <a id="claim-t-178995"></a>
-- t-178995
+- t-109
   teiginys: "Kryžiuočių ordinas, neįstengęs vienu dideliu žygiu pavergti Lietuvos, ėmė puldinėti ją nedideliais pasienio pilių būriais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lietuva: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2546,12 +2012,30 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-46313
-    - c-180746
+
+<a id="claim-t-178996"></a>
+- t-110
+  teiginys: "Petras Dusburgietis savo knygoje surašė Ordino brolių karus ir ją užbaigė 1326 metais."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Petras Dusburgietis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Petras Dusburgietis: mention_match, author, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Petras Dusburgietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162596
+    - c-167268
+    - c-186045
 
 <a id="claim-t-178997"></a>
-- t-178997
+- t-111
   teiginys: "Skubinai persikėlus per Nemuną, kryžiuočių kariuomenė prie Strėvos upės išsiskyrė į du didelius dalinius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Strėva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2566,10 +2050,26 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162758
     - c-180757
 
+<a id="claim-t-178999"></a>
+- t-112
+  teiginys: "Šventosios Marijos Teutonų ligoninės namai Jeruzalėje buvo karinis ordinas, kuriame buvo riterių, karių ir labdarybe besirūpinusių brolių."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jeruzalė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Jeruzalė: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Jeruzalė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-162495
+
 <a id="claim-t-179001"></a>
-- t-179001
+- t-113
   teiginys: "Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną ir Redigerį Elnerį užimti Vilniaus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Vilnius: 0.89"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2585,9 +2085,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162618
 
 <a id="claim-t-179003"></a>
-- t-179003
+- t-114
   teiginys: "Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sajungininkas_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2602,29 +2102,10 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162644
     - c-180827
 
-<a id="claim-t-179004"></a>
-- t-179004
-  teiginys: "Vytautas siekė perimti Prūsų ordino savintą kovotojo su netikinčiaisiais šlovę, planuodamas nukariauti totorius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-162571
-    - c-180779
-    - c-180817
-
 <a id="claim-t-179005"></a>
-- t-179005
+- t-115
   teiginys: "Vytautas išmoko Ordino realios politikos, kurią vėliau taikė santykiuose su kaimynais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2637,12 +2118,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162726
-    - c-180794
+    - c-186036
 
 <a id="claim-t-179007"></a>
-- t-179007
+- t-116
   teiginys: "Vytautas pakėlė Lietuvos vardą sudarydamas kampaniją prieš Ordiną, po kurios Ordinas buvo diskredituotas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.78"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2656,14 +2137,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-36851
-    - c-180879
-    - c-162639
-    - c-180812
 
 <a id="claim-t-179008"></a>
-- t-179008
+- t-117
   teiginys: "1429 m. Lucko suvažiavime dalyvavo ir Vokiečių ordino pasiuntiniai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bizantija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2679,12 +2157,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162531
-    - c-180792
 
 <a id="claim-t-179010"></a>
-- t-179010
+- t-118
   teiginys: "1325 m. Vilniuje sudaryta Gedimino sutartis su Lokietka numatė bendrą kovą su Prūsijos ordinu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Lokietka: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2703,9 +2180,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180836
 
 <a id="claim-t-179012"></a>
-- t-179012
+- t-119
   teiginys: "Ordinas, sužinojęs apie Vytenio minoritams skirtą bažnyčią, pasiuntė ginkluotą būrį jos sudeginti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vytenis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2718,32 +2195,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162559
-    - c-180809
-
-<a id="claim-t-179014"></a>
-- t-179014
-  teiginys: "Sužinoję apie Gedimino skundą popiežiui, Prūsijos minoritai ir abatai Paulius bei Jordanas stojo ginti kryžiuočių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Paulius iš Olivos: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Paulius įvardytas tarp tų, kurie stojo ginti kryžiuočių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Paulius iš Olivos rėmė Kryžiuočių ordinas (0.82); Jordanas iš Pelplino rėmė Kryžiuočių ordinas (0.82)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-162617
-    - c-180878
-    - c-180948
 
 <a id="claim-t-179015"></a>
-- t-179015
+- t-120
   teiginys: "Vokiečių ordinas nenorėjo nusileisti Vytautui ir Vakarų Europoje skelbė jį pavojingu katalikams valdovu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2755,12 +2211,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36839
-    - c-180690
 
 <a id="claim-t-179016"></a>
-- t-179016
+- t-121
   teiginys: "Vytautas nepaisė ordino reikalavimo grąžinti pabėgėlius žemaičius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Nemunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2773,13 +2228,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162806
-    - c-180799
     - c-13397
 
 <a id="claim-t-179018"></a>
-- t-179018
+- t-122
   teiginys: "Lietuvos žemdirbystę trikdė nuolatiniai kryžiuočių užpuolimai, kurių kartais būdavo po keturis ar penkis per metus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kulmas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2792,12 +2246,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-46324
-    - c-180672
 
 <a id="claim-t-179019"></a>
-- t-179019
+- t-123
   teiginys: "Ordino magistras, plėsdamas veiksmus Lietuvos pasienyje, įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Metenburgas: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2810,33 +2263,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   semantiniai_rysiai: "Kryžiuočių ordinas pastatė Metenburgas (0.92)"
   pagrindžia:
     - c-162666
-    - c-180731
     - c-180848
 
-<a id="claim-t-179020"></a>
-- t-179020
-  teiginys: "Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Algirdas (Lietuvos valdovas): 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekste nurodoma, kad kryžiuočiai leidosi į derybas su Algirdu; vėliau minima taikos sutartis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kryžiuočių ordinas sudarė sutartį su Algirdas (Lietuvos valdovas) (0.64)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-162590
-    - c-180683
-    - c-180933
-
 <a id="claim-t-179021"></a>
-- t-179021
+- t-124
   teiginys: "Mindaugo laikų krikšto bandymui sutrukdė Vokiečių ordino siekis užgrobti Žemaičius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kalavijas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2849,12 +2281,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-46319
-    - c-180932
 
 <a id="claim-t-179023"></a>
-- t-179023
+- t-125
   teiginys: "1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzkariavo -> Prūsai: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2871,12 +2302,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-162563
-    - c-180711
+    - c-186047
 
 <a id="claim-t-179026"></a>
-- t-179026
+- t-126
   teiginys: "Ordino riteriai su šv. Jurgio vėliava puolė į mūšį, bet lietuvių buvo atremti ir patyrė didelių nuostolių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.80"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2892,10 +2323,28 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162532
     - c-180729
 
+<a id="claim-t-179027"></a>
+- t-127
+  teiginys: "Didžiajam magistrui Verneriui kronika buvo reikalinga Ordinui keliamiems priekaištams atremti ir vidaus reformai įgyvendinti."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-162632
+    - c-186038
+
 <a id="claim-t-179030"></a>
-- t-179030
+- t-128
   teiginys: "Rygos pasiuntiniai popiežiui pranešė, kad Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2914,9 +2363,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180934
 
 <a id="claim-t-179031"></a>
-- t-179031
+- t-129
   teiginys: "Po Lietuvos krikšto ir Europos pripažinimo katalikiška valstybe kryžiuočių ordinas nebebuvo pateisinamas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2935,9 +2384,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180912
 
 <a id="claim-t-179033"></a>
-- t-179033
+- t-130
   teiginys: "Ordino riteriai pasinaudojo Gedimino valdų išskaidymu, kuris susilpnino krašto galią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Vitebskas: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2951,12 +2400,28 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-162661
-    - c-180945
+
+<a id="claim-t-179037"></a>
+- t-131
+  teiginys: "Hermano vadovavimo metais popiežius ir imperatorius suteikė Kryžiuočių ordinui didelių privilegijų."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162677
 
 <a id="claim-t-179038"></a>
-- t-179038
+- t-132
   teiginys: "1413 m. vasario 6 d. Vilniuje Jogaila ir Vytautas įgaliojo atstovus derėtis su kryžiuočiais žemaičių vardu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2974,10 +2439,30 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162693
     - c-180708
 
+<a id="claim-t-179039"></a>
+- t-133
+  teiginys: "1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kryžiuočių ordinas: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sventopelkas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Sventopelkas liepė pulti Ordino brolius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sventopelkas puolė Kryžiuočių ordinas (0.89); Kryžiuočių ordinas puolė Pomeranija (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1245 m.; įvykio data: 1246 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia aiškų mūšio epizodą apie Ordino brolius."
+  pagrindžia:
+    - c-162546
+
 <a id="claim-t-179042"></a>
-- t-179042
+- t-134
   teiginys: "1383 m. Kryžiuočių ordino kariauna su Vytautu ir jo šalininkais rugsėjo 11 d. apsupo Trakų pilį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "apgule -> Trakai: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2996,31 +2481,10 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162598
     - c-180876
 
-<a id="claim-t-179044"></a>
-- t-179044
-  teiginys: "XIII a. į prūsų žemes atsikraustęs vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzkariavo -> Prūsai: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Claim tekste tiesiogiai teigiama, kad vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsai (0.87)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-13400
-    - c-162660
-    - c-180675
-    - c-180680
-
 <a id="claim-t-179045"></a>
-- t-179045
+- t-135
   teiginys: "Po Žygimanto Kęstutaičio mirties baigėsi ilgamečiai kryžiuočių puldinėjimai ir Prūsijos ordino įtaka Lietuvos likimui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3032,32 +2496,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-162702
-    - c-180821
-
-<a id="claim-t-179048"></a>
-- t-179048
-  teiginys: "Gediminas laiške popiežiui ir kardinolams kryžiuočių magistro smurtą siejo su Mindaugo atsitraukimu nuo krikščionybės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini lietuvių taikos sutartį su Ordinu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Lietuviai sudarė sutartį su Kryžiuočių ordinas (0.83)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-162772
-    - c-180787
-    - c-180884
 
 <a id="claim-t-179050"></a>
-- t-179050
+- t-136
   teiginys: "Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vilnius: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -3070,15 +2513,13 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   semantiniai_rysiai: "Gotfridas Lindenas puolė Vilnius (0.82)"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-162484
     - c-162770
-    - c-180689
     - c-180819
 
 <a id="claim-t-179052"></a>
-- t-179052
+- t-137
   teiginys: "Po Lietuvos krikšto popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krėva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3093,9 +2534,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180863
 
 <a id="claim-t-179057"></a>
-- t-179057
+- t-138
   teiginys: "Ordino riteriai Liubeke siūlė prieš sprendimą dėl Lietuvos krikšto pirmiausia pasiųsti į Lietuvą pasiuntinius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3111,9 +2552,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180901
 
 <a id="claim-t-179062"></a>
-- t-179062
+- t-139
   teiginys: "Paaštrėjus santykiams su Kryžiuočių ordinu, Vytautas parėmė žemaičius, o šie išvarė kryžiuočius iš savo krašto."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3126,33 +2567,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-46320
-    - c-180845
     - c-162806
-    - c-180799
-
-<a id="claim-t-179063"></a>
-- t-179063
-  teiginys: "Balińskis kryžiuočių grobuoniškumą laikė viena ilgalaikių kliūčių Lietuvos pažangai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-162549
-    - c-180788
-    - c-180887
 
 <a id="claim-t-179066"></a>
-- t-179066
+- t-140
   teiginys: "1408-1414 m. kovose su kryžiuočiais Lietuvos monarcho pastangos buvo nukreiptos į Prūsijos ordino pajėgų silpninimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Griunvaldas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3168,12 +2588,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-162650
-    - c-180902
 
 <a id="claim-t-179067"></a>
-- t-179067
+- t-141
   teiginys: "Lucko suvažiavime Vokiečių ordinas rėmė Vytauto vainikavimo planą kaip atsvarą Lenkijai regione."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Luckas: 0.55"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3190,12 +2609,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162531
-    - c-180792
 
 <a id="claim-t-179069"></a>
-- t-179069
+- t-142
   teiginys: "Vytautas Prūsuose išmoko suktos, bet realios Ordino politikos, kurią vėliau taikė santykiuose su kaimynais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3207,12 +2625,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-162726
-    - c-180794
+    - c-186036
 
 <a id="claim-t-179070"></a>
-- t-179070
+- t-143
   teiginys: "Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3228,12 +2646,29 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162486
-    - c-180668
+
+<a id="claim-t-179071"></a>
+- t-144
+  teiginys: "Brolis Gerhardas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir pradėjo tyrą gyvenimą."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gerhardas (valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai teigia, kad Gerhardas atvyko į Prūsiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Gerhardas (valdovas) keliavo į Prūsija (0.93)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-162582
 
 <a id="claim-t-179072"></a>
-- t-179072
+- t-145
   teiginys: "1409 m. Kryžiuočių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3248,16 +2683,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-13398
-    - c-162576
-    - c-175860
-    - c-180699
-    - c-180912
-    - c-180943
+    - c-186031
 
 <a id="claim-t-179073"></a>
-- t-179073
+- t-146
   teiginys: "Vokiečių ordinas trukdė Vytautui pastatyti Lietuvą Europos katalikiškųjų šalių greton."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3270,12 +2701,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162657
-    - c-180673
 
 <a id="claim-t-179075"></a>
-- t-179075
+- t-147
   teiginys: "Vokiečių ordino magistrui uždraudus į Lietuvą įvežti druską, Vytautas liepė vokiečių pirkliams iki Sekminių išvykti iš Lietuvos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3291,9 +2721,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180776
 
 <a id="claim-t-179076"></a>
-- t-179076
+- t-148
   teiginys: "Ordino riteriai pasinaudojo Gedimino valdų suskaidymu, kuris, anot šaltinio, susilpnino krašto galią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Vitebskas: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3307,12 +2737,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162661
-    - c-180945
 
 <a id="claim-t-179077"></a>
-- t-179077
+- t-149
   teiginys: "1422 m. Vilniui leista laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3327,13 +2756,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai remiasi citata."
   pagrindžia:
     - c-162514
-    - c-180740
     - c-186054
 
 <a id="claim-t-179086"></a>
-- t-179086
+- t-150
   teiginys: "XIII a. į Prūsiją atsikėlęs Vokiečių ordinas pirmiausia pavergė prūsus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzkariavo -> Prūsai: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -3347,12 +2775,32 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-162578
-    - c-180728
+
+<a id="claim-t-179087"></a>
+- t-151
+  teiginys: "1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Burcos žemė: 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Burcos žemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Įkurdinimas Burcos žemėje pagrindžia kryžiuočių buvimą ir gyvenimą ten."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas gyveno Burcos žemė (0.73)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1211 m.; valdymo laikotarpis: 1225 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas susiję su Vengrija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, konkretus ir paremtas citata."
+  pagrindžia:
+    - c-162709
+    - c-180936
 
 <a id="claim-t-179088"></a>
-- t-179088
+- t-152
   teiginys: "1390 m. sausio 19 d. netoli Gardino pilies Ordino komtūras sudarė sutartį su Vytautu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Gardinas: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3371,10 +2819,27 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162790
     - c-180919
 
+<a id="claim-t-179091"></a>
+- t-153
+  teiginys: "Pratarmėje Petras Dusburgietis pranašo Danieliaus žodžius panaudojo Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-162723
+
 <a id="claim-t-179097"></a>
-- t-179097
+- t-154
   teiginys: "Kryžiuočių magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš akių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Vilnius: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -3391,9 +2856,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180807
 
 <a id="claim-t-179099"></a>
-- t-179099
+- t-155
   teiginys: "Vytautas Kaune be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Nevėžis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3408,9 +2873,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-36845
 
 <a id="claim-t-179101"></a>
-- t-179101
+- t-156
   teiginys: "Marijos Mergelės ordino nariai nešiojo baltus apsiaustus su juodu kryžiumi, todėl Lietuvoje dažnai vadinti kryžiuočiais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3426,9 +2891,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180778
 
 <a id="claim-t-179102"></a>
-- t-179102
+- t-157
   teiginys: "Ordino kariuomenė, sudaryta iš pėstininkų, raitelių ir artilerijos, buvo geresnė už lietuvių ir lenkų sąjungininkų kariuomenes."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3440,12 +2905,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-162510
-    - c-180843
 
 <a id="claim-t-179103"></a>
-- t-179103
+- t-158
   teiginys: "Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Livonija: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -3459,13 +2923,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-162540
-    - c-180795
     - c-186035
 
 <a id="claim-t-179105"></a>
-- t-179105
+- t-159
   teiginys: "Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu, o didysis magistras ėmė ruoštis naujam žygiui į Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -3479,12 +2942,31 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-162818
-    - c-180700
+
+<a id="claim-t-179108"></a>
+- t-160
+  teiginys: "231 Kryžiuočiai puolė 1233 m. spalio-lapkričio mėn."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> K. Būga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group"
+  ryšio_targeto_parinkimas: "K. Būga: mention_match, author, gap=5"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"K. Būga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: po 1202 m.; įvykio data: 1202 m.; įvykio data: po 1229 m.; įvykio data: 1229 m.; įvykio data: po 1232 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  pagrindžia:
+    - c-162710
 
 <a id="claim-t-179109"></a>
-- t-179109
+- t-161
   teiginys: "Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzkariavo -> Prūsų žemė: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -3498,14 +2980,13 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-162733
-    - c-180786
     - c-166529
-    - c-180900
+    - c-180786
 
 <a id="claim-t-179114"></a>
-- t-179114
+- t-162
   teiginys: "Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lietuva: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3525,9 +3006,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180839
 
 <a id="claim-t-179115"></a>
-- t-179115
+- t-163
   teiginys: "Per Vilniaus apsuptį kryžiuočių kariaunoje plito ligos, nes ji stovyklavo po atviru dangumi ir buvo nusilpusi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "apgule -> Vilnius: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -3542,28 +3023,10 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-162607
 
-<a id="claim-t-179117"></a>
-- t-179117
-  teiginys: "Prūsų Ordinas savinosi kovotojo su netikinčiaisiais garbę, kuri, remiant Vytauto planus, turėjo atitekti Vytautui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kipčakas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kipčakas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kipčakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-162571
-    - c-180779
-    - c-180817
-
 <a id="claim-t-179118"></a>
-- t-179118
+- t-164
   teiginys: "Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi grąžinti Rygos Bažnyčiai paimtą turtą ir jos nebepuldinėti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ryga: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3576,12 +3039,28 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162722
-    - c-180831
+
+<a id="claim-t-179119"></a>
+- t-165
+  teiginys: "Kryžiuočių ordino broliai perdavė Sartovicų pilį Samborui, o vėliau Sventopelkas pradėjo statyti Svečės pilį."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-162762
 
 <a id="claim-t-179120"></a>
-- t-179120
+- t-166
   teiginys: "Rygos pasiuntiniai pranešė popiežiui, kad Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti taikai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3600,9 +3079,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180934
 
 <a id="claim-t-179123"></a>
-- t-179123
+- t-167
   teiginys: "1385 m. didžiojo magistro Konrado Ciolnerio žygis buvo paskutinis Ordino smūgis pagoniškai Lietuvai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lietuva: 0.76"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3621,9 +3100,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180682
 
 <a id="claim-t-179124"></a>
-- t-179124
+- t-168
   teiginys: "Prūsuose Vytautas išmoko vokiečių kalbos, kryžiuočių disciplinos, administracijos ir karo mokslų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3639,9 +3118,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180866
 
 <a id="claim-t-179125"></a>
-- t-179125
+- t-169
   teiginys: "1431 m. Švitrigaila užmezgė ryšius su abiem Vokiečių ordino šakomis, kai Lenkija negrąžino Podolės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3658,10 +3137,29 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-46325
     - c-180752
 
+<a id="claim-t-183884"></a>
+- t-170
+  teiginys: "Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-162507
+
 <a id="claim-t-184490"></a>
-- t-184490
+- t-171
   teiginys: "Mūšyje Livonijos kariuomenė buvo sutriuškinta, žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir 150 ordino riterių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3677,10 +3175,32 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-167851
 
+<a id="claim-t-184492"></a>
+- t-172
+  teiginys: "Po kelių sėkmingų žygių prieš kryžiuočius prūsų padėtis sustiprėjo, nes jiems buvo pasirengę padėti lietuvių ir žemaičių būriai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=101"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1274 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra rišlus faktinis sakinys apie prūsų padėtį kare su kryžiuočiais."
+  pagrindžia:
+    - c-167853
+
 <a id="claim-t-184493"></a>
-- t-184493
+- t-173
   teiginys: "Sūduvos prūsai ir žemaičiai prie Liubavos neišdrįso stoti į atvirą mūšį su kryžiuočiais ir pabėgo, palikę stovyklą bei gurguoles."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3697,9 +3217,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167854
 
 <a id="claim-t-184494"></a>
-- t-184494
+- t-174
   teiginys: "Atvirame lauke lietuviai laimėjo kautynes su kryžiuočiais, o mūšyje žuvo ordino magistras Burchardas Aremas ir trisdešimt riterių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3720,9 +3240,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167855
 
 <a id="claim-t-184495"></a>
-- t-184495
+- t-175
   teiginys: "Karaliaučiaus komtūras Bertoldas Briuhavenas su Prūsijos kryžiuočių daliniu Livonijoje sumušė apgulties išsekintus lietuvius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3737,11 +3257,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-167856
+    - c-186043
 
 <a id="claim-t-184496"></a>
-- t-184496
+- t-176
   teiginys: "Kryžiuočiai prie Veliuonos pastatė įtvirtinimus, įkurdino juose stiprias įgulas ir mėgino badu priversti pilėnus pasiduoti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3759,9 +3280,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167857
 
 <a id="claim-t-184498"></a>
-- t-184498
+- t-177
   teiginys: "Kryžiuočiai, negalėdami sustabdyti niokojimo nei klasta, nei jėga, ryžosi prašyti paliaubų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3778,9 +3299,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167859
 
 <a id="claim-t-184499"></a>
-- t-184499
+- t-178
   teiginys: "Po ilgos Kauno pilies apsiausties kryžiuočiai pasikasė po sienomis, padegė pastatus ir palaužę gynėjų pasipriešinimą užėmė pilį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3798,9 +3319,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167860
 
 <a id="claim-t-184500"></a>
-- t-184500
+- t-179
   teiginys: "Po Kauno pilies užėmimo kryžiuočiai trečią dieną sugriovė išlikusius įrenginius, išvertė sienų likučius, nukasė pylimus ir išlygino griovius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3818,9 +3339,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167861
 
 <a id="claim-t-184501"></a>
-- t-184501
+- t-180
   teiginys: "Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama nusiaubė Lietuvą, sunaikindamas Ariogalos, Pernaravos ir Labūnavos žemes."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3838,9 +3359,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167862
 
 <a id="claim-t-184503"></a>
-- t-184503
+- t-181
   teiginys: "Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotos Lietuvos daliai palengvinti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3857,29 +3378,22 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167864
 
 <a id="claim-t-184504"></a>
-- t-184504
+- t-182
   teiginys: "Kryžiuočiai Ragainėje užpuolė pagal sutartį ramiai gyvenusius lietuvių pirklius, vienus nužudė, o iš kitų atėmė visą turtą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-167859
-    - c-167865
+    - c-186039
 
 <a id="claim-t-184505"></a>
-- t-184505
+- t-183
   teiginys: "1409 m. kryžiuočių žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, grasindamas paskelbti Lietuvai karą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3899,9 +3413,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167866
 
 <a id="claim-t-184506"></a>
-- t-184506
+- t-184
   teiginys: "Seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius, kad šis skatintų magistrą draugiškai baigti ginčą su Vytautu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3918,9 +3432,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167867
 
 <a id="claim-t-184507"></a>
-- t-184507
+- t-185
   teiginys: "1418 m. Veliuonos susitikimas nedavė naudos, nes kryžiuočiai atmetė taikos sąlygas ir reikalavo visos Žemaitijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3940,9 +3454,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167868
 
 <a id="claim-t-184508"></a>
-- t-184508
+- t-186
   teiginys: "Medžiodamas prie Veliuonos karalius vos nepakliuvo į kryžiuočių pasalą, kurią surengė Rastenburgo komtūras."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3959,9 +3473,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167869
 
 <a id="claim-t-184510"></a>
-- t-184510
+- t-187
   teiginys: "Pasak Kojelavičiaus, Torunės komtūras, kryžiuočių pasiųstas pas Boleslovą, kurstė brolių nesantaiką ir drąsino Švitrigailą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3979,9 +3493,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167871
 
 <a id="claim-t-184512"></a>
-- t-184512
+- t-188
   teiginys: "Karalius paprašė atidėti svarstymą, teigdamas, kad svarbiam reikalui aptarti reikia laiko, kurio trūksta dėl karo su kryžiuočiais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -3998,9 +3512,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167873
 
 <a id="claim-t-184513"></a>
-- t-184513
+- t-189
   teiginys: "Liuterio sektai paplitus Prūsijoje, kryžiuočių ordino pareigūnai laužė įžadus, atsisakė Romos tikėjimo ir pradėjo tuoktis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4010,15 +3524,137 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir ilga vertinamoji dalis."
   pagrindžia:
-    - c-167851
-    - c-167856
-    - c-167871
     - c-167874
 
+<a id="claim-t-187713"></a>
+- t-190
+  teiginys: "Kryžiuočiai 1411 m. Torūnės taika Žemaitijos atsisakė tik iki Jogailos ir Vytauto mirties, o galutinai ją pripažino 1422 m. Melno taika."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1411 m.; įvykio data: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau yra aiškus sakinys apie Kryžiuočių ordiną ir jo atsisakymą Žemaitijos. Nepridėta papildomų taikos sutarties sąlygų."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-170652
+
+<a id="claim-t-188208"></a>
+- t-191
+  teiginys: "XIV a. pradžioje kryžiuočiai apgulė Veliuonos pilį, o negalėdami jos paimti priešais pastatė Fridburgą ir Bajerburgą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "apgule -> Veliuona: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad kryžiuočiai apgulė Veliuonos pilį."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Veliuona (0.96); Kryžiuočių ordinas pastatė Fridburgas (0.94); Kryžiuočių ordinas pastatė Bajerburgas (0.90)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-171102
+    - c-186040
+
+<a id="claim-t-188209"></a>
+- t-192
+  teiginys: "1364 m. kryžiuočiai sudegino Veliuoną ir sugriovė jos pilį."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Veliuona: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Veliuonos sudeginimas yra tiesioginis karinis veiksmas prieš vietą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Veliuona (0.91)"
+  temporaliniai_duomenys: "mūšio data: 1364 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas puolė Veliuona“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau buvo faktinis, bet sutrumpintas ir pataisyta forma. Nepridėta Kęstučio atstatymo ir šventyklos istorijos."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-171103
+
+<a id="claim-t-192415"></a>
+- t-193
+  teiginys: "Teodoras Narbutas rašė, kad kryžiuočiai beveik iškapojo laisvę gynusius Sūduvos gyventojus, o likusius perkėlė į Sambiją."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Sūduva: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sūduva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kryžiuočiai tiesiogiai nurodyti kaip smurtavę prieš Sūduvos gyventojus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Sūduva (0.80)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175209
+
+<a id="claim-t-192416"></a>
+- t-194
+  teiginys: "Teodoro Narbuto teigimu, prieš prūsų tautos žlugimą Salavijoje apsigyveno daugiausia iš Lietuvos atsikėlę kryžiuočių žmonės."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kryžiuočių žmonės aprašyti kaip atsikėlę iš Lietuvos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175210
+
+<a id="claim-t-192417"></a>
+- t-195
+  teiginys: "Teodoro Narbuto aiškinimu, Henenbergerio užraše minima Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais, vėliava."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini prūsų kovą su kryžiuočiais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Prūsai kariavo prieš Kryžiuočių ordinas (0.90)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175211
+    - c-180913
+
 <a id="claim-t-193097"></a>
-- t-193097
+- t-196
   teiginys: "Popiežiui stojus už Gediminą ir už Lietuvą, imperatorius tyčia palaikė ordiną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4027,12 +3663,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-175860
-    - c-180943
 
 <a id="claim-t-193098"></a>
-- t-193098
+- t-197
   teiginys: "Todėl kryžiuočiai pristatė Žemaičiuose daugybę pilių (vieną pilį net patsai Vytautas jiems padėjo statyti)."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4041,12 +3676,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-00325
-    - c-180679
 
 <a id="claim-t-193099"></a>
-- t-193099
+- t-198
   teiginys: "Gedimino ir Algirdo laikais giliai Lietuvoje Nemuno pakrantėmis kyšojusios vokiečių ordino pilys buvo nušluotos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4058,9 +3692,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180684
 
 <a id="claim-t-193100"></a>
-- t-193100
+- t-199
   teiginys: "Be to, vakarų Europoje skleidžiamose kronikose vokiečių ordinas tyčia žemino lietuvius, norėdamas pateisinti savo nuolatinius kruvinus žygius ir tuo būdu prisivilioti sau į talką daugiau karingų Europos riterių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4069,12 +3703,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-00326
-    - c-180766
 
 <a id="claim-t-193101"></a>
-- t-193101
+- t-200
   teiginys: "Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4086,9 +3719,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180680
 
 <a id="claim-t-193102"></a>
-- t-193102
+- t-201
   teiginys: "Ukmergės mūšio laimėjimas ne vien sustiprino Zigmanto valdžią, bet dar turėjo didelę reikšmę ir Lietuvos santykiams su ordinu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4097,12 +3730,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-175862
-    - c-180837
 
 <a id="claim-t-193103"></a>
-- t-193103
+- t-202
   teiginys: "Kazimiero laikais ordinas jau buvo visiškai susilpnėjęs, todėl nė nebegalvojo apie bet kokį karą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4113,9 +3745,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-175863
 
 <a id="claim-t-193104"></a>
-- t-193104
+- t-203
   teiginys: "Gal tik Lietuvos neprisidėjimas ir išgelbėjo ordiną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4124,27 +3756,63 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-175864
-    - c-180775
+    - c-186058
 
-<a id="claim-t-194173"></a>
-- t-194173
-  teiginys: "Viename jų, skirtame popiežiui ir kardinolams, Gediminas prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist ro smurtas ir nesuskaičiuojamos išdavystės greit privertusios nuo jo atsimesti."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-194326"></a>
+- t-204
+  teiginys: "Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip didžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią ir tokią šlovę."
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-162772
-    - c-180787
-    - c-180884
+    - c-162507
+
+<a id="claim-t-194570"></a>
+- t-205
+  teiginys: "Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo Jono I prašomas, įsakė jį nukirsti."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-176970
+
+<a id="claim-t-194571"></a>
+- t-206
+  teiginys: "Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant roje (ypač nuo Gedimino valdymo) Lietuvos galia ir jėga nepa prastai išaugo."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-176971
+    - c-186046
+
+<a id="claim-t-194863"></a>
+- t-207
+  teiginys: "Kai 1253 metų pradžioje susiklostė draugiški Pamario kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis užkariauti Prūsiją."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-177259
+    - c-186050
 
 <a id="claim-t-196078"></a>
-- t-196078
+- t-208
   teiginys: "Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas lietuvių ir žemaičių nesikišimo į prūsų karą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4155,9 +3823,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167853
 
 <a id="claim-t-196079"></a>
-- t-196079
+- t-209
   teiginys: "Nusiaubę Kulmo kraštą, Sūduvos prūsai ir žemaičiai sustojo prie Liubavos, bet kryžiuočių puolami pasitraukė į miškus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4167,10 +3835,23 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-167854
 
+<a id="claim-t-196080"></a>
+- t-210
+  teiginys: "Kojelavičiaus perteiktoje kalboje rusai buvo lyginami su anksčiau lietuvių triuškintais kryžiuočių pulkais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178517
+
 <a id="claim-t-196081"></a>
-- t-196081
+- t-211
   teiginys: "Po Kauno pilies užėmimo kryžiuočiai trečią dieną sugriovė išlikusius įrenginius, sienų likučius, pylimus ir griovius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4181,9 +3862,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167861
 
 <a id="claim-t-196082"></a>
-- t-196082
+- t-212
   teiginys: "Kryžiuočiai užgrobė Vysla gabenamus grūdus ir juos išsivežė kitur."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4195,9 +3876,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167864
 
 <a id="claim-t-196084"></a>
-- t-196084
+- t-213
   teiginys: "Pasak Kojelavičiaus, Jogaila ir Vytautas siekė, kad kryžiuočiai po karo liktų ramūs, klusnūs arba draugiški."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4207,10 +3888,182 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-178518
 
+<a id="claim-t-196894"></a>
+- t-214
+  teiginys: "Tai oficialus Kryžiuočių ordino valstybės kūrinys."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-178969
+
+<a id="claim-t-196895"></a>
+- t-215
+  teiginys: "Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes, niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-178970
+
+<a id="claim-t-196896"></a>
+- t-216
+  teiginys: "Ir štai Teutonų ordino broliai pradėję su jais naują karą (II, 7)."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-162713
+
+<a id="claim-t-196897"></a>
+- t-217
+  teiginys: "Vernerio prierašuose pabrėžiama, jog jie skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-162715
+
+<a id="claim-t-196898"></a>
+- t-218
+  teiginys: "Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų feodalinių riterių žygių prieš musulmoniškąjį pasaulį."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-178971
+    - c-186044
+
+<a id="claim-t-196899"></a>
+- t-219
+  teiginys: "Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į šią."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-178972
+    - c-186034
+
+<a id="claim-t-196900"></a>
+- t-220
+  teiginys: "Štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-162499
+
+<a id="claim-t-196901"></a>
+- t-221
+  teiginys: "Garbingą ir naudingą vietą ordine užima dvasininkai, kurie taikos metu, visur pasklidę nelyginant kibirkštys, skatina brolius pasauliečius stropiai laikytis regulos, laiko pamaldas ir teikia sakramentus, o skubantiems į kruvinas žudynes vardan gyvenimo ar."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-162495
+
+<a id="claim-t-196902"></a>
+- t-222
+  teiginys: "Jį didžiai vertino ir popiežius, ir imperatorius, nekalbant apie kitus kunigaikščius bei didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo savo Ordino garbei bei naudai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-162677
+    - c-186042
+
+<a id="claim-t-196904"></a>
+- t-223
+  teiginys: "Apie vieną Sventopelko karį Sventopelko šeimynoje buvo vienas karys, kuriam Teutonų ordino broliai įvarė tokį siaubą, kad visas imdavo virpėti vos išgirdęs minint jų vardą."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-162760
+
+<a id="claim-t-196905"></a>
+- t-224
+  teiginys: "Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną 288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP, 5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino pilis — Elbingą ir Baigą."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-178973
+
+<a id="claim-t-196906"></a>
+- t-225
+  teiginys: "Henrikas Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas, ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus] piliai padegti."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-178974
+
+<a id="claim-t-197509"></a>
+- t-226
+  teiginys: "Kryžiuočiams val dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi; apie ją žinome tik iš Dusburgo paminėto jos valsčiaus, vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir Raigardo2 3."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-175209
+
+<a id="claim-t-197510"></a>
+- t-227
+  teiginys: "Tačiau, kai joje dar prieš bendrą prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi gyveno kryžiuočių, daugiausia iš Lietuvos atsikėlusių žmonių, dėl to ją ligi šiol vadina prūsų Lietuva."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-175210
+    - c-186053
+
 <a id="claim-t-198588"></a>
-- t-198588
+- t-228
   teiginys: "Kryžiuočiai sudarė kliūčių Lietuvai siekiant įeiti į krikščioniškąją bendruomenę ir gauti Bažnyčios patvirtinimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -4218,10 +4071,44 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180926
 
+<a id="claim-t-198598"></a>
+- t-229
+  teiginys: "Pasak Petro Dusburgiečio, sapne Švenčiausioji Mergelė Marija pasirodė su daugybe Teutonų namų ordino brolių."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Tai vizijos pasakojimas, todėl būtina šaltinio atribucija."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Šventoji"
+  ryšio_patikimumas: "puole -> Bisenė: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Bisenė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai teigia, kad kryžiuočių kariauna puolė Bisenės pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-162781
+
+<a id="claim-t-198605"></a>
+- t-230
+  teiginys: "Narbutas vertina, kad Kryžiuočių ordino kunigui kronikininkui buvo paranku lyginti krivį su popiežiumi."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Vertinamasis teiginys paliktas su Narbuto atribucija. Neutraliu faktu nepaverstas kronikininko motyvas."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Romovė"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-180939
+
 <a id="claim-t-198616"></a>
-- t-198616
+- t-231
   teiginys: "Per visą XIV a. Vokiečių ordino pavojus skatino Lietuvą derėtis ir svarstyti priešo išpažįstamo tikėjimo priėmimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
   temporaliniai_duomenys: "įvykio data: 1387 m."
@@ -4229,12 +4116,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-180801
+    - c-186032
 
 <a id="claim-t-198634"></a>
-- t-198634
+- t-232
   teiginys: "XIV a. nuolatiniai Ordino žygiai į Lietuvą vertė kraštą gyventi lyg nuolatinio karo stovykloje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pašalinta archajiška pradžia ir sutrumpinta formuluotė."
   susije_objektai: "llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Liublinas"
@@ -4245,21 +4132,20 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180749
 
 <a id="claim-t-198637"></a>
-- t-198637
+- t-233
   teiginys: "Kryžiuočiai laikė Vytautą priemone priversti Jogailą laikytis didelių pažadų Ordinui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_person: [[objektai/asmenys/Julijona|Julijona]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-180834
-    - c-180923
+    - c-186033
 
 <a id="claim-t-198645"></a>
-- t-198645
+- t-234
   teiginys: "Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti jiems kelią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citatoje nurodyta aplinkybe."
   susije_objektai: "mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_place: Drevenca; mentioned_place: Loebau; mentioned_place: Smolenskas; mentioned_place: Torno"
@@ -4269,21 +4155,20 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180897
 
 <a id="claim-t-198646"></a>
-- t-198646
+- t-235
   teiginys: "Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti, kai Henrikas von Plauen Marienburge surinko apie 5000 vyrų įgulą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas von Plauen|Henrikas von Plauen]]; mentioned_place: Marienburgas; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Livonija"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
-    - c-31142
     - c-180761
 
 <a id="claim-t-198647"></a>
-- t-198647
+- t-236
   teiginys: "Klaipėdos pilis beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas ir atitinka citatoje pateiktą priežastinį ryšį."
   susije_objektai: "mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prieglius; mentioned_place: Prūsų žemė"
@@ -4303,9 +4188,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180770
 
 <a id="claim-t-198656"></a>
-- t-198656
+- t-237
   teiginys: "Kairysis kryžiuočių sparnas prieš lietuvių pulkus buvo sudarytas iš stiprių dalinių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys glaustai ir gramatiškai perteikia citatos faktą."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]"
@@ -4323,9 +4208,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180716
 
 <a id="claim-t-198658"></a>
-- t-198658
+- t-238
   teiginys: "Hermanas Salza 1226 m. kovo mėnesį Riminyje išsirūpino imperatoriaus Fridricho II privilegiją Vokiečių ordino ateičiai rytuose."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Perrašyta tiksliau, įtraukiant citatoje nurodytą mėnesį ir ordino pavadinimą."
   susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Mozūrija; mentioned_place: Palestina; mentioned_place: Prūsų žemė"
@@ -4343,12 +4228,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-180745
-    - c-180928
 
 <a id="claim-t-198672"></a>
-- t-198672
+- t-239
   teiginys: "XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose minėta 18 didžiojo kunigaikščio dvarų Aukštaitijoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys sutrumpintas, pašalintas OCR triukšmas ir paliktas citatos pagrįstas faktas."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aukštaitija; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Naugardukas; mentioned_place: Zietela"
@@ -4358,9 +4242,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180753
 
 <a id="claim-t-198675"></a>
-- t-198675
+- t-240
   teiginys: "XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose Aukštaitijoje minėta 18 didžiojo kunigaikščio dvarų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aukštaitija; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Naugardukas; mentioned_place: Zietela"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -4376,9 +4260,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180753
 
 <a id="claim-t-198686"></a>
-- t-198686
+- t-241
   teiginys: "Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti priešui kelią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata."
   susije_objektai: "mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_place: Drevenca; mentioned_place: Loebau; mentioned_place: Smolenskas; mentioned_place: Torno"
@@ -4387,10 +4271,22 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180897
 
+<a id="claim-t-198706"></a>
+- t-242
+  teiginys: "Balińskis kryžiuočių grobuoniškumą laikė viena ilgalaikių kliūčių Lietuvos pažangai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys turi neaiškią nuorodą ir vertinamąjį kontekstą."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Viena"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-180887
+
 <a id="claim-t-198713"></a>
-- t-198713
+- t-243
   teiginys: "XIV a. pabaigoje Kryžiuočių ordino Lietuvos kelių aprašymuose Aukštaitijoje minėta 18 didžiojo kunigaikščio dvarų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aukštaitija; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Naugardukas; mentioned_place: Zietela"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -4399,9 +4295,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180753
 
 <a id="claim-t-198718"></a>
-- t-198718
+- t-244
   teiginys: "1226 m. Riminyje Fridrichas II suteikė Vokiečių ordinui teisę tapti užkariausimos prūsų žemės savininku."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Mozūrija; mentioned_place: Palestina; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Prūsų žemė"
   semantiniai_rysiai: "[[objektai/asmenys/Fridrichas II|Fridrichas II]] paskyrė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsų žemė"
@@ -4412,10 +4308,29 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180745
 
+<a id="claim-t-198724"></a>
+- t-245
+  teiginys: "1380 m. Jogaila sudarė dvi sutartis su kryžiuočiais: paliaubas su Livonijos ordinu ir Dovydiškių sutartį su Prūsijos kryžiuočiais."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
+  susije_objektai: "llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Plockas"
+  semantiniai_rysiai: "[[objektai/asmenys/Jogaila|Jogaila]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
+  temporaliniai_duomenys: "sutarties data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-180925
+
 <a id="claim-t-198726"></a>
-- t-198726
+- t-246
   teiginys: "1362 m. pavasarį Prūsų kryžiuočiai, remiami Livonijos magistro ir svečių iš Vakarų, išgriovė Kauno pilį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "llm_object: Kaunas; mentioned_place: Kaunas; mentioned_place: Livonija; mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Nemunas; mentioned_place: Vokietija"
   semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Kaunas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] surengė žygį į Kaunas"
@@ -4427,9 +4342,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180688
 
 <a id="claim-t-198730"></a>
-- t-198730
+- t-247
   teiginys: "Ordino kronikose 1345-1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pataisyta kalba ir išlaikytas citatos palaikomas faktas."
   susije_objektai: "mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Prūsų žemė"
@@ -4447,12 +4362,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-180760
-    - c-180829
 
 <a id="claim-t-198735"></a>
-- t-198735
+- t-248
   teiginys: "Ordino kronikose nurodyta, kad 1345–1382 m. buvo surengti 66 žygiai iš Prūsų ir 30 iš Livonijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Prūsų žemė"
   temporaliniai_duomenys: "įvykio data: 1345-1382; įvykio data: 1382 m."
@@ -4460,25 +4374,28 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-180760
     - c-180829
 
-<a id="claim-t-198737"></a>
-- t-198737
-  teiginys: "Matomai Rygoje buvo įsitikinimas, kad kryžiuočiai Lietuvą greitai įveiks."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-198748"></a>
+- t-249
+  teiginys: "XIV a. trečiajame dešimtmetyje Vakarų Europoje pasigirdo kritiškų balsų Kryžiuočių ordino atžvilgiu."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Naugardas"
+  sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citata."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prūsija; llm_object: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
+  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsija; [[objektai/asmenys/Gediminas|Gediminas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
+  temporaliniai_duomenys: "įvykio data: iki 1330 m.; įvykio data: 1326 m.; įvykio data: 1330 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-180753
-    - c-180797
-    - c-180862
+    - c-180905
 
 <a id="claim-t-198759"></a>
-- t-198759
+- t-250
   teiginys: "Ivinskio vertinimu, jei Mindaugo dokumentai būtų autentiški, Vokiečių ordinas būtų be saiko išnaudojęs draugystę su Mindaugu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Vertinamoji mintis aiškiai priskirta autoriui."
   susije_objektai: "mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Livonija"
@@ -4487,10 +4404,52 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180727
 
+<a id="claim-t-198765"></a>
+- t-251
+  teiginys: "Trečioji Ordino kariuomenės eilė stovėjo atokiau nuo mūšio lauko ir buvo laikoma atsargai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-180947
+
+<a id="claim-t-198768"></a>
+- t-252
+  teiginys: "Gedimino laiške popiežiui ir kardinolams teigta, kad Mindaugą nuo krikščionybės atstūmė kryžiuočių magistro smurtas ir išdavystės."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Ryga"
+  ryšio_patikimumas: "keliavo_i -> Luckas: 0.55"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vokiečių ordino pasiuntiniai dalyvavo Lucko suvažiavime, todėl palaikomas atvykimo į Lucką ryšys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-180884
+
+<a id="claim-t-198771"></a>
+- t-253
+  teiginys: "Prūsų Ordinas savinosi kovotojo su netikinčiaisiais garbę, kuri, remiant Vytauto planus, turėjo atitekti Vytautui."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Sutrumpintas ir išvalytas ilgas OCR pažeistas teiginys."
+  susije_objektai: "mentioned_place: Kipčakas; mentioned_place: Prūsų žemė"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-186048
+
 <a id="claim-t-198774"></a>
-- t-198774
+- t-254
   teiginys: "Lietuvai siekiant Bažnyčios patvirtinimo, reikėjo įveikti kryžiuočių daromas kliūtis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -4499,9 +4458,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180926
 
 <a id="claim-t-198783"></a>
-- t-198783
+- t-255
   teiginys: "Ordino kronikose nurodyta, kad 1345–1382 m. įvyko 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Prūsų žemė"
   temporaliniai_duomenys: "įvykio data: 1345-1382; įvykio data: 1382 m."
@@ -4509,13 +4468,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-180760
     - c-180829
 
 <a id="claim-t-198813"></a>
-- t-198813
+- t-256
   teiginys: "1362 m. pavasarį Prūsų kryžiuočiai su sąjungininkais išgriovė svarbią lietuvių pilį Kauną prie Nemuno ir Neries santakos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys aiškiai nurodo veikėją, datą, veiksmą ir rezultatą."
   susije_objektai: "llm_object: Kaunas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Prūsų žemė; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Vokietija"
@@ -4535,10 +4493,86 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180688
 
+<a id="claim-t-198814"></a>
+- t-257
+  teiginys: "Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys buvo nutrūkęs; citata palaiko aiškų pilną sakinį."
+  susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Europa; mentioned_place: Pamaris; mentioned_place: Prūsų žemė; mentioned_place: Visla"
+  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Lietuva"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-186051
+
+<a id="claim-t-198815"></a>
+- t-258
+  teiginys: "Ordino karų metu Lietuvos ūkis buvo smarkiai žalojamas."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-31137
+
+<a id="claim-t-198816"></a>
+- t-259
+  teiginys: "Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis Birutę pažino grįždamas iš žygio prieš kryžiuočius."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Legendinis Birutės pasakojimas paliktas su Narbuto ir Strijkovskio atribucija. Dėmesys susietas su kryžiuočių žygio kontekstu."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_place: Trakai"
+  ryšio_patikimumas: "puole -> Veliuona: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Veliuonos sudeginimas yra tiesioginis karinis veiksmas prieš vietą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-186052
+
+<a id="claim-t-198827"></a>
+- t-260
+  teiginys: "Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Religinės ir politinės valdžios teiginys paliktas su Narbuto atribucija. Pašalintas neaiškus įvadas apie senovišką būtį."
+  susije_objektai: "llm_object: Kulmas; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]; mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_place: Vokietija"
+  ryšio_patikimumas: "puole -> Lietuva: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai minima, kad Lietuvą puldavo ordino livoniškoji šaka; objektas „lietuviai“ nėra leistų kandidatų sąraše, todėl ryšys su Lietuva paliekamas kaip tiksliausias leistinas variantas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-180846
+
 <a id="claim-t-198834"></a>
-- t-198834
+- t-261
   teiginys: "1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė Kauno pilį Nemuno ir Neries santakoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Sakinys sutrumpintas ir pašalinta perteklinė stilistika."
   susije_objektai: "llm_object: Kaunas; mentioned_place: Kaunas; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vokietija"
@@ -4559,9 +4593,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180688
 
 <a id="claim-t-198835"></a>
-- t-198835
+- t-262
   teiginys: "Kryžiuočių kairysis sparnas, sutelktas prieš dešiniajame sąjungininkų sparne stovėjusius lietuvių pulkus, buvo sudarytas iš stiprių dalinių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie kryžiuočių kariuomenės išsidėstymą."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]"
@@ -4570,10 +4604,57 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180716
 
+<a id="claim-t-198842"></a>
+- t-263
+  teiginys: "1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra konkretus ir pagrįstas citatos duomenimis."
+  susije_objektai: "llm_object: Vaikiai; mentioned_place: Vaikiai; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas fon Vildenbergas|Fridrichas fon Vildenbergas]]; mentioned_person: [[objektai/asmenys/Plihta|Plihta]]; mentioned_place: Reinas; mentioned_place: Silezija; mentioned_place: Vildenbergas; mentioned_place: Čekija"
+  temporaliniai_duomenys: "įvykio data: 1322 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir pagrįstas citatos duomenimis."
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-180896
+
+<a id="claim-t-198853"></a>
+- t-264
+  teiginys: "Grabovo suvažiavime Vytautas pareikalavo, kad Ordinas atlygintų už paimtas prekes ir nužudytų pirklių šeimoms."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir sutrumpintas sakinys."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Veliuona"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-186056
+
+<a id="claim-t-198854"></a>
+- t-265
+  teiginys: "Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys apie Ordino veiklą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Baltija; llm_object: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Malburgas; mentioned_place: Revelis; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija"
+  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo [[objektai/grupes/Prūsai|Prūsai]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-180940
+
 <a id="claim-t-198863"></a>
-- t-198863
+- t-266
   teiginys: "Kryžiuočių ordinas niokojamaisiais žygiais siekė palaužti pagonių kraštą, užvaldyti jį ir ypač spaudė Žemaičius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   susije_objektai: "llm_object: Dubysa; llm_object: Varniai; mentioned_place: Dubysa; mentioned_place: Varniai; mentioned_place: Viena"
   semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Dubysa; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Varniai"
@@ -4591,10 +4672,30 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-31126
 
+<a id="claim-t-198866"></a>
+- t-267
+  teiginys: "Patys kryžiuočiai tą vietą visuomet palikdavo neliestą: viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug nies, degančios kiekvieną naktį, naudingumo jūrininkams."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=105"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-186057
+
 <a id="claim-t-198869"></a>
-- t-198869
+- t-268
   teiginys: "Algirdas ir Kęstutis pradėjo derybas su Kryžiuočių ordinu, siekdami atokvėpio nuo tolesnių niokojimų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Nemunas; mentioned_place: Prūsų žemė"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -4602,23 +4703,30 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180872
 
-<a id="claim-t-198884"></a>
-- t-198884
-  teiginys: "Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis Jogailą priversti nesitraukti nuo didelių pažadų."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-198881"></a>
+- t-269
+  teiginys: "Gediminas laiške popiežiui ir kardinolams kryžiuočių magistro smurtą siejo su Mindaugo atsitraukimu nuo krikščionybės."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir aiškiai atribuoja kryžiuočių požiūrį."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Julijona|Julijona]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  sudarymo_pagrindimas: "Nutrūkęs tekstas perrašytas į pilną sakinį, nepridedant naujų faktų."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Ryga; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
+  semantiniai_rysiai: "[[objektai/grupes/Lietuviai|Lietuviai]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
+  ryšio_patikimumas: "pastate -> Kroicburgas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kroicburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad Ordino broliai pastatė Kroicburgo pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-180834
-    - c-180923
+    - c-180884
 
 <a id="claim-t-198888"></a>
-- t-198888
+- t-270
   teiginys: "Algirdas ir Kęstutis pradėjo derybas su Ordinu, kad Lietuva galėtų pailsėti nuo tolesnių niokojimų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Nemunas; mentioned_place: Prūsų žemė"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -4627,9 +4735,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180872
 
 <a id="claim-t-198890"></a>
-- t-198890
+- t-271
   teiginys: "XIV a. Vokiečių ordino pavojus skatino Lietuvą derėtis ir ieškoti būdo priimti priešo išpažįstamą tikėjimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
   temporaliniai_duomenys: "įvykio data: 1387 m."
@@ -4644,12 +4752,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-180801
+    - c-186059
 
 <a id="claim-t-198896"></a>
-- t-198896
+- t-272
   teiginys: "Iki Tannenbergo kautynių kryžiuočiai Vakarų Europai pristatydavo lietuvius kaip pavojingus rytų saracėnus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas ir paremtas citata."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Europa; mentioned_place: Lietuva"
@@ -4657,12 +4765,26 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-180772
-    - c-180860
+
+<a id="claim-t-198901"></a>
+- t-273
+  teiginys: "1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra konkretus ir paremtas citata."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]"
+  temporaliniai_duomenys: "įvykio data: 1330 m.; įvykio data: 1411 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-180763
 
 <a id="claim-t-203033"></a>
-- t-203033
+- t-274
   teiginys: "Pasak Zenono Ivinskio, XIV a. nuolatiniai Kryžiuočių ordino žygiai į Lietuvą vertė visą kraštą virsti tarsi nuolatinio karo stovykla."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Liublinas"
   semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] surengė žygį į Lietuva"
@@ -4671,9 +4793,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180749
 
 <a id="claim-t-203036"></a>
-- t-203036
+- t-275
   teiginys: "Zenonas Ivinskis rašo, kad po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Išplėstas objektas ir pašalinta neaiški nuoroda."
   susije_objektai: "mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Henrikas von Plauen|Henrikas von Plauen]]; mentioned_place: Marienburgas; mentioned_place: Ragainė"
@@ -4682,9 +4804,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180761
 
 <a id="claim-t-203037"></a>
-- t-203037
+- t-276
   teiginys: "Prūsų ordinas priglausdavo perbėgėlius, juos pakrikštydavo, o jų žemes priimdavo vasaliniais feodais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Prūsų žemė"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -4692,9 +4814,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-31122
 
 <a id="claim-t-203043"></a>
-- t-203043
+- t-277
   teiginys: "Zenonas Ivinskis rašo, kad kryžiuočiai nieko nepraleido į Lietuvą, sudarė sutartį su Didžiuoju Naugardu prieš Gediminą ir juodino jį laiškuose krikščionių valdovams bei popiežiui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Naugardas; mentioned_object: [[objektai/zodynas/legatai|legatai]]; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]"
   semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] buvo priešas [[objektai/asmenys/Gediminas|Gediminas]]"
@@ -4703,9 +4825,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180862
 
 <a id="claim-t-203061"></a>
-- t-203061
+- t-278
   teiginys: "Zenono Ivinskio vertinimu, Kojalavičius kovų su kryžiuočiais aprašymuose parodė pagarbą lietuviams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Fragmentas perrašytas į savarankišką sakinį."
   susije_objektai: "llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
@@ -4718,9 +4840,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180797
 
 <a id="claim-t-203067"></a>
-- t-203067
+- t-279
   teiginys: "Zenonas Ivinskis rašė, kad iki pat Tannenbergo kautynių kryžiuočiai Vakarų Europai pristatydavo lietuvius kaip pavojingus rytų „saracėnus“, o kryžiaus karų šauksmas savaime turėjo pamažu nutilti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Perrašyta į glaustesnį vieną sakinį be OCR tarpų ir su aiškiu faktiniu teiginiu."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Europa; mentioned_place: Lietuva"
@@ -4729,9 +4851,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180772
 
 <a id="claim-t-203080"></a>
-- t-203080
+- t-280
   teiginys: "Pasak Zenono Ivinskio, kai Žemaičių nebuvo galima įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas kišosi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "llm_object: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas"
   semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė [[objektai/grupes/Žemaičiai|Žemaičiai]]"
@@ -4740,9 +4862,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180784
 
 <a id="claim-t-203083"></a>
-- t-203083
+- t-281
   teiginys: "Zenono Ivinskio teigimu, kai Žemaičių nebuvo galima įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba sėkmingai į jas kišosi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "llm_object: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas"
   semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė [[objektai/grupes/Žemaičiai|Žemaičiai]]"
@@ -4751,9 +4873,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180784
 
 <a id="claim-t-203104"></a>
-- t-203104
+- t-282
   teiginys: "Zenono Ivinskio teigimu, nuo Traidenio laikų besitęsiantys karai su abiem Vokiečių ordino šakomis neigiamai veikė Lietuvos gyventojų prieaugį ir šalies apgyvendinimo eigą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -4761,9 +4883,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-31138
 
 <a id="claim-t-203119"></a>
-- t-203119
+- t-283
   teiginys: "Zenono Ivinskio teigimu, Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas ir tiksliai atitinka citatos mintį."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Georgenburgas; mentioned_place: Žiemgala"
@@ -4774,10 +4896,31 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180713
 
+<a id="claim-t-203142"></a>
+- t-284
+  teiginys: "Michał Baliński knygoje „Vilniaus miesto istorija“ teigia, kad kryžiuočiai visaip kurstė Vytauto ambiciją, Lietuvos karūną vaizduodami kaip puikiausią atpildą už jo laimėjimus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinė frazė buvo kontekstinė; citata palaiko aiškesnį teiginį."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva; mentioned_place: Lenkija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-162645
+
+<a id="claim-t-203148"></a>
+- t-285
+  teiginys: "Leidinyje „Petras Dusburgietis, Prūsijos žemės kronika“ teigiama, kad kronika turėjo būti oficialus Ordino šlovės paminklas."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "claim_quality_pipeline deterministic repair"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-162757
+
 <a id="claim-t-203169"></a>
-- t-203169
+- t-286
   teiginys: "Pasak Alberto Vijūko-Kojelavičiaus, Jogaila, norėdamas palengvinti nuniokotos Lietuvos dalią, Vysla pasiuntė grūdų, kuriuos kryžiuočiai užgrobė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4789,9 +4932,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167864
 
 <a id="claim-t-203188"></a>
-- t-203188
+- t-287
   teiginys: "Pasak šaltinio „A. Šapoka (red.), Lietuvos istorija“, Mindaugo laikų pirmasis krikšto bandymas nepasisekė, nes Vokiečių ordinas krikšto proga stengėsi užgrobti Žemaičius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
@@ -4799,9 +4942,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180932
 
 <a id="claim-t-203191"></a>
-- t-203191
+- t-288
   teiginys: "Michał Baliński „Vilniaus miesto istorijoje“ teigia, kad Ordino riteriai pasinaudojo Gedimino valdų išskaidymu, dėl kurio apsilpo krašto galia."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Ilgas fragmentas perrašytas į aiškų sakinį apie Ordino riterių veiksmą."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas; llm_object: Vitebskas"
@@ -4810,9 +4953,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180945
 
 <a id="claim-t-203221"></a>
-- t-203221
+- t-289
   teiginys: "1323 m. Vilniuje duotame rašte teigta, kad kryžiuočiai į ugnį įmetė rašto davėjų popiežiui siųstą antspaudą ir taip įžeidė pasiuntinybę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]"
   temporaliniai_duomenys: "įvykio data: 1323 m."
@@ -4822,9 +4965,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180942
 
 <a id="claim-t-203222"></a>
-- t-203222
+- t-290
   teiginys: "Michał Baliński nuomone, Veliuonos pilis tikriausiai buvo pastatyta XIII amžiuje tam, kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kryžiuočių puldinėjimų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Citata remia faktą apie Veliuonos paskirtį Kryžiuočių ordino kontekste."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Jurbarkas; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Veliuona"
@@ -4833,9 +4976,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180916
 
 <a id="claim-t-203223"></a>
-- t-203223
+- t-291
   teiginys: "Michało Balińskio teigimu, Ordino riteriai mokėjo pasinaudoti Gedimino valia atsiradusiu dalinių valdų išskaidymu, dėl kurio apsilpo krašto galia."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas; llm_object: Vitebskas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
@@ -4843,9 +4986,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180945
 
 <a id="claim-t-203226"></a>
-- t-203226
+- t-292
   teiginys: "Albertas Vijūkas-Kojelavičius veikale „Lietuvos istorija“ teigia, kad kryžiuočiai, negalėdami nei klasta, nei jėga nukreipti niokojimo į šalį, ryžosi jį pristabdyti prašydami paliaubų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4857,9 +5000,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-167859
 
 <a id="claim-t-203261"></a>
-- t-203261
+- t-293
   teiginys: "Michał Baliński teigia, kad kryžiuočiai, neįstengę sukiršinti Vytauto su Jogaila, kurstė Švitrigailą siekti senųjų užmačių ar bent jau vėl kelti sumaištį Lenkijoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys aiškiai perteikia citatoje aprašytą kryžiuočių veiksmą."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
@@ -4868,36 +5011,57 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180810
 
 <a id="claim-t-203280"></a>
-- t-203280
+- t-294
   teiginys: "Sužinojus, kad Gedimino skundas buvo pasiųstas popiežiui, Prūsijos Mažesniųjų brolių kustodas, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai bei Olivos ir Pelplino abatai dviem laiškais popiežiui stojo ginti kryžiuočių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
   semantiniai_rysiai: "[[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-162617
     - c-180878
-    - c-180948
 
 <a id="claim-t-203281"></a>
-- t-203281
+- t-295
   teiginys: "Sužinojus, kad Gedimino skundas pasiųstas popiežiui, Mažesniųjų brolių visos Prūsijos kustodas, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai bei abatai Paulius iš Olivos ir Jordanas iš Pelplino stojo ginti kryžiuočių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Nutrūkęs sąrašas perrašytas į vientisą sakinį."
   susije_objektai: "mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
   semantiniai_rysiai: "[[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-162617
     - c-180878
-    - c-180948
+
+<a id="claim-t-203289"></a>
+- t-296
+  teiginys: "Pasak Petro Dusburgiečio, Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė naujais broliais, praturtėjo ir įgijo didelę galią bei šlovę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Lubava"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180858
+
+<a id="claim-t-203290"></a>
+- t-297
+  teiginys: "„Prūsijos žemės kronikoje“ Petras Dusburgietis teigia, kad Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Lubava"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180858
 
 <a id="claim-t-203295"></a>
-- t-203295
+- t-298
   teiginys: "Vokiečių ordinas Prūsuose įsigijo didelius žemės plotus, juos kolonizuodamas stiprėjo ir laimėjo Vislos žiotis bei Pamarį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra enciklopedinis sakinys apie Ordiną ir paremtas citata."
   susije_objektai: "mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Pamaris; mentioned_place: Prūsų žemė; mentioned_place: Visla; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lietuva"
@@ -4905,10 +5069,22 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180906
 
+<a id="claim-t-203301"></a>
+- t-299
+  teiginys: "Teodoras Narbutas rašo, kad Treteris neigė kai kurių kronikininkų liudijimą apie Boleslovo Kreivaburnio įsakymą padegti ąžuolą ir teigė, jog šis medis tebestovėjo kryžiuočių laikais, žmonės nenustojo jam melstis, todėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo Jono I prašomas, įsakė jį nukirsti."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-180877
+
 <a id="claim-t-203309"></a>
-- t-203309
+- t-300
   teiginys: "Tarnybinis pranešimas, į kurį buvo įrašyti tariamieji Gedimino laiškai, yra Kryžiuočių archyve."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys aiškus ir remiasi citatos informacija apie Kryžiuočių archyvą."
   susije_objektai: "mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]"
@@ -4917,9 +5093,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180930
 
 <a id="claim-t-203319"></a>
-- t-203319
+- t-301
   teiginys: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas ir Mindaugas Tamošaitis teigia, kad net po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis buvo Žemaitija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citata."
   susije_objektai: "mentioned_place: Žemaitija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Nemunas"
@@ -4927,10 +5103,22 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180874
 
+<a id="claim-t-203320"></a>
+- t-302
+  teiginys: "Teodoro Narbuto teigimu, kryžiuočiams valdant Sūduva tapo dykra, jos pėdsakų beveik neliko, o apie ją žinoma tik iš Dusburgo paminėto Kirsowia (Kirsnavos) valsčiaus, buvusio tarp Olecko ir Raigardo."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-180789
+
 <a id="claim-t-203321"></a>
-- t-203321
+- t-303
   teiginys: "Albrechto mėginimai susitarti su Lenkija nenusisekė, o ordinui teko pradėti karą su lenkais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pradiniame teiginyje neaiškus įvardis ir per daug konteksto."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija"
@@ -4942,22 +5130,32 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180719
 
 <a id="claim-t-203324"></a>
-- t-203324
+- t-304
   teiginys: "Michał Baliński veikale „Vilniaus miesto istorija“ teigia, kad mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius leistis į derybas su Algirdu ir Kęstučiu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys gramatiškas ir perteikia citatos priežastinį ryšį."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Rudamina; mentioned_place: Trakų pilis; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Arkikomtūras|Arkikomtūras]]; mentioned_place: Trakai; llm_object: [[objektai/asmenys/Algirdas|Algirdas]]"
   semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] sudarė sutartį su [[objektai/asmenys/Algirdas|Algirdas]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-180683
     - c-180933
 
+<a id="claim-t-203327"></a>
+- t-305
+  teiginys: "Petras Dusburgietis rašo, kad brolis Gerhardas atvyko į Prūsijos žemę, davė įžadus Teutonų ordinui ir pradėjo tyrą gyvenimą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas ir paremtas citata."
+  susije_objektai: "llm_object: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Marienburgas; mentioned_place: Prūsija; mentioned_place: Viena"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180771
+
 <a id="claim-t-203330"></a>
-- t-203330
+- t-306
   teiginys: "Kaip rašo Michał Baliński, Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu, o didysis magistras ėmė ruoštis naujam žygiui į Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra faktinis, gramatiškas ir pakankamai tikslus."
   susije_objektai: "llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Anglija"
@@ -4967,9 +5165,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180700
 
 <a id="claim-t-203338"></a>
-- t-203338
+- t-307
   teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad Ordinas, supratęs, jog vienu dideliu žygiu nepavergs Lietuvos, pakeitė taktiką ir ėmė ją puldinėti nedideliais kariuomenės būriais iš pasieninių pilių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pirminis teiginys nepasako, kokia buvo naujoji taktika."
   susije_objektai: "llm_object: Lietuva; mentioned_place: Lietuva"
@@ -4978,10 +5176,27 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180746
 
+<a id="claim-t-203339"></a>
+- t-308
+  teiginys: "Narbutas pabrėžia, kad Simonas Grunau ne visuomet pagarbiai rašė apie kryžiuočius."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Vertinamasis autoriaus apibūdinimas paliktas su Narbuto atribucija. Nepridėtos platesnės citatos detalės apie Grunau ydas."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Lietuva; mentioned_place: Vysla; llm_object: Lietuva"
+  temporaliniai_duomenys: "mūšio data: po 1282 m.; mūšio data: 1282 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vokiečių ordinas puolė Lietuva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Vertinamasis autoriaus apibūdinimas paliktas su Narbuto atribucija. Nepridėtos platesnės citatos detalės apie Grunau ydas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-180751
+
 <a id="claim-t-203348"></a>
-- t-203348
+- t-309
   teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad popiežiui stojus už Gediminą ir Lietuvą, imperatorius tyčia palaikė ordiną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4991,9 +5206,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180943
 
 <a id="claim-t-203349"></a>
-- t-203349
+- t-310
   teiginys: "Kryžiuočiai Žemaičiuose pristatė daugybę pilių, o vieną pilį jiems padėjo statyti pats Vytautas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5003,9 +5218,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180679
 
 <a id="claim-t-203350"></a>
-- t-203350
+- t-311
   teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad Kazimiero laikais ordinas jau buvo visiškai susilpnėjęs, todėl nė nebegalvojo apie bet kokį karą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5015,9 +5230,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-175863
 
 <a id="claim-t-203351"></a>
-- t-203351
+- t-312
   teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad Vakarų Europoje skleidžiamose kronikose Vokiečių ordinas tyčia žemino lietuvius, siekdamas pateisinti savo nuolatinius kruvinus žygius ir prisivilioti į talką daugiau karingų Europos riterių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5027,9 +5242,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180766
 
 <a id="claim-t-203352"></a>
-- t-203352
+- t-313
   teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad Ukmergės mūšio laimėjimas ne tik sustiprino Zigmanto valdžią, bet ir turėjo didelę reikšmę Lietuvos santykiams su ordinu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5039,9 +5254,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180837
 
 <a id="claim-t-203369"></a>
-- t-203369
+- t-314
   teiginys: "Knygoje „Lietuvos istorija“ teigiama, kad Vokiečių ordinas trukdė Vytautui įgyvendinti tikslą – pastatyti Lietuvą Europos katalikiškųjų šalių greton."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citata."
   susije_objektai: "mentioned_place: Europa; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Žemaitija"
@@ -5050,9 +5265,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180673
 
 <a id="claim-t-203381"></a>
-- t-203381
+- t-315
   teiginys: "Michał Baliński teigimu, Vytautas daug prisidėjo prie pergalių prieš kryžiuočius, tačiau nesiekė visiškai sunaikinti jų Ordino."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje pateiktą Vytauto laikyseną."
   susije_objektai: "mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
@@ -5062,9 +5277,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180689
 
 <a id="claim-t-203382"></a>
-- t-203382
+- t-316
   teiginys: "Michał Baliński teigimu, Gardinas buvo įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje nurodytą Gardino paskirtį."
   susije_objektai: "mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Gardinas; mentioned_place: Haličas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Prūsija"
@@ -5073,9 +5288,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180889
 
 <a id="claim-t-203383"></a>
-- t-203383
+- t-317
   teiginys: "Michał Baliński teigimu, Kryžiuočių Slaptajame archyve Karaliaučiuje buvo Vytauto laiškų magistrui Rusdorfui, susijusių su derybomis dėl Lietuvos karūnos Vytautui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas ir pagrįstas citatos pastaba apie archyvą."
   susije_objektai: "mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Maskva; mentioned_place: Tverė"
@@ -5084,13 +5299,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir pagrįstas citatos pastaba apie archyvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-162520
     - c-180865
 
 <a id="claim-t-203384"></a>
-- t-203384
+- t-318
   teiginys: "Michał Baliński knygoje „Vilniaus miesto istorija“ rašo, kad Ignas Onacevičius, nuvykęs į Karaliaučių rinkti dokumentų iš slaptojo Kryžiuočių ordino archyvo, parašė M. Balinskiui laišką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas sakinys ir remiasi citatos informacija apie Kryžiuočių ordino archyvą."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
@@ -5098,10 +5312,70 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-162486
 
+<a id="claim-t-203393"></a>
+- t-319
+  teiginys: "Pasak Petro Dusburgiečio „Prūsijos žemės kronikos“, Henrikas Tupadelis, vėliau tapęs Teutonų ordino broliu ir apibūdintas kaip puikus karys bei įgudęs balistininkas, ragino Vėluvos pilies gynėjus gintis ir drauge su jais daug kartų gesino piliai padegti pakištus degalus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180951
+
+<a id="claim-t-203394"></a>
+- t-320
+  teiginys: "Šaltinyje „Prūsijos žemės kronika“ teigiama, kad autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių feodalų ir Kryžiuočių ordino ekspansiją į baltų – prūsų, jotvingių ir lietuvių – žemes, niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-162620
+
+<a id="claim-t-203395"></a>
+- t-321
+  teiginys: "Petro Dusburgiečio kronika buvo oficialus Kryžiuočių ordino valstybės kūrinys."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180905
+
+<a id="claim-t-203396"></a>
+- t-322
+  teiginys: "Pasak Petro Dusburgiečio, Teutonų ordino broliai pradėjo naują karą su prūsais."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180697
+
+<a id="claim-t-203397"></a>
+- t-323
+  teiginys: "Prūsijos žemės kronikos skyriuje „Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams“ Petras Dusburgietis teigia, kad magistro brolio Hermano iš Zalcos rūpesčiu Teutonų namų ordinas gausiai pasipildė naujais broliais, praturtėjo, įgijo didelę galią ir šlovę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180858
+
 <a id="claim-t-203408"></a>
-- t-203408
+- t-324
   teiginys: "XIII a. atsikraustęs Vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "llm_object: [[objektai/grupes/Prūsai|Prūsai]]; llm_object: Prūsija; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Prūsija"
   semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo [[objektai/grupes/Prūsai|Prūsai]]; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Prūsija"
@@ -5110,9 +5384,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162660
 
 <a id="claim-t-203422"></a>
-- t-203422
+- t-325
   teiginys: "Michał Baliński „Vilniaus miesto istorijoje“ rašo, kad popiežius nusprendė, jog Kryžiuočių ordino riteriai turi grąžinti Rygos Bažnyčiai paimtą turtą ir jos nebepuldinėti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pradinė frazė silpna ir neaiški; citata palaiko konkretesnį sprendimą apie Ordiną."
   susije_objektai: "mentioned_place: Ryga"
@@ -5120,33 +5394,71 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180831
 
+<a id="claim-t-203437"></a>
+- t-326
+  teiginys: "Pasak Prūsijos žemės kronikos, 1244 m. į Prūsiją atvyko magistras Poponas su Ordino broliais, o Austrijos kunigaikštis į šį kraštą atsiuntė raitųjų lankininkų."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata pagrindžia pagalbos atvykimą Ordino broliams."
+  susije_objektai: "mentioned_place: Austrija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Santyras"
+  temporaliniai_duomenys: "kelionės data: 1244 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas keliavo į Austrija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia pagalbos atvykimą Ordino broliams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180820
+
+<a id="claim-t-203439"></a>
+- t-327
+  teiginys: "Michał Baliński veikale „Vilniaus miesto istorija“ pateikia kaltinimą, kad Zigmantas ir kryžiuočiai siūlė Vytautui karūną, siekdami supriešinti Lietuvą ir Lenkiją."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Klausiamoji citatos forma perrašyta į enciklopedinį teiginį, neperžengiant citatos turinio."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-180743
+
 <a id="claim-t-203440"></a>
-- t-203440
+- t-328
   teiginys: "Michał Baliński išsakė nuomonę, kad Rygos arkivyskupas, prisidengęs Gedimino vardu, parengė laiškus siekdamas apšmeižti Kryžiuočių ordiną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vilnius; mentioned_place: Vokietija"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-180759
 
-<a id="claim-t-203457"></a>
-- t-203457
-  teiginys: "Michał Baliński rašė, kad Gediminas viename laiške teigė, jog Ordinas, sužinojęs apie Vytenio minoritams skirtą bažnyčią, pasiuntė ginkluotą būrį jai sudeginti."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-203441"></a>
+- t-329
+  teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad po Lietuvos krikšto ir jos pripažinimo Europoje katalikiška valstybe Kryžiuočių ordinas buvo nebepateisinamas."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir išskleistas aiškus predikatas apie Ordiną."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Ryga; mentioned_place: Žiemgala"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir pataisyta sakinio pradžia."
+  susije_objektai: "mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prūsija"
+  temporaliniai_duomenys: "įvykio data: 1525 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir pataisyta sakinio pradžia."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-162772
-    - c-180787
-    - c-180884
+    - c-180912
+
+<a id="claim-t-203448"></a>
+- t-330
+  teiginys: "Petras Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai Šventosios Marijos Teutonų ordino vienuolių ligoninę, ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180864
 
 <a id="claim-t-203461"></a>
-- t-203461
+- t-331
   teiginys: "Michał Baliński teigimu, Kryžiuočių ordinas priešinosi Jogailos reformai, nes numatė savo nuopuolį sustiprėjus Lietuvai ir Lenkijai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Nutrūkęs sakinys perrašytas į glaustą teiginį apie Ordino poziciją."
   susije_objektai: "mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_place: Vilnius"
@@ -5154,10 +5466,37 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180890
 
+<a id="claim-t-203464"></a>
+- t-332
+  teiginys: "Atrodo, kad Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras, matyt, buvo Medvėgalis."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys klaidingai priskiria komentarą Dusburgiečiui ir yra perkrautas bibliografija."
+  susije_objektai: "mentioned_place: Medvėgalis; mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Medininkai; mentioned_place: Naugardukas; mentioned_place: Nemunas; mentioned_place: Sizditė; mentioned_place: Telšiai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180922
+
+<a id="claim-t-203466"></a>
+- t-333
+  teiginys: "Pasak Alberto Vijūko-Kojelavičiaus veikalo „Lietuvos istorija“, Liuterio mokymui išplitus Prūsijoje, aukščiausi ir žemiausi Kryžiuočių ordino pareigūnai laužė Dievui duotus įžadus, išsižadėjo Romos tikėjimo ir pradėjo tuoktis."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir ilga vertinamoji dalis."
+  temporaliniai_duomenys: "įvykio data: 1521 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir ilga vertinamoji dalis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-167874
+
 <a id="claim-t-203478"></a>
-- t-203478
+- t-334
   teiginys: "Michał Baliński „Vilniaus miesto istorijoje“ teigia, kad kryžiuočiai įkalbėjo svetimtaučius savanorius, jog visa Lietuva tebėra pagonių šalis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pašalintas stilistinis perteklius ir OCR triukšmas."
   susije_objektai: "mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Anglija"
@@ -5166,9 +5505,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180938
 
 <a id="claim-t-203481"></a>
-- t-203481
+- t-335
   teiginys: "Michał Baliński teigimu, 1408–1414 m. kovose su kryžiuočiais Lietuvos monarcho pastangos buvo nukreiptos į Prūsijos ordino pajėgų silpninimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir išlaikytas faktinis turinys."
   susije_objektai: "mentioned_place: Griunvaldas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Viena"
@@ -5179,10 +5518,25 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180902
 
+<a id="claim-t-203485"></a>
+- t-336
+  teiginys: "Petro Dusburgiečio „Prūsijos žemės kronikoje“ teigiama, kad Kryžiuočių ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra konkretus ir tiesiogiai paremtas citata."
+  susije_objektai: "llm_object: Gardinas; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Ryga"
+  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Gardinas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Lietuva"
+  temporaliniai_duomenys: "įvykio data: 1323 m.; įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180764
+
 <a id="claim-t-203489"></a>
-- t-203489
+- t-337
   teiginys: "Michał Baliński teigimu, lietuvių pasipriešinimas neatbaidė kryžiuočių nuo kasmetinių žygių iki Vilniaus, o 1384 m. Ordino antpuoliai jau siekė Kernavę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Kernavė; mentioned_place: Vilnius; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Ragainė; llm_object: Kernavė"
   semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] surengė žygį į Vilnius; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Kernavė"
@@ -5190,13 +5544,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-162497
     - c-180832
 
 <a id="claim-t-203492"></a>
-- t-203492
+- t-338
   teiginys: "Michał Baliński „Vilniaus miesto istorijoje“ rašo, kad popiežius nusprendė, jog Kryžiuočių ordino riteriai turi grąžinti Rygos Bažnyčiai, vyskupams ir kapitulai viską, ką buvo paėmę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys tiksliai perteikia popiežiaus sprendimo dalį."
   susije_objektai: "mentioned_place: Ryga"
@@ -5204,22 +5557,119 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180831
 
+<a id="claim-t-203512"></a>
+- t-339
+  teiginys: "„Prūsijos žemės kronikos“ 288 pastaboje nurodoma, kad Dusburgietis praleido Henriko iš Hohenlohės pranešimo duomenis apie Liubeko pirklius, padėjusius maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180747
+
+<a id="claim-t-203513"></a>
+- t-340
+  teiginys: "Kryžiuočiai puolė 1233 m. spalio–lapkričio mėn. arba 1234 m. sausio–vasario mėn."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "claim_quality_pipeline deterministic repair"
+  susije_objektai: "mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Pamaris; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Rudinas; mentioned_place: Silezija; mentioned_place: Zirgūna"
+  temporaliniai_duomenys: "įvykio data: po 1202 m.; įvykio data: 1202 m.; įvykio data: po 1229 m.; įvykio data: 1229 m.; įvykio data: po 1232 m.; įvykio data: 1232 m.; įvykio data: 1233 m.; įvykio data: po 1234 m.; įvykio data: 1234 m.; įvykio data: 1235 m.; įvykio data: 1266 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180880
+
 <a id="claim-t-203522"></a>
-- t-203522
+- t-341
   teiginys: "Michał Baliński rašo, kad tarp kryžiuočių buvo įsigalėjusi visuotinė nuomonė, esą Rygos arkivyskupas Fridrichas atsikvietęs priešą į šalį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys tinkamai perteikia citatoje minimą kryžiuočių nuomonę."
   susije_objektai: "llm_object: Livonija; mentioned_author: [[objektai/autoriai/Rygos arkivyskupas Fridrichas|Rygos arkivyskupas Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)|Fridrichas (Rygos arkivyskupas)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Čekija; llm_object: Dorpatas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-162540
     - c-180795
 
+<a id="claim-t-203532"></a>
+- t-342
+  teiginys: "Alberto Vijūko-Kojelavičiaus „Lietuvos istorijoje“ rašoma, kad medžiodamas prie Veliuonos karalius vos nepakliuvo į Rastenburgo komtūro surengtą kryžiuočių pasalą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Įvardytas kontekstas ir pašalintas antraštės triukšmas."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Rastenburgas; mentioned_place: Veliuona; mentioned_place: Viena"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-167869
+
+<a id="claim-t-203545"></a>
+- t-343
+  teiginys: "Pasak Petro Dusburgiečio, Henrikas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir, būdamas vienuolyne, dorybėmis pralenkė kitus brolius."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Išplėstas neaiškus įvardis ir sutrumpintas sakinys."
+  susije_objektai: "mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Prūsija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-162753
+
+<a id="claim-t-203582"></a>
+- t-344
+  teiginys: "Petras Dusburgietis teigia, kad popiežius Honorijus III ir imperatorius Fridrichas II suteikė kunigaikščio titulą Hermanui ir jo įpėdiniams – būsimiems Teutonų ordino magistrams."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citata."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus III|Popiežius Honorijus III]]; mentioned_place: Viena"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180754
+
+<a id="claim-t-203583"></a>
+- t-345
+  teiginys: "Petras Dusburgietis pasakoja regėjimą, kuriame šventoji mergelė vienam broliui atsakė, jog, jo manymu, Ordinas esąs toks palaidas, kad jame nėra nieko, dėl ko būtų galima taip kentėti, kaip jis trokšta."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180840
+
+<a id="claim-t-203584"></a>
+- t-346
+  teiginys: "Petras Dusburgietis „Prūsijos žemės kronikoje“ pasakoja, kad Sventopelko šeimynoje buvęs vienas karys, kuriam Teutonų ordino broliai įvarę tokį siaubą, jog jis visas imdavęs virpėti vos išgirdęs minint jų vardą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180855
+
+<a id="claim-t-203585"></a>
+- t-347
+  teiginys: "Vernerio prierašuose pabrėžiama, kad šie prierašai visuose Ordino namuose turi būti skaitomi keturis kartus per metus, nes visi privalo apie juos žinoti."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-162715
+
 <a id="claim-t-203591"></a>
-- t-203591
+- t-348
   teiginys: "1448 m. Vilniuje su Prūsijos ordinu buvo sudaryta sutartis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas ir paremtas citatoje nurodyta sutartimi."
   susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Chadži Girėjus|Chadži Girėjus]]; mentioned_person: [[objektai/asmenys/Henrikas Plauenas|Henrikas Plauenas]]; mentioned_place: Lietuva; mentioned_place: Perekopas; mentioned_place: Prūsija; mentioned_place: Vilnius"
@@ -5231,9 +5681,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-180915
 
 <a id="claim-t-203602"></a>
-- t-203602
+- t-349
   teiginys: "Michał Baliński, remdamasis Prūsijos metraštininkais, rašo, kad 1337 m. birželio 15 d. Gediminas, surinkęs kariuomenę, sustojo ties Bajerburgu ir puolė kryžiuočių tvirtovę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys tiksliai nurodo datą, veikėją, vietą ir veiksmą."
   susije_objektai: "llm_object: Bajerburgas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Prūsija"
@@ -5244,10 +5694,24 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-180849
 
+<a id="claim-t-203603"></a>
+- t-350
+  teiginys: "Pasak Petro Dusburgiečio „Prūsijos žemės kronikos“, Teutonų namų ordinas pradžią gavo 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citata."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Celestinas III|Celestinas III]]; mentioned_person: [[objektai/asmenys/Henrikas VI|Henrikas VI]]; mentioned_person: [[objektai/asmenys/Popiežius Celestinas III|Popiežius Celestinas III]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180899
+
 <a id="claim-t-205059"></a>
-- t-205059
+- t-351
   teiginys: "Narbutas perduoda Henenbergerio ir Hartknocho pasakojimą, kad kryžiuočiai stebėjosi sūduvės išgerta alaus statine."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5258,9 +5722,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-187688
 
 <a id="claim-t-205078"></a>
-- t-205078
+- t-352
   teiginys: "Narbutas mini, kad Mindaugo 1257 m. ediktu riterių luomo lietuvaičiams suteikta teisė testamentuose daryti įrašus Livonijos provincijos kryžiuočių riterių naudai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5271,9 +5735,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-187808
 
 <a id="claim-t-205239"></a>
-- t-205239
+- t-353
   teiginys: "Veltui vyskupas Kris tijonas skundėsi dvasinei vyresnybei, jog kryžiuočiai ne tik kad nusišalino nuo tikslų, dėl kurių čia buvo atkeldin ti, bet netgi katechumenus atgraso nuo krikšto, persekio ja vyskupijos dvasininkus, ir dar daugelis su jų pašauki mu ir."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5284,9 +5748,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188193
 
 <a id="claim-t-205365"></a>
-- t-205365
+- t-354
   teiginys: "Todėl kryžiuočiai turėjo priežodį: „Pilvas — prūsams dievas“5."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5297,9 +5761,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-187950
 
 <a id="claim-t-205372"></a>
-- t-205372
+- t-355
   teiginys: "1228 m. Hermanas Balkas atvyko į Mozūriją ir balandžio 23 d. Konrado Mazoviečio privilegija ordinui buvo patvirtinta Kulmo žemės nuosavybė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5313,9 +5777,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-187995
 
 <a id="claim-t-205383"></a>
-- t-205383
+- t-356
   teiginys: "Pasak Narbuto, 1379 m. Kryžiuočių ordino valdose buvo priraškyta 608 statinaitės vynuogių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5326,9 +5790,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188131
 
 <a id="claim-t-205462"></a>
-- t-205462
+- t-357
   teiginys: "Narbutas teigia, kad Hermano Zalcos laikais ordinas įsitvirtino Prūsijoje, o vėliau prie jo prisijungė dalis Dobrynės riterių ir kalavijuočiai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5339,9 +5803,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-187728
 
 <a id="claim-t-205544"></a>
-- t-205544
+- t-358
   teiginys: "Pasak šaltinio, Saksonijoje, Vestfalijoje, Frizijoje ir kitose vietovėse buvo surinkta kryžiuočių riterių, atsidėjusių kovai Dauguvos pakrantėse."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5351,9 +5815,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-187727
 
 <a id="claim-t-205594"></a>
-- t-205594
+- t-359
   teiginys: "Teodoras Narbutas rašė, kad kryžiuočiai buvo užkariavę bemaž didesnę senosios Prūsijos dalį ir baisiai engė vietos gyventojus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5364,9 +5828,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188209
 
 <a id="claim-t-205596"></a>
-- t-205596
+- t-360
   teiginys: "1260 m. pabaigoje ir 1261 m. pradžioje prie Jurgenburgo telkėsi vokiečių kariauna, o kryžiuočių stovyklą pasiekė vis grėsmingesnės žinios."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5377,9 +5841,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188211
 
 <a id="claim-t-205597"></a>
-- t-205597
+- t-361
   teiginys: "Teodoras Narbutas teigė, kad kryžiuočiai, vydamiesi aukų, laužė sutartį ir įsipareigojimus, pažeisdami sienų neliečiamumą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5390,9 +5854,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188212
 
 <a id="claim-t-205598"></a>
-- t-205598
+- t-362
   teiginys: "Livonijos magistras Burhardas Hornhauzenas sutelkė Ordino pajėgas, o 1261 m. vasarą į Kuršą įžengusias pajėgas vedė ordino maršalas Henrikas Botelis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5403,9 +5867,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188213
 
 <a id="claim-t-205600"></a>
-- t-205600
+- t-363
   teiginys: "Teodoras Narbutas manė, kad Livonijos magistras Konradas Mandernas neprieštaravo Vaišelgos prašymui, nes tikėjosi Vaišelgą matyti puikiu Ordino sąjungininku ir sulaukti donacijų patvirtinimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5416,9 +5880,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188215
 
 <a id="claim-t-205601"></a>
-- t-205601
+- t-364
   teiginys: "Per kitą žygį kryžiuočiai priartėjo prie Bisėnos, tačiau, be papilių sudeginimo, ten nieko daugiau nepasiekė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5429,9 +5893,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188216
 
 <a id="claim-t-205603"></a>
-- t-205603
+- t-365
   teiginys: "Karaliaučiaus komtūro Bertoldo Briuhaveno vadovaujamas dalinys sėkmingai susijungė su Kuršo, Žemgalos ir Livonijos pilyse prieglobstį radusiomis kitomis Ordino pajėgomis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5442,9 +5906,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188218
 
 <a id="claim-t-205604"></a>
-- t-205604
+- t-366
   teiginys: "Pagal taikos susitarimą kryžiuočiai už tūkstantį gryno sidabro Rygos mato grivinų turėjo parduoti rygiečiams pilį ir perleisti visas teises, kurias Rygoje turėjo arba galėjo įgyti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5455,9 +5919,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188219
 
 <a id="claim-t-205605"></a>
-- t-205605
+- t-367
   teiginys: "Teodoras Narbutas aprašė, kad auštant kryžiuočiai iš visų pusių pradėjo puolimą, tačiau lietuviai atrėmė pirmąją ataką, per kurią žuvo penkiasdešimt priešų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5468,9 +5932,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188220
 
 <a id="claim-t-205607"></a>
-- t-205607
+- t-368
   teiginys: "Prūsijos provincijos magistras ir didžiojo magistro pavaduotojas Friderikas Vildenbergas sutelkė visas ordino pajėgas ir vadovavo kryžiaus žygiui Prūsijoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5481,9 +5945,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188222
 
 <a id="claim-t-205608"></a>
-- t-205608
+- t-369
   teiginys: "1324 m. vasario 10 d. Apaštalų sostinės sprendimu Vokiečių ordino riteriai buvo įpareigoti grąžinti Rygos bažnyčiai pagrobtą turtą ir jos nebepulti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5496,9 +5960,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188223
 
 <a id="claim-t-205610"></a>
-- t-205610
+- t-370
   teiginys: "Teodoras Narbutas šiuose aktuose įžvelgė kryžiuočių politiką, rusinų nusigręžimą nuo Lietuvos ir sąmokslą prieš Lietuvą bei jos didįjį kunigaikštį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5509,9 +5973,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188225
 
 <a id="claim-t-205613"></a>
-- t-205613
+- t-371
   teiginys: "Teodoras Narbutas perteikia Rygos arkivyskupo Frideriko kaltinimą, kad Livonijos ordino magistras ir broliai trukdė lietuvių karaliaus žmonėms pereiti į katalikų tikėjimą, gaudė pasiuntinius ir laikė brolį Gerhardą Dordemurę Ašeradės pilyje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5522,9 +5986,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188228
 
 <a id="claim-t-205616"></a>
-- t-205616
+- t-372
   teiginys: "Teodoras Narbutas rašo, kad Livonijos kryžiuočiai, įgyvendindami arkivyskupo primestą Bažnyčios cenzūrą, nesėkmingai apgulė Dinamiundą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5535,9 +5999,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188231
 
 <a id="claim-t-206134"></a>
-- t-206134
+- t-373
   teiginys: "Penktojo LTI tomo pasakojime minimi Kryžiuočių ordino didieji magistrai Liudolfas Kionichas Vaitcanas, Dusmeris Arfbergas, Henrikas Kniprodė, Konradas Ciolneris Rotenšteinas, Konradas Jungingenas ir Konradas Valenrodas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5546,10 +6010,23 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-188749
 
+<a id="claim-t-206135"></a>
+- t-374
+  teiginys: "Pasak Teodoro Narbuto, valdovo valdymas sudavė Kryžiuočių ordino galybei didžiausią smūgį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188750
+
 <a id="claim-t-206136"></a>
-- t-206136
+- t-375
   teiginys: "Pasak Teodoro Narbuto, nesėkmių įniršinti kryžiuočiai atnaujino sprendimą kasmet rengti žygius į Lietuvą per Grabnyčias ir Švč. Mergelės Marijos Dangun ėmimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5560,9 +6037,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188751
 
 <a id="claim-t-206137"></a>
-- t-206137
+- t-376
   teiginys: "Kryžiuočių ordinas, pasak Teodoro Narbuto, iš Danijos karaliaus už devyniolika tūkstančių gryno sidabro grivinų nusipirko Estiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5573,9 +6050,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188752
 
 <a id="claim-t-206138"></a>
-- t-206138
+- t-377
   teiginys: "Po ilgų karinių nesėkmių, pasak Teodoro Narbuto, Kryžiuočių ordinas buvo priverstas derėtis su didžiuoju kunigaikščiu, siųsdamas pasiuntinius į Vilnių ir priimdamas juos Marienburge."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5586,9 +6063,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188753
 
 <a id="claim-t-206139"></a>
-- t-206139
+- t-378
   teiginys: "Pasak Teodoro Narbuto, daugiau kaip keturiasdešimties tūkstančių kryžiuočių kariuomenei vadovavo didysis magistras, lydimas maršalkos Zigfrido Dahenfeldo, didžiojo komtūro Henriko Kniprodės ir drabužininko Liudviko Folkenbergo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5598,10 +6075,23 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-188754
 
+<a id="claim-t-206140"></a>
+- t-379
+  teiginys: "Pasak Teodoro Narbuto, kryžiuočių išgarsinta sėkmė nevirto įžengimu į Lietuvos žemę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188755
+
 <a id="claim-t-206141"></a>
-- t-206141
+- t-380
   teiginys: "Pasak Teodoro Narbuto, Algirdo laikų Lietuvos sargybos ir pasienio gynybos sistema buvo taip sutvarkyta, kad kryžiuočiams tapo sunku siųsti šnipus į Lietuvą ir palaikyti patikimus sausumos ryšius su Livonija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5612,9 +6102,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188756
 
 <a id="claim-t-206142"></a>
-- t-206142
+- t-381
   teiginys: "Pasak Teodoro Narbuto, didysis magistras pasiuntė kryžiaus žygį į Lietuvą, kuriam per Ragainę ir anapus Nemuno vadovavo ordino maršalka Dahenfeldas; kariauna nusiaubė Raseinių pavietą ir pasiekė Bisėnos apylinkes."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5625,9 +6115,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188757
 
 <a id="claim-t-206143"></a>
-- t-206143
+- t-382
   teiginys: "Pasak Teodoro Narbuto, kryžiuočiai paėmė kunigaikštį Kęstutį į nelaisvę, nugabeno jį į Marienburgą ir jo suėmimą palaikė Dangaus palaiminimo ženklu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5638,9 +6128,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188758
 
 <a id="claim-t-206144"></a>
-- t-206144
+- t-383
   teiginys: "Kryžiuočių ordinas nusprendė siekti Kauno užėmimo, todėl įsakė rinkti žinias apie tvirtovę, įgulą ir gynybą bei rengti laivus ir atsargas žygiui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5651,9 +6141,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188759
 
 <a id="claim-t-206145"></a>
-- t-206145
+- t-384
   teiginys: "Pasak Teodoro Narbuto, kryžiuočių pulkai buvo gausūs, gerai organizuoti ir aprūpinti, o jų priešakyje žygiavo Didžioji ordino vėliava su Dievo Motinos atvaizdu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5664,9 +6154,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188760
 
 <a id="claim-t-206146"></a>
-- t-206146
+- t-385
   teiginys: "Pasak Teodoro Narbuto, kryžiuočiai puolė prie vartų susitelkusius karius ir juos žudė, kol vyresnieji vienuoliai sustabdė skerdynes; pasidavė 36 riteriai, tarp jų Vaidotas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5677,9 +6167,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188761
 
 <a id="claim-t-206147"></a>
-- t-206147
+- t-386
   teiginys: "Pasak Teodoro Narbuto, kryžiuočių didysis magistras rudenį, lydimas Sambijos vyskupo Baltramiejaus ir gausių pulkų, priartėjo prie Nemuno, o tikriausiai kairiuoju krantu žygiavusiam daliniui vadovavo Henrikas Šioningenas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5690,9 +6180,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188762
 
 <a id="claim-t-206148"></a>
-- t-206148
+- t-387
   teiginys: "Pasak Teodoro Narbuto, ordino maršalka su Vokietijos ir Anglijos didikų palyda dukart plėšikavo tarp Nevėžio ir Dubysos, tačiau lietuvių pajėgos abu kartus juos išvijo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5703,9 +6193,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188763
 
 <a id="claim-t-206149"></a>
-- t-206149
+- t-388
   teiginys: "Kryžiuočių ordino pastatytą Gotesverderio tvirtovę prie Nemuno, žemiau Kauno, gynė komtūras, dvidešimt ordino riterių, keturiasdešimt karių ir lankininkų dalinys."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5716,9 +6206,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188764
 
 <a id="claim-t-206150"></a>
-- t-206150
+- t-389
   teiginys: "Kryžiuočių armija, prie Ragainės persikėlusi per Nemuną, pasidalijo į dvi kolonas: viena, vadovaujama didžiojo magistro, plėšė prie Labgirio, kita, vadovaujama maršalkos Ridigerio Elnerio, žygiavo iki Kaltinėnų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5729,9 +6219,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188765
 
 <a id="claim-t-206151"></a>
-- t-206151
+- t-390
   teiginys: "Pasak Teodoro Narbuto, didysis magistras pavedė maršalkai Gotfridui Lindenui su ordino pulkais, komtūrais ir svetimšaliais įsiveržti į Lietuvos žemes; žygis pasiekė Trakų ir Vilniaus apylinkes."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5742,9 +6232,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188766
 
 <a id="claim-t-206152"></a>
-- t-206152
+- t-391
   teiginys: "Pasak Teodoro Narbuto, Kryžiuočių ordinas priėmė slapto patarėjo pasiūlymą užmegzti ryšius, atsiribojant nuo Kęstučio interesų, ir rengė derybas su Jogaila dėl kovos tik prieš jo kariauną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5755,9 +6245,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188767
 
 <a id="claim-t-206153"></a>
-- t-206153
+- t-392
   teiginys: "Pasak Teodoro Narbuto, Kęstučio valstybės žlugimas būtų parengęs sąlygas visos Lietuvos žlugimui, o daugiausia naudos iš to būtų gavę kryžiuočiai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5768,9 +6258,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188768
 
 <a id="claim-t-206154"></a>
-- t-206154
+- t-393
   teiginys: "Pasak Teodoro Narbuto, 1381 m. kryžiuočiai rengėsi karui prieš Kęstutį, o Livonijos magistras puldamas Žemaitijoje išsivarė 700 belaisvių ir daug žirgų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5781,9 +6271,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188769
 
 <a id="claim-t-206157"></a>
-- t-206157
+- t-394
   teiginys: "Pasak Teodoro Narbuto, Dubysos sutartimi Lietuvos didysis kunigaikštis ketverius metus įsipareigojo remti Kryžiuočių ordiną kariuomene, nepulti jo valdų, derinti karus ir priimti katalikų krikštą su visa tauta."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5794,9 +6284,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188772
 
 <a id="claim-t-206158"></a>
-- t-206158
+- t-395
   teiginys: "Pasak Teodoro Narbuto, vienas kunigaikštis su broliu Tautvila pasidavė Kryžiuočių ordino globai, prašydamas tarpininkauti pas Jogailą, o atgavęs tėvonines valdas įsipareigojo tapti ordino vasalu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5807,9 +6297,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188773
 
 <a id="claim-t-206159"></a>
-- t-206159
+- t-396
   teiginys: "Pasak Teodoro Narbuto, Kryžiuočių ordinui buvo naudingiau savo įtakoje ir vasalinėje priklausomybėje laikyti į mažas kunigaikštystes padalytą Lietuvą nei primesti valią vienam valdovui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5820,9 +6310,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188774
 
 <a id="claim-t-206160"></a>
-- t-206160
+- t-397
   teiginys: "Pasak Teodoro Narbuto, Kryžiuočių ordinas įsipareigojo padėti Vytautui atsiimti tėvo valstybę, o Vytautas pažadėjo tarnauti ordinui kovoje su jo priešais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5833,9 +6323,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188775
 
 <a id="claim-t-206161"></a>
-- t-206161
+- t-398
   teiginys: "Pasak Teodoro Narbuto, šis kryžiuočių pralaimėjimas buvo didžiausias iki tol: žuvo 150 ordino brolių ir kilmingųjų riterių, o 55 riteriai, 250 pasauliečių kilmingųjų ir daugiau kaip 1 500 ginkluotųjų pateko į nelaisvę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5846,9 +6336,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188776
 
 <a id="claim-t-206162"></a>
-- t-206162
+- t-399
   teiginys: "Pasak Teodoro Narbuto, kryžiuočiai pakeliui namo buvo visiškai atskirti, o jų palydėti vokiečiai dėl Tomo ir Jono Survilų išdavystės išvengė didesnių nuostolių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5859,9 +6349,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188777
 
 <a id="claim-t-206163"></a>
-- t-206163
+- t-400
   teiginys: "Pasak Teodoro Narbuto, Kryžiuočių ordino įprotis per karus pelnytis ir plėstis „liejant bedievių kraują“ sukėlė jo pagiežą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5872,9 +6362,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188778
 
 <a id="claim-t-206164"></a>
-- t-206164
+- t-401
   teiginys: "Pasak Teodoro Narbuto, Jogaila per Olesnicos kunigaikščio Konrado vadovaujamą pasiuntinybę paprašė Kryžiuočių ordino prisidėti prie Lietuvos krikšto arba laiduoti taiką su katalikybę priimančia Lietuva."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5885,9 +6375,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188779
 
 <a id="claim-t-206166"></a>
-- t-206166
+- t-402
   teiginys: "Kryžiuočių ordino atstovai reikalavo pripažinti teises į Lietuvą, kurias, jų teigimu, suteikė Mindaugo donacijos, popiežių raštai ir imperatoriaus Frideriko II leidimai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5898,9 +6388,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188781
 
 <a id="claim-t-206167"></a>
-- t-206167
+- t-403
   teiginys: "Pasak Teodoro Narbuto, žemaičiai pasaloje sumušė ordino būrį: žuvo keturi riteriai ir 66 kariai, kiti pateko į nelaisvę, o komtūras buvo sudegintas kaip auka dievams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5911,9 +6401,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188782
 
 <a id="claim-t-206168"></a>
-- t-206168
+- t-404
   teiginys: "Kryžiuočių ordinas, pasak Teodoro Narbuto, dėl naudos iš Lietuvos vidaus vaidų priėmė Vytautą ir pažadėjo jam trisdešimties tūkstančių kapų grašių užstatą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5924,9 +6414,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188783
 
 <a id="claim-t-206169"></a>
-- t-206169
+- t-405
   teiginys: "Pasak Teodoro Narbuto, 1390 m. Karaliaučiuje sudaryta sutartis nustatė Žemaitijos paklusnumą Vytautui ir įpareigojo žemaičius prireikus tarnauti Kryžiuočių ordino kariuomenėje, kartu suteikdama prekybos teises."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5937,9 +6427,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188784
 
 <a id="claim-t-206170"></a>
-- t-206170
+- t-406
   teiginys: "Pasak Teodoro Narbuto, Kryžiuočių ordino pamokslininkai skelbė naująjį didįjį magistrą Dangaus pasiuntiniu ir viliojo piligrimus pažadais apie vaišes, turtus bei grobį pagonių žemėje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5949,10 +6439,23 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - c-188785
 
+<a id="claim-t-206171"></a>
+- t-407
+  teiginys: "Vytauto pasiūlytose Noigarteno ir Metenburgo pilaitėse Kryžiuočių ordinas įkurdino įgulas, o jų statybą prižiūrėjo ordino pareigūnai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188786
+
 <a id="claim-t-206172"></a>
-- t-206172
+- t-408
   teiginys: "Pasak Teodoro Narbuto, Valenrodas, sužinojęs apie Vytauto pabėgimą, įtūžo, apkaltino ordino vyresniuosius neatsargumu ir įsakė suimti Vytauto brolį Žygimantą bei Lietuvoje likusius lietuvius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5963,9 +6466,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188787
 
 <a id="claim-t-206173"></a>
-- t-206173
+- t-409
   teiginys: "Lenkijos senatas, pasak Teodoro Narbuto, laikė Zlotorijos, Bobrovnikų ir Dobrynės užėmimą taikos su Kryžiuočių ordinu nutraukimu, o ordinas atsisakė grąžinti Dobrynę be Opolės kunigaikščio leidimo ir išpirkos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5976,9 +6479,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188788
 
 <a id="claim-t-206174"></a>
-- t-206174
+- t-410
   teiginys: "Pasak Teodoro Narbuto, rugpjūčio 15 d. Dubysos salos suvažiavime Lietuvai atstovavo Vytautas ir Skirgaila, o Kryžiuočių ordinui – maršalka Verneris Tetingenas su vyresniaisiais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -5989,9 +6492,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188789
 
 <a id="claim-t-206175"></a>
-- t-206175
+- t-411
   teiginys: "Pasak Teodoro Narbuto, kryžiuočių žygis buvo iškilmingai surengtas, tačiau kariuomenė ugnimi ir kardu niokojo sodybas, paėmė apie 600 belaisvių ir pasigrobė 800 žirgų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -6002,9 +6505,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188790
 
 <a id="claim-t-206176"></a>
-- t-206176
+- t-412
   teiginys: "Pasak Teodoro Narbuto, Konradas Jungingenas sutiko, kad Kryžiuočių kariauna taikiai atsitrauktų nuo Vilniaus per Trakus, o didysis kunigaikštis jos atsitraukimo metu nepultų ir nedarytų nuostolių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -6015,9 +6518,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188791
 
 <a id="claim-t-206177"></a>
-- t-206177
+- t-413
   teiginys: "Pasak Teodoro Narbuto, Kryžiuočių ordinas siekė išplėsti pasaulietinę ir bažnytinę valdžią Livonijoje, perimdamas vyskupijų valdas taip, kaip anksčiau tai darė Prūsijoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -6028,9 +6531,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188792
 
 <a id="claim-t-206178"></a>
-- t-206178
+- t-414
   teiginys: "Pasak Teodoro Narbuto, Kryžiuočių ordinas, vilkindamas taikos derybas, paskelbė kryžiaus žygį į Žemaitiją, tačiau 1397 m. rugsėjį žemaičiai jo kariuomenę sumušė ir paėmė 200 belaisvių bei 500 žirgų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -6041,9 +6544,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188793
 
 <a id="claim-t-206179"></a>
-- t-206179
+- t-415
   teiginys: "Pasak Teodoro Narbuto, sutartyje numatyta, kad visa Žemaitija priklausys Kryžiuočių ordinui, o valdovams mirus be įpėdinių kraštas pereis ordino nuosavybėn."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -6054,9 +6557,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-188794
 
 <a id="claim-t-206189"></a>
-- t-206189
+- t-416
   teiginys: "Pasak Teodoro Narbuto, Kryžiuočių ordino žygis, kuriame dalyvavo iki 70 tūkst. karių, įskaitant Livonijos ir Vytauto pulkus, nepasiekė savo tikslo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -6065,905 +6568,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
   pagrindžia:
     - c-188804
-
-<a id="claim-t-207511"></a>
-- t-207511
-  teiginys: "1230 m. Kryžiuočių ordinas įsikūrė prie Vyslos ir pajungė prūsus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  temporaliniai_duomenys: "įvykio data: 1230 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie Kryžiuočių ordiną. Data, vieta ir prūsų pajungimas tiesiogiai nurodyti citatoje."
-  pagrindžia:
-    - c-190128
-
-<a id="claim-t-214485"></a>
-- t-214485
-  teiginys: "Kai 1253 metų pradžioje susiklostė draugiški Pamario kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis užkariauti Prūsiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194819
-
-<a id="claim-t-214750"></a>
-- t-214750
-  teiginys: "Tačiau, kai joje dar prieš bendrą prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi gyveno kryžiuočių, daugiausia iš Lietuvos atsikėlusių žmonių, dėl to ją ligi šiol vadina prūsų Lietuva."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194597
-
-<a id="claim-t-215624"></a>
-- t-215624
-  teiginys: "Kryžiuočiams val dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi; apie ją žinome tik iš Dusburgo paminėto jos valsčiaus, vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir Raigardo2 3."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195793
-
-<a id="claim-t-216645"></a>
-- t-216645
-  teiginys: "Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo Jono I prašomas, įsakė jį nukirsti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199623
-    - c-201514
-
-<a id="claim-t-216689"></a>
-- t-216689
-  teiginys: "Narbutas pabrėžia, kad Dusburgietis 1326 m. įteikė kroniką didžiajam magistrui praėjus maždaug šimtmečiui nuo kryžiuočių atsikraustymo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Istoriografinis patikimumo argumentas suformuluotas su Narbuto atribucija. Nepridėta jo išvada apie žinių tikrumą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Dusburgietis|Dusburgietis]]"
-  temporaliniai_duomenys: "įvykio data: 1326 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Istoriografinis patikimumo argumentas suformuluotas su Narbuto atribucija. Nepridėta jo išvada apie žinių tikrumą."
-  ryšio_patikimumas: "uzkariavo -> Prūsai: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Prūsų pavergimas tiesiogiai išreiškia Kryžiuočių ordino užkariavimą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-199855
-
-<a id="claim-t-216977"></a>
-- t-216977
-  teiginys: "Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant roje (ypač nuo Gedimino valdymo) Lietuvos galia ir jėga nepa prastai išaugo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200991
-
-<a id="claim-t-217130"></a>
-- t-217130
-  teiginys: "Patys kryžiuočiai tą vietą visuomet palikdavo neliestą: viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug nies, degančios kiekvieną naktį, naudingumo jūrininkams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198753
-
-<a id="claim-t-217202"></a>
-- t-217202
-  teiginys: "Narbutas mini Hartknocho abejonę, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys perrašytas kaip istoriografinė nuomonė, susijusi su kryžiuočių atsikraustymu. Nepridėtas Narbuto paneigimo argumentas."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]"
-  ryšio_patikimumas: "susije_su -> Alepas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "Alepas: mention_match, person, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Alepas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-199855
-
-<a id="claim-t-217278"></a>
-- t-217278
-  teiginys: "Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas 1265 m. pabėgo pas kryžiuočius ir buvo pakrikštytas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Motyvų ir vertinimų perteklius pašalintas, bet pasakojimas paliktas su Narbuto atribucija. Išlaikyti asmuo, data, kryptis ir rezultatas."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Alepas|Alepas]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]"
-  temporaliniai_duomenys: "įvykio data: 1265 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Motyvų ir vertinimų perteklius pašalintas, bet pasakojimas paliktas su Narbuto atribucija. Išlaikyti asmuo, data, kryptis ir rezultatas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-201591
-    - c-199855
-
-<a id="claim-t-217747"></a>
-- t-217747
-  teiginys: "Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "pastate -> Kulmas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje aiškiai pasakyta, kad magistras brolis Hermanas pastatė Kulmo pilį ir miestą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) pastatė Kulmas (0.90)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-201591
-
-<a id="claim-t-217875"></a>
-- t-217875
-  teiginys: "Narbutas mano, kad vyriausiųjų žynių sąrašas autentiškas, nes Prūsijos istorikai galėjo jį perimti iš Kryžiuočių ordino užrašų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Vertinamasis autentiškumo teiginys paliktas su Narbuto atribucija. Nepridėtas jo argumentas apie lietuviškus vardus."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]; mentioned_place: Prūsija"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-201591
-
-<a id="claim-t-218001"></a>
-- t-218001
-  teiginys: "1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė pilį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-
-<a id="claim-t-218843"></a>
-- t-218843
-  teiginys: "Narbutas Simoną Grunau vadina seniausiu žinomu šaltiniu ir pabrėžia, kad jis ne visuomet pagarbiai rašė apie kryžiuočius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "mūšio data: po 1282 m.; mūšio data: 1282 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vokiečių ordinas puolė Lietuva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Vertinamasis autoriaus apibūdinimas paliktas su Narbuto atribucija. Nepridėtos platesnės citatos detalės apie Grunau ydas."
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-
-<a id="claim-t-219078"></a>
-- t-219078
-  teiginys: "Tasai senelis ir toliau nematė būdo, kaip prisidėti prie savo tautiečių gerovės; ėmė galvoti apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už kietėjusių savo savasties gynėjų - žynių ir liaudies, pabėgo pas kryžiuočius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201591
-
-<a id="claim-t-219079"></a>
-- t-219079
-  teiginys: "Hartknocho pastaba Narbutas sieja Senosios Torunės įkūrimą su vieta, kurią kryžiuočiai paėmė įžengdami į Prūsus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Išskleistas Hartknocho ir Narbuto kontekstas. Nepridėta daugiau duomenų apie Dybovės šventąjį ąžuolą."
-  susije_objektai: "llm_object: Torunė; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Torunė"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Torunė"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-198753
-    - c-201591
-
-<a id="claim-t-219297"></a>
-- t-219297
-  teiginys: "Narbutas rašo, kad 1247 m. kryžiuočiai jau valdė Pamedę, tačiau dėl kovų, matyt, neturėjo pakankamai laiko pasirūpinti jos vidaus sutvarkymu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Iš ilgo sakinio paimtas aiškus teiginys apie kryžiuočių valdžią Pamedėje. Nepridėta platesnio krikščioninimo vertinimo."
-  susije_objektai: "llm_object: Pamedė; mentioned_place: Pamedė; mentioned_place: Pamaris"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] valdė Pamedė"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1247 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas valdė Pamedė“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Iš ilgo sakinio paimtas aiškus teiginys apie kryžiuočių valdžią Pamedėje. Nepridėta platesnio krikščioninimo vertinimo."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199623
-
-<a id="claim-t-219488"></a>
-- t-219488
-  teiginys: "1364 m. kryžiuočiai sudegino Veliuoną ir sugriovė jos pilį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys jau buvo faktinis, bet sutrumpintas ir pataisyta forma. Nepridėta Kęstučio atstatymo ir šventyklos istorijos."
-  susije_objektai: "llm_object: Veliuona; mentioned_place: Veliuona; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Veliuona"
-  temporaliniai_duomenys: "mūšio data: 1364 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas puolė Veliuona“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau buvo faktinis, bet sutrumpintas ir pataisyta forma. Nepridėta Kęstučio atstatymo ir šventyklos istorijos."
-  ryšio_patikimumas: "apgule -> Veliuona: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad kryžiuočiai apgulė Veliuonos pilį."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-201264
-
-<a id="claim-t-219763"></a>
-- t-219763
-  teiginys: "Narbutas primena, kad Livonijos kryžiuočiai kariavo su krivičiais, o Livonijos broliai lankydavosi Karaliaučiuje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Retorinis klausimas perrašytas į aiškų sakinį apie kryžiuočių veiksmus. Nepridėta vėlesnio ginčo dėl Dusburgiečio žinios."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Livonija; mentioned_author: [[objektai/autoriai/Stenderis|Stenderis]]; mentioned_person: [[objektai/asmenys/Dusburgietis|Dusburgietis]]; mentioned_place: Lietuva"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-198384
-    - c-199855
-
-<a id="claim-t-219805"></a>
-- t-219805
-  teiginys: "Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas, toliau nematydamas būdo prisidėti prie tautiečių gerovės, ėmė galvoti apie save ir galiausiai, pasprukęs nuo žynių bei liaudies, pabėgo pas kryžiuočius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201591
-
-<a id="claim-t-220424"></a>
-- t-220424
-  teiginys: "Pasak Petro Dusburgiečio, sapne Švenčiausioji Mergelė Marija pasirodė su daugybe Teutonų namų ordino brolių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Tai vizijos pasakojimas, todėl būtina šaltinio atribucija."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Šventoji"
-  ryšio_patikimumas: "puole -> Bisenė: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bisenė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai teigia, kad kryžiuočių kariauna puolė Bisenės pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-204679
-    - c-205678
-
-<a id="claim-t-220471"></a>
-- t-220471
-  teiginys: "Henrikas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir, būdamas vienuolyne, pralenkė kitus brolius dorybėmis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-203751
-
-<a id="claim-t-220582"></a>
-- t-220582
-  teiginys: "Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną 288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP, 5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino pilis — Elbingą ir Baigą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202875
-
-<a id="claim-t-220589"></a>
-- t-220589
-  teiginys: "Tai oficialus Kryžiuočių ordino valstybės kūrinys."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202185
-
-<a id="claim-t-220919"></a>
-- t-220919
-  teiginys: "Baigos ir kitų pilių Ordino broliai laikėsi griežtų vienuoliškų regulų ir dažnai atlikdavo atgailos praktikas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata pagrindžia brolių vienuoliško gyvenimo aprašymą."
-  susije_objektai: "mentioned_place: Baiga; mentioned_place: Engelsbergas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-205172
-
-<a id="claim-t-220931"></a>
-- t-220931
-  teiginys: "Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui ir būsimiems Teutonų ordino magistrams kunigaikščio titulą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> magistras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "magistras: mention_match, thing, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"magistras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-203006
-
-<a id="claim-t-221217"></a>
-- t-221217
-  teiginys: "Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata remia autoriaus interpretacijos teiginį; pašalinti nesusiję fragmentai."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Dusburgietis|Dusburgietis]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-204679
-    - c-204809
-
-<a id="claim-t-221249"></a>
-- t-221249
-  teiginys: "Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į šią."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo žemaičių sutartį su Ordinu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-204619
-
-<a id="claim-t-221393"></a>
-- t-221393
-  teiginys: "1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata pagrindžia aiškų mūšio epizodą apie Ordino brolius."
-  susije_objektai: "llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; llm_object: Pomeranija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_person: [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Austrija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Viena; mentioned_place: Vokietija"
-  semantiniai_rysiai: "[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Pomeranija"
-  temporaliniai_duomenys: "įvykio data: 1245 m.; įvykio data: 1246 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia aiškų mūšio epizodą apie Ordino brolius."
-  ryšio_patikimumas: "susije_su -> Marija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Marija: mention_match, person, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Marija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-204679
-    - c-205678
-
-<a id="claim-t-221428"></a>
-- t-221428
-  teiginys: "Kryžiuočių ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Gardinas: 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo Ordino puolimą Gardino apylinkėse."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Gardinas (0.89); Kryžiuočių ordinas puolė Lietuva (0.88); Livonijos ordinas puolė Lietuva (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1323 m.; įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiesiogiai paremtas citata."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-203201
-
-<a id="claim-t-221437"></a>
-- t-221437
-  teiginys: "Petro Dusburgiečio „Prūsijos žemės kronikos“ pratarmėje pranašo Danieliaus žodžiai panaudoti Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Tai teiginys apie autoriaus retorinį veiksmą, todėl atribucija pagrįsta."
-  susije_objektai: "mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Celestinas III|Celestinas III]]; mentioned_person: [[objektai/asmenys/Popiežius Celestinas III|Popiežius Celestinas III]]; mentioned_place: Austrija; mentioned_place: Jeruzalė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-221455"></a>
-- t-221455
-  teiginys: "XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tamplierių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Tamplierių ordinas: mention_match, group, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Tamplierių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1312 m.; įvykio data: 1314 m.; įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-205028
-    - c-205678
-    - c-204679
-
-<a id="claim-t-221515"></a>
-- t-221515
-  teiginys: "Apgulus Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, Kryžiuočių ordino broliai kentė badą ir stygių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bartenšteinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Bartenšteinas: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Bartenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-205022
-
-<a id="claim-t-221563"></a>
-- t-221563
-  teiginys: "Apie vieną Sventopelko karį Sventopelko šeimynoje buvo vienas karys, kuriam Teutonų ordino broliai įvarė tokį siaubą, kad visas imdavo virpėti vos išgirdęs minint jų vardą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204809
-
-<a id="claim-t-221730"></a>
-- t-221730
-  teiginys: "1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų namų ordino broliais ir įpareigojo juos kovoti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Grigalius IX: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Popiežius Grigalius IX tiesiogiai siejamas su susitarimu su Teutonų namų ordino broliais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Grigalius IX sudarė sutartį su Kryžiuočių ordinas (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1230 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-204063
-    - c-205005
-    - c-205494
-
-<a id="claim-t-221747"></a>
-- t-221747
-  teiginys: "Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Štarkenbergas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Štarkenbergas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Prūsijos magistras su broliais užbaigia statyti pilį, kuri tame pačiame fragmente pavadinama Štarkenbergu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Štarkenbergas (0.78)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-
-<a id="claim-t-221771"></a>
-- t-221771
-  teiginys: "Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Celestinas III: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Celestinas III: mention_match, person, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Celestinas III\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205347
-
-<a id="claim-t-221791"></a>
-- t-221791
-  teiginys: "Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes, niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204666
-
-<a id="claim-t-221999"></a>
-- t-221999
-  teiginys: "Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras veikiausiai buvo Medvėgalis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Medvėgalis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Medvėgalis: mention_match, place, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Medvėgalis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205704
-
-<a id="claim-t-222074"></a>
-- t-222074
-  teiginys: "Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-205494
-
-<a id="claim-t-222385"></a>
-- t-222385
-  teiginys: "Didžiajam magistrui Verneriui kronika buvo reikalinga Ordinui keliamiems priekaištams atremti ir vidaus reformai įgyvendinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys sutrumpintas ir sukonkretintas pagal citatą."
-  susije_objektai: "mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-205494
-    - c-205028
-
-<a id="claim-t-222666"></a>
-- t-222666
-  teiginys: "Ir štai Teutonų ordino broliai pradėję su jais naują karą (II, 7)."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202069
-
-<a id="claim-t-222730"></a>
-- t-222730
-  teiginys: "Kryžiuočių ordino broliai po priešų pabėgimo nužudė 17 Lietuvos karalystės galingesniųjų ir daug paprastų žmonių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-205678
-    - c-205695
-
-<a id="claim-t-222792"></a>
-- t-222792
-  teiginys: "Jį didžiai vertino ir popiežius, ir imperatorius, nekalbant apie kitus kunigaikščius bei didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo savo Ordino garbei bei naudai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-203715
-
-<a id="claim-t-222937"></a>
-- t-222937
-  teiginys: "Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų feodalinių riterių žygių prieš musulmoniškąjį pasaulį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "uzeme -> Kernavė: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kernavė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Kernavės užėmimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-205186
-
-<a id="claim-t-223113"></a>
-- t-223113
-  teiginys: "1244 m. į Prūsiją atvyko magistras Poponas su Ordino broliais ir Austrijos kunigaikščio atsiųstais raitaisiais lankininkais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Austrija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "kelionės data: 1244 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas keliavo į Austrija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia pagalbos atvykimą Ordino broliams."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-204254
-
-<a id="claim-t-223149"></a>
-- t-223149
-  teiginys: "Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-202875
-    - c-205005
-    - c-205704
-
-<a id="claim-t-223398"></a>
-- t-223398
-  teiginys: "Petras Dusburgietis pasakoja regėjimą, kuriame šventoji mergelė vienam broliui atsakė, jog, jo manymu, Ordinas esąs toks palaidas, kad jame nėra nieko, dėl ko būtų galima taip kentėti, kaip jis trokšta."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204679
-
-<a id="claim-t-223520"></a>
-- t-223520
-  teiginys: "Petras Dusburgietis savo knygoje surašė Ordino brolių karus ir ją užbaigė 1326 metais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Petras Dusburgietis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Petras Dusburgietis: mention_match, author, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Petras Dusburgietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-205190
-    - c-205161
-    - c-205678
-    - c-205695
-
-<a id="claim-t-224344"></a>
-- t-224344
-  teiginys: "Štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-224585"></a>
-- t-224585
-  teiginys: "Garbingą ir naudingą vietą ordine užima dvasininkai, kurie taikos metu, visur pasklidę nelyginant kibirkštys, skatina brolius pasauliečius stropiai laikytis regulos, laiko pamaldas ir teikia sakramentus, o skubantiems į kruvinas žudynes vardan gyvenimo ar."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205829
-
-<a id="claim-t-224687"></a>
-- t-224687
-  teiginys: "Henrikas Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas, ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus] piliai padegti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206352
-
-<a id="claim-t-224764"></a>
-- t-224764
-  teiginys: "Brolis Gerhardas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir pradėjo tyrą gyvenimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gerhardas (valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai teigia, kad Gerhardas atvyko į Prūsiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Gerhardas (valdovas) keliavo į Prūsija (0.93)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-203262
-
-<a id="claim-t-225131"></a>
-- t-225131
-  teiginys: "Pratarmėje Petras Dusburgietis pranašo Danieliaus žodžius panaudojo Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-
-<a id="claim-t-225232"></a>
-- t-225232
-  teiginys: "Šventoji mergelė jam atsakė: „Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204679
-
-<a id="claim-t-225483"></a>
-- t-225483
-  teiginys: "231 Kryžiuočiai puolė 1233 m. spalio-lapkričio mėn."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> K. Būga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "K. Būga: mention_match, author, gap=5"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"K. Būga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: po 1202 m.; įvykio data: 1202 m.; įvykio data: po 1229 m.; įvykio data: 1229 m.; įvykio data: po 1232 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  pagrindžia:
-    - c-205114
 
 ## Reikšmingi paminėjimai
 - c-045
@@ -7603,8 +7207,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193098
+  pagrindzia:
+    - t-197
 
 - id: c-00326
   redaktorius: "A. Šapoka"
@@ -7625,8 +7229,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193100
+  pagrindzia:
+    - t-199
 
 - id: c-13394
   redaktorius: "A. Šapoka"
@@ -7645,8 +7249,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179101
+  pagrindzia:
+    - t-156
 
 - id: c-13397
   redaktorius: "A. Šapoka"
@@ -7665,9 +7269,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178862
-    - t-179016
+  pagrindzia:
+    - t-042
+    - t-121
 
 - id: c-13398
   redaktorius: "A. Šapoka"
@@ -7685,8 +7289,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179072
+  pagrindzia:
+    - t-145
 
 - id: c-13400
   redaktorius: "A. Šapoka"
@@ -7708,9 +7312,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179044
-    - t-193101
+  pagrindzia:
+    - t-200
 
 - id: c-13402
   redaktorius: "A. Šapoka"
@@ -7738,8 +7341,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178881
+  pagrindzia:
+    - t-054
 
 - id: c-14980
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -7762,8 +7365,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178873
+  pagrindzia:
+    - t-048
 
 - id: c-31122
   autorius: "Zenonas Ivinskis"
@@ -7784,8 +7387,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203037
+  pagrindzia:
+    - t-276
 
 - id: c-31126
   autorius: "Zenonas Ivinskis"
@@ -7805,8 +7408,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198863
+  pagrindzia:
+    - t-266
 
 - id: c-31137
   autorius: "Zenonas Ivinskis"
@@ -7822,6 +7425,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-258
 
 - id: c-31138
   autorius: "Zenonas Ivinskis"
@@ -7840,8 +7445,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203104
+  pagrindzia:
+    - t-282
 
 - id: c-31142
   autorius: "Zenonas Ivinskis"
@@ -7863,9 +7468,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198646
-
 - id: c-36829
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -7887,9 +7489,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-12369
-    - t-178838
+  pagrindzia:
+    - t-001
 
 - id: c-36830
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -7911,8 +7512,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178904
+  pagrindzia:
+    - t-068
 
 - id: c-36833
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -7932,9 +7533,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178831
-    - t-178852
+  pagrindzia:
+    - t-035
 
 - id: c-36835
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -7955,8 +7555,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-12375
+  pagrindzia:
+    - t-012
 
 - id: c-36836
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -7974,8 +7574,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178939
+  pagrindzia:
+    - t-085
 
 - id: c-36837
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -7995,8 +7595,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178901
+  pagrindzia:
+    - t-066
 
 - id: c-36839
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -8014,8 +7614,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179015
+  pagrindzia:
+    - t-120
 
 - id: c-36840
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -8041,8 +7641,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178805
+  pagrindzia:
+    - t-002
 
 - id: c-36841
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -8062,8 +7662,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178887
+  pagrindzia:
+    - t-057
 
 - id: c-36843
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -8086,8 +7686,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178906
+  pagrindzia:
+    - t-069
 
 - id: c-36844
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -8112,8 +7712,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178813
+  pagrindzia:
+    - t-014
 
 - id: c-36845
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -8139,8 +7739,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179099
+  pagrindzia:
+    - t-155
 
 - id: c-36846
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -8163,8 +7763,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178979
+  pagrindzia:
+    - t-099
 
 - id: c-36851
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -8184,8 +7784,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179007
+  pagrindzia:
+    - t-116
 
 - id: c-46313
   redaktorius: "A. Šapoka"
@@ -8205,8 +7805,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178995
+  pagrindzia:
+    - t-109
 
 - id: c-46319
   redaktorius: "A. Šapoka"
@@ -8225,8 +7825,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179021
+  pagrindzia:
+    - t-124
 
 - id: c-46320
   redaktorius: "A. Šapoka"
@@ -8244,8 +7844,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179062
+  pagrindzia:
+    - t-139
 
 - id: c-46324
   redaktorius: "A. Šapoka"
@@ -8262,8 +7862,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179018
+  pagrindzia:
+    - t-122
 
 - id: c-46325
   redaktorius: "A. Šapoka"
@@ -8282,8 +7882,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179125
+  pagrindzia:
+    - t-169
 
 - id: c-162483
   autorius: "Petras Dusburgietis"
@@ -8301,6 +7901,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-063
 
 - id: c-162484
   autorius: "Michał Baliński"
@@ -8322,9 +7924,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178970
-    - t-179050
+  pagrindzia:
+    - t-095
 
 - id: c-162486
   autorius: "Michał Baliński"
@@ -8349,9 +7950,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179070
-    - t-203384
+  pagrindzia:
+    - t-143
+    - t-318
 
 - id: c-162488
   autorius: "Michał Baliński"
@@ -8374,8 +7975,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178846
+  pagrindzia:
+    - t-032
 
 - id: c-162490
   autorius: "Michał Baliński"
@@ -8403,8 +8004,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178892
+  pagrindzia:
+    - t-060
 
 - id: c-162491
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -8425,10 +8026,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178838
-    - t-178907
-
 - id: c-162495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -8451,6 +8048,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-112
+    - t-221
 
 - id: c-162496
   autorius: "Petras Dusburgietis"
@@ -8473,6 +8073,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-062
 
 - id: c-162497
   autorius: "Michał Baliński"
@@ -8499,10 +8101,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178817
-    - t-178823
-    - t-203489
+  pagrindzia:
+    - t-018
+    - t-022
 
 - id: c-162498
   autorius: "Michał Baliński"
@@ -8526,8 +8127,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178816
+  pagrindzia:
+    - t-017
 
 - id: c-162499
   autorius: "Petras Dusburgietis"
@@ -8559,6 +8160,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-101
+    - t-220
 
 - id: c-162500
   autorius: "Petras Dusburgietis"
@@ -8584,7 +8188,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162502
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -8606,8 +8209,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179052
+  pagrindzia:
+    - t-137
 
 - id: c-162507
   autorius: "Petras Dusburgietis"
@@ -8631,6 +8234,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170
+    - t-204
 
 - id: c-162509
   autorius: "Michał Baliński"
@@ -8673,9 +8279,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178830
-    - t-178973
+  pagrindzia:
+    - t-025
+    - t-096
 
 - id: c-162510
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -8697,9 +8303,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-12375
-    - t-179102
+  pagrindzia:
+    - t-157
 
 - id: c-162514
   autorius: "Michał Baliński"
@@ -8726,8 +8331,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179077
+  pagrindzia:
+    - t-149
 
 - id: c-162515
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -8749,9 +8354,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178918
-    - t-179124
+  pagrindzia:
+    - t-074
+    - t-168
 
 - id: c-162517
   autorius: "Petras Dusburgietis"
@@ -8772,6 +8377,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102
 
 - id: c-162518
   autorius: "Petras Dusburgietis"
@@ -8797,6 +8404,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-091
 
 - id: c-162520
   autorius: "Michał Baliński"
@@ -8830,9 +8439,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178986
-    - t-203383
+  pagrindzia:
+    - t-104
 
 - id: c-162521
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -8852,9 +8460,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178843
-    - t-178956
+  pagrindzia:
+    - t-031
+    - t-090
 
 - id: c-162522
   autorius: "Michał Baliński"
@@ -8885,9 +8493,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178869
-    - t-178870
+  pagrindzia:
+    - t-045
 
 - id: c-162524
   autorius: "Michał Baliński"
@@ -8926,8 +8533,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178962
+  pagrindzia:
+    - t-092
 
 - id: c-162526
   autorius: "Michał Baliński"
@@ -8950,8 +8557,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178850
+  pagrindzia:
+    - t-033
 
 - id: c-162531
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -8979,9 +8586,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179008
-    - t-179067
+  pagrindzia:
+    - t-117
+    - t-141
 
 - id: c-162532
   autorius: "Michał Baliński"
@@ -9000,8 +8607,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179026
+  pagrindzia:
+    - t-126
 
 - id: c-162533
   autorius: "Michał Baliński"
@@ -9024,8 +8631,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179097
+  pagrindzia:
+    - t-154
 
 - id: c-162534
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -9044,9 +8651,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178835
-    - t-178885
+  pagrindzia:
+    - t-027
+    - t-055
 
 - id: c-162536
   redaktorius: "A. Šapoka"
@@ -9066,8 +8673,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178861
+  pagrindzia:
+    - t-041
 
 - id: c-162538
   autorius: "Petras Dusburgietis"
@@ -9086,6 +8693,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-083
 
 - id: c-162540
   autorius: "Michał Baliński"
@@ -9113,10 +8722,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178866
-    - t-179103
-    - t-203522
+  pagrindzia:
+    - t-043
+    - t-158
 
 - id: c-162541
   autorius: "Michał Baliński"
@@ -9145,9 +8753,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179030
-    - t-179120
+  pagrindzia:
+    - t-128
+    - t-166
 
 - id: c-162542
   autorius: "Michał Baliński"
@@ -9169,10 +8777,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178957
-    - t-178967
-
 - id: c-162546
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9226,6 +8830,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-133
 
 - id: c-162549
   autorius: "Michał Baliński"
@@ -9249,15 +8855,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     pradžioje.
   citata_rodoma: "Dėl tos nelemtos padėties\nkryžiuočių grobuoniškumas irgi ilgam buvo užtveręs kelią bet\nkokiai pažangai visoje mūsų žemėje. Išsami šio miesto istorija pa­\nteiks skaitytojams įrodymų ir patikinimų dėl tų kelių pastabų apie\n10\n\n## Puslapis 27\n\nI V  A D  A S\nLietuvos miestus, kurias mes leidome sau išdėstyti šio veikalo\npradžioje."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179063
-
 - id: c-162553
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9278,9 +8880,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178797
-    - t-178870
+  pagrindzia:
+    - t-008
 
 - id: c-162554
   autorius: "Michał Baliński"
@@ -9304,8 +8905,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178987
+  pagrindzia:
+    - t-105
 
 - id: c-162555
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -9328,9 +8929,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178838
-    - t-179075
+  pagrindzia:
+    - t-147
 
 - id: c-162559
   autorius: "Michał Baliński"
@@ -9356,8 +8956,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179012
+  pagrindzia:
+    - t-119
 
 - id: c-162560
   autorius: "Michał Baliński"
@@ -9382,8 +8982,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178801
+  pagrindzia:
+    - t-009
 
 - id: c-162561
   autorius: "Petras Dusburgietis"
@@ -9401,6 +9001,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-047
 
 - id: c-162563
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -9421,8 +9023,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179023
+  pagrindzia:
+    - t-125
 
 - id: c-162564
   autorius: "Michał Baliński"
@@ -9446,8 +9048,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178795
+  pagrindzia:
+    - t-007
 
 - id: c-162566
   autorius: "Petras Dusburgietis"
@@ -9487,6 +9089,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-078
 
 - id: c-162567
   autorius: "Petras Dusburgietis"
@@ -9509,6 +9113,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-064
 
 - id: c-162571
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -9525,17 +9131,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė.
   citata_rodoma: "Dabar visa garbė ir\nšlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­\nčiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus\ntotorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą.\nKai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti\njam pabėgėlį Tochtamyšą, tai Vytautas atsisakė."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178979
-    - t-179004
-    - t-179117
-
 - id: c-162572
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -9551,8 +9151,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178984
+  pagrindzia:
+    - t-103
 
 - id: c-162576
   redaktorius: "A. Šapoka"
@@ -9572,10 +9172,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179031
-    - t-179072
-    - t-329
+  pagrindzia:
+    - t-129
 
 - id: c-162577
   redaktorius: "A. Šapoka"
@@ -9594,8 +9192,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179114
+  pagrindzia:
+    - t-162
 
 - id: c-162578
   redaktorius: "A. Šapoka"
@@ -9614,8 +9212,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179086
+  pagrindzia:
+    - t-150
 
 - id: c-162579
   autorius: "Michał Baliński"
@@ -9640,9 +9238,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178967
-
 - id: c-162580
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9679,7 +9274,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162581
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9706,8 +9300,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178890
+  pagrindzia:
+    - t-059
 
 - id: c-162582
   autorius: "Petras Dusburgietis"
@@ -9732,6 +9326,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-144
 
 - id: c-162584
   autorius: "Petras Dusburgietis"
@@ -9757,6 +9353,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-094
 
 - id: c-162587
   autorius: "Michał Baliński"
@@ -9781,10 +9379,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178849
-    - t-178870
-
 - id: c-162588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9807,7 +9401,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162589
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -9829,9 +9422,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178935
-    - t-178979
+  pagrindzia:
+    - t-082
+    - t-099
 
 - id: c-162590
   autorius: "Michał Baliński"
@@ -9855,9 +9448,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179020
-
 - id: c-162591
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -9883,8 +9473,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-12372
+  pagrindzia:
+    - t-003
 
 - id: c-162593
   autorius: "Petras Dusburgietis"
@@ -9908,7 +9498,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162596
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9931,6 +9520,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-110
 
 - id: c-162598
   autorius: "Michał Baliński"
@@ -9954,8 +9545,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179042
+  pagrindzia:
+    - t-134
 
 - id: c-162599
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -9979,9 +9570,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178877
-    - t-178940
+  pagrindzia:
+    - t-052
+    - t-086
 
 - id: c-162600
   autorius: "Michał Baliński"
@@ -10015,10 +9606,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178789
-    - t-178908
-    - t-178994
+  pagrindzia:
+    - t-004
+    - t-070
 
 - id: c-162601
   autorius: "Petras Dusburgietis"
@@ -10035,6 +9625,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-030
 
 - id: c-162605
   autorius: "Michał Baliński"
@@ -10052,8 +9644,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178868
+  pagrindzia:
+    - t-044
 
 - id: c-162607
   autorius: "Michał Baliński"
@@ -10101,8 +9693,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179115
+  pagrindzia:
+    - t-163
 
 - id: c-162608
   autorius: "Petras Dusburgietis"
@@ -10125,6 +9717,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-061
 
 - id: c-162610
   autorius: "Petras Dusburgietis"
@@ -10148,6 +9742,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-081
 
 - id: c-162613
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -10171,8 +9767,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178886
+  pagrindzia:
+    - t-056
 
 - id: c-162614
   redaktorius: "A. Šapoka"
@@ -10193,8 +9789,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178942
+  pagrindzia:
+    - t-087
 
 - id: c-162617
   autorius: "Michał Baliński"
@@ -10227,12 +9823,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178832
-    - t-179014
-    - t-203280
-    - t-203281
-
 - id: c-162618
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10253,8 +9843,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179001
+  pagrindzia:
+    - t-113
 
 - id: c-162619
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -10275,9 +9865,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178831
-    - t-178974
+  pagrindzia:
+    - t-097
 
 - id: c-162620
   autorius: "Petras Dusburgietis"
@@ -10299,6 +9888,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+    - t-320
 
 - id: c-162621
   autorius: "Michał Baliński"
@@ -10330,8 +9922,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178880
+  pagrindzia:
+    - t-053
 
 - id: c-162628
   autorius: "Michał Baliński"
@@ -10354,8 +9946,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178859
+  pagrindzia:
+    - t-039
 
 - id: c-162630
   autorius: "Michał Baliński"
@@ -10388,8 +9980,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178855
+  pagrindzia:
+    - t-037
 
 - id: c-162631
   autorius: "Michał Baliński"
@@ -10412,8 +10004,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178889
+  pagrindzia:
+    - t-058
 
 - id: c-162632
   autorius: "Petras Dusburgietis"
@@ -10434,6 +10026,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-127
 
 - id: c-162633
   autorius: "Michał Baliński"
@@ -10455,8 +10049,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178870
+  pagrindzia:
+    - t-046
 
 - id: c-162635
   autorius: "Petras Dusburgietis"
@@ -10477,7 +10071,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162636
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10500,8 +10093,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178827
+  pagrindzia:
+    - t-024
 
 - id: c-162637
   autorius: "Michał Baliński"
@@ -10520,8 +10113,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178790
+  pagrindzia:
+    - t-005
 
 - id: c-162639
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -10541,9 +10134,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178902
-    - t-179007
+  pagrindzia:
+    - t-067
 
 - id: c-162644
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -10561,8 +10153,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179003
+  pagrindzia:
+    - t-114
 
 - id: c-162645
   autorius: "Michał Baliński"
@@ -10579,13 +10171,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     nymą vaizduodami puikiausiu atpildu Vytautui už jo
     laimėjimus, nenuilsdami stengėsi dvejus metus.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178913
+  pagrindzia:
+    - t-071
     - t-284
 
 - id: c-162646
@@ -10605,8 +10196,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178841
+  pagrindzia:
+    - t-029
 
 - id: c-162650
   autorius: "Michał Baliński"
@@ -10629,8 +10220,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179066
+  pagrindzia:
+    - t-140
 
 - id: c-162651
   autorius: "Michał Baliński"
@@ -10651,8 +10242,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178994
+  pagrindzia:
+    - t-108
 
 - id: c-162655
   autorius: "Petras Dusburgietis"
@@ -10672,7 +10263,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162656
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -10694,6 +10284,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-100
 
 - id: c-162657
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -10713,8 +10305,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179073
+  pagrindzia:
+    - t-146
 
 - id: c-162660
   redaktorius: "A. Šapoka"
@@ -10736,9 +10328,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179044
-    - t-203408
+  pagrindzia:
+    - t-324
 
 - id: c-162661
   autorius: "Michał Baliński"
@@ -10763,9 +10354,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179033
-    - t-179076
+  pagrindzia:
+    - t-130
+    - t-148
 
 - id: c-162664
   autorius: "Petras Dusburgietis"
@@ -10784,6 +10375,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
 
 - id: c-162665
   autorius: "Petras Dusburgietis"
@@ -10813,7 +10406,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162666
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -10835,9 +10427,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178904
-    - t-179019
+  pagrindzia:
+    - t-123
 
 - id: c-162669
   autorius: "Petras Dusburgietis"
@@ -10884,6 +10475,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-073
 
 - id: c-162672
   autorius: "Petras Dusburgietis"
@@ -10908,7 +10501,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162675
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -10930,7 +10522,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162677
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -10951,6 +10542,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-131
+    - t-222
 
 - id: c-162678
   autorius: "Michał Baliński"
@@ -10990,8 +10584,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178931
+  pagrindzia:
+    - t-080
 
 - id: c-162682
   autorius: "Michał Baliński"
@@ -11018,8 +10612,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178938
+  pagrindzia:
+    - t-084
 
 - id: c-162683
   autorius: "Petras Dusburgietis"
@@ -11042,7 +10636,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162684
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11066,6 +10659,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-079
 
 - id: c-162686
   sudarytojas: "Karolis Zikaras"
@@ -11090,8 +10685,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178812
+  pagrindzia:
+    - t-013
 
 - id: c-162692
   autorius: "Petras Dusburgietis"
@@ -11114,6 +10709,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-162693
   autorius: "Michał Baliński"
@@ -11140,8 +10737,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179038
+  pagrindzia:
+    - t-132
 
 - id: c-162694
   autorius: "Petras Dusburgietis"
@@ -11162,7 +10759,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162696
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11190,8 +10786,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178950
+  pagrindzia:
+    - t-088
 
 - id: c-162700
   autorius: "Petras Dusburgietis"
@@ -11217,7 +10813,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162701
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11239,8 +10834,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178977
+  pagrindzia:
+    - t-098
 
 - id: c-162702
   autorius: "Michał Baliński"
@@ -11269,8 +10864,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179045
+  pagrindzia:
+    - t-135
 
 - id: c-162707
   autorius: "Petras Dusburgietis"
@@ -11294,6 +10889,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-065
 
 - id: c-162708
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -11326,10 +10923,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178979
-    - t-178988
-
 - id: c-162709
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11346,6 +10939,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-151
 
 - id: c-162710
   autorius: "Petras Dusburgietis"
@@ -11382,6 +10977,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-160
 
 - id: c-162713
   autorius: "Petras Dusburgietis"
@@ -11401,6 +10998,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-076
+    - t-216
 
 - id: c-162715
   autorius: "Petras Dusburgietis"
@@ -11424,6 +11024,10 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-049
+    - t-217
+    - t-347
 
 - id: c-162719
   autorius: "Michał Baliński"
@@ -11450,8 +11054,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178834
+  pagrindzia:
+    - t-026
 
 - id: c-162720
   autorius: "Petras Dusburgietis"
@@ -11472,7 +11076,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162722
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11498,10 +11101,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178832
-    - t-178991
-    - t-179118
+  pagrindzia:
+    - t-106
+    - t-164
 
 - id: c-162723
   autorius: "Petras Dusburgietis"
@@ -11522,6 +11124,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-153
 
 - id: c-162726
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -11545,9 +11149,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179005
-    - t-179069
+  pagrindzia:
+    - t-115
+    - t-142
 
 - id: c-162727
   autorius: "Michał Baliński"
@@ -11574,8 +11178,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178820
+  pagrindzia:
+    - t-019
 
 - id: c-162733
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -11595,8 +11199,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179109
+  pagrindzia:
+    - t-161
 
 - id: c-162734
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -11615,8 +11219,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178841
+  pagrindzia:
+    - t-029
 
 - id: c-162739
   autorius: "Michał Baliński"
@@ -11642,8 +11246,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178992
+  pagrindzia:
+    - t-107
 
 - id: c-162743
   autorius: "Petras Dusburgietis"
@@ -11663,6 +11267,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-162744
   autorius: "Petras Dusburgietis"
@@ -11682,6 +11288,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-036
 
 - id: c-162746
   autorius: "Michał Baliński"
@@ -11706,8 +11314,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178953
+  pagrindzia:
+    - t-089
 
 - id: c-162748
   autorius: "Petras Dusburgietis"
@@ -11734,6 +11342,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-051
 
 - id: c-162749
   autorius: "Petras Dusburgietis"
@@ -11754,7 +11364,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162750
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11780,6 +11389,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-040
 
 - id: c-162751
   autorius: "Michał Baliński"
@@ -11801,9 +11412,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178892
-    - t-178963
+  pagrindzia:
+    - t-093
 
 - id: c-162752
   autorius: "Petras Dusburgietis"
@@ -11822,7 +11432,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162753
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11843,6 +11452,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-343
 
 - id: c-162757
   autorius: "Petras Dusburgietis"
@@ -11864,6 +11475,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-050
+    - t-285
 
 - id: c-162758
   autorius: "Michał Baliński"
@@ -11896,8 +11510,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178997
+  pagrindzia:
+    - t-111
 
 - id: c-162759
   autorius: "Michał Baliński"
@@ -11918,8 +11532,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178926
+  pagrindzia:
+    - t-077
 
 - id: c-162760
   autorius: "Petras Dusburgietis"
@@ -11942,6 +11556,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-223
 
 - id: c-162762
   autorius: "Petras Dusburgietis"
@@ -11967,6 +11583,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-165
 
 - id: c-162766
   autorius: "Petras Dusburgietis"
@@ -11990,6 +11608,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-038
 
 - id: c-162767
   autorius: "Petras Dusburgietis"
@@ -12012,6 +11632,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-028
 
 - id: c-162770
   autorius: "Michał Baliński"
@@ -12035,8 +11657,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179050
+  pagrindzia:
+    - t-136
 
 - id: c-162772
   autorius: "Michał Baliński"
@@ -12066,13 +11688,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178855
-    - t-178883
-    - t-179048
-    - t-194173
-    - t-203457
-
 - id: c-162774
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -12097,6 +11712,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
 
 - id: c-162781
   autorius: "Petras Dusburgietis"
@@ -12118,6 +11735,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-229
 
 - id: c-162782
   autorius: "Petras Dusburgietis"
@@ -12139,6 +11758,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
 
 - id: c-162783
   autorius: "Michał Baliński"
@@ -12161,8 +11782,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179123
+  pagrindzia:
+    - t-167
 
 - id: c-162785
   autorius: "Petras Dusburgietis"
@@ -12185,7 +11806,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162789
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -12223,8 +11843,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178916
+  pagrindzia:
+    - t-072
 
 - id: c-162790
   autorius: "Michał Baliński"
@@ -12254,8 +11874,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179088
+  pagrindzia:
+    - t-152
 
 - id: c-162791
   autorius: "Petras Dusburgietis"
@@ -12279,7 +11899,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -12298,6 +11917,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-162795
   autorius: "Petras Dusburgietis"
@@ -12322,6 +11943,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
 
 - id: c-162796
   autorius: "Petras Dusburgietis"
@@ -12345,6 +11968,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-062
 
 - id: c-162799
   autorius: "Michał Baliński"
@@ -12372,8 +11997,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178923
+  pagrindzia:
+    - t-075
 
 - id: c-162802
   autorius: "Michał Baliński"
@@ -12402,8 +12027,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179010
+  pagrindzia:
+    - t-118
 
 - id: c-162806
   redaktorius: "A. Šapoka"
@@ -12421,9 +12046,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179016
-    - t-179062
+  pagrindzia:
+    - t-121
+    - t-139
 
 - id: c-162812
   autorius: "Petras Dusburgietis"
@@ -12447,7 +12072,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-162816
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -12492,8 +12116,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179057
+  pagrindzia:
+    - t-138
 
 - id: c-162818
   autorius: "Michał Baliński"
@@ -12526,8 +12150,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179105
+  pagrindzia:
+    - t-159
 
 - id: c-166303
   redaktorius: "A. Šapoka"
@@ -12548,9 +12172,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178861
-
 - id: c-166529
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12568,8 +12189,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179109
+  pagrindzia:
+    - t-161
 
 - id: c-167268
   autorius: "Petras Dusburgietis"
@@ -12591,6 +12212,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-110
 
 - id: c-167270
   autorius: "Petras Dusburgietis"
@@ -12614,6 +12237,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-034
 
 - id: c-167604
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -12634,8 +12259,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178901
+  pagrindzia:
+    - t-066
 
 - id: c-167851
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -12662,9 +12287,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184490
-    - t-184513
+  pagrindzia:
+    - t-171
 
 - id: c-167853
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -12699,8 +12323,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196078
+  pagrindzia:
+    - t-172
+    - t-208
 
 - id: c-167854
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -12737,9 +12362,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184493
-    - t-196079
+  pagrindzia:
+    - t-173
+    - t-209
 
 - id: c-167855
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -12769,8 +12394,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184494
+  pagrindzia:
+    - t-174
 
 - id: c-167856
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -12809,9 +12434,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184495
-    - t-184513
+  pagrindzia:
+    - t-175
 
 - id: c-167857
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -12839,8 +12463,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184496
+  pagrindzia:
+    - t-176
 
 - id: c-167859
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -12867,10 +12491,10 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184498
-    - t-184504
-    - t-203226
+  pagrindzia:
+    - t-177
+    - t-182
+    - t-292
 
 - id: c-167860
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -12898,8 +12522,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184499
+  pagrindzia:
+    - t-178
 
 - id: c-167861
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -12925,9 +12549,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184500
-    - t-196081
+  pagrindzia:
+    - t-179
+    - t-211
 
 - id: c-167862
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -12958,8 +12582,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184501
+  pagrindzia:
+    - t-180
 
 - id: c-167864
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -12986,10 +12610,10 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184503
-    - t-196082
-    - t-203169
+  pagrindzia:
+    - t-181
+    - t-212
+    - t-286
 
 - id: c-167865
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -13018,9 +12642,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184504
-    - t-196082
+  pagrindzia:
+    - t-212
 
 - id: c-167866
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -13049,8 +12672,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184505
+  pagrindzia:
+    - t-183
 
 - id: c-167867
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -13073,8 +12696,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184506
+  pagrindzia:
+    - t-184
 
 - id: c-167868
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -13103,8 +12726,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184507
+  pagrindzia:
+    - t-185
 
 - id: c-167869
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -13129,13 +12752,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     tinkamoje vietoje. Po to ir viena, ir kita šalis puldinėjo
     ir siaubė viską, kas pakliuvo po ranka.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184508
+  pagrindzia:
+    - t-186
     - t-342
 
 - id: c-167870
@@ -13172,7 +12794,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-167871
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13198,9 +12819,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184510
-    - t-184513
+  pagrindzia:
+    - t-187
 
 - id: c-167873
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -13230,8 +12850,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184512
+  pagrindzia:
+    - t-188
 
 - id: c-167874
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -13267,8 +12887,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184513
+  pagrindzia:
+    - t-189
+    - t-333
 
 - id: c-170652
   autorius: "Anoniminis metraštininkas"
@@ -13285,6 +12906,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190
 
 - id: c-171102
   autorius: "Teodoras Narbutas"
@@ -13304,6 +12927,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-191
 
 - id: c-171103
   autorius: "Teodoras Narbutas"
@@ -13322,6 +12947,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192
 
 - id: c-171104
   autorius: "Teodoras Narbutas"
@@ -13345,7 +12972,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-171105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -13367,7 +12993,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-171107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -13387,7 +13012,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-171108
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -13416,7 +13040,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-171109
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -13448,7 +13071,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-171110
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -13468,7 +13090,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-171111
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -13495,7 +13116,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-171112
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -13521,7 +13141,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-173451
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -13541,7 +13160,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-173452
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -13565,7 +13183,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-175209
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -13590,6 +13207,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193
+    - t-226
 
 - id: c-175210
   autorius: "Teodoras Narbutas"
@@ -13614,6 +13234,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194
+    - t-227
 
 - id: c-175211
   autorius: "Teodoras Narbutas"
@@ -13635,6 +13258,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195
 
 - id: c-175860
   redaktorius: "A. Šapoka"
@@ -13651,9 +13276,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179072
-    - t-193097
+  pagrindzia:
+    - t-196
 
 - id: c-175861
   redaktorius: "A. Šapoka"
@@ -13672,8 +13296,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193099
+  pagrindzia:
+    - t-198
 
 - id: c-175862
   redaktorius: "A. Šapoka"
@@ -13696,9 +13320,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178942
-    - t-193102
+  pagrindzia:
+    - t-201
 
 - id: c-175863
   redaktorius: "A. Šapoka"
@@ -13716,9 +13339,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193103
-    - t-203350
+  pagrindzia:
+    - t-202
+    - t-311
 
 - id: c-175864
   redaktorius: "A. Šapoka"
@@ -13738,8 +13361,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193104
+  pagrindzia:
+    - t-203
 
 - id: c-176970
   autorius: "Teodoras Narbutas"
@@ -13761,6 +13384,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-205
 
 - id: c-176971
   autorius: "Teodoras Narbutas"
@@ -13781,6 +13406,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-206
 
 - id: c-177259
   autorius: "Teodoras Narbutas"
@@ -13807,6 +13434,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-207
 
 - id: c-178517
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -13824,12 +13453,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     jėgės, mirštančios galybės nuoliekos. Vieno smūgio be­
     reikią, ir jų kariauna savaime subyrėsianti.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-210
 
 - id: c-178518
@@ -13860,8 +13488,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196084
+  pagrindzia:
+    - t-213
 
 - id: c-178969
   autorius: "Petras Dusburgietis"
@@ -13884,6 +13512,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-214
 
 - id: c-178970
   autorius: "Petras Dusburgietis"
@@ -13907,6 +13537,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-215
 
 - id: c-178971
   autorius: "Petras Dusburgietis"
@@ -13926,6 +13558,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-218
 
 - id: c-178972
   autorius: "Petras Dusburgietis"
@@ -13950,6 +13584,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-219
 
 - id: c-178973
   autorius: "Petras Dusburgietis"
@@ -13973,6 +13609,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-224
 
 - id: c-178974
   autorius: "Petras Dusburgietis"
@@ -13998,6 +13636,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-225
 
 - id: c-180668
   autorius: "Michał Baliński"
@@ -14023,9 +13663,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179070
-
 - id: c-180669
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14052,8 +13689,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178892
+  pagrindzia:
+    - t-060
 
 - id: c-180670
   autorius: "Petras Dusburgietis"
@@ -14080,6 +13717,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-040
 
 - id: c-180671
   autorius: "Petras Dusburgietis"
@@ -14106,7 +13745,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180672
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14123,9 +13761,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179018
-
 - id: c-180673
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -14144,9 +13779,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179073
-    - t-203369
+  pagrindzia:
+    - t-314
 
 - id: c-180675
   redaktorius: "A. Šapoka"
@@ -14169,9 +13803,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179044
-
 - id: c-180676
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -14194,7 +13825,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180677
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14227,9 +13857,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178855
-
 - id: c-180678
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -14249,6 +13876,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102
 
 - id: c-180679
   redaktorius: "A. Šapoka"
@@ -14267,9 +13896,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193098
-    - t-203349
+  pagrindzia:
+    - t-310
 
 - id: c-180680
   redaktorius: "A. Šapoka"
@@ -14291,9 +13919,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179044
-    - t-193101
+  pagrindzia:
+    - t-200
 
 - id: c-180682
   autorius: "Michał Baliński"
@@ -14316,8 +13943,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179123
+  pagrindzia:
+    - t-167
 
 - id: c-180683
   autorius: "Michał Baliński"
@@ -14341,10 +13968,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179020
-    - t-203324
-
 - id: c-180684
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14362,8 +13985,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193099
+  pagrindzia:
+    - t-198
 
 - id: c-180685
   autorius: "Michał Baliński"
@@ -14384,8 +14007,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178926
+  pagrindzia:
+    - t-077
 
 - id: c-180686
   autorius: "Petras Dusburgietis"
@@ -14404,7 +14027,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180687
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -14429,7 +14051,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180688
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -14449,10 +14070,10 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198726
-    - t-198813
-    - t-198834
+  pagrindzia:
+    - t-246
+    - t-256
+    - t-261
 
 - id: c-180689
   autorius: "Michał Baliński"
@@ -14474,10 +14095,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178970
-    - t-179050
-    - t-203381
+  pagrindzia:
+    - t-315
 
 - id: c-180690
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -14496,9 +14115,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179015
-
 - id: c-180692
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14529,8 +14145,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178880
+  pagrindzia:
+    - t-053
 
 - id: c-180693
   autorius: "Teodoras Narbutas"
@@ -14551,7 +14167,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180694
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -14574,7 +14189,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -14596,6 +14210,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-064
 
 - id: c-180696
   autorius: "Michał Baliński"
@@ -14618,8 +14234,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178977
+  pagrindzia:
+    - t-098
 
 - id: c-180697
   autorius: "Petras Dusburgietis"
@@ -14639,6 +14255,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-322
 
 - id: c-180699
   redaktorius: "A. Šapoka"
@@ -14657,9 +14275,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179072
-
 - id: c-180700
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14691,9 +14306,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179105
-    - t-203330
+  pagrindzia:
+    - t-306
 
 - id: c-180701
   autorius: "Petras Dusburgietis"
@@ -14715,7 +14329,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180703
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -14738,7 +14351,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180704
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14758,9 +14370,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178861
-
 - id: c-180705
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -14787,7 +14396,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180706
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -14808,7 +14416,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180707
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14851,10 +14458,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178830
-    - t-178973
-
 - id: c-180708
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14876,13 +14479,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     gistru ir visu Ordinu, iš kitos, die­
     nos ir vietos nustatymo dėlei.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179038
+  pagrindzia:
+    - t-132
 
 - id: c-180711
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -14904,9 +14506,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179023
-
 - id: c-180712
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14930,8 +14529,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178953
+  pagrindzia:
+    - t-089
 
 - id: c-180713
   autorius: "Zenonas Ivinskis"
@@ -14952,8 +14551,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203119
+  pagrindzia:
+    - t-283
 
 - id: c-180714
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -14976,8 +14575,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178873
+  pagrindzia:
+    - t-048
 
 - id: c-180715
   autorius: "Petras Dusburgietis"
@@ -15000,7 +14599,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180716
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -15019,9 +14617,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198656
-    - t-198835
+  pagrindzia:
+    - t-237
+    - t-262
 
 - id: c-180719
   redaktorius: "A. Šapoka"
@@ -15049,9 +14647,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178881
-    - t-203321
+  pagrindzia:
+    - t-303
 
 - id: c-180720
   autorius: "Michał Baliński"
@@ -15073,10 +14670,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178957
-    - t-178967
-
 - id: c-180721
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15105,7 +14698,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180722
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15124,7 +14716,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180723
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15144,7 +14735,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180724
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15168,9 +14758,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178886
-
 - id: c-180726
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -15188,9 +14775,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178835
-    - t-178885
+  pagrindzia:
+    - t-055
 
 - id: c-180727
   autorius: "Zenonas Ivinskis"
@@ -15209,8 +14795,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198759
+  pagrindzia:
+    - t-250
 
 - id: c-180728
   redaktorius: "A. Šapoka"
@@ -15230,9 +14816,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179086
-
 - id: c-180729
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15250,8 +14833,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179026
+  pagrindzia:
+    - t-126
 
 - id: c-180730
   autorius: "Michał Baliński"
@@ -15275,8 +14858,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178816
+  pagrindzia:
+    - t-017
 
 - id: c-180731
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -15300,10 +14883,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178904
-    - t-179019
-
 - id: c-180732
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -15324,9 +14903,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-12375
-
 - id: c-180733
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15349,7 +14925,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180735
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15369,7 +14944,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180737
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -15390,9 +14964,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178942
-
 - id: c-180738
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -15411,8 +14982,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178887
+  pagrindzia:
+    - t-057
 
 - id: c-180739
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -15435,9 +15006,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-12369
-    - t-178838
+  pagrindzia:
+    - t-001
 
 - id: c-180740
   autorius: "Michał Baliński"
@@ -15465,9 +15035,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179077
-
 - id: c-180741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15491,7 +15058,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180742
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15514,7 +15080,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180743
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15533,13 +15098,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     priešinimo ir galios sužlugdymo? Tyko jie tik mūsų pražū­
     ties, nori, kad įsiliepsnotų vidaus kovos.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178987
+  pagrindzia:
     - t-327
 
 - id: c-180744
@@ -15564,7 +15127,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180745
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -15586,9 +15148,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198658
-    - t-198718
+  pagrindzia:
+    - t-238
+    - t-244
 
 - id: c-180746
   redaktorius: "A. Šapoka"
@@ -15608,9 +15170,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178995
-    - t-203338
+  pagrindzia:
+    - t-307
 
 - id: c-180747
   autorius: "Petras Dusburgietis"
@@ -15634,6 +15195,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-339
 
 - id: c-180748
   autorius: "Petras Dusburgietis"
@@ -15654,7 +15217,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180749
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -15672,9 +15234,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198634
-    - t-203033
+  pagrindzia:
+    - t-232
+    - t-274
 
 - id: c-180750
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -15695,10 +15257,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178838
-    - t-178907
-
 - id: c-180751
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -15721,6 +15279,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-308
 
 - id: c-180752
   redaktorius: "A. Šapoka"
@@ -15739,8 +15299,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179125
+  pagrindzia:
+    - t-169
 
 - id: c-180753
   autorius: "Zenonas Ivinskis"
@@ -15763,11 +15323,10 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198672
-    - t-198675
-    - t-198713
-    - t-198737
+  pagrindzia:
+    - t-239
+    - t-240
+    - t-243
 
 - id: c-180754
   autorius: "Petras Dusburgietis"
@@ -15790,6 +15349,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-344
 
 - id: c-180755
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -15810,10 +15371,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178838
-    - t-178907
-
 - id: c-180757
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15845,8 +15402,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178997
+  pagrindzia:
+    - t-111
 
 - id: c-180758
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -15879,10 +15436,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178979
-    - t-178988
-
 - id: c-180759
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15915,11 +15468,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178789
-    - t-178908
-    - t-178994
-    - t-203440
+  pagrindzia:
+    - t-004
+    - t-328
 
 - id: c-180760
   autorius: "Zenonas Ivinskis"
@@ -15941,10 +15492,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198730
-    - t-198735
-    - t-198783
+  pagrindzia:
+    - t-247
 
 - id: c-180761
   autorius: "Zenonas Ivinskis"
@@ -15963,9 +15512,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198646
-    - t-203036
+  pagrindzia:
+    - t-235
+    - t-275
 
 - id: c-180762
   autorius: "Petras Dusburgietis"
@@ -15989,7 +15538,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180763
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -16010,6 +15558,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-273
 
 - id: c-180764
   autorius: "Petras Dusburgietis"
@@ -16027,6 +15577,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-336
 
 - id: c-180765
   autorius: "Petras Dusburgietis"
@@ -16046,6 +15598,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-180766
   redaktorius: "A. Šapoka"
@@ -16066,9 +15620,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193100
-    - t-203351
+  pagrindzia:
+    - t-312
 
 - id: c-180767
   autorius: "Michał Baliński"
@@ -16107,8 +15660,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178916
+  pagrindzia:
+    - t-072
 
 - id: c-180768
   autorius: "Michał Baliński"
@@ -16133,8 +15686,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178801
+  pagrindzia:
+    - t-009
 
 - id: c-180770
   autorius: "Zenonas Ivinskis"
@@ -16159,8 +15712,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198647
+  pagrindzia:
+    - t-236
 
 - id: c-180771
   autorius: "Petras Dusburgietis"
@@ -16185,6 +15738,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-305
 
 - id: c-180772
   autorius: "Zenonas Ivinskis"
@@ -16204,9 +15759,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198896
-    - t-203067
+  pagrindzia:
+    - t-272
+    - t-279
 
 - id: c-180773
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -16226,9 +15781,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178841
-
 - id: c-180774
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16247,9 +15799,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178841
-
 - id: c-180775
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -16269,9 +15818,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193104
-
 - id: c-180776
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -16293,9 +15839,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178838
-    - t-179075
+  pagrindzia:
+    - t-147
 
 - id: c-180777
   autorius: "Petras Dusburgietis"
@@ -16314,7 +15859,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180778
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -16332,8 +15876,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179101
+  pagrindzia:
+    - t-156
 
 - id: c-180779
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -16355,10 +15899,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179004
-    - t-179117
-
 - id: c-180781
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16384,8 +15924,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178938
+  pagrindzia:
+    - t-084
 
 - id: c-180782
   autorius: "Petras Dusburgietis"
@@ -16410,6 +15950,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
 
 - id: c-180783
   autorius: "Petras Dusburgietis"
@@ -16435,7 +15977,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180784
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -16454,9 +15995,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203080
-    - t-203083
+  pagrindzia:
+    - t-280
+    - t-281
 
 - id: c-180785
   redaktorius: "A. Šapoka"
@@ -16477,9 +16018,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178861
-
 - id: c-180786
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16498,8 +16036,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179109
+  pagrindzia:
+    - t-161
 
 - id: c-180787
   autorius: "Michał Baliński"
@@ -16529,13 +16067,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178855
-    - t-178883
-    - t-179048
-    - t-194173
-    - t-203457
-
 - id: c-180788
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16563,9 +16094,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179063
-
 - id: c-180789
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -16590,6 +16118,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-302
 
 - id: c-180790
   redaktorius: "A. Šapoka"
@@ -16609,8 +16139,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178861
+  pagrindzia:
+    - t-041
 
 - id: c-180791
   autorius: "Petras Dusburgietis"
@@ -16634,7 +16164,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180792
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16662,10 +16191,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179008
-    - t-179067
-
 - id: c-180793
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -16682,7 +16207,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180794
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -16706,10 +16230,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179005
-    - t-179069
-
 - id: c-180795
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16736,10 +16256,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178866
-    - t-179103
-    - t-203522
+  pagrindzia:
+    - t-341
 
 - id: c-180796
   autorius: "Petras Dusburgietis"
@@ -16762,7 +16280,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180797
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -16781,9 +16298,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198737
-    - t-203061
+  pagrindzia:
+    - t-278
 
 - id: c-180798
   autorius: "Petras Dusburgietis"
@@ -16807,7 +16323,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180799
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -16825,10 +16340,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179016
-    - t-179062
-
 - id: c-180800
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -16845,8 +16356,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178939
+  pagrindzia:
+    - t-085
 
 - id: c-180801
   autorius: "Zenonas Ivinskis"
@@ -16869,10 +16380,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198616
-    - t-198890
-
 - id: c-180802
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16903,10 +16410,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178869
-    - t-178870
-
 - id: c-180803
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -16927,6 +16430,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 - id: c-180804
   autorius: "Petras Dusburgietis"
@@ -16949,7 +16454,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180806
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -16971,7 +16475,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180807
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16993,8 +16496,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179097
+  pagrindzia:
+    - t-154
 
 - id: c-180809
   autorius: "Michał Baliński"
@@ -17021,9 +16524,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179012
-
 - id: c-180810
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17045,9 +16545,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178846
-    - t-203261
+  pagrindzia:
+    - t-293
 
 - id: c-180811
   autorius: "Petras Dusburgietis"
@@ -17071,7 +16570,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180812
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -17091,10 +16589,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178902
-    - t-179007
-
 - id: c-180813
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -17110,8 +16604,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178984
+  pagrindzia:
+    - t-103
 
 - id: c-180814
   autorius: "Michał Baliński"
@@ -17141,9 +16635,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178950
-
 - id: c-180815
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -17164,9 +16655,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178901
-
 - id: c-180817
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -17187,11 +16675,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178979
-    - t-179004
-    - t-179117
-
 - id: c-180818
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -17217,7 +16700,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180819
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17240,8 +16722,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179050
+  pagrindzia:
+    - t-136
 
 - id: c-180820
   autorius: "Petras Dusburgietis"
@@ -17264,6 +16746,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-326
 
 - id: c-180821
   autorius: "Michał Baliński"
@@ -17293,9 +16777,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179045
-
 - id: c-180823
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -17314,6 +16795,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-036
 
 - id: c-180824
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -17336,9 +16819,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178935
-    - t-178979
+  pagrindzia:
+    - t-082
 
 - id: c-180825
   autorius: "Michał Baliński"
@@ -17376,7 +16858,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180826
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -17401,7 +16882,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180827
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -17418,8 +16898,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179003
+  pagrindzia:
+    - t-114
 
 - id: c-180828
   autorius: "Petras Dusburgietis"
@@ -17446,7 +16926,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180829
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -17464,10 +16943,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198730
-    - t-198735
-    - t-198783
+  pagrindzia:
+    - t-248
+    - t-255
 
 - id: c-180830
   autorius: "Petras Dusburgietis"
@@ -17492,7 +16970,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180831
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17518,12 +16995,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178832
-    - t-178991
-    - t-179118
-    - t-203422
-    - t-203492
+  pagrindzia:
+    - t-325
+    - t-338
 
 - id: c-180832
   autorius: "Michał Baliński"
@@ -17550,10 +17024,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178817
-    - t-178823
-    - t-203489
+  pagrindzia:
+    - t-018
+    - t-337
 
 - id: c-180833
   autorius: "Petras Dusburgietis"
@@ -17574,7 +17047,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180834
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -17594,10 +17066,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198637
-    - t-198884
-
 - id: c-180835
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -17626,7 +17094,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17654,8 +17121,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179010
+  pagrindzia:
+    - t-118
 
 - id: c-180837
   redaktorius: "A. Šapoka"
@@ -17678,10 +17145,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178942
-    - t-193102
-    - t-203352
+  pagrindzia:
+    - t-313
 
 - id: c-180838
   autorius: "Petras Dusburgietis"
@@ -17702,7 +17167,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180839
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -17720,8 +17184,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179114
+  pagrindzia:
+    - t-162
 
 - id: c-180840
   autorius: "Petras Dusburgietis"
@@ -17743,6 +17207,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-345
 
 - id: c-180841
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -17770,9 +17236,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-12372
-
 - id: c-180843
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -17794,10 +17257,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-12375
-    - t-179102
-
 - id: c-180844
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -17822,7 +17281,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180845
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -17840,9 +17298,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179062
-
 - id: c-180846
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -17861,6 +17316,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-260
 
 - id: c-180847
   autorius: "Petras Dusburgietis"
@@ -17885,7 +17342,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180848
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -17906,9 +17362,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178904
-    - t-179019
+  pagrindzia:
+    - t-123
 
 - id: c-180849
   autorius: "Michał Baliński"
@@ -17936,9 +17391,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178890
-    - t-203602
+  pagrindzia:
+    - t-349
 
 - id: c-180850
   autorius: "Petras Dusburgietis"
@@ -17961,7 +17415,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180851
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -17981,9 +17434,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178901
-
 - id: c-180852
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -18005,7 +17455,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180854
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -18030,9 +17479,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178813
-
 - id: c-180855
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -18054,6 +17500,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-346
 
 - id: c-180857
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -18077,9 +17525,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178906
-
 - id: c-180858
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -18102,6 +17547,10 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-296
+    - t-297
+    - t-323
 
 - id: c-180859
   autorius: "Teodoras Narbutas"
@@ -18122,7 +17571,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180860
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -18141,9 +17589,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198896
-
 - id: c-180861
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -18163,7 +17608,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180862
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -18184,9 +17628,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198737
-    - t-203043
+  pagrindzia:
+    - t-277
 
 - id: c-180863
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -18209,8 +17652,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179052
+  pagrindzia:
+    - t-137
 
 - id: c-180864
   autorius: "Petras Dusburgietis"
@@ -18242,6 +17685,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-101
+    - t-330
 
 - id: c-180865
   autorius: "Michał Baliński"
@@ -18275,9 +17721,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178986
-    - t-203383
+  pagrindzia:
+    - t-317
 
 - id: c-180866
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -18299,9 +17744,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178918
-    - t-179124
+  pagrindzia:
+    - t-168
 
 - id: c-180867
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -18325,9 +17769,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178877
-    - t-178940
+  pagrindzia:
+    - t-052
+    - t-086
 
 - id: c-180868
   autorius: "Petras Dusburgietis"
@@ -18352,7 +17796,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180869
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18376,9 +17819,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178967
-
 - id: c-180870
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -18394,6 +17834,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-030
 
 - id: c-180871
   autorius: "Petras Dusburgietis"
@@ -18414,7 +17856,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180872
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -18434,9 +17875,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198869
-    - t-198888
+  pagrindzia:
+    - t-268
+    - t-270
 
 - id: c-180874
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -18456,10 +17897,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178843
-    - t-178956
-    - t-203319
+  pagrindzia:
+    - t-301
 
 - id: c-180876
   autorius: "Michał Baliński"
@@ -18483,8 +17922,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179042
+  pagrindzia:
+    - t-134
 
 - id: c-180877
   autorius: "Teodoras Narbutas"
@@ -18506,6 +17945,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-299
 
 - id: c-180878
   autorius: "Michał Baliński"
@@ -18537,11 +17978,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178832
-    - t-179014
-    - t-203280
-    - t-203281
+  pagrindzia:
+    - t-294
+    - t-295
 
 - id: c-180879
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -18562,9 +18001,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179007
-
 - id: c-180880
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -18600,6 +18036,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-340
 
 - id: c-180881
   autorius: "Petras Dusburgietis"
@@ -18622,7 +18060,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180882
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18644,8 +18081,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178889
+  pagrindzia:
+    - t-058
 
 - id: c-180883
   autorius: "Petras Dusburgietis"
@@ -18669,7 +18106,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180884
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18697,12 +18133,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178855
-    - t-178883
-    - t-179048
-    - t-194173
-    - t-203457
+  pagrindzia:
+    - t-252
+    - t-269
 
 - id: c-180885
   autorius: "Petras Dusburgietis"
@@ -18723,7 +18156,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180886
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -18747,7 +18179,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180887
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18774,8 +18205,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179063
+  pagrindzia:
+    - t-242
 
 - id: c-180889
   autorius: "Michał Baliński"
@@ -18801,9 +18232,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178992
-    - t-203382
+  pagrindzia:
+    - t-316
 
 - id: c-180890
   autorius: "Michał Baliński"
@@ -18827,9 +18257,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178795
-    - t-203461
+  pagrindzia:
+    - t-331
 
 - id: c-180892
   autorius: "Michał Baliński"
@@ -18852,10 +18281,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178892
-    - t-178963
-
 - id: c-180893
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -18882,7 +18307,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180894
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18908,8 +18332,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178834
+  pagrindzia:
+    - t-026
 
 - id: c-180896
   autorius: "Michał Baliński"
@@ -18933,9 +18357,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178849
-    - t-178870
+  pagrindzia:
+    - t-263
 
 - id: c-180897
   autorius: "Zenonas Ivinskis"
@@ -18954,9 +18377,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198645
-    - t-198686
+  pagrindzia:
+    - t-234
+    - t-241
 
 - id: c-180898
   autorius: "Petras Dusburgietis"
@@ -18983,7 +18406,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180899
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -19006,6 +18428,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-034
+    - t-350
 
 - id: c-180900
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -19025,9 +18450,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179109
-
 - id: c-180901
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19072,8 +18494,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179057
+  pagrindzia:
+    - t-138
 
 - id: c-180902
   autorius: "Michał Baliński"
@@ -19096,9 +18518,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179066
-    - t-203481
+  pagrindzia:
+    - t-335
 
 - id: c-180903
   autorius: "Petras Dusburgietis"
@@ -19122,6 +18543,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-038
 
 - id: c-180904
   autorius: "Petras Dusburgietis"
@@ -19159,7 +18582,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180905
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -19211,6 +18633,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-249
+    - t-321
 
 - id: c-180906
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -19242,10 +18667,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178979
-    - t-178988
-    - t-203295
+  pagrindzia:
+    - t-298
 
 - id: c-180907
   autorius: "Michał Baliński"
@@ -19267,9 +18690,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178994
-
 - id: c-180908
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -19288,7 +18708,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180911
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -19327,6 +18746,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-078
 
 - id: c-180912
   redaktorius: "A. Šapoka"
@@ -19342,14 +18763,12 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     to, ir jo valstybės viduje atsirado reiškinių, kurie jį griovė.
   citata_rodoma: ")**\nNuo to laiko, kai Lietuva krikštijosi ir Europos buvo pri-\npažinta katalikiška valstybe, kryžiuočių ordinas buvo nebepa-\nteisinamas. Aplinkui jau visi kraštai buvo katalikiški, todėl\nkrikščionybės gynėjas — ordinas pasidarė nebereikalingas. Be\nto, ir jo valstybės viduje atsirado reiškinių, kurie jį griovė."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179031
-    - t-179072
+  pagrindzia:
+    - t-129
     - t-329
 
 - id: c-180913
@@ -19372,6 +18791,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195
 
 - id: c-180914
   autorius: "Teodoras Narbutas"
@@ -19393,7 +18814,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180915
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19419,9 +18839,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178820
-    - t-203591
+  pagrindzia:
+    - t-348
 
 - id: c-180916
   autorius: "Michał Baliński"
@@ -19449,9 +18868,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178923
-    - t-203222
+  pagrindzia:
+    - t-290
 
 - id: c-180917
   autorius: "Michał Baliński"
@@ -19474,8 +18892,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178859
+  pagrindzia:
+    - t-039
 
 - id: c-180918
   autorius: "Petras Dusburgietis"
@@ -19531,7 +18949,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180919
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19560,8 +18977,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179088
+  pagrindzia:
+    - t-152
 
 - id: c-180920
   autorius: "Petras Dusburgietis"
@@ -19583,6 +19000,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
 
 - id: c-180921
   redaktorius: "A. Šapoka"
@@ -19602,9 +19021,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178862
-
 - id: c-180922
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -19650,6 +19066,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-332
 
 - id: c-180923
   autorius: "Zenonas Ivinskis"
@@ -19670,10 +19088,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198637
-    - t-198884
-
 - id: c-180924
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -19696,7 +19110,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180925
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -19716,6 +19129,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-245
 
 - id: c-180926
   autorius: "Zenonas Ivinskis"
@@ -19736,9 +19151,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198588
-    - t-198774
+  pagrindzia:
+    - t-228
+    - t-254
 
 - id: c-180927
   autorius: "Michał Baliński"
@@ -19763,10 +19178,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178849
-    - t-178870
-
 - id: c-180928
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -19787,9 +19198,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198658
-
 - id: c-180930
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19828,9 +19236,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178931
-    - t-203309
+  pagrindzia:
+    - t-300
 
 - id: c-180931
   autorius: "Petras Dusburgietis"
@@ -19855,7 +19262,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180932
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -19873,9 +19279,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179021
-    - t-203188
+  pagrindzia:
+    - t-287
 
 - id: c-180933
   autorius: "Michał Baliński"
@@ -19898,9 +19303,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179020
-    - t-203324
+  pagrindzia:
+    - t-304
 
 - id: c-180934
   autorius: "Michał Baliński"
@@ -19929,9 +19333,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179030
-    - t-179120
+  pagrindzia:
+    - t-128
+    - t-166
 
 - id: c-180935
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -19951,9 +19355,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178831
-    - t-178852
+  pagrindzia:
+    - t-035
 
 - id: c-180936
   autorius: "Petras Dusburgietis"
@@ -19971,6 +19374,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-151
 
 - id: c-180937
   autorius: "Michał Baliński"
@@ -20010,9 +19415,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178962
-
 - id: c-180938
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -20034,9 +19436,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178850
-    - t-203478
+  pagrindzia:
+    - t-334
 
 - id: c-180939
   autorius: "Teodoras Narbutas"
@@ -20063,6 +19464,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-230
 
 - id: c-180940
   autorius: "Michał Baliński"
@@ -20083,9 +19486,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178957
-    - t-178967
+  pagrindzia:
+    - t-265
 
 - id: c-180941
   autorius: "Petras Dusburgietis"
@@ -20111,6 +19513,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
 
 - id: c-180942
   autorius: "Michał Baliński"
@@ -20132,10 +19536,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178797
-    - t-178870
-    - t-203221
+  pagrindzia:
+    - t-289
 
 - id: c-180943
   redaktorius: "A. Šapoka"
@@ -20152,10 +19554,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179072
-    - t-193097
-    - t-203348
+  pagrindzia:
+    - t-309
 
 - id: c-180944
   autorius: "Petras Dusburgietis"
@@ -20181,7 +19581,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180945
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -20205,11 +19604,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179033
-    - t-179076
-    - t-203191
-    - t-203223
+  pagrindzia:
+    - t-288
+    - t-291
 
 - id: c-180946
   sudarytojas: "Karolis Zikaras"
@@ -20234,8 +19631,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178812
+  pagrindzia:
+    - t-013
 
 - id: c-180947
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -20256,9 +19653,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178831
-    - t-178974
+  pagrindzia:
+    - t-251
 
 - id: c-180948
   autorius: "Michał Baliński"
@@ -20291,12 +19687,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178832
-    - t-179014
-    - t-203280
-    - t-203281
-
 - id: c-180949
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -20320,7 +19710,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180950
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -20352,7 +19741,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180951
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -20377,6 +19765,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-319
 
 - id: c-185985
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -20398,6 +19788,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-185986
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -20422,6 +19814,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-186030
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -20442,6 +19836,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-069
 
 - id: c-186031
   redaktorius: "A. Šapoka"
@@ -20461,6 +19857,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-145
 
 - id: c-186032
   autorius: "Zenonas Ivinskis"
@@ -20481,6 +19879,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-231
 
 - id: c-186033
   autorius: "Zenonas Ivinskis"
@@ -20507,6 +19907,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-233
 
 - id: c-186034
   autorius: "Petras Dusburgietis"
@@ -20527,6 +19929,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-219
 
 - id: c-186035
   autorius: "Michał Baliński"
@@ -20551,8 +19955,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179103
+  pagrindzia:
+    - t-158
 
 - id: c-186036
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -20575,6 +19979,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-115
+    - t-142
 
 - id: c-186037
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -20596,6 +20003,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-056
 
 - id: c-186038
   autorius: "Petras Dusburgietis"
@@ -20614,6 +20023,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-127
 
 - id: c-186039
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -20638,6 +20049,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182
 
 - id: c-186040
   autorius: "Teodoras Narbutas"
@@ -20660,6 +20073,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-191
 
 - id: c-186041
   autorius: "Petras Dusburgietis"
@@ -20681,6 +20096,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-076
 
 - id: c-186042
   autorius: "Petras Dusburgietis"
@@ -20698,6 +20115,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-222
 
 - id: c-186043
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -20720,6 +20139,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175
 
 - id: c-186044
   autorius: "Petras Dusburgietis"
@@ -20739,6 +20160,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-218
 
 - id: c-186045
   autorius: "Petras Dusburgietis"
@@ -20766,6 +20189,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-110
 
 - id: c-186046
   autorius: "Teodoras Narbutas"
@@ -20787,6 +20212,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-206
 
 - id: c-186047
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -20806,6 +20233,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-125
 
 - id: c-186048
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -20824,6 +20253,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-253
 
 - id: c-186049
   autorius: "Michał Baliński"
@@ -20849,8 +20280,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178823
+  pagrindzia:
+    - t-022
 
 - id: c-186050
   autorius: "Teodoras Narbutas"
@@ -20873,6 +20304,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-207
 
 - id: c-186051
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -20894,6 +20327,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-257
 
 - id: c-186052
   autorius: "Teodoras Narbutas"
@@ -20920,6 +20355,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-259
 
 - id: c-186053
   autorius: "Teodoras Narbutas"
@@ -20939,6 +20376,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-227
 
 - id: c-186054
   autorius: "Michał Baliński"
@@ -20965,8 +20404,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179077
+  pagrindzia:
+    - t-149
 
 - id: c-186055
   redaktorius: "A. Šapoka"
@@ -20987,6 +20426,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
 
 - id: c-186056
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -21007,6 +20448,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-264
 
 - id: c-186057
   autorius: "Teodoras Narbutas"
@@ -21028,6 +20471,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-267
 
 - id: c-186058
   redaktorius: "A. Šapoka"
@@ -21045,6 +20490,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-203
 
 - id: c-186059
   autorius: "Zenonas Ivinskis"
@@ -21065,6 +20512,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-271
 
 - id: c-187688
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -21084,8 +20533,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205059
+  pagrindzia:
+    - t-351
 
 - id: c-187727
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -21107,8 +20556,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205544
+  pagrindzia:
+    - t-358
 
 - id: c-187728
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -21130,8 +20579,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205462
+  pagrindzia:
+    - t-357
 
 - id: c-187808
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -21153,8 +20602,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205078
+  pagrindzia:
+    - t-352
 
 - id: c-187950
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -21174,8 +20623,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205365
+  pagrindzia:
+    - t-354
 
 - id: c-187995
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -21194,8 +20643,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205372
+  pagrindzia:
+    - t-355
 
 - id: c-188131
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -21215,8 +20664,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205383
+  pagrindzia:
+    - t-356
 
 - id: c-188193
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -21240,8 +20689,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205239
+  pagrindzia:
+    - t-353
 
 - id: c-188209
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21261,8 +20710,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205594
+  pagrindzia:
+    - t-359
 
 - id: c-188211
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21280,8 +20729,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205596
+  pagrindzia:
+    - t-360
 
 - id: c-188212
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21307,8 +20756,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205597
+  pagrindzia:
+    - t-361
 
 - id: c-188213
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21333,8 +20782,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205598
+  pagrindzia:
+    - t-362
 
 - id: c-188215
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21358,8 +20807,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205600
+  pagrindzia:
+    - t-363
 
 - id: c-188216
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21380,8 +20829,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205601
+  pagrindzia:
+    - t-364
 
 - id: c-188218
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21404,8 +20853,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205603
+  pagrindzia:
+    - t-365
 
 - id: c-188219
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21428,8 +20877,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205604
+  pagrindzia:
+    - t-366
 
 - id: c-188220
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21449,8 +20898,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205605
+  pagrindzia:
+    - t-367
 
 - id: c-188222
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21475,8 +20924,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205607
+  pagrindzia:
+    - t-368
 
 - id: c-188223
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21499,8 +20948,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205608
+  pagrindzia:
+    - t-369
 
 - id: c-188225
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21521,8 +20970,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205610
+  pagrindzia:
+    - t-370
 
 - id: c-188228
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21548,8 +20997,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205613
+  pagrindzia:
+    - t-371
 
 - id: c-188231
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -21567,8 +21016,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205616
+  pagrindzia:
+    - t-372
 
 - id: c-188749
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21589,8 +21038,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206134
+  pagrindzia:
+    - t-373
 
 - id: c-188750
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21600,12 +21049,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     Iš tiesų jo valdymas sudavė kryžiuočių galybei
     didžiausią smūgį.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-374
 
 - id: c-188751
@@ -21626,8 +21074,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206136
+  pagrindzia:
+    - t-375
 
 - id: c-188752
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21657,8 +21105,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206137
+  pagrindzia:
+    - t-376
 
 - id: c-188753
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21679,8 +21127,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206138
+  pagrindzia:
+    - t-377
 
 - id: c-188754
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21700,8 +21148,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206139
+  pagrindzia:
+    - t-378
 
 - id: c-188755
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21716,12 +21164,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     nesiliaudami ją šlovino; tačiau ordinas tvirtu žingsniu Lietu­
     vos žemėn nebuvo įžengęs
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-379
 
 - id: c-188756
@@ -21744,8 +21191,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206141
+  pagrindzia:
+    - t-380
 
 - id: c-188757
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21764,8 +21211,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206142
+  pagrindzia:
+    - t-381
 
 - id: c-188758
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21784,8 +21231,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206143
+  pagrindzia:
+    - t-382
 
 - id: c-188759
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21805,8 +21252,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206144
+  pagrindzia:
+    - t-383
 
 - id: c-188760
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21825,8 +21272,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206145
+  pagrindzia:
+    - t-384
 
 - id: c-188761
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21844,8 +21291,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206146
+  pagrindzia:
+    - t-385
 
 - id: c-188762
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21863,8 +21310,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206147
+  pagrindzia:
+    - t-386
 
 - id: c-188763
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21884,8 +21331,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206148
+  pagrindzia:
+    - t-387
 
 - id: c-188764
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21910,8 +21357,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206149
+  pagrindzia:
+    - t-388
 
 - id: c-188765
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21932,8 +21379,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206150
+  pagrindzia:
+    - t-389
 
 - id: c-188766
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21964,8 +21411,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206151
+  pagrindzia:
+    - t-390
 
 - id: c-188767
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -21986,8 +21433,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206152
+  pagrindzia:
+    - t-391
 
 - id: c-188768
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22007,8 +21454,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206153
+  pagrindzia:
+    - t-392
 
 - id: c-188769
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22030,8 +21477,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206154
+  pagrindzia:
+    - t-393
 
 - id: c-188772
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22060,8 +21507,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206157
+  pagrindzia:
+    - t-394
 
 - id: c-188773
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22081,8 +21528,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206158
+  pagrindzia:
+    - t-395
 
 - id: c-188774
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22099,8 +21546,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206159
+  pagrindzia:
+    - t-396
 
 - id: c-188775
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22119,8 +21566,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206160
+  pagrindzia:
+    - t-397
 
 - id: c-188776
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22140,8 +21587,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206161
+  pagrindzia:
+    - t-398
 
 - id: c-188777
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22182,8 +21629,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206162
+  pagrindzia:
+    - t-399
 
 - id: c-188778
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22206,8 +21653,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206163
+  pagrindzia:
+    - t-400
 
 - id: c-188779
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22229,8 +21676,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206164
+  pagrindzia:
+    - t-401
 
 - id: c-188781
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22258,8 +21705,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206166
+  pagrindzia:
+    - t-402
 
 - id: c-188782
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22286,8 +21733,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206167
+  pagrindzia:
+    - t-403
 
 - id: c-188783
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22304,8 +21751,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206168
+  pagrindzia:
+    - t-404
 
 - id: c-188784
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22334,8 +21781,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206169
+  pagrindzia:
+    - t-405
 
 - id: c-188785
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22368,8 +21815,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206170
+  pagrindzia:
+    - t-406
 
 - id: c-188786
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22389,12 +21836,11 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     tai yra pasienio tvirtovė; deja, abiejose buvo įkurdintos kry­
     žiuočių įgulos
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-407
 
 - id: c-188787
@@ -22419,8 +21865,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206172
+  pagrindzia:
+    - t-408
 
 - id: c-188788
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22452,8 +21898,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206173
+  pagrindzia:
+    - t-409
 
 - id: c-188789
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22485,8 +21931,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206174
+  pagrindzia:
+    - t-410
 
 - id: c-188790
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22518,8 +21964,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206175
+  pagrindzia:
+    - t-411
 
 - id: c-188791
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22556,8 +22002,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206176
+  pagrindzia:
+    - t-412
 
 - id: c-188792
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22579,8 +22025,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206177
+  pagrindzia:
+    - t-413
 
 - id: c-188793
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22604,8 +22050,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206178
+  pagrindzia:
+    - t-414
 
 - id: c-188794
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22622,8 +22068,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206179
+  pagrindzia:
+    - t-415
 
 - id: c-188804
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -22638,1952 +22084,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206189
-
-- id: c-187795
-  šaltinis: "Lietuvių tautos istorija, t. 3"
-  puslapiai: "PDF 322"
-  indeksas: "Lietuvių tautos istorija, t. 3, PDF 322."
-  citata_originali: |
-    Prie jų prisijungė Jeruzalės vokiečių špitolninkai,
-    kurie arba buvo čia kartu su riterių Joanitų ir Tamplierių
-    ordinais iš anksčiau, arba neseniai atvykę, mat jų patar­
-    navimai aname mieste buvo nebereikalingi, o leistas ten
-    pasilikti laikas jau seniai buvo praėjęs. Tokia vokiečių
-    špitolninkų ir Bremeno bei Liubeko miestų gyventojų
-    bendrija radosi 1190 metais. Netrukus ji ėmė garsėti vi­
-    soje stovykloje nuoširdžiu ligonių slaugymu, tuo suteik­
-    dama didžiulę paramą vokiečių kariams, ir kunigaikštis
-    Fridrikas Švabas sumanė įkurti vokiečių ordiną, panašų
-    į italų ir vokiečių jau turimus — Joanitų ir Tamplierių
-    ordinus.
-  citata_rodoma: "Tokia vokiečių \nšpitolninkų ir Bremeno bei Liubeko miestų gyventojų \nbendrija radosi 1190 metais. Netrukus ji ėmė garsėti vi­\nsoje stovykloje nuoširdžiu ligonių slaugymu, tuo suteik­\ndama didžiulę paramą vokiečių kariams, ir kunigaikštis \nFridrikas Švabas sumanė įkurti vokiečių ordiną, panašų \nį italų ir vokiečių jau turimus — Joanitų ir Tamplierių \nordinus."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-190128
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 82"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 82."
-  citata_originali: |
-    Todėl dabar linkstama prie apytikrės
-    datos – Lietuvos valstybė susikūrė apie 1240 metus.
-    Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę:
-    1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda jungti lyvius,
-    latvius, estus, kuršius; 1230 m. prie Vyslos įsikūrė Kryžiuočių ordinas, pajungęs prūsus;
-    1236 m. popiežius jau skelbia kryžiaus žygį prieš lietuvius.
-  citata_rodoma: "1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda jungti lyvius, \nlatvius, estus, kuršius; 1230 m. prie Vyslos įsikūrė Kryžiuočių ordinas, pajungęs prūsus; \n1236 m. popiežius jau skelbia kryžiaus žygį prieš lietuvius."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207511
-
-- id: c-193613
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 259"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 259."
-  citata_originali: |
-    * Kryžiuočiai atsisakė nuo Žemaitijos 1411 m. Toninės taikos
-    sutartimi, bet tik ligi Jogailos ir Vytauto mirties. Galutinai ir vi­
-    siems laikams atsisakė pagal 1422.1X.27 talkos sutartį, sudarytą
-    prie Melno ežero.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211612
-
-- id: c-194314
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 174"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 174."
-  citata_originali: |
-    Tada mane išgelbėjo dievas, ir aš nuo jų pabė­
-    gau ir nubėgau pas prakilnius žmones, Prūsų Ordino
-    didįjį magistrą, priėmiau šventąjį krikščionių tikėjimą
-    ir [prisiekiau) paklusnumą šventajam tėvui popiežiui.
-    O tenai pas juos palikau savo brolį, savo seserį, savo
-    žmoną ir savo vaikus. Visus juos palikau jo nelaisvėje.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-194326
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 27."
-  citata_originali: |
-    o Bychovco kronikoje sakoma, kad kryžiuočių
-    vėliavos, laimėtos Žalgirio mūšyje, „yra pakabintos"
-    Vilniaus katedroje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210476
-
-- id: c-194597
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
-  citata_originali: |
-    Tačiau, kai joje dar prieš bendrą
-    prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi­
-    gyveno kryžiuočių, daugiausia iš Lietuvos atsikėlusių
-    žmonių, dėl to ją ligi šiol vadina prūsų Lietuva. Jos sos­
-    to arba svarbesnė pilis buvo Salava, be to, manoma,
-    kad Tilžės apylinkėse. Ten, miškuose, yra akmeninių pas­
-    tatų griuvėsių ir ant kalvų piliaviečių, primenančių žilą
-    šios žemės senovę. Ptolemėjas žinojo Salavijos gyvento­
-    jus slavinu vardu; iš to galima spręsti, kad Rusios egzis­
-    tavimo laikais didelė dalis šios žemės II krikščioniškosios
-    eros amžiuje buvo žinoma Skalvos arba Rusios vardu,
-    kuriuo ją ir vadino svetimšaliai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212663
-    - t-214750
-
-- id: c-194819
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
-  citata_originali: |
-    123
-    Kai 1253 metų pradžioje susiklostė draugiški Pamario
-    kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems
-    saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis
-    užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­
-    tinga Sembos provincija, bet šie atkaklūs bandymai ją
-    užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė
-    toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­
-    sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą,
-    sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­
-    nės kraštais. Buvo baiminamasi didžiausio pralaimėjimo,
-    jei šios provincijos ir gentys, sudariusios tarpusavio są­
-    jungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­
-    1 Henning.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214485
-
-- id: c-195793
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
-  citata_originali: |
-    Sūduva turėjo gana
-    daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
-    giausia buvusių savarankiškų valdovų. Kryžiuočiams val­
-    dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
-    apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
-    vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
-    Raigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie
-    šią, toje pačioje vietoje esančią provinciją, be to, neabe­
-    jotina, kad nuo seno ten gyveno ir lietuviui Tas pats
-    geografas taip pat žinojo vieną sudinų koloniją, buvusią
-    germanų markomanų genties kaimynystėje, dabar Pra­
-    hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
-    iš prūsų Sūduvos kažkokia užklydusi genties dalis4.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212791
-    - t-213457
-    - t-215624
-
-- id: c-197299
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 342"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 342."
-  citata_originali: |
-    Tiesą sakant, numanau, kad šios išvados gali būti pa­
-    laikytos perdėtomis, bet man atrodo, kad tai patvirtino
-    kruvina vokiečių riterių patirtis; nes jei vien tik vėzdais
-    ginkluota, dažnai nugalėdama liaudis sugebėjo 53 metus
-    kariauti su gausiomis kryžiuočių kariuomenėmis, kurios
-    iš visų pusių kasmet užplūsdavo Europą ir buvo geriau
-    ginkluotos, su tikėjimu Dievą kovojo fanatiškai atkak­
-    liai
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212338
-
-- id: c-197961
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 431"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
-  citata_originali: |
-    Seniausias žinomas šito šaltinis yra Simonas Grunau,
-    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
-    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
-    šantis apie kryžiuočius ir vokiečių tautą - tai tiesa; per daug
-    užsidegęs katalikybės šalininkas - ir tai ne paslaptis; kartais
-    nekritiškas kompiliatorius ir su daugybe savo laiko ydų - gali­
-    ma ir su tuo sutikti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219392
-
-- id: c-198384
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 419"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 419."
-  citata_originali: |
-    Betgi Livonijos kryžiuočiai patys kariavo su krivičiais; Livoni­
-    jos broliai lankydavosi Karaliaučiuje, kuriame Dusburgietis rašė kro­
-    niką; argi nebūtų apšvietę to, kuris taip uoliai tyrė visa, kas susiję su
-    istorija?
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217035
-    - t-219763
-
-- id: c-198753
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
-  citata_originali: |
-    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
-    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
-    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
-    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
-    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
-    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
-    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
-    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
-    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
-    po Amžinosios ugnies aukuro griuvėsiais30.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217130
-    - t-219079
-
-- id: c-198878
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 259"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 259."
-  citata_originali: |
-    Šios rūšies paminklai buvo labiausiai naikinami Lietuvai
-    priimant krikščionių tikėjimą; ypač atvertėjai - kryžiuočių ir
-    kalavijuočių riteriai griovė, naikino, skandino viską, kas tik nors
-    kiek buvo susiję su stabmeldiškųjų dievų vaizdavimu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216809
-
-- id: c-199232
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 337"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 337."
-  citata_originali: |
-    Kai kryžiuočiai, užvaldę visą Žemaitiją, vi­
-    sose svarbiausiose vietovėse įsirengė būstines, laikydami krašto
-    žmones itin varginančioje paklusnybėje, ir kai jie, valdydami
-    grobimu ir smurtingu tautos naikinimu, išsėmė žemaičių kan­
-    trybę, šie, slapčia susitarę, 128114 metų lapkričio 5-ąją per vie­
-    ną dieną iškapojo visus kryžiuočius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217050
-
-- id: c-199623
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 177"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
-  citata_originali: |
-    Moteris, suviliota
-    šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
-    Įdomią smulkmeną apie tuos dievaičius mums paliko Prū­
-    sijos kronikos . 1247 metais, kai kryžiuočiai jau valdė Pame-
-    dę ir tenykščius žmones lyg ir atvertė į krikščionių tikėjimą,
-    vis dėlto dėl nuolatinių sumaiščių ir kovų su kitų provincijų
-    gyventojais, remiamais Pamario kunigaikščio Sviatopelko, jie,
-    matyt, neturėjo pakankamai laiko pasirūpinti Pamedės vidaus
-    sutvarkymu bei atverstos tautos tikėjimo įtvirtinimu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216645
-    - t-219297
-
-- id: c-199855
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 413"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 413."
-  citata_originali: |
-    Visų pirma kry­
-    žiuočių kronikininko pasakojimas tame pačiame skyrelyje, kur
-    jis aprašo senovės Prūsiją, atitinka tiesą ir negali kelti jokios
-    abejonės. Vos šimtas metų buvo praėję nuo kryžiuočių atsi­
-    kraustymo ir vos truputį daugiau nei keturiasdešimt metų nuo
-    visiško Prūsijos užkariavimo, kai Dusburgietis rašė tą prūsų
-    tautos papročių ir įpročių apybraižą ir kai 1326 metais įteikė
-    savo kroniką didžiajam magistrui. Daugelis iš tų, kurių tėvai
-    dar buvo stabmeldžiai ir kurių žodiniai pasakojimai apie se­
-    novinę krašto būkle, apie žygius, papročius ir įpročius tebegy­
-    vavo grynąja to žodžio prasme, buvo gyvi* Dusburgiečio lai­
-    kais, todėl jis nenuginčijamai galėjo gauti tikriausių žinių apie
-    viską, ką norėjo papasakoti apie stabmeldystės laikus.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216689
-    - t-217202
-    - t-217278
-    - t-219763
-
-- id: c-200350
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 275"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 275."
-  citata_originali: |
-    Toliau apie Gedimino Naujųjų Trakų įkūrimą, kai kryžiuočiai,
-    susijungę su kalavijuočiais (Schwerdt-Herren), vadovaujami
-    Prūsijos komtūro Gotfrido, apiplėšė ir sudegino Senuosius Tra­
-    kus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217807
-
-- id: c-200991
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 457"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
-  citata_originali: |
-    III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
-    metų. Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių
-    problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant­
-    roje (ypač nuo Gedimino valdymo) Lietuvos galia ir jėga nepa­
-    prastai išaugo. Si epocha baigėsi 1386 metais, tai yra visiškai
-    įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara­
-    lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat
-    daryti visą tautą.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216977
-
-- id: c-201264
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
-  citata_originali: |
-    Kaip tik ten buvo minima Velionos šventykla. XIV am­
-    žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis - Fridburgą ir Bajer-
-    burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
-    lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
-    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
-    kiu šaunamuoju ginklu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216072
-    - t-219488
-
-- id: c-201514
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
-  citata_originali: |
-    Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­
-    vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­
-    dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
-    Jono I prašomas, įsakė jį nukirsti.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216645
-
-- id: c-201591
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 286"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 286."
-  citata_originali: |
-    Paskutinis Prūsijos
-    Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
-    rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
-    je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
-    žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti. Paga­
-    liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
-    žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
-    pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
-    ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
-    ir garantuotų sau politinę ramybę. Bet tie įkalbinėjimai neda­
-    vė jokio rezultato: žmonės pasipiktino vyriausiuoju žyniu ir
-    net ėmė grasinti jį nužudysiu. Tasai senelis ir toliau nematė
-    būdo, kaip prisidėti prie savo tautiečių gerovės; ėmė galvoti
-    apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­
-    kietėjusių savo savasties gynėjų - žynių ir liaudies, pabėgo pas
-    kryžiuočius. Jo asmuo, išvaizda, amžius sukėlė jų ypatingą pa­
-    garbą, tad, užuot nubaudę mirtimi pagal seniai jam paskelbtą
-    nuosprendį, maloniai jį priėmė, iškilmingai pakrikštijo ir su
-    nuostaba klausėsi jo kalbos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217278
-    - t-217747
-    - t-217875
-    - t-219078
-    - t-219079
-    - t-219805
-
-- id: c-201611
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 50."
-  citata_originali: |
-    Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­
-    ta Nesavos pilis
-    Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą
-    vyrą ir pamaldų brolį Hermaną iš Zalcos, Teutonų namų ordino didįjį magistrą,
-    pranešdamas, kaip čia tvarkomas jam patikėtas reikalas, nuolankiai prašydamas
-    ir maldaudamas, kad jam atsiųstų daugiau brolių bei ginklanešių (1230). Magistras,
-    patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro
-    pareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1,
-    6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra savo brolius,
-    į žemę, kurią viešpats yra jiems pažadėjęs, ir „su tavimi bus dievas“. Be to, maršalu
-    pasiuntė brolį Ditrichą iš Bernheimo, o į pagalbininkus jam paskyrė brolį Konradą iš
-    Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos
-    ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų. Atvykę
-    į Fogelzango pilį, jie žemiau pasistatė prie Vyslos Nešavos pilį181.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220542
-
-- id: c-201623
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
-  citata_originali: |
-    Apie Svečės pilies pastatymą ir jos užpuolimą
-    Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją
-    su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Kokie keisti, kokie
-    be galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis
-    žemino tikėjimą ir tikinčiuosius! Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo
-    sosto legatą ir didįjį magistrą, pranešdami jiems apie naują karą ir Prūsijos žemės
-    padėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
-    įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
-    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
-    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
-    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
-    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
-    plaukioti Vysla aukštyn ir žemyn.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225634
-
-- id: c-201859
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 77"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
-  citata_originali: |
-    Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
-    apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
-    vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip
-    įvykdęs maldininko įžadus, tas pats valdovas sugrįžo į savo kraštą, palikęs Prūsijoje
-    didelę kariuomenę, turėjusią baigti statyti Elbingo pilį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225317
-
-- id: c-201972
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
-  citata_originali: |
-    Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
-    Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
-    kurių reikalavo prūsai, kad kiti, paimti į nelaisvę, išliktų gyvi. Šitokia sutartis nepatiko
-    dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius,
-    pasikliovus viešpačiu, drąsiai stoti į kovą. Kai visų kitų nuomonė paėmė viršų ir kai davė
-    įkaitus, apie kuriuos jau esame kalbėję, prūsai, sulaužę taikos sutartį, užpuolė ir nužudė
-    54 brolius bei visus kitus, ten buvusius, 1249 viešpaties metais308 lapkričio 29 d. Po šių
-    žudynių vienas notangas pamovė ant ieties brolio Jono, minėtojo vicekomtūro, galvą ir,
-    ją pakėlęs aukštyn, pasakė: „Jeigu broliai būtų paklausę tavo patarimo, tikrai nebūtų
-    buvę nukauti“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222624
-
-- id: c-202069
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 17"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
-  citata_originali: |
-    Dusburgietis bando pateikti savotišką
-    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
-    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
-    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų
-    ordino broliai pradėję su jais naują karą (II, 7). Dusburgietis, rašydamas apie lietuvių
-    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
-    prieš Lietuvą (III, 343—346, 357—358).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222154
-    - t-222666
-    - t-225791
-
-- id: c-202185
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 5"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
-  citata_originali: |
-    Tai oficialus Kryžiuočių ordino
-    valstybės kūrinys.
-    Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a. pabaigoje,
-    agresijos į Artimuosius Rytus metu, atsikėlimas ir įsitvirtinimas pavyslyje XIII a.
-    pirmojoje pusėje. Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
-    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
-    feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
-    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
-    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
-    kovą prieš agresiją.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220589
-
-- id: c-202294
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 106"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
-  citata_originali: |
-    kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
-    Paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
-    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
-    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
-    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
-    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
-    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai. Sitai
-    užbaigęs ir įvykdęs maldininko įžadus, sugrįžo karalius į savo karalystę, žygyje praradęs
-    nedaug savo žmonių.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-202402
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 84"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 84."
-  citata_originali: |
-    Sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje
-
-      Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių  ir
-    pragaišties, pasak šventojo rašto, be galo klastingos  ir suktos širdies; prūsų tautą,
-    neseniai priėmusią Kristaus tikėjimą, jis pradėjo taikiais žodžiais raginti griebtis klastos,
-    sudarė sąjungą su ta sąlyga, kad jie išvarysią jėga iš Prūsijos žemės Teutonų ordino
-    brolius ir kitus krikščionis266; jiems ši kalba rodėsi esanti gera, daug kas persimetė į jo
-    pusę, ir beveik visi jam prijautė. Kai šitai įvyko, šis kunigaikštis sutvirtino savo pilis Vyslos
-    pakrantėse  ir jose įkurdino nuodėmingus žmones, nedoringus vyrus  ir nusikaltėlius,
-    kurie tapo broliams nelyginant kilpa po kaklu. Mat išėję iš šių pilių, jie, pastebėję pro šalį
-    plaukiančius brolių valdinius, staiga juos užpuldavo ir smarkiai sumušdavo, pasigrobdami
-    didelį grobį; vienus ėmė  į nelaisvę, kitus be pasigailėjimo žudė ir šitaip aplinkui liejo
-    krikščionių kraują; tokie dažni būdavo tie antpuoliai, kad ilgainiui niekas nesiryždavo
-    broliams patarnauti ir pristatyti Elbingo, Baigos bei kitų vietų broliams maisto, kurio
-    jiems labai reikėjo. Visa tai broliai buvo linkę verčiau kęsti be galo nuolaidžiai ir kantriai,
-    nei, pradėjus gintis, kelti ranką prieš viešpaties pateptąjį.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-202742
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 39"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
-  citata_originali: |
-    Be to, nemaža tokių, kurie, gilaus širdies pamaldumo skatinami, su
-    begaliniu uolumu patarnauja ligoninėse pasilpėliams ir paliegėliams, sergantiems
-    šiurpiomis ligomis. Garbingą ir naudingą vietą ordine užima dvasininkai, kurie taikos
-    metu, visur pasklidę nelyginant kibirkštys, skatina brolius pasauliečius stropiai laikytis
-    regulos, laiko pamaldas ir teikia sakramentus, o skubantiems į kruvinas žudynes vardan
-    gyvenimo ar mirties rodo nukryžiuotojo viešpaties pavyzdį, šitaip keldami kovotojų
-    narsą; su begaline dvasios malone jie teikė savo patarnavimus visiems — ir tvirtiems
-    kariams, ir silpniems paliegėliams, nešdami jų sąžinei paguodą paskutinę gyvenimo
-    valandą. Štai šį dvasios palaimą teikiantį ordiną, nuolatos šventosios bažnyčios labui
-    plečiantį savo veiklą, rėmė įvairūs popiežiai, palankia akimi stebėję jo darbą ir patvirtinę
-    jam suteiktas gausias privilegijas, imunitetus ir laisves154.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225047
-
-- id: c-202875
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 94"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
-  citata_originali: |
-    Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
-    ir 10 laivų. Kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289,
-    kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas
-    jį nukovė. Elbingo miestiečių laive, kuris, smarkiai plaukdamas, užšoko ant seklumos ir
-    čia paliko, buvo nukauti du broliai, tačiau brolis Fridrichas, atėjęs į pagalbą, visus kitus
-    išvadavo ir perkėlė į savo laivą, praradęs kovoje du brolius ir 3 vyrus, o priešas neteko
-    20 užmuštaisiais, tačiau likusieji paspruko.
-    52 (51). Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną
-    288  Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
-    5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
-    pilis — Elbingą ir Baigą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220582
-    - t-223149
-    - t-225562
-
-- id: c-202951
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 253"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 253."
-  citata_originali: |
-    Tuo metu 60 brolių ir būrys vyrų iš Prūsijos patraukė link Gardino pilies, tačiau, patyrę,
-    jog tie perspėti, pasiuntė 400 vyrų, kurie įsiveržė į šios pilies apylinkes, apiplėšė jas ir
-    sugrįžo ten, kur stovėjo brolių kariuomenė. Kitą dieną, kai lietuviai, manydami, jog
-    broliai bus patraukę  į savo žemę, ėjo  į savo laukus, broliai su visa savo kariuomene
-    užgriuvo mūsų minėtą žemę ir per šešias mylias ją nusiaubė, degindami bei grobdami.
-    Be to, daug šios pilies kilmingųjų, apie 94 žmones, su visais savo namais ir šeimyna
-    prisidėjo prie brolių ir, atvykę į Prūsiją, priėmė krikšto malonę.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203006
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
-  citata_originali: |
-    Kartą, kai popiežius Honorijus III
-    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
-    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
-    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
-    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
-    jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
-    kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
-    Kaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę
-    turėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem
-    pasitarnavo, draugiškai vieną su kitu taikydamas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220931
-    - t-224910
-
-- id: c-203197
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 257"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
-  citata_originali: |
-    20. Apie didžiojo magistro mirtį
-
-      Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
-    18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
-    paties nedorybių, nužudė brolį Vernerį, didįjį magistrą, kai tas, atgiedojęs mišparus, ėjo
-    iš bažnyčios, o nužudė todėl, kad tas jį bardavo už jo nusižengimus. O Jonai brolžudy,
-
-    Pastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—
-    Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225753
-
-- id: c-203201
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 14"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
-  citata_originali: |
-    Kryžiuočių ordinas visaip stengėsi sužlugdyti minėtąją 1323 m. spalio 2 d. sutartį: jau
-    spalio 24 d. Livonijos ordinas raginamas ją nutraukti, po to imtasi žygių, kad nutrauktų
-    sutartį Rygos miestas ir t. t. Ordinas tęsė agresiją 1324 m., kovo mėn. puldamas Gardino
-    apylinkes, gegužės mėn.— Gedimino pilį Žemaitijoje, metų pabaigoje, rodos, vėl Gardiną.
-    Puldinėjo Lietuvos žemes, grobė jas pasienyje ir Livonijos riteriai57.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221428
-    - t-223273
-
-- id: c-203262
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 181"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 181."
-  citata_originali: |
-    Apie vieną nuostabų atsivertimą
-    Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo
-    vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,
-    garsėjęs kaip labai gabus račius ir didelis karo pabūklų meistras. Kai jis kartą, jau
-    padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo
-    vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini
-    keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis
-    neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
-    būdo; kad šitai būtų akivaizdu, jie jį užklojo balta marška, kaip paprastai užklojami
-    numirėliai. Jis labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą
-    baltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai
-    ir užbaigė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222597
-    - t-224764
-
-- id: c-203350
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 63"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
-  citata_originali: |
-    Septyni Teutonų ordino broliai su keliais
-    ginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik
-    iš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium],
-    bet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,
-    kuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris
-    šlovinamas per amžius, amen.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220520
-
-- id: c-203429
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 110"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
-  citata_originali: |
-    81 (78). Dar apie tą patį
-
-      Su šiuo broliu Hermanu, jau priimtu  į Ordiną ir darančiu vieną dorovingą darbą po
-    kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną
-    sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis stengėsi patirti jos
-    liūdesio priežastį, atsakė: „Man liūdna, kad mano mielieji sūnūs, o tavo broliai iš Teutonų
-    ordino, kitados apie nieką kita nesikalbėję, tik apie mano sūnų, apie mane ir šventųjų
-    darbus, dabar apie nieką kita nesikalba, tik apie karalių bei kunigaikščių darbus ir šio
-    pasaulio tuštybę, o labai retai kada arba niekada nemini nei mano sūnaus, nei manęs,
-    nei šventųjų darbų“.
-
-      340  Gerhardas iš Hiršbergo (Hircbergo) 1257—1259 m.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221142
-
-- id: c-203435
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 72"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
-  citata_originali: |
-    Kai garsas apie naują Kristaus kryžiaus žygį nuskambėjo po visas Vokietijos karalystės
-    žemes, kai buvo paskelbtas naujas karas, kuriam viešpats pasirinko Prūsijos žemę, kai
-    buvo pažadėta naujo karo dalyviams atlaidų bei laisvių, subruzdo visi tie, kuriems širdis
-    sujaudino dievas, būtent šaunūs ir garsūs Vokietijos kariai; prisisegę prie peties kryžių,
-    jie rengėsi  į karą keršyti už nukryžiuotojo viešpaties kančias, kratydamiesi visko, kas
-    galėtų trukdyti jų šventiems ketinimams. Mat jie pakluso šiems išganingos Jeronimo
-    paskatos žodžiams, bylojantiems: „Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis
-    pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk,
-    pamynęs po kojomis tėvą, skubėk, pamynęs po kojomis motiną, ir pulk prie kryžiaus karo
-    vėliavos“. Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
-    pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
-    senoji pilis223.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203715
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
-  citata_originali: |
-    Dievas jam buvo suteikęs tokių malonių,
-    kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
-    Jį didžiai vertino ir popiežius, ir imperatorius, nekalbant apie kitus kunigaikščius bei
-    didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
-    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti  po maišto, sukelto
-    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
-    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
-    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
-    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222254
-    - t-222792
-
-- id: c-203751
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 196"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
-  citata_originali: |
-    Moteris, tiek kartų ir taip
-    smarkiai bauginama siaubingų bildesių, daugel sykių gąsdinama stebuklingų balsų,
-    nebeturėjo jėgų ilgiau priešintis šventam vyro sumanymui, todėl ir nusileido, duodama
-    jam valią stoti į bet kurį vienuolyną. Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą,
-    davė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus
-    piktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.
-    Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius
-    begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo
-    tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas
-    negali tavęs išganyti, tad išpažink žydų tikėjimą“.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220471
-
-- id: c-204063
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 47"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
-  citata_originali: |
-    6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
-                                      kovų
-
-      Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
-    Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
-    užjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino
-    viešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai
-    sudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už
-    kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
-    priklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221730
-
-- id: c-204254
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
-  citata_originali: |
-    Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis
-    Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop
-    paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis
-    aplinkybėmis, kuris patarė pasiųsti Austrijos kunigaikščiui Mstivojų, Sventopelko sūnų,
-    kaip įkaitą ir Prūsijos žemės bei brolių likimą patikėti Vokietijos, Čekijos, Krokuvos ir
-    Lenkijos kraštams, nes matė, kad tikėjimo ir brolių reikalai bematant čia žūsią, jeigu
-    nepaskubėsianti ateiti ir dieviškoji, ir jų pagalba. Kai šitai buvo padaryta, 1244 atvyko
-    brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.
-    Be to, Austrijos kunigaikštis dar atsiuntė šiai žemei padėti 30 raitųjų lankininkų, išlaikomų
-    savo lėšomis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221341
-    - t-223113
-
-- id: c-204282
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 113"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 113."
-  citata_originali: |
-    upės350, žuvo brolis Burchardas, Livonijos magistras351, ir brolis Henrikas Botelis, Prūsijos
-    maršalas, su jais 150 brolių352, o dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų
-    skaičiaus. Po šitokio sutriuškinimo priešai persekiojo bėgančius žmones, kurie spruko
-    taip didžiai išsigandę, kad trys ar keturi priešai nukaudavo šimtą krikščionių arba juos
-    gėdingai išsklaidydavo353. Štai kuriuo būdu sustiprėjo mūsų priešai, laimėję didelį grobį,
-    daug arklių ir ginklų, kuriuos grobstė nukautiems kariams iš rankų, štai kodėl dabar jie
-    puikuojasi savo narsumu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221891
-
-- id: c-204295
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 79"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
-  citata_originali: |
-    Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė
-    pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių
-    mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas neatima iš
-    tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą,
-    padrąsink savo kovotojus ir paragink juos sunaikinti tuos, kurie puola mūsų karalystę“.
-    Magistras, galop nurimęs, pasiuntė laivais didžiulę kariuomenę keršyti už neteisingai
-    nužudytuosius; atplaukę prie Baigos, jie ten išlipo ir, tinkamose vietose išdėstę lankininkus
-    bei surėmę  į sieną kopėčias, smarkiai užpuolė šią prūsų pilį, o kadangi jiems talkino
-    Kodrūnas, apgultosios pilies vadas, jie netruko ją užgrobti, dalį žmonių paimti į nelaisvę,
-    o kitus išžudyti. Šitai padarę, broliai, atsidėkodami dievui, drauge su savo ginklanešiais
-    apsigyveno toje pilyje245 1239 viešpaties dievo metais ir ten dar garbingiau kovojo su
-    minėtaisiais prūsais viešpaties dievo kariuomenei deramas kovas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220448
-
-- id: c-204365
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 255"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
-  citata_originali: |
-    Magistras ir broliai, naudingai pamokyti šių bei kitų švento rašto pranašysčių,
-    ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
-    Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
-    ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas. Todėl magistras minėtųjų
-    metų vasarą, subūręs didelę kariuomenę, pasiuntė ją į Lenkiją ir apsupo Višogrudą,
-    Lenkijos karaliaus pilį; joje gyveno nuodėmingi, išgarsėję piktais darbais vyrai, kurie
-    plėšė pro šalį Vyslos upe plaukiančių laivais žmonių turtą, o juos pačius ėmė į nelaisvę
-    ar žudė, ir niekas negalėjo nuo jų išsigelbėti, nepatyręs skriaudos, o šitaip jie darė
-    ilgus metus, sunkiai skriausdami ir brolius, ir saviškius; po daugybės antpuolių jie galop
-    smarkiai įsiveržė į pilį602; įniršę išgalabijo nusidėjėlius, nelabus vyrus, kėlusius jiems
-    apmaudą, vienus paėmę į nelaisvę, o kitus išžudę, iš pasipiktinimo iki pamatų sudegino
-    pilį.
-    13.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224964
-
-- id: c-204619
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 33"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
-  citata_originali: |
-    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
-    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
-    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
-    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
-    apreikšti dievo darbus yra šlovinga.
-    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
-    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
-    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
-    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
-    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
-    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
-    atminimas.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221249
-
-- id: c-204666
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 5"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
-  citata_originali: |
-    Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
-    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
-    feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
-    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
-    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
-    kovą prieš agresiją.
-    Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
-    sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
-    viduramžiais į Rytus, atskleidžia tos agresijos esmę ir jos vykdytojų katalikišką
-    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių ir bažnytinių
-    feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221791
-
-- id: c-204679
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 75"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
-  citata_originali: |
-    Šventoji mergelė jam atsakė: „Neverta,
-    nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
-    taip kentėti, kaip trokšti“. Pakėlusi kiekvienam broliui apsiaustą, ji parodė jų žaizdas ir
-    randus, kurių jiems nešykštėjo netikėliai, kai gynė tikėjimą, ir pasakė: „Ar tau dabar
-    neatrodo, kad štai šie tavo broliai yra šiek tiek kentėję dėl Jėzaus Kristaus vardo“. Jai
-    tarus šiuos žodžius, regėjimas dingo. Tas brolis pakirdęs atsikvošėjo, nuėjo į kapitulą,
-    kur buvo susirinkę broliai, ir dabar, daugiau supratęs bei patyręs, nuolankiai atšaukė
-    savo klaidingą nuomonę ir atsisakė savo sumanymo, kurį anksčiau lengvapėdiškai buvo
-    priėmęs, ir visiems papasakojo matytą regėjimą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220424
-    - t-221217
-    - t-221393
-    - t-221455
-    - t-223398
-    - t-225232
-
-- id: c-204809
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 93"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 93."
-  citata_originali: |
-    Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
-    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo į sienas, taip
-    ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
-    Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
-    pasitraukė sugėdintas. Nemanyk, kad šitaip nutiko čia vieną kartą, šitaip dažnai buvo
-    ir kitose vietose, kur, vyrams išvykus, tvirtovės būtų buvusios prarastos, jeigu moterų
-    drąsa jų nebūtų apgynusi.
-    49(48). Apie vieną Sventopelko karį
-    Sventopelko šeimynoje buvo vienas karys, kuriam Teutonų ordino broliai įvarė tokį
-    siaubą, kad visas imdavo virpėti vos išgirdęs minint jų vardą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221217
-    - t-221563
-    - t-222486
-
-- id: c-205005
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 256"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
-  citata_originali: |
-    16. Apie Rygos miesto sugriovimą
-
-      Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos
-    miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė)
-    Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė laikinai aprimo; didėjant
-    nepritekliui ir stiprėjant nesantaikai, kurios su baime laukta kilsiant tarp miesto valdytojų
-    ir paprastų žmonių, miestiečiai turėjo ir save, ir savo šeimas, ir miestą, ir savo laisves
-    bei visas teises ir privilegijas patikėti broliui Eberhardui iš Manheimo, Livonijos žemės
-    magistrui, bei broliams tam, kad jie viską tvarkytų ir rikiuotų, kaip jiems rodysis tinkama.
-    Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
-    spraga.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221730
-    - t-223149
-    - t-223858
-
-- id: c-205022
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 117"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 117."
-  citata_originali: |
-    Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
-    ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis
-    stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl
-    apsuptieji negalėjo nei įeiti, nei išeiti iš pilies. Vargu ar kas stengtų apsakyti, kiek atrėmė
-    antpuolių, kokių patyrė pavojų, kokį nepakeliamą alkį ir šiaip stygių kentė apsuptieji
-    broliai ir kiti žmonės šiose pilyse. Baisiausio bado kamuojami, kai nebeliko nei avių, nei
-    jaučių, nei kiaulių, nei karvių bei arklių, jie turėjo misti jų odomis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221515
-
-- id: c-205028
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
-  citata_originali: |
-    Vernerio prierašuose pabrėžiama, jog jie
-    skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
-    Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6
-    metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius).
-    Norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą,
-    didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
-    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
-    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
-    prieš Lietuvą.
-    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
-    feodalinių riterių žygių prieš musulmoniškąjį pasaulį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221455
-    - t-222297
-    - t-222385
-
-- id: c-205114
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 74-75"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74-75."
-  citata_originali: |
-    Apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo
-
-      Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo
-      229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo
-    1202 m., Krokuvos kunigaikštis 1228— 1229 ir nuo 1232 m., Opolės kunigaikštis nuo
-    1229 m., Didžiosios Lenkijos kunigaikštis nuo 1234 m. Pasak Dusburgiečio, Henrikas
-    Barzdotasis 1233 m. dalyvavo žygyje  į Prūsiją, tačiau kunigaikščio dokumentai kalba
-    apie jo buvimą Prūsijoje 1235 m. (Labuda G., Stanowisko..., p. 311—312). Manoma,
-    kad žygyje dalyvavo ne pats Henrikas Barzdotasis, bet jo sūnus Henrikas Pamaldusis
-    (Zientara B., Sprawy pruskie..., p. 38).
-      230 Pamario kunigaikštis (miręs 1266 m.).
-      231 Kryžiuočiai puolė 1233 m. spalio-lapkričio mėn. arba 1234 m. sausio-vasario
-    mėn. (Jasiński T., Stosunki śląsko-pruskie..., p. 401).
-      232 Zirgūna (D.— Sirgune, XIII—XIV a. dokumentuose — Sirgun, Syrgen, plg. pr.
-    zirgis, lie. žirgas, Žirgupė; vok. Sorge, dab. Dzierzgoń — GAO, p. 158; Būga K., 3, p. 539;
-    Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo
-    (dab. Družno) ežerą (žr. paaiškinimą III, 14, 4). Mūšis įvyko, atrodo, prie Kristburgo,
-    dab. Dzežgonis (VBK; SRP, 1, p. 58 — Tepeno M. išnaša; Ewald A. L., Die Eroberung...,
-    1, p. 163). D. pasakojimą apie krikščionių pergalę kartais linkstama laikyti įvykius
-    pagražinančiu prasimanymu arba vėlesne tradicija (Kujot S., Dzieje Prus..., 1, p. 601).
-
-    žemės, subūrė brolių ir ginklanešių kariuomenę ir pastatė Rudino pilį233 priešais dykrą,
-    buvusią tarp Pamedės ir Kulmo žemių, toje vietoje, pro kur prūsai nuolatos puldinėdavo
-    ir kur buvo įeiga į Kulmo žemę [fuerat [...] introitus ad terram Colmensem].
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222581
-    - t-225483
-
-- id: c-205161
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 33"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
-  citata_originali: |
-    Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
-    apreikšti dievo darbus yra šlovinga.
-    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
-    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
-    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
-    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
-    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
-    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
-    atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223520
-
-- id: c-205172
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
-  citata_originali: |
-    Apie Baigos brolių vienuolišką gyvenimą
-
-      Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių
-    paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų
-    regulų laikėsi Baigos bei kitų minėtųjų pilių broliai. Niekad arba beveik niekad netruko čia
-    maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar
-    rytmetinių pamaldų tas ar kitas brolis neplaktų rykštėmis savo kūno. Kai kurie vienuoliai,
-    atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė,
-    kuo vardu jų pilis. Kai jiems atsakė, jog Engelsbergas, tai yra Angelų kalnas, šie atrėžė:
-    „Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220919
-
-- id: c-205186
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
-  citata_originali: |
-    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
-    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
-    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
-    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai
-    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
-    suartėti su totoriais — mongolais ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
-    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222937
-
-- id: c-205190
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 33"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
-  citata_originali: |
-    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
-    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
-    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
-    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
-    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
-    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
-    atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
-    Pratarmė
-
-
-    „Aukščiausias dievas padarė manyje ženklų ir stebuklų.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223520
-
-- id: c-205332
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
-  citata_originali: |
-    Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
-
-      Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
-    nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė
-    tikėjimui ir broliams254. Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir
-    atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu
-    Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257
-    ir Rezlio258. Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
-    ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
-    daug brolių ir ginklanešių. Daug ir kitų pilių pastatė kilmingieji ir vasalai, atvykę į pagalbą
-    šiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis,
-    kurių vardus vienas dievas težino. Nuo to laiko pradėjo gausėti Prūsijos žemėje tikinčiųjų
-    ir plisti dievo tikėjimas Jėzaus Kristaus garbei bei šlovei (1241).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221295
-
-- id: c-205341
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 73"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 73."
-  citata_originali: |
-    9. Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae
-                                    Mariae] pastatymą
-
-      Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo
-    įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir broliai, norėdami, kad
-    mūsų išganymo dievas palaimintų mums kelią į kaimynines netikėlių žemes (pasak kai
-    kurių, šitai tikriausia tiesa), paruošę visa, kas reikalinga pilims statyti, slapta nuplaukė
-    į Kvedino salą, buvusią prieš šiandieninę šventos Marijos salą, ir ten viešpaties dievo
-    1233 metais ant vienos kalvos pastatė pilį, pavadinę ją Marienverderiu. Tačiau kąi  į
-    Kulmo pilį atvyko nemažos kariuomenės ir ginklanešių lydimas kilnusis vyras ir kariauti
-    įgudęs Saksonijos karys Magdeburgo burggrafas224, pravarde Trumparankis,  jis per
-    vienus metus, kuriuos ten praleido, atplaukė čia  ir perkėlė su magistru bei broliais
-    Marienverderio salos pilį iš Kvedino salos  į tą vietą, kur ji dabar tebestovi225, būtent  į
-    Pamedės valsčių, vardu Reisiai226, pakeisdamas pilies vietą, bet ne pavadinimą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221470
-
-- id: c-205347
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 225"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
-  citata_originali: |
-    Ketvirta knygos dalis (Apie įvykius)
-
-
-                 PRASIDEDA KETVIRTA KNYGOS DALIS APIE ĮVYKIUS
-
-
-
-                   1. Apie Celestiną III, popiežių, ir Henriką VI, imperatorių
-
-      Tuo metu, kai radosi ir gavo pradžią Teutonų namų ordinas, tai yra 1190 viešpaties
-    metais, viešpatavo Celestinas III, popiežius, ir Henrikas VI, imperatorius (Dusb. I, 2).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221771
-    - t-225036
-
-- id: c-205492
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 100"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 100."
-  citata_originali: |
-    Apie Kristburgo pilies atstatymą
-    Magistras ir broliai, giliai susikrimtę dėl šio apverktino įvykio, nusprendė, kad kitaip
-    nepalenksi šių kietasprandžių netikėlių tikėjimui, kaip tik tada, kai šios klastingos giminės
-    viduryje [in medio nationis] būsianti pastatyta pilis, iš kurios galėsią juos kasdien
-    puldinėti. Todėl, sukvietę daugybę maldininkų, kurie, pastoviai raginami į kryžiaus karą,
-    nuolat čia traukė iš įvairių Vokietijos kraštų, broliai pasuko į Pamedės žemę pasiėmę
-    visa, kas reikalinga pilims statyti. Pakeitę vietą, bet ne vardą, Jėzaus Kristaus garbei ir
-    šlovei jie pastatė Kristburgo pilį toje vietoje, kur ji ir dabar tebėra304, sutvirtinę ją viskuo,
-    kas reikalinga pilims ginti, ir palikę joje daug karių. Šiek tiek vėliau, bėgant dienoms ir
-    mėnesiams, apie pilį pradėjo kurti miestą305, į kurį suplaukė gyventi daugybė tikinčiųjų,
-    pasiryžusių už krikščionių tikėjimą kasdien aukoti be baimės savo gyvybę ir savo turtą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221742
-
-- id: c-205494
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45-46"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45-46."
-  citata_originali: |
-    Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
-    kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
-      168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje
-    besiribojančios su prūsų teritorija, centras.
-      169 Kaimas Sedlce (D.— Cedelicze) buvęs  į pietus nuo Vyslos, kiek  į šiaurę nuo
-    Inovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose). Kaip Dobrynės ordino
-    palikimas  atiteko kryžiuočiams (Guldon  Z., Powierski  J.  Podziały...,  p. 173—174,
-    žemėlapis Nr. 6).
-      170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.
-    411).
-
-    savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
-    pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
-    esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,
-    viešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius
-    visas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei
-    teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
-    šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims. Kad
-    šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti,
-    išdavė jiems raštą, kurį patvirtino savo antspaudu172. Šitai padaryta apie 1226 (1230)
-    viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui
-    Giunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
-    Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
-    Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221730
-    - t-222074
-    - t-222385
-
-- id: c-205576
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 182"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
-  citata_originali: |
-    Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji
-    kunigaikščiai pasileido bėgti su visais savo lenkais. Sitai matydami, broliai nusigando ir,
-    neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
-    nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
-    pavyko garbingai išvengti kovos.
-    249 (242).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224504
-
-- id: c-205605
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 111-112"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111-112."
-  citata_originali: |
-    Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
-                                             nių
-
-      1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo  į vieną vietą su stipriomis
-    kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo
-    prie  šios  pilies, atvyko  pasiuntinys, pranešdamas, kad  keturi  tūkstančiai  lietuvių
-
-      342 Krašto magistras buvo nuo 1259 m. gegužės mėn.  iki 1261 m.  lapkričio
-    mėn.
-      343 Karšuvos (D.— terra Carsovie) žemė pietvakarių Žemaitijoje pietuose apie
-    Nemuno—Mituvos santaką siekė Nemuną, pietvakariuose  ribojosi su Skalva (apie
-    Sešuvies—Jūros santaką), vakaruose siekė Minijos žemupį, šiaurėje apėmė Jūros  ir
-    Akmenos vidupius su dab. Šilale, rytuose ėjo iki Šaltuonos aukštupio (SZM, p. 199—
-    202).
-      344 Ordino pilis ant švento Jurgio kalno (D — in monte sancti Georgii) buvo pastatyta,
-    atrodo, deš. Nemuno krante apie dab. Jurbarką, žemiau Mituvos žiočių, kur yra Bišpiliukais
-    vadinama piliavietė (dvi kalvelės Kalnėnų kaimo teritorijoje) (Toeppen M., Historisch..,
-    p. 39; Zajączkowski S., Studya.., p. 35—36; SZM, p. 213—214; LAA, 2, p. 77).
-
-    nuniokojo vieną Kuršo žemės dalį, degindami, grobstydami ir liedami krikščionių kraują,
-    o sugautas moteris bei vaikus išsivarė su savimi, kartu gabendamiesi daug kitokio
-    grobio. Šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti
-    iš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu
-    Mata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus,
-    atsakė: „Palikime savo arklius toli užpakalyje, kad neturėtume vilties prie jų sugrįžti, ir
-    patraukime link priešų pėsčiomis, nes tada žmonės, nesitikėdami išsigelbėsią arkliais,
-    nevengs mūšio, antraip jie be abejonės leisis bėgti“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224888
-
-- id: c-205678
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 96-97"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96-97."
-  citata_originali: |
-    Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
-                                            jos [vyrų]
-
-      Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą  ir kai įsakė kitiems
-    jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės
-    kančios sujaudino Vokietijos kunigaikščius bei kilminguosius, o Austrijos kunigaikštis294
-    pasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais
-    kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
-    Magistras  ir broliai su jais bei su kunigaikščiu Kazimieru  ir su savaisiais įsibrovė  į
-    Pomeranijos žemę  ir, devynetą dienų  ir naktų tai viena, tai kita kryptimi smogdami
-    stiprius  ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio,
-    kurio nebūtų nuniokoję plėšimais ir gaisrais. Tuo metu, kai šitai dėjosi, Sventopelkas
-    sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
-    atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo
-    brolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,
-    šitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė
-    dvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė
-    šiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę
-    teutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
-    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
-    vyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
-    koks bailys pamatęs daugybę nukautųjų. Šitai išvydęs, valdovas Henrikas iš Lichtenšteino
-    staiga užgriuvo priešus ir sugrąžino  į pirmykštę vietą atimtą grobį. Apie tai sužinojęs,
-    Sventopelkas paskubėjo saviesiems  į pagalbą su trimis raitelių būriais. Juos išvydę,
-    lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei
-    kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino.
-    Tuo tarpu broliai susirikiavo kovai. Sventopelkas, pamatęs, kad broliai nė nemano bėgti,
-    įsakė tūkstančiui savo rinktinių karių nušokti nuo žirgų pamokęs juos pulti brolius su
-    dideliu triukšmu bei riksmu ir, prisidengus skydais, ietimis galabyti krikščionių arklius,
-    sakydamas: „Kryžiuočiai, apsišarvavę sunkiais šarvais, nestengs pėsti kovoti“. Kai abi
-    kariuomenės išsirikiavo mūšiui, valdovas Henrikas sugrįžo atgal  ir, išvydęs priešus,
-    pasakė broliams: „Delsti pavojinga, todėl pulkime juos!“ Jie įnirtingai užpuolė priešus,
-    ir prasidėjo baisios kautynės; Sventopelko kariuomenė prarado mūšio lauke tūkstantį
-    penkis šimtus žuvusių vyrų, o krikščionių nė vienas nebuvo sunkiai sužeistas, išskyrus
-    10 žirgų, kurie krito perverti priešo iečių. Šitaip broliai ir maldininkai sugrįžo namo,
-    parsivarydami tūkstantį šešis šimtus priešo žirgų, parsiveždami daugybę kitoniško
-      293 Popiežiaus legatu Prūsijoje Opicas iš Mesanos, dab. Mesinos, buvo 1245 m.
-    pabaigoje— 1246 m. pradžioje (Kujot S., Dzieje Prus..., 1, p. 727—728).
-      294 Fridrichas.
-
-    grobio  ir laimėję garbingą pergalę, nes jiems talkino mūsų viešpats Jėzus Kristus,
-    kuris tebūnie garbinamas per amžių amžius, amen.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220424
-    - t-221393
-    - t-221455
-    - t-222730
-    - t-223520
-
-- id: c-205695
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 196"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
-  citata_originali: |
-    Kai brolis
-    Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.
-    Kai sugrįžo išbalęs ir priblokštas į savo pilį, papasakojo visa, ką matęs, savo žmonai,
-    kilmingai, jaunai ir švelniai moteriai, kuri, jo paprašyta skyrybų, ryžtingai atsisakė. Kai
-    jis kurį metą nelyginant dvejojo, ar pajėgs tesėti savo įžadus, velnias, žmonių giminės
-    priešas, kuriam tūkstančiai kelių kenkti žmogui, norėdamas jį sulaikyti nuo šių šventų
-    ketinimų, pasirodė jam sapne apsivilkęs karališkais rūbais bei apsuptas gausybės riterių
-    ir pasakė: „Henrikai, turėtumei tokią karalystę ir tokią kariauną, būtumei žymus karys,
-    man tarnautumei, o aš dar daugiau tau duočiau“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221250
-    - t-222730
-    - t-223520
-
-- id: c-205704
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 209-210"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209-210."
-  citata_originali: |
-    Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
-
-      Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su
-    visa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų
-      569 D.— circa territorium Medenickam, Jer.— Medenicken, Medeniken; Medininkai
-    centrinėje Žemaitijoje (SZM, p. 223— 226). Dusburgietis kalba apie Medininkų valsčių
-    (territorium), tuo tarpu XIV a. pabaigos duomenys rodo, kad tai buvusi žemė, kurią
-    sudarė keletas valsčių. Medininkų žemė, atrodo, susiformavo XIV a., kai į ją buvo sujungti
-    Žemaitijos centriniai valsčiai ir sudaryta vieninga gynybos prieš Ordino agresiją sistema,
-    kurios centras, matyt, buvęs Medvėgalyje (Łowmiański H., Studja..., 2, p. 81—82).
-      570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pilis, kaip spėjama, buvusi Girgždutės
-    piliakalnyje (Valančius M., Raštai, 1, p. 379; Łowmiański H., Studja..., 2, p. 214); Telšių
-    rj. išlikę Girgždutės  ir Pagirgždūčio piliakalniai (LAA, 2, p. 65, 121— 122). Galimas
-    dalykas, iškreiptas Sizditės pilies vardas sietinas su Spasčių kalno (prie Girgždūtės)
-    vardu, plg., be to, netolimo Sprūdės piliakalnio vardą—LAA, 2, p. 161, Nr. 717).
-      571 D.— Criwicie, Jer.— Kriwitzin, in daz lant Kriwitzin. Krivičių žeme Dusburgietis
-    vadina Naugarduko žemę Nemuno aukštupyje. Naugarduko regioną krivičiai apgyvendino
-    I m. e. tūkstantmečio 2-oje pusėje (Гуревич Ф. Д., Древности..., с. 76; Ochmański J.,
-    Litewska granica..., p. 27—33). Žr. Zinkevičius Z., Lietuvių kalbos kilmė, p. 252.
-      572 D.— parva Nogardia. Naugarduko pilis buvo kalvoje, jos netaisyklingo trikampio
-    formos kiemas apsuptas pylimais  ir kt. įtvirtinimais. XIII a. 2-oje pusėje, Mindaugo
-
-    sugriovė, o aplinkines žemes nuniokojo, degindamas ir plėšdamas visa, kas pakliuvo;
-    priešais minėtojo miesto pilį jis pastatė palapines ir ten pernakvojo, o kitą dieną jis bei
-    visa jo kariuomenė priėjo prie pilies ir ją smarkiai užpuolė, todėl abi šalys prarado keletą
-    karių nukautaisiais ir daug mirtinai sužeistaisiais. Nieko šiuo antpuoliu nepešę, pasitraukė;
-    kai priėjo vietą, kur buvo palikę saugas prie atsarginės žygio mantos, pamatė, kad
-    Gardino pilininkas Dovydas573 nužudęs 30 vyrų ir pagrobęs pusantro tūkstančio arklių,
-    duoną bei kitokį maistą ir visus kitus paliktus saugoti daiktus. Dar labiau susirūpino
-    broliai, kai, priėję antrąjį postovį, ir ten neberado nei duonos, nei kitų paliktų daiktų;
-    jie patraukė  į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo
-    arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
-    alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
-    išvykimo dienos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221999
-    - t-222293
-    - t-223149
-
-- id: c-205712
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 77"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
-  citata_originali: |
-    Apie karą su pagudėnais ir Elbingo pilies pastatymą
-
-       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
-    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
-    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
-    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
-    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
-    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
-    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
-    išaugo miestas242.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224777
-
-- id: c-205829
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 39"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
-  citata_originali: |
-    Nemaža jame ir
-    tokių, kurie iš širdies rūpinasi labdarybe, teikdami globą svetimšaliams, maldininkams ir
-    pavargėliams. Be to, nemaža tokių, kurie, gilaus širdies pamaldumo skatinami, su
-    begaliniu uolumu patarnauja ligoninėse pasilpėliams ir paliegėliams, sergantiems
-    šiurpiomis ligomis. Garbingą ir naudingą vietą ordine užima dvasininkai, kurie taikos
-    metu, visur pasklidę nelyginant kibirkštys, skatina brolius pasauliečius stropiai laikytis
-    regulos, laiko pamaldas ir teikia sakramentus, o skubantiems į kruvinas žudynes vardan
-    gyvenimo ar mirties rodo nukryžiuotojo viešpaties pavyzdį, šitaip keldami kovotojų
-    narsą; su begaline dvasios malone jie teikė savo patarnavimus visiems — ir tvirtiems
-    kariams, ir silpniems paliegėliams, nešdami jų sąžinei paguodą paskutinę gyvenimo
-    valandą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223550
-    - t-224585
-
-- id: c-205944
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
-  citata_originali: |
-    159 D. — Wurcza. Burcos žemė Transilvanijoje. Joje Vengrijos karalius Andrius 11
-    1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4),
-    norėdamas, kad šie gintų kraštą nuo polovcų (kumanų). Kryžiuočiai savavališkai bandė
-    plėsti savo valdas; popiežiaus padedami, sieke visiško savarankiškumo, todėl 1225 m.
-    Andriaus II buvo išvyti iš Vengrijos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223764
-
-- id: c-206146
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 37-38"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37-38."
-  citata_originali: |
-    Tad popiežius, išklausęs šią
-    pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties
-    dievo vardu patvirtino. Jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams
-    slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti
-    broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir
-    suteikdamas jiems visokių laisvių, lengvatų bei indulgencijų, kurių apaštališkasis sostas
-      153 Akonas (Akra, Aka) — miestas ir uostas Viduržemio jūros rytinėje pakrantėje (dab
-    Izraelio teritorijoje), XI a. pabaigoje buvęs Vakarų Europos kryžininkų įkurtoje Jeruzalės
-    karalystėje. 1187 m. jį užėmė Egipto sultonas. Saladinas. Kryžininkų atkariautas 1191
-    m., tapo Jeruzalės karalystės sostine (iki 1291 m.).
-
-    teikė tokiems garbingiems ordinams, kaip jau minėtieji joanitai  ir tamplieriai, taigi
-    duodamas teisę laisvai naudotis tomis pat privilegijomis kaip ir anieji.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223078
-
-- id: c-206352
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 128"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
-  citata_originali: |
-    Apie Vėluvos pilies puolimą
-    Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
-    su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias
-    dienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo į
-    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
-    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
-    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
-    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
-    piliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o
-    minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam
-    lietuvių vadui ir jį nukovė, o paleidęs [strėlę] į kitą priešo kariuomenės dalį, pataikė
-    vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
-    jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221618
-    - t-224687
+  pagrindzia:
+    - t-416
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Anglų riteriai]], [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]

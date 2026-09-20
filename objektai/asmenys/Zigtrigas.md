@@ -37,22 +37,10 @@ Narbutas Zigtrigą vadina garsiu tenykščiu rusų karaliumi, kurį I a. pirmoje
 
 ## Teiginiai
 
-<a id="claim-t-214260"></a>
-- t-214260
-  teiginys: "Norvegų valdovas Halfadanas tame pačiame amžiuje kariavo esančiame į rytus užjūrio krašte su rusais vadi nama tauta ir dvikovoje nukovė garsų tenykštį karalių, vardu Zigtrigas."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196112
-
-<a id="claim-t-215553"></a>
-- t-215553
+<a id="claim-t-191487"></a>
+- t-001
   teiginys: "Narbutas Zigtrigą vadina garsiu tenykščiu rusų karaliumi, kurį I a. pirmoje pusėje užjūrio krašte dvikovoje nukovė norvegų valdovas Halfadanas."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,6 +55,8 @@ Narbutas Zigtrigą vadina garsiu tenykščiu rusų karaliumi, kurį I a. pirmoje
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   semantiniai_rysiai: "Zigtrigas buvo valdovas Rusai (0.86)"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174369
 
 ## Citatos
 
@@ -92,23 +82,5 @@ Narbutas Zigtrigą vadina garsiu tenykščiu rusų karaliumi, kurį I a. pirmoje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196112
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 239"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
-  citata_originali: |
-    Norvegų valdovas Halfadanas tame pačiame amžiuje
-    kariavo esančiame į rytus užjūrio krašte su rusais vadi­
-    nama tauta ir dvikovoje nukovė garsų tenykštį karalių,
-    vardu Zigtrigas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214260
-
+  pagrindzia:
+    - t-001

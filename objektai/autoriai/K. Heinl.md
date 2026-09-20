@@ -34,6 +34,17 @@ canonical_biography: "(^2) ) Heinl, 15, Proch., D. ep. V., 187, 188 nr.; Heinl 1
 
 (^2) ) Heinl, 15, Proch., D. ep. V., 187, 188 nr.; Heinl 167—9. (^1) ) Heinl 160 psl. (^2) ) Žerb: - Lab.
 
+## Teiginiai
+
+<a id="claim-t-50875"></a>
+- t-001
+  teiginys: "K. Heinl teigė, kad Vytautui valdžią įgyti buvo sunkiau nei pirmtakams, bet jis tikslą pasiekė puikiau už juos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-36665
+
 ## Citatos
 
 - id: c-36665
@@ -56,27 +67,5 @@ canonical_biography: "(^2) ) Heinl, 15, Proch., D. ep. V., 187, 188 nr.; Heinl 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-50874"></a>
-- t-001
-  teiginys: "K. Heinlis teigė, kad Vytautui pasiekti savo tikslą buvo sunkiau negu jo pirmtakams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36665
-
-<a id="claim-t-50875"></a>
-- t-002
-  teiginys: "K. Heinl teigė, kad Vytautui valdžią įgyti buvo sunkiau nei pirmtakams, bet jis tikslą pasiekė puikiau už juos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36665
-

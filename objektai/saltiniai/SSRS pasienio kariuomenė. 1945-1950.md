@@ -33,30 +33,12 @@ media_all_json: |-
 
 (SSRS pasienio kariuomenė.
 
-## Citatos
-
-- id: c-77407
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
-  citata_originali: |
-    P. 225, „IŠ NKVD RAPORTO*, [orpanmunpie Boiicka CCCP. 1945-1950, MockBa, 1975. (SSRS
-    pasienio kariuomenė. 1945-1950, Maskva, 1975).
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-80760"></a>
 - t-001
   teiginys: "„SSRS pasienio kariuomenė. 1945-1950“ buvo išleista Maskvoje 1975 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -72,3 +54,20 @@ media_all_json: |-
   pagrindžia:
     - c-77407
 
+## Citatos
+
+- id: c-77407
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
+  citata_originali: |
+    P. 225, „IŠ NKVD RAPORTO*, [orpanmunpie Boiicka CCCP. 1945-1950, MockBa, 1975. (SSRS
+    pasienio kariuomenė. 1945-1950, Maskva, 1975).
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

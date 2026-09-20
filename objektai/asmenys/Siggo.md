@@ -36,17 +36,25 @@ Kozmo Prahiečio biografijos duomenimis, Narbutas Siggo vadina stabmeldžių žy
 
 ## Teiginiai
 
-<a id="claim-t-217165"></a>
-- t-217165
-  teiginys: "Iš šventojo Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab meldžių žynys Siggo, kuris buvo pats pirmasis žudikas."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-190209"></a>
+- t-001
+  teiginys: "Kozmo Prahiečio biografijos duomenimis, Narbutas Siggo vadina stabmeldžių žyniu ir prūsų minios vadu, užpuolusiu šventąjį Adalbertą."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Siggo: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Siggo\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-199635
+    - c-173092
 
 ## Citatos
 
@@ -71,24 +79,5 @@ Kozmo Prahiečio biografijos duomenimis, Narbutas Siggo vadina stabmeldžių žy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199635
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 294"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 294."
-  citata_originali: |
-    Iš šventojo
-    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
-    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
-    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
-    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217165
-
+  pagrindzia:
+    - t-001

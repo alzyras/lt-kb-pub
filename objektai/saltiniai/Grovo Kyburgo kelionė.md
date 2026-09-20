@@ -1,28 +1,25 @@
 ---
 tipas: saltinis
-pavadinimas: 'Grovo Kyburgo kelionė'
+pavadinimas: Grovo Kyburgo kelionė
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1897 m.'
+  - 1897 m.
 date_start: '1897'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Grovo Kyburgo kelionė
 
@@ -64,6 +61,5 @@ Jonas Basanavičius 1897 m. išvertė į lietuvių kalbą ir išlei do „Grovo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Konradas iš Tirbergo'
+pavadinimas: Konradas iš Tirbergo
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1279 m.'
+  - 1279 m.
 date_start: '1279'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-360a576502136a8a1e01cbab"
-canonical_name: "Konradas iš Tirbergo"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Konradas iš Tirbergo"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-360a576502136a8a1e01cbab
+canonical_name: Konradas iš Tirbergo
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Konradas iš Tirbergo
 sameAs: []
-canonical_biography: "Konradas iš Tirbergo pasiuntė Ditrichą su kariuomene į Nadruvą. Konradas iš Tirbergo buvo Prūsijos žemės magistras. Konradas iš Tirbergo buvo Prūsijos žemės magistras ir vadovavo Bisenės pilies puolimui."
+canonical_biography: Konradas iš Tirbergo pasiuntė Ditrichą su kariuomene į Nadruvą. Konradas iš Tirbergo buvo Prūsijos žemės magistras. Konradas iš Tirbergo buvo Prūsijos žemės magistras ir vadovavo Bisenės pilies puolimui.
 ---
 # Konradas iš Tirbergo
 
@@ -98,7 +97,7 @@ Konradas iš Tirbergo pasiuntė Ditrichą su kariuomene į Nadruvą. Konradas i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-205311
@@ -118,7 +117,7 @@ Konradas iš Tirbergo pasiuntė Ditrichą su kariuomene į Nadruvą. Konradas i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-206350
@@ -137,6 +136,5 @@ Konradas iš Tirbergo pasiuntė Ditrichą su kariuomene į Nadruvą. Konradas i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -27,6 +27,21 @@ media_all_json: |-
 
 Narbutas Žvakinius apibūdino kaip pranašautojus, kurie liedavo žvakes ir ateitį spėdavo pagal jų degimą bei dūmus.
 
+## Teiginiai
+
+<a id="claim-t-189542"></a>
+- t-001
+  teiginys: "Narbutas Žvakinius apibūdino kaip pranašautojus, kurie liedavo žvakes ir ateitį spėdavo pagal jų degimą bei dūmus."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172430
+
 ## Citatos
 
 - id: c-172430
@@ -50,4 +65,5 @@ Narbutas Žvakinius apibūdino kaip pranašautojus, kurie liedavo žvakes ir ate
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

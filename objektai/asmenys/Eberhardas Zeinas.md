@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Eberhardas Zeinas'
+pavadinimas: Eberhardas Zeinas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1242 m.'
+  - 1242 m.
 date_start: '1242'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d7dcc05721d3bf6c5c7b97c7"
-canonical_name: "Eberhardas Zeinas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Eberhardas Zeinas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d7dcc05721d3bf6c5c7b97c7
+canonical_name: Eberhardas Zeinas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Eberhardas Zeinas
 sameAs: []
-canonical_biography: "Memelio tvirtovę ant senųjų amžių Klaipėdos griu vėsių Livonijos didysis magistras Eberhardas Zeinas pa statė 1242 metais; toje epochoje dar egzistavo tos šiauri nės Nemuno žiotys, kurias krašto gyventojai vadino Memįla. Eberhardas Zeinas buvo Livonijos magistras ir dalyvavo sutartyje dėl pilių statybos Kurše bei pinigų kalimo Memelyje."
+canonical_biography: 'Memelio tvirtovę ant senųjų amžių Klaipėdos griu vėsių Livonijos didysis magistras Eberhardas Zeinas pa statė 1242 metais; toje epochoje dar egzistavo tos šiauri nės Nemuno žiotys, kurias krašto gyventojai vadino Memįla. Eberhardas Zeinas buvo Livonijos magistras ir dalyvavo sutartyje dėl pilių statybos Kurše bei pinigų kalimo Memelyje.'
 ---
 # Eberhardas Zeinas
 
@@ -86,7 +85,7 @@ Memelio tvirtovę ant senųjų amžių Klaipėdos griu vėsių Livonijos didysis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-196645
@@ -106,6 +105,5 @@ Memelio tvirtovę ant senųjų amžių Klaipėdos griu vėsių Livonijos didysis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

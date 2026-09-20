@@ -44,6 +44,86 @@ historical_names: []
 
 Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams kovoje su okupantais. Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusėje, tęsiasi 3-4 km pločio ir apie 8 km ilgio kalvotas, mišrus Kalniškės miškas. “ Mūšis 220-ojo pasienio pulko kariai apsupo Kalniškės mišką, kuriame buvo įrengta partizanų stovykla.
 
+## Teiginiai
+
+<a id="claim-t-171634"></a>
+- t-001
+  teiginys: "1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė NKVD kariuomenės 220-asis Kutuzovo ordino pulkas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kalniškės miškas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "NKVD: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kalniškės miškas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo NKVD pajėgų puolimą Kalniškės miške, nors objektas tiksliai yra partizanai tame miške."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "NKVD puolė Kalniškės miškas (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1945 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta su taisyklinga vietovardžio forma ir išlaikytais citatos faktais."
+  pagrindžia:
+    - c-156116
+
+<a id="claim-t-171635"></a>
+- t-002
+  teiginys: "1944 m. Jonas Neifalta su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Parakas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalniškės miškas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Parakas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalniškės miškas\" parinktas kaip owner_note_path. Targetas \"Parakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1944 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja Joną Neifaltą su Kalniškės mišku ir yra pagrįstas citata."
+  pagrindžia:
+    - c-156117
+
+<a id="claim-t-171636"></a>
+- t-003
+  teiginys: "Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krosna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalniškės miškas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krosna: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalniškės miškas\" parinktas kaip owner_note_path. Targetas \"Krosna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1945 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į sklandesnį sakinį, išlaikant citatoje nurodytą vietą ir apibūdinimą."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  pagrindžia:
+    - c-156119
+
+<a id="claim-t-171638"></a>
+- t-004
+  teiginys: "Kalniškės miškas yra apie 3–4 km pločio ir 8 km ilgio mišrus miškas, kuriame 1945 m. įvyko Kalniškės mūšis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalniškės mūšis (1945 m. gegužės 16-17 d.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalniškės miškas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kalniškės mūšis (1945 m. gegužės 16-17 d.): mention_match, event, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalniškės miškas\" parinktas kaip owner_note_path. Targetas \"Kalniškės mūšis (1945 m. gegužės 16-17 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "mūšio data: 1945 m.; mūšio data: 1945-1951; mūšio data: 1951 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir apima citatos pagrįstus duomenis apie mišką bei mūšį."
+  pagrindžia:
+    - c-156115
+
 ## Citatos
 
 - id: c-156115
@@ -74,7 +154,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-156116
@@ -101,7 +181,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-156117
@@ -140,7 +220,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-156119
@@ -171,86 +251,5 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-171634"></a>
-- t-001
-  teiginys: "1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė NKVD kariuomenės 220-asis Kutuzovo ordino pulkas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kalniškės miškas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "NKVD: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kalniškės miškas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo NKVD pajėgų puolimą Kalniškės miške, nors objektas tiksliai yra partizanai tame miške."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "NKVD puolė Kalniškės miškas (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta su taisyklinga vietovardžio forma ir išlaikytais citatos faktais."
-  pagrindžia:
-    - c-156116
-
-<a id="claim-t-171635"></a>
-- t-002
-  teiginys: "1944 m. Jonas Neifalta su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Parakas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalniškės miškas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Parakas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalniškės miškas\" parinktas kaip owner_note_path. Targetas \"Parakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1944 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja Joną Neifaltą su Kalniškės mišku ir yra pagrįstas citata."
-  pagrindžia:
-    - c-156117
-
-<a id="claim-t-171636"></a>
-- t-003
-  teiginys: "Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krosna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalniškės miškas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krosna: mention_match, place, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalniškės miškas\" parinktas kaip owner_note_path. Targetas \"Krosna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta į sklandesnį sakinį, išlaikant citatoje nurodytą vietą ir apibūdinimą."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  pagrindžia:
-    - c-156119
-
-<a id="claim-t-171638"></a>
-- t-004
-  teiginys: "Kalniškės miškas yra apie 3–4 km pločio ir 8 km ilgio mišrus miškas, kuriame 1945 m. įvyko Kalniškės mūšis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalniškės mūšis (1945 m. gegužės 16-17 d.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalniškės miškas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kalniškės mūšis (1945 m. gegužės 16-17 d.): mention_match, event, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalniškės miškas\" parinktas kaip owner_note_path. Targetas \"Kalniškės mūšis (1945 m. gegužės 16-17 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "mūšio data: 1945 m.; mūšio data: 1945-1951; mūšio data: 1951 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir apima citatos pagrįstus duomenis apie mišką bei mūšį."
-  pagrindžia:
-    - c-156115
-

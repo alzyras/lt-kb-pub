@@ -1,40 +1,40 @@
 ---
 tipas: vieta
-pavadinimas: 'Kalnalis (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Kalnalis (vieta)
+identifikacija: vieta
 variantai:
-  - 'Kalnalis'
+  - Kalnalis
 aliases:
-  - 'Kalnalis'
+  - Kalnalis
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 datos:
-  - '1819 m.'
+  - 1819 m.
 date_start: '1819'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d6ba6faefa1294e96d169731"
-canonical_name: "Kalnalis (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kalnalis","Kalnalis (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d6ba6faefa1294e96d169731
+canonical_name: Kalnalis (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kalnalis
+  - Kalnalis (vieta)
 sameAs: []
-canonical_biography: "Kalnalio filijos bažnyčia buvo vizituota 1819 m."
+canonical_biography: Kalnalio filijos bažnyčia buvo vizituota 1819 m.
 place_authority: true
 historical_names: []
 ---

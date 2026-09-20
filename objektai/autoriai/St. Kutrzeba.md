@@ -43,6 +43,20 @@ canonical_biography: ": Dzieje Wielkiego Księstwa Litewskiego za Ja­ giellonó
 
 : Dzieje Wielkiego Księstwa Litewskiego za Ja­ giellonów, I, 1930, 11-51 p. — Kutrzeba, St.
 
+## Teiginiai
+
+<a id="claim-t-100137"></a>
+- t-001
+  teiginys: "St. Kutrzeba 1914 m. paskelbė darbą „Unja Litwy z Polską“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1914 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko pilną faktą apie autoriaus publikaciją."
+  pagrindžia:
+    - c-94033
+
 ## Citatos
 
 - id: c-94033
@@ -59,20 +73,5 @@ canonical_biography: ": Dzieje Wielkiego Księstwa Litewskiego za Ja­ giellonó
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-100137"></a>
-- t-001
-  teiginys: "St. Kutrzeba 1914 m. paskelbė darbą „Unja Litwy z Polską“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1914 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko pilną faktą apie autoriaus publikaciją."
-  pagrindžia:
-    - c-94033
-

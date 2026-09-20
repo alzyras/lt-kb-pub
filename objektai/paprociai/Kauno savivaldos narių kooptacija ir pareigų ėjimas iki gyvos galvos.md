@@ -39,6 +39,32 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-202014"></a>
+- t-001
+  teiginys: "Tai darytina ir dėl to, kad išlikę kalbamo laikotarpio šaltiniai teikia kur kas daugiau žinių nei viduramžių laikotarpio šaltiniai apie Kauno miesto savivaldos veikimą, dažnai užpildo ankstesnio laikotarpio Kauno savivaldos vaizdo spragas."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185361
+
+<a id="claim-t-202015"></a>
+- t-002
+  teiginys: "Tačiau žengimas karjeros laiptais dažniausiai buvo lėtas, nes savivaldos institucijų narystė buvo iki gyvos galvos, apsiribojanti tų institucijų hierarchiniais laiptais."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185362
+
 ## Citatos
 
 - id: c-185361
@@ -59,7 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185362
@@ -78,32 +104,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-202014"></a>
-- t-001
-  teiginys: "Tai darytina ir dėl to, kad išlikę kalbamo laikotarpio šaltiniai teikia kur kas daugiau žinių nei viduramžių laikotarpio šaltiniai apie Kauno miesto savivaldos veikimą, dažnai užpildo ankstesnio laikotarpio Kauno savivaldos vaizdo spragas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185361
-
-<a id="claim-t-202015"></a>
-- t-002
-  teiginys: "Tačiau žengimas karjeros laiptais dažniausiai buvo lėtas, nes savivaldos institucijų narystė buvo iki gyvos galvos, apsiribojanti tų institucijų hierarchiniais laiptais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185362
-

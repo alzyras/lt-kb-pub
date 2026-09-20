@@ -1,39 +1,39 @@
 ---
 tipas: autorius
-pavadinimas: 'Petras d’Ailly'
+pavadinimas: Petras d’Ailly
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1350 m.'
-  - '1429 m.'
+  - 1350 m.
+  - 1429 m.
 date_start: '1350'
 date_end: '1429'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
-  - 'XV'
+  - XIV
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f3ccd5677697a1d3556ecb4d"
-canonical_name: "Petras d’Ailly"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Petras d’Ailly"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f3ccd5677697a1d3556ecb4d
+canonical_name: Petras d’Ailly
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Petras d’Ailly
 sameAs: []
-canonical_biography: "Petras d’Ailly (1350–1429) buvo viduramžių filologas, teologas ir Bažnyčios veikėjas."
+canonical_biography: 'Petras d’Ailly (1350–1429) buvo viduramžių filologas, teologas ir Bažnyčios veikėjas.'
 ---
 # Petras d’Ailly
 
@@ -77,6 +77,5 @@ Petras d’Ailly (1350–1429) buvo viduramžių filologas, teologas ir Bažnyč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

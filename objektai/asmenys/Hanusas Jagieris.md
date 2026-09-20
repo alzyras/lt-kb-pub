@@ -39,6 +39,20 @@ canonical_biography: "Kai 1586 m. Kauno tarėjas ir stambus verslovininkas Hanus
 
 Kai 1586 m. Kauno tarėjas ir stambus verslovininkas Hanusas Jagieris panoro atsisakyti Kauno miesto tarėjo pareigų dėl didelio užimtumo rūpinantis verslu, jam teko pagalbos kreiptis į Steponą Batorą.
 
+## Teiginiai
+
+<a id="claim-t-202104"></a>
+- t-001
+  teiginys: "Kai 1586 m. Kauno tarėjas ir stambus verslovininkas Hanusas Jagieris panoro atsisakyti Kauno miesto tarėjo pareigų dėl didelio užimtumo rūpinantis verslu, jam teko pagalbos kreiptis į Steponą Batorą."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185451
+
 ## Citatos
 
 - id: c-185451
@@ -56,20 +70,5 @@ Kai 1586 m. Kauno tarėjas ir stambus verslovininkas Hanusas Jagieris panoro ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202104"></a>
-- t-001
-  teiginys: "Kai 1586 m. Kauno tarėjas ir stambus verslovininkas Hanusas Jagieris panoro atsisakyti Kauno miesto tarėjo pareigų dėl didelio užimtumo rūpinantis verslu, jam teko pagalbos kreiptis į Steponą Batorą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185451
-

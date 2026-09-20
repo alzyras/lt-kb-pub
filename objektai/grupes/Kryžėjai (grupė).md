@@ -29,6 +29,20 @@ media_all_json: |-
 
 Patys kryžėjai jau užsiturėjimu užimtuosiuose kraštuose Žemaičių, ne platinimu tikybos berūpinos, vienok jie vis dar ti kyba dangavos ir turėjo ją už lyčių tolimesnėms ka rėms su lietuviais.
 
+## Teiginiai
+
+<a id="claim-t-201238"></a>
+- t-001
+  teiginys: "Patys kryžėjai jau užsiturėjimu užimtuosiuose kraštuose Žemaičių, ne platinimu tikybos berūpinos, vienok jie vis dar ti kyba dangavos ir turėjo ją už lyčių tolimesnėms ka rėms su lietuviais."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184588
+
 ## Citatos
 
 - id: c-184588
@@ -61,20 +75,5 @@ Patys kryžėjai jau užsiturėjimu užimtuosiuose kraštuose Žemaičių, ne pl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201238"></a>
-- t-001
-  teiginys: "Patys kryžėjai jau užsiturėjimu užimtuosiuose kraštuose Žemaičių, ne platinimu tikybos berūpinos, vienok jie vis dar ti kyba dangavos ir turėjo ją už lyčių tolimesnėms ka rėms su lietuviais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184588
-

@@ -28,6 +28,21 @@ Teodoro Narbuto pasakojime kariauna, persižegnojusi šventuoju kryžiaus ženkl
 
 Teodoro Narbuto pasakojime kariauna, persižegnojusi šventuoju kryžiaus ženklu, išžygiavo su įprastu šūkiu „Suteik pagalbą, o Šventoji Marija!“; netrukus smarkus puolimas pralaužė pirmąją liniją, išrikiuotą stovyklos priešakyje.
 
+## Teiginiai
+
+<a id="claim-t-205894"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojime kariauna, persižegnojusi šventuoju kryžiaus ženklu, išžygiavo su įprastu šūkiu „Suteik pagalbą, o Šventoji Marija!“; netrukus smarkus puolimas pralaužė pirmąją liniją, išrikiuotą stovyklos priešakyje."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188509
+
 ## Citatos
 
 - id: c-188509
@@ -47,21 +62,5 @@ Teodoro Narbuto pasakojime kariauna, persižegnojusi šventuoju kryžiaus ženkl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205894"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojime kariauna, persižegnojusi šventuoju kryžiaus ženklu, išžygiavo su įprastu šūkiu „Suteik pagalbą, o Šventoji Marija!“; netrukus smarkus puolimas pralaužė pirmąją liniją, išrikiuotą stovyklos priešakyje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188509
-

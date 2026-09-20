@@ -46,6 +46,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206734"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, po Algirdo mirties 1377 m. Vilniuje Kęstučio ir Liubarto vadovaujamas tautos seimas Jogailą paskelbė Lietuvos didžiuoju kunigaikščiu ir karūnavo, perduodamas jam Gedimino mitrą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189349
+
+<a id="claim-t-206735"></a>
+- t-002
+  teiginys: "Pasak Teodoro Narbuto, Kęstutis pirmasis prisiekė nuolankumą ir paklusnumą naujajam kunigaikščiui Jogailai, o jo pavyzdys palenkė didžiojo kunigaikščio šeimą, kitus kunigaikščius ir didikus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189350
+
 ## Santrauka
 
 Pasak Teodoro Narbuto, po Algirdo mirties 1377 m. Vilniuje Kęstučio ir Liubarto vadovaujamas tautos seimas Jogailą paskelbė Lietuvos didžiuoju kunigaikščiu ir karūnavo, perduodamas jam Gedimino mitrą. Pasak Teodoro Narbuto, Kęstutis pirmasis prisiekė nuolankumą ir paklusnumą naujajam kunigaikščiui Jogailai, o jo pavyzdys palenkė didžiojo kunigaikščio šeimą, kitus kunigaikščius ir didikus.
@@ -69,7 +97,7 @@ Pasak Teodoro Narbuto, po Algirdo mirties 1377 m. Vilniuje Kęstučio ir Liubart
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189350
@@ -86,34 +114,5 @@ Pasak Teodoro Narbuto, po Algirdo mirties 1377 m. Vilniuje Kęstučio ir Liubart
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206734"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, po Algirdo mirties 1377 m. Vilniuje Kęstučio ir Liubarto vadovaujamas tautos seimas Jogailą paskelbė Lietuvos didžiuoju kunigaikščiu ir karūnavo, perduodamas jam Gedimino mitrą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189349
-
-<a id="claim-t-206735"></a>
-- t-002
-  teiginys: "Pasak Teodoro Narbuto, Kęstutis pirmasis prisiekė nuolankumą ir paklusnumą naujajam kunigaikščiui Jogailai, o jo pavyzdys palenkė didžiojo kunigaikščio šeimą, kitus kunigaikščius ir didikus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189350
-

@@ -43,6 +43,23 @@ canonical_biography: "1610 m. Vaclovas Karpis iš Andriaus Lasockio įgijo teis�
 
 1610 m. Vaclovas Karpis iš Andriaus Lasockio įgijo teisę pirkti Pašokinės valdas.
 
+## Teiginiai
+
+<a id="claim-t-203723"></a>
+- t-001
+  teiginys: "1610 m. Vaclovas Karpis iš Andriaus Lasockio įgijo teisę pirkti Pašokinės valdas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  temporaliniai_duomenys: "įvykio data: 1610 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie Vaclovą Karpį, datą, Andrių Lasockį ir Pašokinės valdas. Papildomų faktų nepridėta."
+  pagrindžia:
+    - c-186327
+
 ## Citatos
 
 - id: c-186327
@@ -63,23 +80,5 @@ canonical_biography: "1610 m. Vaclovas Karpis iš Andriaus Lasockio įgijo teis�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203723"></a>
-- t-001
-  teiginys: "1610 m. Vaclovas Karpis iš Andriaus Lasockio įgijo teisę pirkti Pašokinės valdas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
-  temporaliniai_duomenys: "įvykio data: 1610 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie Vaclovą Karpį, datą, Andrių Lasockį ir Pašokinės valdas. Papildomų faktų nepridėta."
-  pagrindžia:
-    - c-186327
-

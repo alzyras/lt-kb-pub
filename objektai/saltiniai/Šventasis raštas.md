@@ -28,34 +28,23 @@ Si tiesa tokia akivaiz di, kad aiškiai patvirtina tai, ką žinome iš padavim�
 
 ## Teiginiai
 
-<a id="claim-t-214069"></a>
-- t-214069
-  teiginys: "Narbutas nurodo, kad Šventajame Rašte, pas pranašą Ezechielį, aptinkamas žodis Ross arba Russ."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-194853"></a>
+- t-001
+  teiginys: "Si tiesa tokia akivaiz di, kad aiškiai patvirtina tai, ką žinome iš padavimų, išlikusių Šventajame rašte apie žmonių giminės kilmę iš vienos pirmo sios šeimos, apie žmonių pagausėjimą pirmiausia Azijoje, pa galiau apie jų atsikraustymą iš ten į Europą."
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-195803
-
-<a id="claim-t-215214"></a>
-- t-215214
-  teiginys: "Senovės pasaulio istoriją, sura šytą Šventojo Rašto knygose, šiandien patvirtina beša liški tyrimai, atlikti visose istorijos srityse; gamtiniai su krėtimai ir revoliucijos, sukėlę temperatūros, vietovių ir klimato kitimą, jau nemažai ištyrinėti, atskleidžia."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196391
+    - c-177249
 
 <a id="claim-t-205481"></a>
-- t-205481
+- t-002
   teiginys: "Ten buvo rengiami scenos vaidini mai, kurių metu rodomi įvairūs atsitikimai, aprašyti Šven tajame Rašte."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -89,6 +78,8 @@ Si tiesa tokia akivaiz di, kad aiškiai patvirtina tai, ką žinome iš padavim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-187994
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -110,49 +101,5 @@ Si tiesa tokia akivaiz di, kad aiškiai patvirtina tai, ką žinome iš padavim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205481
-
-- id: c-195803
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 215"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 215."
-  citata_originali: |
-    Šventajame Rašte, pas pranašą Ezechielį, mokslininkai
-    aptinka žodį Ross ar Russ, kurį vieni laiko tam tikros
-    tautos pavadinimu, kiti — asmenvardžiu, o dar kiti, kurių
-    pusėje yra ir Karamzinas, supranta jį perkeltine Gtowa,
-    Olomnošč, galvos, svarbiausio dalyko, prasme.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214069
-
-- id: c-196391
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 35"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 35."
-  citata_originali: |
-    Senovės pasaulio istoriją, sura­
-    šytą Šventojo Rašto knygose, šiandien patvirtina beša­
-    liški tyrimai, atlikti visose istorijos srityse; gamtiniai su­
-    krėtimai ir revoliucijos, sukėlę temperatūros, vietovių ir
-    klimato kitimą, jau nemažai ištyrinėti, atskleidžia gyven­
-    tojų išmirimo arba gausėjimo, jų priverstinio arba sava­
-    noriško persikėlimo iš vienos į kitą pasaulio šalį gamti­
-    nes priežastis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215214
-
+  pagrindzia:
+    - t-002

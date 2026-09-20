@@ -1,8 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Dekanatų bibliotekų steigimas'
+pavadinimas: Dekanatų bibliotekų steigimas
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Dekanatų bibliotekų steigimas
 
@@ -35,21 +32,6 @@ Nenurodyta
 
 ## Rezultatas
 Nenurodyta
-
-## Teiginiai
-
-<a id="claim-t-208750"></a>
-- t-001
-  teiginys: "1851 m. aplinkraštyje vyskupas Motiejus Valančius rekomendavo kiekviename dekanate įsteigti biblioteką ir į dekanatus siuntė kunigams skirtą žurnalo egzempliorių."
-  atnaujinta: "2026-09-13 13:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
-  pagrindžia:
-    - c-191370
 
 ## Santrauka
 
@@ -76,7 +58,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-191371
@@ -101,4 +83,33 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+## Teiginiai
+
+<a id="claim-t-208750"></a>
+- t-001
+  teiginys: "1851 m. aplinkraštyje vyskupas Motiejus Valančius rekomendavo kiekviename dekanate įsteigti biblioteką ir į dekanatus siuntė kunigams skirtą žurnalo egzempliorių."
+  atnaujinta: "2026-09-13 13:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
+  pagrindžia:
+    - c-191370
+
+<a id="claim-t-208751"></a>
+- t-002
+  teiginys: "1853 m. lapkričio 28 d. vyskupas Motiejus Valančius nurodė, kad beveik visi kunigai ir visi vyskupijos dekanai, išskyrus Kuršo dekanus, pritarė dekanatų bibliotekų steigimo projektui."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
+  pagrindžia:
+    - c-191371
 

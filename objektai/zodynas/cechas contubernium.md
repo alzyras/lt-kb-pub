@@ -27,6 +27,33 @@ media_all_json: |-
 
 Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kunigaikščio šviesiausiojo Aleksandro, mūsų pirmtako, minėtiems senjorams ir mūsų Vilniaus mies­ to auksakalių cechui duotai ir mūsų patvirtintai privilegi­ jai, nebijodamas toje. Nos cum Consiliariis nostris, lateri nostro tunc assi­ dentibus, audita beneque examinata partium controversia, 436 ## Puslapis 453 IV KNYGA pagal minėtos privilegijos nuostatus buvo įprasta laikytis, savą auksakalystės meną atskirai nuo cecho narių neapgal­.
 
+## Teiginiai
+
+<a id="claim-t-86461"></a>
+- t-001
+  teiginys: "Auksakalys kaltintas savavališkai plėtojęs amatą atskirai nuo cecho narių ir pardavinėjęs dirbinius nepaisydamas cecho privilegijų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82440
+
+<a id="claim-t-86462"></a>
+- t-002
+  teiginys: "Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Steponas Genseris: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "cechas contubernium: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Steponas Genseris: mention_match, person, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"cechas contubernium\" parinktas kaip owner_note_path. Targetas \"Steponas Genseris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82441
+
 ## Citatos
 
 - id: c-82440
@@ -72,7 +99,7 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-82441
@@ -106,33 +133,5 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-86461"></a>
-- t-001
-  teiginys: "Auksakalys kaltintas savavališkai plėtojęs amatą atskirai nuo cecho narių ir pardavinėjęs dirbinius nepaisydamas cecho privilegijų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82440
-
-<a id="claim-t-86462"></a>
-- t-002
-  teiginys: "Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Steponas Genseris: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "cechas contubernium: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Steponas Genseris: mention_match, person, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"cechas contubernium\" parinktas kaip owner_note_path. Targetas \"Steponas Genseris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82441
-

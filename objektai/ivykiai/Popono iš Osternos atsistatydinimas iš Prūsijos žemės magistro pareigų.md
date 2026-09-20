@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Popono iš Osternos atsistatydinimas iš Prūsijos žemės magistro pareigų'
+pavadinimas: Popono iš Osternos atsistatydinimas iš Prūsijos žemės magistro pareigų
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1241 m.'
+  - 1241 m.
 date_start: '1241'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Popono iš Osternos atsistatydinimas iš Prūsijos žemės magistro pareigų
 
@@ -77,6 +74,5 @@ Poponas iš Osternos buvo antrasis Prūsijos žemės magistras ir vadovavo septy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

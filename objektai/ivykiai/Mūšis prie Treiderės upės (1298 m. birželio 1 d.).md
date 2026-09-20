@@ -51,6 +51,30 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62880"></a>
+- t-001
+  teiginys: "1298 m. birželio 1 d. prie Treiderės upės Vytenis nugalėjo Livonijos magistrą Brunoną, nukovęs magistrą, 22 brolius ir 1500 krikščionių."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "dalyvavo_musyje -> Mūšis prie Treiderės upės (1298 m. birželio 1 d.): 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mūšis prie Treiderės upės (1298 m. birželio 1 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citatoje Vytenis yra įvardytas karaliumi, kuris mūšyje galop paėmė viršų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytenis dalyvavo mūšyje Mūšis prie Treiderės upės (1298 m. birželio 1 d.) (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1298 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, o citata remia aiškų mūšio rezultatą."
+  pagrindžia:
+    - c-63726
+    - c-63727
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1298 m. birželio 1 d. prie Treiderės upės Vytenis nugalėjo Livonijos magistrą Brunoną, nukovęs magistrą, 22 brolius ir 1500 krikščionių.'
@@ -98,6 +122,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-63727
   autorius: "Petras Dusburgietis"
@@ -122,25 +148,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-222370"></a>
-- t-001
-  teiginys: "1298 m. birželio 1 d. prie Treiderės upės Vytenis nugalėjo Livonijos magistrą Brunoną, nukovęs magistrą, 22 brolius ir 1500 krikščionių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "dalyvavo_musyje -> Mūšis prie Treiderės upės (1298 m. birželio 1 d.): 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mūšis prie Treiderės upės (1298 m. birželio 1 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citatoje Vytenis yra įvardytas karaliumi, kuris mūšyje galop paėmė viršų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytenis dalyvavo mūšyje Mūšis prie Treiderės upės (1298 m. birželio 1 d.) (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1298 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, o citata remia aiškų mūšio rezultatą."
-
+  pagrindzia:
+    - t-001

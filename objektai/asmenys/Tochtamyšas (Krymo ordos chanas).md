@@ -44,6 +44,27 @@ canonical_biography: "Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko
 
 Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų jam chaną, vyriausią Tochtamyšo sūnų Saladiną, kuris jo tėvui mirus, buvo pas Vytautą prisiglaudęs. Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, bet paskui jis buvo sumuštas ir išvytas Timur Kotlogo (1395 mt.).
 
+## Teiginiai
+
+<a id="claim-t-35297"></a>
+- t-001
+  teiginys: "Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Tochtamyšas (Krymo ordos chanas): 0.99"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Saladinas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tochtamyšas (Krymo ordos chanas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Saladinas buvo Tochtamyšo sūnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Saladinas buvo sūnus Tochtamyšas (Krymo ordos chanas) (0.99)"
+  temporaliniai_duomenys: "įvykio data: 1409 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-38126
+
 ## Citatos
 
 - id: c-38126
@@ -65,30 +86,8 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Saladinas]]
-
-## Teiginiai
-
-<a id="claim-t-35297"></a>
-- t-001
-  teiginys: "Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Tochtamyšas (Krymo ordos chanas): 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saladinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamyšas (Krymo ordos chanas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Saladinas buvo Tochtamyšo sūnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Saladinas buvo sūnus Tochtamyšas (Krymo ordos chanas) (0.99)"
-  temporaliniai_duomenys: "įvykio data: 1409 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-38126
-

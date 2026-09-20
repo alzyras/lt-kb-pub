@@ -39,6 +39,20 @@ canonical_biography: "Jis buvo kaltinamas mėsininko Lauryno Mirkovičiaus kerė
 
 Jis buvo kaltinamas mėsininko Lauryno Mirkovičiaus kerėj imu žolelėmis, kitas kaunietis Petras Šikis taip pat teigė, kad Motiejus pakišęs jam žolelių.
 
+## Teiginiai
+
+<a id="claim-t-202126"></a>
+- t-001
+  teiginys: "Jis buvo kaltinamas mėsininko Lauryno Mirkovičiaus kerėj imu žolelėmis, kitas kaunietis Petras Šikis taip pat teigė, kad Motiejus pakišęs jam žolelių."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185473
+
 ## Citatos
 
 - id: c-185473
@@ -55,20 +69,5 @@ Jis buvo kaltinamas mėsininko Lauryno Mirkovičiaus kerėj imu žolelėmis, kit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202126"></a>
-- t-001
-  teiginys: "Jis buvo kaltinamas mėsininko Lauryno Mirkovičiaus kerėj imu žolelėmis, kitas kaunietis Petras Šikis taip pat teigė, kad Motiejus pakišęs jam žolelių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185473
-

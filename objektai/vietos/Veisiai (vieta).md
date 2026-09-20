@@ -42,6 +42,21 @@ Nalšios kunigaikštystėje Pelius savo pilyje, vadintoje Veisiais, kėlė dukte
 
 Nalšios kunigaikštystėje Pelius savo pilyje, vadintoje Veisiais, kėlė dukters ir vieno turtingo didiko vestuves.
 
+## Teiginiai
+
+<a id="claim-t-205874"></a>
+- t-001
+  teiginys: "Nalšios kunigaikštystėje Pelius savo pilyje, vadintoje Veisiais, kėlė dukters ir vieno turtingo didiko vestuves."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188489
+
 ## Citatos
 
 - id: c-188489
@@ -57,21 +72,5 @@ Nalšios kunigaikštystėje Pelius savo pilyje, vadintoje Veisiais, kėlė dukte
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205874"></a>
-- t-001
-  teiginys: "Nalšios kunigaikštystėje Pelius savo pilyje, vadintoje Veisiais, kėlė dukters ir vieno turtingo didiko vestuves."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
-  pagrindžia:
-    - c-188489
-

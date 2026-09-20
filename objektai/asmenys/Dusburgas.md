@@ -34,6 +34,65 @@ canonical_biography: "Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste min
 
 Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Pregorą arba Lipsą. Dusburgas, pasak Narbuto, provincijų mažesnes dalis buvo pratęs vadinti teritorijomis. Tik iš įvairių žinomų darbų galime sužinoti, kad Prieg lius, tekėdamas į Aistmares, taip pat turėjo Lipze pavadi nimą; taip jis paminėtas apie vyskupijų padalijimą pas Dusburgą (p. 478): Tertiam quoque limitavimus, sicut claudit recens mare ab occidente ad.
 
+## Teiginiai
+
+<a id="claim-t-191341"></a>
+- t-001
+  teiginys: "Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Pregorą arba Lipsą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prieglius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Prieglius: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgas\" parinktas kaip owner_note_path. Targetas \"Prieglius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+  pagrindžia:
+    - c-174223
+
+<a id="claim-t-191342"></a>
+- t-002
+  teiginys: "Dusburgas, pasak Narbuto, provincijų mažesnes dalis buvo pratęs vadinti teritorijomis."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+  pagrindžia:
+    - c-174224
+
+<a id="claim-t-197725"></a>
+- t-003
+  teiginys: "Tik iš įvairių žinomų darbų galime sužinoti, kad Prieg lius, tekėdamas į Aistmares, taip pat turėjo Lipze pavadi nimą; taip jis paminėtas apie vyskupijų padalijimą pas Dusburgą (p. 478): Tertiam quoque limitavimus, sicut claudit recens mare ab occidente ad."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174223
+
+<a id="claim-t-197726"></a>
+- t-004
+  teiginys: "Kiekviena provincija dalijosi j mažesnes dalis, atskirus valsčius, teritorijas, kaip jas buvo pratęs vadinti Dusburgas, kartais mažes nes, o kartais didesnes; jos paprastai vadinamos pagal pagrindines vietoves arba savo valdovų pilių vietovar džius."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179310
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Dusburgas, pasak Narbuto, provincijų mažesnes dalis buvo pratęs vadinti teritorijomis.'
@@ -77,6 +136,9 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-003
 
 - id: c-174224
   autorius: "Teodoras Narbutas"
@@ -105,6 +167,8 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-179310
   autorius: "Teodoras Narbutas"
@@ -130,115 +194,5 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195623
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 355"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
-  citata_originali: |
-    Tačiau nemaža Pamedės
-    dalis, ypač šiaurėje, slėniuose netoli Vyslos ir Nogato,
-    dėl ežerų, pelikių ir užliejamų plotų buvo visiškai negy­
-    venama arba iš dalies buvo mažiau apgyvendinta negu
-    kitos provincijos.
-    Čia randame detalę, kuri pasikartoja kitose provinci­
-    jose ir kuri galėtų labiau paaiškinti visos tautos istoriją,
-    jei šaltiniai nebūtų taip sujaukti. Kiekviena provincija
-    dalijosi j mažesnes dalis, atskirus valsčius, teritorijas,
-    kaip jas buvo pratęs vadinti Dusburgas, kartais mažes­
-    nes, o kartais didesnes; jos paprastai vadinamos pagal
-    pagrindines vietoves arba savo valdovų pilių vietovar­
-    džius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-197284
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 347"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
-  citata_originali: |
-    Tik iš įvairių žinomų darbų galime sužinoti, kad Prieg­
-    lius, tekėdamas į Aistmares, taip pat turėjo Lipze pavadi­
-    nimą; taip jis paminėtas apie vyskupijų padalijimą pas
-    Dusburgą (p. 478): Tertiam quoque limitavimus, sicut
-    claudit recens mare ab occidente ad flumen quod dicitur
-    Pregora sive Lipsa (Acta Borus. T. II. P. 613). Taigi
-    Prieglius ir Lipza buvo viena ir ta pati upė, kurios žio­
-    tyse tais laikais buvo uostas, taip pat vadinęsis Lipza.
-    Tad naujas steigiamas miestas turėjęs būti ten, kur
-    Prieglius įteka į Aistmares.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
     - t-004
-
-## Teiginiai
-
-<a id="claim-t-212140"></a>
-- t-001
-  teiginys: "Tik iš įvairių žinomų darbų galime sužinoti, kad Prieg lius, tekėdamas į Aistmares, taip pat turėjo Lipze pavadi nimą; taip jis paminėtas apie vyskupijų padalijimą pas Dusburgą (p. 478): Tertiam quoque limitavimus, sicut claudit recens mare ab occidente ad."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197284
-
-<a id="claim-t-212550"></a>
-- t-002
-  teiginys: "Kiekviena provincija dalijosi j mažesnes dalis, atskirus valsčius, teritorijas, kaip jas buvo pratęs vadinti Dusburgas, kartais mažes nes, o kartais didesnes; jos paprastai vadinamos pagal pagrindines vietoves arba savo valdovų pilių vietovar džius."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195623
-
-<a id="claim-t-212972"></a>
-- t-003
-  teiginys: "Dusburgas, pasak Narbuto, provincijų mažesnes dalis buvo pratęs vadinti teritorijomis."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-
-<a id="claim-t-213583"></a>
-- t-004
-  teiginys: "Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Pregorą arba Lipsą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Prieglius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dusburgas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prieglius: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgas\" parinktas kaip owner_note_path. Targetas \"Prieglius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  pagrindžia:
-    - c-197284
-

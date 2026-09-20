@@ -49,37 +49,3 @@ Apie susirinkusius seimelius minėjo R Važynskis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Citatos
-
-- id: c-190887
-  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
-  puslapiai: "PDF 337"
-  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 337."
-  citata_originali: |
-    Apie susirinkusius seimelius minėjo R Važynskis. Jo laiške aprašyta situacija
-    iš esmės atitinka H . Beresnevičiūtės-Nosalovos darbe iškeltą ištikimybės sostui ir
-    tautai klausimą.
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-208242"></a>
-- t-001
-  teiginys: "Apie susirinkusius seimelius minėjo R Važynskis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  pagrindžia:
-    - c-190887
-

@@ -40,6 +40,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205901"></a>
+- t-001
+  teiginys: "Ragainės komtūras su nedideliu rinktinių riterių būriu ir ginkluotais žmonėmis slapta nuplaukė Nemunu aukštyn, o auštant išsilaipino Romuvai pulti tinkamoje vietoje."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188516
+
 ## Santrauka
 
 Ragainės komtūras su nedideliu rinktinių riterių būriu ir ginkluotais žmonėmis slapta nuplaukė Nemunu aukštyn, o auštant išsilaipino Romuvai pulti tinkamoje vietoje.
@@ -65,21 +80,5 @@ Ragainės komtūras su nedideliu rinktinių riterių būriu ir ginkluotais žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205901"></a>
-- t-001
-  teiginys: "Ragainės komtūras su nedideliu rinktinių riterių būriu ir ginkluotais žmonėmis slapta nuplaukė Nemunu aukštyn, o auštant išsilaipino Romuvai pulti tinkamoje vietoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188516
-

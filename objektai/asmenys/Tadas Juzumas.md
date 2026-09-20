@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Tadas Juzumas'
+pavadinimas: Tadas Juzumas
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ec6777caaf622e2d16714117"
-canonical_name: "Tadas Juzumas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Tadas Juzumas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ec6777caaf622e2d16714117
+canonical_name: Tadas Juzumas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Tadas Juzumas
 sameAs: []
-canonical_biography: "Tadas Juzumas (Juzumavičius) bendradarbiavo su vysk. M. Valančiumi literatūrinėje veikloje."
+canonical_biography: Tadas Juzumas (Juzumavičius) bendradarbiavo su vysk. M. Valančiumi literatūrinėje veikloje.
 ---
 # Tadas Juzumas
 

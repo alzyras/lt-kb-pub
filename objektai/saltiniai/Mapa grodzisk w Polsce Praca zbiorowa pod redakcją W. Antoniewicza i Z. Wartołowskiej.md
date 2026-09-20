@@ -33,6 +33,27 @@ media_all_json: |-
 
 Dusburgietis teigia, kad mapa grodzisk w Polsce / Praca zbiorowa pod redakcją W.
 
+## Teiginiai
+
+<a id="claim-t-61157"></a>
+- t-001
+  teiginys: "„Mapa grodzisk w Polsce“ yra W. Antoniewicziaus ir Z. Wartołowskos redaguotas kolektyvinis darbas, išleistas 1964 m. Vroclave, Varšuvoje ir Krokuvoje."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mapa grodzisk w Polsce Praca zbiorowa pod redakcją W. Antoniewicza i Z. Wartołowskiej: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=139"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mapa grodzisk w Polsce Praca zbiorowa pod redakcją W. Antoniewicza i Z. Wartołowskiej\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1964 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia leidinio redaktorius, pobūdį, vietą ir metus."
+  pagrindžia:
+    - c-61789
+
 ## Citatos
 
 - id: c-61789
@@ -48,43 +69,5 @@ Dusburgietis teigia, kad mapa grodzisk w Polsce / Praca zbiorowa pod redakcją W
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-204563
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
-  citata_originali: |
-    Mapa grodzisk w Polsce  / Praca zbiorowa pod redakcją W. Antoniewicza   i Z.
-    Wartołowskiej.— Wrocław—Warszawa—Kraków, 1964.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-221935"></a>
-- t-001
-  teiginys: "„Mapa grodzisk w Polsce“ yra W. Antoniewicziaus ir Z. Wartołowskos redaguotas kolektyvinis darbas, išleistas 1964 m. Vroclave, Varšuvoje ir Krokuvoje."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mapa grodzisk w Polsce Praca zbiorowa pod redakcją W. Antoniewicza i Z. Wartołowskiej: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=139"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mapa grodzisk w Polsce Praca zbiorowa pod redakcją W. Antoniewicza i Z. Wartołowskiej\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1964 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia leidinio redaktorius, pobūdį, vietą ir metus."
-  pagrindžia:
-    - c-204563
-

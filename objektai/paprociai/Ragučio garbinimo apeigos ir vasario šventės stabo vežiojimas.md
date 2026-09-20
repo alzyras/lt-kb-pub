@@ -43,6 +43,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-194631"></a>
+- t-001
+  teiginys: "Plačiau apie tas smul kmenas papasakosime toliau, atskiruose straipsniuose, kuriuo se išvardysime jo garbei atlikinėtas apeigas, rengtas šventes ir iškilmes, labai panašias į Romos bakchanalijas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177029
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Ragučio vardą kildino iš žodžio „Ragutas“, nes per vasario šventę dievo stabas ar atvaizdas būdavo vežiojamas rogėmis.'
@@ -89,41 +104,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199698
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
-  citata_originali: |
-    Lasickis pasakoja, kad ru­
-    sai lenkėsi tam dievui, vadindami Zosim.
-    Lietuviai garbino jį tam tikru būdu: jis turėjo savo auku­
-    rus, stabus, šventyklas, žynius, vaidilutes. Plačiau apie tas smul­
-    kmenas papasakosime toliau, atskiruose straipsniuose, kuriuo­
-    se išvardysime jo garbei atlikinėtas apeigas, rengtas šventes ir
-    iškilmes, labai panašias į Romos bakchanalijas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-218706"></a>
-- t-001
-  teiginys: "Plačiau apie tas smul kmenas papasakosime toliau, atskiruose straipsniuose, kuriuo se išvardysime jo garbei atlikinėtas apeigas, rengtas šventes ir iškilmes, labai panašias į Romos bakchanalijas."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-199698
-

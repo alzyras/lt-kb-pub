@@ -46,73 +46,12 @@ historical_names: []
 
 Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
 
-## Citatos
-
-- id: c-32017
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 322"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 322."
-  citata_originali: |
-    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
-    tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
-    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-67583
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 179."
-  citata_originali: |
-    **Prekyba.** Seniausiais laikais lietuviai prekiavo su skandina-
-    vais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, to-
-    limi vakarinės Azijos kraštai ir Viduržemio pajūris. Bet toto-
-    riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
-  citata_rodoma: "Bet toto-\nriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-167754
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 322"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 322."
-  citata_originali: |
-    Gavę sau privilegijas iš
-    Vytauto, kuris totorių atmintyje per šimtmečius buvo garbinamas,
-    Lietuvos totoriai išlaikė savo mahometonišką tikėjimą ir papročius,
-    kai tuo tarpu Lenkijoje jie buvo sukrikščioninti ir sulenkinti.
-    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
-    tvirtovę « Tavan’ » (šv. Jono pilį)^21.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Ryšiai
-- Užėmė Dniepro žiotį: [[objektai/grupes/Totoriai]]
-
 ## Teiginiai
 
 <a id="claim-t-67818"></a>
 - t-001
   teiginys: "1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dniepras: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -132,7 +71,7 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
 <a id="claim-t-67819"></a>
 - t-002
   teiginys: "Totoriams užėmus Dniepro žiotis, lietuvių prekyba su Juodosios jūros, Vakarų Azijos ir Viduržemio pajūrio kraštais sumažėjo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Dniepro žiotys: 0.98"
   ryšio_patikimumo_lygis: "aukstas"
@@ -146,3 +85,63 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   pagrindžia:
     - c-67583
 
+## Citatos
+
+- id: c-32017
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 322."
+  citata_originali: |
+    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
+    tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
+    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-67583
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  puslapiai: "PDF 179"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 179."
+  citata_originali: |
+    **Prekyba.** Seniausiais laikais lietuviai prekiavo su skandina-
+    vais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, to-
+    limi vakarinės Azijos kraštai ir Viduržemio pajūris. Bet toto-
+    riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
+  citata_rodoma: "Bet toto-\nriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-167754
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 322."
+  citata_originali: |
+    Gavę sau privilegijas iš
+    Vytauto, kuris totorių atmintyje per šimtmečius buvo garbinamas,
+    Lietuvos totoriai išlaikė savo mahometonišką tikėjimą ir papročius,
+    kai tuo tarpu Lenkijoje jie buvo sukrikščioninti ir sulenkinti.
+    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
+    tvirtovę « Tavan’ » (šv. Jono pilį)^21.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+## Ryšiai
+- Užėmė Dniepro žiotį: [[objektai/grupes/Totoriai]]

@@ -47,6 +47,23 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-204133"></a>
+- t-001
+  teiginys: "1550 m. rugsėjo 19 d. laiške Mikalojui Radvilai Rudajam pabrėžta, kad Žygimantas Augustas ir Barbora Radvilaitė medžioklėje užtruko kone penkias savaites."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1550 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškius subjektus ir tiesiogiai perteikia 1550 m. laiške nurodytą faktą. Atribucija šiame sakinyje nebūtina."
+  pagrindžia:
+    - c-186737
+
 ## Santrauka
 
 1550 m. rugsėjo 19 d. laiške Mikalojui Radvilai Rudajam pabrėžta, kad Žygimantas Augustas ir Barbora Radvilaitė medžioklėje užtruko kone penkias savaites.
@@ -76,23 +93,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204133"></a>
-- t-001
-  teiginys: "1550 m. rugsėjo 19 d. laiške Mikalojui Radvilai Rudajam pabrėžta, kad Žygimantas Augustas ir Barbora Radvilaitė medžioklėje užtruko kone penkias savaites."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1550 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškius subjektus ir tiesiogiai perteikia 1550 m. laiške nurodytą faktą. Atribucija šiame sakinyje nebūtina."
-  pagrindžia:
-    - c-186737
-

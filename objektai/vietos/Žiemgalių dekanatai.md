@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Žiemgalių dekanatai'
+pavadinimas: Žiemgalių dekanatai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f4622638ef696745e69e4d80"
-canonical_name: "Žiemgalių dekanatai"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Žiemgalių dekanatai"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f4622638ef696745e69e4d80
+canonical_name: Žiemgalių dekanatai
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Žiemgalių dekanatai
 sameAs: []
-canonical_biography: "Valančiaus laikais Žemaičių vyskupijos te ritorija priklausė Rusijos imperijai, Kauno gubernijai (iš skyrus Kuršo ir Žiemgalių dekanatus, kurie priklausė Kuršo gubernijai)."
+canonical_biography: 'Valančiaus laikais Žemaičių vyskupijos te ritorija priklausė Rusijos imperijai, Kauno gubernijai (iš skyrus Kuršo ir Žiemgalių dekanatus, kurie priklausė Kuršo gubernijai).'
 place_authority: true
 historical_names: []
 ---

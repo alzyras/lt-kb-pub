@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Junigedos ir Pieštvės papilių sudeginimas'
+pavadinimas: Junigedos ir Pieštvės papilių sudeginimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Junigedos ir Pieštvės papilių sudeginimas
 
@@ -74,6 +71,5 @@ Kunono vadovaujama kariuomenė užpuolė Junigedos ir Pieštvės pilis bei iki p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

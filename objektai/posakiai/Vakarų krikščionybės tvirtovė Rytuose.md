@@ -27,6 +27,20 @@ media_all_json: |-
 
 @ Mėgindamas gelbėti situaciją, Švedijos karalius siunčia į ataką pagrindine švedų Vakarų krikščionybės tvirtovė Rytuose ir besikaunantiems priešo kariams atrodė, kad lietuviams į pagalbą atskuba pastiprinimas.
 
+## Teiginiai
+
+<a id="claim-t-193814"></a>
+- t-001
+  teiginys: "@ Mėgindamas gelbėti situaciją, Švedijos karalius siunčia į ataką pagrindine švedų Vakarų krikščionybės tvirtovė Rytuose ir besikaunantiems priešo kariams atrodė, kad lietuviams į pagalbą atskuba pastiprinimas."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-176459
+
 ## Citatos
 
 - id: c-176459
@@ -53,20 +67,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193814"></a>
-- t-001
-  teiginys: "@ Mėgindamas gelbėti situaciją, Švedijos karalius siunčia į ataką pagrindine švedų Vakarų krikščionybės tvirtovė Rytuose ir besikaunantiems priešo kariams atrodė, kad lietuviams į pagalbą atskuba pastiprinimas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-176459
-

@@ -1,6 +1,6 @@
 ---
 tipas: daiktas
-pavadinimas: 'Velionos šventyklos akmeninė lenta'
+pavadinimas: Velionos šventyklos akmeninė lenta
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Velionos šventyklos akmeninė lenta
 
@@ -56,9 +53,25 @@ Akmeninė lenta buvo įmūryta Veliuonos bažnyčios išorinėje sienoje.
     kurioje, nepaisant didelių sužalojimų, buvo galima perskaityti
     šiuos žodžius:
   statusas: verified
-  atnaujinta: "2026-09-12 23:45"
+  atnaujinta: "2026-09-13 18:02"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-217403"></a>
+- t-001
+  teiginys: "Akmeninė lenta buvo įmūryta Veliuonos bažnyčios išorinėje sienoje."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199915
 

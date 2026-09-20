@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Strungas (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Strungas (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Strungas'
+  - Strungas
 aliases:
-  - 'Strungas'
+  - Strungas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Strungas (daiktas)
 
@@ -80,6 +77,5 @@ Narbutas teigia, kad Vilija plaukiojantys krovininiai laivai buvo vadinami strun
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Darijaus žygis į skitų, sauromatų, budinų ir gelonų kraštus
 
@@ -84,7 +81,7 @@ Persai, žygiuodami per skitų ir sauromatų kraštus, rado viską sunaikinta ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-195235
@@ -108,6 +105,5 @@ Persai, žygiuodami per skitų ir sauromatų kraštus, rado viską sunaikinta ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

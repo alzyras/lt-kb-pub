@@ -35,6 +35,32 @@ media_all_json: |-
 
 Šis susivienijimas telkė Kauno pirklius ir laivų savininkus, vadinamuosius šiporius (Schiffer, lUtmap, szyparz). Štai 1613 m. Karaliaučiaus šiporiaus Jokūbo Solfelto laive, be paties šiporiaus 6 statinių alaus, Povilas Tripmogeris gabeno 1 kubilą kaštonų, 15 olandiškų sūrių, 100 apelsinų, 2 kubilus itališkų riešutų, 40 išpieštų molinių dubenėlių, Kondratas Bremeris.
 
+## Teiginiai
+
+<a id="claim-t-201752"></a>
+- t-001
+  teiginys: "Šis susivienijimas telkė Kauno pirklius ir laivų savininkus, vadinamuosius šiporius (Schiffer, lUtmap, szyparz)."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185099
+
+<a id="claim-t-201753"></a>
+- t-002
+  teiginys: "Štai 1613 m. Karaliaučiaus šiporiaus Jokūbo Solfelto laive, be paties šiporiaus 6 statinių alaus, Povilas Tripmogeris gabeno 1 kubilą kaštonų, 15 olandiškų sūrių, 100 apelsinų, 2 kubilus itališkų riešutų, 40 išpieštų molinių dubenėlių, Kondratas Bremeris."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185100
+
 ## Citatos
 
 - id: c-185099
@@ -52,7 +78,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185100
@@ -71,32 +97,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201752"></a>
-- t-001
-  teiginys: "Šis susivienijimas telkė Kauno pirklius ir laivų savininkus, vadinamuosius šiporius (Schiffer, lUtmap, szyparz)."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185099
-
-<a id="claim-t-201753"></a>
-- t-002
-  teiginys: "Štai 1613 m. Karaliaučiaus šiporiaus Jokūbo Solfelto laive, be paties šiporiaus 6 statinių alaus, Povilas Tripmogeris gabeno 1 kubilą kaštonų, 15 olandiškų sūrių, 100 apelsinų, 2 kubilus itališkų riešutų, 40 išpieštų molinių dubenėlių, Kondratas Bremeris."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185100
-

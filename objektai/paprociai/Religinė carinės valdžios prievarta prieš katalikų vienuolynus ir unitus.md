@@ -53,33 +53,12 @@ Nenurodyta
 
 Nenurodyta
 
-## Citatos
-
-- id: c-55199
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 106"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 106."
-  citata_originali: |
-    Pasikeitė valdžios kursas ir bažnyčios atžvilgiu. Apkaltinus parama suki-
-    lėliams, uždaryta nemažai katalikų vienuolynų. 1839 m. likviduojama Uni-
-    tų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
-  citata_rodoma: "Pasikeitė valdžios kursas ir bažnyčios atžvilgiu. Apkaltinus parama suki-\nlėliams, uždaryta nemažai katalikų vienuolynų. 1839 m. likviduojama Uni-\ntų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-54332"></a>
 - t-001
   teiginys: "Carinė valdžia uždarė nemažai katalikų vienuolynų, o 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į Rusų stačiatikių bažnyčią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Rusai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -97,7 +76,7 @@ Nenurodyta
 <a id="claim-t-54333"></a>
 - t-002
   teiginys: "Caro valdžia uždarė nemažai katalikų vienuolynų, 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į stačiatikybę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Stačiatikiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -112,3 +91,23 @@ Nenurodyta
   pagrindžia:
     - c-55199
 
+## Citatos
+
+- id: c-55199
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 106"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 106."
+  citata_originali: |
+    Pasikeitė valdžios kursas ir bažnyčios atžvilgiu. Apkaltinus parama suki-
+    lėliams, uždaryta nemažai katalikų vienuolynų. 1839 m. likviduojama Uni-
+    tų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
+  citata_rodoma: "Pasikeitė valdžios kursas ir bažnyčios atžvilgiu. Apkaltinus parama suki-\nlėliams, uždaryta nemažai katalikų vienuolynų. 1839 m. likviduojama Uni-\ntų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002

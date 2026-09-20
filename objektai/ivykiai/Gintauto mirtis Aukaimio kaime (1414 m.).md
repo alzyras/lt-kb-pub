@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Gintauto mirtis Aukaimio kaime (1414 m.)'
+pavadinimas: Gintauto mirtis Aukaimio kaime (1414 m.)
 variantai:
-  - 'Gintauto mirtis Aukaimio kaime'
+  - Gintauto mirtis Aukaimio kaime
 aliases:
-  - 'Gintauto mirtis Aukaimio kaime'
+  - Gintauto mirtis Aukaimio kaime
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1414 m.'
+  - 1414 m.
 date_start: '1414'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Gintauto mirtis Aukaimio kaime (1414 m.)
 
@@ -94,7 +91,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-201242
@@ -120,6 +117,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -46,6 +46,46 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205941"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad 1274 m. Jarunis vedė totorių kariauną, prie kurios prisidėjo Romanas Brianskietis, Olegas, Glėbas Smolenskietis, Levas, Mstislavas, Vladimiras Vasiljevičius ir Pinsko kunigaikščiai."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188556
+
+<a id="claim-t-205942"></a>
+- t-002
+  teiginys: "Jarunis įsakė bandyti užimti Naugarduką, tačiau dėl miesto pasipriešinimo ir tvirtovių parengties jo kariauna užėmė tik vieną priemiestį."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188557
+
+<a id="claim-t-205943"></a>
+- t-003
+  teiginys: "Sąjungininkų paliktas Levas, pasak Teodoro Narbuto, skubiai pasuko į savo žemes, vengdamas susidūrimo su Lietuvos kariauna ir didžiuoju kunigaikščiu Germantu, apie kurių žygį į Naugarduką buvo nugirdęs."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188558
+
 ## Santrauka
 
 Narbutas rašo, kad 1274 m. Jarunis vedė totorių kariauną, prie kurios prisidėjo Romanas Brianskietis, Olegas, Glėbas Smolenskietis, Levas, Mstislavas, Vladimiras Vasiljevičius ir Pinsko kunigaikščiai. Jarunis įsakė bandyti užimti Naugarduką, tačiau dėl miesto pasipriešinimo ir tvirtovių parengties jo kariauna užėmė tik vieną priemiestį. Sąjungininkų paliktas Levas, pasak Teodoro Narbuto, skubiai pasuko į savo žemes, vengdamas susidūrimo su Lietuvos kariauna ir didžiuoju kunigaikščiu Germantu, apie kurių žygį į Naugarduką buvo nugirdęs.
@@ -71,7 +111,7 @@ Narbutas rašo, kad 1274 m. Jarunis vedė totorių kariauną, prie kurios prisid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188557
@@ -92,7 +132,7 @@ Narbutas rašo, kad 1274 m. Jarunis vedė totorių kariauną, prie kurios prisid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-188558
@@ -113,46 +153,5 @@ Narbutas rašo, kad 1274 m. Jarunis vedė totorių kariauną, prie kurios prisid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-205941"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad 1274 m. Jarunis vedė totorių kariauną, prie kurios prisidėjo Romanas Brianskietis, Olegas, Glėbas Smolenskietis, Levas, Mstislavas, Vladimiras Vasiljevičius ir Pinsko kunigaikščiai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188556
-
-<a id="claim-t-205942"></a>
-- t-002
-  teiginys: "Jarunis įsakė bandyti užimti Naugarduką, tačiau dėl miesto pasipriešinimo ir tvirtovių parengties jo kariauna užėmė tik vieną priemiestį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188557
-
-<a id="claim-t-205943"></a>
-- t-003
-  teiginys: "Sąjungininkų paliktas Levas, pasak Teodoro Narbuto, skubiai pasuko į savo žemes, vengdamas susidūrimo su Lietuvos kariauna ir didžiuoju kunigaikščiu Germantu, apie kurių žygį į Naugarduką buvo nugirdęs."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188558
-

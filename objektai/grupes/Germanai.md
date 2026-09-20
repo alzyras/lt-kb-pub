@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Germanai'
+pavadinimas: Germanai
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -15,12 +15,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Germanai","url":"https://lt.wikipedia.org/wiki/Germanai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Germanai","url":"https://www.vle.lt/straipsnis/germanai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:50:53+00:00","source_checked_at":"2026-09-19T23:50:53+00:00","counts":{"relations":2,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Klaidinga Čackio nuomonė1, esą lietuviai germanų pavyz­ džiu skaičiavę laiką ne dienomis, o naktimis.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","claim_id":"t-218270","evidence_id":"c-198111","origin":"internal"},"wiki":{"status":"published","source":{"title":"Germanai","url":"https://lt.wikipedia.org/wiki/Germanai","publisher":"Vikipedija","language":"lt","article_id":"9209","revision_id":"7706773","published_at":"2025-12-05T06:49:12Z","version_pk":"","content_hash":"6354ee03ec6e9876df71724c7e2616f64f4a3299068a597063fcc92943409628","retrieved_at":"2026-09-19T23:49:02+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Germanai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"9209"}},"intro":"Germanai (lot. germani) – istorinė indoeuropiečių genčių grupė, kilusi iš šiaurės Europos ir atpažįstama pagal germanų kalbų, kilusių iš bendros germanų kalbos ikiromėniniame geležies amžiuje, vartojimą. Iš šios genčių grupės kilo šiaurės vakarų Europos tautų grupė, kuriai priklauso tokios tautos kaip danai, norvegai, islandai, olandai, flamandai, švedai, vokiečiai ir anglai. Migruodami germanai paplito po Europą vėlyvosios antikos laikais ir ankstyvaisiais viduramžiais. Palei Romos sienas pradėjo dominuoti germanų kalbos (Austrija, Vokietija, Nyderlandai, Anglija), bet likusiose Romos provincijose germanai perėmė lotynų kalbos dialektus. Be to, jie priėmė krikščionybę. Germanai daug nuveikė transformuojant Romos imperiją į Viduramžių Europą. Pavadinimo etimologija neaiški, jis greičiausiai keltiškos kilmės. I a. pr. m. e. gyveno teritorijoje tarp Reino ir Vyslos, Dunojaus ir Baltijos bei Šiaurės jūros, taip pat pietinėje Skandinavijoje. Rašytiniuose šaltiniuose IV a. pr. m. e. pirmą kartą minimos germanų gentys – vandalai, vizigotai, ostrogotai ir langobardai. Šiais laikais germanais vadinamos germanų kalbomis kalbančios tautos:","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Germanai","url":"https://lt.wikipedia.org/wiki/Germanai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Germanai","url":"https://www.vle.lt/straipsnis/germanai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Germanai","https://www.vle.lt/straipsnis/germanai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"2d50586a61b07033f4f82b04","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Senovės germanai, pasak Teodoro Narbuto, giminiavosi su kimbrais nuo jų persikėlimo į Vakarų Europą laikų.","context":"Teodoro Narbuto teiginys, siejamas su laikotarpiu netrukus po 650 m. pr. Kr.","support_ids":["t-212931","c-194938"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212931","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194938","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Taip pat nebūtina įrodinėti, jog senovės germanai3 jei ir netiesiogiai kilę, tai giminiavosi su kimbrais nuo jų persikėlimo į Vakarų Europą laikų4; tai, be laibejo1, įvyko netrukus po 650 metų prieš Kristaus gimimą, kai kimbrų grobuoniški antpuoliai Rytuose ėmė slopti5."}],"status":"published","conflict_status":"clear"},{"trait_id":"790a4b11d210ffcb467c2167","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Germanų gentys autoriaus apibūdinamos kaip karingos ir grobikiškos.","context":"Teodoro Narbuto aiškinimas apie prekybos kelio galimą ėjimą per germanų genčių žemes; tai autoriaus vertinimas, ne besąlyginis visų germanų apibūdinimas.","support_ids":["t-214683","c-197015"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214683","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197015","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tokį pat nuotolį nuo Vys­ los žiočių į Panoniją suskaičiuoja ir Ptolemėjas. O kad prekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro­ bikiškų germanų ¡genčių žemes, galima ¡paaiškinti senovės religijos pašventintais svetingumo papročiais ar tam tik­ rais šiuo pagrindu sudarytais susitarimais. * ¥ * III skyrius S E N O V Ė S Ž I N I Ų T Ę S I N Y S 171 Sausumos atradimai."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Germanai šiame šaltinių rinkinyje vaizduojami kaip senovės pasaulio tautos, siejamos su kimbrais, prekybos keliais ir kitų tautų istorija. Teodoras Narbutas jų giminystę su kimbrais kildina iš laikotarpio, kai kimbrai persikėlė į Vakarų Europą, ir sieja tai su įvykiais netrukus po 650 m. pr. Kr. Germanų žemėmis galėjo eiti prekybos kelias nuo Vyslos žiočių Panonijos link; tokį kelią, nepaisant apibūdinimo kaip karingų ir grobikiškų genčių teritorijos, Narbutas aiškina svetingumo papročiais arba susitarimais. Jis taip pat mini germanus svarstydamas lietuvių kilmę, tačiau atmeta teoriją apie lietuvių tautos susidarymą IV ar V amžiuje Vyslos žemupyje iš daugelio tautų, ypač germanų. Duomenys neleidžia patikimai aprašyti germanų kilmės, teritorijos ar politinės organizacijos.","sentences":[{"sentence_id":"s1","text":"Germanai šiame šaltinių rinkinyje vaizduojami kaip senovės pasaulio tautos, siejamos su kimbrais, prekybos keliais ir kitų tautų istorija.","support_ids":["t-212931","c-194938","t-214683","c-197015","t-213817","c-194510"]},{"sentence_id":"s2","text":"Teodoras Narbutas jų giminystę su kimbrais kildina iš laikotarpio, kai kimbrai persikėlė į Vakarų Europą, ir sieja tai su įvykiais netrukus po 650 m. pr. Kr.","support_ids":["t-212931","c-194938"]},{"sentence_id":"s3","text":"Germanų žemėmis galėjo eiti prekybos kelias nuo Vyslos žiočių Panonijos link; tokį kelią, nepaisant apibūdinimo kaip karingų ir grobikiškų genčių teritorijos, Narbutas aiškina svetingumo papročiais arba susitarimais.","support_ids":["t-214683","c-197015"]},{"sentence_id":"s4","text":"Jis taip pat mini germanus svarstydamas lietuvių kilmę, tačiau atmeta teoriją apie lietuvių tautos susidarymą IV ar V amžiuje Vyslos žemupyje iš daugelio tautų, ypač germanų.","support_ids":["t-213817","c-194510"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Support references establish links with the Cimbri, a trade route, and Lithuanian origins, but do not directly support the broader characterization as peoples of the ancient world or association with other peoples’ history."},{"sentence_id":"s2","supported":true,"reason":"The cited passage directly states that the ancient Germans were related to the Cimbri from their migration to Western Europe, shortly after 650 BCE."},{"sentence_id":"s3","supported":true,"reason":"The evidence directly supports a trade route from the Vistula estuary toward Pannonia through Germanic lands and explains its safety by hospitality customs or agreements."},{"sentence_id":"s4","supported":true,"reason":"The cited passage directly states that Narbutas rejects the theory that the Lithuanian nation formed in the 4th or 5th century near the lower Vistula as a mixture of peoples, especially Germanic ones."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-212931","c-194938","t-214683","c-197015","t-213817","c-194510"]},{"sentence_id":"s2","supported":true,"support_ids":["t-212931","c-194938"]},{"sentence_id":"s3","supported":true,"support_ids":["t-214683","c-197015"]},{"sentence_id":"s4","supported":true,"support_ids":["t-213817","c-194510"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Tiuringiai","claim_id":"t-215295","confidence":0.8},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Vandalai","claim_id":"t-214927","confidence":0.8}],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 9cefa9d67b3b7187
+object_page_generated_at: '2026-09-19T23:50:53+00:00'
+object_page_source_checked_at: '2026-09-19T23:50:53+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Germanai šiame šaltinių rinkinyje vaizduojami kaip senovės pasaulio tautos, siejamos su kimbrais, prekybos keliais ir kitų tautų istorija. Teodoras Narbutas…'
+object_page_seo_input_hash: 5fb48b6e24df3f8355124c01caff77cd16e9cfc1e47a3fd34ce51be5c7098097
+object_page_seo_generated_at: '2026-09-19T23:50:53+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Germanai
 
@@ -30,58 +40,46 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 ## Teiginiai
 
-<a id="claim-t-218270"></a>
-- t-004
-  teiginys: "Narbutas atmeta Čackio nuomonę, kad lietuviai laiką skaičiavo germanų pavyzdžiu naktimis."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-01324"></a>
+- t-001
+  teiginys: "Germanai priskiriami tai pačiai indoeuropiečių, arba arijų, tautų grupei kaip aisčiai, slavai ir romanai."
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Germanai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Germanai\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-198111
+    - c-01562
 
-<a id="claim-t-218653"></a>
-- t-005
-  teiginys: "Herulus, iškeliavusius iš tėvų žemės su gotais, ištiko permainingas likimas, būdingas karingoms vidurinių amžių tautoms: išsklaidyti, sumušti jie su grįžo į savo šalį arba apsigyveno už Oderio, pagaliau išnyko tenai tarp germanų; išliko tik atminimas apie jų."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-192393"></a>
+- t-002
+  teiginys: "Narbutas aiškina, kad prekybos kelias per germanų žemes galėjo veikti dėl svetingumo papročių arba tam tikrų susitarimų."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197964
-
-<a id="claim-t-212931"></a>
-- t-212931
-  teiginys: "Narbutas teigia, kad senovės germanai buvo giminiavęsi su kimbrais nuo jų persikėlimo į Vakarų Europą laikų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Panonija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Germanai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Panonija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Germanai\" parinktas kaip owner_note_path. Targetas \"Panonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-194938
+    - c-175187
 
-<a id="claim-t-214614"></a>
-- t-214614
-  teiginys: "Narbutas išsakė savo nuostatą naujausių vokiečių is torikų skelbtos germaniškosios teorijos atžvilgiu."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195394
-
-<a id="claim-t-213817"></a>
-- t-213817
+<a id="claim-t-192394"></a>
+- t-003
   teiginys: "Narbutas mini, bet atmeta nuomonę, kad lietuvių tauta susidarė IV ar V amžiuje Vyslos žemupyje iš daugelio, ypač germanų, tautų."
-  atnaujinta: "2026-09-13 18:12"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -96,41 +94,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-194510
-
-<a id="claim-t-214683"></a>
-- t-214683
-  teiginys: "Narbutas aiškina, kad prekybos kelias per germanų žemes galėjo veikti dėl svetingumo papročių arba tam tikrų susitarimų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Panonija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Germanai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Panonija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Germanai\" parinktas kaip owner_note_path. Targetas \"Panonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-01324"></a>
-- t-01324
-  teiginys: "Germanai priskiriami tai pačiai indoeuropiečių, arba arijų, tautų grupei kaip aisčiai, slavai ir romanai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Germanai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Germanai\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-01562
+    - c-175188
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -172,8 +136,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-01324
+  pagrindzia:
+    - t-001
 
 - id: c-175187
   autorius: "Teodoras Narbutas"
@@ -198,6 +162,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-175188
   autorius: "Teodoras Narbutas"
@@ -221,107 +187,5 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194510
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 191"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
-  citata_originali: |
-    195
-    Čia neaiškinsime priežasčių, kodėl mes nepripažįstame
-    lietuvių kildinimo iš gotų ar keltų, nes apie tai vėliau dar
-    pakalbėsime. Taip pat nedera steigtis neigti naujas, gana
-    neišlaikytas nuomones, pasak kurių lietuvių tauta esanti
-    daugelio tautų, ypač germanų kilmės, lydinys, kuris su­
-    sidarė maždaug IV ar V amžiuje Vyslos žemupyje ir buvo
-    vadinamas vidivariais, vidais ar dar kitais vardais. Jau
-    vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo­
-    1
-    Tradunt veteres, majores Samogitarum Italos fuisse.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213817
-
-- id: c-194938
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
-  citata_originali: |
-    Taip pat nebūtina įrodinėti, jog senovės germanai3 jei
-    ir netiesiogiai kilę, tai giminiavosi su kimbrais nuo jų
-    persikėlimo į Vakarų Europą laikų4; tai, be laibejo1, įvyko
-    netrukus po 650 metų prieš Kristaus gimimą, kai kimbrų
-    grobuoniški antpuoliai Rytuose ėmė slopti5.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212931
-
-- id: c-195394
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 5"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 5."
-  citata_originali: |
-    Daug kategoriškiau
-    T. Narbutas išsakė savo nuostatą naujausių vokiečių is­
-    torikų skelbtos germaniškosios teorijos atžvilgiu
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214614
-
-- id: c-197964
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 444"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 444."
-  citata_originali: |
-    Herulus, iškeliavusius
-    iš tėvų žemės su gotais, ištiko permainingas likimas, būdingas
-    karingoms vidurinių amžių tautoms: išsklaidyti, sumušti jie su­
-    grįžo į savo šalį arba apsigyveno už Oderio, pagaliau išnyko
-    tenai tarp germanų; išliko tik atminimas apie jų kalbą, labai
-    sudarkytą svetimybių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- id: c-198111
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 322"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
-  citata_originali: |
-    Klaidinga Čackio nuomonė1, esą lietuviai germanų pavyz­
-    džiu skaičiavę laiką ne dienomis, o naktimis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
+  pagrindzia:
+    - t-003

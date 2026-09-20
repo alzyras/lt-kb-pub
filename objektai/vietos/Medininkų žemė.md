@@ -43,6 +43,27 @@ historical_names: []
 
 BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio priešistorė Tesiantis Lietuvos karui su Vokiečių ordinu, 1355 m. pradžioje didelė Kryžiuočių kariuomenė, vadovaujama maršalo, įsiveržusi penketą dienų niokojo centrinę Žemaitijos.
 
+## Teiginiai
+
+<a id="claim-t-41919"></a>
+- t-001
+  teiginys: "1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Medininkų žemė: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Medininkų žemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kryžiuočių kariuomenė tiesiogiai nurodyta niokojusi Medininkų žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Medininkų žemė (0.90); Kryžiuočių ordinas puolė Vaikiai (0.74); Kryžiuočių ordinas puolė Ariogala (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1355 m.; įvykio data: po 1356 m.; įvykio data: 1356 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
+  pagrindžia:
+    - c-45212
+
 ## Citatos
 
 - id: c-45212
@@ -90,30 +111,8 @@ BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Puolė Medininkų žemę: [[objektai/grupes/Kryžiuočių ordinas]]
-
-## Teiginiai
-
-<a id="claim-t-41919"></a>
-- t-001
-  teiginys: "1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Medininkų žemė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Medininkų žemė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočių kariuomenė tiesiogiai nurodyta niokojusi Medininkų žemę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Medininkų žemė (0.90); Kryžiuočių ordinas puolė Vaikiai (0.74); Kryžiuočių ordinas puolė Ariogala (0.74)"
-  temporaliniai_duomenys: "įvykio data: 1355 m.; įvykio data: po 1356 m.; įvykio data: 1356 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  pagrindžia:
-    - c-45212
-

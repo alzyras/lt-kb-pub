@@ -27,6 +27,26 @@ media_all_json: |-
 
 Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „Niekad, niekados". Griežčiausiai neigiamai atsakė Krokuvoje išleista brošiūra, pavadinta „Niekad, niekados" (Przenigdy").
 
+## Teiginiai
+
+<a id="claim-t-67280"></a>
+- t-001
+  teiginys: "Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67250
+
+<a id="claim-t-67281"></a>
+- t-002
+  teiginys: "Bajorija į raginimus prisidėti prie Lietuvos atgaivinimo darbo atsakė posakiu „Niekad, niekados“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67251
+
 ## Citatos
 
 - id: c-67250
@@ -48,7 +68,7 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-67251
@@ -70,26 +90,5 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-67280"></a>
-- t-001
-  teiginys: "Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67250
-
-<a id="claim-t-67281"></a>
-- t-002
-  teiginys: "Bajorija į raginimus prisidėti prie Lietuvos atgaivinimo darbo atsakė posakiu „Niekad, niekados“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67251
-

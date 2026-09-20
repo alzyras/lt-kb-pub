@@ -47,6 +47,32 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
 
 ## Teiginiai
 
+<a id="claim-t-79142"></a>
+- t-001
+  teiginys: "Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Švedai: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mykolas Pacas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginyje Mykolas Pacas siejamas su vadais, kovojusiais prieš švedus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mykolas Pacas kariavo prieš Švedai (0.80)"
+  pagrindžia:
+    - c-76226
+
+<a id="claim-t-79144"></a>
+- t-002
+  teiginys: "Mykolas Pacas buvo hetmonas ir Vilniaus vaivada."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-76225
+
 <a id="claim-t-200765"></a>
 - t-003
   teiginys: "Po 1655 m. rusų antplūdžio Mykolas Pacas, Vilniaus vaivada ir Lietuvos Didžiosios Kunigaikštystės etmonas, padėjo atstatyti Bernardinų bažnyčią."
@@ -66,32 +92,6 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184110
-
-<a id="claim-t-79142"></a>
-- t-79142
-  teiginys: "Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Švedai: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mykolas Pacas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginyje Mykolas Pacas siejamas su vadais, kovojusiais prieš švedus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Mykolas Pacas kariavo prieš Švedai (0.80)"
-  pagrindžia:
-    - c-76226
-
-<a id="claim-t-79144"></a>
-- t-79144
-  teiginys: "Mykolas Pacas buvo hetmonas ir Vilniaus vaivada."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-76225
 
 ## Citatos
 
@@ -113,8 +113,8 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-79144
+  pagrindzia:
+    - t-002
 
 - id: c-76226
   sudarytojas: "Karolis Zikaras"
@@ -135,8 +135,8 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-79142
+  pagrindzia:
+    - t-001
 
 - id: c-184110
   autorius: "Mikalojus Vorobjovas"
@@ -153,11 +153,9 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
     etmonas. Tuomet, pav., fasadas buvo apvainikuotas frontonu su vingiuotais
     ir užriestais kraštais.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

@@ -1,38 +1,37 @@
 ---
 tipas: asmuo
-pavadinimas: 'L. A. Jucevičius'
+pavadinimas: L. A. Jucevičius
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1840 m.'
-  - '1846 m.'
+  - 1840 m.
+  - 1846 m.
 date_start: '1840'
 date_end: '1846'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-065f7bd0bb4cc757afd6a809"
-canonical_name: "L. A. Jucevičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["L. A. Jucevičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-065f7bd0bb4cc757afd6a809
+canonical_name: L. A. Jucevičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - L. A. Jucevičius
 sameAs: []
-canonical_biography: "L. A. Jucevičius buvo monografijų „Lietuvių liaudies priežodžiai“, „Žemaitijos atsiminimai“ ir „Lietuva“ autorius."
+canonical_biography: 'L. A. Jucevičius buvo monografijų „Lietuvių liaudies priežodžiai“, „Žemaitijos atsiminimai“ ir „Lietuva“ autorius.'
 ---
 # L. A. Jucevičius
 
@@ -76,6 +75,5 @@ L. A. Jucevičius buvo monografijų „Lietuvių liaudies priežodžiai“, „�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -46,6 +46,36 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-204389"></a>
+- t-001
+  teiginys: "1453 m. Kazimieras Jogailaitis, kviesdamas lenkų ir lietuvių kilminguosius į Parčevą, numatė po du bajorus iš kiekvienos herbinės giminės."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1453 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas veikėjas, veiksmas ir susirinkimo vieta. Išlaikytas citatoje nurodytas atstovavimo principas."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186993
+
+<a id="claim-t-204390"></a>
+- t-002
+  teiginys: "Parčevo suvažiavimas baigėsi nesėkme; Ordino žiniomis, lietuvių atvyko labai mažai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-186994
+
 ## Santrauka
 
 1453 m. Kazimieras Jogailaitis, kviesdamas lenkų ir lietuvių kilminguosius į Parčevą, numatė po du bajorus iš kiekvienos herbinės giminės. Parčevo suvažiavimas baigėsi nesėkme; Ordino žiniomis, lietuvių atvyko labai mažai.
@@ -74,7 +104,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186994
@@ -98,36 +128,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-204389"></a>
-- t-001
-  teiginys: "1453 m. Kazimieras Jogailaitis, kviesdamas lenkų ir lietuvių kilminguosius į Parčevą, numatė po du bajorus iš kiekvienos herbinės giminės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1453 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įvardytas veikėjas, veiksmas ir susirinkimo vieta. Išlaikytas citatoje nurodytas atstovavimo principas."
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186993
-
-<a id="claim-t-204390"></a>
-- t-002
-  teiginys: "Parčevo suvažiavimas baigėsi nesėkme; Ordino žiniomis, lietuvių atvyko labai mažai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  pagrindžia:
-    - c-186994
-

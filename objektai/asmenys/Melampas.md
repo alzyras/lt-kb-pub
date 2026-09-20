@@ -41,6 +41,31 @@ canonical_biography: "Narbutas, remdamasis graikų dievų padavimais, Melampą v
 
 Narbutas, remdamasis graikų dievų padavimais, Melampą vadina pranašautoju, apie 1380 m. pr. Kr. pirmuoju Graikijoje įvedusiu Bakcho garbinimą.
 
+## Teiginiai
+
+<a id="claim-t-190182"></a>
+- t-001
+  teiginys: "Narbutas, remdamasis graikų dievų padavimais, Melampą vadina pranašautoju, apie 1380 m. pr. Kr. pirmuoju Graikijoje įvedusiu Bakcho garbinimą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Melampas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Graikija: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Melampas\" parinktas kaip owner_note_path. Targetas \"Graikija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1380 m.; įvykio data: apie 1380 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Mitologinis teiginys suformuluotas kaip Narbuto padavimais grįstas aiškinimas. Nepridėta platesnė išvada apie lietuvių stabmeldystę."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173065
+
 ## Citatos
 
 - id: c-173065
@@ -63,53 +88,5 @@ Narbutas, remdamasis graikų dievų padavimais, Melampą vadina pranašautoju, a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-200319
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
-  citata_originali: |
-    Priklausomai nuo gėrimo pagaminimo būdo
-    dievas įgydavo Bubilo arba Ragučio vardą, kaip tai pastebima
-    ¡r kitose mitologijose.
-    Iš padavimų apie graikų dievus žinome, kad garsus prana­
-    šautojas Melampas, kuris gyveno Proito laikais, dar iki Trojos
-    karo, apie 1380 metus prieš Kristaus gimimą, pirmasis Graiki­
-    joje įvedė Bakcho garbinimą. Todėl tais laikais, kai lietuvių
-    tauta brandino savo stabmeldystę, to dievo garbinimas kitur
-    buvo labai senas ir visuotinai paplitęs.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-217208"></a>
-- t-001
-  teiginys: "Narbutas, remdamasis graikų dievų padavimais, Melampą vadina pranašautoju, apie 1380 m. pr. Kr. pirmuoju Graikijoje įvedusiu Bakcho garbinimą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Graikija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Melampas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Graikija: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Melampas\" parinktas kaip owner_note_path. Targetas \"Graikija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1380 m.; įvykio data: apie 1380 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Mitologinis teiginys suformuluotas kaip Narbuto padavimais grįstas aiškinimas. Nepridėta platesnė išvada apie lietuvių stabmeldystę."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-200319
-

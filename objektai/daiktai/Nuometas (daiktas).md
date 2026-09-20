@@ -46,22 +46,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-216907"></a>
-- t-216907
-  teiginys: "Senovės prūsų tarme toks vainikas vadinosi apglobtė (Abglojte) ir reiškė nuometą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199878
-
 <a id="claim-t-201361"></a>
-- t-201361
+- t-001
   teiginys: "Moterys dėvėjo ilgesnes sermėgas už vyrų kobo tus, o makaulę baltais nuometais rutuldavo taip grak ščiai ir puikiai, jog nuo to iki šiai dienai vyrai godindami motriškąsias baltomis galvomis vadina."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -71,9 +59,9 @@ Nenurodyta
     - c-184711
 
 <a id="claim-t-201362"></a>
-- t-201362
+- t-002
   teiginys: "Nė viena taip didžiai barva joms netiko, kaip balta, dėl to gi, tikėjimą perkeičiant, lietuvės ir žemaitės nenorėjo krikštytis dėl to vien, idant nenustotų savo baltų nuometų bei vilnonių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -104,8 +92,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201361
+  pagrindzia:
+    - t-001
 
 - id: c-184712
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -125,25 +113,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201362
-
-- id: c-199878
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 357"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 357."
-  citata_originali: |
-    Prieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­
-    vos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­
-    kišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-
-    globtė (Abglojte), kas reiškia nuometą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216907
-
+  pagrindzia:
+    - t-002

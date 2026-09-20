@@ -43,6 +43,28 @@ canonical_biography: "Vasiljevičius, paisydamas paliaubų, atviro karo nepradė
 
 Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryti žalos Lietuvos valdoms.
 
+## Teiginiai
+
+<a id="claim-t-186020"></a>
+- t-001
+  teiginys: "Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryti žalos Lietuvos valdoms."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lietuva: 0.57"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys apibendrina Vasiljevičiaus veiksmus prieš Lietuvos valdas, nors konkreti žala aprašoma plačiau citatoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Vasiljevičius (Maskvos valdovas) puolė Lietuva (0.57)"
+  pagrindžia:
+    - c-169381
+
 ## Citatos
 
 - id: c-169380
@@ -75,7 +97,6 @@ Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-169381
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -104,32 +125,9 @@ Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - Vasiljevičius (Maskvos valdovas) buvo valdovas [[objektai/vietos/Maskva]]
-
-## Teiginiai
-
-<a id="claim-t-186020"></a>
-- t-001
-  teiginys: "Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryti žalos Lietuvos valdoms."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Lietuva: 0.57"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys apibendrina Vasiljevičiaus veiksmus prieš Lietuvos valdas, nors konkreti žala aprašoma plačiau citatoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Vasiljevičius (Maskvos valdovas) puolė Lietuva (0.57)"
-  pagrindžia:
-    - c-169381
-

@@ -35,6 +35,41 @@ canonical_biography: "Mstislavas Romanovičius prie Jaseldos upės buvo sumušta
 
 Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką. Prie Jaseldos upės Mstislavas Romanovičius buvo sumuštas, neteko kariuomenės ir vos gyvas paspruko į Lucką.
 
+## Teiginiai
+
+<a id="claim-t-186072"></a>
+- t-001
+  teiginys: "Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Luckas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mstislavas Romanovičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje aiškiai nurodyta, kad Mstislavas paspruko į Lucką."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Mstislavas Romanovičius keliavo į Luckas (0.90); Mstislavas Romanovičius kariavo prieš Skirmantas (0.85)"
+  pagrindžia:
+    - c-169433
+
+<a id="claim-t-196566"></a>
+- t-002
+  teiginys: "Prie Jaseldos upės Mstislavas Romanovičius buvo sumuštas, neteko kariuomenės ir vos gyvas paspruko į Lucką."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178771
+
 ## Citatos
 
 - id: c-169433
@@ -75,7 +110,7 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-178771
@@ -107,44 +142,8 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 ## Ryšiai
 - Mstislavas Romanovičius keliavo į [[objektai/vietos/Luckas]]
-
-## Teiginiai
-
-<a id="claim-t-186072"></a>
-- t-001
-  teiginys: "Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Luckas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mstislavas Romanovičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje aiškiai nurodyta, kad Mstislavas paspruko į Lucką."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Mstislavas Romanovičius keliavo į Luckas (0.90); Mstislavas Romanovičius kariavo prieš Skirmantas (0.85)"
-  pagrindžia:
-    - c-169433
-
-<a id="claim-t-196566"></a>
-- t-002
-  teiginys: "Prie Jaseldos upės Mstislavas Romanovičius buvo sumuštas, neteko kariuomenės ir vos gyvas paspruko į Lucką."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178771
-

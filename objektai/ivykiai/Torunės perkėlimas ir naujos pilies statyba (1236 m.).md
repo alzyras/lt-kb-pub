@@ -1,10 +1,10 @@
 ---
 tipas: ivykis
-pavadinimas: 'Torunės perkėlimas ir naujos pilies statyba (1236 m.)'
+pavadinimas: Torunės perkėlimas ir naujos pilies statyba (1236 m.)
 variantai:
-  - 'Torunės perkėlimas ir naujos pilies statyba'
+  - Torunės perkėlimas ir naujos pilies statyba
 aliases:
-  - 'Torunės perkėlimas ir naujos pilies statyba'
+  - Torunės perkėlimas ir naujos pilies statyba
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -15,12 +15,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Torunės perkėlimas ir naujos pilies statyba (1236 m.)
 
@@ -75,6 +72,5 @@ Po perkėlimo pradėta statyti nauja pilis, iš pradžių iš rąstų, žemių i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

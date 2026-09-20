@@ -26,6 +26,28 @@ media_all_json: |-
 
 Narbutas lygašonis ir tulisonis apibūdina kaip laidotuvių žynius, atlikdavusius apeigas ir pranašavusius mirusiojo sielos likimą.
 
+## Teiginiai
+
+<a id="claim-t-189523"></a>
+- t-001
+  teiginys: "Narbutas lygašonis ir tulisonis apibūdina kaip laidotuvių žynius, atlikdavusius apeigas ir pranašavusius mirusiojo sielos likimą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lygašonys ir tulisonys: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lygašonys ir tulisonys\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172411
+
 ## Citatos
 
 - id: c-172411
@@ -51,53 +73,5 @@ Narbutas lygašonis ir tulisonis apibūdina kaip laidotuvių žynius, atlikdavus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201455
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 295"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 295."
-  citata_originali: |
-    Lygašonys ir tulisonys
-    (Lingussones ir Tilussones)
-    Tai buvo laidotuvių žyniai, kurių pareiga atlikti laidotuvių
-    apeigas ir išpranašauti, kas įvyko mirusiojo sielai po jo mir­
-    ties. Pirmieji praminti nuo senovės prūsų žodžio Linguot, tai
-    reiškia skraidyti ore išskleistais sparnais; antrieji - nuo tokios
-    pat kilmės žodžio Tilussut, reiškiančio murmėti. Tad, šitaip su­
-    prasdami, kronikininkai sako, esą pirmųjų pareiga buvusi at­
-    likti garsines apeigas, kaip antai šaukti, giedoti, brązginti me­
-    talinius daiktus, o antrieji šnibždėdavo maldas ir tyloje kalbė­
-    davosi su vėlėmis. Apie juos dar kalbėsime straipsnyje „Lai­
-    dotuvių papročiai“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-217780"></a>
-- t-001
-  teiginys: "Narbutas lygašonis ir tulisonis apibūdina kaip laidotuvių žynius, atlikdavusius apeigas ir pranašavusius mirusiojo sielos likimą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lygašonys ir tulisonys: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lygašonys ir tulisonys\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-201455
-

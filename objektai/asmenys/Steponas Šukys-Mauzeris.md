@@ -34,6 +34,18 @@ canonical_biography: "Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai �
 
 Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino bunkerio viršų.
 
+## Teiginiai
+
+<a id="claim-t-40448"></a>
+- t-001
+  teiginys: "Steponas Šukys-Mauzeris nusišovė, o kiti bunkeryje buvę partizanai pasidavė čekistams išsprogdinus bunkerio viršų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-44524
+
 ## Citatos
 
 - id: c-44524
@@ -59,18 +71,5 @@ Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-40448"></a>
-- t-001
-  teiginys: "Steponas Šukys-Mauzeris nusišovė, o kiti bunkeryje buvę partizanai pasidavė čekistams išsprogdinus bunkerio viršų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-44524
-

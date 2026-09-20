@@ -1,15 +1,15 @@
 ---
 tipas: vieta
-pavadinimas: 'Vakarų Europa'
+pavadinimas: Vakarų Europa
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1572 m.'
-  - '1945 m.'
-  - '1974 m.'
-  - '2008 m.'
+  - 1572 m.
+  - 1945 m.
+  - 1974 m.
+  - 2008 m.
 date_start: '1572'
 date_end: '2008'
 sukurta: ''
@@ -18,29 +18,41 @@ tags:
   - vieta
   - kraštas
 amziai:
-  - 'XVI'
-  - 'XXI'
+  - XVI
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b0790221fff4a482ebcf0200"
-canonical_name: "Vakarų Europa"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vakarų Europa"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b0790221fff4a482ebcf0200
+canonical_name: Vakarų Europa
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vakarų Europa
 sameAs: []
-canonical_biography: "Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus. Vakarų Europos situaciją XVI a. Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst."
+canonical_biography: 'Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus. Vakarų Europos situaciją XVI a. Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Vakarų Europa","url":"https://lt.wikipedia.org/wiki/Vakar%C5%B3_Europa","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Vakarų Europa","url":"https://www.vle.lt/straipsnis/vakaru-europa/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:20:33+00:00","source_checked_at":"2026-09-19T23:20:33+00:00","counts":{"relations":3,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Vakarų Europa","url":"https://lt.wikipedia.org/wiki/Vakar%C5%B3_Europa","publisher":"Vikipedija","language":"lt","article_id":"29033","revision_id":"7619250","published_at":"2025-08-17T20:08:46Z","version_pk":"","content_hash":"1e61002ba1f5a5617d084ab7085484d49031a093a7dab2a2698ff437b150f5ef","retrieved_at":"2026-09-19T23:19:20+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Vakar%C5%B3_Europa&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"29033"}},"intro":"Vakarų Europa − vienas iš kelių geografinių ir politinių Europos regionų. Regiono ribos priklauso nuo konteksto. Sąvoka „Vakarai“ Europoje atsirado priešpastatant ją „Rytams“ ir iš pradžių buvo taikoma senovės Viduržemio jūros pasaulio Vakarų pusei, Romos imperijos Lotynų Vakarams ir „Vakarų Krikščionybei“. Šviečiamajame amžiuje ir pramonės revoliucijos laikais sąvokos „Rytų Europa“ ir „Vakarų Europa“ buvo vartojamos dažniau. Vakarų Europos išskirtinumas labiausiai pasireiškė Šaltojo karo metu, kuomet Europa 40 metų buvo padalinta geležine uždanga į Vakarų bloką ir Rytų bloką, kuriuos apibūdino skirtingos politinės ir ekonominės sistemos.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Vakarų Europa","url":"https://lt.wikipedia.org/wiki/Vakar%C5%B3_Europa","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Vakarų Europa","url":"https://www.vle.lt/straipsnis/vakaru-europa/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Vakar%C5%B3_Europa","https://www.vle.lt/straipsnis/vakaru-europa/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Kimbrai","claim_id":"t-213832","confidence":0.94},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Anglija","claim_id":"t-68837","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Olandija","claim_id":"t-68837","confidence":0.88}],"timeline":[],"support_disclosure":{"claims":7,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f632f0d66696a003
+object_page_generated_at: '2026-09-19T23:20:33+00:00'
+object_page_source_checked_at: '2026-09-19T23:20:33+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '4'
+object_page_seo_description: 'Vakarų Europa: Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į…'
+object_page_seo_input_hash: 65bed7181a136d3929caaff287bcbb5d2512541f2ffebf2fed06bb4490d5072a
+object_page_seo_generated_at: '2026-09-19T23:20:33+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vakarų Europa
 
@@ -49,6 +61,74 @@ historical_names: []
 Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus. Vakarų Europos situaciją XVI a. Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst.
 
 ## Teiginiai
+
+<a id="claim-t-170874"></a>
+- t-001
+  teiginys: "Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vakarų Europa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų Europa\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-155483
+
+<a id="claim-t-170876"></a>
+- t-002
+  teiginys: "Vakarų Europos XVI a. religinį nepakantumą simbolizavo 1572 m. Baltramiejaus naktis Paryžiuje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vakarų Europa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų Europa\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1572 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į pilną faktinį sakinį."
+  pagrindžia:
+    - c-155482
+
+<a id="claim-t-192768"></a>
+- t-003
+  teiginys: "Teodoras Narbutas siejo Vakarų Europą su kimbrų persikėlimu netrukus po 650 metų prieš Kristų ir jų giminyste su senovės germanais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Vakarų Europa: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kimbrai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vakarų Europa: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai minimas kimbrų persikėlimas į Vakarų Europą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Kimbrai keliavo į Vakarų Europa (0.94)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175538
+
+<a id="claim-t-193654"></a>
+- t-004
+  teiginys: "Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176323
 
 <a id="claim-t-200717"></a>
 - t-005
@@ -90,87 +170,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   pagrindžia:
     - c-184063
 
-<a id="claim-t-213832"></a>
-- t-213832
-  teiginys: "Teodoras Narbutas siejo Vakarų Europą su kimbrų persikėlimu netrukus po 650 metų prieš Kristų ir jų giminyste su senovės germanais."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Vakarų Europa: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kimbrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vakarų Europa: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai minimas kimbrų persikėlimas į Vakarų Europą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Kimbrai keliavo į Vakarų Europa (0.94)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-196693
-
-<a id="claim-t-170874"></a>
-- t-170874
-  teiginys: "Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vakarų Europa: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų Europa\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-155483
-
-<a id="claim-t-170876"></a>
-- t-170876
-  teiginys: "Vakarų Europos XVI a. religinį nepakantumą simbolizavo 1572 m. Baltramiejaus naktis Paryžiuje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vakarų Europa: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų Europa\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1572 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į pilną faktinį sakinį."
-  pagrindžia:
-    - c-155482
-
-<a id="claim-t-193654"></a>
-- t-193654
-  teiginys: "Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176323
-
-<a id="claim-t-208354"></a>
-- t-208354
-  teiginys: "Lietuvos ir Vakarų Europos civilizacinių / kultūros ryšių glaudinimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  vertinimo_atnaujinta: "2026-07-26T17:29:06Z"
-  pagrindžia:
-    - c-190853
-
 ## Citatos
 
 - id: c-155482
@@ -192,8 +191,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-170876
+  pagrindzia:
+    - t-002
 
 - id: c-155483
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -215,8 +214,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-170874
+  pagrindzia:
+    - t-001
 
 - id: c-175538
   autorius: "Teodoras Narbutas"
@@ -240,6 +239,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-176323
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -255,8 +256,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193654
+  pagrindzia:
+    - t-004
 
 - id: c-184062
   autorius: "Rimvydas Laužikas"
@@ -265,9 +266,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 2."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:29"
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-184063
@@ -277,59 +277,9 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 15."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:29"
-  pagrindžia:
+  pagrindzia:
     - t-006
-
-- id: c-190853
-  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
-  puslapiai: "PDF 352"
-  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 352."
-  citata_originali: |
-    3 6i
-    buvo sunaikinta agresyvių kaimynų Rusijos, Prūsijos ir Austrijos, nenorėjusių ir
-    negalėjusių kaip kaimynės turėti stiprėjančios valstybės“ (p. 676). Gan svarbus yra
-    ir Lietuvos Didžiosios Kunigaikštystės bei Vakarų Europos sąsajų paryškinimas.
-    Z. Kiaupa aštuonioliktąjį šimtmetį įvardija kaip „anksčiau užmegztų bei plečiamų
-    Lietuvos ir Vakarų Europos civilizacinių / kultūros ryšių glaudinimo“ (p. 676)
-    amžių.
-  citata_rodoma: "Lietuvos ir Vakarų Europos civilizacinių / kultūros ryšių glaudinimo"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208354
-
-- id: c-196693
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
-  citata_originali: |
-    Ten jie vadinami Sembi\ iš čia ki­
-    lęs Sembos — vienos prūsų provincijos — pavadinimas2.
-    Taip pat nebūtina įrodinėti, jog senovės germanai3 jei
-    ir netiesiogiai kilę, tai giminiavosi su kimbrais nuo jų
-    persikėlimo į Vakarų Europą laikų4; tai, be laibejo1, įvyko
-    netrukus po 650 metų prieš Kristaus gimimą, kai kimbrų
-    grobuoniški antpuoliai Rytuose ėmė slopti5.
-    25
-    Kimbrų gentims, pagyvenusioms penkis, o gal kiek
-    daugiau amžių, dėl kažkokių svarbių priežasčių buvo lem­
-    ta pasitraukti iš Baltijos jūros pakrančių6.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213832
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Kimbrai]]

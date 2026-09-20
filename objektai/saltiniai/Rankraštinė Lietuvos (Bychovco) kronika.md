@@ -30,22 +30,10 @@ Pasak Lietuvos (Bychovco) kronikos, Treniotas, dar vadintas Vykintu, o kronikoje
 
 ## Teiginiai
 
-<a id="claim-t-218047"></a>
-- t-218047
-  teiginys: "Rankraš tinėje Lietuvos (Bychovco) kronikoje taip apie tai sakoma:."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197767
-
 <a id="claim-t-206124"></a>
-- t-206124
+- t-001
   teiginys: "Pasak Lietuvos (Bychovco) kronikos, Treniotas, dar vadintas Vykintu, o kronikoje – Viskintu, buvo patrauktas į organizuojamo maišto pusę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -74,23 +62,5 @@ Pasak Lietuvos (Bychovco) kronikos, Treniotas, dar vadintas Vykintu, o kronikoje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206124
-
-- id: c-197767
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 387"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 387."
-  citata_originali: |
-    Rankraš­
-    tinėje Lietuvos (Bychovco) kronikoje taip apie tai sakoma:
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218047
-
+  pagrindzia:
+    - t-001

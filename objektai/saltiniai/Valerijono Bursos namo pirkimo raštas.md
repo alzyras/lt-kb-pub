@@ -27,6 +27,25 @@ media_all_json: |-
 
 Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvenantiems, būtų šiek tiek palengvintas skur­ dus gyvenimas, kad galėtų pasirūpinti, aišku, malkų, dar­ žovių ir kitų būtinų dalykų, davėme ir šiuo mūsų raštu duo­ dame du naujus, mūsų.
 
+## Teiginiai
+
+<a id="claim-t-88485"></a>
+- t-001
+  teiginys: "Valerijono Bursos studentams buvo duoti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Valerijono bursos: 0.57"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Valerijono bursos: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Namai duodami studentams, gyvenantiems Bursoje, todėl ryšys su Bursa tiesiogiai susijęs, bet objektinis priklausymas nėra visiškai aiškiai suformuluotas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Namas priklausė Valerijono bursos (0.57)"
+  pagrindžia:
+    - c-84464
+
 ## Citatos
 
 - id: c-84464
@@ -58,25 +77,5 @@ Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-88485"></a>
-- t-001
-  teiginys: "Valerijono Bursos studentams buvo duoti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Valerijono bursos: 0.57"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Valerijono bursos: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Namai duodami studentams, gyvenantiems Bursoje, todėl ryšys su Bursa tiesiogiai susijęs, bet objektinis priklausymas nėra visiškai aiškiai suformuluotas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Namas priklausė Valerijono bursos (0.57)"
-  pagrindžia:
-    - c-84464
-

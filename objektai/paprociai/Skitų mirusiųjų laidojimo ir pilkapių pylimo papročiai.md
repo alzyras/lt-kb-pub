@@ -1,6 +1,6 @@
 ---
 tipas: paprotys
-pavadinimas: 'Skitų mirusiųjų laidojimo ir pilkapių pylimo papročiai'
+pavadinimas: Skitų mirusiųjų laidojimo ir pilkapių pylimo papročiai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Skitų mirusiųjų laidojimo ir pilkapių pylimo papročiai
 
@@ -101,7 +98,7 @@ Prie Dnepro gyvenantys senovės skitai iki vėlyvųjų, bemaž mūsų lai kų te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-195790
@@ -123,7 +120,7 @@ Prie Dnepro gyvenantys senovės skitai iki vėlyvųjų, bemaž mūsų lai kų te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-196204
@@ -142,6 +139,5 @@ Prie Dnepro gyvenantys senovės skitai iki vėlyvųjų, bemaž mūsų lai kų te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

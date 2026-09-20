@@ -42,6 +42,33 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-189919"></a>
+- t-001
+  teiginys: "Narbutas rašė, kad senovės lietuviams kapai buvo šventi, o protėvių ar ypatingomis dorybėmis pasižymėjusių asmenų kapams buvo meldžiamasi."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172802
+
+<a id="claim-t-197255"></a>
+- t-002
+  teiginys: "Aplink visą pilkapį ratu eina didokų akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme nų eilės, nukreiptos nuo viršūnės tiesiai į apačią."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179088
+
 ## Citatos
 
 - id: c-172802
@@ -66,6 +93,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179088
   autorius: "Teodoras Narbutas"
@@ -84,79 +113,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198465
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 372"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
-  citata_originali: |
-    Žymiausius laidojo ant kalnelių, greta jų namų. Net
-    pati jų forma rodo tam tikrą jų ryšį su mirusiųjų padėtimi ir
-    aukštomis pareigomis. Aplink visą pilkapį ratu eina didokų
-    akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­
-    tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­
-    nų eilės, nukreiptos nuo viršūnės tiesiai į apačią.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-201026
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 370"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 370."
-  citata_originali: |
-    Ten pat jie sunaikino ir svečių dievuko, vadinto Ce-
-    rokliu, garbinimą; jam atiduodavo pirmąjį maisto kąsnį ir pir­
-    mąją gėrimo taurę23.
-    VII skyrius
-    APIE ŽMOGAUS MIRTIES
-    DALYKUS
-    Kapai
-    Kapai senovės lietuviams buvo šventas dalykas. Jokiu bū­
-    du nederėjo paliesti antkapinių statinių; buvo meldžiamasi net
-    kapams savo protėvių arba asmenų, atmintinų dėl ypatingų
-    dorybių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-217858"></a>
-- t-001
-  teiginys: "Narbutas rašė, kad senovės lietuviams kapai buvo šventi, o protėvių ar ypatingomis dorybėmis pasižymėjusių asmenų kapams buvo meldžiamasi."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-201026
-
-<a id="claim-t-218368"></a>
-- t-002
-  teiginys: "Aplink visą pilkapį ratu eina didokų akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme nų eilės, nukreiptos nuo viršūnės tiesiai į apačią."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198465
-

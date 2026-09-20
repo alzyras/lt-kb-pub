@@ -28,6 +28,21 @@ Per dešimt dienų trukusį žygį į Trakų apylinkes buvo sunaikintas Pavanden
 
 Per dešimt dienų trukusį žygį į Trakų apylinkes buvo sunaikintas Pavandenio valsčius, kuriame gyveno Prūsijos sūduviai.
 
+## Teiginiai
+
+<a id="claim-t-206683"></a>
+- t-001
+  teiginys: "Per dešimt dienų trukusį žygį į Trakų apylinkes buvo sunaikintas Pavandenio valsčius, kuriame gyveno Prūsijos sūduviai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189298
+
 ## Citatos
 
 - id: c-189298
@@ -51,21 +66,5 @@ Per dešimt dienų trukusį žygį į Trakų apylinkes buvo sunaikintas Pavanden
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206683"></a>
-- t-001
-  teiginys: "Per dešimt dienų trukusį žygį į Trakų apylinkes buvo sunaikintas Pavandenio valsčius, kuriame gyveno Prūsijos sūduviai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189298
-

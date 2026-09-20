@@ -35,6 +35,21 @@ Paskirtas šiaurės pagoniškų šalių arkivyskupu, nu vyko pas garsų savo die
 
 Paskirtas šiaurės pagoniškų šalių arkivyskupu, nu vyko pas garsų savo dievotumu ir uolų švento tikėjimo rėmėją imperatorių Henriką II.
 
+## Teiginiai
+
+<a id="claim-t-205114"></a>
+- t-001
+  teiginys: "Paskirtas šiaurės pagoniškų šalių arkivyskupu, nu vyko pas garsų savo dievotumu ir uolų švento tikėjimo rėmėją imperatorių Henriką II."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187999
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Paskirtas šiaurės pagoniškų šalių arkivyskupu, nu vyko pas garsų savo dievotumu ir uolų švento tikėjimo rėmėją imperatorių Henriką II.'
@@ -71,21 +86,5 @@ Paskirtas šiaurės pagoniškų šalių arkivyskupu, nu vyko pas garsų savo die
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205114"></a>
-- t-001
-  teiginys: "Paskirtas šiaurės pagoniškų šalių arkivyskupu, nu vyko pas garsų savo dievotumu ir uolų švento tikėjimo rėmėją imperatorių Henriką II."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187999
-

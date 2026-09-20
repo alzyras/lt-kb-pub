@@ -44,6 +44,27 @@ historical_names: []
 
 Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metais, per tris karalius sausio 6 dieną, Henriką, Romos karalių, vainikavo prie Milano geležiniu vainiku (Ptol.
 
+## Teiginiai
+
+<a id="claim-t-58706"></a>
+- t-001
+  teiginys: "1311 m. sausio 6 d. Romos karalius Henrikas prie Milano buvo vainikuotas geležiniu vainiku."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Romos karalius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Milanas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Romos karalius: mention_match, thing, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Milanas\" parinktas kaip owner_note_path. Targetas \"Romos karalius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1311 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi antraštės ir bibliografinio triukšmo, bet citata palaiko aiškų faktą."
+  pagrindžia:
+    - c-59338
+
 ## Citatos
 
 - id: c-59338
@@ -62,23 +83,5 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-222061"></a>
-- t-001
-  teiginys: "1311 m. sausio 6 d. Romos karalius Henrikas prie Milano buvo vainikuotas geležiniu vainiku."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Romos karalius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Milanas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Romos karalius: mention_match, thing, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Milanas\" parinktas kaip owner_note_path. Targetas \"Romos karalius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1311 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi antraštės ir bibliografinio triukšmo, bet citata palaiko aiškų faktą."
-
+  pagrindzia:
+    - t-001

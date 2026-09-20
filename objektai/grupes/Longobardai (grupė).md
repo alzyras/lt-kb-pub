@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Longobardai (grupė)'
-identifikacija: 'grupė'
+pavadinimas: Longobardai (grupė)
+identifikacija: grupė
 variantai:
-  - 'Longobardai'
+  - Longobardai
 aliases:
-  - 'Longobardai'
+  - Longobardai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Longobardai (grupė)
 
@@ -68,6 +65,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

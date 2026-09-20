@@ -45,36 +45,29 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 
 ## Teiginiai
 
-<a id="claim-t-220996"></a>
-- t-220996
-  teiginys: "M. Perlbachas atskleidė Dusburgiečio kronikos šaltinius ir padėjo tiksliau suvokti veikalo struktūrą."
-  atnaujinta: "2026-09-13 11:42"
+<a id="claim-t-175145"></a>
+- t-001
+  teiginys: "M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206082
-
-<a id="claim-t-225211"></a>
-- t-225211
-  teiginys: "M. Perlbachas rašė apie senesniąją Olivos kroniką."
-  atnaujinta: "2026-09-13 18:04"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Oliva: 0.85"
+  ryšio_patikimumas: "susije_su -> Petras Dusburgietis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "M. Perlbachas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Oliva: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Perlbachas\" parinktas kaip owner_note_path. Targetas \"Oliva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Petras Dusburgietis: mention_match, author, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Perlbachas\" parinktas kaip owner_note_path. Targetas \"Petras Dusburgietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: po 1289 m.; gyvenimo laikotarpis: 1289 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip gyvenimo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai sieja šią nuomonę su M. Perlbachu."
+  pagrindžia:
+    - c-159300
 
-<a id="claim-t-220488"></a>
-- t-220488
+<a id="claim-t-175146"></a>
+- t-002
   teiginys: "M. Perlbachas nagrinėtas aiškinant Dusburgiečio pasakojimo ryšį su 1230 ir 1232 metų popiežiaus bulėmis."
-  atnaujinta: "2026-09-13 18:12"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,7 +78,7 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Perlbachas\" parinktas kaip owner_note_path. Targetas \"Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-202073
+    - c-159299
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -138,6 +131,8 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-159300
   autorius: "Petras Dusburgietis"
@@ -154,6 +149,8 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-159302
   autorius: "Petras Dusburgietis"
@@ -174,62 +171,3 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202073
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 51-52"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 51-52."
-  citata_originali: |
-    Pasakojimą apie didžiojo magistro Hermano iš Zalcos išprašytą teisę skelbti kryžiaus
-
-    Trečia knygos dalis
-
-
-                  BAIGIASI ANTRA KNYGOS DALIS PRASIDEDA TREČIA
-
-               APIE TEUTONŲ NAMŲ ORDINO BROLIŲ KARUS PRIEŠ PRŪSUS
-
-
-                      1. Pirmiausia apie karą su Kulmo žemės gyventojais
-
-       Brolis Hermanas Baikas, Prūsijos magistras, trokšdamas pasitarnauti tikėjimui  ir
-    pasikliaudamas minėtuoju kunigaikščiu bei savo kariuomenės narsumu, persikėlė per
-    Vyslą  į Kulmo žemę ir žemiau prie upės pastatė 1231 viešpaties metais Torunės pilį.
-    Šį statinį įrengė viename ąžuole, kur ir buvo įtaisyti gynimosi kuoras ir sienos, iš visų
-    pusių jį apsupo užtvaromis, palikdami tik vieną įeigą  į pilį. Šie septyni broliai nuolatos
-    laikė netoliese laivus, kad, netikėtai užpuolus prūsams, galėtų nuplaukti į Nešavą, jeigu
-    prispirtų koks reikalas. Ilgainiui įkūrė apie šią pilį miestą, kurį vėliau, palikę pilį toje
-    pačioje vietoje, perkėlė dėl nuolatinių potvynių ten, kur dabar yra Torunės pilis bei
-    miestas184.
-
-    žygį ir apie kryžininkams teikiamas privilegijas Dusburgietis, matyt, parėmė 1230.I.18 ir
-    1232. 1.23 popiežiaus bulėmis (PUB 1, 1, Nr. 72, 87; Perlbach M. Preussisch..., 2, p. 115;
-    PKD, p. 144).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220488
-
-- id: c-206082
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 20"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
-  citata_originali: |
-    Vėliau pasirodžiusios kitų Prūsijos kronikų, Ordino statutų, dokumentų publikacijos leido
-    M. Perlbachui atskleisti kronikos šaltinius ir tiksliau suvokti šio veikalo struktūrą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220996
-

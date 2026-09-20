@@ -48,29 +48,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-185673"></a>
-- t-002
-  teiginys: "Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius Vytenio karius."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Brunonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Brunono puolimą prieš Vytenio lietuvių karius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169034
-
 <a id="claim-t-185672"></a>
-- t-185672
+- t-001
   teiginys: "1298 m. rygiečiams pažadėjus atlyginimą, Vytenis sutelkė kariuomenę ir pagrindines pajėgas atvedė prie Karksio."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -90,10 +71,29 @@ Nenurodyta
   pagrindžia:
     - c-169033
 
+<a id="claim-t-185673"></a>
+- t-002
+  teiginys: "Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius Vytenio karius."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Brunonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Brunono puolimą prieš Vytenio lietuvių karius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169034
+
 <a id="claim-t-185674"></a>
-- t-185674
+- t-003
   teiginys: "Prie Treiderės upės lietuviai atrėmė kryžiuočių puolimą, privertė juos bėgti, o mūšyje žuvo magistras Brunonas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -111,9 +111,9 @@ Nenurodyta
     - c-169035
 
 <a id="claim-t-196281"></a>
-- t-196281
+- t-004
   teiginys: "1298 m. Vytenis pagrindines jėgas atvedė prie Karksio, po apsupties įsiveržė į sutvirtinimus ir paėmė pilį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -124,9 +124,9 @@ Nenurodyta
     - c-169033
 
 <a id="claim-t-196282"></a>
-- t-196282
+- t-005
   teiginys: "Prie Treiderės upės Vytenio padėtis iš pradžių buvo sunki, nes grobį gabenusi kariuomenė buvo išsisklaidžiusi po kaimus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -175,9 +175,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185672
-    - t-196281
+  pagrindzia:
+    - t-001
+    - t-004
 
 - id: c-169034
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -197,14 +197,13 @@ Nenurodyta
     ir priekyje puolė priešai, jie turėjo kariauti, nes ne­
     buvo jokios vilties pabėgti.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-    - t-196282
+    - t-005
 
 - id: c-169035
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -227,6 +226,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185674
-
+  pagrindzia:
+    - t-003

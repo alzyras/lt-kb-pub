@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Didysis Luckas'
+pavadinimas: Didysis Luckas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3423460ff5086b7e5e0e9701"
-canonical_name: "Didysis Luckas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Didysis Luckas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3423460ff5086b7e5e0e9701
+canonical_name: Didysis Luckas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Didysis Luckas
 sameAs: []
-canonical_biography: "Vytautas, būdamas savo pilyje Didžiajame Lucke, pasiuntė pasiuntinius pas Vengrų karalių."
+canonical_biography: 'Vytautas, būdamas savo pilyje Didžiajame Lucke, pasiuntė pasiuntinius pas Vengrų karalių.'
 ---
 # Didysis Luckas
 
@@ -67,6 +66,5 @@ Vytautas, būdamas savo pilyje Didžiajame Lucke, pasiuntė pasiuntinius pas Ven
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

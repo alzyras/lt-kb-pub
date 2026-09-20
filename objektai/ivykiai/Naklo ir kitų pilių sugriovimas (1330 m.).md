@@ -1,10 +1,10 @@
 ---
 tipas: ivykis
-pavadinimas: 'Naklo ir kitų pilių sugriovimas (1330 m.)'
+pavadinimas: Naklo ir kitų pilių sugriovimas (1330 m.)
 variantai:
-  - 'Naklo ir kitų pilių sugriovimas'
+  - Naklo ir kitų pilių sugriovimas
 aliases:
-  - 'Naklo ir kitų pilių sugriovimas'
+  - Naklo ir kitų pilių sugriovimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -15,12 +15,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Naklo ir kitų pilių sugriovimas (1330 m.)
 
@@ -78,6 +75,5 @@ Kariuomenė užėmė vieną pilį, dar dvi pilis ir Naklo pilį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

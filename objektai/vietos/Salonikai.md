@@ -36,6 +36,24 @@ historical_names: []
 
 sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londono, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
 
+## Teiginiai
+
+<a id="claim-t-21793"></a>
+- t-001
+  teiginys: "XVIII–XIX a. sandūroje Salonikai minimi tarp pirmojo žydų pasaulinių kultūros centrų dešimtuko miestų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žydai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Salonikai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Žydai: mention_match, group, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salonikai\" parinktas kaip owner_note_path. Targetas \"Žydai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-24472
+
 ## Citatos
 
 - id: c-24472
@@ -57,24 +75,5 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-21793"></a>
-- t-001
-  teiginys: "XVIII–XIX a. sandūroje Salonikai minimi tarp pirmojo žydų pasaulinių kultūros centrų dešimtuko miestų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žydai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Salonikai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žydai: mention_match, group, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salonikai\" parinktas kaip owner_note_path. Targetas \"Žydai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-24472
-

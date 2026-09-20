@@ -1,29 +1,26 @@
 ---
 tipas: ivykis
-pavadinimas: 'Motiejaus Volončevskio paskyrimas ir įšventinimas į vyskupus'
+pavadinimas: Motiejaus Volončevskio paskyrimas ir įšventinimas į vyskupus
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 datos:
-  - '1849 m.'
-  - '1850 m.'
+  - 1849 m.
+  - 1850 m.
 date_start: '1849'
 date_end: '1850'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Motiejaus Volončevskio paskyrimas ir įšventinimas į vyskupus
 
@@ -69,4 +66,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

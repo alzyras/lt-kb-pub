@@ -60,20 +60,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-211853"></a>
-- t-003
-  teiginys: "Dėl dalyvavimo 1831 m. sukilime turėdamas emigruoti į už sienį, jis tespėjo paskelbti dramatiškiausią Bychovco kronikos fragmentą — pasakojimą apie Vytauto brolio Žygimanto Kęstutaičio nužudymą 1440 m."
-  atnaujinta: "2026-09-12 20:03"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-
-<a id="claim-t-210761"></a>
-- t-210761
+<a id="claim-t-187470"></a>
+- t-001
   teiginys: "Ipolitas Klimaševskis paskelbė Bychovco kronikos pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m."
-  atnaujinta: "2026-09-12 20:03"
+  atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): 0.83"
@@ -88,11 +78,13 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys apie pasakojimo paskelbimą ir jo objektą. Citata tiesiogiai remia Ipolito Klimaševskio veiksmą ir 1440 m. nužudymo temą."
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170441
 
-<a id="claim-t-211325"></a>
-- t-211325
+<a id="claim-t-187471"></a>
+- t-002
   teiginys: "Žygimanto Kęstutaičio nužudymas datuojamas 1440 m."
-  atnaujinta: "2026-09-12 20:03"
+  atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Mogiliovcai: 0.83"
@@ -107,6 +99,8 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Trumpas faktinis sakinys apie įvykį, aiškiai paremtas citata."
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170441
 
 ## Citatos
 
@@ -129,4 +123,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001
+    - t-002

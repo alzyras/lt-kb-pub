@@ -1,11 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'solidus (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: solidus (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'solidus'
+  - solidus
 aliases:
-  - 'solidus'
+  - solidus
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # solidus (sąvoka)
 
@@ -65,6 +62,5 @@ Lukulanumas Odoakrui atnešdavo šešis tūkstančius solidų metinių pajamų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

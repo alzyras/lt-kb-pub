@@ -64,6 +64,16 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
   pagrindžia:
     - c-177957
 
+<a id="claim-t-195541"></a>
+- t-002
+  teiginys: "Lileika pažadėjo pripiršti Grigorą Jokūbui ir pats nuvedė Grigorą į derybas."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177958
+
 <a id="claim-t-195542"></a>
 - t-003
   teiginys: "Derybų pabaigoje Lileika ragino Grigorą laikytis pažado ir negadinti savo žodžio."
@@ -73,16 +83,6 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177956
-
-<a id="claim-t-195541"></a>
-- t-195541
-  teiginys: "Lileika pažadėjo pripiršti Grigorą Jokūbui ir pats nuvedė Grigorą į derybas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177958
 
 ## Citatos
 
@@ -101,12 +101,11 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
     burnos, atsiprašant, kažin ką.
   citata_rodoma: "O tu, Grigorai, sutikęs, davęs žodį, laikykis, nedaryk iš savo burnos, atsiprašant, kažin ką."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-177957
@@ -122,12 +121,11 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
     to rūpesčio.
   citata_rodoma: "Kitas žmogus, Lileika, jis nei samdo nei persisamdo, jis laisvas nuo to rūpesčio."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177958
@@ -143,6 +141,5 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195541
-
+  pagrindzia:
+    - t-002

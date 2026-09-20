@@ -1,14 +1,14 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'pilėnas'
+pavadinimas: pilėnas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1301 m.'
-  - '1302 m.'
-  - '1305 m.'
-  - '1313 m.'
+  - 1301 m.
+  - 1302 m.
+  - 1305 m.
+  - 1313 m.
 date_start: '1301'
 date_end: '1313'
 sukurta: ''
@@ -18,19 +18,29 @@ tags:
   - sąvoka
   - karinis-terminas
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:21:36+00:00","source_checked_at":"2026-09-20T04:21:36+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f3ede459a9ebfa38296a4284","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Istoriniame pasakojime žodis vartojamas asmeniui ar žmonių grupei, siejamai su konkrečia pilimi: „Aukaimio pilėnas“, „pilėnai“ ir „vienas kitas pilėnas“.","context":"Alberto Vijūko-Kojelavičiaus ir Petro Dusburgiečio istoriniuose pasakojimuose apie pilių puolimus, gynėjus ir pilies gyventojus.","support_ids":["t-184634","c-167995","t-184636","c-167997","t-222153","c-202310"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184634","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"internal_claim","claim_id":"t-184636","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"internal_claim","claim_id":"t-222153","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-167995","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Tad nebesitikė­ dami galėsią apgulti pilį, nes to pradėti neleido audra, be to, bijodami pavojaus, kuris galėtų iškilti, jeigu prie­ šui paaiškėtų, kad puolėjų ne tiek daug, jie ryžtingai užpuolė miestą. Pilėnai, kuriems pirmas veržlus ant­ puolis neleido pabėgti, buvo arba išžudyti, arba paimti į nelaisvę, o kurie paspruko į pilį, neteko namų, iš­ plėštų ir sudegintų. Skerdynės čia ėjo didesnės, nei galima buvo tikėtis iš priešų skaičiaus: jų nebuvo dau­ giau kaip trys šimtai samdininkų ir keli kryžiuočių ordino riteriai, o štai grobio buvo tiek, kiek keletas karių galėjo išvežti."},{"kind":"evidence","evidence_id":"c-167997","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Apgula užtruko ištisą mėnesį, tačiau ne dėl to, kad nebuvo A p su p a V ite b s k ą daroma, kas tokiais atvejais reikalinga, o todėl, kad gynė­ jai, ypač Livonijos kariai, klausydami ne tiek Švitri­ gailos skatinimų, kiek įsakymų bei grasinimų, prieši­ nosi iš paskutiniųjų. Galop trisdešimtą dieną Vytauto kariai įsiveržė pro visiškai sugriautus įtvirtinimus į žemutinę pilį. Kovojant dėl miesto sienos, žuvo vienas kitas pilėnas."},{"kind":"evidence","evidence_id":"c-202310","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą, kad, broliams…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f6f5e98099e66258
+object_page_generated_at: '2026-09-20T04:21:36+00:00'
+object_page_source_checked_at: '2026-09-20T04:21:36+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '2'
+object_page_seo_description: 'pilėnas: 1301 m. Aukaimio pilėnas Draika norėjo išsižadėti stabų garbinimo ir slapta kreipėsi pagalbos į Ragainės komtūrą Folradą. 1305 m. Aukaimio pilėnas…'
+object_page_seo_input_hash: c07edb7198f9120e68fc121c81df15d169ae449aeb18d05c4fe6cd5a51b9a301
+object_page_seo_generated_at: '2026-09-20T04:21:36+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # pilėnas
 
@@ -40,22 +50,10 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-210473"></a>
-- t-210473
-  teiginys: "Daumantas prašė savo pilėnų neatiduoti Utenos pilies, kol jis prasiverš pro Narimanto kariuomenę."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193043
-
-<a id="claim-t-222153"></a>
-- t-222153
+<a id="claim-t-58882"></a>
+- t-001
   teiginys: "1301 m. Aukaimio pilėnas Draika norėjo išsižadėti stabų garbinimo ir slapta kreipėsi pagalbos į Ragainės komtūrą Folradą."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ragainė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -68,11 +66,54 @@ media_all_json: |-
   temporaliniai_duomenys: "įvykio data: 1301 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys perrašytas į savarankišką sakinį apie pilėną."
+  pagrindžia:
+    - c-59515
+
+<a id="claim-t-58883"></a>
+- t-002
+  teiginys: "1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukaimis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "pilėnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Aukaimis: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pilėnas\" parinktas kaip owner_note_path. Targetas \"Aukaimis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1305 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-59516
+
+<a id="claim-t-184014"></a>
+- t-003
+  teiginys: "1305 m. Aukaimio pilėnas Svirtilas su visa šeimyna nusekė paskui Ordino brolius ir priėmė krikštą."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Aukaimis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "pilėnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Aukaimis: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pilėnas\" parinktas kaip owner_note_path. Targetas \"Aukaimis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1305 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją."
+  pagrindžia:
+    - c-59516
 
 <a id="claim-t-184634"></a>
-- t-184634
+- t-004
   teiginys: "Gardino užpuolimo metu pilėnai buvo išžudyti, paimti į nelaisvę arba neteko išplėštų ir sudegintų namų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -89,9 +130,9 @@ media_all_json: |-
     - c-167995
 
 <a id="claim-t-184635"></a>
-- t-184635
+- t-005
   teiginys: "Kojelavičiaus pasakojime Bisenės pilėnai narsiai atrėmė užpuolimą, o smarkiai sumuštas priešas pasitraukė nieko nepešęs."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -112,9 +153,9 @@ media_all_json: |-
     - c-167996
 
 <a id="claim-t-184636"></a>
-- t-184636
+- t-006
   teiginys: "Vytauto kariams įsiveržus į žemutinę Vitebsko pilį, kovojant dėl miesto sienos žuvo vienas kitas pilėnas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -128,13 +169,24 @@ media_all_json: |-
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pilėnas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-167995
     - c-167997
 
+<a id="claim-t-194462"></a>
+- t-007
+  teiginys: "Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59516
+
 <a id="claim-t-196386"></a>
-- t-196386
+- t-008
   teiginys: "Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisvę, o pasitraukusieji į pilį neteko išplėštų ir sudegintų namų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -254,6 +306,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-59516
   autorius: "Petras Dusburgietis"
@@ -276,6 +330,10 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+    - t-003
+    - t-007
 
 - id: c-167995
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -313,10 +371,9 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184634
-    - t-184636
-    - t-196386
+  pagrindzia:
+    - t-004
+    - t-008
 
 - id: c-167996
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -350,8 +407,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184635
+  pagrindzia:
+    - t-005
 
 - id: c-167997
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -376,25 +433,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184636
-
-- id: c-193043
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 58."
-  citata_originali: |
-    Kunigaikštis Daumantas suprato, kad ne jo jėgoms
-    atsispirti, ir prašė savo pilėnų, kad jie neatiduotų pi­
-    lies, kol jis nebus prasiveržęs per Narimanto kariuo­
-    menę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210473
-
+  pagrindzia:
+    - t-006

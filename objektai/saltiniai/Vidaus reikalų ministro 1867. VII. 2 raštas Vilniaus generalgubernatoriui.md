@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'Vidaus reikalų ministro 1867. VII. 2 raštas Vilniaus generalgubernatoriui'
+pavadinimas: Vidaus reikalų ministro 1867. VII. 2 raštas Vilniaus generalgubernatoriui
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1347 m.'
-  - '1867 m.'
+  - 1347 m.
+  - 1867 m.
 date_start: '1347'
 date_end: '1867'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
-  - 'XIX'
+  - XIV
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vidaus reikalų ministro 1867. VII. 2 raštas Vilniaus generalgubernatoriui
 

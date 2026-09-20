@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'Mozyriaus apskritinės mokyklos vedėjo 1827. VI. 5 pranešimas Minsko mokyklų direktoriui'
+pavadinimas: Mozyriaus apskritinės mokyklos vedėjo 1827. VI. 5 pranešimas Minsko mokyklų direktoriui
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1827 m.'
-  - '1969 m.'
+  - 1827 m.
+  - 1969 m.
 date_start: '1827'
 date_end: '1969'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
-  - 'XX'
+  - XIX
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Mozyriaus apskritinės mokyklos vedėjo 1827. VI. 5 pranešimas Minsko mokyklų direktoriui
 

@@ -36,6 +36,20 @@ media_all_json: |-
 
 7-oji dalis Lietuvos iros . I Žinios grekonų apie lietuvių bei žemaičių tautą Gilioj senovėj visi tie kraštai, kuriuose šiandien gyvena lietuviai žemaičiai, vadinami prūsais, žem galiais, letvėžais, yra amžina nakčia nežinios apgob ti.
 
+## Teiginiai
+
+<a id="claim-t-201247"></a>
+- t-001
+  teiginys: "7-oji dalis Lietuvos iros . I Žinios grekonų apie lietuvių bei žemaičių tautą Gilioj senovėj visi tie kraštai, kuriuose šiandien gyvena lietuviai žemaičiai, vadinami prūsais, žem galiais, letvėžais, yra amžina nakčia nežinios apgob ti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184597
+
 ## Citatos
 
 - id: c-184597
@@ -60,20 +74,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201247"></a>
-- t-001
-  teiginys: "7-oji dalis Lietuvos iros . I Žinios grekonų apie lietuvių bei žemaičių tautą Gilioj senovėj visi tie kraštai, kuriuose šiandien gyvena lietuviai žemaičiai, vadinami prūsais, žem galiais, letvėžais, yra amžina nakčia nežinios apgob ti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184597
-

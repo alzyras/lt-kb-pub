@@ -45,22 +45,10 @@ Pilviškių vis. Pilviškių vls.
 
 ## Teiginiai
 
-<a id="claim-t-209639"></a>
-- t-209639
-  teiginys: "Pilviškių miestelio šiapus Pilvės ir Šešupės beveik nieko neliko."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192259
-
 <a id="claim-t-42027"></a>
-- t-42027
+- t-001
   teiginys: "1950 m. birželio 22–23 d. Vilkaviškio apskrities Pilviškių valsčiaus Žiūrų-Gudelių apylinkėse MGB pajėgos puolė Tauro apygardos partizanus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilkaviškis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -76,9 +64,9 @@ Pilviškių vis. Pilviškių vls.
     - c-45275
 
 <a id="claim-t-42028"></a>
-- t-42028
+- t-002
   teiginys: "1948 m. vasario 1 d. Vilkaviškio apskrities Pilviškių valsčiaus Gulbiniškių kaime MGB grupė apsupo sodyboje besislėpusius partizanus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gulbiniškiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -111,8 +99,8 @@ Pilviškių vis. Pilviškių vls.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-42028
+  pagrindzia:
+    - t-002
 
 - id: c-45275
   sudarytojas: "Karolis Zikaras"
@@ -130,43 +118,5 @@ Pilviškių vis. Pilviškių vls.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-42027
-
-- id: c-192259
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 39"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 39."
-  citata_originali: |
-    Kas kita už Pilviškių.
-    Pilviškių mies­
-    telio šiapus Pilvės ir
-    Šešupės nieko
-    neliko.
-    Anoj gi pusėje išdeginta klebonija, bet bažny­
-    čia nelytėta.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209639
-
-- id: c-192260
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 55"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 55."
-  citata_originali: |
-    Pradedant Antanavo dvaru,
-    Pilviškių
-    parapijoje iki Liudvinavo ir toliaus pašešupiai
-    labai mažai išliko sveikų ūkių.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

@@ -1,8 +1,8 @@
 ---
 tipas: paprotys
-pavadinimas: 'Blaivybės įžadas ir ganytojiško laiško skaitymas iš ambonos'
+pavadinimas: Blaivybės įžadas ir ganytojiško laiško skaitymas iš ambonos
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Blaivybės įžadas ir ganytojiško laiško skaitymas iš ambonos
 
@@ -38,20 +35,6 @@ Nenurodyta
 
 ## Kontekstas
 Nenurodyta
-
-## Teiginiai
-
-<a id="claim-t-209554"></a>
-- t-001
-  teiginys: "Šitą mano gromatą perskaitys kunigai iš ambonos, per tris pagrečias šventes."
-  atnaujinta: "2026-09-13 13:26"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
-  pagrindžia:
-    - c-192174
 
 ## Santrauka
 
@@ -79,6 +62,19 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
+## Teiginiai
+
+<a id="claim-t-209554"></a>
+- t-001
+  teiginys: "Šitą mano gromatą perskaitys kunigai iš ambonos, per tris pagrečias šventes."
+  atnaujinta: "2026-09-13 13:26"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192174
 

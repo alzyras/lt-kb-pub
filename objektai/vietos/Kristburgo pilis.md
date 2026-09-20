@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Kristburgo pilis'
+pavadinimas: Kristburgo pilis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4dba285de29d7d3932464bd1"
-canonical_name: "Kristburgo pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kristburgo pilis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4dba285de29d7d3932464bd1
+canonical_name: Kristburgo pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kristburgo pilis
 sameAs: []
-canonical_biography: "Kristburgo pilis pastatyta Jėzaus Kristaus garbei ir palikta su karių įgula."
+canonical_biography: Kristburgo pilis pastatyta Jėzaus Kristaus garbei ir palikta su karių įgula.
 ---
 # Kristburgo pilis
 
@@ -66,6 +65,5 @@ Kristburgo pilis pastatyta Jėzaus Kristaus garbei ir palikta su karių įgula.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

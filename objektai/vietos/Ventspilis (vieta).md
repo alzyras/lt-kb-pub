@@ -38,6 +38,20 @@ historical_names: []
 
 (Čia skaitytojas tenedūmoja, jog Kuršas, tai yra Kuresarai, taip didis buvo kaip šiandien; Kuršu tuo kartu vadinos apykaitos Ventspilio (Goldingen), Tukumo ir įtakos Ventos, kur kuresarai gyveno, kiti visi kraštai šios dienos Kuršo vadinos Žemgaliais, tai yra.
 
+## Teiginiai
+
+<a id="claim-t-201141"></a>
+- t-001
+  teiginys: "(Čia skaitytojas tenedūmoja, jog Kuršas, tai yra Kuresarai, taip didis buvo kaip šiandien; Kuršu tuo kartu vadinos apykaitos Ventspilio (Goldingen), Tukumo ir įtakos Ventos, kur kuresarai gyveno, kiti visi kraštai šios dienos Kuršo vadinos Žemgaliais, tai yra."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184491
+
 ## Citatos
 
 - id: c-184491
@@ -62,20 +76,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201141"></a>
-- t-001
-  teiginys: "(Čia skaitytojas tenedūmoja, jog Kuršas, tai yra Kuresarai, taip didis buvo kaip šiandien; Kuršu tuo kartu vadinos apykaitos Ventspilio (Goldingen), Tukumo ir įtakos Ventos, kur kuresarai gyveno, kiti visi kraštai šios dienos Kuršo vadinos Žemgaliais, tai yra."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184491
-

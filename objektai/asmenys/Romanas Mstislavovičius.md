@@ -43,6 +43,60 @@ Po bevaikio kunigaikščio Vladimiro mirties Romanas Mstislavovičius, kaip pasa
 
 Po bevaikio kunigaikščio Vladimiro mirties Romanas Mstislavovičius, kaip pasakoja Teodoras Narbutas, galbūt remdamasis giminyste, pasisavino paveldėjimo teises. Romanas Mstislavovičius, kaip pasakoja Teodoras Narbutas, pavedęs Kijevą Lucko kunigaikščiui Ingvarui, imperatoriaus Aleksandro Komnino III kvietimu nugalėjo Trakiją niokojusius pečenegus, užėmė jų stovyklas ir išlaisvino belaisvius. Romanas Mstislavovičius, kaip pasakoja Teodoras Narbutas, siekdamas įsiteikti uošviui Riurikui, surengė su juo žygį prieš poloviečius, o vėliau be jokios priežasties suėmė Riuriką ir privertė tapti vienuoliu.
 
+## Teiginiai
+
+<a id="claim-t-206086"></a>
+- t-001
+  teiginys: "Po bevaikio kunigaikščio Vladimiro mirties Romanas Mstislavovičius, kaip pasakoja Teodoras Narbutas, galbūt remdamasis giminyste, pasisavino paveldėjimo teises."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188701
+
+<a id="claim-t-206087"></a>
+- t-002
+  teiginys: "Romanas Mstislavovičius, kaip pasakoja Teodoras Narbutas, pavedęs Kijevą Lucko kunigaikščiui Ingvarui, imperatoriaus Aleksandro Komnino III kvietimu nugalėjo Trakiją niokojusius pečenegus, užėmė jų stovyklas ir išlaisvino belaisvius."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188702
+
+<a id="claim-t-206088"></a>
+- t-003
+  teiginys: "Romanas Mstislavovičius, kaip pasakoja Teodoras Narbutas, siekdamas įsiteikti uošviui Riurikui, surengė su juo žygį prieš poloviečius, o vėliau be jokios priežasties suėmė Riuriką ir privertė tapti vienuoliu."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188703
+
+<a id="claim-t-206089"></a>
+- t-004
+  teiginys: "Po 1195 m. Romanas Mstislavovičius, kaip Teodoras Narbutas nurodo remdamasis Strijkovskiu, pavijo iš Voluinės besitraukiančius lietuvius ir jotvingius, atėmė didžiąją dalį grobio ir paėmė daug belaisvių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188704
+
 ## Citatos
 
 - id: c-188701
@@ -60,7 +114,7 @@ Po bevaikio kunigaikščio Vladimiro mirties Romanas Mstislavovičius, kaip pasa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188702
@@ -85,7 +139,7 @@ Po bevaikio kunigaikščio Vladimiro mirties Romanas Mstislavovičius, kaip pasa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-188703
@@ -109,7 +163,7 @@ Po bevaikio kunigaikščio Vladimiro mirties Romanas Mstislavovičius, kaip pasa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-188704
@@ -136,60 +190,5 @@ Po bevaikio kunigaikščio Vladimiro mirties Romanas Mstislavovičius, kaip pasa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-## Teiginiai
-
-<a id="claim-t-206086"></a>
-- t-001
-  teiginys: "Po bevaikio kunigaikščio Vladimiro mirties Romanas Mstislavovičius, kaip pasakoja Teodoras Narbutas, galbūt remdamasis giminyste, pasisavino paveldėjimo teises."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188701
-
-<a id="claim-t-206087"></a>
-- t-002
-  teiginys: "Romanas Mstislavovičius, kaip pasakoja Teodoras Narbutas, pavedęs Kijevą Lucko kunigaikščiui Ingvarui, imperatoriaus Aleksandro Komnino III kvietimu nugalėjo Trakiją niokojusius pečenegus, užėmė jų stovyklas ir išlaisvino belaisvius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188702
-
-<a id="claim-t-206088"></a>
-- t-003
-  teiginys: "Romanas Mstislavovičius, kaip pasakoja Teodoras Narbutas, siekdamas įsiteikti uošviui Riurikui, surengė su juo žygį prieš poloviečius, o vėliau be jokios priežasties suėmė Riuriką ir privertė tapti vienuoliu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188703
-
-<a id="claim-t-206089"></a>
-- t-004
-  teiginys: "Po 1195 m. Romanas Mstislavovičius, kaip Teodoras Narbutas nurodo remdamasis Strijkovskiu, pavijo iš Voluinės besitraukiančius lietuvius ir jotvingius, atėmė didžiąją dalį grobio ir paėmė daug belaisvių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188704
-

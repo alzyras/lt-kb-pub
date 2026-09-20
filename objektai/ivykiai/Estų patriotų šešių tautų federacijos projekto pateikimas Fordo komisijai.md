@@ -1,8 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Estų patriotų šešių tautų federacijos projekto pateikimas Fordo komisijai'
+pavadinimas: Estų patriotų šešių tautų federacijos projekto pateikimas Fordo komisijai
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Estų patriotų šešių tautų federacijos projekto pateikimas Fordo komisijai
 
@@ -91,7 +88,7 @@ Estų patrijotai padavė komisijai be galo įdomų projektų: sudaryti 6 tautų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192422
@@ -109,6 +106,5 @@ Estų patrijotai padavė komisijai be galo įdomų projektų: sudaryti 6 tautų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -1,38 +1,37 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jurijus Ivanovičius Iljiničius'
+pavadinimas: Jurijus Ivanovičius Iljiničius
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1482 m.'
-  - '1489 m.'
+  - 1482 m.
+  - 1489 m.
 date_start: '1482'
 date_end: '1489'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-76abd33ad10ee26f8181440e"
-canonical_name: "Jurijus Ivanovičius Iljiničius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jurijus Ivanovičius Iljiničius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-76abd33ad10ee26f8181440e
+canonical_name: Jurijus Ivanovičius Iljiničius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jurijus Ivanovičius Iljiničius
 sameAs: []
-canonical_biography: "Jurijus Ivanovičius Iljiničius buvo Jono Zaberezinskio žentas."
+canonical_biography: Jurijus Ivanovičius Iljiničius buvo Jono Zaberezinskio žentas.
 ---
 # Jurijus Ivanovičius Iljiničius
 
@@ -76,6 +75,5 @@ Jurijus Ivanovičius Iljiničius buvo Jono Zaberezinskio žentas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

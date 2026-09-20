@@ -46,6 +46,34 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-204057"></a>
+- t-001
+  teiginys: "XV a. antroje pusėje Lietuvos Didžiosios Kunigaikštystės kilmingųjų pasaulyje plito socialinė tvarka, kai dalis smulkiosios ir vidutinės bajorijos buvo tiesiogiai subordinuojama diduomenės valdžiai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186661
+
+<a id="claim-t-204058"></a>
+- t-002
+  teiginys: "Galima manyti, kad XV a. antroje pusėje smulkieji bajorai, siekdami sustiprinti socialinę padėtį ir gauti naujų žemių, pereidavo tarnauti didikams ir galėjo gauti jų herbus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186662
+
 ## Santrauka
 
 XV a. antroje pusėje Lietuvos Didžiosios Kunigaikštystės kilmingųjų pasaulyje plito socialinė tvarka, kai dalis smulkiosios ir vidutinės bajorijos buvo tiesiogiai subordinuojama diduomenės valdžiai. Galima manyti, kad XV a. antroje pusėje smulkieji bajorai, siekdami sustiprinti socialinę padėtį ir gauti naujų žemių, pereidavo tarnauti didikams ir galėjo gauti jų herbus.
@@ -70,7 +98,7 @@ XV a. antroje pusėje Lietuvos Didžiosios Kunigaikštystės kilmingųjų pasaul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186662
@@ -95,34 +123,5 @@ XV a. antroje pusėje Lietuvos Didžiosios Kunigaikštystės kilmingųjų pasaul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-204057"></a>
-- t-001
-  teiginys: "XV a. antroje pusėje Lietuvos Didžiosios Kunigaikštystės kilmingųjų pasaulyje plito socialinė tvarka, kai dalis smulkiosios ir vidutinės bajorijos buvo tiesiogiai subordinuojama diduomenės valdžiai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186661
-
-<a id="claim-t-204058"></a>
-- t-002
-  teiginys: "Galima manyti, kad XV a. antroje pusėje smulkieji bajorai, siekdami sustiprinti socialinę padėtį ir gauti naujų žemių, pereidavo tarnauti didikams ir galėjo gauti jų herbus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186662
-

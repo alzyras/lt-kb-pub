@@ -60,9 +60,9 @@ Lomiai šiame šaltinyje yra gyvenvietė ar vietovė.
     - c-177918
 
 <a id="claim-t-195496"></a>
-- t-195496
+- t-002
   teiginys: "Folkloriniame pasakojime liepiama eiti į Lomius pas Lubiną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -83,12 +83,11 @@ Lomiai šiame šaltinyje yra gyvenvietė ar vietovė.
     neik vienas, veskis ir mane.
   citata_rodoma: "— Ar nepasapnavai šiandien ko gero? Rauleli, kai eisi į Lomius, neik vienas, veskis ir mane."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177919
@@ -107,6 +106,5 @@ Lomiai šiame šaltinyje yra gyvenvietė ar vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195496
-
+  pagrindzia:
+    - t-002

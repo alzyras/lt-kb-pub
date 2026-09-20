@@ -44,6 +44,32 @@ canonical_biography: "Išleisdamas popiežius Lietuvos siuntinius įdavė karūn
 
 Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešti vyskupui Kulmo, liepda mas jam Mintautą apkarūnavoti Lietuvos karalium. Pargrįžus siuntiniams iš Rymo su karūna į Rygą, tuojau mistras Stuklandas pakvietė vyskupą Kulmio Heidenreichą ir. Noris Stuklandas, mistras kalavijonų, bendravos ir bičiuliavos su pačiu Mintautu, karalium Lietuvos, kur sai jį visuomet žmoniškai išvaišinęs ne vien apdo venojo, bet dar toli jį palydėjo, bet jam padėka vojus už vyresnybę, atėjęs antras mistras kalavijonų.
 
+## Teiginiai
+
+<a id="claim-t-201399"></a>
+- t-001
+  teiginys: "Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešti vyskupui Kulmo, liepda mas jam Mintautą apkarūnavoti Lietuvos karalium. Pargrįžus siuntiniams iš Rymo su karūna į Rygą, tuojau mistras Stuklandas pakvietė vyskupą Kulmio Heidenreichą ir."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184749
+
+<a id="claim-t-201400"></a>
+- t-002
+  teiginys: "Noris Stuklandas, mistras kalavijonų, bendravos ir bičiuliavos su pačiu Mintautu, karalium Lietuvos, kur sai jį visuomet žmoniškai išvaišinęs ne vien apdo venojo, bet dar toli jį palydėjo, bet jam padėka vojus už vyresnybę, atėjęs antras mistras kalavijonų."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184750
+
 ## Citatos
 
 - id: c-184749
@@ -75,7 +101,7 @@ Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184750
@@ -101,32 +127,5 @@ Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201399"></a>
-- t-001
-  teiginys: "Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešti vyskupui Kulmo, liepda mas jam Mintautą apkarūnavoti Lietuvos karalium. Pargrįžus siuntiniams iš Rymo su karūna į Rygą, tuojau mistras Stuklandas pakvietė vyskupą Kulmio Heidenreichą ir."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184749
-
-<a id="claim-t-201400"></a>
-- t-002
-  teiginys: "Noris Stuklandas, mistras kalavijonų, bendravos ir bičiuliavos su pačiu Mintautu, karalium Lietuvos, kur sai jį visuomet žmoniškai išvaišinęs ne vien apdo venojo, bet dar toli jį palydėjo, bet jam padėka vojus už vyresnybę, atėjęs antras mistras kalavijonų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184750
-

@@ -35,26 +35,10 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
 
 ## Teiginiai
 
-<a id="claim-t-210205"></a>
-- t-210205
-  teiginys: "`Mezliava` šiame tekste reiškia prievolinę duoklę vyresniesiems."
-  atnaujinta: "2026-09-13 18:04"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Duona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "mezliava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Duona: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"mezliava\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-192832
-
-<a id="claim-t-210212"></a>
-- t-210212
+<a id="claim-t-08677"></a>
+- t-001
   teiginys: "Mezliavą svietas skirdavo ūkės reikalų nuo namų darbo atitrauktiems vyresniesiems išlaikyti."
-  atnaujinta: "2026-09-12 16:28"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Duona: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -65,7 +49,7 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"mezliava\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
-    - c-192832
+    - c-09769
 
 ## Citatos
 
@@ -81,21 +65,5 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-192832
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  puslapiai: "PDF 249"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 249."
-  citata_originali: |
-    Viršiau minavotiems vyresniesiems, kuriuos ūkės reikalai trukino nuo namų darbo, tiems svietas metė mezliavą, kaipo negalintiems patiems sau duonos užpelnyti, kožnas pagal savo knebinį^1073 ; ir taip kurie javus sėjo, tie davė jiems duonos, o jų arkliams avižų, kaipogi toj gadynėj vyresnieji raiti jodė po svietą, ne važiojos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 16:28"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210205
-    - t-210212
-
+  pagrindzia:
+    - t-001

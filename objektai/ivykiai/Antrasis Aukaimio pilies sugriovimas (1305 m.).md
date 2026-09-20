@@ -1,10 +1,10 @@
 ---
 tipas: ivykis
-pavadinimas: 'Antrasis Aukaimio pilies sugriovimas (1305 m.)'
+pavadinimas: Antrasis Aukaimio pilies sugriovimas (1305 m.)
 variantai:
-  - 'Antrasis Aukaimio pilies sugriovimas'
+  - Antrasis Aukaimio pilies sugriovimas
 aliases:
-  - 'Antrasis Aukaimio pilies sugriovimas'
+  - Antrasis Aukaimio pilies sugriovimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -15,12 +15,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Antrasis Aukaimio pilies sugriovimas (1305 m.)
 
@@ -54,6 +51,18 @@ Nenurodyta
   pagrindžia:
     - c-205315
 
+<a id="claim-t-223292"></a>
+- t-223292
+  teiginys: "Kita brolių kariuomenės dalis nusiaubė Aukaimio apylinkes, o 30 krikščionių žuvo nuo kalavijo."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203846
+
 ## Santrauka
 
 Pilėnas Svirtilas išdavė Aukaimio pilį broliams, kurie nužudė vyrus, paėmė moteris ir vaikus bei antrą kartą iki pamatų sugriovė pilį. Kita brolių kariuomenės dalis nusiaubė Aukaimio apylinkes, o 30 krikščionių žuvo nuo kalavijo.
@@ -70,11 +79,13 @@ Pilėnas Svirtilas išdavė Aukaimio pilį broliams, kurie nužudė vyrus, paėm
     ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino.
     Trisdešimt šios kariuomenės krikščionių žuvo nuo kalavijo
   statusas: verified
-  atnaujinta: "2026-09-13 11:39"
+  atnaujinta: "2026-09-13 18:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223292
 
 - id: c-205315
   autorius: "Petras Dusburgietis"

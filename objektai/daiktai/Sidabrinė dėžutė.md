@@ -1,6 +1,6 @@
 ---
 tipas: daiktas
-pavadinimas: 'Sidabrinė dėžutė'
+pavadinimas: Sidabrinė dėžutė
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Sidabrinė dėžutė
 
@@ -75,6 +72,5 @@ Sidabrinėje dėžutėje buvo laikoma šventos mergelės ir kankinės Barboros g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

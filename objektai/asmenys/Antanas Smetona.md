@@ -14,28 +14,40 @@ tags:
   - vyskupas
   - ministras
 amziai:
-  - 'XX'
+  - XX
 periodo_grupes: []
 media_total_count: '5'
 media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F32906224%2F32909451%2Flow%2Fget&type=IMAGE'
 media_primary_canonical_url: 'https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Alytaus_kra_totyros_muziejus_LIMIS_32906224'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'portrait_of'
-media_primary_json: |-
-  {"mediaId":"m-77e41d5606707f0b5384accd","title":"Antanas Smetona","caption":"Antano Smetonos portretas visu ūgiu","originalTitle":"Antanas Smetona","creator":"Unknown","provider":"europeana","providerLabel":"Alytus Museum of Ethnography","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Alytaus_kra_totyros_muziejus_LIMIS_32906224","sourceUrl":"https://www.limis.lt/api/media/32906224/32909451/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F32906224%2F32909451%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/32906224/32909451/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.651460+03:00","reviewedAt":"2026-07-18T14:27:29.605791+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas nespalvotas vyro portretas visu ūgiu, su ūsais, tamsiu kostiumu ir apdovanojimais.","metadataEvidence":"Pavadinimas yra „Antanas Smetona“, o aprašyme konkrečiai nurodyta jo biografija ir prezidento pareigos.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Pateiktas vaizdas ir metaduomenys aiškiai patvirtina asmens tapatybę.","isPrimary":1}
-media_direct_json: |-
-  [{"mediaId":"m-77e41d5606707f0b5384accd","title":"Antanas Smetona","caption":"Antano Smetonos portretas visu ūgiu","originalTitle":"Antanas Smetona","creator":"Unknown","provider":"europeana","providerLabel":"Alytus Museum of Ethnography","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Alytaus_kra_totyros_muziejus_LIMIS_32906224","sourceUrl":"https://www.limis.lt/api/media/32906224/32909451/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F32906224%2F32909451%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/32906224/32909451/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.651460+03:00","reviewedAt":"2026-07-18T14:27:29.605791+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas nespalvotas vyro portretas visu ūgiu, su ūsais, tamsiu kostiumu ir apdovanojimais.","metadataEvidence":"Pavadinimas yra „Antanas Smetona“, o aprašyme konkrečiai nurodyta jo biografija ir prezidento pareigos.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Pateiktas vaizdas ir metaduomenys aiškiai patvirtina asmens tapatybę.","isPrimary":1},{"mediaId":"m-661f30e71870be309d159f8f","title":"Antanas Smetona in Palanga.jpg","caption":"Antanas Smetona su žmonių grupe Palangoje, XX a. 4-ajame dešimtmetyje.","originalTitle":"Antanas Smetona in Palanga.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Kretingos muziejus via Europeana","dateDisplay":"1930s date QS:P,+1930-00-00T00:00:00Z/8","dateStart":null,"dateEnd":null,"width":800,"height":486,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAntanas_Smetona_in_Palanga.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Antanas_Smetona_in_Palanga.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Antanas_Smetona_in_Palanga.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Antanas_Smetona_in_Palanga.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1930 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Antanas Smetona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of Palanga","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:10.066936+03:00","reviewedAt":"2026-07-18T14:26:32.556204+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre matomas iškilmingai apsirengęs vyras, laikantis skrybėlę; aplink jį stovi gausi civilių ir vaikų grupė prie pastato.","metadataEvidence":"Wikimedia Commons įrašo pavadinimas yra „Antanas Smetona in Palanga.jpg“, aprašas tiesiogiai nurodo prezidentą Antaną Smetoną Palangoje, data – XX a. 4-asis dešimtmetis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys tiksliai identifikuoja Antaną Smetoną, o jo atvaizdas matomas grupinės istorinės fotografijos centre.","isPrimary":0},{"mediaId":"m-d5dd0c6672c8ce5f276b9422","title":"Lietuvos Respublikos prezidentas Antanas Smetona su palyda Palangoje","caption":"Antanas Smetona su palyda Palangoje","originalTitle":"Lietuvos Respublikos prezidentas Antanas Smetona su palyda Palangoje","creator":"Unknown","provider":"europeana","providerLabel":"Kretinga Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kretingos_muziejus_LIMIS_6760016","sourceUrl":"https://www.limis.lt/api/media/6760016/6760029/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F6760016%2F6760029%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/6760016/6760029/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.637133+03:00","reviewedAt":"2026-07-18T14:27:29.530730+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas grupinis nespalvotas portretas; centre stovi vyras, atitinkantis aprašytą Antano Smetonos atvaizdą.","metadataEvidence":"Pavadinime ir aprašyme konkrečiai nurodytas Lietuvos Respublikos prezidentas Antanas Smetona (1874–1944), fotografavimo vieta – Palanga.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Antaną Smetoną.","isPrimary":0},{"mediaId":"m-a72dd6d79fd185321daa3eb3","title":"Lietuvos Respublikos prezidentas Antanas Smetona su palyga Palangoje","caption":"Antanas Smetona su palyda Palangoje","originalTitle":"Lietuvos Respublikos prezidentas Antanas Smetona su palyga Palangoje","creator":"Unknown","provider":"europeana","providerLabel":"Kretinga Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kretingos_muziejus_LIMIS_6759975","sourceUrl":"https://www.limis.lt/api/media/6759975/6759988/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F6759975%2F6759988%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/6759975/6759988/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.643275+03:00","reviewedAt":"2026-07-18T14:27:29.595179+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas grupinis nespalvotas portretas; centre stovi vyras, atitinkantis aprašytą Antano Smetonos atvaizdą.","metadataEvidence":"Pavadinime ir aprašyme konkrečiai nurodytas Lietuvos Respublikos prezidentas Antanas Smetona (1874–1944), fotografavimo vieta – Palanga.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Antaną Smetoną.","isPrimary":0}]
-media_contextual_json: |-
-  [{"mediaId":"m-b87e29fe66a7c7bfe78cbe7d","title":"Atvirukas","caption":"Antaną Smetoną vaizduojančio atviruko reversas","originalTitle":"Atvirukas","creator":"Jonas Šileika","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIMIS_160000009734001","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-160000009734001/thumbnail-original/160000009734075.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-160000009734001%2Fthumbnail-original%2F160000009734075.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-160000009734001/thumbnail-original/160000009734075.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Carta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hârtie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Karta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paber","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paperi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papier","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papir","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papír","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papīrs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Popierius","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Páipéar","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T14:26:33.651068+03:00","reviewedAt":"2026-07-18T14:27:29.600062+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XX a. pradžios atviruko reversas su korespondencijos ir adreso laukais bei spaudos ženklais; Smetonos portretas šioje pusėje nematomas.","metadataEvidence":"Aprašyme konkrečiai nurodyta, kad atvirukas vaizduoja pirmąjį Lietuvos prezidentą Antaną Smetoną, taip pat pateiktas autorius ir leidėjas.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Priimtina kaip aiškiai identifikuoto su Smetona susijusio dokumento kontekstinis vaizdas.","isPrimary":0}]
-media_all_json: |-
-  [{"mediaId":"m-77e41d5606707f0b5384accd","title":"Antanas Smetona","caption":"Antano Smetonos portretas visu ūgiu","originalTitle":"Antanas Smetona","creator":"Unknown","provider":"europeana","providerLabel":"Alytus Museum of Ethnography","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Alytaus_kra_totyros_muziejus_LIMIS_32906224","sourceUrl":"https://www.limis.lt/api/media/32906224/32909451/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F32906224%2F32909451%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/32906224/32909451/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.651460+03:00","reviewedAt":"2026-07-18T14:27:29.605791+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas nespalvotas vyro portretas visu ūgiu, su ūsais, tamsiu kostiumu ir apdovanojimais.","metadataEvidence":"Pavadinimas yra „Antanas Smetona“, o aprašyme konkrečiai nurodyta jo biografija ir prezidento pareigos.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Pateiktas vaizdas ir metaduomenys aiškiai patvirtina asmens tapatybę.","isPrimary":1},{"mediaId":"m-661f30e71870be309d159f8f","title":"Antanas Smetona in Palanga.jpg","caption":"Antanas Smetona su žmonių grupe Palangoje, XX a. 4-ajame dešimtmetyje.","originalTitle":"Antanas Smetona in Palanga.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Kretingos muziejus via Europeana","dateDisplay":"1930s date QS:P,+1930-00-00T00:00:00Z/8","dateStart":null,"dateEnd":null,"width":800,"height":486,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAntanas_Smetona_in_Palanga.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Antanas_Smetona_in_Palanga.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Antanas_Smetona_in_Palanga.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Antanas_Smetona_in_Palanga.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1930 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Antanas Smetona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of Palanga","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:10.066936+03:00","reviewedAt":"2026-07-18T14:26:32.556204+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre matomas iškilmingai apsirengęs vyras, laikantis skrybėlę; aplink jį stovi gausi civilių ir vaikų grupė prie pastato.","metadataEvidence":"Wikimedia Commons įrašo pavadinimas yra „Antanas Smetona in Palanga.jpg“, aprašas tiesiogiai nurodo prezidentą Antaną Smetoną Palangoje, data – XX a. 4-asis dešimtmetis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys tiksliai identifikuoja Antaną Smetoną, o jo atvaizdas matomas grupinės istorinės fotografijos centre.","isPrimary":0},{"mediaId":"m-d5dd0c6672c8ce5f276b9422","title":"Lietuvos Respublikos prezidentas Antanas Smetona su palyda Palangoje","caption":"Antanas Smetona su palyda Palangoje","originalTitle":"Lietuvos Respublikos prezidentas Antanas Smetona su palyda Palangoje","creator":"Unknown","provider":"europeana","providerLabel":"Kretinga Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kretingos_muziejus_LIMIS_6760016","sourceUrl":"https://www.limis.lt/api/media/6760016/6760029/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F6760016%2F6760029%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/6760016/6760029/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.637133+03:00","reviewedAt":"2026-07-18T14:27:29.530730+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas grupinis nespalvotas portretas; centre stovi vyras, atitinkantis aprašytą Antano Smetonos atvaizdą.","metadataEvidence":"Pavadinime ir aprašyme konkrečiai nurodytas Lietuvos Respublikos prezidentas Antanas Smetona (1874–1944), fotografavimo vieta – Palanga.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Antaną Smetoną.","isPrimary":0},{"mediaId":"m-a72dd6d79fd185321daa3eb3","title":"Lietuvos Respublikos prezidentas Antanas Smetona su palyga Palangoje","caption":"Antanas Smetona su palyda Palangoje","originalTitle":"Lietuvos Respublikos prezidentas Antanas Smetona su palyga Palangoje","creator":"Unknown","provider":"europeana","providerLabel":"Kretinga Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kretingos_muziejus_LIMIS_6759975","sourceUrl":"https://www.limis.lt/api/media/6759975/6759988/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F6759975%2F6759988%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/6759975/6759988/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.643275+03:00","reviewedAt":"2026-07-18T14:27:29.595179+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas grupinis nespalvotas portretas; centre stovi vyras, atitinkantis aprašytą Antano Smetonos atvaizdą.","metadataEvidence":"Pavadinime ir aprašyme konkrečiai nurodytas Lietuvos Respublikos prezidentas Antanas Smetona (1874–1944), fotografavimo vieta – Palanga.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Antaną Smetoną.","isPrimary":0},{"mediaId":"m-b87e29fe66a7c7bfe78cbe7d","title":"Atvirukas","caption":"Antaną Smetoną vaizduojančio atviruko reversas","originalTitle":"Atvirukas","creator":"Jonas Šileika","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIMIS_160000009734001","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-160000009734001/thumbnail-original/160000009734075.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-160000009734001%2Fthumbnail-original%2F160000009734075.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-160000009734001/thumbnail-original/160000009734075.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Carta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hârtie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Karta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paber","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paperi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papier","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papir","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papír","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papīrs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Popierius","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Páipéar","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T14:26:33.651068+03:00","reviewedAt":"2026-07-18T14:27:29.600062+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XX a. pradžios atviruko reversas su korespondencijos ir adreso laukais bei spaudos ženklais; Smetonos portretas šioje pusėje nematomas.","metadataEvidence":"Aprašyme konkrečiai nurodyta, kad atvirukas vaizduoja pirmąjį Lietuvos prezidentą Antaną Smetoną, taip pat pateiktas autorius ir leidėjas.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Priimtina kaip aiškiai identifikuoto su Smetona susijusio dokumento kontekstinis vaizdas.","isPrimary":0}]
-entity_id: "ent-0b1eb3103c29c2d513a7bb2a"
-canonical_name: "Antanas Smetona (Lietuvos prezidentas, XX a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Antanas Smetona","Antanas Smetona (Lietuvos prezidentas, XX a.)"]
+media_primary_directness: direct
+media_primary_relation_type: portrait_of
+media_primary_json: '{"mediaId":"m-77e41d5606707f0b5384accd","title":"Antanas Smetona","caption":"Antano Smetonos portretas visu ūgiu","originalTitle":"Antanas Smetona","creator":"Unknown","provider":"europeana","providerLabel":"Alytus Museum of Ethnography","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Alytaus_kra_totyros_muziejus_LIMIS_32906224","sourceUrl":"https://www.limis.lt/api/media/32906224/32909451/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F32906224%2F32909451%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/32906224/32909451/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.651460+03:00","reviewedAt":"2026-07-18T14:27:29.605791+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas nespalvotas vyro portretas visu ūgiu, su ūsais, tamsiu kostiumu ir apdovanojimais.","metadataEvidence":"Pavadinimas yra „Antanas Smetona“, o aprašyme konkrečiai nurodyta jo biografija ir prezidento pareigos.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Pateiktas vaizdas ir metaduomenys aiškiai patvirtina asmens tapatybę.","isPrimary":1}'
+media_direct_json: '[{"mediaId":"m-77e41d5606707f0b5384accd","title":"Antanas Smetona","caption":"Antano Smetonos portretas visu ūgiu","originalTitle":"Antanas Smetona","creator":"Unknown","provider":"europeana","providerLabel":"Alytus Museum of Ethnography","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Alytaus_kra_totyros_muziejus_LIMIS_32906224","sourceUrl":"https://www.limis.lt/api/media/32906224/32909451/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F32906224%2F32909451%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/32906224/32909451/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.651460+03:00","reviewedAt":"2026-07-18T14:27:29.605791+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas nespalvotas vyro portretas visu ūgiu, su ūsais, tamsiu kostiumu ir apdovanojimais.","metadataEvidence":"Pavadinimas yra „Antanas Smetona“, o aprašyme konkrečiai nurodyta jo biografija ir prezidento pareigos.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Pateiktas vaizdas ir metaduomenys aiškiai patvirtina asmens tapatybę.","isPrimary":1},{"mediaId":"m-661f30e71870be309d159f8f","title":"Antanas Smetona in Palanga.jpg","caption":"Antanas Smetona su žmonių grupe Palangoje, XX a. 4-ajame dešimtmetyje.","originalTitle":"Antanas Smetona in Palanga.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Kretingos muziejus via Europeana","dateDisplay":"1930s date QS:P,+1930-00-00T00:00:00Z/8","dateStart":null,"dateEnd":null,"width":800,"height":486,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAntanas_Smetona_in_Palanga.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Antanas_Smetona_in_Palanga.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Antanas_Smetona_in_Palanga.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Antanas_Smetona_in_Palanga.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1930 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Antanas Smetona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of Palanga","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:10.066936+03:00","reviewedAt":"2026-07-18T14:26:32.556204+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre matomas iškilmingai apsirengęs vyras, laikantis skrybėlę; aplink jį stovi gausi civilių ir vaikų grupė prie pastato.","metadataEvidence":"Wikimedia Commons įrašo pavadinimas yra „Antanas Smetona in Palanga.jpg“, aprašas tiesiogiai nurodo prezidentą Antaną Smetoną Palangoje, data – XX a. 4-asis dešimtmetis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys tiksliai identifikuoja Antaną Smetoną, o jo atvaizdas matomas grupinės istorinės fotografijos centre.","isPrimary":0},{"mediaId":"m-d5dd0c6672c8ce5f276b9422","title":"Lietuvos Respublikos prezidentas Antanas Smetona su palyda Palangoje","caption":"Antanas Smetona su palyda Palangoje","originalTitle":"Lietuvos Respublikos prezidentas Antanas Smetona su palyda Palangoje","creator":"Unknown","provider":"europeana","providerLabel":"Kretinga Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kretingos_muziejus_LIMIS_6760016","sourceUrl":"https://www.limis.lt/api/media/6760016/6760029/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F6760016%2F6760029%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/6760016/6760029/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.637133+03:00","reviewedAt":"2026-07-18T14:27:29.530730+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas grupinis nespalvotas portretas; centre stovi vyras, atitinkantis aprašytą Antano Smetonos atvaizdą.","metadataEvidence":"Pavadinime ir aprašyme konkrečiai nurodytas Lietuvos Respublikos prezidentas Antanas Smetona (1874–1944), fotografavimo vieta – Palanga.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Antaną Smetoną.","isPrimary":0},{"mediaId":"m-a72dd6d79fd185321daa3eb3","title":"Lietuvos Respublikos prezidentas Antanas Smetona su palyga Palangoje","caption":"Antanas Smetona su palyda Palangoje","originalTitle":"Lietuvos Respublikos prezidentas Antanas Smetona su palyga Palangoje","creator":"Unknown","provider":"europeana","providerLabel":"Kretinga Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kretingos_muziejus_LIMIS_6759975","sourceUrl":"https://www.limis.lt/api/media/6759975/6759988/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F6759975%2F6759988%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/6759975/6759988/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.643275+03:00","reviewedAt":"2026-07-18T14:27:29.595179+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas grupinis nespalvotas portretas; centre stovi vyras, atitinkantis aprašytą Antano Smetonos atvaizdą.","metadataEvidence":"Pavadinime ir aprašyme konkrečiai nurodytas Lietuvos Respublikos prezidentas Antanas Smetona (1874–1944), fotografavimo vieta – Palanga.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Antaną Smetoną.","isPrimary":0}]'
+media_contextual_json: '[{"mediaId":"m-b87e29fe66a7c7bfe78cbe7d","title":"Atvirukas","caption":"Antaną Smetoną vaizduojančio atviruko reversas","originalTitle":"Atvirukas","creator":"Jonas Šileika","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIMIS_160000009734001","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-160000009734001/thumbnail-original/160000009734075.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-160000009734001%2Fthumbnail-original%2F160000009734075.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-160000009734001/thumbnail-original/160000009734075.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Carta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hârtie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Karta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paber","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paperi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papier","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papir","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papír","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papīrs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Popierius","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Páipéar","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T14:26:33.651068+03:00","reviewedAt":"2026-07-18T14:27:29.600062+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XX a. pradžios atviruko reversas su korespondencijos ir adreso laukais bei spaudos ženklais; Smetonos portretas šioje pusėje nematomas.","metadataEvidence":"Aprašyme konkrečiai nurodyta, kad atvirukas vaizduoja pirmąjį Lietuvos prezidentą Antaną Smetoną, taip pat pateiktas autorius ir leidėjas.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Priimtina kaip aiškiai identifikuoto su Smetona susijusio dokumento kontekstinis vaizdas.","isPrimary":0}]'
+media_all_json: '[{"mediaId":"m-77e41d5606707f0b5384accd","title":"Antanas Smetona","caption":"Antano Smetonos portretas visu ūgiu","originalTitle":"Antanas Smetona","creator":"Unknown","provider":"europeana","providerLabel":"Alytus Museum of Ethnography","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Alytaus_kra_totyros_muziejus_LIMIS_32906224","sourceUrl":"https://www.limis.lt/api/media/32906224/32909451/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F32906224%2F32909451%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/32906224/32909451/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.651460+03:00","reviewedAt":"2026-07-18T14:27:29.605791+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas nespalvotas vyro portretas visu ūgiu, su ūsais, tamsiu kostiumu ir apdovanojimais.","metadataEvidence":"Pavadinimas yra „Antanas Smetona“, o aprašyme konkrečiai nurodyta jo biografija ir prezidento pareigos.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Pateiktas vaizdas ir metaduomenys aiškiai patvirtina asmens tapatybę.","isPrimary":1},{"mediaId":"m-661f30e71870be309d159f8f","title":"Antanas Smetona in Palanga.jpg","caption":"Antanas Smetona su žmonių grupe Palangoje, XX a. 4-ajame dešimtmetyje.","originalTitle":"Antanas Smetona in Palanga.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Kretingos muziejus via Europeana","dateDisplay":"1930s date QS:P,+1930-00-00T00:00:00Z/8","dateStart":null,"dateEnd":null,"width":800,"height":486,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAntanas_Smetona_in_Palanga.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Antanas_Smetona_in_Palanga.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Antanas_Smetona_in_Palanga.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Antanas_Smetona_in_Palanga.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1930 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Antanas Smetona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of Palanga","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:10.066936+03:00","reviewedAt":"2026-07-18T14:26:32.556204+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre matomas iškilmingai apsirengęs vyras, laikantis skrybėlę; aplink jį stovi gausi civilių ir vaikų grupė prie pastato.","metadataEvidence":"Wikimedia Commons įrašo pavadinimas yra „Antanas Smetona in Palanga.jpg“, aprašas tiesiogiai nurodo prezidentą Antaną Smetoną Palangoje, data – XX a. 4-asis dešimtmetis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys tiksliai identifikuoja Antaną Smetoną, o jo atvaizdas matomas grupinės istorinės fotografijos centre.","isPrimary":0},{"mediaId":"m-d5dd0c6672c8ce5f276b9422","title":"Lietuvos Respublikos prezidentas Antanas Smetona su palyda Palangoje","caption":"Antanas Smetona su palyda Palangoje","originalTitle":"Lietuvos Respublikos prezidentas Antanas Smetona su palyda Palangoje","creator":"Unknown","provider":"europeana","providerLabel":"Kretinga Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kretingos_muziejus_LIMIS_6760016","sourceUrl":"https://www.limis.lt/api/media/6760016/6760029/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F6760016%2F6760029%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/6760016/6760029/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.637133+03:00","reviewedAt":"2026-07-18T14:27:29.530730+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas grupinis nespalvotas portretas; centre stovi vyras, atitinkantis aprašytą Antano Smetonos atvaizdą.","metadataEvidence":"Pavadinime ir aprašyme konkrečiai nurodytas Lietuvos Respublikos prezidentas Antanas Smetona (1874–1944), fotografavimo vieta – Palanga.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Antaną Smetoną.","isPrimary":0},{"mediaId":"m-a72dd6d79fd185321daa3eb3","title":"Lietuvos Respublikos prezidentas Antanas Smetona su palyga Palangoje","caption":"Antanas Smetona su palyda Palangoje","originalTitle":"Lietuvos Respublikos prezidentas Antanas Smetona su palyga Palangoje","creator":"Unknown","provider":"europeana","providerLabel":"Kretinga Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kretingos_muziejus_LIMIS_6759975","sourceUrl":"https://www.limis.lt/api/media/6759975/6759988/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F6759975%2F6759988%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/6759975/6759988/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pareigybė","label":"pareigybė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:26:33.643275+03:00","reviewedAt":"2026-07-18T14:27:29.595179+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas grupinis nespalvotas portretas; centre stovi vyras, atitinkantis aprašytą Antano Smetonos atvaizdą.","metadataEvidence":"Pavadinime ir aprašyme konkrečiai nurodytas Lietuvos Respublikos prezidentas Antanas Smetona (1874–1944), fotografavimo vieta – Palanga.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Antaną Smetoną.","isPrimary":0},{"mediaId":"m-b87e29fe66a7c7bfe78cbe7d","title":"Atvirukas","caption":"Antaną Smetoną vaizduojančio atviruko reversas","originalTitle":"Atvirukas","creator":"Jonas Šileika","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIMIS_160000009734001","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-160000009734001/thumbnail-original/160000009734075.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-160000009734001%2Fthumbnail-original%2F160000009734075.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-160000009734001/thumbnail-original/160000009734075.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Carta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hârtie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Karta","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paber","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paperi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papier","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papir","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papper","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papír","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Papīrs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Popierius","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Páipéar","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Smetona.md","title":"Antanas Smetona (Lietuvos prezidentas, XX a.)","itemType":"asmuo","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T14:26:33.651068+03:00","reviewedAt":"2026-07-18T14:27:29.600062+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XX a. pradžios atviruko reversas su korespondencijos ir adreso laukais bei spaudos ženklais; Smetonos portretas šioje pusėje nematomas.","metadataEvidence":"Aprašyme konkrečiai nurodyta, kad atvirukas vaizduoja pirmąjį Lietuvos prezidentą Antaną Smetoną, taip pat pateiktas autorius ir leidėjas.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Priimtina kaip aiškiai identifikuoto su Smetona susijusio dokumento kontekstinis vaizdas.","isPrimary":0}]'
+entity_id: ent-0b1eb3103c29c2d513a7bb2a
+canonical_name: 'Antanas Smetona (Lietuvos prezidentas, XX a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Antanas Smetona
+  - 'Antanas Smetona (Lietuvos prezidentas, XX a.)'
 sameAs: []
-canonical_biography: "Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis. Smetonos, „ji liovėsi būti valstybe“. Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius."
+canonical_biography: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis. Smetonos, „ji liovėsi būti valstybe“. Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius.'
+external_sources_json: '[{"title":"Antanas Smetona","url":"https://lt.wikipedia.org/wiki/Antanas_Smetona","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-18T23:38:13+00:00","source_checked_at":"2026-09-18T23:38:13+00:00","counts":{"relations":9,"gallery":5,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Antanas Smetona","url":"https://lt.wikipedia.org/wiki/Antanas_Smetona","publisher":"Vikipedija","language":"lt","article_id":"845","revision_id":"7857895","published_at":"2026-06-16T08:46:11Z","version_pk":"","content_hash":"4445f7196f062f10b71f6e1e026c358f31a104f6efce9c3fd2b9b44de965f435","retrieved_at":"2026-09-18T23:37:32+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Antanas_Smetona&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"845"}},"intro":"Antanas Smetona (1874 m. rugpjūčio 10 d. Užulėnyje, Taujėnų valsčius, Vilkmergės apskr. – 1944 m. sausio 9 d. Klyvlende, JAV) – Pirmosios Lietuvos Respublikos politikas, prezidentas.","original_intro":"","translation_status":"native","infobox":[{"code":"positions","label":"Pareigos","value":"Pirmasis Lietuvos prezidentas; 4-asis Lietuvos prezidentas","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Antanas Smetona","url":"https://lt.wikipedia.org/wiki/Antanas_Smetona","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Antanas_Smetona"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-77e41d5606707f0b5384accd","reason":"visual_verified_identity_primary","identity_verified":true,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-661f30e71870be309d159f8f","relation_type":"depicts"},{"media_id":"m-d5dd0c6672c8ce5f276b9422","relation_type":"portrait_of"},{"media_id":"m-a72dd6d79fd185321daa3eb3","relation_type":"portrait_of"}],"media_verification":{"status":"verified","primary_media_id":"m-77e41d5606707f0b5384accd","candidate_count":4,"visual_verified_count":4,"identity_verified_count":4,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Pateiktas vaizdas ir metaduomenys aiškiai patvirtina asmens tapatybę.","visual_evidence":"Matomas nespalvotas vyro portretas visu ūgiu, su ūsais, tamsiu kostiumu ir apdovanojimais.","metadata_evidence":"Pavadinimas yra „Antanas Smetona“, o aprašyme konkrečiai nurodyta jo biografija ir prezidento pareigos.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/grupes/Lietuvių tautininkų sąjunga","claim_id":"t-44994","confidence":0.72},{"predicate":"gyne","direction":"outbound","target":"objektai/grupes/Žydai","claim_id":"t-77795","confidence":0.66},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Berlynas","claim_id":"t-170303","confidence":0.92},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Portugalija","claim_id":"t-75723","confidence":0.9},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Šveicarija","claim_id":"t-75723","confidence":0.9},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Klivlandas","claim_id":"t-15274","confidence":0.95},{"predicate":"paskyre","direction":"outbound","target":"objektai/asmenys/Juozas Tūbelis","claim_id":"t-170081","confidence":0.95},{"predicate":"paskyre","direction":"inbound","target":"objektai/grupes/Lietuvos Taryba","claim_id":"t-182708","confidence":0.84},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-75710","confidence":0.94}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d236ad9ed8aa4515
+object_page_generated_at: '2026-09-18T23:38:13+00:00'
+object_page_source_checked_at: '2026-09-18T23:38:13+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Antanas Smetona (Lietuvos prezidentas, XX a.): Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo…'
+object_page_seo_input_hash: 35a7d473b49af2101249496caaac4f993228e126795031f960166e3600925a71
+object_page_seo_generated_at: '2026-09-18T23:38:13+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Antanas Smetona (Lietuvos prezidentas, XX a.)
 
@@ -45,26 +57,10 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 
 ## Teiginiai
 
-<a id="claim-t-75726"></a>
-- t-017
-  teiginys: "Antanas Smetona, kaip vienas aršiausių tautininkų kritikų, dėl valdžios baudimų buvo patekęs į kalėjimą."
-  atnaujinta: "2026-05-31 11:59"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-73433
-
 <a id="claim-t-75709"></a>
-- t-75709
+- t-001
   teiginys: "Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad Lietuvoje „vietos visiems užteks“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -78,9 +74,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73446
 
 <a id="claim-t-75710"></a>
-- t-75710
+- t-002
   teiginys: "Vytauto Didžiojo kultas susiejo Antano Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Lietuva: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -95,9 +91,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73436
 
 <a id="claim-t-75711"></a>
-- t-75711
+- t-003
   teiginys: "Vytauto Didžiojo kultas siejo stipraus tautos vado vaizdinį su Antano Smetonos valdoma Lietuvos valstybe."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Lietuva: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -112,9 +108,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73436
 
 <a id="claim-t-75712"></a>
-- t-75712
+- t-004
   teiginys: "1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo viršenybę prieš Seimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -131,9 +127,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73431
 
 <a id="claim-t-75713"></a>
-- t-75713
+- t-005
   teiginys: "1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, lankė maldos namus ir aiškino naujos vadovybės planus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -150,9 +146,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73421
 
 <a id="claim-t-75714"></a>
-- t-75714
+- t-006
   teiginys: "Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> 1926 m. gruodžio 17 d. perversmas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -169,9 +165,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73422
 
 <a id="claim-t-75715"></a>
-- t-75715
+- t-007
   teiginys: "Antanas Smetona Lietuvos demokratiją vadino vaikams per dideliais batais, nes parlamentarizmo tradicija per šešerius metus neįsitvirtino."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -185,9 +181,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73430
 
 <a id="claim-t-75716"></a>
-- t-75716
+- t-008
   teiginys: "Po 1939 m. rudens A. Smetonos autoritarinis režimas netenkino nei dešiniojo lietuvių jaunimo sparno, nei kairiųjų jaunuolių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -202,10 +198,21 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindžia:
     - c-73437
 
+<a id="claim-t-75717"></a>
+- t-009
+  teiginys: "A. Smetona buvo Vilniuje pasilikusio Komiteto pirmininkas."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: po 1930 m.; įvykio data: 1930 m.; įvykio data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-73444
+
 <a id="claim-t-75718"></a>
-- t-75718
+- t-010
   teiginys: "1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, aiškindamas naujos vadovybės planus įvesti tvarką šalyje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -222,9 +229,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73421
 
 <a id="claim-t-75719"></a>
-- t-75719
+- t-011
   teiginys: "1917 m. Lietuvių konferencijoje Vilniuje Antanas Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks Tarybos vidaus prieštaravimus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -240,23 +247,10 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindžia:
     - c-73444
 
-<a id="claim-t-75720"></a>
-- t-75720
-  teiginys: "A. Smetona buvo Vykdomojo Komiteto biuro narys."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1936 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-73435
-    - c-73436
-    - c-73447
-
 <a id="claim-t-75721"></a>
-- t-75721
+- t-012
   teiginys: "A. Smetona 1793–1795 m. LDK padėtį apibūdino kaip laiką, kai ji liovėsi būti valstybe."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1793-1795; įvykio data: 1795 m.; įvykio data: 1934 m.; įvykio data: 1935 m.; įvykio data: 1937 m."
@@ -265,18 +259,18 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73420
 
 <a id="claim-t-75722"></a>
-- t-75722
+- t-013
   teiginys: "Smetona, kuris prisiekė laikytis šalies konstitucijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-73448
 
 <a id="claim-t-75723"></a>
-- t-75723
+- t-014
   teiginys: "1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "mire -> Klivlandas: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -294,9 +288,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73439
 
 <a id="claim-t-75724"></a>
-- t-75724
+- t-015
   teiginys: "1938 m. gegužės 12 d. prezidentas Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -313,9 +307,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73426
 
 <a id="claim-t-75725"></a>
-- t-75725
+- t-016
   teiginys: "Antanas Smetona netrukus pakeitė Klaipėdos nacių teismo skirtą mirties bausmę kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuosius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -331,10 +325,26 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindžia:
     - c-73427
 
+<a id="claim-t-75726"></a>
+- t-017
+  teiginys: "Antanas Smetona, kaip vienas aršiausių tautininkų kritikų, dėl valdžios baudimų buvo patekęs į kalėjimą."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-73433
+
 <a id="claim-t-75727"></a>
-- t-75727
+- t-018
   teiginys: "1936 m. kovą Kaune Antanas Smetona atsakomąja kalba užvėrė duris kompromisui su Lenkija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -351,9 +361,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73450
 
 <a id="claim-t-75728"></a>
-- t-75728
+- t-019
   teiginys: "1927 m. balandžio 12 d. Antanas Smetona prezidento aktu paleido III Seimą ir nustūmė krikščionis demokratus nuo valdžios."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -370,9 +380,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73434
 
 <a id="claim-t-75729"></a>
-- t-75729
+- t-020
   teiginys: "1919 m. rugsėjo 26 d. Kaune prezidentas Antanas Smetona iš balkono sveikino minias po Didžiosios Britanijos de facto pripažinimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -389,9 +399,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73442
 
 <a id="claim-t-75730"></a>
-- t-75730
+- t-021
   teiginys: "Priėmus Lenkijos ultimatumą, Antanui Smetonai artimas kunigas Vladas Mironas pakeitė Juozą Tūbelį premjero poste."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -405,9 +415,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73432
 
 <a id="claim-t-75731"></a>
-- t-75731
+- t-022
   teiginys: "Antano Smetonos režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbančios Lietuvos formavimas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -421,9 +431,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73428
 
 <a id="claim-t-75732"></a>
-- t-75732
+- t-023
   teiginys: "Antanas Smetona ir Augustinas Voldemaras pabrėždavo stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -439,9 +449,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73422
 
 <a id="claim-t-75733"></a>
-- t-75733
+- t-024
   teiginys: "Po 1939 m. rudens nuosaikus Antano Smetonos autoritarinis režimas netenkino nei dešinės radikalų, nei dalies kairiojo jaunimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -457,28 +467,20 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73437
 
 <a id="claim-t-75734"></a>
-- t-75734
+- t-025
   teiginys: "Prezidentas A. Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1793-1795; įvykio data: 1795 m.; įvykio data: 1916 m.; įvykio data: 1918 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-73420
     - c-73427
 
 <a id="claim-t-75735"></a>
-- t-75735
+- t-026
   teiginys: "Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1939 m."
@@ -487,9 +489,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73425
 
 <a id="claim-t-75736"></a>
-- t-75736
+- t-027
   teiginys: "A. Smetona teigė, kad be faktinės Klaipėdos kontrolės Lietuva neturės juridinės kontrolės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Klaipėda: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -503,9 +505,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73423
 
 <a id="claim-t-75737"></a>
-- t-75737
+- t-028
   teiginys: "1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Berlynas: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -523,9 +525,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73419
 
 <a id="claim-t-75738"></a>
-- t-75738
+- t-029
   teiginys: "Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors kalbėjo apie lietuvių tautinės kultūros kūrimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -542,9 +544,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73443
 
 <a id="claim-t-75739"></a>
-- t-75739
+- t-030
   teiginys: "1940 m. birželio 15 d. Antano Smetonos siūlymą priešintis ginklu palaikė vos du ministrai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -561,9 +563,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73435
 
 <a id="claim-t-75740"></a>
-- t-75740
+- t-031
   teiginys: "Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -577,9 +579,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73446
 
 <a id="claim-t-75741"></a>
-- t-75741
+- t-032
   teiginys: "Antano Smetonos valstybės modelio ir režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -594,9 +596,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73428
 
 <a id="claim-t-75742"></a>
-- t-75742
+- t-033
   teiginys: "1926 m. gruodžio 19 d. III Seimo nepaprastajame posėdyje Antanas Smetona išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -612,9 +614,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73448
 
 <a id="claim-t-75743"></a>
-- t-75743
+- t-034
   teiginys: "Antano Smetonos valstybės modelio prioritetai – tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva – iš esmės buvo įgyvendinti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -628,9 +630,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73428
 
 <a id="claim-t-75744"></a>
-- t-75744
+- t-035
   teiginys: "Grėsmės akivaizdoje Antanas Smetona leido Antanui Merkiui pasirašyti bet kokias sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "sutarties data: 1939 m."
@@ -640,9 +642,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73449
 
 <a id="claim-t-75745"></a>
-- t-75745
+- t-036
   teiginys: "1917 m. A. Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks radikaliosios ir konservatyviosios dalių prieštaravimus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -658,9 +660,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73444
 
 <a id="claim-t-75746"></a>
-- t-75746
+- t-037
   teiginys: "Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -678,9 +680,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73443
 
 <a id="claim-t-75747"></a>
-- t-75747
+- t-038
   teiginys: "Po 1939 m. rudens Lietuvos jaunimo dešinės ir kairės radikalų netenkino nuosaikus Antano Smetonos autoritarinis režimas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:30"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -698,9 +700,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73437
 
 <a id="claim-t-75748"></a>
-- t-75748
+- t-039
   teiginys: "1938 m. gegužės 12 d. Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -716,9 +718,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73426
 
 <a id="claim-t-75749"></a>
-- t-75749
+- t-040
   teiginys: "1927 m. paleidęs III Seimą, Antanas Smetona nuo valdžios nustūmė stipriausią šalies politinę jėgą – krikščionis demokratus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -735,9 +737,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73434
 
 <a id="claim-t-75750"></a>
-- t-75750
+- t-041
   teiginys: "Antanas Smetona demokratiją Lietuvoje lygino su per dideliais batais vaikams, nes parlamentarizmo tradicija dar nebuvo įsitvirtinusi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -751,9 +753,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73430
 
 <a id="claim-t-75751"></a>
-- t-75751
+- t-042
   teiginys: "Prezidentas Antanas Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -769,9 +771,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73427
 
 <a id="claim-t-75752"></a>
-- t-75752
+- t-043
   teiginys: "1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai išrinko Antaną Smetoną Lietuvos prezidentu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -787,10 +789,19 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindžia:
     - c-73447
 
+<a id="claim-t-75753"></a>
+- t-044
+  teiginys: "A. Smetona buvo Lietuvos Tarybos narys ir jos pirmininkas."
+  atnaujinta: "2026-07-24 14:55"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-73444
+
 <a id="claim-t-75754"></a>
-- t-75754
+- t-045
   teiginys: "Nuo 1930 m. per Tautos šventę valstybės įstaigas puošdavo dideli Vytauto Didžiojo ir Antano Smetonos portretai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -807,9 +818,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73438
 
 <a id="claim-t-75755"></a>
-- t-75755
+- t-046
   teiginys: "1918 m. kovo 23 d. Antano Smetonos vadovaujama Tarybos delegacija Berlyne pristatė deklaracijos turinį Georgui von Hertlingui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -826,9 +837,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73440
 
 <a id="claim-t-75756"></a>
-- t-75756
+- t-047
   teiginys: "1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai perrinko Antaną Smetoną Lietuvos prezidentu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -844,9 +855,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73447
 
 <a id="claim-t-75757"></a>
-- t-75757
+- t-048
   teiginys: "Konstitucija įteisino autoritarinį A. Smetonos valdymą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -860,9 +871,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73445
 
 <a id="claim-t-75758"></a>
-- t-75758
+- t-049
   teiginys: "1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo pozicijas ir įteisino viršenybę prieš Seimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -879,9 +890,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73431
 
 <a id="claim-t-75760"></a>
-- t-75760
+- t-050
   teiginys: "1918 m. lapkričio 2 d. A. Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1918 m.; įvykio data: 1926-1940; įvykio data: 1927 m.; įvykio data: 1940 m."
@@ -890,9 +901,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73441
 
 <a id="claim-t-75761"></a>
-- t-75761
+- t-051
   teiginys: "1918 m. lapkričio 2 d. Antanas Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -908,9 +919,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73441
 
 <a id="claim-t-75763"></a>
-- t-75763
+- t-052
   teiginys: "Antanas Smetona laikėsi nuostatos, kad be faktinės Klaipėdos kontrolės Lietuva neįgis juridinės krašto kontrolės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Klaipėda: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -924,9 +935,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73423
 
 <a id="claim-t-75764"></a>
-- t-75764
+- t-053
   teiginys: "1928 m. Konstitucija įteisino autoritarinį Antano Smetonos valdymą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -942,9 +953,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73445
 
 <a id="claim-t-75766"></a>
-- t-75766
+- t-054
   teiginys: "A. Smetona buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -958,9 +969,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73433
 
 <a id="claim-t-183525"></a>
-- t-183525
+- t-055
   teiginys: "Antano Smetonos redaguojamos „Vilties“ grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -995,8 +1006,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75737
+  pagrindzia:
+    - t-028
 
 - id: c-73420
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1015,9 +1026,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75721
-    - t-75734
+  pagrindzia:
+    - t-012
 
 - id: c-73421
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1042,9 +1052,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75713
-    - t-75718
+  pagrindzia:
+    - t-005
+    - t-010
 
 - id: c-73422
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1078,9 +1088,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75714
-    - t-75732
+  pagrindzia:
+    - t-006
+    - t-023
 
 - id: c-73423
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1101,9 +1111,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75736
-    - t-75763
+  pagrindzia:
+    - t-027
+    - t-052
 
 - id: c-73425
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1122,8 +1132,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75735
+  pagrindzia:
+    - t-026
 
 - id: c-73426
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1143,9 +1153,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75724
-    - t-75748
+  pagrindzia:
+    - t-015
+    - t-039
 
 - id: c-73427
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1172,10 +1182,10 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75725
-    - t-75734
-    - t-75751
+  pagrindzia:
+    - t-016
+    - t-025
+    - t-042
 
 - id: c-73428
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1195,10 +1205,10 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75731
-    - t-75741
-    - t-75743
+  pagrindzia:
+    - t-022
+    - t-032
+    - t-034
 
 - id: c-73430
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1220,9 +1230,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75715
-    - t-75750
+  pagrindzia:
+    - t-007
+    - t-041
 
 - id: c-73431
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1245,9 +1255,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75712
-    - t-75758
+  pagrindzia:
+    - t-004
+    - t-049
 
 - id: c-73432
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1268,8 +1278,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75730
+  pagrindzia:
+    - t-021
 
 - id: c-73433
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1286,14 +1296,13 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     blicistus; pasėdėjo kalėjime ir aršiausi kritikai tautininkai A. Voldemaras,
     A. Smetona.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
-    - t-75766
+    - t-054
 
 - id: c-73434
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1315,9 +1324,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75728
-    - t-75749
+  pagrindzia:
+    - t-019
+    - t-040
 
 - id: c-73435
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1342,9 +1351,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75720
-    - t-75739
+  pagrindzia:
+    - t-030
 
 - id: c-73436
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1368,10 +1376,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75710
-    - t-75711
-    - t-75720
+  pagrindzia:
+    - t-002
+    - t-003
 
 - id: c-73437
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1395,10 +1402,10 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75716
-    - t-75733
-    - t-75747
+  pagrindzia:
+    - t-008
+    - t-024
+    - t-038
 
 - id: c-73438
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1423,8 +1430,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75754
+  pagrindzia:
+    - t-045
 
 - id: c-73439
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1442,8 +1449,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75723
+  pagrindzia:
+    - t-014
 
 - id: c-73440
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1467,8 +1474,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75755
+  pagrindzia:
+    - t-046
 
 - id: c-73441
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1491,9 +1498,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75760
-    - t-75761
+  pagrindzia:
+    - t-050
+    - t-051
 
 - id: c-73442
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1517,8 +1524,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75729
+  pagrindzia:
+    - t-020
 
 - id: c-73443
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1540,9 +1547,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75738
-    - t-75746
+  pagrindzia:
+    - t-029
+    - t-037
 
 - id: c-73444
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1574,9 +1581,11 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75719
-    - t-75745
+  pagrindzia:
+    - t-009
+    - t-011
+    - t-036
+    - t-044
 
 - id: c-73445
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1595,9 +1604,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75757
-    - t-75764
+  pagrindzia:
+    - t-048
+    - t-053
 
 - id: c-73446
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1620,9 +1629,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75709
-    - t-75740
+  pagrindzia:
+    - t-001
+    - t-031
 
 - id: c-73447
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1643,10 +1652,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75720
-    - t-75752
-    - t-75756
+  pagrindzia:
+    - t-043
+    - t-047
 
 - id: c-73448
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1665,9 +1673,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75722
-    - t-75742
+  pagrindzia:
+    - t-013
+    - t-033
 
 - id: c-73449
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1686,8 +1694,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75744
+  pagrindzia:
+    - t-035
 
 - id: c-73450
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1708,8 +1716,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75727
+  pagrindzia:
+    - t-018
 
 - id: c-166919
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1731,8 +1739,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183525
+  pagrindzia:
+    - t-055
 
 ## Ryšiai
 - Antanas Smetona (Lietuvos prezidentas, XX a.) valdė [[objektai/vietos/Lietuva]]

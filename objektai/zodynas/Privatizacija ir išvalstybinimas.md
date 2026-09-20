@@ -28,6 +28,42 @@ media_all_json: |-
 
 Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų pasaulio ekonomikos standartus. Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės.
 
+## Teiginiai
+
+<a id="claim-t-22018"></a>
+- t-001
+  teiginys: "Po privatizacijos įsivyravo požiūris, kad privatizacija iš esmės buvo neteisinga."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  pagrindžia:
+    - c-24701
+
+<a id="claim-t-183457"></a>
+- t-002
+  teiginys: "Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-166852
+
+<a id="claim-t-193611"></a>
+- t-003
+  teiginys: "Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų pasaulio ekonomikos standartus."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176284
+
 ## Citatos
 
 - id: c-24701
@@ -46,7 +82,7 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166852
@@ -66,7 +102,7 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-176284
@@ -89,42 +125,5 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-22018"></a>
-- t-001
-  teiginys: "Po privatizacijos įsivyravo požiūris, kad privatizacija iš esmės buvo neteisinga."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  pagrindžia:
-    - c-24701
-
-<a id="claim-t-183457"></a>
-- t-002
-  teiginys: "Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-166852
-
-<a id="claim-t-193611"></a>
-- t-003
-  teiginys: "Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų pasaulio ekonomikos standartus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176284
-

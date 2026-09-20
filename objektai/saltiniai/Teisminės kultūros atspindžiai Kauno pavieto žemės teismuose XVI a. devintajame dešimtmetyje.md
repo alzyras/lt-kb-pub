@@ -34,6 +34,20 @@ Teisminės kultūros atspindžiai Kauno pavieto žemės teismuose XVI a.
 
 Teisminės kultūros atspindžiai Kauno pavieto žemės teismuose XVI a.
 
+## Teiginiai
+
+<a id="claim-t-204114"></a>
+- t-001
+  teiginys: "Teisminės kultūros atspindžiai Kauno pavieto žemės teismuose XVI a."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186718
+
 ## Citatos
 
 - id: c-186718
@@ -57,20 +71,5 @@ Teisminės kultūros atspindžiai Kauno pavieto žemės teismuose XVI a.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204114"></a>
-- t-001
-  teiginys: "Teisminės kultūros atspindžiai Kauno pavieto žemės teismuose XVI a."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
-  pagrindžia:
-    - c-186718
-

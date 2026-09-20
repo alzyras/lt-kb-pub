@@ -47,23 +47,10 @@ historical_names: []
 
 ## Teiginiai
 
-<a id="claim-t-208609"></a>
-- t-208609
-  teiginys: "Užpalių parapijos katalikai buvo minimi tarp tikinčiųjų, kurie visiškai atsisakė degtinės."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:51Z"
-  pagrindžia:
-    - c-191229
-
 <a id="claim-t-38157"></a>
-- t-38157
+- t-001
   teiginys: "Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Užpaliai: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -99,34 +86,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-38157
-
-- id: c-191229
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 199"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 199."
-  citata_originali: |
-    Ažudari sawa ausi ant balso piemenio jusu, klausot
-    židu vileima ir pagalwes ažu pekliszku gėrimu jamet
-    wielej jemis mokieti. Kas taj dedas su jumis, wajkaj ma­
-    na? Kitu parapijų Katalikaj, kaipo tai Aniksczcziu, Ute­
-    nos, Užpalu, Kurkiu ir kitu, niegana, kad arielku wisiszkaj
-    ažumete, bet dar iszwidi jogiej suwedžiotojej su winu no­
-    ri jus nu S. blajwistes attraukti, susitarė wisi isz wiena
-    ani wina negerti, o jus rodos swetimos awiniczes aweles,
-    teberugstat arielkoj ir karczemas it sawa gera dabojet.
-  citata_rodoma: "Kitu parapijų Katalikaj, kaipo tai Aniksczcziu, Ute­\nnos, Užpalu, Kurkiu ir kitu, niegana, kad arielku wisiszkaj \nažumete"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208609
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Užėmė Užpaliai: [[objektai/asmenys/P. Genys]]

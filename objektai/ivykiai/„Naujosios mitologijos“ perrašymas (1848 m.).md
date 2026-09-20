@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: '„Naujosios mitologijos“ perrašymas (1848 m.)'
+pavadinimas: „Naujosios mitologijos“ perrašymas (1848 m.)
 variantai:
-  - '„Naujosios mitologijos“ perrašymas'
+  - „Naujosios mitologijos“ perrašymas
 aliases:
-  - '„Naujosios mitologijos“ perrašymas'
+  - „Naujosios mitologijos“ perrašymas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1848 m.'
+  - 1848 m.
 date_start: '1848'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # „Naujosios mitologijos“ perrašymas (1848 m.)
 
@@ -84,6 +81,5 @@ Derybos su spaustuvininkais dėl „Naujosios mitologijos“ išleidimo buvo nes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

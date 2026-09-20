@@ -5,15 +5,15 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - Lietuvos Didžioji Kunigaikštija ir jos tradicija
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1268 m.'
-  - '1292 m.'
+  - 1268 m.
+  - 1292 m.
 date_start: '1268'
 date_end: '1292'
 sukurta: ''
@@ -23,35 +23,383 @@ tags:
   - valdovas
   - kunigaikštis
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '8'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ALithuanian_Grand_Duke_Traidenis.JPG'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'portrait_of'
-media_primary_json: |-
-  {"mediaId":"m-02f2add91092dbf73e98874f","title":"Lithuanian Grand Duke Traidenis.JPG","caption":"Istorinis Traidenio portretas iš Aleksandro Guagninio veikalo.","originalTitle":"Lithuanian Grand Duke Traidenis.JPG","creator":"Alexander Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from be-x-old.wikipedia.org","dateDisplay":"16 th century date QS:P,+1550-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":552,"height":550,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuanian_Grand_Duke_Traidenis.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.624786+03:00","reviewedAt":"2026-07-18T23:43:23.909528+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas viduramžių valdovas su šalmu, šarvais ir apvaliu dekoratyviu rėmu.","metadataEvidence":"Pavadinimas tiesiogiai nurodo „Lithuanian Grand Duke Traidenis“, kūrėjas – Alexander Guagnini.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai įvardytas istorinis Traidenio atvaizdas.","isPrimary":0}
-media_direct_json: |-
-  [{"mediaId":"m-812177fbf5def92ff280c4cc","title":"Traidenis (118503338).jpg","caption":"Istorinis Traidenio portretas iš Aleksandro Guagninio veikalo.","originalTitle":"Traidenis (118503338).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/sarmatiae-evropeae-descriptio-qvae-regnvm-poloniae-litvaniam-samogitiam-rvssiam,MTE4Mjg5NTAx/112/","dateDisplay":"2025-05-30 20:42:20","dateStart":null,"dateEnd":null,"width":1214,"height":1210,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraidenis_%28118503338%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Traidenis_%28118503338%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Traidenis_%28118503338%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Traidenis_%28118503338%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Patrimonium (project)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Evropeae Descriptio (1581)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.637186+03:00","reviewedAt":"2026-07-18T23:43:23.922973+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas valdovas su šalmu ir šarvais, apvestas dekoratyviu apskritu rėmu.","metadataEvidence":"Failo pavadinimas tiesiogiai nurodo „Traidenis“, o kūrėjas – Alessandro Guagnini; atvaizdas iš XVI a. veikalo.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai identifikuotas istorinis Traidenio atvaizdas.","isPrimary":1},{"mediaId":"m-02f2add91092dbf73e98874f","title":"Lithuanian Grand Duke Traidenis.JPG","caption":"Istorinis Traidenio portretas iš Aleksandro Guagninio veikalo.","originalTitle":"Lithuanian Grand Duke Traidenis.JPG","creator":"Alexander Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from be-x-old.wikipedia.org","dateDisplay":"16 th century date QS:P,+1550-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":552,"height":550,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuanian_Grand_Duke_Traidenis.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.624786+03:00","reviewedAt":"2026-07-18T23:43:23.909528+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas viduramžių valdovas su šalmu, šarvais ir apvaliu dekoratyviu rėmu.","metadataEvidence":"Pavadinimas tiesiogiai nurodo „Lithuanian Grand Duke Traidenis“, kūrėjas – Alexander Guagnini.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai įvardytas istorinis Traidenio atvaizdas.","isPrimary":0},{"mediaId":"m-7a4fda6f86d5353e1c00dcf3","title":"Medžio skulptūra „Traidenis, Lietuvos kunigaikštis (1270–1282)“","caption":"Medžio skulptūra „Traidenis, Lietuvos kunigaikštis (1270–1282)“.","originalTitle":"Medžio skulptūra „Traidenis, Lietuvos kunigaikštis (1270–1282)“","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Tauragė Regional Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_609863381","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609863381/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftkm-bucket%2FLIMIS-609863381%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609863381/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Carving","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Drožyba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Entallament","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Intaglio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kerven","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Nikerdamine","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rezbarstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Schnitzen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snideri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snoíodóireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Taillaketa","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Talla","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Řezba","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:44:43.060842+03:00","reviewedAt":"2026-07-18T23:44:59.436640+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma žmogaus figūrą vaizduojanti medžio skulptūra su užrašu „TRAIDENIS LIETUVOS KUNIGAIKŠTIS (1270–1282)“.","metadataEvidence":"Kandidato pavadinimas ir aprašas tiesiogiai identifikuoja skulptūrą kaip Traidenio atvaizdą; nurodytas Tauragės regioninis muziejus ir Europeana įrašas.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – Traidenį – ir tai patvirtina aiškus skulptūros užrašas bei metaduomenys.","isPrimary":0},{"mediaId":"m-801c32d9173bd4352166fda5","title":"Traidenis (99260089).jpg","caption":"Aleksandro Guagninio kronikoje publikuotas įsivaizduojamas Traidenio portretas","originalTitle":"Traidenis (99260089).jpg","creator":"Aleksander Gwagnin","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/sarmatiae-evropeae-descriptio-quae-regnum-poloniae-lituaniam-samogitiam-partem,OTg5MDk1ODM/187/","dateDisplay":"2025-05-30 19:55:14","dateStart":null,"dateEnd":null,"width":797,"height":764,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraidenis_%2899260089%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Traidenis_%2899260089%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Traidenis_%2899260089%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Traidenis_%2899260089%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Patrimonium (project)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio (1578, SD XVI.F.604)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.642401+03:00","reviewedAt":"2026-07-18T23:43:23.926025+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas viduramžių valdovas su šalmu, šarvais ir dekoratyviniu apvaliu rėmu.","metadataEvidence":"Failo pavadinime tiesiogiai nurodytas Traidenis, o kūrėjas – Aleksandras Guagninis; aprašas nurodo XVI a. kronikos iliustraciją.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys kartu aiškiai identifikuoja Traidenio istorinį atvaizdą.","isPrimary":0},{"mediaId":"m-67ef21a08d015481902977c1","title":"Trajdzień.Трайдзень (A. Guagnini, 1578).jpg","caption":"Įsivaizduojamas didžiojo kunigaikščio Traidenio portretas, A. Guagnini, 1578 m.","originalTitle":"Trajdzień.Трайдзень (A. Guagnini, 1578).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":886,"height":861,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.651813+03:00","reviewedAt":"2026-07-18T23:43:23.929909+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas valdovas su šalmu, šarvais ir ornamentuotu apvaliu rėmu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Traidenis; aprašas aiškiai nurodo įsivaizduojamą didžiojo kunigaikščio portretą, sukurtą A. Guagnini 1578 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis, nors ir vėlesnis bei įsivaizduojamas, Traidenio istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-495d1e30c3ee942b1a3b72d3","title":"Trajdzień.Трайдзень (A. Guagnini, 1578, 1581).jpg","caption":"Įsivaizduojamas didžiojo kunigaikščio Traidenio portretas, A. Guagnini, 1578–1581 m.","originalTitle":"Trajdzień.Трайдзень (A. Guagnini, 1578, 1581).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":662,"height":665,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.654352+03:00","reviewedAt":"2026-07-18T23:43:23.933061+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas valdovas su šalmu, šarvais ir ornamentuotu apvaliu rėmu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Traidenis; aprašas aiškiai nurodo įsivaizduojamą portretą, susijusį su A. Guagnini 1578–1581 m. leidiniais.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis, nors ir įsivaizduojamas, Traidenio istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-ff59cadf79990f6aa6dcae20","title":"Trajdzień.Трайдзень (M. Barvicki, 1908).jpg","caption":"Įsivaizduojamas Traidenio portretas, M. Barwicki, 1908 m.","originalTitle":"Trajdzień.Трайдзень (M. Barvicki, 1908).jpg","creator":"Mieczysław Barwicki","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"M. K. Čiurlionis National Art Museum","dateDisplay":"1908","dateStart":null,"dateEnd":null,"width":478,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"ginklas","label":"ginklas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.656897+03:00","reviewedAt":"2026-07-18T23:43:23.935901+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas spalvotai pavaizduotas viduramžių valdovas su šalmu, žvėries kailiu, žvyniniais šarvais ir kardu.","metadataEvidence":"Apraše tiesiogiai nurodyta „An imaginary portrait of Traidenis“, o pavadinime nurodytas Traidenis ir M. Barwicki, 1908 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys tiesiogiai identifikuoja subjektą, o vaizdas yra jo portretinė rekonstrukcija.","isPrimary":0}]
-media_contextual_json: |-
-  [{"mediaId":"m-70908c791b40c8da60855c0c","title":"Sarmatiae Evropeae Descriptio 1581 (118503338).jpg","caption":"1581 m. Guagninio veikalo puslapis su Traidenio atvaizdu ir jį aprašančiu tekstu.","originalTitle":"Sarmatiae Evropeae Descriptio 1581 (118503338).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/sarmatiae-evropeae-descriptio-qvae-regnvm-poloniae-litvaniam-samogitiam-rvssiam,MTE4Mjg5NTAx/112/","dateDisplay":"2025-02-26 10:46:10","dateStart":null,"dateEnd":null,"width":5374,"height":8067,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/86/Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg/1920px-Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/86/Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Patrimonium (project)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Evropeae Descriptio (1581)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T23:41:46.632329+03:00","reviewedAt":"2026-07-18T23:43:23.918805+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Puslapio apačioje matomas apvalus valdovo portretas; greta esantis tekstas mini Troideną ir jo žūtį.","metadataEvidence":"Nurodytas 1581 m. Alessandro Guagnini veikalas; puslapyje matoma Traidenį identifikuojanti antraštė ir iliustracija.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentinis šaltinis aiškiai sieja puslapio portretą ir tekstą su Traideniu.","isPrimary":0}]
-media_all_json: |-
-  [{"mediaId":"m-812177fbf5def92ff280c4cc","title":"Traidenis (118503338).jpg","caption":"Istorinis Traidenio portretas iš Aleksandro Guagninio veikalo.","originalTitle":"Traidenis (118503338).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/sarmatiae-evropeae-descriptio-qvae-regnvm-poloniae-litvaniam-samogitiam-rvssiam,MTE4Mjg5NTAx/112/","dateDisplay":"2025-05-30 20:42:20","dateStart":null,"dateEnd":null,"width":1214,"height":1210,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraidenis_%28118503338%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Traidenis_%28118503338%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Traidenis_%28118503338%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Traidenis_%28118503338%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Patrimonium (project)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Evropeae Descriptio (1581)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.637186+03:00","reviewedAt":"2026-07-18T23:43:23.922973+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas valdovas su šalmu ir šarvais, apvestas dekoratyviu apskritu rėmu.","metadataEvidence":"Failo pavadinimas tiesiogiai nurodo „Traidenis“, o kūrėjas – Alessandro Guagnini; atvaizdas iš XVI a. veikalo.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai identifikuotas istorinis Traidenio atvaizdas.","isPrimary":1},{"mediaId":"m-02f2add91092dbf73e98874f","title":"Lithuanian Grand Duke Traidenis.JPG","caption":"Istorinis Traidenio portretas iš Aleksandro Guagninio veikalo.","originalTitle":"Lithuanian Grand Duke Traidenis.JPG","creator":"Alexander Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from be-x-old.wikipedia.org","dateDisplay":"16 th century date QS:P,+1550-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":552,"height":550,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuanian_Grand_Duke_Traidenis.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.624786+03:00","reviewedAt":"2026-07-18T23:43:23.909528+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas viduramžių valdovas su šalmu, šarvais ir apvaliu dekoratyviu rėmu.","metadataEvidence":"Pavadinimas tiesiogiai nurodo „Lithuanian Grand Duke Traidenis“, kūrėjas – Alexander Guagnini.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai įvardytas istorinis Traidenio atvaizdas.","isPrimary":0},{"mediaId":"m-7a4fda6f86d5353e1c00dcf3","title":"Medžio skulptūra „Traidenis, Lietuvos kunigaikštis (1270–1282)“","caption":"Medžio skulptūra „Traidenis, Lietuvos kunigaikštis (1270–1282)“.","originalTitle":"Medžio skulptūra „Traidenis, Lietuvos kunigaikštis (1270–1282)“","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Tauragė Regional Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_609863381","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609863381/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftkm-bucket%2FLIMIS-609863381%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609863381/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Carving","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Drožyba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Entallament","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Intaglio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kerven","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Nikerdamine","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rezbarstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Schnitzen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snideri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snoíodóireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Taillaketa","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Talla","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Řezba","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:44:43.060842+03:00","reviewedAt":"2026-07-18T23:44:59.436640+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma žmogaus figūrą vaizduojanti medžio skulptūra su užrašu „TRAIDENIS LIETUVOS KUNIGAIKŠTIS (1270–1282)“.","metadataEvidence":"Kandidato pavadinimas ir aprašas tiesiogiai identifikuoja skulptūrą kaip Traidenio atvaizdą; nurodytas Tauragės regioninis muziejus ir Europeana įrašas.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – Traidenį – ir tai patvirtina aiškus skulptūros užrašas bei metaduomenys.","isPrimary":0},{"mediaId":"m-801c32d9173bd4352166fda5","title":"Traidenis (99260089).jpg","caption":"Aleksandro Guagninio kronikoje publikuotas įsivaizduojamas Traidenio portretas","originalTitle":"Traidenis (99260089).jpg","creator":"Aleksander Gwagnin","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/sarmatiae-evropeae-descriptio-quae-regnum-poloniae-lituaniam-samogitiam-partem,OTg5MDk1ODM/187/","dateDisplay":"2025-05-30 19:55:14","dateStart":null,"dateEnd":null,"width":797,"height":764,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraidenis_%2899260089%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Traidenis_%2899260089%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Traidenis_%2899260089%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Traidenis_%2899260089%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Patrimonium (project)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio (1578, SD XVI.F.604)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.642401+03:00","reviewedAt":"2026-07-18T23:43:23.926025+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas viduramžių valdovas su šalmu, šarvais ir dekoratyviniu apvaliu rėmu.","metadataEvidence":"Failo pavadinime tiesiogiai nurodytas Traidenis, o kūrėjas – Aleksandras Guagninis; aprašas nurodo XVI a. kronikos iliustraciją.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys kartu aiškiai identifikuoja Traidenio istorinį atvaizdą.","isPrimary":0},{"mediaId":"m-67ef21a08d015481902977c1","title":"Trajdzień.Трайдзень (A. Guagnini, 1578).jpg","caption":"Įsivaizduojamas didžiojo kunigaikščio Traidenio portretas, A. Guagnini, 1578 m.","originalTitle":"Trajdzień.Трайдзень (A. Guagnini, 1578).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":886,"height":861,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.651813+03:00","reviewedAt":"2026-07-18T23:43:23.929909+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas valdovas su šalmu, šarvais ir ornamentuotu apvaliu rėmu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Traidenis; aprašas aiškiai nurodo įsivaizduojamą didžiojo kunigaikščio portretą, sukurtą A. Guagnini 1578 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis, nors ir vėlesnis bei įsivaizduojamas, Traidenio istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-495d1e30c3ee942b1a3b72d3","title":"Trajdzień.Трайдзень (A. Guagnini, 1578, 1581).jpg","caption":"Įsivaizduojamas didžiojo kunigaikščio Traidenio portretas, A. Guagnini, 1578–1581 m.","originalTitle":"Trajdzień.Трайдзень (A. Guagnini, 1578, 1581).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":662,"height":665,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.654352+03:00","reviewedAt":"2026-07-18T23:43:23.933061+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas valdovas su šalmu, šarvais ir ornamentuotu apvaliu rėmu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Traidenis; aprašas aiškiai nurodo įsivaizduojamą portretą, susijusį su A. Guagnini 1578–1581 m. leidiniais.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis, nors ir įsivaizduojamas, Traidenio istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-ff59cadf79990f6aa6dcae20","title":"Trajdzień.Трайдзень (M. Barvicki, 1908).jpg","caption":"Įsivaizduojamas Traidenio portretas, M. Barwicki, 1908 m.","originalTitle":"Trajdzień.Трайдзень (M. Barvicki, 1908).jpg","creator":"Mieczysław Barwicki","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"M. K. Čiurlionis National Art Museum","dateDisplay":"1908","dateStart":null,"dateEnd":null,"width":478,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"ginklas","label":"ginklas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.656897+03:00","reviewedAt":"2026-07-18T23:43:23.935901+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas spalvotai pavaizduotas viduramžių valdovas su šalmu, žvėries kailiu, žvyniniais šarvais ir kardu.","metadataEvidence":"Apraše tiesiogiai nurodyta „An imaginary portrait of Traidenis“, o pavadinime nurodytas Traidenis ir M. Barwicki, 1908 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys tiesiogiai identifikuoja subjektą, o vaizdas yra jo portretinė rekonstrukcija.","isPrimary":0},{"mediaId":"m-70908c791b40c8da60855c0c","title":"Sarmatiae Evropeae Descriptio 1581 (118503338).jpg","caption":"1581 m. Guagninio veikalo puslapis su Traidenio atvaizdu ir jį aprašančiu tekstu.","originalTitle":"Sarmatiae Evropeae Descriptio 1581 (118503338).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/sarmatiae-evropeae-descriptio-qvae-regnvm-poloniae-litvaniam-samogitiam-rvssiam,MTE4Mjg5NTAx/112/","dateDisplay":"2025-02-26 10:46:10","dateStart":null,"dateEnd":null,"width":5374,"height":8067,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/86/Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg/1920px-Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/86/Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Patrimonium (project)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Evropeae Descriptio (1581)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T23:41:46.632329+03:00","reviewedAt":"2026-07-18T23:43:23.918805+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Puslapio apačioje matomas apvalus valdovo portretas; greta esantis tekstas mini Troideną ir jo žūtį.","metadataEvidence":"Nurodytas 1581 m. Alessandro Guagnini veikalas; puslapyje matoma Traidenį identifikuojanti antraštė ir iliustracija.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentinis šaltinis aiškiai sieja puslapio portretą ir tekstą su Traideniu.","isPrimary":0}]
-entity_id: "ent-0c566e5e36840ea377ae1aa4"
-canonical_name: "Traidenis (valdovas, XIII a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Traidenaičių","Traidenio","Traidenis","Traidenis (valdovas, XIII a.)","Traideniu","Traideniui","Traidenį"]
+media_primary_directness: direct
+media_primary_relation_type: portrait_of
+media_primary_json: '{"mediaId":"m-02f2add91092dbf73e98874f","title":"Lithuanian Grand Duke Traidenis.JPG","caption":"Istorinis Traidenio portretas iš Aleksandro Guagninio veikalo.","originalTitle":"Lithuanian Grand Duke Traidenis.JPG","creator":"Alexander Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from be-x-old.wikipedia.org","dateDisplay":"16 th century date QS:P,+1550-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":552,"height":550,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuanian_Grand_Duke_Traidenis.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.624786+03:00","reviewedAt":"2026-07-18T23:43:23.909528+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas viduramžių valdovas su šalmu, šarvais ir apvaliu dekoratyviu rėmu.","metadataEvidence":"Pavadinimas tiesiogiai nurodo „Lithuanian Grand Duke Traidenis“, kūrėjas – Alexander Guagnini.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai įvardytas istorinis Traidenio atvaizdas.","isPrimary":0}'
+media_direct_json: '[{"mediaId":"m-812177fbf5def92ff280c4cc","title":"Traidenis (118503338).jpg","caption":"Istorinis Traidenio portretas iš Aleksandro Guagninio veikalo.","originalTitle":"Traidenis (118503338).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/sarmatiae-evropeae-descriptio-qvae-regnvm-poloniae-litvaniam-samogitiam-rvssiam,MTE4Mjg5NTAx/112/","dateDisplay":"2025-05-30 20:42:20","dateStart":null,"dateEnd":null,"width":1214,"height":1210,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraidenis_%28118503338%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Traidenis_%28118503338%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Traidenis_%28118503338%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Traidenis_%28118503338%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Patrimonium (project)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Evropeae Descriptio (1581)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.637186+03:00","reviewedAt":"2026-07-18T23:43:23.922973+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas valdovas su šalmu ir šarvais, apvestas dekoratyviu apskritu rėmu.","metadataEvidence":"Failo pavadinimas tiesiogiai nurodo „Traidenis“, o kūrėjas – Alessandro Guagnini; atvaizdas iš XVI a. veikalo.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai identifikuotas istorinis Traidenio atvaizdas.","isPrimary":1},{"mediaId":"m-02f2add91092dbf73e98874f","title":"Lithuanian Grand Duke Traidenis.JPG","caption":"Istorinis Traidenio portretas iš Aleksandro Guagninio veikalo.","originalTitle":"Lithuanian Grand Duke Traidenis.JPG","creator":"Alexander Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from be-x-old.wikipedia.org","dateDisplay":"16 th century date QS:P,+1550-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":552,"height":550,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuanian_Grand_Duke_Traidenis.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.624786+03:00","reviewedAt":"2026-07-18T23:43:23.909528+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas viduramžių valdovas su šalmu, šarvais ir apvaliu dekoratyviu rėmu.","metadataEvidence":"Pavadinimas tiesiogiai nurodo „Lithuanian Grand Duke Traidenis“, kūrėjas – Alexander Guagnini.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai įvardytas istorinis Traidenio atvaizdas.","isPrimary":0},{"mediaId":"m-7a4fda6f86d5353e1c00dcf3","title":"Medžio skulptūra „Traidenis, Lietuvos kunigaikštis (1270–1282)“","caption":"Medžio skulptūra „Traidenis, Lietuvos kunigaikštis (1270–1282)“.","originalTitle":"Medžio skulptūra „Traidenis, Lietuvos kunigaikštis (1270–1282)“","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Tauragė Regional Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_609863381","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609863381/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftkm-bucket%2FLIMIS-609863381%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609863381/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Carving","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Drožyba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Entallament","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Intaglio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kerven","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Nikerdamine","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rezbarstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Schnitzen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snideri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snoíodóireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Taillaketa","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Talla","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Řezba","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:44:43.060842+03:00","reviewedAt":"2026-07-18T23:44:59.436640+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma žmogaus figūrą vaizduojanti medžio skulptūra su užrašu „TRAIDENIS LIETUVOS KUNIGAIKŠTIS (1270–1282)“.","metadataEvidence":"Kandidato pavadinimas ir aprašas tiesiogiai identifikuoja skulptūrą kaip Traidenio atvaizdą; nurodytas Tauragės regioninis muziejus ir Europeana įrašas.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – Traidenį – ir tai patvirtina aiškus skulptūros užrašas bei metaduomenys.","isPrimary":0},{"mediaId":"m-801c32d9173bd4352166fda5","title":"Traidenis (99260089).jpg","caption":"Aleksandro Guagninio kronikoje publikuotas įsivaizduojamas Traidenio portretas","originalTitle":"Traidenis (99260089).jpg","creator":"Aleksander Gwagnin","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/sarmatiae-evropeae-descriptio-quae-regnum-poloniae-lituaniam-samogitiam-partem,OTg5MDk1ODM/187/","dateDisplay":"2025-05-30 19:55:14","dateStart":null,"dateEnd":null,"width":797,"height":764,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraidenis_%2899260089%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Traidenis_%2899260089%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Traidenis_%2899260089%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Traidenis_%2899260089%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Patrimonium (project)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio (1578, SD XVI.F.604)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.642401+03:00","reviewedAt":"2026-07-18T23:43:23.926025+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas viduramžių valdovas su šalmu, šarvais ir dekoratyviniu apvaliu rėmu.","metadataEvidence":"Failo pavadinime tiesiogiai nurodytas Traidenis, o kūrėjas – Aleksandras Guagninis; aprašas nurodo XVI a. kronikos iliustraciją.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys kartu aiškiai identifikuoja Traidenio istorinį atvaizdą.","isPrimary":0},{"mediaId":"m-67ef21a08d015481902977c1","title":"Trajdzień.Трайдзень (A. Guagnini, 1578).jpg","caption":"Įsivaizduojamas didžiojo kunigaikščio Traidenio portretas, A. Guagnini, 1578 m.","originalTitle":"Trajdzień.Трайдзень (A. Guagnini, 1578).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":886,"height":861,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.651813+03:00","reviewedAt":"2026-07-18T23:43:23.929909+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas valdovas su šalmu, šarvais ir ornamentuotu apvaliu rėmu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Traidenis; aprašas aiškiai nurodo įsivaizduojamą didžiojo kunigaikščio portretą, sukurtą A. Guagnini 1578 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis, nors ir vėlesnis bei įsivaizduojamas, Traidenio istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-495d1e30c3ee942b1a3b72d3","title":"Trajdzień.Трайдзень (A. Guagnini, 1578, 1581).jpg","caption":"Įsivaizduojamas didžiojo kunigaikščio Traidenio portretas, A. Guagnini, 1578–1581 m.","originalTitle":"Trajdzień.Трайдзень (A. Guagnini, 1578, 1581).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":662,"height":665,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.654352+03:00","reviewedAt":"2026-07-18T23:43:23.933061+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas valdovas su šalmu, šarvais ir ornamentuotu apvaliu rėmu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Traidenis; aprašas aiškiai nurodo įsivaizduojamą portretą, susijusį su A. Guagnini 1578–1581 m. leidiniais.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis, nors ir įsivaizduojamas, Traidenio istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-ff59cadf79990f6aa6dcae20","title":"Trajdzień.Трайдзень (M. Barvicki, 1908).jpg","caption":"Įsivaizduojamas Traidenio portretas, M. Barwicki, 1908 m.","originalTitle":"Trajdzień.Трайдзень (M. Barvicki, 1908).jpg","creator":"Mieczysław Barwicki","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"M. K. Čiurlionis National Art Museum","dateDisplay":"1908","dateStart":null,"dateEnd":null,"width":478,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"ginklas","label":"ginklas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.656897+03:00","reviewedAt":"2026-07-18T23:43:23.935901+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas spalvotai pavaizduotas viduramžių valdovas su šalmu, žvėries kailiu, žvyniniais šarvais ir kardu.","metadataEvidence":"Apraše tiesiogiai nurodyta „An imaginary portrait of Traidenis“, o pavadinime nurodytas Traidenis ir M. Barwicki, 1908 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys tiesiogiai identifikuoja subjektą, o vaizdas yra jo portretinė rekonstrukcija.","isPrimary":0}]'
+media_contextual_json: '[{"mediaId":"m-70908c791b40c8da60855c0c","title":"Sarmatiae Evropeae Descriptio 1581 (118503338).jpg","caption":"1581 m. Guagninio veikalo puslapis su Traidenio atvaizdu ir jį aprašančiu tekstu.","originalTitle":"Sarmatiae Evropeae Descriptio 1581 (118503338).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/sarmatiae-evropeae-descriptio-qvae-regnvm-poloniae-litvaniam-samogitiam-rvssiam,MTE4Mjg5NTAx/112/","dateDisplay":"2025-02-26 10:46:10","dateStart":null,"dateEnd":null,"width":5374,"height":8067,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/86/Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg/1920px-Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/86/Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Patrimonium (project)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Evropeae Descriptio (1581)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T23:41:46.632329+03:00","reviewedAt":"2026-07-18T23:43:23.918805+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Puslapio apačioje matomas apvalus valdovo portretas; greta esantis tekstas mini Troideną ir jo žūtį.","metadataEvidence":"Nurodytas 1581 m. Alessandro Guagnini veikalas; puslapyje matoma Traidenį identifikuojanti antraštė ir iliustracija.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentinis šaltinis aiškiai sieja puslapio portretą ir tekstą su Traideniu.","isPrimary":0}]'
+media_all_json: '[{"mediaId":"m-812177fbf5def92ff280c4cc","title":"Traidenis (118503338).jpg","caption":"Istorinis Traidenio portretas iš Aleksandro Guagninio veikalo.","originalTitle":"Traidenis (118503338).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/sarmatiae-evropeae-descriptio-qvae-regnvm-poloniae-litvaniam-samogitiam-rvssiam,MTE4Mjg5NTAx/112/","dateDisplay":"2025-05-30 20:42:20","dateStart":null,"dateEnd":null,"width":1214,"height":1210,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraidenis_%28118503338%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Traidenis_%28118503338%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Traidenis_%28118503338%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Traidenis_%28118503338%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Patrimonium (project)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Evropeae Descriptio (1581)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.637186+03:00","reviewedAt":"2026-07-18T23:43:23.922973+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas valdovas su šalmu ir šarvais, apvestas dekoratyviu apskritu rėmu.","metadataEvidence":"Failo pavadinimas tiesiogiai nurodo „Traidenis“, o kūrėjas – Alessandro Guagnini; atvaizdas iš XVI a. veikalo.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai identifikuotas istorinis Traidenio atvaizdas.","isPrimary":1},{"mediaId":"m-02f2add91092dbf73e98874f","title":"Lithuanian Grand Duke Traidenis.JPG","caption":"Istorinis Traidenio portretas iš Aleksandro Guagninio veikalo.","originalTitle":"Lithuanian Grand Duke Traidenis.JPG","creator":"Alexander Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from be-x-old.wikipedia.org","dateDisplay":"16 th century date QS:P,+1550-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":552,"height":550,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuanian_Grand_Duke_Traidenis.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Lithuanian_Grand_Duke_Traidenis.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.624786+03:00","reviewedAt":"2026-07-18T23:43:23.909528+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas viduramžių valdovas su šalmu, šarvais ir apvaliu dekoratyviu rėmu.","metadataEvidence":"Pavadinimas tiesiogiai nurodo „Lithuanian Grand Duke Traidenis“, kūrėjas – Alexander Guagnini.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai įvardytas istorinis Traidenio atvaizdas.","isPrimary":0},{"mediaId":"m-7a4fda6f86d5353e1c00dcf3","title":"Medžio skulptūra „Traidenis, Lietuvos kunigaikštis (1270–1282)“","caption":"Medžio skulptūra „Traidenis, Lietuvos kunigaikštis (1270–1282)“.","originalTitle":"Medžio skulptūra „Traidenis, Lietuvos kunigaikštis (1270–1282)“","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Tauragė Regional Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_609863381","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609863381/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftkm-bucket%2FLIMIS-609863381%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609863381/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Carving","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Drožyba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Entallament","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Intaglio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kerven","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Nikerdamine","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rezbarstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Schnitzen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snideri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snoíodóireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Taillaketa","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Talla","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Řezba","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:44:43.060842+03:00","reviewedAt":"2026-07-18T23:44:59.436640+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma žmogaus figūrą vaizduojanti medžio skulptūra su užrašu „TRAIDENIS LIETUVOS KUNIGAIKŠTIS (1270–1282)“.","metadataEvidence":"Kandidato pavadinimas ir aprašas tiesiogiai identifikuoja skulptūrą kaip Traidenio atvaizdą; nurodytas Tauragės regioninis muziejus ir Europeana įrašas.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – Traidenį – ir tai patvirtina aiškus skulptūros užrašas bei metaduomenys.","isPrimary":0},{"mediaId":"m-801c32d9173bd4352166fda5","title":"Traidenis (99260089).jpg","caption":"Aleksandro Guagninio kronikoje publikuotas įsivaizduojamas Traidenio portretas","originalTitle":"Traidenis (99260089).jpg","creator":"Aleksander Gwagnin","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/sarmatiae-evropeae-descriptio-quae-regnum-poloniae-lituaniam-samogitiam-partem,OTg5MDk1ODM/187/","dateDisplay":"2025-05-30 19:55:14","dateStart":null,"dateEnd":null,"width":797,"height":764,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraidenis_%2899260089%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Traidenis_%2899260089%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Traidenis_%2899260089%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Traidenis_%2899260089%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Patrimonium (project)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio (1578, SD XVI.F.604)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.642401+03:00","reviewedAt":"2026-07-18T23:43:23.926025+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas viduramžių valdovas su šalmu, šarvais ir dekoratyviniu apvaliu rėmu.","metadataEvidence":"Failo pavadinime tiesiogiai nurodytas Traidenis, o kūrėjas – Aleksandras Guagninis; aprašas nurodo XVI a. kronikos iliustraciją.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys kartu aiškiai identifikuoja Traidenio istorinį atvaizdą.","isPrimary":0},{"mediaId":"m-67ef21a08d015481902977c1","title":"Trajdzień.Трайдзень (A. Guagnini, 1578).jpg","caption":"Įsivaizduojamas didžiojo kunigaikščio Traidenio portretas, A. Guagnini, 1578 m.","originalTitle":"Trajdzień.Трайдзень (A. Guagnini, 1578).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":886,"height":861,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.651813+03:00","reviewedAt":"2026-07-18T23:43:23.929909+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas valdovas su šalmu, šarvais ir ornamentuotu apvaliu rėmu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Traidenis; aprašas aiškiai nurodo įsivaizduojamą didžiojo kunigaikščio portretą, sukurtą A. Guagnini 1578 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis, nors ir vėlesnis bei įsivaizduojamas, Traidenio istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-495d1e30c3ee942b1a3b72d3","title":"Trajdzień.Трайдзень (A. Guagnini, 1578, 1581).jpg","caption":"Įsivaizduojamas didžiojo kunigaikščio Traidenio portretas, A. Guagnini, 1578–1581 m.","originalTitle":"Trajdzień.Трайдзень (A. Guagnini, 1578, 1581).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":662,"height":665,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.654352+03:00","reviewedAt":"2026-07-18T23:43:23.933061+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas profiliu pavaizduotas valdovas su šalmu, šarvais ir ornamentuotu apvaliu rėmu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Traidenis; aprašas aiškiai nurodo įsivaizduojamą portretą, susijusį su A. Guagnini 1578–1581 m. leidiniais.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis, nors ir įsivaizduojamas, Traidenio istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-ff59cadf79990f6aa6dcae20","title":"Trajdzień.Трайдзень (M. Barvicki, 1908).jpg","caption":"Įsivaizduojamas Traidenio portretas, M. Barwicki, 1908 m.","originalTitle":"Trajdzień.Трайдзень (M. Barvicki, 1908).jpg","creator":"Mieczysław Barwicki","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"M. K. Čiurlionis National Art Museum","dateDisplay":"1908","dateStart":null,"dateEnd":null,"width":478,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28M._Barvicki%2C_1908%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"ginklas","label":"ginklas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Traidenis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:41:46.656897+03:00","reviewedAt":"2026-07-18T23:43:23.935901+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas spalvotai pavaizduotas viduramžių valdovas su šalmu, žvėries kailiu, žvyniniais šarvais ir kardu.","metadataEvidence":"Apraše tiesiogiai nurodyta „An imaginary portrait of Traidenis“, o pavadinime nurodytas Traidenis ir M. Barwicki, 1908 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys tiesiogiai identifikuoja subjektą, o vaizdas yra jo portretinė rekonstrukcija.","isPrimary":0},{"mediaId":"m-70908c791b40c8da60855c0c","title":"Sarmatiae Evropeae Descriptio 1581 (118503338).jpg","caption":"1581 m. Guagninio veikalo puslapis su Traidenio atvaizdu ir jį aprašančiu tekstu.","originalTitle":"Sarmatiae Evropeae Descriptio 1581 (118503338).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/sarmatiae-evropeae-descriptio-qvae-regnvm-poloniae-litvaniam-samogitiam-rvssiam,MTE4Mjg5NTAx/112/","dateDisplay":"2025-02-26 10:46:10","dateStart":null,"dateEnd":null,"width":5374,"height":8067,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/86/Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg/1920px-Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/86/Sarmatiae_Evropeae_Descriptio_1581_%28118503338%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Patrimonium (project)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Evropeae Descriptio (1581)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Traidenis.md","title":"Traidenis (valdovas, XIII a.)","itemType":"asmuo","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T23:41:46.632329+03:00","reviewedAt":"2026-07-18T23:43:23.918805+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Puslapio apačioje matomas apvalus valdovo portretas; greta esantis tekstas mini Troideną ir jo žūtį.","metadataEvidence":"Nurodytas 1581 m. Alessandro Guagnini veikalas; puslapyje matoma Traidenį identifikuojanti antraštė ir iliustracija.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentinis šaltinis aiškiai sieja puslapio portretą ir tekstą su Traideniu.","isPrimary":0}]'
+entity_id: ent-0c566e5e36840ea377ae1aa4
+canonical_name: 'Traidenis (valdovas, XIII a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Traidenaičių
+  - Traidenio
+  - Traidenis
+  - 'Traidenis (valdovas, XIII a.)'
+  - Traideniu
+  - Traideniui
+  - Traidenį
 sameAs: []
-canonical_biography: "Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu baltų žemių jungėju. Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I dukterį Liudmilą. 1279 m. Traidenio dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą."
+canonical_biography: Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu baltų žemių jungėju. Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I dukterį Liudmilą. 1279 m. Traidenio dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą.
+external_sources_json: '[{"title":"Traidenis","url":"https://lt.wikipedia.org/wiki/Traidenis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Traidenis","url":"https://www.vle.lt/straipsnis/traidenis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""},{"title":"Traidenis - Wikipedia","url":"https://en.wikipedia.org/wiki/Traidenis","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""},{"title":"Traidenis – Wikipedia","url":"https://de.wikipedia.org/wiki/Traidenis","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T03:02:33+00:00","source_checked_at":"2026-09-19T03:02:33+00:00","counts":{"relations":14,"gallery":8,"sources":12},"featured_claim_ids":["t-223988","t-90052","t-05202","t-196604","t-207450","t-214822","t-05203"],"featured_claims":[{"claim_id":"t-223988","text":"1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario, siekdamas sulaikyti kryžiuočius nuo Sūduvos.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-206152"]},{"claim_id":"t-90052","text":"1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje.","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","evidence_ids":["c-42277"]},{"claim_id":"t-05202","text":"1279 m. Traidenio dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-04836"]},{"claim_id":"t-196604","text":"Kojelavičiaus pasakojime tariami valstiečiai nužudė Traidenį, kai jis su tarnais ir kraujo nuleidėju išėjo iš pirties.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-178793"]},{"claim_id":"t-207450","text":"Alfredas Bumblauskas nurodo, kad Traidenio valdymo metu antrojoje XIII a. pusėje Kernavė galėjo tapti sostine, nes valdovas joje rezidavo.","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","evidence_ids":["c-190083"]},{"claim_id":"t-214822","text":"Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-194570"]},{"claim_id":"t-05203","text":"Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-04837"]}],"featured_quote":{"text":"Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I dukterį Liudmilą^230.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","claim_id":"t-05201","evidence_id":"c-04835","origin":"internal"},"wiki":{"status":"published","source":{"title":"Traidenis","url":"https://lt.wikipedia.org/wiki/Traidenis","publisher":"Vikipedija","language":"lt","article_id":"27705","revision_id":"7770784","published_at":"2026-03-06T02:52:42Z","version_pk":"","content_hash":"1c1792cefe51ede729e631133df4962c9b49a2953649c629062bfcb21a5efc27","retrieved_at":"2026-09-19T02:59:24+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Traidenis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"27705"}},"intro":"Traidenis (rus. Тройден, Тройдень, Трайден, Тридъ, vok. Theuderin, Thoreiden, Traydene, m. apie 1282 m.) – Lietuvos didysis kunigaikštis, valdęs nuo 1269 m. iki 1282 m. Jis laikomas vienu energingiausių ankstyvosios Lietuvos valdovų, sugebėjusiu stabilizuoti valstybę po sumaišties, kilusios po karaliaus Mindaugo nužudymo.","original_intro":"","translation_status":"native","infobox":[{"code":"positions","label":"Pareigos","value":"Lietuvos didysis kunigaikštis; left|30pxLietuvos didysis kunigaikštis","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1282 m.","source":"wikipedia_infobox"},{"code":"spouse","label":"Sutuoktiniai","value":"Ona Mazovietė","source":"wikipedia_infobox"},{"code":"children","label":"Vaikai","value":"Gaudemunda","source":"wikipedia_infobox"},{"code":"reign","label":"Valdymas","value":"1268 ar 1269 iki 1282(?)","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Traidenis","url":"https://lt.wikipedia.org/wiki/Traidenis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Traidenis","url":"https://www.vle.lt/straipsnis/traidenis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Traidenis","https://www.vle.lt/straipsnis/traidenis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"9129e40cc2083eb3aeaf50df","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Kernavės kunigaikštis","context":"A. Šapoka (red.), Lietuvos istorija (1936 m.) teigia: „Pirmasis iškilo Kernavės kunigaikštis Traidenis.“","support_ids":["t-90048","c-85937"],"source_refs":[{"kind":"internal_claim","claim_id":"t-90048","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-85937","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Pirmasis iškilo Kernavės kunigaikštis Traidenis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2b8ca6f8a0b4ddd3a9c7cb2b","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Jotvingijos ir Dainavos kunigaikštis, priklausomas nuo Lietuvos didžiojo kunigaikščio ir mokėjęs duoklę","context":"Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), taip apibūdina Traidenį savo pasakojime apie 1268 m.","support_ids":["t-214822","c-194570"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214822","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194570","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Siekdamas padaryti tam galą, Lietuvos didysis kunigaikštis Narimantas apie 1268 metus įsiveržė su kariuomene į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą. Juo tapo tikras Narimanto brolis Traidenis, kuris buvo Jotvingijos ir Dainavos kunigaikštis su priklausomybės nuo Lietuvos didžiojo kunigaikščio ir tam tikros duoklės mokėjimo pa­ reiga. Sis kunigaikštis pastatė Raigardo pilį, vedė Mazo­ vijos kunigaikštytę, kuri pagimdė jam garsų lietuvių isto­ rijoje Romuntą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"28a3da2316104bb53d258724","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Vadovavo kariuomenei kaip vyriausiasis vadas","context":"Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), pasakoja, kad Traidenis dar Romuntui gyvam esant vadovavo kariuomenei; tai pateikiama kaip autoriaus perteikiamas pasakojimas.","support_ids":["t-184844","c-168205"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184844","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168205","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Kaip tei­ giama įvairių rašytojų, Ro­ muntas paliko penketą sūnų, tačiau artesnis tiesai vos ke­ lių šaltinių minimas pasakojimas, jog jis mirė bevai­ kis. Mat tie, kurie vadinami jo sūnumis, buvo jau to­ kio amžiaus, kad jauniausias iš jų, Traidenis, Romun- tui dar gyvam esant, vadovavo kariuomenei kaip vyriausiasis vadas. Vargu ar galima patikėti, kad per tokį trumpą laiką po Šventaragio mirties (tai yra vos per dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­ džiais jaunikaičiais, bet ir vyrais, galinčiais valstybę valdyti."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5f203480013bcdffd7bfcb41","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"1272 m. pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną","context":"Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), aprašo šį veiksmą pietuose atrėmus priešo atakas.","support_ids":["t-90052","c-42277"],"source_refs":[{"kind":"internal_claim","claim_id":"t-90052","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-42277","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Pats Traidenis, pietuose atrėmęs priešo atakas, 1272 m. prie Vakarų Bugo, pasiuntęs ten gardiniečius, užėmė Drohičiną (dab. Rytų Lenkijoje), strateginį punktą, svarbų santykiams su Lenkija, Pietvakarių Rusia ir jotvingių žemės gynybai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8bc3328078a1bce371334a64","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį, siekdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes","context":"Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), šį veiksmą datuoja 1281 m.","support_ids":["t-223988","c-206152"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223988","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-206152","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":") Ordino valdas pavyslyje iki Kristburgo (III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III, 204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes, pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"db86042816430b036aa01227","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Įsiveržė į Dobrynės žemę kartu su Ziemovitu","context":"Michał Baliński, Vilniaus miesto istorija (2007 m.), remiasi viename dokumente pateikiamu pasakojimu.","support_ids":["t-90050","c-85940"],"source_refs":[{"kind":"internal_claim","claim_id":"t-90050","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-85940","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"3 yra paminėję. Viename dokumen­ te, apie kurį vėliau smulkiau kalbė­ sime, pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę. Qui prophanus dux David paulo ante indictas treugas pre- dictas Ingrediens cum valido exercitu Litwanorum terram Dobrinens."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d9b20583745d850d6b41358d","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi","context":"Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), taip apibūdina Traidenį po jo mirties.","support_ids":["t-05203","c-04837"],"source_refs":[{"kind":"internal_claim","claim_id":"t-05203","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-04837","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Po mirties Traidenio, kuris pirmasis iš Lietuvos XIII amž. valdovų mirė savo mirtimi, neberandama pėdsakų apie sukrėtimus, ar maištus, kurie buvo lydėję Mindaugo nužudymą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d70bce6814616168beb5be43","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Narbutas teigia, kad Traidenio užpuolimai galutinai įerzino lenkus ir prisidėjo prie jotvingių katastrofos 1282 m.","context":"Teodoro Narbuto, Lietuvių tautos istorija, t. 2 (1995 m.), autoriaus vertinimas apie Traidenio veiksmų pasekmes vakarinėje Jotvingijoje.","support_ids":["t-214748","c-194733"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214748","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194733","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be to, Traidenis vakarinėje Jotvingijoje paliko visos tautos pražūties užuomazgą, nes savo užpuolimais galutinai įer­ zino lenkus, kurie, Lešeko Juodojo vadovaujami, 1282 me­ tais prie Narevo įvykdė tai, ką jotvingiams skyrė nelai­ minga lemtis: jie visi buvo užklupti prie garsėjusios dau­ geliu kraujo praliejimų Ostrolenkos. Tačiau jotvingiai paniekino nelaisvę ir leidosi visi iškapojami."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Traidenis – XIII amžiaus Lietuvos valdovas, kurio veikla siejama su valstybės gynyba, politiniais ryšiais ir rezidavimu Kernavėje. 1272 m. jis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje – strategiškai svarbų punktą santykiams su Lenkija, Pietvakarių Rusia ir jotvingių žemių gynybai. 1281 m., siekdamas sustabdyti kryžiuočių veržimąsi į Sūduvą, Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario. Jo šeimos ryšiai siekė Mazoviją: 1279 m. dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą. Antrojoje XIII amžiaus pusėje Kernavė galėjo tapti sostine, nes, kaip nurodoma, Traidenis joje akivaizdžiai rezidavo.","sentences":[{"sentence_id":"s1","text":"Traidenis – XIII amžiaus Lietuvos valdovas, kurio veikla siejama su valstybės gynyba, politiniais ryšiais ir rezidavimu Kernavėje.","support_ids":["t-207450","c-190083"]},{"sentence_id":"s2","text":"1272 m. jis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje – strategiškai svarbų punktą santykiams su Lenkija, Pietvakarių Rusia ir jotvingių žemių gynybai.","support_ids":["t-90052","c-42277"]},{"sentence_id":"s3","text":"1281 m., siekdamas sustabdyti kryžiuočių veržimąsi į Sūduvą, Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario.","support_ids":["t-223988","c-206152"]},{"sentence_id":"s4","text":"Jo šeimos ryšiai siekė Mazoviją: 1279 m. dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą.","support_ids":["t-05202","c-04836"]},{"sentence_id":"s5","text":"Antrojoje XIII amžiaus pusėje Kernavė galėjo tapti sostine, nes, kaip nurodoma, Traidenis joje akivaizdžiai rezidavo.","support_ids":["t-207450","c-190083"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Pateikti šaltiniai tiesiogiai pagrindžia tik Traidenio rezidavimą Kernavėje ir galimą jos tapimą sostine, bet ne visus teiginius apie valstybės gynybą, politinius ryšius ir valdovo statusą."},{"sentence_id":"s2","supported":true,"reason":"Sakinio faktai tiesiogiai paremti nurodytu šaltiniu."},{"sentence_id":"s3","supported":true,"reason":"Sakinio faktai tiesiogiai paremti nurodytu šaltiniu."},{"sentence_id":"s4","supported":true,"reason":"Sakinio faktai tiesiogiai paremti nurodytu šaltiniu."},{"sentence_id":"s5","supported":true,"reason":"Sakinio faktai tiesiogiai paremti nurodytu šaltiniu."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-207450","c-190083"]},{"sentence_id":"s2","supported":true,"support_ids":["t-90052","c-42277"]},{"sentence_id":"s3","supported":true,"support_ids":["t-223988","c-206152"]},{"sentence_id":"s4","supported":true,"support_ids":["t-05202","c-04836"]},{"sentence_id":"s5","supported":true,"support_ids":["t-207450","c-190083"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-812177fbf5def92ff280c4cc","reason":"visual_verified_identity_primary","identity_verified":true,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-02f2add91092dbf73e98874f","relation_type":"portrait_of"},{"media_id":"m-801c32d9173bd4352166fda5","relation_type":"portrait_of"},{"media_id":"m-67ef21a08d015481902977c1","relation_type":"portrait_of"},{"media_id":"m-7a4fda6f86d5353e1c00dcf3","relation_type":"statue_of"},{"media_id":"m-70908c791b40c8da60855c0c","relation_type":"edition_image_of"}],"media_verification":{"status":"verified","primary_media_id":"m-812177fbf5def92ff280c4cc","candidate_count":8,"visual_verified_count":8,"identity_verified_count":7,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Aiškiai identifikuotas istorinis Traidenio atvaizdas.","visual_evidence":"Matomas profiliu pavaizduotas valdovas su šalmu ir šarvais, apvestas dekoratyviu apskritu rėmu.","metadata_evidence":"Failo pavadinimas tiesiogiai nurodo „Traidenis“, o kūrėjas – Alessandro Guagnini; atvaizdas iš XVI a. veikalo.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Daugpilis","claim_id":"t-179463","confidence":0.94},{"predicate":"buvo_brolis","direction":"inbound","target":"objektai/asmenys/Sirputis (Traidenio brolis)","claim_id":"t-79156","confidence":0.95},{"predicate":"buvo_brolis","direction":"outbound","target":"objektai/asmenys/Narimantas (Pinsko kunigaikštis)","claim_id":"t-214822","confidence":0.98},{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-89340","confidence":0.76},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-176817","confidence":0.98},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Dainava","claim_id":"t-214822","confidence":0.9},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Jotvingija","claim_id":"t-214822","confidence":0.9},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Lenkai","claim_id":"t-179150","confidence":0.9},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Raigardas","claim_id":"t-214156","confidence":0.9},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kulmas","claim_id":"t-185647","confidence":0.93},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Žiemgaliai","claim_id":"t-221665","confidence":0.95},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Krokuva","claim_id":"t-179150","confidence":0.74},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Mazovija","claim_id":"t-214156","confidence":0.95},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-184628","confidence":0.84}],"timeline":[{"date":"1272 m.","label":"1272 m.","claimId":"t-90052"},{"date":"1279 m.","label":"1279 m.","claimId":"t-05202"},{"date":"1281 m.","label":"1281 m.","claimId":"t-223988"}],"support_disclosure":{"claims":22,"sources":8}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c67e7fda123ecfdf
+object_page_generated_at: '2026-09-19T03:02:33+00:00'
+object_page_source_checked_at: '2026-09-19T03:02:33+00:00'
+object_page_content_state: content
+object_page_claim_count: '22'
+object_page_source_count: '8'
+object_page_seo_description: 'Traidenis (valdovas, XIII a.): Traidenis – XIII amžiaus Lietuvos valdovas, kurio veikla siejama su valstybės gynyba, politiniais ryšiais ir rezidavimu…'
+object_page_seo_input_hash: 104857b2d317999ed1b93ec4eddbd541abacae6b5ac53f8225386cf1f3830501
+object_page_seo_generated_at: '2026-09-19T03:02:33+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Traidenis (valdovas, XIII a.)
 
 ## Santrauka
 
 Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvos valdovų, stiprinęs valdžią artimose rusų žemėse ir jungęs baltų žemes. Jis siejamas su Liudmilos vedybomis, dukters Gaudimantės santuoka su Boleslovu II ir išskiriamas kaip pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi.
+
+## Teiginiai
+
+<a id="claim-t-05200"></a>
+- t-001
+  teiginys: "Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu baltų žemių jungėju."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-04834
+
+<a id="claim-t-05201"></a>
+- t-002
+  teiginys: "Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I dukterį Liudmilą."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kujavija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kujavija: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Kujavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-04835
+
+<a id="claim-t-05202"></a>
+- t-003
+  teiginys: "1279 m. Traidenio dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Płockas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Płockas: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Płockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1279 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys perrašytas, kad aiškiau sietų faktą su Traideniu."
+  pagrindžia:
+    - c-04836
+
+<a id="claim-t-05203"></a>
+- t-004
+  teiginys: "Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-04837
+
+<a id="claim-t-90044"></a>
+- t-005
+  teiginys: "Viename dokumente pasakojama, kad kunigaikštis Traidenis įsiveržė į Dobrynės žemę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-85940
+
+<a id="claim-t-90046"></a>
+- t-006
+  teiginys: "Traidenis 1269-1282 m., remdamas žiemgalius, telkė jėgas kovai Prūsijoje."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1269-1282; įvykio data: 1282 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-85935
+
+<a id="claim-t-90047"></a>
+- t-007
+  teiginys: "Kunigaikštis Traidenis buvo kunigaikščio Dovydo Dovydavičiaus sūnus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-85934
+
+<a id="claim-t-90048"></a>
+- t-008
+  teiginys: "Pirmasis iškilo Kernavės kunigaikštis Traidenis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dobrynė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-85937
+
+<a id="claim-t-90050"></a>
+- t-009
+  teiginys: "Kunigaikščiai Ziemovitas ir Traidenis įsiveržė į Dobrynės žemę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-85940
+
+<a id="claim-t-90052"></a>
+- t-010
+  teiginys: "1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drohičinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Drohičinas: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Drohičinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1272 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir paremtas citata."
+  pagrindžia:
+    - c-42277
+
+<a id="claim-t-90055"></a>
+- t-011
+  teiginys: "1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario, siekdamas sulaikyti kryžiuočius nuo Sūduvos."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1277 m.; įvykio data: 1280 m.; įvykio data: 1281 m.; įvykio data: 1282 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas; palikta su Traideniu tiesiogiai susijusi ir citata paremta dalis."
+  pagrindžia:
+    - c-85943
+
+<a id="claim-t-90058"></a>
+- t-012
+  teiginys: "Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose."
+  atnaujinta: "2026-07-19 16:57"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-04834
+
+<a id="claim-t-184844"></a>
+- t-013
+  teiginys: "Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romuntas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Romuntas: mention_match, person, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Romuntas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168205
+
+<a id="claim-t-184845"></a>
+- t-014
+  teiginys: "Traidenis, Giliginui dar esant gyvam, su trisdešimties tūkstančių kariuomene iš Lietuvos ir Prūsijos nusiaubė Mazoviją ir Kulmo žemę."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Giliginas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Giliginas: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Giliginas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  pagrindžia:
+    - c-168206
+
+<a id="claim-t-190990"></a>
+- t-015
+  teiginys: "Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_brolis -> Narimantas (Pinsko kunigaikštis): 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai vadina Traidenį Narimanto broliu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Traidenis (valdovas, XIII a.) buvo brolis Narimantas (Pinsko kunigaikštis) (0.98); Traidenis (valdovas, XIII a.) buvo valdovas Jotvingija (0.90); Traidenis (valdovas, XIII a.) buvo valdovas Dainava (0.90); Traidenis (valdovas, XIII a.) pastatė Raigardas (0.90)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173872
+
+<a id="claim-t-190991"></a>
+- t-016
+  teiginys: "Narbutas Traidenį vaizduoja kaip valdovą, rengusį plėšikiškus žygius į Lenkiją, Rusią ir Mazoviją bei tironiškai elgusįsi su valdiniais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "surenge_zygi_i -> Mazovija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Traidenio žygius į Mazoviją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Traidenis (valdovas, XIII a.) surengė žygį į Mazovija (0.95); Traidenis (valdovas, XIII a.) pastatė Raigardas (0.90)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173873
+
+<a id="claim-t-190992"></a>
+- t-017
+  teiginys: "Narbutas Traidenio užpuolimus sieja su lenkų įniršiu, po kurio 1282 metais prie Narevo Lešeko Juodojo vadovaujami lenkai užklupo jotvingius."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Jotvingiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jotvingiai: mention_match, group, gap=120"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Jotvingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173874
+
+<a id="claim-t-194241"></a>
+- t-018
+  teiginys: "Ar ga lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad Vytenis, lietuvis pagonis, - jo vaikaitis?"
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176838
+
+<a id="claim-t-196604"></a>
+- t-019
+  teiginys: "Kojelavičiaus pasakojime tariami valstiečiai nužudė Traidenį, kai jis su tarnais ir kraujo nuleidėju išėjo iš pirties."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178793
+
+<a id="claim-t-196605"></a>
+- t-020
+  teiginys: "Kojelavičius Skomantą vaizduoja kaip naują priešą, kuris po Traidenio žygio įsiveržė į tas pačias žemes su žemaičiais ir sūduviais."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168206
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -219,9 +567,9 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05200
-    - t-90056
+  pagrindzia:
+    - t-001
+    - t-012
 
 - id: c-04835
   autorius: "Zenonas Ivinskis"
@@ -237,8 +585,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05201
+  pagrindzia:
+    - t-002
 
 - id: c-04836
   autorius: "Zenonas Ivinskis"
@@ -254,8 +602,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05202
+  pagrindzia:
+    - t-003
 
 - id: c-04837
   autorius: "Zenonas Ivinskis"
@@ -271,8 +619,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05203
+  pagrindzia:
+    - t-004
 
 - id: c-42277
   sudarytojas: "Karolis Zikaras"
@@ -293,8 +641,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90052
+  pagrindzia:
+    - t-010
 
 - id: c-85934
   autorius: "Michał Baliński"
@@ -310,8 +658,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90047
+  pagrindzia:
+    - t-007
 
 - id: c-85935
   autorius: "Petras Dusburgietis"
@@ -328,6 +676,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-85937
   redaktorius: "A. Šapoka"
@@ -345,9 +695,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90048
-    - t-90059
+  pagrindzia:
+    - t-008
 
 - id: c-85940
   autorius: "Michał Baliński"
@@ -372,9 +721,9 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90044
-    - t-90050
+  pagrindzia:
+    - t-005
+    - t-009
 
 - id: c-85943
   autorius: "Petras Dusburgietis"
@@ -396,6 +745,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-168205
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -422,8 +773,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184844
+  pagrindzia:
+    - t-013
 
 - id: c-168206
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -453,9 +804,9 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184845
-    - t-196605
+  pagrindzia:
+    - t-014
+    - t-020
 
 - id: c-173872
   autorius: "Teodoras Narbutas"
@@ -478,6 +829,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
 
 - id: c-173873
   autorius: "Teodoras Narbutas"
@@ -497,6 +850,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 - id: c-173874
   autorius: "Teodoras Narbutas"
@@ -517,6 +872,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
 
 - id: c-176838
   autorius: "Michał Baliński"
@@ -547,8 +904,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194241
+  pagrindzia:
+    - t-018
 
 - id: c-178793
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -574,122 +931,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196604
-
-- id: c-190083
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 40"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 40."
-  citata_originali: |
-    Antra vertus, baltarusių istorikai pagal kai kuriuos vėlyvuo-
-    sius metraščių duomenis beveik sutartinai Mindaugo sostine laiko Naugarduką, nenorėda-
-    mi matyti aplinkybės, kad Naugardukas buvo Mindaugo aneksas, atiduotas valdyti sūnui
-    Vaišelgai. Apskritai šiandien linkstama manyti, kad XIII a. viduryje sostinės vėlesnių
-    laikų supratimu apskritai galėjo nebūti – tai, aišku, nepanaikina Mindaugo karūnacijos
-    vietos klausimo. Kartais manoma, kad prie Traidenio antrojoje XIII a. pusėje tokia sostine
-    galėjo tapti Kernavė, nes joje Traidenis akivaizdžiai rezidavo.
-  citata_rodoma: "Kartais manoma, kad prie Traidenio antrojoje XIII a. pusėje tokia sostine \ngalėjo tapti Kernavė, nes joje Traidenis akivaizdžiai rezidavo."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207450
-
-- id: c-190105
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 92"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 92."
-  citata_originali: |
-    Kernavėje pradėjo formuotis Lietuvos pirklių sluoksnis.
-    Taigi Kernavė – Lietuvos Troja, ankstyvojo valstybinio laikotarpio pradžia ir simbo-
-    lis, jos vaidmuo Lietuvos istorijoje įvairiu požiūriu yra unikalus.
-    Gediminaičių dinastijos iškilimas
-    Po Traidenio į Lietuvos sostą atėjo kitos, veikiausiai artimos giminės žmonės.
-  citata_rodoma: "Po Traidenio į Lietuvos sostą atėjo kitos, veikiausiai artimos giminės žmonės."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207487
-
-- id: c-194570
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
-  citata_originali: |
-    Siekdamas padaryti
-    tam galą, Lietuvos didysis kunigaikštis Narimantas apie
-    1268 metus įsiveržė su kariuomene į jotvingių Polesę ir
-    privertė gyventojus priimti jo paskirtą valdovą. Juo tapo
-    tikras Narimanto brolis Traidenis, kuris buvo Jotvingijos
-    ir Dainavos kunigaikštis su priklausomybės nuo Lietuvos
-    didžiojo kunigaikščio ir tam tikros duoklės mokėjimo pa­
-    reiga. Sis kunigaikštis pastatė Raigardo pilį, vedė Mazo­
-    vijos kunigaikštytę, kuri pagimdė jam garsų lietuvių isto­
-    rijoje Romuntą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- id: c-194733
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
-  citata_originali: |
-    Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be
-    to, Traidenis vakarinėje Jotvingijoje paliko visos tautos
-    pražūties užuomazgą, nes savo užpuolimais galutinai įer­
-    zino lenkus, kurie, Lešeko Juodojo vadovaujami, 1282 me­
-    tais prie Narevo įvykdė tai, ką jotvingiams skyrė nelai­
-    minga lemtis: jie visi buvo užklupti prie garsėjusios dau­
-    geliu kraujo praliejimų Ostrolenkos. Tačiau jotvingiai
-    paniekino nelaisvę ir leidosi visi iškapojami.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-195243
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
-  citata_originali: |
-    Sis kunigaikštis pastatė Raigardo pilį, vedė Mazo­
-    vijos kunigaikštytę, kuri pagimdė jam garsų lietuvių isto­
-    rijoje Romuntą. Be to, jis nuolat rengė plėšikiškus žygius
-    į Lenkiją, Rusią ir Mazoviją, buvo griežtas ir žiaurus val­
-    dovas, tironiškai elgėsi su valdiniais ir užkariautais žmo­
-    nėmis1. Jo viešpatavimas jotvingiams baigėsi mirtimi 1281
-    metais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
+    - t-019
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
@@ -701,395 +944,3 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - Traidenis (valdovas, XIII a.) surengė žygį į [[objektai/vietos/Mazovija]]
 - Traidenis (valdovas, XIII a.) kariavo prieš [[objektai/grupes/Lenkai]]
 - Traidenis (valdovas, XIII a.) rėmė [[objektai/grupes/Žiemgaliai]]
-
-## Teiginiai
-
-<a id="claim-t-214156"></a>
-- t-001
-  teiginys: "Narbutas Traidenį vaizduoja kaip valdovą, rengusį plėšikiškus žygius į Lenkiją, Rusią ir Mazoviją bei tironiškai elgusįsi su valdiniais."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "surenge_zygi_i -> Mazovija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Traidenio žygius į Mazoviją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Traidenis (valdovas, XIII a.) surengė žygį į Mazovija (0.95); Traidenis (valdovas, XIII a.) pastatė Raigardas (0.90)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-195243
-
-<a id="claim-t-214748"></a>
-- t-002
-  teiginys: "Narbutas Traidenio užpuolimus sieja su lenkų įniršiu, po kurio 1282 metais prie Narevo Lešeko Juodojo vadovaujami lenkai užklupo jotvingius."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Jotvingiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jotvingiai: mention_match, group, gap=120"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Jotvingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-194733
-
-<a id="claim-t-214822"></a>
-- t-003
-  teiginys: "Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_brolis -> Narimantas (Pinsko kunigaikštis): 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai vadina Traidenį Narimanto broliu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Traidenis (valdovas, XIII a.) buvo brolis Narimantas (Pinsko kunigaikštis) (0.98); Traidenis (valdovas, XIII a.) buvo valdovas Jotvingija (0.90); Traidenis (valdovas, XIII a.) buvo valdovas Dainava (0.90); Traidenis (valdovas, XIII a.) pastatė Raigardas (0.90)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-194570
-
-<a id="claim-t-223988"></a>
-- t-004
-  teiginys: "1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario, siekdamas sulaikyti kryžiuočius nuo Sūduvos."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1277 m.; įvykio data: 1280 m.; įvykio data: 1281 m.; įvykio data: 1282 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas; palikta su Traideniu tiesiogiai susijusi ir citata paremta dalis."
-
-<a id="claim-t-05200"></a>
-- t-05200
-  teiginys: "Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu baltų žemių jungėju."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-04834
-
-<a id="claim-t-05201"></a>
-- t-05201
-  teiginys: "Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I dukterį Liudmilą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kujavija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kujavija: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Kujavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-04835
-
-<a id="claim-t-05202"></a>
-- t-05202
-  teiginys: "1279 m. Traidenio dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Płockas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Płockas: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Płockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1279 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys perrašytas, kad aiškiau sietų faktą su Traideniu."
-  pagrindžia:
-    - c-04836
-
-<a id="claim-t-05203"></a>
-- t-05203
-  teiginys: "Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-04837
-
-<a id="claim-t-90044"></a>
-- t-90044
-  teiginys: "Viename dokumente pasakojama, kad kunigaikštis Traidenis įsiveržė į Dobrynės žemę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-85940
-
-<a id="claim-t-90047"></a>
-- t-90047
-  teiginys: "Kunigaikštis Traidenis buvo kunigaikščio Dovydo Dovydavičiaus sūnus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-85934
-
-<a id="claim-t-90048"></a>
-- t-90048
-  teiginys: "Pirmasis iškilo Kernavės kunigaikštis Traidenis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dobrynė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-85937
-
-<a id="claim-t-90050"></a>
-- t-90050
-  teiginys: "Kunigaikščiai Ziemovitas ir Traidenis įsiveržė į Dobrynės žemę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-85940
-
-<a id="claim-t-90052"></a>
-- t-90052
-  teiginys: "1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drohičinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Drohičinas: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Drohičinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1272 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir paremtas citata."
-  pagrindžia:
-    - c-42277
-
-<a id="claim-t-90056"></a>
-- t-90056
-  teiginys: "1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drohičinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Drohičinas: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Drohičinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1272 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-04834
-
-<a id="claim-t-90059"></a>
-- t-90059
-  teiginys: "Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-85937
-
-<a id="claim-t-184844"></a>
-- t-184844
-  teiginys: "Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Romuntas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Romuntas: mention_match, person, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Romuntas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168205
-
-<a id="claim-t-184845"></a>
-- t-184845
-  teiginys: "Traidenis, Giliginui dar esant gyvam, su trisdešimties tūkstančių kariuomene iš Lietuvos ir Prūsijos nusiaubė Mazoviją ir Kulmo žemę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Giliginas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Giliginas: mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Giliginas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  pagrindžia:
-    - c-168206
-
-<a id="claim-t-194241"></a>
-- t-194241
-  teiginys: "Ar ga lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad Vytenis, lietuvis pagonis, - jo vaikaitis?"
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176838
-
-<a id="claim-t-196604"></a>
-- t-196604
-  teiginys: "Kojelavičiaus pasakojime tariami valstiečiai nužudė Traidenį, kai jis su tarnais ir kraujo nuleidėju išėjo iš pirties."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178793
-
-<a id="claim-t-196605"></a>
-- t-196605
-  teiginys: "Kojelavičius Skomantą vaizduoja kaip naują priešą, kuris po Traidenio žygio įsiveržė į tas pačias žemes su žemaičiais ir sūduviais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168206
-
-<a id="claim-t-207450"></a>
-- t-207450
-  teiginys: "Alfredas Bumblauskas nurodo, kad Traidenio valdymo metu antrojoje XIII a. pusėje Kernavė galėjo tapti sostine, nes valdovas joje rezidavo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
-  pagrindžia:
-    - c-190083
-
-<a id="claim-t-207487"></a>
-- t-207487
-  teiginys: "Po Traidenio į Lietuvos sostą, Alfredo Bumblausko teigimu, atėjo kitos, veikiausiai artimos giminės žmonės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190105
-
-<a id="claim-t-221635"></a>
-- t-221635
-  teiginys: "Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę į žygį prieš Ordino užnugarį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-222285"></a>
-- t-222285
-  teiginys: "Traidenis 1269-1282 m., remdamas žiemgalius, telkė jėgas kovai Prūsijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1269-1282; įvykio data: 1282 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata."
-
-<a id="claim-t-223983"></a>
-- t-223983
-  teiginys: "Traidenis rėmė žiemgalius ir telkė jėgas kovai Prūsijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-

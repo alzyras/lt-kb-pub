@@ -33,22 +33,10 @@ Lietuvos valstybė atsirado pirmiausia kaip apsigynimo priemonė, tačiau ji tur
 
 ## Teiginiai
 
-<a id="claim-t-210871"></a>
-- t-210871
-  teiginys: "Didysis kunigaikštis Skirmantas, surinkęs visas sa vo kariaunas, pasitiko juos Kaidanove l0, prie savo sie nos."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193292
-
 <a id="claim-t-77797"></a>
-- t-77797
+- t-001
   teiginys: "Mindaugo kariauna buvo sluoksnis, kuriuo rėmėsi kaip apsigynimo priemonė atsiradusi Lietuvos valstybė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,25 +69,5 @@ Lietuvos valstybė atsirado pirmiausia kaip apsigynimo priemonė, tačiau ji tur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-77797
-
-- id: c-193292
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 48"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
-  citata_originali: |
-    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
-    vo kariaunas, pasitiko juos Kaidanove l0, prie savo sie­
-    nos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
-    galybę, ir nukovė patį chaną
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210871
-
+  pagrindzia:
+    - t-001

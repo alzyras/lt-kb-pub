@@ -36,6 +36,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201318"></a>
+- t-001
+  teiginys: "Albertui, kursai su mistru Volkvinu, sukėlęs visą savo galią ir susinėręs su meldžionimis, turėjo daugiaus nei 20 000 karėjų; su tokia kariauna trau kė per pašalusią jūros atsiautą į Eželio salą patrakėlių ramdyti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184668
+
 ## Citatos
 
 - id: c-184668
@@ -61,20 +75,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201318"></a>
-- t-001
-  teiginys: "Albertui, kursai su mistru Volkvinu, sukėlęs visą savo galią ir susinėręs su meldžionimis, turėjo daugiaus nei 20 000 karėjų; su tokia kariauna trau kė per pašalusią jūros atsiautą į Eželio salą patrakėlių ramdyti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184668
-

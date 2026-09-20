@@ -27,6 +27,48 @@ media_all_json: |-
 
 Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų dievaitį ir žemdirbio nuosavybės globėją. Narbutas rašo, kad Slynksniui-Perlevenu vieta būdavusi skiriama virš slenksčio arba virš prieangio durų.
 
+## Teiginiai
+
+<a id="claim-t-189179"></a>
+- t-001
+  teiginys: "Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų dievaitį ir žemdirbio nuosavybės globėją."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kazokai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Slenkstis Slynksnis-Perlevenu: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Kazokai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slenkstis Slynksnis-Perlevenu\" parinktas kaip owner_note_path. Targetas \"Kazokai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172067
+
+<a id="claim-t-189180"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad Slynksniui-Perlevenu vieta būdavusi skiriama virš slenksčio arba virš prieangio durų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Slenkstis Slynksnis-Perlevenu: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slenkstis Slynksnis-Perlevenu\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172068
+
 ## Citatos
 
 - id: c-172067
@@ -49,6 +91,8 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-172068
   autorius: "Teodoras Narbutas"
@@ -73,29 +117,5 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201429
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 160"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 160."
-  citata_originali: |
-    Šį die­
-    vaitį garbino visiškai taip pat, kaip slavų Pokuitį, skirtumas tik
-    tas, kad vieta jam būdavo skiriama ne kampe, kaip Rusioje,
-    kur ir dabar kabinami šventieji paveikslai, bet virš slenksčio, o
-    jeigu lūšnelė apšildoma be kamino, išvesto per stogą, tai iš
-    lauko pusės virš prieangio durų. Tačiau nesame tikri, kaip tas
-    dievaitis buvo vaizduojamas; atrodo, tai buvo įpjautas medyje
-    arba lentelėje tam tikras ženklas arba mitinis hieroglifas.
-    Slenkstis lietuviškai yra Slymcnis, arba, kitų tarimu, Smirvcnis.
-    Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje
-    patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­
-    kas laikoma Dievo įžeidimu3.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

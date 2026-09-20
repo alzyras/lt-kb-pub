@@ -42,6 +42,23 @@ Posakis šiame leidinyje pateikiamas per S. Daukantui priskiriamą leidinio lauk
 
 Labai stipraus laukimo ar troškimo palyginimas.
 
+## Teiginiai
+
+<a id="claim-t-199233"></a>
+- t-001
+  teiginys: "1846 m. Bychovco kronikos leidimo laukimas apibūdinamas palyginimu „kaip ištroškęs vandens lašelio“."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  temporaliniai_duomenys: "įvykio data: 1846 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-181750
+
 ## Citatos
 
 - id: c-181750
@@ -61,19 +78,5 @@ Labai stipraus laukimo ar troškimo palyginimas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-211270"></a>
-- t-001
-  teiginys: "1846 m. Bychovco kronikos leidimo laukimas apibūdinamas palyginimu „kaip ištroškęs vandens lašelio“."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  temporaliniai_duomenys: "įvykio data: 1846 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-
+  pagrindzia:
+    - t-001

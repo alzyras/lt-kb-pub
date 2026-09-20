@@ -47,6 +47,72 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-185668"></a>
+- t-001
+  teiginys: "Švitrigaila prie Okos susijungė su skitų ir maskvėnų kariuomene ir užkirto Vytautui kelią į Vasilijaus valdas."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Švitrigaila su kariuomene užkirto kelią Vytautui, todėl santykis yra priešiškas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169029
+
+<a id="claim-t-185669"></a>
+- t-002
+  teiginys: "Vytautas įsakė kavalerijos vadams rasti neužkirstas properšas miškuose ir pelkėse bei siaubti Vasilijaus valdas."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169030
+
+<a id="claim-t-196279"></a>
+- t-003
+  teiginys: "1407 m. pabaigoje Švitrigaila, sudeginęs Briansko ir Starodubo pilis, perdavė kunigaikščiui Vasilijui Naugardą ir pabėgo į Maskvą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-169029
+
+<a id="claim-t-196793"></a>
+- t-004
+  teiginys: "Lietuvos metraštis vaizduoja, kad naugardiečiai, matydami pskoviečių pasidavimą Vytautui, pasižadėjo jam tarnauti, duoti duoklę ir laikyti valdovu."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-178912
+
 ## Citatos
 
 - id: c-169029
@@ -87,9 +153,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185668
-    - t-196279
+  pagrindzia:
+    - t-001
+    - t-003
 
 - id: c-169030
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -119,8 +185,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185669
+  pagrindzia:
+    - t-002
 
 - id: c-178912
   autorius: "Anoniminis metraštininkas"
@@ -151,103 +217,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193049
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 103"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 103."
-  citata_originali: |
-    Naugardiečiai, matydami pskoviečius jam pasidavus
-    ir priėmus jo vietininką, nebenorėdami, kad jų žemė
-    nuo didžiojo kunigaikščio Vytauto dar labiau nukentė­
-    tų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam
-    tarnauti, ir duoklę duoti, ir laikyti ji savo valdovu,
-    kaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas
-    paskyrė jiems vietininku savo svainį, kunigaikštį Si­
-    moną Alšėniškį, vadinamą Rūsčiuoju 9.
-    Ir davė naugardiečiai didžiajam kunigaikščiui Vy­
-    tautui kiekvienais metais duoklės po dešimt tūkstančių
-    auksinų 10 ir keturias dešimtis sunkiųjų žirgų, kuriuos
-    dabar vadina fryzais, ir keturias dešimtis kailinių, ir
-    devynias galybes sabalų, ir lūšių, ir kiaunių, ir lapių,
-    ir šermuonėlių, ir voverių kailių. Mokėjo naugardie­
-    čiai šitiek į Lietuvos didžiojo kunigaikščio Vytauto
-    iždą kiekvienais metais, o pskoviečiai davė pusė to,
-    ką davė naugardiečiai, tiek auksu ir žirgais, tiek kai­
-    liais ".
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-211941"></a>
-- t-001
-  teiginys: "Lietuvos metraštis vaizduoja, kad naugardiečiai, matydami pskoviečių pasidavimą Vytautui, pasižadėjo jam tarnauti, duoti duoklę ir laikyti valdovu."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-193049
-
-<a id="claim-t-185668"></a>
-- t-185668
-  teiginys: "Švitrigaila prie Okos susijungė su skitų ir maskvėnų kariuomene ir užkirto Vytautui kelią į Vasilijaus valdas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Švitrigaila su kariuomene užkirto kelią Vytautui, todėl santykis yra priešiškas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169029
-
-<a id="claim-t-185669"></a>
-- t-185669
-  teiginys: "Vytautas įsakė kavalerijos vadams rasti neužkirstas properšas miškuose ir pelkėse bei siaubti Vasilijaus valdas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169030
-
-<a id="claim-t-196279"></a>
-- t-196279
-  teiginys: "1407 m. pabaigoje Švitrigaila, sudeginęs Briansko ir Starodubo pilis, perdavė kunigaikščiui Vasilijui Naugardą ir pabėgo į Maskvą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-169029
-
+  pagrindzia:
+    - t-004

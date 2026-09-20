@@ -30,6 +30,20 @@ media_all_json: |-
 
 Matyti, kad Kauno miesto taryba kviesdavo miestiečių bendruomenės atstovus kartu spręsti reikalų, susijusių su miesto pajamomis ir mokesčiais.
 
+## Teiginiai
+
+<a id="claim-t-202262"></a>
+- t-001
+  teiginys: "Matyti, kad Kauno miesto taryba kviesdavo miestiečių bendruomenės atstovus kartu spręsti reikalų, susijusių su miesto pajamomis ir mokesčiais."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185609
+
 ## Citatos
 
 - id: c-185609
@@ -47,20 +61,5 @@ Matyti, kad Kauno miesto taryba kviesdavo miestiečių bendruomenės atstovus ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202262"></a>
-- t-001
-  teiginys: "Matyti, kad Kauno miesto taryba kviesdavo miestiečių bendruomenės atstovus kartu spręsti reikalų, susijusių su miesto pajamomis ir mokesčiais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185609
-

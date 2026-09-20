@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'Kuršėnų klebono Mykolo Laucevičiaus 1864 m. lapkričio 29 d. pranešimas ir M. Valančiaus 1864 m. gruodžio 10 d. raštas'
+pavadinimas: Kuršėnų klebono Mykolo Laucevičiaus 1864 m. lapkričio 29 d. pranešimas ir M. Valančiaus 1864 m. gruodžio 10 d. raštas
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1671 m.'
-  - '1864 m.'
+  - 1671 m.
+  - 1864 m.
 date_start: '1671'
 date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVII'
-  - 'XIX'
+  - XVII
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kuršėnų klebono Mykolo Laucevičiaus 1864 m. lapkričio 29 d. pranešimas ir M. Valančiaus 1864 m. gruodžio 10 d. raštas
 

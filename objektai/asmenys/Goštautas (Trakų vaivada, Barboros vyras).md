@@ -43,6 +43,25 @@ canonical_biography: "272 ## Puslapis 289 IV KNYGA Pakerėtas gražiosios Barbor
 
 272 ## Puslapis 289 IV KNYGA Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­ teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­ lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio atrado kuklumą ir sulaukė prielankumo.
 
+## Teiginiai
+
+<a id="claim-t-87680"></a>
+- t-001
+  teiginys: "Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_vyras -> Barbora Radvilaitė: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Goštautas (Trakų vaivada, Barboros vyras): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Goštautas buvo Barboros Radvilaitės vyras."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Goštautas (Trakų vaivada, Barboros vyras) buvo vyras Barbora Radvilaitė (0.96)"
+  pagrindžia:
+    - c-83659
+
 ## Citatos
 
 - id: c-83659
@@ -71,28 +90,8 @@ canonical_biography: "272 ## Puslapis 289 IV KNYGA Pakerėtas gražiosios Barbor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Barbora Radvilaitė]]
-
-## Teiginiai
-
-<a id="claim-t-87680"></a>
-- t-001
-  teiginys: "Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_vyras -> Barbora Radvilaitė: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Goštautas (Trakų vaivada, Barboros vyras): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Goštautas buvo Barboros Radvilaitės vyras."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Goštautas (Trakų vaivada, Barboros vyras) buvo vyras Barbora Radvilaitė (0.96)"
-  pagrindžia:
-    - c-83659
-

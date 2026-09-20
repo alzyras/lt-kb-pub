@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Rutėnai (grupė)'
-identifikacija: 'grupė'
+pavadinimas: Rutėnai (grupė)
+identifikacija: grupė
 variantai:
-  - 'Rutėnai'
+  - Rutėnai
 aliases:
-  - 'Rutėnai'
+  - Rutėnai
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Rutėnai (grupė)
 
@@ -62,6 +59,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

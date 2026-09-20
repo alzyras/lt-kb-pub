@@ -35,6 +35,52 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
 
 Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily strūnijam dominikonims, idant atėjūnai pagal savo dobę galėtų Dievą garbinti. Raižinio kairėje dalyje virš masyvaus pastato su bokšteliu per vidurį užrašyta Monast minorum de observantia, tai reiškia bernardinų vienuolyną. Po Juozapo Sapiegos mirties Steponas(?) Olendskis perėmė kanauninko lobyne likusį turtą ir pagal velionio dvasininko registrą iš bernardinų išsivežė sidabrą, alavą, varį, staltieses bei kitus daiktus.
 
+## Teiginiai
+
+<a id="claim-t-201245"></a>
+- t-001
+  teiginys: "Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily strūnijam dominikonims, idant atėjūnai pagal savo dobę galėtų Dievą garbinti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184595
+
+<a id="claim-t-201474"></a>
+- t-002
+  teiginys: "Raižinio kairėje dalyje virš masyvaus pastato su bokšteliu per vidurį užrašyta Monast minorum de observantia, tai reiškia bernardinų vienuolyną."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184821
+
+<a id="claim-t-202492"></a>
+- t-003
+  teiginys: "Po Juozapo Sapiegos mirties Steponas(?) Olendskis perėmė kanauninko lobyne likusį turtą ir pagal velionio dvasininko registrą iš bernardinų išsivežė sidabrą, alavą, varį, staltieses bei kitus daiktus."
+  atnaujinta: "2026-07-26 17:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bernardinai (grupė): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.): mention_match, person, gap=126"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bernardinai (grupė)\" parinktas kaip owner_note_path. Targetas \"Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
+  pagrindžia:
+    - c-185854
+
 ## Citatos
 
 - id: c-184595
@@ -58,7 +104,7 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184821
@@ -76,7 +122,7 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-185854
@@ -87,52 +133,5 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-26 17:37"
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-201245"></a>
-- t-001
-  teiginys: "Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily strūnijam dominikonims, idant atėjūnai pagal savo dobę galėtų Dievą garbinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184595
-
-<a id="claim-t-201474"></a>
-- t-002
-  teiginys: "Raižinio kairėje dalyje virš masyvaus pastato su bokšteliu per vidurį užrašyta Monast minorum de observantia, tai reiškia bernardinų vienuolyną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184821
-
-<a id="claim-t-202492"></a>
-- t-003
-  teiginys: "Po Juozapo Sapiegos mirties Steponas(?) Olendskis perėmė kanauninko lobyne likusį turtą ir pagal velionio dvasininko registrą iš bernardinų išsivežė sidabrą, alavą, varį, staltieses bei kitus daiktus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bernardinai (grupė): owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.): mention_match, person, gap=126"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bernardinai (grupė)\" parinktas kaip owner_note_path. Targetas \"Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
-  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
-  pagrindžia:
-    - c-185854
-

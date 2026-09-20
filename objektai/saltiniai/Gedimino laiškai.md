@@ -1,15 +1,15 @@
 ---
 tipas: saltinis
-pavadinimas: 'Gedimino laiškai'
+pavadinimas: Gedimino laiškai
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1323 m.'
-  - '1324 m.'
-  - '1328 m.'
-  - '1966 m.'
+  - 1323 m.
+  - 1324 m.
+  - 1328 m.
+  - 1966 m.
 date_start: '1323'
 date_end: '1966'
 sukurta: ''
@@ -18,20 +18,30 @@ tags:
   - dokumentas
   - saltinis
 amziai:
-  - 'XIV'
-  - 'XX'
+  - XIV
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Gedimino laiškai","url":"https://lt.wikipedia.org/wiki/Gedimino_lai%C5%A1kai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Gedimino laiškai","url":"https://www.vle.lt/straipsnis/gedimino-laiskai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T09:39:58+00:00","source_checked_at":"2026-09-19T09:39:58+00:00","counts":{"relations":0,"gallery":0,"sources":5},"featured_claim_ids":["t-171539","t-171538","t-55213","t-55214","t-55216","t-220198"],"featured_claims":[{"claim_id":"t-171539","text":"Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-156044"]},{"claim_id":"t-171538","text":"Gediminas laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-156041"]},{"claim_id":"t-55213","text":"Foigtas ginčijo Gedimino laiškų autentiškumą ir jų parengimą priskyrė Rygos arkivyskupui.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55636","c-55641","c-55642"]},{"claim_id":"t-55214","text":"Abejonės dėl Gedimino laiškų autentiškumo, Balińskio vertinimu, nepaneigia, kad Vilnius jau buvo miestas ir Gedimino sostinė.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55637"]},{"claim_id":"t-55216","text":"Gedimino laiškai buvo adresuoti dominikonų ordino vyresniesiems, Mažesniųjų brolių ordinui ir pajūrio miestams.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55639"]},{"claim_id":"t-220198","text":"„Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-202954"]}],"featured_quote":{"text":"Napiers- k i s, išleidęs tik dokumentų rinkinio apie Livoniją, Estiją ir Kuršą Rodyk­ lę, yra- gal labiau vertas pripažinimo už daugelį kitų, spausdinančių sa­ vo gražbylius samprotavimus, ne kartą istorinę tiesą užtemdžiusius, istorija vadinamus. Apie Gedimino laiškus pasakytina, kad juos įdeda­ me į papildymus kartu su vertimu į lenkų kalbą ir Foigto pastabomis. (Žr. Il priedą).","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-55215","evidence_id":"c-55638","origin":"internal"},"wiki":{"status":"published","source":{"title":"Gedimino laiškai","url":"https://lt.wikipedia.org/wiki/Gedimino_lai%C5%A1kai","publisher":"Vikipedija","language":"lt","article_id":"169784","revision_id":"7767682","published_at":"2026-03-02T20:03:10Z","version_pk":"","content_hash":"79ded676b1b3f2f36a85ba6f5c9d8191ea4d3639853d9686549a0279f25b32c1","retrieved_at":"2026-09-19T09:37:53+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Gedimino_lai%C5%A1kai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"169784"}},"intro":"Yra išlikę 6 iššifruoti Lietuvos didžiojo kunigaikščio Gedimino laiškai, parašyti 1323–1324 metais. Šie laiškai yra vieni pirmųjų išlikusių Lietuvos Didžiosios Kunigaikštystės dokumentų. Kadangi jie buvo siųsti Vakarų Europai, popiežiui, prekiautojams, ir amatininkams, parašyti lotynų kalba. Pirmas laiškas buvo parašytas Popiežiui Jonui XXII. Čia Gediminas tvirtino, kad kryžiuočių riteriai puola ne katalikų tikėjimo tikslais. Jie padaro daug žalos žemei ir žmonėms keldami pasipriešinimą. Gediminas mini daug nusikaltimų ir žalos, padarytos riterių: pavyzdžiui, jis tvirtina, kad Vytenis nusiuntė laišką pranciškonų vienuoliams, prašydamas dviejų brolių, kurie galėtų atvykti į Lietuvos Didžiąją Kunigaikštystę ir rūpintis bažnyčia. Kai kryžiuočių riteriai perskaitė laišką, jie nusiuntė savo kariuomenę ir sunaikino bažnyčią. Paskutiniame sakinyje Gediminas užsimena, jog ketina priimti krikščionybę ir paklusti popiežiui, kad riteriai negalėtų daryti daugiau žalos. Antras laiškas buvo parašytas 1323 m. sausio 25-ąją Liubekui, Sundui, Brėmenui, Magdeburgui, Kelnui ir kitiems miestams. Gediminas aiškina, kad Lietuvos Didžioji Kunigaikštystė yra labai tolerantiška krikščionims ir tiktai kryžiuočių riterių padaryta žala trukdo krikštui. Taip pat jis mini, kad nusiuntė laišką popiežiui ir ketina pasikrikštyti pagal katalikų apeigas. Gediminas kviečia riterius, ginklanešius, prekiautojus, gydytojus, kalvius, račius, batsiuvius, kailiadirbius, malūnininkus ir kitus atvykti į Lietuvos Didžiąją Kunigaikštystę, užsiimti prekyba ir išpažinti tikėjimą be jokių apribojimų. Valstiečiams pažada, kad jie galės dirbti savo žemę dešimt metų ir nemokėti jokių mokesčių. Prekiautojai taip pat atleidžiami nuo bet kokių muitų ar mokesčių. Tačiau šis laiškas yra žinomas ir todėl, kad jame pirmą kartą minimas Vilnius. Taigi 1323-ieji yra Vilniaus įkūrimo metai, o Gediminas - miesto įkūrėjas, nors aišku, kad miestas yra atsiradęs gerokai anksčiau, nei gyveno Gediminas. Taip pat laiške Vilnius yra įvardijamas kaip sostinė. Trečias laiškas skiriamas Liubeko, Rostoko, Sundo, Greifsvaldo, Ščecino, Gotlando miestams buvo parašytas 1323 m. gegužės 26-ąją. Iš esmės jis kartoja antrą laišką. Jis prašo įvairių amatininkų (amatų sąrašas buvo išplėstas), kad atvyktų į Lietuvą ir verstųsi prekyba. Jame rašoma, kad kunigaikštystėje yra trys bažnyčios: dvi Pranciškonų (Vilniuje ir Naugarduke) ir viena Dominikonų. Kiekvienas gali jomis naudotis. Ketvirtas ir penktas laiškai buvo taip pat parašyti 1323 m. gegužės 26-ąją ir buvo kreiptasi į Pranciškonų ir Dominikonų ordinus. Gediminas, laukdamas krikšto, kviečia dvasininkus ir vienuolius atvykti į Lietuvos Didžiąją Kunigaikštystę. Jis taip pat prašo skleisti žodį amatininkams, kad jie yra laukiami Lietuvoje. Laiške dominikonams, Gediminas mini, kad jo antspaudas buvo sudegintas kryžiuočių riterių. Paskutinis išlikęs laiškas buvo parašytas 1324 m. rugsėjo 22-ąją ir buvo kreiptasi į Tartu ir Erzelio vyskupus, Talino žemės vadovą ir Rygos valdovus. Gediminas praneša, kad Kryžiuočių Ordinas pažeidžia taikos sutartį, pasirašytą anksčiau. Riteriai puola pasienio rajonus, žudo gyventojus ir pasiima visą jų turtą. Daug pasiuntinių buvo sulaikyta ir užmušta. Gediminas prašo pagalbos, teikiamos pagal sutartį.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Gedimino laiškai","url":"https://lt.wikipedia.org/wiki/Gedimino_lai%C5%A1kai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Gedimino laiškai","url":"https://www.vle.lt/straipsnis/gedimino-laiskai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Gedimino_lai%C5%A1kai","https://www.vle.lt/straipsnis/gedimino-laiskai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"1bfc01cbfde15324b7101d64","canonical_code":"source.authorship","label":"Autorystė","group":"Šaltinio bruožai","value":"Leidinį „Gedimino laiškai“ parengė V. Pašuta ir J. Stal.","context":"Leidinio parengėjai, ne būtinai laiškų autoriai; 1966 m.","support_ids":["t-220198","c-202954"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220198","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202954","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Gedimino laiškai / Parengė V. Pašuta ir J. Stal.—V., 1966."}],"status":"published","conflict_status":"clear"},{"trait_id":"fb7f16c23f6f17ae018ec093","canonical_code":"source.date","label":"Datavimas","group":"Šaltinio bruožai","value":"Leidinys išleistas 1966 m. Vilniuje.","context":"Leidinio bibliografiniai duomenys.","support_ids":["t-220198","c-202954"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220198","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202954","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Gedimino laiškai / Parengė V. Pašuta ir J. Stal.—V., 1966."}],"status":"published","conflict_status":"clear"},{"trait_id":"ec6752f0da7e4d5e18868b8d","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Laiškai.","context":"Šaltiniuose Gedimino laiškai apibūdinami kaip laiškai, skirti ordinų vyresniesiems ir pajūrio miestams.","support_ids":["t-55216","c-55639","t-171539","c-156044"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55216","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-171539","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-55639","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Rašome apie tai Jums, Šventasis Tėve, idant žinotume priežastis, per ku­ rias mūsų senoliai paliko šį pasaulį pagoniškoj klaidatiky- bėj.\" Labai meldžia pagaliau Gediminas popiežių, kad at­ sižvelgtų į jo liūdną padėtį ir aiškiai pareiškia: „Esame pasirengę, kaip ir kiti kunigaikščiai krikščionys, visame ka­ me klausyti jūsų valios ir priimti krikščioniškąjį tikėjimą, kad tik neturėtume būti budeliams, tai yra Ordino Magist­ rui ir riteriams, už ką nors dėkingi\"**. Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė dominikonų ordino vyresniesiems, būtent į Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams - Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir…"},{"kind":"evidence","evidence_id":"c-156044","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai. Nors jie dažniausiai siejami tik su pirmu Vilniaus paminėjimu rašto šal- tiniuose, kartu rodo, kad Gediminas kūrė nuoseklią Lietuvos europėjimo programą. Iš jų matyti labai platus (turint galvoje tarptautinę Lietuvos izoliaciją) Gedimino politinis akiratis. Gediminas kūrė stačiatikių metro- poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine politika jis sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais kėlė bažnytinės unijos idėją. Jam Gediminas ir siuntė laiškus, kuriuose pareiškė pageidavimą krikštytis: Lietuvos valdovai norį priimti katalikų tikėjimą, bet priversti gintis nuo…"}],"status":"published","conflict_status":"clear"},{"trait_id":"b688cc975176cf5635e27ced","canonical_code":"source.survival","label":"Išlikimas","group":"Šaltinio istorija","value":"1323 m. autentiškas dokumentas buvo Karaliaučiaus Slaptajame archyve; laiškus vėliau paskelbė Kotzebue.","context":"Tai Michał Balińskio pateiktas šaltinio perdavimo ir išlikimo aprašymas.","support_ids":["t-55211","c-55634"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55211","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55634","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona. Il Gedimino laiškuose, rašytuose do­ minikonų ir Mažesniųjų brolių, ar­ ba pranciškonų, ordinams bei Han­ zos miestams, kurių autentiškas 1323 metais notaro parengtas doku­ mentas yra Karaliaučiaus Slaptaja- - • - 20 ## Puslapis 37 I KNYGA gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­ nių pasirinko jo valdomų visų kraštų sostine tikriausiai todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo me archyve ir kuriuos Kotzebue išspausdino savo Prūsijos istorijoje. (Žr. Preussens aeltere Geschichte…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Gedimino laiškai – Lietuvos valdovui Gediminui priskiriamas viduramžių politinių laiškų rinkinys ir svarbus jo politikos atspindys. Laiškais Vakarų šalims ir miestams Gediminas, greta derybų dėl krikšto, kvietė į Lietuvą Vakarų pirklius bei amatininkus, taip siekdamas stiprinti šalies ryšius su Europa. Laiškai buvo skirti popiežiui, dominikonų vyresniesiems, Mažesniųjų brolių ordinui ir pajūrio miestams, tarp jų Liubekui, Rostokui, Zundui, Greifsvaldui bei Štetinui. Jų reikšmė siejama ne tik su pirmuoju Vilniaus paminėjimu rašytiniuose šaltiniuose, bet ir su nuoseklia Lietuvos europėjimo programa bei Gedimino siekiu priimti katalikų tikėjimą. Vis dėlto laiškų autentiškumas šaltiniuose ginčijamas: Foigtas jų parengimą priskyrė Rygos arkivyskupui, o Balińskis šią poziciją pateikė kartu su abejonėmis; laiškai taip pat buvo paskelbti su lenkišku vertimu ir Foigto pastabomis.","sentences":[{"sentence_id":"s1","text":"Gedimino laiškai – Lietuvos valdovui Gediminui priskiriamas viduramžių politinių laiškų rinkinys ir svarbus jo politikos atspindys.","support_ids":["t-171539","c-156044"]},{"sentence_id":"s2","text":"Laiškais Vakarų šalims ir miestams Gediminas, greta derybų dėl krikšto, kvietė į Lietuvą Vakarų pirklius bei amatininkus, taip siekdamas stiprinti šalies ryšius su Europa.","support_ids":["t-171538","c-156041"]},{"sentence_id":"s3","text":"Laiškai buvo skirti popiežiui, dominikonų vyresniesiems, Mažesniųjų brolių ordinui ir pajūrio miestams, tarp jų Liubekui, Rostokui, Zundui, Greifsvaldui bei Štetinui.","support_ids":["t-55216","c-55639"]},{"sentence_id":"s4","text":"Jų reikšmė siejama ne tik su pirmuoju Vilniaus paminėjimu rašytiniuose šaltiniuose, bet ir su nuoseklia Lietuvos europėjimo programa bei Gedimino siekiu priimti katalikų tikėjimą.","support_ids":["t-171539","c-156044"]},{"sentence_id":"s5","text":"Vis dėlto laiškų autentiškumas šaltiniuose ginčijamas: Foigtas jų parengimą priskyrė Rygos arkivyskupui, o Balińskis šią poziciją pateikė kartu su abejonėmis; laiškai taip pat buvo paskelbti su lenkišku vertimu ir Foigto pastabomis.","support_ids":["t-55213","c-55636","t-55214","c-55637","t-55215","c-55638"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia, kad laiškai laikomi reikšmingu Gedimino politikos atspindžiu, tačiau tiesiogiai nepatvirtina viso apibūdinimo kaip viduramžių politinių laiškų rinkinio."},{"sentence_id":"s2","supported":false,"reason":"Šaltinis patvirtina Vakarų pirklių ir amatininkų kvietimą, bet ne tiesioginį teiginį, kad tuo buvo siekiama stiprinti Lietuvos ryšius su Europa."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo laišką popiežiui, laiškus dominikonų vyresniesiems, Mažesniųjų brolių ordinui ir išvardytiems pajūrio miestams."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai sieja laiškus su pirmuoju Vilniaus paminėjimu, Lietuvos europėjimo programa ir Gedimino noru priimti katalikų tikėjimą."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai pagrindžia Foigto abejones dėl autentiškumo ir priskyrimą Rygos arkivyskupui, Balińskio pateiktas abejones bei publikavimą su lenkišku vertimu ir Foigto pastabomis."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-171539","c-156044"]},{"sentence_id":"s2","supported":true,"support_ids":["t-171538","c-156041"]},{"sentence_id":"s3","supported":true,"support_ids":["t-55216","c-55639"]},{"sentence_id":"s4","supported":true,"support_ids":["t-171539","c-156044"]},{"sentence_id":"s5","supported":true,"support_ids":["t-55213","c-55636","t-55214","c-55637","t-55215","c-55638"]}],"verifier":"gpt-5.6-luna"},"quality":58,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":8,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f8854ee3b56ef07c
+object_page_generated_at: '2026-09-19T09:39:58+00:00'
+object_page_source_checked_at: '2026-09-19T09:39:58+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '3'
+object_page_seo_description: Gedimino laiškai – Lietuvos valdovui Gediminui priskiriamas viduramžių politinių laiškų rinkinys ir svarbus jo politikos atspindys. Laiškais Vakarų šalims ir…
+object_page_seo_input_hash: 4a82ae4a68b12a7d9a75f24f460c8fb3065e521ca7c3dc84de3682f4e9fe15fb
+object_page_seo_generated_at: '2026-09-19T09:39:58+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Gedimino laiškai
 
@@ -52,6 +62,177 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
 
 ## Teiginiai
 
+<a id="claim-t-55211"></a>
+- t-001
+  teiginys: "Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumentas buvo Karaliaučiaus Slaptajame archyve, o Kotzebue juos paskelbė „Prūsijos istorijoje“."
+  atnaujinta: "2026-05-31 14:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1323 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55634
+
+<a id="claim-t-55212"></a>
+- t-002
+  teiginys: "Kai kurie Gedimino laiškai rašyti Vilniuje 1323 m. gegužės 26 d. ir Vilnių vadina karališkuoju miestu."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1323 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir pagrįstas pateiktomis citatomis."
+  pagrindžia:
+    - c-55635
+
+<a id="claim-t-55213"></a>
+- t-003
+  teiginys: "Foigtas ginčijo Gedimino laiškų autentiškumą ir jų parengimą priskyrė Rygos arkivyskupui."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55636
+
+<a id="claim-t-55214"></a>
+- t-004
+  teiginys: "Abejonės dėl Gedimino laiškų autentiškumo, Balińskio vertinimu, nepaneigia, kad Vilnius jau buvo miestas ir Gedimino sostinė."
+  atnaujinta: "2026-05-31 14:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55637
+
+<a id="claim-t-55215"></a>
+- t-005
+  teiginys: "Balińskis Gedimino laiškus dėjo į papildymus kartu su lenkišku vertimu ir Foigto pastabomis."
+  atnaujinta: "2026-05-31 14:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55638
+
+<a id="claim-t-55216"></a>
+- t-006
+  teiginys: "Gedimino laiškai buvo adresuoti dominikonų ordino vyresniesiems, Mažesniųjų brolių ordinui ir pajūrio miestams."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55639
+
+<a id="claim-t-55217"></a>
+- t-007
+  teiginys: "Trijuose Gedimino laiškuose buvo įrašytas antspaudo tikrumą ginantis prakeiksmas tiems, kurie juo nepatikėtų."
+  atnaujinta: "2026-05-31 14:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55643
+
+<a id="claim-t-171537"></a>
+- t-008
+  teiginys: "„Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1966 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia leidinio rengėjus, vietą ir metus."
+  pagrindžia:
+    - c-156042
+
+<a id="claim-t-171538"></a>
+- t-009
+  teiginys: "Gediminas laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-156041
+
+<a id="claim-t-171539"></a>
+- t-010
+  teiginys: "Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1323-1324; įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys apie šaltinį."
+  pagrindžia:
+    - c-156044
+
 <a id="claim-t-171541"></a>
 - t-011
   teiginys: "Laiškų autorius Mazovijos kunigaikštį vadino Bonislavu, todėl, pasak kritikos, prastai žinojo to meto Mazovijos valdovą."
@@ -68,184 +249,10 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   pagrindžia:
     - c-156040
 
-<a id="claim-t-220198"></a>
-- t-220198
-  teiginys: "„Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1966 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia leidinio rengėjus, vietą ir metus."
-  pagrindžia:
-    - c-202954
-
-<a id="claim-t-55211"></a>
-- t-55211
-  teiginys: "Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumentas buvo Karaliaučiaus Slaptajame archyve, o Kotzebue juos paskelbė „Prūsijos istorijoje“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55634
-
-<a id="claim-t-55212"></a>
-- t-55212
-  teiginys: "Kai kurie Gedimino laiškai rašyti Vilniuje 1323 m. gegužės 26 d. ir Vilnių vadina karališkuoju miestu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir pagrįstas pateiktomis citatomis."
-  pagrindžia:
-    - c-55635
-    - c-55640
-
-<a id="claim-t-55213"></a>
-- t-55213
-  teiginys: "Foigtas ginčijo Gedimino laiškų autentiškumą ir jų parengimą priskyrė Rygos arkivyskupui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55636
-    - c-55641
-    - c-55642
-
-<a id="claim-t-55214"></a>
-- t-55214
-  teiginys: "Abejonės dėl Gedimino laiškų autentiškumo, Balińskio vertinimu, nepaneigia, kad Vilnius jau buvo miestas ir Gedimino sostinė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55637
-
-<a id="claim-t-55215"></a>
-- t-55215
-  teiginys: "Balińskis Gedimino laiškus dėjo į papildymus kartu su lenkišku vertimu ir Foigto pastabomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55638
-
-<a id="claim-t-55216"></a>
-- t-55216
-  teiginys: "Gedimino laiškai buvo adresuoti dominikonų ordino vyresniesiems, Mažesniųjų brolių ordinui ir pajūrio miestams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55639
-
-<a id="claim-t-55217"></a>
-- t-55217
-  teiginys: "Trijuose Gedimino laiškuose buvo įrašytas antspaudo tikrumą ginantis prakeiksmas tiems, kurie juo nepatikėtų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55643
-
-<a id="claim-t-171538"></a>
-- t-171538
-  teiginys: "Gediminas laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-156041
-
-<a id="claim-t-171539"></a>
-- t-171539
-  teiginys: "Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino laiškai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1323-1324; įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys apie šaltinį."
-  pagrindžia:
-    - c-156044
-
 <a id="claim-t-171542"></a>
-- t-171542
+- t-012
   teiginys: "Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -260,9 +267,9 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-156046
 
 <a id="claim-t-171544"></a>
-- t-171544
+- t-013
   teiginys: "Balińskis laikėsi nuomonės, kad Gedimino laiškai buvo Rygos arkivyskupo prasimanyti iš neapykantos kryžiuočiams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -279,18 +286,18 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-156045
 
 <a id="claim-t-171545"></a>
-- t-171545
+- t-014
   teiginys: "Balińskis laiškų netikrumą grindė jų turiniu ir posakiais, kurie esą nebūdingi dar tik krikščioniu norinčiam tapti žmogui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-156043
 
 <a id="claim-t-171546"></a>
-- t-171546
+- t-015
   teiginys: "Gedimino laiškų netikrumo įrodymu laikyta užuomina apie Mazoviją kaip laisvą ir saugų kelią svetimšaliams į Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -304,9 +311,9 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-156048
 
 <a id="claim-t-171547"></a>
-- t-171547
+- t-016
   teiginys: "Gediminas laiške žadėjo saugoti bažnytines teises, gerbti dvasininkiją ir gausinti Dievo šlovinimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -364,8 +371,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55211
+  pagrindzia:
+    - t-001
 
 - id: c-55635
   autorius: "Michał Baliński"
@@ -394,8 +401,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55212
+  pagrindzia:
+    - t-002
 
 - id: c-55636
   autorius: "Michał Baliński"
@@ -419,8 +426,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55213
+  pagrindzia:
+    - t-003
 
 - id: c-55637
   autorius: "Michał Baliński"
@@ -450,8 +457,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55214
+  pagrindzia:
+    - t-004
 
 - id: c-55638
   autorius: "Michał Baliński"
@@ -476,8 +483,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55215
+  pagrindzia:
+    - t-005
 
 - id: c-55639
   autorius: "Michał Baliński"
@@ -507,8 +514,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55216
+  pagrindzia:
+    - t-006
 
 - id: c-55640
   autorius: "Michał Baliński"
@@ -536,9 +543,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55212
-
 - id: c-55641
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -561,9 +565,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55213
-
 - id: c-55642
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -591,9 +592,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55213
-
 - id: c-55643
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -612,8 +610,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55217
+  pagrindzia:
+    - t-007
 
 - id: c-156040
   autorius: "Michał Baliński"
@@ -629,12 +627,11 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonisla-
     vas, Mazovijos kunigaikštis]0.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-156041
@@ -656,8 +653,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-171538
+  pagrindzia:
+    - t-009
 
 - id: c-156042
   autorius: "Petras Dusburgietis"
@@ -671,6 +668,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 - id: c-156043
   autorius: "Michał Baliński"
@@ -697,8 +696,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-171545
+  pagrindzia:
+    - t-014
 
 - id: c-156044
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -727,8 +726,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-171539
+  pagrindzia:
+    - t-010
 
 - id: c-156045
   autorius: "Michał Baliński"
@@ -752,8 +751,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-171544
+  pagrindzia:
+    - t-013
 
 - id: c-156046
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -779,8 +778,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-171542
+  pagrindzia:
+    - t-012
 
 - id: c-156047
   autorius: "Michał Baliński"
@@ -810,8 +809,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-171547
+  pagrindzia:
+    - t-016
 
 - id: c-156048
   autorius: "Michał Baliński"
@@ -834,22 +833,5 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-171546
-
-- id: c-202954
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 263."
-  citata_originali: |
-    Gedimino laiškai / Parengė V. Pašuta ir J. Stal.—V., 1966.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220198
-
+  pagrindzia:
+    - t-015

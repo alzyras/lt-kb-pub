@@ -43,6 +43,24 @@ historical_names: []
 
 1791 m. dėl Jono Radzevičiaus mūrinio namo Rūdninkų gatvėje užpuolimo teismas Mykolą Aleksandravičių ir jo pagalbininkus nuteisė infamijos bausme.
 
+## Teiginiai
+
+<a id="claim-t-203838"></a>
+- t-001
+  teiginys: "1791 m. dėl Jono Radzevičiaus mūrinio namo Rūdninkų gatvėje užpuolimo teismas Mykolą Aleksandravičių ir jo pagalbininkus nuteisė infamijos bausme."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Vietos faktas susietas su citatoje nurodytu užpuolimu ir teismo sprendimu. Išlaikyti tik tiesiogiai šaltinio pagrįsti asmenys bei pasekmė."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186442
+
 ## Citatos
 
 - id: c-186442
@@ -61,24 +79,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203838"></a>
-- t-001
-  teiginys: "1791 m. dėl Jono Radzevičiaus mūrinio namo Rūdninkų gatvėje užpuolimo teismas Mykolą Aleksandravičių ir jo pagalbininkus nuteisė infamijos bausme."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Vietos faktas susietas su citatoje nurodytu užpuolimu ir teismo sprendimu. Išlaikyti tik tiesiogiai šaltinio pagrįsti asmenys bei pasekmė."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186442
-

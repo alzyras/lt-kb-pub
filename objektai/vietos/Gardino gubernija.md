@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Gardino gubernija'
+pavadinimas: Gardino gubernija
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1801 m.'
-  - '1819 m.'
-  - '1843 m.'
+  - 1801 m.
+  - 1819 m.
+  - 1843 m.
 date_start: '1801'
 date_end: '1843'
 sukurta: ''
@@ -16,28 +16,40 @@ tags:
   - kraštas
   - vieta
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-aedc044b4b0624b3f4c93b73"
-canonical_name: "Gardino gubernija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Gardino gubernija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-aedc044b4b0624b3f4c93b73
+canonical_name: Gardino gubernija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Gardino gubernija
 sameAs: []
-canonical_biography: "1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pradėjusiai veikti generalgubernatoriaus institucijai. Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių, istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gubernijos šiaurinis pakraštys. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu."
+canonical_biography: '1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pradėjusiai veikti generalgubernatoriaus institucijai. Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių, istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gubernijos šiaurinis pakraštys. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Gardino gubernija","url":"https://lt.wikipedia.org/wiki/Gardino_gubernija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Gardino Gubernija","url":"https://www.vle.lt/straipsnis/gardino-gubernija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T15:24:45+00:00","source_checked_at":"2026-09-19T15:24:45+00:00","counts":{"relations":0,"gallery":0,"sources":8},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių, istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu- bernijos šiaurinis pakraštys.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","claim_id":"t-101723","evidence_id":"c-24126","origin":"internal"},"wiki":{"status":"published","source":{"title":"Gardino gubernija","url":"https://lt.wikipedia.org/wiki/Gardino_gubernija","publisher":"Vikipedija","language":"lt","article_id":"110375","revision_id":"7592687","published_at":"2025-07-11T09:37:15Z","version_pk":"","content_hash":"2b3f9046669e2cb0c826620f338697fb3275778c9f2d73ac6456e33f50103576","retrieved_at":"2026-09-19T15:21:49+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Gardino_gubernija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"110375"}},"intro":"Gardino gubernija (rus. Гродненская губерния, bltr. Гродзенская губерня, lenk. Gubernia grodzieńska; 1801–1840 m. Lietuvos Gardino gubernija, rus. Литовско-Гродненская губерния) – 1801–1915 m. Rusijos imperijos administracinis-teritorinis vienetas, buvęs dabartinės Gudijos vakaruose, Lenkijos šiaurės vakaruose ir Lietuvos teritorijoje – dabartinėje Druskininkų savivaldybėje, Lazdijų rajono ir Varėnos rajono pietinėse dalyse. Centras – Gardinas. Gubernija šiaurėje ribojosi su Suvalkų gubernija, šiaurės rytuose su Vilniaus gubernija, rytuose su Minsko gubernija, pietuose su Volynės gubernija, pietvakariuose su Chelmo gubernija ir Liublino gubernija, vakaruose su Lomžos gubernija.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Gardino gubernija","url":"https://lt.wikipedia.org/wiki/Gardino_gubernija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Gardino Gubernija","url":"https://www.vle.lt/straipsnis/gardino-gubernija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Gardino_gubernija","https://www.vle.lt/straipsnis/gardino-gubernija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"a447d401bb1cd260a299ae5b","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Šiaurinis pakraštys istoriniu etnografiniu požiūriu laikytas lietuvišku.","context":"Šaltinio autoriai apibūdina Gardino gubernijos šiaurinį pakraštį istoriniu etnografiniu požiūriu; laikas nenurodytas.","support_ids":["t-101723","c-24126"],"source_refs":[{"kind":"internal_claim","claim_id":"t-101723","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-24126","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių, istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu- bernijos šiaurinis pakraštys."}],"status":"published","conflict_status":"clear"},{"trait_id":"f573c5f826eb896307846793","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Gardino gubernijos teritorijos dalis apėmė vokiečių kariuomenės užimtą plotą.","context":"1916 m. šaltinyje, aprašant siūlomas Lietuvos administratyves sienas, minima visa vokiečių armijos užimta Gardino gubernijos teritorijos dalis.","support_ids":["t-209615","c-192235"],"source_refs":[{"kind":"internal_claim","claim_id":"t-209615","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md"},{"kind":"evidence","evidence_id":"c-192235","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md","quote":"Lietuvos administratyvės sienos siekia Suval­ kų miestą (inclusive), Augustavo kanalą ir visą plotą Gardino gubernijos, užimtą vokie­ čių armijos."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Gardino gubernija – istorinė gubernija, kurios šiaurinis pakraštys istoriniu etnografiniu požiūriu laikytas lietuvišku. 1801 m. sudaryta Lietuvos Gardino gubernija buvo pavaldi tais pačiais metais Vilniuje pradėjusiai veikti generalgubernatoriaus institucijai. Jos istoriją ženklino administraciniai pertvarkymai: 1843 m. prie Vilniaus gubernijos priskirtos trys apskritys, anksčiau priklausiusios Minsko ir Gardino gubernijoms. Tuo pat metu caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno guberniją, nors vakarinėje Vilniaus gubernijos dalyje tebebuvo daug lietuviškai kalbančiųjų. 1840 m. Lietuvos vardas buvo išbrauktas iš Vilniaus ir Gardino gubernijų pavadinimų, o Gardino gubernijoje vykdyti žydų iškeldinimo iš dvarų ir sodžių įsakai liko iš esmės popieriniai; su ja taip pat siejamas Volkovysko apskrities teisėjas Aleksandras Bychovcas.","sentences":[{"sentence_id":"s1","text":"Gardino gubernija – istorinė gubernija, kurios šiaurinis pakraštys istoriniu etnografiniu požiūriu laikytas lietuvišku.","support_ids":["t-101723","c-24126"]},{"sentence_id":"s2","text":"1801 m. sudaryta Lietuvos Gardino gubernija buvo pavaldi tais pačiais metais Vilniuje pradėjusiai veikti generalgubernatoriaus institucijai.","support_ids":["t-101724","c-24125"]},{"sentence_id":"s3","text":"Jos istoriją ženklino administraciniai pertvarkymai: 1843 m. prie Vilniaus gubernijos priskirtos trys apskritys, anksčiau priklausiusios Minsko ir Gardino gubernijoms.","support_ids":["t-101725","c-95150"]},{"sentence_id":"s4","text":"Tuo pat metu caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno guberniją, nors vakarinėje Vilniaus gubernijos dalyje tebebuvo daug lietuviškai kalbančiųjų.","support_ids":["t-101725","c-95150"]},{"sentence_id":"s5","text":"1840 m. Lietuvos vardas buvo išbrauktas iš Vilniaus ir Gardino gubernijų pavadinimų, o Gardino gubernijoje vykdyti žydų iškeldinimo iš dvarų ir sodžių įsakai liko iš esmės popieriniai; su ja taip pat siejamas Volkovysko apskrities teisėjas Aleksandras Bychovcas.","support_ids":["t-207578","c-190195","t-209267","c-191944","t-211586","c-194158"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta c-24126."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta c-24125; data, pavadinimas ir pavaldumas sutampa."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta c-95150."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta c-95150."},{"sentence_id":"s5","supported":true,"reason":"Visos trys teiginio dalys tiesiogiai paremtos atitinkamai c-190195, c-191944 ir c-194158."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-101723","c-24126"]},{"sentence_id":"s2","supported":true,"support_ids":["t-101724","c-24125"]},{"sentence_id":"s3","supported":true,"support_ids":["t-101725","c-95150"]},{"sentence_id":"s4","supported":true,"support_ids":["t-101725","c-95150"]},{"sentence_id":"s5","supported":true,"support_ids":["t-207578","c-190195","t-209267","c-191944","t-211586","c-194158"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[{"date":"1801 m.","label":"1801 m.","claimId":"t-101724"},{"date":"1813 m.","label":"1804, 1807 ir 1813 m.","claimId":"t-209267"},{"date":"1840 m.","label":"1840 m.","claimId":"t-207578"},{"date":"1843 m.","label":"1843 m.","claimId":"t-101721"},{"date":"1843 m.","label":"1843 m.","claimId":"t-101725"}],"support_disclosure":{"claims":10,"sources":6}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ac87e06541405a4a
+object_page_generated_at: '2026-09-19T15:24:45+00:00'
+object_page_source_checked_at: '2026-09-19T15:24:45+00:00'
+object_page_content_state: content
+object_page_claim_count: '10'
+object_page_source_count: '6'
+object_page_seo_description: 'Gardino gubernija – istorinė gubernija, kurios šiaurinis pakraštys istoriniu etnografiniu požiūriu laikytas lietuvišku. 1801 m. sudaryta Lietuvos Gardino…'
+object_page_seo_input_hash: fb116f8b8896a428fa7c65e733d998c6f4bc48126786040c6ea3fd2f72aa797b
+object_page_seo_generated_at: '2026-09-19T15:24:45+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Gardino gubernija
 
@@ -47,74 +59,10 @@ historical_names: []
 
 ## Teiginiai
 
-<a id="claim-t-209267"></a>
-- t-209267
-  teiginys: "1804, 1807 ir 1813 m. Rusijos valdžios įsakai dėl žydų iškeldinimo iš dvarų ir sodžių Gardino gubernijoje pradėti vykdyti tik iš dalies."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  temporaliniai_duomenys: "įvykio data: 1813 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įvardytas įsakų leidėjas, jų turinys ir taikymo apimtis. Vėlesnė citatoje minima karo aplinkybė sąmoningai neįtraukta."
-  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
-  pagrindžia:
-    - c-191944
-
-<a id="claim-t-209470"></a>
-- t-209470
-  teiginys: "Vilniaus, Kauno ir Gardino gubernijose."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
-  pagrindžia:
-    - c-192090
-
-<a id="claim-t-209614"></a>
-- t-209614
-  teiginys: "Siųskime pinigus jeigu nenorim nustoti Lietuvai Vilniaus ir Gardino gubernijų."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192234
-
-<a id="claim-t-209615"></a>
-- t-209615
-  teiginys: "Lietuvos administratyvės sienos siekia Suval kų miestą (inclusive), Augustavo kanalą ir visą plotą Gardino gubernijos, užimtą vokie čių armijos."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192235
-
-<a id="claim-t-211586"></a>
-- t-211586
-  teiginys: "Aleksandras Bychovcas buvo Gardino gubernijos Volkovysko apskrities teisėjas."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194158
-
 <a id="claim-t-101721"></a>
-- t-101721
+- t-001
   teiginys: "1843 m. prie Vilniaus gubernijos prijungtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -131,9 +79,9 @@ historical_names: []
     - c-95150
 
 <a id="claim-t-101723"></a>
-- t-101723
+- t-002
   teiginys: "Gardino gubernijos šiaurinis pakraštys istoriniu etnografiniu požiūriu buvo laikomas lietuvišku."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -149,9 +97,9 @@ historical_names: []
     - c-24126
 
 <a id="claim-t-101724"></a>
-- t-101724
+- t-003
   teiginys: "1801 m. buvo sudaryta Lietuvos Gardino gubernija, pavaldi Vilniuje veikusiai generalgubernatoriaus institucijai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -167,9 +115,9 @@ historical_names: []
     - c-24125
 
 <a id="claim-t-101725"></a>
-- t-101725
+- t-004
   teiginys: "1843 m. prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -184,22 +132,6 @@ historical_names: []
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir pagrįstas citata apie Gardino gubernijai priklausiusias apskritis."
   pagrindžia:
     - c-95150
-
-<a id="claim-t-207578"></a>
-- t-207578
-  teiginys: "1840 m. Lietuvos vardas buvo išbrauktas iš Vilniaus ir Gardino gubernijų pavadinimų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  temporaliniai_duomenys: "įvykio data: 1840 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys suformuluotas tiesiogiai, nurodant datą ir abu gubernijų pavadinimus. Iš citatos paimtas tik faktas, be papildomo politinio vertinimo."
-  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
-  pagrindžia:
-    - c-190195
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -240,8 +172,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-101724
+  pagrindzia:
+    - t-003
 
 - id: c-24126
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -263,8 +195,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-101723
+  pagrindzia:
+    - t-002
 
 - id: c-95150
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -289,128 +221,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-101721
-    - t-101725
-
-- id: c-190195
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 208"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 208."
-  citata_originali: |
-    Tiesa, Medicinos fakultetas pertvarkomas
-    į Medicinos-chirurgijos akademiją, o Teologijos fakultetas – į Dvasinę akademiją. Tačiau ir
-    šios 1842–1844 m. perkeliamos į Kijevą ir Peterburgą. 1839 m. likviduojama Graikų katalikų
-    bažnyčia, 1840 m. naikinamas Lietuvos Statuto veikimas, Lietuvos vardas išbraukiamas iš
-    Vilniaus ir Gardino gubernijų pavadinimų, o 1843 m. sudaroma nauja Kauno gubernija.
-  citata_rodoma: "1839 m. likviduojama Graikų katalikų \nbažnyčia, 1840 m. naikinamas Lietuvos Statuto veikimas, Lietuvos vardas išbraukiamas iš \nVilniaus ir Gardino gubernijų pavadinimų, o 1843 m. sudaroma nauja Kauno gubernija."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207578
-
-- id: c-191944
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 51"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 51."
-  citata_originali: |
-    1804,
-    1807,
-    1813 m. Rusijos valdžia, gindama
-    viešpataujančios klasės interesus, išleido įsakus, įpareigojančius žydus
-    išsikelti iš dvarų ir sodžių. Kuršo, Gardino gubernijose iš dalies tie
-    patvarkymai pradėti vykdyti59, bet 1812 karo metu Lietuvos
-    bajoriškajai visuomenei daug prisidėjus prie Napoleono žygio, o žydų
-    bendruomenei gerai pasidarbavus Rusijos interesų labui, tie įsakai liko
-    tik popieriuje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209267
-
-- id: c-192090
-  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
-  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
-  puslapiai: "PDF 54"
-  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 54."
-  citata_originali: |
-    Caras Aleksandras II 1857. XI. 20 reskriptu krei­
-    pėsi į Vilniaus generalgubernatorių V. Nazimovą, leis­
-    damas Vilniaus, Kauno ir Gardino gubernijose sudalyti
-    vietos bajorų dvarininkų komitetus valstiečių reformos
-    projektams nagrinėti.
-  citata_rodoma: "Vilniaus, Kauno ir Gardino gubernijose"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209470
-
-- id: c-192234
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 52"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 52."
-  citata_originali: |
-    Siųs-
-    kime pinigus jeigu nenorim nustoti Lietuvai
-    Vilniaus ir Gardino gubernijų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209614
-
-- id: c-192235
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 65"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 65."
-  citata_originali: |
-    Lietuvos administratyvės sienos siekia Suval­
-    kų miestą (inclusive), Augustavo kanalą ir
-    visą plotą Gardino gubernijos, užimtą vokie­
-    čių armijos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209615
-
-- id: c-194158
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 3"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 3."
-  citata_originali: |
-    „Bychovco kronika" jis buvo pramintas XIX a.
-    pagal rankraščio savininką, Gardino gubernijos Volko-
-    vysko apskrities teisėją Aleksandrą Bychovcą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211586
-
+  pagrindzia:
+    - t-001
+    - t-004

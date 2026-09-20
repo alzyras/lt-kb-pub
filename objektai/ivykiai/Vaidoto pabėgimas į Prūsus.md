@@ -49,6 +49,28 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-35892"></a>
+- t-001
+  teiginys: "1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Butautas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vaidotas (Butauto sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Butautas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Vaidotas buvo Butauto sūnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vaidotas (Butauto sūnus) buvo sūnus Butautas (0.97); Vaidotas (Butauto sūnus) keliavo į Prūsų žemė (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1381 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata."
+  pagrindžia:
+    - c-38326
+
 ## Citatos
 
 - id: c-38326
@@ -71,28 +93,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-35892"></a>
-- t-001
-  teiginys: "1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Butautas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vaidotas (Butauto sūnus): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Butautas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Vaidotas buvo Butauto sūnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vaidotas (Butauto sūnus) buvo sūnus Butautas (0.97); Vaidotas (Butauto sūnus) keliavo į Prūsų žemė (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1381 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata."
-  pagrindžia:
-    - c-38326
-

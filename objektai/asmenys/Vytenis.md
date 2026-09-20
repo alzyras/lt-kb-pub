@@ -12,8 +12,8 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1232 m.'
-  - '1283 m.'
+  - 1232 m.
+  - 1283 m.
 date_start: '1232'
 date_end: '1283'
 sukurta: ''
@@ -24,29 +24,43 @@ tags:
   - mūšis
   - valdovas
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'portrait_of'
-media_primary_json: |-
-  {"mediaId":"m-62590141b4026e149c0014c3","title":"Vicień. Віцень (1709).jpg","caption":"XVIII a. Vytenio portretas su lotynišku įrašu apie Lietuvos valdovą.","originalTitle":"Vicień. Віцень (1709).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Wawel Royal Castle","dateDisplay":"1709 date QS:P571,+1709-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":657,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ermine (clothing) in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait gallery of Sapieha family in Kodeń","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portraits with the Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytenis in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on portrait paintings","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytenis.md","title":"Vytenis (valdovas, XIII–XIV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:21:12.208954+03:00","reviewedAt":"2026-07-18T14:21:34.844498+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas barzdotas valdovas su valdžios lazda; apačioje esantis lotyniškas įrašas įvardija „Vitenes“ ir Lietuvos valdovą, nurodo 1315 m. mirtį.","metadataEvidence":"Wikimedia Commons metaduomenyse kūrinys pavadintas „Vicień. Віцень“, datuojamas 1709 m. ir aprašytas kaip Lietuvos didžiojo kunigaikščio Vytenio atvaizdas.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir įrašas tiesiogiai identifikuoja Vytenį; tai vėlesnis istorinis jo portretas.","isPrimary":1}
-media_direct_json: |-
-  [{"mediaId":"m-62590141b4026e149c0014c3","title":"Vicień. Віцень (1709).jpg","caption":"XVIII a. Vytenio portretas su lotynišku įrašu apie Lietuvos valdovą.","originalTitle":"Vicień. Віцень (1709).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Wawel Royal Castle","dateDisplay":"1709 date QS:P571,+1709-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":657,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ermine (clothing) in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait gallery of Sapieha family in Kodeń","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portraits with the Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytenis in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on portrait paintings","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytenis.md","title":"Vytenis (valdovas, XIII–XIV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:21:12.208954+03:00","reviewedAt":"2026-07-18T14:21:34.844498+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas barzdotas valdovas su valdžios lazda; apačioje esantis lotyniškas įrašas įvardija „Vitenes“ ir Lietuvos valdovą, nurodo 1315 m. mirtį.","metadataEvidence":"Wikimedia Commons metaduomenyse kūrinys pavadintas „Vicień. Віцень“, datuojamas 1709 m. ir aprašytas kaip Lietuvos didžiojo kunigaikščio Vytenio atvaizdas.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir įrašas tiesiogiai identifikuoja Vytenį; tai vėlesnis istorinis jo portretas.","isPrimary":1}]
-media_contextual_json: |-
-  []
-media_all_json: |-
-  [{"mediaId":"m-62590141b4026e149c0014c3","title":"Vicień. Віцень (1709).jpg","caption":"XVIII a. Vytenio portretas su lotynišku įrašu apie Lietuvos valdovą.","originalTitle":"Vicień. Віцень (1709).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Wawel Royal Castle","dateDisplay":"1709 date QS:P571,+1709-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":657,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ermine (clothing) in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait gallery of Sapieha family in Kodeń","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portraits with the Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytenis in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on portrait paintings","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytenis.md","title":"Vytenis (valdovas, XIII–XIV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:21:12.208954+03:00","reviewedAt":"2026-07-18T14:21:34.844498+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas barzdotas valdovas su valdžios lazda; apačioje esantis lotyniškas įrašas įvardija „Vitenes“ ir Lietuvos valdovą, nurodo 1315 m. mirtį.","metadataEvidence":"Wikimedia Commons metaduomenyse kūrinys pavadintas „Vicień. Віцень“, datuojamas 1709 m. ir aprašytas kaip Lietuvos didžiojo kunigaikščio Vytenio atvaizdas.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir įrašas tiesiogiai identifikuoja Vytenį; tai vėlesnis istorinis jo portretas.","isPrimary":1}]
-entity_id: "ent-4dc9b2d19771c2294c923cdf"
-canonical_name: "Vytenis (valdovas, XIII–XIV a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["karalius Vytenis","lietuvių karalius","Vytenis","Vytenis (valdovas, XIII–XIV a.)"]
+media_primary_directness: direct
+media_primary_relation_type: portrait_of
+media_primary_json: '{"mediaId":"m-62590141b4026e149c0014c3","title":"Vicień. Віцень (1709).jpg","caption":"XVIII a. Vytenio portretas su lotynišku įrašu apie Lietuvos valdovą.","originalTitle":"Vicień. Віцень (1709).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Wawel Royal Castle","dateDisplay":"1709 date QS:P571,+1709-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":657,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ermine (clothing) in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait gallery of Sapieha family in Kodeń","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portraits with the Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytenis in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on portrait paintings","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytenis.md","title":"Vytenis (valdovas, XIII–XIV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:21:12.208954+03:00","reviewedAt":"2026-07-18T14:21:34.844498+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas barzdotas valdovas su valdžios lazda; apačioje esantis lotyniškas įrašas įvardija „Vitenes“ ir Lietuvos valdovą, nurodo 1315 m. mirtį.","metadataEvidence":"Wikimedia Commons metaduomenyse kūrinys pavadintas „Vicień. Віцень“, datuojamas 1709 m. ir aprašytas kaip Lietuvos didžiojo kunigaikščio Vytenio atvaizdas.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir įrašas tiesiogiai identifikuoja Vytenį; tai vėlesnis istorinis jo portretas.","isPrimary":1}'
+media_direct_json: '[{"mediaId":"m-62590141b4026e149c0014c3","title":"Vicień. Віцень (1709).jpg","caption":"XVIII a. Vytenio portretas su lotynišku įrašu apie Lietuvos valdovą.","originalTitle":"Vicień. Віцень (1709).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Wawel Royal Castle","dateDisplay":"1709 date QS:P571,+1709-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":657,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ermine (clothing) in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait gallery of Sapieha family in Kodeń","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portraits with the Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytenis in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on portrait paintings","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytenis.md","title":"Vytenis (valdovas, XIII–XIV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:21:12.208954+03:00","reviewedAt":"2026-07-18T14:21:34.844498+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas barzdotas valdovas su valdžios lazda; apačioje esantis lotyniškas įrašas įvardija „Vitenes“ ir Lietuvos valdovą, nurodo 1315 m. mirtį.","metadataEvidence":"Wikimedia Commons metaduomenyse kūrinys pavadintas „Vicień. Віцень“, datuojamas 1709 m. ir aprašytas kaip Lietuvos didžiojo kunigaikščio Vytenio atvaizdas.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir įrašas tiesiogiai identifikuoja Vytenį; tai vėlesnis istorinis jo portretas.","isPrimary":1}]'
+media_contextual_json: '[]'
+media_all_json: '[{"mediaId":"m-62590141b4026e149c0014c3","title":"Vicień. Віцень (1709).jpg","caption":"XVIII a. Vytenio portretas su lotynišku įrašu apie Lietuvos valdovą.","originalTitle":"Vicień. Віцень (1709).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Wawel Royal Castle","dateDisplay":"1709 date QS:P571,+1709-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":657,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ermine (clothing) in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait gallery of Sapieha family in Kodeń","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portraits with the Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytenis in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on portrait paintings","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytenis.md","title":"Vytenis (valdovas, XIII–XIV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:21:12.208954+03:00","reviewedAt":"2026-07-18T14:21:34.844498+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas barzdotas valdovas su valdžios lazda; apačioje esantis lotyniškas įrašas įvardija „Vitenes“ ir Lietuvos valdovą, nurodo 1315 m. mirtį.","metadataEvidence":"Wikimedia Commons metaduomenyse kūrinys pavadintas „Vicień. Віцень“, datuojamas 1709 m. ir aprašytas kaip Lietuvos didžiojo kunigaikščio Vytenio atvaizdas.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir įrašas tiesiogiai identifikuoja Vytenį; tai vėlesnis istorinis jo portretas.","isPrimary":1}]'
+entity_id: ent-4dc9b2d19771c2294c923cdf
+canonical_name: 'Vytenis (valdovas, XIII–XIV a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - karalius Vytenis
+  - lietuvių karalius
+  - Vytenis
+  - 'Vytenis (valdovas, XIII–XIV a.)'
 sameAs: []
-canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais. Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais. Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas."
+canonical_biography: '1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais. Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais. Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.'
+external_sources_json: '[{"title":"Vytenis","url":"https://lt.wikipedia.org/wiki/Vytenis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Vytenis - Wikipedia","url":"https://en.wikipedia.org/wiki/Vytenis","publisher":"Wikimedia Foundation","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-18T23:15:51+00:00","source_checked_at":"2026-09-18T23:15:51+00:00","counts":{"relations":39,"gallery":1,"sources":11},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Jie per aštuonis dešimtmečius (nuo Vytenio iki Jogailos) vis daug kartų yra vedę derybas Lietuvos krikšto reikalu.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","claim_id":"t-176818","evidence_id":"c-30361","origin":"internal"},"wiki":{"status":"published","source":{"title":"Vytenis","url":"https://lt.wikipedia.org/wiki/Vytenis","publisher":"Vikipedija","language":"lt","article_id":"2458","revision_id":"7754534","published_at":"2026-02-15T18:37:24Z","version_pk":"","content_hash":"f05d15c12b70b87886a702f45d7fdb98aa98959229458e76651481768f9233c9","retrieved_at":"2026-09-18T23:08:50+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Vytenis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"2458"}},"intro":"Vytenis (~1260 – 1315 arba 1316) – Lietuvos didysis kunigaikštis (nuo ~1295 iki 1315 ar 1316 m.), Butvydo sūnus. Jo valdymo laikotarpis pasižymėjo nuolatinėmis lietuvių kovomis su Vokiečių ordinu, Lenkija ir Voluinės rusėnais.","original_intro":"","translation_status":"native","infobox":[{"code":"positions","label":"Pareigos","value":"Lietuvos didysis kunigaikštis","source":"wikipedia_infobox"},{"code":"birth_date","label":"Gimė","value":"~~1260 m.","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"~1316 m.","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Butvydas","source":"wikipedia_infobox"},{"code":"spouse","label":"Sutuoktiniai","value":"Vikinda","source":"wikipedia_infobox"},{"code":"children","label":"Vaikai","value":"Žvelgutis","source":"wikipedia_infobox"},{"code":"reign","label":"Valdymas","value":"1295 m. – 1316 m.","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Vytenis","url":"https://lt.wikipedia.org/wiki/Vytenis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Wikimedia Foundation","title":"Vytenis - Wikipedia","url":"https://en.wikipedia.org/wiki/Vytenis","kind":"institutional","bucket":"institutional"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Vytenis","https://en.wikipedia.org/wiki/Vytenis"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7fbb0d648484927d3cea9876","canonical_code":"person.appearance","label":"Išvaizda","group":"Asmens bruožai","value":"Gražus veidas.","context":"Alberto Vijūko-Kojelavičiaus pasakojime Traidenį vaikystėje patraukė Vytenio gražus veidas; XIII–XIV a.","support_ids":["t-196650","c-178817"],"source_refs":[{"kind":"internal_claim","claim_id":"t-196650","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-178817","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Nuo tokio viltį ir sėkmę žadančio reginio reikia vis dėlto nukreipti žvilgsnį į šio reikalo pačią pradžią. Kartą Traidenis sugrįžo iš žygio į Prūsiją ir pamatė tarp kitų berniukų Vytenį, kurio gražus vei­ das jį patraukė ypatingu kilnumu (dažniausiai paskiri didelių asmenybių bruožai esti taurūs), jis pradėjo ati­ džiau jį stebėti, o ilgainiui, sakytum paskatintas kažin kokios slaptos galios, aiškiau suvokė savo busimąsias viltis, kurių gerai nė pats nesuprato. Netrukus, tėvams mielai sutinkant, mažametis Vytenis atsidūrė Traide­ nio šeimoje; kadangi jo dvasinė stiprybė ryškėjo die­ na iš dienos, vos suaugęs tapo miegamojo patarnauto­ ju, o susilaukęs vyro metų,— rūmų pareigūnu, kurį…"}],"status":"published","conflict_status":"clear"},{"trait_id":"6649418d56ea00ff88cbccec","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Išmintingas ir rimtas vyras.","context":"Lietuvos metraščio, Bychovco kronikos pasakojime didikai Vytenį laikė išmintingu ir rimtu; šaltinis tai pateikia kaip rinkimo į valdovus aplinkybę.","support_ids":["t-211668","c-193455"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211668","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193455","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Didikai, nenorėdami pažeisti savo tikrojo valdovo, didžiojo kunigaikščio Traidenio sūnaus, valios ir pa­ tarimo, [taip ir] padarė. Ir pamatę Vytenį esant išmin­ tingą bei rimtą vyrą, kuris buvo kilęs iš Stulpų gimi­ nės ir kartos, valdžiusios Ariogalą Žemaitijoje, išsirin­ ko jį Lietuvos ir Žemaičių didžiuoju"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"810660c62ea87f63678cdc81","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Įtarus, baiminęsis maištų ir savo tolesnio likimo.","context":"Alberto Vijūko-Kojelavičiaus vertinimu, staigiai į valdžią iškilęs Vytenis įtariai žvelgė į savo tolesnį likimą ir suvokė maištų grėsmę; pasakojimo karo aplinkybės.","support_ids":["t-203200","c-168245"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203200","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168245","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Staigiai ir be var­ go iškilęs į valdžios viršūnes, Vytenis turėjo pamato įtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa­ ma padėtis negali nekurstyti pavydo, neteikti progos maištams, ypač dėl to, kad negalėjo stigti maištui nei kurstytojų, nei dingsčių, pagaliau negalėjo trūkti nė vado būsimam vidaus karui, kol, jam valdant, Trai- verstas pradėti karą dėl visai kitų priežasčių, ypač pa­ brėždamas tą žinomiausią: būsią keršijama lenkams už patirtą praėjusiais metais Jotvingijoje pralaimėjimą. Sutelkęs didesnę nei paprastai kariuomenę, jis patrau­ kė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę. Len­ kams pasitraukus į miestus…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0a0ae16bdd2950cf76aa9794","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Pagonis.","context":"Michał Baliński pateikia Vytenį kaip lietuvį pagonį; tai autoriaus ir jo cituojamos istorinės tradicijos formuluotė.","support_ids":["t-176833","c-160790"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176833","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-160790","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"45 ## Puslapis 62 VILNIAUS MIESTO ISTORIJA I TOMAS Karamzinas0, laikydamas tai labai abejotinu dalyku, o Min­ daugo kilmės įrodymus - visiškais paistalais, nebent būtų priimtinos už tiesą didžiausios chronologinės klaidos ir su­ tikta su prielaida, kad Rusios kunigaikščių sūnūs, krikščio­ nys, galėjo turėti lietuviškus vardus ir būti pagonys. Ar ga­ lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad Vytenis, lietuvis pagonis, - jo vaikaitis? Nors Voskresensko Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­ tojas pridėjęs, taigi metraštininkas galėjo…"}],"status":"published","conflict_status":"clear"},{"trait_id":"ce88da3849aa7f45841dec19","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lietuvos didysis kunigaikštis ir Lietuvos karalius.","context":"Šaltiniuose Vytenis nurodomas kaip didysis Lietuvos kunigaikštis, o Petro Dusburgiečio kronikoje – kaip Lietuvos karalius; XIII–XIV a.","support_ids":["t-176817","c-160778","t-221984","c-202400"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176817","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-221984","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-160778","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"1 '' - --- - -■ N VYTENIS, Traidenio sūnus, did. Lietuvos kunigaikštis 1283 m., nužudytas 1315 m."},{"kind":"evidence","evidence_id":"c-202400","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum): Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267, 269, 306, 310, 356)."}],"status":"published","conflict_status":"clear"},{"trait_id":"2ed284001825cbe4e27bdff8","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Vedė diplomatines derybas ir siuntė laiškus dėl taikos bei pranciškonų atsiuntimo.","context":"Šaltiniuose Vytenis siejamas su Lietuvos krikšto derybų laikotarpiu; Michał Baliński nurodo jo laiškus popiežiaus legatui Pranciškui ir Rygos arkivyskupui Fridrichui dėl minoritų.","support_ids":["t-203224","c-180430","t-198476","c-160789"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203224","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"internal_claim","claim_id":"t-198476","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-180430","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Atsakymo reikalauja ir kitas faktas. Matomai Lietuvos valdo­ vai, kurie iki 1385 m. dar buvo pagonys, ar buvo pagoniškais pa­ pročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis 1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­ niška. Jie per aštuonis dešimtmečius (nuo Vytenio iki Jogailos) vis daug kartų yra vedę derybas Lietuvos krikšto reikalu."},{"kind":"evidence","evidence_id":"c-160789","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tiesa, arkivyskupui Isamui tarpininkaujant, tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­ dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­ keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo'' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti pasiuntė. Juk taip pat nedorai Ordinas elgiasi ir su garbin­ gąja dvasininkijos diduomene, kaip antai arkivyskupais Jo­ nu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus verčia dykynėmis, visada sakydami, jog visa…"}],"status":"published","conflict_status":"clear"},{"trait_id":"f34763b7d69f85e1511ca8d5","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Gebėjo vadovauti kariuomenei ir organizuoti karo žygius bei apgultis.","context":"Šaltiniuose aprašomas Vytenio vadovavimas kariuomenei, žygiams į Lenkiją ir Livoniją bei Kristmemelio pilies apgulčiai; XIII a. pabaiga–XIV a. pradžia.","support_ids":["t-224635","c-203893","t-220261","c-206063"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224635","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-220261","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203893","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11 Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami, sudegino savo pilies papilį, norėdami išvengti galimų pavojų."},{"kind":"evidence","evidence_id":"c-206063","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Dar apie tą patį Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais. Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos, kai karalius bus iškeliavęs iš savo žemės, ir ten nusigauti su brolių kariuomene; jis subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes."}],"status":"published","conflict_status":"clear"},{"trait_id":"28c182292795a9fa247a3f0e","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Gedimino pirmtakas Lietuvos ir Rusios valdovo soste.","context":"Michał Baliński Gediminą vadina Vytenio įpėdiniu ir Lietuvos bei Rusios valdovu; XIV a. pradžia.","support_ids":["t-198463","c-160791"],"source_refs":[{"kind":"internal_claim","claim_id":"t-198463","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-160791","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":", valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms skyręs; pavadino ją vardu tėvo, Šventaragio, kas reikštų Šventą al- 18 ## Puslapis 35 I KNYGA Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų nebuvo Europai žinomas kaip miestas, nebuvo pirmapradė vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­ tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­ okratinio valdymo centrų tikrai galėjo būti8. Tačiau Vilniaus istorija prasideda tik 1321 metais, kai Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas, torių."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Vytenis – Lietuvos valdovas, XIII a. pabaigoje ir XIV a. pradžioje vadovavęs valstybei bei kovojęs su Vokiečių ordinu. Jo valdymas siejamas su laikotarpiu apie 1295–1316 m., tačiau kitas šaltinis nurodo, kad jis mirė apie 1315 metus. Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdamas apginti Rygą bei pralaužti Lietuvos ekonominę blokadą. Kronikoje jis vadinamas Lietuvos karaliumi; 1311 m. su didele kariuomene nusiaubė Sembą ir Notangą, paėmė daug grobio bei belaisvių. Taip pat pasakojama, kad Vytenis prašė popiežiaus legato ir Rygos arkivyskupo atsiųsti minoritų jo pastatytai bažnyčiai, o jo brolis Gediminas vėliau davė vardą Gediminaičių dinastijai.","sentences":[{"sentence_id":"s1","text":"Vytenis – Lietuvos valdovas, XIII a. pabaigoje ir XIV a. pradžioje vadovavęs valstybei bei kovojęs su Vokiečių ordinu.","support_ids":["t-176836","t-224922"]},{"sentence_id":"s2","text":"Jo valdymas siejamas su laikotarpiu apie 1295–1316 m., tačiau kitas šaltinis nurodo, kad jis mirė apie 1315 metus.","support_ids":["t-224922","t-176836"]},{"sentence_id":"s3","text":"Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdamas apginti Rygą bei pralaužti Lietuvos ekonominę blokadą.","support_ids":["t-224922"]},{"sentence_id":"s4","text":"Kronikoje jis vadinamas Lietuvos karaliumi; 1311 m. su didele kariuomene nusiaubė Sembą ir Notangą, paėmė daug grobio bei belaisvių.","support_ids":["t-225552"]},{"sentence_id":"s5","text":"Taip pat pasakojama, kad Vytenis prašė popiežiaus legato ir Rygos arkivyskupo atsiųsti minoritų jo pastatytai bažnyčiai, o jo brolis Gediminas vėliau davė vardą Gediminaičių dinastijai.","support_ids":["t-176839","t-176843"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai tiesiogiai nurodo Vytenį kaip Lietuvos valdovą, valdžiusį XIII a. pabaigoje–XIV a. pradžioje ir kovojusį su Ordinu."},{"sentence_id":"s2","supported":true,"reason":"Vienas šaltinis nurodo valdymą apie 1295–1316 m., kitas – mirtį apie 1315 m."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai aprašo Vytenio sąjungą su Ryga, karinę ir diplomatinę kovą prieš Ordiną bei ekonominės blokados pralaužimo siekį."},{"sentence_id":"s4","supported":true,"reason":"Kronikos ištrauka tiesiogiai nurodo Lietuvos karaliaus titulą, 1311 m. žygį į Sembą ir Notangą, grobį bei belaisvius."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina prašymą atsiųsti minoritų į pastatytą bažnyčią ir Gediminą kaip Vytenio brolį bei Gediminaičių dinastijos vardo davėją."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-176836","t-224922"]},{"sentence_id":"s2","supported":false,"support_ids":["t-224922","t-176836"]},{"sentence_id":"s3","supported":false,"support_ids":["t-224922"]},{"sentence_id":"s4","supported":false,"support_ids":["t-225552"]},{"sentence_id":"s5","supported":false,"support_ids":["t-176839","t-176843"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-62590141b4026e149c0014c3","reason":"visual_verified_identity_primary","identity_verified":true,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[],"media_verification":{"status":"verified","primary_media_id":"m-62590141b4026e149c0014c3","candidate_count":1,"visual_verified_count":1,"identity_verified_count":1,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Vaizdas ir įrašas tiesiogiai identifikuoja Vytenį; tai vėlesnis istorinis jo portretas.","visual_evidence":"Matomas karūnuotas barzdotas valdovas su valdžios lazda; apačioje esantis lotyniškas įrašas įvardija „Vitenes“ ir Lietuvos valdovą, nurodo 1315 m. mirtį.","metadata_evidence":"Wikimedia Commons metaduomenyse kūrinys pavadintas „Vicień. Віцень“, datuojamas 1709 m. ir aprašytas kaip Lietuvos didžiojo kunigaikščio Vytenio atvaizdas.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Kristmemelis","claim_id":"t-221355","confidence":0.97},{"predicate":"buvo_brolis","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-176843","confidence":0.98},{"predicate":"buvo_sajungininkas_su","direction":"outbound","target":"objektai/grupes/Rygiečiai","claim_id":"t-185672","confidence":0.78},{"predicate":"buvo_sunus","direction":"outbound","target":"objektai/asmenys/Liutauras","claim_id":"t-218162","confidence":0.95},{"predicate":"buvo_sunus","direction":"outbound","target":"objektai/asmenys/Traidenis","claim_id":"t-176817","confidence":0.98},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-176817","confidence":0.92},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)","claim_id":"t-222370","confidence":0.88},{"predicate":"gime","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-215978","confidence":0.62},{"predicate":"gime","direction":"outbound","target":"objektai/vietos/Žemaitija","claim_id":"t-218162","confidence":0.95},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Ariogala","claim_id":"t-218162","confidence":0.93},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Kumanų žemė","claim_id":"t-215978","confidence":0.72},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-215978","confidence":0.6},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/asmenys/Pilypas","claim_id":"t-184889","confidence":0.72},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-184886","confidence":0.78},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Lenkai","claim_id":"t-185035","confidence":0.75},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-222017","confidence":0.86},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-220261","confidence":0.91},{"predicate":"paskyre","direction":"outbound","target":"objektai/asmenys/Surminas","claim_id":"t-31423","confidence":0.78},{"predicate":"paskyre","direction":"outbound","target":"objektai/grupes/Pranciškonų ordinas","claim_id":"t-176830","confidence":0.7},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-185671","confidence":0.94},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Lenkai","claim_id":"t-184884","confidence":0.86},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kristmemelis","claim_id":"t-221355","confidence":0.93},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-176840","confidence":0.94},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Lenčica","claim_id":"t-222017","confidence":0.83},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Lukovas","claim_id":"t-184884","confidence":0.88},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Natanga","claim_id":"t-31504","confidence":0.87},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-184886","confidence":0.74},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Sandomiras","claim_id":"t-184884","confidence":0.78},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Semba","claim_id":"t-179484","confidence":0.86},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Varmė","claim_id":"t-184929","confidence":0.92},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Lenčica","claim_id":"t-185003","confidence":0.8},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-102852","confidence":0.95},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-185560","confidence":0.78},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Sandomiras","claim_id":"t-185035","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.)","claim_id":"t-221709","confidence":0.65},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Drohičinas","claim_id":"t-93937","confidence":0.76},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Lenčica","claim_id":"t-185003","confidence":0.86},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Polockas","claim_id":"t-215978","confidence":0.82},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Polockas","claim_id":"t-31466","confidence":0.88}],"timeline":[{"date":"1232 m.","label":"Narbuto pasakojime Liutauro sūnus Vytenis gimė 1232 m.","claimId":"t-217712"},{"date":"1283 m.","label":"Vytenis nurodomas kaip Traidenio sūnus, 1283 m.","claimId":"t-176817"},{"date":"1283 m.","label":"Vytenis nurodomas kaip Traidenio sūnus, 1283 m.","claimId":"t-176823"},{"date":"1283 m.","label":"Vytenis nurodomas kaip Traidenio sūnus, 1283 m.","claimId":"t-176824"},{"date":"1283 m.","label":"Vytenis nurodomas kaip Traidenio sūnus, 1283 m.","claimId":"t-176826"},{"date":"1283 m.","label":"Vytenis nurodomas kaip Traidenio sūnus, 1283 m.","claimId":"t-176827"},{"date":"1283 m.","label":"Vytenis nurodomas kaip Traidenio sūnus, 1283 m.","claimId":"t-176832"},{"date":"1283 m.","label":"Vytenis nurodomas kaip Traidenio sūnus, 1283 m.","claimId":"t-176845"}],"support_disclosure":{"claims":75,"sources":9}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6d51f5afe9217ef0
+object_page_generated_at: '2026-09-18T23:15:51+00:00'
+object_page_source_checked_at: '2026-09-18T23:15:51+00:00'
+object_page_content_state: content
+object_page_claim_count: '75'
+object_page_source_count: '9'
+object_page_seo_description: 'Vytenis (valdovas, XIII–XIV a.): Vytenis – Lietuvos valdovas, XIII a. pabaigoje ir XIV a. pradžioje vadovavęs valstybei bei kovojęs su Vokiečių ordinu. Jo…'
+object_page_seo_input_hash: 9041a5db75eefc9aff253fbc75618590e441a700355c8ff76ca2bb2460727217
+object_page_seo_generated_at: '2026-09-18T23:15:51+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vytenis (valdovas, XIII–XIV a.)
 
@@ -56,189 +70,50 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
 
 ## Teiginiai
 
-<a id="claim-t-203224"></a>
-- t-037
-  teiginys: "Zenonas Ivinskis Vytenį nurodo kaip aštuonis dešimtmečius trukusio Lietuvos krikšto derybų laikotarpio pradžios valdovą."
+<a id="claim-t-176814"></a>
+- t-001
+  teiginys: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
-  temporaliniai_duomenys: "įvykio data: iki 1385 m.; įvykio data: 1377 m.; įvykio data: 1382 m.; įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-180430
-
-<a id="claim-t-211668"></a>
-- t-211668
-  teiginys: "Vytenis buvo išrinktas Lietuvos ir Žemaičių didžiuoju kunigaikščiu."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193455
-
-<a id="claim-t-216844"></a>
-- t-216844
-  teiginys: "Vytenis buvo išrinktas Lietuvos didžiuoju kunigaikščiu ir mirė 1315 metais, kelyje nutrenktas perkūno."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200143
-
-<a id="claim-t-225552"></a>
-- t-225552
-  teiginys: "Kronikoje Vytenis vadinamas Lietuvos karaliumi ir 1311 m. su didele kariuomene nusiaubė Sembą bei Notangą."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-201721
-
-<a id="claim-t-224598"></a>
-- t-224598
-  teiginys: "Vytenis buvo Lietuvos karaliaus Pukuvero sūnus."
-  atnaujinta: "2026-09-13 23:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203412
-
-<a id="claim-t-211666"></a>
-- t-211666
-  teiginys: "Lietuvos metraštyje pateiktoje legendinėje istorijoje Lietuvos sostas po Palemono įpėdinių ir Kentauro herbo dinastijos kunigaikščių išmirimo priskiriamas Vyteniui."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Legendinė kilmės schema palikta su šaltinio atribucija ir legendos žyma. Nepristatyta kaip neutralus dinastinis faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193107
-
-<a id="claim-t-221984"></a>
-- t-221984
-  teiginys: "Vytenis buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Sąrašo fragmentas perrašytas į sakinį apie Vytenį."
-  susije_objektai: "llm_object: Lietuva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytenis|Vytenis]] buvo valdovas Lietuva"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytenis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytenis\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-
-<a id="claim-t-223050"></a>
-- t-223050
-  teiginys: "Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją."
-  susije_objektai: "llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva; llm_object: Lenčica"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytenis|Vytenis]] keliavo į Lenkija; [[objektai/asmenys/Vytenis|Vytenis]] puolė Lenčica"
-  ryšio_patikimumas: "puole -> Lenkija: 0.94"
+  ryšio_patikimumas: "apgule -> Kristmemelis: 0.98"
   ryšio_patikimumo_lygis: "aukstas"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
   ryšio_sprendimo_taisykle: "llm_validated_relation"
   ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytenis puldinėjo Lenkiją."
+  ryšio_targeto_parinkimas: "Kristmemelis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytenis apsupo Kristmemelio pilį."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-
-<a id="claim-t-224051"></a>
-- t-224051
-  teiginys: "„Prūsijos žemės kronikoje“ teigiama, kad XIII a. pabaigoje ir XIV a. pradžioje Vytenis bandė pasinaudoti Livonijos vidaus prieštaravimais."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra glaustas ir tiksliai perteikia cituojamą informaciją apie Vytenį."
-  susije_objektai: "mentioned_place: Livonija; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Žiemgala"
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra glaustas ir tiksliai perteikia cituojamą informaciją apie Vytenį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-224635"></a>
-- t-224635
-  teiginys: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Sutvarkyta nutrūkusi frazė ir pašalinti antraštės fragmentai."
-  susije_objektai: "llm_object: Kristmemelis; mentioned_place: Kristmemelis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytenis|Vytenis]] apgulė Kristmemelis; [[objektai/asmenys/Vytenis|Vytenis]] puolė Kristmemelis"
+  semantiniai_rysiai: "Vytenis apgulė Kristmemelis (0.98); Vytenis puolė Kristmemelis (0.94)"
   temporaliniai_duomenys: "įvykio data: 1315 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutvarkyta nutrūkusi frazė ir pašalinti antraštės fragmentai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-
-<a id="claim-t-225432"></a>
-- t-225432
-  teiginys: "Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę."
-  atnaujinta: "2026-09-13 18:30"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.79"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nors Vytenį pasiuntė Pukuveras, citata tiesiogiai nurodo Vytenio judėjimo kryptį į Lenkiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytenis keliavo į Lenkija (0.79)"
-  temporaliniai_duomenys: "įvykio data: 1292 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta taip, kad sakinys aiškiau būtų apie Vytenį ir remtųsi citatos duomenimis."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-203412
-
-<a id="claim-t-198488"></a>
-- t-198488
-  teiginys: "Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Įvardintas tikslas pagal citatos tęsinį, pašalintas neaiškus „ten“."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Prūsija"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytenis|Vytenis]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Vytenis|Vytenis]] puolė Prūsija"
-  ryšio_patikimumas: "paskyre -> Pranciškonų ordinas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pranciškonų ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Vytenis paskyrė vietą pranciškonų ordino broliams."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporalinis_llm_pakomentavimas: "Sutvarkyta data ir pašalinta antraštės bei OCR triukšmo dalis."
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-168247
+    - c-160781
+    - c-186021
+
+<a id="claim-t-176816"></a>
+- t-002
+  teiginys: "Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Livonija: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytenio įsibrovimą į Livonijos žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytenis keliavo į Livonija (0.91)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-160785
 
 <a id="claim-t-176817"></a>
-- t-176817
+- t-003
   teiginys: "Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sunus -> Traidenis (valdovas, XIII a.): 0.98"
   ryšio_patikimumo_lygis: "aukstas"
@@ -256,15 +131,11 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   pagrindžia:
     - c-160778
     - c-180414
-    - c-160791
-    - c-180423
-    - c-160790
-    - c-180426
 
 <a id="claim-t-176818"></a>
-- t-176818
+- t-004
   teiginys: "Vytenis šiame šaltinyje žymi ilgo Lietuvos krikšto derybų laikotarpio pradžios valdovą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -279,12 +150,68 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-30361
-    - c-180430
+
+<a id="claim-t-176822"></a>
+- t-005
+  teiginys: "Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Kristmemelis: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kristmemelis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Vytenis apsupo Kristmemelio pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytenis apgulė Kristmemelis (0.97); Vytenis puolė Kristmemelis (0.93)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-56177
+    - c-160781
+
+<a id="claim-t-176825"></a>
+- t-006
+  teiginys: "Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytenis įsibrovė į Lenkijos žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytenis keliavo į Lenkija (0.86); Vytenis puolė Lenčica (0.83)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-160804
+    - c-180421
+
+<a id="claim-t-176828"></a>
+- t-007
+  teiginys: "Vytenis buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vytenis įtrauktas tarp Lietuvos valdovų, vadintų karaliais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytenis buvo valdovas Lietuva (0.88)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-160801
+    - c-180407
 
 <a id="claim-t-176830"></a>
-- t-176830
+- t-008
   teiginys: "Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "paskyre -> Pranciškonų ordinas: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -298,12 +225,11 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-160796
-    - c-180428
 
 <a id="claim-t-176833"></a>
-- t-176833
+- t-009
   teiginys: "Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -318,10 +244,32 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
     - c-160790
     - c-180426
 
+<a id="claim-t-176835"></a>
+- t-010
+  teiginys: "XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytenis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytenis\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "mūšio data: 1316 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vytenis kariavo prieš Kryžiuočių ordinas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-56175
+    - c-180418
+    - c-186023
+
 <a id="claim-t-176836"></a>
-- t-176836
+- t-011
   teiginys: "Vytenis viešpatavo Lietuvoje ir mirė apie 1315 metus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -337,12 +285,11 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-160800
-    - c-180417
 
 <a id="claim-t-176839"></a>
-- t-176839
+- t-012
   teiginys: "Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Isamas (Rygos arkivyskupas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -355,12 +302,11 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-160789
-    - c-180410
 
 <a id="claim-t-176840"></a>
-- t-176840
+- t-013
   teiginys: "Tęsdamas tėvo politiką, Vytenis intensyviai iki 1307 m. puldinėjo Lenkiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lenkija: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -377,12 +323,11 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-30362
-    - c-180405
 
 <a id="claim-t-176841"></a>
-- t-176841
+- t-014
   teiginys: "Vytenis buvo Gedimino pirmtakas Lietuvos ir Rusios valdovo soste."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -398,12 +343,11 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-160791
-    - c-180423
 
 <a id="claim-t-176843"></a>
-- t-176843
+- t-015
   teiginys: "Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_brolis -> Vytenis: 0.98"
   ryšio_patikimumo_lygis: "aukstas"
@@ -420,12 +364,33 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-160795
-    - c-180403
+
+<a id="claim-t-176846"></a>
+- t-016
+  teiginys: "Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.79"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nors Vytenį pasiuntė Pukuveras, citata tiesiogiai nurodo Vytenio judėjimo kryptį į Lenkiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytenis keliavo į Lenkija (0.79)"
+  temporaliniai_duomenys: "įvykio data: 1292 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta taip, kad sakinys aiškiau būtų apie Vytenį ir remtųsi citatos duomenimis."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-160787
+    - c-180415
 
 <a id="claim-t-184884"></a>
-- t-184884
+- t-017
   teiginys: "Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -444,9 +409,9 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
     - c-168245
 
 <a id="claim-t-184885"></a>
-- t-184885
+- t-018
   teiginys: "Lietuvai atsigavus po smūgio, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -463,10 +428,33 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   pagrindžia:
     - c-168246
 
+<a id="claim-t-184886"></a>
+- t-019
+  teiginys: "Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kryžiuočiai nurodyti kaip Vytenio persekiojami ir priešai šiame kariniame epizode."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Vytenis kariavo prieš Kryžiuočių ordinas (0.78); Vytenis puolė Prūsija (0.74)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-168246
+    - c-168247
+    - c-186022
+
 <a id="claim-t-184888"></a>
-- t-184888
+- t-020
   teiginys: "Vytenis pats atvedė pagrindines jėgas prie Karksio, po apsupties įsiveržė į įtvirtinimus ir paėmė pilį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -487,9 +475,9 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
     - c-168249
 
 <a id="claim-t-184889"></a>
-- t-184889
+- t-021
   teiginys: "Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -510,9 +498,9 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
     - c-168250
 
 <a id="claim-t-184891"></a>
-- t-184891
+- t-022
   teiginys: "Sunkiai sužeistas į galvą, Vytenis paliko stovyklą ir kariuomenę ir su dviem kariais paspruko nuo priešo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -530,31 +518,22 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
     - c-168252
 
 <a id="claim-t-184892"></a>
-- t-184892
+- t-023
   teiginys: "Kojelavičiaus pasakojime Vytenis nedrįso stoti į atvirą kovą ir, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytenis iš keršto nusiaubė kryžiuočių žemes."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Vytenis kariavo prieš Kryžiuočių ordinas (0.84)"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168247
-    - c-168253
 
 <a id="claim-t-193408"></a>
-- t-193408
+- t-024
   teiginys: "Kojelavičiaus pasakojime Vytenis matė, kad priešų nesantarvė jam būtų naudingesnė taikiai gyvenant negu kariaujant."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -564,10 +543,23 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   pagrindžia:
     - c-176130
 
+<a id="claim-t-194015"></a>
+- t-025
+  teiginys: "Lietuvos metraščio legendinėje istorijoje Vyteniui priskiriamas Lietuvos sostas po Palemono įpėdinių ir Kentauro herbo dinastijos išmirimo."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176640
+
 <a id="claim-t-196645"></a>
-- t-196645
+- t-026
   teiginys: "Kojelavičiaus pasakojime Traidenis po žygio į Prūsiją pastebėjo mažametį Vytenį, kuris netrukus atsidūrė jo šeimoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -578,9 +570,9 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
     - c-178817
 
 <a id="claim-t-196646"></a>
-- t-196646
+- t-027
   teiginys: "Vytenis patraukė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -590,9 +582,9 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
     - c-168245
 
 <a id="claim-t-196648"></a>
-- t-196648
+- t-028
   teiginys: "Vytenis pagrindines jėgas atvedė prie Karksio, po apsupties paėmė pilį, o gyvi liko keturi riteriai, komtūro sargyba ir keli belaisviai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -603,9 +595,9 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
     - c-168249
 
 <a id="claim-t-196649"></a>
-- t-196649
+- t-029
   teiginys: "Vytenis, sunkiai sužeistas į galvą, paliko stovyklą ir kariuomenę, bet dviejų karių lydimas paspruko nuo priešo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -616,9 +608,9 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
     - c-168252
 
 <a id="claim-t-196650"></a>
-- t-196650
+- t-030
   teiginys: "Kojelavičiaus pasakojime Vytenis, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes ir netrukus po šio žygio mirė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -626,133 +618,45 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
-    - c-168253
     - c-178817
 
-<a id="claim-t-201050"></a>
-- t-201050
-  teiginys: "126.) Reikia žinoti,- jog yra didis su j augimas vardų didžiųjų Lietuvos kunigaikščių: Kojalavičius savo Lietuvos istorijoj teminavoja vieną Vytenį nuo pat Traidžio lig pat Gedimino, nes teutonų ir gudų ra šytojai rodo savo raštuose tame tarpe buvus tris."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-197166"></a>
+- t-031
+  teiginys: "Vytenis traukė atgal, prie jo prisijungė laivu atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais, privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais."
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-184400
+    - c-160785
 
-<a id="claim-t-203161"></a>
-- t-203161
-  teiginys: "Pasak Alberto Vijūko-Kojelavičiaus, Vytenis, sugrįžęs iš žygio į Prūsiją, netrukus mirė."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-198470"></a>
+- t-032
+  teiginys: "Lietuvos metraštis pasakoja, kad Vytenis valdė Lietuvos, Žemaičių ir Rusų Didžiojoje Kunigaikštystėje ir turėjo sūnų Gediminą."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168253
-
-<a id="claim-t-203200"></a>
-- t-203200
-  teiginys: "Albertas Vijūkas-Kojelavičius rašė, kad staigiai į valdžią iškilęs Vytenis įtariai žvelgė į savo tolesnį likimą, nes esama padėtis teikė progų maištams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Nutrūkęs teiginys perrašytas į užbaigtą faktinį sakinį."
-  susije_objektai: "llm_object: Lukovas; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Jotvingija; mentioned_place: Lukovas; mentioned_place: Sandomiras; llm_object: Sandomiras"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytenis|Vytenis]] puolė Lukovas; [[objektai/asmenys/Vytenis|Vytenis]] puolė [[objektai/grupes/Lenkai|Lenkai]]; [[objektai/asmenys/Vytenis|Vytenis]] puolė Sandomiras"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168245
-
-<a id="claim-t-203225"></a>
-- t-203225
-  teiginys: "Albertas Vijūkas-Kojelavičius „Lietuvos istorijoje“ pasakoja, kad sunkiai į galvą sužeistas Vytenis paliko stovyklą ir kariuomenę ir, dviejų karių lydimas, paspruko nuo priešo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pašalinta autorinė įžanga ir sutvarkytas sakinys."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168252
-
-<a id="claim-t-203232"></a>
-- t-203232
-  teiginys: "Alberto Vijūko-Kojelavičiaus pasakojime Vytenis vijosi į Prūsiją pasitraukusius kryžiuočius ir, jų kariuomenės neužtikęs, niokojo kraštą, o kryžiuočiai nedrįso stoti su jo kariuomene į atvirą kovą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citatoje nurodytais veiksmais."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytenis|Vytenis]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168247
-
-<a id="claim-t-203491"></a>
-- t-203491
-  teiginys: "Michał Baliński „Vilniaus miesto istorijoje“ rašo, kad karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata palaiko konkretų prašymą ir paskyrimą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Prūsija; mentioned_place: Ryga; llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytenis|Vytenis]] paskyrė [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-180428
-
-<a id="claim-t-203559"></a>
-- t-203559
-  teiginys: "Lietuvai šiek tiek atsigavus po pragaištingos puotos, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą – prieš kryžiuočius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys yra aiškus, pilnas ir paremtas citata."
-  susije_objektai: "mentioned_place: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168246
-
-<a id="claim-t-205738"></a>
-- t-205738
-  teiginys: "Narbutas aprašo, kad didysis kunigaikštis Vytenis pietinėje Rusioje sutvarkė pasaulietinio valdymo struktūrą ir nustatė sienas su kaimyniniais kunigaikščiais Dregovičių žemėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188353
-
-<a id="claim-t-210595"></a>
-- t-210595
-  teiginys: "Lietuvos metraščio legendinėje istorijoje Vyteniui priskiriamas Lietuvos sostas po Palemono įpėdinių ir Kentauro herbo dinastijos išmirimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Antraštės triukšmas pašalintas ir paliktas sakinys apie Vytenio valdymą bei sūnų. Titulinis chronikos teiginys pateiktas su atribucija, nepridėta valdymo trukmės."
+  ryšio_patikimumas: "buvo_sunus -> Traidenis (valdovas, XIII a.): 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Traidenis (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Frazė tiesiogiai įvardija Vytenį Traidenio sūnumi."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-193107
+    - c-180420
 
-<a id="claim-t-217712"></a>
-- t-217712
+<a id="claim-t-198471"></a>
+- t-033
   teiginys: "Narbuto pasakojime Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -772,89 +676,165 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-199981
+    - c-180422
 
-<a id="claim-t-218662"></a>
-- t-218662
-  teiginys: "Liutauro sūnus Vytenis, gimęs 1232 metais Žemaitijoje, gyveno Ariogaloje; jis išgarsėjo rusų ka ruose su totoriais, buvo paimtas į nelaisvę, buvo Batu stovyk loje, Kumanų žemėje, pagaliau grįžo ir valdė Polocko kuni gaikštystę kartu su savo tėvu."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-201050"></a>
+- t-034
+  teiginys: "126.) Reikia žinoti,- jog yra didis su j augimas vardų didžiųjų Lietuvos kunigaikščių: Kojalavičius savo Lietuvos istorijoj teminavoja vieną Vytenį nuo pat Traidžio lig pat Gedimino, nes teutonų ir gudų ra šytojai rodo savo raštuose tame tarpe buvus tris."
+  atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-199981
+    - c-184400
 
-<a id="claim-t-220261"></a>
-- t-220261
-  teiginys: "Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-
-<a id="claim-t-221355"></a>
-- t-221355
-  teiginys: "Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Kristmemelis: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kristmemelis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Vytenis apsupo Kristmemelio pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytenis apgulė Kristmemelis (0.97); Vytenis puolė Kristmemelis (0.93)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-
-<a id="claim-t-222973"></a>
-- t-222973
-  teiginys: "XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytenis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytenis\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "mūšio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vytenis kariavo prieš Kryžiuočių ordinas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-
-<a id="claim-t-223674"></a>
-- t-223674
-  teiginys: "Vytenis traukė atgal, prie jo prisijungė laivu atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais, privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-203161"></a>
+- t-035
+  teiginys: "Pasak Alberto Vijūko-Kojelavičiaus, Vytenis, sugrįžęs iš žygio į Prūsiją, netrukus mirė."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168253
 
-<a id="claim-t-224067"></a>
-- t-224067
-  teiginys: "XIII a. pabaigoje ir XIV a. pradžioje Vytenis bandė pasinaudoti Livonijos vidaus prieštaravimais."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-203200"></a>
+- t-036
+  teiginys: "Albertas Vijūkas-Kojelavičius rašė, kad staigiai į valdžią iškilęs Vytenis įtariai žvelgė į savo tolesnį likimą, nes esama padėtis teikė progų maištams."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytenis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytenis\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Nutrūkęs teiginys perrašytas į užbaigtą faktinį sakinį."
+  susije_objektai: "llm_object: Lukovas; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Jotvingija; mentioned_place: Lukovas; mentioned_place: Sandomiras; llm_object: Sandomiras"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytenis|Vytenis]] puolė Lukovas; [[objektai/asmenys/Vytenis|Vytenis]] puolė [[objektai/grupes/Lenkai|Lenkai]]; [[objektai/asmenys/Vytenis|Vytenis]] puolė Sandomiras"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168245
+
+<a id="claim-t-203224"></a>
+- t-037
+  teiginys: "Zenonas Ivinskis Vytenį nurodo kaip aštuonis dešimtmečius trukusio Lietuvos krikšto derybų laikotarpio pradžios valdovą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
+  temporaliniai_duomenys: "įvykio data: iki 1385 m.; įvykio data: 1377 m.; įvykio data: 1382 m.; įvykio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180430
+
+<a id="claim-t-203225"></a>
+- t-038
+  teiginys: "Albertas Vijūkas-Kojelavičius „Lietuvos istorijoje“ pasakoja, kad sunkiai į galvą sužeistas Vytenis paliko stovyklą ir kariuomenę ir, dviejų karių lydimas, paspruko nuo priešo."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Pašalinta autorinė įžanga ir sutvarkytas sakinys."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168252
+
+<a id="claim-t-203232"></a>
+- t-039
+  teiginys: "Alberto Vijūko-Kojelavičiaus pasakojime Vytenis vijosi į Prūsiją pasitraukusius kryžiuočius ir, jų kariuomenės neužtikęs, niokojo kraštą, o kryžiuočiai nedrįso stoti su jo kariuomene į atvirą kovą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citatoje nurodytais veiksmais."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytenis|Vytenis]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168247
+
+<a id="claim-t-203257"></a>
+- t-040
+  teiginys: "Pasak Petro Dusburgiečio „Prūsijos žemės kronikos“, Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys gramatiškas, aiškus ir tiesiogiai pagrįstas citata."
+  susije_objektai: "llm_object: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Baiga"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytenis|Vytenis]] keliavo į Livonija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180431
+
+<a id="claim-t-203392"></a>
+- t-041
+  teiginys: "„Prūsijos žemės kronikoje“ teigiama, kad XIII a. pabaigoje ir XIV a. pradžioje Vytenis bandė pasinaudoti Livonijos vidaus prieštaravimais."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra glaustas ir tiksliai perteikia cituojamą informaciją apie Vytenį."
+  susije_objektai: "mentioned_place: Livonija; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Žiemgala"
   temporaliniai_duomenys: "įvykio data: 1316 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra glaustas ir tiksliai perteikia cituojamą informaciją apie Vytenį."
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-180418
+
+<a id="claim-t-203425"></a>
+- t-042
+  teiginys: "Lietuvos metraštyje pateiktoje legendinėje istorijoje Lietuvos sostas po Palemono įpėdinių ir Kentauro herbo dinastijos kunigaikščių išmirimo priskiriamas Vyteniui."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Legendinė kilmės schema palikta su šaltinio atribucija ir legendos žyma. Nepristatyta kaip neutralus dinastinis faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-180406
+
+<a id="claim-t-203491"></a>
+- t-043
+  teiginys: "Michał Baliński „Vilniaus miesto istorijoje“ rašo, kad karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata palaiko konkretų prašymą ir paskyrimą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Prūsija; mentioned_place: Ryga; llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytenis|Vytenis]] paskyrė [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-180428
+
+<a id="claim-t-203559"></a>
+- t-044
+  teiginys: "Lietuvai šiek tiek atsigavus po pragaištingos puotos, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą – prieš kryžiuočius."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys yra aiškus, pilnas ir paremtas citata."
+  susije_objektai: "mentioned_place: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168246
+
+<a id="claim-t-205738"></a>
+- t-045
+  teiginys: "Narbutas aprašo, kad didysis kunigaikštis Vytenis pietinėje Rusioje sutvarkė pasaulietinio valdymo struktūrą ir nustatė sienas su kaimyniniais kunigaikščiais Dregovičių žemėje."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188353
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -967,13 +947,12 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
     vis daug kartų yra vedę derybas Lietuvos krikšto reikalu.
   citata_rodoma: "Jie per aštuonis dešimtmečius (nuo Vytenio iki Jogailos)\nvis daug kartų yra vedę derybas Lietuvos krikšto reikalu."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176818
+  pagrindzia:
+    - t-004
 
 - id: c-30362
   autorius: "Zenonas Ivinskis"
@@ -993,8 +972,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176840
+  pagrindzia:
+    - t-013
 
 - id: c-56175
   autorius: "Petras Dusburgietis"
@@ -1016,6 +995,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-56177
   autorius: "Petras Dusburgietis"
@@ -1036,6 +1017,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-160778
   autorius: "Michał Baliński"
@@ -1057,8 +1040,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176817
+  pagrindzia:
+    - t-003
 
 - id: c-160781
   autorius: "Petras Dusburgietis"
@@ -1078,6 +1061,9 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-005
 
 - id: c-160785
   autorius: "Petras Dusburgietis"
@@ -1099,6 +1085,9 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+    - t-031
 
 - id: c-160787
   autorius: "Petras Dusburgietis"
@@ -1139,6 +1128,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 - id: c-160789
   autorius: "Michał Baliński"
@@ -1164,8 +1155,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176839
+  pagrindzia:
+    - t-012
 
 - id: c-160790
   autorius: "Michał Baliński"
@@ -1196,9 +1187,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176817
-    - t-176833
+  pagrindzia:
+    - t-009
 
 - id: c-160791
   autorius: "Michał Baliński"
@@ -1231,14 +1221,12 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
     torių.
   citata_rodoma: ", valią, tam slėny pir­\nmasis miškus išnaikinęs ir savo tė­\nvo bei savo paties įpėdinių kapavie­\ntėms skyręs; pavadino ją vardu tėvo, \nŠventaragio, kas reikštų Šventą al-\n18\n\n## Puslapis 35\n\nI  KNYGA\nUrna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų \nnebuvo Europai žinomas kaip miestas, nebuvo pirmapradė \nvietovė kokios nors mažos kunigaikščio dalinės valdos Lie­\ntuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­\nokratinio valdymo centrų tikrai galėjo būti8.\nTačiau Vilniaus istorija prasideda tik 1321 metais, kai \nGediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,\ntorių."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176817
-    - t-176841
+  pagrindzia:
+    - t-014
 
 - id: c-160795
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1258,8 +1246,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176843
+  pagrindzia:
+    - t-015
 
 - id: c-160796
   autorius: "Michał Baliński"
@@ -1288,8 +1276,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176830
+  pagrindzia:
+    - t-008
 
 - id: c-160800
   autorius: "Michał Baliński"
@@ -1313,8 +1301,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176836
+  pagrindzia:
+    - t-011
 
 - id: c-160801
   autorius: "Petras Dusburgietis"
@@ -1336,6 +1324,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-160804
   autorius: "Petras Dusburgietis"
@@ -1361,6 +1351,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-168245
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1400,10 +1392,10 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184884
-    - t-196646
-    - t-203200
+  pagrindzia:
+    - t-017
+    - t-027
+    - t-036
 
 - id: c-168246
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1427,9 +1419,10 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184885
-    - t-203559
+  pagrindzia:
+    - t-018
+    - t-019
+    - t-044
 
 - id: c-168247
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1456,15 +1449,14 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
     tų p u o la L ie tu vą
     miškuose.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184892
-    - t-198488
-    - t-203232
+  pagrindzia:
+    - t-019
+    - t-023
+    - t-039
 
 - id: c-168249
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1506,9 +1498,9 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184888
-    - t-196648
+  pagrindzia:
+    - t-020
+    - t-028
 
 - id: c-168250
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1548,8 +1540,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184889
+  pagrindzia:
+    - t-021
 
 - id: c-168252
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1579,10 +1571,10 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184891
-    - t-196649
-    - t-203225
+  pagrindzia:
+    - t-022
+    - t-029
+    - t-038
 
 - id: c-168253
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1612,10 +1604,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184892
-    - t-196650
-    - t-203161
+  pagrindzia:
+    - t-035
 
 - id: c-176130
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1638,8 +1628,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193408
+  pagrindzia:
+    - t-024
 
 - id: c-176640
   autorius: "Anoniminis metraštininkas"
@@ -1662,6 +1652,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-025
 
 - id: c-178817
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1688,9 +1680,9 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196645
-    - t-196650
+  pagrindzia:
+    - t-026
+    - t-030
 
 - id: c-180403
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1711,9 +1703,6 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176843
-
 - id: c-180405
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1733,9 +1722,6 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176840
-
 - id: c-180406
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1757,6 +1743,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
 
 - id: c-180407
   autorius: "Petras Dusburgietis"
@@ -1778,6 +1766,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-180410
   autorius: "Michał Baliński"
@@ -1805,9 +1795,6 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176839
-
 - id: c-180413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1827,7 +1814,6 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180414
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1848,8 +1834,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176817
+  pagrindzia:
+    - t-003
 
 - id: c-180415
   autorius: "Petras Dusburgietis"
@@ -1890,6 +1876,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 - id: c-180417
   autorius: "Michał Baliński"
@@ -1914,9 +1902,6 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176836
-
 - id: c-180418
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1937,6 +1922,9 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+    - t-041
 
 - id: c-180419
   autorius: "Petras Dusburgietis"
@@ -1958,7 +1946,6 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-180420
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1976,6 +1963,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-032
 
 - id: c-180421
   autorius: "Petras Dusburgietis"
@@ -2001,6 +1990,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-180422
   autorius: "Teodoras Narbutas"
@@ -2022,6 +2013,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-033
 
 - id: c-180423
   autorius: "Michał Baliński"
@@ -2059,10 +2052,6 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176817
-    - t-176841
-
 - id: c-180426
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2093,9 +2082,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176817
-    - t-176833
+  pagrindzia:
+    - t-009
 
 - id: c-180428
   autorius: "Michał Baliński"
@@ -2125,9 +2113,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176830
-    - t-203491
+  pagrindzia:
+    - t-043
 
 - id: c-180430
   autorius: "Zenonas Ivinskis"
@@ -2143,14 +2130,12 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
     vis daug kartų yra vedę derybas Lietuvos krikšto reikalu.
   citata_rodoma: "Atsakymo reikalauja ir kitas faktas. Matomai Lietuvos valdo­\nvai, kurie iki 1385 m. dar buvo pagonys, ar buvo pagoniškais pa­\npročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis\n1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­\nniška. Jie per aštuonis dešimtmečius (nuo Vytenio iki Jogailos)\nvis daug kartų yra vedę derybas Lietuvos krikšto reikalu."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-037
-    - t-176818
 
 - id: c-180431
   autorius: "Petras Dusburgietis"
@@ -2172,6 +2157,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-040
 
 - id: c-184400
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -2195,8 +2182,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201050
+  pagrindzia:
+    - t-034
 
 - id: c-186021
   autorius: "Petras Dusburgietis"
@@ -2214,6 +2201,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-186022
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2235,6 +2224,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 - id: c-186023
   autorius: "Petras Dusburgietis"
@@ -2253,6 +2244,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-188353
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -2278,168 +2271,8 @@ canonical_biography: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205738
-
-- id: c-193107
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 7."
-  citata_originali: |
-    Gelbėda­
-    miesi nuo jo persekiojimo, dalis romėnų „bajorų", va­
-    dovaujamų imperatoriaus Nerono giminaičio Palemono,
-    pabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­
-    tos ir valstybės pradininkais. Vėliau, išmirus Palemono
-    įpėdiniams ir sekančios Kentauro herbo dinastijos ku­
-    nigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi-
-    minaičių dinastijos valdovui Vyteniui.
-    Mokslinėje literatūroje toji istorija vadinama le­
-    gendine.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210595
-    - t-211666
-
-- id: c-193455
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 61"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 61."
-  citata_originali: |
-    Didikai, nenorėdami pažeisti savo tikrojo valdovo,
-    didžiojo kunigaikščio Traidenio sūnaus, valios ir pa­
-    tarimo, [taip ir] padarė. Ir pamatę Vytenį esant išmin­
-    tingą bei rimtą vyrą, kuris buvo kilęs iš Stulpų gimi­
-    nės ir kartos, valdžiusios Ariogalą Žemaitijoje, išsirin­
-    ko jį Lietuvos ir Žemaičių didžiuoju
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211668
-
-- id: c-199981
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 213"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
-  citata_originali: |
-    Todėl Jonas, išvaduodamas nuo nelaimės Po­
-    locko ponus, išjojo į Naugardą ir ten tapo vienuoliu. O Lietu­
-    vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
-    niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val­
-    dytų jį kaip vietininkas. Liutauro sūnus Vytenis, gimęs 1232
-    metais Žemaitijoje, gyveno Ariogaloje; jis išgarsėjo rusų ka­
-    ruose su totoriais, buvo paimtas į nelaisvę, buvo Batu stovyk­
-    loje, Kumanų žemėje, pagaliau grįžo ir valdė Polocko kuni­
-    gaikštystę kartu su savo tėvu.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217712
-    - t-218662
-
-- id: c-200143
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 213-214"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213-214."
-  citata_originali: |
-    Tuo
-    tarpu visuotiniame Lietuvos suvažiavime Kernavėje, vadovau­
-    2 Ar ne dabartinis Igumenis?
-    214
-
-    jant Trobiaus sūnui vienuoliui Laurui, Vytenis, išrinktas Lie­
-    tuvos didžiuoju kunigaikščiu, mirė 1315 metais, kelyje buvo
-    nutrenktas perkūno. Jis turėjo tris žmonas, kurios viena po
-    kitos mirė
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216844
-
-- id: c-201721
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 204"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 204."
-  citata_originali: |
-    1311 viešpaties metais, per užgavėnes (vasario 22), Vytenis, Lietuvos karalius, su
-    didele kariuomene, degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug
-    žmonių, o beveik penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu, tiesa, ir pats
-    patyrė nuostolių, nes žuvo nemaža jo žmonių, nutolusių nuo savo kariuomenės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225552
-
-- id: c-203412
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 182-183"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182-183."
-  citata_originali: |
-    Apie Lenkijos žemės apiplėšimą
-
-      Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele
-    kariuomene  į Lenkiją,  į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių
-    nukovę bei paėmę  į nelaisvę, išdeginę bei išgrobstę, Kazimieras bei Lokietka, Lenkijos
-    kunigaikščiai, nerimaudami dėl savo žmonių likimo, paprašė brolį Meinhardą, Prūsijos
-    magistrą, pagalbos. Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji
-    kunigaikščiai pasileido bėgti su visais savo lenkais. Sitai matydami, broliai nusigando ir,
-    neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
-    nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
-    pavyko garbingai išvengti kovos.
-
-
-
-
-             249 (242). Apie nuostabų brolių išsigelbėjimą vieno žygio metu
-
-
-      537 1292 m. žygis (SRP, 2, p. 155; Regesta Lithuaniae..., p. 144).
-      538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta V., Lietuvos..., p. 420—421.
-      539  Į Kujavijos Brestą.
-
-    1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai
-    rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę
-    ir patraukė prie lietuvių sienų. Čia vienas prūsas atėjo pas brolį Henriką Cutsvertą ir
-    pasakė: „Ir tu būsi išduotas, ir tavo broliai bus išduoti, jeigu įeisite  į lietuvių žemę;
-    jie, ten susibūrę, jūsų tik ir laukia, ir nė vienas iš jūsų negalės išvengti mirties; jeigu
-    tučtuojau grįšite atgal, jus grįžtančius išžudys saviškiai“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224598
-    - t-225432
+  pagrindzia:
+    - t-045
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

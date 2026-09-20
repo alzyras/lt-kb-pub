@@ -1,6 +1,6 @@
 ---
 tipas: paprotys
-pavadinimas: 'Netekėjusių merginų kontrolė ir simbolinis pagrobimas'
+pavadinimas: Netekėjusių merginų kontrolė ir simbolinis pagrobimas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Netekėjusių merginų kontrolė ir simbolinis pagrobimas
 
@@ -79,6 +76,5 @@ Jaunos netekėjusioski/mingos" lietuvaitės nešiodavosi var pelius, prikabintus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

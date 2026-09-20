@@ -35,6 +35,37 @@ canonical_biography: "Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo
 
 Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pasiuntė į Petrapilį savo sesers sūnų Stanislovą Augustą Poniatauską. Stanislovas Augustas buvo priverstas atsisakyti nuo sosto.
 
+## Teiginiai
+
+<a id="claim-t-64086"></a>
+- t-001
+  teiginys: "Augusto III valdymo pabaigoje Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-64938
+
+<a id="claim-t-64088"></a>
+- t-002
+  teiginys: "Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-64940
+
+<a id="claim-t-64092"></a>
+- t-003
+  teiginys: "Rusų kariuomenei parėmus, Stanislovas Augustas buvo išrinktas karaliumi."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-64942
+
 ## Citatos
 
 - id: c-64938
@@ -56,7 +87,7 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-64940
@@ -75,7 +106,7 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-64942
@@ -97,37 +128,5 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-64086"></a>
-- t-001
-  teiginys: "Augusto III valdymo pabaigoje Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-64938
-
-<a id="claim-t-64088"></a>
-- t-002
-  teiginys: "Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-64940
-
-<a id="claim-t-64092"></a>
-- t-003
-  teiginys: "Rusų kariuomenei parėmus, Stanislovas Augustas buvo išrinktas karaliumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-64942
-

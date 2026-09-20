@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jurgis Nosis'
+pavadinimas: Jurgis Nosis
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-bbd9b512b75432fbdfe3fc73"
-canonical_name: "Jurgis Nosis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jurgis Nosis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-bbd9b512b75432fbdfe3fc73
+canonical_name: Jurgis Nosis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jurgis Nosis
 sameAs: []
-canonical_biography: "Pinsko kunigaikštis Jurgis Nosis, kuris būtų buvęs LDK vie tininku Pskove, kituose šaltiniuose nąpaliudytas."
+canonical_biography: 'Pinsko kunigaikštis Jurgis Nosis, kuris būtų buvęs LDK vie tininku Pskove, kituose šaltiniuose nąpaliudytas.'
 ---
 # Jurgis Nosis
 
@@ -65,6 +64,5 @@ Pinsko kunigaikštis Jurgis Nosis, kuris būtų buvęs LDK vie tininku Pskove, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

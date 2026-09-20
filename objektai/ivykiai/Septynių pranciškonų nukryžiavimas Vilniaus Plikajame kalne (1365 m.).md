@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Septynių pranciškonų nukryžiavimas Vilniaus Plikajame kalne (1365 m.)'
+pavadinimas: Septynių pranciškonų nukryžiavimas Vilniaus Plikajame kalne (1365 m.)
 variantai:
-  - 'Septynių pranciškonų nukryžiavimas Vilniaus Plikajame kalne'
+  - Septynių pranciškonų nukryžiavimas Vilniaus Plikajame kalne
 aliases:
-  - 'Septynių pranciškonų nukryžiavimas Vilniaus Plikajame kalne'
+  - Septynių pranciškonų nukryžiavimas Vilniaus Plikajame kalne
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1365 m.'
+  - 1365 m.
 date_start: '1365'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Septynių pranciškonų nukryžiavimas Vilniaus Plikajame kalne (1365 m.)
 
@@ -82,6 +79,5 @@ Pranciškonai Vilniaus Plikajame kalne pastatė tris kryžius kaip savo misijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

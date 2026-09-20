@@ -1,11 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'Krewe (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: Krewe (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'Krewe'
+  - Krewe
 aliases:
-  - 'Krewe'
+  - Krewe
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Krewe (sąvoka)
 
@@ -71,6 +68,5 @@ Symbolum jurisdictionis Flamenis, Krewe—Kreweyto, sive baculus sacerdotalis, v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

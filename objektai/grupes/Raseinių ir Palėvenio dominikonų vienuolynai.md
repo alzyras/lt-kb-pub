@@ -1,28 +1,25 @@
 ---
 tipas: grupe
-pavadinimas: 'Raseinių ir Palėvenio dominikonų vienuolynai'
+pavadinimas: Raseinių ir Palėvenio dominikonų vienuolynai
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1861 m.'
+  - 1861 m.
 date_start: '1861'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Raseinių ir Palėvenio dominikonų vienuolynai
 
@@ -33,21 +30,6 @@ media_all_json: |-
 ## Santrauka
 
 1861 m. vyskupui teko tramdyti Raseinių ir Palėvenio dominikonų vienuolynus, kurie pelnėsi iš degtinės gamybos ir pardavimo.
-
-## Teiginiai
-
-<a id="claim-t-209376"></a>
-- t-001
-  teiginys: "1861 m. vyskupui teko tramdyti Raseinių ir Palėvenio dominikonų vienuolynus, kurie pelnėsi iš degtinės gamybos ir pardavimo."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
-  pagrindžia:
-    - c-191925
 
 ## Citatos
 
@@ -77,3 +59,18 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+## Teiginiai
+
+<a id="claim-t-209376"></a>
+- t-001
+  teiginys: "1861 m. vyskupui teko tramdyti Raseinių ir Palėvenio dominikonų vienuolynus, kurie pelnėsi iš degtinės gamybos ir pardavimo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
+  pagrindžia:
+    - c-191925
+

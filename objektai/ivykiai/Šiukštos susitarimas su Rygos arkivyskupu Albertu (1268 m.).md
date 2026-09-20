@@ -47,6 +47,37 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-204048"></a>
+- t-001
+  teiginys: "1268 m. Šiukšta (Suxe), veikiausiai į Livoniją atvykęs po 1263 m. prasidėjusių vidaus kivirčų, krikšto metu gavęs Mikalojaus vardą, sudarė sutartį su Rygos arkivyskupu Albertu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1263 m.; įvykio data: 1268 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įtrauktas šaltinyje nurodytas atvykimo kontekstas ir išlaikytas neapibrėžtumas, žymimas žodžiu „veikiausiai“. Asmens vardai ir sutarties dalyviai aiškiai įvardyti."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186652
+
+<a id="claim-t-204049"></a>
+- t-002
+  teiginys: "1268 m. Šiukšta perleido iš tėvų paveldėtą Nalšios valdą Rygos arkivyskupui ir atgavo ją kaip leną, taip pat priimtą brolio vardu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186653
+
 ## Santrauka
 
 1268 m. Šiukšta (Suxe), veikiausiai į Livoniją atvykęs po 1263 m. prasidėjusių vidaus kivirčų, krikšto metu gavęs Mikalojaus vardą, sudarė sutartį su Rygos arkivyskupu Albertu. 1268 m. Šiukšta perleido iš tėvų paveldėtą Nalšios valdą Rygos arkivyskupui ir atgavo ją kaip leną, taip pat priimtą brolio vardu.
@@ -68,7 +99,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186653
@@ -86,37 +117,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-204048"></a>
-- t-001
-  teiginys: "1268 m. Šiukšta (Suxe), veikiausiai į Livoniją atvykęs po 1263 m. prasidėjusių vidaus kivirčų, krikšto metu gavęs Mikalojaus vardą, sudarė sutartį su Rygos arkivyskupu Albertu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1263 m.; įvykio data: 1268 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įtrauktas šaltinyje nurodytas atvykimo kontekstas ir išlaikytas neapibrėžtumas, žymimas žodžiu „veikiausiai“. Asmens vardai ir sutarties dalyviai aiškiai įvardyti."
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186652
-
-<a id="claim-t-204049"></a>
-- t-002
-  teiginys: "1268 m. Šiukšta perleido iš tėvų paveldėtą Nalšios valdą Rygos arkivyskupui ir atgavo ją kaip leną, taip pat priimtą brolio vardu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186653
-

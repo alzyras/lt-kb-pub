@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Latviai'
+pavadinimas: Latviai
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
@@ -10,10 +10,10 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1221 m.'
-  - '1805 m.'
-  - '1936 m.'
-  - '2026 m.'
+  - 1221 m.
+  - 1805 m.
+  - 1936 m.
+  - 2026 m.
 date_start: '1221'
 date_end: '2026'
 sukurta: ''
@@ -23,20 +23,30 @@ tags:
   - ordinas
   - tauta
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Latviai","url":"https://lt.wikipedia.org/wiki/Latviai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Latviai","url":"https://www.vle.lt/straipsnis/latviai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T00:33:08+00:00","source_checked_at":"2026-09-19T00:33:08+00:00","counts":{"relations":9,"gallery":0,"sources":8},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Lat­ vijoje ir dabar girdėti apie tokius žmones, sako Stenderis32. Vilkolakis (Wilkats) Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­ sų rusinai tokį vadina Wolkotak, o lietuviai - Witkatas. Šis ne­ vidonas pridaro neapsakomai daug žalos.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","claim_id":"t-217527","evidence_id":"c-201587","origin":"internal"},"wiki":{"status":"published","source":{"title":"Latviai","url":"https://lt.wikipedia.org/wiki/Latviai","publisher":"Vikipedija","language":"lt","article_id":"48751","revision_id":"7352214","published_at":"2024-08-05T17:24:14Z","version_pk":"","content_hash":"b223e49bea343d7022db28b62598908bdb30e427c5a7e7541acf73c68a1b1db6","retrieved_at":"2026-09-19T00:29:35+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Latviai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"48751"}},"intro":"Latviai (latv. latvieši) – šiaurės Europos tauta, vietiniai Latvijos gyventojai, gyvenantys rytų Baltijos jūros pakrantėje į šiaurę nuo lietuvių ir kalbantys latvių kalba. Latviai save vadina dviem vardais: kasdieniniu priesaginiu latvieši ir poetiniu latvji, kuris, kaip spėjama, galėjo kilti iš upės pavadinimo Latve ar Latva, neva tekėjusia per dabartinę Rytų Latviją.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Latviai","url":"https://lt.wikipedia.org/wiki/Latviai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Latviai","url":"https://www.vle.lt/straipsnis/latviai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Latviai","https://www.vle.lt/straipsnis/latviai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"067fe4004e8ef02c4f88900e","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų.","context":"Zenono Ivinskio aprašymas; istorinis kontekstas nenurodytas tiksliau.","support_ids":["t-169588","c-154290"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169588","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-154290","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Latvių ten atliktas asimiliacijos faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių sritis yra asimiliavę lietuviai. Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­ mi kaip Liet’gola. Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­ _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli» (X, 3)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ab3759610b921349feea6c0f","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Tikrieji latviai naujojo geležies amžiaus pradžioje pradėjo ryškiau kalbiškai skirtis nuo lietuvių.","context":"Zenono Ivinskio istorinis aprašymas.","support_ids":["t-169592","c-31151"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169592","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-31151","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­ mi kaip Liet’gola. Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­ _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli» (X, 3). XII-XIII amž."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"37d7d6c9c9e638fed0bba58d","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"XII–XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.","context":"Zenono Ivinskio aprašomas XII–XIII a. sandūros laikotarpis.","support_ids":["t-169591","c-154293"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169591","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-154293","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­ _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli» (X, 3). XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­ krauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­ veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos kranto ruožą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"bde2f48a3d754031ceead1d6","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos.","context":"Alberto Vijūko-Kojelavičiaus aprašomas Livonijos vidaus karo laikotarpis; tai autoriaus pasakojimas apie jų įsitraukimą į karą.","support_ids":["t-184516","c-167877"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184516","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-167877","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau- 93 ## Puslapis 84 1221 m e ta i K u k o v a itis — L ietu ­ v o s ir Ž e m a itijo s k u ­ n ig a ik štis gojo taiką, būdamas beveik iš visų pusių apsuptas bičiu­ lių; vakaruose—prūsų- rytuo­ se — brolio Ginvilos, Poloc­ ko kunigaikščio, pietuose jotvingių ir Skirmanto, Nau­ garduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau tos pusės saugumą laidavo tai, kad vokiečiai ir latviai, įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų, Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į Rusią."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6606e478ebf2a92672bb013f","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Latviai, pasak Teodoro Narbuto, iš siaubo prašėsi atleidimo, priėmė krikštą ir siuntė žygūnus prašyti jų kraštą pavesti naujam vyskupui.","context":"Teodoro Narbuto pasakojimas apie konkretų istorinį įvykį.","support_ids":["t-205370","c-188090"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205370","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188090","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Tuomet latviai, paklaikę iš siaubo, ėmė prašytis atleidimo. Pasikvietė iš Holmo kunigus ir pir­ mieji penkiasdešimt priėmė krikštą, o rytojaus dieną ap­ sikrikštijo dar šimtas atvykusių į Ikškilę. Tam, kad sve­ timšalių kariauną paakintų pasitraukti iš krašto, didikai priėmė kunigus į savo pilis, nuo kiekvienos žagrės pas­ kirdami javų duoklę, ir tuoj pat pasiuntė pas Bremeno arkivyskupą žygūnus, prašydami pavesti jų kraštą nau­ jam vyskupui."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"26f58615d18d764fbac88f4d","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Latviai iki šiol pamena Blukka wakars – per Kalėdas švenčiamą rąstigalio vakarą; tada kaimiečiai kelia vaišes, daug valgo, geria, šokinėja per rąstigalį ir jį valkioja po kaimą.","context":"Teodoro Narbuto aprašyta tradicija; autoriaus vartojamas laiko žymuo „iki šiol“.","support_ids":["t-217512","c-200748"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217512","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-200748","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Latviai iki šiol pamena Blukka wakars, tai yra rąstigalio vakarą, kuris švenčiamas per Kalėdas; tuo metu kaimiečiai ke­ lia vaišes, daug valgo, geria ir šokinėja per rąstigalį, kaip dyka- duoniavimo simbolį, valkioja jį po kaimą"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Latviai – baltų grupė, kurią su lietuviais ir prūsais siejo kalba, kultūra, tradicijos, senoji religija ir teritorinis artumas. XII–XIII amžių sandūroje jie gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje, nuo Aizkrauklės iki Burtnieko ežero. Naujojo geležies amžiaus pradžioje latvių kalba ryškiau atsiskyrė nuo lietuvių, o jų protėviai perėmė dalį išnykusių kuršių, žiemgalių ir sėlių teritorijų. Viduramžių politiniame gyvenime latviai buvo susiję su Livonija: įsitraukę į jos vidaus karą, jie kartu su vokiečiais kurį laiką neturėjo galimybės niokoti Lietuvos. Vėlesniuose aprašymuose išliko ir savitų tradicijų bei vaizdinių, pavyzdžiui, per Kalėdas švęstas Blukka wakars, o vilkolakis Wilkats įsivaizduotas kaip kerėtojas, galintis pavirsti vilku.","sentences":[{"sentence_id":"s1","text":"Latviai – baltų grupė, kurią su lietuviais ir prūsais siejo kalba, kultūra, tradicijos, senoji religija ir teritorinis artumas.","support_ids":["t-222897","c-203433"]},{"sentence_id":"s2","text":"XII–XIII amžių sandūroje jie gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje, nuo Aizkrauklės iki Burtnieko ežero.","support_ids":["t-169591","c-154293"]},{"sentence_id":"s3","text":"Naujojo geležies amžiaus pradžioje latvių kalba ryškiau atsiskyrė nuo lietuvių, o jų protėviai perėmė dalį išnykusių kuršių, žiemgalių ir sėlių teritorijų.","support_ids":["t-169592","c-31151","t-169588","c-154290"]},{"sentence_id":"s4","text":"Viduramžių politiniame gyvenime latviai buvo susiję su Livonija: įsitraukę į jos vidaus karą, jie kartu su vokiečiais kurį laiką neturėjo galimybės niokoti Lietuvos.","support_ids":["t-184516","c-167877"]},{"sentence_id":"s5","text":"Vėlesniuose aprašymuose išliko ir savitų tradicijų bei vaizdinių, pavyzdžiui, per Kalėdas švęstas Blukka wakars, o vilkolakis Wilkats įsivaizduotas kaip kerėtojas, galintis pavirsti vilku.","support_ids":["t-217512","c-200748","t-217527","c-201587"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta nurodytais šaltiniais apie baltų kalbos, kultūros, tradicijų, religijos ir teritorijos bendrumą."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo laikotarpį, dešinįjį Dauguvos krantą, Latgaliją, rytinę Vidžemę ir ribas nuo Aizkrauklės iki Burtnieko ežero."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina kalbinį atsiskyrimą nuo lietuvių ir kuršių, žiemgalių bei sėlių teritorijų asimiliavimą."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad vokiečiai ir latviai, įsitraukę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Blukka wakars šventimą per Kalėdas ir Wilkats kaip kerėtoją, galintį pasiversti vilku."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-222897","c-203433"]},{"sentence_id":"s2","supported":true,"support_ids":["t-169591","c-154293"]},{"sentence_id":"s3","supported":true,"support_ids":["t-169592","c-31151","t-169588","c-154290"]},{"sentence_id":"s4","supported":true,"support_ids":["t-184516","c-167877"]},{"sentence_id":"s5","supported":true,"support_ids":["t-217512","c-200748","t-217527","c-201587"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Dauguva","claim_id":"t-169591","confidence":0.9},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Kuršas","claim_id":"t-215024","confidence":0.88},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Latgalija","claim_id":"t-169591","confidence":0.88},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-215024","confidence":0.8},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Piltenė","claim_id":"t-215024","confidence":0.86},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Vidžemė","claim_id":"t-169591","confidence":0.86},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Baltija","claim_id":"t-23361","confidence":0.62},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Baltai","claim_id":"t-222182","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Magus","claim_id":"t-32331","confidence":0.78}],"timeline":[],"support_disclosure":{"claims":29,"sources":6}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6e08119eddb19251
+object_page_generated_at: '2026-09-19T00:33:08+00:00'
+object_page_source_checked_at: '2026-09-19T00:33:08+00:00'
+object_page_content_state: content
+object_page_claim_count: '29'
+object_page_source_count: '6'
+object_page_seo_description: 'Latviai – baltų grupė, kurią su lietuviais ir prūsais siejo kalba, kultūra, tradicijos, senoji religija ir teritorinis artumas. XII–XIII amžių sandūroje jie…'
+object_page_seo_input_hash: e238dcc88d6d70e4bba3322f4f9373a6fd16c34019510a383810786637737029
+object_page_seo_generated_at: '2026-09-19T00:33:08+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Latviai
 
@@ -45,6 +55,136 @@ media_all_json: |-
 Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo latvių tauta.
 
 ## Teiginiai
+
+<a id="claim-t-169584"></a>
+- t-001
+  teiginys: "Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie deramai vadinami Lethigalli."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-31151
+
+<a id="claim-t-169585"></a>
+- t-002
+  teiginys: "Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-154294
+
+<a id="claim-t-169586"></a>
+- t-003
+  teiginys: "II tūkstantmečio pradžioje latviai pradėjo formuotis kartu su prūsų, jotvingių ir lietuvių tautomis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  pagrindžia:
+    - c-154292
+
+<a id="claim-t-169587"></a>
+- t-004
+  teiginys: "Kronikoje vaizduojamu laikotarpiu latviai, lietuviai ir prūsai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-154296
+
+<a id="claim-t-169588"></a>
+- t-005
+  teiginys: "Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sėliai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Sėliai: mention_match, group, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Sėliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-154290
+
+<a id="claim-t-169589"></a>
+- t-006
+  teiginys: "Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet’gola."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dauguva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dauguva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-31151
+
+<a id="claim-t-169591"></a>
+- t-007
+  teiginys: "XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje."
+  atnaujinta: "2026-05-31 14:11"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Dauguva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Latviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Latviai tiesiogiai apibūdinti kaip įsikūrę Dauguvos dešiniajame krante."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Latviai gyveno Dauguva (0.90); Latviai gyveno Latgalija (0.88); Latviai gyveno Vidžemė (0.86)"
+  pagrindžia:
+    - c-154293
+
+<a id="claim-t-169592"></a>
+- t-008
+  teiginys: "Tikrieji latviai naujojo geležies amžiaus pradžioje pradėjo ryškiau kalbiškai skirtis nuo lietuvių."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-31151
 
 <a id="claim-t-184516"></a>
 - t-009
@@ -68,571 +208,29 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   pagrindžia:
     - c-167877
 
-<a id="claim-t-212162"></a>
-- t-212162
-  teiginys: "Tikrieji latviai gyveno Kuršo ir Žemgalos kunigaikštystėse bei Piltenės grafystėje."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-188221"></a>
+- t-010
+  teiginys: "Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu ir padavimu apie supykusio Likimo plakamos žemės drebėjimą."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196163
-
-<a id="claim-t-212657"></a>
-- t-212657
-  teiginys: "Arba jie buvo latviai, kuriuos rusai ir dabar vadina Kreewi {ir."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197426
-
-<a id="claim-t-214549"></a>
-- t-214549
-  teiginys: "Lietuvių padermės tautos: senovės prū sai, galindai, sūduviai, kuršiai ir šiandieniai lietuviai, taip pat ir latviai, dėl dviejų priežasčių nusipelnė ypatin go slavų istoriko ir kalbos tyrinėtojo dėmesio."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194840
-
-<a id="claim-t-215083"></a>
-- t-215083
-  teiginys: "Vėliau paaiškėjo, jog ši malda buvusi latvių kalba."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196191
-
-<a id="claim-t-215594"></a>
-- t-215594
-  teiginys: "Viskas pasakyta teisingai ir bešališkai, išskyrus apie latvius, ku rie ir šiandieną tebešneka savo kalba, o be to, ir jos raštą tobu lina."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195151
-
-<a id="claim-t-216103"></a>
-- t-216103
-  teiginys: "Atminimas apie šios deivės garbinimą išliko tiktai Latvi joje."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199738
-
-<a id="claim-t-217336"></a>
-- t-217336
-  teiginys: "Narbutas teigia, kad latviai savo krašte rodė didelius pilkapius, vadinamus milžinkapiais arba M ilsu Kappi."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201396
-
-<a id="claim-t-217512"></a>
-- t-217512
-  teiginys: "Latviai iki šiol pamena Blukka wakars, tai yra rąstigalio vakarą, kuris švenčiamas per Kalėdas; tuo metu kaimiečiai ke lia vaišes, daug valgo, geria ir šokinėja per rąstigalį, kaip dykaduoniavimo simbolį, valkioja jį po kaimą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200748
-
-<a id="claim-t-218344"></a>
-- t-218344
-  teiginys: "Narbutas sujun gia ne tik dvi lietuvių, bet ir kitų baltų - prūsų, latvių - mitolo gijos tyrinėjimo tradicijas, nes lietuviais pagal beįsivyraujantį ano meto požiūrį jis vadina visus baltus; prūsai ir latviai, anot jo, esą tik „atskiros lietuvių gentys“."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200984
-
-<a id="claim-t-218797"></a>
-- t-218797
-  teiginys: "Latviai šį dievą vadino Drebbkuls, kadangi jo galybei pri skirdavo žemės drebėjimą: mat, kaip sako liaudies padavimai, kai Likimas užsirūstina ant žemės, tai ją, vargšę, taip plaka, kad visa dreba."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200013
-
-<a id="claim-t-219191"></a>
-- t-219191
-  teiginys: "Latviai vadina jį Auskučiu (Auskuč)."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201031
-
-<a id="claim-t-219284"></a>
-- t-219284
-  teiginys: "Latvių pranašautojai turėjo būrimo būdą, vadinamą Pimpolis."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199310
-
-<a id="claim-t-219603"></a>
-- t-219603
-  teiginys: "Narbutas teigia, kad latviai ištikimiau už lietuvius išsaugojo senųjų mėnesių atminimą ir skaičiavo trylika mėnesių."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198581
-
-<a id="claim-t-212211"></a>
-- t-212211
-  teiginys: "Teodoro Narbuto aprašyme Infliantų, arba Livonijos, Latvija buvo Dauguvos žemupyje, abiejose jos pakrantėse."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Livonija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Latvija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Latvija aiškiai įvardijama kaip Infliantų arba Livonijos Latvija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Latvija priklausė Livonija (0.82)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-212276"></a>
-- t-212276
-  teiginys: "Teodoras Narbutas latvių kalbos skirtumą nuo estų grindė Stenderio žodžiais apie latvių ir estų nesimaišymą Kurše."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Estai: 0.85"
+  ryšio_patikimumas: "susije_su -> Drebbkuls: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Estai: mention_match, group, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Estai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-215528"></a>
-- t-215528
-  teiginys: "Teodoras Narbutas spėjo, kad Latvijos pradžią galėjo lemti jos atskyrimas nuo viengenčių lietuvių ir prūsų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Latvija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Latvija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Latvija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-216681"></a>
-- t-216681
-  teiginys: "Narbutas rašė, kad Latvijos kaimiečiai šiaurės pašvaistę aiškino posakiu „Johdi Kaujahs“, reiškiančiu, kad dvasios kaunasi."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Latvija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Latvija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Latvija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-200384
-
-<a id="claim-t-216821"></a>
-- t-216821
-  teiginys: "Narbutas aiškino, kad latviams Barnis reiškė tikrąjį burtininką ir buvo siejamas su žodžiu Bart - kerėti."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-201090
-
-<a id="claim-t-217176"></a>
-- t-217176
-  teiginys: "Narbutas rašė, kad latviai Saulės aptemimą vadino Majtaszana arba Saules majtaszana, Saulės gadinimu."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-200408
-
-<a id="claim-t-217298"></a>
-- t-217298
-  teiginys: "Narbutas nurodė, kad latviai pasakojimuose lapę vadino kapsu Kuhmina, o vilką - Wilks snohts."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-201132
-
-<a id="claim-t-217406"></a>
-- t-217406
-  teiginys: "Narbutas rašė, kad latviai šią dievybę žinojo kaip Pilviką (Pelwihkse), kitaip vadinamą Szkahde."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Drebbkuls: mention_match, thing, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Drebbkuls\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-198954
+    - c-171115
 
-<a id="claim-t-217527"></a>
-- t-217527
-  teiginys: "Narbutas rašė, kad latviai vilkolakiu (Wilkats) vadino kerėtoją, mokantį pasiversti vilku."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-
-<a id="claim-t-217977"></a>
-- t-217977
-  teiginys: "Pasak Stenderio, latviai Datoną vadino Pilnyčiu (Pilnitis)."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-200624
-
-<a id="claim-t-218228"></a>
-- t-218228
-  teiginys: "Narbutas prieštaravo Mechovitai, pabrėždamas, kad latviai tebekalba savo kalba ir tobulina jos raštą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-198067
-
-<a id="claim-t-218731"></a>
-- t-218731
-  teiginys: "Narbutas rašė, kad latviai turėjo bičių dievybę, vadinamą Uhsinsz arba Szwets uhsinsz."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Austėja: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Austėja: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Austėja\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-197936
-
-<a id="claim-t-219056"></a>
-- t-219056
-  teiginys: "Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Namas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Namas: mention_match, thing, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-199949
-
-<a id="claim-t-222897"></a>
-- t-222897
-  teiginys: "Kronikoje vaizduojamu laikotarpiu latviai, lietuviai ir prūsai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-169584"></a>
-- t-169584
-  teiginys: "Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie deramai vadinami Lethigalli."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-31151
-
-<a id="claim-t-169585"></a>
-- t-169585
-  teiginys: "Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-154294
-
-<a id="claim-t-169586"></a>
-- t-169586
-  teiginys: "II tūkstantmečio pradžioje latviai pradėjo formuotis kartu su prūsų, jotvingių ir lietuvių tautomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-154292
-
-<a id="claim-t-169588"></a>
-- t-169588
-  teiginys: "Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sėliai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Sėliai: mention_match, group, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Sėliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-154290
-
-<a id="claim-t-169589"></a>
-- t-169589
-  teiginys: "Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet’gola."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dauguva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Dauguva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-31151
-
-<a id="claim-t-169591"></a>
-- t-169591
-  teiginys: "XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dauguva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Latviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Latviai tiesiogiai apibūdinti kaip įsikūrę Dauguvos dešiniajame krante."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Latviai gyveno Dauguva (0.90); Latviai gyveno Latgalija (0.88); Latviai gyveno Vidžemė (0.86)"
-  pagrindžia:
-    - c-154293
-
-<a id="claim-t-169592"></a>
-- t-169592
-  teiginys: "Tikrieji latviai naujojo geležies amžiaus pradžioje pradėjo ryškiau kalbiškai skirtis nuo lietuvių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=81"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-31151
-
-<a id="claim-t-205370"></a>
-- t-205370
-  teiginys: "Tuomet latviai, paklaikę iš siaubo, ėmė prašytis atleidimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-188090
-
-<a id="claim-t-216371"></a>
-- t-216371
-  teiginys: "Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus vadino milžinkapiais, Milsu Kappi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-199949
-
-<a id="claim-t-217486"></a>
-- t-217486
-  teiginys: "Narbutas rašė, kad latviai mirusiųjų valdovę vadino Welli-Deewa, o šios deivės apeigos sietos su laidotuvėmis ir Vėlinėmis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-197936
-
-<a id="claim-t-218203"></a>
-- t-218203
+<a id="claim-t-188222"></a>
+- t-011
   teiginys: "Narbutas sprendė, kad latviai Bubbulį vaizdavo baisų, nes vaikams gąsdinti sakydavo: „Ateina Bubbulis - paims, pagriebs“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -646,25 +244,12 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-197936
+    - c-171116
 
-<a id="claim-t-218351"></a>
-- t-218351
-  teiginys: "Narbutas manė, kad Mėšlų bobą, namų šiukšlių globėją, žinojo tik latviai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-197936
-
-<a id="claim-t-218377"></a>
-- t-218377
+<a id="claim-t-188223"></a>
+- t-012
   teiginys: "Pasak Stenderio, latviai kiekvieną deivę vadino motina, o dievą - tėvu, todėl mitus siejo su vyriškąja ir moteriškąja dievybės lytimis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -679,7 +264,465 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
-    - c-198954
+    - c-171117
+
+<a id="claim-t-188224"></a>
+- t-013
+  teiginys: "Narbutas rašė, kad latviai šią dievybę žinojo kaip Pilviką (Pelwihkse), kitaip vadinamą Szkahde."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171118
+
+<a id="claim-t-188225"></a>
+- t-014
+  teiginys: "Pasak Rusovo, latvių jaunimas garbino deivę Dahkla kaip laisvės ir vyriškumo globėją."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171119
+
+<a id="claim-t-188226"></a>
+- t-015
+  teiginys: "Narbutas rašė, kad latviai mirusiųjų valdovę vadino Welli-Deewa, o šios deivės apeigos sietos su laidotuvėmis ir Vėlinėmis."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171120
+
+<a id="claim-t-188227"></a>
+- t-016
+  teiginys: "Pasak Stenderio, latviai turėjo deivę Dyža arba Dysza, kuri savo ypatybėmis visiškai atitiko Pergrubę."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171121
+
+<a id="claim-t-188228"></a>
+- t-017
+  teiginys: "Narbutas teigė, kad latvių sapnų aiškinimai turėjo ypatingų ir kartais skirtingų bruožų."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171122
+
+<a id="claim-t-188229"></a>
+- t-018
+  teiginys: "Narbutas manė, kad Mėšlų bobą, namų šiukšlių globėją, žinojo tik latviai."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Mėšlų boba: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Mėšlų boba: mention_match, thing, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Mėšlų boba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171123
+
+<a id="claim-t-188230"></a>
+- t-019
+  teiginys: "Narbutas rašė, kad latviai turėjo bičių dievybę, vadinamą Uhsinsz arba Szwets uhsinsz."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Austėja: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Austėja: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Austėja\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171124
+
+<a id="claim-t-188231"></a>
+- t-020
+  teiginys: "Narbutas rašė, kad atminimas apie Žemės motinos garbinimą išliko tik Latvijoje."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latvija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Latvija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Latvija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171125
+
+<a id="claim-t-188232"></a>
+- t-021
+  teiginys: "Pasak Stenderio, latviai Datoną vadino Pilnyčiu (Pilnitis)."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171126
+
+<a id="claim-t-188233"></a>
+- t-022
+  teiginys: "Narbutas rašė, kad latviai Girystį vadino Meszu Deews, miškų dievu, arba Meschu Wihrs, miškiniu žmogumi."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ksaveras Bogušas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Ksaveras Bogušas: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Ksaveras Bogušas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171127
+
+<a id="claim-t-188234"></a>
+- t-023
+  teiginys: "Narbutas rašė, kad Latvijos kaimiečiai šiaurės pašvaistę aiškino posakiu „Johdi Kaujahs“, reiškiančiu, kad dvasios kaunasi."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latvija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Latvija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Latvija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171128
+
+<a id="claim-t-188235"></a>
+- t-024
+  teiginys: "Narbutas rašė, kad latviai Saulės aptemimą vadino Majtaszana arba Saules majtaszana, Saulės gadinimu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171129
+
+<a id="claim-t-188236"></a>
+- t-025
+  teiginys: "Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Namas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Namas: mention_match, thing, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171130
+
+<a id="claim-t-188237"></a>
+- t-026
+  teiginys: "Narbutas nurodė, kad latviai pasakojimuose lapę vadino kapsu Kuhmina, o vilką - Wilks snohts."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171131
+
+<a id="claim-t-188238"></a>
+- t-027
+  teiginys: "Narbutas rašė, kad latviai murgiais vadino karuose už tėvynę žuvusių didvyrių šmėklas, kurių būstinė buvo danguje."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171132
+
+<a id="claim-t-188239"></a>
+- t-028
+  teiginys: "Narbutas rašė, kad latviai kai kurias upes laikė šventomis, o XVII a. Livonijoje dėl Vyhandės upelio užtvenkimo kilo maištas."
+  atnaujinta: "2026-07-24 15:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171133
+
+<a id="claim-t-188240"></a>
+- t-029
+  teiginys: "Narbutas aiškino, kad latviams Barnis reiškė tikrąjį burtininką ir buvo siejamas su žodžiu Bart - kerėti."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171134
+
+<a id="claim-t-188241"></a>
+- t-030
+  teiginys: "Narbutas rašė, kad latviai vilkolakiu (Wilkats) vadino kerėtoją, mokantį pasiversti vilku."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171135
+
+<a id="claim-t-188242"></a>
+- t-031
+  teiginys: "Narbutas lygino alaus pavadinimus ir nurodė, kad latviai šį gėrimą vadino Alius."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Germanai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Germanai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Germanai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171136
+
+<a id="claim-t-188244"></a>
+- t-032
+  teiginys: "Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus vadino milžinkapiais, Milsu Kappi."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171138
+
+<a id="claim-t-188245"></a>
+- t-033
+  teiginys: "Narbutas prieštaravo Mechovitai, pabrėždamas, kad latviai tebekalba savo kalba ir tobulina jos raštą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171139
+
+<a id="claim-t-192419"></a>
+- t-034
+  teiginys: "Teodoras Narbutas spėjo, kad Latvijos pradžią galėjo lemti jos atskyrimas nuo viengenčių lietuvių ir prūsų."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latvija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Latvija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Latvija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175213
+
+<a id="claim-t-192420"></a>
+- t-035
+  teiginys: "Teodoras Narbutas latvių kalbos skirtumą nuo estų grindė Stenderio žodžiais apie latvių ir estų nesimaišymą Kurše."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Estai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Estai: mention_match, group, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Estai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175214
+
+<a id="claim-t-192421"></a>
+- t-036
+  teiginys: "Teodoro Narbuto aprašyme Infliantų, arba Livonijos, Latvija buvo Dauguvos žemupyje, abiejose jos pakrantėse."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Livonija: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Latvija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Latvija aiškiai įvardijama kaip Infliantų arba Livonijos Latvija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Latvija priklausė Livonija (0.82)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175215
+
+<a id="claim-t-205370"></a>
+- t-037
+  teiginys: "Tuomet latviai, paklaikę iš siaubo, ėmė prašytis atleidimo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188090
 
 ## Reikšmingi paminėjimai
 - c-030
@@ -734,10 +777,10 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169584
-    - t-169589
-    - t-169592
+  pagrindzia:
+    - t-001
+    - t-006
+    - t-008
 
 - id: c-154290
   autorius: "Zenonas Ivinskis"
@@ -758,8 +801,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169588
+  pagrindzia:
+    - t-005
 
 - id: c-154292
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -778,8 +821,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169586
+  pagrindzia:
+    - t-003
 
 - id: c-154293
   autorius: "Zenonas Ivinskis"
@@ -801,8 +844,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169591
+  pagrindzia:
+    - t-007
 
 - id: c-154294
   autorius: "Michał Baliński"
@@ -831,8 +874,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169585
+  pagrindzia:
+    - t-002
 
 - id: c-154296
   autorius: "Petras Dusburgietis"
@@ -855,6 +898,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-167877
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -885,12 +930,11 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     Rusią.
   citata_rodoma: "Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-\n93\n\n## Puslapis 84\n\n1221 m e ta i\nK u k o v a itis — L ietu ­\nv o s  ir Ž e m a itijo s k u ­\nn ig a ik štis\ngojo taiką, būdamas beveik\niš visų pusių apsuptas bičiu­\nlių; vakaruose—prūsų- rytuo­\nse — brolio Ginvilos, Poloc­\nko kunigaikščio, pietuose\njotvingių ir Skirmanto, Nau­\ngarduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau\ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai,\nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti\nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų,\nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į\nRusią."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-171115
@@ -913,6 +957,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-171116
   autorius: "Teodoras Narbutas"
@@ -932,6 +978,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-171117
   autorius: "Teodoras Narbutas"
@@ -952,6 +1000,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 - id: c-171118
   autorius: "Teodoras Narbutas"
@@ -972,6 +1022,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 - id: c-171119
   autorius: "Teodoras Narbutas"
@@ -993,6 +1045,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
 
 - id: c-171120
   autorius: "Teodoras Narbutas"
@@ -1015,6 +1069,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
 
 - id: c-171121
   autorius: "Teodoras Narbutas"
@@ -1033,6 +1089,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 - id: c-171122
   autorius: "Teodoras Narbutas"
@@ -1051,6 +1109,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
 
 - id: c-171123
   autorius: "Teodoras Narbutas"
@@ -1071,6 +1131,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
 
 - id: c-171124
   autorius: "Teodoras Narbutas"
@@ -1091,6 +1153,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 - id: c-171125
   autorius: "Teodoras Narbutas"
@@ -1114,6 +1178,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
 
 - id: c-171126
   autorius: "Teodoras Narbutas"
@@ -1131,6 +1197,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
 
 - id: c-171127
   autorius: "Teodoras Narbutas"
@@ -1150,6 +1218,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-022
 
 - id: c-171128
   autorius: "Teodoras Narbutas"
@@ -1167,6 +1237,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
 
 - id: c-171129
   autorius: "Teodoras Narbutas"
@@ -1187,6 +1259,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
 
 - id: c-171130
   autorius: "Teodoras Narbutas"
@@ -1207,6 +1281,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-025
 
 - id: c-171131
   autorius: "Teodoras Narbutas"
@@ -1223,6 +1299,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-026
 
 - id: c-171132
   autorius: "Teodoras Narbutas"
@@ -1241,6 +1319,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-027
 
 - id: c-171133
   autorius: "Teodoras Narbutas"
@@ -1260,6 +1340,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-028
 
 - id: c-171134
   autorius: "Teodoras Narbutas"
@@ -1279,6 +1361,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-029
 
 - id: c-171135
   autorius: "Teodoras Narbutas"
@@ -1298,6 +1382,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-030
 
 - id: c-171136
   autorius: "Teodoras Narbutas"
@@ -1317,6 +1403,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-031
 
 - id: c-171138
   autorius: "Teodoras Narbutas"
@@ -1337,6 +1425,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-032
 
 - id: c-171139
   autorius: "Teodoras Narbutas"
@@ -1358,6 +1448,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-033
 
 - id: c-175213
   autorius: "Teodoras Narbutas"
@@ -1385,6 +1477,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-034
 
 - id: c-175214
   autorius: "Teodoras Narbutas"
@@ -1409,6 +1503,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-035
 
 - id: c-175215
   autorius: "Teodoras Narbutas"
@@ -1430,6 +1526,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-036
 
 - id: c-188090
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -1450,473 +1548,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205370
-
-- id: c-194840
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 15"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 15."
-  citata_originali: |
-    Lietuvių padermės tautos: senovės prū­
-    sai, galindai, sūduviai, kuršiai ir šiandieniai lietuviai,
-    taip pat ir latviai, dėl dviejų priežasčių nusipelnė ypatin­
-    go slavų istoriko ir kalbos tyrinėtojo dėmesio.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214549
-
-- id: c-195151
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 513"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 513."
-  citata_originali: |
-    Viskas pasakyta teisingai ir bešališkai, išskyrus apie latvius, ku­
-    rie ir šiandieną tebešneka savo kalba, o be to, ir jos raštą tobu­
-    lina.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215594
-
-- id: c-196163
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 290-291"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 290-291."
-  citata_originali: |
-    Tikrieji latviai gyvena:
-    1) abiejose Kuršo ir Zemgalos kunigaikštystėse, taip pat
-    Piltenės grafystėje; 2) toje Livonijos dalyje, kurią vadi­
-    na Letlandija arba Latgala; 3) Lenkijos Livonijoje; 4)
-    1 Žemėlapis Kruzės veikale „Necrolivonica"**,
-    2 Lett. Gramm.
-    280
-
-    Lietuvoje prie Kuršo sienos, ypač dviejose liuteroniškose
-    Žeimelio ir Biržų parapijose
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212162
-
-- id: c-196191
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 515"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 515."
-  citata_originali: |
-    Vėliau paaiškėjo, jog ši malda
-    buvusi
-    latvių
-    kalba.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215083
-
-- id: c-197426
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 341"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
-  citata_originali: |
-    Arba jie
-    buvo latviai, kuriuos rusai ir dabar vadina Kreewi {ir.
-    Stender. Lettische Gramm.), arba lietuviai. Taip manyti
-    galima pagal jų krašto padėtį
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212657
-
-- id: c-197936
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 147."
-  citata_originali: |
-    Austėja (Austheja)
-    Deivė, bičių ir bitininkystės globėja. Jos buvo šaukiamasi
-    geidaujant iš kur nors atklydusį jaunų bičių spiečių įsivilioti į
-    savo avilius ir dreves. Ji taip pat turėjo galios saugoti bites nuo
-    kenksmingų vabzdžių ir kitų nutikimų.
-    Lasickis jos išsamiau neaiškino.
-    Latviai taip pat turėjo bičių dievybę, vadinamą gana pana­
-    šiai - Uhsinsz arba Szwets uhsinsz21.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217486
-    - t-218203
-    - t-218351
-    - t-218731
-
-- id: c-198067
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 437"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 437."
-  citata_originali: |
-    Tito tarpu
-    Žemaitijoje, kuri yra penkiasdešimt romėniškų mylių ilgio, ir Lie­
-    tuvoje, kuri yra trisdešimt romėniškų mylių ilgio, sodžiuose šne­
-    ka lietuviškai, o didžiojoje dalyje lenkti kalbą pripažįsta, ir kuni­
-    gai jų bažnyčiose lenkiškai pamokslauja). Viskas pasakyta tei­
-    singai ir bešališkai, išskyrus apie latvius, kurie ir šiandieną tebeš-
-    neka savo kalba, o be to, ir jos raštą tobulina. Tuo tarpu jotvin­
-    gių kalbos neturime jokio aiškesnio pavyzdžio, todėl ir negalime
-    pa tikrinti Mechovitos nuomonės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218228
-
-- id: c-198581
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 324"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 324."
-  citata_originali: |
-    Latviai ištikimiau išsaugojo senųjų mėnesių atminimą pa­
-    gal skaičiavimą nuo jauno iki jauno mėnulio. Todėl jų mėne­
-    siai neatitinka mūsiškių arba nesutampa su mūsų kalendorių
-    skaičiavimu, nes jų yra trylika.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219603
-
-- id: c-198954
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 126"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
-  citata_originali: |
-    Beje, labai gali būti,
-    kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
-    būdindama dievybių lytį, bet ne čia esmė; tai lengvai ištaiso­
-    ma, jeigu tik atsirastų kokių nors žinių apie šį dalyką.
-    Latviai žinojo šią dievybę kaip Pilviką (Pelwihkse), kitaip
-    Szkahde. Stenderis, tuose savo latvių mitologijos straipsniuo­
-    se saviškai pateikdamas klaidingas išvadas, nutolsta nuo es­
-    mės ir tiesos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217406
-    - t-218377
-
-- id: c-199310
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 305-306"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 305-306."
-  citata_originali: |
-    Latvių pranašautojai turėjo būrimo būdą, vadinamą Pim-
-    polis. Vaško rutuliuką, padarytą su tam tikromis apeigomis, su
-    40 Quae [domina] secundum ritum ipsorum sacra et prophetissa
-    reputabatur... (Kurią [viešpaty], pasak savo pačių tikėjimo, jie laikė
-    šventąja bei žyne <...>) Dusburg. - Pars III. - Cap. 4.
-    41 Liaudies padavimas nuo Pelesos krantų.
-    306
-
-    tam tikru magišku siūlu pakabindavo kamine. Buvo buriama
-    stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219284
-
-- id: c-199738
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 148."
-  citata_originali: |
-    Atminimas apie šios deivės garbinimą išliko tiktai Latvi­
-    joje
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216103
-
-- id: c-199949
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
-  citata_originali: |
-    Lasickis apie senovines apeigas sako: „Į tam tikrą šventę
-    pakviestas aukotojas maldomis ir užkeikimais sušaukia nami­
-    nius žalčius; šie baltu rankšluosčiu užšliaužia ant stalo ir ra­
-    gauja valgių, kuriuos paskui žmonės suvalgo, bet jeigu žalčiai
-    nenorėtų išlįsti arba ėsti, tai reikštų gresiančią namui didelę
-    nelaimę“.
-    Latviai naminius žalčius, garbintus kaip fetišus, vadino
-    Czuhskas. Šiuos prietarus žinojo ir Lietuvos rusinai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216371
-    - t-219056
-
-- id: c-200013
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 90"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 90."
-  citata_originali: |
-    Latviai šį dievą vadino Drebbkuls, kadangi jo galybei pri­
-    skirdavo žemės drebėjimą: mat, kaip sako liaudies padavimai,
-    kai Likimas užsirūstina ant žemės, tai ją, vargšę, taip plaka,
-    kad visa dreba.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218797
-
-- id: c-200384
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 183"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 183."
-  citata_originali: |
-    Juodas (Johds)
-    Laukų arba miškų velnias, tam tikra dvasių gąsdintojų rū­
-    šis. Daugiskaita Juodi (,Johdi) reiškia oro dvasias, mirusiųjų
-    vėles. Latvijos kaimiečiai, išlaikę tą mitą, dar ir dabar, išvydę
-    šiaurės pašvaiste, sako: Johdi Kaujahs, dvasios kaunasi.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216681
-
-- id: c-200408
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 185"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 185."
-  citata_originali: |
-    Didingai riedėdama savo keliu, apžvelgusi visą pasaulį,
-    kuris, lietuvių supratimu, buvęs ne apvalus, o plokščias ir ova­
-    lus, kaip lėkštė, priartėdavo prie jūros, nugrimzdavo joje nusi­
-    maudyti ir vykdavo į savo rūmus nakties poilsio.
-    Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
-    jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
-    Saulė aptemdavo. Latviai šį nutikimą vadina Majtaszana arba
-    Saules majtaszana, Saulės gadinimu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217176
-
-- id: c-200624
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 159"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 159."
-  citata_originali: |
-    Datonas (Datonus)
-    Dievaitis, žemių arba visokio turto dalytojas. Tik tiek apie
-    jį papasakojo Lasickis. Tenka spėlioti, kad tai buvo savotiškas
-    Plutono sekimas.
-    Latviai, pasak Stenderio, jį vadino Pilnyčiu (Pilnitis).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217977
-
-- id: c-200748
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 339"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 339."
-  citata_originali: |
-    Latviai iki šiol pamena Blukka wakars, tai yra rąstigalio
-    vakarą, kuris švenčiamas per Kalėdas; tuo metu kaimiečiai ke­
-    lia vaišes, daug valgo, geria ir šokinėja per rąstigalį, kaip dyka-
-    duoniavimo simbolį, valkioja jį po kaimą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217512
-
-- id: c-200984
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 19"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 19."
-  citata_originali: |
-    T. Narbutas sujun­
-    gia ne tik dvi lietuvių, bet ir kitų baltų - prūsų, latvių - mitolo­
-    gijos tyrinėjimo tradicijas, nes lietuviais pagal beįsivyraujantį
-    ano meto požiūrį jis vadina visus baltus; prūsai ir latviai, anot
-    jo, esą tik „atskiros lietuvių gentys“, „atskiros lietuvių genties
-    tautos“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218344
-
-- id: c-201031
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 156-157"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 156-157."
-  citata_originali: |
-    Latviai vadina jį Auskučiu (Auskuč). Jiems jis buvo ne tik
-    žmonių ir naminių gyvulių gydymo globėjas, bet ir saugodavo
-    31 O pravvach. - T. II. - S. 185 (prierašas Nr. 1543)**.
-    32 Švięcki. Opis starožytnej Polski. Wydanie 2-gie. - T. II. -
-    S. 246***.
-    157
-
-    nuo visokių ligų
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219191
-
-- id: c-201090
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 296"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
-  citata_originali: |
-    O jų sugebėjimai ir išmonė, tamsių žmonių aki­
-    mis, viršijantys kitų sugebėjimus, praradus anksčiau turėtą pa­
-    garbą, pavertė juos kerėtojais. TodėlBurtinikas ir Ciustinikas -
-    tikrasis burtininkas - lietuviams buvo lygiareikšmiai žodžiai;
-    latviams tą patį reiškė Barnis nuo žodžio Bart - kerėti. Pana­
-    šiai slavų Guslarz (kerėtojas) iš Gęsl, Husla - styginis instru­
-    mentas .
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216821
-
-- id: c-201132
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 210"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 210."
-  citata_originali: |
-    Latviai vadina lapę kapsu Kuhmina - lapė kūma, Wilks
-    snohts (gal veikiausvohts) - vilkas svainis (piršlys. -R. J.). Žmo­
-    nių pasakojimuose arba pasakose gyvuliai kalba ir veikia kaip
-    pas Ezopą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217298
-
-- id: c-201396
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 371"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
-  citata_originali: |
-    Latviai savo krašte iki šiol rodo didelius pilkapius, ku­
-    riuos savo padavimuose apie milžinus arba didelius žmones
-    vadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­
-    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
-    tose.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217336
+  pagrindzia:
+    - t-037
 
 ## Ryšiai
 - Latviai gyveno [[objektai/vietos/Dauguva]], [[objektai/vietos/Vidžemė]]

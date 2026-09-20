@@ -39,6 +39,20 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201371"></a>
+- t-001
+  teiginys: "Kas linkėjo tą namsargą į savo butą įgauti, meilavo vaidelės, idant tenai į namus atneštų, kursai atėjęs rado jau skomį padengtą ir tuojau, iš ančio žaltį išėmęs, rinkį ap vedė ir, midum jį sušlakstęs, ėmė pats pietuoti, o žalčiui pieno lakti padėjo, kursai."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184721
+
 ## Citatos
 
 - id: c-184721
@@ -64,20 +78,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201371"></a>
-- t-001
-  teiginys: "Kas linkėjo tą namsargą į savo butą įgauti, meilavo vaidelės, idant tenai į namus atneštų, kursai atėjęs rado jau skomį padengtą ir tuojau, iš ančio žaltį išėmęs, rinkį ap vedė ir, midum jį sušlakstęs, ėmė pats pietuoti, o žalčiui pieno lakti padėjo, kursai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184721
-

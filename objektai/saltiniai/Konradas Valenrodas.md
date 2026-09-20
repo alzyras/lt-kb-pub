@@ -36,6 +36,62 @@ Adomas Mickevičius poemą „Konradas Valenrodas“, jo pavadintą istorine sak
 
 Adomas Mickevičius poemą „Konradas Valenrodas“, jo pavadintą istorine sakme, parašė 1825–1827 m.; pirmasis leidimas pasirodė 1828 m. Peterburge. Teodoro Narbuto cituojamas Adomas Mickevičius pripažino, kad atkuriant Konrado Valenrodo istoriją leista šiokių tokių prasimanymų, tačiau tikėjosi, jog jų panašumas į tiesą juos pateisins. Teodoro Narbuto ir Adomo Mickevičiaus vertinimai skyrėsi dėl didžiojo magistro mirties aplinkybių ir Konrado Valenrodo valdymo poveikio kryžiuočių galybei, o Narbutas lojalumo problemos nenagrinėjo.
 
+## Teiginiai
+
+<a id="claim-t-207024"></a>
+- t-001
+  teiginys: "Adomas Mickevičius poemą „Konradas Valenrodas“, jo pavadintą istorine sakme, parašė 1825–1827 m.; pirmasis leidimas pasirodė 1828 m. Peterburge."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1827 m.; įvykio data: 1828 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai aprašo Adomo Mickevičiaus kūrinio parašymo bei pirmojo leidimo faktus."
+  pagrindžia:
+    - c-189639
+
+<a id="claim-t-207025"></a>
+- t-002
+  teiginys: "Teodoro Narbuto cituojamas Adomas Mickevičius pripažino, kad atkuriant Konrado Valenrodo istoriją leista šiokių tokių prasimanymų, tačiau tikėjosi, jog jų panašumas į tiesą juos pateisins."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189640
+
+<a id="claim-t-207026"></a>
+- t-003
+  teiginys: "Teodoro Narbuto ir Adomo Mickevičiaus vertinimai skyrėsi dėl didžiojo magistro mirties aplinkybių ir Konrado Valenrodo valdymo poveikio kryžiuočių galybei, o Narbutas lojalumo problemos nenagrinėjo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189641
+
+<a id="claim-t-207027"></a>
+- t-004
+  teiginys: "Teodoro Narbuto pateikiamu vertinimu, oficialus valdžios ir cenzūros požiūris į „Konradą Valenrodą“ buvo ir liko neigiamas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189642
+
 ## Citatos
 
 - id: c-189639
@@ -54,7 +110,7 @@ Adomas Mickevičius poemą „Konradas Valenrodas“, jo pavadintą istorine sak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189640
@@ -76,7 +132,7 @@ Adomas Mickevičius poemą „Konradas Valenrodas“, jo pavadintą istorine sak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-189641
@@ -98,7 +154,7 @@ Adomas Mickevičius poemą „Konradas Valenrodas“, jo pavadintą istorine sak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-189642
@@ -115,62 +171,5 @@ Adomas Mickevičius poemą „Konradas Valenrodas“, jo pavadintą istorine sak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-## Teiginiai
-
-<a id="claim-t-207024"></a>
-- t-001
-  teiginys: "Adomas Mickevičius poemą „Konradas Valenrodas“, jo pavadintą istorine sakme, parašė 1825–1827 m.; pirmasis leidimas pasirodė 1828 m. Peterburge."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1827 m.; įvykio data: 1828 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai aprašo Adomo Mickevičiaus kūrinio parašymo bei pirmojo leidimo faktus."
-  pagrindžia:
-    - c-189639
-
-<a id="claim-t-207025"></a>
-- t-002
-  teiginys: "Teodoro Narbuto cituojamas Adomas Mickevičius pripažino, kad atkuriant Konrado Valenrodo istoriją leista šiokių tokių prasimanymų, tačiau tikėjosi, jog jų panašumas į tiesą juos pateisins."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189640
-
-<a id="claim-t-207026"></a>
-- t-003
-  teiginys: "Teodoro Narbuto ir Adomo Mickevičiaus vertinimai skyrėsi dėl didžiojo magistro mirties aplinkybių ir Konrado Valenrodo valdymo poveikio kryžiuočių galybei, o Narbutas lojalumo problemos nenagrinėjo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189641
-
-<a id="claim-t-207027"></a>
-- t-004
-  teiginys: "Teodoro Narbuto pateikiamu vertinimu, oficialus valdžios ir cenzūros požiūris į „Konradą Valenrodą“ buvo ir liko neigiamas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189642
-

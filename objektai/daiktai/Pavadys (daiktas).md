@@ -1,35 +1,32 @@
 ---
 tipas: daiktas
-pavadinimas: 'Pavadys (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Pavadys (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Pavadys'
+  - Pavadys
 aliases:
-  - 'Pavadys'
+  - Pavadys
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1139 m.'
-  - '1330 m.'
+  - 1139 m.
+  - 1330 m.
 date_start: '1139'
 date_end: '1330'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XII'
-  - 'XIV'
+  - XII
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Pavadys (daiktas)
 
@@ -101,6 +98,5 @@ Dusburgiečio pasakojime brolis Henrikas įsikibo į juodo žirgo pavadį, sutra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -43,6 +43,21 @@ canonical_biography: "1315 m. gruodžio 7 d. Teodoras iš Altenburgo vadovavo kr
 
 1315 m. gruodžio 7 d. Teodoras iš Altenburgo vadovavo prie Bisėnos pilies slapta prisėlinusiems kryžiuočiams, kurie, lietuvių sargybai pasitraukus, užpuolė pro vartus išeinančius riterius.
 
+## Teiginiai
+
+<a id="claim-t-206102"></a>
+- t-001
+  teiginys: "1315 m. gruodžio 7 d. Teodoras iš Altenburgo vadovavo prie Bisėnos pilies slapta prisėlinusiems kryžiuočiams, kurie, lietuvių sargybai pasitraukus, užpuolė pro vartus išeinančius riterius."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188717
+
 ## Citatos
 
 - id: c-188717
@@ -67,21 +82,5 @@ canonical_biography: "1315 m. gruodžio 7 d. Teodoras iš Altenburgo vadovavo kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206102"></a>
-- t-001
-  teiginys: "1315 m. gruodžio 7 d. Teodoras iš Altenburgo vadovavo prie Bisėnos pilies slapta prisėlinusiems kryžiuočiams, kurie, lietuvių sargybai pasitraukus, užpuolė pro vartus išeinančius riterius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188717
-

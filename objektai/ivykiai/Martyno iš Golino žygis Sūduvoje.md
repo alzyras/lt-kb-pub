@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Martyno iš Golino žygis Sūduvoje'
+pavadinimas: Martyno iš Golino žygis Sūduvoje
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Martyno iš Golino žygis Sūduvoje
 
@@ -71,6 +68,5 @@ Martynas iš Golino su 4 vokiečiais ir 11 prūsų užpuolė Sūduvos kaimą ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -36,6 +36,41 @@ historical_names: []
 
 Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Dusburgietis teigia, kad 413 D.— mons Glapponis, Jer.— Glappinberc (plg. SRP, 5, p. 100, 204), vėliau — Rollberg (Hennenberger C., Erclerung.., p. 43; SRP, 1, p. 118 (Toeppen M.); Ewald A. L., Die Eroberung.., 4, p. 109; Gause F., Geschichte..., 1, p. 23) buvęs į vakarus nuo pilies.
 
+## Teiginiai
+
+<a id="claim-t-58554"></a>
+- t-001
+  teiginys: "Glapas buvo nuvestas į Karaliaučių ir pakartas ant kalvos, kuri vadinta Glapo kalva."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Glapo kalva: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Glapas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Glapo kalva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pakorimas ant Glapo kalvos leidžia fiksuoti Glapo mirties vietą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Glapas mirė Glapo kalva (0.80)"
+  pagrindžia:
+    - c-59186
+
+<a id="claim-t-58555"></a>
+- t-002
+  teiginys: "Glapo kalva, vėliau vadinta Rollbergu, buvo į vakarus nuo pilies, dabartinės Kaliningrado centrinės aikštės vakaruose."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Glapas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Glapo kalva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Glapas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Glapo kalva\" parinktas kaip owner_note_path. Targetas \"Glapas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59187
+
 ## Citatos
 
 - id: c-59186
@@ -55,6 +90,8 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-59187
   autorius: "Petras Dusburgietis"
@@ -72,21 +109,5 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-221176"></a>
-- t-001
-  teiginys: "Glapas buvo nuvestas į Karaliaučių ir pakartas ant kalvos, kuri vadinta Glapo kalva."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Glapo kalva: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Glapas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Glapo kalva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pakorimas ant Glapo kalvos leidžia fiksuoti Glapo mirties vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Glapas mirė Glapo kalva (0.80)"
-
+  pagrindzia:
+    - t-002

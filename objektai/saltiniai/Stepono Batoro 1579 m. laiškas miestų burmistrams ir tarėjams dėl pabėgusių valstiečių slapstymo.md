@@ -34,6 +34,23 @@ media_all_json: |-
 
 1579 m. karalius Steponas Batoras išsiuntė miestų burmistrams ir tarėjams laišką dėl pabėgusių valstiečių slapstymo.
 
+## Teiginiai
+
+<a id="claim-t-203794"></a>
+- t-001
+  teiginys: "1579 m. karalius Steponas Batoras išsiuntė miestų burmistrams ir tarėjams laišką dėl pabėgusių valstiečių slapstymo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra taisyklingas, aiškus ir tiesiogiai atitinka citatoje nurodytą Stepono Batoro laišką. Papildoma atribucija nereikalinga."
+  pagrindžia:
+    - c-186398
+
 ## Citatos
 
 - id: c-186398
@@ -55,23 +72,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203794"></a>
-- t-001
-  teiginys: "1579 m. karalius Steponas Batoras išsiuntė miestų burmistrams ir tarėjams laišką dėl pabėgusių valstiečių slapstymo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  temporaliniai_duomenys: "įvykio data: 1579 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra taisyklingas, aiškus ir tiesiogiai atitinka citatoje nurodytą Stepono Batoro laišką. Papildoma atribucija nereikalinga."
-  pagrindžia:
-    - c-186398
-

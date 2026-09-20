@@ -43,6 +43,24 @@ canonical_biography: "Per 1743 m. Dominykos Šydlovskos namo užpuolimą Jonui �
 
 1743 m. per Dominykos Šydlovskos namo užpuolimą Marcelijus Baikovskis su pagalbininkais pistoletu grasino jos tėvui Jonui Šydlovskiui ir jį sumušė.
 
+## Teiginiai
+
+<a id="claim-t-203909"></a>
+- t-001
+  teiginys: "1743 m. per Dominykos Šydlovskos namo užpuolimą Marcelijus Baikovskis su pagalbininkais pistoletu grasino jos tėvui Jonui Šydlovskiui ir jį sumušė."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1743 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas dviprasmis įvardis ir aiškiai įvardyti užpuolikai bei nukentėjusysis. Išlaikytos šaltinyje nurodytos smurto aplinkybės."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186513
+
 ## Citatos
 
 - id: c-186513
@@ -61,24 +79,5 @@ canonical_biography: "Per 1743 m. Dominykos Šydlovskos namo užpuolimą Jonui �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203909"></a>
-- t-001
-  teiginys: "1743 m. per Dominykos Šydlovskos namo užpuolimą Marcelijus Baikovskis su pagalbininkais pistoletu grasino jos tėvui Jonui Šydlovskiui ir jį sumušė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1743 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas dviprasmis įvardis ir aiškiai įvardyti užpuolikai bei nukentėjusysis. Išlaikytos šaltinyje nurodytos smurto aplinkybės."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186513
-

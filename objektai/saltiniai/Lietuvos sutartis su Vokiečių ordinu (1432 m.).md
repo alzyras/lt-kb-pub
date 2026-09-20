@@ -34,6 +34,20 @@ media_all_json: |-
 
 Kaunas išnaudojo savivaldos teikiamas galimybes, greitai išaugo į vieną iš didžiausių Lietuvos miestų - to įrodymas yra kvietimas prispausti miesto antspaudą prie 1432 m. Lietuvos sutarties su Vokiečių ordinu.
 
+## Teiginiai
+
+<a id="claim-t-202290"></a>
+- t-001
+  teiginys: "Kaunas išnaudojo savivaldos teikiamas galimybes, greitai išaugo į vieną iš didžiausių Lietuvos miestų - to įrodymas yra kvietimas prispausti miesto antspaudą prie 1432 m. Lietuvos sutarties su Vokiečių ordinu."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185637
+
 ## Citatos
 
 - id: c-185637
@@ -52,20 +66,5 @@ Kaunas išnaudojo savivaldos teikiamas galimybes, greitai išaugo į vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202290"></a>
-- t-001
-  teiginys: "Kaunas išnaudojo savivaldos teikiamas galimybes, greitai išaugo į vieną iš didžiausių Lietuvos miestų - to įrodymas yra kvietimas prispausti miesto antspaudą prie 1432 m. Lietuvos sutarties su Vokiečių ordinu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185637
-

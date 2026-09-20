@@ -42,6 +42,76 @@ historical_names: []
 
 Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą. Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą, kai Maskvos vaivados Jakovo Zachariničiaus pajėgos priartėjo prie Briansko. Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą, kai Maskvos vaivados pajėgos slapta priartėjo prie Briansko.
 
+## Teiginiai
+
+<a id="claim-t-187376"></a>
+- t-001
+  teiginys: "Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Brianskas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Uščižas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brianskas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uščižas\" parinktas kaip owner_note_path. Targetas \"Brianskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-170384
+
+<a id="claim-t-187377"></a>
+- t-002
+  teiginys: "Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą, kai Maskvos vaivados Jakovo Zachariničiaus pajėgos priartėjo prie Briansko."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Brianskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Uščižas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brianskas: mention_match, place, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uščižas\" parinktas kaip owner_note_path. Targetas \"Brianskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170384
+
+<a id="claim-t-187666"></a>
+- t-003
+  teiginys: "Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą, kai Maskvos vaivados pajėgos slapta priartėjo prie Briansko."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Brianskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Uščižas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brianskas: mention_match, place, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uščižas\" parinktas kaip owner_note_path. Targetas \"Brianskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170384
+
+<a id="claim-t-194041"></a>
+- t-004
+  teiginys: "Maskvos vaivadai artėjant prie Briansko, Briansko vaivada Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-170384
+
 ## Citatos
 
 - id: c-170384
@@ -68,66 +138,8 @@ Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą. St
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210427"></a>
-- t-001
-  teiginys: "Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą, kai Maskvos vaivados Jakovo Zachariničiaus pajėgos priartėjo prie Briansko."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Brianskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Uščižas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Brianskas: mention_match, place, gap=92"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uščižas\" parinktas kaip owner_note_path. Targetas \"Brianskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-
-<a id="claim-t-210558"></a>
-- t-002
-  teiginys: "Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Brianskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Uščižas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Brianskas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uščižas\" parinktas kaip owner_note_path. Targetas \"Brianskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-
-<a id="claim-t-211163"></a>
-- t-003
-  teiginys: "Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą, kai Maskvos vaivados pajėgos slapta priartėjo prie Briansko."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Brianskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Uščižas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Brianskas: mention_match, place, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uščižas\" parinktas kaip owner_note_path. Targetas \"Brianskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-
-<a id="claim-t-211840"></a>
-- t-004
-  teiginys: "Maskvos vaivadai artėjant prie Briansko, Briansko vaivada Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-
+  pagrindzia:
+    - t-001
+    - t-002
+    - t-003
+    - t-004

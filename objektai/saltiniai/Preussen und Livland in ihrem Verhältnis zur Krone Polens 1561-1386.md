@@ -35,6 +35,28 @@ media_all_json: |-
 
 Stammler : Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386 (1953); H.
 
+## Teiginiai
+
+<a id="claim-t-31894"></a>
+- t-001
+  teiginys: "K. D. Stammlerio „Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386“ pasirodė 1953 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> E. Wermke: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "E. Wermke: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386\" parinktas kaip owner_note_path. Targetas \"E. Wermke\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1953 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko trumpą bibliografinį teiginį, o pradinę formuluotę verta sugramatinti."
+  vertinimo_atnaujinta: "2026-06-13T14:26:26Z"
+  pagrindžia:
+    - c-33697
+
 ## Citatos
 
 - id: c-33697
@@ -56,28 +78,5 @@ Stammler : Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-31894"></a>
-- t-001
-  teiginys: "K. D. Stammlerio „Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386“ pasirodė 1953 m."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> E. Wermke: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "E. Wermke: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386\" parinktas kaip owner_note_path. Targetas \"E. Wermke\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1953 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko trumpą bibliografinį teiginį, o pradinę formuluotę verta sugramatinti."
-  vertinimo_atnaujinta: "2026-06-13T14:26:26Z"
-  pagrindžia:
-    - c-33697
-

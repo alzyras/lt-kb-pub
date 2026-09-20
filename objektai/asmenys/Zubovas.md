@@ -34,6 +34,24 @@ canonical_biography: "Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra 
 
 Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, pradėjo ją tvarky­ ti, norėdamas grąžinti senovinį gotikinį vaizdą, bet nebai­ gęs mirė.
 
+## Teiginiai
+
+<a id="claim-t-87895"></a>
+- t-001
+  teiginys: "Kunigaikštis Zubovas pradėjo tvarkyti Raudonę, siekdamas grąžinti jai senovinį gotikinį vaizdą, bet mirė nebaigęs darbų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Raudonė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zubovas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Raudonė: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zubovas\" parinktas kaip owner_note_path. Targetas \"Raudonė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83874
+
 ## Citatos
 
 - id: c-83874
@@ -53,24 +71,5 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87895"></a>
-- t-001
-  teiginys: "Kunigaikštis Zubovas pradėjo tvarkyti Raudonę, siekdamas grąžinti jai senovinį gotikinį vaizdą, bet mirė nebaigęs darbų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Raudonė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zubovas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Raudonė: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zubovas\" parinktas kaip owner_note_path. Targetas \"Raudonė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83874
-

@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Kalnalio filijos bažnyčia'
+pavadinimas: Kalnalio filijos bažnyčia
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 datos:
-  - '1819 m.'
+  - 1819 m.
 date_start: '1819'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e0be9cd40c5e529a3b9f4c1e"
-canonical_name: "Kalnalio filijos bažnyčia"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kalnalio filijos bažnyčia"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e0be9cd40c5e529a3b9f4c1e
+canonical_name: Kalnalio filijos bažnyčia
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kalnalio filijos bažnyčia
 sameAs: []
-canonical_biography: "Kalnalio filijos bažnyčia 1819 m. buvo vizituota vysk. Juozapo Arnulfo Giedraičio."
+canonical_biography: Kalnalio filijos bažnyčia 1819 m. buvo vizituota vysk. Juozapo Arnulfo Giedraičio.
 place_authority: true
 historical_names: []
 ---

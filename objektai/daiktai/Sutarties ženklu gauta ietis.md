@@ -49,6 +49,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206072"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojimu, 1212 m. pradžioje lietuviai prie Koknesės pilies įmetė į vandenį susitarimo ženklu gautą ietį, taip paskelbdami sutarties nutraukimą ir karą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188687
+
 ## Santrauka
 
 Teodoro Narbuto pasakojimu, 1212 m. pradžioje lietuviai prie Koknesės pilies įmetė į vandenį susitarimo ženklu gautą ietį, taip paskelbdami sutarties nutraukimą ir karą.
@@ -77,21 +92,5 @@ Teodoro Narbuto pasakojimu, 1212 m. pradžioje lietuviai prie Koknesės pilies �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206072"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojimu, 1212 m. pradžioje lietuviai prie Koknesės pilies įmetė į vandenį susitarimo ženklu gautą ietį, taip paskelbdami sutarties nutraukimą ir karą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188687
-

@@ -72,11 +72,9 @@ canonical_biography: "[iš] Sta­ nislovo Vaitkavičiaus žemės dešimtinę kvi
     Gelvonų sritim bei tie, kurie anksčiau nuo seno dešimtinę
     duodavo.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

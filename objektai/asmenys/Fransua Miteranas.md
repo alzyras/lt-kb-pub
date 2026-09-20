@@ -62,9 +62,9 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
     - c-25067
 
 <a id="claim-t-193619"></a>
-- t-193619
+- t-002
   teiginys: "Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -90,12 +90,11 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
     vizitas į Lietuvą.
   citata_rodoma: "Planinės\nekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus\nį savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius\nPirmasis Prancūzijos prezidento Fransua Miterano\nvizitas į Lietuvą."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-176290
@@ -116,8 +115,8 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193619
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Fransua Miteranas keliavo į [[objektai/vietos/Lietuva]]

@@ -36,6 +36,25 @@ historical_names: []
 
 Jurgio bažny­ čios prie Vilijos.
 
+## Teiginiai
+
+<a id="claim-t-86129"></a>
+- t-001
+  teiginys: "Barboros rūmų griuvėsiai Vilniuje stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vilija: 0.60"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Barboros rūmai Vilniuje: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Rūmai apibūdinti kaip buvę prie Vilijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Barboros rūmai Vilniuje priklausė Vilija (0.60)"
+  pagrindžia:
+    - c-82108
+
 ## Citatos
 
 - id: c-82108
@@ -57,25 +76,5 @@ Jurgio bažny­ čios prie Vilijos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-86129"></a>
-- t-001
-  teiginys: "Barboros rūmų griuvėsiai Vilniuje stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilija: 0.60"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Barboros rūmai Vilniuje: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Rūmai apibūdinti kaip buvę prie Vilijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Barboros rūmai Vilniuje priklausė Vilija (0.60)"
-  pagrindžia:
-    - c-82108
-

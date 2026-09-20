@@ -27,6 +27,21 @@ media_all_json: |-
 
 Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek malonumo mūsų žemiškajam gyvenimui, sukūrė giliamintę milologinę pasaką: esą hamadriadės gyvendavusios medžiuose, kartu su jais augdavusios.
 
+## Teiginiai
+
+<a id="claim-t-194781"></a>
+- t-001
+  teiginys: "Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek malonumo mūsų žemiškajam gyvenimui, sukūrė giliamintę milologinę pasaką: esą hamadriadės gyvendavusios medžiuose, kartu su jais augdavusios."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177177
+
 ## Citatos
 
 - id: c-177177
@@ -50,44 +65,5 @@ Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo nėms medžių sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199604
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 232"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
-  citata_originali: |
-    Jupiteris atmetė deivės reikalavimą, nors vis dėlto paža­
-    dėjo, kad tie laivai, kurie atplauks į Italiją, bus paversti jūros
-    nimfomis; taip ir atsitiko.
-    Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­
-    nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek
-    malonumo mūsų žemiškajam gyvenimui, sukūrė giliamintę mi-
-    lologinę pasaką: esą hamadriadės gyvendavusios medžiuose,
-    kartu su jais augdavusios, kentėdavusios ir užbaigdavusios sa­
-    vo gyvenimą. Charonas iš Lampsako išsaugojo mums įdomią
-    istoriją apie šį dalyką.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-217549"></a>
-- t-001
-  teiginys: "Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek malonumo mūsų žemiškajam gyvenimui, sukūrė giliamintę milologinę pasaką: esą hamadriadės gyvendavusios medžiuose, kartu su jais augdavusios."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-199604
-

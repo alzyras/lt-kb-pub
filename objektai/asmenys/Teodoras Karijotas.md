@@ -35,6 +35,32 @@ Teodoras Karijotas iš Braclavo pabėgo į Kamenecą. Apgultame Kamenece Teodora
 
 Teodoras Karijotas iš Braclavo pabėgo į Kamenecą. Apgultame Kamenece Teodoras Karijotas buvo paimtas nelaisvėn ir turėjo vykti į Vilnių.
 
+## Teiginiai
+
+<a id="claim-t-207002"></a>
+- t-001
+  teiginys: "Teodoras Karijotas iš Braclavo pabėgo į Kamenecą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189617
+
+<a id="claim-t-207003"></a>
+- t-002
+  teiginys: "Apgultame Kamenece Teodoras Karijotas buvo paimtas nelaisvėn ir turėjo vykti į Vilnių."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189618
+
 ## Citatos
 
 - id: c-189617
@@ -53,7 +79,7 @@ Teodoras Karijotas iš Braclavo pabėgo į Kamenecą. Apgultame Kamenece Teodora
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189618
@@ -72,32 +98,5 @@ Teodoras Karijotas iš Braclavo pabėgo į Kamenecą. Apgultame Kamenece Teodora
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-207002"></a>
-- t-001
-  teiginys: "Teodoras Karijotas iš Braclavo pabėgo į Kamenecą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189617
-
-<a id="claim-t-207003"></a>
-- t-002
-  teiginys: "Apgultame Kamenece Teodoras Karijotas buvo paimtas nelaisvėn ir turėjo vykti į Vilnių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189618
-

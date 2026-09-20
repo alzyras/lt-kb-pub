@@ -34,30 +34,12 @@ media_all_json: |-
 
 The history of Lithuania before 1795 / [translated by Irena Zujienė ...
 
-## Citatos
-
-- id: c-75465
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
-  citata_originali: |
-    Kiaupa Z., Kiaupienė J., Kuncevičius A. The history of Lithuania before
-    1795 / [translated by Irena Zujienė ... [et al.]. Vilnius, 2000.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-78157"></a>
 - t-001
   teiginys: "2000 m. Vilniuje išleista knyga „The history of Lithuania before 1795“, kurią vertė Irena Zujienė ir kiti vertėjai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Irena Zujienė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,3 +55,20 @@ The history of Lithuania before 1795 / [translated by Irena Zujienė ...
   pagrindžia:
     - c-75465
 
+## Citatos
+
+- id: c-75465
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
+  citata_originali: |
+    Kiaupa Z., Kiaupienė J., Kuncevičius A. The history of Lithuania before
+    1795 / [translated by Irena Zujienė ... [et al.]. Vilnius, 2000.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

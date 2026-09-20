@@ -1,12 +1,12 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'baskakas'
+pavadinimas: baskakas
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1331 m.'
-  - '2026 m.'
+  - 1331 m.
+  - 2026 m.
 date_start: '1331'
 date_end: '2026'
 sukurta: ''
@@ -15,20 +15,30 @@ tags:
   - istorinė-sąvoka
   - sąvoka
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Baskakas","url":"https://www.vle.lt/straipsnis/baskakas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T01:19:36+00:00","source_checked_at":"2026-09-20T01:19:36+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Baskakas","url":"https://www.vle.lt/straipsnis/baskakas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/baskakas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"ab8e5d46d0e038548dc29cb0","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Totorių baskakas – duoklę iš atamanų surenkantis ir į Ordą išgabenantis asmuo.","context":"Bychovco kronikoje aprašoma, kad totorių baskakai atvykdavo pas atamanus, surinkdavo duoklę ir išgabendavo ją į Ordą.","support_ids":["t-211712","c-193658"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211712","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193658","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"o pas juos atvykdavo totorių baskakai ir, surinkę iš tų atamanų duoklę, išgabendavo ją j Ordą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c34913209764baa0e61a22c8","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Totorių pareigūnas.","context":"1331 m. šaltinyje baskakas minimas šalia Kijevo kunigaikščio, Lietuvos vietininko; šaltinis jį įvardija kaip totorių baskaką.","support_ids":["t-78878","c-44151"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78878","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-44151","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"1331 m. šalia Kijevo kunigaikš- čio, Lietuvos vietininko, minimas ir totorių baskakas. Kijevo atėmimas iš tiesioginės Aukso ordos valdžios buvo reikšmingas Lietuvai, jos tarptautinei situacijai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9a2aa4c6bd8f8ae8850663e2","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Istorinis terminas, vartojamas kalbant apie Aukso ordos valdžios vykdytojus ir duoklės rinkimą.","context":"Šaltiniuose baskakai minimi Podolėje, miestuose ir santykiuose su Aukso ordos valdžia; aprašomi 1331 m. ir Bychovco kronikos pasakojimo laikotarpiuose.","support_ids":["t-78877","c-75996","t-211068","c-193160"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78877","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-211068","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-75996","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Podolės žemės tėvonys bei paveldėtojai“. Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duoklę at- vykstantiems Ordos baskakams. Mėlynųjų Vandenų įvykių pagrindi- niai šaltiniai: žinios xv a."},{"kind":"evidence","evidence_id":"c-193160","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Parvykęs pas savo tėvą, nebeilgai prie jo tegyveno, ir tėvas, Lietuvos ir 2emaičių didysis kunigaikštis 2ivinbudas, pasimirė, o jo sūnus Kukovaitis sėdo Lietuvos ir Že­ maičių Didžiosios Kunigaikštystės sostan. Tuo metu Užvolgio chanu buvo chanas, vardu Ba- laklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį kunigaikštį Skirmantą, kad duotų jam duoklę ir laiky­ tų jo baskakus tuose miestuose, kaip kad iš tų miestų buvo duodama duoklė, valdant jo pirmtakams, rusų kunigaikščiams. Didysis kunigaikštis Skirmantas nepa­ noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­ tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":7,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a27be7afdf8bfd09
+object_page_generated_at: '2026-09-20T01:19:36+00:00'
+object_page_source_checked_at: '2026-09-20T01:19:36+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '2'
+object_page_seo_description: 'Baskakas šiame šaltinyje žymi Ordos valdžios pareigūną, minėtą prie Kijevo kunigaikščio ir duoklės rinkimo Podolėje kontekstuose. Šaltinių citatos.'
+object_page_seo_input_hash: b4d59e22fa7507eff603d2794c2a5245cf0de34616ca4ba0a79e3e3c576467e7
+object_page_seo_generated_at: '2026-09-20T01:19:36+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # baskakas
 
@@ -55,54 +65,10 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 
 ## Teiginiai
 
-<a id="claim-t-211308"></a>
-- t-211308
-  teiginys: "Tuo metu Užvolgio chanu buvo chanas, vardu Balaklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį kunigaikštį Skirmantą, kad duotų jam duoklę ir laiky tų jo baskakus tuose miestuose, kaip kad iš tų miestų buvo duodama duoklė, valdant jo pirmtakams, rusų."
-  atnaujinta: "2026-09-12 20:03"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193160
-
-<a id="claim-t-211712"></a>
-- t-211712
-  teiginys: "Totorių baskakai iš atamanų surinkdavo duoklę ir išgabendavo ją į Ordą."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193658
-
-<a id="claim-t-211068"></a>
-- t-211068
-  teiginys: "Lietuvos metraštis Užvolgio valdovą Balaklajų vadina chanu ir nurodo, kad jis reikalavo iš Skirmanto duoklės bei baskakų laikymo miestuose."
-  atnaujinta: "2026-09-12 20:03"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kukovaitis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "baskakas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kukovaitis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"baskakas\" parinktas kaip owner_note_path. Targetas \"Kukovaitis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-193160
-
 <a id="claim-t-78877"></a>
-- t-78877
+- t-001
   teiginys: "Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   ryšio_patikimumas: "susije_su -> Podolė: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -116,9 +82,9 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     - c-75996
 
 <a id="claim-t-78878"></a>
-- t-78878
+- t-002
   teiginys: "1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -134,9 +100,9 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     - c-44151
 
 <a id="claim-t-78879"></a>
-- t-78879
+- t-003
   teiginys: "1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -154,13 +120,33 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     - c-44151
 
 <a id="claim-t-78880"></a>
-- t-78880
+- t-004
   teiginys: "Podolėje atamanai duoklę atiduodavo atvykstantiems Ordos baskakams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-75996
+
+<a id="claim-t-187518"></a>
+- t-005
+  teiginys: "Lietuvos metraštis Užvolgio valdovą Balaklajų vadina chanu ir nurodo, kad jis reikalavo iš Skirmanto duoklės bei baskakų laikymo miestuose."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kukovaitis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "baskakas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kukovaitis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"baskakas\" parinktas kaip owner_note_path. Targetas \"Kukovaitis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170469
 
 ## Citatos
 
@@ -185,7 +171,6 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-44151
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -210,9 +195,9 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-78878
-    - t-78879
+  pagrindzia:
+    - t-002
+    - t-003
 
 - id: c-75996
   sudarytojas: "Karolis Zikaras"
@@ -237,9 +222,9 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-78877
-    - t-78880
+  pagrindzia:
+    - t-001
+    - t-004
 
 - id: c-170469
   autorius: "Anoniminis metraštininkas"
@@ -265,51 +250,5 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193160
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 47"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 47."
-  citata_originali: |
-    Parvykęs
-    pas savo tėvą, nebeilgai prie jo tegyveno, ir tėvas,
-    Lietuvos ir 2emaičių didysis kunigaikštis 2ivinbudas,
-    pasimirė, o jo sūnus Kukovaitis sėdo Lietuvos ir Že­
-    maičių Didžiosios Kunigaikštystės sostan.
-    Tuo metu Užvolgio chanu buvo chanas, vardu Ba-
-    laklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį
-    kunigaikštį Skirmantą, kad duotų jam duoklę ir laiky­
-    tų jo baskakus tuose miestuose, kaip kad iš tų miestų
-    buvo duodama duoklė, valdant jo pirmtakams, rusų
-    kunigaikščiams. Didysis kunigaikštis Skirmantas nepa­
-    noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
-    tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 20:03"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211068
-    - t-211308
-
-- id: c-193658
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 70"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 70."
-  citata_originali: |
-    o pas juos atvykdavo totorių
-    baskakai ir, surinkę iš tų atamanų duoklę, išgabendavo
-    ją j Ordą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211712
-
+  pagrindzia:
+    - t-005

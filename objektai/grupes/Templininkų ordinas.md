@@ -33,6 +33,47 @@ media_all_json: |-
 
 Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
 
+## Teiginiai
+
+<a id="claim-t-72652"></a>
+- t-001
+  teiginys: "Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prancūzai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Templininkų ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys priskiria Templininkų ordiną prancūzams."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Templininkų ordinas priklausė Prancūzai (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1190 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-71046
+
+<a id="claim-t-72653"></a>
+- t-002
+  teiginys: "Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prancūzai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Templininkų ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad prancūzai turėjo templininkų ordiną."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Templininkų ordinas priklausė Prancūzai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1190 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bendras kontekstas perrašytas į faktą apie pastabos objektą."
+  pagrindžia:
+    - c-71046
+
 ## Citatos
 
 - id: c-71046
@@ -54,48 +95,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-72652"></a>
-- t-001
-  teiginys: "Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prancūzai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Templininkų ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys priskiria Templininkų ordiną prancūzams."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Templininkų ordinas priklausė Prancūzai (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1190 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-71046
-
-<a id="claim-t-72653"></a>
-- t-002
-  teiginys: "Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prancūzai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Templininkų ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad prancūzai turėjo templininkų ordiną."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Templininkų ordinas priklausė Prancūzai (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1190 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bendras kontekstas perrašytas į faktą apie pastabos objektą."
-  pagrindžia:
-    - c-71046
-

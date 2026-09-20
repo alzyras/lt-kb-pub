@@ -73,18 +73,3 @@ Terminas vartojamas kerdžiaus darbo ir kaimo signalų perdavimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-195454"></a>
-- t-001
-  teiginys: "Triūba šiame šaltinyje yra ilgo trimito pavadinimas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177875
-

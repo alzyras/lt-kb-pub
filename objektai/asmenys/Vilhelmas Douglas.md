@@ -34,6 +34,25 @@ canonical_biography: "Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai 
 
 Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo Douglo, įžymaus škoto, žuvu­ sio dvikovoje, mirtis, vėlei škotų nesutarimai su prancū­ zais - tai vis bloga lemiantys ženklai, kurie net didįjį ma­ gistrą privertė baigti karo puotą.
 
+## Teiginiai
+
+<a id="claim-t-87882"></a>
+- t-001
+  teiginys: "Vilhelmas Douglas buvo įžymus škotas, žuvęs dvikovoje per anglų ir škotų vaidus Karaliaučiuje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Anglai: 0.58"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilhelmas Douglas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Anglai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Vilhelmas Douglas įvardytas kaip škotas, žuvęs anglų ir škotų vaidų kontekste."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vilhelmas Douglas buvo priešas Anglai (0.58)"
+  pagrindžia:
+    - c-83861
+
 ## Citatos
 
 - id: c-83861
@@ -58,25 +77,5 @@ Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87882"></a>
-- t-001
-  teiginys: "Vilhelmas Douglas buvo įžymus škotas, žuvęs dvikovoje per anglų ir škotų vaidus Karaliaučiuje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Anglai: 0.58"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilhelmas Douglas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Anglai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Vilhelmas Douglas įvardytas kaip škotas, žuvęs anglų ir škotų vaidų kontekste."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vilhelmas Douglas buvo priešas Anglai (0.58)"
-  pagrindžia:
-    - c-83861
-

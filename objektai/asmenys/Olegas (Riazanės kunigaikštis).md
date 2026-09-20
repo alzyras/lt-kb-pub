@@ -35,6 +35,25 @@ canonical_biography: "Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždar
 
 Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur gana ilgai buvo saugomas sargybos, kol, atkakliai prašant ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo 139 ## Puslapis 156 VILNIAUS MIESTO ISTORIJA /.
 
+## Teiginiai
+
+<a id="claim-t-87808"></a>
+- t-001
+  teiginys: "Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Dmitrijus Kaributas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Olegas (Riazanės kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Dmitrijus Kaributas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Olegas prašė ir laidavo dėl Dmitrijaus Kaributo paleidimo, todėl tiesiogiai jį rėmė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Olegas (Riazanės kunigaikštis) rėmė Dmitrijus Kaributas (0.90)"
+  pagrindžia:
+    - c-83787
+
 ## Citatos
 
 - id: c-83787
@@ -68,28 +87,8 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Olegas (Riazanės kunigaikštis) rėmė [[objektai/asmenys/Dmitrijus Kaributas]]
-
-## Teiginiai
-
-<a id="claim-t-87808"></a>
-- t-001
-  teiginys: "Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Dmitrijus Kaributas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Olegas (Riazanės kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Dmitrijus Kaributas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Olegas prašė ir laidavo dėl Dmitrijaus Kaributo paleidimo, todėl tiesiogiai jį rėmė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Olegas (Riazanės kunigaikštis) rėmė Dmitrijus Kaributas (0.90)"
-  pagrindžia:
-    - c-83787
-

@@ -48,6 +48,21 @@ canonical_biography: "1226 m. į Plocką atvykę kryžiuočių riteriai Konrado 
 
 1226 m. į Plocką atvykę kryžiuočių riteriai Konrado nesant buvo priimti jo žmonos, kunigaikštienės Agafijos.
 
+## Teiginiai
+
+<a id="claim-t-205296"></a>
+- t-001
+  teiginys: "1226 m. į Plocką atvykę kryžiuočių riteriai Konrado nesant buvo priimti jo žmonos, kunigaikštienės Agafijos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:35Z"
+  pagrindžia:
+    - c-187996
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1226 m. į Plocką atvykę kryžiuočių riteriai Konrado nesant buvo priimti jo žmonos, kunigaikštienės Agafijos.'
@@ -87,21 +102,5 @@ canonical_biography: "1226 m. į Plocką atvykę kryžiuočių riteriai Konrado 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205296"></a>
-- t-001
-  teiginys: "1226 m. į Plocką atvykę kryžiuočių riteriai Konrado nesant buvo priimti jo žmonos, kunigaikštienės Agafijos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:35Z"
-  pagrindžia:
-    - c-187996
-

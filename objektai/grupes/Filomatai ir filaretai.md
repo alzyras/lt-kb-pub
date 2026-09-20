@@ -41,6 +41,25 @@ Vilniaus universiteto aplinkos akademinio jaunimo ir kultūrinės draugijos, ša
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-188042"></a>
+- t-001
+  teiginys: "Filomatai ir filaretai įvadiniame straipsnyje aprašomi kaip susirinkimuose diskutavę apie krašto praeitį, liaudies padavimus ir dainas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Mickevičius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Filomatai ir filaretai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Mickevičius: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Filomatai ir filaretai\" parinktas kaip owner_note_path. Targetas \"Mickevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-170854
+
 ## Citatos
 
 - id: c-170854
@@ -64,31 +83,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-216880"></a>
-- t-001
-  teiginys: "Adomo Mickevičiaus draugai filomatai ir filaretai su sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa kus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-
-<a id="claim-t-218151"></a>
-- t-002
-  teiginys: "Filomatai ir filaretai įvadiniame straipsnyje aprašomi kaip susirinkimuose diskutavę apie krašto praeitį, liaudies padavimus ir dainas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Mickevičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Filomatai ir filaretai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Mickevičius: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Filomatai ir filaretai\" parinktas kaip owner_note_path. Targetas \"Mickevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-
+  pagrindzia:
+    - t-001

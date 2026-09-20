@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Livonija'
+pavadinimas: Livonija
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -13,16 +13,16 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1180 m.'
-  - '1183 m.'
-  - '1201 m.'
-  - '1204 m.'
-  - '1229 m.'
-  - '1243 m.'
-  - '1248 m.'
-  - '1262 m.'
-  - '1302 m.'
-  - '1582 m.'
+  - 1180 m.
+  - 1183 m.
+  - 1201 m.
+  - 1204 m.
+  - 1229 m.
+  - 1243 m.
+  - 1248 m.
+  - 1262 m.
+  - 1302 m.
+  - 1582 m.
 date_start: '1180'
 date_end: '1582'
 sukurta: ''
@@ -32,30 +32,41 @@ tags:
   - miestas
   - valstybė
 amziai:
-  - 'XII'
-  - 'XVI'
+  - XII
+  - XVI
 media_total_count: '2'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ALivland_15jh.png'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'map_of'
-media_primary_json: |-
-  {"mediaId":"m-b2e8b143fa3e07585001193b","title":"Livland 15jh.png","caption":"Istorinis Livonijos žemėlapis, vaizduojantis Livonijos konfederaciją.","originalTitle":"Livland 15jh.png","creator":"Joannes Portantius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Erbstück","dateDisplay":"from 1573 until 1598 date QS:P,+1550-00-00T00:00:00Z/7,P580,+1573-00-00T00:00:00Z/9,P582,+1598-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1000,"height":900,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_15jh.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"16th-century maps of Estonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Estonia in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Former countries in Germany","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Jan Portant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps by Abraham Ortelius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Livonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Livonija.md","title":"Livonija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.628271+03:00","reviewedAt":"2026-07-18T14:24:04.495486+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis žemėlapis su aiškiu užrašu „Livoniae Nova Descriptio“ ir Livonijos teritorijos vietovardžiais.","metadataEvidence":"Pavadinimas „Livland 15jh“, aprašymas „Historical map of Livonian Confederation“ ir autoriaus bei leidinio duomenys identifikuoja Livonijos žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – istorinę Livoniją.","isPrimary":1}
-media_direct_json: |-
-  [{"mediaId":"m-b2e8b143fa3e07585001193b","title":"Livland 15jh.png","caption":"Istorinis Livonijos žemėlapis, vaizduojantis Livonijos konfederaciją.","originalTitle":"Livland 15jh.png","creator":"Joannes Portantius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Erbstück","dateDisplay":"from 1573 until 1598 date QS:P,+1550-00-00T00:00:00Z/7,P580,+1573-00-00T00:00:00Z/9,P582,+1598-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1000,"height":900,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_15jh.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"16th-century maps of Estonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Estonia in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Former countries in Germany","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Jan Portant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps by Abraham Ortelius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Livonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Livonija.md","title":"Livonija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.628271+03:00","reviewedAt":"2026-07-18T14:24:04.495486+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis žemėlapis su aiškiu užrašu „Livoniae Nova Descriptio“ ir Livonijos teritorijos vietovardžiais.","metadataEvidence":"Pavadinimas „Livland 15jh“, aprašymas „Historical map of Livonian Confederation“ ir autoriaus bei leidinio duomenys identifikuoja Livonijos žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – istorinę Livoniją.","isPrimary":1},{"mediaId":"m-7770c74daf908a64036dbeb5","title":"Livonia in 1534 (English).png","caption":"Livonijos žemėlapis apie 1534 m., vaizduojantis jos provincijas ir politinį susiskirstymą.","originalTitle":"Livonia in 1534 (English).png","creator":"Athanasius Soter","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work , Leonid Arbusow's Grundriss der Geschichte Liv-, Est- und Kurlands (1918)","dateDisplay":"2010-03-30","dateStart":null,"dateEnd":null,"width":475,"height":486,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivonia_in_1534_%28English%29.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Livonia_in_1534_%28English%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Livonia_in_1534_%28English%29.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Livonia_in_1534_%28English%29.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Leonid Arbusow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration redundant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Bishopric of Dorpat","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Bishopric of Ösel-Wiek","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltics in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Livonian Confederation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1534","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Livonija.md","title":"Livonija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:23:39.186055+03:00","reviewedAt":"2026-07-18T14:24:04.502856+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma spalvota Livonijos teritorijos schema su užrašu „Livonia in 1534“, Livonijos ordino ir vyskupysčių sritimis bei miestais.","metadataEvidence":"Pavadinimas „Livonia in 1534 (English).png“ ir aprašymas išvardija Livonijos ordino provincijas bei konkrečias Livonijos vietoves.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Livoniją kaip istorinę teritoriją ir politinį darinį.","isPrimary":0}]
-media_contextual_json: |-
-  []
-media_all_json: |-
-  [{"mediaId":"m-b2e8b143fa3e07585001193b","title":"Livland 15jh.png","caption":"Istorinis Livonijos žemėlapis, vaizduojantis Livonijos konfederaciją.","originalTitle":"Livland 15jh.png","creator":"Joannes Portantius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Erbstück","dateDisplay":"from 1573 until 1598 date QS:P,+1550-00-00T00:00:00Z/7,P580,+1573-00-00T00:00:00Z/9,P582,+1598-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1000,"height":900,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_15jh.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"16th-century maps of Estonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Estonia in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Former countries in Germany","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Jan Portant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps by Abraham Ortelius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Livonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Livonija.md","title":"Livonija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.628271+03:00","reviewedAt":"2026-07-18T14:24:04.495486+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis žemėlapis su aiškiu užrašu „Livoniae Nova Descriptio“ ir Livonijos teritorijos vietovardžiais.","metadataEvidence":"Pavadinimas „Livland 15jh“, aprašymas „Historical map of Livonian Confederation“ ir autoriaus bei leidinio duomenys identifikuoja Livonijos žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – istorinę Livoniją.","isPrimary":1},{"mediaId":"m-7770c74daf908a64036dbeb5","title":"Livonia in 1534 (English).png","caption":"Livonijos žemėlapis apie 1534 m., vaizduojantis jos provincijas ir politinį susiskirstymą.","originalTitle":"Livonia in 1534 (English).png","creator":"Athanasius Soter","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work , Leonid Arbusow's Grundriss der Geschichte Liv-, Est- und Kurlands (1918)","dateDisplay":"2010-03-30","dateStart":null,"dateEnd":null,"width":475,"height":486,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivonia_in_1534_%28English%29.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Livonia_in_1534_%28English%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Livonia_in_1534_%28English%29.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Livonia_in_1534_%28English%29.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Leonid Arbusow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration redundant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Bishopric of Dorpat","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Bishopric of Ösel-Wiek","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltics in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Livonian Confederation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1534","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Livonija.md","title":"Livonija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:23:39.186055+03:00","reviewedAt":"2026-07-18T14:24:04.502856+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma spalvota Livonijos teritorijos schema su užrašu „Livonia in 1534“, Livonijos ordino ir vyskupysčių sritimis bei miestais.","metadataEvidence":"Pavadinimas „Livonia in 1534 (English).png“ ir aprašymas išvardija Livonijos ordino provincijas bei konkrečias Livonijos vietoves.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Livoniją kaip istorinę teritoriją ir politinį darinį.","isPrimary":0}]
-entity_id: "ent-33142607a77fe84a451a5e77"
-canonical_name: "Livonija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Livonija"]
+media_primary_directness: direct
+media_primary_relation_type: map_of
+media_primary_json: '{"mediaId":"m-b2e8b143fa3e07585001193b","title":"Livland 15jh.png","caption":"Istorinis Livonijos žemėlapis, vaizduojantis Livonijos konfederaciją.","originalTitle":"Livland 15jh.png","creator":"Joannes Portantius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Erbstück","dateDisplay":"from 1573 until 1598 date QS:P,+1550-00-00T00:00:00Z/7,P580,+1573-00-00T00:00:00Z/9,P582,+1598-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1000,"height":900,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_15jh.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"16th-century maps of Estonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Estonia in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Former countries in Germany","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Jan Portant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps by Abraham Ortelius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Livonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Livonija.md","title":"Livonija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.628271+03:00","reviewedAt":"2026-07-18T14:24:04.495486+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis žemėlapis su aiškiu užrašu „Livoniae Nova Descriptio“ ir Livonijos teritorijos vietovardžiais.","metadataEvidence":"Pavadinimas „Livland 15jh“, aprašymas „Historical map of Livonian Confederation“ ir autoriaus bei leidinio duomenys identifikuoja Livonijos žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – istorinę Livoniją.","isPrimary":1}'
+media_direct_json: '[{"mediaId":"m-b2e8b143fa3e07585001193b","title":"Livland 15jh.png","caption":"Istorinis Livonijos žemėlapis, vaizduojantis Livonijos konfederaciją.","originalTitle":"Livland 15jh.png","creator":"Joannes Portantius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Erbstück","dateDisplay":"from 1573 until 1598 date QS:P,+1550-00-00T00:00:00Z/7,P580,+1573-00-00T00:00:00Z/9,P582,+1598-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1000,"height":900,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_15jh.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"16th-century maps of Estonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Estonia in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Former countries in Germany","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Jan Portant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps by Abraham Ortelius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Livonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Livonija.md","title":"Livonija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.628271+03:00","reviewedAt":"2026-07-18T14:24:04.495486+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis žemėlapis su aiškiu užrašu „Livoniae Nova Descriptio“ ir Livonijos teritorijos vietovardžiais.","metadataEvidence":"Pavadinimas „Livland 15jh“, aprašymas „Historical map of Livonian Confederation“ ir autoriaus bei leidinio duomenys identifikuoja Livonijos žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – istorinę Livoniją.","isPrimary":1},{"mediaId":"m-7770c74daf908a64036dbeb5","title":"Livonia in 1534 (English).png","caption":"Livonijos žemėlapis apie 1534 m., vaizduojantis jos provincijas ir politinį susiskirstymą.","originalTitle":"Livonia in 1534 (English).png","creator":"Athanasius Soter","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work , Leonid Arbusow''s Grundriss der Geschichte Liv-, Est- und Kurlands (1918)","dateDisplay":"2010-03-30","dateStart":null,"dateEnd":null,"width":475,"height":486,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivonia_in_1534_%28English%29.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Livonia_in_1534_%28English%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Livonia_in_1534_%28English%29.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Livonia_in_1534_%28English%29.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Leonid Arbusow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration redundant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Bishopric of Dorpat","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Bishopric of Ösel-Wiek","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltics in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Livonian Confederation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1534","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Livonija.md","title":"Livonija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:23:39.186055+03:00","reviewedAt":"2026-07-18T14:24:04.502856+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma spalvota Livonijos teritorijos schema su užrašu „Livonia in 1534“, Livonijos ordino ir vyskupysčių sritimis bei miestais.","metadataEvidence":"Pavadinimas „Livonia in 1534 (English).png“ ir aprašymas išvardija Livonijos ordino provincijas bei konkrečias Livonijos vietoves.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Livoniją kaip istorinę teritoriją ir politinį darinį.","isPrimary":0}]'
+media_contextual_json: '[]'
+media_all_json: '[{"mediaId":"m-b2e8b143fa3e07585001193b","title":"Livland 15jh.png","caption":"Istorinis Livonijos žemėlapis, vaizduojantis Livonijos konfederaciją.","originalTitle":"Livland 15jh.png","creator":"Joannes Portantius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Erbstück","dateDisplay":"from 1573 until 1598 date QS:P,+1550-00-00T00:00:00Z/7,P580,+1573-00-00T00:00:00Z/9,P582,+1598-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1000,"height":900,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_15jh.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"16th-century maps of Estonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Estonia in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Former countries in Germany","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Jan Portant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps by Abraham Ortelius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Livonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Livonija.md","title":"Livonija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.628271+03:00","reviewedAt":"2026-07-18T14:24:04.495486+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis žemėlapis su aiškiu užrašu „Livoniae Nova Descriptio“ ir Livonijos teritorijos vietovardžiais.","metadataEvidence":"Pavadinimas „Livland 15jh“, aprašymas „Historical map of Livonian Confederation“ ir autoriaus bei leidinio duomenys identifikuoja Livonijos žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – istorinę Livoniją.","isPrimary":1},{"mediaId":"m-7770c74daf908a64036dbeb5","title":"Livonia in 1534 (English).png","caption":"Livonijos žemėlapis apie 1534 m., vaizduojantis jos provincijas ir politinį susiskirstymą.","originalTitle":"Livonia in 1534 (English).png","creator":"Athanasius Soter","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work , Leonid Arbusow''s Grundriss der Geschichte Liv-, Est- und Kurlands (1918)","dateDisplay":"2010-03-30","dateStart":null,"dateEnd":null,"width":475,"height":486,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivonia_in_1534_%28English%29.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Livonia_in_1534_%28English%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Livonia_in_1534_%28English%29.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Livonia_in_1534_%28English%29.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Leonid Arbusow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration redundant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Bishopric of Dorpat","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Bishopric of Ösel-Wiek","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltics in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Livonian Confederation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1534","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Livonija.md","title":"Livonija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:23:39.186055+03:00","reviewedAt":"2026-07-18T14:24:04.502856+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma spalvota Livonijos teritorijos schema su užrašu „Livonia in 1534“, Livonijos ordino ir vyskupysčių sritimis bei miestais.","metadataEvidence":"Pavadinimas „Livonia in 1534 (English).png“ ir aprašymas išvardija Livonijos ordino provincijas bei konkrečias Livonijos vietoves.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Livoniją kaip istorinę teritoriją ir politinį darinį.","isPrimary":0}]'
+entity_id: ent-33142607a77fe84a451a5e77
+canonical_name: Livonija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Livonija
 sameAs: []
-canonical_biography: "Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros jungtinės valstybės: 4 vyskupystės, ordinas ir Rygos miestas. Po ilgų derybų buvo sudaryta sutartis (1561 m.), kuria Livonija pasidavė Zigmantui Augustui, kaip didžiajam Lietuvos kunigaikščiui; nustatyti ryšį su Lenkija buvo palikta vėlesniam laikui."
+canonical_biography: 'Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros jungtinės valstybės: 4 vyskupystės, ordinas ir Rygos miestas. Po ilgų derybų buvo sudaryta sutartis (1561 m.), kuria Livonija pasidavė Zigmantui Augustui, kaip didžiajam Lietuvos kunigaikščiui; nustatyti ryšį su Lenkija buvo palikta vėlesniam laikui.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Livonija","url":"https://lt.wikipedia.org/wiki/Livonija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-18T22:37:03+00:00","source_checked_at":"2026-09-18T22:37:03+00:00","counts":{"relations":49,"gallery":2,"sources":16},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"**Maskvos susilpnėjimas.** Šitomis paliaubomis pasibaigė ilgai traukęsi karai su Maskva dėl Livonijos. Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","claim_id":"t-193209","evidence_id":"c-175953","origin":"internal"},"wiki":{"status":"published","source":{"title":"Livonija","url":"https://lt.wikipedia.org/wiki/Livonija","publisher":"Vikipedija","language":"lt","article_id":"2653","revision_id":"7618575","published_at":"2025-08-16T12:03:39Z","version_pk":"","content_hash":"b70e95b6a01fcba69f885859f785cf9b134075f8ee3c5cadb37041dec9daabe4","retrieved_at":"2026-09-18T22:29:14+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Livonija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"2653"}},"intro":"Livonija (vok., šved., dan. Livland, sen. šved. Liffland, latv. Livonija, est. Liivimaa, m. lot. Livonia, lenk. Inflanty) – istorinis regionas dabartinės Latvijos ir Estijos teritorijoje. Šio regiono vardu buvo žinomi įvairūs politiniai vienetai. Taip pat taip vadinama feodalinė konfederacija, nuo 1346 m. apėmusi bene visą dabartinės Latvijos ir Estijos teritoriją, dar vadinama Marijos žeme (lot. Terra Mariana) (kaip analogiškai prūsų žemės (Prūsija) buvo vadinamos Šv. Petro žeme), o vėliau – Livonijos konfederacija.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Livonija","url":"https://lt.wikipedia.org/wiki/Livonija","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Livonija"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0985e364cc883f85cc44195d","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Livonijos valstybė nebuvo vienalytė: ją sudarė šešios atskiros jungtinės valstybės – keturios vyskupystės, ordinas ir Rygos miestas.","context":"XVI a.; taip Livonijos būklę aprašo A. Šapokos redaguotas leidinys.","support_ids":["t-180273","c-163833"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180273","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-163833","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Livonijos prijungimas Livonijos būklė XVI amžiuje.** Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros jungtinės valsty- bės: 4 vyskupystės, ordinas ir Rygos miestas. Iš pradžių ir ordinas priklausė Rygos arkivyskupui, bet XIV amžiuje (Ge- dimino laikais, — žiūr."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"eebb32c59766dd30640cd443","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Livonija buvo suskaldyta tarp kelių valstybių: dalį valdė Lietuva su Lenkija, kitą – Švedija, trečią – Danija, o ketvirtą buvo užėmęs caras.","context":"XVI a.; taip Livonijos politinę padėtį aprašo A. Šapokos redaguotas leidinys.","support_ids":["t-180250","c-163849"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180250","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-163849","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Caras tuo tarpu sugalvojo lengvesnį būdą Livonijai įgyti. Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras. Jau 1570 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0a2947dfd2881c5558a21435","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"1201 m. pastatyta Rygos pilis vėliau tapo visos valstybės centru ir didžiausiu Livonijos miestu.","context":"Nuo 1201 m.; taip Rygos pilies reikšmę Livonijoje aprašo A. Šapokos redaguotas leidinys.","support_ids":["t-180258","c-163830"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180258","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-163830","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu. Apsaugai jis ėmė kviestis karių iš Vokietijos."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"741ec8ca1b358ad874426584","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Ronneburgo pilies bažnyčioje buvo Petro iš Dusburgo kronikos nuorašas.","context":"Šaltinyje nenurodytas tikslus laikas; taip vietą aprašo Petro Dusburgiečio kronikos leidinio komentaras.","support_ids":["t-221096","c-202905"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221096","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202905","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":", gal net vėliau) nurašytas nuo Berlyno teksto74. Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.) pilies bažnyčioje."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f77fdda1cf58e933c358844c","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Livonija buvo valdoma kaip feodalinė vokiečių žemė.","context":"„Nuo seno“; taip Livonijos vokiečių žemių valdymą apibūdina Michał Baliński.","support_ids":["t-180276","c-163866"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180276","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163866","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­ dymas. Jo užuomazgos, mažumėlę kitoniškų formų, ruseno Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­ dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­ tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­ matus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ce11ab9bfb9026efdbf92cfc","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Livonija buvo atversta į Kristaus tikėjimą.","context":"1204 m.; tai teigiama Petro Dusburgiečio kronikoje, nurodant popiežiaus Inocento rūpestį.","support_ids":["t-223708","c-205680"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223708","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205680","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Livonijos žemės atvertimą į tikėjimą 1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus Inocento rūpesčiu į Kristaus tikėjimą (Ptol. 21,10; Mart. loc. cit.)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"04e3fd1110b4a7694e19871e","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Livonija apėmė Dauguvos pakrantes prie Lielvardės pilies.","context":"Mindaugo laikų karo aprašyme; taip Livonijos vietovę apibūdina Albertas Vijūkas-Kojelavičius.","support_ids":["t-185022","c-168383"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185022","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168383","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­ latos siaubė Mindaugo karvedžiai, ten vyko kovos prie Lielvardės pilies Dauguvos pakrantėse, tačiau kokia norėdamas turėti laisvesnes rankas, atnaujino santarvę su rusais, ir tuo būdu tapo užmegzta rusų ir lietuvių vo kunigaikščio vaikaitis, palydėjo Mindaugą į žygį Mazovijos žemėn. Mindaugas, susilaukęs paramos iš rusų, slaptai ir netikėtai didžiulių miškų takais įsibro­ vė Mazovijon: jis užklupo kunigaikštį Zemovitą bei jo sūnų Konradą, Jazdovo dvare nerūpestingai vasa­ ros karštymetyje gyvenančius su visa palyda. Metus burtus, Zemovitas pakliuvo Švarnui į nelaisvę, o Kon­ radas — Mindaugui; pastarasis buvo draugiškai lietu­ vio…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0fc006b07d6f76b21ee47658","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Livonijos plotai apibūdinti kaip platūs.","context":"Rimgaudo žygio aprašyme; taip Livonijos teritoriją apibūdina Teodoras Narbutas.","support_ids":["t-205791","c-188406"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205791","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188406","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"vos tik vokiečių riteriams su visomis pa­ jėgomis patraukus užkariauti tos salos, Lietuvos kuni­ gaikštis Rimgaudas, Šventaragio riteriškasis tėvas, su­ rinkęs savo ir sąjungininkų pulkus, įsiveržė į Livoniją, kurios plačius plotus nudriokojo, daugel kaimų ir netu­ rinčių tvirtovių miestelių sudegino."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Livonija – istorinė žemė, siejama su Rygos provincija ir viduramžiais tapusi svarbia krikščionybės bei valdžios varžybų erdve. 1204 m. ji, popiežiaus Inocento rūpesčiu, buvo atversta į Kristaus tikėjimą. 1323 m. spalio 2 d. Vilniuje Lietuva sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku, todėl Livonija buvo įtraukta į svarbių diplomatinių santykių lauką. 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš kalavijuočių ordino magistrą Firstenbergą, o šis pripažino Žygimanto Augusto valdžią Livonijoje. Vėliau Livonija buvo valdoma Lietuvos ir Lenkijos, o jos mokesčiai pakaitomis atitekdavo abiejų valstybių iždams; 1629 m. Altmarko paliaubomis Livonija anapus Dauguvos su Ryga buvo palikta švedams.","sentences":[{"sentence_id":"s1","text":"Livonija – istorinė žemė, siejama su Rygos provincija ir viduramžiais tapusi svarbia krikščionybės bei valdžios varžybų erdve.","support_ids":["t-223708","t-180203"]},{"sentence_id":"s2","text":"1204 m. ji, popiežiaus Inocento rūpesčiu, buvo atversta į Kristaus tikėjimą.","support_ids":["t-223708","c-205680"]},{"sentence_id":"s3","text":"1323 m. spalio 2 d. Vilniuje Lietuva sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku, todėl Livonija buvo įtraukta į svarbių diplomatinių santykių lauką.","support_ids":["t-221510","c-206130"]},{"sentence_id":"s4","text":"1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš kalavijuočių ordino magistrą Firstenbergą, o šis pripažino Žygimanto Augusto valdžią Livonijoje.","support_ids":["t-180231","c-163886"]},{"sentence_id":"s5","text":"Vėliau Livonija buvo valdoma Lietuvos ir Lenkijos, o jos mokesčiai pakaitomis atitekdavo abiejų valstybių iždams; 1629 m. Altmarko paliaubomis Livonija anapus Dauguvos su Ryga buvo palikta švedams.","support_ids":["t-193208","c-175952","t-180206","c-163864"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia Livonijos sąsają su Rygos provincija ir jos konfliktą su krikščioniškąja Livonija, tačiau neparemia teiginio, kad ji tapo „svarbia“ krikščionybės bei valdžios varžybų erdve."},{"sentence_id":"s2","supported":true,"reason":"Teiginys tiesiogiai sutampa su abiejuose nurodytuose šaltiniuose pateiktu faktu."},{"sentence_id":"s3","supported":false,"reason":"Šaltinis tiesiogiai patvirtina 1323 m. sutartį ir jos dalyvius, tačiau nepatvirtina išvados, kad dėl to Livonija buvo įtraukta į svarbių diplomatinių santykių lauką."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1557 m. kariuomenės žygį į Livoniją prieš Firstenbergą ir jo valdžios Žygimantui Augustui pripažinimą."},{"sentence_id":"s5","supported":true,"reason":"Nurodyti šaltiniai tiesiogiai patvirtina Livonijos valdymą Lietuvos ir Lenkijos, pakaitinį mokesčių atitekėjimą jų iždams ir 1629 m. Altmarko paliaubų sąlygą dėl Livonijos anapus Dauguvos su Ryga palikimo švedams."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-223708","t-180203"]},{"sentence_id":"s2","supported":true,"support_ids":["t-223708","c-205680"]},{"sentence_id":"s3","supported":true,"support_ids":["t-221510","c-206130"]},{"sentence_id":"s4","supported":true,"support_ids":["t-180231","c-163886"]},{"sentence_id":"s5","supported":true,"support_ids":["t-193208","c-175952","t-180206","c-163864"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-b2e8b143fa3e07585001193b","reason":"deterministic_media_primary","identity_verified":false,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-7770c74daf908a64036dbeb5","relation_type":"map_of"}],"media_verification":{"status":"not_required","primary_media_id":"m-b2e8b143fa3e07585001193b","candidate_count":2,"visual_verified_count":2,"identity_verified_count":0,"primary":{"visual_verified":true,"identity_verified":false,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Vaizdas tiesiogiai vaizduoja konkretų target – istorinę Livoniją.","visual_evidence":"Matomas istorinis žemėlapis su aiškiu užrašu „Livoniae Nova Descriptio“ ir Livonijos teritorijos vietovardžiais.","metadata_evidence":"Pavadinimas „Livland 15jh“, aprašymas „Historical map of Livonian Confederation“ ir autoriaus bei leidinio duomenys identifikuoja Livonijos žemėlapį.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"inbound","target":"objektai/grupes/Lietuvos luomai","claim_id":"t-186300","confidence":0.9},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Dobrynės broliai","claim_id":"t-224048","confidence":0.86},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Latviai","claim_id":"t-215024","confidence":0.8},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Teutonai","claim_id":"t-175542","confidence":0.8},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Baltramiejus (Aleto vyskupas)","claim_id":"t-220797","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)","claim_id":"t-223099","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Bertoldas Briuhavenas","claim_id":"t-185107","confidence":0.75},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Bertoldas, vadinamas Briuhavenu","claim_id":"t-223690","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jonas Karolis Chodkevičius","claim_id":"t-180226","confidence":0.93},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jonas Karolis Katkevičius","claim_id":"t-79047","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-220261","confidence":0.91},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Žygimantas Kęstutaitis","claim_id":"t-185549","confidence":0.89},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-171557","confidence":0.9},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-05293","confidence":0.82},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-178042","confidence":0.88},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-35871","confidence":0.7},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-180253","confidence":0.66},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-176709","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Karkuso pilis","claim_id":"t-220501","confidence":0.95},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Latvija","claim_id":"t-212211","confidence":0.82},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Švedai","claim_id":"t-180206","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-01315","confidence":0.92},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Ryga","claim_id":"t-225132","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Pernava","claim_id":"t-86305","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Rezeknės regionas","claim_id":"t-42096","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Ronneburgas","claim_id":"t-32511","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Ryga","claim_id":"t-180258","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Ivanas","claim_id":"t-185750","confidence":0.94},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Mindaugas","claim_id":"t-113911","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Treniota","claim_id":"t-185649","confidence":0.68},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-180234","confidence":0.62},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kuršiai","claim_id":"t-184593","confidence":0.84},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-113911","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuvos kariuomenė","claim_id":"t-220712","confidence":0.84},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-184593","confidence":0.84},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-180131","confidence":0.62},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Gotfridas Hohenlohė","claim_id":"t-221677","confidence":0.82},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Hermanas iš Zalcos","claim_id":"t-220512","confidence":0.88},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Jonas XXII","claim_id":"t-220797","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Augustas","claim_id":"t-184572","confidence":0.82},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Mindaugas","claim_id":"t-32101","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-102852","confidence":0.95},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-180264","confidence":0.64},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-177348","confidence":0.88},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Maskvos kariuomenė","claim_id":"t-183794","confidence":0.74},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Maskvėnai","claim_id":"t-185751","confidence":0.82},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Rusijos kariuomenė","claim_id":"t-41577","confidence":0.91},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Švedai","claim_id":"t-180208","confidence":0.95},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Augustas","claim_id":"t-87670","confidence":0.82}],"timeline":[{"date":"1201 m.","label":"1201 m.","claimId":"t-180258"},{"date":"1204 m.","label":"1204 m.","claimId":"t-223708"},{"date":"1229 m.","label":"Iki mirties 1229 m.","claimId":"t-180225"},{"date":"1243 m.","label":"Narbutas rašė, kad 1243 m.","claimId":"t-217119"},{"date":"1248 m.","label":"1248 m.","claimId":"t-180215"},{"date":"1302 m.","label":"1302 m.","claimId":"t-222863"},{"date":"1323 m.","label":"1323 m.","claimId":"t-221510"},{"date":"1338 m.","label":"1338 m.","claimId":"t-180210"}],"support_disclosure":{"claims":92,"sources":15}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: cdbeb1c1f6991787
+object_page_generated_at: '2026-09-18T22:37:03+00:00'
+object_page_source_checked_at: '2026-09-18T22:37:03+00:00'
+object_page_content_state: content
+object_page_claim_count: '92'
+object_page_source_count: '15'
+object_page_seo_description: 'Livonija – istorinė žemė, siejama su Rygos provincija ir viduramžiais tapusi svarbia krikščionybės bei valdžios varžybų erdve. 1204 m. ji, popiežiaus Inocento…'
+object_page_seo_input_hash: 6ddf8952058772a5ae7fa75b926c42a504ba988347b7cebd959eaf6001431bb3
+object_page_seo_generated_at: '2026-09-18T22:37:03+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Livonija
 
@@ -65,194 +76,10 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 
 ## Teiginiai
 
-<a id="claim-t-211446"></a>
-- t-211446
-  teiginys: "Specialaus domėjimo si Livonijos istorija stoka geriausiai rodo, kad Bychov co kronika nebuvo rašoma XVI a."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193125
-
-<a id="claim-t-213137"></a>
-- t-213137
-  teiginys: "1583 metais jėzuitai į Žemaičius ir į Livoniją pasiuntė tris mi sionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196006
-
-<a id="claim-t-217054"></a>
-- t-217054
-  teiginys: "Strijkovskis apibūdina šios šventės pradžią - kad ji pradė ta švęsti visai neseniai; tai gali būti tikras dalykas, nes Prūsijos ir Livonijos kronikose apie ją neradome jokios užuominos."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198766
-
-<a id="claim-t-218504"></a>
-- t-218504
-  teiginys: "Kurše, Livonijo je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (?"
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197947
-
-<a id="claim-t-218738"></a>
-- t-218738
-  teiginys: "Prūsijai ir Livonijai praradus nepriklauso mybę, tų kvailysčių sumažėjo, ir pamažu stabmeldystės griu vėsiuose ėmė įsitvirtinti krikščionybė, kol 1387 metais Dievas visą tautą pašaukė priimti šventąjį tikėjimą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197980
-
-<a id="claim-t-221962"></a>
-- t-221962
-  teiginys: "1322 metais lietuvių kariuomenė įsibrovė į Livonijos žemę ir nusiaubė Dorpato vyskupystę."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203051
-
-<a id="claim-t-212918"></a>
-- t-212918
-  teiginys: "Jis esąs priešais Skitijos sausumą (Prūsiją, Livoniją) ir arčiausiai baltų, iš kur kilo Baltijos pavadinimas."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194581
-
-<a id="claim-t-219582"></a>
-- t-219582
-  teiginys: "Narbutas svarstė, kodėl Henrikas Latvis, rašęs apie Livoniją, neminėjo krivio, jeigu šis valdė tą šalį."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200454
-
-<a id="claim-t-221096"></a>
-- t-221096
-  teiginys: "Petro iš Dusburgo kronikos nuorašas buvo Livonijos Roneburgo pilies bažnyčioje."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Roneburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Roneburgas: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Roneburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-221510"></a>
-- t-221510
-  teiginys: "1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, konkretus ir atitinka citatoje nurodytą sutartį."
-
-<a id="claim-t-222863"></a>
-- t-222863
-  teiginys: "1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Elbingas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Elbingas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "kelionės data: 1302 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys konkrečiai nusako Gotfrido atvykimą į Livoniją."
-
-<a id="claim-t-223708"></a>
-- t-223708
-  teiginys: "1204 m. Livonija popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ryga: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ryga: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Ryga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1204 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-205680
-
-<a id="claim-t-224532"></a>
-- t-224532
-  teiginys: "Karaliaučius buvo svarbus komunikacijos mazgas kelyje į Livoniją."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karaliaučius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Karaliaučius: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Karaliaučius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
 <a id="claim-t-180202"></a>
-- t-180202
+- t-001
   teiginys: "1372 m. Ordinas puolė Lietuvą vienu metu iš Prūsijos ir Livonijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lietuva: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -269,9 +96,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163855
 
 <a id="claim-t-180203"></a>
-- t-180203
+- t-002
   teiginys: "Mindaugui reikėjo kovoti su krikščioniškąja Livonija dėl pagoniškos Žemaitijos ir Vakaruose išlaikyti krikščionio valdovo statusą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -286,9 +113,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163847
 
 <a id="claim-t-180204"></a>
-- t-180204
+- t-003
   teiginys: "Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Livonija: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -303,9 +130,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163829
 
 <a id="claim-t-180206"></a>
-- t-180206
+- t-004
   teiginys: "1629 m. Altmarko paliaubomis Livonija anapus Dauguvos su Ryga buvo palikta švedams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Švedai: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -322,9 +149,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163864
 
 <a id="claim-t-180208"></a>
-- t-180208
+- t-005
   teiginys: "1621–1629 m. švedai užėmė ATR pavaldžios Livonijos kunigaikštystės teritoriją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Livonija: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -342,9 +169,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163851
 
 <a id="claim-t-180209"></a>
-- t-180209
+- t-006
   teiginys: "Vytauto laikais Vilniaus prekyba plėtėsi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Maskva: 0.79"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -359,9 +186,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163862
 
 <a id="claim-t-180210"></a>
-- t-180210
+- t-007
   teiginys: "1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -378,9 +205,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163880
 
 <a id="claim-t-180211"></a>
-- t-180211
+- t-008
   teiginys: "Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Augustas II: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -393,10 +220,26 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - c-163836
 
+<a id="claim-t-180212"></a>
+- t-009
+  teiginys: "Petro iš Dusburgo kronikos nuorašas buvo Livonijos Roneburgo pilies bažnyčioje."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Roneburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Roneburgas: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Roneburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-163861
+
 <a id="claim-t-180213"></a>
-- t-180213
+- t-010
   teiginys: "Gedimino laikų Vilnių iš Livonijos pasiekdavo rykai ir rūbai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Livonija: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -411,9 +254,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163900
 
 <a id="claim-t-180214"></a>
-- t-180214
+- t-011
   teiginys: "Štumdorfo taika grąžino Lietuvai ir Lenkijai tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ryga: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -427,9 +270,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163834
 
 <a id="claim-t-180215"></a>
-- t-180215
+- t-012
   teiginys: "1248 m. Mindaugo opoziciją sudarė jo brolvaikiai, kurie į pagalbą pasitelkė Livonijos ordiną ir Voluinę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -447,9 +290,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163907
 
 <a id="claim-t-180216"></a>
-- t-180216
+- t-013
   teiginys: "1579 m. pavasarį Steponui Batorui atvykus į Vilnių buvo rimtai rengiamasi žygiui į Livoniją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -466,9 +309,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163894
 
 <a id="claim-t-180217"></a>
-- t-180217
+- t-014
   teiginys: "Didžiausioji Livonijos dalis teko Lietuvai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuva: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -486,9 +329,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163883
 
 <a id="claim-t-180219"></a>
-- t-180219
+- t-015
   teiginys: "1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Švedija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -504,10 +347,29 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - c-163853
 
+<a id="claim-t-180220"></a>
+- t-016
+  teiginys: "1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1323 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, konkretus ir atitinka citatoje nurodytą sutartį."
+  pagrindžia:
+    - c-163909
+
 <a id="claim-t-180221"></a>
-- t-180221
+- t-017
   teiginys: "Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir grįžo į Prūsiją bei Livoniją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "apgule -> Vilnius: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -522,9 +384,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163850
 
 <a id="claim-t-180222"></a>
-- t-180222
+- t-018
   teiginys: "Gedimino misija prašė popiežiaus į Livoniją ir Lietuvą atsiųsti tikėjimo mokymą išmanančių vyrų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -538,9 +400,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163844
 
 <a id="claim-t-180224"></a>
-- t-180224
+- t-019
   teiginys: "Jogaila be Kęstučio žinios sudarė taikos sutartį su Prūsijos kraštu ir Livonija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -554,9 +416,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163884
 
 <a id="claim-t-180225"></a>
-- t-180225
+- t-020
   teiginys: "Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Albertas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -573,9 +435,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163899
 
 <a id="claim-t-180226"></a>
-- t-180226
+- t-021
   teiginys: "1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Livonija: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -593,9 +455,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163870
 
 <a id="claim-t-180228"></a>
-- t-180228
+- t-022
   teiginys: "1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių korpusas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Švedija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -612,9 +474,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163853
 
 <a id="claim-t-180229"></a>
-- t-180229
+- t-023
   teiginys: "Livonija vis glaudžiau šliejosi prie Prūsijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -628,9 +490,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163897
 
 <a id="claim-t-180231"></a>
-- t-180231
+- t-024
   teiginys: "1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš kalavijuočių ordino magistrą Firstenbergą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kalavijuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -646,10 +508,29 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - c-163886
 
+<a id="claim-t-180233"></a>
+- t-025
+  teiginys: "1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elbingas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Elbingas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "kelionės data: 1302 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys konkrečiai nusako Gotfrido atvykimą į Livoniją."
+  pagrindžia:
+    - c-163901
+
 <a id="claim-t-180234"></a>
-- t-180234
+- t-026
   teiginys: "Kryžiuočiai padažnino žygius į Lietuvą: 1370 m. surengė du, o 1372 m. puolė vienu metu iš Prūsų ir Livonijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Livonija: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -667,9 +548,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163855
 
 <a id="claim-t-180235"></a>
-- t-180235
+- t-027
   teiginys: "Didesnio uosto neturėjusi Lietuva buvo labiausiai suinteresuota kova dėl Livonijos, nes Lenkija turėjo Gdansko uostą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -687,9 +568,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163854
 
 <a id="claim-t-180236"></a>
-- t-180236
+- t-028
   teiginys: "Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -706,9 +587,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163902
 
 <a id="claim-t-180237"></a>
-- t-180237
+- t-029
   teiginys: "Švitrigaila, nieko nepasiekęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vitebskas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -723,9 +604,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163890
 
 <a id="claim-t-180242"></a>
-- t-180242
+- t-030
   teiginys: "Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -739,9 +620,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163841
 
 <a id="claim-t-180243"></a>
-- t-180243
+- t-031
   teiginys: "Maskvos kariuomenės sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gotardas Ketleris: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -755,9 +636,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163867
 
 <a id="claim-t-180245"></a>
-- t-180245
+- t-032
   teiginys: "Ordino kronikose 1345–1382 m. užregistruota 30 žygių iš Livonijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -773,9 +654,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163859
 
 <a id="claim-t-180246"></a>
-- t-180246
+- t-033
   teiginys: "Livonijos magistras su savo pajėgomis dalyvavo Vytauto vedamuose pulkuose prie Vilijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -789,9 +670,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163908
 
 <a id="claim-t-180247"></a>
-- t-180247
+- t-034
   teiginys: "Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vitebskas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -806,9 +687,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163890
 
 <a id="claim-t-180248"></a>
-- t-180248
+- t-035
   teiginys: "Švitrigaila siekė tapti Lietuvos valdovu, remdamasis Prūsijos ir Livonijos kryžiuočių galybe."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Švitrigaila: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -822,10 +703,29 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - c-163837
 
+<a id="claim-t-180249"></a>
+- t-036
+  teiginys: "1204 m. Livonija popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ryga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ryga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Ryga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1204 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-163906
+
 <a id="claim-t-180250"></a>
-- t-180250
+- t-037
   teiginys: "Caras siekė įgyti Livoniją, kuri tuo metu buvo suskaldyta tarp kelių valstybių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prancūzai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -839,9 +739,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163849
 
 <a id="claim-t-180251"></a>
-- t-180251
+- t-038
   teiginys: "Gedimino misija popiežiaus prašė į Livoniją ir Lietuvą atsiųsti tikėjimo mokymą išmanančių vyrų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Lietuva: 0.67"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -856,9 +756,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163844
 
 <a id="claim-t-180252"></a>
-- t-180252
+- t-039
   teiginys: "1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Livonija: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -876,9 +776,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163904
 
 <a id="claim-t-180253"></a>
-- t-180253
+- t-040
   teiginys: "Iš Livonijos Vilnių pasiekdavo rykai ir rūbai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.66"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -893,9 +793,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163839
 
 <a id="claim-t-180256"></a>
-- t-180256
+- t-041
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Švitrigaila: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -909,9 +809,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163889
 
 <a id="claim-t-180257"></a>
-- t-180257
+- t-042
   teiginys: "Po 1183 m. žygio į Rusios žemes lietuviai kasmet rengė po vieną ar du žygius ne tik į Rusią, bet ir į Lenkiją bei Livoniją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Lenkija: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -930,9 +830,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163835
 
 <a id="claim-t-180258"></a>
-- t-180258
+- t-043
   teiginys: "1201 m. pastatyta Rygos pilis vėliau tapo valstybės centru ir didžiausiu Livonijos miestu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Livonija: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -949,9 +849,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163830
 
 <a id="claim-t-180259"></a>
-- t-180259
+- t-044
   teiginys: "Vytauto laikais Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Naugardas: 0.79"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -966,9 +866,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163862
 
 <a id="claim-t-180260"></a>
-- t-180260
+- t-045
   teiginys: "Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "apgule -> Vilnius: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -983,9 +883,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163850
 
 <a id="claim-t-180261"></a>
-- t-180261
+- t-046
   teiginys: "Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -998,10 +898,27 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - c-163856
 
+<a id="claim-t-180262"></a>
+- t-047
+  teiginys: "Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzkariavo -> Livonija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai apibūdina Livoniją kaip vokiečių užkariautą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vokiečiai užkariavo Livonija (0.84)"
+  pagrindžia:
+    - c-163877
+
 <a id="claim-t-180264"></a>
-- t-180264
+- t-048
   teiginys: "Ordino kronikose 1345-1382 m. suregistruoti 66 kryžiuočių žygiai iš Prūsų ir 30 žygių iš Livonijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Livonija: 0.64"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1018,10 +935,26 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - c-163875
 
+<a id="claim-t-180265"></a>
+- t-049
+  teiginys: "Karaliaučius buvo svarbus komunikacijos mazgas kelyje į Livoniją."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karaliaučius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Karaliaučius: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Karaliaučius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-163881
+
 <a id="claim-t-180269"></a>
-- t-180269
+- t-050
   teiginys: "1380 m. Jogailos aplinkoje buvo sudarytos paliaubos su Livonijos magistru Rygoje, apeinant Kęstutį ir Žemaitijos kunigaikštystę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1038,9 +971,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163840
 
 <a id="claim-t-180270"></a>
-- t-180270
+- t-051
   teiginys: "1621 m. švedai užėmė didelę dalį Livonijos, o Rusija tuo metu grasino Lietuvai karu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Livonija: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1058,9 +991,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163842
 
 <a id="claim-t-180271"></a>
-- t-180271
+- t-052
   teiginys: "Rygoje buvo sudarytos paliaubos su Livonijos magistru, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1074,9 +1007,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163840
 
 <a id="claim-t-180273"></a>
-- t-180273
+- t-053
   teiginys: "Livonijos prijungimas Livonijos būklė XVI amžiuje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonijos valstybė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1090,9 +1023,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163833
 
 <a id="claim-t-180274"></a>
-- t-180274
+- t-054
   teiginys: "Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ronneburgas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1106,9 +1039,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163887
 
 <a id="claim-t-180275"></a>
-- t-180275
+- t-055
   teiginys: "1621 m. švedai užėmė didelę Livonijos dalį, o Rusija tuo metu grasino Lietuvai karu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Livonija: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1126,9 +1059,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163842
 
 <a id="claim-t-180276"></a>
-- t-180276
+- t-056
   teiginys: "Livonijos vokiečių žemėse, kaip ir Lietuvoje bei jai priklausiusioje Rusioje, nuo seno buvo įsitvirtinęs feodalinis valdymas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1142,9 +1075,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163866
 
 <a id="claim-t-180277"></a>
-- t-180277
+- t-057
   teiginys: "Štumdorfo taika iš Lietuvos ir Lenkijos bendrai valdytos Livonijos grąžino tik Latgalą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Latgala: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1158,9 +1091,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163834
 
 <a id="claim-t-180278"></a>
-- t-180278
+- t-058
   teiginys: "Stepono Batoro laikais Lietuvos ir Lenkijos karai su Maskva baigėsi Polocko ir visos Livonijos atgavimu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dauguva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1174,9 +1107,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163891
 
 <a id="claim-t-180279"></a>
-- t-180279
+- t-059
   teiginys: "Tragiškomis aplinkybėmis Livonijos ordinui buvo suduotas lemiamas smūgis, kartu paveikęs ir Vokiečių-kryžiuočių ordiną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Durbė: 0.79"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1193,10 +1126,30 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - c-163848
 
+<a id="claim-t-185021"></a>
+- t-060
+  teiginys: "Utenis perkėlė karą iš Kuršo į Livoniją, kur kuršių ir žemaičių kariuomenė nusiaubė didelius plotus."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Livonija: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kuršiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kuršiai minimi kaip dalis kariuomenės, nusiaubusios Livonijos plotus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kuršiai puolė Livonija (0.66)"
+  pagrindžia:
+    - c-168382
+
 <a id="claim-t-185022"></a>
-- t-185022
+- t-061
   teiginys: "Mindaugo karvedžiai nuolat siaubė Livoniją, o prie Lielvardės pilies Dauguvos pakrantėse, pasak Kojelavičiaus, vyko kovos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1217,9 +1170,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-168383
 
 <a id="claim-t-185023"></a>
-- t-185023
+- t-062
   teiginys: "Jogaila, gavęs paramą iš Livonijos ir Prūsijos, su kariuomene traukė iš Vilniaus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1236,9 +1189,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-168384
 
 <a id="claim-t-185024"></a>
-- t-185024
+- t-063
   teiginys: "1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1256,9 +1209,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-168385
 
 <a id="claim-t-185028"></a>
-- t-185028
+- t-064
   teiginys: "Numalšinęs Livoniją, Žygimantas Augustas pasiuntė pasiuntinius derėtis dėl taikos su Maskva."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1274,207 +1227,10 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - c-168389
 
-<a id="claim-t-193208"></a>
-- t-193208
-  teiginys: "Livonija buvo valdoma abiejų jungtinių valstybių; mokesčiai iš jos vienais metais eidavo į Lietuvos, o kitais metais į Lenkijos iždą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-175952
-
-<a id="claim-t-193209"></a>
-- t-193209
-  teiginys: "Šitomis paliaubomis pasibaigė ilgai traukęsi karai su Maskva dėl Livonijos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-175953
-
-<a id="claim-t-194987"></a>
-- t-194987
-  teiginys: "Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis nebuvo tikslus šaltinių atžvilgiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177371
-
-<a id="claim-t-196710"></a>
-- t-196710
-  teiginys: "Kojelavičiaus pasakojime Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178857
-
-<a id="claim-t-196711"></a>
-- t-196711
-  teiginys: "Kojelavičiaus pasakojime karalius atmetė maskvėnų skundus ir uždraudė laiškuose minėti Maskvos caro bei Livonijos valdovo titulus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178858
-
-<a id="claim-t-201630"></a>
-- t-201630
-  teiginys: "1560 m. Petro Miklaševskio kuopai, kurią sudarė 100 karių, buvo nurodyta į Livoniją žygi uoti pro Kauną, Ukmergę, Panevėžį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184977
-
-<a id="claim-t-201631"></a>
-- t-201631
-  teiginys: "Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regioną, į kurį įėjo Lietuva, Lenkija, Prūsija, Livonija, bet dažniausiai ir gausiausiai lankėsi Prūsų miestuose: Gdanske, Karaliaučiuje, Torunėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184978
-
-<a id="claim-t-204024"></a>
-- t-204024
-  teiginys: "Rimvydas Petrauskas Livonijoje XVI a. devintojo dešimtmečio viduryje fiksuoja tolesnę leno teisės plėtotę, pasireiškusią gana gausiais Stepono Batoro užrašymais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186628
-
-<a id="claim-t-205338"></a>
-- t-205338
-  teiginys: "Tučtuo jau Livonijoje valdžią paėmė kryžiuotis, būtent buvęs Prū sijos provincijos magistras."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-187894
-
-<a id="claim-t-205791"></a>
-- t-205791
-  teiginys: "Lietuvos kunigaikštis Rimgaudas, surinkęs savo ir sąjungininkų pulkus, įsiveržė į Livoniją, nusiaubė jos plotus ir sudegino daug kaimų bei miestelių, neturėjusių tvirtovių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188406
-
-<a id="claim-t-206515"></a>
-- t-206515
-  teiginys: "Teodoras Narbutas aprašo, kad dešimt dienų prie Izborsko kovojęs priešas, sužinojęs apie Algirdo kariaunos artėjimą, sudegino techniką ir pasitraukė į Livoniją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189130
-
-<a id="claim-t-206516"></a>
-- t-206516
-  teiginys: "Teodoras Narbutas rašo, kad kryžiuočiai, plėsdami pasaulietinę ir bažnytinę valdžią, siekė perimti Livonijos vyskupijos valdas taip, kaip anksčiau buvo pasielgę Prūsijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189131
-
-<a id="claim-t-212611"></a>
-- t-212611
-  teiginys: "Narbutas pasakoja legendą, kad iš Bitinijos išsiųsti keliautojai per Tartariją, Roksolaniją, venedų ir alanų žemes pateko į Livoniją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Roksolanija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Roksolanija: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Roksolanija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-197511
-
-<a id="claim-t-215609"></a>
-- t-215609
-  teiginys: "Bitinijos keliautojai per venedų ir alanų žemes pateko į Livoniją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197511
-
-<a id="claim-t-216618"></a>
-- t-216618
-  teiginys: "1583 m. jėzuitai buvo pasiųsti į Žemaičius ir Livoniją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198832
-
-<a id="claim-t-217119"></a>
-- t-217119
+<a id="claim-t-188765"></a>
+- t-065
   teiginys: "Narbutas rašė, kad 1243 m. Livonijos riteriai, šaukdami tikrojo Dievo vardą, užpuolė lietuvius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1491,12 +1247,12 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Fragmentas sutrumpintas iki pilno teiginio apie Livonijos riterius. Religinė formuluotė palikta kaip Narbuto pasakojimo dalis."
   pagrindžia:
-    - c-199528
+    - c-171654
 
-<a id="claim-t-217271"></a>
-- t-217271
+<a id="claim-t-188766"></a>
+- t-066
   teiginys: "1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1513,24 +1269,31 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintos OCR klaidos ir išlaikytas aiškus veiksmas su vietomis. Nepridėta platesnė pastaba apie apeiginį garbinimą."
   pagrindžia:
-    - c-198832
+    - c-171655
 
-<a id="claim-t-217433"></a>
-- t-217433
-  teiginys: "Smun kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai - pir miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga liau Žemaitijoje."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-188767"></a>
+- t-067
+  teiginys: "Narbutas svarstė, kodėl Henrikas Latvis, rašęs apie Livoniją, neminėjo krivio, jeigu šis valdė tą šalį."
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-199528
+    - c-171656
 
-<a id="claim-t-219102"></a>
-- t-219102
+<a id="claim-t-188768"></a>
+- t-068
   teiginys: "Narbutas ginkluoto atvertimo pradžią siejo pirmiausia su Livonija, vėliau su Prūsija, Lietuva ir Žemaitija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1544,7 +1307,205 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-199528
+    - c-171657
+
+<a id="claim-t-192695"></a>
+- t-069
+  teiginys: "Narbutas pasakoja legendą, kad iš Bitinijos išsiųsti keliautojai per Tartariją, Roksolaniją, venedų ir alanų žemes pateko į Livoniją."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Roksolanija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Roksolanija: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Roksolanija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175465
+
+<a id="claim-t-192696"></a>
+- t-070
+  teiginys: "1583 metais jėzuitai į Žemaičius ir Livoniją pasiuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175466
+
+<a id="claim-t-193208"></a>
+- t-071
+  teiginys: "Livonija buvo valdoma abiejų jungtinių valstybių; mokesčiai iš jos vienais metais eidavo į Lietuvos, o kitais metais į Lenkijos iždą."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-175952
+
+<a id="claim-t-193209"></a>
+- t-072
+  teiginys: "Šitomis paliaubomis pasibaigė ilgai traukęsi karai su Maskva dėl Livonijos."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-175953
+
+<a id="claim-t-194987"></a>
+- t-073
+  teiginys: "Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis nebuvo tikslus šaltinių atžvilgiu."
+  atnaujinta: "2026-07-06 12:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177371
+
+<a id="claim-t-196710"></a>
+- t-074
+  teiginys: "Kojelavičiaus pasakojime Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178857
+
+<a id="claim-t-196711"></a>
+- t-075
+  teiginys: "Kojelavičiaus pasakojime karalius atmetė maskvėnų skundus ir uždraudė laiškuose minėti Maskvos caro bei Livonijos valdovo titulus."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178858
+
+<a id="claim-t-197892"></a>
+- t-076
+  teiginys: "Jis esąs priešais Skitijos sausumą (Prūsiją, Livoniją) ir arčiausiai baltų, iš kur kilo Baltijos pavadinimas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179384
+
+<a id="claim-t-201630"></a>
+- t-077
+  teiginys: "1560 m. Petro Miklaševskio kuopai, kurią sudarė 100 karių, buvo nurodyta į Livoniją žygi uoti pro Kauną, Ukmergę, Panevėžį."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184977
+
+<a id="claim-t-201631"></a>
+- t-078
+  teiginys: "Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regioną, į kurį įėjo Lietuva, Lenkija, Prūsija, Livonija, bet dažniausiai ir gausiausiai lankėsi Prūsų miestuose: Gdanske, Karaliaučiuje, Torunėje."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184978
+
+<a id="claim-t-204024"></a>
+- t-079
+  teiginys: "Rimvydas Petrauskas Livonijoje XVI a. devintojo dešimtmečio viduryje fiksuoja tolesnę leno teisės plėtotę, pasireiškusią gana gausiais Stepono Batoro užrašymais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186628
+
+<a id="claim-t-205338"></a>
+- t-080
+  teiginys: "Tučtuo jau Livonijoje valdžią paėmė kryžiuotis, būtent buvęs Prū sijos provincijos magistras."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187894
+
+<a id="claim-t-205791"></a>
+- t-081
+  teiginys: "Lietuvos kunigaikštis Rimgaudas, surinkęs savo ir sąjungininkų pulkus, įsiveržė į Livoniją, nusiaubė jos plotus ir sudegino daug kaimų bei miestelių, neturėjusių tvirtovių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188406
+
+<a id="claim-t-206515"></a>
+- t-082
+  teiginys: "Teodoras Narbutas aprašo, kad dešimt dienų prie Izborsko kovojęs priešas, sužinojęs apie Algirdo kariaunos artėjimą, sudegino techniką ir pasitraukė į Livoniją."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189130
+
+<a id="claim-t-206516"></a>
+- t-083
+  teiginys: "Teodoras Narbutas rašo, kad kryžiuočiai, plėsdami pasaulietinę ir bažnytinę valdžią, siekė perimti Livonijos vyskupijos valdas taip, kaip anksčiau buvo pasielgę Prūsijoje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189131
 
 ## Reikšmingi paminėjimai
 - c-030
@@ -1739,8 +1700,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180204
+  pagrindzia:
+    - t-003
 
 - id: c-163830
   redaktorius: "A. Šapoka"
@@ -1760,8 +1721,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180258
+  pagrindzia:
+    - t-043
 
 - id: c-163833
   redaktorius: "A. Šapoka"
@@ -1782,8 +1743,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180273
+  pagrindzia:
+    - t-053
 
 - id: c-163834
   redaktorius: "A. Šapoka"
@@ -1801,9 +1762,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180214
-    - t-180277
+  pagrindzia:
+    - t-011
+    - t-057
 
 - id: c-163835
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1824,8 +1785,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180257
+  pagrindzia:
+    - t-042
 
 - id: c-163836
   sudarytojas: "Karolis Zikaras"
@@ -1847,8 +1808,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180211
+  pagrindzia:
+    - t-008
 
 - id: c-163837
   autorius: "Michał Baliński"
@@ -1877,8 +1838,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180248
+  pagrindzia:
+    - t-035
 
 - id: c-163839
   autorius: "Michał Baliński"
@@ -1904,8 +1865,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180253
+  pagrindzia:
+    - t-040
 
 - id: c-163840
   autorius: "Michał Baliński"
@@ -1927,9 +1888,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180269
-    - t-180271
+  pagrindzia:
+    - t-050
+    - t-052
 
 - id: c-163841
   sudarytojas: "Karolis Zikaras"
@@ -1951,8 +1912,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180242
+  pagrindzia:
+    - t-030
 
 - id: c-163842
   sudarytojas: "Karolis Zikaras"
@@ -1986,9 +1947,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180270
-    - t-180275
+  pagrindzia:
+    - t-051
+    - t-055
 
 - id: c-163844
   autorius: "Michał Baliński"
@@ -2018,9 +1979,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180222
-    - t-180251
+  pagrindzia:
+    - t-018
+    - t-038
 
 - id: c-163847
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2041,8 +2002,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180203
+  pagrindzia:
+    - t-002
 
 - id: c-163848
   sudarytojas: "Karolis Zikaras"
@@ -2064,8 +2025,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180279
+  pagrindzia:
+    - t-059
 
 - id: c-163849
   redaktorius: "A. Šapoka"
@@ -2086,8 +2047,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180250
+  pagrindzia:
+    - t-037
 
 - id: c-163850
   autorius: "Michał Baliński"
@@ -2121,9 +2082,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180221
-    - t-180260
+  pagrindzia:
+    - t-017
+    - t-045
 
 - id: c-163851
   sudarytojas: "Karolis Zikaras"
@@ -2148,8 +2109,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180208
+  pagrindzia:
+    - t-005
 
 - id: c-163853
   sudarytojas: "Karolis Zikaras"
@@ -2173,9 +2134,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180219
-    - t-180228
+  pagrindzia:
+    - t-015
+    - t-022
 
 - id: c-163854
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2193,8 +2154,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180235
+  pagrindzia:
+    - t-027
 
 - id: c-163855
   autorius: "Zenonas Ivinskis"
@@ -2215,9 +2176,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180202
-    - t-180234
+  pagrindzia:
+    - t-001
+    - t-026
 
 - id: c-163856
   sudarytojas: "Karolis Zikaras"
@@ -2243,8 +2204,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180261
+  pagrindzia:
+    - t-046
 
 - id: c-163859
   autorius: "Zenonas Ivinskis"
@@ -2266,8 +2227,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180245
+  pagrindzia:
+    - t-032
 
 - id: c-163861
   autorius: "Petras Dusburgietis"
@@ -2285,6 +2246,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 - id: c-163862
   autorius: "Michał Baliński"
@@ -2314,9 +2277,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180209
-    - t-180259
+  pagrindzia:
+    - t-006
+    - t-044
 
 - id: c-163864
   redaktorius: "A. Šapoka"
@@ -2334,8 +2297,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180206
+  pagrindzia:
+    - t-004
 
 - id: c-163866
   autorius: "Michał Baliński"
@@ -2360,8 +2323,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180276
+  pagrindzia:
+    - t-056
 
 - id: c-163867
   autorius: "Michał Baliński"
@@ -2396,8 +2359,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180243
+  pagrindzia:
+    - t-031
 
 - id: c-163870
   sudarytojas: "Karolis Zikaras"
@@ -2421,8 +2384,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180226
+  pagrindzia:
+    - t-021
 
 - id: c-163875
   autorius: "Zenonas Ivinskis"
@@ -2441,8 +2404,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180264
+  pagrindzia:
+    - t-048
 
 - id: c-163877
   autorius: "Petras Dusburgietis"
@@ -2459,6 +2422,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-047
 
 - id: c-163880
   autorius: "Zenonas Ivinskis"
@@ -2476,8 +2441,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180210
+  pagrindzia:
+    - t-007
 
 - id: c-163881
   autorius: "Petras Dusburgietis"
@@ -2495,6 +2460,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-049
 
 - id: c-163883
   redaktorius: "A. Šapoka"
@@ -2515,8 +2482,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180217
+  pagrindzia:
+    - t-014
 
 - id: c-163884
   autorius: "Michał Baliński"
@@ -2551,8 +2518,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180224
+  pagrindzia:
+    - t-019
 
 - id: c-163886
   autorius: "Michał Baliński"
@@ -2576,8 +2543,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180231
+  pagrindzia:
+    - t-024
 
 - id: c-163887
   autorius: "Zenonas Ivinskis"
@@ -2595,8 +2562,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180274
+  pagrindzia:
+    - t-054
 
 - id: c-163889
   autorius: "Michał Baliński"
@@ -2615,8 +2582,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180256
+  pagrindzia:
+    - t-041
 
 - id: c-163890
   autorius: "Michał Baliński"
@@ -2646,9 +2613,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180237
-    - t-180247
+  pagrindzia:
+    - t-029
+    - t-034
 
 - id: c-163891
   redaktorius: "A. Šapoka"
@@ -2669,8 +2636,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180278
+  pagrindzia:
+    - t-058
 
 - id: c-163894
   autorius: "Michał Baliński"
@@ -2699,8 +2666,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180216
+  pagrindzia:
+    - t-013
 
 - id: c-163897
   autorius: "Michał Baliński"
@@ -2725,8 +2692,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180229
+  pagrindzia:
+    - t-023
 
 - id: c-163899
   redaktorius: "A. Šapoka"
@@ -2746,8 +2713,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180225
+  pagrindzia:
+    - t-020
 
 - id: c-163900
   autorius: "Michał Baliński"
@@ -2775,8 +2742,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180213
+  pagrindzia:
+    - t-010
 
 - id: c-163901
   autorius: "Petras Dusburgietis"
@@ -2798,6 +2765,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-025
 
 - id: c-163902
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2823,8 +2792,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180236
+  pagrindzia:
+    - t-028
 
 - id: c-163904
   sudarytojas: "Karolis Zikaras"
@@ -2852,8 +2821,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180252
+  pagrindzia:
+    - t-039
 
 - id: c-163906
   autorius: "Petras Dusburgietis"
@@ -2870,6 +2839,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-036
 
 - id: c-163907
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2886,8 +2857,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180215
+  pagrindzia:
+    - t-012
 
 - id: c-163908
   autorius: "Michał Baliński"
@@ -2922,8 +2893,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180246
+  pagrindzia:
+    - t-033
 
 - id: c-163909
   autorius: "Petras Dusburgietis"
@@ -2948,6 +2919,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 - id: c-168382
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2975,6 +2948,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-060
 
 - id: c-168383
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3013,8 +2988,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185022
+  pagrindzia:
+    - t-061
 
 - id: c-168384
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3041,8 +3016,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185023
+  pagrindzia:
+    - t-062
 
 - id: c-168385
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3071,8 +3046,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185024
+  pagrindzia:
+    - t-063
 
 - id: c-168389
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3101,8 +3076,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185028
+  pagrindzia:
+    - t-064
 
 - id: c-171654
   autorius: "Teodoras Narbutas"
@@ -3122,6 +3097,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-065
 
 - id: c-171655
   autorius: "Teodoras Narbutas"
@@ -3140,6 +3117,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-066
 
 - id: c-171656
   autorius: "Teodoras Narbutas"
@@ -3168,6 +3147,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-067
 
 - id: c-171657
   autorius: "Teodoras Narbutas"
@@ -3192,6 +3173,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-068
 
 - id: c-175465
   autorius: "Teodoras Narbutas"
@@ -3214,6 +3197,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-069
 
 - id: c-175466
   autorius: "Teodoras Narbutas"
@@ -3232,6 +3217,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-070
 
 - id: c-175952
   redaktorius: "A. Šapoka"
@@ -3257,8 +3244,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193208
+  pagrindzia:
+    - t-071
 
 - id: c-175953
   redaktorius: "A. Šapoka"
@@ -3275,8 +3262,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193209
+  pagrindzia:
+    - t-072
 
 - id: c-177371
   autorius: "Zenonas Ivinskis"
@@ -3296,8 +3283,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194987
+  pagrindzia:
+    - t-073
 
 - id: c-178857
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3322,8 +3309,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196710
+  pagrindzia:
+    - t-074
 
 - id: c-178858
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3352,8 +3339,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196711
+  pagrindzia:
+    - t-075
 
 - id: c-179384
   autorius: "Teodoras Narbutas"
@@ -3373,6 +3360,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-076
 
 - id: c-184977
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -3387,8 +3376,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201630
+  pagrindzia:
+    - t-077
 
 - id: c-184978
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -3406,8 +3395,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201631
+  pagrindzia:
+    - t-078
 
 - id: c-186628
   autorius: "Rimvydas Petrauskas"
@@ -3424,8 +3413,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204024
+  pagrindzia:
+    - t-079
 
 - id: c-187894
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -3440,8 +3429,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205338
+  pagrindzia:
+    - t-080
 
 - id: c-188406
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -3466,8 +3455,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205791
+  pagrindzia:
+    - t-081
 
 - id: c-189130
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3484,8 +3473,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206515
+  pagrindzia:
+    - t-082
 
 - id: c-189131
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3501,271 +3490,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206516
-
-- id: c-193125
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 22"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 22."
-  citata_originali: |
-    Specialaus domėjimo­
-    si Livonijos istorija stoka geriausiai rodo, kad Bychov­
-    co kronika nebuvo rašoma XVI a. antrojoje pusėje,
-    vykstant vadinamajam Livonijos karui tarp Livoni­
-    jos ir jos protektorės Lietuvos Didžiosios Kunigaikš­
-    tystės iš vienos, ir Rusų valstybės — iš kitos pusės
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211446
-
-- id: c-194581
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
-  citata_originali: |
-    Seningas imasi visokio darbo, siekdamas gintaro iš­
-    gavimo garbę priskirti Skandinavijai, nes tai didelis pu­
-    siasalis, plytintis net iki Ledinuotosios jūros. Jis esąs
-    priešais Skitijos sausumą (Prūsiją, Livoniją) ir arčiausiai
-    baltų, iš kur kilo Baltijos pavadinimas. Iš tikrųjų kai ku­
-    rias sausumas galima laikyti buvusiomis salomis po to,
-    kai iš ten pasitraukė jūra.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212918
-
-- id: c-196006
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 502"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 502."
-  citata_originali: |
-    1583 metais jėzuitai į Žemaičius ir į Livoniją pasiuntė tris mi­
-    sionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213137
-
-- id: c-197511
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 168"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
-  citata_originali: |
-    Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
-    gyventi žmonės septintojo dangaus- rato pabaigoje, — čia
-    yra nepaprastai šaltas aštuntasis ratas, — išsiuntė keliau­
-    tojus tai patikrinti. Šie perėjo plačius Tartarijos kraštus,
-    vėliau didelę slavų Roksolanijos valstybę ir per venedų
-    bei alanų žemes pateko į Livoniją. Iš to krašto, dar gana
-    toli nukeliavę vandens keliu, atsidūrė plačioje ir tuščioje
-    žemėje, kuri neturėjo jokio nuolatinio pavadinimo, nes ją
-    vadino tai Sargatia arba Sargaga, tai Getida arba Vatinla
-    ir dar kitaip.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212611
-    - t-215609
-
-- id: c-197947
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 180"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
-  citata_originali: |
-    Kurše, Livonijo­
-    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
-    R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
-    garbinamas Pušaitis ir barstukai18“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218504
-
-- id: c-197980
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 392"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 392."
-  citata_originali: |
-    Prūsijai ir Livonijai praradus nepriklauso­
-    mybę, tų kvailysčių sumažėjo, ir pamažu stabmeldystės griu­
-    vėsiuose ėmė įsitvirtinti krikščionybė, kol 1387 metais Dievas
-    visą tautą pašaukė priimti šventąjį tikėjimą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218738
-
-- id: c-198766
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 337"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 337."
-  citata_originali: |
-    Strijkovskis apibūdina šios šventės pradžią - kad ji pradė­
-    ta švęsti visai neseniai; tai gali būti tikras dalykas, nes Prūsijos
-    ir Livonijos kronikose apie ją neradome jokios užuominos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217054
-
-- id: c-198832
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 368"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
-  citata_originali: |
-    Dar negalime nepaminėti smulkmenų, bylojančių apie Že­
-    maitijoje įsišaknijusį apeiginį dievų garbinimą. Ten jis buvo pa­
-    stebėtas praėjus daugiau nei pusantro šimto metų po krikščiony­
-    bės įvedimo. 1583 metais jėzuitai į Žemaičius ir į Livoniją pa­
-    siuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiu­
-    lius.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216618
-    - t-217271
-
-- id: c-199528
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 429"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
-  citata_originali: |
-    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
-    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
-    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
-    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
-    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
-    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
-    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
-    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
-    nių apeigų papročių, vienodų su jų lietuvių apeigomis. Smun­
-    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai - pir­
-    miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
-    liau Žemaitijoje.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217119
-    - t-217433
-    - t-219102
-
-- id: c-200454
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 420"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 420."
-  citata_originali: |
-    Taigi, jei tiek Prūsijoje, tiek ir
-    Lietuvoje buvo Romovė arba daug tokių šventovių, jei iš tik­
-    rųjų krivūlė Prūsų Lietuvoje dar iki šiol neužmiršta, tai ar gali
-    būti didžiai sunku patikėti, kad krivis galėjo atsirasti ir tuose
-    kraštuose ikidusburginiais laikais? O kodėl apie krivį nieko
-    nemini Henrikas Latvis, rašęs apie Livoniją, apie šalį, kurią
-    krivis valdė? Būtų galima manyti, kad Livonijoje nebūta jokio
-    krivio pėdsako; net galima tvirtinti, kad Dusburgietis, klysda­
-    mas, jog Prūsijos krivio valdžia buvo taip labai paplitusi, tuo
-    labiau norėjo matyti Livoniją klausančią jo įsakymų, kuo la­
-    biau stiprėjo ir įgavo didesnę reikšmę jo lyginimas su popie­
-    žiumi; žinoma, galima būtų tiesiog prisipažinti, kad joks Prū­
-    7 Atvirkščiai, Strijkovskis apie tai rašo daugiau už prūsų ir latvių
-    kroninininkus, nes jis po ranka turėjo istorijos šaltinius, kurie bylojo,
-    kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo pa­
-    pasakoti ir daugiau smulkmenų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219582
-
-- id: c-203051
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 216"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
-  citata_originali: |
-    Tuo metu, kai ši brolių kariuomenė buvo mūsų minėtuose valsčiuose, galybė lietuvių
-    įsibrovė į Livonijos žemę, kur pridarė Dorpato vyskupystei visokių nuostolių, nes degino
-    ir plėšė, kas pakliuvo po ranka, be to, nužudė penkis tūkstančius, o gal ir daugiau
-    krikščionių, o kitus nusivarė į amžiną vergovę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221962
-
-- id: c-205680
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 226."
-  citata_originali: |
-    Apie Livonijos žemės atvertimą į tikėjimą
-
-      1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus
-    Inocento rūpesčiu į Kristaus tikėjimą (Ptol. 21,10; Mart. loc. cit.).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223708
+  pagrindzia:
+    - t-083
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]], [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

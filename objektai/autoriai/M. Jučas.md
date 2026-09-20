@@ -47,23 +47,10 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
 
 ## Teiginiai
 
-<a id="claim-t-207799"></a>
-- t-207799
-  teiginys: "M. Jučas feodalizmo pradžios klausimą laiko labiausiai ginčytinu Lietuvos istorijoje."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  vertinimo_atnaujinta: "2026-07-19T10:07:01Z"
-  pagrindžia:
-    - c-190405
-
 <a id="claim-t-179549"></a>
-- t-179549
+- t-001
   teiginys: "M. Jučas parašė veikalą „Vytautas Didysis“, išleistą Čikagoje 2010 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Čikaga: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -77,6 +64,22 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-22159
+
+<a id="claim-t-179550"></a>
+- t-002
+  teiginys: "M. Jučas Petro Dusburgiečio kronikos faktais rėmė koncepcijų apie prūsus kritiką."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Jučas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Jučas\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-163225
 
 ## Citatos
 
@@ -93,8 +96,8 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179549
+  pagrindzia:
+    - t-001
 
 - id: c-163225
   autorius: "Petras Dusburgietis"
@@ -116,25 +119,5 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-190405
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 40"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 40."
-  citata_originali: |
-    Lietuvos Didžiosios Kunigaikštystės istorijos tyrėjas M. Jučas, atrodytų, norėda-
-    mas pratęsti teorinius feodalizmo sampratos svarstymus, rašė, kad feodalizmo pradžios
-    klausimas - labiausiai ginčytinas Lietuvos istorijoje; klausė, ar XIV a. istorijos šaltiniai
-    rodo buvus Lietuvoje vasalų.
-    20 Tačiau, taip intriguojamai suformulavęs problemos esmę,
-  citata_rodoma: "Lietuvos Didžiosios Kunigaikštystės istorijos tyrėjas M. Jučas, atrodytų, norėda-\nmas pratęsti teorinius feodalizmo sampratos svarstymus, rašė, kad feodalizmo pradžios\nklausimas - labiausiai ginčytinas Lietuvos istorijoje; klausė, ar XIV a. istorijos šaltiniai\nrodo buvus Lietuvoje vasalų."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207799
-
+  pagrindzia:
+    - t-002

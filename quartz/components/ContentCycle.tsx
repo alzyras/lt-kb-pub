@@ -4,19 +4,19 @@ export type RelatedContentLink = { title: string; href: string }
 
 const valanciusLinks: RelatedContentLink[] = [
   {
-    title: "Valančius ir Rusijos imperija · straipsnis",
+    title: "Valančius ir caro valdžia · straipsnis",
     href: "/straipsniai/motiejus-valancius-ir-rusijos-imperija/",
   },
   {
-    title: "Laiškai imperijos šešėlyje · paroda",
+    title: "Valančiaus laiškai ir draudžiamos knygos · paroda",
     href: "/parodos/valancius-laiskai-imperijos-seselyje/",
   },
   {
-    title: "Kai kaimas atsisakė degtinės · straipsnis",
+    title: "Kodėl kaimas gėrė ir kaip Valančius ragino negerti · straipsnis",
     href: "/straipsniai/kaip-valancius-keite-kasdienybe/",
   },
   {
-    title: "Karčema, pažadas, permaina · paroda",
+    title: "Valančiaus blaivybės brolijos · paroda",
     href: "/parodos/valancius-nuo-sakyklos-iki-skaitytojo/",
   },
 ]

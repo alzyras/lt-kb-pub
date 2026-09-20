@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'Aleksandro istorija'
+pavadinimas: Aleksandro istorija
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1492 m.'
-  - '1506 m.'
+  - 1492 m.
+  - 1506 m.
 date_start: '1492'
 date_end: '1506'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
-  - 'XVI'
+  - XV
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Aleksandro istorija
 
@@ -76,6 +73,5 @@ Bychovco kronikos autorius, aprašydamas Aleksandro laikus, naudojosi Lietuvos D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

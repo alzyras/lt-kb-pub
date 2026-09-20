@@ -26,6 +26,28 @@ media_all_json: |-
 
 Narbutas Muratorį mini kaip išsaugojusį apaštališkajam sostui skirtą Misica pasivadinusio lenkų kunigaikščio donaciją.
 
+## Teiginiai
+
+<a id="claim-t-191800"></a>
+- t-001
+  teiginys: "Narbutas Muratorį mini kaip išsaugojusį apaštališkajam sostui skirtą Misica pasivadinusio lenkų kunigaikščio donaciją."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Muratori Antiquitates Italicae medii aevi: owner_note_path, source"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=91"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Muratori Antiquitates Italicae medii aevi\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174682
+
 ## Citatos
 
 - id: c-174682
@@ -46,49 +68,5 @@ Narbutas Muratorį mini kaip išsaugojusį apaštališkajam sostui skirtą Misic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197022
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 216"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 216."
-  citata_originali: |
-    222
-    Tai paminėję, pereikime prie rašytinių liudijimų, ku­
-    rie įrodo, jog Nemuno žemupyje iš tikrųjų buvęs Rusia
-    vadinamas kraštas. Muratoris išsaugojo donaeiją apašta­
-    liškajam sostui; ją sudarė lenkų kunigaikštis, pasivadinęs
-    Misica. Tai buvo Boleslovo Narsiojo tėvas Mečislovas,
-    valdęs nuo 964 iki 999 metų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-215136"></a>
-- t-001
-  teiginys: "Narbutas Muratorį mini kaip išsaugojusį apaštališkajam sostui skirtą Misica pasivadinusio lenkų kunigaikščio donaciją."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Muratori Antiquitates Italicae medii aevi: owner_note_path, source"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Muratori Antiquitates Italicae medii aevi\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-197022
-

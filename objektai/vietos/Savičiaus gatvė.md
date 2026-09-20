@@ -44,6 +44,52 @@ historical_names: []
 
 1724 m. per Dievo Kūno šventės procesiją Savičiaus gatvėje esančią Augustinų (Augustijonų) bažnyčią užpuolė apie 40 ginkluotų žmonių gauja, vadovaujama Florijono ir Benedikto Grabovskių. 1741 m. skunde nurodyta, kad LDK kariuomenės petihorų vėliavos seržantas Stanislovas Pioro su kareiviais nakčia užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje, grasino šeimininkams ir pagrobė šieno. Augustinų (Augustijonų) bažnyčia buvo Savičiaus gatvėje.
 
+## Teiginiai
+
+<a id="claim-t-203828"></a>
+- t-001
+  teiginys: "1724 m. per Dievo Kūno šventės procesiją Savičiaus gatvėje esančią Augustinų (Augustijonų) bažnyčią užpuolė apie 40 ginkluotų žmonių gauja, vadovaujama Florijono ir Benedikto Grabovskių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1724 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta bažnyčios vieta, gaujos dydis ir vadovai. Visi įtraukti faktai tiesiogiai nurodyti citatoje."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186432
+
+<a id="claim-t-203829"></a>
+- t-002
+  teiginys: "1741 m. skunde nurodyta, kad LDK kariuomenės petihorų vėliavos seržantas Stanislovas Pioro su kareiviais nakčia užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje, grasino šeimininkams ir pagrobė šieno."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1741 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleisti seržanto pareigos, užpuolimo aplinkybės ir grobis. Skundo pobūdis išlaikytas, o citatos fragmento triukšmas pašalintas."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186433
+
+<a id="claim-t-203830"></a>
+- t-003
+  teiginys: "Augustinų (Augustijonų) bažnyčia buvo Savičiaus gatvėje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186434
+
 ## Citatos
 
 - id: c-186432
@@ -61,7 +107,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186433
@@ -80,7 +126,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-186434
@@ -98,52 +144,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-203828"></a>
-- t-001
-  teiginys: "1724 m. per Dievo Kūno šventės procesiją Savičiaus gatvėje esančią Augustinų (Augustijonų) bažnyčią užpuolė apie 40 ginkluotų žmonių gauja, vadovaujama Florijono ir Benedikto Grabovskių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1724 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslinta bažnyčios vieta, gaujos dydis ir vadovai. Visi įtraukti faktai tiesiogiai nurodyti citatoje."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186432
-
-<a id="claim-t-203829"></a>
-- t-002
-  teiginys: "1741 m. skunde nurodyta, kad LDK kariuomenės petihorų vėliavos seržantas Stanislovas Pioro su kareiviais nakčia užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje, grasino šeimininkams ir pagrobė šieno."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1741 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleisti seržanto pareigos, užpuolimo aplinkybės ir grobis. Skundo pobūdis išlaikytas, o citatos fragmento triukšmas pašalintas."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186433
-
-<a id="claim-t-203830"></a>
-- t-003
-  teiginys: "Augustinų (Augustijonų) bažnyčia buvo Savičiaus gatvėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  pagrindžia:
-    - c-186434
-

@@ -28,6 +28,21 @@ Per tai buvo įsigyta nemaža dalis valdų, mat kunigaikštis Konradas savo dona
 
 Per tai buvo įsigyta nemaža dalis valdų, mat kunigaikštis Konradas savo donacijas pasiliko sau, magistrą su kai kuriais ri teriais perkeldindamas j Polesę, kur įkurdino juos seno viniame Drohičino mieste, apdovanodamas nemažomis žemių tarp Bugo ir Nuro upių.
 
+## Teiginiai
+
+<a id="claim-t-205062"></a>
+- t-001
+  teiginys: "Per tai buvo įsigyta nemaža dalis valdų, mat kunigaikštis Konradas savo donacijas pasiliko sau, magistrą su kai kuriais ri teriais perkeldindamas j Polesę, kur įkurdino juos seno viniame Drohičino mieste, apdovanodamas nemažomis žemių tarp Bugo ir Nuro upių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188088
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Per tai buvo įsigyta nemaža dalis valdų, mat kunigaikštis Konradas savo donacijas pasiliko sau, magistrą su kai kuriais ri teriais perkeldindamas j Polesę, kur įkurdino juos seno viniame Drohičino mieste, apdovanodamas nemažomis žemių tarp Bugo ir Nuro upių.'
@@ -68,21 +83,5 @@ Per tai buvo įsigyta nemaža dalis valdų, mat kunigaikštis Konradas savo dona
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205062"></a>
-- t-001
-  teiginys: "Per tai buvo įsigyta nemaža dalis valdų, mat kunigaikštis Konradas savo donacijas pasiliko sau, magistrą su kai kuriais ri teriais perkeldindamas j Polesę, kur įkurdino juos seno viniame Drohičino mieste, apdovanodamas nemažomis žemių tarp Bugo ir Nuro upių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-188088
-

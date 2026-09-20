@@ -48,6 +48,33 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-193024"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad gelonai, prisimindami helenišką kilmę, kasmet siųsdavo į Delą dovanų ir aukų Apolonui."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175794
+
+<a id="claim-t-194873"></a>
+- t-002
+  teiginys: "Kada įvyko ta revoliucija, privertusi gelonus išvykti iš empo riumų, nėra jokių žinių; tikra tik tai, kad iki Darijaus žygio prieš Skitiją gelonai jau seniai gyveno tarp budi nu, susiliejo su jais ir sudarė vieną tautą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-177269
+
 ## Citatos
 
 - id: c-175794
@@ -69,6 +96,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-177269
   autorius: "Teodoras Narbutas"
@@ -93,82 +122,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197388
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 80."
-  citata_originali: |
-    Todėl mano­
-    ma, kad tai turėjo įvykti ne vėliau kaip VI amžiaus prieš
-    Kristaus gimimą antrojoje pusėje. Gelonai, prisimindami
-    savo helenišką kilmę ir nepaisydami religinio susijungi­
-    mo su indais-skitais, kasmet siųsdavo į Delą dovanų ir
-    aukų Apolonui2.
-    65
-    Gelonai-budinai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-197508
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 80."
-  citata_originali: |
-    Herodotas
-    prisimena buvus tokį miestą prie Juodosios jūros, kur
-    netoliese buvo ir Dioskūrija; būtent šios vietos garsėjo
-    didžiulėmis prekyvietėmis, į kurias susirinkdavo nesu­
-    skaičiuojamos minios žmonių iš maždaug trijų šimtų
-    genčių, įvairių savo kalba ir gyvenamąja vieta1. Kada
-    įvyko ta revoliucija, privertusi gelonus išvykti iš empo­
-    riumų, nėra jokių žinių; tikra tik tai, kad iki Darijaus
-    žygio prieš Skitiją gelonai jau seniai gyveno tarp budi­
-    nu, susiliejo su jais ir sudarė vieną tautą. Todėl mano­
-    ma, kad tai turėjo įvykti ne vėliau kaip VI amžiaus prieš
-    Kristaus gimimą antrojoje pusėje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-212961"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad gelonai, prisimindami helenišką kilmę, kasmet siųsdavo į Delą dovanų ir aukų Apolonui."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-197388
-
-<a id="claim-t-215544"></a>
-- t-002
-  teiginys: "Kada įvyko ta revoliucija, privertusi gelonus išvykti iš empo riumų, nėra jokių žinių; tikra tik tai, kad iki Darijaus žygio prieš Skitiją gelonai jau seniai gyveno tarp budi nu, susiliejo su jais ir sudarė vieną tautą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197508
-

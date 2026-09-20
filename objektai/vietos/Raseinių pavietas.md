@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Raseinių pavietas'
+pavadinimas: Raseinių pavietas
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-1523ebb7fa8fa19601fdcd19"
-canonical_name: "Raseinių pavietas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Raseinių pavietas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-1523ebb7fa8fa19601fdcd19
+canonical_name: Raseinių pavietas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Raseinių pavietas
 sameAs: []
-canonical_biography: "Yra nuomonių, kad J. Šimkevičiaus gimtinė buvo kažkur Raseinių paviete."
+canonical_biography: 'Yra nuomonių, kad J. Šimkevičiaus gimtinė buvo kažkur Raseinių paviete.'
 place_authority: true
 historical_names: []
 ---

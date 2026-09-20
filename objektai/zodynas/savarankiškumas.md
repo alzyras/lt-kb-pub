@@ -27,6 +27,26 @@ media_all_json: |-
 
 Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu buvo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jogailai ir jo įpėdiniams, Lenkų karaliams. Tuo būdu Lietuvos savarankiškumas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos. Bajorų pritarimas jam buvo taip pat reikalingas ir siekiant savarankiškumo.
 
+## Teiginiai
+
+<a id="claim-t-70321"></a>
+- t-001
+  teiginys: "Vilniaus-Radomo susitarime Lietuvos savarankiškumas buvo paskelbtas laikinu, galiojančiu tik iki Vytauto mirties."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69365
+
+<a id="claim-t-70322"></a>
+- t-002
+  teiginys: "Vilniaus-Radomo susitarimu buvo patvirtintas Vytauto savarankiškumas, bet po jo mirties Lietuva turėjo grįžti Jogailai ir jo įpėdiniams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69366
+
 ## Citatos
 
 - id: c-69365
@@ -48,7 +68,7 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-69366
@@ -73,26 +93,5 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-70321"></a>
-- t-001
-  teiginys: "Vilniaus-Radomo susitarime Lietuvos savarankiškumas buvo paskelbtas laikinu, galiojančiu tik iki Vytauto mirties."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69365
-
-<a id="claim-t-70322"></a>
-- t-002
-  teiginys: "Vilniaus-Radomo susitarimu buvo patvirtintas Vytauto savarankiškumas, bet po jo mirties Lietuva turėjo grįžti Jogailai ir jo įpėdiniams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69366
-

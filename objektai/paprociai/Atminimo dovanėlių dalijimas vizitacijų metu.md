@@ -1,28 +1,25 @@
 ---
 tipas: paprotys
-pavadinimas: 'Atminimo dovanėlių dalijimas vizitacijų metu'
+pavadinimas: Atminimo dovanėlių dalijimas vizitacijų metu
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 datos:
-  - '1852 m.'
+  - 1852 m.
 date_start: '1852'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Atminimo dovanėlių dalijimas vizitacijų metu
 
@@ -45,24 +42,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-208808"></a>
-- t-001
-  teiginys: "1852 m. Vainuto vizitacijos metu daug žmonių norėjo iš vyskupo Motiejaus Valančiaus rankų gauti atminimo dovanų, tačiau jų visiems neužteko."
-  atnaujinta: "2026-09-13 13:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  temporaliniai_duomenys: "įvykio data: 1852 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įvardytas neaiškus įvardžio „jo“ referentas ir patikslintas įvykio kontekstas. Išlaikyta šaltinyje minima dovanų stygiaus aplinkybė."
-  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
-  pagrindžia:
-    - c-191428
-
 ## Santrauka
 
 Per vizitacijas prie vyskupo Motiejaus Valančiaus grūste grūsdavosi vyskupo ganomieji. 1852 m. Vainuto vizitacijos metu daug žmonių norėjo iš vyskupo Motiejaus Valančiaus rankų gauti atminimo dovanų, tačiau jų visiems neužteko.
@@ -84,6 +63,8 @@ Per vizitacijas prie vyskupo Motiejaus Valančiaus grūste grūsdavosi vyskupo g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-191428
   autorius: "Puzaras, Petras"
@@ -104,6 +85,36 @@ Per vizitacijas prie vyskupo Motiejaus Valančiaus grūste grūsdavosi vyskupo g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+## Teiginiai
+
+<a id="claim-t-208807"></a>
+- t-001
+  teiginys: "Per vizitacijas prie vyskupo Motiejaus Valančiaus grūste grūsdavosi vyskupo ganomieji."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
   pagrindžia:
-    - t-001
+    - c-191427
+
+<a id="claim-t-208808"></a>
+- t-002
+  teiginys: "1852 m. Vainuto vizitacijos metu daug žmonių norėjo iš vyskupo Motiejaus Valančiaus rankų gauti atminimo dovanų, tačiau jų visiems neužteko."
+  atnaujinta: "2026-09-13 13:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  temporaliniai_duomenys: "įvykio data: 1852 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas neaiškus įvardžio „jo“ referentas ir patikslintas įvykio kontekstas. Išlaikyta šaltinyje minima dovanų stygiaus aplinkybė."
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
+  pagrindžia:
+    - c-191428
 

@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Galindų kraštas'
+pavadinimas: Galindų kraštas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8bf5e154249ecf328e0fb627"
-canonical_name: "Galindų kraštas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Galindų kraštas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8bf5e154249ecf328e0fb627
+canonical_name: Galindų kraštas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Galindų kraštas
 sameAs: []
-canonical_biography: "Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, kad jie vos galėjo sutilpti. O jų šalį užpuolė supykdyti kaimynai ir taip nu niokojo, kad Galinda daugeliui metų paliko beveik negyve nama."
+canonical_biography: 'Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, kad jie vos galėjo sutilpti. O jų šalį užpuolė supykdyti kaimynai ir taip nu niokojo, kad Galinda daugeliui metų paliko beveik negyve nama.'
 ---
 # Galindų kraštas
 
@@ -78,7 +77,7 @@ Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200620
@@ -97,6 +96,5 @@ Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -39,6 +39,20 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-202059"></a>
+- t-001
+  teiginys: "Perpirkliai (perkupnykos, przekupnykos) supirkinėjo atvykėlių atgabentas prekes, vašką, medų, grū dus, miltus, apynius, kanapes, linus, kartais miško prekių (pelenų, deguto) nedidelius kiekius ir stengėsi juos brangiau parduoti, dažniausiai eksportines prekių."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185406
+
 ## Citatos
 
 - id: c-185406
@@ -58,20 +72,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202059"></a>
-- t-001
-  teiginys: "Perpirkliai (perkupnykos, przekupnykos) supirkinėjo atvykėlių atgabentas prekes, vašką, medų, grū dus, miltus, apynius, kanapes, linus, kartais miško prekių (pelenų, deguto) nedidelius kiekius ir stengėsi juos brangiau parduoti, dažniausiai eksportines prekių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185406
-

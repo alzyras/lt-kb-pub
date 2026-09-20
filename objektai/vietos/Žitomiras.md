@@ -50,6 +50,38 @@ historical_names: []
 
 ## Teiginiai
 
+<a id="claim-t-182853"></a>
+- t-001
+  teiginys: "1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Ovručas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ovručas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Žodis „paėmė“ tiesiogiai rodo Ovručo užėmimą Vytauto veiksmais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Ovručas (0.92); Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Žitomiras (0.92); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vladimiras (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1394 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą, o įvestyje įvardis pakeistas aiškiu vardu."
+  pagrindžia:
+    - c-166257
+
+<a id="claim-t-194281"></a>
+- t-002
+  teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176873
+
 <a id="claim-t-202523"></a>
 - t-003
   teiginys: "1505 m. Romanovo kaimas kasmet tiekdavo Žitomiro vietininkui 40 kibirų medaus ir 12 lapių kailių."
@@ -72,38 +104,6 @@ historical_names: []
   pagrindžia:
     - c-185882
 
-<a id="claim-t-182853"></a>
-- t-182853
-  teiginys: "1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Ovručas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ovručas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Žodis „paėmė“ tiesiogiai rodo Ovručo užėmimą Vytauto veiksmais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Ovručas (0.92); Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Žitomiras (0.92); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vladimiras (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1394 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą, o įvestyje įvardis pakeistas aiškiu vardu."
-  pagrindžia:
-    - c-166257
-
-<a id="claim-t-194281"></a>
-- t-194281
-  teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176873
-
 ## Citatos
 
 - id: c-166257
@@ -123,8 +123,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-182853
+  pagrindzia:
+    - t-001
 
 - id: c-176873
   autorius: "Michał Baliński"
@@ -161,8 +161,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194281
+  pagrindzia:
+    - t-002
 
 - id: c-185882
   autorius: "Marija Matušakaitė"
@@ -171,9 +171,8 @@ historical_names: []
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:20"
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 ## Ryšiai

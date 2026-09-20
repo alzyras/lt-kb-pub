@@ -1,10 +1,10 @@
 ---
 tipas: saltinis
-pavadinimas: 'Jogailos laiškas kryžiuočių didžiajam magistrui (1431 m.)'
+pavadinimas: Jogailos laiškas kryžiuočių didžiajam magistrui (1431 m.)
 variantai:
-  - 'Jogailos laiškas kryžiuočių didžiajam magistrui'
+  - Jogailos laiškas kryžiuočių didžiajam magistrui
 aliases:
-  - 'Jogailos laiškas kryžiuočių didžiajam magistrui'
+  - Jogailos laiškas kryžiuočių didžiajam magistrui
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -15,12 +15,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Jogailos laiškas kryžiuočių didžiajam magistrui (1431 m.)
 
@@ -63,6 +60,5 @@ Kad prie Jogailos ir jo dvariškių lenkų buvo pastatyta sar gyba, rašė vėli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

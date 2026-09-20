@@ -37,30 +37,12 @@ media_all_json: |-
 
 KH = Kwartalnik Historyczny, žurn.
 
-## Citatos
-
-- id: c-29811
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 18."
-  citata_originali: |
-    KH = Kwartalnik Historyczny, žurn. nuo 1887 m. leidžiamas
-    Lvove, nuo 1945 m. Krokuvoje, nuo 1952 m. Varšuvoje.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-29906"></a>
 - t-001
   teiginys: "„Kwartalnik Historyczny“ yra nuo 1887 m. leidžiamas žurnalas; jis leistas Lvove, Krokuvoje ir Varšuvoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -76,3 +58,20 @@ KH = Kwartalnik Historyczny, žurn.
   pagrindžia:
     - c-29811
 
+## Citatos
+
+- id: c-29811
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 18"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 18."
+  citata_originali: |
+    KH = Kwartalnik Historyczny, žurn. nuo 1887 m. leidžiamas
+    Lvove, nuo 1945 m. Krokuvoje, nuo 1952 m. Varšuvoje.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

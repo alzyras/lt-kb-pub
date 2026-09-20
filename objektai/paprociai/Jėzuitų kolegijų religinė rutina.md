@@ -48,6 +48,26 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-67100"></a>
+- t-001
+  teiginys: "Jėzuitų kolegijose buvo ypač prižiūrima, kad mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67136
+
+<a id="claim-t-67103"></a>
+- t-002
+  teiginys: "Jėzuitų kolegijose buvo prižiūrima, kad mokiniai atliktų religinę praktiką ir lankytų mišias."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67138
+
 ## Citatos
 
 - id: c-67136
@@ -68,7 +88,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-67138
@@ -87,26 +107,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-67100"></a>
-- t-001
-  teiginys: "Jėzuitų kolegijose buvo ypač prižiūrima, kad mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67136
-
-<a id="claim-t-67103"></a>
-- t-002
-  teiginys: "Jėzuitų kolegijose buvo prižiūrima, kad mokiniai atliktų religinę praktiką ir lankytų mišias."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67138
-

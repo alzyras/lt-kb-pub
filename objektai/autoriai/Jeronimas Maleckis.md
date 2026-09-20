@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Jeronimas Maleckis'
+pavadinimas: Jeronimas Maleckis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fdda64683775f7506946639f"
-canonical_name: "Jeronimas Maleckis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Jeronimas Maleckis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fdda64683775f7506946639f
+canonical_name: Jeronimas Maleckis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Jeronimas Maleckis
 sameAs: []
-canonical_biography: "Jeronimas Maleckis dievą Ukapirmą apibūdino kaip dangaus ir žemės dievą."
+canonical_biography: Jeronimas Maleckis dievą Ukapirmą apibūdino kaip dangaus ir žemės dievą.
 ---
 # Jeronimas Maleckis
 
@@ -67,6 +67,5 @@ Jeronimas Maleckis dievą Ukapirmą apibūdino kaip dangaus ir žemės dievą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

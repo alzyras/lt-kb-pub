@@ -34,6 +34,26 @@ canonical_biography: "Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko
 
 Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link, mjr. A. Jakaičio vadovaujamas 10-asis pulkas iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą, dešiniu sparnu siekti.
 
+## Teiginiai
+
+<a id="claim-t-39978"></a>
+- t-001
+  teiginys: "Mjr. A. Jakaitis vadovavo 10-ajam pulkui, kuris iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Augustavas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "A. Jakaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Augustavas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo A. Jakaičio vadovaujamo pulko numatytą žygį į Augustavą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "A. Jakaitis keliavo į Augustavas (0.72)"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-44247
+
 ## Citatos
 
 - id: c-44247
@@ -60,26 +80,5 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-39978"></a>
-- t-001
-  teiginys: "Mjr. A. Jakaitis vadovavo 10-ajam pulkui, kuris iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Augustavas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "A. Jakaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Augustavas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo A. Jakaičio vadovaujamo pulko numatytą žygį į Augustavą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "A. Jakaitis keliavo į Augustavas (0.72)"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-44247
-

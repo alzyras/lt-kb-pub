@@ -36,6 +36,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205353"></a>
+- t-001
+  teiginys: "Vienas gyvas paliktas rusinas buvo išsiųstas pranešti prie Pskovo stovėjusiai pagalbos kariaunai apie tvirtovės užėmimą; ši kariauna išsisklaidė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188009
+
 ## Santrauka
 
 Vienas gyvas paliktas rusinas buvo išsiųstas pranešti prie Pskovo stovėjusiai pagalbos kariaunai apie tvirtovės užėmimą; ši kariauna išsisklaidė.
@@ -60,21 +75,5 @@ Vienas gyvas paliktas rusinas buvo išsiųstas pranešti prie Pskovo stovėjusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205353"></a>
-- t-001
-  teiginys: "Vienas gyvas paliktas rusinas buvo išsiųstas pranešti prie Pskovo stovėjusiai pagalbos kariaunai apie tvirtovės užėmimą; ši kariauna išsisklaidė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-188009
-

@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Frotonas IV'
+pavadinimas: Frotonas IV
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d5f00d8dcfc010f42fa5e053"
-canonical_name: "Frotonas IV"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Frotonas IV"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d5f00d8dcfc010f42fa5e053
+canonical_name: Frotonas IV
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Frotonas IV
 sameAs: []
-canonical_biography: "Frotonas IV, pasak Torfėjo skaičiavimų, valdė maždaug IV amžiaus viduryje."
+canonical_biography: 'Frotonas IV, pasak Torfėjo skaičiavimų, valdė maždaug IV amžiaus viduryje.'
 ---
 # Frotonas IV
 
@@ -71,6 +70,5 @@ Frotonas IV, pasak Torfėjo skaičiavimų, valdė maždaug IV amžiaus viduryje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

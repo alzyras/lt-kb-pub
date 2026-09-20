@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Sevilija (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Sevilija (vieta)
+identifikacija: vieta
 variantai:
-  - 'Sevilija'
+  - Sevilija
 aliases:
-  - 'Sevilija'
+  - Sevilija
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-13ffc9bb7b7adcf1f7421d5f"
-canonical_name: "Sevilija (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Sevilija","Sevilija (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-13ffc9bb7b7adcf1f7421d5f
+canonical_name: Sevilija (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Sevilija
+  - Sevilija (vieta)
 sameAs: []
-canonical_biography: "Narbutas rašo, kad vietovė Paradas buvo visai šalia Sevilijos."
+canonical_biography: 'Narbutas rašo, kad vietovė Paradas buvo visai šalia Sevilijos.'
 ---
 # Sevilija (vieta)
 
@@ -70,6 +70,5 @@ Narbutas rašo, kad vietovė Paradas buvo visai šalia Sevilijos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

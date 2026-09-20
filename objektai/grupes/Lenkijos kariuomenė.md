@@ -1,14 +1,14 @@
 ---
 tipas: grupe
-pavadinimas: 'Lenkijos kariuomenė'
+pavadinimas: Lenkijos kariuomenė
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1919 m.'
-  - '1920 m.'
-  - '2013 m.'
-  - '2026 m.'
+  - 1919 m.
+  - 1920 m.
+  - 2013 m.
+  - 2026 m.
 date_start: '1919'
 date_end: '2026'
 sukurta: ''
@@ -17,20 +17,30 @@ tags:
   - grupe
   - kariuomenė
 amziai:
-  - 'XX'
-  - 'XXI'
+  - XX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:51:21+00:00","source_checked_at":"2026-09-20T03:51:21+00:00","counts":{"relations":3,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"c1d6d493fbe3ff764c1bf913","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"1919 m. birželio 18 d. ignoravo „Maršalo Fošo“ demarkacijos liniją tarp Lenkijos ir Lietuvos kariuomenių.","context":"Šaltinio autorių teiginys apie 1919 m. veiksmus.","support_ids":["t-78201","c-22506"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78201","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-22506","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lietuvai paprašius Antantės demarkuoti lini- ją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5aec612cc38db641318cc443","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Buvo sunaikinta mūšyje prie Cecoros; šiame mūšyje žuvo didysis karūnos etmonas Stanislovas Žolkievskis.","context":"Šaltinio autoriaus aprašymas apie mūšį prie Cecoros; laikas šioje ištraukoje nenurodytas.","support_ids":["t-78202","c-42794"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78202","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-42794","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Lenkijos kariuomenė buvo sunaikinta, žuvo pats didysis karū- nos etmonas, kadaise užėmęs Maskvą, S. Žolkievskis. Po šio pralaimėjimo kilo grėsmė, kad Turkija gali įsiveržti į Lenkiją."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0a72a87cd5c62d01a6a69560","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"1497 m. spalio 26 d. Kozmino miško tarpeklyje ją sumušė moldavų, totorių ir turkų būriai, jai besitraukiant.","context":"Šaltinio autoriaus aprašymas apie 1497 m. spalio 26 d. mūšį.","support_ids":["t-210833","c-193540"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210833","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193540","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Moldavų, totorių ir turkų būriai, pačiam Steponui nedaly­ vaujant. puolė Lenkijos kariuomenę 1497X26 ir sumušė ją besi­ traukiančią 16 km ilgio tarpekliu per vadinamąjį Kozmino mišką i pielus nuo Cernovcų."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.)","claim_id":"t-80681","confidence":0.86},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Valakija","claim_id":"t-183780","confidence":0.9},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Volbožas","claim_id":"t-95922","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 64394a7a190bbc09
+object_page_generated_at: '2026-09-20T03:51:21+00:00'
+object_page_source_checked_at: '2026-09-20T03:51:21+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Lenkijos kariuomenė: Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo…'
+object_page_seo_input_hash: fb3da717eed8e4a8342177146460f2b7344916dc2074ff245284da7b6ba1db9b
+object_page_seo_generated_at: '2026-09-20T03:51:21+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Lenkijos kariuomenė
 
@@ -40,22 +50,10 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 
 ## Teiginiai
 
-<a id="claim-t-210833"></a>
-- t-210833
-  teiginys: "1497 m. spalio 26 d. moldavų, totorių ir turkų būriai sumušė besitraukiančią Lenkijos kariuomenę Kozmino miško tarpeklyje."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193540
-
 <a id="claim-t-78201"></a>
-- t-78201
+- t-001
   teiginys: "Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -72,9 +70,9 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - c-22506
 
 <a id="claim-t-78202"></a>
-- t-78202
+- t-002
   teiginys: "Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Valakija: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -89,9 +87,9 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - c-42794
 
 <a id="claim-t-78204"></a>
-- t-78204
+- t-003
   teiginys: "Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kamenecas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -105,9 +103,9 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - c-75498
 
 <a id="claim-t-78205"></a>
-- t-78205
+- t-004
   teiginys: "Pagal Juzefą Pilsudskį Vilnių užėmė ne Lenkijos kariuomenė, o Lucjano Żeligowskio vadovaujami Vilnijos daliniai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkija: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -125,9 +123,9 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - c-22507
 
 <a id="claim-t-193548"></a>
-- t-193548
+- t-005
   teiginys: "Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi Maskvoje..."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -159,8 +157,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-78201
+  pagrindzia:
+    - t-001
 
 - id: c-22507
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -184,8 +182,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-78205
+  pagrindzia:
+    - t-004
 
 - id: c-42794
   sudarytojas: "Karolis Zikaras"
@@ -208,8 +206,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-78202
+  pagrindzia:
+    - t-002
 
 - id: c-75498
   sudarytojas: "Karolis Zikaras"
@@ -234,8 +232,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-78204
+  pagrindzia:
+    - t-003
 
 - id: c-176228
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -252,27 +250,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193548
-
-- id: c-193540
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 312"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 312."
-  citata_originali: |
-    Moldavų, totorių ir turkų būriai, pačiam Steponui nedaly­
-    vaujant. puolė Lenkijos kariuomenę 1497X26 ir sumušė ją besi­
-    traukiančią 16 km ilgio tarpekliu per vadinamąjį Kozmino mišką
-    i pielus nuo Cernovcų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210833
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Lenkijos kariuomenė keliavo į [[objektai/vietos/Valakija]]

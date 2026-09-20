@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Dysnos apskritis'
+pavadinimas: Dysnos apskritis
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-009cd58f9e240ac857f36b77"
-canonical_name: "Dysnos apskritis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Dysnos apskritis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-009cd58f9e240ac857f36b77
+canonical_name: Dysnos apskritis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Dysnos apskritis
 sameAs: []
-canonical_biography: "23 Infliantų, Zarasų ir Dysnos apskričių karo viršininkui - 100 egz."
+canonical_biography: '23 Infliantų, Zarasų ir Dysnos apskričių karo viršininkui - 100 egz.'
 place_authority: true
 historical_names: []
 ---

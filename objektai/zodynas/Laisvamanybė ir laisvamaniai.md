@@ -67,9 +67,9 @@ Nenurodyta
     - c-00276
 
 <a id="claim-t-10884"></a>
-- t-10884
+- t-002
   teiginys: "Laisvamaniai kartu su griežtesniaisiais tautininkais susibūrė apie Joną Šliūpą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
@@ -91,12 +91,11 @@ Nenurodyta
     sipratimo ir dėl laisvamanybės.
   citata_rodoma: "Dr. Šliūpas visą\ngyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-\nsipratimo ir dėl laisvamanybės."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-00277
@@ -116,6 +115,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-10884
-
+  pagrindzia:
+    - t-002

@@ -1,29 +1,26 @@
 ---
 tipas: ivykis
-pavadinimas: 'Melniko unijos atmetimas 1501 m'
+pavadinimas: Melniko unijos atmetimas 1501 m
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1501 m.'
-  - '1529 m.'
+  - 1501 m.
+  - 1529 m.
 date_start: '1501'
 date_end: '1529'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Melniko unijos atmetimas 1501 m
 
@@ -83,6 +80,5 @@ Lietuvos vyriausybė atmetė 1501 m. Melniko uniją.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

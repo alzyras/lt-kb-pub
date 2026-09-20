@@ -1,18 +1,18 @@
 ---
 tipas: vieta
-pavadinimas: 'Talinas'
+pavadinimas: Talinas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1158 m.'
-  - '1325 m.'
-  - '1609 m.'
-  - '1989 m.'
-  - '1990 m.'
-  - '2026 m.'
+  - 1158 m.
+  - 1325 m.
+  - 1609 m.
+  - 1989 m.
+  - 1990 m.
+  - 2026 m.
 date_start: '1158'
 date_end: '2026'
 sukurta: ''
@@ -22,29 +22,41 @@ tags:
   - pilis
   - vieta
 amziai:
-  - 'XII'
-  - 'XXI'
+  - XII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8b98a25b394109fbde2849f1"
-canonical_name: "Talinas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Talinas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8b98a25b394109fbde2849f1
+canonical_name: Talinas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Talinas
 sameAs: []
-canonical_biography: "Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos (Eželio) vyskupystę."
+canonical_biography: 'Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos (Eželio) vyskupystę.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Talinas","url":"https://lt.wikipedia.org/wiki/Talinas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Talinas","url":"https://www.vle.lt/straipsnis/talinas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:16:47+00:00","source_checked_at":"2026-09-19T19:16:47+00:00","counts":{"relations":3,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Talinas","url":"https://lt.wikipedia.org/wiki/Talinas","publisher":"Vikipedija","language":"lt","article_id":"7482","revision_id":"7892589","published_at":"2026-08-03T01:52:22Z","version_pk":"","content_hash":"348577be828c7120beb1ac8e3e810c90c66d3a858dea7dd6f3bddf4d22a24106","retrieved_at":"2026-09-19T19:16:00+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Talinas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"7482"}},"intro":"Talinas (est. Tallinn) – Estijos sostinė ir svarbiausias uostas, įsikūręs šalies šiaurėje, prie Baltijos jūros Suomių įlankos, 80 km į pietus nuo Helsinkio. Miestas turi 3 istorines dalis:","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Talinas","url":"https://lt.wikipedia.org/wiki/Talinas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Talinas","url":"https://www.vle.lt/straipsnis/talinas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Talinas","https://www.vle.lt/straipsnis/talinas/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Hermano bokštas","claim_id":"t-21441","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Švedai","claim_id":"t-43877","confidence":0.78},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Eilartas fon Hobergas","claim_id":"t-183737","confidence":0.7}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ac499d2d0f26c104
+object_page_generated_at: '2026-09-19T19:16:47+00:00'
+object_page_source_checked_at: '2026-09-19T19:16:47+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Talinas: Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o Danai — buvusias Kuršo…'
+object_page_seo_input_hash: abd57b9b24b3b0b441493cb3ff9d819b2593f5039689fd87dd6452b892ed4108
+object_page_seo_generated_at: '2026-09-19T19:16:47+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Talinas
 
@@ -73,34 +85,10 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   pagrindžia:
     - c-124187
 
-<a id="claim-t-207802"></a>
-- t-207802
-  teiginys: "Beveik visa Uždauguvio Livonija, be Rygos ir Talino, atsidūrė Maskvos rankose."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190585
-
-<a id="claim-t-212363"></a>
-- t-212363
-  teiginys: "Revelyje, arba Taline, tuo metu gyveno A. F. Kocebus."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195619
-
 <a id="claim-t-136208"></a>
-- t-136208
+- t-002
   teiginys: "1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sujungė Vilnių, Rygą ir Taliną rankomis susikibusių žmonių grandine."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -117,9 +105,9 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - c-124186
 
 <a id="claim-t-136209"></a>
-- t-136209
+- t-003
   teiginys: "Rusų tautybės gyventojams buvo lengviau keltis į Taliną, nes jame vyravo jiems sava rusakalbė aplinka."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Rusai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -136,9 +124,9 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - c-124188
 
 <a id="claim-t-136210"></a>
-- t-136210
+- t-004
   teiginys: "Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tartu: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -152,9 +140,9 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - c-124189
 
 <a id="claim-t-136212"></a>
-- t-136212
+- t-005
   teiginys: "1609 m. kovo 16 d. Jonas Karolis Chodkevičius sužinojo, kad iš Talino išsiųstas švedų pastiprinimas buvo 50 km nuo Piarnu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Piarnu: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -172,9 +160,9 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - c-124185
 
 <a id="claim-t-205134"></a>
-- t-205134
+- t-006
   teiginys: "Atrodo, kad šis posakis būdingas net ir to limesniems Baltijos jūros pakrantės gyventojams ir yra vartojamas, kuo įsitikinau lankydamasis Klaipėdoje, Ry goje, Pernu, Taline, Kronštate, Fredrikshamne ir Sveaborge 1806—1810 metais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -213,8 +201,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-136212
+  pagrindzia:
+    - t-005
 
 - id: c-124186
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -245,8 +233,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-136208
+  pagrindzia:
+    - t-002
 
 - id: c-124187
   autorius: "Michał Baliński"
@@ -263,12 +251,11 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     gonybę, Baltijos pakrantėse pagausino miestų ir pilių.
   citata_rodoma: "Revelis [Talinas] už savo\natsiradimą dar anksčiau turi būti dėkingas danams. Teutonų\nordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­\ngonybę, Baltijos pakrantėse pagausino miestų ir pilių."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-124188
@@ -294,8 +281,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-136209
+  pagrindzia:
+    - t-003
 
 - id: c-124189
   autorius: "Zenonas Ivinskis"
@@ -311,8 +298,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-136210
+  pagrindzia:
+    - t-004
 
 - id: c-187935
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -336,43 +323,5 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205134
-
-- id: c-190585
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 183"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 183."
-  citata_originali: |
-    Stepono Batoro valdymo pradžia buvo sudėtinga. 1576 m. didelė Rusijos kariuo-
-    menė, vadovaujama Ivano IV, įsiveržė į Livoniją, maždaug per metus buvo užimtos
-    Daugpilio, Rēzeknes, Cėsio ir kitos pilys. Beveik visa Uždauguvio Livonija, be Rygos ir
-    Talino, atsidūrė Maskvos rankose.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207802
-
-- id: c-195619
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 466"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 466."
-  citata_originali: |
-    Susitikimas su tuo metu Revelyje (Taline) gyvenusiu
-    garsiu vokiečių literatu, Rusijos imperatoriaus dvariškiu Augustu
-    Frideriku Kocebum
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212363
-
+  pagrindzia:
+    - t-006

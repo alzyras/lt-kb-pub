@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Puodelis (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Puodelis (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Puodelis'
+  - Puodelis
 aliases:
-  - 'Puodelis'
+  - Puodelis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Puodelis (daiktas)
 
@@ -80,6 +77,5 @@ Viršaitis tuo krauju šlaksto žmo nes, o likutį išsidalija į puodelius ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

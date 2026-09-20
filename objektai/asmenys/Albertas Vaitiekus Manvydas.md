@@ -45,6 +45,20 @@ canonical_biography: "Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių 
 
 Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių bendradarbių.
 
+## Teiginiai
+
+<a id="claim-t-194126"></a>
+- t-001
+  teiginys: "Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių bendradarbių."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-176739
+
 ## Citatos
 
 - id: c-176739
@@ -64,4 +78,5 @@ Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

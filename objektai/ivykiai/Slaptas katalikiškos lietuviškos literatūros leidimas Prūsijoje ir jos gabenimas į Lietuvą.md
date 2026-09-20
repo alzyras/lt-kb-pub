@@ -1,8 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Slaptas katalikiškos lietuviškos literatūros leidimas Prūsijoje ir jos gabenimas į Lietuvą'
+pavadinimas: Slaptas katalikiškos lietuviškos literatūros leidimas Prūsijoje ir jos gabenimas į Lietuvą
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Slaptas katalikiškos lietuviškos literatūros leidimas Prūsijoje ir jos gabenimas į Lietuvą
 
@@ -35,20 +32,6 @@ Nenurodyta
 
 ## Rezultatas
 Nenurodyta
-
-## Teiginiai
-
-<a id="claim-t-208756"></a>
-- t-001
-  teiginys: "Vysk. M. Valančius pats suorganizavo slaptą katalikiškos lietuviškos literatūros leidimą Prūsijoje ir jos gabenimą į Lietuvą."
-  atnaujinta: "2026-09-13 13:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191376
 
 ## Santrauka
 
@@ -74,6 +57,19 @@ Vysk. M. Valančius pats suorganizavo slaptą katalikiškos lietuviškos literat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
+## Teiginiai
+
+<a id="claim-t-208756"></a>
+- t-001
+  teiginys: "Vysk. M. Valančius pats suorganizavo slaptą katalikiškos lietuviškos literatūros leidimą Prūsijoje ir jos gabenimą į Lietuvą."
+  atnaujinta: "2026-09-13 13:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191376
 

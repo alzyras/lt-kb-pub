@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kafos užėmimas turkų (1475 m.)'
+pavadinimas: Kafos užėmimas turkų (1475 m.)
 variantai:
-  - 'Kafos užėmimas turkų'
+  - Kafos užėmimas turkų
 aliases:
-  - 'Kafos užėmimas turkų'
+  - Kafos užėmimas turkų
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1475 m.'
+  - 1475 m.
 date_start: '1475'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kafos užėmimas turkų (1475 m.)
 
@@ -80,6 +77,5 @@ Turkų desantas pradėjo apšaudyti Kafą 1475 m. birželio 1 d.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

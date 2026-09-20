@@ -63,11 +63,9 @@ Harum Testimonio Literarum, quibus Sigill um Nostrum Mag­ ni Ducatus Litbvaniae
     oriensi, Venceslao Mednicensi, Episcopis; et Magnificis Ge-
     nerosisque Joan ... Vilnen.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

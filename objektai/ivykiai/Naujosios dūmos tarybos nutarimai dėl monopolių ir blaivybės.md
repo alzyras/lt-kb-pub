@@ -2,33 +2,30 @@
 tipas: ivykis
 pavadinimas: 'Naujosios dūmos tarybos nutarimai dėl monopolių ir blaivybės (institucija, XIV a.)'
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1368 m.'
-  - '1935 m.'
+  - 1368 m.
+  - 1935 m.
 date_start: '1368'
 date_end: '1935'
 variantai:
-  - 'Naujosios dūmos tarybos nutarimai dėl monopolių ir blaivybės'
+  - Naujosios dūmos tarybos nutarimai dėl monopolių ir blaivybės
 aliases:
-  - 'Naujosios dūmos tarybos nutarimai dėl monopolių ir blaivybės'
+  - Naujosios dūmos tarybos nutarimai dėl monopolių ir blaivybės
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
-  - 'XX'
+  - XIV
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Naujosios dūmos tarybos nutarimai dėl monopolių ir blaivybės (institucija, XIV a.)
 
@@ -73,4 +70,21 @@ Naujoji dūmos taryba pasiūlė blaivybės draugijoms steigti nereikalauti leidi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-209355"></a>
+- t-001
+  teiginys: "Naujoji dūmos taryba pasiūlė blaivybės draugijoms steigti nereikalauti leidimo arba apsiriboti pranešimu apie jų įsikūrimą."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
+  pagrindžia:
+    - c-192009
 

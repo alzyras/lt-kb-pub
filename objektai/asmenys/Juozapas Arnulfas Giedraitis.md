@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Juozapas Arnulfas Giedraitis'
+pavadinimas: Juozapas Arnulfas Giedraitis
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 datos:
-  - '1819 m.'
+  - 1819 m.
 date_start: '1819'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e2cb4ee595ca83a9bc4ea2a7"
-canonical_name: "Juozapas Arnulfas Giedraitis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Juozapas Arnulfas Giedraitis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e2cb4ee595ca83a9bc4ea2a7
+canonical_name: Juozapas Arnulfas Giedraitis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Juozapas Arnulfas Giedraitis
 sameAs: []
-canonical_biography: "1819 m. Juozapas Arnulfas Giedraitis vizitavo Kalnalio filijos bažnyčią."
+canonical_biography: 1819 m. Juozapas Arnulfas Giedraitis vizitavo Kalnalio filijos bažnyčią.
 ---
 # Juozapas Arnulfas Giedraitis
 

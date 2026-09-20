@@ -46,6 +46,27 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-67060"></a>
+- t-001
+  teiginys: "Nustojus vesti blaivybės brolijų narių knygas, blaivybė nesusilpnėjo, o parapijonys statė kryžius ir paminklus jai paminėti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-67110
+
+<a id="claim-t-67061"></a>
+- t-002
+  teiginys: "XIX a. viduryje Lietuvos blaivybės skelbimas labiausiai paplito vyskupo Motiejaus Valančiaus valdomoje Žemaičių vyskupystėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67111
+
 ## Citatos
 
 - id: c-67110
@@ -77,7 +98,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-67111
@@ -100,27 +121,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-67060"></a>
-- t-001
-  teiginys: "Nustojus vesti blaivybės brolijų narių knygas, blaivybė nesusilpnėjo, o parapijonys statė kryžius ir paminklus jai paminėti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-67110
-
-<a id="claim-t-67061"></a>
-- t-002
-  teiginys: "XIX a. viduryje Lietuvos blaivybės skelbimas labiausiai paplito vyskupo Motiejaus Valančiaus valdomoje Žemaičių vyskupystėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67111
-

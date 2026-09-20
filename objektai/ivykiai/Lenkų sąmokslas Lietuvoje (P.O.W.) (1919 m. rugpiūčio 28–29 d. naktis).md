@@ -43,6 +43,37 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-66659"></a>
+- t-001
+  teiginys: "1919 m. rugpjūčio 28–29 d. naktį Lietuvos saugumo organai atliko kratą P.O.W. centre Kaune, areštavo vadus ir sužlugdė sukilimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66856
+
+<a id="claim-t-66660"></a>
+- t-002
+  teiginys: "P.O.W. organizacija rengė sukilimą Lietuvoje ir siekė į savo pusę patraukti karininkus bei kareivius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-66855
+
+<a id="claim-t-66661"></a>
+- t-003
+  teiginys: "Po P.O.W. sąmokslo Lietuvoje 117 sąmokslininkų 1920 m. gruodžio 11–24 d. buvo teisti kariuomenės teismo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-14T06:48:43Z"
+  pagrindžia:
+    - c-66858
+
 ## Citatos
 
 - id: c-66855
@@ -62,7 +93,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-66856
@@ -83,7 +114,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-66858
@@ -104,37 +135,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-66659"></a>
-- t-001
-  teiginys: "1919 m. rugpjūčio 28–29 d. naktį Lietuvos saugumo organai atliko kratą P.O.W. centre Kaune, areštavo vadus ir sužlugdė sukilimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66856
-
-<a id="claim-t-66660"></a>
-- t-002
-  teiginys: "P.O.W. organizacija rengė sukilimą Lietuvoje ir siekė į savo pusę patraukti karininkus bei kareivius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-66855
-
-<a id="claim-t-66661"></a>
-- t-003
-  teiginys: "Po P.O.W. sąmokslo Lietuvoje 117 sąmokslininkų 1920 m. gruodžio 11–24 d. buvo teisti kariuomenės teismo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-14T06:48:43Z"
-  pagrindžia:
-    - c-66858
-

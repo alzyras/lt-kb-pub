@@ -49,6 +49,24 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-59531"></a>
+- t-001
+  teiginys: "Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pieštvė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigėdos ir Pieštvės pilių papilių sudeginimas (1298 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Pieštvė: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigėdos ir Pieštvės pilių papilių sudeginimas (1298 m.)\" parinktas kaip owner_note_path. Targetas \"Pieštvė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60163
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius.'
@@ -99,20 +117,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-222340"></a>
-- t-001
-  teiginys: "Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pieštvė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Junigėdos ir Pieštvės pilių papilių sudeginimas (1298 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Pieštvė: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigėdos ir Pieštvės pilių papilių sudeginimas (1298 m.)\" parinktas kaip owner_note_path. Targetas \"Pieštvė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
+  pagrindzia:
+    - t-001

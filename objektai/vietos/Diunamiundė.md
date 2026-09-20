@@ -42,6 +42,44 @@ historical_names: []
 
 Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 viešpaties metais, kitą dieną po švento Jokūbo, apaštalo (liepos 26), Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį599. Dusburgietis teigia, kad 599 D.— Dunemunde; vėliau vok. Dünemünde, dab. Veca Daugavgryva; XIII a. Ordino statytas įtvirtintas vienuolynas buvo XIV a. pradžioje perstatytas į pilį (Tuulse A., Die Burgen..., p. 268—270). Vienuolyno ir įtvirtinimų griuvėsiai išlikę prie senųjų Dauguvos.
 
+## Teiginiai
+
+<a id="claim-t-58538"></a>
+- t-001
+  teiginys: "Diunamiundėje XIII a. Ordino statytas įtvirtintas vienuolynas XIV a. pradžioje buvo perstatytas į pilį."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dauguva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Diunamiundė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dauguva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Diunamiundė\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59171
+
+<a id="claim-t-58539"></a>
+- t-002
+  teiginys: "1305 m. liepos 26 d. Livonijos Teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Teutonai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Diunamiundė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Įsigijimas tiesiogiai rodo, kad Diunamiundės pilis tapo Teutonų ordino brolių nuosavybe."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Diunamiundė priklausė Teutonai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1305 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veikėją ir Diunamiundės pilies įsigijimą."
+  pagrindžia:
+    - c-59170
+
 ## Citatos
 
 - id: c-59170
@@ -64,6 +102,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-59171
   autorius: "Petras Dusburgietis"
@@ -80,60 +120,5 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-204354
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
-  citata_originali: |
-    599 D.— Dunemunde; vėliau vok. Dünemünde, dab. Veca Daugavgryva; XIII a. Ordino
-    statytas įtvirtintas vienuolynas buvo XIV a. pradžioje perstatytas  į pilį (Tuulse A., Die
-    Burgen..., p. 268—270). Vienuolyno ir įtvirtinimų griuvėsiai išlikę prie senųjų Dauguvos
-    žiočių, į šiaurę nuo Rygos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-221701"></a>
-- t-001
-  teiginys: "Diunamiundėje XIII a. Ordino statytas įtvirtintas vienuolynas XIV a. pradžioje buvo perstatytas į pilį."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dauguva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Diunamiundė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dauguva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Diunamiundė\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204354
-
-<a id="claim-t-223488"></a>
-- t-002
-  teiginys: "1305 m. liepos 26 d. Livonijos Teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Teutonai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Diunamiundė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Įsigijimas tiesiogiai rodo, kad Diunamiundės pilis tapo Teutonų ordino brolių nuosavybe."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Diunamiundė priklausė Teutonai (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1305 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veikėją ir Diunamiundės pilies įsigijimą."
-

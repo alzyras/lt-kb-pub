@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Nikolajus I'
+pavadinimas: Nikolajus I
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1855 m.'
+  - 1855 m.
 date_start: '1855'
 date_end: ''
 sukurta: ''
@@ -14,28 +14,41 @@ tags:
   - asmuo
   - karalius
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a338edc63684ae6449bad781"
-canonical_name: "Nikolajus I"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Nikolajus I"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a338edc63684ae6449bad781
+canonical_name: Nikolajus I
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Nikolajus I
 sameAs: []
-canonical_biography: "Čartoriskis, susiaurintos Vilniaus švietimo apygardos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją policiją. Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai."
+canonical_biography: 'Čartoriskis, susiaurintos Vilniaus švietimo apygardos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją policiją. Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai.'
+external_sources_json: '[{"title":"Nikolajus I","url":"https://lt.wikipedia.org/wiki/Nikolajus_I","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Nikolajus I","url":"https://www.vle.lt/straipsnis/nikolajus-i/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:32:25+00:00","source_checked_at":"2026-09-20T03:32:25+00:00","counts":{"relations":0,"gallery":0,"sources":5},"featured_claim_ids":["t-208525","t-82634","t-82635","t-208526","t-208524"],"featured_claims":[{"claim_id":"t-208525","text":"Valdant carui Nikolajui I, Kauno gubernijoje uždaryti 29 vienuolynai, trys katalikų bažnyčios paverstos cerkvėmis, uždarytos katalikiškos mokyklos ir atimtas bažnyčių turtas.","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","evidence_ids":["c-191145"]},{"claim_id":"t-82634","text":"Įkūrus slaptąją policiją, caro Nikolajaus I priežiūra Vilniaus švietimo apygardoje tapo dar akylesnė.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-21921"]},{"claim_id":"t-82635","text":"Po Nikolajaus I mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-79097"]},{"claim_id":"t-208526","text":"Valdant carui Nikolajui I, 1832 m. įvesta civilinė pamokslų cenzūra.","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","evidence_ids":["c-191146"]},{"claim_id":"t-208524","text":"Valančiui pradėjus valdyti vyskupiją, Rusijos caru buvo Nikolajus I (1825–1855), kurį Valančius laikė daug bloga katalikams padariusiu.","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","evidence_ids":["c-191144"]}],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Nikolajus I","url":"https://lt.wikipedia.org/wiki/Nikolajus_I","publisher":"Vikipedija","language":"lt","article_id":"150411","revision_id":"7573448","published_at":"2025-06-03T19:07:02Z","version_pk":"","content_hash":"160e6f287212879868b1f2517cb2c8a6afcc8db031d48b0ec4da3efdf3c50cc4","retrieved_at":"2026-09-20T03:30:19+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Nikolajus_I&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"150411"}},"intro":"Nikolajus I (kitaip dar – Mikalojus I, rus. Николай I Павлович; lietuviškai dar vadinamas – Mikalojus I; 1796 m. liepos 6 d. [pagal J.K.: birželio 25 d.] – 1855 m. kovo 2 d. [pagal J.K.: vasario 18 d.]) – nuo 1825 iki 1855 metų buvo Rusijos imperatorius. Jis žinomas kaip vienas iš reakcingiausių Rusijos monarchų. Nikolajus I taip pat buvo ir Lenkijos karaliumi iki pašalinimo iš sosto 1831 m.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1796 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Sankt Peterburgas","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1855 m.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Sankt Peterburgas","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Petropavlovsko tvirtovė, Sankt Peterburgas","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Pavelas I; Marija Fiodorovna","source":"wikipedia_infobox"},{"code":"spouse","label":"Sutuoktiniai","value":"Šarlotė Prūsietė (Alekandra Fiodorovna)","source":"wikipedia_infobox"},{"code":"children","label":"Vaikai","value":"Aleksandras II, · Marija, · Olga, · Aleksandra, · Konstantinas, · Nikolajus, · Michailas","source":"wikipedia_infobox"},{"code":"positions","label":"Pareigos","value":"35px|left Rusijos imperatorius; 35px|left Lenkijos karalius; 35px|left Suomijos kunigaištis","source":"wikipedia_infobox"},{"code":"reign","label":"Valdymas","value":"1825 m. – 1855 m.; 1825 m. – 1831 m.","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Nikolajus I","url":"https://lt.wikipedia.org/wiki/Nikolajus_I","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Nikolajus I","url":"https://www.vle.lt/straipsnis/nikolajus-i/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Nikolajus_I","https://www.vle.lt/straipsnis/nikolajus-i/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"39142299501c873fbce0db10","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Rusijos caras (1825–1855 m.)","context":"Šaltinis Nikolajų I tiesiogiai įvardija Rusijos caru; nurodoma, kad jo valdymo metu Kauno gubernijoje buvo uždaryti vienuolynai, bažnyčios paverstos cerkvėmis, uždarytos katalikiškos mokyklos ir įvesta pamokslų cenzūra.","support_ids":["t-208524","c-191144","t-208525","c-191145","t-208526","c-191146"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208524","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"internal_claim","claim_id":"t-208525","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"internal_claim","claim_id":"t-208526","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"evidence","evidence_id":"c-191144","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Vysk. M. Valančiui pradėjus valdyti vyskupiją, Ru­ sijos caru buvo Nikolajus I (1825—1855 m.) ''. Apie jį vysk. M. Valančius rašė, kad jis yra daug pikta katali­ kams padaręs 1 2."},{"kind":"evidence","evidence_id":"c-191145","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Valdant Rusiją carui Nikolajui I, Kauno gubernijoje buvo uždaryti dvidešimt devyni vienuolynai, trys kata­ likų bažnyčios paverstos stačiatikių cerkvėmis, uždarytos katalikiškos mokyklos, atimti iš bažnyčių turtai, palie­ kant mažas algas ir po žemės sklypelį tik vyskupui, ka­ nauninkams, vienuolynams, seminarijai ir klebonams5."},{"kind":"evidence","evidence_id":"c-191146","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Dar valdant carui Nikolajui I, 1832 m. buvo įvesta civilinės valdžios pamokslų cenzūra."}],"status":"published","conflict_status":"clear"},{"trait_id":"0b513b53f1cb5ccb4d25cd95","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Vyskupas Motiejus Valančius laikė Nikolajų I daug bloga katalikams padariusiu.","context":"Tai ne neutrali autoriaus išvada, o šaltinyje perteiktas vyskupo Motiejaus Valančiaus vertinimas; jis siejamas su Nikolajaus I valdymu 1825–1855 m.","support_ids":["t-208524","c-191144"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208524","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"evidence","evidence_id":"c-191144","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Vysk. M. Valančiui pradėjus valdyti vyskupiją, Ru­ sijos caru buvo Nikolajus I (1825—1855 m.) ''. Apie jį vysk. M. Valančius rašė, kad jis yra daug pikta katali­ kams padaręs 1 2."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"published","text":"Nikolajus I buvo Rusijos caras, valdęs 1825–1855 m. Jo valdymo laikotarpiu Vilniaus švietimo apygardoje sustiprėjo caro priežiūra, ypač įkūrus slaptąją policiją, o iš pareigų buvo šalinami politiškai nepatikimi veikėjai. Kauno gubernijoje ši politika turėjo ryškų poveikį katalikų gyvenimui: uždaryti 29 vienuolynai, trys katalikų bažnyčios paverstos stačiatikių cerkvėmis, uždarytos katalikiškos mokyklos ir apribotas bažnyčių turtas. 1832 m. valdant Nikolajui I įvesta civilinės valdžios pamokslų cenzūra, dar labiau sustiprinusi religinės veiklos kontrolę. Po jo mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos, žyminčios šio valdymo laikotarpio pabaigą.","sentences":[{"sentence_id":"s1","text":"Nikolajus I buvo Rusijos caras, valdęs 1825–1855 m.","support_ids":["t-208524","c-191144"]},{"sentence_id":"s2","text":"Jo valdymo laikotarpiu Vilniaus švietimo apygardoje sustiprėjo caro priežiūra, ypač įkūrus slaptąją policiją, o iš pareigų buvo šalinami politiškai nepatikimi veikėjai.","support_ids":["t-82634","c-21921"]},{"sentence_id":"s3","text":"Kauno gubernijoje ši politika turėjo ryškų poveikį katalikų gyvenimui: uždaryti 29 vienuolynai, trys katalikų bažnyčios paverstos stačiatikių cerkvėmis, uždarytos katalikiškos mokyklos ir apribotas bažnyčių turtas.","support_ids":["t-208525","c-191145"]},{"sentence_id":"s4","text":"1832 m. valdant Nikolajui I įvesta civilinės valdžios pamokslų cenzūra, dar labiau sustiprinusi religinės veiklos kontrolę.","support_ids":["t-208526","c-191146"]},{"sentence_id":"s5","text":"Po jo mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos, žyminčios šio valdymo laikotarpio pabaigą.","support_ids":["t-82635","c-79097"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniu: Nikolajus I buvo Rusijos caras 1825–1855 m."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad buvo šalinami politiškai nepatikimi profesoriai, o priežiūra sustiprėjo įkūrus slaptąją policiją."},{"sentence_id":"s3","supported":true,"reason":"Visi konkretūs teiginio faktai tiesiogiai paremti šaltiniu apie Kauno guberniją."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad 1832 m. įvesta civilinės valdžios pamokslų cenzūra; kontrolės sustiprėjimas yra logiška išvada."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai sieja 1855 m. Nikolajaus I mirtį, pralaimėjimą Krymo kare ir imperijoje prasidėjusias reformas."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-208524","c-191144"]},{"sentence_id":"s2","supported":true,"support_ids":["t-82634","c-21921"]},{"sentence_id":"s3","supported":true,"support_ids":["t-208525","c-191145"]},{"sentence_id":"s4","supported":true,"support_ids":["t-208526","c-191146"]},{"sentence_id":"s5","supported":true,"support_ids":["t-82635","c-79097"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[{"date":"1832 m.","label":"Valdant carui Nikolajui I, 1832 m.","claimId":"t-208526"},{"date":"1855 m.","label":"1855 m., po caro Nikolajaus I mirties ir Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.","claimId":"t-82633"},{"date":"1855 m.","label":"Po Nikolajaus I mirties 1855 m.","claimId":"t-82635"}],"support_disclosure":{"claims":6,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a9e4f63620437b22
+object_page_generated_at: '2026-09-20T03:32:25+00:00'
+object_page_source_checked_at: '2026-09-20T03:32:25+00:00'
+object_page_summary_support_json: '[{"sentence_id":"s1","text":"Nikolajus I buvo Rusijos caras, valdęs 1825–1855 m.","support_ids":["t-208524","c-191144"]},{"sentence_id":"s2","text":"Jo valdymo laikotarpiu Vilniaus švietimo apygardoje sustiprėjo caro priežiūra, ypač įkūrus slaptąją policiją, o iš pareigų buvo šalinami politiškai nepatikimi veikėjai.","support_ids":["t-82634","c-21921"]},{"sentence_id":"s3","text":"Kauno gubernijoje ši politika turėjo ryškų poveikį katalikų gyvenimui: uždaryti 29 vienuolynai, trys katalikų bažnyčios paverstos stačiatikių cerkvėmis, uždarytos katalikiškos mokyklos ir apribotas bažnyčių turtas.","support_ids":["t-208525","c-191145"]},{"sentence_id":"s4","text":"1832 m. valdant Nikolajui I įvesta civilinės valdžios pamokslų cenzūra, dar labiau sustiprinusi religinės veiklos kontrolę.","support_ids":["t-208526","c-191146"]},{"sentence_id":"s5","text":"Po jo mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos, žyminčios šio valdymo laikotarpio pabaigą.","support_ids":["t-82635","c-79097"]}]'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '3'
+object_page_seo_description: 'Nikolajus I buvo Rusijos caras, valdęs 1825–1855 m. Jo valdymo laikotarpiu Vilniaus švietimo apygardoje sustiprėjo caro priežiūra, ypač įkūrus slaptąją…'
+object_page_seo_input_hash: 4de1d1d3d79609f9f6fd5cc0d04b32b038ddcb1d27aa2ebf57a3cefdb52428bc
+object_page_seo_generated_at: '2026-09-20T03:32:25+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Nikolajus I
 
@@ -45,51 +58,10 @@ canonical_biography: "Čartoriskis, susiaurintos Vilniaus švietimo apygardos ri
 
 ## Teiginiai
 
-<a id="claim-t-208524"></a>
-- t-208524
-  teiginys: "Valančiui pradėjus valdyti vyskupiją, Rusijos caru buvo Nikolajus I (1825–1855), kurį Valančius laikė daug bloga katalikams padariusiu."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
-  pagrindžia:
-    - c-191144
-
-<a id="claim-t-208525"></a>
-- t-208525
-  teiginys: "Valdant carui Nikolajui I, Kauno gubernijoje uždaryti 29 vienuolynai, trys katalikų bažnyčios paverstos cerkvėmis, uždarytos katalikiškos mokyklos ir atimtas bažnyčių turtas."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
-  pagrindžia:
-    - c-191145
-
-<a id="claim-t-208526"></a>
-- t-208526
-  teiginys: "Valdant carui Nikolajui I, 1832 m. įvesta civilinė pamokslų cenzūra."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  temporaliniai_duomenys: "įvykio data: 1832 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra užbaigtas, gramatiškas ir tiesiogiai nurodo 1832 m. įvestą civilinę pamokslų cenzūrą."
-  pagrindžia:
-    - c-191146
-
 <a id="claim-t-82633"></a>
-- t-82633
+- t-001
   teiginys: "1855 m., po caro Nikolajaus I mirties ir Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krymas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -106,9 +78,9 @@ canonical_biography: "Čartoriskis, susiaurintos Vilniaus švietimo apygardos ri
     - c-79097
 
 <a id="claim-t-82634"></a>
-- t-82634
+- t-002
   teiginys: "Įkūrus slaptąją policiją, caro Nikolajaus I priežiūra Vilniaus švietimo apygardoje tapo dar akylesnė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -122,9 +94,9 @@ canonical_biography: "Čartoriskis, susiaurintos Vilniaus švietimo apygardos ri
     - c-21921
 
 <a id="claim-t-82635"></a>
-- t-82635
+- t-003
   teiginys: "Po Nikolajaus I mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krymas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -162,8 +134,8 @@ canonical_biography: "Čartoriskis, susiaurintos Vilniaus švietimo apygardos ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82634
+  pagrindzia:
+    - t-002
 
 - id: c-79097
   autorius: "Michał Baliński"
@@ -187,71 +159,6 @@ canonical_biography: "Čartoriskis, susiaurintos Vilniaus švietimo apygardos ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82633
-    - t-82635
-
-- id: c-191144
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 16"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 16."
-  citata_originali: |
-    Kauno gubernatorius buvo pavaldus
-    Vilniaus generalgubernatoriui, o Kuršo gubernatorius —
-    Rygos generalgubernatoriui.
-    Vysk. M. Valančiui pradėjus valdyti vyskupiją, Ru­
-    sijos caru buvo Nikolajus I (1825—1855 m.) '. Apie jį
-    vysk. M. Valančius rašė, kad jis yra daug pikta katali­
-    kams padaręs 1 2.
-  citata_rodoma: "Vysk. M. Valančiui pradėjus valdyti vyskupiją, Ru­\nsijos caru buvo Nikolajus I (1825—1855 m.) '. Apie jį \nvysk. M. Valančius rašė, kad jis yra daug pikta katali­\nkams padaręs 1 2."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208524
-
-- id: c-191145
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 16"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 16."
-  citata_originali: |
-    Valdant Rusiją carui Nikolajui I, Kauno gubernijoje
-    buvo uždaryti dvidešimt devyni vienuolynai, trys kata­
-    likų bažnyčios paverstos stačiatikių cerkvėmis, uždarytos
-    katalikiškos mokyklos, atimti iš bažnyčių turtai, palie­
-    kant mažas algas ir po žemės sklypelį tik vyskupui, ka­
-    nauninkams, vienuolynams, seminarijai ir klebonams5.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208525
-
-- id: c-191146
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 30"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 30."
-  citata_originali: |
-    Dar valdant carui Nikolajui I, 1832 m. buvo
-    įvesta civilinės valdžios pamokslų cenzūra.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208526
-
+  pagrindzia:
+    - t-001
+    - t-003

@@ -45,17 +45,22 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-224877"></a>
-- t-224877
-  teiginys: "Otonas, Braunšveigo valdovas ir kunigaikštis, atvyko į Prūsiją su daugybe maldininkų."
-  atnaujinta: "2026-09-13 11:42"
+<a id="claim-t-62217"></a>
+- t-001
+  teiginys: "Braunšveigo kunigaikštis Otonas su daugybe maldininkų atvyko į Prūsiją padėti sunkioje padėtyje atsidūrusiems broliams."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Otonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Otoną atvykus į Prūsijos žemę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-203721
+    - c-62703
 
 ## Citatos
 
@@ -82,23 +87,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-203721
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 81"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
-  citata_originali: |
-    Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera
-    žinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe
-    maldininkų atvyko kilnusis ir pamaldusis Otonas, šviesusis Braunšveigo valdovas ir
-    kunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo253.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224877
-
+  pagrindzia:
+    - t-001

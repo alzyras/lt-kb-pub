@@ -49,6 +49,18 @@ Pašušvis šiame šaltinyje minimas kaip vieta, kur gyveno puodus lipdęs ir kr
 
 Pašušvis šiame šaltinyje yra gyvenvietė ar vietovė.
 
+## Teiginiai
+
+<a id="claim-t-195658"></a>
+- t-001
+  teiginys: "Pašušvyje gyveno vokietis Škobaras, lipdęs puodus ir mūrijęs krosnis."
+  atnaujinta: "2026-07-12 09:30"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178059
+
 ## Citatos
 
 - id: c-178059
@@ -67,18 +79,5 @@ Pašušvis šiame šaltinyje yra gyvenvietė ar vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195658"></a>
-- t-001
-  teiginys: "Pašušvyje gyveno vokietis Škobaras, lipdęs puodus ir mūrijęs krosnis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::places"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178059
-

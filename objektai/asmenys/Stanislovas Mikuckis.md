@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Stanislovas Mikuckis'
+pavadinimas: Stanislovas Mikuckis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1858 m.'
+  - 1858 m.
 date_start: '1858'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a5b1ab420782872153c55845"
-canonical_name: "Stanislovas Mikuckis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Stanislovas Mikuckis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a5b1ab420782872153c55845
+canonical_name: Stanislovas Mikuckis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Stanislovas Mikuckis
 sameAs: []
-canonical_biography: "1858 metais Teodoras Narbutas „Teka Wilenska“ puslapiuose atsakė į Stanislovo Mikuckio kaltinimus."
+canonical_biography: 1858 metais Teodoras Narbutas „Teka Wilenska“ puslapiuose atsakė į Stanislovo Mikuckio kaltinimus.
 ---
 # Stanislovas Mikuckis
 
@@ -89,7 +88,7 @@ canonical_biography: "1858 metais Teodoras Narbutas „Teka Wilenska“ puslapiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-198048
@@ -109,6 +108,5 @@ canonical_biography: "1858 metais Teodoras Narbutas „Teka Wilenska“ puslapiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

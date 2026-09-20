@@ -67,9 +67,9 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
     - c-178042
 
 <a id="claim-t-203031"></a>
-- t-203031
+- t-002
   teiginys: "Plotkus dieną atnešė bažnyčios maršalka, o už juos buvo numatyta atsiskaityti kalėdojant."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -92,8 +92,8 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203031
+  pagrindzia:
+    - t-002
 
 - id: c-178042
   autorius: "M. Katkus"
@@ -104,11 +104,9 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
     Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius.
   citata_rodoma: "Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

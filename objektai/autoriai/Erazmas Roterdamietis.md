@@ -41,6 +41,20 @@ canonical_biography: "O iš didelių buvusi viena vokiška kronika, vieno iškil
 
 O iš didelių buvusi viena vokiška kronika, vieno iškiliausių Renesanso laikų intelektualų Erazmo Roterdamiečio (1469-1536) Adagia ir senovės skaitinių rinkinys Cornucopiae.
 
+## Teiginiai
+
+<a id="claim-t-202211"></a>
+- t-001
+  teiginys: "O iš didelių buvusi viena vokiška kronika, vieno iškiliausių Renesanso laikų intelektualų Erazmo Roterdamiečio (1469-1536) Adagia ir senovės skaitinių rinkinys Cornucopiae."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185558
+
 ## Citatos
 
 - id: c-185558
@@ -58,20 +72,5 @@ O iš didelių buvusi viena vokiška kronika, vieno iškiliausių Renesanso laik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202211"></a>
-- t-001
-  teiginys: "O iš didelių buvusi viena vokiška kronika, vieno iškiliausių Renesanso laikų intelektualų Erazmo Roterdamiečio (1469-1536) Adagia ir senovės skaitinių rinkinys Cornucopiae."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185558
-

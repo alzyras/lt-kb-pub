@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Valerijonas Protasevičius (vyskupas)'
+pavadinimas: Valerijonas Protasevičius (vyskupas)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -15,34 +15,344 @@ tags:
   - karalius
   - asmuo
 amziai:
-  - 'V'
+  - V
 periodo_grupes: []
 media_total_count: '1'
 media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT'
 media_primary_canonical_url: 'https://www.europeana.eu/item/2021803/LIBIS000000417145'
-media_primary_directness: 'contextual'
-media_primary_relation_type: 'depicts'
-media_primary_json: |-
-  {"mediaId":"m-e6f20c46a445ba5d7ae1b7a0","title":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","caption":"Stepono Batoro raštas, patvirtinantis Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","originalTitle":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bn8u2qq45r28n7t26zmm","provider":"europeana","providerLabel":"Martynas Mažvydas National Library of Lithuania","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIBIS000000417145","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Valerijonas Protasevičius.md","title":"Valerijonas Protasevičius (vyskupas)","itemType":"asmuo","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:48:16.267455+03:00","reviewedAt":"2026-07-31T05:58:49.247708+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVI a. rankraštinis pergamentas su dideliu Stepono Batoro vardo įrašu ir dokumento tekstu.","metadataEvidence":"Kandidato pavadinime aiškiai nurodyta, kad tai 1582 m. Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai nėra tiesioginis Valerijono Protasevičiaus atvaizdas, bet autentiškas su juo konkrečiai susijęs istorinis dokumentas.","isPrimary":0}
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  [{"mediaId":"m-e6f20c46a445ba5d7ae1b7a0","title":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","caption":"Stepono Batoro raštas, patvirtinantis Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","originalTitle":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bn8u2qq45r28n7t26zmm","provider":"europeana","providerLabel":"Martynas Mažvydas National Library of Lithuania","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIBIS000000417145","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Valerijonas Protasevičius.md","title":"Valerijonas Protasevičius (vyskupas)","itemType":"asmuo","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:48:16.267455+03:00","reviewedAt":"2026-07-31T05:58:49.247708+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVI a. rankraštinis pergamentas su dideliu Stepono Batoro vardo įrašu ir dokumento tekstu.","metadataEvidence":"Kandidato pavadinime aiškiai nurodyta, kad tai 1582 m. Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai nėra tiesioginis Valerijono Protasevičiaus atvaizdas, bet autentiškas su juo konkrečiai susijęs istorinis dokumentas.","isPrimary":0}]
-media_all_json: |-
-  [{"mediaId":"m-e6f20c46a445ba5d7ae1b7a0","title":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","caption":"Stepono Batoro raštas, patvirtinantis Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","originalTitle":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bn8u2qq45r28n7t26zmm","provider":"europeana","providerLabel":"Martynas Mažvydas National Library of Lithuania","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIBIS000000417145","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Valerijonas Protasevičius.md","title":"Valerijonas Protasevičius (vyskupas)","itemType":"asmuo","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:48:16.267455+03:00","reviewedAt":"2026-07-31T05:58:49.247708+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVI a. rankraštinis pergamentas su dideliu Stepono Batoro vardo įrašu ir dokumento tekstu.","metadataEvidence":"Kandidato pavadinime aiškiai nurodyta, kad tai 1582 m. Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai nėra tiesioginis Valerijono Protasevičiaus atvaizdas, bet autentiškas su juo konkrečiai susijęs istorinis dokumentas.","isPrimary":0}]
-entity_id: "ent-775822b5a3c590ccdcb7b06b"
-canonical_name: "Valerijonas Protasevičius (vyskupas)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Valerijonas Protasevičius","Valerijonas Protasevičius (vyskupas)","Valerijono Protasevičiaus","Vilniaus vyskupas Valerijonas Protasevičius"]
+media_primary_directness: contextual
+media_primary_relation_type: depicts
+media_primary_json: '{"mediaId":"m-e6f20c46a445ba5d7ae1b7a0","title":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","caption":"Stepono Batoro raštas, patvirtinantis Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","originalTitle":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bn8u2qq45r28n7t26zmm","provider":"europeana","providerLabel":"Martynas Mažvydas National Library of Lithuania","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIBIS000000417145","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Valerijonas Protasevičius.md","title":"Valerijonas Protasevičius (vyskupas)","itemType":"asmuo","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:48:16.267455+03:00","reviewedAt":"2026-07-31T05:58:49.247708+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVI a. rankraštinis pergamentas su dideliu Stepono Batoro vardo įrašu ir dokumento tekstu.","metadataEvidence":"Kandidato pavadinime aiškiai nurodyta, kad tai 1582 m. Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai nėra tiesioginis Valerijono Protasevičiaus atvaizdas, bet autentiškas su juo konkrečiai susijęs istorinis dokumentas.","isPrimary":0}'
+media_direct_json: '[]'
+media_contextual_json: '[{"mediaId":"m-e6f20c46a445ba5d7ae1b7a0","title":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","caption":"Stepono Batoro raštas, patvirtinantis Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","originalTitle":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bn8u2qq45r28n7t26zmm","provider":"europeana","providerLabel":"Martynas Mažvydas National Library of Lithuania","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIBIS000000417145","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Valerijonas Protasevičius.md","title":"Valerijonas Protasevičius (vyskupas)","itemType":"asmuo","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:48:16.267455+03:00","reviewedAt":"2026-07-31T05:58:49.247708+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVI a. rankraštinis pergamentas su dideliu Stepono Batoro vardo įrašu ir dokumento tekstu.","metadataEvidence":"Kandidato pavadinime aiškiai nurodyta, kad tai 1582 m. Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai nėra tiesioginis Valerijono Protasevičiaus atvaizdas, bet autentiškas su juo konkrečiai susijęs istorinis dokumentas.","isPrimary":0}]'
+media_all_json: '[{"mediaId":"m-e6f20c46a445ba5d7ae1b7a0","title":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","caption":"Stepono Batoro raštas, patvirtinantis Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","originalTitle":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bn8u2qq45r28n7t26zmm","provider":"europeana","providerLabel":"Martynas Mažvydas National Library of Lithuania","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIBIS000000417145","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Valerijonas Protasevičius.md","title":"Valerijonas Protasevičius (vyskupas)","itemType":"asmuo","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:48:16.267455+03:00","reviewedAt":"2026-07-31T05:58:49.247708+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVI a. rankraštinis pergamentas su dideliu Stepono Batoro vardo įrašu ir dokumento tekstu.","metadataEvidence":"Kandidato pavadinime aiškiai nurodyta, kad tai 1582 m. Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai nėra tiesioginis Valerijono Protasevičiaus atvaizdas, bet autentiškas su juo konkrečiai susijęs istorinis dokumentas.","isPrimary":0}]'
+entity_id: ent-775822b5a3c590ccdcb7b06b
+canonical_name: Valerijonas Protasevičius (vyskupas)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Valerijonas Protasevičius
+  - Valerijonas Protasevičius (vyskupas)
+  - Valerijono Protasevičiaus
+  - Vilniaus vyskupas Valerijonas Protasevičius
 sameAs: []
-canonical_biography: "Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 1569 m. Vilniuje pasirodę jėzuitai gavo lėšų kolegijai ir kurio sumanymą dėl Vilniaus akademijos parėmė Steponas Batoras."
+canonical_biography: 'Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 1569 m. Vilniuje pasirodę jėzuitai gavo lėšų kolegijai ir kurio sumanymą dėl Vilniaus akademijos parėmė Steponas Batoras.'
+external_sources_json: '[{"title":"Valerijonas Protasevičius","url":"https://lt.wikipedia.org/wiki/Valerijonas_Protasevi%C4%8Dius","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Valerijonas Protasevičius","url":"https://www.vle.lt/straipsnis/valerijonas-protasevicius/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T07:07:20+00:00","source_checked_at":"2026-09-19T07:07:20+00:00","counts":{"relations":1,"gallery":1,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Valerijonas Protasevičius","url":"https://lt.wikipedia.org/wiki/Valerijonas_Protasevi%C4%8Dius","publisher":"Vikipedija","language":"lt","article_id":"363239","revision_id":"7913152","published_at":"2026-08-28T01:50:41Z","version_pk":"","content_hash":"8dd834a880b7a4d9fee033de48cf7d1b1032ea7006c3d66bad849574dba3ea64","retrieved_at":"2026-09-19T07:05:06+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Valerijonas_Protasevi%C4%8Dius&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"363239"}},"intro":"Valerijonas Protasevičius (apie 1504-1505 m. Šuškove (Minsko sr.) – 1579 m. gruodžio 31 d. Vilniuje) – Lietuvos katalikų bažnyčios veikėjas, Vilniaus vyskupas.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1504 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Šuškove","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1579 m. gruodžio 31 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Vilniuje","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Vilniaus katedroje","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Valerijonas Protasevičius","url":"https://lt.wikipedia.org/wiki/Valerijonas_Protasevi%C4%8Dius","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Valerijonas Protasevičius","url":"https://www.vle.lt/straipsnis/valerijonas-protasevicius/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Valerijonas_Protasevi%C4%8Dius","https://www.vle.lt/straipsnis/valerijonas-protasevicius/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"5e0dd2ef8077b6d9bbe8b8ef","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Vilniaus vyskupas; anksčiau buvo Vilniaus dekanas, Lietuvos didysis raštininkas ir Lucko vyskupas.","context":"Michał Baliński aprašymas; pareigos nurodomos retrospektyviai, o 1556 m. jis perkeltas į Vilniaus katedrą.","support_ids":["t-114006","c-105174"],"source_refs":[{"kind":"internal_claim","claim_id":"t-114006","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-105174","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"14. Valerijonas Protasevičius Šuškovskis, pirma Vilniaus dekanas, paskui Lietuvos didysis raštininkas, po to Lucko vyskupas, pagaliau, 1556 m. į Vilniaus katedrą perkeltas, baigė gyvenimo dienas 1579 metais gruodžio 21 dieną. La­ biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda- mas Akademiją."}],"status":"published","conflict_status":"clear"},{"trait_id":"229f9991332187e30fd541db","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Fundavo ir įsteigė įvairių mokslų viešąsias mokyklas, fundavo bei aprūpino jėzuitų kolegiją ir įsteigė bursą neturtingiems studentams.","context":"Michał Baliński aprašymas apie 1569 m. ir vėlesnes fundacijas.","support_ids":["t-114002","c-105183","t-114018","c-105175"],"source_refs":[{"kind":"internal_claim","claim_id":"t-114002","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-114018","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-105183","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"G) Apie kai kuriuos Akademijai ir Valerijono bursai funduotus turtus • 1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Pro- tasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun- davo ir įsteigė įvairių mokslų viešąsias mokyklas. 1578 metais Karalius Steponas Batoras, šias funduotas mo­ kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­ mijoms, o išskirtinai Krokuvos, prilygino."},{"kind":"evidence","evidence_id":"c-105175","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­ kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­ rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai išleisti dekretai57. Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­ gė neturtingiems studentams bursą, pavadintą Valerijono vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos jėzuitų priežiūrai ir globai58. Protasevičiaus pėdomis sekė ir jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­ liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­ kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą…"}],"status":"published","conflict_status":"clear"},{"trait_id":"508fc0a7c36f2beb7c5ed3e0","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Ragino valdovą nesutikti su sąlygomis, kurios, jo vertinimu, prieštaravo katalikų tikėjimui.","context":"Michał Baliński cituojamame rašte nurodoma, kad Valerijonas Protasevičius taip elgėsi svarstant Livonijos sutarties sąlygas.","support_ids":["t-114013","c-105177"],"source_refs":[{"kind":"internal_claim","claim_id":"t-114013","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-105177","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Taigi mes nusprendėme taip ir padaryti, juolab kad šios apskritys mums turi būti perduotos tiktai užstato, o ne dominijos teise. Bet negalime karštai negirti to paties didžiai gerbiamo Kristuje tėvo pono Valerijono už są­ žinės atvirumą, pareigingumą, pamaldumą ir tikėjimą, kai šios rūšies sąlygas atmetė ir taip pat mus ragino ir įspėjo, kad su ja nesutiktume, ir šio dalyko paliudijimą jam norėjo­ me suteikti ir suteikiame šiuo mūsų raštu, visiems išaiški­ nančiu, kad jo Prakilnybė nieko, kas išmintingam senato­ riui ir pamaldžiam bei mūsų išganymu besirūpinančiam ganytojui ir vyskupui pagal tikėjimą galėjo priklausyti, šiuo reikalu nepraleido. Jo Prakilnybė nenorėjo priesaika įsipa­…"}],"status":"published","conflict_status":"clear"},{"trait_id":"1c9def00b4830fa9441f8138","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Prieštaravo sąlygai dėl laisvo Augustino tikėjimo išpažinimo ir atmetė katalikų tikėjimui prieštaraujančias sąlygas.","context":"Šaltinyje aprašoma jo laikysena religijos laisvės sąlygos atžvilgiu; tai pateikiama kaip jo pareigų ir tikėjimo nulemta pozicija.","support_ids":["t-114008","c-105178","t-114015","c-105184"],"source_refs":[{"kind":"internal_claim","claim_id":"t-114008","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-114015","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-105178","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomis apskritimis atitektų, šventomis apei­ gomis, taip pat su papročiais ir ypač religija, išpažįstančia Augustino tikėjimą, leistume laisvai naudotis. Tėvas ponas Valerijonas, Vilniaus vyskupas, vykdydamas savo prievolę ir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos įtraukti į sutartį. Ir nors mes patys tokios pat nuomonės, nie- ku gyvu nenorėtumėme, kad kam nors pasirodytų, jog ga­ lėjome duoti sutikimą, vadovaudamiesi kokiais nors sveti­ mais šventajai Bažnyčiai įstatymais, tačiau mums buvo žinomas krikščionių valdovų paprotys toms priimtoms 325 ## Puslapis 342 VILNIAUS MIESTO ISTORIJA// TOMAS Principum…"},{"kind":"evidence","evidence_id":"c-105184","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Bet negalime karštai negirti to paties didžiai gerbiamo Kristuje tėvo pono Valerijono už są­ žinės atvirumą, pareigingumą, pamaldumą ir tikėjimą, kai šios rūšies sąlygas atmetė ir taip pat mus ragino ir įspėjo, kad su ja nesutiktume, ir šio dalyko paliudijimą jam norėjo­ me suteikti ir suteikiame šiuo mūsų raštu, visiems išaiški­ nančiu, kad jo Prakilnybė nieko, kas išmintingam senato­ riui ir pamaldžiam bei mūsų išganymu besirūpinančiam ganytojui ir vyskupui pagal tikėjimą galėjo priklausyti, šiuo reikalu nepraleido. Jo Prakilnybė nenorėjo priesaika įsipa­ reigoti [sutikdamas su] šiomis sąlygomis, kurios prieštarauja katalikų tikėjimui. Šio dalyko patikimumui dabartinį raštą savo ranka…"}],"status":"published","conflict_status":"clear"},{"trait_id":"bd84ced07fba41604e461b4f","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Sąžinės atviras, pareigingas, pamaldus ir tikintis.","context":"Tai šaltinyje cituojamo rašto autoriaus vertinimas, išsakytas retrospektyviai, aiškinant jo elgesį svarstant sutarties sąlygas.","support_ids":["t-114015","c-105184"],"source_refs":[{"kind":"internal_claim","claim_id":"t-114015","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-105184","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Bet negalime karštai negirti to paties didžiai gerbiamo Kristuje tėvo pono Valerijono už są­ žinės atvirumą, pareigingumą, pamaldumą ir tikėjimą, kai šios rūšies sąlygas atmetė ir taip pat mus ragino ir įspėjo, kad su ja nesutiktume, ir šio dalyko paliudijimą jam norėjo­ me suteikti ir suteikiame šiuo mūsų raštu, visiems išaiški­ nančiu, kad jo Prakilnybė nieko, kas išmintingam senato­ riui ir pamaldžiam bei mūsų išganymu besirūpinančiam ganytojui ir vyskupui pagal tikėjimą galėjo priklausyti, šiuo reikalu nepraleido. Jo Prakilnybė nenorėjo priesaika įsipa­ reigoti [sutikdamas su] šiomis sąlygomis, kurios prieštarauja katalikų tikėjimui. Šio dalyko patikimumui dabartinį raštą savo ranka…"}],"status":"published","conflict_status":"clear"},{"trait_id":"2e4cc944b5e440193e2f6e9c","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Labiausiai išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurdamas Akademiją.","context":"Michał Baliński retrospektyvus istorinis vertinimas apie jo reikšmę.","support_ids":["t-114006","c-105174"],"source_refs":[{"kind":"internal_claim","claim_id":"t-114006","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-105174","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"14. Valerijonas Protasevičius Šuškovskis, pirma Vilniaus dekanas, paskui Lietuvos didysis raštininkas, po to Lucko vyskupas, pagaliau, 1556 m. į Vilniaus katedrą perkeltas, baigė gyvenimo dienas 1579 metais gruodžio 21 dieną. La­ biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda- mas Akademiją."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/grupes/Protestantai","claim_id":"t-116730","confidence":0.66}],"timeline":[{"date":"1556 m.","label":"Valerijonas Protasevičius 1556 m.","claimId":"t-114006"},{"date":"1569 m.","label":"1569 m.","claimId":"t-114002"},{"date":"1569 m.","label":"1569 m.","claimId":"t-114014"},{"date":"1579 m.","label":"1579 m.","claimId":"t-114001"},{"date":"1579 m.","label":"1579 m.","claimId":"t-114016"}],"support_disclosure":{"claims":15,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: cc6e7c0031f6d9a7
+object_page_generated_at: '2026-09-19T07:07:20+00:00'
+object_page_source_checked_at: '2026-09-19T07:07:20+00:00'
+object_page_content_state: content
+object_page_claim_count: '15'
+object_page_source_count: '2'
+object_page_seo_description: 'Valerijonas Protasevičius (vyskupas): Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 1569 m. Vilniuje pasirodę jėzuitai gavo lėšų…'
+object_page_seo_input_hash: 253c9be4a7079e5ede270f2ce9518dff956f9bbe629a7dc39d591ab19733a643
+object_page_seo_generated_at: '2026-09-19T07:07:20+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Valerijonas Protasevičius (vyskupas)
 
 ## Santrauka
 
 Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 1569 m. Vilniuje pasirodę jėzuitai gavo lėšų kolegijai ir kurio sumanymą dėl Vilniaus akademijos parėmė Steponas Batoras.
+
+## Teiginiai
+
+<a id="claim-t-114001"></a>
+- t-001
+  teiginys: "1579 m. kovo 6 d. Valerijonas Protasevičius fundacijos teise užrašė Akademijai ir kolegijai tris mūrinius namus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-105180
+
+<a id="claim-t-114002"></a>
+- t-002
+  teiginys: "1569 m. spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įkūrimo data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje pateiktą faktą."
+  pagrindžia:
+    - c-105183
+
+<a id="claim-t-114003"></a>
+- t-003
+  teiginys: "Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustinas: mention_match, person, gap=80"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Augustinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-105182
+
+<a id="claim-t-114004"></a>
+- t-004
+  teiginys: "Vilniaus vyskupas Valerijonas Protasevičius siekė sutrukdyti protestantų ketinimui įkurti kolegiją."
+  atnaujinta: "2026-05-31 12:52"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Protestantai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Protestantai: mention_match, group, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Protestantai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-22047
+
+<a id="claim-t-114005"></a>
+- t-005
+  teiginys: "Valerijonas Protasevičius įsakė surinktas disidentų knygas viešai deginti priešais Šv. Jono bažnyčią."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-105173
+
+<a id="claim-t-114006"></a>
+- t-006
+  teiginys: "Valerijonas Protasevičius 1556 m. buvo perkeltas į Vilniaus katedrą ir mirė 1579 m. gruodžio 21 d."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1556 m.; įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia perkėlimą į Vilniaus katedrą ir mirties datą."
+  pagrindžia:
+    - c-105174
+
+<a id="claim-t-114007"></a>
+- t-007
+  teiginys: "Valerijonas Protasevičius Vilniuje palaimino Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoką."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Suomija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Suomija: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Suomija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-105187
+
+<a id="claim-t-114008"></a>
+- t-008
+  teiginys: "Valerijonas Protasevičius paprieštaravo, kad religijos laisvės sąlyga būtų įtraukta į sutartį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustinas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Augustinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-105178
+
+<a id="claim-t-114009"></a>
+- t-009
+  teiginys: "Valerijonas Protasevičius įsteigė neturtingiems studentams Valerijono bursą ir padovanojo jai tris mūrinius namus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-105175
+
+<a id="claim-t-114010"></a>
+- t-010
+  teiginys: "Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui Vilniuje įkurti kolegiją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Protestantai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Protestantai: mention_match, group, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Protestantai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Valerijono Protasevičiaus veiksmą."
+  pagrindžia:
+    - c-16728
+
+<a id="claim-t-114011"></a>
+- t-011
+  teiginys: "1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Valerijonas (raštininkas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Valerijonas (raštininkas): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Valerijonas (raštininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata mini akto datą, vietą ir įrašą, kad vyskupas Valerijonas pasirašė savo ranka."
+  pagrindžia:
+    - c-105179
+
+<a id="claim-t-114012"></a>
+- t-012
+  teiginys: "Valerijonas Protasevičius buvo Vilniaus vyskupas."
+  atnaujinta: "2026-05-31 12:52"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-22047
+
+<a id="claim-t-114013"></a>
+- t-013
+  teiginys: "Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino valdovą su jomis nesutikti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-105177
+
+<a id="claim-t-114014"></a>
+- t-014
+  teiginys: "1569 m. spalio 4 d. Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įkūrimo data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-105183
+
+<a id="claim-t-114015"></a>
+- t-015
+  teiginys: "Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino su jomis nesutikti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-105184
+
+<a id="claim-t-114016"></a>
+- t-016
+  teiginys: "1579 m. balandžio 1 d. Steponas Batoras parėmė vyskupo Valerijono Protasevičiaus sumanymą ir pastangas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1579 m.; įvykio data: 1850 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir remiasi citatos formuluote."
+  pagrindžia:
+    - c-105181
+
+<a id="claim-t-114017"></a>
+- t-017
+  teiginys: "Valerijonas Protasevičius 1569 metais pirmasis pakvietė jėzuitų ordiną į Vilnių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-105176
+
+<a id="claim-t-114018"></a>
+- t-018
+  teiginys: "Valerijonas Protasevičius fundavo ir aprūpino jėzuitų kolegiją, kurią karalius pakėlė iki universiteto laipsnio."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-105175
 
 ## Citatos
 
@@ -62,7 +372,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-22047
@@ -84,7 +394,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
     - t-012
 
@@ -107,7 +417,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-105174
@@ -127,7 +437,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-105175
@@ -154,7 +464,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
     - t-018
 
@@ -185,7 +495,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-105177
@@ -213,7 +523,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-105178
@@ -250,7 +560,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-105179
@@ -304,7 +614,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-105180
@@ -328,7 +638,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-105181
@@ -346,7 +656,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-105182
@@ -375,7 +685,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-105183
@@ -400,7 +710,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-014
 
@@ -429,7 +739,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
 
 - id: c-105187
@@ -451,302 +761,5 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
-
-## Teiginiai
-
-<a id="claim-t-114001"></a>
-- t-001
-  teiginys: "1579 m. kovo 6 d. Valerijonas Protasevičius fundacijos teise užrašė Akademijai ir kolegijai tris mūrinius namus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1579 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-105180
-
-<a id="claim-t-114002"></a>
-- t-002
-  teiginys: "1569 m. spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įkūrimo data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje pateiktą faktą."
-  pagrindžia:
-    - c-105183
-
-<a id="claim-t-114003"></a>
-- t-003
-  teiginys: "Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustinas: mention_match, person, gap=80"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Augustinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-105182
-
-<a id="claim-t-114004"></a>
-- t-004
-  teiginys: "Vilniaus vyskupas Valerijonas Protasevičius siekė sutrukdyti protestantų ketinimui įkurti kolegiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Protestantai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Protestantai: mention_match, group, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Protestantai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-22047
-
-<a id="claim-t-114005"></a>
-- t-005
-  teiginys: "Valerijonas Protasevičius įsakė surinktas disidentų knygas viešai deginti priešais Šv. Jono bažnyčią."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-105173
-
-<a id="claim-t-114006"></a>
-- t-006
-  teiginys: "Valerijonas Protasevičius 1556 m. buvo perkeltas į Vilniaus katedrą ir mirė 1579 m. gruodžio 21 d."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1556 m.; įvykio data: 1579 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia perkėlimą į Vilniaus katedrą ir mirties datą."
-  pagrindžia:
-    - c-105174
-
-<a id="claim-t-114007"></a>
-- t-007
-  teiginys: "Valerijonas Protasevičius Vilniuje palaimino Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoką."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Suomija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Suomija: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Suomija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-105187
-
-<a id="claim-t-114008"></a>
-- t-008
-  teiginys: "Valerijonas Protasevičius paprieštaravo, kad religijos laisvės sąlyga būtų įtraukta į sutartį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustinas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Augustinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-105178
-
-<a id="claim-t-114009"></a>
-- t-009
-  teiginys: "Valerijonas Protasevičius įsteigė neturtingiems studentams Valerijono bursą ir padovanojo jai tris mūrinius namus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-105175
-
-<a id="claim-t-114010"></a>
-- t-010
-  teiginys: "Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui Vilniuje įkurti kolegiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Protestantai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Protestantai: mention_match, group, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Protestantai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Valerijono Protasevičiaus veiksmą."
-  pagrindžia:
-    - c-16728
-
-<a id="claim-t-114011"></a>
-- t-011
-  teiginys: "1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valerijonas (raštininkas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Valerijonas (raštininkas): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Valerijonas (raštininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1579 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata mini akto datą, vietą ir įrašą, kad vyskupas Valerijonas pasirašė savo ranka."
-  pagrindžia:
-    - c-105179
-
-<a id="claim-t-114012"></a>
-- t-012
-  teiginys: "Valerijonas Protasevičius buvo Vilniaus vyskupas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-22047
-
-<a id="claim-t-114013"></a>
-- t-013
-  teiginys: "Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino valdovą su jomis nesutikti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-105177
-
-<a id="claim-t-114014"></a>
-- t-014
-  teiginys: "1569 m. spalio 4 d. Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įkūrimo data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-105183
-
-<a id="claim-t-114015"></a>
-- t-015
-  teiginys: "Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino su jomis nesutikti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-105184
-
-<a id="claim-t-114016"></a>
-- t-016
-  teiginys: "1579 m. balandžio 1 d. Steponas Batoras parėmė vyskupo Valerijono Protasevičiaus sumanymą ir pastangas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1579 m.; įvykio data: 1850 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir remiasi citatos formuluote."
-  pagrindžia:
-    - c-105181
-
-<a id="claim-t-114017"></a>
-- t-017
-  teiginys: "Valerijonas Protasevičius 1569 metais pirmasis pakvietė jėzuitų ordiną į Vilnių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-105176
-
-<a id="claim-t-114018"></a>
-- t-018
-  teiginys: "Valerijonas Protasevičius fundavo ir aprūpino jėzuitų kolegiją, kurią karalius pakėlė iki universiteto laipsnio."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-105175
-

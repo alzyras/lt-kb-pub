@@ -27,6 +27,25 @@ media_all_json: |-
 
 Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai.
 
+## Teiginiai
+
+<a id="claim-t-77826"></a>
+- t-001
+  teiginys: "Lenkų tautiniai demokratai buvo labiausiai Lietuvoje veiklą išplėtojusi lenkų politinė jėga."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.56"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkų tautiniai demokratai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo, kad ši politinė jėga veikė Lietuvos teritorijoje; leistinas artimiausias vietos ryšys yra gyveno."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lenkų tautiniai demokratai gyveno Lietuva (0.56)"
+  pagrindžia:
+    - c-75148
+
 ## Citatos
 
 - id: c-75148
@@ -48,25 +67,5 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-77826"></a>
-- t-001
-  teiginys: "Lenkų tautiniai demokratai buvo labiausiai Lietuvoje veiklą išplėtojusi lenkų politinė jėga."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.56"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkų tautiniai demokratai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad ši politinė jėga veikė Lietuvos teritorijoje; leistinas artimiausias vietos ryšys yra gyveno."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lenkų tautiniai demokratai gyveno Lietuva (0.56)"
-  pagrindžia:
-    - c-75148
-

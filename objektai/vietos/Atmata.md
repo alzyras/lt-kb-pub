@@ -36,6 +36,18 @@ historical_names: []
 
 Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
 
+## Teiginiai
+
+<a id="claim-t-58682"></a>
+- t-001
+  teiginys: "Atlanto vandenynas Atmata, u."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  pagrindžia:
+    - c-59314
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Atlanto vandenynas Atmata, u.'
@@ -67,4 +79,5 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

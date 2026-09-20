@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Veliuonos pilies užėmimas ir šventyklos pavertimas bažnyčia'
+pavadinimas: Veliuonos pilies užėmimas ir šventyklos pavertimas bažnyčia
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1406 m.'
+  - 1406 m.
 date_start: '1406'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Veliuonos pilies užėmimas ir šventyklos pavertimas bažnyčia
 
@@ -77,6 +74,5 @@ Po 1406 metų pilies paėmimo Veliuonos šventykla buvo perstatyta į krikščio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

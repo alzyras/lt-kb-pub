@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Sasna (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Sasna (vieta)
+identifikacija: vieta
 variantai:
-  - 'Sasna'
+  - Sasna
 aliases:
-  - 'Sasna'
+  - Sasna
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-97ea5d66a764348f16198b1e"
-canonical_name: "Sasna (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Sasna","Sasna (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-97ea5d66a764348f16198b1e
+canonical_name: Sasna (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Sasna
+  - Sasna (vieta)
 sameAs: []
-canonical_biography: "Sasna buvo į vakarus nuo Galindos, tarp Galindos ir Lubavos žemės."
+canonical_biography: 'Sasna buvo į vakarus nuo Galindos, tarp Galindos ir Lubavos žemės.'
 ---
 # Sasna (vieta)
 
@@ -69,6 +69,5 @@ Sasna buvo į vakarus nuo Galindos, tarp Galindos ir Lubavos žemės.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

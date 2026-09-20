@@ -42,6 +42,21 @@ Totorių samdinių kariuomenę ir mirzų bei ulonų dvariškių būrį sutelkusi
 
 Totorių samdinių kariuomenę ir mirzų bei ulonų dvariškių būrį sutelkusiam asmeniui, grįžusiam į Lietuvą, didysis kunigaikštis laikinai skyrė Lydą su apylinkėmis.
 
+## Teiginiai
+
+<a id="claim-t-206652"></a>
+- t-001
+  teiginys: "Totorių samdinių kariuomenę ir mirzų bei ulonų dvariškių būrį sutelkusiam asmeniui, grįžusiam į Lietuvą, didysis kunigaikštis laikinai skyrė Lydą su apylinkėmis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189267
+
 ## Citatos
 
 - id: c-189267
@@ -58,21 +73,5 @@ Totorių samdinių kariuomenę ir mirzų bei ulonų dvariškių būrį sutelkusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206652"></a>
-- t-001
-  teiginys: "Totorių samdinių kariuomenę ir mirzų bei ulonų dvariškių būrį sutelkusiam asmeniui, grįžusiam į Lietuvą, didysis kunigaikštis laikinai skyrė Lydą su apylinkėmis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189267
-

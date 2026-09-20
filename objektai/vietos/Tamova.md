@@ -35,6 +35,25 @@ historical_names: []
 
 Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokiečių maisto atsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo).
 
+## Teiginiai
+
+<a id="claim-t-36596"></a>
+- t-001
+  teiginys: "Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Užnemunė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Užnemunė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vytautas tiesiogiai nurodomas pasiųstas į Užnemunę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Užnemunė (0.82)"
+  pagrindžia:
+    - c-38652
+
 ## Citatos
 
 - id: c-38652
@@ -62,25 +81,5 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-36596"></a>
-- t-001
-  teiginys: "Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Užnemunė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Užnemunė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytautas tiesiogiai nurodomas pasiųstas į Užnemunę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Užnemunė (0.82)"
-  pagrindžia:
-    - c-38652
-

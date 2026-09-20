@@ -43,6 +43,17 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-07802"></a>
+- t-001
+  teiginys: "Dideli ir seni medžiai senovėje tarnavo kaip rubežių ženklai, o jų palietimas buvo baudžiamas labai griežtai."
+  atnaujinta: "2026-05-20 21:56"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09959
+
 ## Citatos
 
 - id: c-09959
@@ -61,13 +72,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210051"></a>
-- t-001
-  teiginys: "Dideli ir seni medžiai senovėje tarnavo kaip rubežių ženklai, o jų palietimas buvo baudžiamas labai griežtai."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
+  pagrindzia:
+    - t-001

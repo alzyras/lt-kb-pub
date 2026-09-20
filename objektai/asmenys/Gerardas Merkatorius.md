@@ -40,6 +40,20 @@ XVI a. Lietuvoje lankęsis Gerardas Merkatorius pasakojo, kad paprasti žmonės 
 
 XVI a. Lietuvoje lankęsis Gerardas Merkatorius pasakojo, kad paprasti žmonės valgė iš rugių ar miežių keptą juodą duoną, o turtingieji – iš grynų kvietinių miltų keptą baltą duoną.
 
+## Teiginiai
+
+<a id="claim-t-204317"></a>
+- t-001
+  teiginys: "XVI a. Lietuvoje lankęsis Gerardas Merkatorius pasakojo, kad paprasti žmonės valgė iš rugių ar miežių keptą juodą duoną, o turtingieji – iš grynų kvietinių miltų keptą baltą duoną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186920
+
 ## Citatos
 
 - id: c-186920
@@ -62,20 +76,5 @@ XVI a. Lietuvoje lankęsis Gerardas Merkatorius pasakojo, kad paprasti žmonės 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204317"></a>
-- t-001
-  teiginys: "XVI a. Lietuvoje lankęsis Gerardas Merkatorius pasakojo, kad paprasti žmonės valgė iš rugių ar miežių keptą juodą duoną, o turtingieji – iš grynų kvietinių miltų keptą baltą duoną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  pagrindžia:
-    - c-186920
-

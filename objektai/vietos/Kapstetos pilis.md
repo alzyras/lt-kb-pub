@@ -1,36 +1,35 @@
 ---
 tipas: vieta
-pavadinimas: 'Kapstetos pilis'
+pavadinimas: Kapstetos pilis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1257 m.'
-  - '1258 m.'
+  - 1257 m.
+  - 1258 m.
 date_start: '1257'
 date_end: '1258'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-cf9499d8d91113363363af63"
-canonical_name: "Kapstetos pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kapstetos pilis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-cf9499d8d91113363363af63
+canonical_name: Kapstetos pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kapstetos pilis
 sameAs: []
-canonical_biography: "Karaliaučiaus komtūro vadovaujama kariuomenė užkariavo Kapstetos pilį ir ją pavertė pelenais."
+canonical_biography: Karaliaučiaus komtūro vadovaujama kariuomenė užkariavo Kapstetos pilį ir ją pavertė pelenais.
 ---
 # Kapstetos pilis
 
@@ -94,6 +93,5 @@ Karaliaučiaus komtūro vadovaujama kariuomenė užkariavo Kapstetos pilį ir j�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

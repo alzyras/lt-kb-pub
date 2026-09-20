@@ -52,6 +52,38 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 
 ## Teiginiai
 
+<a id="claim-t-00043"></a>
+- t-001
+  teiginys: "Būga kartu su Jauniumi vadino aisčių gimines aisčiais."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "K. Būga: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Būga\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-00072
+
+<a id="claim-t-64668"></a>
+- t-002
+  teiginys: "K. Būga manė, kad dauguma gotiškos kilmės žodžių į baltų kalbas pateko per slavus."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "K. Būga: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Būga\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-03996
+
 <a id="claim-t-64669"></a>
 - t-003
   teiginys: "K. Būga yra „Rinktinių Raštų“, sudarytų V. Zinkevičiaus ir išleistų Vilniuje 1958-1961 m., autorius."
@@ -71,42 +103,10 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   pagrindžia:
     - c-03994
 
-<a id="claim-t-00043"></a>
-- t-00043
-  teiginys: "Būga kartu su Jauniumi vadino aisčių gimines aisčiais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "K. Būga: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Būga\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-00072
-
-<a id="claim-t-64668"></a>
-- t-64668
-  teiginys: "K. Būga manė, kad dauguma gotiškos kilmės žodžių į baltų kalbas pateko per slavus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "K. Būga: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Būga\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-03996
-
 <a id="claim-t-64672"></a>
-- t-64672
+- t-004
   teiginys: "K. Būga 1924 m. paskelbė darbą „Die Vorgeschichte der aistischen (baltischen) Stämme im Lichte der Ortsnamenforschung“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -172,8 +172,8 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-00043
+  pagrindzia:
+    - t-001
 
 - id: c-03994
   autorius: "Zenonas Ivinskis"
@@ -187,12 +187,11 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     Vilnius 1958-61.
   citata_rodoma: "BūRR = Būga, K. : Rinktiniai Raštai, sudarė V. Zinkevičius, 1-3,\nVilnius 1958-61."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-03996
@@ -210,8 +209,8 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-64668
+  pagrindzia:
+    - t-002
 
 - id: c-03998
   autorius: "Zenonas Ivinskis"
@@ -227,6 +226,5 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-64672
-
+  pagrindzia:
+    - t-004

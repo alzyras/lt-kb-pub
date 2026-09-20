@@ -1,28 +1,25 @@
 ---
 tipas: saltinis
-pavadinimas: 'Lietuvos metraščių Trumpasis sąvadas'
+pavadinimas: Lietuvos metraščių Trumpasis sąvadas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1041 m.'
+  - 1041 m.
 date_start: '1041'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XI'
+  - XI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Lietuvos metraščių Trumpasis sąvadas
 
@@ -67,6 +64,5 @@ Vytauto pagyrimo vertimas atliktas pagal Lietuvos metraščių Trumpojo sąvado 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -33,6 +33,20 @@ media_all_json: |-
 
 Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės nelaimės nė nepajuto, kad Veneros nuodai atbukino narsią širdį, neleisdami pastebėti šitokio negando.
 
+## Teiginiai
+
+<a id="claim-t-193472"></a>
+- t-001
+  teiginys: "Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės nelaimės nė nepajuto, kad Veneros nuodai atbukino narsią širdį, neleisdami pastebėti šitokio negando."
+  atnaujinta: "2026-07-19 17:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-176173
+
 ## Citatos
 
 - id: c-176173
@@ -70,4 +84,5 @@ Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

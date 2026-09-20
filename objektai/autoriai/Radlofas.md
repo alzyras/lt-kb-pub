@@ -36,22 +36,10 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
 
 ## Teiginiai
 
-<a id="claim-t-215425"></a>
-- t-215425
-  teiginys: "Šio mito turinys sutampa su pono Radlofo požiūriu, kurį anksčiau (. 145) pateikėme; šios žinios pateko iš padavimų į graikų poetų kūrinius."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196318
-
-<a id="claim-t-213925"></a>
-- t-213925
+<a id="claim-t-191617"></a>
+- t-001
   teiginys: "Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų ar Žemės palydovų žuvimo fenomeną."
-  atnaujinta: "2026-09-13 18:12"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,12 +47,12 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-196331
+    - c-174499
 
-<a id="claim-t-214950"></a>
-- t-214950
+<a id="claim-t-191618"></a>
+- t-002
   teiginys: "Narbutas rašė, kad Cigno mito turinys sutampa su Radlofo požiūriu ir iš padavimų pateko į graikų poetų kūrinius."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -78,6 +66,8 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radlofas\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174500
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -135,6 +125,8 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-174500
   autorius: "Teodoras Narbutas"
@@ -157,50 +149,5 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196318
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 152"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 152."
-  citata_originali: |
-    Šio mito turinys sutampa su pono Radlofo požiūriu,
-    kurį anksčiau (§ 145) pateikėme; šios žinios pateko iš
-    padavimų į graikų poetų kūrinius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215425
-
-- id: c-196331
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
-  citata_originali: |
-    Taip įsivaizduojame mūsų žemyno susifor­
-    mavimą.
-    148
-    Planetų ar Žemės palydovų žuvimo fenomeną, kuris
-    padeda suvokti daugelį senojo pasaulio paminklų, išliku­
-    sių tolimųjų amžių atmintyje ir pasiekusių mus per pada­
-    vimus ir sakmes, aiškina naujųjų laikų astronomas ponas
-    Radlofas veikale, kurį rekomenduojame mūsų skaitytojams,
-    norintiems geriau įsitikinti. Čia dar kartą pakartosime
-    aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­
-    tinius pokyčius, kuriuos sukėlė dideli potvyniai ar ilga­
-    laikiai smarkūs-šiaurės vėjai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213925
-
+  pagrindzia:
+    - t-002

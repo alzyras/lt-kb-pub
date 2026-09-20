@@ -1,6 +1,6 @@
 ---
 tipas: posakis
-pavadinimas: 'Geras darbas valdovo paslaptį saugoti; dar geresnis — apie didžiojo valdovo darbus kalbėti'
+pavadinimas: Geras darbas valdovo paslaptį saugoti; dar geresnis — apie didžiojo valdovo darbus kalbėti
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Geras darbas valdovo paslaptį saugoti; dar geresnis — apie didžiojo valdovo darbus kalbėti
 
@@ -58,6 +55,5 @@ Geras darbas valdovo paslaptį saugoti; dar geres nis — apie didžiojo valdovo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

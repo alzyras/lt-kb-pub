@@ -44,6 +44,37 @@ canonical_biography: "[manu proprio - savo ranka] Eustachijus Valavičius, Vilni
 
 [manu proprio - savo ranka] Eustachijus Valavičius, Vilniaus kaštelionas.
 
+## Teiginiai
+
+<a id="claim-t-87424"></a>
+- t-001
+  teiginys: "Eustachijus Valavičius buvo Vilniaus kaštelionas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Valavičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Eustachijus Valavičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Valavičiai: mention_match, group, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eustachijus Valavičius\" parinktas kaip owner_note_path. Targetas \"Valavičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83403
+
+<a id="claim-t-201520"></a>
+- t-002
+  teiginys: "1621-1623 m. Kauno suolininkų, Vilniaus vyskupo Eustachijaus Valavičiaus ir Lietuvos asesorių teismai sprendė bylą, kurioje Kauno klebonas Baltramiejus Ciešinskis (Cieszynski) kaltino Kauno liuteronus Frideriką Korsaką, Joną Kalau ir Jurgį Šeperį bei jų."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-184867
+
 ## Citatos
 
 - id: c-83403
@@ -63,7 +94,7 @@ canonical_biography: "[manu proprio - savo ranka] Eustachijus Valavičius, Vilni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184867
@@ -82,37 +113,5 @@ canonical_biography: "[manu proprio - savo ranka] Eustachijus Valavičius, Vilni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-87424"></a>
-- t-001
-  teiginys: "Eustachijus Valavičius buvo Vilniaus kaštelionas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valavičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Eustachijus Valavičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Valavičiai: mention_match, group, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eustachijus Valavičius\" parinktas kaip owner_note_path. Targetas \"Valavičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83403
-
-<a id="claim-t-201520"></a>
-- t-002
-  teiginys: "1621-1623 m. Kauno suolininkų, Vilniaus vyskupo Eustachijaus Valavičiaus ir Lietuvos asesorių teismai sprendė bylą, kurioje Kauno klebonas Baltramiejus Ciešinskis (Cieszynski) kaltino Kauno liuteronus Frideriką Korsaką, Joną Kalau ir Jurgį Šeperį bei jų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
-  pagrindžia:
-    - c-184867
-

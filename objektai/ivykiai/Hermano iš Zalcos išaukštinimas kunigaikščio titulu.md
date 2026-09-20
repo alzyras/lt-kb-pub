@@ -43,6 +43,27 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62806"></a>
+- t-001
+  teiginys: "Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui iš Zalcos ir būsimiems Teutonų ordino magistrams kunigaikščio titulą."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "paskyre -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Popiežius Honorijus III: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Popiežius suteikė Hermanui titulą, todėl ryšys artimas paskyrimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Popiežius Honorijus III paskyrė Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) (0.78); Fridrichas II paskyrė Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) (0.76)"
+  pagrindžia:
+    - c-63615
+    - c-63616
+
 ## Citatos
 
 - id: c-63615
@@ -67,6 +88,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-63616
   autorius: "Petras Dusburgietis"
@@ -91,22 +114,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-223314"></a>
-- t-001
-  teiginys: "Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui iš Zalcos ir būsimiems Teutonų ordino magistrams kunigaikščio titulą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "paskyre -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Popiežius Honorijus III: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Popiežius suteikė Hermanui titulą, todėl ryšys artimas paskyrimui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Popiežius Honorijus III paskyrė Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) (0.78); Fridrichas II paskyrė Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) (0.76)"
-
+  pagrindzia:
+    - t-001

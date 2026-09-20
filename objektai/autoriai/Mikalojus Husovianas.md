@@ -48,6 +48,32 @@ Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir med
 
 - Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę
 
+## Teiginiai
+
+<a id="claim-t-23240"></a>
+- t-001
+  teiginys: "Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto laikus parodyti kaip idealą savo laikų visuomenei."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176391
+
+<a id="claim-t-201495"></a>
+- t-002
+  teiginys: "1523 m. Mikalojus Husovianas poemoje De statura, feritate ae venatione bisontis carmen (Giesmė apie stumbro išvaizdq, žiaurumq ir medžioklę) didžiausią dėmesį skyrė medžioklei Lietuvos giriose, bet matė ir kitokią didžiulę naudą, kurią teikė girios: Nors ši."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184842
+
 ## Citatos
 
 - id: c-176391
@@ -71,7 +97,7 @@ Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir med
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184842
@@ -90,32 +116,5 @@ Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir med
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-23240"></a>
-- t-001
-  teiginys: "Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto laikus parodyti kaip idealą savo laikų visuomenei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176391
-
-<a id="claim-t-201495"></a>
-- t-002
-  teiginys: "1523 m. Mikalojus Husovianas poemoje De statura, feritate ae venatione bisontis carmen (Giesmė apie stumbro išvaizdq, žiaurumq ir medžioklę) didžiausią dėmesį skyrė medžioklei Lietuvos giriose, bet matė ir kitokią didžiulę naudą, kurią teikė girios: Nors ši."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184842
-

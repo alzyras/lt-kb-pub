@@ -42,50 +42,12 @@ canonical_biography: "Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska 
 
 Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
 
-## Citatos
-
-- id: c-22200
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
-  citata_originali: |
-    Anušauskas A. ir kt. Lietuva, 1940–1990: okupuotos Lietuvos istorija. Vil-
-    nius, 2005.
-    Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
-    XX–XXI a. pradžia.
-  citata_rodoma: "Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:"
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-22201
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
-  citata_originali: |
-    Vilnius, 2011.
-    Truska L. Antanas Smetona ir jo laikai. Vilnius, 1996.
-  citata_rodoma: "Truska L. Antanas Smetona ir jo laikai. Vilnius, 1996."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-19483"></a>
 - t-001
   teiginys: "L. Truska parašė knygą „Antanas Smetona ir jo laikai“, išleistą Vilniuje 1996 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antanas Smetona (Lietuvos prezidentas, XX a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -104,7 +66,7 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
 <a id="claim-t-19484"></a>
 - t-002
   teiginys: "L. Truska kartu su D. Blažyte-Baužiene ir M. Tamošaičiu parašė leidinį „Lietuvos Seimo istorija: XX–XXI a. pradžia“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> L. Truska: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -117,3 +79,40 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
   pagrindžia:
     - c-22200
 
+## Citatos
+
+- id: c-22200
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
+  citata_originali: |
+    Anušauskas A. ir kt. Lietuva, 1940–1990: okupuotos Lietuvos istorija. Vil-
+    nius, 2005.
+    Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
+    XX–XXI a. pradžia.
+  citata_rodoma: "Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:"
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-22201
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
+  citata_originali: |
+    Vilnius, 2011.
+    Truska L. Antanas Smetona ir jo laikai. Vilnius, 1996.
+  citata_rodoma: "Truska L. Antanas Smetona ir jo laikai. Vilnius, 1996."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

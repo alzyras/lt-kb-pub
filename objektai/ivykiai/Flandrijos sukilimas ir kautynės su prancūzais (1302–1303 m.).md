@@ -53,6 +53,44 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62780"></a>
+- t-001
+  teiginys: "Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "kariavo_pries -> Prancūzai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Flandrai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini prancūzų ir flandrų kautynes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Flandrai kariavo prieš Prancūzai (0.82); Flandrai puolė Prancūzai (0.74)"
+  pagrindžia:
+    - c-63576
+
+<a id="claim-t-62781"></a>
+- t-002
+  teiginys: "Per Flandrijos sukilimo laikotarpio prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "kariavo_pries -> Flandrai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Flandrai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekste tiesiogiai nurodomos prancūzų ir flandrų kautynės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Prancūzai kariavo prieš Flandrai (0.90)"
+  pagrindžia:
+    - c-63577
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.'
@@ -94,6 +132,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-63577
   autorius: "Petras Dusburgietis"
@@ -113,38 +153,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-221973"></a>
-- t-001
-  teiginys: "Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "kariavo_pries -> Prancūzai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Flandrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini prancūzų ir flandrų kautynes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Flandrai kariavo prieš Prancūzai (0.82); Flandrai puolė Prancūzai (0.74)"
-
-<a id="claim-t-224538"></a>
-- t-002
-  teiginys: "Per Flandrijos sukilimo laikotarpio prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "kariavo_pries -> Flandrai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Flandrai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekste tiesiogiai nurodomos prancūzų ir flandrų kautynės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Prancūzai kariavo prieš Flandrai (0.90)"
-
+  pagrindzia:
+    - t-002

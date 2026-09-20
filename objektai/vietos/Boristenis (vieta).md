@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Boristenis (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Boristenis (vieta)
+identifikacija: vieta
 variantai:
-  - 'Boristenis'
+  - Boristenis
 aliases:
-  - 'Boristenis'
+  - Boristenis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d66d7e002fd9b8aaee65125a"
-canonical_name: "Boristenis (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Boristenis","Boristenis (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d66d7e002fd9b8aaee65125a
+canonical_name: Boristenis (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Boristenis
+  - Boristenis (vieta)
 sameAs: []
-canonical_biography: "Jiems priklausiusi skitų gentis, vadinama borestenitais, neabejotinai buvo ta, ku ri davė pradžią karališkiesiems skitams, turėjusiems se novės kimbrų miestą Boristenį."
+canonical_biography: 'Jiems priklausiusi skitų gentis, vadinama borestenitais, neabejotinai buvo ta, ku ri davė pradžią karališkiesiems skitams, turėjusiems se novės kimbrų miestą Boristenį.'
 ---
 # Boristenis (vieta)
 
@@ -72,6 +72,5 @@ Jiems priklausiusi skitų gentis, vadinama borestenitais, neabejotinai buvo ta, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

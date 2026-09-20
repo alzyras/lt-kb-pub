@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'J. S. Dovydaitis'
+pavadinimas: J. S. Dovydaitis
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-c09454f700b6c41fbddce206"
-canonical_name: "J. S. Dovydaitis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["J. S. Dovydaitis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-c09454f700b6c41fbddce206
+canonical_name: J. S. Dovydaitis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - J. S. Dovydaitis
 sameAs: []
-canonical_biography: "J. S. Dovydaitis buvo Varnių dvasinės seminarijos kapelionas. J. S. Dovydaitis Varniuose paskelbė blaivybę katedroje, dalyvaujant vyskupui."
+canonical_biography: 'J. S. Dovydaitis buvo Varnių dvasinės seminarijos kapelionas. J. S. Dovydaitis Varniuose paskelbė blaivybę katedroje, dalyvaujant vyskupui.'
 ---
 # J. S. Dovydaitis
 

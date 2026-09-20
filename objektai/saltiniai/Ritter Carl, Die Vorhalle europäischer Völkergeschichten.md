@@ -32,6 +32,28 @@ media_all_json: |-
 
 Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ minimas kaip šaltinis svarstant kolchų ryšius su egiptiečiais prie Azovo jūros.
 
+## Teiginiai
+
+<a id="claim-t-191810"></a>
+- t-001
+  teiginys: "Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ minimas kaip šaltinis svarstant kolchų ryšius su egiptiečiais prie Azovo jūros."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Azovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ritter Carl, Die Vorhalle europäischer Völkergeschichten: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Azovas: mention_match, place, gap=137"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ritter Carl, Die Vorhalle europäischer Völkergeschichten\" parinktas kaip owner_note_path. Targetas \"Azovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174692
+
 ## Citatos
 
 - id: c-174692
@@ -51,48 +73,5 @@ Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ mini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196678
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
-  citata_originali: |
-    Kadangi tie kolchai turėjo santykių su egiptiečiais ar
-    priiminėjo juos, jų kolonijų ar tik pastatyto miesto ar
-    tvirtovės būta šiaurinėje Azovo jūros pakrantėje, tai da­
-    1
-    Ritter Carl. Die Vorhalle europäischer Völkergeschichten. Ber­
-    lin, 1820.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-215460"></a>
-- t-001
-  teiginys: "Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ minimas kaip šaltinis svarstant kolchų ryšius su egiptiečiais prie Azovo jūros."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Azovas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ritter Carl, Die Vorhalle europäischer Völkergeschichten: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Azovas: mention_match, place, gap=137"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ritter Carl, Die Vorhalle europäischer Völkergeschichten\" parinktas kaip owner_note_path. Targetas \"Azovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-196678
-

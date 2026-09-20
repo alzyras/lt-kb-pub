@@ -36,6 +36,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206765"></a>
+- t-001
+  teiginys: "Veliuona, gausiai apgyvendinta ir turėjusi plačius įtvirtinimus, vadovaujama Lietuvos maršalkos Goštauto, kuriam buvo pavaldūs didikai Surminas ir Metevikas, dešimt dienų priešinosi kryžiuočių kariaunai, kol prasidėjo šturmas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189380
+
 ## Santrauka
 
 Veliuona, gausiai apgyvendinta ir turėjusi plačius įtvirtinimus, vadovaujama Lietuvos maršalkos Goštauto, kuriam buvo pavaldūs didikai Surminas ir Metevikas, dešimt dienų priešinosi kryžiuočių kariaunai, kol prasidėjo šturmas.
@@ -61,21 +76,5 @@ Veliuona, gausiai apgyvendinta ir turėjusi plačius įtvirtinimus, vadovaujama 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206765"></a>
-- t-001
-  teiginys: "Veliuona, gausiai apgyvendinta ir turėjusi plačius įtvirtinimus, vadovaujama Lietuvos maršalkos Goštauto, kuriam buvo pavaldūs didikai Surminas ir Metevikas, dešimt dienų priešinosi kryžiuočių kariaunai, kol prasidėjo šturmas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189380
-

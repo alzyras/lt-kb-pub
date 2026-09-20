@@ -41,6 +41,41 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-193011"></a>
+- t-001
+  teiginys: "Herulai, negalėdami vieni atremti romėnų galerų antpuolių, kreipdavosi pagalbos į kaimyninius gotus grutingus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Romėnai: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Galeros: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Romėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Junginys „romėnų galeros“ tiesiogiai rodo, kad galeros siejamos su romėnais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Galeros priklausė Romėnai (0.80)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175781
+
+<a id="claim-t-197564"></a>
+- t-002
+  teiginys: "Tad, kai herulai negalėjo vieni priešintis romėnų galerų antpuo liams, jie kreipdavosi į tuos kaimynus ir išliko jų pade dami2."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-175781
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Herulai, negalėdami vieni atremti romėnų galerų antpuolių, kreipdavosi pagalbos į kaimyninius gotus grutingus.'
@@ -83,35 +118,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-213382"></a>
-- t-001
-  teiginys: "Tad, kai herulai negalėjo vieni priešintis romėnų galerų antpuo liams, jie kreipdavosi į tuos kaimynus ir išliko jų pade dami2."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-214637"></a>
-- t-002
-  teiginys: "Herulai, negalėdami vieni atremti romėnų galerų antpuolių, kreipdavosi pagalbos į kaimyninius gotus grutingus."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Romėnai: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Galeros: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Romėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Junginys „romėnų galeros“ tiesiogiai rodo, kad galeros siejamos su romėnais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Galeros priklausė Romėnai (0.80)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
+  pagrindzia:
+    - t-001
+    - t-002

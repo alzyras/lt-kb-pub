@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Rusija'
+pavadinimas: Rusija
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
@@ -9,14 +9,14 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1386 m.'
-  - '1579 m.'
-  - '1654 m.'
-  - '1655 m.'
-  - '1660 m.'
-  - '1667 m.'
-  - '1791 m.'
-  - '1918 m.'
+  - 1386 m.
+  - 1579 m.
+  - 1654 m.
+  - 1655 m.
+  - 1660 m.
+  - 1667 m.
+  - 1791 m.
+  - 1918 m.
 date_start: '1386'
 date_end: '1918'
 sukurta: ''
@@ -27,30 +27,41 @@ tags:
   - kraštas
   - miestelis
 amziai:
-  - 'XIV'
-  - 'XX'
+  - XIV
+  - XX
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AUkraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu'
-media_primary_directness: 'contextual'
-media_primary_relation_type: 'edition_image_of'
-media_primary_json: |-
-  {"mediaId":"m-14d6705cceac0ecd578d713d","title":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","caption":"1919 m. leidinio apie Ukrainą, Lenkiją ir Rusiją fizinis egzempliorius.","originalTitle":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","creator":"Serhiy Shelukhin","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : ukrainepolandrus00shelrich","dateDisplay":"2026-04-11 21:12:48","dateStart":null,"dateEnd":null,"width":912,"height":1500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1919 books","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with SDC link missing","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item redundant image","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"DjVu files in English","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-80-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive/unverified","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded with IA Upload","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Rusija.md","title":"Rusija","itemType":"vieta","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T16:09:02.151691+03:00","reviewedAt":"2026-07-18T16:09:54.178244+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istorinio leidinio nugarėlė arba viršelis su bibliotekos lipdukais ir katalogo žymomis.","metadataEvidence":"Pavadinime aiškiai įvardyta Russia; leidinys datuojamas 1919 m. ir nagrinėja Ukrainos, Lenkijos bei Rusijos politinį klausimą.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Rusijos vaizdas, bet aiškiai identifikuotas istorinis dokumentas, tiesiogiai susijęs su Rusija.","isPrimary":0}
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  [{"mediaId":"m-14d6705cceac0ecd578d713d","title":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","caption":"1919 m. leidinio apie Ukrainą, Lenkiją ir Rusiją fizinis egzempliorius.","originalTitle":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","creator":"Serhiy Shelukhin","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : ukrainepolandrus00shelrich","dateDisplay":"2026-04-11 21:12:48","dateStart":null,"dateEnd":null,"width":912,"height":1500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1919 books","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with SDC link missing","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item redundant image","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"DjVu files in English","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-80-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive/unverified","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded with IA Upload","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Rusija.md","title":"Rusija","itemType":"vieta","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T16:09:02.151691+03:00","reviewedAt":"2026-07-18T16:09:54.178244+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istorinio leidinio nugarėlė arba viršelis su bibliotekos lipdukais ir katalogo žymomis.","metadataEvidence":"Pavadinime aiškiai įvardyta Russia; leidinys datuojamas 1919 m. ir nagrinėja Ukrainos, Lenkijos bei Rusijos politinį klausimą.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Rusijos vaizdas, bet aiškiai identifikuotas istorinis dokumentas, tiesiogiai susijęs su Rusija.","isPrimary":0}]
-media_all_json: |-
-  [{"mediaId":"m-14d6705cceac0ecd578d713d","title":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","caption":"1919 m. leidinio apie Ukrainą, Lenkiją ir Rusiją fizinis egzempliorius.","originalTitle":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","creator":"Serhiy Shelukhin","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : ukrainepolandrus00shelrich","dateDisplay":"2026-04-11 21:12:48","dateStart":null,"dateEnd":null,"width":912,"height":1500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1919 books","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with SDC link missing","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item redundant image","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"DjVu files in English","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-80-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive/unverified","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded with IA Upload","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Rusija.md","title":"Rusija","itemType":"vieta","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T16:09:02.151691+03:00","reviewedAt":"2026-07-18T16:09:54.178244+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istorinio leidinio nugarėlė arba viršelis su bibliotekos lipdukais ir katalogo žymomis.","metadataEvidence":"Pavadinime aiškiai įvardyta Russia; leidinys datuojamas 1919 m. ir nagrinėja Ukrainos, Lenkijos bei Rusijos politinį klausimą.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Rusijos vaizdas, bet aiškiai identifikuotas istorinis dokumentas, tiesiogiai susijęs su Rusija.","isPrimary":0}]
-entity_id: "ent-57fcd8e3c61c8808db2c9a51"
-canonical_name: "Rusija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Rusija"]
+media_primary_directness: contextual
+media_primary_relation_type: edition_image_of
+media_primary_json: '{"mediaId":"m-14d6705cceac0ecd578d713d","title":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","caption":"1919 m. leidinio apie Ukrainą, Lenkiją ir Rusiją fizinis egzempliorius.","originalTitle":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","creator":"Serhiy Shelukhin","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : ukrainepolandrus00shelrich","dateDisplay":"2026-04-11 21:12:48","dateStart":null,"dateEnd":null,"width":912,"height":1500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1919 books","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with SDC link missing","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item redundant image","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"DjVu files in English","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-80-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive/unverified","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded with IA Upload","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Rusija.md","title":"Rusija","itemType":"vieta","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T16:09:02.151691+03:00","reviewedAt":"2026-07-18T16:09:54.178244+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istorinio leidinio nugarėlė arba viršelis su bibliotekos lipdukais ir katalogo žymomis.","metadataEvidence":"Pavadinime aiškiai įvardyta Russia; leidinys datuojamas 1919 m. ir nagrinėja Ukrainos, Lenkijos bei Rusijos politinį klausimą.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Rusijos vaizdas, bet aiškiai identifikuotas istorinis dokumentas, tiesiogiai susijęs su Rusija.","isPrimary":0}'
+media_direct_json: '[]'
+media_contextual_json: '[{"mediaId":"m-14d6705cceac0ecd578d713d","title":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","caption":"1919 m. leidinio apie Ukrainą, Lenkiją ir Rusiją fizinis egzempliorius.","originalTitle":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","creator":"Serhiy Shelukhin","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : ukrainepolandrus00shelrich","dateDisplay":"2026-04-11 21:12:48","dateStart":null,"dateEnd":null,"width":912,"height":1500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1919 books","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with SDC link missing","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item redundant image","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"DjVu files in English","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-80-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive/unverified","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded with IA Upload","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Rusija.md","title":"Rusija","itemType":"vieta","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T16:09:02.151691+03:00","reviewedAt":"2026-07-18T16:09:54.178244+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istorinio leidinio nugarėlė arba viršelis su bibliotekos lipdukais ir katalogo žymomis.","metadataEvidence":"Pavadinime aiškiai įvardyta Russia; leidinys datuojamas 1919 m. ir nagrinėja Ukrainos, Lenkijos bei Rusijos politinį klausimą.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Rusijos vaizdas, bet aiškiai identifikuotas istorinis dokumentas, tiesiogiai susijęs su Rusija.","isPrimary":0}]'
+media_all_json: '[{"mediaId":"m-14d6705cceac0ecd578d713d","title":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","caption":"1919 m. leidinio apie Ukrainą, Lenkiją ir Rusiją fizinis egzempliorius.","originalTitle":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","creator":"Serhiy Shelukhin","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : ukrainepolandrus00shelrich","dateDisplay":"2026-04-11 21:12:48","dateStart":null,"dateEnd":null,"width":912,"height":1500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1919 books","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with SDC link missing","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item redundant image","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"DjVu files in English","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-80-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive/unverified","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded with IA Upload","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Rusija.md","title":"Rusija","itemType":"vieta","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T16:09:02.151691+03:00","reviewedAt":"2026-07-18T16:09:54.178244+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istorinio leidinio nugarėlė arba viršelis su bibliotekos lipdukais ir katalogo žymomis.","metadataEvidence":"Pavadinime aiškiai įvardyta Russia; leidinys datuojamas 1919 m. ir nagrinėja Ukrainos, Lenkijos bei Rusijos politinį klausimą.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Rusijos vaizdas, bet aiškiai identifikuotas istorinis dokumentas, tiesiogiai susijęs su Rusija.","isPrimary":0}]'
+entity_id: ent-57fcd8e3c61c8808db2c9a51
+canonical_name: Rusija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Rusija
 sameAs: []
-canonical_biography: "Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė. Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų."
+canonical_biography: 'Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė. Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Rusija","url":"https://lt.wikipedia.org/wiki/Rusija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Rusija","url":"https://www.vle.lt/straipsnis/rusija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T01:55:54+00:00","source_checked_at":"2026-09-19T01:55:54+00:00","counts":{"relations":32,"gallery":1,"sources":4},"featured_claim_ids":["t-180535","t-180510","t-180515","t-180526","t-180532","t-180505"],"featured_claims":[{"claim_id":"t-180535","text":"1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-164142"]},{"claim_id":"t-180510","text":"Rusijos valdžia brutaliu, diskriminaciniu rusinimu siekė aneksuotas Lenkijos ir Lietuvos žemes paversti Vakarų Rusija.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-164133"]},{"claim_id":"t-180515","text":"Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-164122"]},{"claim_id":"t-180526","text":"Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-164125"]},{"claim_id":"t-180532","text":"1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-164126"]},{"claim_id":"t-180505","text":"Rusija pasisavino iš LDK erdvių kilusius pirties ir „horilkos“ arba „vodkos“ fenomenus.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-164116"]}],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Rusija","url":"https://lt.wikipedia.org/wiki/Rusija","publisher":"Vikipedija","language":"lt","article_id":"943","revision_id":"7905844","published_at":"2026-08-17T18:25:13Z","version_pk":"","content_hash":"bc081517b7333017c4a38644b148ac6d109c8ed84a3a6c2cde7d0854dfe445dd","retrieved_at":"2026-09-19T01:53:49+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Rusija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"943"}},"intro":"Rusija (rus. Россия = Rossija; oficialiai Rusijos Federacija, rus. Российская Федерация = Rossijskaja Federacija) – federacinė transkontinentinė valstybė šiaurinėje Eurazijos dalyje. Tai didžiausia pagal plotą pasaulyje valstybė, besidriekianti nuo Baltijos jūros (Atlanto vandenyno) iki Ramiojo vandenyno. Šiaurės vakaruose ribojasi su Norvegija ir Suomija, vakaruose – su Estija, Latvija ir Baltarusija, pietvakariuose – su Ukraina, pietuose – su Sakartvelu, Azerbaidžanu ir Kazachstanu, pietryčiuose – su Kinija, Mongolija ir Šiaurės Korėja. Rusijos pusiau eksklavas Kaliningrado sritis šiaurėje ir rytuose ribojasi su Lietuva, pietuose – su Lenkija. Vakarinė šalies dalis, esanti Europos žemyne, yra daug tankiau apgyvendinta nei rytinė – maždaug 77 % populiacijos gyvena vakarų Rusijoje. Šalis apima apie aštuntadalį apgyvendintos žemės ploto ir turėdama 144 mln. gyventojų užima 9 vietą pagal gyventojų skaičių pasaulyje, ir yra viena iš rečiausiai apgyvendintų pasaulio šalių. Rusijos sostinė Maskva yra vienas didžiausių pasaulio miestų. Taip pat labai svarbus šalies miestas yra Sankt Peterburgas, kuris nuo 1712 m. iki 1918 m. buvo šalies sostinė. Kiti svarbūs šalies centrai ir milijoniniai miestai yra Novosibirskas Sibire, Jekaterinburgas Urale, Žemutinis Naugardas prie Volgos. Šiandieninė Rusija išaugo iš Maskvos Didžiosios Kunigaikštystės, dalinės rytų slavų Kijevo Rusios kunigaikštystės, vėliau Rusijos Carystės ir Rusijos Imperijos. Augdama šalis apėmė ir daugelio kitų tautų gyvenamas teritorijas ir dabar yra daugiatautė valstybė, nors etniniai rusai sudaro apie 80 % šalies gyventojų. Administraciškai Rusija suskirstyta į 9 federalinių apygardų ir 85 federacinių subjektų.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Rusija","url":"https://lt.wikipedia.org/wiki/Rusija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Rusija","url":"https://www.vle.lt/straipsnis/rusija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Rusija","https://www.vle.lt/straipsnis/rusija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"bbd1f4684c093de34d2721d0","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Baltijos pakrantė nuo Vyborgo iki Rygos","context":"Šiaurės karo metu (1700–1721 m.) šaltinis teigia, kad Rusija ėmė valdyti šią Baltijos pakrantę.","support_ids":["t-180526","c-164125"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180526","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-164125","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome- nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos L I E T U V O S I S T O R I J A 88 apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius Lietuvos uostus Palangoje ir Šventojoje."}],"status":"published","conflict_status":"clear"},{"trait_id":"77aae6714ef3967b111b20a1","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Rusijos valdomoje teritorijoje buvo visa Livonija","context":"Šiaurės karo metu (1700–1721 m.), po karo veiksmų šaltinis nurodo, kad Rusija užėmė visą Livoniją.","support_ids":["t-180526","c-164125"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180526","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-164125","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome- nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos L I E T U V O S I S T O R I J A 88 apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius Lietuvos uostus Palangoje ir Šventojoje."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Rusija – istorinis-politinis objektas, reikšmingas Lietuvos ir regiono istorijai. Šiaurės karo metu (1700–1721) ji sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė Livoniją ir pradėjo valdyti Baltijos pakrantę nuo Vyborgo iki Rygos. 1795 m. Rusija kartu su Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai. Vėliau valdžia brutaliu ir diskriminaciniu rusinimu siekė aneksuotas Lietuvos ir Lenkijos žemes paversti Vakarų Rusija; po 1831 m. sukilimo Lietuvos vardą oficialiai pakeitė „Šiaurės Vakarų kraštas“. 1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.","sentences":[{"sentence_id":"s1","text":"Rusija – istorinis-politinis objektas, reikšmingas Lietuvos ir regiono istorijai.","support_ids":["t-180526","c-164125","t-180535","c-164142"]},{"sentence_id":"s2","text":"Šiaurės karo metu (1700–1721) ji sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė Livoniją ir pradėjo valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.","support_ids":["t-180526","c-164125"]},{"sentence_id":"s3","text":"1795 m. Rusija kartu su Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.","support_ids":["t-180535","c-164142"]},{"sentence_id":"s4","text":"Vėliau valdžia brutaliu ir diskriminaciniu rusinimu siekė aneksuotas Lietuvos ir Lenkijos žemes paversti Vakarų Rusija; po 1831 m. sukilimo Lietuvos vardą oficialiai pakeitė „Šiaurės Vakarų kraštas“.","support_ids":["t-180510","c-164133","t-180515","c-164122"]},{"sentence_id":"s5","text":"1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.","support_ids":["t-180532","c-164126"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Pateikti šaltiniai nepatvirtina, kad Rusija yra reikšmingas istorinis-politinis objektas Lietuvos ir regiono istorijai."},{"sentence_id":"s2","supported":true,"reason":"Sakinio faktai tiesiogiai sutampa su c-164125."},{"sentence_id":"s3","supported":true,"reason":"Sakinio faktai tiesiogiai sutampa su c-164142."},{"sentence_id":"s4","supported":true,"reason":"Abi sakinio dalys tiesiogiai patvirtintos c-164133 ir c-164122."},{"sentence_id":"s5","supported":true,"reason":"Sakinio faktai tiesiogiai sutampa su c-164126."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-180526","c-164125","t-180535","c-164142"]},{"sentence_id":"s2","supported":true,"support_ids":["t-180526","c-164125"]},{"sentence_id":"s3","supported":true,"support_ids":["t-180535","c-164142"]},{"sentence_id":"s4","supported":true,"support_ids":["t-180510","c-164133","t-180515","c-164122"]},{"sentence_id":"s5","supported":true,"support_ids":["t-180532","c-164126"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-14d6705cceac0ecd578d713d","reason":"deterministic_media_primary","identity_verified":false,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"m-14d6705cceac0ecd578d713d","candidate_count":1,"visual_verified_count":1,"identity_verified_count":0,"primary":{"visual_verified":true,"identity_verified":false,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Tai ne Rusijos vaizdas, bet aiškiai identifikuotas istorinis dokumentas, tiesiogiai susijęs su Rusija.","visual_evidence":"Matoma istorinio leidinio nugarėlė arba viršelis su bibliotekos lipdukais ir katalogo žymomis.","metadata_evidence":"Pavadinime aiškiai įvardyta Russia; leidinys datuojamas 1919 m. ir nagrinėja Ukrainos, Lenkijos bei Rusijos politinį klausimą.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Aleksejus Michailovičius","claim_id":"t-183743","confidence":0.9},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Borisas Jelcinas","claim_id":"t-63520","confidence":0.58},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-01389","confidence":0.86},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lietuvių Tautos Taryba","claim_id":"t-01389","confidence":0.68},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Mordviai","claim_id":"t-216783","confidence":0.92},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Žydai","claim_id":"t-117394","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Adomas Mickevičius","claim_id":"t-05717","confidence":0.88},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Kristupas Radvila Perkūnas","claim_id":"t-78614","confidence":0.8},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Kristupas Radvila","claim_id":"t-78615","confidence":0.83},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Riurikas","claim_id":"t-82105","confidence":0.87},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-22359","confidence":0.76},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Brunonas","claim_id":"t-31616","confidence":0.62},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-183270","confidence":0.72},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-68824","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kauno gubernija","claim_id":"t-170422","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kijevas","claim_id":"t-10469","confidence":0.93},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-101544","confidence":0.93},{"predicate":"priklause","direction":"outbound","target":"objektai/asmenys/Jadvyga","claim_id":"t-67414","confidence":0.7},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Smolenskas","claim_id":"t-10469","confidence":0.98},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Ukraina","claim_id":"t-10470","confidence":0.8},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Užnemunė","claim_id":"t-183279","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Šiaurės Vakarų kraštas","claim_id":"t-77715","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Karolis XII","claim_id":"t-171586","confidence":0.96},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Krymo totoriai","claim_id":"t-09880","confidence":0.91},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Radvilos","claim_id":"t-78858","confidence":0.72},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Steponas Batoras","claim_id":"t-113967","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Radvila","claim_id":"t-80616","confidence":0.76},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Napoleono kariuomenė","claim_id":"t-180358","confidence":0.92},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-12172","confidence":0.93},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Petras I Didysis","claim_id":"t-184427","confidence":0.84},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Riurikaičių dinastija","claim_id":"t-40106","confidence":0.95},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-67414","confidence":0.88}],"timeline":[],"support_disclosure":{"claims":7,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f1b3baad928f9d03
+object_page_generated_at: '2026-09-19T01:55:54+00:00'
+object_page_source_checked_at: '2026-09-19T01:55:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '2'
+object_page_seo_description: 'Rusija – istorinis-politinis objektas, reikšmingas Lietuvos ir regiono istorijai. Šiaurės karo metu (1700–1721) ji sutriuškino Švedijos karaliaus Karolio XII…'
+object_page_seo_input_hash: a55e473b6716eaec163301708a1f79d6a937838706d0785be14dcc30f3c878d2
+object_page_seo_generated_at: '2026-09-19T01:55:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Rusija
 
@@ -60,98 +71,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 
 ## Teiginiai
 
-<a id="claim-t-209291"></a>
-- t-209291
-  teiginys: "Rusijos valdžia 1804, 1807 ir 1813 m. išleido įsakus dėl žydų iškeldinimo iš dvarų ir sodžių."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  temporaliniai_duomenys: "įvykio data: 1813 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir tiesiogiai pagrįstas citata. Papildomos įsakų vykdymo aplinkybės sąmoningai nepridėtos."
-  pagrindžia:
-    - c-191959
-
-<a id="claim-t-209374"></a>
-- t-209374
-  teiginys: "Rufinas Piotrovičius penktojo dešimtmečio viduryje į užsienį išvyko bėgdamas nuo Rusijos valdžios persekiojimo."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
-  pagrindžia:
-    - c-191909
-
-<a id="claim-t-209641"></a>
-- t-209641
-  teiginys: "Jie va žiavo tai į neutrales šalis, tai į Rusijų biz nio daryti."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192261
-
-<a id="claim-t-209642"></a>
-- t-209642
-  teiginys: "Rusijos, Lietuvos, Italijos ir Šveicarijos lietuviai, susirinkę Šveicarijos Lausannoj, svarstydami Amerikos lietuvių surink ti} aukų mažumą, nusprendė, išreikšti Ameri kos lietuviams papeikimą ir stebėjimąsi, kad jie nesiliauja pešęsi tarpu savęs net šiuom."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192262
-
-<a id="claim-t-209643"></a>
-- t-209643
-  teiginys: "Sako, kad rusų caras nenorįs jo išleisti iš Rusijos."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192263
-
-<a id="claim-t-216094"></a>
-- t-216094
-  teiginys: "Tais metais karaliui Žy gimantui buvo daug darbų ir rūpesčių; mat, be ši to darbštaus seimo, dar kariavo šiaurėje karą su Rusija."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200227
-
-<a id="claim-t-217576"></a>
-- t-217576
-  teiginys: "T. Narbutas nurodo tarnavęs Rusijos armijoje ir keliaudamas ieškojęs praeities pėdsakų."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198690
-
 <a id="claim-t-180505"></a>
-- t-180505
+- t-001
   teiginys: "Rusija pasisavino iš LDK erdvių kilusius pirties ir „horilkos“ arba „vodkos“ fenomenus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -169,18 +92,18 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164116
 
 <a id="claim-t-180507"></a>
-- t-180507
+- t-002
   teiginys: "Rytų Pabaltijyje ir šiaurės rytų Rusijoje medžiotojų bei žvejų kultūra tęsėsi panašiu lygiu apie porą tūkstančių metų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32396
 
 <a id="claim-t-180509"></a>
-- t-180509
+- t-003
   teiginys: "1998–1999 m. Rusijos finansų krizė sukėlė naujų išbandymų Lietuvos ekonomikai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -198,9 +121,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164112
 
 <a id="claim-t-180510"></a>
-- t-180510
+- t-004
   teiginys: "Rusijos valdžia brutaliu, diskriminaciniu rusinimu siekė aneksuotas Lenkijos ir Lietuvos žemes paversti Vakarų Rusija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -217,9 +140,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164133
 
 <a id="claim-t-180511"></a>
-- t-180511
+- t-005
   teiginys: "Atkūrusi nepriklausomybę Lietuva vakaruose įgijo sieną su Rusijos Kaliningrado sritimi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -236,9 +159,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164131
 
 <a id="claim-t-180512"></a>
-- t-180512
+- t-006
   teiginys: "Šiaurės Europą dengęs ledynas buvo apėmęs ir vidurio Rusiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -252,9 +175,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164129
 
 <a id="claim-t-180514"></a>
-- t-180514
+- t-007
   teiginys: "1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo beveik pusė etninių lietuvių, o rusiškai skaitė tik kas penktas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -271,9 +194,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164135
 
 <a id="claim-t-180515"></a>
-- t-180515
+- t-008
   teiginys: "Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -290,9 +213,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164122
 
 <a id="claim-t-180518"></a>
-- t-180518
+- t-009
   teiginys: "Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jekaterina II: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -309,9 +232,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164116
 
 <a id="claim-t-180519"></a>
-- t-180519
+- t-010
   teiginys: "Karai su Maskvos didžiąja kunigaikštyste, vėliau Rusija, dėl rytinių teritorijų kėlė konfliktus tarp ATR ir Rusijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -328,9 +251,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164120
 
 <a id="claim-t-180520"></a>
-- t-180520
+- t-011
   teiginys: "XVII–XVIII a. Rusijos ir Švedijos karai prisidėjo prie Rusijos kišimosi į Lenkijos ir Lietuvos vidaus reikalus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -344,9 +267,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164118
 
 <a id="claim-t-180523"></a>
-- t-180523
+- t-012
   teiginys: "Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -360,9 +283,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164129
 
 <a id="claim-t-180524"></a>
-- t-180524
+- t-013
   teiginys: "1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Rusija: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -381,9 +304,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164119
 
 <a id="claim-t-180526"></a>
-- t-180526
+- t-014
   teiginys: "Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -400,9 +323,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164125
 
 <a id="claim-t-180529"></a>
-- t-180529
+- t-015
   teiginys: "1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama tvanu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tvanas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -418,9 +341,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164118
 
 <a id="claim-t-180530"></a>
-- t-180530
+- t-016
   teiginys: "1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija greitai pasiekė Lietuvos miestus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -437,9 +360,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164134
 
 <a id="claim-t-180531"></a>
-- t-180531
+- t-017
   teiginys: "1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko ir pradėjo LLV karą su Rusija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Polockas: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -457,9 +380,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164132
 
 <a id="claim-t-180532"></a>
-- t-180532
+- t-018
   teiginys: "1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -476,9 +399,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164126
 
 <a id="claim-t-180535"></a>
-- t-180535
+- t-019
   teiginys: "1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Austrija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -494,9 +417,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-164142
 
 <a id="claim-t-180536"></a>
-- t-180536
+- t-020
   teiginys: "1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Borisas Jelcinas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -513,10 +436,32 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - c-164140
 
+<a id="claim-t-188826"></a>
+- t-021
+  teiginys: "T. Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare, o mūšyje prie Abo miesto buvo kontūzytas."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prancūzai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prancūzai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusija\" parinktas kaip owner_note_path. Targetas \"Prancūzai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1808-1809; įvykio data: 1809 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutvarkytas į gramatinį sakinį ir pašalintas OCR skaidymas. Nepridėta vėlesnė interpretacija apie jo laikyseną Napoleono žygio metu."
+  pagrindžia:
+    - c-171715
+
 <a id="claim-t-193229"></a>
-- t-193229
+- t-022
   teiginys: "Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -526,16 +471,18 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - c-175967
 
-<a id="claim-t-219175"></a>
-- t-219175
+<a id="claim-t-194751"></a>
+- t-023
   teiginys: "Istorinės savimonės ištakų ieškant: Teodoras Narbu tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto rijos studijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177147
 
 ## Citatos
 
@@ -555,8 +502,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180507
+  pagrindzia:
+    - t-002
 
 - id: c-164112
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -580,8 +527,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180509
+  pagrindzia:
+    - t-003
 
 - id: c-164116
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -604,9 +551,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180505
-    - t-180518
+  pagrindzia:
+    - t-001
+    - t-009
 
 - id: c-164118
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -636,9 +583,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180520
-    - t-180529
+  pagrindzia:
+    - t-011
+    - t-015
 
 - id: c-164119
   autorius: "Michał Baliński"
@@ -664,8 +611,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180524
+  pagrindzia:
+    - t-013
 
 - id: c-164120
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -690,8 +637,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180519
+  pagrindzia:
+    - t-010
 
 - id: c-164122
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -709,8 +656,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180515
+  pagrindzia:
+    - t-008
 
 - id: c-164125
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -736,8 +683,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180526
+  pagrindzia:
+    - t-014
 
 - id: c-164126
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -760,8 +707,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180532
+  pagrindzia:
+    - t-018
 
 - id: c-164129
   autorius: "Zenonas Ivinskis"
@@ -782,9 +729,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180512
-    - t-180523
+  pagrindzia:
+    - t-006
+    - t-012
 
 - id: c-164131
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -807,8 +754,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180511
+  pagrindzia:
+    - t-005
 
 - id: c-164132
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -831,8 +778,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180531
+  pagrindzia:
+    - t-017
 
 - id: c-164133
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -853,8 +800,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180510
+  pagrindzia:
+    - t-004
 
 - id: c-164134
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -874,8 +821,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180530
+  pagrindzia:
+    - t-016
 
 - id: c-164135
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -899,8 +846,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180514
+  pagrindzia:
+    - t-007
 
 - id: c-164140
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -922,8 +869,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180536
+  pagrindzia:
+    - t-020
 
 - id: c-164142
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -943,8 +890,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180535
+  pagrindzia:
+    - t-019
 
 - id: c-171715
   autorius: "Teodoras Narbutas"
@@ -965,6 +912,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
 
 - id: c-175967
   redaktorius: "A. Šapoka"
@@ -981,8 +930,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193229
+  pagrindzia:
+    - t-022
 
 - id: c-177147
   autorius: "Teodoras Narbutas"
@@ -1001,153 +950,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-191909
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 18"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 18."
-  citata_originali: |
-    Kiti (V. Biržiška) teigė, jog tai buvo
-    kuris nors kitas, Šimkevičių pavardę turėjęs inteligentas, greičiausiai
-    emigrantas. Be to, V. Biržiška nurodė, jog laiško D. Poškai ąutorius
-    gali būti Rufino Piotrovičiaus, penktojo dešimtmečio viduryje bėgusio
-    nuo Rusijos valdžios persekiojimo užsienin, prisiminimuose minimas
-    žemaitis poetas Simkevičius, kuris 1846 m. Karaliaučiuje tarnavo
-    valdininku ir sakėsi daug žemaitiškų eilėraščių parašęs.
-  citata_rodoma: "Rufino Piotrovičiaus, penktojo dešimtmečio viduryje bėgusio \nnuo Rusijos valdžios persekiojimo užsienin, prisiminimuose minimas \nžemaitis poetas Simkevičius, kuris 1846 m. Karaliaučiuje tarnavo \nvaldininku ir sakėsi daug žemaitiškų eilėraščių parašęs."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209374
-
-- id: c-191959
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 51"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 51."
-  citata_originali: |
-    1804,
-    1807,
-    1813 m. Rusijos valdžia, gindama
-    viešpataujančios klasės interesus, išleido įsakus, įpareigojančius žydus
-    išsikelti iš dvarų ir sodžių. Kuršo, Gardino gubernijose iš dalies tie
-    patvarkymai pradėti vykdyti59, bet 1812 karo metu Lietuvos
-    bajoriškajai visuomenei daug prisidėjus prie Napoleono žygio, o žydų
-    bendruomenei gerai pasidarbavus Rusijos interesų labui, tie įsakai liko
-    tik popieriuje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209291
-
-- id: c-192261
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 19"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 19."
-  citata_originali: |
-    Jie va­
-    žiavo tai į neutrales šalis,
-    tai į Rusijų biz­
-    nio daryti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209641
-
-- id: c-192262
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 49"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 49."
-  citata_originali: |
-    Rusijos,
-    Lietuvos,
-    Italijos
-    ir
-    Šveicarijos lietuviai, susirinkę Šveicarijos Lau-
-    sannoj, svarstydami Amerikos lietuvių surink­
-    ti} aukų mažumą, nusprendė, išreikšti Ameri­
-    kos lietuviams papeikimą ir stebėjimąsi, kad
-    jie nesiliauja pešęsi tarpu savęs net šiuom bai­
-    siu karės metu
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209642
-
-- id: c-192263
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 68"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 68."
-  citata_originali: |
-    Sako,
-    kad
-    rusų caras nenorįs jo išleisti iš Rusijos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209643
-
-- id: c-198690
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 48"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 48."
-  citata_originali: |
-    Jau trisdešimt
-    metų, kai jaučiu norą dirbti šį darbą; tarnavau inžinieriumi
-    Rusijos armijoje ir, daug keliaudamas, versdamas ir rausda­
-    mas žemę (ne vieną kartą - ir savo gimtąją), ieškojau praeities
-    pėdsakų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217576
-
-- id: c-200227
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 514"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
-  citata_originali: |
-    Tais metais karaliui Žy­
-    gimantui buvo daug darbų ir rūpesčių; mat, be ši­
-    to darbštaus seimo, dar kariavo šiaurėje karą su
-    Rusija.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216094
+  pagrindzia:
+    - t-023
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksejus Michailovičius]]

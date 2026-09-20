@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Ragainės pilis'
+pavadinimas: Ragainės pilis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1295 m.'
+  - 1295 m.
 date_start: '1295'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7f5a7f2679cb4f0ff6bf8bf2"
-canonical_name: "Ragainės pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ragainės pilis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7f5a7f2679cb4f0ff6bf8bf2
+canonical_name: Ragainės pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ragainės pilis
 sameAs: []
-canonical_biography: "1295 m. lietuviai pasiekė prie Ragainės pilies esančią salą ir pagrobė brolių žirgus bei galvijus."
+canonical_biography: 1295 m. lietuviai pasiekė prie Ragainės pilies esančią salą ir pagrobė brolių žirgus bei galvijus.
 ---
 # Ragainės pilis
 
@@ -72,6 +71,5 @@ canonical_biography: "1295 m. lietuviai pasiekė prie Ragainės pilies esančią
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

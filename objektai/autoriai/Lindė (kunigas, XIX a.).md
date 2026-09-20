@@ -3,41 +3,42 @@ tipas: autorius
 pavadinimas: 'Lindė (kunigas, XIX a.)'
 identifikacija: 'kunigas, XIX a.'
 variantai:
-  - 'Lindė'
+  - Lindė
 aliases:
-  - 'Lindė'
+  - Lindė
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1816 m.'
-  - '1828 m.'
+  - 1816 m.
+  - 1828 m.
 date_start: '1816'
 date_end: '1828'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9daf90c7590c6ebc051f6773"
-canonical_name: "Lindė (kunigas, XIX a.)"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Lindė","Lindė (kunigas, XIX a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9daf90c7590c6ebc051f6773
+canonical_name: 'Lindė (kunigas, XIX a.)'
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Lindė
+  - 'Lindė (kunigas, XIX a.)'
 sameAs: []
-canonical_biography: "Pasiremsime tiktai Faterio, Lindės ir Bole- ."
+canonical_biography: 'Pasiremsime tiktai Faterio, Lindės ir Bole- .'
 ---
 # Lindė (kunigas, XIX a.)
 
@@ -94,6 +95,5 @@ Pasiremsime tiktai Faterio, Lindės ir Bole- .
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

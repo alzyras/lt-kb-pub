@@ -35,6 +35,27 @@ canonical_biography: "Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas i�
 
 Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei.
 
+## Teiginiai
+
+<a id="claim-t-186196"></a>
+- t-001
+  teiginys: "Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Chadžibėjus Girėjus: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dimitras sultanas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Chadžibėjus Girėjus: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dimitras sultanas\" parinktas kaip owner_note_path. Targetas \"Chadžibėjus Girėjus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169557
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei.'
@@ -75,27 +96,5 @@ Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikšči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-186196"></a>
-- t-001
-  teiginys: "Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Chadžibėjus Girėjus: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dimitras sultanas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Chadžibėjus Girėjus: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dimitras sultanas\" parinktas kaip owner_note_path. Targetas \"Chadžibėjus Girėjus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169557
-

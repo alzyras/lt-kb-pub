@@ -1,40 +1,40 @@
 ---
 tipas: vieta
-pavadinimas: 'Horodlas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Horodlas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Horodlas'
+  - Horodlas
 aliases:
-  - 'Horodlas'
+  - Horodlas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1413 m.'
+  - 1413 m.
 date_start: '1413'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0c42ae43a3298ea7f042c152"
-canonical_name: "Horodlas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Horodlas","Horodlas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0c42ae43a3298ea7f042c152
+canonical_name: Horodlas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Horodlas
+  - Horodlas (vieta)
 sameAs: []
-canonical_biography: "Horodlas yra Volynės vietovė prie Vakarų Bugo."
+canonical_biography: Horodlas yra Volynės vietovė prie Vakarų Bugo.
 ---
 # Horodlas (vieta)
 
@@ -78,6 +78,5 @@ Horodlas yra Volynės vietovė prie Vakarų Bugo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

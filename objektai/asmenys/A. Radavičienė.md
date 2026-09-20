@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'A. Radavičienė'
+pavadinimas: A. Radavičienė
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-70c368df871c9f60901179a4"
-canonical_name: "A. Radavičienė"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["A. Radavičienė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-70c368df871c9f60901179a4
+canonical_name: A. Radavičienė
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - A. Radavičienė
 sameAs: []
-canonical_biography: "Radavičienė liudijo, kad Valančius jos broliukui davė naują surdutėlį. Radavičienė iš vaikystės dienų prisimena, kad, jai ganant kiaules, vysk."
+canonical_biography: 'Radavičienė liudijo, kad Valančius jos broliukui davė naują surdutėlį. Radavičienė iš vaikystės dienų prisimena, kad, jai ganant kiaules, vysk.'
 ---
 # A. Radavičienė
 

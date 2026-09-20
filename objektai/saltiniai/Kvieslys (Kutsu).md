@@ -39,6 +39,18 @@ Kvietimui į A. R. Niemio įžengiamąją paskaitą išleistas leidinys, kuriame
 
 A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
+## Teiginiai
+
+<a id="claim-t-195219"></a>
+- t-001
+  teiginys: "Kviečiant į A. R. Niemio įžengiamąją paskaitą buvo išleistas „Kvieslys (Kutsu)“ su jo curriculum vitae ir mokslo darbų sąrašu."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177585
+
 ## Citatos
 
 - id: c-177585
@@ -60,18 +72,5 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195219"></a>
-- t-001
-  teiginys: "Kviečiant į A. R. Niemio įžengiamąją paskaitą buvo išleistas „Kvieslys (Kutsu)“ su jo curriculum vitae ir mokslo darbų sąrašu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177585
-

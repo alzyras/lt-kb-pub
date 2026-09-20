@@ -1,28 +1,25 @@
 ---
 tipas: saltinis
-pavadinimas: 'Henriko Latvio kronikos prierašai'
+pavadinimas: Henriko Latvio kronikos prierašai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1243 m.'
+  - 1243 m.
 date_start: '1243'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Henriko Latvio kronikos prierašai
 
@@ -68,6 +65,5 @@ Henriko Latvio kronikos prierašuose, arba pastabose, ku rias XVII amžiuje para
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

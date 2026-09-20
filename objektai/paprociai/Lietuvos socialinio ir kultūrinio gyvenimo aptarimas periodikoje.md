@@ -60,6 +60,96 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-55155"></a>
+- t-001
+  teiginys: "M. Balinskis Varšuvos laikraštyje spausdino Laiškus, kuriuose nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją."
+  pagrindžia:
+    - c-78409
+
+<a id="claim-t-55156"></a>
+- t-002
+  teiginys: "To meto Lenkijos laikraščiuose ir žurnaluose buvo spausdinama nemažai straipsnių apie socialinę-ekonominę padėtį ir kultūrinį gyvenimą į rytus nuo Nemuno."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=116"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, gramatiškas ir paremtas pateikta citata."
+  pagrindžia:
+    - c-78409
+
+<a id="claim-t-81866"></a>
+- t-003
+  teiginys: "XIX a. Lenkijos laikraščiai ir žurnalai spausdino straipsnius apie socialinę-ekonominę padėtį į rytus nuo Nemuno ir kultūrinį gyvenimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir suredaguotas į taisyklingą enciklopedinį sakinį."
+  pagrindžia:
+    - c-78409
+
+<a id="claim-t-81867"></a>
+- t-004
+  teiginys: "„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį bei kultūrinį pagyvėjimą Lietuvoje ir Lenkijoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėsta neaiški nuoroda „Jos“ ir pašalintas OCR triukšmas."
+  pagrindžia:
+    - c-78409
+
+<a id="claim-t-194189"></a>
+- t-005
+  teiginys: "Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultūrinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a."
+  atnaujinta: "2026-07-06 13:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78409
+
 ## Citatos
 
 - id: c-78409
@@ -93,100 +183,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
     - t-003
     - t-004
     - t-005
-
-## Teiginiai
-
-<a id="claim-t-55155"></a>
-- t-001
-  teiginys: "M. Balinskis Varšuvos laikraštyje spausdino Laiškus, kuriuose nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::customs"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją."
-  pagrindžia:
-    - c-78409
-
-<a id="claim-t-55156"></a>
-- t-002
-  teiginys: "To meto Lenkijos laikraščiuose ir žurnaluose buvo spausdinama nemažai straipsnių apie socialinę-ekonominę padėtį ir kultūrinį gyvenimą į rytus nuo Nemuno."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::customs"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=116"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, gramatiškas ir paremtas pateikta citata."
-  pagrindžia:
-    - c-78409
-
-<a id="claim-t-81866"></a>
-- t-003
-  teiginys: "XIX a. Lenkijos laikraščiai ir žurnalai spausdino straipsnius apie socialinę-ekonominę padėtį į rytus nuo Nemuno ir kultūrinį gyvenimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::customs"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir suredaguotas į taisyklingą enciklopedinį sakinį."
-  pagrindžia:
-    - c-78409
-
-<a id="claim-t-81867"></a>
-- t-004
-  teiginys: "„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį bei kultūrinį pagyvėjimą Lietuvoje ir Lenkijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::customs"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išplėsta neaiški nuoroda „Jos“ ir pašalintas OCR triukšmas."
-  pagrindžia:
-    - c-78409
-
-<a id="claim-t-194189"></a>
-- t-005
-  teiginys: "Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultūrinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78409
-

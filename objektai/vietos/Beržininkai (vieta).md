@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Beržininkai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Beržininkai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Beržininkai'
+  - Beržininkai
 aliases:
-  - 'Beržininkai'
+  - Beržininkai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a554603e2f76ca73136df862"
-canonical_name: "Beržininkai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Beržininkai","Beržininkai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a554603e2f76ca73136df862
+canonical_name: Beržininkai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Beržininkai
+  - Beržininkai (vieta)
 sameAs: []
-canonical_biography: "Be to, šiam reikalui delegavo Beržininkų vi karą kun. Antaną Brundzą, kurį Varmijos vyskupas pa skyrė Robkojų filijos administratorium."
+canonical_biography: 'Be to, šiam reikalui delegavo Beržininkų vi karą kun. Antaną Brundzą, kurį Varmijos vyskupas pa skyrė Robkojų filijos administratorium.'
 place_authority: true
 historical_names: []
 ---

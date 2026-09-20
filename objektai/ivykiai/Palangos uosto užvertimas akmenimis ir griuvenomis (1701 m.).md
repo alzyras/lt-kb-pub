@@ -1,34 +1,31 @@
 ---
 tipas: ivykis
-pavadinimas: 'Palangos uosto užvertimas akmenimis ir griuvenomis (1701 m.)'
+pavadinimas: Palangos uosto užvertimas akmenimis ir griuvenomis (1701 m.)
 variantai:
-  - 'Palangos uosto užvertimas akmenimis ir griuvenomis'
+  - Palangos uosto užvertimas akmenimis ir griuvenomis
 aliases:
-  - 'Palangos uosto užvertimas akmenimis ir griuvenomis'
+  - Palangos uosto užvertimas akmenimis ir griuvenomis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1331 m.'
-  - '1701 m.'
+  - 1331 m.
+  - 1701 m.
 date_start: '1331'
 date_end: '1701'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
-  - 'XVIII'
+  - XIV
+  - XVIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Palangos uosto užvertimas akmenimis ir griuvenomis (1701 m.)
 
@@ -95,6 +92,5 @@ Narbutas, remdamasis Zaluskio liudijimu, teigia, kad 1701 metais švedai, rygie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

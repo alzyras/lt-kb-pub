@@ -49,6 +49,21 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62251"></a>
+- t-001
+  teiginys: "1306 m. Karaliaučiaus pilyje prie švento Ruprechto relikvijų, pasak Dusburgiečio, gijo žmonės, šunys ir traukos gyvuliai."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1306 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta antraštinė ir perteklinė formuluotė; išlaikyta stebuklo pasakojimo atribucija."
+  pagrindžia:
+    - c-62760
+
 ## Citatos
 
 - id: c-62760
@@ -72,17 +87,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-223432"></a>
-- t-001
-  teiginys: "1306 m. Karaliaučiaus pilyje prie švento Ruprechto relikvijų, pasak Dusburgiečio, gijo žmonės, šunys ir traukos gyvuliai."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1306 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta antraštinė ir perteklinė formuluotė; išlaikyta stebuklo pasakojimo atribucija."
-
+  pagrindzia:
+    - t-001

@@ -37,33 +37,10 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
 
 ## Teiginiai
 
-<a id="claim-t-211976"></a>
-- t-211976
-  teiginys: "Lietuvos metraštis teigia, kad <40t-siais' viešpaties metais pasirodė Atila2, pra mintas Dievo Rykšte."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194171
-
-<a id="claim-t-210446"></a>
-- t-210446
+<a id="claim-t-194093"></a>
+- t-001
   teiginys: "Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuolika tūkstančių su ja vykusių mergelių."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-
-<a id="claim-t-211836"></a>
-- t-211836
-  teiginys: "Lietuvos metraščio pasakojime Atila, neįveikęs įtvirtinto miesto, patraukė gilyn į Italiją Romos link."
-  atnaujinta: "2026-09-12 19:43"
+  atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -71,19 +48,32 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
-    - c-194366
+    - c-176706
 
-<a id="claim-t-213570"></a>
-- t-213570
+<a id="claim-t-196813"></a>
+- t-002
+  teiginys: "Lietuvos metraščio pasakojime Atila, neįveikęs įtvirtinto miesto, patraukė gilyn į Italiją Romos link."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-178926
+
+<a id="claim-t-197712"></a>
+- t-003
   teiginys: "Be to, istorikai, tai išgirdę, prisiminė, kad jų būta Atilos vadovaujamų genčių ir tautų mišinyje."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-196411
+    - c-179301
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -123,6 +113,8 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-178926
   autorius: "Anoniminis metraštininkas"
@@ -142,6 +134,8 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-179301
   autorius: "Teodoras Narbutas"
@@ -166,70 +160,5 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194171
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 38"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 38."
-  citata_originali: |
-    <40t-siais' viešpaties metais pasirodė Atila2, pra­
-    mintas Dievo Rykšte. Jis buvo kilęs nuo Jugros upės
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211976
-
-- id: c-194366
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 39"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 39."
-  citata_originali: |
-    O šis miestas buvo labai įtvirtintas
-    ir turėjo gerą romėnų kariuomenės Įgulą. Todėl Atila,
-    negalėdamas jo vienu matu įveikti17 ir nebenorėdamas
-    daugiau gaišti, traukė gilyn į Italiją, Romos linkui.
-    O kunigaikščiai ir senatoriai, kurie> buvo 18 tame mies­
-    te, regėdami tokią jo kariautojų galybę, išbėgiojo iš
-    miesto, apimti didžiausios baimės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211836
-
-- id: c-196411
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
-  citata_originali: |
-    Tai galima pa­
-    aiškinti taip: iš istorijos žinome, tai mes vėliau paaiškin­
-    sime, kad šalia hunų būta anaiptol ne vienos lietuvių
-    genties, t. y. skiriu, hirių ir kitokių, kurie visi tų laikų
-    istorijose turėjo bendrinį litvanų vardą. Be to, istorikai,
-    tai išgirdę, prisiminė, kad jų būta Atilos vadovaujamų
-    genčių ir tautų mišinyje. Bet, kai smulkiame tautų sąva­
-    de šiam bendriniam pavadinimui neliko vietos, jis buvo
-    tarsi pamirštas, tuo tarpu herulais vadinamų hirių sąvo­
-    ka įgavo persvarą tarp kitų jiems giminingų genčių; jų
-    pavadinimas, tapęs bendrinis visiems, užgožė tą, kuris
-    liko tik gimtojoje žemėje ir ten gyvenusioms gentims.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213570
-
+  pagrindzia:
+    - t-003

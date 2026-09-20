@@ -32,30 +32,12 @@ media_all_json: |-
 
 Nasonov, A.
 
-## Citatos
-
-- id: c-29646
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 330"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 330."
-  citata_originali: |
-    — Nasonov, A. N. : _Mongoly i Rus’. Istorija tatarskoj politiki na
-    Rusi,_ Maskva 1940. — _Očerki istorii SSSR.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-29741"></a>
 - t-001
   teiginys: "A. N. Nasonovo „Mongoly i Rus’. Istorija tatarskoj politiki na Rusi“ buvo išleista Maskvoje 1940 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -71,3 +53,20 @@ Nasonov, A.
   pagrindžia:
     - c-29646
 
+## Citatos
+
+- id: c-29646
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 330"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 330."
+  citata_originali: |
+    — Nasonov, A. N. : _Mongoly i Rus’. Istorija tatarskoj politiki na
+    Rusi,_ Maskva 1940. — _Očerki istorii SSSR.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

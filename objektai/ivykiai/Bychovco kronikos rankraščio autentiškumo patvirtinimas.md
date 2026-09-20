@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Bychovco kronikos rankraščio autentiškumo patvirtinimas'
+pavadinimas: Bychovco kronikos rankraščio autentiškumo patvirtinimas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1959 m.'
+  - 1959 m.
 date_start: '1959'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Bychovco kronikos rankraščio autentiškumo patvirtinimas
 
@@ -81,6 +78,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

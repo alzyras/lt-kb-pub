@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Varmė'
+pavadinimas: Varmė
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1235 m.'
-  - '2026 m.'
+  - 1235 m.
+  - 2026 m.
 date_start: '1235'
 date_end: '2026'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - vieta
   - žemė
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fbc90efa761c1721b119711f"
-canonical_name: "Varmė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Varmė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fbc90efa761c1721b119711f
+canonical_name: Varmė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Varmė
 sameAs: []
-canonical_biography: "Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties. Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių. Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu."
+canonical_biography: Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties. Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių. Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu.
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Varmė","url":"https://www.vle.lt/straipsnis/varme/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:29:08+00:00","source_checked_at":"2026-09-19T18:29:08+00:00","counts":{"relations":5,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"1514. 374 ## Puslapis 391 IV KNYGA I \\ Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsda- mi kelią būsimiems sunkumams, sutikome su Varmės baž­ nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­ tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono paskyrimą dabartiniu Varmės vyskupu, pateikiame kai ku­ riuos artikulus, kuriais numatoma, kad ateityje kokiu nors būdu esant vakuojančiai vietai, vyskupas privalo būti išrink­ tas be mūsų ir mūsų įpėdinių nesutarimų su kapitula. No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenktų bažnyčios, kurios globėjas mes esame, padė­ čiai ir kad tokios rūšies teiginiai, išdėstyti į artikulus, pritarus šventajam…","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-91429","evidence_id":"c-87133","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Varmė","url":"https://www.vle.lt/straipsnis/varme/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/varme/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7aeb7e7c26b7560a902cf7b2","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Varmė buvo viena iš 11 Prūsijos žemės dalių.","context":"Petro Dusburgiečio kronikoje (1985 m.) Prūsijos žemė skirstoma į 11 atskirų žemių, tarp jų minima Varmė.","support_ids":["t-220236","c-204792"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220236","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204792","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių, atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"57b2e8e8d17da395dae51490","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Varmė buvo žemė, kurioje gyveno varmiai.","context":"Petro Dusburgiečio kronikoje (1985 m.) tiesiogiai teigiama: „Ketvirta — Varmė, kurioje [gyveno] varmiai.“","support_ids":["t-224974","c-204800"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224974","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204800","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Ketvirta — Varmė194, kurioje [gyveno] varmiai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ac7653be85da7486b17308e6","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"XIV amžiuje buvo įkurti beveik visi Varmės miestai.","context":"Michał Balińskio veikale „Vilniaus miesto istorija“ (2007 m.) teigiama, kad XIV amžiuje buvo įkurti bemaž visi Varmės miestai.","support_ids":["t-91428","c-87135"],"source_refs":[{"kind":"internal_claim","claim_id":"t-91428","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-87135","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Teutonų ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­ gonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­ tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­ kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti bemaž visi Varmės miestai. Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­ kų karalių - Boleslovas Didysis, pramintas Narsiuoju."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"44881ec45e2a53456b17b563","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Po Vytenio antpuolio Varmės žemėje liko pusiau apdegusios Heilsbergo ir Varmės pilys; kaimai, miestai ir bažnyčios buvo sudeginti bei sulyginti su žeme.","context":"Albertas Vijūkas-Kojelavičius „Lietuvos istorijoje“ (1989 m.) aprašo, kad Vytenis balandžio mėnesį užpuolė Varmės žemę ir ją nuniokojo.","support_ids":["t-196750","c-178889"],"source_refs":[{"kind":"internal_claim","claim_id":"t-196750","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-178889","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Vytenis, nese­ niai laimėjęs, o štai dabar pralaimėjęs, ir niršo, ir py­ ko, nebemokėdamas nei vilties, nei skausmo tramdyti: jis siautėjo ir ginkluodamasis rengėsi karui. Sutelkta keturi tūkstančiai rinktinių karių; su šia kariuomene balandžio mėnesį Vytenis užpuolė Varmės žemę, po siaubingo nuniokojimo'' visame krašte nieko nebeliko, tik pusiau apdegusios Heilsbergo ir Varmės pilys: kaimai, miestai, bažnyčios — viskas sudeginta ir su žeme sulyginta. Lietuviai nuvedė prisiplėšusius grobio karius į Bartos žemę, kur atvirame lauke sustojo pailsėti."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Varmė – viena iš vienuolikos Petro Dusburgiečio kronikoje minimų Prūsijos žemės dalių. XIV amžiuje joje buvo įkurta beveik visi Varmės miestai, todėl regionas tapo svarbia miestų ir pilių raidos erdve. Varmė minima ir karo istorijoje: Kojelavičiaus pasakojimu, balandį Vytenis su keturiais tūkstančiais rinktinių karių užpuolė šią žemę ir ją smarkiai nuniokojo. Vėlesniu laikotarpiu Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu, taip atskleisdama svarbų kapitulos vaidmenį vyskupijos valdyme. Išskirtinė detalė – Varmės vyskupas Eberhardas, gavęs žinią apie taikos sutartį, Elblionge kartu su kitais vyskupais ir diecezijos klebonais nedelsdamas surengė pasitarimą bei išsiuntė laiškus įvairioms bažnytinėms ir politinėms institucijoms.","sentences":[{"sentence_id":"s1","text":"Varmė – viena iš vienuolikos Petro Dusburgiečio kronikoje minimų Prūsijos žemės dalių.","support_ids":["t-220236","c-204792"]},{"sentence_id":"s2","text":"XIV amžiuje joje buvo įkurta beveik visi Varmės miestai, todėl regionas tapo svarbia miestų ir pilių raidos erdve.","support_ids":["t-91428","t-91430","c-87135"]},{"sentence_id":"s3","text":"Varmė minima ir karo istorijoje: Kojelavičiaus pasakojimu, balandį Vytenis su keturiais tūkstančiais rinktinių karių užpuolė šią žemę ir ją smarkiai nuniokojo.","support_ids":["t-196750","c-178889"]},{"sentence_id":"s4","text":"Vėlesniu laikotarpiu Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu, taip atskleisdama svarbų kapitulos vaidmenį vyskupijos valdyme.","support_ids":["t-91426","t-91429","c-87133"]},{"sentence_id":"s5","text":"Išskirtinė detalė – Varmės vyskupas Eberhardas, gavęs žinią apie taikos sutartį, Elblionge kartu su kitais vyskupais ir diecezijos klebonais nedelsdamas surengė pasitarimą bei išsiuntė laiškus įvairioms bažnytinėms ir politinėms institucijoms.","support_ids":["t-91423","t-91427","c-87139"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta nurodytais šaltiniais: Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių."},{"sentence_id":"s2","supported":false,"reason":"Šaltiniai pagrindžia miestų įkūrimą XIV amžiuje, tačiau nepatvirtina išvados, kad regionas dėl to tapo svarbia miestų ir pilių raidos erdve."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta Kojelavičiaus pasakojimu: Vytenis balandį su keturiais tūkstančiais karių užpuolė ir smarkiai nuniokojo Varmės žemę."},{"sentence_id":"s4","supported":false,"reason":"Šaltinis patvirtina kapitulos prašymą pripažinti Fabijono paskyrimą, tačiau nepatvirtina išvados apie svarbų kapitulos vaidmenį vyskupijos valdyme."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Eberhardas su kitais vyskupais ir diecezijos klebonais Elblionge, gavę žinią apie taikos sutartį, surengė pasitarimą ir išsiuntė laiškus įvairioms institucijoms."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-220236","c-204792"]},{"sentence_id":"s2","supported":true,"support_ids":["t-91428","t-91430","c-87135"]},{"sentence_id":"s3","supported":true,"support_ids":["t-196750","c-178889"]},{"sentence_id":"s4","supported":true,"support_ids":["t-91426","t-91429","c-87133"]},{"sentence_id":"s5","supported":true,"support_ids":["t-91423","t-91427","c-87139"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Gubučiai","claim_id":"t-221788","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Heilsbergas","claim_id":"t-179914","confidence":0.72},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-42239","confidence":0.9},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-220236","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-184929","confidence":0.92}],"timeline":[],"support_disclosure":{"claims":9,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d18dcea655e8fed9
+object_page_generated_at: '2026-09-19T18:29:08+00:00'
+object_page_source_checked_at: '2026-09-19T18:29:08+00:00'
+object_page_content_state: content
+object_page_claim_count: '9'
+object_page_source_count: '3'
+object_page_seo_description: 'Varmė – viena iš vienuolikos Petro Dusburgiečio kronikoje minimų Prūsijos žemės dalių. XIV amžiuje joje buvo įkurta beveik visi Varmės miestai, todėl regionas…'
+object_page_seo_input_hash: 234801528c82e5adf542bbec7bcb3fead410400a81641e692e25bfb32cc4d4c6
+object_page_seo_generated_at: '2026-09-19T18:29:08+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Varmė
 
@@ -48,37 +60,10 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
 
 ## Teiginiai
 
-<a id="claim-t-224974"></a>
-- t-224974
-  teiginys: "Ketvirta — Varmė194, kurioje [gyveno] varmiai."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204800
-
-<a id="claim-t-220236"></a>
-- t-220236
-  teiginys: "Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Varmė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Varmė įtraukta į Prūsijos žemės dalių sąrašą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Varmė priklausė Prūsija (0.86)"
-
 <a id="claim-t-91423"></a>
-- t-91423
+- t-001
   teiginys: "Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Elbingas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -91,10 +76,27 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   pagrindžia:
     - c-87139
 
+<a id="claim-t-91424"></a>
+- t-002
+  teiginys: "Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Varmė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Varmė įtraukta į Prūsijos žemės dalių sąrašą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Varmė priklausė Prūsija (0.86)"
+  pagrindžia:
+    - c-87137
+
 <a id="claim-t-91426"></a>
-- t-91426
+- t-003
   teiginys: "Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Fabijonas (Varmės vyskupas): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -108,9 +110,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87133
 
 <a id="claim-t-91427"></a>
-- t-91427
+- t-004
   teiginys: "Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl gautos žinios apie taikos sutartį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Elbliongas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -124,9 +126,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87139
 
 <a id="claim-t-91428"></a>
-- t-91428
+- t-005
   teiginys: "XIV a. buvo įkurti beveik visi Varmės miestai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -140,9 +142,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87135
 
 <a id="claim-t-91429"></a>
-- t-91429
+- t-006
   teiginys: "Varmės bažnyčios kapitula prašė pripažinti galiojančiu Fabijono paskyrimą Varmės vyskupu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Fabijonas (Varmės vyskupas): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -156,9 +158,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87133
 
 <a id="claim-t-91430"></a>
-- t-91430
+- t-007
   teiginys: "XIV amžiuje buvo įkurti beveik visi Varmės miestai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -172,9 +174,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87135
 
 <a id="claim-t-196750"></a>
-- t-196750
+- t-008
   teiginys: "Kojelavičiaus pasakojime Vytenis balandžio mėnesį su keturiais tūkstančiais rinktinių karių užpuolė Varmės žemę ir ją siaubingai nuniokojo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -218,9 +220,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91426
-    - t-91429
+  pagrindzia:
+    - t-003
+    - t-006
 
 - id: c-87135
   autorius: "Michał Baliński"
@@ -243,9 +245,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91428
-    - t-91430
+  pagrindzia:
+    - t-005
+    - t-007
 
 - id: c-87137
   autorius: "Petras Dusburgietis"
@@ -267,6 +269,8 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-87139
   autorius: "Michał Baliński"
@@ -300,9 +304,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91423
-    - t-91427
+  pagrindzia:
+    - t-001
+    - t-004
 
 - id: c-178889
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -329,24 +333,8 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196750
-
-- id: c-204800
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
-  citata_originali: |
-    Ketvirta — Varmė194, kurioje [gyveno] varmiai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224974
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Puolė Varmę: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

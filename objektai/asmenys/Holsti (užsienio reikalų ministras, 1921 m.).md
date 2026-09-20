@@ -56,6 +56,19 @@ Holsti šiame straipsnyje minimas kaip užsienio reikalų ministras, iš kurio p
 
 - užsienio reikalų ministras
 
+## Teiginiai
+
+<a id="claim-t-195674"></a>
+- t-001
+  teiginys: "1921 m. rudenį Holsti šiame šaltinyje minimas kaip užsienio reikalų ministras, iš kurio prof. dr. Eretas išgavo Lietuvos pripažinimą de jure Suomijoje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "coverage-gap-overlap-repair"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-178073
+
 ## Citatos
 
 - id: c-178073
@@ -71,19 +84,5 @@ Holsti šiame straipsnyje minimas kaip užsienio reikalų ministras, iš kurio p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195674"></a>
-- t-001
-  teiginys: "1921 m. rudenį Holsti šiame šaltinyje minimas kaip užsienio reikalų ministras, iš kurio prof. dr. Eretas išgavo Lietuvos pripažinimą de jure Suomijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "coverage-gap-overlap-repair"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-178073
-

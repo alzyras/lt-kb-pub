@@ -49,53 +49,12 @@ Nenurodyta
 
 Nenurodyta
 
-## Citatos
-
-- id: c-23040
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 191"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 191."
-  citata_originali: |
-    Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
-    Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
-    muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
-    kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
-    liau – Raudonosios armijos 29-uoju šaulių korpusu).
-  citata_rodoma: "muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos"
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-166633
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 191"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 191."
-  citata_originali: |
-    Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
-    muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
-    kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
-    liau – Raudonosios armijos 29-uoju šaulių korpusu). Liepos 11 dieną su-
-    stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-20313"></a>
 - t-001
   teiginys: "1940 m. liepos 3 d. priimtas Lietuvos kariuomenės pertvarkymo įstatymas, po kurio Lietuvos kariuomenė tapo Liaudies kariuomene."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -114,7 +73,7 @@ Nenurodyta
 <a id="claim-t-183245"></a>
 - t-002
   teiginys: "1940 m. liepą Maskva diegė SSRS valdymo modelį Lietuvos administracijoje, policijoje ir teismuose, pradėta kurti liaudies milicija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -134,3 +93,43 @@ Nenurodyta
   pagrindžia:
     - c-166633
 
+## Citatos
+
+- id: c-23040
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 191"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 191."
+  citata_originali: |
+    Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
+    Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
+    muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
+    kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
+    liau – Raudonosios armijos 29-uoju šaulių korpusu).
+  citata_rodoma: "muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos"
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-166633
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 191"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 191."
+  citata_originali: |
+    Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
+    muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
+    kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
+    liau – Raudonosios armijos 29-uoju šaulių korpusu). Liepos 11 dieną su-
+    stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

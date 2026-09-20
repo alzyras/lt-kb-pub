@@ -41,6 +41,80 @@ canonical_biography: "Narbutas rašė, kad Safaržykas senovės lietuvius visiš
 
 Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais ir jų skirtumus aiškino germanų bei finų valdžia. Narbutas nurodė, kad Safaržykas minėjo Vienoje saugotą auksinę taurę kaip jazigų egzistavimo prieš Kristų pėdsaką. Narbutas pažymėjo, kad Safaržykas slavų senienų tyrinėjimuose žemdirbius skitus laikė skitų nukariautais slavais.
 
+## Teiginiai
+
+<a id="claim-t-191555"></a>
+- t-001
+  teiginys: "Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais ir jų skirtumus aiškino germanų bei finų valdžia."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Finai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Safaržykas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Finai: mention_match, group, gap=97"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Safaržykas\" parinktas kaip owner_note_path. Targetas \"Finai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174437
+
+<a id="claim-t-191556"></a>
+- t-002
+  teiginys: "Narbutas nurodė, kad Safaržykas minėjo Vienoje saugotą auksinę taurę kaip jazigų egzistavimo prieš Kristų pėdsaką."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Auksinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Safaržykas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Safaržykas\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174438
+
+<a id="claim-t-191557"></a>
+- t-003
+  teiginys: "Narbutas pažymėjo, kad Safaržykas slavų senienų tyrinėjimuose žemdirbius skitus laikė skitų nukariautais slavais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Safaržykas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Safaržykas\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174439
+
+<a id="claim-t-197642"></a>
+- t-004
+  teiginys: "1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus mano buvus slavus, kuriuos kadaise nukariavo skitai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179276
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas pažymėjo, kad Safaržykas slavų senienų tyrinėjimuose žemdirbius skitus laikė skitų nukariautais slavais.'
@@ -85,6 +159,8 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-174438
   autorius: "Teodoras Narbutas"
@@ -106,6 +182,8 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-174439
   autorius: "Teodoras Narbutas"
@@ -128,6 +206,8 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-179276
   autorius: "Teodoras Narbutas"
@@ -146,163 +226,5 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194633
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
-  citata_originali: |
-    Pirmiesiems priklausė jazigai, susimai­
-    šę su nukariautais slavais, o antriesiems — aukštesnioji
-    jazigų klasė, nesimaišiusi su užkariauta Jauta. Pats se­
-    niausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­
-    gai egzistavo dar prieš Kristų, yra istorinis paminklas, da­
-    bar saugomas Imperatoriškajame Senienų kabinete Vie­
-    noje; jį mini Safaržykas2. Tai auksinė taurė, kuri kartu
-    su kitomis brangenybėmis 1799 metais buvo rasta Toron-
-    talo komitate, netoli Šv.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- id: c-195163
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 76"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 76."
-  citata_originali: |
-    Galbūt todėl, kad ir bu-
-    dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
-    arba šį užsiėmimą perėmė iš gelonų, pačioje susiliejimo
-    su pastaraisiais pradžioje. Safaržykas žengė dar toliau1,
-    nes senovės lietuvius visiškai sugiminiavo su slavais,
-    šiandienius šių abiejų tautų skirtumus priskirdamas liki­
-    mui, kurio dėka jos patekdavo tai į germanų, tai į finų
-    valdžią, ir lietuvių kalba vis labiau tolo nuo slavų. Vis
-    dėlto žmogus, mokantis šias kalbas, neras nieko, kas ga-
-    lėtų jį įtikinti šios hipotezės teisingumu, nes lietuvių,
-    germanų, finų ir slavų kalbos skiriasi viena nuo kitos
-    kaip dangus ir žemė, p daugelio žodžių panašumas atsi­
-    rado arba juos pasiskolinus iš kaimynų, arba dėl dauge­
-    lio kitų tarpusavio santykių.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213213
-    - t-214119
-
-- id: c-197409
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 375"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
-  citata_originali: |
-    Tai turėjo įvykti anks­
-    čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­
-    sitiko V amžiaus prieš Kristaus gimimą pradžioje. Vadi­
-    nasi, čia gyventa jau iki IV amžiaus.
-    1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus
-    mano buvus slavus, kuriuos kadaise nukariavo skitai*.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-212665"></a>
-- t-001
-  teiginys: "1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus mano buvus slavus, kuriuos kadaise nukariavo skitai."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197409
-
-<a id="claim-t-215551"></a>
-- t-002
-  teiginys: "Narbutas pažymėjo, kad Safaržykas slavų senienų tyrinėjimuose žemdirbius skitus laikė skitų nukariautais slavais."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Safaržykas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Safaržykas\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-215584"></a>
-- t-003
-  teiginys: "Narbutas nurodė, kad Safaržykas minėjo Vienoje saugotą auksinę taurę kaip jazigų egzistavimo prieš Kristų pėdsaką."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Auksinė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Safaržykas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Auksinė: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Safaržykas\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-194633
-
-<a id="claim-t-213213"></a>
-- t-213213
-  teiginys: "Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais ir jų skirtumus aiškino germanų bei finų valdžia."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Finai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Safaržykas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Finai: mention_match, group, gap=97"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Safaržykas\" parinktas kaip owner_note_path. Targetas \"Finai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-195163
-
-<a id="claim-t-214119"></a>
-- t-214119
-  teiginys: "Safaržykas žengė dar toliau1, nes senovės lietuvius visiškai sugiminiavo su slavais, šiandienius šių abiejų tautų skirtumus priskirdamas liki mui, kurio dėka jos patekdavo tai į germanų, tai į finų valdžią, ir lietuvių kalba vis labiau tolo nuo slavų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195163
-
+  pagrindzia:
+    - t-004

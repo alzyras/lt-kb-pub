@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Maiotai (grupė)'
-identifikacija: 'grupė'
+pavadinimas: Maiotai (grupė)
+identifikacija: grupė
 variantai:
-  - 'Maiotai'
+  - Maiotai
 aliases:
-  - 'Maiotai'
+  - Maiotai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Maiotai (grupė)
 
@@ -68,6 +65,5 @@ Maiotai gyveno rytinėse Meotidės pakrantėse, prie pietinių Kubanės žioči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

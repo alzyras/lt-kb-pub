@@ -33,6 +33,21 @@ canonical_biography: "Jis pateikė man daug paaiškinimų apie šiuos dalykus, b
 
 Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą trumpo išrašo iš kažkokios senos kronikos; XIV am žiuje rašytos slavų kalba Dombrovskio ar Dubrovskio; pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas.
 
+## Teiginiai
+
+<a id="claim-t-194912"></a>
+- t-001
+  teiginys: "Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą trumpo išrašo iš kažkokios senos kronikos; XIV am žiuje rašytos slavų kalba Dombrovskio ar Dubrovskio; pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
+  pagrindžia:
+    - c-177308
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą trumpo išrašo iš kažkokios senos kronikos; XIV am žiuje rašytos slavų kalba Dombrovskio ar Dubrovskio; pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas.'
@@ -85,17 +100,5 @@ Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-215834"></a>
-- t-001
-  teiginys: "Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą trumpo išrašo iš kažkokios senos kronikos; XIV am žiuje rašytos slavų kalba Dombrovskio ar Dubrovskio; pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-
+  pagrindzia:
+    - t-001

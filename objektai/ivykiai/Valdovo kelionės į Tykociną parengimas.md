@@ -42,6 +42,23 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-204165"></a>
+- t-001
+  teiginys: "1570 m. balandžio 3 d. dokumente nurodyta parengti vežimą su vežėju ir šešiais arkliais, kad valdovas galėtų nuvykti į Tykociną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1570 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiksliai perteikia 1570 m. dokumente nurodytą vežimo parengimą kelionei į Tykociną. Šaltinio triukšmas neperimtas."
+  pagrindžia:
+    - c-186764
+
 ## Santrauka
 
 1570 m. balandžio 3 d. dokumente nurodyta parengti vežimą su vežėju ir šešiais arkliais, kad valdovas galėtų nuvykti į Tykociną.
@@ -67,23 +84,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204165"></a>
-- t-001
-  teiginys: "1570 m. balandžio 3 d. dokumente nurodyta parengti vežimą su vežėju ir šešiais arkliais, kad valdovas galėtų nuvykti į Tykociną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1570 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiksliai perteikia 1570 m. dokumente nurodytą vežimo parengimą kelionei į Tykociną. Šaltinio triukšmas neperimtas."
-  pagrindžia:
-    - c-186764
-

@@ -1,13 +1,13 @@
 ---
 tipas: asmuo
-pavadinimas: 'Tochtamišas'
+pavadinimas: Tochtamišas
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1391 m.'
-  - '1419 m.'
+  - 1391 m.
+  - 1419 m.
 date_start: '1391'
 date_end: '1419'
 sukurta: ''
@@ -16,35 +16,142 @@ tags:
   - asmuo
   - vyskupas
 amziai:
-  - 'XIV'
-  - 'XV'
+  - XIV
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9975891cb7e76df8c4e23e7f"
-canonical_name: "Tochtamišas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Tochtamišas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9975891cb7e76df8c4e23e7f
+canonical_name: Tochtamišas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Tochtamišas
 sameAs: []
-canonical_biography: "Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro globojamas, vėliau (1391) buvo jo sumuštas. Tad 1396 m. Tochtamišas su savo šalininkais ir gausia šeima prisiglaudė Lietuvoje."
+canonical_biography: 'Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro globojamas, vėliau (1391) buvo jo sumuštas. Tad 1396 m. Tochtamišas su savo šalininkais ir gausia šeima prisiglaudė Lietuvoje.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T10:11:52+00:00","source_checked_at":"2026-09-20T10:11:52+00:00","counts":{"relations":6,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"718f3bd715b76e80aa01aa6f","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Naujasis Aukso ordos chanas; šaltinis nurodo, kad iš pradžių jį globojo didysis chanas Timūras.","context":"Zenono Ivinskio vertinimas apie laikotarpį iki 1391 m.; vėliau Tochtamišas buvo Timūro sumuštas.","support_ids":["t-111437","c-103024"],"source_refs":[{"kind":"internal_claim","claim_id":"t-111437","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-103024","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Tam įdomios progos davė kilę nesutikimai pačioje Aukso ordoje. Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro globojamas, vėliau (1391) buvo jo sumuštas. Kad ir atgavęs valdžią, Tochtamišas nesijautė saugus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0917b085073dc0d572442014","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"„Caras“ ir Timūro-Kutluko priešas.","context":"Karolio Zikaro sudarytame 2013 m. leidinyje, aprašant Timūro-Kutluko pasiuntinių reikalavimą Vytautui išduoti pabėgusį Tochtamišą.","support_ids":["t-111433","c-103026"],"source_refs":[{"kind":"internal_claim","claim_id":"t-111433","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-103026","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Greičiausiai Vytauto iniciatyva per Maskvos didįjį kunigaikštį Vasilijų Konstantinopolio patriarchas ra- gino Kijevo metropolitą Kiprijoną kviesti tikinčiuosius į karą prieš totorius. Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą. O Vytautas atsakęs: „caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/asmenys/Timūr-Kutlukas","claim_id":"t-186382","confidence":0.92},{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/asmenys/Timūr-Kutlukas","claim_id":"t-111433","confidence":0.98},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Saladinas","claim_id":"t-82654","confidence":0.96},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-111432","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Timuras","claim_id":"t-111437","confidence":0.88},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Timuras","claim_id":"t-111437","confidence":0.86}],"timeline":[{"date":"1391 m.","label":"Tochtamišas iš pradžių buvo Timuro globojamas, o 1391 m.","claimId":"t-111437"},{"date":"1396 m.","label":"1396 m.","claimId":"t-111432"},{"date":"1419 m.","label":"1419 m.","claimId":"t-111436"}],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a2c13ebec5dcb3c0
+object_page_generated_at: '2026-09-20T10:11:52+00:00'
+object_page_source_checked_at: '2026-09-20T10:11:52+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Tochtamišas: Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro globojamas, vėliau (1391) buvo jo sumuštas. Tad 1396 m. Tochtamišas su…'
+object_page_seo_input_hash: 779c4b4b35865636647cb5cbac76c977045b8c996c5552f29656f56f1e34e209
+object_page_seo_generated_at: '2026-09-20T10:11:52+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Tochtamišas
 
 ## Santrauka
 
 Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro globojamas, vėliau (1391) buvo jo sumuštas. Tad 1396 m. Tochtamišas su savo šalininkais ir gausia šeima prisiglaudė Lietuvoje.
+
+## Teiginiai
+
+<a id="claim-t-111432"></a>
+- t-001
+  teiginys: "1396 m. Tochtamišas su savo šalininkais ir gausia šeima prisiglaudė Lietuvoje."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tochtamišas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Tochtamišas prisiglaudė Lietuvoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Tochtamišas gyveno Lietuva (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1396 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir pagrįstas citata."
+  pagrindžia:
+    - c-30300
+
+<a id="claim-t-111433"></a>
+- t-002
+  teiginys: "Timūr-Kutlukas reikalavo, kad Vytautas išduotų pabėgusį jo priešą Tochtamišą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Timūr-Kutlukas: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tochtamišas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Timūr-Kutlukas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo priešiškumą tarp Tochtamišo ir Timūr-Kutluko."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Tochtamišas buvo priešas Timūr-Kutlukas (0.98)"
+  pagrindžia:
+    - c-103026
+
+<a id="claim-t-111435"></a>
+- t-003
+  teiginys: "Prie Kijevo telkiamoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Kijevas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tochtamišo totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Tochtamišo totoriai buvo stovykloje prie Kijevo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Tochtamišo totoriai gyveno Kijevas (0.72)"
+  pagrindžia:
+    - c-42272
+
+<a id="claim-t-111436"></a>
+- t-004
+  teiginys: "1419 m. Vytautas Vilniaus pilyje didžiosios ordos chanu paskelbė Tochtamišo giminaitį Betsabutą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dniepras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tochtamišas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dniepras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tochtamišas\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1419 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir paremtas citata."
+  pagrindžia:
+    - c-103025
+
+<a id="claim-t-111437"></a>
+- t-005
+  teiginys: "Tochtamišas iš pradžių buvo Timuro globojamas, o 1391 m. buvo jo sumuštas."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Tochtamišas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Timuras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tochtamišas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad vėliau Timuras sumušė Tochtamišą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Timuras puolė Tochtamišas (0.88); Timuras rėmė Tochtamišas (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1391 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai atitinka citatos informaciją."
+  pagrindžia:
+    - c-103024
 
 ## Citatos
 
@@ -62,7 +169,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-42272
@@ -89,7 +196,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-103024
@@ -107,7 +214,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-103025
@@ -142,7 +249,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-103026
@@ -168,106 +275,10 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Saladinas]]
 - Priešai: [[objektai/asmenys/Timūr-Kutlukas]]
 - Tochtamišas gyveno [[objektai/vietos/Lietuva]]
-
-## Teiginiai
-
-<a id="claim-t-111432"></a>
-- t-001
-  teiginys: "1396 m. Tochtamišas su savo šalininkais ir gausia šeima prisiglaudė Lietuvoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tochtamišas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Tochtamišas prisiglaudė Lietuvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Tochtamišas gyveno Lietuva (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1396 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir pagrįstas citata."
-  pagrindžia:
-    - c-30300
-
-<a id="claim-t-111433"></a>
-- t-002
-  teiginys: "Timūr-Kutlukas reikalavo, kad Vytautas išduotų pabėgusį jo priešą Tochtamišą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Timūr-Kutlukas: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tochtamišas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Timūr-Kutlukas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo priešiškumą tarp Tochtamišo ir Timūr-Kutluko."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Tochtamišas buvo priešas Timūr-Kutlukas (0.98)"
-  pagrindžia:
-    - c-103026
-
-<a id="claim-t-111435"></a>
-- t-003
-  teiginys: "Prie Kijevo telkiamoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Kijevas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tochtamišo totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Tochtamišo totoriai buvo stovykloje prie Kijevo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Tochtamišo totoriai gyveno Kijevas (0.72)"
-  pagrindžia:
-    - c-42272
-
-<a id="claim-t-111436"></a>
-- t-004
-  teiginys: "1419 m. Vytautas Vilniaus pilyje didžiosios ordos chanu paskelbė Tochtamišo giminaitį Betsabutą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dniepras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tochtamišas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dniepras: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tochtamišas\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1419 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir paremtas citata."
-  pagrindžia:
-    - c-103025
-
-<a id="claim-t-111437"></a>
-- t-005
-  teiginys: "Tochtamišas iš pradžių buvo Timuro globojamas, o 1391 m. buvo jo sumuštas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Tochtamišas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Timuras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamišas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad vėliau Timuras sumušė Tochtamišą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Timuras puolė Tochtamišas (0.88); Timuras rėmė Tochtamišas (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1391 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai atitinka citatos informaciją."
-  pagrindžia:
-    - c-103024
-

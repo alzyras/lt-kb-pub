@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Sventamiestis (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Sventamiestis (vieta)
+identifikacija: vieta
 variantai:
-  - 'Sventamiestis'
+  - Sventamiestis
 aliases:
-  - 'Sventamiestis'
+  - Sventamiestis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fc4f5b590da2f332ef4a0d0e"
-canonical_name: "Sventamiestis (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Sventamiestis","Sventamiestis (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fc4f5b590da2f332ef4a0d0e
+canonical_name: Sventamiestis (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Sventamiestis
+  - Sventamiestis (vieta)
 sameAs: []
-canonical_biography: "Sventamiestyje, vėliau vadintame Heiligenbeiliu arba Šventuoju Kirveliu, augo milžiniškas žalias ąžuolas."
+canonical_biography: 'Sventamiestyje, vėliau vadintame Heiligenbeiliu arba Šventuoju Kirveliu, augo milžiniškas žalias ąžuolas.'
 ---
 # Sventamiestis (vieta)
 
@@ -71,6 +71,5 @@ Sventamiestyje, vėliau vadintame Heiligenbeiliu arba Šventuoju Kirveliu, augo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

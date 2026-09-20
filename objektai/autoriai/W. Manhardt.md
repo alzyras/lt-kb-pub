@@ -43,6 +43,19 @@ canonical_biography: "Manhardt, W."
 
 Manhardt, W.
 
+## Teiginiai
+
+<a id="claim-t-31070"></a>
+- t-001
+  teiginys: "W. Manhardt 1936 m. Rygoje išleido „Letto-Preussische Götterlehre“, kuriame buvo surinkti beveik visi šaltiniai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1936 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-33199
+
 ## Citatos
 
 - id: c-33199
@@ -61,19 +74,5 @@ Manhardt, W.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-31070"></a>
-- t-001
-  teiginys: "W. Manhardt 1936 m. Rygoje išleido „Letto-Preussische Götterlehre“, kuriame buvo surinkti beveik visi šaltiniai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1936 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-33199
-

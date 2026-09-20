@@ -39,6 +39,34 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205124"></a>
+- t-001
+  teiginys: "Vis dėlto 'tokia įvykių raida ne taip greitai, kaip jiems norėjosi, vedė į tikslą, tad netrukus drįso paniekinti im peratoriaus įsakymą, jėga versdami naujakrikščius pasi duoti jų valdžiai, atiminėdami iš vyskupų turtus, o tai dažnai pasitaikydavo Prūsijoje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187756
+
+<a id="claim-t-205317"></a>
+- t-002
+  teiginys: "Šie riteriai dažnai puldavo valsčius, dėl kurių ne buvo abejojama, kad geruoju priims krikštą, arba kurie jau buvo atversti į tikrąjį tikėjimą ir tik laukė kunigo su šlakstykle."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187815
+
 ## Santrauka
 
 Šie riteriai dažnai puldavo valsčius, dėl kurių ne buvo abejojama, kad geruoju priims krikštą, arba kurie jau buvo atversti į tikrąjį tikėjimą ir tik laukė kunigo su šlakstykle. Vis dėlto 'tokia įvykių raida ne taip greitai, kaip jiems norėjosi, vedė į tikslą, tad netrukus drįso paniekinti im peratoriaus įsakymą, jėga versdami naujakrikščius pasi duoti jų valdžiai, atiminėdami iš vyskupų turtus, o tai dažnai pasitaikydavo Prūsijoje.
@@ -61,7 +89,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-187815
@@ -86,34 +114,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-205124"></a>
-- t-001
-  teiginys: "Vis dėlto 'tokia įvykių raida ne taip greitai, kaip jiems norėjosi, vedė į tikslą, tad netrukus drįso paniekinti im peratoriaus įsakymą, jėga versdami naujakrikščius pasi duoti jų valdžiai, atiminėdami iš vyskupų turtus, o tai dažnai pasitaikydavo Prūsijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187756
-
-<a id="claim-t-205317"></a>
-- t-002
-  teiginys: "Šie riteriai dažnai puldavo valsčius, dėl kurių ne buvo abejojama, kad geruoju priims krikštą, arba kurie jau buvo atversti į tikrąjį tikėjimą ir tik laukė kunigo su šlakstykle."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187815
-

@@ -39,6 +39,20 @@ canonical_biography: "Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ū
 
 Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo Vladislovo, Mieško, Henriko ir Kazimiero, kurie, nekakindamos tuo pa dalijimu, lig tėvui nustipus, lig sūnūs sukeršto.
 
+## Teiginiai
+
+<a id="claim-t-201412"></a>
+- t-001
+  teiginys: "Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo Vladislovo, Mieško, Henriko ir Kazimiero, kurie, nekakindamos tuo pa dalijimu, lig tėvui nustipus, lig sūnūs sukeršto."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184762
+
 ## Citatos
 
 - id: c-184762
@@ -64,20 +78,5 @@ Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201412"></a>
-- t-001
-  teiginys: "Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo Vladislovo, Mieško, Henriko ir Kazimiero, kurie, nekakindamos tuo pa dalijimu, lig tėvui nustipus, lig sūnūs sukeršto."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184762
-

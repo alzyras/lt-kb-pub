@@ -37,52 +37,12 @@ media_all_json: |-
 
 Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ribą. Ankstesniame šaltinyje ji rodoma kaip konferencijos ir Suvalkų derybų nustatyta laikina siena, o šiame šaltinyje papildomai pateikiama konkreti 1920 m. spalio 7 d. linijos eiga nuo Vokietijos sienos iki Bastūnų stoties.
 
-## Citatos
-
-- id: c-164910
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 147."
-  citata_originali: |
-    Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
-    pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
-    su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją
-    tarp Lietuvos ir Lenkijos (Vilnius liko pastarosios pusėje). Lenkijos nuosta-
-    bai Lietuva kategoriškai atsisakė pripažinti šio sprendimo teisėtumą, o Len-
-    kija ir Vakarų šalys suprato, kad Vilniaus klausimas išspręstas.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-164911
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 147."
-  citata_originali: |
-    Tai sukūrė
-    nenusakomą įtampą pagal Lietuvos ir Lenkijos demarkacinę liniją, uždarė
-    per ją bet kokį traukinių ar net pašto judėjimą keliolikai metų, o automobi-
-    lių kelyje išaugo storoki berželiai...
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-181355"></a>
 - t-001
   teiginys: "Ambasadorių konferencija patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją, pagal kurią Vilnius liko Lenkijos pusėje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
   ryšio_patikimumas: "priklause -> Lenkija: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -102,7 +62,7 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
 <a id="claim-t-181357"></a>
 - t-002
   teiginys: "Lietuvos ir Lenkijos demarkacijos linija keliolikai metų nutraukė traukinių ir pašto judėjimą tarp abiejų pusių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -115,3 +75,42 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   pagrindžia:
     - c-164911
 
+## Citatos
+
+- id: c-164910
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 147"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 147."
+  citata_originali: |
+    Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
+    pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
+    su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją
+    tarp Lietuvos ir Lenkijos (Vilnius liko pastarosios pusėje). Lenkijos nuosta-
+    bai Lietuva kategoriškai atsisakė pripažinti šio sprendimo teisėtumą, o Len-
+    kija ir Vakarų šalys suprato, kad Vilniaus klausimas išspręstas.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-164911
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 147"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 147."
+  citata_originali: |
+    Tai sukūrė
+    nenusakomą įtampą pagal Lietuvos ir Lenkijos demarkacinę liniją, uždarė
+    per ją bet kokį traukinių ar net pašto judėjimą keliolikai metų, o automobi-
+    lių kelyje išaugo storoki berželiai...
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -29,27 +29,23 @@ Narbutas mini Polesėje paplitusį posakį apie bjauraus veido, apdriskusiais ir
 
 ## Teiginiai
 
-<a id="claim-t-215231"></a>
-- t-215231
-  teiginys: "Apie jotvingių veido bruožus liko apčiuopiamų pėdsakų Polesėje."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+<a id="claim-t-192119"></a>
+- t-001
+  teiginys: "Narbutas mini Polesėje paplitusį posakį „Atrodo kaip jotvingis“, taikytą bjauraus veido ir apdriskusiais rūbais vilkinčiam žmogui."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Jotvingiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Atrodo kaip jotvingis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Jotvingiai: mention_match, group, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atrodo kaip jotvingis\" parinktas kaip owner_note_path. Targetas \"Jotvingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-195447
-
-<a id="claim-t-214159"></a>
-- t-214159
-  teiginys: "Nei inazovietėms, nei lenkėms, nei rusėms, nei lietuvėms ar kitoms europietėms moterims nebūdingi tie bruožai, kurie puošia dailias senovės jotvingių dukras, kažkada gal iš tekintas už slavų jaunuolių."
-  atnaujinta: "2026-09-13 18:03"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+    - c-175002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -92,27 +88,5 @@ Narbutas mini Polesėje paplitusį posakį apie bjauraus veido, apdriskusiais ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195447
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
-  citata_originali: |
-    Apie jotvingių veido bruožus liko apčiuopiamų pėdsakų Polesėje.
-    Jie turėtų būti antipatiški, nes ten yra paplitęs toks posakis: jeigu
-    sutinka bjauraus veido žmogų, be to, vilkintį apdriskusius ir ne­
-    švarius rūbus, tai sakoma:
-    „Atrodo
-    kaip
-    jotvingis" (Biblioteka
-    Warszawska. R. 1842. T. IV)***.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215231
-
+  pagrindzia:
+    - t-001

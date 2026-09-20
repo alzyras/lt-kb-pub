@@ -1,22 +1,22 @@
 ---
 tipas: vieta
-pavadinimas: 'Ukmergė'
+pavadinimas: Ukmergė
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1200 m.'
-  - '1435 m.'
-  - '1560 m.'
-  - '1881 m.'
-  - '1919 m.'
-  - '2026 m.'
+  - 1200 m.
+  - 1435 m.
+  - 1560 m.
+  - 1881 m.
+  - 1919 m.
+  - 2026 m.
 date_start: '1200'
 date_end: '2026'
 sukurta: ''
@@ -25,29 +25,41 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XII'
-  - 'XXI'
+  - XII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-bbfdc83d256792321090af57"
-canonical_name: "Ukmergė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ukmergė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-bbfdc83d256792321090af57
+canonical_name: Ukmergė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ukmergė
 sameAs: []
-canonical_biography: "Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Ukmergės mūšis (1435 m.)."
+canonical_biography: 'Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Ukmergės mūšis (1435 m.).'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Ukmergė","url":"https://lt.wikipedia.org/wiki/Ukmerg%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Ukmergė","url":"https://www.vle.lt/straipsnis/ukmerge/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T01:21:03+00:00","source_checked_at":"2026-09-19T01:21:03+00:00","counts":{"relations":10,"gallery":0,"sources":14},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Švietimui padėjo lenkų kultūros organiza- cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“), gaudavusios pinigų iš Lenkijos. Jos rėmė lenkų pradines mokyklas ir Lie- tuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Pane- vėžyje ir Ukmergėje. 1935–1936 mokslo metais veikė apie 30 lenkiškų mokyklų.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","claim_id":"t-180706","evidence_id":"c-164298","origin":"internal"},"wiki":{"status":"published","source":{"title":"Ukmergė","url":"https://lt.wikipedia.org/wiki/Ukmerg%C4%97","publisher":"Vikipedija","language":"lt","article_id":"19218","revision_id":"7908561","published_at":"2026-08-21T09:15:35Z","version_pk":"","content_hash":"9a394a29586f2fc94442e5d03e520f57004ae437f940c146f0a1f15815dc7109","retrieved_at":"2026-09-19T01:17:14+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Ukmerg%C4%97&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"19218"}},"intro":"Ukmergė – miestas Aukštaitijoje, Vilniaus apskrityje, 76 km į šiaurės vakarus nuo Vilniaus ir 71 km į šiaurės rytus nuo Kauno, prie kelio A6 Kaunas–Zarasai–Daugpilis . Ukmergės rajono savivaldybės centras, Ukmergės miesto seniūnija ir apylinkių seniūnijos – Pivonijos seniūnijos centras. Ukmergės senamiestis – urbanistikos paminklas. Miesto centre stovi nepriklausomybės paminklas „Lituania Restituta“. Ukmergėje yra trys katalikų bažnyčios: Ukmergės Šv. apaštalų Petro ir Povilo bažnyčia (nuo 1820 m.), Ukmergės Švč. Trejybės (Pijorų) bažnyčia (nuo 1863 m.), Pašilės Šv. Barboros bažnyčia (nuo 1789 m.), medinė Ukmergės Švč. Panelės Užtarėjos cerkvė (sentikių, pastatyta 1873 m.), buvusios Didžioji ir Vilkmergėlės gatvės sinagogos, kraštotyros muziejus (nuo 1940 m.), 4 pašto skyriai (centrinis LT-20001), senoji arklių pašto stotis (1835 m., architektas Vaclovas Ričelis, Nr. 1730, paštas čia veikė iki 1973 m.), turizmo ir verslo informacijos centras.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Ukmergė","url":"https://lt.wikipedia.org/wiki/Ukmerg%C4%97","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Ukmergė","url":"https://www.vle.lt/straipsnis/ukmerge/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Ukmerg%C4%97","https://www.vle.lt/straipsnis/ukmerge/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"2776e05c8c6d0d19d2f6c166","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Ukmergėje veikė Lietuvos vyriausybės finansiškai remiama lenkų gimnazija.","context":"1935–1936 mokslo metais; taip aprašo Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas ir Mindaugas Tamošaitis.","support_ids":["t-180706","c-164298"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180706","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-164298","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Švietimui padėjo lenkų kultūros organiza- cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“), gaudavusios pinigų iš Lenkijos. Jos rėmė lenkų pradines mokyklas ir Lie- tuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Pane- vėžyje ir Ukmergėje. 1935–1936 mokslo metais veikė apie 30 lenkiškų mokyklų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5b07a02a4419463719f40a03","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Ukmergėje buvo įkurta pijarų mokykla; šaltinis nenurodo, ar tai buvo kolegija, ar žemesnioji mokykla.","context":"Istorinis aprašymas; taip aprašo A. Šapokos redaguota Lietuvos istorija.","support_ids":["t-180729","c-164310"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180729","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-164310","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Pijarai, niekuo daugiau neužsiimdami, kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui- tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie- tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va- leranavoj, Vitebske, Želviuose ir dar vienur kitur. #### 6."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"48c663027e022d4c364649de","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Per Ukmergę ėjo kelias paneriu į krašto gilumą, galėjęs įsilieti į Vilniaus–Rygos kelią.","context":"Kauno istorijos aprašyme; autorius nurodo galimą kelio susijungimą, nepateikdamas tikslaus laiko.","support_ids":["t-201666","c-185013"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201666","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-185013","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Kitas kelias į Vilnių driekėsi pietiniu miesto pakraščiu ir greičiausiai buvo susijęs su muitine, veikiančia netoli prie Nemuno esan- čio pranciškonų vienuolyno. Abu keliai susijungdavo už miesto ribų. Šių kelių tąsos už miesto branduolio ribų buvo traukos veiksniai Kauno miesto valdose besikuriantiems priemiesčiams - jie augo prie šių kelių. To negalima pa- sakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmergę, Anykščius, kuris galėjo įsilieti į Vilniaus-Rygos kelią."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"aa4413872ef8acac85f4a048","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Per Ukmergę ėjo maršrutas iš Kauno į Livoniją per Panevėžį.","context":"1560 m.; taip aprašo Zigmantas Kiaupa, nurodydamas Petro Miklaševskio kuopos žygio kryptį.","support_ids":["t-201667","c-185014"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201667","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-185014","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Kaunas buvo jų kelyje vykstant į karą ar grįžtant iš jo. 1560 m. Petro Miklaševskio kuopai, kurią sudarė 100 karių, buvo nurodyta į Livoniją žygi uoti pro Kauną, Ukmergę, Panevėžį."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0f8130caaa2f6d6368f185c3","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Ukmergė buvo prie kelio į Vilnių; 1435 m. mūšis įvyko per pusantros mylios nuo miesto.","context":"1435 m. rugsėjo 1 d.; taip aprašo Michał Baliński.","support_ids":["t-180705","c-164305"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180705","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164305","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tas įsimintinas mūšis 20 Kotzebue Switrigail, p. 89. Ind. Cod. Hist. Dipl. Livon. T. I, N. 1344. 219 ## Puslapis 236 VILNIAUS MIESTO ISTORIJA// TOMAS įvyko rugsėjo 1 dieną (1435 metais), per pusantros mylios nuo Ukmergės miesto, prie kelio į Vilnių, ten, kur šiandien stovi Pabaisko parapijos bažnyčia."}],"status":"published","conflict_status":"clear"},{"trait_id":"e4a944778debf979cb88e4af","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Ukmergė buvo ties Šventosios upe, prie brastos.","context":"Istorinio mūšio aprašyme; laiką šaltinis nurodo istorinio pasakojimo kontekste, autorius – Michał Baliński.","support_ids":["t-180716","c-164301"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180716","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164301","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Priešininkas, persekio­ jamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­ tosios upę ties Ukmerge, kur buvo nuskandinta labai daug jo kareivių. Čekų ir Silezijos savanorių vadai ir, gražiausia, Jaroslavas Lingumas*, Mstislavlio kunigaikštis, pateko į ne­ laisvę."}],"status":"published","conflict_status":"clear"},{"trait_id":"82fabedc71781d6262315378","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Ukmergė buvo minima kaip vieta, kurioje veikė pijarų mokykla.","context":"Istorinis švietimo įstaigų tinklo aprašymas; taip teigia A. Šapokos redaguota Lietuvos istorija.","support_ids":["t-180733","c-164310"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180733","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-164310","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Pijarai, niekuo daugiau neužsiimdami, kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui- tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie- tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va- leranavoj, Vitebske, Želviuose ir dar vienur kitur. #### 6."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Ukmergė – Lietuvos istorijoje minima vieta, įvairiais laikotarpiais tapusi valdų, karinių veiksmų ir susisiekimo maršrutų dalimi. XIV amžiuje ji su pilimi priklausė Jaunučiui paskirtam žemių daliniui, kuriame, be Vilniaus, buvo Ašmenos ir Breslaujos sritys. 1435 m. rugsėjo 1 d. netoli Ukmergės, prie kelio į Vilnių, įvyko reikšmingas mūšis, o prie Šventosios brastos ties miestu vėliau buvo persekiojami priešininkai. 1560 m. per Ukmergę turėjo žygiuoti Petro Miklaševskio šimto karių kuopa, vykusi į Livoniją pro Kauną ir Panevėžį. 1919 m. gegužę Ukmergės rinktinė veikė Lietuvos kariuomenės operacijose: jai įsakyta žygiuoti Utenos link, o gegužės 3 d. Panevėžio batalionas, remiamas saksų savanorių, išvadavo miestą iš bolševikų.","sentences":[{"sentence_id":"s1","text":"Ukmergė – Lietuvos istorijoje minima vieta, įvairiais laikotarpiais tapusi valdų, karinių veiksmų ir susisiekimo maršrutų dalimi.","support_ids":["t-180709","t-180711","t-201667"]},{"sentence_id":"s2","text":"XIV amžiuje ji su pilimi priklausė Jaunučiui paskirtam žemių daliniui, kuriame, be Vilniaus, buvo Ašmenos ir Breslaujos sritys.","support_ids":["t-180709","t-180726"]},{"sentence_id":"s3","text":"1435 m. rugsėjo 1 d. netoli Ukmergės, prie kelio į Vilnių, įvyko reikšmingas mūšis, o prie Šventosios brastos ties miestu vėliau buvo persekiojami priešininkai.","support_ids":["t-180705","t-180732"]},{"sentence_id":"s4","text":"1560 m. per Ukmergę turėjo žygiuoti Petro Miklaševskio šimto karių kuopa, vykusi į Livoniją pro Kauną ir Panevėžį.","support_ids":["t-201667"]},{"sentence_id":"s5","text":"1919 m. gegužę Ukmergės rinktinė veikė Lietuvos kariuomenės operacijose: jai įsakyta žygiuoti Utenos link, o gegužės 3 d. Panevėžio batalionas, remiamas saksų savanorių, išvadavo miestą iš bolševikų.","support_ids":["t-180725","t-180711"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Visi teiginio aspektai paremti nurodytais šaltiniais: Ukmergė minima kaip valdų, karinių veiksmų ir susisiekimo maršrutų dalis."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai nurodo, kad Ukmergė su pilimi priklausė Jaunučiui paskirtam žemių daliniui, kuriame buvo Vilnius, Ašmena ir Breslauja."},{"sentence_id":"s3","supported":true,"reason":"Vienas šaltinis tiesiogiai nurodo 1435 m. rugsėjo 1 d. mūšį prie kelio į Vilnių netoli Ukmergės, kitas – priešininkų persekiojimą ir pralaimėjimą Šventosios brastoje ties Ukmerge."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad 1560 m. Petro Miklaševskio 100 karių kuopai buvo įsakyta žygiuoti į Livoniją pro Kauną, Ukmergę ir Panevėžį."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai nurodo 1919 m. gegužės 24 d. įsakymą Ukmergės rinktinei žygiuoti Utenos link ir gegužės 3 d. Panevėžio bataliono, remiamo saksų savanorių, Ukmergės išvadavimą iš bolševikų."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-180709","t-180711","t-201667"]},{"sentence_id":"s2","supported":false,"support_ids":["t-180709","t-180726"]},{"sentence_id":"s3","supported":false,"support_ids":["t-180705","t-180732"]},{"sentence_id":"s4","supported":false,"support_ids":["t-201667"]},{"sentence_id":"s5","supported":false,"support_ids":["t-180725","t-180711"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-180724","confidence":0.56},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/8-asis pėstininkų pulkas","claim_id":"t-40830","confidence":0.88},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Ukmergės rinktinė","claim_id":"t-180713","confidence":0.74},{"predicate":"priklause","direction":"outbound","target":"objektai/asmenys/Jaunutis","claim_id":"t-180709","confidence":0.82},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/V. Nazimovas","claim_id":"t-40146","confidence":0.85},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Boleslovas Švitrigaila","claim_id":"t-185516","confidence":0.74},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-180715","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/13-asis ulonų pulkas","claim_id":"t-38926","confidence":0.74},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Jaunutis","claim_id":"t-176952","confidence":0.88},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Kinsgaila","claim_id":"t-30330","confidence":0.64}],"timeline":[{"date":"1435 m.","label":"1435 m.","claimId":"t-180705"},{"date":"1560 m.","label":"1560 m.","claimId":"t-201667"},{"date":"1919 m.","label":"1919 m.","claimId":"t-180717"},{"date":"1919 m.","label":"1919 m.","claimId":"t-180720"},{"date":"1919 m.","label":"1919 m.","claimId":"t-180725"}],"support_disclosure":{"claims":31,"sources":12}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: fd8df06878c1d08f
+object_page_generated_at: '2026-09-19T01:21:03+00:00'
+object_page_source_checked_at: '2026-09-19T01:21:03+00:00'
+object_page_content_state: content
+object_page_claim_count: '31'
+object_page_source_count: '12'
+object_page_seo_description: 'Ukmergė – Lietuvos istorijoje minima vieta, įvairiais laikotarpiais tapusi valdų, karinių veiksmų ir susisiekimo maršrutų dalimi. XIV amžiuje ji su pilimi…'
+object_page_seo_input_hash: 1773aebb343fb5220e85a46310823424716922950f28673ae27183e513f3b75a
+object_page_seo_generated_at: '2026-09-19T01:21:03+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ukmergė
 
@@ -57,47 +69,10 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 
 ## Teiginiai
 
-<a id="claim-t-208607"></a>
-- t-208607
-  teiginys: "Iš Ukmergės dekanato knygas užsisakė 17 kunigų."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191227
-
-<a id="claim-t-209353"></a>
-- t-209353
-  teiginys: "J. Simkevičius paskutinius gyvenimo mėnesius praleido savo dvare netoli Ukmergės."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
-  pagrindžia:
-    - c-191901
-
-<a id="claim-t-217760"></a>
-- t-217760
-  teiginys: "Viena Obelija buvo šeši varstai nuo Ukmergės ir septyni varstai nuo Deltuvos."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200219
-
 <a id="claim-t-180705"></a>
-- t-180705
+- t-001
   teiginys: "1435 m. rugsėjo 1 d. mūšis įvyko per pusantros mylios nuo Ukmergės, prie kelio į Vilnių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -114,9 +89,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164305
 
 <a id="claim-t-180706"></a>
-- t-180706
+- t-002
   teiginys: "Ukmergėje veikė Lietuvos vyriausybės finansiškai remta lenkų gimnazija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -130,9 +105,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164298
 
 <a id="claim-t-180707"></a>
-- t-180707
+- t-003
   teiginys: "Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi, o Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Panevėžio rinktinė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -149,9 +124,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164296
 
 <a id="claim-t-180708"></a>
-- t-180708
+- t-004
   teiginys: "Kavarskas buvo nutolęs nuo Ukmergės per keturias mylias, o nuo Vilniaus per penkiolika mylių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -165,9 +140,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164314
 
 <a id="claim-t-180709"></a>
-- t-180709
+- t-005
   teiginys: "Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Jaunutis (valdovas, XIV a.): 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -182,9 +157,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164307
 
 <a id="claim-t-180710"></a>
-- t-180710
+- t-006
   teiginys: "Kariuomenės vadovybė sustabdė Ukmergės rinktinės puolimą, nes ši buvo per daug išsiveržusi į priekį ir reikėjo išlyginti fronto liniją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Panevėžio rinktinė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -199,9 +174,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164295
 
 <a id="claim-t-180711"></a>
-- t-180711
+- t-007
   teiginys: "Gegužės 3 d. Panevėžio batalionas, remiamas saksų savanorių, atliko sėkmingą operaciją ir iš bolševikų išvadavo Ukmergę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -215,9 +190,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164316
 
 <a id="claim-t-180712"></a>
-- t-180712
+- t-008
   teiginys: "Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Jaunutis (valdovas, XIV a.): 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -232,9 +207,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164299
 
 <a id="claim-t-180713"></a>
-- t-180713
+- t-009
   teiginys: "Ukmergės rinktinė turėjo veržtis Ukmergės, Utenos ir Zarasų kryptimi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Ukmergė: 0.74"
   ryšio_patikimumo_lygis: "aukstas"
@@ -252,9 +227,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164296
 
 <a id="claim-t-180714"></a>
-- t-180714
+- t-010
   teiginys: "Ties Pabaisku prie Šventosios, netoli Ukmergės, Mykolo vadovaujama lietuvių ir lenkų kariuomenė užkirto kelią Švitrigailai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -270,9 +245,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164302
 
 <a id="claim-t-180715"></a>
-- t-180715
+- t-011
   teiginys: "Švitrigailos ir Livonijos magistro jungtinės pajėgos per Užnerį žygiavo į Vilkmergę, dabartinę Ukmergę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Ukmergė: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -287,9 +262,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164313
 
 <a id="claim-t-180716"></a>
-- t-180716
+- t-012
   teiginys: "Persekiojami priešininkai patyrė naują nesėkmę brastoje per Šventąją ties Ukmerge, kur daug jų kareivių nuskendo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Brasta: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -303,9 +278,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164301
 
 <a id="claim-t-180717"></a>
-- t-180717
+- t-013
   teiginys: "1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Utena: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -324,9 +299,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164297
 
 <a id="claim-t-180719"></a>
-- t-180719
+- t-014
   teiginys: "Kunigaikščio Mykolo pergalė prieš Švitrigailą ir Livonijos magistrą netoli Ukmergės užbaigė jų varžybas dėl Lietuvos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -343,9 +318,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164309
 
 <a id="claim-t-180722"></a>
-- t-180722
+- t-015
   teiginys: "Kunigaikščio Mykolo pergalė netoli Ukmergės užbaigė Švitrigailos ir Livonijos magistro varžybas dėl Lietuvos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -362,9 +337,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164309
 
 <a id="claim-t-180724"></a>
-- t-180724
+- t-016
   teiginys: "Vytautas veikė Bopartėnų, Ukmergės ir Kulvos srityse."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Ukmergė: 0.56"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -379,9 +354,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164312
 
 <a id="claim-t-180726"></a>
-- t-180726
+- t-017
   teiginys: "Jaunučiui paskirtame žemių dalinyje, be Vilniaus, buvo Ašmenos, Ukmergės ir Breslaujos sritys su pilimis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Jaunutis (valdovas, XIV a.): 0.83"
   ryšio_patikimumo_lygis: "aukstas"
@@ -396,9 +371,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164307
 
 <a id="claim-t-180727"></a>
-- t-180727
+- t-018
   teiginys: "Lenkų kultūros organizacijos rėmė Lietuvos vyriausybės finansuojamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Lenkai: 0.50"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -413,9 +388,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164298
 
 <a id="claim-t-180729"></a>
-- t-180729
+- t-019
   teiginys: "Ukmergėje buvo įkurta pijarų mokykla, priklausiusi jų kolegijų ir žemesniųjų mokyklų tinklui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Želviai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -429,9 +404,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164310
 
 <a id="claim-t-180730"></a>
-- t-180730
+- t-020
   teiginys: "Vytautas veikė Ukmergės, Kulvos ir Bopartėnų srityse."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -445,9 +420,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164312
 
 <a id="claim-t-180731"></a>
-- t-180731
+- t-021
   teiginys: "Livonijos magistro kariuomenė prisijungė prie jungtinių pajėgų, kurios Užnerio puse žygiavo į Vilkmergę (Ukmergę)."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 14:18"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -461,9 +436,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-43930
 
 <a id="claim-t-180732"></a>
-- t-180732
+- t-022
   teiginys: "Prie Šventosios brastos ties Ukmerge nugalėtojai persekiojo priešininką ir nuskandino daug jo kareivių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Brasta: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -477,9 +452,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164301
 
 <a id="claim-t-180733"></a>
-- t-180733
+- t-023
   teiginys: "Ukmergė minima tarp vietų, kuriose buvo įkurtos pijarų kolegijos arba žemesniosios mokyklos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Želviai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -492,10 +467,29 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindžia:
     - c-164310
 
+<a id="claim-t-188844"></a>
+- t-024
+  teiginys: "Narbutas Ukmergės apskritį priskyrė „Tikrajai Lietuvai“, kurioje nuo seniausių laikų buvusios vietos sudegintų žmonių pelenams laikyti."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Sandara: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ukmergė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Sandara: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ukmergė\" parinktas kaip owner_note_path. Targetas \"Sandara\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171733
+
 <a id="claim-t-201666"></a>
-- t-201666
+- t-025
   teiginys: "To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmergę, Anykščius, kuris galėjo įsilieti į Vilniaus-Rygos kelią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -506,9 +500,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-185013
 
 <a id="claim-t-201667"></a>
-- t-201667
+- t-026
   teiginys: "1560 m. Petro Miklaševskio kuopai, kurią sudarė 100 karių, buvo nurodyta į Livoniją žygi uoti pro Kauną, Ukmergę, Panevėžį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -518,9 +512,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-185014
 
 <a id="claim-t-205826"></a>
-- t-205826
+- t-027
   teiginys: "Teodoro Narbuto aprašyme magistras Andrius Stirietis, sutelkęs kryžiuočius ir riterius, puolė Lietuvą Ukmergės link ir mūšyje su didžiuoju kunigaikščiu laimėjo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -529,18 +523,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
   pagrindžia:
     - c-188441
-
-<a id="claim-t-208247"></a>
-- t-208247
-  teiginys: "P. K. Bohušas klebonavo Ukmergės parapijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  pagrindžia:
-    - c-190916
 
 ## Reikšmingi paminėjimai
 - c-018
@@ -586,8 +568,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180731
+  pagrindzia:
+    - t-021
 
 - id: c-43935
   sudarytojas: "Karolis Zikaras"
@@ -612,8 +594,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180710
+  pagrindzia:
+    - t-006
 
 - id: c-164295
   sudarytojas: "Karolis Zikaras"
@@ -636,8 +618,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180710
+  pagrindzia:
+    - t-006
 
 - id: c-164296
   sudarytojas: "Karolis Zikaras"
@@ -664,9 +646,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180707
-    - t-180713
+  pagrindzia:
+    - t-003
+    - t-009
 
 - id: c-164297
   sudarytojas: "Karolis Zikaras"
@@ -688,8 +670,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180717
+  pagrindzia:
+    - t-013
 
 - id: c-164298
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -708,9 +690,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180706
-    - t-180727
+  pagrindzia:
+    - t-002
+    - t-018
 
 - id: c-164299
   autorius: "Michał Baliński"
@@ -760,8 +742,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180712
+  pagrindzia:
+    - t-008
 
 - id: c-164301
   autorius: "Michał Baliński"
@@ -783,9 +765,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180716
-    - t-180732
+  pagrindzia:
+    - t-012
+    - t-022
 
 - id: c-164302
   redaktorius: "A. Šapoka"
@@ -805,8 +787,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180714
+  pagrindzia:
+    - t-010
 
 - id: c-164305
   autorius: "Michał Baliński"
@@ -831,8 +813,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180705
+  pagrindzia:
+    - t-001
 
 - id: c-164307
   autorius: "Zenonas Ivinskis"
@@ -852,9 +834,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180709
-    - t-180726
+  pagrindzia:
+    - t-005
+    - t-017
 
 - id: c-164309
   autorius: "Michał Baliński"
@@ -881,9 +863,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180719
-    - t-180722
+  pagrindzia:
+    - t-014
+    - t-015
 
 - id: c-164310
   redaktorius: "A. Šapoka"
@@ -905,9 +887,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180729
-    - t-180733
+  pagrindzia:
+    - t-019
+    - t-023
 
 - id: c-164312
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -929,9 +911,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180724
-    - t-180730
+  pagrindzia:
+    - t-016
+    - t-020
 
 - id: c-164313
   sudarytojas: "Karolis Zikaras"
@@ -954,8 +936,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180715
+  pagrindzia:
+    - t-011
 
 - id: c-164314
   autorius: "Michał Baliński"
@@ -976,8 +958,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180708
+  pagrindzia:
+    - t-004
 
 - id: c-164316
   sudarytojas: "Karolis Zikaras"
@@ -1000,8 +982,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180711
+  pagrindzia:
+    - t-007
 
 - id: c-171733
   autorius: "Teodoras Narbutas"
@@ -1022,6 +1004,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
 
 - id: c-185013
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1041,8 +1025,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201666
+  pagrindzia:
+    - t-025
 
 - id: c-185014
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1057,8 +1041,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201667
+  pagrindzia:
+    - t-026
 
 - id: c-188441
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -1080,93 +1064,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205826
-
-- id: c-190916
-  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
-  puslapiai: "PDF 128"
-  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 128."
-  citata_originali: |
-    Eksjėzuitu tapęs P. K . Bohušas
-    pedagoginį darbų dirbo fragmentiškai (istoriografijoje funkcionuoja teiginys jį
-    buvus Pranciškaus Sapiegos vaikų auklėtoju).
-    P. K. Bohušo, kaip diecezinio kunigo, tarnystė reiškėsi klebonavimu Jiezno
-    ir Ukmergės parapijose.
-  citata_rodoma: "P. K. Bohušo, kaip diecezinio kunigo, tarnystė reiškėsi klebonavimu Jiezno \nir Ukmergės parapijose."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208247
-
-- id: c-191227
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 71"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 71."
-  citata_originali: |
-    Dauguma
-    kunigų pakluso jo raginimui. Pavyzdžiui, Krasinskio „Pra-
-    wo kanoniczne" kurijoje užsisakė 17 kunigų iš Ukmergės
-    dekanato, 10 — iš Telšių, 33 — iš Joniškio, 19 — iš Ve­
-    liuonos, 12 — iš Krakių ir t. t .3 Knygų platinimas tarp
-    kunigų suaktyvėjo.
-  citata_rodoma: "Pavyzdžiui, Krasinskio „Pra- \nwo kanoniczne\" kurijoje užsisakė 17 kunigų iš Ukmergės \ndekanato, 10 — iš Telšių, 33 — iš Joniškio, 19 — iš Ve­\nliuonos, 12 — iš Krakių ir t. t .3"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208607
-
-- id: c-191901
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 18"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 18."
-  citata_originali: |
-    girtavimą" autoriaus gimtinė buvusi kažkur Raseinių paviete2. Tačiau,
-    antra vertus, paskutinius gyvenimo mėnesius, jau sunkiai sirgdamas, J.
-    Simkevičius praleido savo dvare netoli Ukmergės. Tai, žinoma, ne
-    įrodymas jo kilmės vietai išaiškinti, tačiau vertas dėmesio faktas.
-  citata_rodoma: "Tačiau, \nantra vertus, paskutinius gyvenimo mėnesius, jau sunkiai sirgdamas, J. \nSimkevičius praleido savo dvare netoli Ukmergės."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209353
-
-- id: c-200219
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 375-376"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375-376."
-  citata_originali: |
-    Dvi tokios vietos man yra žinomos:
-    viena prie Kabelio ežero Gardino apskrityje, kita - šeši varstai
-    nuo Ukmergės ir 7 varstai nuo Deltuvos, kur taip pat yra Obelių,
-    376
-
-    tai yra Obelijos, ežeras
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217760
+  pagrindzia:
+    - t-027
 
 ## Ryšiai
 - Ukmergė priklausė [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

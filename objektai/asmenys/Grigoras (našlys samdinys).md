@@ -66,6 +66,16 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
   pagrindžia:
     - c-177959
 
+<a id="claim-t-195544"></a>
+- t-002
+  teiginys: "Grigoras buvo nejaunas našlys, jau užauginęs vaikus ir mėgstantis degtinėlę."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177961
+
 <a id="claim-t-195545"></a>
 - t-003
   teiginys: "Pasakojime pažymima, kad Grigoras duoto žodžio neištesėjo."
@@ -75,16 +85,6 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177960
-
-<a id="claim-t-195544"></a>
-- t-195544
-  teiginys: "Grigoras buvo nejaunas našlys, jau užauginęs vaikus ir mėgstantis degtinėlę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177961
 
 ## Citatos
 
@@ -97,12 +97,11 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     — Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasukinės — atsiliepė pirmą sykį Grigoras.
   citata_rodoma: "— Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasukinės — atsiliepė pirmą sykį Grigoras."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177960
@@ -114,12 +113,11 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     Iš to susidėjo patarlė: „Kalėdos — visos bėdos“. Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos padarė, atsiprašant, kažin ką.
   citata_rodoma: "Iš to susidėjo patarlė: „Kalėdos — visos bėdos“. Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos padarė, atsiprašant, kažin ką."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-177961
@@ -135,6 +133,5 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195544
-
+  pagrindzia:
+    - t-002

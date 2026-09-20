@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XV amžius"
 periodo_pradzia: 1401
 periodo_pabaiga: 1500
-periodo_objektu_skaicius: 1300
+periodo_objektu_skaicius: 1289
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1300.
+Objektų skaičius: 1289.
 
 ## Susiję objektai
 
@@ -99,7 +99,6 @@ Objektų skaičius: 1300.
 - [[objektai/asmenys/Jonas Lasavičius]]
 - [[objektai/asmenys/Jonas Lenartaitis Kęsgaila]]
 - [[objektai/asmenys/Jonas Olbrachtas]]
-- [[objektai/asmenys/Jonas Radvila (1474-1522)]]
 - [[objektai/asmenys/Jordanas]]
 - [[objektai/asmenys/Julijona]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
@@ -1045,8 +1044,6 @@ Objektų skaičius: 1300.
 - [[objektai/saltiniai/1483 metų karaliaus Kazimiero privilegija Rimvydui]]
 - [[objektai/saltiniai/1500 m. Aleksandro sprendimas dėl malūno prie Bernardinų vienuolyno]]
 - [[objektai/saltiniai/1529 m. Lietuvos Statutas]]
-- [[objektai/saltiniai/1808. X. 29 Platelių dvaro inventorius]]
-- [[objektai/saltiniai/A. Filipeckio pamokslų rinkinys]]
 - [[objektai/saltiniai/A. Nasonov, Novogrodskaja pervaja letopis' staršego ir mladšego izvodov|A. Nasonov, Novogrodskaja pervaja letopis'' staršego ir mladšego izvodov]]
 - [[objektai/saltiniai/A. Prioult Un poete voyageur Guillaume de Machaut et la « Reise » de Jean VAveugle, roi de Boheme, en 1326-1329]]
 - [[objektai/saltiniai/A. Prochaska, Dzieje Witolda]]
@@ -1106,8 +1103,6 @@ Objektų skaičius: 1300.
 - [[objektai/saltiniai/Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.)]]
 - [[objektai/saltiniai/Karalystės archyve saugomas dokumentas apie Zigmanto klastingumo įrodymą]]
 - [[objektai/saltiniai/Kauno miestiečiai ir Lietuvos bernardinų provincijos ikūrimas XVI a. pradžioje]]
-- [[objektai/saltiniai/Kauno vicegubernatoriaus 1874 m. vasario 12 d. raštas Vilniaus generalgubernatoriui]]
-- [[objektai/saltiniai/Kazimiero Bagdzevičiaus 1828-12-14 laiškas Motiejui Valančiui]]
 - [[objektai/saltiniai/Klaipėdos miesto istorija 1252-1466]]
 - [[objektai/saltiniai/Konrado 1230 m. dovanojimo raštas]]
 - [[objektai/saltiniai/Kotzebue, Switrigail]]
@@ -1125,7 +1120,6 @@ Objektų skaičius: 1300.
 - [[objektai/saltiniai/Lietuvos Metrika (XIV knyga)]]
 - [[objektai/saltiniai/Lindenblatt Jahrbücher]]
 - [[objektai/saltiniai/Liublino unijos aktas (1569 m.)]]
-- [[objektai/saltiniai/M. Bialobžeskio pamokslų rinkinys]]
 - [[objektai/saltiniai/M. Jučas, Žalgirio mūšis]]
 - [[objektai/saltiniai/M. Oehler, Der Krieg zwischen dem Deutschen Orden und Polen-Litauen 1409-11]]
 - [[objektai/saltiniai/M. Priselkov, Troickaja letopis'|M. Priselkov, Troickaja letopis]]
@@ -1150,7 +1144,6 @@ Objektų skaičius: 1300.
 - [[objektai/saltiniai/Ostrovo sutartis (1392 m.)]]
 - [[objektai/saltiniai/P. Klimas, Vieno prancūzo įspūdžiai Lietuvoje Vytauto laikais. Guillebert de Lannoy kelionė 1413-14 metais]]
 - [[objektai/saltiniai/P. Šležas, Vytauto D. kovos dėl Žemaičių ir Klaipėdos]]
-- [[objektai/saltiniai/Patarlės žemaičių]]
 - [[objektai/saltiniai/Paul von Rusdorf. Hochmeister des Deutschen Ordens 1422-1441]]
 - [[objektai/saltiniai/Pašuta V. Lietuvos valstybės susidarymas]]
 - [[objektai/saltiniai/Per barzdą varvėjo svaigiųjų gėrimų istorija Lietuvoje]]
@@ -1181,7 +1174,6 @@ Objektų skaičius: 1300.
 - [[objektai/saltiniai/Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525]]
 - [[objektai/saltiniai/Regesta Lithnaniae]]
 - [[objektai/saltiniai/Regesta Lithuaniae]]
-- [[objektai/saltiniai/Revizijos komisijos pirmininko raštas Vilniaus generalgubernatoriui]]
 - [[objektai/saltiniai/Roneburgo pilies bažnyčios Dusburgiečio kronikos nuorašas]]
 - [[objektai/saltiniai/Ročka M. Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje (XV a. — XVI a. pradžia)]]
 - [[objektai/saltiniai/Rusėnų Biblija]]
@@ -1201,9 +1193,6 @@ Objektų skaičius: 1300.
 - [[objektai/saltiniai/Urbono VI bulė dėl Vilniaus katedros ir vyskupijos]]
 - [[objektai/saltiniai/Varakauskas R. Kautynės ties Ašerade (1279 m.) Iš lietuvių kovų prieš Livonijos ordiną XIII a]]
 - [[objektai/saltiniai/Varakauskas R. Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu (1236—1263)]]
-- [[objektai/saltiniai/Vidaus reikalų ministro 1867. VII. 2 raštas Vilniaus generalgubernatoriui]]
-- [[objektai/saltiniai/Vidaus reikalų viceministro 1869 m. lapkričio 27 d. raštas A. Potapovui]]
-- [[objektai/saltiniai/Vilniaus cenzūros komiteto 1865. II. 16 posėdžio protokolas]]
 - [[objektai/saltiniai/Vytauto 1420 m. laiškas Romos imperatoriui Zigmantui]]
 - [[objektai/saltiniai/Vytauto jaunystė ir jo veikimas iki 1392 m]]
 - [[objektai/saltiniai/Vytauto laiškai magistrui Rusdorfui dėl Lietuvos karūnos]]

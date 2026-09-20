@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Nikolajus Muravjovas'
+pavadinimas: Nikolajus Muravjovas
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 datos:
-  - '1863 m.'
+  - 1863 m.
 date_start: '1863'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9549532c4a39b53b805caf66"
-canonical_name: "Nikolajus Muravjovas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Nikolajus Muravjovas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9549532c4a39b53b805caf66
+canonical_name: Nikolajus Muravjovas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Nikolajus Muravjovas
 sameAs: []
-canonical_biography: "13 pas Valančiui Varnius atvyko Kau no gubernatorius Nikolajus Muravjovas. Jį atsiuntė tėvas Michailas Muravjovas."
+canonical_biography: 13 pas Valančiui Varnius atvyko Kau no gubernatorius Nikolajus Muravjovas. Jį atsiuntė tėvas Michailas Muravjovas.
 ---
 # Nikolajus Muravjovas
 

@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Vincentas Korotinskis'
+pavadinimas: Vincentas Korotinskis
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-db2c445e8b0a6c973c516312"
-canonical_name: "Vincentas Korotinskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Vincentas Korotinskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-db2c445e8b0a6c973c516312
+canonical_name: Vincentas Korotinskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Vincentas Korotinskis
 sameAs: []
-canonical_biography: "O vyskupo amžininkas Vincentas Korotinskis teigia, kad vysk."
+canonical_biography: 'O vyskupo amžininkas Vincentas Korotinskis teigia, kad vysk.'
 ---
 # Vincentas Korotinskis
 

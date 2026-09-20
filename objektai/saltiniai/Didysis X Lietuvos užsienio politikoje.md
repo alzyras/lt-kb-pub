@@ -32,31 +32,12 @@ media_all_json: |-
 
 Didysis X Lietuvos užsienio politikoje.
 
-## Citatos
-
-- id: c-75454
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
-  citata_originali: |
-    Vilnius, 2009.
-    Kasparavičius A. Didysis X Lietuvos užsienio politikoje. Vilnius, 1996.
-  citata_rodoma: "Kasparavičius A. Didysis X Lietuvos užsienio politikoje. Vilnius, 1996."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-78146"></a>
 - t-001
   teiginys: "A. Kasparavičiaus veikalas „Didysis X Lietuvos užsienio politikoje“ išleistas Vilniuje 1996 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,3 +54,21 @@ Didysis X Lietuvos užsienio politikoje.
   pagrindžia:
     - c-75454
 
+## Citatos
+
+- id: c-75454
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
+  citata_originali: |
+    Vilnius, 2009.
+    Kasparavičius A. Didysis X Lietuvos užsienio politikoje. Vilnius, 1996.
+  citata_rodoma: "Kasparavičius A. Didysis X Lietuvos užsienio politikoje. Vilnius, 1996."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

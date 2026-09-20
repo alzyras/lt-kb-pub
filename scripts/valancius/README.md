@@ -1,6 +1,11 @@
 # Motiejaus Valančiaus ciklas: redakcinė peržiūra
 
-**Aktuali 2026-09-14 B redakcija:** [B poros suvestinė, vaizdai ir galutinės patikros](review/B-STATUS.md). Pilnas surinkimas ir visas postbuild rinkinys praėjo; 8098 serveris rodo galutinį `public`. Žemiau paliktas istorinis 2026-09-13 žurnalas aprašo ankstesnę B redakciją, seną dalinę peržiūrą ir tuometines kliūtis.
+**2026-09-20 vartotojas patvirtino publikavimą.** Aktuali leidimo informacija —
+[publikavimo suvestinėje](review/PUBLICATION.md). Toliau paliktas ankstesnių etapų žurnalas.
+
+**Aktuali 2026-09-20 kalbos redakcija:** [Keturių kūrinių pavadinimai ir teksto redagavimas](review/LANGUAGE.md). Abiejų straipsnių ir parodų tekstai peržiūrėti vartotojo prašymu. Ankstesnės patikros ir pavadinimai žemiau yra istorinis darbo žurnalas, ne naujos redakcijos būsenos aprašymas.
+
+**2026-09-14 B redakcija:** [B poros suvestinė, vaizdai ir tuometinės patikros](review/B-STATUS.md). Joje aprašytas tuometis sėkmingas pilnas surinkimas ir postbuild. Žemiau paliktas 2026-09-13 žurnalas aprašo dar ankstesnę B redakciją.
 
 2026-09-13. **Vietinis, neindeksuojamas peržiūros variantas. Viešai nepaskelbta.**
 

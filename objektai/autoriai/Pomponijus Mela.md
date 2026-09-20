@@ -35,22 +35,10 @@ Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo 
 
 ## Teiginiai
 
-<a id="claim-t-213593"></a>
-- t-213593
-  teiginys: "Pomponijus Mela savo trumpesniuose aprašymuose panaudojo šaltinius apie Baltijos jūrą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194823
-
-<a id="claim-t-214728"></a>
-- t-214728
+<a id="claim-t-191551"></a>
+- t-001
   teiginys: "Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo vadinamas Venedų ežeru."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,7 +53,7 @@ Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
-    - c-195704
+    - c-174433
 
 ## Citatos
 
@@ -86,58 +74,5 @@ Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194823
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 172-173"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 172-173."
-  citata_originali: |
-    Kiek vyresnis už Plinijų istorikas
-    Melą Pomponijus apie Baltijos jūrą kalba ne itin aiškiai,
-    bet rodo puikias žinias šaltinių, kuriuos panaudojo savo
-    1 Strabo.
-    Lib.
-    III. P.
-    175.
-    2 Lelemel. Badan. star. we względ. Geogr. X. III. § 100 etc.
-    3 Prisc. Perieg. Avien. Descr. Orb. Eusth. ad Dyon. Perieg. Sis
-    Dionyzas
-    rašė
-    geografiją
-    eilėmis.
-    4 Pliti. Lib. IV. C. 12. Glessaria, a succino militiae appellata, a
-    barbaris Austranla, praeterque Actania.
-    175
-
-    trumpesniems aprašymams
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213593
-
-- id: c-195704
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 96."
-  citata_originali: |
-    Prie Juodosios
-    jūros buvo antų gentis, kurią Peutingerio žemėlapis** va­
-    dina venedais. Strabonas kalba apie belgų venedus šian­
-    dieniuose Nyderlanduose. Melą Pomponijus nedvipras­
-    miškai tvirtina, kad Konstanco ežeras buvo vadinamas
-    Venedų ežeru2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214728
-
+  pagrindzia:
+    - t-001

@@ -27,6 +27,45 @@ media_all_json: |-
 
 Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams paveldėtojams, giminaičiams ir tiek vy­ riškos, tiek ir moteriškos lyties artimiesiems tuos paminė­ tus Alantos dvarą ir jam priklausančius Kristupiškių ir Kirdeikiškių dvarelius bei.
 
+## Teiginiai
+
+<a id="claim-t-88345"></a>
+- t-001
+  teiginys: "Vaitiekus Slavenckis aprašė Alantos valdas, jų priklausinius ir derlius, o sąrašus su antspaudu ir parašu atidavė iždui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Gabrielius Bekešas: 0.78"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Alanta: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Gabrielius Bekešas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata perduoda Alantos dvarą ir priklausinius Gabrieliui Bekešui naudoti ir turėti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Alanta priklausė Gabrielius Bekešas (0.78)"
+  pagrindžia:
+    - c-84324
+
+<a id="claim-t-183833"></a>
+- t-002
+  teiginys: "Valdovas davė Gabrieliui Bekešui Vaitiekaus Slavenckio sudarytų Alantos valdų rejestrų nuorašą."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Gabrielius Bekešas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gabrielius Bekešas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad rejestruose išvardyti bajorai ir kiti žmonės yra Gabrielio Bekešo tėvoniškiai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Bajorai priklausė Gabrielius Bekešas (0.82); Alanta priklausė Gabrielius Bekešas (0.78)"
+  pagrindžia:
+    - c-167218
+
 ## Citatos
 
 - id: c-84324
@@ -81,7 +120,7 @@ Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams pav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-167218
@@ -136,45 +175,5 @@ Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams pav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-88345"></a>
-- t-001
-  teiginys: "Vaitiekus Slavenckis aprašė Alantos valdas, jų priklausinius ir derlius, o sąrašus su antspaudu ir parašu atidavė iždui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Gabrielius Bekešas: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Alanta: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Gabrielius Bekešas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata perduoda Alantos dvarą ir priklausinius Gabrieliui Bekešui naudoti ir turėti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Alanta priklausė Gabrielius Bekešas (0.78)"
-  pagrindžia:
-    - c-84324
-
-<a id="claim-t-183833"></a>
-- t-002
-  teiginys: "Valdovas davė Gabrieliui Bekešui Vaitiekaus Slavenckio sudarytų Alantos valdų rejestrų nuorašą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Gabrielius Bekešas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gabrielius Bekešas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad rejestruose išvardyti bajorai ir kiti žmonės yra Gabrielio Bekešo tėvoniškiai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Bajorai priklausė Gabrielius Bekešas (0.82); Alanta priklausė Gabrielius Bekešas (0.78)"
-  pagrindžia:
-    - c-167218
-

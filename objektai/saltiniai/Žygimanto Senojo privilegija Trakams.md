@@ -30,6 +30,32 @@ media_all_json: |-
 
 Kauno, Vilniaus ir Trakų pirklių bendravimą, šį kartą sausumos keliais, parodo 1516 m. Žygimanto Senojo privilegija Trakams, kurioje, be kita ko, rašoma, kad pirkliai, keliaujantys iš Vilniaus į Kauną ir atgal, privalo važiuoti per Trakus. 1516 m. Žygimanto Senojo privilegijoje Trakų miestui sakoma, kad nuskurdęs Trakų miestas kreipėsi į valdovą prašydamas pagalbos.
 
+## Teiginiai
+
+<a id="claim-t-202245"></a>
+- t-001
+  teiginys: "Kauno, Vilniaus ir Trakų pirklių bendravimą, šį kartą sausumos keliais, parodo 1516 m. Žygimanto Senojo privilegija Trakams, kurioje, be kita ko, rašoma, kad pirkliai, keliaujantys iš Vilniaus į Kauną ir atgal, privalo važiuoti per Trakus."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185592
+
+<a id="claim-t-202246"></a>
+- t-002
+  teiginys: "1516 m. Žygimanto Senojo privilegijoje Trakų miestui sakoma, kad nuskurdęs Trakų miestas kreipėsi į valdovą prašydamas pagalbos."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185593
+
 ## Citatos
 
 - id: c-185592
@@ -48,7 +74,7 @@ Kauno, Vilniaus ir Trakų pirklių bendravimą, šį kartą sausumos keliais, pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185593
@@ -66,32 +92,5 @@ Kauno, Vilniaus ir Trakų pirklių bendravimą, šį kartą sausumos keliais, pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-202245"></a>
-- t-001
-  teiginys: "Kauno, Vilniaus ir Trakų pirklių bendravimą, šį kartą sausumos keliais, parodo 1516 m. Žygimanto Senojo privilegija Trakams, kurioje, be kita ko, rašoma, kad pirkliai, keliaujantys iš Vilniaus į Kauną ir atgal, privalo važiuoti per Trakus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185592
-
-<a id="claim-t-202246"></a>
-- t-002
-  teiginys: "1516 m. Žygimanto Senojo privilegijoje Trakų miestui sakoma, kad nuskurdęs Trakų miestas kreipėsi į valdovą prašydamas pagalbos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185593
-

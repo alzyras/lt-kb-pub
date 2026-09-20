@@ -36,6 +36,28 @@ historical_names: []
 
 Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakalnį Krono-kilpinie, aiškintą kaip Kruonio kilpa.
 
+## Teiginiai
+
+<a id="claim-t-189011"></a>
+- t-001
+  teiginys: "Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakalnį Krono-kilpinie, aiškintą kaip Kruonio kilpa."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gilija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Krono-kilpinie: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gilija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krono-kilpinie\" parinktas kaip owner_note_path. Targetas \"Gilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171900
+
 ## Citatos
 
 - id: c-171900
@@ -58,50 +80,5 @@ Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakaln�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-200083
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 139"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
-  citata_originali: |
-    Už Tilžės, žemiau Vingio (Winge) dvaro, prie
-    Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­
-    nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­
-    kalnis, vietinių vadinamas Kroniszkas - Pilnis, tai yra Kruonio
-    (Kronu) pilimi. Ties Prienais, kur Nemunas daro pusračio vingį,
-    pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
-    Kronu). Tai rodo, kad vietos gyventojai kadaise Nemuną tik­
-    rai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi-
-    17 Stender.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-216779"></a>
-- t-001
-  teiginys: "Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakalnį Krono-kilpinie, aiškintą kaip Kruonio kilpa."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Gilija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krono-kilpinie: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gilija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krono-kilpinie\" parinktas kaip owner_note_path. Targetas \"Gilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-200083
-

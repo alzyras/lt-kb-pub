@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Agazirai (grupė)'
-identifikacija: 'grupė'
+pavadinimas: Agazirai (grupė)
+identifikacija: grupė
 variantai:
-  - 'Agazirai'
+  - Agazirai
 aliases:
-  - 'Agazirai'
+  - Agazirai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Agazirai (grupė)
 
@@ -64,6 +61,5 @@ Visa tai rodo, kad minėtų agazirų žemė buvusi prie Engūrės ežero, pavadi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

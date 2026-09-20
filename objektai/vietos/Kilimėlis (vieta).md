@@ -38,6 +38,20 @@ historical_names: []
 
 Vienok tuo tarpu, norėdamas gelbėti kalavijonis, išsiuntė Libencelį, kamendotą Ragainės, į Lietuvą, vildamos tuomi sugrąžinsią lietuvius, ka riaujančius Padaugavy su kalavijonimis; tasai, dvi pili tenai sugriovęs, vieną, vadinamą Kilimėliu, ant Nemuno kranto.
 
+## Teiginiai
+
+<a id="claim-t-201169"></a>
+- t-001
+  teiginys: "Vienok tuo tarpu, norėdamas gelbėti kalavijonis, išsiuntė Libencelį, kamendotą Ragainės, į Lietuvą, vildamos tuomi sugrąžinsią lietuvius, ka riaujančius Padaugavy su kalavijonimis; tasai, dvi pili tenai sugriovęs, vieną, vadinamą Kilimėliu, ant Nemuno kranto."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184519
+
 ## Citatos
 
 - id: c-184519
@@ -66,20 +80,5 @@ Vienok tuo tarpu, norėdamas gelbėti kalavijonis, išsiuntė Libencelį, kamend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201169"></a>
-- t-001
-  teiginys: "Vienok tuo tarpu, norėdamas gelbėti kalavijonis, išsiuntė Libencelį, kamendotą Ragainės, į Lietuvą, vildamos tuomi sugrąžinsią lietuvius, ka riaujančius Padaugavy su kalavijonimis; tasai, dvi pili tenai sugriovęs, vieną, vadinamą Kilimėliu, ant Nemuno kranto."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184519
-

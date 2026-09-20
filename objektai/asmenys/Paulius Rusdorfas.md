@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Paulius Rusdorfas'
+pavadinimas: Paulius Rusdorfas
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -22,19 +22,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7e2b7ab5fac20dd1202e8ba2"
-canonical_name: "Paulius Rusdorfas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Paulius Rusdorfas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7e2b7ab5fac20dd1202e8ba2
+canonical_name: Paulius Rusdorfas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Paulius Rusdorfas
 sameAs: []
-canonical_biography: "Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės. Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo. 1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy­ tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon 237 ## Puslapis 254 VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos."
+canonical_biography: 'Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės. Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo. 1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy­ tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon 237 ## Puslapis 254 VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:48:30+00:00","source_checked_at":"2026-09-20T11:48:30+00:00","counts":{"relations":2,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b669ed55e88321dc9bf58a51","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Didysis magistras","context":"1426 m. liepos 8 d. Julijonos laiške minimas kaip didysis magistras Paulius fon Rusdorfas.","support_ids":["t-87454","c-83432"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87454","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83432","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"54 Index Cod. Hist. Dipl. Livoniae, T. I, N. 1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy­ tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojan- čios didžiajam magistrui Pauliui fon 237 ## Puslapis 254 VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir vėles­ niais laikais. Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­ dymo meną išmanantys: vienas - pagal profesiją fizikas, arba rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas; antras, pagarsėjęs alchemijos išmanymu bei sėkmingu gy­ dymu, - Aleksandras Balinskis. Nors jų ginčai dėl karaliaus gydymo būdo, kaip…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"reme","direction":"outbound","target":"objektai/asmenys/Julijona","claim_id":"t-87452","confidence":0.84},{"predicate":"sudare_sutarti_su","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-87453","confidence":0.62}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6086e0c36958bcab
+object_page_generated_at: '2026-09-20T11:48:30+00:00'
+object_page_source_checked_at: '2026-09-20T11:48:30+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Paulius Rusdorfas: Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės. Prūsi­ jos…'
+object_page_seo_input_hash: 5cd63180d79281ba91c2d3ac96604b8b7c394c50b6e58124e2bfa89000525262
+object_page_seo_generated_at: '2026-09-20T11:48:30+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Paulius Rusdorfas
 
@@ -60,10 +72,46 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   pagrindžia:
     - c-83431
 
-<a id="claim-t-212272"></a>
-- t-212272
+<a id="claim-t-87453"></a>
+- t-002
+  teiginys: "Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Paulius Rusdorfas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Rusdorfas sutarties kontekste veikia kartu su savo Ordinu; tiesioginiai kitos pusės asmenys nėra leistini kandidatai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Paulius Rusdorfas sudarė sutartį su Kryžiuočių ordinas (0.62)"
+  pagrindžia:
+    - c-83433
+
+<a id="claim-t-87454"></a>
+- t-003
+  teiginys: "Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už jai atsiųstus gėrimus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusdorfas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paulius Rusdorfas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusdorfas: mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paulius Rusdorfas\" parinktas kaip owner_note_path. Targetas \"Rusdorfas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1426 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Iš citatos išskirtas konkretus faktas apie Rusdorfą, pašalinant puslapio triukšmą."
+  pagrindžia:
+    - c-83432
+
+<a id="claim-t-190960"></a>
+- t-004
   teiginys: "Narbutas Paulių Rusdorfą vadino kryžiuočių magistru, 1436 m. su Vladislovu Varniečiu sudariusiu pasienio konvenciją."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,55 +130,19 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas lietuviškas sakinys apie Paulių Rusdorfą ir aiškiai rodo Narbuto vartotą titulą. Nieko papildomo iš platesnio Rusios sienos konteksto nereikia pridėti."
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
-    - c-194528
+    - c-173842
 
-<a id="claim-t-213068"></a>
-- t-213068
+<a id="claim-t-197805"></a>
+- t-005
   teiginys: "Tik 1436 metais Lenkijos karalius Vladis lovas Varnietis iš vienos ir kryžiuočių magistras Povilas Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku ria visiems laikams buvo nustatyta minėtų valstybių sie na, o Rusia buvo padalyta į dvi nelygias dalis2."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-196844
-
-<a id="claim-t-87453"></a>
-- t-87453
-  teiginys: "Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Paulius Rusdorfas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Rusdorfas sutarties kontekste veikia kartu su savo Ordinu; tiesioginiai kitos pusės asmenys nėra leistini kandidatai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Paulius Rusdorfas sudarė sutartį su Kryžiuočių ordinas (0.62)"
-  pagrindžia:
-    - c-83433
-
-<a id="claim-t-87454"></a>
-- t-87454
-  teiginys: "Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už jai atsiųstus gėrimus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusdorfas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Paulius Rusdorfas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusdorfas: mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paulius Rusdorfas\" parinktas kaip owner_note_path. Targetas \"Rusdorfas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1426 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Iš citatos išskirtas konkretus faktas apie Rusdorfą, pašalinant puslapio triukšmą."
-  pagrindžia:
-    - c-83432
+    - c-179348
 
 ## Citatos
 
@@ -164,12 +176,11 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
     diena, 2 indiktas.
   citata_rodoma: "A liteho\n236\n\n## Puslapis 253\n\nIII KNYGA\ngaliau Aleksandro laikais Vilnius pirmą kartą pažino gydy­\ntoją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­\nme vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­\njos istorija mums išsaugojo įdomią žinią apie tai, kad \nVytautas 1426 metais, susirūpinęs savo žmonos Julijonos \nliga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­\nti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro \nPauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.\nserebra do mina/ pryszlo 20 tysiacz hry- \nwien i 6 sot hrywien i 50 i osm hryzvien \ni dwa skotcy [Vilniuje, birželio 9-ta \ndiena, 2 indiktas."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-83432
@@ -220,8 +231,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-87454
+  pagrindzia:
+    - t-003
 
 - id: c-83433
   autorius: "Michał Baliński"
@@ -254,8 +265,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-87453
+  pagrindzia:
+    - t-002
 
 - id: c-173842
   autorius: "Teodoras Narbutas"
@@ -282,6 +293,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-179348
   autorius: "Teodoras Narbutas"
@@ -306,60 +319,5 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194528
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 237"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
-  citata_originali: |
-    Laikui bėgant, Rusios kraštas
-    patyrė įvairių pokyčių, galop kryžiuočių laikais tapo be­
-    veik visiška dykra, kuri daugelyje vietų tarp Prūsijos ir
-    Žemaitijos buvo beveik neperžengiama taip, kad beveik
-    ištisus du amžius nebuvo Lietuvos ir Prūsų valstybių tar­
-    pusavio sienos. Tik 1436 metais Lenkijos karalius Vladis­
-    lovas Varnietis iš vienos ir kryžiuočių magistras Povilas
-    Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku­
-    ria visiems laikams buvo nustatyta minėtų valstybių sie­
-    na, o Rusia buvo padalyta į dvi nelygias dalis2. Tačiau
-    iki tos epochos didesnė Rusios dalis laikėsi Lietuvos ir
-    išsaugojo savo giminės gyventojų kartą*, kuri ramesniais
-    laikais, patekusi į kryžiuočių priklausomybę, išvengė pra­
-    žūties, ištikusios kitą tautos dalį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212272
-
-- id: c-196844
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 237"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
-  citata_originali: |
-    Tik 1436 metais Lenkijos karalius Vladis­
-    lovas Varnietis iš vienos ir kryžiuočių magistras Povilas
-    Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku­
-    ria visiems laikams buvo nustatyta minėtų valstybių sie­
-    na, o Rusia buvo padalyta į dvi nelygias dalis2. Tačiau
-    iki tos epochos didesnė Rusios dalis laikėsi Lietuvos ir
-    išsaugojo savo giminės gyventojų kartą*, kuri ramesniais
-    laikais, patekusi į kryžiuočių priklausomybę, išvengė pra­
-    žūties, ištikusios kitą tautos dalį. Ypač užkampyje tarp
-    Nemuno ir Jūros upės žemupio, miškingose Smalininkų
-    apylinkėse, smėlėtoje ir nedėkingoje žemėje ligi šiol gy­
-    vena senovės rusų-lietuvių giminė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213068
-
+  pagrindzia:
+    - t-005

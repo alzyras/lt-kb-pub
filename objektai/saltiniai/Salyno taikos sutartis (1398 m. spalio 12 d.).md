@@ -32,6 +32,20 @@ Sutartyje skelbta abiejų pusių kalinių ir įkaitų, tarp jų kunigaikščio �
 
 Sutartyje skelbta abiejų pusių kalinių ir įkaitų, tarp jų kunigaikščio Žygimanto, išvadavimo laisvė.
 
+## Teiginiai
+
+<a id="claim-t-207039"></a>
+- t-001
+  teiginys: "Sutartyje skelbta abiejų pusių kalinių ir įkaitų, tarp jų kunigaikščio Žygimanto, išvadavimo laisvė."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189654
+
 ## Citatos
 
 - id: c-189654
@@ -50,20 +64,5 @@ Sutartyje skelbta abiejų pusių kalinių ir įkaitų, tarp jų kunigaikščio �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-207039"></a>
-- t-001
-  teiginys: "Sutartyje skelbta abiejų pusių kalinių ir įkaitų, tarp jų kunigaikščio Žygimanto, išvadavimo laisvė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189654
-

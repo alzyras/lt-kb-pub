@@ -32,6 +32,27 @@ media_all_json: |-
 
 Dusburgietis teigia, kad słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
 
+## Teiginiai
+
+<a id="claim-t-61306"></a>
+- t-001
+  teiginys: "„Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu“ išleistas 1971 m. Vroclave, Varšuvoje, Krokuvoje ir Gdanske."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu Opracowała К. Porębska przy współpracy M Grzegorza; Pod. red. M. Biskupa: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=108"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu Opracowała К. Porębska przy współpracy M Grzegorza; Pod. red. M. Biskupa\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1971 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti bibliografinį faktą, o pradinis teiginys yra fragmentas."
+  pagrindžia:
+    - c-61938
+
 ## Citatos
 
 - id: c-61938
@@ -48,43 +69,5 @@ Dusburgietis teigia, kad słownik historyczno-geograficzny ziemi Chełmińskiej 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201958
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
-  citata_originali: |
-    Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
-    Porębska przy współpracy M Grzegorza; Pod. red. M. Biskupa.— Wrocław—Warszawa—
-    Kraków— Gdańsk, 1971.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-225277"></a>
-- t-001
-  teiginys: "„Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu“ išleistas 1971 m. Vroclave, Varšuvoje, Krokuvoje ir Gdanske."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu Opracowała К. Porębska przy współpracy M Grzegorza; Pod. red. M. Biskupa: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=108"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu Opracowała К. Porębska przy współpracy M Grzegorza; Pod. red. M. Biskupa\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1971 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti bibliografinį faktą, o pradinis teiginys yra fragmentas."
-  pagrindžia:
-    - c-201958
-

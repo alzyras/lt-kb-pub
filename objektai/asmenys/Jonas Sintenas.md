@@ -35,6 +35,34 @@ Teodoras Narbutas rašo, kad Kryžiuočių ordinui siekiant, jog Jonas Sintenas 
 
 Teodoras Narbutas rašo, kad Kryžiuočių ordinui siekiant, jog Jonas Sintenas su kapitula vilkėtų ordino abitą, Rygos arkivyskupas reikalavo grąžinti neteisėtai užimtas valdas, ypač Rygos miestą. Teodoras Narbutas rašo, kad Jonas Sintenas, netekęs kantrybės, paskelbė kryžiuočiams prakeiksmą, pabėgo į Liubeką ir buvo perkeltas į Aleksandrijos patriarcho pareigas.
 
+## Teiginiai
+
+<a id="claim-t-206988"></a>
+- t-001
+  teiginys: "Teodoras Narbutas rašo, kad Kryžiuočių ordinui siekiant, jog Jonas Sintenas su kapitula vilkėtų ordino abitą, Rygos arkivyskupas reikalavo grąžinti neteisėtai užimtas valdas, ypač Rygos miestą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189603
+
+<a id="claim-t-206989"></a>
+- t-002
+  teiginys: "Teodoras Narbutas rašo, kad Jonas Sintenas, netekęs kantrybės, paskelbė kryžiuočiams prakeiksmą, pabėgo į Liubeką ir buvo perkeltas į Aleksandrijos patriarcho pareigas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189604
+
 ## Citatos
 
 - id: c-189603
@@ -54,7 +82,7 @@ Teodoras Narbutas rašo, kad Kryžiuočių ordinui siekiant, jog Jonas Sintenas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189604
@@ -73,34 +101,5 @@ Teodoras Narbutas rašo, kad Kryžiuočių ordinui siekiant, jog Jonas Sintenas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206988"></a>
-- t-001
-  teiginys: "Teodoras Narbutas rašo, kad Kryžiuočių ordinui siekiant, jog Jonas Sintenas su kapitula vilkėtų ordino abitą, Rygos arkivyskupas reikalavo grąžinti neteisėtai užimtas valdas, ypač Rygos miestą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189603
-
-<a id="claim-t-206989"></a>
-- t-002
-  teiginys: "Teodoras Narbutas rašo, kad Jonas Sintenas, netekęs kantrybės, paskelbė kryžiuočiams prakeiksmą, pabėgo į Liubeką ir buvo perkeltas į Aleksandrijos patriarcho pareigas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189604
-

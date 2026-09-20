@@ -1,24 +1,24 @@
 ---
 tipas: asmuo
-pavadinimas: "Mykolas Gedeonas Radvila (1778-1850)"
-canonical_entity_id: "ent-noble-c675ed1020517c0e67458aec"
-noble_scope: "ldk-didikai-iki-1795-v1"
-noble_family: "Radvilos"
+pavadinimas: Mykolas Gedeonas Radvila (1778-1850)
+canonical_entity_id: ent-noble-c675ed1020517c0e67458aec
+noble_scope: ldk-didikai-iki-1795-v1
+noble_family: Radvilos
 aliases:
-  - "Mykolas Gedeonas Radvila"
+  - Mykolas Gedeonas Radvila
 saltiniai:
-  - "VLE: Radvilos"
+  - 'VLE: Radvilos'
 date_start: '1778'
 date_end: '1850'
 periodo_grupes:
-  - 'LDK'
+  - LDK
 bukle: viesas_pradinis
 datos:
-  - '1778 m.'
-  - '1850 m.'
+  - 1778 m.
+  - 1850 m.
 amziai:
-  - 'XVIII'
-  - 'XIX'
+  - XVIII
+  - XIX
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,19 +30,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-noble-c675ed1020517c0e67458aec"
-canonical_name: "Mykolas Gedeonas Radvila (1778-1850)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mykolas Gedeonas Radvila","Mykolas Gedeonas Radvila (1778-1850)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-noble-c675ed1020517c0e67458aec
+canonical_name: Mykolas Gedeonas Radvila (1778-1850)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mykolas Gedeonas Radvila
+  - Mykolas Gedeonas Radvila (1778-1850)
 sameAs: []
-canonical_biography: "Mykolas Gedeonas Radvila (1778-1850) - Radvilos giminės atstovas."
+canonical_biography: Mykolas Gedeonas Radvila (1778-1850) - Radvilos giminės atstovas.
 ---
 # Mykolas Gedeonas Radvila (1778-1850)
 

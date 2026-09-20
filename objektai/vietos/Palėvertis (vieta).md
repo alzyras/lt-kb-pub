@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Palėvertis (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Palėvertis (vieta)
+identifikacija: vieta
 variantai:
-  - 'Palėvertis'
+  - Palėvertis
 aliases:
-  - 'Palėvertis'
+  - Palėvertis
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a909468a436c29c6d120f86a"
-canonical_name: "Palėvertis (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Palėvertis","Palėvertis (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a909468a436c29c6d120f86a
+canonical_name: Palėvertis (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Palėvertis
+  - Palėvertis (vieta)
 sameAs: []
-canonical_biography: "Palėvertio parapijos valstiečiai buvo raginami imtis blaivybės."
+canonical_biography: Palėvertio parapijos valstiečiai buvo raginami imtis blaivybės.
 place_authority: true
 historical_names: []
 ---

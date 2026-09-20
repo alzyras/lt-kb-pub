@@ -36,6 +36,86 @@ canonical_biography: "Vasilijus primygtinai reikalavo, kad karaliaus pasiuntinia
 
 Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų. Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo. Lietuvos metraštis Vasilijų įvardija šeštuoju Algirdo ir Julijonos Oljevnos sūnumi.
 
+## Teiginiai
+
+<a id="claim-t-185978"></a>
+- t-001
+  teiginys: "Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Maskva: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasilijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vasilijus reikalavo, kad karaliaus pasiuntiniai būtų nukreipti į Maskvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Vasilijus siuntė į Maskva (0.72)"
+  pagrindžia:
+    - c-169339
+
+<a id="claim-t-185979"></a>
+- t-002
+  teiginys: "Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vasilijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vasilijus\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169340
+
+<a id="claim-t-194004"></a>
+- t-003
+  teiginys: "Lietuvos metraštis Vasilijų įvardija šeštuoju Algirdo ir Julijonos Oljevnos sūnumi."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176629
+
+<a id="claim-t-196619"></a>
+- t-004
+  teiginys: "Kojelavičiaus pasakojime Vasilijus kreipėsi į Glinskį, o šis pažadais ir dovanomis palaužė pilies įgulos bei bajorų ištikimybę."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178804
+
+<a id="claim-t-196621"></a>
+- t-005
+  teiginys: "Kojelavičius rašė, kad Vasilijus Žygimantui siųstame laiške nepavadino jo Prūsijos ir Rusios kunigaikščiu, sukeldamas dingstį nesantaikai."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178805
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.'
@@ -124,6 +204,8 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-169340
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -154,6 +236,8 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-176127
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -177,7 +261,6 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-176629
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -198,6 +281,8 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-178804
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -222,8 +307,8 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
+    - t-004
 
 - id: c-178805
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -250,34 +335,5 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-196619"></a>
-- t-001
-  teiginys: "Kojelavičiaus pasakojime Vasilijus kreipėsi į Glinskį, o šis pažadais ir dovanomis palaužė pilies įgulos bei bajorų ištikimybę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178804
-
-<a id="claim-t-196621"></a>
-- t-002
-  teiginys: "Kojelavičius rašė, kad Vasilijus Žygimantui siųstame laiške nepavadino jo Prūsijos ir Rusios kunigaikščiu, sukeldamas dingstį nesantaikai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178805
-
+  pagrindzia:
+    - t-005

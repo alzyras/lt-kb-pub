@@ -35,6 +35,20 @@ media_all_json: |-
 
 1468 m. Kazimieras Jogailaitis paskyrė susiėjimą Trakuose, apie 1470 m. suteikė nuostatus Hanzos kontorai Kaune, 1480 m. Kaunui nurodė laikytis savo teisės, 1481 m., paskui kelis kartus 1483, 1488 ir 1492 m., Kauno ir Dancigo ginčą sprendė kartu su Lietuvos.
 
+## Teiginiai
+
+<a id="claim-t-202272"></a>
+- t-001
+  teiginys: "1468 m. Kazimieras Jogailaitis paskyrė susiėjimą Trakuose, apie 1470 m. suteikė nuostatus Hanzos kontorai Kaune, 1480 m. Kaunui nurodė laikytis savo teisės, 1481 m., paskui kelis kartus 1483, 1488 ir 1492 m., Kauno ir Dancigo ginčą sprendė kartu su Lietuvos."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185619
+
 ## Citatos
 
 - id: c-185619
@@ -51,20 +65,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202272"></a>
-- t-001
-  teiginys: "1468 m. Kazimieras Jogailaitis paskyrė susiėjimą Trakuose, apie 1470 m. suteikė nuostatus Hanzos kontorai Kaune, 1480 m. Kaunui nurodė laikytis savo teisės, 1481 m., paskui kelis kartus 1483, 1488 ir 1492 m., Kauno ir Dancigo ginčą sprendė kartu su Lietuvos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185619
-

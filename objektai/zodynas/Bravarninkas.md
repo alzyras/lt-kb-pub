@@ -50,6 +50,19 @@ Bravarninkas šiame šaltinyje reiškia žmogų, kuris bravare išvaro degtinę 
 
 Terminas vartojamas aprašant kaimo degtinės varymo tvarką.
 
+## Teiginiai
+
+<a id="claim-t-195616"></a>
+- t-001
+  teiginys: "Bravarninkas šiame šaltinyje iš salyklos išvaro degtinę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-185987
+
 ## Citatos
 
 - id: c-178018
@@ -70,9 +83,6 @@ Terminas vartojamas aprašant kaimo degtinės varymo tvarką.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - id: c-185987
   autoriai: "A. Sabaliauskas; M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931)"
@@ -89,17 +99,5 @@ Terminas vartojamas aprašant kaimo degtinės varymo tvarką.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-195616"></a>
-- t-001
-  teiginys: "Bravarninkas šiame šaltinyje iš salyklos išvaro degtinę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-178018
-
+  pagrindzia:
+    - t-001

@@ -36,6 +36,70 @@ historical_names: []
 
 Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prūsuose vieta, kur degė nuolat kurstoma ugnis. Narbutas rašo, kad Šventamiestyje, vėlesniame Heiligenbeilyje, augo žiemą ir vasarą žalias nepaprasto storumo ąžuolas. Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.
 
+## Teiginiai
+
+<a id="claim-t-188918"></a>
+- t-001
+  teiginys: "Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prūsuose vieta, kur degė nuolat kurstoma ugnis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Prūsai: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heiligenbeilis Šventasis Kirvelis: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys Šventamiestį, vėlesnį Heiligenbeilį, lokalizuoja Prūsuose."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Heiligenbeilis Šventasis Kirvelis priklausė Prūsai (0.70)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171807
+
+<a id="claim-t-188919"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad Šventamiestyje, vėlesniame Heiligenbeilyje, augo žiemą ir vasarą žalias nepaprasto storumo ąžuolas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Žyniai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Heiligenbeilis Šventasis Kirvelis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Žyniai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heiligenbeilis Šventasis Kirvelis\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171808
+
+<a id="claim-t-188920"></a>
+- t-003
+  teiginys: "Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Heiligenbeilis: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Šventasis ąžuolas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Heiligenbeilis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad šventasis ąžuolas augo šventyklos aptvare Heiligenbeilyje."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Šventasis ąžuolas priklausė Heiligenbeilis (0.82)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171809
+
 ## Citatos
 
 - id: c-171807
@@ -55,6 +119,8 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-171808
   autorius: "Teodoras Narbutas"
@@ -78,6 +144,8 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-171809
   autorius: "Teodoras Narbutas"
@@ -98,117 +166,5 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197901
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 224."
-  citata_originali: |
-    Skaityk straipsnius „Vaidilutės“,
-    „Birutė“.
-    2. Dievo Kurko garbei taip pat degė nuolat kurstoma ug­
-    nis, ypač Prūsuose, didelėje to dievo šventovėje Šventamiesty-
-    je (Szwentameste), kur dabar Heiligenbeilis, lenkiškai Swięta-
-    Siekierka, Šventasis Kirvelis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-200049
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 236"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
-  citata_originali: |
-    Vis dėlto galimas
-    daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
-    reikėtų manyti, jog senovės žyniai mokėjo šventąjį ąžuolą taip
-    apauginti amalu, kad jo lapai būtų nepaprastai tankūs, o žie­
-    mą amalo žaluma nuspalvintų jo vainiką.
-    Sventamiestyje, vėliau Heiligenbeilyje, vadinamame Šven­
-    tuoju Kirveliu, augo panašios rūšies žiemą vasarą žalias neap­
-    sakomo storumo ąžuolas. Varmijos vyskupų biografas Trete-
-    ris sako: „Toje vietoje, kur yra Heiligenbeilis, augo milžiniš­
-    kas ąžuolas, kuris tiek vasarą, tiek žiemą žaliavo (be abejo,
-    velnio pastangomis).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-216971
-
-## Teiginiai
-
-<a id="claim-t-216563"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad Šventamiestyje, vėlesniame Heiligenbeilyje, augo žiemą ir vasarą žalias nepaprasto storumo ąžuolas."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Žyniai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Heiligenbeilis Šventasis Kirvelis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žyniai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heiligenbeilis Šventasis Kirvelis\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-200049
-
-<a id="claim-t-218518"></a>
-- t-002
-  teiginys: "Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prūsuose vieta, kur degė nuolat kurstoma ugnis."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Prūsai: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Heiligenbeilis Šventasis Kirvelis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys Šventamiestį, vėlesnį Heiligenbeilį, lokalizuoja Prūsuose."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Heiligenbeilis Šventasis Kirvelis priklausė Prūsai (0.70)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-197901
-
-<a id="claim-t-216971"></a>
-- t-216971
-  teiginys: "Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Heiligenbeilis: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šventasis ąžuolas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Heiligenbeilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad šventasis ąžuolas augo šventyklos aptvare Heiligenbeilyje."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Šventasis ąžuolas priklausė Heiligenbeilis (0.82)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-200049
-
+  pagrindzia:
+    - t-003

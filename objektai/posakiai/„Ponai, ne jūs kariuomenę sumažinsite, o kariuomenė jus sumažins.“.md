@@ -33,6 +33,20 @@ media_all_json: |-
 
 Įsiutę karininkai vienam Seimo nariui populiariai išaiškino, kas atsitiks: „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“ Staigios reformos ir kilnūs valdžios siekiai atsisuko prieš ją pačią.
 
+## Teiginiai
+
+<a id="claim-t-26360"></a>
+- t-001
+  teiginys: "Posakis „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins“ buvo įsiutusių karininkų perspėjimas Seimo nariui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: po 1927 m.; įvykio data: 1927 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti patį posakį ir pašalinti perteklinį kontekstą."
+  pagrindžia:
+    - c-26585
+
 ## Citatos
 
 - id: c-26585
@@ -53,20 +67,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-26360"></a>
-- t-001
-  teiginys: "Posakis „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins“ buvo įsiutusių karininkų perspėjimas Seimo nariui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: po 1927 m.; įvykio data: 1927 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti patį posakį ir pašalinti perteklinį kontekstą."
-  pagrindžia:
-    - c-26585
-

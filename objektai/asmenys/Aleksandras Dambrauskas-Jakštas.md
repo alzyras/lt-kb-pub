@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Aleksandras Dambrauskas-Jakštas'
+pavadinimas: Aleksandras Dambrauskas-Jakštas
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5353df3544e78c2446735264"
-canonical_name: "Aleksandras Dambrauskas-Jakštas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Aleksandras Dambrauskas-Jakštas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5353df3544e78c2446735264
+canonical_name: Aleksandras Dambrauskas-Jakštas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Aleksandras Dambrauskas-Jakštas
 sameAs: []
-canonical_biography: "Dambrauskas-Jakštas teigė, kad Valančius neskirdavo neveiklių bei nenusipelniusių kunigų į reikšmingesnes parapijas."
+canonical_biography: 'Dambrauskas-Jakštas teigė, kad Valančius neskirdavo neveiklių bei nenusipelniusių kunigų į reikšmingesnes parapijas.'
 ---
 # Aleksandras Dambrauskas-Jakštas
 
@@ -34,32 +33,6 @@ Dambrauskas-Jakštas teigė, kad Valančius neskirdavo neveiklių bei nenusipeln
 ## Santrauka
 
 Dambrauskas-Jakštas teigė, kad Valančius neskirdavo neveiklių bei nenusipelniusių kunigų į reikšmingesnes parapijas.
-
-## Teiginiai
-
-<a id="claim-t-217014"></a>
-- t-001
-  teiginys: "Jonas Spudulis rašė Adomui Dambrauskui-Jakštui:."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199660
-
-<a id="claim-t-208894"></a>
-- t-208894
-  teiginys: "Dambrauskas-Jakštas teigė, kad Valančius neskirdavo neveiklių bei nenusipelniusių kunigų į reikšmingesnes parapijas."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191514
 
 ## Citatos
 
@@ -83,7 +56,7 @@ Dambrauskas-Jakštas teigė, kad Valančius neskirdavo neveiklių bei nenusipeln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-208894
+    - t-001
 
 - id: c-199660
   autorius: "Teodoras Narbutas"
@@ -100,5 +73,31 @@ Dambrauskas-Jakštas teigė, kad Valančius neskirdavo neveiklių bei nenusipeln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-208894"></a>
+- t-001
+  teiginys: "Dambrauskas-Jakštas teigė, kad Valančius neskirdavo neveiklių bei nenusipelniusių kunigų į reikšmingesnes parapijas."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191514
+
+<a id="claim-t-217014"></a>
+- t-002
+  teiginys: "Jonas Spudulis rašė Adomui Dambrauskui-Jakštui:."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199660
 

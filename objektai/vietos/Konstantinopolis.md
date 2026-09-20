@@ -1,16 +1,16 @@
 ---
 tipas: vieta
-pavadinimas: 'Konstantinopolis'
+pavadinimas: Konstantinopolis
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1200 m.'
-  - '1239 m.'
-  - '1259 m.'
-  - '2026 m.'
+  - 1200 m.
+  - 1239 m.
+  - 1259 m.
+  - 2026 m.
 date_start: '1200'
 date_end: '2026'
 sukurta: ''
@@ -19,29 +19,41 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XII'
-  - 'XXI'
+  - XII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-c51f2098d23dcca87e99f1e2"
-canonical_name: "Konstantinopolis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Konstantinopolis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-c51f2098d23dcca87e99f1e2
+canonical_name: Konstantinopolis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Konstantinopolis
 sameAs: []
-canonical_biography: "Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o su ja žlugo ir unija. Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis."
+canonical_biography: 'Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o su ja žlugo ir unija. Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Constantinople","url":"https://en.wikipedia.org/wiki/Constantinople","publisher":"Wikipedia","kind":"encyclopedia","status":"published","confidence":0.99,"language":"en"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T13:40:01+00:00","source_checked_at":"2026-09-19T13:40:01+00:00","counts":{"relations":6,"gallery":0,"sources":6},"featured_claim_ids":["t-177249","t-222130","t-177253","t-224676","t-177248","t-223054"],"featured_claims":[{"claim_id":"t-177249","text":"Po Ciprijono mirties Vytautas pristatė Konstantinopolio patriarchui Eufimėjui Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-161140"]},{"claim_id":"t-222130","text":"1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-202380"]},{"claim_id":"t-177253","text":"Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-161142"]},{"claim_id":"t-224676","text":"1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-204715"]},{"claim_id":"t-177248","text":"Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-161143"]},{"claim_id":"t-223054","text":"1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-204915"]}],"featured_quote":{"text":"Bet Konstantinopolio stačiatikių sinodas ne tik kad nepaskyrė Cem­ blako metropolitu, bet atėmė iš įo žemutinius šventimus ir ji iš­ keikė. Naugarduko susirinkimas pasiuntė delegaciją, kad išsi­ rūpintų vietoj Cemblako kitą žmogų, patriarchui patinkamą, bet ir ji nieko nelaimėjo.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","claim_id":"t-177255","evidence_id":"c-161142","origin":"internal"},"wiki":{"status":"published","source":{"title":"Constantinople","url":"https://en.wikipedia.org/wiki/Constantinople","publisher":"Wikipedia","language":"en","article_id":"5646","revision_id":"1375041443","published_at":"2026-09-15T14:32:47Z","version_pk":"","content_hash":"9ef38cd24896a5a1d27050cd974d9c1bc7c45b0f1b9d83cb025288c0d3eb183f","retrieved_at":"2026-09-19T13:37:06+00:00","history_url":"https://en.wikipedia.org/w/index.php?title=Constantinople&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"5646"}},"intro":"Konstantinopolis, dabartinis Stambulas, buvo Romos ir Bizantijos imperijų sostinė nuo 330 m. iki 1453 m., kai ją užėmė Osmanų imperija. Po to ji ir toliau buvo Osmanų sostinė Konstantinije iki Osmanų sultonato panaikinimo 1922 m. Miestas buvo dabartinio Stambulo centre, pusiasalyje pietrytiniame Europos Trakijos gale; rytuose jį supo Bosforo sąsiauris ir senoviniai Chalkedono bei Chrysopolio miestai Bitinijoje, Anatolijoje (Mažojoje Azijoje); šiaurėje – Aukso Ragas ir Galatos (Peros) citadelė; pietuose – Marmuro jūra, o pietryčiuose – Princo salos. Konstantinopolis buvo įkurtas esamo Bizantijo miesto vietoje 324 m., valdant Konstantinui Didžiajam, iš pradžių kaip Naujoji Roma. 330 m. jis tapo naująja Romos imperijos sostine ir išliko ja po imperijos padalijimo į Rytų ir Vakarų dalis bei Vakarų Romos imperijos žlugimo V amžiuje. Konstantinopolio iškilimas žymi imperijos „bizantiškąjį“ laikotarpį. Nuo V amžiaus vidurio iki XIII amžiaus pradžios Konstantinopolis buvo didžiausias ir turtingiausias Europos miestas. Miestas garsėjo architektūros šedevrais, tokiais kaip Šventosios Sofijos soboras, Rytų Ortodoksų Bažnyčios katedra, kurioje buvo ekumeninio patriarchato būstinė; imperatorių imperatoriškieji rūmai; hipodromas; Sausumos sienų Aukso vartai; ir prabangūs aristokratų rūmai. Konstantinopolio universitetas buvo įkurtas V amžiuje, jame veikė didžiulė Imperatoriškoji biblioteka, kurioje buvo daugiau kaip 100 000 tomų. Konstantinopolis garsėjo masyviais ir sudėtingais įtvirtinimais, priskiriamais prie pažangiausių senovės gynybinės architektūros pavyzdžių; Teodosijaus sienas sudarė dviguba siena, esanti maždaug už 2 kilometrų į vakarus nuo pirmosios sienos, ir priešais ją iškastas griovys su palisadomis. Konstantinopolio padėtis tarp Aukso Rago ir Marmuro jūros sumažino sausumos plotą, kurį reikėjo apjuosti gynybinėmis sienomis. Miestas buvo sąmoningai pastatytas taip, kad prilygtų Romai, ir buvo teigiama, kad keli jo sienų viduje esantys aukštumų taškai atitiko…","original_intro":"Constantinople, the modern Istanbul, was the capital of the Roman and Byzantine Empire from 330 until its takeover by the Ottoman Empire in 1453. After this, it continued to function as the Ottoman capital Konstantiniyye until the abolition of the Ottoman sultanate in 1922. It was located at the core of the modern city of Istanbul, on a peninsula at the southeastern tip of Thrace in Europe; with the Bosporus strait and the ancient cities of Chalcedon and Chrysopolis in Bithynia, Anatolia (Asia Minor) to the east; the Golden Horn and the citadel of Galata (Pera) to the north; the Sea of Marmara to the south; and the Princes'' Islands to the southeast. Constantinople was founded on the site of the existing city of Byzantium in 324, during the reign of Constantine the Great, initially as New Rome. In 330 it became the new capital of the Roman Empire, and continued in that role after the empire was divided in an Eastern and Western half and after the Western Roman Empire ended in the 5th century. The ascendancy of Constantinople marks the empire''s \"Byzantine\" era. From the mid-5th century to the early 13th century, Constantinople was the largest and wealthiest city in Europe. The city became famous for its architectural masterpieces, such as Hagia Sophia, the cathedral of the Eastern Orthodox Church, which served as the seat of the Ecumenical Patriarchate; the Imperial Palace of the emperors; the Hippodrome; the Golden Gate of the Land Walls; and opulent aristocratic palaces. The University of Constantinople was founded in the 5th century and included a vast Imperial Library, which contained more than 100,000 volumes. Constantinople was famous for its massive and complex fortifications, which ranked among the most sophisticated defensive architecture of antiquity; the Theodosian Walls consisted of a double wall lying about 2 kilometres (1.2 mi) to the west of the first wall and a moat with palisades in front. Constantinople''s location between the Golden Horn and the Sea of Marmara reduced the land area that required defensive walls. The city was constructed intentionally to rival Rome, and it was claimed that several elevations within its walls matched Rome''s seven hills. The impenetrable defenses enclosed magnificent palaces, domes, and towers, the result of the prosperity Constantinople achieved as the gateway between two continents (Europe and Asia) and two seas (the Mediterranean and the Black Sea). Although besieged on numerous occasions by various armies, the defenses of Constantinople proved impenetrable for nearly nine hundred years. In 1204, during the Fourth Crusade, the city was sacked by the Latin Crusaders and became the capital of the short-lived Latin Empire (1204–1261). The Byzantine Empire of Nicaea recaptured the city in 1261. Under the following Palaiologan dynasty it enjoyed a partial recovery. With the advent of the Ottoman Empire in 1299, the empire''s territories dwindled, and the city began to lose population. By the early 15th century, the empire was reduced to just Constantinople and its environs, along with the territories of the despotate of Morea, in Peloponnese, Greece, making it an enclave inside the Ottoman Empire. The city was finally besieged and conquered by the Ottoman Empire in 1453. It served as the Ottoman capital until the empire''s dissolution and the establishment of the Republic of Turkey in 1923, when the capital was moved to Ankara. Now known internationally under its modern Turkish name Istanbul, it has become the most populous city in Europe, with a population of more than 16 million residents, and the economic and financial centre of Turkey, straddling the Bosporus strait and lying in both Europe and Asia.","translation_status":"translated_verified","infobox":[],"identity_signals":{"exact_title":false,"api_redirect":true,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"en","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Wikipedia","title":"Constantinople","url":"https://en.wikipedia.org/wiki/Constantinople","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://en.wikipedia.org/wiki/Constantinople"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0bac63fcd0bb2da06fbef873","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"miestas","context":"Šaltinyje Konstantinopolis tiesiogiai įvardijamas kaip miestas; 1200 m. jį užėmė prancūzai ir Venecijos kariai, o 1259 m. Paleologas jį atgavo. Šaltinio autorius Petras Dusburgietis.","support_ids":["t-224676","c-204715","t-222130","c-202380"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224676","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-222130","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204715","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Konstantinopolio miesto užėmimą 1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai, įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas ir apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten lotynai 57 metus (Ptol. 21,4; Mart. p. 387)."},{"kind":"evidence","evidence_id":"c-202380","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Konstantinopolio miesto atgavimą 1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai [per Gallicos et Venetos] (Mart. p. 405)."}],"status":"published","conflict_status":"clear"},{"trait_id":"31fd6f0e83fe270887bbe737","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"siena, ant kurios buvo nupieštas angelas","context":"Aprašydamas 1200 m. užėmimą, šaltinio autorius Petras Dusburgietis teigia, kad prancūzai ir Venecijos kariai įsiveržė pro sieną, ant kurios buvo nupieštas angelas.","support_ids":["t-224676","c-204715"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224676","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204715","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Konstantinopolio miesto užėmimą 1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai, įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas ir apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten lotynai 57 metus (Ptol. 21,4; Mart. p. 387)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Konstantinopolis – istorinis miestas, šaltiniuose siejamas su imperine valdžia, karais ir svarbiais stačiatikių Bažnyčios sprendimais. 1200 m. jį užėmė prancūzų ir Venecijos kariai, įsiveržę pro sieną, ant kurios buvo nupieštas angelas, o mieste imperatoriumi tapo Flandrijos grafas Balduinas ir ėmė valdyti lotynai. 1239 m. Prancūzijos karalius Liudvikas iš Konstantinopolio į Paryžių perkėlė Viešpaties erškėčių vainiką. 1259 m. graikų imperatorius Paleologas miestą atgavo iš prancūzų ir Venecijos karių. Konstantinopolis taip pat veikė kaip svarbus stačiatikių bažnytinės valdžios centras: čia patriarchui Eufimėjui buvo pristatytas Polocko vyskupas Teodozijus, o sinodas Cemblakui nesuteikė metropolito pareigų, atėmė žemutinius šventimus ir jį iškekė; 1568 m. Žygimantas Augustas rašė Konstantinopolio patriarchui, prašydamas pagalbos.","sentences":[{"sentence_id":"s1","text":"Konstantinopolis – istorinis miestas, šaltiniuose siejamas su imperine valdžia, karais ir svarbiais stačiatikių Bažnyčios sprendimais.","support_ids":["t-222130:c-202380","t-224676:c-204715","t-177249:c-161140","t-177253:c-161142"]},{"sentence_id":"s2","text":"1200 m. jį užėmė prancūzų ir Venecijos kariai, įsiveržę pro sieną, ant kurios buvo nupieštas angelas, o mieste imperatoriumi tapo Flandrijos grafas Balduinas ir ėmė valdyti lotynai.","support_ids":["t-224676:c-204715"]},{"sentence_id":"s3","text":"1239 m. Prancūzijos karalius Liudvikas iš Konstantinopolio į Paryžių perkėlė Viešpaties erškėčių vainiką.","support_ids":["t-223054:c-204915"]},{"sentence_id":"s4","text":"1259 m. graikų imperatorius Paleologas miestą atgavo iš prancūzų ir Venecijos karių.","support_ids":["t-222130:c-202380"]},{"sentence_id":"s5","text":"Konstantinopolis taip pat veikė kaip svarbus stačiatikių bažnytinės valdžios centras: čia patriarchui Eufimėjui buvo pristatytas Polocko vyskupas Teodozijus, o sinodas Cemblakui nesuteikė metropolito pareigų, atėmė žemutinius šventimus ir jį iškekė; 1568 m. Žygimantas Augustas rašė Konstantinopolio patriarchui, prašydamas pagalbos.","support_ids":["t-177249:c-161140","t-177253:c-161142","t-207786:c-190481"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Nurodyti ryšiai su imperine valdžia, karais ir stačiatikių bažnytiniais sprendimais paremti pateiktais šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Visi konkretūs faktai tiesiogiai patvirtinti šaltinyje c-204715."},{"sentence_id":"s3","supported":true,"reason":"Visi konkretūs faktai tiesiogiai patvirtinti šaltinyje c-204915."},{"sentence_id":"s4","supported":true,"reason":"Visi konkretūs faktai tiesiogiai patvirtinti šaltinyje c-202380."},{"sentence_id":"s5","supported":false,"reason":"Konkretūs įvykiai patvirtinti, tačiau teiginys, kad Konstantinopolis veikė kaip „svarbus“ stačiatikių bažnytinės valdžios centras, šaltiniuose tiesiogiai neformuluojamas."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-222130:c-202380","t-224676:c-204715","t-177249:c-161140","t-177253:c-161142"]},{"sentence_id":"s2","supported":false,"support_ids":["t-224676:c-204715"]},{"sentence_id":"s3","supported":false,"support_ids":["t-223054:c-204915"]},{"sentence_id":"s4","supported":false,"support_ids":["t-222130:c-202380"]},{"sentence_id":"s5","supported":false,"support_ids":["t-177249:c-161140","t-177253:c-161142","t-207786:c-190481"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Devletas","claim_id":"t-34469","confidence":0.7},{"predicate":"siunte_i","direction":"inbound","target":"objektai/grupes/Romos senatas","claim_id":"t-212143","confidence":0.93},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Paleologas","claim_id":"t-222064","confidence":0.9},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Prancūzai","claim_id":"t-220867","confidence":0.88},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Lotynai","claim_id":"t-222355","confidence":0.84},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/grupes/Lotynai","claim_id":"t-220867","confidence":0.82}],"timeline":[{"date":"1200 m.","label":"1200 m.","claimId":"t-224676"},{"date":"1239 m.","label":"1239 m.","claimId":"t-223054"},{"date":"1259 m.","label":"1259 m.","claimId":"t-222130"}],"support_disclosure":{"claims":11,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 36bbf44546d107dc
+object_page_generated_at: '2026-09-19T13:40:01+00:00'
+object_page_source_checked_at: '2026-09-19T13:40:01+00:00'
+object_page_content_state: content
+object_page_claim_count: '11'
+object_page_source_count: '5'
+object_page_seo_description: 'Konstantinopolis – istorinis miestas, šaltiniuose siejamas su imperine valdžia, karais ir svarbiais stačiatikių Bažnyčios sprendimais. 1200 m. jį užėmė…'
+object_page_seo_input_hash: 634afd521ff52b0be0d3c8c3a449f9e37286da5b8aef9e88e6a1c001fc820898
+object_page_seo_generated_at: '2026-09-19T13:40:01+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Konstantinopolis
 
@@ -51,64 +63,42 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 
 ## Teiginiai
 
-<a id="claim-t-207786"></a>
-- t-207786
-  teiginys: "Žygimantas Augustas rašė Konstantinopolio patriarchui."
-  atnaujinta: "2026-09-08 15:22"
+<a id="claim-t-177248"></a>
+- t-001
+  teiginys: "Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą."
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  ryšio_patikimumas: "susije_su -> Polockas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konstantinopolis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinopolis\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-190481
+    - c-161143
 
-<a id="claim-t-213505"></a>
-- t-213505
-  teiginys: "Dėl to Romos se natas nusiuntė į Konstantinopolį pasiuntinius, pranešda mas, jog nereikia skelbti imperatorių Romoje."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-177249"></a>
+- t-002
+  teiginys: "Po Ciprijono mirties Vytautas pristatė Konstantinopolio patriarchui Eufimėjui Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus."
+  atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197130
-
-<a id="claim-t-222130"></a>
-- t-222130
-  teiginys: "1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Konstantinopolis: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad prancūzai buvo užėmę Konstantinopolį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Prancūzai užėmė Konstantinopolis (0.88); Paleologas užėmė Konstantinopolis (0.85)"
-  temporaliniai_duomenys: "įvykio data: 1259 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Konstantinopolio atgavimą."
-
-<a id="claim-t-222248"></a>
-- t-222248
-  teiginys: "Apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konstantinopolis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=82"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinopolis\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-204915
+    - c-161140
 
-<a id="claim-t-223054"></a>
-- t-223054
+<a id="claim-t-177250"></a>
+- t-003
   teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
-  atnaujinta: "2026-09-13 18:12"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Paryžius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -122,12 +112,64 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys pilnai ir tiksliai perteikia citatoje nurodytą įvykį."
   pagrindžia:
-    - c-204915
+    - c-161148
 
-<a id="claim-t-224676"></a>
-- t-224676
+<a id="claim-t-177251"></a>
+- t-004
+  teiginys: "1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Konstantinopolis: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad prancūzai buvo užėmę Konstantinopolį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Prancūzai užėmė Konstantinopolis (0.88); Paleologas užėmė Konstantinopolis (0.85)"
+  temporaliniai_duomenys: "įvykio data: 1259 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Konstantinopolio atgavimą."
+  pagrindžia:
+    - c-161144
+
+<a id="claim-t-177253"></a>
+- t-005
+  teiginys: "Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Stačiatikiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konstantinopolis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Stačiatikiai: mention_match, group, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinopolis\" parinktas kaip owner_note_path. Targetas \"Stačiatikiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-161142
+
+<a id="claim-t-177256"></a>
+- t-006
+  teiginys: "Po Ciprijono mirties Vytautas Konstantinopolio patriarchui Eufimėjui pristatė Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Eufimėjus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konstantinopolis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Eufimėjus: mention_match, person, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinopolis\" parinktas kaip owner_note_path. Targetas \"Eufimėjus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-161140
+
+<a id="claim-t-184164"></a>
+- t-007
   teiginys: "1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas."
-  atnaujinta: "2026-09-13 18:13"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -145,71 +187,19 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citatos pasakojimu apie Konstantinopolio užėmimą."
   pagrindžia:
-    - c-204715
+    - c-167549
 
-<a id="claim-t-177248"></a>
-- t-177248
-  teiginys: "Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-194533"></a>
+- t-008
+  teiginys: "Apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Polockas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstantinopolis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinopolis\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-161143
-
-<a id="claim-t-177249"></a>
-- t-177249
-  teiginys: "Po Ciprijono mirties Vytautas pristatė Konstantinopolio patriarchui Eufimėjui Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstantinopolis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=82"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinopolis\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-161140
-
-<a id="claim-t-177253"></a>
-- t-177253
-  teiginys: "Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Stačiatikiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstantinopolis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Stačiatikiai: mention_match, group, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinopolis\" parinktas kaip owner_note_path. Targetas \"Stačiatikiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-161142
-
-<a id="claim-t-177256"></a>
-- t-177256
-  teiginys: "Po Ciprijono mirties Vytautas Konstantinopolio patriarchui Eufimėjui pristatė Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Eufimėjus: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstantinopolis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Eufimėjus: mention_match, person, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinopolis\" parinktas kaip owner_note_path. Targetas \"Eufimėjus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-161140
+    - c-161148
 
 ## Citatos
 
@@ -237,9 +227,9 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-177249
-    - t-177256
+  pagrindzia:
+    - t-002
+    - t-006
 
 - id: c-161142
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -260,8 +250,8 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-177253
+  pagrindzia:
+    - t-005
 
 - id: c-161143
   autorius: "Michał Baliński"
@@ -302,8 +292,8 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-177248
+  pagrindzia:
+    - t-001
 
 - id: c-161144
   autorius: "Petras Dusburgietis"
@@ -321,6 +311,8 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-161148
   autorius: "Petras Dusburgietis"
@@ -341,6 +333,9 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+    - t-008
 
 - id: c-167549
   autorius: "Petras Dusburgietis"
@@ -360,90 +355,8 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-190481
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 223"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 223."
-  citata_originali: |
-    Energingus, imlius ir mokslo siekiančius bajorus pastebėdavo ir valdovai. Antai
-    1568 m. Žygimantas Augustas rašte Konstantinopolio patriachui prašė teikti pagalbą
-  citata_rodoma: "1568 m. Žygimantas Augustas rašte Konstantinopolio patriachui prašė teikti pagalbą"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207786
-
-- id: c-197130
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 315"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
-  citata_originali: |
-    Dėl to Romos se­
-    natas nusiuntė į Konstantinopolį pasiuntinius, pranešda­
-    mas, jog nereikia skelbti imperatorių Romoje
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213505
-
-- id: c-204715
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 225"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
-  citata_originali: |
-    Apie Konstantinopolio miesto užėmimą
-
-      1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog
-    niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai,
-    įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir
-    apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
-    lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224676
-
-- id: c-204915
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 229"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
-  citata_originali: |
-    Apie viešpaties erškėčių vainiko perkėlimą
-
-      1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio  į
-    Paryžių viešpaties erškėčių vainiką (Ptol. 21,36).
-
-
-
-    27.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222248
-    - t-223054
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Lotynai]]

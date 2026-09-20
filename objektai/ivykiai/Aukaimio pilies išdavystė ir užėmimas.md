@@ -36,6 +36,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201311"></a>
+- t-001
+  teiginys: "Ateinantį metą Lietuvoj rados zdroda: kaipogi Aukaimio pilės vyras, arba kamendotas, Draikis nusiuntė slapta savo sūnų Pinį pas kamendotą pi lės Ragainės Volradą, apreikšdamas jam, jog keta krikštytis ir lūgoja jo, idant ateitų pilį užimti ir jam pragumą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184661
+
 ## Citatos
 
 - id: c-184661
@@ -61,20 +75,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201311"></a>
-- t-001
-  teiginys: "Ateinantį metą Lietuvoj rados zdroda: kaipogi Aukaimio pilės vyras, arba kamendotas, Draikis nusiuntė slapta savo sūnų Pinį pas kamendotą pi lės Ragainės Volradą, apreikšdamas jam, jog keta krikštytis ir lūgoja jo, idant ateitų pilį užimti ir jam pragumą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184661
-

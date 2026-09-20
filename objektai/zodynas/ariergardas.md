@@ -1,10 +1,10 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'ariergardas'
+pavadinimas: ariergardas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
-  - '1301 m.'
+  - 1301 m.
 date_start: '1301'
 date_end: ''
 sukurta: ''
@@ -13,25 +13,143 @@ tags:
   - karinis-terminas
   - sąvoka
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Ariergardas","url":"https://www.vle.lt/straipsnis/ariergardas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T09:01:23+00:00","source_checked_at":"2026-09-20T09:01:23+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":["t-185353","t-185354","t-185355","t-196365","t-185352"],"featured_claims":[{"claim_id":"t-185353","text":"Maustas, Sudargas ir Masius puldinėjo atsitraukiančios kryžiuočių kariuomenės ariergardą, siekdami laimėti laiko lietuvių ir žemaičių pajėgoms.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-168714"]},{"claim_id":"t-185354","text":"Bartenšteino ir Rastenburgo komtūrai pasivijo iš Prūsijos grįžtantį Kęstutį ir užpuolė jo kariuomenės ariergardą.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-168715"]},{"claim_id":"t-185355","text":"Lietuvių vadas užpuolė Prūsijos maršalo ariergardinę vorą, sumušė priešą ir atsiėmė grobį.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-168716"]},{"claim_id":"t-196365","text":"Kęstučiui traukiantis iš Prūsijos su grobiu, Bartenšteino ir Rastenburgo komtūrai pasivijo jo karius ir užpuolė ariergardą.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-168715"]},{"claim_id":"t-185352","text":"1301 m. lenkų būrys pasivijo besitraukiančius lietuvius ir, tikėdamasis atsiimti grobį, smarkiai užpuolė ariergardą.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-168713"]}],"featured_quote":{"text":"Greitosiomis sutelktas len­ kų būrys pasivijo besitrau- 1301 m e ta i kiančius lietuvius ir, tikėda­ masis atsiimti grobį, smarkiai užpuolė ariergardą, nedelsdamas nė valandėlės; ka­ dangi ten susidūrė su geriausiais kariuomenės daliniais, o visos gurguolės buvo nuvarytos į priekį, jie nedrįso bandyti laimės tikrose kautynėse ir davė trimitu ženk­ lą trauktis. Lengva sėkmė sužadino troškimą dar dau­ giau pasiplėšti, šį jausmą kareiviams visada sunku su­ tramdyti, o ypač po sėkmingo žygio. Kadangi į Kulmo kraštą negalima buvo per- N io k o ja K u lm o kraš- kelti visos kariuomenės, to tą, k u r su m u ša m i žygio ėmėsi kunigaikščių pa­ raginti ryžtingiausi ir nar­ siausi raiteliai.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","claim_id":"t-196364","evidence_id":"c-168713","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Ariergardas","url":"https://www.vle.lt/straipsnis/ariergardas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/ariergardas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"cb8f394d84800cdff521a474","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Žodis vartojamas karo istorijos kontekste, kalbant apie atsitraukiančios kariuomenės ariergardą arba ariergardinę vorą, kurią užpuola priešininkas.","context":"Albertas Vijūkas-Kojelavičius, „Lietuvos istorija“ (1989 m.); aprašomi 1301 m. įvykiai ir vėlesni Lietuvos bei Prūsijos kariuomenių susirėmimai.","support_ids":["t-185352","c-168713","t-185353","c-168714","t-185355","c-168716"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185352","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"internal_claim","claim_id":"t-185353","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"internal_claim","claim_id":"t-185355","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168713","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Greitosiomis sutelktas len­ kų būrys pasivijo besitrau- 1301 m e ta i kiančius lietuvius ir, tikėda­ masis atsiimti grobį, smarkiai užpuolė ariergardą, nedelsdamas nė valandėlės; ka­ dangi ten susidūrė su geriausiais kariuomenės daliniais, o visos gurguolės buvo nuvarytos į priekį, jie nedrįso bandyti laimės tikrose kautynėse ir davė trimitu ženk­ lą trauktis. Lengva sėkmė sužadino troškimą dar dau­ giau pasiplėšti, šį jausmą kareiviams visada sunku su­ tramdyti, o ypač po sėkmingo žygio. Kadangi į Kulmo kraštą negalima buvo per- N io k o ja K u lm o kraš- kelti visos kariuomenės, to tą, k u r su m u ša m i žygio ėmėsi kunigaikščių pa­ raginti ryžtingiausi ir nar­ siausi raiteliai."},{"kind":"evidence","evidence_id":"c-168714","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Pagraudės žemę nusiaubė, ne- N io k o ja m a L ie tu v a ir sutikdamas pasipriešinimo, Ž e m a itija Mansfeldas, Brandenburgo komtūras, tuo tarpu Maustas, Sudargas ir Masius iš arti stebėjo, kaip žūva jų žmo­ nės: jie negalėjo nei pristabdyti priešo, pasirodydami netoli jo su kariuomene, nei su menkomis jėgomis sto­ ti į atvirą mūšį. Jie ėmė puldinėti atsitraukiančios ka­ riuomenės ariergardą, matyt, norėdami įtraukti namo vykstantį priešą į nedidelius susirėmimus ir duoti lie­ tuviams bei žemaičiams progą sutelkti jėgų tikrai ko­ vai. Tačiau kryžiuočiai nesidavė gaišinami, jie kuo skubiausiai pasitraukė, išsivarydami grobį."},{"kind":"evidence","evidence_id":"c-168716","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Po to nuvedė kariuomenę prieš Prūsijos maršalą, kuris, vėl nusiaubęs Žemaitiją, gabenosi gro­ bį padalijęs kariuomenę dviem voromis. Iš pradžių užpuolęs ariergardinę vorą ir būrius, paliktus gurguo­ lių apsaugai, jis sumušė priešą ir atsiėmė grobį; po to kuo skubiausiai patraukė su pergalę laimėjusiais kariais prieš patį kariuomenės branduolį. Tačiau kry­ žiuočiai, sutrikę dėl ariergardo pralaimėjimo, skubiai pasitraukė į Prūsiją išmetę pakelėse gausų grobį, truk­ dantį bėgti."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Ariergardas – žygio ar atsitraukimo metu kariuomenės gale veikiantis dalinys, saugantis pagrindines pajėgas ir gurguolę nuo persekiotojų. 1301 m. lenkų būrys, pasivijęs besitraukiančius lietuvius, smarkiai jį puolė, tikėdamasis atsiimti grobį, tačiau susidūrė su geriausiais kariuomenės daliniais ir pasitraukė. Kitame žygyje Maustas, Sudargas ir Masius puldinėjo atsitraukiančios kryžiuočių kariuomenės ariergardą, mėgindami įtraukti priešą į mažesnius susirėmimus ir laimėti laiko lietuvių bei žemaičių pajėgoms sutelkti. Kęstučiui grįžtant iš Prūsijos su grobiu, Bartenšteino ir Rastenburgo komtūrai pasivijo jo kariuomenę ir užpuolė ariergardą; kautynėse kunigaikštis buvo numestas nuo arklio ir narsiai kovėsi pėsčias. Kitu atveju lietuvių vadas smogė Prūsijos maršalo ariergardinei vorai, sumušė priešą bei atsiėmė grobį, o kryžiuočiai, sutrikę dėl pralaimėjimo, skubiai pasitraukė.","sentences":[{"sentence_id":"s1","text":"Ariergardas – žygio ar atsitraukimo metu kariuomenės gale veikiantis dalinys, saugantis pagrindines pajėgas ir gurguolę nuo persekiotojų.","support_ids":["t-185352","c-168713","t-185354","c-168714"]},{"sentence_id":"s2","text":"1301 m. lenkų būrys, pasivijęs besitraukiančius lietuvius, smarkiai jį puolė, tikėdamasis atsiimti grobį, tačiau susidūrė su geriausiais kariuomenės daliniais ir pasitraukė.","support_ids":["t-185352","c-168713","t-196364"]},{"sentence_id":"s3","text":"Kitame žygyje Maustas, Sudargas ir Masius puldinėjo atsitraukiančios kryžiuočių kariuomenės ariergardą, mėgindami įtraukti priešą į mažesnius susirėmimus ir laimėti laiko lietuvių bei žemaičių pajėgoms sutelkti.","support_ids":["t-185353","c-168714"]},{"sentence_id":"s4","text":"Kęstučiui grįžtant iš Prūsijos su grobiu, Bartenšteino ir Rastenburgo komtūrai pasivijo jo kariuomenę ir užpuolė ariergardą; kautynėse kunigaikštis buvo numestas nuo arklio ir narsiai kovėsi pėsčias.","support_ids":["t-185354","c-168715","t-196365"]},{"sentence_id":"s5","text":"Kitu atveju lietuvių vadas smogė Prūsijos maršalo ariergardinei vorai, sumušė priešą bei atsiėmė grobį, o kryžiuočiai, sutrikę dėl pralaimėjimo, skubiai pasitraukė.","support_ids":["t-185355","c-168716"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Pateikti šaltiniai aprašo konkrečius ariergardo puolimo atvejus, bet neparemia bendro ariergardo apibrėžimo ir jo funkcijų."},{"sentence_id":"s2","supported":true,"reason":"Visi konkretūs teiginio faktai tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s3","supported":true,"reason":"Visi konkretūs teiginio faktai tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s4","supported":true,"reason":"Visi konkretūs teiginio faktai tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s5","supported":true,"reason":"Visi konkretūs teiginio faktai tiesiogiai paremti nurodytais šaltiniais."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-185352","c-168713","t-185354","c-168714"]},{"sentence_id":"s2","supported":true,"support_ids":["t-185352","c-168713","t-196364"]},{"sentence_id":"s3","supported":true,"support_ids":["t-185353","c-168714"]},{"sentence_id":"s4","supported":true,"support_ids":["t-185354","c-168715","t-196365"]},{"sentence_id":"s5","supported":true,"support_ids":["t-185355","c-168716"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: cabbe657d2a7dd96
+object_page_generated_at: '2026-09-20T09:01:23+00:00'
+object_page_source_checked_at: '2026-09-20T09:01:23+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '1'
+object_page_seo_description: 'Ariergardas – žygio ar atsitraukimo metu kariuomenės gale veikiantis dalinys, saugantis pagrindines pajėgas ir gurguolę nuo persekiotojų. 1301 m. lenkų būrys…'
+object_page_seo_input_hash: bcd42c52e02429a23860023a01012bd5ba12f03a23cea1611cfef74aa5309b5f
+object_page_seo_generated_at: '2026-09-20T09:01:23+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # ariergardas
 
 ## Santrauka
 
 1301 m. lenkų būrys pasivijo besitraukiančius lietuvius ir, tikėdamasis atsiimti grobį, smarkiai užpuolė ariergardą. Maustas, Sudargas ir Masius puldinėjo atsitraukiančios kryžiuočių kariuomenės ariergardą, siekdami laimėti laiko lietuvių ir žemaičių pajėgoms. Bartenšteino ir Rastenburgo komtūrai pasivijo iš Prūsijos grįžtantį Kęstutį ir užpuolė jo kariuomenės ariergardą.
+
+## Teiginiai
+
+<a id="claim-t-185352"></a>
+- t-001
+  teiginys: "1301 m. lenkų būrys pasivijo besitraukiančius lietuvius ir, tikėdamasis atsiimti grobį, smarkiai užpuolė ariergardą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lenkų būrys pasivijo lietuvius ir užpuolė jų ariergardą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1301 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, konkretus ir paremtas citata."
+  pagrindžia:
+    - c-168713
+
+<a id="claim-t-185353"></a>
+- t-002
+  teiginys: "Maustas, Sudargas ir Masius puldinėjo atsitraukiančios kryžiuočių kariuomenės ariergardą, siekdami laimėti laiko lietuvių ir žemaičių pajėgoms."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Kryžiuočių ordinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sudargas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Sudargas nurodytas tarp veikėjų, puldinėjusių kryžiuočių kariuomenės ariergardą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Sudargas puolė Kryžiuočių ordinas (0.90)"
+  pagrindžia:
+    - c-168714
+
+<a id="claim-t-185354"></a>
+- t-003
+  teiginys: "Bartenšteino ir Rastenburgo komtūrai pasivijo iš Prūsijos grįžtantį Kęstutį ir užpuolė jo kariuomenės ariergardą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Bartenšteinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "ariergardas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bartenšteinas: mention_match, place, gap=102"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ariergardas\" parinktas kaip owner_note_path. Targetas \"Bartenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168715
+
+<a id="claim-t-185355"></a>
+- t-004
+  teiginys: "Lietuvių vadas užpuolė Prūsijos maršalo ariergardinę vorą, sumušė priešą ir atsiėmė grobį."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "ariergardas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ariergardas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168716
+
+<a id="claim-t-196364"></a>
+- t-005
+  teiginys: "1301 m. lenkų būrys pasivijo besitraukiančius lietuvius ir, norėdamas atsiimti grobį, užpuolė jų ariergardą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-168713
+
+<a id="claim-t-196365"></a>
+- t-006
+  teiginys: "Kęstučiui traukiantis iš Prūsijos su grobiu, Bartenšteino ir Rastenburgo komtūrai pasivijo jo karius ir užpuolė ariergardą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-168715
 
 ## Citatos
 
@@ -74,7 +192,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-005
 
@@ -115,7 +233,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-168715
@@ -144,7 +262,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-006
 
@@ -179,114 +297,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-## Teiginiai
-
-<a id="claim-t-185352"></a>
-- t-001
-  teiginys: "1301 m. lenkų būrys pasivijo besitraukiančius lietuvius ir, tikėdamasis atsiimti grobį, smarkiai užpuolė ariergardą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lenkų būrys pasivijo lietuvius ir užpuolė jų ariergardą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1301 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, konkretus ir paremtas citata."
-  pagrindžia:
-    - c-168713
-
-<a id="claim-t-185353"></a>
-- t-002
-  teiginys: "Maustas, Sudargas ir Masius puldinėjo atsitraukiančios kryžiuočių kariuomenės ariergardą, siekdami laimėti laiko lietuvių ir žemaičių pajėgoms."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Kryžiuočių ordinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sudargas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Sudargas nurodytas tarp veikėjų, puldinėjusių kryžiuočių kariuomenės ariergardą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Sudargas puolė Kryžiuočių ordinas (0.90)"
-  pagrindžia:
-    - c-168714
-
-<a id="claim-t-185354"></a>
-- t-003
-  teiginys: "Bartenšteino ir Rastenburgo komtūrai pasivijo iš Prūsijos grįžtantį Kęstutį ir užpuolė jo kariuomenės ariergardą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Bartenšteinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "ariergardas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bartenšteinas: mention_match, place, gap=102"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ariergardas\" parinktas kaip owner_note_path. Targetas \"Bartenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168715
-
-<a id="claim-t-185355"></a>
-- t-004
-  teiginys: "Lietuvių vadas užpuolė Prūsijos maršalo ariergardinę vorą, sumušė priešą ir atsiėmė grobį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "ariergardas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ariergardas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168716
-
-<a id="claim-t-196364"></a>
-- t-005
-  teiginys: "1301 m. lenkų būrys pasivijo besitraukiančius lietuvius ir, norėdamas atsiimti grobį, užpuolė jų ariergardą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168713
-
-<a id="claim-t-196365"></a>
-- t-006
-  teiginys: "Kęstučiui traukiantis iš Prūsijos su grobiu, Bartenšteino ir Rastenburgo komtūrai pasivijo jo karius ir užpuolė ariergardą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168715
-

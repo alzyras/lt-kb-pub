@@ -44,6 +44,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201339"></a>
+- t-001
+  teiginys: "Jaroslavas, kunigaikštis, norėdamas atmonyti tas 1225 nelaimas, patelkęs kunigaikštį Toropeco Dovydą ir kunigaikštį Pleskavo Vladimirą, ėmė vyti lietuvius namo grįžtančius, kuriuos panokęs pirmojoj nedėlioj gavėnios, susigrūmė ties upe Usviete, abi pusi rėmės."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184689
+
 ## Citatos
 
 - id: c-184689
@@ -72,20 +86,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201339"></a>
-- t-001
-  teiginys: "Jaroslavas, kunigaikštis, norėdamas atmonyti tas 1225 nelaimas, patelkęs kunigaikštį Toropeco Dovydą ir kunigaikštį Pleskavo Vladimirą, ėmė vyti lietuvius namo grįžtančius, kuriuos panokęs pirmojoj nedėlioj gavėnios, susigrūmė ties upe Usviete, abi pusi rėmės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184689
-

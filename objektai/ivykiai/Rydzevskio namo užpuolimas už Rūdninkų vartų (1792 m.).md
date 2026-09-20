@@ -46,6 +46,24 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203888"></a>
+- t-001
+  teiginys: "1792 m. Ignoto Želazovskio žmonės, tarp jų Rusijos imperijos kareiviai, užpuolė Rydzevskio namą už Rūdninkų vartų ir lazdomis bei vėzdais smurtavo prieš Vaitiekų ir Prancišką Senkevičius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įtraukti name buvę asmenys ir smurto pobūdis. Atribucija nereikalinga, nes sakinys aprašo šaltinyje nurodytą įvykį."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186492
+
 ## Santrauka
 
 1792 m. Ignoto Želazovskio žmonės, tarp jų Rusijos imperijos kareiviai, užpuolė Rydzevskio namą už Rūdninkų vartų ir lazdomis bei vėzdais smurtavo prieš Vaitiekų ir Prancišką Senkevičius.
@@ -67,24 +85,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203888"></a>
-- t-001
-  teiginys: "1792 m. Ignoto Želazovskio žmonės, tarp jų Rusijos imperijos kareiviai, užpuolė Rydzevskio namą už Rūdninkų vartų ir lazdomis bei vėzdais smurtavo prieš Vaitiekų ir Prancišką Senkevičius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1792 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įtraukti name buvę asmenys ir smurto pobūdis. Atribucija nereikalinga, nes sakinys aprašo šaltinyje nurodytą įvykį."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186492
-

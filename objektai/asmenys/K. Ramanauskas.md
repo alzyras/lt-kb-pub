@@ -35,6 +35,26 @@ canonical_biography: "Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko
 
 Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link, mjr.
 
+## Teiginiai
+
+<a id="claim-t-40252"></a>
+- t-001
+  teiginys: "Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Seinai: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "K. Ramanauskas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Seinai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "K. Ramanausko grupės žygio maršrute tiesiogiai nurodyti Seinai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "K. Ramanauskas surengė žygį į Seinai (0.80); K. Ramanauskas surengė žygį į Augustavas (0.72)"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-44401
+
 ## Citatos
 
 - id: c-44401
@@ -61,26 +81,5 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-40252"></a>
-- t-001
-  teiginys: "Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Seinai: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "K. Ramanauskas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Seinai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "K. Ramanausko grupės žygio maršrute tiesiogiai nurodyti Seinai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "K. Ramanauskas surengė žygį į Seinai (0.80); K. Ramanauskas surengė žygį į Augustavas (0.72)"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-44401
-

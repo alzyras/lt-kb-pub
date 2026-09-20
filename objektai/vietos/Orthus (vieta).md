@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Orthus (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Orthus (vieta)
+identifikacija: vieta
 variantai:
-  - 'Orthus'
+  - Orthus
 aliases:
-  - 'Orthus'
+  - Orthus
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fdccae39171e96c664dc2e9e"
-canonical_name: "Orthus (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Orthus","Orthus (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fdccae39171e96c664dc2e9e
+canonical_name: Orthus (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Orthus
+  - Orthus (vieta)
 sameAs: []
-canonical_biography: "Žemaitijoje ežeras Orthus buvo lai komas dievu."
+canonical_biography: Žemaitijoje ežeras Orthus buvo lai komas dievu.
 ---
 # Orthus (vieta)
 
@@ -70,6 +70,5 @@ canonical_biography: "Žemaitijoje ežeras Orthus buvo lai komas dievu."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

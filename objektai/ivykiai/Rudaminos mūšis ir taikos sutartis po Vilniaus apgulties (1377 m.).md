@@ -56,6 +56,25 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-54706"></a>
+- t-001
+  teiginys: "Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies."
+  atnaujinta: "2026-05-27 06:05"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "sudare_sutarti_su -> Algirdas (Lietuvos valdovas): 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata sieja kryžiuočius su derybomis ir taikos sutartimi su Algirdu, nors Kęstučio kandidato nėra."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Kryžiuočių ordinas sudarė sutartį su Algirdas (Lietuvos valdovas) (0.74)"
+  pagrindžia:
+    - c-55669
+
 ## Citatos
 
 - id: c-55669
@@ -80,25 +99,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-54706"></a>
-- t-001
-  teiginys: "Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "sudare_sutarti_su -> Algirdas (Lietuvos valdovas): 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata sieja kryžiuočius su derybomis ir taikos sutartimi su Algirdu, nors Kęstučio kandidato nėra."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kryžiuočių ordinas sudarė sutartį su Algirdas (Lietuvos valdovas) (0.74)"
-  pagrindžia:
-    - c-55669
-

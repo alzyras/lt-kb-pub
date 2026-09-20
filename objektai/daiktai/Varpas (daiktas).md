@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Varpas (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Varpas (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Varpas'
+  - Varpas
 aliases:
-  - 'Varpas'
+  - Varpas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Varpas (daiktas)
 
@@ -118,7 +115,7 @@ Smolensko sukilimo metu prastieji žmonės skambino varpu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-198575
@@ -137,7 +134,7 @@ Smolensko sukilimo metu prastieji žmonės skambino varpu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-199728
@@ -160,7 +157,7 @@ Smolensko sukilimo metu prastieji žmonės skambino varpu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-201123
@@ -182,6 +179,5 @@ Smolensko sukilimo metu prastieji žmonės skambino varpu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-

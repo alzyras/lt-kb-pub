@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'A. H. Kirkoras (istorikas)'
+pavadinimas: A. H. Kirkoras (istorikas)
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 variantai:
-  - 'A. H. Kirkoras'
+  - A. H. Kirkoras
 aliases:
-  - 'A. H. Kirkoras'
+  - A. H. Kirkoras
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -15,19 +15,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-16b5423ddf8f9f14b92d3854"
-canonical_name: "A. H. Kirkoras (istorikas)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["A. H. Kirkoras","A. H. Kirkoras (istorikas)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-16b5423ddf8f9f14b92d3854
+canonical_name: A. H. Kirkoras (istorikas)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - A. H. Kirkoras
+  - A. H. Kirkoras (istorikas)
 sameAs: []
-canonical_biography: "A. H. Kirkoras buvo vilnietis istorikas ir leidėjas."
+canonical_biography: A. H. Kirkoras buvo vilnietis istorikas ir leidėjas.
 ---
 # A. H. Kirkoras (istorikas)
 

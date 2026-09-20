@@ -49,6 +49,24 @@ canonical_biography: "1268 m. Šiukšta, Nalšios kilmingasis, atvyko į Livonij
 
 1268 m. į Livoniją atvykęs Nalšios kilmingasis Šiukšta krikšto metu priėmė Mikalojaus vardą, o paveldėtą valdą perleido Rygos arkivyskupui ir atgavo kaip leną.
 
+## Teiginiai
+
+<a id="claim-t-204066"></a>
+- t-001
+  teiginys: "1268 m. į Livoniją atvykęs Nalšios kilmingasis Šiukšta krikšto metu priėmė Mikalojaus vardą, o paveldėtą valdą perleido Rygos arkivyskupui ir atgavo kaip leną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1268 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas Šiukštos statusas, veiksmai ir santykis su Rygos arkivyskupu Albertu. Nepildytas neaiškus atvykimo motyvas."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186670
+
 ## Citatos
 
 - id: c-186670
@@ -69,24 +87,5 @@ canonical_biography: "1268 m. Šiukšta, Nalšios kilmingasis, atvyko į Livonij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204066"></a>
-- t-001
-  teiginys: "1268 m. į Livoniją atvykęs Nalšios kilmingasis Šiukšta krikšto metu priėmė Mikalojaus vardą, o paveldėtą valdą perleido Rygos arkivyskupui ir atgavo kaip leną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1268 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas Šiukštos statusas, veiksmai ir santykis su Rygos arkivyskupu Albertu. Nepildytas neaiškus atvykimo motyvas."
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186670
-

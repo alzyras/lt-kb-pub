@@ -42,6 +42,28 @@ historical_names: []
 
 TRAKINIŲ KAUTYNĖS 1945 m. birželio 27 d. Ukmergės apskr.
 
+## Teiginiai
+
+<a id="claim-t-38563"></a>
+- t-001
+  teiginys: "1945 m. birželio 27 d. Trakinių kaimo apylinkių miške NKVD 137-asis šaulių pulkas puolė Alfonso Bagdono-Aro būrį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Trakiniai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "NKVD: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakiniai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo NKVD pulko puolimą Trakinių apylinkėse; leidžiamas vietos objektas yra Trakiniai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "NKVD puolė Trakiniai (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1945 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-40367
+
 ## Citatos
 
 - id: c-40367
@@ -59,31 +81,8 @@ TRAKINIŲ KAUTYNĖS 1945 m. birželio 27 d. Ukmergės apskr.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Puolė Trakiniai: [[objektai/grupes/NKVD]]
-
-## Teiginiai
-
-<a id="claim-t-38563"></a>
-- t-001
-  teiginys: "1945 m. birželio 27 d. Trakinių kaimo apylinkių miške NKVD 137-asis šaulių pulkas puolė Alfonso Bagdono-Aro būrį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Trakiniai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "NKVD: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Trakiniai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo NKVD pulko puolimą Trakinių apylinkėse; leidžiamas vietos objektas yra Trakiniai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "NKVD puolė Trakiniai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-40367
-

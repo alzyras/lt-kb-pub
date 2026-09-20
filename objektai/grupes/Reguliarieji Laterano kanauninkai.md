@@ -53,11 +53,9 @@ Reguliariųjų Laterano kanauninkų idėjos susipynė su fundatoriaus Paco suman
     vienuolyno įnamių. Jų patriarchu buvo šv. Augustinas, ir pagrindinės jo
     mokslo tezės turėjo atsispindėti Antakalnio bažnyčios dekoracijoje.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

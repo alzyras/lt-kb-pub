@@ -38,6 +38,20 @@ historical_names: []
 
 Kaipogi pats Tyras, jų buveinė ir žilos senovės pilė, visų gar siausia savo turtais ir savo prekyba visoj pasaulėj, buvo įduota globti dievui, taip vadinamam Tyro bo čiui, arba viešpačiui, kursai glemžė jį nuo pavoju mo ir laimino jo prekybą, kurį penicijonys.
 
+## Teiginiai
+
+<a id="claim-t-201178"></a>
+- t-001
+  teiginys: "Kaipogi pats Tyras, jų buveinė ir žilos senovės pilė, visų gar siausia savo turtais ir savo prekyba visoj pasaulėj, buvo įduota globti dievui, taip vadinamam Tyro bo čiui, arba viešpačiui, kursai glemžė jį nuo pavoju mo ir laimino jo prekybą, kurį penicijonys."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184528
+
 ## Citatos
 
 - id: c-184528
@@ -72,20 +86,5 @@ Kaipogi pats Tyras, jų buveinė ir žilos senovės pilė, visų gar siausia sav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201178"></a>
-- t-001
-  teiginys: "Kaipogi pats Tyras, jų buveinė ir žilos senovės pilė, visų gar siausia savo turtais ir savo prekyba visoj pasaulėj, buvo įduota globti dievui, taip vadinamam Tyro bo čiui, arba viešpačiui, kursai glemžė jį nuo pavoju mo ir laimino jo prekybą, kurį penicijonys."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184528
-

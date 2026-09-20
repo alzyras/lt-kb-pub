@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Rygos miesto perdavimas Livonijos žemės magistrui (1330 m.)'
+pavadinimas: Rygos miesto perdavimas Livonijos žemės magistrui (1330 m.)
 variantai:
-  - 'Rygos miesto perdavimas Livonijos žemės magistrui'
+  - Rygos miesto perdavimas Livonijos žemės magistrui
 aliases:
-  - 'Rygos miesto perdavimas Livonijos žemės magistrui'
+  - Rygos miesto perdavimas Livonijos žemės magistrui
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1330 m.'
+  - 1330 m.
 date_start: '1330'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Rygos miesto perdavimas Livonijos žemės magistrui (1330 m.)
 
@@ -97,7 +94,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-205817
@@ -114,6 +111,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

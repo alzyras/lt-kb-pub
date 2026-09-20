@@ -43,6 +43,20 @@ canonical_biography: "1811 m. Upytės pavieto ribožemių kamarninkas P. Litkevi
 
 1811 m. Upytės pavieto ribožemių kamarninkas P. Litkevičius labai smulkiai matavo žemę Senkonių rakto kaimuose, Senkonių ir Ceniškių palivarkuose.
 
+## Teiginiai
+
+<a id="claim-t-203721"></a>
+- t-001
+  teiginys: "1811 m. Upytės pavieto ribožemių kamarninkas P. Litkevičius labai smulkiai matavo žemę Senkonių rakto kaimuose, Senkonių ir Ceniškių palivarkuose."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  pagrindžia:
+    - c-186325
+
 ## Citatos
 
 - id: c-186325
@@ -65,20 +79,5 @@ canonical_biography: "1811 m. Upytės pavieto ribožemių kamarninkas P. Litkevi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203721"></a>
-- t-001
-  teiginys: "1811 m. Upytės pavieto ribožemių kamarninkas P. Litkevičius labai smulkiai matavo žemę Senkonių rakto kaimuose, Senkonių ir Ceniškių palivarkuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
-  pagrindžia:
-    - c-186325
-

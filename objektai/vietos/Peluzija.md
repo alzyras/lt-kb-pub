@@ -38,34 +38,10 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
 
 ## Teiginiai
 
-<a id="claim-t-214717"></a>
-- t-003
-  teiginys: "Netoli šių vietų plytinti gana didelė sritis seniau buvo vadinama Peluzija."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196604
-
-<a id="claim-t-210586"></a>
-- t-210586
-  teiginys: "Iš kai kurių dokumentų, išlikusių šio krašto civilinių dokumentų sau gykloje, turime žinių apie dalykus, kuriuos čia dėstome, ir būtent apie šią teritoriją, nuo seniausių laikų vadina mą Peluzija."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195900
-
-<a id="claim-t-213831"></a>
-- t-213831
+<a id="claim-t-192800"></a>
+- t-001
   teiginys: "Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis siejo su dviejų to krašto Nočiomis vadintų upių pavadinimais."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,6 +56,8 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   semantiniai_rysiai: "Pelazgai gyveno Peluzija (0.84)"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175570
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -149,42 +127,5 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195900
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 279"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 279."
-  citata_originali: |
-    tai yra visa naščių žemė. Iš kai kurių
-    dokumentų, išlikusių šio krašto civilinių dokumentų sau­
-    gykloje, turime žinių apie dalykus, kuriuos čia dėstome,
-    ir būtent apie šią teritoriją, nuo seniausių laikų vadina­
-    mą Peluzija.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210586
-
-- id: c-196604
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 196"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 196."
-  citata_originali: |
-    Netoli
-    šių vietų plytinti gana didelė sritis seniau buvo vadinama
-    Peluzija.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
+  pagrindzia:
+    - t-001

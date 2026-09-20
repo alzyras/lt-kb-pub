@@ -35,6 +35,20 @@ media_all_json: |-
 
 Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kareotai, saliai, osai, veltai, penai.
 
+## Teiginiai
+
+<a id="claim-t-201254"></a>
+- t-001
+  teiginys: "Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kareotai, saliai, osai, veltai, penai."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184604
+
 ## Citatos
 
 - id: c-184604
@@ -55,20 +69,5 @@ Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kare
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201254"></a>
-- t-001
-  teiginys: "Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kareotai, saliai, osai, veltai, penai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184604
-

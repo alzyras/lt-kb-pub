@@ -39,6 +39,20 @@ canonical_biography: "1550 m. Kauno pirklys Severinas Berkmanas skundė Vaitiek�
 
 1550 m. Kauno pirklys Severinas Berkmanas skundė Vaitiekų, kurį buvo pasamdęs metams dirbti laivavedžiu už 4,5 kapos grašių ir jau buvo davęs 3 kapas grašių.
 
+## Teiginiai
+
+<a id="claim-t-202108"></a>
+- t-001
+  teiginys: "1550 m. Kauno pirklys Severinas Berkmanas skundė Vaitiekų, kurį buvo pasamdęs metams dirbti laivavedžiu už 4,5 kapos grašių ir jau buvo davęs 3 kapas grašių."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185455
+
 ## Citatos
 
 - id: c-185455
@@ -56,20 +70,5 @@ canonical_biography: "1550 m. Kauno pirklys Severinas Berkmanas skundė Vaitiek�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202108"></a>
-- t-001
-  teiginys: "1550 m. Kauno pirklys Severinas Berkmanas skundė Vaitiekų, kurį buvo pasamdęs metams dirbti laivavedžiu už 4,5 kapos grašių ir jau buvo davęs 3 kapas grašių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185455
-

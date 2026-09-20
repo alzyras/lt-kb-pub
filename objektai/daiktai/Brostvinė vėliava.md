@@ -39,6 +39,32 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201359"></a>
+- t-001
+  teiginys: "Vienok noris ir taip nuveikti, kalavijonys nenorėjo dar visuotinai pasiduoti, užvis geidė kaip įmaną karūną, arba vėliavą, brostvinę apent įgauti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184709
+
+<a id="claim-t-201360"></a>
+- t-002
+  teiginys: "Ant galo bavarų kunigaikštis, savo pilį didžiais grioviais apkasęs ir pylomis apipylęs, įgulei įdavė vėliavą su savo žy me dėvėti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184710
+
 ## Citatos
 
 - id: c-184709
@@ -66,7 +92,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184710
@@ -88,32 +114,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201359"></a>
-- t-001
-  teiginys: "Vienok noris ir taip nuveikti, kalavijonys nenorėjo dar visuotinai pasiduoti, užvis geidė kaip įmaną karūną, arba vėliavą, brostvinę apent įgauti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184709
-
-<a id="claim-t-201360"></a>
-- t-002
-  teiginys: "Ant galo bavarų kunigaikštis, savo pilį didžiais grioviais apkasęs ir pylomis apipylęs, įgulei įdavė vėliavą su savo žy me dėvėti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184710
-

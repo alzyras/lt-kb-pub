@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Enėjus Silvijus'
+pavadinimas: Enėjus Silvijus
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-697277d842f2dbe7ada73052"
-canonical_name: "Enėjus Silvijus"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Enėjus Silvijus"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-697277d842f2dbe7ada73052
+canonical_name: Enėjus Silvijus
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Enėjus Silvijus
 sameAs: []
-canonical_biography: "Narbutas nurodo, kad, nesant senųjų Enėjaus Silvijaus raštų leidimų, negalima teigti, jog pranešimas buvo paties autoriaus rašinys, tačiau daro išvadą, kad jis turėtų būti iš XVI amžiaus antrosios pusės."
+canonical_biography: 'Narbutas nurodo, kad, nesant senųjų Enėjaus Silvijaus raštų leidimų, negalima teigti, jog pranešimas buvo paties autoriaus rašinys, tačiau daro išvadą, kad jis turėtų būti iš XVI amžiaus antrosios pusės.'
 ---
 # Enėjus Silvijus
 
@@ -72,6 +72,5 @@ Narbutas nurodo, kad, nesant senųjų Enėjaus Silvijaus raštų leidimų, negal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

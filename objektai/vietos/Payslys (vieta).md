@@ -38,6 +38,20 @@ historical_names: []
 
 Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už tarymo tenai naujos bažnyčios ir gelbėjimo ūkės Konrado, kursai su didžiausiu džiaugsmu pasiėmė tokį jo ketėjimą steigti.
 
+## Teiginiai
+
+<a id="claim-t-201139"></a>
+- t-001
+  teiginys: "Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už tarymo tenai naujos bažnyčios ir gelbėjimo ūkės Konrado, kursai su didžiausiu džiaugsmu pasiėmė tokį jo ketėjimą steigti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184489
+
 ## Citatos
 
 - id: c-184489
@@ -58,20 +72,5 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201139"></a>
-- t-001
-  teiginys: "Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už tarymo tenai naujos bažnyčios ir gelbėjimo ūkės Konrado, kursai su didžiausiu džiaugsmu pasiėmė tokį jo ketėjimą steigti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184489
-

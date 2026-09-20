@@ -69,38 +69,3 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198577
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 60"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 60."
-  citata_originali: |
-    Nuoširdumas, patiklumas, siste­
-    minimas - tai nėra jau tokios didelės ydos, jeigu istorikas tiks­
-    liai atpasakoja tai, ką buvo girdėjęs, ir neslepia nieko, kas ga­
-    lėtų būti naudinga vėlesniems tyrinėtojams, kai šie imsis nu­
-    statinėti čia girdėtų padavimų patikimumą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-217516"></a>
-- t-001
-  teiginys: "Nuoširdumas, patiklumas, siste minimas - tai nėra jau tokios didelės ydos, jeigu istorikas tiks liai atpasakoja tai, ką buvo girdėjęs, ir neslepia nieko, kas ga lėtų būti naudinga vėlesniems tyrinėtojams, kai šie imsis nu statinėti čia girdėtų padavimų."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198577
-

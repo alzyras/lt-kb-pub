@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Maljorkos ir Menorkos užėmimas (1230 m.)'
+pavadinimas: Maljorkos ir Menorkos užėmimas (1230 m.)
 variantai:
-  - 'Maljorkos ir Menorkos užėmimas'
+  - Maljorkos ir Menorkos užėmimas
 aliases:
-  - 'Maljorkos ir Menorkos užėmimas'
+  - Maljorkos ir Menorkos užėmimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1230 m.'
+  - 1230 m.
 date_start: '1230'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Maljorkos ir Menorkos užėmimas (1230 m.)
 
@@ -80,6 +77,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

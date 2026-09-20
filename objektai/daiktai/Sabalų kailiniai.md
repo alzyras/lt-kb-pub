@@ -56,17 +56,26 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-210887"></a>
-- t-210887
-  teiginys: "1428 m. kovo mėn. Didžiojo Naugardo delegacija Vytautą apdovanojo sabalų kailiniais."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
+<a id="claim-t-186868"></a>
+- t-001
+  teiginys: "Komentare nurodoma, kad 1428 m. D. Naugardo delegacija Vilniuje ir Trakuose apdovanojo Vytautą sabalų kailiniais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sabalų kailiniai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sabalų kailiniai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1427 m.; įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo komentaro kontekstą, datą, vietas ir Vytautui įteiktą dovaną. Nepridėta kitų citatoje minimų dovanų kaip pagrindinio objekto."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
-    - c-194281
+    - c-170052
 
 ## Citatos
 
@@ -92,23 +101,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194281
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 254"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 254."
-  citata_originali: |
-    ta
-    pati delegacija, 1428 m. kovo mėn. lankiusis pas Vytautą Vilniuje
-    ir Trakuose, taip pat apdovanojo Vytautą sabalų kailiniais, gyvais
-    sabalais, šilko rietimais ir kt. dovanomis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210887
-
+  pagrindzia:
+    - t-001

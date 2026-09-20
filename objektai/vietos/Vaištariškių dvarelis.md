@@ -33,6 +33,20 @@ historical_names: []
 
 Už miesto bažnyčiai priklausė Vaištariškių dvarelis su 8 valstiečių šeimomis.
 
+## Teiginiai
+
+<a id="claim-t-201746"></a>
+- t-001
+  teiginys: "Už miesto bažnyčiai priklausė Vaištariškių dvarelis su 8 valstiečių šeimomis."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185093
+
 ## Citatos
 
 - id: c-185093
@@ -49,20 +63,5 @@ Už miesto bažnyčiai priklausė Vaištariškių dvarelis su 8 valstiečių še
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201746"></a>
-- t-001
-  teiginys: "Už miesto bažnyčiai priklausė Vaištariškių dvarelis su 8 valstiečių šeimomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185093
-

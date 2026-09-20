@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Kamajų parapija'
+pavadinimas: Kamajų parapija
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f3351aa76ec3b72f1e85c870"
-canonical_name: "Kamajų parapija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kamajų parapija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f3351aa76ec3b72f1e85c870
+canonical_name: Kamajų parapija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kamajų parapija
 sameAs: []
-canonical_biography: "Blaivybės laiškas Skapiškio ir Kamajų parapijoms 1."
+canonical_biography: Blaivybės laiškas Skapiškio ir Kamajų parapijoms 1.
 place_authority: true
 historical_names: []
 ---

@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Nogato žiotys'
+pavadinimas: Nogato žiotys
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b4705bf2ac1ff6e92aaa66e3"
-canonical_name: "Nogato žiotys"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Nogato žiotys"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b4705bf2ac1ff6e92aaa66e3
+canonical_name: Nogato žiotys
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Nogato žiotys
 sameAs: []
-canonical_biography: "Narbutas spėja, kad Pitėjas galėjo priplaukti prie kranto ties Nogato žiotimis."
+canonical_biography: 'Narbutas spėja, kad Pitėjas galėjo priplaukti prie kranto ties Nogato žiotimis.'
 ---
 # Nogato žiotys
 
@@ -69,6 +68,5 @@ Narbutas spėja, kad Pitėjas galėjo priplaukti prie kranto ties Nogato žiotim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

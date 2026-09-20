@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Kupiškio parapija'
+pavadinimas: Kupiškio parapija
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-84e84b83b00b073e5c1a09bb"
-canonical_name: "Kupiškio parapija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kupiškio parapija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-84e84b83b00b073e5c1a09bb
+canonical_name: Kupiškio parapija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kupiškio parapija
 sameAs: []
-canonical_biography: "Kupiškio parapijai skirtas blaivybės laiškas."
+canonical_biography: Kupiškio parapijai skirtas blaivybės laiškas.
 place_authority: true
 historical_names: []
 ---

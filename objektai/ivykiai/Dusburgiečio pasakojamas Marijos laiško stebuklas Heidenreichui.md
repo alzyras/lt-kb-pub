@@ -52,6 +52,27 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-91912"></a>
+- t-001
+  teiginys: "Pamokslininkų ordino brolis Heidenreichas antrosios prūsų atskalūnybės metais buvo Kulmo vyskupas."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1263 m.; įvykio data: 1326 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-87554
+
 ## Citatos
 
 - id: c-87554
@@ -90,66 +111,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-203146
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 140-141"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140-141."
-  citata_originali: |
-    Apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie
-                                  brolį Heidenreichą, Kulmo vyskupą
-
-      Pamokslininkų  ordino  brolis Heidenreichas  antrosios atskalūnybės metais buvo
-    Kulmo vyskupas432. Apie  jį sklido neabejotinų žinių, kad švenčiausioji mergelė Marija
-    pasirodžiusi vienam pavargėliui ir jam įdavusi laišką nunešti šiam vyskupui; perskaitęs
-    laišką, vyskupas rado jame aprašytą visą savo gyvenimą, be to, ten buvę pridurta, kad
-
-      430  Pirmoji Ordino Starkenbergo pilis, statyta 1263 (1256— 1272) m, buvo prie
-    Osos, deš. upės krante, tarp dab. Lasino ir Osos, kur į pietus nuo gyvenvietės Sčepankai
-    (Szczepanki)  išliko ovalus  piliakalnis. Kai prūsai šią  pilį sunaikino, 1326 m. buvo
-    pastatyta antroji Štarkenbergo pilis kair. Osos krante, tarp upės ir Meino ežero, kur išliko
-    keturkampis piliakalnis. Dab. Slupas (Ewald A. L., Die Eroberung.., 4, 49—51; SZCh, p.
-    119).
-      431 D.— Spittenbergk, Jer.— Spittinberc. Šios mažos kryžiuočių pilies ieškota Osos
-    žemupio deš. krante (Voigt J., Geschichte.., 3, p. 293; VBK); pažymima, kad tikslesnė
-    pilies vieta Pamedėje nenustatoma (Ewald A. L., Die Eroberung.., 4, p. 51).
-      Norime atkreipti dėmesį į kalvą Spittels (Sch-K, X; Boetticher A., Die Bau-.., 3, p. 42;
-    dėl vardo plg. Spitteynen, Spitten, lie. spitė — GAO, p. 170) kair. Veisikos krante, kiek į
-    rytus nuo dab. Paslenko (Pasłęk). Sis kraštas XIII a. viduryje įėjo į Pamedės vyskupiją
-    (PUB, 1, 1, Nr. 233).
-      432 D.— Hedenricus, Jer.— Heidinrîch; dominikonas iš Leipcigo, Kulmo vyskupu buvęs
-    1246—1263 m. (AB, 1, p. 258).
-
-    Prūsijos žemėje krikščionims teksią dar daug patirti vargo bei kančių nuo prūsų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-221287"></a>
-- t-001
-  teiginys: "Pamokslininkų ordino brolis Heidenreichas antrosios prūsų atskalūnybės metais buvo Kulmo vyskupas."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1263 m.; įvykio data: 1326 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-203146
-

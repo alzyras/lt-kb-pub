@@ -35,6 +35,56 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
 
 ## Teiginiai
 
+<a id="claim-t-104176"></a>
+- t-001
+  teiginys: "Klaipėdos krašto sujungimas su nepriklausomąja Lietuva siejamas su vietos lietuvių kultūrine veikla, gaivinusia tautišką sąmonę."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "tautiškas susipratimas tautiška sąmonė tautiškoji veikla: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautiškas susipratimas tautiška sąmonė tautiškoji veikla\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-97135
+
+<a id="claim-t-104177"></a>
+- t-002
+  teiginys: "„Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Tilžė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "tautiškas susipratimas tautiška sąmonė tautiškoji veikla: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Tilžė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautiškas susipratimas tautiška sąmonė tautiškoji veikla\" parinktas kaip owner_note_path. Targetas \"Tilžė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1885 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-97138
+
+<a id="claim-t-104178"></a>
+- t-003
+  teiginys: "Tilžėje įkurtos „Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "tautiškas susipratimas tautiška sąmonė tautiškoji veikla: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautiškas susipratimas tautiška sąmonė tautiškoji veikla\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-97139
+
 <a id="claim-t-182980"></a>
 - t-004
   teiginys: "Klaipėdos krašto sujungimą su nepriklausoma Lietuva šaltinis sieja su vietos lietuvių kultūrine veikla ir tautiškos sąmonės gaivinimu."
@@ -54,60 +104,10 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
   pagrindžia:
     - c-97135
 
-<a id="claim-t-104176"></a>
-- t-104176
-  teiginys: "Klaipėdos krašto sujungimas su nepriklausomąja Lietuva siejamas su vietos lietuvių kultūrine veikla, gaivinusia tautišką sąmonę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tautiškas susipratimas tautiška sąmonė tautiškoji veikla: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautiškas susipratimas tautiška sąmonė tautiškoji veikla\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-97135
-
-<a id="claim-t-104177"></a>
-- t-104177
-  teiginys: "„Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tilžė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tautiškas susipratimas tautiška sąmonė tautiškoji veikla: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Tilžė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautiškas susipratimas tautiška sąmonė tautiškoji veikla\" parinktas kaip owner_note_path. Targetas \"Tilžė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1885 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-97138
-
-<a id="claim-t-104178"></a>
-- t-104178
-  teiginys: "Tilžėje įkurtos „Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tautiškas susipratimas tautiška sąmonė tautiškoji veikla: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautiškas susipratimas tautiška sąmonė tautiškoji veikla\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-97139
-
 <a id="claim-t-193161"></a>
-- t-193161
+- t-005
   teiginys: "Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lietuva Klaipėdos kraštas, tai buvo nuopelnas kultūrinio vietos lietuvių veikimo, gaivinusio tautišką sąmonę ir subūrusio jėgas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -133,15 +133,14 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
     subūrusio jėgas.
   citata_rodoma: "Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su ne-\npriklausomąja Lietuva Klaipėdos kraštas, tai buvo nuopelnas\nkultūrinio vietos lietuvių veikimo, gaivinusio tautišką sąmonę ir\nsubūrusio jėgas."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-001
     - t-004
-    - t-104176
-    - t-193161
+    - t-005
 
 - id: c-97138
   redaktorius: "A. Šapoka"
@@ -161,8 +160,8 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-104177
+  pagrindzia:
+    - t-002
 
 - id: c-97139
   redaktorius: "A. Šapoka"
@@ -183,6 +182,5 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-104178
-
+  pagrindzia:
+    - t-003

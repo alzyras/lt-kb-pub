@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Bartenšteino pilis'
+pavadinimas: Bartenšteino pilis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0563381a1bc48066f76e2e92"
-canonical_name: "Bartenšteino pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Bartenšteino pilis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0563381a1bc48066f76e2e92
+canonical_name: Bartenšteino pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Bartenšteino pilis
 sameAs: []
-canonical_biography: "Sūduviai apsiautė ir sugriovė Bartenšteino pilį, kurioje buvo įsikūrę bartai. Broliai vėliau atstatė Bartenšteino pilį."
+canonical_biography: 'Sūduviai apsiautė ir sugriovė Bartenšteino pilį, kurioje buvo įsikūrę bartai. Broliai vėliau atstatė Bartenšteino pilį.'
 ---
 # Bartenšteino pilis
 
@@ -77,7 +76,7 @@ Sūduviai apsiautė ir sugriovė Bartenšteino pilį, kurioje buvo įsikūrę ba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-205459
@@ -96,6 +95,5 @@ Sūduviai apsiautė ir sugriovė Bartenšteino pilį, kurioje buvo įsikūrę ba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

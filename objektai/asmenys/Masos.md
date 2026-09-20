@@ -34,6 +34,28 @@ canonical_biography: "Teodoras Narbutas Masosą vadina karaliuku, kuriam kaip du
 
 Teodoras Narbutas Masosą vadina karaliuku, kuriam kaip duoklę atnešami gražiausi žmonių vaikai.
 
+## Teiginiai
+
+<a id="claim-t-191296"></a>
+- t-001
+  teiginys: "Teodoras Narbutas Masosą vadina karaliuku, kuriam kaip duoklę atnešami gražiausi žmonių vaikai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Masos: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Masos\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174178
+
 ## Citatos
 
 - id: c-174178
@@ -55,63 +77,5 @@ Teodoras Narbutas Masosą vadina karaliuku, kuriam kaip duoklę atnešami graži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195789
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 168"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
-  citata_originali: |
-    Raštas jiems nežinomas dalykas, be to, jie nesu­
-    prato, kaip parašytomis raidėmis galima persiųsti savo
-    mintis net į tolimiausius kraštus, o dienas ir mėnulio ap­
-    sisukimus skaičiavo ¿pindami į krepšį pagaliukus arba už­
-    megzdami mazgus ant virvelės. Savo karaliukui, vardu
-    Masos, kaip duoklę atneša gražiausius savo vaikus. Tas
-    karalius gyvena kitoje stovykloje ir ten augina tuos vai­
-    kus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-215670
-
-## Teiginiai
-
-<a id="claim-t-214911"></a>
-- t-001
-  teiginys: "Teodoras Narbutas Masosą vadina karaliuku, kuriam kaip duoklę atnešami gražiausi žmonių vaikai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Masos: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Masos\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-195789
-
-<a id="claim-t-215670"></a>
-- t-215670
-  teiginys: "Šaltinis Masos vadina karaliuku, gyvenančiu kitoje stovykloje ir auginančiu jam kaip duoklę atneštus vaikus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195789
-

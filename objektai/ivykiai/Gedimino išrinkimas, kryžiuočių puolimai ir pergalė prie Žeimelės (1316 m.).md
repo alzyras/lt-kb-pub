@@ -4,7 +4,7 @@ pavadinimas: 'Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žei
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
-  - '1316 m.'
+  - 1316 m.
 date_start: '1316'
 date_end: ''
 sukurta: ''
@@ -14,19 +14,29 @@ tags:
   - mūšis
   - ivykis
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T01:55:10+00:00","source_checked_at":"2026-09-20T01:55:10+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"05c7747ff82b0e9843b3994f","canonical_code":"event.causes","label":"Priežastys","group":"Įvykio eiga","value":"Gedimino valdymo pradžioje į karą stojo Prūsijos ir Livonijos kryžiuočiai.","context":"Šaltinyje ši aplinkybė pateikiama kaip neramios Gedimino valdymo pradžios priežastis.","support_ids":["t-185488","c-168849"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185488","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168849","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"To­ dėl ir manau, kad dingstį šitokiems svetimšalių post­ ringavimams apie Gediminą davęs Pelužis, pirmųjų valdovų įpėdinis, nors ir ištremtas iš Lietuvos, bet at­ kakliai savinęsis didžiojo kunigaikščio vardą ir kry­ žiuočių remiamas labai kenkęs savo tėvynei; norėda­ mas sukelti užuojautą dėl savo padėties, jis niekinamai vadinęs Gediminą Vytenio arklininko sūnumi; Vytenį esą jo paties valdinys Gediminas, kitados savo valdo­ vų arklininkas, nugalėjęs ir nužudęs. Tuo tarpu rusų metraštininkai, kurie šią savo priešams lietuviams pri­ kišamą nuodėmę vargu ar būtų nutylėję ir kurie savo amžiaus įvykius, tai yra visa, kas dėjosi jų akyse, iš G edim in as, V y te n io sūnus, p a v e ld i v a…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b1845d8a98aefa834a299d26","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Gediminas kariuomenės priekyje išrikiavo totorius. Kryžiuočiams užpuolus pirmąsias eiles, totoriai puslankiu išsisklaidė ir išvengė ietininkų antpuolio.","context":"Žeimelės mūšio metu, pagal Alberto Vijūko-Kojelavičiaus aprašymą.","support_ids":["t-185492","c-168853"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185492","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168853","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Dėjosi skatinąs žemaičių narsumą, žadėdamas dovanų bei laisvių, tačiau sakėsi būsiąs patenkintas, jeigu jie, nieko neveikdami, lauk­ sią, kuo viskas baigsis. Tuo tarpu Gediminas taip iš­ rikiavo savo karius, kad vienais rusų daliniais sustip­ rino kariuomenės sparnus, o kitais — ariergardą, lie­ tuvius pastatė viduryje, o totorius — priekyje. Kai kryžiuočiai smarkiai užpuolė pirmąsias eiles, totoriai, neįpratę kovoti vienoje vietoje, nesitraukiant nė per žingsnį, išsisklaidė, kaip jų tautos kariai įpratę, puslan­ kiu ir tuo būdu išvengė ietininkų antpuolio."}],"status":"published","conflict_status":"clear"},{"trait_id":"a5a5dc43e4533363905235b9","canonical_code":"event.causes","label":"Priežastys","group":"Įvykio eiga","value":"Prūsijos ir Livonijos kryžiuočiams stojus į karą, Gedimino valdymo pradžia buvo nerami ir liūdna.","context":"Tai Alberto Vijūko-Kojelavičiaus vertinimas, taikomas Gedimono valdymo pradžiai; išlaikomas šaltinio autoriaus vertinimas ir laikotarpio kontekstas.","support_ids":["t-196143","c-168849"],"source_refs":[{"kind":"internal_claim","claim_id":"t-196143","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168849","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"To­ dėl ir manau, kad dingstį šitokiems svetimšalių post­ ringavimams apie Gediminą davęs Pelužis, pirmųjų valdovų įpėdinis, nors ir ištremtas iš Lietuvos, bet at­ kakliai savinęsis didžiojo kunigaikščio vardą ir kry­ žiuočių remiamas labai kenkęs savo tėvynei; norėda­ mas sukelti užuojautą dėl savo padėties, jis niekinamai vadinęs Gediminą Vytenio arklininko sūnumi; Vytenį esą jo paties valdinys Gediminas, kitados savo valdo­ vų arklininkas, nugalėjęs ir nužudęs. Tuo tarpu rusų metraštininkai, kurie šią savo priešams lietuviams pri­ kišamą nuodėmę vargu ar būtų nutylėję ir kurie savo amžiaus įvykius, tai yra visa, kas dėjosi jų akyse, iš G edim in as, V y te n io sūnus, p a v e ld i v a…"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"dalyvavo_musyje","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-185492","confidence":0.64}],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 5653a77f1d086cbd
+object_page_generated_at: '2026-09-20T01:55:10+00:00'
+object_page_source_checked_at: '2026-09-20T01:55:10+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.): Gedimino valdymo pradžia buvo nerami, nes į karą stojo Prūsijos ir Livonijos…'
+object_page_seo_input_hash: 1582e9f8e089d6fbdf23224a7d228e48a6caf297212203818d8a6f67cec51e08
+object_page_seo_generated_at: '2026-09-20T01:55:10+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)
 
@@ -45,6 +55,136 @@ Nenurodyta
 
 ## Rezultatas
 Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-185488"></a>
+- t-001
+  teiginys: "Gedimino valdymo pradžia buvo nerami, nes į karą stojo Prūsijos ir Livonijos kryžiuočiai."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.63"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kryžiuočiai stojo į karą Gedimino valdymo pradžioje; citatos kontekste prieš lietuvius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168849
+
+<a id="claim-t-185489"></a>
+- t-002
+  teiginys: "Kojelavičius rašo, kad Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Kauno pilis (pilis): 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kauno pilis (pilis): llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini Kauno pilies užėmimą ir gynėjų išžudymą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Kauno pilis (pilis) (0.95); Kryžiuočių ordinas užėmė Kaunas (0.91)"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168850
+
+<a id="claim-t-185490"></a>
+- t-003
+  teiginys: "1316 m. pradžioje kryžiuočiai pasiuntė skirtingas kariaunas krašto niokoti ir nusiaubė Paštuvos, Medininkų bei Pagraudės valsčius."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Medininkai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad kryžiuočiai nusiaubė Medininkų valsčių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Medininkai (0.88); Kryžiuočių ordinas puolė Pagraudė (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1316 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, konkretus ir remiasi citatos duomenimis."
+  pagrindžia:
+    - c-168851
+
+<a id="claim-t-185491"></a>
+- t-004
+  teiginys: "Sutelkęs visas jėgas, Gediminas per Žemaitiją nužygiavo prie Žeimelės upelio ir įrengė įtvirtintą stovyklą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168852
+
+<a id="claim-t-185492"></a>
+- t-005
+  teiginys: "Žeimelės mūšyje Gedimino kariuomenės priekyje stovėję totoriai puslankiu išsisklaidė ir išvengė kryžiuočių ietininkų antpuolio."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Totoriai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Pirmose eilėse stovėjo totoriai, o kryžiuočiai jas užpuolė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Totoriai (0.78); Totoriai dalyvavo mūšyje Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.) (0.64)"
+  pagrindžia:
+    - c-168853
+
+<a id="claim-t-196143"></a>
+- t-006
+  teiginys: "Kojelavičius Gedimino valdymo pradžią, Prūsijos ir Livonijos kryžiuočiams stojus į karą, apibūdino kaip neramią ir liūdną."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168849
+
+<a id="claim-t-196144"></a>
+- t-007
+  teiginys: "Sutelkęs jėgas Gediminas per Žemaitiją nužygiavo prie Žeimelės upelio ir ten įrengė įtvirtintą stovyklą priešui atremti."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168852
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -168,7 +308,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-006
 
@@ -210,7 +350,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-168851
@@ -248,7 +388,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-168852
@@ -270,7 +410,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
     - t-007
 
@@ -297,136 +437,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-## Teiginiai
-
-<a id="claim-t-185488"></a>
-- t-001
-  teiginys: "Gedimino valdymo pradžia buvo nerami, nes į karą stojo Prūsijos ir Livonijos kryžiuočiai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.63"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kryžiuočiai stojo į karą Gedimino valdymo pradžioje; citatos kontekste prieš lietuvius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168849
-
-<a id="claim-t-185489"></a>
-- t-002
-  teiginys: "Kojelavičius rašo, kad Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "uzeme -> Kauno pilis (pilis): 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kauno pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini Kauno pilies užėmimą ir gynėjų išžudymą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Kauno pilis (pilis) (0.95); Kryžiuočių ordinas užėmė Kaunas (0.91)"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168850
-
-<a id="claim-t-185490"></a>
-- t-003
-  teiginys: "1316 m. pradžioje kryžiuočiai pasiuntė skirtingas kariaunas krašto niokoti ir nusiaubė Paštuvos, Medininkų bei Pagraudės valsčius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Medininkai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad kryžiuočiai nusiaubė Medininkų valsčių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Medininkai (0.88); Kryžiuočių ordinas puolė Pagraudė (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, konkretus ir remiasi citatos duomenimis."
-  pagrindžia:
-    - c-168851
-
-<a id="claim-t-185491"></a>
-- t-004
-  teiginys: "Sutelkęs visas jėgas, Gediminas per Žemaitiją nužygiavo prie Žeimelės upelio ir įrengė įtvirtintą stovyklą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168852
-
-<a id="claim-t-185492"></a>
-- t-005
-  teiginys: "Žeimelės mūšyje Gedimino kariuomenės priekyje stovėję totoriai puslankiu išsisklaidė ir išvengė kryžiuočių ietininkų antpuolio."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Totoriai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Pirmose eilėse stovėjo totoriai, o kryžiuočiai jas užpuolė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Totoriai (0.78); Totoriai dalyvavo mūšyje Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.) (0.64)"
-  pagrindžia:
-    - c-168853
-
-<a id="claim-t-196143"></a>
-- t-006
-  teiginys: "Kojelavičius Gedimino valdymo pradžią, Prūsijos ir Livonijos kryžiuočiams stojus į karą, apibūdino kaip neramią ir liūdną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168849
-
-<a id="claim-t-196144"></a>
-- t-007
-  teiginys: "Sutelkęs jėgas Gediminas per Žemaitiją nužygiavo prie Žeimelės upelio ir ten įrengė įtvirtintą stovyklą priešui atremti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168852
-

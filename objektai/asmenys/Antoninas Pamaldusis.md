@@ -33,6 +33,21 @@ canonical_biography: "Antonino Pamaldžiojo romėniškas sidabrinis pinigas leid
 
 Antonino Pamaldžiojo romėniškas sidabrinis pinigas leidinyje pateiktas kaip 15 pav.
 
+## Teiginiai
+
+<a id="claim-t-190130"></a>
+- t-001
+  teiginys: "Antonino Pamaldžiojo romėniškas sidabrinis pinigas leidinyje pateiktas kaip 15 pav."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-173013
+
 ## Citatos
 
 - id: c-173013
@@ -52,4 +67,5 @@ Antonino Pamaldžiojo romėniškas sidabrinis pinigas leidinyje pateiktas kaip 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

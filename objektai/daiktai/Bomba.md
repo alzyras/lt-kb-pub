@@ -1,10 +1,10 @@
 ---
 tipas: daiktas
-pavadinimas: 'Bomba'
+pavadinimas: Bomba
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1921 m.'
+  - 1921 m.
 date_start: '1921'
 date_end: ''
 sukurta: ''
@@ -13,19 +13,29 @@ tags:
   - ginklas
   - daiktas
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Bomba","url":"https://lt.wikipedia.org/wiki/Bomba","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:52:33+00:00","source_checked_at":"2026-09-20T04:52:33+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Bomba","url":"https://lt.wikipedia.org/wiki/Bomba","publisher":"Vikipedija","language":"lt","article_id":"1933","revision_id":"6453129","published_at":"2022-01-03T05:27:41Z","version_pk":"","content_hash":"633c2687bd40766de092c3747d3a5a2966f7179e7b4ac72be3d458735ba9a418","retrieved_at":"2026-09-20T04:51:19+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Bomba&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"1933"}},"intro":"Bomba – tai amunicijos vienetas, sprogstamasis mechanizmas – dažniausiai koks nors indas, pripildytas sprogstamųjų medžiagų (pvz., TNT) ir yra skirtas sprogimo metu padaryti kuo daugiau žalos. Bombos esminis skirtumas nuo kitų sprogstamų įtaisų – laisvas kritimas naudojant Žemės traukos jėgą ir nuo smūgio suveikiantis sprogdiklis. Šiais laikais žodis bomba paprastai reiškia aviacines bombas.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Bomba","url":"https://lt.wikipedia.org/wiki/Bomba","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Bomba"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"1186cd03a9093973667fc973","canonical_code":"object.purpose","label":"Paskirtis","group":"Naudojimas","value":"Sprogti ir ardyti namus bei kūnus","context":"1916 m. karo aprašyme bombos vaizduojamos kaip sprogimai, ardantys namus ir kūnus; 1920-ųjų lapkričio 15 d. Kaune bomba sprogo ant E. Galvanausko miegamojo palangės.","support_ids":["t-209600","c-192220","t-45473","c-16402"],"source_refs":[{"kind":"internal_claim","claim_id":"t-209600","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md"},{"kind":"internal_claim","claim_id":"t-45473","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-192220","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md","quote":"Moterė­ lės verkia iš susirūpinimo, ir negali suprasti, kad kas nors iš liuoso noro važiuotų ten, kur kulkosvaidžiai ardo gyvastis, kur bombos dras­ ko namus ir kūnus Jos sako: klebonas ne­ grįši pas mus daugiau; iš kitų veidų galima skaityti abejojimas apie mano važiavimą Lie­ tuvon"},{"kind":"evidence","evidence_id":"c-16402","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo- matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu- vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai. Lapkričio 15 dieną Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E. Galvanauskas liko gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti. Lenkijos ir Lietuvos federacijos planas suiro, o triumfavo... Maskva, tai įvertinusi kaip patį didžiausią savo diplomatijos laimėjimą."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a73faf256e31f2f5
+object_page_generated_at: '2026-09-20T04:52:33+00:00'
+object_page_source_checked_at: '2026-09-20T04:52:33+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Bomba minima kaip sprogmuo, padėtas ant E. Galvanausko miegamojo palangės Himanso plano krizės metu. Sprogimas sužeidė E. Galvanauską, bet jis išgyveno.'
+object_page_seo_input_hash: ae762eb57e5484fbb7121b8337f8ed216070d7a625d0d90a8f61c07dd30f7dc9
+object_page_seo_generated_at: '2026-09-20T04:52:33+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Bomba
 
@@ -62,34 +72,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-209600"></a>
-- t-209600
-  teiginys: "Moterė lės verkia iš susirūpinimo, ir negali suprasti, kad kas nors iš liuoso noro važiuotų ten, kur kulkosvaidžiai ardo gyvastis, kur bombos dras ko namus ir kūnus Jos sako: klebonas ne grįši pas mus daugiau; iš kitų veidų galima skaityti abejojimas apie."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192220
-
-<a id="claim-t-209601"></a>
-- t-209601
-  teiginys: "Tarp Berno ir Friburg'o susitinka traukiniai ir rei kia matyti, sako šveicaras tuos sumaltus, su draskytus bombomis, kulkosvaidžiais nepana šius į žmones kareivius, kuomet jie ligišiolei didžiausi priešai, viens kitą meilingai sveikina ir lieja ašarų upelius."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192221
-
 <a id="claim-t-45472"></a>
-- t-45472
+- t-001
   teiginys: "Lapkričio 15 d. Kaune sprogusi bomba sužeidė E. Galvanauską, bet jis liko gyvas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -103,9 +89,9 @@ Nenurodyta
     - c-16402
 
 <a id="claim-t-45473"></a>
-- t-45473
+- t-002
   teiginys: "Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -144,52 +130,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-45472
-    - t-45473
-
-- id: c-192220
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 10"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 10."
-  citata_originali: |
-    Moterė­
-    lės verkia iš susirūpinimo, ir negali suprasti,
-    kad kas nors iš liuoso noro važiuotų ten, kur
-    kulkosvaidžiai ardo gyvastis, kur bombos dras­
-    ko namus ir kūnus
-    Jos sako: klebonas ne­
-    grįši pas mus daugiau; iš kitų veidų galima
-    skaityti abejojimas apie mano važiavimą Lie­
-    tuvon
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209600
-
-- id: c-192221
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 24"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 24."
-  citata_originali: |
-    Tarp
-    Berno ir Friburg'o susitinka traukiniai ir rei­
-    kia matyti, sako šveicaras tuos sumaltus, su­
-    draskytus bombomis, kulkosvaidžiais nepana­
-    šius į žmones kareivius,
-    kuomet jie ligišiolei
-    didžiausi priešai, viens kitą meilingai sveikina
-    ir lieja ašarų upelius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209601
-
+  pagrindzia:
+    - t-001
+    - t-002

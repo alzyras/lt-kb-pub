@@ -1,39 +1,38 @@
 ---
 tipas: asmuo
-pavadinimas: 'Simonas Malevskis'
+pavadinimas: Simonas Malevskis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1743 m.'
-  - '1832 m.'
+  - 1743 m.
+  - 1832 m.
 date_start: '1743'
 date_end: '1832'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVIII'
-  - 'XIX'
+  - XVIII
+  - XIX
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-422a2fb295a9015d63c0925c"
-canonical_name: "Simonas Malevskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Simonas Malevskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-422a2fb295a9015d63c0925c
+canonical_name: Simonas Malevskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Simonas Malevskis
 sameAs: []
-canonical_biography: "Tadas Cackis (1765—1813), Juoza pas Mickevičius (1743—1817), Pilypas Nerėjus Golianskis (1753— 1824), Simonas Malevskis (1759—1832) ir Mykolas Angelas Šul cas (1769—1812) buvo istorikai ir Vilniaus universiteto profesoriai."
+canonical_biography: 'Tadas Cackis (1765—1813), Juoza pas Mickevičius (1743—1817), Pilypas Nerėjus Golianskis (1753— 1824), Simonas Malevskis (1759—1832) ir Mykolas Angelas Šul cas (1769—1812) buvo istorikai ir Vilniaus universiteto profesoriai.'
 ---
 # Simonas Malevskis
 
@@ -89,7 +88,7 @@ Tadas Cackis (1765—1813), Juoza pas Mickevičius (1743—1817), Pilypas Nerėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200457
@@ -109,6 +108,5 @@ Tadas Cackis (1765—1813), Juoza pas Mickevičius (1743—1817), Pilypas Nerėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

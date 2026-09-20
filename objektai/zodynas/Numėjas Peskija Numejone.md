@@ -27,6 +27,34 @@ media_all_json: |-
 
 Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę, laikytus svetingumo dievybėmis. Narbutas rašo, kad miestuose buvę svečių namai, vadinti namijomis, arba Numejone, kur svetimšaliai jautėsi saugūs su savo turtu.
 
+## Teiginiai
+
+<a id="claim-t-189232"></a>
+- t-001
+  teiginys: "Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę, laikytus svetingumo dievybėmis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172120
+
+<a id="claim-t-189233"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad miestuose buvę svečių namai, vadinti namijomis, arba Numejone, kur svetimšaliai jautėsi saugūs su savo turtu."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172121
+
 ## Citatos
 
 - id: c-172120
@@ -46,6 +74,8 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-172121
   autorius: "Teodoras Narbutas"
@@ -66,4 +96,5 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

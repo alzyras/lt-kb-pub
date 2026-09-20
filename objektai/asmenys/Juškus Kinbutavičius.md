@@ -39,6 +39,20 @@ canonical_biography: "Štai 1523 m. Juškus Kinbutavičius gynėsi nuo vertimo a
 
 Štai 1523 m. Juškus Kinbutavičius gynėsi nuo vertimo atlikinėti valstietiškas prievoles, kurios būtų reiškusios bajorystės praradimą.
 
+## Teiginiai
+
+<a id="claim-t-202106"></a>
+- t-001
+  teiginys: "Štai 1523 m. Juškus Kinbutavičius gynėsi nuo vertimo atlikinėti valstietiškas prievoles, kurios būtų reiškusios bajorystės praradimą."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185453
+
 ## Citatos
 
 - id: c-185453
@@ -55,20 +69,5 @@ canonical_biography: "Štai 1523 m. Juškus Kinbutavičius gynėsi nuo vertimo a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202106"></a>
-- t-001
-  teiginys: "Štai 1523 m. Juškus Kinbutavičius gynėsi nuo vertimo atlikinėti valstietiškas prievoles, kurios būtų reiškusios bajorystės praradimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185453
-

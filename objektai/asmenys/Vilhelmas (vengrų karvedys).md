@@ -34,6 +34,24 @@ canonical_biography: "Dusburgietis teigia, kad apie vieną stebuklą Šioje kari
 
 Dusburgietis teigia, kad apie vieną stebuklą Šioje kariuomenėje buvo vienas grafas magistras Vilhelmas, vengrų karvedys, kuriam naktį, kai jis ilsėjosi savo lovoje, pasirodė švenčiausioji mergelė ir, rūsčiais žodžiais jį išbarusi, pasakė: „Kodėl siaubi mano žemę, aplaistytą daugybės.
 
+## Teiginiai
+
+<a id="claim-t-60464"></a>
+- t-001
+  teiginys: "Vengrų karvedžiui Vilhelmui naktį pasirodė Švenčiausioji Mergelė ir įspėjo jį pasitraukti iš siaubiamos žemės."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vengrai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilhelmas (vengrų karvedys): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vengrai: mention_match, group, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilhelmas (vengrų karvedys)\" parinktas kaip owner_note_path. Targetas \"Vengrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-61096
+
 ## Citatos
 
 - id: c-61096
@@ -58,49 +76,5 @@ Dusburgietis teigia, kad apie vieną stebuklą Šioje kariuomenėje buvo vienas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202648
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 257"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
-  citata_originali: |
-    Apie vieną stebuklą
-
-      Šioje kariuomenėje buvo vienas grafas magistras Vilhelmas, vengrų karvedys, kuriam
-    naktį, kai jis ilsėjosi savo lovoje, pasirodė švenčiausioji mergelė ir, rūsčiais žodžiais jį
-    išbarusi, pasakė: „Kodėl siaubi mano žemę, aplaistytą daugybės krikščionių krauju?
-    Jeigu nepasitrauksi, žinok, kad netrukus susilauksi nelaimingos mirties”.
-
-
-
-
-                                   19.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-220731"></a>
-- t-001
-  teiginys: "Vengrų karvedžiui Vilhelmui naktį pasirodė Švenčiausioji Mergelė ir įspėjo jį pasitraukti iš siaubiamos žemės."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vengrai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilhelmas (vengrų karvedys): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vengrai: mention_match, group, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilhelmas (vengrų karvedys)\" parinktas kaip owner_note_path. Targetas \"Vengrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202648
-

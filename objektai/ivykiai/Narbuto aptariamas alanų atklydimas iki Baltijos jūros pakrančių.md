@@ -38,6 +38,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-197547"></a>
+- t-001
+  teiginys: "Atvirkščiai, galima sutikti, kad jie at klydo iki Baltijos jūros pakrančių tais laikais, kai Eraz mas Stela nori kildinti lietuvių susiformavimą iš atariu ordos, t."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179240
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinimu, alanai darė įtaką kai kurioms lietuvių genties tautoms, bet stavanai ir galindai savo žemėse gyveno dar iki alanų kaimynystės.'
@@ -92,45 +106,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195558
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 188"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
-  citata_originali: |
-    Atvirkščiai, galima sutikti, kad jie at­
-    klydo iki Baltijos jūros pakrančių tais laikais, kai Eraz­
-    mas Stela nori kildinti lietuvių susiformavimą iš atariu
-    ordos, t. y. IV krikščioniškosios eros amžiuje1. Taip pat
-    mes neneigsime šio autoriaus nuomonės, kad buvusi lie-
-    tuvių-alanų tauta, vadinama litalarrais, kuri visiškai ga­
-    lėjo susidaryti iš lietuvių ir alanų mišinio. Sutiksime net
-    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
-    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
-    gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
-    vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
-    ri dabar sudaro Ukmergės apskritį*.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-214931"></a>
-- t-001
-  teiginys: "Atvirkščiai, galima sutikti, kad jie at klydo iki Baltijos jūros pakrančių tais laikais, kai Eraz mas Stela nori kildinti lietuvių susiformavimą iš atariu ordos, t."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195558
-

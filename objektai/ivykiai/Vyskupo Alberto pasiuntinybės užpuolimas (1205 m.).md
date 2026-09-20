@@ -46,6 +46,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205509"></a>
+- t-001
+  teiginys: "Teodoras Narbutas rašo, kad 1205 m. kelyje buvo užpulta vyskupo Alberto pasiuntinybė, vykusi pas Rusios kunigaikštį Vladimirą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187789
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas rašo, kad 1205 m. kelyje buvo užpulta vyskupo Alberto pasiuntinybė, vykusi pas Rusios kunigaikštį Vladimirą.'
@@ -90,21 +105,5 @@ Teodoras Narbutas rašo, kad 1205 m. kelyje buvo užpulta vyskupo Alberto pasiun
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205509"></a>
-- t-001
-  teiginys: "Teodoras Narbutas rašo, kad 1205 m. kelyje buvo užpulta vyskupo Alberto pasiuntinybė, vykusi pas Rusios kunigaikštį Vladimirą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187789
-

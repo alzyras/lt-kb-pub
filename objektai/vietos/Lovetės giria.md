@@ -37,6 +37,20 @@ historical_names: []
 
 Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp kitų to krašto didelių miškų. Tais laikais Pamedėje nestigo didžiulių miškų; be anksčiau minėtos pasienio girios, buvo garsi Lovetės, Loweten, giria, kita — tarp Steno ir Malborko, nemažai didžiulių miškų plytėjo prie Drūsinės ežero.
 
+## Teiginiai
+
+<a id="claim-t-197893"></a>
+- t-001
+  teiginys: "Tais laikais Pamedėje nestigo didžiulių miškų; be anksčiau minėtos pasienio girios, buvo garsi Lovetės, Loweten, giria, kita — tarp Steno ir Malborko, nemažai didžiulių miškų plytėjo prie Drūsinės ežero."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179385
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp kitų to krašto didelių miškų.'
@@ -82,55 +96,5 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195605
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 356"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
-  citata_originali: |
-    Vakaruose, kur šios provincijos sie­
-    na ėjo Vysla, jai priklausė įvairios salos, kurias vėliau
-    išardė vandens srautai. Tokia sala buvo Kvidzinas, Qui-
-    dino, taip pat Zantiro, Berno ir kitos, ligi šiol egzistuo­
-    jančios salos. Tais laikais Pamedėje nestigo didžiulių
-    miškų; be anksčiau minėtos pasienio girios, buvo garsi
-    Lovetės, Loweten, giria, kita — tarp Steno ir Malborko,
-    nemažai didžiulių miškų plytėjo prie Drūsinės ežero.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-214541"></a>
-- t-001
-  teiginys: "Tais laikais Pamedėje nestigo didžiulių miškų; be anksčiau minėtos pasienio girios, buvo garsi Lovetės, Loweten, giria, kita — tarp Steno ir Malborko, nemažai didžiulių miškų plytėjo prie Drūsinės ežero."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195605
-
-<a id="claim-t-215085"></a>
-- t-002
-  teiginys: "Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp kitų to krašto didelių miškų."
-  atnaujinta: "2026-09-13 23:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-195605
-

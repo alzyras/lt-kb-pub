@@ -36,6 +36,25 @@ historical_names: []
 
 Dusburgietis teigia, kad akmena (Mituvos intakas), u.
 
+## Teiginiai
+
+<a id="claim-t-90278"></a>
+- t-001
+  teiginys: "Ašeradė) Akmena (Jūros intakas), u."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Akonas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akmena (Mituvos intakas): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Akonas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akmena (Mituvos intakas)\" parinktas kaip owner_note_path. Targetas \"Akonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  pagrindžia:
+    - c-86145
+
 ## Citatos
 
 - id: c-86145
@@ -55,4 +74,5 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

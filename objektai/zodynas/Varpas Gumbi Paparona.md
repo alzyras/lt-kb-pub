@@ -27,6 +27,33 @@ media_all_json: |-
 
 Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimiečių kariškiui sargyboje apibūdinti. Jos draugas arba vyras buvo Varpas (Warpas), šaukiąs keltis. Kitaip vadinosi Varputis (Warputis).
 
+## Teiginiai
+
+<a id="claim-t-194691"></a>
+- t-001
+  teiginys: "Jos draugas arba vyras buvo Varpas (Warpas), šaukiąs keltis."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177088
+
+<a id="claim-t-197378"></a>
+- t-002
+  teiginys: "Kitaip vadinosi Varputis (Warputis)."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179156
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimiečių kariškiui sargyboje apibūdinti.'
@@ -72,6 +99,8 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179156
   autorius: "Teodoras Narbutas"
@@ -89,52 +118,5 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-200775
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 162"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 162."
-  citata_originali: |
-    Tai yra jis buvo atsikartojantis
-    garsas, vadinasi, aidas.
-    Kitaip vadinosi Varputis (Warputis). Vietas, kuriose girdi­
-    mas aiškus aidas, kai kurie kaimiečiai vadina Warputinej.
-    Pats žodis Warpelis yra žodžio Warpas mažybinė forma.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-217855
-
-## Teiginiai
-
-<a id="claim-t-216463"></a>
-- t-001
-  teiginys: "Kitaip vadinosi Varputis (Warputis)."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200775
-
-<a id="claim-t-217855"></a>
-- t-217855
-  teiginys: "Jos draugas arba vyras buvo Varpas (Warpas), šaukiąs keltis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-200775
-
+  pagrindzia:
+    - t-002

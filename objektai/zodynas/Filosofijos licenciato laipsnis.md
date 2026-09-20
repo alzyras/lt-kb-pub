@@ -50,6 +50,19 @@ Tai akademinio laipsnio pavadinimas, šiame šaltinyje pateiktas kaip tolesnis l
 
 Terminas vartojamas A. R. Niemi biografijoje, kalbant apie 1899 m. pasiektą mokslo laipsnį.
 
+## Teiginiai
+
+<a id="claim-t-195614"></a>
+- t-001
+  teiginys: "A. R. Niemi 1899 m. gavo fil. licenciato laipsnį."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-178016
+
 ## Citatos
 
 - id: c-178016
@@ -65,19 +78,5 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie 1899 m. pasiektą mok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195614"></a>
-- t-001
-  teiginys: "A. R. Niemi 1899 m. gavo fil. licenciato laipsnį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-178016
-

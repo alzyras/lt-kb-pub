@@ -1,8 +1,8 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'spiritus vinum'
+pavadinimas: spiritus vinum
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # spiritus vinum
 
@@ -27,20 +24,6 @@ XVI a. spiritus vinum mažomis dozėmis buvo vartojamas kaip vaistas.
 ## Santrauka
 
 XVI a. spiritus vinum mažomis dozėmis buvo vartojamas kaip vaistas.
-
-## Teiginiai
-
-<a id="claim-t-209310"></a>
-- t-001
-  teiginys: "XVI a. spiritus vinum mažomis dozėmis buvo vartojamas kaip vaistas."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  pagrindžia:
-    - c-191919
 
 ## Citatos
 
@@ -65,3 +48,17 @@ XVI a. spiritus vinum mažomis dozėmis buvo vartojamas kaip vaistas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+## Teiginiai
+
+<a id="claim-t-209310"></a>
+- t-001
+  teiginys: "XVI a. spiritus vinum mažomis dozėmis buvo vartojamas kaip vaistas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  pagrindžia:
+    - c-191919
+

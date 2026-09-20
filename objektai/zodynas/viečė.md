@@ -30,34 +30,10 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
 
 ## Teiginiai
 
-<a id="claim-t-210605"></a>
-- t-210605
-  teiginys: "Po savo tėvo mirties didysis kunigaikštis Mingaila su telkė savo kariuomenę ir patraukė prieš Polocko mies tą 2 ir prieš Polocko vyrus, kurie reikalus sprendė viečėje3, kaip Didysis Naugardas ir Pskovas."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193365
-
-<a id="claim-t-212061"></a>
-- t-212061
-  teiginys: "Polocko kunigaikštis Borisas suteikė teisę šaukti viečę, skambinti varpu ir valdytis kaip Didžiajame Naugarde bei Pskove."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193535
-
 <a id="claim-t-185415"></a>
-- t-185415
+- t-001
   teiginys: "Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis taikos sąlygų su Algirdu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -73,10 +49,30 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   pagrindžia:
     - c-168776
 
-<a id="claim-t-210788"></a>
-- t-210788
+<a id="claim-t-187534"></a>
+- t-002
+  teiginys: "Polocko vyrai reikalus sprendė viečėje, kaip Didysis Naugardas ir Pskovas."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Didysis Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "viečė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Didysis Naugardas: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"viečė\" parinktas kaip owner_note_path. Targetas \"Didysis Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
+  pagrindžia:
+    - c-170484
+
+<a id="claim-t-187535"></a>
+- t-003
   teiginys: "Lietuvos metraštis pasakoja, kad po Polocko kunigaikščio Glėbo mirties polockiečiai ėmė reikalus spręsti viečėje ir nebeturėjo valdovo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -90,6 +86,28 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"viečė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  pagrindžia:
+    - c-170485
+
+<a id="claim-t-187536"></a>
+- t-004
+  teiginys: "Viečė buvo žymesnių Kijevo Rusios miestų gyventojų susirinkimas karo, taikos, pareigūnų ir kitiems svarbiausiems klausimams svarstyti."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "viečė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"viečė\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
+  pagrindžia:
+    - c-170486
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -149,8 +167,8 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185415
+  pagrindzia:
+    - t-001
 
 - id: c-170484
   autorius: "Anoniminis metraštininkas"
@@ -172,6 +190,8 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-170485
   autorius: "Anoniminis metraštininkas"
@@ -191,6 +211,8 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-170486
   autorius: "Anoniminis metraštininkas"
@@ -210,43 +232,5 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193365
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 45."
-  citata_originali: |
-    Po savo tėvo mirties didysis kunigaikštis Mingaila su­
-    telkė savo kariuomenę ir patraukė prieš Polocko mies­
-    tą 2 ir prieš Polocko vyrus, kurie reikalus sprendė
-    viečėje3, kaip Didysis Naugardas ir Pskovas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210605
-
-- id: c-193535
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 45-46"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 45-46."
-  citata_originali: |
-    Valdydamas Polocką, jis buvo maloningas savo val­
-    diniams ir jiems, savo valdiniams, dovanojo laisvių
-
-    bei teisę šaukti viečę, skambinti varpu ir valdytis, kaip
-    Didžiajame Naugarde ir Pskove.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212061
-
+  pagrindzia:
+    - t-004

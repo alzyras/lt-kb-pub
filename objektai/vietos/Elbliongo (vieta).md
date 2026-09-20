@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Elbliongo (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Elbliongo (vieta)
+identifikacija: vieta
 variantai:
-  - 'Elbliongo'
+  - Elbliongo
 aliases:
-  - 'Elbliongo'
+  - Elbliongo
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8fcabef451d3a69f1f097e91"
-canonical_name: "Elbliongo (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Elbliongo","Elbliongo (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8fcabef451d3a69f1f097e91
+canonical_name: Elbliongo (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Elbliongo
+  - Elbliongo (vieta)
 sameAs: []
-canonical_biography: "Senovės Druso miestas buvo netoli dabartinio Elbliongo."
+canonical_biography: Senovės Druso miestas buvo netoli dabartinio Elbliongo.
 ---
 # Elbliongo (vieta)
 
@@ -70,6 +70,5 @@ Senovės Druso miestas buvo netoli dabartinio Elbliongo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

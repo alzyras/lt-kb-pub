@@ -1,25 +1,25 @@
 ---
 tipas: vieta
-pavadinimas: 'Vilnelė'
+pavadinimas: Vilnelė
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1515 m.'
-  - '1522 m.'
-  - '1529 m.'
-  - '1538 m.'
-  - '1580 m.'
+  - 1515 m.
+  - 1522 m.
+  - 1529 m.
+  - 1538 m.
+  - 1580 m.
 date_start: '1515'
 date_end: '1580'
 variantai:
-  - 'Vilnelė'
-  - 'Vilnia Vilnelė'
+  - Vilnelė
+  - Vilnia Vilnelė
 aliases:
-  - 'Vilnelė'
-  - 'Vilnia Vilnelė'
+  - Vilnelė
+  - Vilnia Vilnelė
 amziai:
-  - 'XVI'
+  - XVI
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,27 +33,386 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d41e7d0014f3032bcb314c9d"
-canonical_name: "Vilnelė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vilnelė","Vilnia Vilnelė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d41e7d0014f3032bcb314c9d
+canonical_name: Vilnelė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vilnelė
+  - Vilnia Vilnelė
 sameAs: []
-canonical_biography: "Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­ jėgęs tik vyriausias žynys Lizdeika išaiškinti. 73 Vilhelmas Habsburgas 281, 284- 286, 289 Vilhelmas Morenietis 166, 167, 180 Vilhelmas, Olandijos grafas 249 Vilija (Neris) 156 Vilikaila 162 Vilkaviškis 112 Vilkija 216 Vilkų Kampo kaimas 109 Vilnelė, upė 110, 244 Vilkolevičius, bajoras 368 Vilnius 5, 6."
+canonical_biography: 'Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­ jėgęs tik vyriausias žynys Lizdeika išaiškinti. 73 Vilhelmas Habsburgas 281, 284- 286, 289 Vilhelmas Morenietis 166, 167, 180 Vilhelmas, Olandijos grafas 249 Vilija (Neris) 156 Vilikaila 162 Vilkaviškis 112 Vilkija 216 Vilkų Kampo kaimas 109 Vilnelė, upė 110, 244 Vilkolevičius, bajoras 368 Vilnius 5, 6.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Vilnia","url":"https://lt.wikipedia.org/wiki/Vilnia","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"‘Vilnelė’","url":"https://www.vle.lt/straipsnis/vilnele/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T02:55:57+00:00","source_checked_at":"2026-09-19T02:55:57+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"PATS ALEKSANDRAS, DIEVO MALONE DIDYSIS LIETUVOS, RUSIOS, ŽEMAIČIŲ IR KITŲ KUNIGAIKŠTIS Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­ vilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi- čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­ čio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo vaikams visiems laikams.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-195140","evidence_id":"c-177524","origin":"internal"},"wiki":{"status":"published","source":{"title":"Vilnia","url":"https://lt.wikipedia.org/wiki/Vilnia","publisher":"Vikipedija","language":"lt","article_id":"27787","revision_id":"7756043","published_at":"2026-02-18T16:54:24Z","version_pk":"","content_hash":"7af575f4c97c8a65f4b0c538557a59e879d080b3ae6d366b19076069103d6dc9","retrieved_at":"2026-09-19T02:52:41+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Vilnia&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"27787"}},"intro":"Apie Vilniaus miesto dalį žr. Naujoji Vilnia. Apie matematinių funkcijų klasę žr Vilnelė (matematika).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":false,"api_redirect":true,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Vilnia","url":"https://lt.wikipedia.org/wiki/Vilnia","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"‘Vilnelė’","url":"https://www.vle.lt/straipsnis/vilnele/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Vilnia","https://www.vle.lt/straipsnis/vilnele/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"243f804e44b3daf23263ba5f","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Mažesnioji upė, dar vadinama Vilnia arba Vilnele, įtekanti į Viliją.","context":"Michał Balińskis taip aprašo Vilnelę, aiškindamas Vilniaus vardo kilmę.","support_ids":["t-195135","c-177523"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195135","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177523","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Taigi ta vietovė, žinia, jei ji buvo parinkta to­ kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­ ta ir gyvenama. Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas keliasdešimt metų vė­ liau ant kalno statydinęs mūro tvirtovę, iškilusią jo viršūnė­ je, nieko daugiau nedarę, tik artinę Vilijos link ir plėtę seno­ vinę Vilniaus gyvenvietę, palei Vilnios, arba Vilnelės, krantus nusidriekusią ir medinės pilies saugomą. Pagaliau visas tas aplinkinis kraštas, kuriame yra…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c5a1822a36c4c88e009bf115","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Vilnelė įteka į Viliją.","context":"Aprašoma Gedimino pilies vieta prie Vilnelės žiočių; šaltinyje kalbama apie anuometinę situaciją.","support_ids":["t-195136","c-177514"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195136","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177514","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Dar niūrokas tuomet, bet visais laikais kerintis gražiu krašto­ vaizdžiu buvo anuometinis Vilnius, iškilęs prieš akis atvyku- siems lenkams. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­ nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­ ta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5870902003d6daa5ae8f2b0c","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Vilnelė anuomet tekėjo iš už Plikojo kalno pro Pilies gatvę, senuosius mūrus, Pilies vartus ir mažąjį turgų, apsukdama pilies teritoriją, o už dabartinės katedros įtekėjo į Viliją.","context":"Michał Balińskis pateikia istorinį upės tekėjimo aprašymą ir pažymi, kad nėra patikimų šio teiginio įrodymų.","support_ids":["t-195152","c-177516"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195152","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177516","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tačiau nėra patikimų tam įrodymu. 4 Vilnia, arba Vilnelė, anuomet, atite­ kėjusi iš už Plikojo kalno, bėgo pro Pilies [gatvę], per senuosius roki tų mūrus, palei Pilies vartus, paskui per mažąjį turgų ir, apsukusi lankstu pi­ lies teritoriją, už dabartinės katedros įtekėjo į Viliją. Iš priešingos, vakarų, pusės atitekėjęs Vingrių upokšnis vi­ siškai greta Vilnios žiočių įtekėjo į Vi­ liją."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"64ec1e6ab72f0f247fb28e52","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Vilnelės vagą supo kalnai, o prie jos buvo žalias slėnis.","context":"Aprašomas anuometinis Vilnius ir kraštovaizdis aplink Vilnelę.","support_ids":["t-195136","c-177514"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195136","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177514","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Dar niūrokas tuomet, bet visais laikais kerintis gražiu krašto­ vaizdžiu buvo anuometinis Vilnius, iškilęs prieš akis atvyku- siems lenkams. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­ nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­ ta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8f9bbe65b85364a74e6cb274","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Šventaragio slėnis buvo lanka tarp Vilijos ir Vilnelės, nuo senų senovės apaugusi ąžuolais.","context":"Šaltinyje aprašoma istorinė vietovė tarp Vilijos ir Vilnelės.","support_ids":["t-195153","c-177525"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195153","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177525","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,'' rėpian­ tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, didžiai garbinama lietuvių. Čia pat medinė šventykla, prie kurios šliejosi pagonių vaidilų būstai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ba42a3c62fbf25dec35fda9d","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Prie Vilnelės 1522 metais iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.","context":"Istorinis infrastruktūros objektas prie Vilnelės, datuojamas 1522 metais.","support_ids":["t-195159","c-177517"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195159","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177517","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus malūnas. Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­ dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5f61afcebaff30f676d2685e","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Ant kalno prie Vilnelės 1580 metais buvo pastatytas apvalaus bokšto pavidalo paminklas prie Kasparo Bekešo kapo.","context":"Istorinis paminklas, pastatytas 1580 metais prie Kasparo Bekešo kapo.","support_ids":["t-195141","c-177512"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195141","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177512","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Pagaliau čia, Vilniuje, šis didis karalius, nenuilstamai rūpindamasis krašto saugu­ mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­ gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­ sipelniusius. Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­ vystę61. Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės, pastačius apvalaus bokšto pavidalo paminklą, išlikusį iki [Vyskupo seminarijos fundacija iš vyskupo stalo dvaro, vadinamo Vozgėliškėmis [Vaisgėliškis]."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Vilnelė – mažesnioji upė, kurios krantai siejami su pirmykšte Vilniaus gyvenviete ir svarbiais miesto istorijos objektais. Šaltinis teigia, kad Vilniaus vardas kilo ne nuo didesniosios Vilijos, o nuo į ją įtekančios Vilnios, todėl senoji gyvenvietė driekėsi palei Vilnios, arba Vilnelės, krantus. Gedimino laikais prie Vilnelės žiočių į Viliją iškilo mūro tvirtovė su aukštomis sienomis ir trimis bokštais, o pats kunigaikštis čia perkėlė savo buveinę. XVI amžiuje upė buvo susijusi ir su miesto ūkine veikla: 1522 metais prie jos, tarp Vilniaus vaivados malūno ir Charitonovo palivarko, pastatytas popieriaus malūnas. Vilnelės aplinka buvo svarbi ir kultūriškai – tarp jos ir Vilijos plytėjusiame Šventaragio slėnyje, pasak šaltinio, degė lietuvių garbinta amžinoji ugnis Gabija.","sentences":[{"sentence_id":"s1","text":"Vilnelė – mažesnioji upė, kurios krantai siejami su pirmykšte Vilniaus gyvenviete ir svarbiais miesto istorijos objektais.","support_ids":["t-195135","t-195136"]},{"sentence_id":"s2","text":"Šaltinis teigia, kad Vilniaus vardas kilo ne nuo didesniosios Vilijos, o nuo į ją įtekančios Vilnios, todėl senoji gyvenvietė driekėsi palei Vilnios, arba Vilnelės, krantus.","support_ids":["t-195135"]},{"sentence_id":"s3","text":"Gedimino laikais prie Vilnelės žiočių į Viliją iškilo mūro tvirtovė su aukštomis sienomis ir trimis bokštais, o pats kunigaikštis čia perkėlė savo buveinę.","support_ids":["t-195132","t-195136"]},{"sentence_id":"s4","text":"XVI amžiuje upė buvo susijusi ir su miesto ūkine veikla: 1522 metais prie jos, tarp Vilniaus vaivados malūno ir Charitonovo palivarko, pastatytas popieriaus malūnas.","support_ids":["t-195142","t-195159"]},{"sentence_id":"s5","text":"Vilnelės aplinka buvo svarbi ir kultūriškai – tarp jos ir Vilijos plytėjusiame Šventaragio slėnyje, pasak šaltinio, degė lietuvių garbinta amžinoji ugnis Gabija.","support_ids":["t-195153"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Teiginiai apie mažesniąją upę, pirmykštę gyvenvietę ir istorinius objektus paremti nurodytais šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta t-195135: Vilniaus vardas siejamas su Vilnia, o gyvenvietė – su Vilnios arba Vilnelės krantais."},{"sentence_id":"s3","supported":true,"reason":"T-195132 ir t-195136 patvirtina tvirtovę prie santakos, jos ryšį su Gediminu, aukštas sienas, tris bokštus ir buveinės perkėlimą."},{"sentence_id":"s4","supported":true,"reason":"T-195142 ir t-195159 tiesiogiai patvirtina 1522 metų popieriaus malūną bei jo vietą tarp Vilniaus vaivados malūno ir Charitonovo palivarko."},{"sentence_id":"s5","supported":true,"reason":"T-195153 tiesiogiai patvirtina Šventaragio slėnio vietą tarp Vilijos ir Vilnelės bei Gabijos amžinąją ugnį."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-195135","t-195136"]},{"sentence_id":"s2","supported":false,"support_ids":["t-195135"]},{"sentence_id":"s3","supported":false,"support_ids":["t-195132","t-195136"]},{"sentence_id":"s4","supported":false,"support_ids":["t-195142","t-195159"]},{"sentence_id":"s5","supported":false,"support_ids":["t-195153"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":22,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 761eb228ed012b9e
+object_page_generated_at: '2026-09-19T02:55:57+00:00'
+object_page_source_checked_at: '2026-09-19T02:55:57+00:00'
+object_page_content_state: content
+object_page_claim_count: '22'
+object_page_source_count: '1'
+object_page_seo_description: 'Vilnelė – mažesnioji upė, kurios krantai siejami su pirmykšte Vilniaus gyvenviete ir svarbiais miesto istorijos objektais. Šaltinis teigia, kad Vilniaus…'
+object_page_seo_input_hash: dd6441ae63b765485bddcc1acd9dd7c090f6b610cc66fd5c02d2d629e1bf9544
+object_page_seo_generated_at: '2026-09-19T02:55:57+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vilnelė
 
 ## Santrauka
 
 Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­ jėgęs tik vyriausias žynys Lizdeika išaiškinti. 73 Vilhelmas Habsburgas 281, 284- 286, 289 Vilhelmas Morenietis 166, 167, 180 Vilhelmas, Olandijos grafas 249 Vilija (Neris) 156 Vilikaila 162 Vilkaviškis 112 Vilkija 216 Vilkų Kampo kaimas 109 Vilnelė, upė 110, 244 Vilkolevičius, bajoras 368 Vilnius 5, 6.
+
+## Teiginiai
+
+<a id="claim-t-195132"></a>
+- t-001
+  teiginys: "Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Panaudota citatos dalis, kuri aiškiai susijusi su Vilnele."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177518
+
+<a id="claim-t-195133"></a>
+- t-002
+  teiginys: "Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata remiasi kitų autorių pasakojimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177522
+
+<a id="claim-t-195134"></a>
+- t-003
+  teiginys: "Man atrodo, kad jei Lietuvo je buvo keletas tokių šventų vieto vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177515
+
+<a id="claim-t-195135"></a>
+- t-004
+  teiginys: "Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177523
+
+<a id="claim-t-195136"></a>
+- t-005
+  teiginys: "Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citata apie tvirtovę prie Vilnelės žiočių."
+  susije_objektai: "mentioned_place: Vilija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177514
+
+<a id="claim-t-195137"></a>
+- t-006
+  teiginys: "Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177519
+
+<a id="claim-t-195138"></a>
+- t-007
+  teiginys: "Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys aiškiai nurodo Kiščinos valdas ir namus prie Vilnelės."
+  susije_objektai: "mentioned_place: Kaimas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Vitebskas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177513
+
+<a id="claim-t-195139"></a>
+- t-008
+  teiginys: "Nuo tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki Vilijos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Perrašyta į aiškesnį pilną sakinį be negrabios konstrukcijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177514
+
+<a id="claim-t-195140"></a>
+- t-009
+  teiginys: "Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio iš miesto į Užupį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys ir paremtas dovanojimo tekstu."
+  susije_objektai: "mentioned_place: Užupis; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177524
+
+<a id="claim-t-195141"></a>
+- t-010
+  teiginys: "1580 metais ant kalno prie Vilnelės, prie Kasparo Bekešo kapo, pastatytas apvalaus bokšto pavidalo paminklas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys aiškiai perteikia citatoje minimą paminklo pastatymą prie Vilnelės."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177512
+
+<a id="claim-t-195142"></a>
+- t-011
+  teiginys: "1522 m. prie Vilnelės iškilo popieriaus malūnas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Vilija; mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1522 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177517
+
+<a id="claim-t-195143"></a>
+- t-012
+  teiginys: "1580 m. ant kalno prie Vilnelės Kasparo Bekešo kapą pažymėjo apvalaus bokšto pavidalo paminklas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]; mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1580 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  ryšio_patikimumas: "susije_su -> Astikas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Astikas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Astikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177512
+
+<a id="claim-t-195144"></a>
+- t-013
+  teiginys: "1580 metais ant kalno prie Vilnelės Kasparo Bekešo kapui buvo pastatytas apvalaus bokšto pavidalo paminklas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pirminis teiginys ne apie objektą, bet citata remia faktą apie Vilnelę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177512
+
+<a id="claim-t-195145"></a>
+- t-014
+  teiginys: "Ten, kur Vilnelė įteka į Viliją, stovėjo Gedimino pastatydinta mūro tvirtovė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys apie Vilnelės žiotis."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177514
+
+<a id="claim-t-195146"></a>
+- t-015
+  teiginys: "VILNIAUS MIESTO ISTORIJA I TOMAS Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse įkurdavo savo valdžios buveines."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177521
+
+<a id="claim-t-195147"></a>
+- t-016
+  teiginys: "Narbutas Vilnios, arba Vilnelės, vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus."
+  atnaujinta: "2026-07-19 17:26"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Upės (Oppen) kaimas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177523
+
+<a id="claim-t-195148"></a>
+- t-017
+  teiginys: "Vilnia tekėjo kalnų apsupta vaga ir įtekėjo į Viliją ties Gedimino pastatyta mūro tvirtove."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata palaiko konkretų teiginį apie Vilnios vagą ir santaką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177512
+
+<a id="claim-t-195149"></a>
+- t-018
+  teiginys: "Pilies kalno pietų pusėje tarp kalno ir Vilnelės stovėjo didžiuliai Manvydo rūmai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys ir tiesiogiai atitinka citatą."
+  susije_objektai: "llm_object: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Manvydo rūmai; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva; mentioned_place: Vilija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177525
+
+<a id="claim-t-195150"></a>
+- t-019
+  teiginys: "Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Ilgas interpretacinis sakinys sutrumpintas ir priskirtas autoriui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177523
+
+<a id="claim-t-195151"></a>
+- t-020
+  teiginys: "Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio į Užupį, už Vilnelės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177524
+
+<a id="claim-t-195152"></a>
+- t-021
+  teiginys: "Vilnelė anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra gramatiškas ir tiksliai paremtas citatos geografiniu aprašymu."
+  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vingrių upokšnis"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177516
+
+<a id="claim-t-195153"></a>
+- t-022
+  teiginys: "Šventaragio slėnis buvo lanka tarp Vilijos ir Vilnelės, kur degė lietuvių garbinama amžinoji ugnis Gabija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys pilnai perteikia citatoje aprašytą Šventaragio slėnio vietą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija; mentioned_place: Šventaragio slėnis"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177525
+
+<a id="claim-t-195154"></a>
+- t-023
+  teiginys: "Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Patikslintas Aleksandro vaidmuo ir sakinys sutrumpintas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177524
+
+<a id="claim-t-195155"></a>
+- t-024
+  teiginys: "Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Vilija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177522
+
+<a id="claim-t-195156"></a>
+- t-025
+  teiginys: "Vilnia, arba Vilnelė, anuomet, atite kėjusi iš už Plikojo kalno, bėgo pro Pilies [gatvę], per senuosius roki tų mūrus, palei Pilies vartus, paskui per mažąjį turgų ir, apsukusi lankstu pi lies teritoriją, už dabartinės katedros įtekėjo į Viliją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177516
+
+<a id="claim-t-195157"></a>
+- t-026
+  teiginys: "Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata pateikia autoriaus atsargią interpretaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177522
+
+<a id="claim-t-195158"></a>
+- t-027
+  teiginys: "Vilnia, arba Vilnelė, anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys aiškiai perteikia citatoje aprašytą ankstesnę Vilnelės vagą."
+  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vingrių upokšnis"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177516
+
+<a id="claim-t-195159"></a>
+- t-028
+  teiginys: "1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys tiksliai nurodo popieriaus malūno datą ir vietą prie Vilnelės."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Vilnius; mentioned_place: Vilija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177517
+
+<a id="claim-t-195161"></a>
+- t-029
+  teiginys: "Gedimino legendoje medžioklė vyko kalne prie Neries ir Vilnelės santakos, o sapną Šventaragio slėnyje išaiškino Lizdeika."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177520
 
 ## Citatos
 
@@ -76,7 +435,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-177512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -101,10 +459,11 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-011
+  pagrindzia:
+    - t-010
     - t-012
+    - t-013
+    - t-017
 
 - id: c-177513
   autorius: "Michał Baliński"
@@ -139,7 +498,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-177514
@@ -164,9 +523,10 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-    - t-013
+    - t-008
+    - t-014
 
 - id: c-177515
   autorius: "Michał Baliński"
@@ -203,8 +563,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
     - t-003
 
 - id: c-177516
@@ -232,10 +591,10 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-    - t-022
-    - t-024
+  pagrindzia:
+    - t-021
+    - t-025
+    - t-027
 
 - id: c-177517
   autorius: "Michał Baliński"
@@ -260,9 +619,9 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-    - t-025
+  pagrindzia:
+    - t-011
+    - t-028
 
 - id: c-177518
   autorius: "Michał Baliński"
@@ -299,7 +658,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177519
@@ -326,7 +685,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-177520
@@ -349,8 +708,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-026
+  pagrindzia:
+    - t-029
 
 - id: c-177521
   autorius: "Michał Baliński"
@@ -379,8 +738,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
+  pagrindzia:
+    - t-015
 
 - id: c-177522
   autorius: "Michał Baliński"
@@ -420,9 +779,10 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-    - t-023
+    - t-024
+    - t-026
 
 - id: c-177523
   autorius: "Michał Baliński"
@@ -452,10 +812,10 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-    - t-015
-    - t-017
+    - t-016
+    - t-019
 
 - id: c-177524
   autorius: "Michał Baliński"
@@ -478,10 +838,10 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-018
-    - t-021
+  pagrindzia:
+    - t-009
+    - t-020
+    - t-023
 
 - id: c-177525
   autorius: "Michał Baliński"
@@ -504,321 +864,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-    - t-020
-
-## Teiginiai
-
-<a id="claim-t-195132"></a>
-- t-001
-  teiginys: "Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Panaudota citatos dalis, kuri aiškiai susijusi su Vilnele."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177515
-    - c-177518
-
-<a id="claim-t-195133"></a>
-- t-002
-  teiginys: "Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata remiasi kitų autorių pasakojimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177522
-
-<a id="claim-t-195134"></a>
-- t-003
-  teiginys: "Man atrodo, kad jei Lietuvo je buvo keletas tokių šventų vieto vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177515
-
-<a id="claim-t-195135"></a>
-- t-004
-  teiginys: "Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177523
-
-<a id="claim-t-195136"></a>
-- t-005
-  teiginys: "Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citata apie tvirtovę prie Vilnelės žiočių."
-  susije_objektai: "mentioned_place: Vilija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177514
-
-<a id="claim-t-195137"></a>
-- t-006
-  teiginys: "Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177519
-
-<a id="claim-t-195138"></a>
-- t-007
-  teiginys: "Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys aiškiai nurodo Kiščinos valdas ir namus prie Vilnelės."
-  susije_objektai: "mentioned_place: Kaimas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Vitebskas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177513
-
-<a id="claim-t-195140"></a>
-- t-008
-  teiginys: "Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio iš miesto į Užupį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys ir paremtas dovanojimo tekstu."
-  susije_objektai: "mentioned_place: Užupis; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177524
-
-<a id="claim-t-195141"></a>
-- t-009
-  teiginys: "1580 metais ant kalno prie Vilnelės, prie Kasparo Bekešo kapo, pastatytas apvalaus bokšto pavidalo paminklas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys aiškiai perteikia citatoje minimą paminklo pastatymą prie Vilnelės."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177512
-
-<a id="claim-t-195142"></a>
-- t-010
-  teiginys: "1522 m. prie Vilnelės iškilo popieriaus malūnas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Vilija; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1522 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177517
-
-<a id="claim-t-195143"></a>
-- t-011
-  teiginys: "1580 m. ant kalno prie Vilnelės Kasparo Bekešo kapą pažymėjo apvalaus bokšto pavidalo paminklas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1580 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  ryšio_patikimumas: "susije_su -> Astikas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Astikas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Astikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177512
-
-<a id="claim-t-195144"></a>
-- t-012
-  teiginys: "1580 metais ant kalno prie Vilnelės Kasparo Bekešo kapui buvo pastatytas apvalaus bokšto pavidalo paminklas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pirminis teiginys ne apie objektą, bet citata remia faktą apie Vilnelę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177512
-
-<a id="claim-t-195145"></a>
-- t-013
-  teiginys: "Ten, kur Vilnelė įteka į Viliją, stovėjo Gedimino pastatydinta mūro tvirtovė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys apie Vilnelės žiotis."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177514
-
-<a id="claim-t-195146"></a>
-- t-014
-  teiginys: "VILNIAUS MIESTO ISTORIJA I TOMAS Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse įkurdavo savo valdžios buveines."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177521
-
-<a id="claim-t-195147"></a>
-- t-015
-  teiginys: "Narbutas Vilnios, arba Vilnelės, vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Upės (Oppen) kaimas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177523
-
-<a id="claim-t-195149"></a>
-- t-016
-  teiginys: "Pilies kalno pietų pusėje tarp kalno ir Vilnelės stovėjo didžiuliai Manvydo rūmai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys ir tiesiogiai atitinka citatą."
-  susije_objektai: "llm_object: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Manvydo rūmai; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva; mentioned_place: Vilija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177525
-
-<a id="claim-t-195150"></a>
-- t-017
-  teiginys: "Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Ilgas interpretacinis sakinys sutrumpintas ir priskirtas autoriui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177523
-
-<a id="claim-t-195151"></a>
-- t-018
-  teiginys: "Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio į Užupį, už Vilnelės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177524
-
-<a id="claim-t-195152"></a>
-- t-019
-  teiginys: "Vilnelė anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra gramatiškas ir tiksliai paremtas citatos geografiniu aprašymu."
-  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vingrių upokšnis"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177516
-
-<a id="claim-t-195153"></a>
-- t-020
-  teiginys: "Šventaragio slėnis buvo lanka tarp Vilijos ir Vilnelės, kur degė lietuvių garbinama amžinoji ugnis Gabija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys pilnai perteikia citatoje aprašytą Šventaragio slėnio vietą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija; mentioned_place: Šventaragio slėnis"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177525
-
-<a id="claim-t-195154"></a>
-- t-021
-  teiginys: "Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Patikslintas Aleksandro vaidmuo ir sakinys sutrumpintas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177524
-
-<a id="claim-t-195156"></a>
-- t-022
-  teiginys: "Vilnia, arba Vilnelė, anuomet, atite kėjusi iš už Plikojo kalno, bėgo pro Pilies [gatvę], per senuosius roki tų mūrus, palei Pilies vartus, paskui per mažąjį turgų ir, apsukusi lankstu pi lies teritoriją, už dabartinės katedros įtekėjo į Viliją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177516
-
-<a id="claim-t-195157"></a>
-- t-023
-  teiginys: "Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata pateikia autoriaus atsargią interpretaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177522
-
-<a id="claim-t-195158"></a>
-- t-024
-  teiginys: "Vilnia, arba Vilnelė, anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys aiškiai perteikia citatoje aprašytą ankstesnę Vilnelės vagą."
-  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vingrių upokšnis"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177516
-
-<a id="claim-t-195159"></a>
-- t-025
-  teiginys: "1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys tiksliai nurodo popieriaus malūno datą ir vietą prie Vilnelės."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Vilnius; mentioned_place: Vilija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177517
-
-<a id="claim-t-195161"></a>
-- t-026
-  teiginys: "Gedimino legendoje medžioklė vyko kalne prie Neries ir Vilnelės santakos, o sapną Šventaragio slėnyje išaiškino Lizdeika."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177520
-
+  pagrindzia:
+    - t-018
+    - t-022

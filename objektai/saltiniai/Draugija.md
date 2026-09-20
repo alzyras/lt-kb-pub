@@ -26,6 +26,17 @@ media_all_json: |-
 
 Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą", iš kurio vėliau atsirado „Vienybė" ir „Draugija"). Taip pat Kaune išėjo pirmasis lietuviškas mokslo žurnalas „Draugija", kurį leido pralotas A.
 
+## Teiginiai
+
+<a id="claim-t-67373"></a>
+- t-001
+  teiginys: "„Draugija“ atsirado iš Šv. Kazimiero draugijos leisto „Nedėldienio Skaitymo“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67309
+
 ## Citatos
 
 - id: c-67309
@@ -45,17 +56,5 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-67373"></a>
-- t-001
-  teiginys: "„Draugija“ atsirado iš Šv. Kazimiero draugijos leisto „Nedėldienio Skaitymo“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67309
-

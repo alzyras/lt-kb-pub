@@ -33,6 +33,18 @@ media_all_json: |-
 
 (^118) « In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem » (LUB I, 243).
 
+## Teiginiai
+
+<a id="claim-t-99999"></a>
+- t-001
+  teiginys: "Formulė „In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem“ cituojama iš LUB I, 243."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:26:26Z"
+  pagrindžia:
+    - c-93941
+
 ## Citatos
 
 - id: c-93941
@@ -53,18 +65,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-99999"></a>
-- t-001
-  teiginys: "Formulė „In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem“ cituojama iš LUB I, 243."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:26:26Z"
-  pagrindžia:
-    - c-93941
-

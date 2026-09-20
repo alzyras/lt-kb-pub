@@ -42,6 +42,21 @@ Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livon
 
 Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livoniją, — Turaidoje, Kubeselėje, Metsepolėje, Holme, Lielvardėje, Remine, Ašeradėje, Vendene, Idūmėjoje ir Ropoję, šalyje jau buvo įsigalėjusi ramybė.
 
+## Teiginiai
+
+<a id="claim-t-205330"></a>
+- t-001
+  teiginys: "Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livoniją, — Turaidoje, Kubeselėje, Metsepolėje, Holme, Lielvardėje, Remine, Ašeradėje, Vendene, Idūmėjoje ir Ropoję, šalyje jau buvo įsigalėjusi ramybė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187781
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai per pačias pamaldas bažnyčioje už puolė Kubeselės kaimą, žmonės, išgirdę apie priešų artė jimą, spruko į miškus, šventovėje liko tik du kunigai su tarnu, kurie, jau ne kartą pagonims taip įsiveržus, vis sugebėdavo nepagauti išsisukti.'
@@ -80,43 +95,5 @@ Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-188184
-  šaltinis: "Lietuvių tautos istorija, t. 3"
-  puslapiai: "PDF 337"
-  indeksas: "Lietuvių tautos istorija, t. 3, PDF 337."
-  citata_originali: |
-    Naktį prieš
-    pat Kalėdas atvyko į Turaidos apylinkes, auštant persi­
-    kėlė per Gaujos upę ir siaubdami ką tik radę išsisklaidė
-    po valsčius. Vienus gyventojus užmušė, o didesnę dalį
-    paėmė į nelaisvę. Kai per pačias pamaldas bažnyčioje už­
-    puolė Kubeselės kaimą, žmonės, išgirdę apie priešų artė­
-    jimą, spruko į miškus, šventovėje liko tik du kunigai su
-    tarnu, kurie, jau ne kartą pagonims taip įsiveržus, vis
-    sugebėdavo nepagauti išsisukti.
-  citata_rodoma: "Kai per pačias pamaldas bažnyčioje už­\npuolė Kubeselės kaimą, žmonės, išgirdę apie priešų artė­\njimą, spruko į miškus, šventovėje liko tik du kunigai su \ntarnu, kurie, jau ne kartą pagonims taip įsiveržus, vis \nsugebėdavo nepagauti išsisukti."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-205330"></a>
-- t-001
-  teiginys: "Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livoniją, — Turaidoje, Kubeselėje, Metsepolėje, Holme, Lielvardėje, Remine, Ašeradėje, Vendene, Idūmėjoje ir Ropoję, šalyje jau buvo įsigalėjusi ramybė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-187781
-

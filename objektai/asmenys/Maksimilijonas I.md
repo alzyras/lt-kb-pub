@@ -1,10 +1,10 @@
 ---
 tipas: asmuo
-pavadinimas: 'Maksimilijonas I'
+pavadinimas: Maksimilijonas I
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1515 m.'
+  - 1515 m.
 date_start: '1515'
 date_end: ''
 sukurta: ''
@@ -13,28 +13,40 @@ tags:
   - valdovas
   - asmuo
 amziai:
-  - 'XVI'
+  - XVI
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d3d4bbc50b8fa3d93b8dc39c"
-canonical_name: "Maksimilijonas I"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Maksimilijonas I"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d3d4bbc50b8fa3d93b8dc39c
+canonical_name: Maksimilijonas I
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Maksimilijonas I
 sameAs: []
-canonical_biography: "Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš Žygimantą Senąjį, buvo suartėta su Habsburgais."
+canonical_biography: 'Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš Žygimantą Senąjį, buvo suartėta su Habsburgais.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:44:39+00:00","source_checked_at":"2026-09-20T11:44:39+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"4cb9f4320e113f209e37a2e1","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Imperatorius","context":"Šaltinis nurodo, kad Maksimilijonas I buvo sudaręs sąjungą su Maskva prieš Žygimantą Senąjį; sąjunga vėliau buvo suardyta, o suartėjimo su Habsburgais ryškiausia manifestacija įvyko 1515 m.","support_ids":["t-40325","c-44450"],"source_refs":[{"kind":"internal_claim","claim_id":"t-40325","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-44450","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš Žygimantą Senąjį, buvo suartėta su Habsburgais. To suartė- jimo ryškiausia manifestacija buvo 1515 m."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e769a7ee995fd7c5
+object_page_generated_at: '2026-09-20T11:44:39+00:00'
+object_page_source_checked_at: '2026-09-20T11:44:39+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Maksimilijonas I: Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš Žygimantą Senąjį, buvo suartėta su Habsburgais.'
+object_page_seo_input_hash: 68c3565cc2cad718384f84de7d980a3cba2c5f86aab77d0b7f210efd5c1b6ad4
+object_page_seo_generated_at: '2026-09-20T11:44:39+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Maksimilijonas I
 
@@ -44,46 +56,10 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
 
 ## Teiginiai
 
-<a id="claim-t-209458"></a>
-- t-209458
-  teiginys: "Dėl caro Mikalojaus I vainikavimo dvidešimt penktųjų metinių iš Valančiaus buvo pareikalauta išleisti laišką."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
-  pagrindžia:
-    - c-192078
-
-<a id="claim-t-209459"></a>
-- t-209459
-  teiginys: "Mikalojus I čia įvardijamas kaip Visų Maskolijų ciesorius."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
-  pagrindžia:
-    - c-192079
-
-<a id="claim-t-209460"></a>
-- t-209460
-  teiginys: "Šį laišką Valančius parašė gavęs oficialų nurody mą iškilmingai paminėti caro Mikalojaus I vainikavi mo 25-ąsias metines."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
-  pagrindžia:
-    - c-192080
-
 <a id="claim-t-40325"></a>
-- t-40325
+- t-001
   teiginys: "Imperatorius Maksimilijonas I buvo sudaręs sąjungą su Maskva prieš Žygimantą Senąjį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -99,9 +75,9 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
     - c-44450
 
 <a id="claim-t-193760"></a>
-- t-193760
+- t-002
   teiginys: "J 4 as 4 ) ANGLIJA a Atlanto vang etna < N Margaretą |."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -132,8 +108,8 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-40325
+  pagrindzia:
+    - t-001
 
 - id: c-176418
   sudarytojas: "Karolis Zikaras"
@@ -163,75 +139,5 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193760
-
-- id: c-192078
-  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
-  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
-  puslapiai: "PDF 7"
-  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 7."
-  citata_originali: |
-    Valančius,
-    aplenkdamas civilinę ir karinę kontrolę, dar bandė sporadiškai siuntinėti laiškus kai kurioms parapijoms
-    (Tytuvėnų, Balninkų) visiškai apolitiškais reikalais.
-    Reikia pasakyti, kad anuomet civilinės valdžios kišimosi į Bažnyčios gyvenimą niekad netrūko; šitai
-    matyti ir iš ganytojiškų laiškų turinio bei jų paskirties. Jau kitais metais po ingreso iš vyskupo Valančiaus
-    buvo pareikalauta išleisti laišką dėl caro Mikalojaus I vainikavimo dvidešimt penktųjų metinių.
-  citata_rodoma: "Jau kitais metais po ingreso iš vyskupo Valančiaus \nbuvo pareikalauta išleisti laišką dėl caro Mikalojaus I vainikavimo dvidešimt penktųjų metinių."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209458
-
-- id: c-192079
-  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
-  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
-  puslapiai: "PDF 26"
-  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 26."
-  citata_originali: |
-    Nuo įvedimo į mūsų šalį krikščioniško tikėjimo lig šios gadynės Žemaičiai turėjo jau trisdešimtis šešis
-    tikrus vyskupus, iš tų užvis minavotini ir sektini tarp daugel kitų yra: Motiejus I, Martynas III, Merkelis
-    Giedraitis, Jurgis su Antanu Tiškevičių ir pastaras Juozapas Giedraitis. Tam pasirinkus, Galingiausias ir
-    Šviesiausias Visų Maskolijų ciesorius MIKALOJUS I per gerybę savą meilingai žvilgterėjo ant reikalų
-    žmonių savo. O Tėvas Šventasis, sėdįs šiandien ant Stalyčios Apaštalų, Pijus IX, būdamas slaptinėj
-    rodoj savo, 28 d. birželio 1849 meto priemiesty Neapolio, vadinamo Portiči, pakėlė mane į vyskupus
-    jūsų.
-  citata_rodoma: "Tam pasirinkus, Galingiausias ir \nŠviesiausias Visų Maskolijų ciesorius MIKALOJUS I per gerybę savą meilingai žvilgterėjo ant reikalų \nžmonių savo. O Tėvas Šventasis, sėdįs šiandien ant Stalyčios Apaštalų, Pijus IX, būdamas slaptinėj \nrodoj savo, 28 d. birželio 1849 meto priemiesty Neapolio, vadinamo Portiči, pakėlė mane į vyskupus \njūsų."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209459
-
-- id: c-192080
-  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
-  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
-  puslapiai: "PDF 29"
-  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 29."
-  citata_originali: |
-    177-181, be datos.
-    N e p u b l i k u o t a s .
-    Šį laišką Valančius parašė gavęs oficialų nurody­
-    mą iškilmingai paminėti caro Mikalojaus I vainikavi­
-    mo 25-ąsias metines.
-  citata_rodoma: "Šį laišką Valančius parašė gavęs oficialų nurody­\nmą iškilmingai paminėti caro Mikalojaus I vainikavi­\nmo 25-ąsias metines."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209460
-
+  pagrindzia:
+    - t-002

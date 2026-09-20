@@ -28,6 +28,21 @@ Narbutas nurodo, kad Stela viename šaltinyje rado žinią apie litalanų žygį
 
 Narbutas nurodo, kad Stela viename šaltinyje rado žinią apie litalanų žygį į romėnų šalis ir jų žūtį 366 m. kautynėse su sigambriais.
 
+## Teiginiai
+
+<a id="claim-t-205407"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad Stela viename šaltinyje rado žinią apie litalanų žygį į romėnų šalis ir jų žūtį 366 m. kautynėse su sigambriais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187693
+
 ## Citatos
 
 - id: c-187693
@@ -48,21 +63,5 @@ Narbutas nurodo, kad Stela viename šaltinyje rado žinią apie litalanų žygį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205407"></a>
-- t-001
-  teiginys: "Narbutas nurodo, kad Stela viename šaltinyje rado žinią apie litalanų žygį į romėnų šalis ir jų žūtį 366 m. kautynėse su sigambriais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-187693
-

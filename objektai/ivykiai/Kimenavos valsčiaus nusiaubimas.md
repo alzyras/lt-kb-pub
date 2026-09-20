@@ -1,30 +1,27 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kimenavos valsčiaus nusiaubimas'
+pavadinimas: Kimenavos valsčiaus nusiaubimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1000 m.'
-  - '1500 m.'
+  - 1000 m.
+  - 1500 m.
 date_start: '1000'
 date_end: '1500'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'X'
-  - 'XV'
+  - X
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kimenavos valsčiaus nusiaubimas
 
@@ -80,6 +77,5 @@ Konradas iš Tirbergo su 1500 raitelių nusiaubė Kimenavos valsčių, paėmė 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

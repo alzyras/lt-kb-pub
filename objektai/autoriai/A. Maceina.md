@@ -41,30 +41,12 @@ canonical_biography: "Maceina, Filosofijos kilmė ir prasmė, XII-328 psl. Roma 
 
 Maceina, Filosofijos kilmė ir prasmė, XII-328 psl. Roma 1978.
 
-## Citatos
-
-- id: c-29195
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 419"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 419."
-  citata_originali: |
-    A. Maceina, Filosofijos kilmė ir prasmė, XII-328 psl.
-    Roma 1978. 16 dol.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-29290"></a>
 - t-001
   teiginys: "A. Maceina yra 1978 m. Romoje išleisto veikalo „Filosofijos kilmė ir prasmė“ autorius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Roma: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,3 +62,20 @@ Maceina, Filosofijos kilmė ir prasmė, XII-328 psl. Roma 1978.
   pagrindžia:
     - c-29195
 
+## Citatos
+
+- id: c-29195
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 419"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 419."
+  citata_originali: |
+    A. Maceina, Filosofijos kilmė ir prasmė, XII-328 psl.
+    Roma 1978. 16 dol.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

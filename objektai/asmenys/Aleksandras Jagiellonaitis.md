@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Aleksandras Jagiellonaitis'
+pavadinimas: Aleksandras Jagiellonaitis
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1505 m.'
+  - 1505 m.
 date_start: '1505'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVI'
+  - XVI
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f6adb2c825986f8a8705bd38"
-canonical_name: "Aleksandras Jagiellonaitis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Aleksandras Jagiellonaitis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f6adb2c825986f8a8705bd38
+canonical_name: Aleksandras Jagiellonaitis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Aleksandras Jagiellonaitis
 sameAs: []
-canonical_biography: "Aleksandras atvyko ( Lietuvos ir Lenkijos atstovų suvažia vimų (seimą) Brastoje 1505 m. sausio 11 d."
+canonical_biography: Aleksandras atvyko ( Lietuvos ir Lenkijos atstovų suvažia vimų (seimą) Brastoje 1505 m. sausio 11 d.
 ---
 # Aleksandras Jagiellonaitis
 
@@ -73,6 +72,5 @@ Aleksandras atvyko ( Lietuvos ir Lenkijos atstovų suvažia vimų (seimą) Brast
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

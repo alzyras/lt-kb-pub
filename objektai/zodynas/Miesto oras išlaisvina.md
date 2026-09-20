@@ -28,6 +28,20 @@ Europoje ir Lietuvos Didžiojoje Kunigaikštystėje galiojo principas „miesto 
 
 Europoje ir Lietuvos Didžiojoje Kunigaikštystėje galiojo principas „miesto oras išlaisvina“.
 
+## Teiginiai
+
+<a id="claim-t-203761"></a>
+- t-001
+  teiginys: "Europoje ir Lietuvos Didžiojoje Kunigaikštystėje galiojo principas „miesto oras išlaisvina“."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186365
+
 ## Citatos
 
 - id: c-186365
@@ -46,20 +60,5 @@ Europoje ir Lietuvos Didžiojoje Kunigaikštystėje galiojo principas „miesto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203761"></a>
-- t-001
-  teiginys: "Europoje ir Lietuvos Didžiojoje Kunigaikštystėje galiojo principas „miesto oras išlaisvina“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186365
-

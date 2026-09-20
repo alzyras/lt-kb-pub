@@ -36,6 +36,51 @@ historical_names: []
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-204360"></a>
+- t-001
+  teiginys: "1413 m. Horodlės dokumentuose bendri lenkų ir lietuvių bajorų suvažiavimai buvo numatyti Liubline arba Parčeve."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1413 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo suvažiavimų vietas, pobūdį ir datą. Jis atitinka citatoje pateiktą informaciją."
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-186964
+
+<a id="claim-t-204361"></a>
+- t-002
+  teiginys: "1453 m. Kazimieras į Parčevą pakvietė lenkų ir lietuvių kilminguosius, numatydamas po du bajorus iš kiekvienos herbinės giminės."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1453 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys tiksliai perteikia Kazimiero kvietimą, dalyvius ir numatytą atstovavimo principą. Nepagrįstų detalių nėra."
+  pagrindžia:
+    - c-186965
+
+<a id="claim-t-204362"></a>
+- t-003
+  teiginys: "1453 m. Parčevo suvažiavimas baigėsi nesėkme, nes Ordino žiniomis lietuvių atvyko labai mažai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-186966
+
 ## Citatos
 
 - id: c-186964
@@ -53,7 +98,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186965
@@ -75,7 +120,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-186966
@@ -99,51 +144,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-204360"></a>
-- t-001
-  teiginys: "1413 m. Horodlės dokumentuose bendri lenkų ir lietuvių bajorų suvažiavimai buvo numatyti Liubline arba Parčeve."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1413 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo suvažiavimų vietas, pobūdį ir datą. Jis atitinka citatoje pateiktą informaciją."
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-186964
-
-<a id="claim-t-204361"></a>
-- t-002
-  teiginys: "1453 m. Kazimieras į Parčevą pakvietė lenkų ir lietuvių kilminguosius, numatydamas po du bajorus iš kiekvienos herbinės giminės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1453 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys tiksliai perteikia Kazimiero kvietimą, dalyvius ir numatytą atstovavimo principą. Nepagrįstų detalių nėra."
-  pagrindžia:
-    - c-186965
-
-<a id="claim-t-204362"></a>
-- t-003
-  teiginys: "1453 m. Parčevo suvažiavimas baigėsi nesėkme, nes Ordino žiniomis lietuvių atvyko labai mažai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  pagrindžia:
-    - c-186966
-

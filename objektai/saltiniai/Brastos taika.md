@@ -35,6 +35,23 @@ media_all_json: |-
 
 1447 ir 1448 m. sandūroje Vilniuje vykusiame susirinkime Brastos taiką prisiekti susirinko tik tam įsipareigoję kunigaikščiai ir didikai.
 
+## Teiginiai
+
+<a id="claim-t-204417"></a>
+- t-001
+  teiginys: "1447 ir 1448 m. sandūroje Vilniuje vykusiame susirinkime Brastos taiką prisiekti susirinko tik tam įsipareigoję kunigaikščiai ir didikai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1448 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus sakinys apie Brastos taikos priesaikos aplinkybes ir atitinka šaltinio dalyvių apibūdinimą. Šaltinio interpretacija neperžengta."
+  pagrindžia:
+    - c-187021
+
 ## Citatos
 
 - id: c-187021
@@ -58,23 +75,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204417"></a>
-- t-001
-  teiginys: "1447 ir 1448 m. sandūroje Vilniuje vykusiame susirinkime Brastos taiką prisiekti susirinko tik tam įsipareigoję kunigaikščiai ir didikai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1448 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus sakinys apie Brastos taikos priesaikos aplinkybes ir atitinka šaltinio dalyvių apibūdinimą. Šaltinio interpretacija neperžengta."
-  pagrindžia:
-    - c-187021
-

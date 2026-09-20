@@ -34,6 +34,26 @@ canonical_biography: "Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus H
 
 Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą), tai jo kelionėje užteko Vytauto kepurės, kaip „lydimojo rašto“ per totorių žemes.
 
+## Teiginiai
+
+<a id="claim-t-35079"></a>
+- t-001
+  teiginys: "Gilbert de Lannoy kelionėje į Krymą per totorių žemes Vytauto kepurė atstojo lydimąjį raštą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Krymas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gilbert de Lannoy: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gilbert de Lannoy kelionę į Krymą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Gilbert de Lannoy keliavo į Krymas (0.94)"
+  vertinimo_atnaujinta: "2026-06-13T14:24:50Z"
+  pagrindžia:
+    - c-38019
+
 ## Citatos
 
 - id: c-38019
@@ -54,29 +74,8 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Gilbert de Lannoy keliavo į [[objektai/vietos/Krymas]]
-
-## Teiginiai
-
-<a id="claim-t-35079"></a>
-- t-001
-  teiginys: "Gilbert de Lannoy kelionėje į Krymą per totorių žemes Vytauto kepurė atstojo lydimąjį raštą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krymas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gilbert de Lannoy: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gilbert de Lannoy kelionę į Krymą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Gilbert de Lannoy keliavo į Krymas (0.94)"
-  vertinimo_atnaujinta: "2026-06-13T14:24:50Z"
-  pagrindžia:
-    - c-38019
-

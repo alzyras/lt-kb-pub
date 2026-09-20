@@ -43,6 +43,27 @@ canonical_biography: "sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas 
 
 sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Karolio Jastržembskio, susikovė su gen.
 
+## Teiginiai
+
+<a id="claim-t-40271"></a>
+- t-001
+  teiginys: "Karolio Jastržembskio vadovaujamas 200 sukilėlių būrys susikovė su generolo majoro Suchodolskio kavalerijos daliniu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Suchodolskis: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karolis Jastržembskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Suchodolskis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Karolio Jastržembskio vadovaujamas būrys susikovė su Suchodolskio daliniu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Karolis Jastržembskis kariavo prieš Suchodolskis (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1863-1864; įvykio data: 1864 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-44415
+
 ## Citatos
 
 - id: c-44415
@@ -67,27 +88,5 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-40271"></a>
-- t-001
-  teiginys: "Karolio Jastržembskio vadovaujamas 200 sukilėlių būrys susikovė su generolo majoro Suchodolskio kavalerijos daliniu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Suchodolskis: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karolis Jastržembskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Suchodolskis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Karolio Jastržembskio vadovaujamas būrys susikovė su Suchodolskio daliniu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Karolis Jastržembskis kariavo prieš Suchodolskis (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1863-1864; įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-44415
-

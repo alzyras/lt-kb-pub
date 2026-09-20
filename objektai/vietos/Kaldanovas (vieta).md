@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Kaldanovas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Kaldanovas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Kaldanovas'
+  - Kaldanovas
 aliases:
-  - 'Kaldanovas'
+  - Kaldanovas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4beca8850cb8478ef0042f3b"
-canonical_name: "Kaldanovas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kaldanovas","Kaldanovas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4beca8850cb8478ef0042f3b
+canonical_name: Kaldanovas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kaldanovas
+  - Kaldanovas (vieta)
 sameAs: []
-canonical_biography: "Kaldanovas buvo dabartinės BTSR Minsko srities miestas Dzeržinskas ir XVI a. buvo į šiaurę nuo Naugarduko vaivadijos sienos."
+canonical_biography: Kaldanovas buvo dabartinės BTSR Minsko srities miestas Dzeržinskas ir XVI a. buvo į šiaurę nuo Naugarduko vaivadijos sienos.
 ---
 # Kaldanovas (vieta)
 
@@ -70,6 +70,5 @@ Kaldanovas buvo dabartinės BTSR Minsko srities miestas Dzeržinskas ir XVI a. b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

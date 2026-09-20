@@ -3,44 +3,57 @@ tipas: asmuo
 pavadinimas: 'Motiejus Valančius (vyskupas, XIX a.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-  - 'Lenkai Lietuvoje Dr. J. Basanavičius'
+  - Lenkai Lietuvoje Dr. J. Basanavičius
 datos:
-  - '1849 m.'
-  - '1865 m.'
+  - 1849 m.
+  - 1865 m.
 date_start: '1849'
 date_end: '1865'
 variantai:
-  - 'Motiejus Valančius'
+  - Motiejus Valančius
 aliases:
-  - 'Motiejus Valančius'
+  - Motiejus Valančius
 sukurta: ''
 atnaujinta: ''
 tags:
   - vyskupas
   - asmuo
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a659b6007ea57dae6a75709f"
-canonical_name: "Motiejus Valančius (vyskupas, XIX a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Motiejus Valančius","Motiejus Valančius (vyskupas, XIX a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a659b6007ea57dae6a75709f
+canonical_name: 'Motiejus Valančius (vyskupas, XIX a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Motiejus Valančius
+  - 'Motiejus Valančius (vyskupas, XIX a.)'
 sameAs: []
-canonical_biography: "Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo europietiškos katalikiškos civilizacijos šalininkas. Valančius niekur nepasisakė prieš caro valdžią, pagarbiai bendravo su jos atstovais, tačiau kietai ir atkakliai gynė Katalikų bažnyčios interesus. Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba."
+canonical_biography: 'Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo europietiškos katalikiškos civilizacijos šalininkas. Valančius niekur nepasisakė prieš caro valdžią, pagarbiai bendravo su jos atstovais, tačiau kietai ir atkakliai gynė Katalikų bažnyčios interesus. Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba.'
+external_sources_json: '[{"title":"Motiejus Valančius","url":"https://lt.wikipedia.org/wiki/Motiejus_Valan%C4%8Dius","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Motiejus Valančius","url":"https://www.vle.lt/straipsnis/motiejus-valancius/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-18T23:37:17+00:00","source_checked_at":"2026-09-18T23:37:17+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Motiejus Valančius","url":"https://lt.wikipedia.org/wiki/Motiejus_Valan%C4%8Dius","publisher":"Vikipedija","language":"lt","article_id":"23702","revision_id":"7882642","published_at":"2026-07-20T18:48:28Z","version_pk":"","content_hash":"c078c30ea1efbca9383c865b050747f74410ee7a42f665d06fd1ae0381cc01f9","retrieved_at":"2026-09-18T23:36:06+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Motiejus_Valan%C4%8Dius&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"23702"}},"intro":"Motiejus Kazimieras Valančius (1801 m. vasario 16 d. – 1875 m. gegužės 17 d. pagal Julijaus kalendorių) – Žemaičių vyskupas (1849–1875 m.), švietėjas, rašytojas, istorikas, blaivybės sąjūdžio organizatorius. M. Valančius padėjo pagrindus aukštesnio meninio lygio lietuvių realistinei prozai, kuri paskutiniajame XIX a. dešimtmetyje užėmė pirmaujančią vietą lietuvių literatūroje.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1801 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Nasrėnai, Salantų valsčius","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1875 m.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Kaunas","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Arkikatedros bazilikos","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Mykolas Valančius; Ona Stonkutė-Valančienė","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Motiejus Valančius","url":"https://lt.wikipedia.org/wiki/Motiejus_Valan%C4%8Dius","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Motiejus Valančius","url":"https://www.vle.lt/straipsnis/motiejus-valancius/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Motiejus_Valan%C4%8Dius","https://www.vle.lt/straipsnis/motiejus-valancius/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3797e3348d529aeacc106735","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Žemaičių vyskupas","context":"Šaltinyje jis įvardijamas kaip Žemaičių vyskupas; laikotarpis ir data nenurodyti.","support_ids":["t-209464","c-192084"],"source_refs":[{"kind":"internal_claim","claim_id":"t-209464","source":"darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md"},{"kind":"evidence","evidence_id":"c-192084","source":"darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md","quote":"Motiejus Valančauskis, Žemaičių vyskupas, su savo ranka."}],"status":"published","conflict_status":"clear"},{"trait_id":"4fb0c890eb12adada8a4442f","canonical_code":"person.habits","label":"Įpročiai","group":"Asmens bruožai","value":"Nuo 1856 m. domėjosi blaivybės brolijų veikimu Lenkijos Karalystėje.","context":"Tai nurodyta Motiejaus Valančiaus dienoraščio pastabų aprašyme; nuo 1856 m., Lenkijos Karalystės blaivybės brolijų kontekste.","support_ids":["t-208491","c-191111"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208491","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md"},{"kind":"evidence","evidence_id":"c-191111","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md","quote":"Kiek kitaip savo dienoraščio pastabose pirmuosius blaivybės brolijų, žingsnius Žemaičių (Teisių) vyskupystėje aprašė pats Motiejus Valančius. Apie užsienyje plintantį judėjimą jis buvo girdėjęs ir skaitęs anksčiau. NUo 1856 m. domėjosi, kaip blaivybės brolijos veikia Lenkijos Karalystėje11."}],"status":"published","conflict_status":"clear"},{"trait_id":"12684a66aa3a484772f36b0f","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Lietuviškus ganytojiškus laiškus pasirašinėjo „Motiejus Wiskupas“.","context":"Šaltinis aprašo jo laiškų pasirašymo būdą; laikotarpis nenurodytas.","support_ids":["t-209461","c-192081"],"source_refs":[{"kind":"internal_claim","claim_id":"t-209461","source":"darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md"},{"kind":"evidence","evidence_id":"c-192081","source":"darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md","quote":"Valančius lietuviškus ganytojiškus laiškus pasirašinėjo: Motiejus Wiskupas."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 9db2823ad6fb8461
+object_page_generated_at: '2026-09-18T23:37:17+00:00'
+object_page_source_checked_at: '2026-09-18T23:37:17+00:00'
+object_page_content_state: content
+object_page_claim_count: '68'
+object_page_source_count: '2'
+object_page_seo_description: 'Motiejus Valančius (vyskupas, XIX a.): Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo europietiškos katalikiškos…'
+object_page_seo_input_hash: 74673c647a69c7fca39a4666c42194666d0fcf97dd2d6927272cc2de3f6cd39a
+object_page_seo_generated_at: '2026-09-18T23:37:17+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Motiejus Valančius (vyskupas, XIX a.)
 
@@ -163,7 +176,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-192085
 
 <a id="claim-t-208492"></a>
-- t-208492
+- t-009
   teiginys: "1864 m. dėl caro valdžios draudimo lankyti parapijas Motiejus Valančius aplankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Čekiškę."
   atnaujinta: "2026-09-13 13:22"
   sprendimo_priezastis: "auto"
@@ -179,7 +192,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191112
 
 <a id="claim-t-208497"></a>
-- t-208497
+- t-010
   teiginys: "1864 m. rugsėjo 14 d. aplinkraščiu Motiejus Valančius nurodė kunigams atlikti rekolekcijas ir tais atvejais, kai dėl valdžios draudimo jie negalėjo į jas susirinkti."
   atnaujinta: "2026-09-13 13:22"
   sprendimo_priezastis: "auto"
@@ -192,7 +205,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191117
 
 <a id="claim-t-208512"></a>
-- t-208512
+- t-011
   teiginys: "Motiejus Valančius draudė naudoti prievartą blaivybei skleisti ir dėl to išsiuntė kunigams du aplinkraščius."
   atnaujinta: "2026-09-13 13:24"
   sprendimo_priezastis: "auto"
@@ -205,7 +218,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191132
 
 <a id="claim-t-209258"></a>
-- t-209258
+- t-012
   teiginys: "1860 m. rudenį Motiejus Valančius dalyvavo Vilniuje surengtame Aleksandro II iškilmingame priėmime."
   atnaujinta: "2026-09-13 13:24"
   sprendimo_priezastis: "auto"
@@ -221,7 +234,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191972
 
 <a id="claim-t-209266"></a>
-- t-209266
+- t-013
   teiginys: "1860 m. Rusijos vyriausybė atmetė finansų ministro A. Kniaževičiaus pasiūlymą iškelti iš diecezijos blaivybės judėjimo organizatorių vyskupą Motiejų Valančių."
   atnaujinta: "2026-09-13 13:24"
   sprendimo_priezastis: "auto"
@@ -237,7 +250,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191877
 
 <a id="claim-t-208475"></a>
-- t-208475
+- t-014
   teiginys: "Valančius turėjo daug mažiau kunigų negu jų reikėjo."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -250,7 +263,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191095
 
 <a id="claim-t-208476"></a>
-- t-208476
+- t-015
   teiginys: "Motiejus Valančius pradėjo valdyti vyskupiją dar baudžiavos laikais."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -263,7 +276,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191096
 
 <a id="claim-t-208477"></a>
-- t-208477
+- t-016
   teiginys: "Petras Puzaras rašo, kad vyskupas M. Valančius negalėjo pataikauti turtingiesiems, nes regėjo jų neteisingumą ir ištvirkimą."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -276,7 +289,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191097
 
 <a id="claim-t-208478"></a>
-- t-208478
+- t-017
   teiginys: "Petras Puzaras daro išvadą, kad vyskupas M. Valančius, matyt, buvo įtakingas pamokslininkas."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -289,7 +302,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191098
 
 <a id="claim-t-208479"></a>
-- t-208479
+- t-018
   teiginys: "Petras Puzaras teigia, kad vyskupas M. Valančius, atsižvelgdamas į menką tikinčiųjų religinį sąmoningumą, labiau vertino katekizmo aiškinimą nei pamokslus."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -302,7 +315,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191099
 
 <a id="claim-t-208480"></a>
-- t-208480
+- t-019
   teiginys: "Dėl civilinės valdžios reikalavimų Motiejus Valančius pateikė lenkiškų pamokslų cenzorių sąrašą, o lietuviškų pamokslų knygą parengti pavedė Otonui Praniauskui."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -315,7 +328,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191100
 
 <a id="claim-t-208481"></a>
-- t-208481
+- t-020
   teiginys: "Matydamas prastą vyskupijos bažnyčių būklę, Motiejus Valančius organizavo naujų bažnyčių statybą ir pats vadovavo šiam darbui."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -328,7 +341,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191101
 
 <a id="claim-t-208482"></a>
-- t-208482
+- t-021
   teiginys: "Motiejus Valančius rūpinosi bažnyčių statyba ir Kuršo gubernijoje."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -341,7 +354,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191102
 
 <a id="claim-t-208483"></a>
-- t-208483
+- t-022
   teiginys: "I. Holovinskio patariamas, Motiejus Valančius nuosekliai rinko ir rėmė jaunąją kunigų kartą, daugiausia buvusius savo mokinius."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -354,7 +367,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191103
 
 <a id="claim-t-208484"></a>
-- t-208484
+- t-023
   teiginys: "Motiejus Valančius rūpinosi, kad vyskupija turėtų savo architektą."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -367,7 +380,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191104
 
 <a id="claim-t-208485"></a>
-- t-208485
+- t-024
   teiginys: "Motiejus Valančius ragino statyti tik mūrines bažnyčias."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -380,7 +393,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191105
 
 <a id="claim-t-208486"></a>
-- t-208486
+- t-025
   teiginys: "Motiejaus Valančiaus rūpesčiu Žemaičių vyskupijoje buvo pastatytos 49 naujos bažnyčios."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -393,7 +406,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191106
 
 <a id="claim-t-208487"></a>
-- t-208487
+- t-026
   teiginys: "Motiejus Valančius iki mirties gynė Bažnyčios liturginius nuostatus."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -406,7 +419,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191107
 
 <a id="claim-t-208489"></a>
-- t-208489
+- t-027
   teiginys: "Motiejus Valančius reikalavo, kad jam pavaldūs kunigai būtų stropūs ir geri nuodėmklausiai, todėl įpareigojo dekanus per metines vizitacijas juos egzaminuoti apie rezervuotas nuodėmes."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -419,7 +432,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191109
 
 <a id="claim-t-208490"></a>
-- t-208490
+- t-028
   teiginys: "Motiejus Valančius ypač stropiai lankė parapijas."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -432,7 +445,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191110
 
 <a id="claim-t-208491"></a>
-- t-208491
+- t-029
   teiginys: "Savo dienoraščio pastabose Motiejus Valančius aprašė pirmuosius blaivybės brolijų žingsnius Žemaičių vyskupystėje ir nuo 1856 m. domėjosi jų veikla Lenkijos Karalystėje."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -448,7 +461,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191111
 
 <a id="claim-t-208494"></a>
-- t-208494
+- t-030
   teiginys: "Motiejus Valančius iškovojo leidimą į seminariją priimti progimnaziją, t. y. keturias gimnazijos klases, baigusius asmenis."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -461,7 +474,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191114
 
 <a id="claim-t-208495"></a>
-- t-208495
+- t-031
   teiginys: "Organizuodamas kunigų švietimą, Motiejus Valančius daug dėmesio skyrė ir jų dvasiniam gyvenimui."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -474,7 +487,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191115
 
 <a id="claim-t-208496"></a>
-- t-208496
+- t-032
   teiginys: "Motiejus Valančius rūpinosi, kad kunigai atliktų metines rekolekcijas."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -486,7 +499,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191116
 
 <a id="claim-t-208499"></a>
-- t-208499
+- t-033
   teiginys: "Valančius susirūpino kunigų invalidų likimu."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -498,7 +511,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191119
 
 <a id="claim-t-208500"></a>
-- t-208500
+- t-034
   teiginys: "Vyskupas Motiejus Valančius vienoje knygoje atpasakoja 67 svarbiausius Senojo Testamento istorijos įvykius."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -511,7 +524,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191120
 
 <a id="claim-t-208502"></a>
-- t-208502
+- t-035
   teiginys: "Antrojoje knygos „Žiwataj Szwęntuju“ dalyje vyskupas Motiejus Valančius aprašo 68 šventųjų gyvenimus."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -524,7 +537,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191122
 
 <a id="claim-t-208503"></a>
-- t-208503
+- t-036
   teiginys: "Vysk. M. Valančius pats rašė religinio turinio knygas ir skatino kunigus jas kurti."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -536,7 +549,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191123
 
 <a id="claim-t-208504"></a>
-- t-208504
+- t-037
   teiginys: "Motiejus Valančius suorganizavo slaptą katalikiškos lietuviškos literatūros leidimą Prūsijoje ir jos gabenimą į Lietuvą, taip pradėdamas knygnešystę."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -549,7 +562,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191124
 
 <a id="claim-t-208505"></a>
-- t-208505
+- t-038
   teiginys: "Petras Puzaras Valančių vaizduoja kaip negalėjusį abejingai žiūrėti į geriančius savo ganomuosius ir dėl to suorganizavusį visą vyskupiją apimančią blaivybės akciją."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -562,7 +575,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191125
 
 <a id="claim-t-208506"></a>
-- t-208506
+- t-039
   teiginys: "Grįždamas iš Kauno, vyskupas Motiejus Valančius aplankė Skirsnemunę ir Jurbarką, kur skatino blaivybę."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -575,7 +588,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191126
 
 <a id="claim-t-208507"></a>
-- t-208507
+- t-040
   teiginys: "Valančiui vadovaujant blaivybės sąjūdis greitai apėmė visą vyskupiją."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -587,7 +600,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191127
 
 <a id="claim-t-208508"></a>
-- t-208508
+- t-041
   teiginys: "Valančius parašė 13 pastoracinių blaivybės laiškų."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -599,7 +612,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191128
 
 <a id="claim-t-208509"></a>
-- t-208509
+- t-042
   teiginys: "1862 m. gruodžio 14 d. vyskupas Motiejus Valančius parašė antrąjį blaivybės laišką dvarininkams."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -612,7 +625,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191129
 
 <a id="claim-t-208511"></a>
-- t-208511
+- t-043
   teiginys: "Motiejus Valančius, esant galimybei, blaivybės reikalu prašydavo pagalbos ir iš oficialių valdžios pareigūnų."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -625,7 +638,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191131
 
 <a id="claim-t-208514"></a>
-- t-208514
+- t-044
   teiginys: "Kai civilinės valdžios įstaigos užstodavo piktintoją, vyskupas M. Valančius kreipdavosi į aukštesnę valdžią."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -638,7 +651,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191134
 
 <a id="claim-t-208515"></a>
-- t-208515
+- t-045
   teiginys: "Petras Puzaras pabrėžia, kad vyskupas M. Valančius ypatingą dėmesį skyrė mergaičių doriniam auklėjimui."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -651,7 +664,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191135
 
 <a id="claim-t-208516"></a>
-- t-208516
+- t-046
   teiginys: "Valančius savo namuose turėdavo maišus miltų, kuriuos dalydavo neturtingiesiems."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -663,7 +676,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191136
 
 <a id="claim-t-208518"></a>
-- t-208518
+- t-047
   teiginys: "Susitikęs su vaikais, vyskupas Motiejus Valančius mokė juos darbštumo, švaros ir pamaldumo."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -676,7 +689,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191138
 
 <a id="claim-t-208519"></a>
-- t-208519
+- t-048
   teiginys: "Valančius ypač rūpinosi našlaičiais."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -688,7 +701,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191139
 
 <a id="claim-t-209264"></a>
-- t-209264
+- t-049
   teiginys: "XIX a. viduryje Motiejus Valančius buvo blaivybės brolijų organizatorius."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -701,7 +714,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191926
 
 <a id="claim-t-209324"></a>
-- t-209324
+- t-050
   teiginys: "Vizitacijos metu vyskupas Motiejus Valančius aplankė rytines ir centrines Žemaičių vyskupystės parapijas ir į knygas įrašė prisiekusius nebegerti degtinės žmones."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -714,7 +727,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191958
 
 <a id="claim-t-209337"></a>
-- t-209337
+- t-051
   teiginys: "Motiejaus Valančiaus veiklumas blaivybės labui Žemaičių vyskupijoje, autoriaus cituojamu vertinimu, išplėtė judėjimo ribas ir pritraukė milijoninę minią."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -727,7 +740,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191897
 
 <a id="claim-t-209369"></a>
-- t-209369
+- t-052
   teiginys: "Istoriografijoje blaivybės judėjimas, Motiejaus Valančiaus akcija Žemaičių vyskupijoje ir blaivybės brolijos nebuvo laikomi labiau apleistomis temomis."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -740,7 +753,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-191884
 
 <a id="claim-t-209461"></a>
-- t-209461
+- t-053
   teiginys: "Lietuviškus ganytojiškus laiškus jis pasirašinėjo „Motiejus Wiskupas“."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -753,7 +766,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-192081
 
 <a id="claim-t-209462"></a>
-- t-209462
+- t-054
   teiginys: "Valančius gavo popiežiaus bulę dėl paskyrimo Žemaičių vyskupu ir rengė specialų ganytojišką laišką katalikams."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -766,7 +779,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-192082
 
 <a id="claim-t-209463"></a>
-- t-209463
+- t-055
   teiginys: "Valančius peradresavo ganytojišką laišką Skapiškio ir Kamajų parapijoms Kulių, Vainuto ir Veliuonos parapijoms."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -779,7 +792,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-192083
 
 <a id="claim-t-209464"></a>
-- t-209464
+- t-056
   teiginys: "Motiejus Valančauskis, Žemaičių vyskupas, su savo ranka."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -792,7 +805,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-192084
 
 <a id="claim-t-209466"></a>
-- t-209466
+- t-057
   teiginys: "Kaune Motiejus vyskupas 1867 m. kovo 8 dienoj."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -806,7 +819,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-192086
 
 <a id="claim-t-225839"></a>
-- t-225839
+- t-058
   teiginys: "Egidijaus Aleksandravičiaus cituojamame laiške Vilniaus generalgubernatoriui V. Nazimovui Motiejus Valančius teigė, kad pirmųjų blaivybę priėmusių pasienio parapijų žmonių šeimose sumažėjo nesantaikos, o muštynes ir barnius pakeitė ramybė."
   atnaujinta: "2026-09-14 12:16"
   sprendimo_priezastis: "auto"
@@ -818,7 +831,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-206363
 
 <a id="claim-t-225840"></a>
-- t-225840
+- t-059
   teiginys: "Egidijus Aleksandravičius pažymi, kad Motiejus Valančius administracijai rašytuose laiškuose taktiniais sumetimais didino blaivybės judėjimo sėkmę, o 1858 m. pabaigos laiškuose kunigams ragino toliau skelbti blaivybę, nes dar buvo geriančių degtinę."
   atnaujinta: "2026-09-14 12:16"
   sprendimo_priezastis: "auto"
@@ -830,7 +843,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-206364
 
 <a id="claim-t-225841"></a>
-- t-225841
+- t-060
   teiginys: "Egidijaus Aleksandravičiaus cituojamas Jokūbas Šimkevičius valstiečių girtavimą aiškino skurdu, pažeminimu, nelaisve ir sunkiais darbais: svaiginimasis esą trumpam padedąs užmiršti nedalią."
   atnaujinta: "2026-09-14 12:16"
   sprendimo_priezastis: "auto"
@@ -842,7 +855,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-206365
 
 <a id="claim-t-225842"></a>
-- t-225842
+- t-061
   teiginys: "Egidijus Aleksandravičius degtinės ir alaus gamybą sieja su dvaro pramone, naudojusia palivarkų žaliavas ir realizavusia produkciją savo valdų ribose, ribotų žemės ūkio produktų rinkos ryšių sąlygomis."
   atnaujinta: "2026-09-14 12:16"
   sprendimo_priezastis: "auto"
@@ -854,7 +867,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-206366
 
 <a id="claim-t-225843"></a>
-- t-225843
+- t-062
   teiginys: "Egidijus Aleksandravičius perspėja, kad užfiksuotų prievartinio degtinės pardavimo baudžiauninkams atvejų ir satyrų negalima laikyti visuotinę praktiką įrodančia taisykle."
   atnaujinta: "2026-09-14 12:16"
   sprendimo_priezastis: "auto"
@@ -866,7 +879,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-206367
 
 <a id="claim-t-225844"></a>
-- t-225844
+- t-063
   teiginys: "Egidijus Aleksandravičius aprašo Vėžaičių savininko E. Volmerio taikytą prievartinį blaivinimą: valstiečiams nustatytą grįžimo laiką ir reikalavimą atsiskaityti dėl negėrimo; dėl žmogaus orumą žeminančių priemonių į dvarininką kreipėsi Motiejus Valančius."
   atnaujinta: "2026-09-14 12:16"
   sprendimo_priezastis: "auto"
@@ -878,7 +891,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-206368
 
 <a id="claim-t-225845"></a>
-- t-225845
+- t-064
   teiginys: "Petras Puzaras pateikia Kauno gubernijos dvarininkų degtinės gamybos duomenis: 1859 m. – 552 643 kibirai, 1860 m. – 129 194 kibirai."
   atnaujinta: "2026-09-14 12:16"
   sprendimo_priezastis: "auto"
@@ -890,7 +903,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-206369
 
 <a id="claim-t-225846"></a>
-- t-225846
+- t-065
   teiginys: "Petras Puzaras, aprašydamas Motiejaus Valančiaus laikų Žemaičių vyskupiją, mini degtinės vartojimą per krikštynas, vestuves, laidotuves, atlaidus, kryžių ir namų šventinimą."
   atnaujinta: "2026-09-14 12:16"
   sprendimo_priezastis: "auto"
@@ -902,7 +915,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-206370
 
 <a id="claim-t-225847"></a>
-- t-225847
+- t-066
   teiginys: "Egidijus Aleksandravičius nurodo, kad degtinės mokesčio atpirkėjai, už pastovias įmokas iždui varžytinėmis įsigiję teisę rinkti akcizą, buvo suinteresuoti didinti svaigalų vartojimą ir plėsti prekybos tinklą."
   atnaujinta: "2026-09-14 12:16"
   sprendimo_priezastis: "auto"
@@ -914,7 +927,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-206371
 
 <a id="claim-t-225848"></a>
-- t-225848
+- t-067
   teiginys: "Petras Puzaras aprašo priėmimo į Blaivybės broliją tvarką: stojantysis tą pačią dieną atlieka išpažintį ir priima Komuniją, kunigas prie Švč. Mergelės Marijos altoriaus priima jo apžadą, apšlaksto naujus narius švęstu vandeniu ir sako pamokslą."
   atnaujinta: "2026-09-14 12:30"
   sprendimo_priezastis: "auto"
@@ -926,7 +939,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-206372
 
 <a id="claim-t-225849"></a>
-- t-225849
+- t-068
   teiginys: "Petro Puzaro pateiktose Blaivybės brolijos taisyklėse klebonas apžado nesilaikantį narį turi du kartus įspėti, o nepasitaisiusį pašalinti iš brolijos; pašalintas žmogus vis tiek privalo laikytis Dievui duoto apžado."
   atnaujinta: "2026-09-14 12:30"
   sprendimo_priezastis: "auto"
@@ -957,7 +970,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-176358
@@ -982,7 +995,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-176359
@@ -1004,7 +1017,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-176360
@@ -1022,7 +1035,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-184234
@@ -1051,7 +1064,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-191095
@@ -1074,8 +1087,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208475
+  pagrindzia:
+    - t-014
 
 - id: c-191096
   autorius: "Puzaras, Petras"
@@ -1097,8 +1110,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208476
+  pagrindzia:
+    - t-015
 
 - id: c-191097
   autorius: "Puzaras, Petras"
@@ -1123,8 +1136,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208477
+  pagrindzia:
+    - t-016
 
 - id: c-191098
   autorius: "Puzaras, Petras"
@@ -1141,8 +1154,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208478
+  pagrindzia:
+    - t-017
 
 - id: c-191099
   autorius: "Puzaras, Petras"
@@ -1165,8 +1178,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208479
+  pagrindzia:
+    - t-018
 
 - id: c-191100
   autorius: "Puzaras, Petras"
@@ -1189,8 +1202,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208480
+  pagrindzia:
+    - t-019
 
 - id: c-191101
   autorius: "Puzaras, Petras"
@@ -1209,8 +1222,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208481
+  pagrindzia:
+    - t-020
 
 - id: c-191102
   autorius: "Puzaras, Petras"
@@ -1232,8 +1245,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208482
+  pagrindzia:
+    - t-021
 
 - id: c-191103
   autorius: "Aleksandravičius, Egidijus"
@@ -1253,8 +1266,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208483
+  pagrindzia:
+    - t-022
 
 - id: c-191104
   autorius: "Puzaras, Petras"
@@ -1271,8 +1284,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208484
+  pagrindzia:
+    - t-023
 
 - id: c-191105
   autorius: "Puzaras, Petras"
@@ -1293,8 +1306,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208485
+  pagrindzia:
+    - t-024
 
 - id: c-191106
   autorius: "Puzaras, Petras"
@@ -1318,8 +1331,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208486
+  pagrindzia:
+    - t-025
 
 - id: c-191107
   autorius: "Puzaras, Petras"
@@ -1344,8 +1357,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208487
+  pagrindzia:
+    - t-026
 
 - id: c-191109
   autorius: "Puzaras, Petras"
@@ -1368,8 +1381,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208489
+  pagrindzia:
+    - t-027
 
 - id: c-191110
   autorius: "Puzaras, Petras"
@@ -1385,8 +1398,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208490
+  pagrindzia:
+    - t-028
 
 - id: c-191111
   autorius: "Aleksandravičius, Egidijus"
@@ -1409,8 +1422,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208491
+  pagrindzia:
+    - t-029
 
 - id: c-191112
   autorius: "Puzaras, Petras"
@@ -1432,8 +1445,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208492
+  pagrindzia:
+    - t-009
 
 - id: c-191114
   autorius: "Puzaras, Petras"
@@ -1457,8 +1470,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208494
+  pagrindzia:
+    - t-030
 
 - id: c-191115
   autorius: "Puzaras, Petras"
@@ -1476,8 +1489,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208495
+  pagrindzia:
+    - t-031
 
 - id: c-191116
   autorius: "Puzaras, Petras"
@@ -1497,8 +1510,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208496
+  pagrindzia:
+    - t-032
 
 - id: c-191117
   autorius: "Puzaras, Petras"
@@ -1517,8 +1530,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208497
+  pagrindzia:
+    - t-010
 
 - id: c-191119
   autorius: "Puzaras, Petras"
@@ -1536,8 +1549,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208499
+  pagrindzia:
+    - t-033
 
 - id: c-191120
   autorius: "Puzaras, Petras"
@@ -1554,8 +1567,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208500
+  pagrindzia:
+    - t-034
 
 - id: c-191122
   autorius: "Puzaras, Petras"
@@ -1572,8 +1585,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208502
+  pagrindzia:
+    - t-035
 
 - id: c-191123
   autorius: "Puzaras, Petras"
@@ -1590,8 +1603,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208503
+  pagrindzia:
+    - t-036
 
 - id: c-191124
   autorius: "Puzaras, Petras"
@@ -1615,8 +1628,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208504
+  pagrindzia:
+    - t-037
 
 - id: c-191125
   autorius: "Puzaras, Petras"
@@ -1637,8 +1650,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208505
+  pagrindzia:
+    - t-038
 
 - id: c-191126
   autorius: "Puzaras, Petras"
@@ -1662,8 +1675,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208506
+  pagrindzia:
+    - t-039
 
 - id: c-191127
   autorius: "Puzaras, Petras"
@@ -1680,8 +1693,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208507
+  pagrindzia:
+    - t-040
 
 - id: c-191128
   autorius: "Puzaras, Petras"
@@ -1706,8 +1719,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208508
+  pagrindzia:
+    - t-041
 
 - id: c-191129
   autorius: "Puzaras, Petras"
@@ -1724,8 +1737,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208509
+  pagrindzia:
+    - t-042
 
 - id: c-191131
   autorius: "Puzaras, Petras"
@@ -1748,8 +1761,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208511
+  pagrindzia:
+    - t-043
 
 - id: c-191132
   autorius: "Puzaras, Petras"
@@ -1774,8 +1787,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208512
+  pagrindzia:
+    - t-011
 
 - id: c-191134
   autorius: "Puzaras, Petras"
@@ -1799,8 +1812,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208514
+  pagrindzia:
+    - t-044
 
 - id: c-191135
   autorius: "Puzaras, Petras"
@@ -1820,8 +1833,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208515
+  pagrindzia:
+    - t-045
 
 - id: c-191136
   autorius: "Puzaras, Petras"
@@ -1845,8 +1858,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208516
+  pagrindzia:
+    - t-046
 
 - id: c-191138
   autorius: "Puzaras, Petras"
@@ -1868,8 +1881,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208518
+  pagrindzia:
+    - t-047
 
 - id: c-191139
   autorius: "Puzaras, Petras"
@@ -1890,8 +1903,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208519
+  pagrindzia:
+    - t-048
 
 - id: c-191877
   autorius: "Aleksandravičius, Egidijus"
@@ -1914,8 +1927,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209266
+  pagrindzia:
+    - t-013
 
 - id: c-191884
   autorius: "Aleksandravičius, Egidijus"
@@ -1941,8 +1954,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209369
+  pagrindzia:
+    - t-052
 
 - id: c-191897
   autorius: "Aleksandravičius, Egidijus"
@@ -1960,8 +1973,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209337
+  pagrindzia:
+    - t-051
 
 - id: c-191926
   autorius: "Aleksandravičius, Egidijus"
@@ -1986,8 +1999,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209264
+  pagrindzia:
+    - t-049
 
 - id: c-191958
   autorius: "Aleksandravičius, Egidijus"
@@ -2007,8 +2020,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209324
+  pagrindzia:
+    - t-050
 
 - id: c-191972
   autorius: "Aleksandravičius, Egidijus"
@@ -2030,8 +2043,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209258
+  pagrindzia:
+    - t-012
 
 - id: c-192039
   autorius: "Aleksandravičius, Egidijus"
@@ -2052,7 +2065,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-192050
@@ -2078,7 +2091,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-192081
@@ -2100,8 +2113,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209461
+  pagrindzia:
+    - t-053
 
 - id: c-192082
   autorius: "Merkys, Vytautas; Vanagienė, Birutė"
@@ -2119,8 +2132,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209462
+  pagrindzia:
+    - t-054
 
 - id: c-192083
   autorius: "Merkys, Vytautas; Vanagienė, Birutė"
@@ -2141,8 +2154,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209463
+  pagrindzia:
+    - t-055
 
 - id: c-192084
   autorius: "Merkys, Vytautas; Vanagienė, Birutė"
@@ -2161,8 +2174,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209464
+  pagrindzia:
+    - t-056
 
 - id: c-192085
   autorius: "Merkys, Vytautas; Vanagienė, Birutė"
@@ -2181,7 +2194,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-192086
@@ -2202,8 +2215,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209466
+  pagrindzia:
+    - t-057
 
 - id: c-206363
   autorius: "Aleksandravičius, Egidijus"
@@ -2254,8 +2267,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225839
+  pagrindzia:
+    - t-058
 
 - id: c-206364
   autorius: "Aleksandravičius, Egidijus"
@@ -2282,8 +2295,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225840
+  pagrindzia:
+    - t-059
 
 - id: c-206365
   autorius: "Aleksandravičius, Egidijus"
@@ -2308,8 +2321,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225841
+  pagrindzia:
+    - t-060
 
 - id: c-206366
   autorius: "Aleksandravičius, Egidijus"
@@ -2330,8 +2343,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225842
+  pagrindzia:
+    - t-061
 
 - id: c-206367
   autorius: "Aleksandravičius, Egidijus"
@@ -2358,8 +2371,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225843
+  pagrindzia:
+    - t-062
 
 - id: c-206368
   autorius: "Aleksandravičius, Egidijus"
@@ -2400,8 +2413,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225844
+  pagrindzia:
+    - t-063
 
 - id: c-206369
   autorius: "Puzaras, Petras"
@@ -2427,8 +2440,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225845
+  pagrindzia:
+    - t-064
 
 - id: c-206370
   autorius: "Puzaras, Petras"
@@ -2448,8 +2461,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225846
+  pagrindzia:
+    - t-065
 
 - id: c-206371
   autorius: "Aleksandravičius, Egidijus"
@@ -2493,8 +2506,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225847
+  pagrindzia:
+    - t-066
 
 - id: c-206372
   autorius: "Puzaras, Petras"
@@ -2517,8 +2530,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225848
+  pagrindzia:
+    - t-067
 
 - id: c-206373
   autorius: "Puzaras, Petras"
@@ -2537,6 +2550,5 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225849
-
+  pagrindzia:
+    - t-068

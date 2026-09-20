@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Ragainės broliai'
+pavadinimas: Ragainės broliai
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Ragainės broliai
 
@@ -71,7 +68,7 @@ Ragainės broliai su dviem kitais broliais ir 26 ginklanešiais nukovė 25 lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-205694
@@ -91,6 +88,5 @@ Ragainės broliai su dviem kitais broliais ir 26 ginklanešiais nukovė 25 lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

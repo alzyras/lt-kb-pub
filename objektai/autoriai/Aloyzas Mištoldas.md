@@ -35,6 +35,21 @@ Ypač šiuo atžvilgiu mūsų dėmesį patraukia ir verčia pasikliauti savo nuo
 
 Ypač šiuo atžvilgiu mūsų dėmesį patraukia ir verčia pasikliauti savo nuomone garsus to meto Vilniaus universiteto profesorius, kuni gaikščių Sapiegų giminės istorikas, jėzuitas kun. Aloyzas Mištoldas1 2, kuris pradeda nuo tariamojo Zaymo Wejdawuti filius.
 
+## Teiginiai
+
+<a id="claim-t-205285"></a>
+- t-001
+  teiginys: "Ypač šiuo atžvilgiu mūsų dėmesį patraukia ir verčia pasikliauti savo nuomone garsus to meto Vilniaus universiteto profesorius, kuni gaikščių Sapiegų giminės istorikas, jėzuitas kun. Aloyzas Mištoldas1 2, kuris pradeda nuo tariamojo Zaymo Wejdawuti filius."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187663
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ypač šiuo atžvilgiu mūsų dėmesį patraukia ir verčia pasikliauti savo nuomone garsus to meto Vilniaus universiteto profesorius, kuni gaikščių Sapiegų giminės istorikas, jėzuitas kun. Aloyzas Mištoldas1 2, kuris pradeda nuo tariamojo Zaymo Wejdawuti filius.'
@@ -77,21 +92,5 @@ Ypač šiuo atžvilgiu mūsų dėmesį patraukia ir verčia pasikliauti savo nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205285"></a>
-- t-001
-  teiginys: "Ypač šiuo atžvilgiu mūsų dėmesį patraukia ir verčia pasikliauti savo nuomone garsus to meto Vilniaus universiteto profesorius, kuni gaikščių Sapiegų giminės istorikas, jėzuitas kun. Aloyzas Mištoldas1 2, kuris pradeda nuo tariamojo Zaymo Wejdawuti filius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187663
-

@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Landsbergas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Landsbergas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Landsbergas'
+  - Landsbergas
 aliases:
-  - 'Landsbergas'
+  - Landsbergas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-2a3c4f88f91531f2ca34860e"
-canonical_name: "Landsbergas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Landsbergas","Landsbergas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-2a3c4f88f91531f2ca34860e
+canonical_name: Landsbergas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Landsbergas
+  - Landsbergas (vieta)
 sameAs: []
-canonical_biography: "Landsbergo markgrafas Konradas."
+canonical_biography: Landsbergo markgrafas Konradas.
 ---
 # Landsbergas (vieta)
 
@@ -69,6 +69,5 @@ Landsbergo markgrafas Konradas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

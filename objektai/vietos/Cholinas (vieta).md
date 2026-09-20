@@ -1,40 +1,40 @@
 ---
 tipas: vieta
-pavadinimas: 'Cholinas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Cholinas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Cholinas'
+  - Cholinas
 aliases:
-  - 'Cholinas'
+  - Cholinas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1270 m.'
+  - 1270 m.
 date_start: '1270'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6d6e676420d91487a5566e4b"
-canonical_name: "Cholinas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Cholinas","Cholinas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6d6e676420d91487a5566e4b
+canonical_name: Cholinas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Cholinas
+  - Cholinas (vieta)
 sameAs: []
-canonical_biography: "Cholinas — dabar Lenkijos Liublino vaivadijos miestas Cheltn."
+canonical_biography: Cholinas — dabar Lenkijos Liublino vaivadijos miestas Cheltn.
 ---
 # Cholinas (vieta)
 
@@ -77,6 +77,5 @@ Cholinas — dabar Lenkijos Liublino vaivadijos miestas Cheltn.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

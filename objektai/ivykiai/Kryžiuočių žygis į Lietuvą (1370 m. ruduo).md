@@ -40,6 +40,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206812"></a>
+- t-001
+  teiginys: "1370 m. rudenį kryžiuočių kariauna, vadovaujama maršalkos Ridigerio Elnerio, prie Ragainės persikėlė per Nemuną ir, kirtusi Lietuvos sieną, pasidalijo į dvi kolonas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189427
+
+<a id="claim-t-206813"></a>
+- t-002
+  teiginys: "1370 m. kryžiuočių kariauna, pasak Narbuto, šešias dienas niokojo Lietuvos žemes prie Raseinių, Ariogalos ir iki Gaižuvos, vėliau su grobiu grįžo į Prūsiją."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189428
+
 ## Santrauka
 
 1370 m. rudenį kryžiuočių kariauna, vadovaujama maršalkos Ridigerio Elnerio, prie Ragainės persikėlė per Nemuną ir, kirtusi Lietuvos sieną, pasidalijo į dvi kolonas. 1370 m. kryžiuočių kariauna, pasak Narbuto, šešias dienas niokojo Lietuvos žemes prie Raseinių, Ariogalos ir iki Gaižuvos, vėliau su grobiu grįžo į Prūsiją.
@@ -61,7 +89,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189428
@@ -78,34 +106,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206812"></a>
-- t-001
-  teiginys: "1370 m. rudenį kryžiuočių kariauna, vadovaujama maršalkos Ridigerio Elnerio, prie Ragainės persikėlė per Nemuną ir, kirtusi Lietuvos sieną, pasidalijo į dvi kolonas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189427
-
-<a id="claim-t-206813"></a>
-- t-002
-  teiginys: "1370 m. kryžiuočių kariauna, pasak Narbuto, šešias dienas niokojo Lietuvos žemes prie Raseinių, Ariogalos ir iki Gaižuvos, vėliau su grobiu grįžo į Prūsiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189428
-

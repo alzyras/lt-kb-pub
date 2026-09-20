@@ -34,6 +34,17 @@ canonical_biography: "Pietaro."
 
 Pietaro.
 
+## Teiginiai
+
+<a id="claim-t-96059"></a>
+- t-001
+  teiginys: "V. Pietaris parašė „Lapės gyvenimą ir mirtį“, vadinamą originaliu vaikų literatūros šedevru."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-36697
+
 ## Citatos
 
 - id: c-36697
@@ -51,17 +62,5 @@ Pietaro.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-96059"></a>
-- t-001
-  teiginys: "V. Pietaris parašė „Lapės gyvenimą ir mirtį“, vadinamą originaliu vaikų literatūros šedevru."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36697
-

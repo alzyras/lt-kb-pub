@@ -42,6 +42,23 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203765"></a>
+- t-001
+  teiginys: "1691 m. vasario 25 d. Chelmno vyskupas buvo šaukiamas į teismą dėl Večeslavo Stackio pabėgusių žmonių neišdavimo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1691 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai nusako 1691 m. įvykį bei jo priežastį. Jame nėra neparemtų papildymų ar perteklinės atribucijos."
+  pagrindžia:
+    - c-186369
+
 ## Santrauka
 
 1691 m. vasario 25 d. Chelmno vyskupas buvo šaukiamas į teismą dėl Večeslavo Stackio pabėgusių žmonių neišdavimo.
@@ -63,23 +80,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203765"></a>
-- t-001
-  teiginys: "1691 m. vasario 25 d. Chelmno vyskupas buvo šaukiamas į teismą dėl Večeslavo Stackio pabėgusių žmonių neišdavimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  temporaliniai_duomenys: "įvykio data: 1691 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai nusako 1691 m. įvykį bei jo priežastį. Jame nėra neparemtų papildymų ar perteklinės atribucijos."
-  pagrindžia:
-    - c-186369
-

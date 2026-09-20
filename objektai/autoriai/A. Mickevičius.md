@@ -50,6 +50,30 @@ Mickevičiaus, J.
 
 ## Teiginiai
 
+<a id="claim-t-19368"></a>
+- t-001
+  teiginys: "A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1895 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys apie A. Mickevičiaus kūrybos reikšmę."
+  pagrindžia:
+    - c-176256
+
+<a id="claim-t-193581"></a>
+- t-002
+  teiginys: "Mickevičius, rašęs ir apie Tėvynę LietuAdomas Mickevičius."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176256
+
 <a id="claim-t-200876"></a>
 - t-003
   teiginys: "Basanavičiaus tekste Ad. Mickevičius priskirtas apie Lietuvą lenkiškai rašiusiems autoriams, vadintiems lietuviais, o ne lenkais."
@@ -69,51 +93,6 @@ Mickevičiaus, J.
   vertinimo_atnaujinta: "2026-07-15T09:09:51Z"
   pagrindžia:
     - c-184221
-
-<a id="claim-t-209372"></a>
-- t-209372
-  teiginys: "A. Mickevičiaus „Odėje jaunystei“, šaltinyje įvardijamoje Lietuvos romantizmo manifestu, buvo skelbiami šūkiai, kuriuos šubravcai kartais pašiepdavo."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
-  pagrindžia:
-    - c-191966
-
-<a id="claim-t-19368"></a>
-- t-19368
-  teiginys: "A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kraševskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Mickevičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Mickevičius\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1895 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys apie A. Mickevičiaus kūrybos reikšmę."
-  pagrindžia:
-    - c-22107
-    - c-176256
-
-<a id="claim-t-193581"></a>
-- t-193581
-  teiginys: "Mickevičius, rašęs ir apie Tėvynę LietuAdomas Mickevičius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176256
 
 ## Citatos
 
@@ -140,9 +119,6 @@ Mickevičiaus, J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-19368
-
 - id: c-176256
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -162,9 +138,9 @@ Mickevičiaus, J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193581
-    - t-19368
+  pagrindzia:
+    - t-001
+    - t-002
 
 - id: c-184221
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
@@ -177,36 +153,9 @@ Mickevičiaus, J.
     ševičius, Ad. Mickevičius, K ondratavičius ir daug
     k it.], yra visai ne lenkai, tik lietuviai.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-- id: c-191966
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 38"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 38."
-  citata_originali: |
-    iš esmes pozityvios asmenybės emancipacijos pusę - bendri interesai
-    tampa svetimais, atitolusiais nuo asmeninių egzistencinių poreikių.
-    Todėl neatsitiktinai ironijos principas savo aukščiausią laipsnį pasiekė
-    romantizmo šauklių elgsenoje ir kūryboje, o labiausiai organizuotą
-    formą įgavo danų mąstytojo Sioreno Kierkegoro darbuose. Tačiau
-    šubravcai dar buvo romantizmo priešaušryje ir rėmėsi Švietimo
-    epothos idėjomis, kartais net pašiepdami A. Mickevičiaus "Odės
-    jaunystei" - Lietuvos romantizmo manifesto - Šūkius.
-  citata_rodoma: "Tačiau \nšubravcai dar buvo romantizmo priešaušryje ir rėmėsi Švietimo \nepothos idėjomis, kartais net pašiepdami A. Mickevičiaus \"Odės \njaunystei\" - Lietuvos romantizmo manifesto - Šūkius."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209372
-

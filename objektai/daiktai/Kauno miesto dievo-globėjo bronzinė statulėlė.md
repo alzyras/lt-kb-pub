@@ -1,29 +1,26 @@
 ---
 tipas: daiktas
-pavadinimas: 'Kauno miesto dievo-globėjo bronzinė statulėlė'
+pavadinimas: Kauno miesto dievo-globėjo bronzinė statulėlė
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1820 m.'
-  - '1831 m.'
+  - 1820 m.
+  - 1831 m.
 date_start: '1820'
 date_end: '1831'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kauno miesto dievo-globėjo bronzinė statulėlė
 
@@ -96,7 +93,7 @@ Magistrato valdininkas Pulokolovskis, valydamas tuos griuvėsius, rado ten kadai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-198762
@@ -116,6 +113,5 @@ Magistrato valdininkas Pulokolovskis, valydamas tuos griuvėsius, rado ten kadai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

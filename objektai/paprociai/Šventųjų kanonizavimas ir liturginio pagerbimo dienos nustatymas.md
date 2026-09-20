@@ -1,29 +1,26 @@
 ---
 tipas: paprotys
-pavadinimas: 'Šventųjų kanonizavimas ir liturginio pagerbimo dienos nustatymas'
+pavadinimas: Šventųjų kanonizavimas ir liturginio pagerbimo dienos nustatymas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1313 m.'
-  - '1317 m.'
+  - 1313 m.
+  - 1317 m.
 date_start: '1313'
 date_end: '1317'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Šventųjų kanonizavimas ir liturginio pagerbimo dienos nustatymas
 
@@ -93,7 +90,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-206260
@@ -111,6 +108,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

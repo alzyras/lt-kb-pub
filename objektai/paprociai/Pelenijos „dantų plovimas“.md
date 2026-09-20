@@ -61,6 +61,26 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-195400"></a>
+- t-001
+  teiginys: "Pelenijoje seniai ir kiti žmonės eidavo „dantų plauti“ mažais ramiais būreliais."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177817
+
+<a id="claim-t-195401"></a>
+- t-002
+  teiginys: "Tą pačią dieną kiti važiuodavo į bažnyčią mišių klausyti ir pelenais barstyti galvos."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177818
+
 <a id="claim-t-195402"></a>
 - t-003
   teiginys: "Autorius rašo, kad vėliau Pelenijoje jau nebebuvo nei dantų plovimo, nei dėdelio vežiojimo, nei gavėnios negavėjimo."
@@ -70,26 +90,6 @@ Nenurodyta
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177819
-
-<a id="claim-t-195400"></a>
-- t-195400
-  teiginys: "Pelenijoje seniai ir kiti žmonės eidavo „dantų plauti“ mažais ramiais būreliais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177817
-
-<a id="claim-t-195401"></a>
-- t-195401
-  teiginys: "Tą pačią dieną kiti važiuodavo į bažnyčią mišių klausyti ir pelenais barstyti galvos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177818
 
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -109,8 +109,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195400
+  pagrindzia:
+    - t-001
 
 - id: c-177818
   autorius: "M. Katkus"
@@ -125,8 +125,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195401
+  pagrindzia:
+    - t-002
 
 - id: c-177819
   autorius: "M. Katkus"
@@ -137,11 +137,9 @@ Nenurodyta
     Pelenijoje jau dantų neplaunama, dėdelio nevežiojama ir gavėnios negavėjama.
   citata_rodoma: "Pelenijoje jau dantų neplaunama, dėdelio nevežiojama ir gavėnios negavėjama."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

@@ -1,11 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'Gūžė (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: Gūžė (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'Gūžė'
+  - Gūžė
 aliases:
-  - 'Gūžė'
+  - Gūžė
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Gūžė (sąvoka)
 
@@ -71,6 +68,5 @@ GŪŽĖ (GUČE), geriau gal GUCIE, kadangi Gudas vie tos kalba, Guszdas arba Gus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

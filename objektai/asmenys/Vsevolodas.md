@@ -45,6 +45,71 @@ canonical_biography: "1055 m. poloviečių vadas Balušas po nesėkmingų kautyn
 
 1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu. Yra raštuose randama, jog tą metą Vsevolodas, kunigaikštis Naugardo, kariavęs su lietuviais ir ana- 1135 pus Daugavos lietuvių kraštą Lotaviją, arba Letgaliją, tai yra Lietuvos galą, nuteriojęs ir į pilį Jurjevą, arba Tarapatą, įsilaužęs, bet koksai galas.
 
+## Teiginiai
+
+<a id="claim-t-191485"></a>
+- t-001
+  teiginys: "1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "sudare_sutarti_su -> Vsevolodas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Balušas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vsevolodas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Balušas sudarė paliaubas su Vsevolodu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Balušas sudarė sutartį su Vsevolodas (0.88); Balušas kariavo prieš Rusai (0.76)"
+  temporaliniai_duomenys: "mūšio data: 1055 m.; sutarties data: 1055 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Balušas kariavo prieš Rusai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Balušas sudarė sutartį su Vsevolodas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Vsevolodą, Balušą, datą ir paliaubų aplinkybes. Papildoma informacija apie vėlesnį Sekalo puolimą sąmoningai nepridėta."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174367
+
+<a id="claim-t-201048"></a>
+- t-002
+  teiginys: "Yra raštuose randama, jog tą metą Vsevolodas, kunigaikštis Naugardo, kariavęs su lietuviais ir ana- 1135 pus Daugavos lietuvių kraštą Lotaviją, arba Letgaliją, tai yra Lietuvos galą, nuteriojęs ir į pilį Jurjevą, arba Tarapatą, įsilaužęs, bet koksai galas."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184398
+
+<a id="claim-t-204012"></a>
+- t-003
+  teiginys: "1209 m. Jersikos kunigaikštis Vsevolodas Rygos vyskupui sutiko užrašyti savo žemes ir priėmė jas atgal kaip leną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1209 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nusako Vsevolodo veiksmą, 1209 m. datą, Jersiką ir žemių priėmimą kaip leną; papildomų detalių nepridėta."
+  pagrindžia:
+    - c-186616
+
+<a id="claim-t-205736"></a>
+- t-004
+  teiginys: "Vsevolodas valdė Rusios Padauguvio žemes, kurių sostinė buvo Gercika, kitaip Carogradas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188351
+
 ## Citatos
 
 - id: c-174367
@@ -70,6 +135,8 @@ canonical_biography: "1055 m. poloviečių vadas Balušas po nesėkmingų kautyn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-184398
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -93,8 +160,8 @@ canonical_biography: "1055 m. poloviečių vadas Balušas po nesėkmingų kautyn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201048
+  pagrindzia:
+    - t-002
 
 - id: c-186616
   autorius: "Rimvydas Petrauskas"
@@ -114,8 +181,8 @@ canonical_biography: "1055 m. poloviečių vadas Balušas po nesėkmingų kautyn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204012
+  pagrindzia:
+    - t-003
 
 - id: c-188351
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -143,99 +210,5 @@ canonical_biography: "1055 m. poloviečių vadas Balušas po nesėkmingų kautyn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205736
-
-- id: c-196916
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 106"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
-  citata_originali: |
-    Neabejotinai slaviš­
-    ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
-    kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
-    vengrai vadino šias gentis kumanais.
-    98
-    Poloviečių santykiai su rusais klostėsi nedraugiškai
-    nuo 1055 metų, kai tuometinis poloviečių vadas Balušas
-    atvirai kovojo su Rusia, bet netrukus po nesėkmingų kau­
-    tynių sudarė paliaubas su kunigaikščiu Vsevolodu. Po
-    šešerių metų antras vadas, vardu Sekalas, užpuolė rusų
-    kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį gro­
-    bį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-212984"></a>
-- t-001
-  teiginys: "1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "sudare_sutarti_su -> Vsevolodas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Balušas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vsevolodas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Balušas sudarė paliaubas su Vsevolodu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Balušas sudarė sutartį su Vsevolodas (0.88); Balušas kariavo prieš Rusai (0.76)"
-  temporaliniai_duomenys: "mūšio data: 1055 m.; sutarties data: 1055 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Balušas kariavo prieš Rusai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Balušas sudarė sutartį su Vsevolodas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Vsevolodą, Balušą, datą ir paliaubų aplinkybes. Papildoma informacija apie vėlesnį Sekalo puolimą sąmoningai nepridėta."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-196916
-
-<a id="claim-t-201048"></a>
-- t-201048
-  teiginys: "Yra raštuose randama, jog tą metą Vsevolodas, kunigaikštis Naugardo, kariavęs su lietuviais ir ana- 1135 pus Daugavos lietuvių kraštą Lotaviją, arba Letgaliją, tai yra Lietuvos galą, nuteriojęs ir į pilį Jurjevą, arba Tarapatą, įsilaužęs, bet koksai galas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184398
-
-<a id="claim-t-204012"></a>
-- t-204012
-  teiginys: "1209 m. Jersikos kunigaikštis Vsevolodas Rygos vyskupui sutiko užrašyti savo žemes ir priėmė jas atgal kaip leną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1209 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nusako Vsevolodo veiksmą, 1209 m. datą, Jersiką ir žemių priėmimą kaip leną; papildomų detalių nepridėta."
-  pagrindžia:
-    - c-186616
-
-<a id="claim-t-205736"></a>
-- t-205736
-  teiginys: "Vsevolodas valdė Rusios Padauguvio žemes, kurių sostinė buvo Gercika, kitaip Carogradas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188351
-
+  pagrindzia:
+    - t-004

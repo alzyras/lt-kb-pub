@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Liudvikas vadinamas Okse'
+pavadinimas: Liudvikas vadinamas Okse
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a9cc106e875009676a226a9e"
-canonical_name: "Liudvikas vadinamas Okse"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Liudvikas vadinamas Okse"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a9cc106e875009676a226a9e
+canonical_name: Liudvikas vadinamas Okse
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Liudvikas vadinamas Okse
 sameAs: []
-canonical_biography: "Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse."
+canonical_biography: 'Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse.'
 ---
 # Liudvikas vadinamas Okse
 
@@ -64,6 +63,5 @@ Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

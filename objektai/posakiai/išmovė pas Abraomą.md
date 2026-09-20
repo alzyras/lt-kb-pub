@@ -27,6 +27,17 @@ media_all_json: |-
 
 Jie arba išmovė pas Abraomą, arba išbaigė šovinius.
 
+## Teiginiai
+
+<a id="claim-t-39044"></a>
+- t-001
+  teiginys: "Bolševikų ugniai nutilus, pasakotojas svarstė, kad jie arba išmovė pas Abraomą, arba išbaigė šovinius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-40848
+
 ## Citatos
 
 - id: c-40848
@@ -42,17 +53,5 @@ Jie arba išmovė pas Abraomą, arba išbaigė šovinius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-39044"></a>
-- t-001
-  teiginys: "Bolševikų ugniai nutilus, pasakotojas svarstė, kad jie arba išmovė pas Abraomą, arba išbaigė šovinius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-40848
-

@@ -38,6 +38,20 @@ historical_names: []
 
 Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos į sritį, vadinamą Meruniškę, kurią visą į tyrą apvertęs, 18 pilių sugriovė ir jomylistas jų nu galavo; sugriejęs tenai neapseikimas gėrybes ir turtus, su didžia daugybe imtinių pagrįžo.
 
+## Teiginiai
+
+<a id="claim-t-201171"></a>
+- t-001
+  teiginys: "Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos į sritį, vadinamą Meruniškę, kurią visą į tyrą apvertęs, 18 pilių sugriovė ir jomylistas jų nu galavo; sugriejęs tenai neapseikimas gėrybes ir turtus, su didžia daugybe imtinių pagrįžo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184521
+
 ## Citatos
 
 - id: c-184521
@@ -76,20 +90,5 @@ Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201171"></a>
-- t-001
-  teiginys: "Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos į sritį, vadinamą Meruniškę, kurią visą į tyrą apvertęs, 18 pilių sugriovė ir jomylistas jų nu galavo; sugriejęs tenai neapseikimas gėrybes ir turtus, su didžia daugybe imtinių pagrįžo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184521
-

@@ -1,38 +1,37 @@
 ---
 tipas: asmuo
-pavadinimas: 'K. E. Napierskis'
+pavadinimas: K. E. Napierskis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1833 m.'
-  - '1842 m.'
+  - 1833 m.
+  - 1842 m.
 date_start: '1833'
 date_end: '1842'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6b45db45ba495d0f2086dbe9"
-canonical_name: "K. E. Napierskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["K. E. Napierskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6b45db45ba495d0f2086dbe9
+canonical_name: K. E. Napierskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - K. E. Napierskis
 sameAs: []
-canonical_biography: "Napierskiu, bet tik 1842 metais rankraštis buvo galutinai sutvarkytas."
+canonical_biography: 'Napierskiu, bet tik 1842 metais rankraštis buvo galutinai sutvarkytas.'
 ---
 # K. E. Napierskis
 
@@ -75,6 +74,5 @@ Napierskiu, bet tik 1842 metais rankraštis buvo galutinai sutvarkytas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

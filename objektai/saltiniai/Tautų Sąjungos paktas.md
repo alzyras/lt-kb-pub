@@ -27,6 +27,17 @@ media_all_json: |-
 
 Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją (pagal pakto str. to, kad daugumas tuometinių Tautų S-gos narių dar netikėjo Pabaltijo valstybių pastovumu, ar nenorėjo prisiimti T. Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internacio- linius santykius ir pareikalavo pritaikyti pakto 11 str.
 
+## Teiginiai
+
+<a id="claim-t-67550"></a>
+- t-001
+  teiginys: "Tautų Sąjunga paskelbė paskutinį Hymanso projektą galutine rekomendacija konfliktui spręsti pagal pakto 15 straipsnio 4 punktą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67413
+
 ## Citatos
 
 - id: c-67413
@@ -51,17 +62,5 @@ Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-67550"></a>
-- t-001
-  teiginys: "Tautų Sąjunga paskelbė paskutinį Hymanso projektą galutine rekomendacija konfliktui spręsti pagal pakto 15 straipsnio 4 punktą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67413
-

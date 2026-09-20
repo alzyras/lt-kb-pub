@@ -42,6 +42,21 @@ Frazė pateikiama aiškinant Goštautų panegirinę liniją Bychovco kronikos ap
 
 Savęs išaukštinimo ir politinio nuopelno deklaracija.
 
+## Teiginiai
+
+<a id="claim-t-199234"></a>
+- t-001
+  teiginys: "A. Goštauto memoriale Albertas Goštautas save vaizduoja kaip jauną Lietuvos tėvynės gynėją nuo M. Glinskio."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Reikia aiškesnio asmens, veiksmo ir atribucijos, nepridedant neparemtų detalių."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-181752
+
 ## Citatos
 
 - id: c-181752
@@ -68,17 +83,5 @@ Savęs išaukštinimo ir politinio nuopelno deklaracija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210741"></a>
-- t-001
-  teiginys: "A. Goštauto memoriale Albertas Goštautas save vaizduoja kaip jauną Lietuvos tėvynės gynėją nuo M. Glinskio."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Reikia aiškesnio asmens, veiksmo ir atribucijos, nepridedant neparemtų detalių."
-  susije_objektai: "mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-
+  pagrindzia:
+    - t-001

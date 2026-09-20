@@ -46,22 +46,10 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
 
 ## Teiginiai
 
-<a id="claim-t-211590"></a>
-- t-211590
-  teiginys: "Bona Sforca buvo Žygimanto II Kazimieraičio žmona ir karalienė."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193954
-
 <a id="claim-t-173124"></a>
-- t-173124
+- t-001
   teiginys: "Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -78,9 +66,9 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
     - c-157464
 
 <a id="claim-t-173126"></a>
-- t-173126
+- t-002
   teiginys: "1536 m. rugsėjo 9 d. nauji Vilniaus miesto įstatymai buvo paskelbti pritariant karalienei Bonai Sforcai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -96,9 +84,9 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
     - c-157464
 
 <a id="claim-t-173127"></a>
-- t-173127
+- t-003
   teiginys: "Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, o Žygimantą Augustą išugdė Renesanso dvasia."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Lenkija: 0.80"
   ryšio_patikimumo_lygis: "aukstas"
@@ -130,8 +118,8 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-173127
+  pagrindzia:
+    - t-003
 
 - id: c-157464
   autorius: "Michał Baliński"
@@ -151,25 +139,6 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-173124
-    - t-173126
-
-- id: c-193954
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 32"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 32."
-  citata_originali: |
-    rašytas 1525 m. Lenkijos karaliaus ir Lietuvos did. ku­
-    nigaikščio Žygimanto II Kazimieraičio žmonai karalie­
-    nei Bonai Sforcai
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211590
-
+  pagrindzia:
+    - t-001
+    - t-002

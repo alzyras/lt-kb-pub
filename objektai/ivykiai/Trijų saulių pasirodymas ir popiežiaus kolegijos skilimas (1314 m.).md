@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Trijų saulių pasirodymas ir popiežiaus kolegijos skilimas (1314 m.)'
+pavadinimas: Trijų saulių pasirodymas ir popiežiaus kolegijos skilimas (1314 m.)
 variantai:
-  - 'Trijų saulių pasirodymas ir popiežiaus kolegijos skilimas'
+  - Trijų saulių pasirodymas ir popiežiaus kolegijos skilimas
 aliases:
-  - 'Trijų saulių pasirodymas ir popiežiaus kolegijos skilimas'
+  - Trijų saulių pasirodymas ir popiežiaus kolegijos skilimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1314 m.'
+  - 1314 m.
 date_start: '1314'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Trijų saulių pasirodymas ir popiežiaus kolegijos skilimas (1314 m.)
 
@@ -85,6 +82,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

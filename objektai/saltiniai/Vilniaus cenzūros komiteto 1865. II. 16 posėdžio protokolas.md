@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'Vilniaus cenzūros komiteto 1865. II. 16 posėdžio protokolas'
+pavadinimas: Vilniaus cenzūros komiteto 1865. II. 16 posėdžio protokolas
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1240 m.'
-  - '1865 m.'
+  - 1240 m.
+  - 1865 m.
 date_start: '1240'
 date_end: '1865'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
-  - 'XIX'
+  - XIII
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vilniaus cenzūros komiteto 1865. II. 16 posėdžio protokolas
 

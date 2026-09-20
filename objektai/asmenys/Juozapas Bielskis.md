@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Juozapas Bielskis'
+pavadinimas: Juozapas Bielskis
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4ae3f2dd16bfa21d4206c600"
-canonical_name: "Juozapas Bielskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Juozapas Bielskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4ae3f2dd16bfa21d4206c600
+canonical_name: Juozapas Bielskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Juozapas Bielskis
 sameAs: []
-canonical_biography: "Čekiškės klebonas kun. Juozapas Bielskis 1858-03-26 laiške skundėsi, kad jam sunkiai sekasi platinti žemaitiškai parašytą Senojo Testamento istoriją."
+canonical_biography: 'Čekiškės klebonas kun. Juozapas Bielskis 1858-03-26 laiške skundėsi, kad jam sunkiai sekasi platinti žemaitiškai parašytą Senojo Testamento istoriją.'
 ---
 # Juozapas Bielskis
 

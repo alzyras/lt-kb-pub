@@ -1,8 +1,8 @@
 ---
 tipas: paprotys
-pavadinimas: 'Vaikų ruošimas pirmajai išpažinčiai ir šv. Komunijai'
+pavadinimas: Vaikų ruošimas pirmajai išpažinčiai ir šv. Komunijai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vaikų ruošimas pirmajai išpažinčiai ir šv. Komunijai
 
@@ -39,34 +36,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-208799"></a>
-- t-001
-  teiginys: "Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atgailos sakramentui ir priimti šv. Komuniją, šį darbą atlikdamas per kunigus ir asmeniškai."
-  atnaujinta: "2026-09-13 13:23"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
-  pagrindžia:
-    - c-191419
-
-<a id="claim-t-208803"></a>
-- t-002
-  teiginys: "Antanina Radavičienė pasakoja, kad pirmosios šv. Komunijos dieną iš vyskupo Motiejaus Valančiaus gavo knygą „Senasis altorius“, o vyskupas vaikams bažnyčioje dalydavo knygas ir kviesdavosi juos pas save vaišinti."
-  atnaujinta: "2026-09-13 13:23"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
-  pagrindžia:
-    - c-191423
-
 ## Santrauka
 
 Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atgailos sakramentui ir priimti šv. Komuniją, šį darbą atlikdamas per kunigus ir asmeniškai. Vyskupas Motiejus Valančius įsakė kunigams penktadieniais mokyti katekizmo vaikus, besirengiančius pirmajai išpažinčiai ir šv. Komunijai. Kanonas A. Alekna mini, kad vyskupas Motiejus Valančius kasmet pavasarį katedroje pats vesdavo vaikus prie pirmosios šv. Komunijos ir kiekvienam dovanodavo knygelę.
@@ -88,7 +57,7 @@ Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-191420
@@ -110,6 +79,8 @@ Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-191421
   autorius: "Puzaras, Petras"
@@ -128,6 +99,8 @@ Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-191422
   autorius: "Puzaras, Petras"
@@ -147,6 +120,8 @@ Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-191423
   autorius: "Puzaras, Petras"
@@ -165,6 +140,72 @@ Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+## Teiginiai
+
+<a id="claim-t-208799"></a>
+- t-001
+  teiginys: "Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atgailos sakramentui ir priimti šv. Komuniją, šį darbą atlikdamas per kunigus ir asmeniškai."
+  atnaujinta: "2026-09-13 13:23"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
   pagrindžia:
-    - t-002
+    - c-191419
+
+<a id="claim-t-208800"></a>
+- t-002
+  teiginys: "Vyskupas Motiejus Valančius įsakė kunigams penktadieniais mokyti katekizmo vaikus, besirengiančius pirmajai išpažinčiai ir šv. Komunijai."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
+  pagrindžia:
+    - c-191420
+
+<a id="claim-t-208801"></a>
+- t-003
+  teiginys: "Kanonas A. Alekna mini, kad vyskupas Motiejus Valančius kasmet pavasarį katedroje pats vesdavo vaikus prie pirmosios šv. Komunijos ir kiekvienam dovanodavo knygelę."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
+  pagrindžia:
+    - c-191421
+
+<a id="claim-t-208802"></a>
+- t-004
+  teiginys: "Ieva Butginienė liudija, kad vyskupas Motiejus Valančius antrąją Velykų dieną Varnių katedroje iškilmingai privesdavo vaikus prie pirmosios šv. Komunijos."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
+  pagrindžia:
+    - c-191422
+
+<a id="claim-t-208803"></a>
+- t-005
+  teiginys: "Antanina Radavičienė pasakoja, kad pirmosios šv. Komunijos dieną iš vyskupo Motiejaus Valančiaus gavo knygą „Senasis altorius“, o vyskupas vaikams bažnyčioje dalydavo knygas ir kviesdavosi juos pas save vaišinti."
+  atnaujinta: "2026-09-13 13:23"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
+  pagrindžia:
+    - c-191423
 

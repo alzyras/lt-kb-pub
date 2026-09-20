@@ -33,6 +33,34 @@ media_all_json: |-
 
 Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su Alberto Goštauto iniciatyva XVI a. antrajame dešimtmetyje, prieš 1519 m. Lietuvos metraščių Platesniojo sąvado pastaboje nurodoma, kad Lietuvos valstybė siekė Būgą, bet niekada nesiekė pačios Vislos.
 
+## Teiginiai
+
+<a id="claim-t-194153"></a>
+- t-001
+  teiginys: "Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su Alberto Goštauto iniciatyva XVI a. antrajame dešimtmetyje, prieš 1519 m."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176766
+
+<a id="claim-t-194154"></a>
+- t-002
+  teiginys: "Lietuvos metraščių Platesniojo sąvado pastaboje nurodoma, kad Lietuvos valstybė siekė Būgą, bet niekada nesiekė pačios Vislos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176767
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su Alberto Goštauto iniciatyva XVI a. antrajame dešimtmetyje, prieš 1519 m.'
@@ -77,6 +105,8 @@ Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-176767
   autorius: "Anoniminis metraštininkas"
@@ -96,17 +126,5 @@ Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210501"></a>
-- t-001
-  teiginys: "Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su Alberto Goštauto iniciatyva XVI a. antrajame dešimtmetyje, prieš 1519 m."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-
+  pagrindzia:
+    - t-002

@@ -49,6 +49,28 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62545"></a>
+- t-001
+  teiginys: "1317 m. popiežius Jonas kanonizavo Liudviką, Sicilijos karaliaus Roberto brolį iš mažesniųjų brolių ordino."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Robertas (Sicilijos karalius): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Robertas (Sicilijos karalius): mention_match, person, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)\" parinktas kaip owner_note_path. Targetas \"Robertas (Sicilijos karalius)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citatos informacija apie Liudviko kanonizavimą."
+  pagrindžia:
+    - c-63247
+
 ## Citatos
 
 - id: c-63247
@@ -68,24 +90,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-223187"></a>
-- t-001
-  teiginys: "1317 m. popiežius Jonas kanonizavo Liudviką, Sicilijos karaliaus Roberto brolį iš mažesniųjų brolių ordino."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Robertas (Sicilijos karalius): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Robertas (Sicilijos karalius): mention_match, person, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)\" parinktas kaip owner_note_path. Targetas \"Robertas (Sicilijos karalius)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1317 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citatos informacija apie Liudviko kanonizavimą."
-
+  pagrindzia:
+    - t-001

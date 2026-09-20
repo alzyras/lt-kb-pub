@@ -55,6 +55,38 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
 - elgeta
 - sodo dabotojas
 
+## Teiginiai
+
+<a id="claim-t-195271"></a>
+- t-001
+  teiginys: "Užaugęs Raulas bernavo pas ūkininkus, o šeimą laikė ūkininko grįtelėje."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177637
+
+<a id="claim-t-195272"></a>
+- t-002
+  teiginys: "Raulas kasmet dviem mėnesiams eidavo į dvarą sodo daboti ir už tai gaudavo valgymą bei tris rublius."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177638
+
+<a id="claim-t-195273"></a>
+- t-003
+  teiginys: "Raulas nuo mažens rinko žmonėse maistą sergančiai motinai ir tuo pačiu pats miso."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177639
+
 ## Citatos
 
 - id: c-177637
@@ -70,7 +102,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177638
@@ -86,7 +118,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177639
@@ -102,38 +134,5 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-195271"></a>
-- t-001
-  teiginys: "Užaugęs Raulas bernavo pas ūkininkus, o šeimą laikė ūkininko grįtelėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177637
-
-<a id="claim-t-195272"></a>
-- t-002
-  teiginys: "Raulas kasmet dviem mėnesiams eidavo į dvarą sodo daboti ir už tai gaudavo valgymą bei tris rublius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177638
-
-<a id="claim-t-195273"></a>
-- t-003
-  teiginys: "Raulas nuo mažens rinko žmonėse maistą sergančiai motinai ir tuo pačiu pats miso."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177639
-

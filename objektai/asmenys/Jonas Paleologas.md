@@ -34,6 +34,25 @@ canonical_biography: "Vytautas rėmė prieš turkus Moldavijos Aleksandrą — s
 
 Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Konstantinopolio ciesorių Manuelį, už kurio sūnaus Jono Paleologo buvo išleidęs savo dukraitę — Maskvos kunigaikš­ tytę, bet tas nepakenkė geriems Vytauto santykiams su turkais, apie ką jis.
 
+## Teiginiai
+
+<a id="claim-t-35152"></a>
+- t-001
+  teiginys: "Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Manuelis: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Paleologas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Manuelis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Jonas Paleologas buvo Manuelio sūnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jonas Paleologas buvo sūnus Manuelis (0.96); Muradas II siuntė į Smolenskas (0.88)"
+  pagrindžia:
+    - c-38060
+
 ## Citatos
 
 - id: c-38060
@@ -59,28 +78,8 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Manuelis]]
-
-## Teiginiai
-
-<a id="claim-t-35152"></a>
-- t-001
-  teiginys: "Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Manuelis: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Paleologas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Manuelis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Jonas Paleologas buvo Manuelio sūnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jonas Paleologas buvo sūnus Manuelis (0.96); Muradas II siuntė į Smolenskas (0.88)"
-  pagrindžia:
-    - c-38060
-

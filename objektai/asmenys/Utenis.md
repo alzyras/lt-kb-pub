@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Utenis'
+pavadinimas: Utenis
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
@@ -8,7 +8,7 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1221 m.'
+  - 1221 m.
 date_start: '1221'
 date_end: ''
 sukurta: ''
@@ -17,28 +17,40 @@ tags:
   - kunigaikštis
   - asmuo
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-329fcede9b447bd920b57570"
-canonical_name: "Utenis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Utenis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-329fcede9b447bd920b57570
+canonical_name: Utenis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Utenis
 sameAs: []
-canonical_biography: "Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad vėliava priklausė Lietuvos kunigaikščiui Uteniui, padėjusiam prūsams. Narbutas aiškino, kad Henenbergerio užrašas žymi Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais ir praminto Zupanu, vėliavą. APIE KENTAURO HERBO VALDOVUS - ŠVENTARAGĮ IR JO ŠONŲ SKIRMANTĄ Ponai gedėjo savo gimtojo valdovo ir išsirinko val dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai čių kunigaikščio Utenio sūnų."
+canonical_biography: 'Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad vėliava priklausė Lietuvos kunigaikščiui Uteniui, padėjusiam prūsams. Narbutas aiškino, kad Henenbergerio užrašas žymi Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais ir praminto Zupanu, vėliavą. APIE KENTAURO HERBO VALDOVUS - ŠVENTARAGĮ IR JO ŠONŲ SKIRMANTĄ Ponai gedėjo savo gimtojo valdovo ir išsirinko val dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai čių kunigaikščio Utenio sūnų.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T17:00:41+00:00","source_checked_at":"2026-09-19T17:00:41+00:00","counts":{"relations":2,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"06d8fbd3dee38a2e4868a1cc","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Žemaičių kunigaikštis","context":"Daukantas tiesiogiai įvardija Utenį Žemaičių kunigaikščiu; šaltinio pasakojimo laikas – nepatikslintas.","support_ids":["t-201041","c-184391"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201041","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184391","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Užvis kalavijonys, regėdami vykstant kryžėjams Paysly, tarės taip'' pat laimėsią Padaugavy, todėl, sutraukę savo kalavijonis ir meldžionis, ėjo į Že­ maičius, kaipogi letgaliai anapus Daugavos buvo pergalėti ir apkrikštyti. Utenis, Žemaičių kunigaik., sukėlęs savo karėjus, ėjo prieš."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f39e23ffb7e61a676ca0ab96","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Užnerio kunigaikštis","context":"Narbutas nurodo, kad tuo metu Utenis buvo Užnerio kunigaikštis; aprašomas istorinis karo žygių kontekstas.","support_ids":["t-205278","c-187958"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205278","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187958","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Sušaukė ku­ nigaikštis iš visų jo valioje buvusių kraštų pulkus, ne mažesnius kaimyninių kunigaikščių ir sąjungininkų bū­ rius iš Rusios bei Lietuvos, taip pat pasitelkė Užnerio kunigaikštį; tuo metu juo buvo Utenis, Livonijoje užmuš­ tojo Zvelgaičio sūnus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7869df2a706a9e86d40c8451","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lietuvos ir Žemaičių didysis kunigaikštis","context":"Bychovco kronikoje Utenis tiesiogiai įvardijamas Lietuvos ir Žemaičių didžiuoju kunigaikščiu; tai pateikiama pasakojant apie jo mirtį.","support_ids":["t-211950","c-193145"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211950","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193145","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Šventaragiui neilgai pabuvus Naugarduko bei Rusų miestų kunigaikščiu, pasimirė jo tėvas Utenis2, Lietu­ vos ir Žemaičių didysis kunigaikštis"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-217122","confidence":0.82},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Prūsai","claim_id":"t-217122","confidence":0.88}],"timeline":[],"support_disclosure":{"claims":5,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 898b852297d17982
+object_page_generated_at: '2026-09-19T17:00:41+00:00'
+object_page_source_checked_at: '2026-09-19T17:00:41+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '5'
+object_page_seo_description: 'Utenis: Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad vėliava priklausė Lietuvos kunigaikščiui Uteniui, padėjusiam prūsams. Narbutas…'
+object_page_seo_input_hash: d0b9efdb9ea6958c5cd1058be457929a81a9d576330e5caa7e4fdf59b99d9b56
+object_page_seo_generated_at: '2026-09-19T17:00:41+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Utenis
 
@@ -48,34 +60,10 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
 
 ## Teiginiai
 
-<a id="claim-t-211294"></a>
-- t-211294
-  teiginys: "Ir savo įpėdiniu Lietuvos ir Že maičių kunigaikštystėje paliko savo sūnų Utenį."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193925
-
-<a id="claim-t-211950"></a>
-- t-211950
-  teiginys: "Utenis buvo Lietuvos ir Žemaičių didysis kunigaikštis."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193145
-
-<a id="claim-t-217122"></a>
-- t-217122
+<a id="claim-t-190126"></a>
+- t-001
   teiginys: "Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad vėliava priklausė Lietuvos kunigaikščiui Uteniui, padėjusiam prūsams."
-  atnaujinta: "2026-09-12 23:46"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,12 +79,57 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   semantiniai_rysiai: "Utenis rėmė Prūsai (0.88); Utenis kariavo prieš Kryžiuočių ordinas (0.82)"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-199633
+    - c-173009
+
+<a id="claim-t-190993"></a>
+- t-002
+  teiginys: "Narbutas aiškino, kad Henenbergerio užrašas žymi Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais ir praminto Zupanu, vėliavą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "reme -> Prūsai: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Utenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Utenis padėjo prūsams."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Utenis rėmė Prūsai (0.92); Utenis kariavo prieš Kryžiuočių ordinas (0.88)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173875
+
+<a id="claim-t-193999"></a>
+- t-003
+  teiginys: "APIE KENTAURO HERBO VALDOVUS - ŠVENTARAGĮ IR JO ŠONŲ SKIRMANTĄ Ponai gedėjo savo gimtojo valdovo ir išsirinko val dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai čių kunigaikščio Utenio sūnų."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-176624
+
+<a id="claim-t-194724"></a>
+- t-004
+  teiginys: "Narbutas teigia, kad jo, kaip dievo, garbinimą tenai įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-177120
 
 <a id="claim-t-196610"></a>
-- t-196610
+- t-005
   teiginys: "Kitais metais Utenis perkėlė karą iš Kuršo į Livoniją ir pasiuntė lietuvius pulti Livonijos riterių žemių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -107,9 +140,9 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     - c-178796
 
 <a id="claim-t-201041"></a>
-- t-201041
+- t-006
   teiginys: "Utenis, Žemaičių kunigaik., sukėlęs savo karėjus, ėjo prieš."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -120,9 +153,9 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     - c-184391
 
 <a id="claim-t-205278"></a>
-- t-205278
+- t-007
   teiginys: "Sušaukė ku nigaikštis iš visų jo valioje buvusių kraštų pulkus, ne mažesnius kaimyninių kunigaikščių ir sąjungininkų bū rius iš Rusios bei Lietuvos, taip pat pasitelkė Užnerio kunigaikštį; tuo metu juo buvo Utenis, Livonijoje užmuš tojo Zvelgaičio sūnus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -133,9 +166,9 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     - c-187958
 
 <a id="claim-t-205283"></a>
-- t-205283
+- t-008
   teiginys: "Pasak Tado Volianskio, Utenis valdė, kai kryžiuočiai pirmą kartą užpuolė prūsus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -145,9 +178,9 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     - c-187721
 
 <a id="claim-t-205724"></a>
-- t-205724
+- t-009
   teiginys: "Utenis buvo Zvelgaičio sūnus ir palaikė plačius ryšius su kaimyninėmis šalimis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -157,9 +190,9 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     - c-188339
 
 <a id="claim-t-205725"></a>
-- t-205725
+- t-010
   teiginys: "Pasak Teodoro Narbuto, Utenis siuntė paramą Polocko kunigaikščiui Vosyliui, kai šis surengė žygį į Ikskulą ir Holmą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -251,6 +284,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-173875
   autorius: "Teodoras Narbutas"
@@ -272,6 +307,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-176624
   autorius: "Anoniminis metraštininkas"
@@ -295,6 +332,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-177120
   autorius: "Teodoras Narbutas"
@@ -319,6 +358,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-178796
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -352,8 +393,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196610
+  pagrindzia:
+    - t-005
 
 - id: c-184391
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -371,8 +412,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201041
+  pagrindzia:
+    - t-006
 
 - id: c-187721
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -390,8 +431,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205283
+  pagrindzia:
+    - t-008
 
 - id: c-187958
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -419,8 +460,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205278
+  pagrindzia:
+    - t-007
 
 - id: c-188339
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -442,8 +483,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205724
+  pagrindzia:
+    - t-009
 
 - id: c-188340
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -460,66 +501,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205725
-
-- id: c-193145
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 55"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 55."
-  citata_originali: |
-    Šventaragiui neilgai pabuvus Naugarduko bei Rusų
-    miestų kunigaikščiu, pasimirė jo tėvas Utenis2, Lietu­
-    vos ir Žemaičių didysis kunigaikštis
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211950
-
-- id: c-193925
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 48"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
-  citata_originali: |
-    Ir savo įpėdiniu Lietuvos ir Že­
-    maičių kunigaikštystėje paliko savo sūnų Utenį
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211294
-
-- id: c-199633
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 401"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 401."
-  citata_originali: |
-    Be
-    to, pas Henenbergerį yra užrašas senovės lietuvių kalba (apie
-    naują šio užrašo aiškinimą, padarytą pono Tado Volianskio, bus
-    kalbama šio veikalo trečiame tome). Tinkamai perskaičius, pa­
-    aiškėja, kad tai buvo Lietuvos kunigaikščio Utenio, kuris padėjo
-    prūsams kovoti su kryžiuočiais ir kuris buvo pramintas Zupanit,
-    vėliava. Čia gi pateikėme iliustraciją, padarytą pagal piešinį, gautą
-    iš Zaluskių bibliotekos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217122
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Utenis rėmė [[objektai/grupes/Prūsai]]

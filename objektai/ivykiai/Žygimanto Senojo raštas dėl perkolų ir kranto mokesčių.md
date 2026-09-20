@@ -44,6 +44,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201973"></a>
+- t-001
+  teiginys: "Nors Žygimantas Senasis numatė 100 kapų grašių baudą tiems, kurie nesilaikys šio jo nurodymo, matyt, kad Kauno pirklių bėdos Lietuvos upėse nesibaigė, nes 1552 ir 1556 m. Žygimantas Augustas kartojo 1538 m. rašto nurodymus neimti neįprasto dvigubo mokesčio."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185320
+
 ## Citatos
 
 - id: c-185320
@@ -64,20 +78,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201973"></a>
-- t-001
-  teiginys: "Nors Žygimantas Senasis numatė 100 kapų grašių baudą tiems, kurie nesilaikys šio jo nurodymo, matyt, kad Kauno pirklių bėdos Lietuvos upėse nesibaigė, nes 1552 ir 1556 m. Žygimantas Augustas kartojo 1538 m. rašto nurodymus neimti neįprasto dvigubo mokesčio."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185320
-

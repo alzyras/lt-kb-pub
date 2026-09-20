@@ -50,6 +50,21 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-194621"></a>
+- t-001
+  teiginys: "Atnašaujant dideles aukas, būdavo ir laidotuvių lauže sudeginama daug dalykų, net ir gyvi žmonės."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177020
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini auką už mirusius bičiulius, kai smilkymas kartais užbaigdavo Vėlinių iškilmes.'
@@ -92,40 +107,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201097
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 316"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 316."
-  citata_originali: |
-    Ant žemės būda­
-    vo nuliejama dalis gėrimų ir viralų, po stalu numesdavo mė­
-    sos naminiams plėšrūnams, nunešdavo į kapus. Atnašaujant
-    dideles aukas, būdavo ir laidotuvių lauže sudeginama daug
-    dalykų, net ir gyvi žmonės. Minėdami žuvusiuosius kare, de­
-    gindavo belaisvius arba paimtus gyvulius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-216505"></a>
-- t-001
-  teiginys: "Atnašaujant dideles aukas, būdavo ir laidotuvių lauže sudeginama daug dalykų, net ir gyvi žmonės."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-201097
-

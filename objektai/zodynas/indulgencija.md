@@ -34,6 +34,25 @@ media_all_json: |-
 
 Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupijų globėju, patvirtino Žemaičių vyskupiją ir apgynė ją nuo Rygos arkivyskupo pretenzijų, parėmė Vytauto žygius prieš totorius, uždedamas kunigijai kontribuciją (1424) tiems reikalams.
 
+## Teiginiai
+
+<a id="claim-t-36782"></a>
+- t-001
+  teiginys: "Martynas V suteikė indulgencijų Vytautui ir jo patarėjams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Martynas V: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatoje Martynas V yra veiksmo subjektas, o Vytautas tiesiogiai nurodytas kaip paskirtasis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Martynas V paskyrė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.91); Martynas V rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.84)"
+  pagrindžia:
+    - c-38735
+
 ## Citatos
 
 - id: c-38735
@@ -61,25 +80,5 @@ Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupij�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-36782"></a>
-- t-001
-  teiginys: "Martynas V suteikė indulgencijų Vytautui ir jo patarėjams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas V: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Martynas V yra veiksmo subjektas, o Vytautas tiesiogiai nurodytas kaip paskirtasis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Martynas V paskyrė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.91); Martynas V rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.84)"
-  pagrindžia:
-    - c-38735
-

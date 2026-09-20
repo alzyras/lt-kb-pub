@@ -35,22 +35,10 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
 
 ## Teiginiai
 
-<a id="claim-t-210533"></a>
-- t-210533
-  teiginys: "Vaišvilkas pakrikštijo Levo sūnų Jurijų."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193764
-
 <a id="claim-t-186226"></a>
-- t-186226
+- t-001
   teiginys: "Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų rankas, o vėliau prisiekęs atgavo tėvoniją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,9 +56,9 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
     - c-169587
 
 <a id="claim-t-196509"></a>
-- t-196509
+- t-002
   teiginys: "Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų rankas, o prisiekęs ištikimybę Jogailai ir Lietuvos didiesiems kunigaikščiams atgavo tėvoniją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -128,25 +116,9 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186226
-    - t-196509
-
-- id: c-193764
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 51"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 51."
-  citata_originali: |
-    Tuokart Vaišvilkas ir pakrikštijo Levo sūnų Jurijų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210533
+  pagrindzia:
+    - t-001
+    - t-002
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sviatoslavas]]

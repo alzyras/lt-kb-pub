@@ -46,6 +46,36 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
 ## Teiginiai
 
+<a id="claim-t-195238"></a>
+- t-001
+  teiginys: "1925 m. „Kalevalos dr-jos metraštyje“ 5 paskelbtas A. R. Niemio tekstas „Veliamos mergaitės meškeriojimas“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177604
+
+<a id="claim-t-195239"></a>
+- t-002
+  teiginys: "1929 m. „Kalevalos dr-jos metr. 9“ paskelbtas A. R. Niemio tekstas „Apie mūsų runų tyrinėjimo metodą“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177607
+
+<a id="claim-t-195240"></a>
+- t-003
+  teiginys: "1924 m. „Kalevalos dr-jos metraštyje“ 4 paskelbtas A. R. Niemio tekstas „Kalevalos estetiškas įvertinimas“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177605
+
 <a id="claim-t-195241"></a>
 - t-004
   teiginys: "1928 m. „Kalevalos dr-jos metr. 8“ paskelbtas A. R. Niemio tekstas „Iš lietuvių tautosakos“."
@@ -55,6 +85,26 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177609
+
+<a id="claim-t-195242"></a>
+- t-005
+  teiginys: "1926 m. „Kalevalos dr-jos metr. 6“ paskelbtas A. R. Niemio tekstas „Šis tas dėl aliteracijos atsiradimo ir raidos istorijos“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177606
+
+<a id="claim-t-195243"></a>
+- t-006
+  teiginys: "1927 m. „Kalevalos dr-jos metr. 7“ paskelbtas A. R. Niemio tekstas „Kaip reikia Kalevala dėstyti suomių kalbos mokyklose“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177608
 
 ## Citatos
 
@@ -74,6 +124,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-177605
   autorius: "A. Sabaliauskas"
@@ -91,6 +143,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-177606
   autorius: "A. Sabaliauskas"
@@ -108,6 +162,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-177607
   autorius: "A. Sabaliauskas"
@@ -128,6 +184,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-177608
   autorius: "A. Sabaliauskas"
@@ -144,6 +202,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-177609
   autorius: "A. Sabaliauskas"
@@ -155,11 +215,9 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Kalevalos dr-jos metr. 8.
   citata_rodoma: "1928 L. Iš lietuvių tautosakos. \nKalevalos dr-jos metr. 8."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-

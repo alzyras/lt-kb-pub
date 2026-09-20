@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Pranešėjo ir įsakomosios lazdos naudojimas nurodymams, teismams ir sueigoms skelbti
 
@@ -96,7 +93,7 @@ Budlafla senuosiuose šve dų įstatymuose būdavo vadinamas šaukimas į teism�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200728
@@ -114,6 +111,5 @@ Budlafla senuosiuose šve dų įstatymuose būdavo vadinamas šaukimas į teism�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -42,6 +42,32 @@ historical_names: []
 
 Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos. Taigi, kai šis ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­ rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­ dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­ klausančioje jam ir jo katedros bažnyčiai, savo ir savo.
 
+## Teiginiai
+
+<a id="claim-t-195190"></a>
+- t-001
+  teiginys: "Vilniaus vyskupui leista aikštėje ir bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo turguje ir Vilniaus aikštėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje nurodytą leidimą."
+  susije_objektai: "mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177556
+
+<a id="claim-t-195191"></a>
+- t-002
+  teiginys: "Dėl mėsinių Vilniaus turguje ir aikštėje kilo ginčas tarp Vilniaus vyskupo Povilo ir miesto vaito, tarėjų bei miestiečių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius; mentioned_place: Viena"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177555
+
 ## Citatos
 
 - id: c-177555
@@ -73,7 +99,7 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177556
@@ -106,32 +132,5 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195190"></a>
-- t-001
-  teiginys: "Vilniaus vyskupui leista aikštėje ir bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo turguje ir Vilniaus aikštėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje nurodytą leidimą."
-  susije_objektai: "mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177556
-
-<a id="claim-t-195191"></a>
-- t-002
-  teiginys: "Dėl mėsinių Vilniaus turguje ir aikštėje kilo ginčas tarp Vilniaus vyskupo Povilo ir miesto vaito, tarėjų bei miestiečių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius; mentioned_place: Viena"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177555
-

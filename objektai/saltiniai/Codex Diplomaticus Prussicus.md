@@ -40,49 +40,12 @@ media_all_json: |-
 
 „Codex Diplomaticus Prussicus“ pateikiamas kaip J. Voigto išleistas Prūsijos diplomatinių dokumentų rinkinys, apimantis 1299-1404 m. medžiagą. Kitas paminėjimas rodo, kad rinkinys šiame veikale vartojamas kaip dokumentinis pagrindas Jogailos laikotarpio įvykiams cituoti.
 
-## Citatos
-
-- id: c-37189
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  puslapiai: "PDF 9"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 9."
-  citata_originali: |
-    C. D. Prus. = Codex Diplomaticus Prussicus. I B., Koenigsberg,
-    1836.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-67301
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 16"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 16."
-  citata_originali: |
-    CB = Commentationes Balticae, Jahrbuch des Baltischen For­
-    schungsinstituts, t. 1-13, Bonn 1954-67.
-    CDPr = Codex Diplomaticus Prussicus, išl. J. Voigt, t. 3-6 (1299-
-    1404), Karaliaučius 1848-1861.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-67362"></a>
 - t-001
   teiginys: "„Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karaliaučius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -100,7 +63,7 @@ media_all_json: |-
 <a id="claim-t-67363"></a>
 - t-002
   teiginys: "„Codex Diplomaticus Prussicus“ I tomas išleistas Karaliaučiuje 1836 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -116,3 +79,39 @@ media_all_json: |-
   pagrindžia:
     - c-37189
 
+## Citatos
+
+- id: c-37189
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  puslapiai: "PDF 9"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 9."
+  citata_originali: |
+    C. D. Prus. = Codex Diplomaticus Prussicus. I B., Koenigsberg,
+    1836.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-67301
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 16."
+  citata_originali: |
+    CB = Commentationes Balticae, Jahrbuch des Baltischen For­
+    schungsinstituts, t. 1-13, Bonn 1954-67.
+    CDPr = Codex Diplomaticus Prussicus, išl. J. Voigt, t. 3-6 (1299-
+    1404), Karaliaučius 1848-1861.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

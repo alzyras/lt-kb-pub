@@ -58,9 +58,9 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
     - c-55630
 
 <a id="claim-t-55208"></a>
-- t-55208
+- t-002
   teiginys: "Kojelavičius ir Dlugošas palaikė versiją, kad Vilniaus pilių gaisrą sukėlė papirkti išdavikai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sources"
   ryšio_patikimumas: "susije_su -> Dlugošas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -74,9 +74,9 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
     - c-55631
 
 <a id="claim-t-81985"></a>
-- t-81985
+- t-003
   teiginys: "A. Vijūko-Kojelavičiaus Lietuvos istorijos p. 270 minimas Gedimino 1323-1324 m. įsiveržimas į Mazoviją ir Dobrynės žemę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::sources"
   ryšio_patikimumas: "puole -> Mazovija: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -122,12 +122,11 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
     Jogailą su motina ir seserimi Marija
     bei jos vyru.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-55631
@@ -149,8 +148,8 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55208
+  pagrindzia:
+    - t-002
 
 - id: c-78497
   autorius: "Michał Baliński"
@@ -188,6 +187,5 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-81985
-
+  pagrindzia:
+    - t-003

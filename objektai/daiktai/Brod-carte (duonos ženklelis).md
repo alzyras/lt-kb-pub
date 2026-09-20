@@ -1,12 +1,12 @@
 ---
 tipas: daiktas
-pavadinimas: 'Brod-carte (duonos ženklelis)'
+pavadinimas: Brod-carte (duonos ženklelis)
 variantai:
-  - 'Brod-carte'
+  - Brod-carte
 aliases:
-  - 'Brod-carte'
+  - Brod-carte
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -15,12 +15,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Brod-carte (duonos ženklelis)
 
@@ -85,6 +82,5 @@ Su brod-carte buvo galima gauti 90 gramų duonos per dieną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

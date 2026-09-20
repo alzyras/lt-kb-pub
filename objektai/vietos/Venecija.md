@@ -45,6 +45,23 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 
 ## Teiginiai
 
+<a id="claim-t-58747"></a>
+- t-001
+  teiginys: "Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Venecija: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigfridas iš Foichtvangeno: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Venecija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Zigfridas iš Foichtvangeno iškeliavo į Veneciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Zigfridas iš Foichtvangeno keliavo į Venecija (0.98)"
+  pagrindžia:
+    - c-167599
+
 <a id="claim-t-200782"></a>
 - t-002
   teiginys: "Vorobjovas rašė, kad Vilniaus gatvių vaizdai primena Veneciją, Bergamą ir kitus garsius turistų lankomus miestus."
@@ -57,38 +74,6 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   vertinimo_atnaujinta: "2026-07-14T18:29:35Z"
   pagrindžia:
     - c-184127
-
-<a id="claim-t-223604"></a>
-- t-223604
-  teiginys: "Po Akono miesto sugriovimo Ordino vyriausioji būstinė buvo Venecijoje iki perkėlimo į Marienburgą."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205330
-
-<a id="claim-t-223570"></a>
-- t-223570
-  teiginys: "Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Venecija: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigfridas iš Foichtvangeno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Venecija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo kelionę į Veneciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Zigfridas iš Foichtvangeno keliavo į Venecija (0.98)"
-  pagrindžia:
-    - c-204848
 
 ## Citatos
 
@@ -114,6 +99,8 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-184127
   autorius: "Mikalojus Vorobjovas"
@@ -129,59 +116,12 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
     suteikia miestui dar romantiškesnį pobūdį, — lygiai, kaip ir apleista, ap­
     kerpėjusi daugelio pastatų ir ištisų kvartalų išvaizda.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-204848
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 195-196"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195-196."
-  citata_originali: |
-    Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
-             kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
-
-      1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją
-    atvyko  į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo  į Prūsiją
-    ir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs  į Vokietiją, lengvapėdiškai
-    sugalvojo vėl jas eiti. Jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas
-    didžiuoju magistru brolis Zigfridas  iš Foichtvangeno, kuris  ir iškeliavo  į Veneciją,  į
-    vyriausiąją [Ordino] būstinę.
-
-    284 (277).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223570
-
-- id: c-205330
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 203."
-  citata_originali: |
-    1309 viešpaties metais, rugsėjį atvyko į Prūsijos žemę brolis Zigfridas iš Foichtvangeno,
-    vienuoliktas didysis magistras ir aštuonioliktas Prūsijos žemės magistras, ir perkėlė į
-    Marienburgo pilį Prūsijoje Ordino vyriausiąją būstinę, kuri po Akono miesto sugriovimo
-    buvo Venecijoje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223604
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Zigfridas iš Foichtvangeno]]

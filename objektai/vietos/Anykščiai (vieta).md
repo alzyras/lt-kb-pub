@@ -40,23 +40,10 @@ To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmer
 
 ## Teiginiai
 
-<a id="claim-t-208530"></a>
-- t-208530
-  teiginys: "Anykščių miestelio gyventojai pastatė kryžius su atitinkamais užrašais."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:46Z"
-  pagrindžia:
-    - c-191150
-
 <a id="claim-t-201715"></a>
-- t-201715
+- t-001
   teiginys: "To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmergę, Anykščius, kuris galėjo įsilieti į Vilniaus-Rygos kelią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -85,28 +72,5 @@ To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmer
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201715
-
-- id: c-191150
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 135"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 135."
-  citata_originali: |
-    Toks boikotas priversdavo, ypač kaimo smukles, likvi­
-    duotis ‘.
-    Blaivybės sąjūdžiui įamžinti tikintieji statė kryžius ir
-    paminklus. Štai anykštėnai Anykščių miestelyje pastatė
-    kryžius su atitinkamais užrašais1 2.
-  citata_rodoma: "Štai anykštėnai Anykščių miestelyje pastatė \nkryžius su atitinkamais užrašais1 2."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208530
-
+  pagrindzia:
+    - t-001

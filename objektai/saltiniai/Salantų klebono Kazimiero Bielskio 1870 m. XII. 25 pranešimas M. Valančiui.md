@@ -1,28 +1,25 @@
 ---
 tipas: saltinis
-pavadinimas: 'Salantų klebono Kazimiero Bielskio 1870 m. XII. 25 pranešimas M. Valančiui'
+pavadinimas: Salantų klebono Kazimiero Bielskio 1870 m. XII. 25 pranešimas M. Valančiui
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1870 m.'
+  - 1870 m.
 date_start: '1870'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Salantų klebono Kazimiero Bielskio 1870 m. XII. 25 pranešimas M. Valančiui
 

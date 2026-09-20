@@ -26,6 +26,24 @@ media_all_json: |-
 
 Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus iš Gožkovo, nuo Akademijos perkėlimo į Kroku­ vą Kazimiero laikais, buvo trečiasis jos rektorius ir taip pat trečiasis nuo Vilniaus katedros įsteigimo Lietuvos vvskupas".
 
+## Teiginiai
+
+<a id="claim-t-88458"></a>
+- t-001
+  teiginys: "O stanie Akademii Krakowskiej nurodoma, kad Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gožkovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "O stanie Akademii Krakowskiej: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gožkovas: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"O stanie Akademii Krakowskiej\" parinktas kaip owner_note_path. Targetas \"Gožkovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-84437
+
 ## Citatos
 
 - id: c-84437
@@ -58,24 +76,5 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-88458"></a>
-- t-001
-  teiginys: "O stanie Akademii Krakowskiej nurodoma, kad Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gožkovas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "O stanie Akademii Krakowskiej: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gožkovas: mention_match, place, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"O stanie Akademii Krakowskiej\" parinktas kaip owner_note_path. Targetas \"Gožkovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-84437
-

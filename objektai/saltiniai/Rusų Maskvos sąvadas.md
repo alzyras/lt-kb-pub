@@ -26,6 +26,45 @@ media_all_json: |-
 
 Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokiečiai prie Vilniaus miesto prieš Vytautą, ir buvo tarp jų didelis mūšis ir nugalėjo Lietuva“.
 
+## Teiginiai
+
+<a id="claim-t-39934"></a>
+- t-001
+  teiginys: "Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjo vokiečiai, įvyko didelis mūšis ir nugalėjo Lietuva."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vizna: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vizna: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje teigiama, kad lietuviai atakavo kryžiuočių kontroliuojamas Viznos apylinkes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai puolė Vizna (0.84)"
+  pagrindžia:
+    - c-41738
+
+<a id="claim-t-183704"></a>
+- t-002
+  teiginys: "Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjusius vokiečius dideliame mūšyje nugalėjo Lietuva."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Vizna: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vizna: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje nurodoma lietuvių ataka prieš kryžiuočių kontroliuojamas Viznos apylinkes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai puolė Vizna (0.84)"
+  pagrindžia:
+    - c-167092
+
 ## Citatos
 
 - id: c-41738
@@ -48,7 +87,7 @@ Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokieči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-167092
@@ -72,45 +111,5 @@ Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokieči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-39934"></a>
-- t-001
-  teiginys: "Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjo vokiečiai, įvyko didelis mūšis ir nugalėjo Lietuva."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vizna: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vizna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje teigiama, kad lietuviai atakavo kryžiuočių kontroliuojamas Viznos apylinkes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuviai puolė Vizna (0.84)"
-  pagrindžia:
-    - c-41738
-
-<a id="claim-t-183704"></a>
-- t-002
-  teiginys: "Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjusius vokiečius dideliame mūšyje nugalėjo Lietuva."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Vizna: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vizna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje nurodoma lietuvių ataka prieš kryžiuočių kontroliuojamas Viznos apylinkes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuviai puolė Vizna (0.84)"
-  pagrindžia:
-    - c-167092
-

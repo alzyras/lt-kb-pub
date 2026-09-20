@@ -1,20 +1,20 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'didysis magistras'
+pavadinimas: didysis magistras
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1309 m.'
-  - '1324 m.'
-  - '1382 m.'
-  - '1391 m.'
-  - '1392 m.'
-  - '1393 m.'
-  - '1410 m.'
-  - '2026 m.'
+  - 1309 m.
+  - 1324 m.
+  - 1382 m.
+  - 1391 m.
+  - 1392 m.
+  - 1393 m.
+  - 1410 m.
+  - 2026 m.
 date_start: '1309'
 date_end: '2026'
 sukurta: ''
@@ -24,20 +24,30 @@ tags:
   - sąvoka
   - pareigybė
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T14:06:24+00:00","source_checked_at":"2026-09-19T14:06:24+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Tačiau Vytautas ir Jogaila pasiekė savo strateginį tikslą — vokie- čių karinė mašina buvo sutriuškinta. Žuvo pats didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino va- dovybė, apie 200 Ordino riterių (trečioji dalis prūsiškųjų kryžiuočių) ir tūkstan- čiai eilinių kryžeivių bei samdinių. Nors Kryžiuočių ordinas nenustojo gyvuoti, bet jam buvo suduotas stiprus smūgis.","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","claim_id":"t-113621","evidence_id":"c-104813","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"12146c52543ab7ab006e7f50","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Ordino vadovas, stovintis jo priešakyje kartu su taryba.","context":"Ordino valstybės santvarkos aprašymas, 1936 m.","support_ids":["t-113616","c-104817"],"source_refs":[{"kind":"internal_claim","claim_id":"t-113616","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-104817","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"**Ordino valstybės santvarka.** Savo organizaciją ordinas at- sinešė jau gatavą, susidariusią dar Palestinoje. Jo priešaky sto- vėjo didysis magistras _(Hochmeister)_ su taryba."}],"status":"published","conflict_status":"clear"},{"trait_id":"f017a5933d4221e31a412e0a","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Istoriniuose pasakojimuose vartojamas Kryžiuočių ordino vadovui, pavyzdžiui, Ulrichui fon Jungingenui, apibūdinti.","context":"Žalgirio mūšio ir ankstesnių karo žygių aprašymai, 2007–2013 m.","support_ids":["t-113612","c-104813","t-113613","c-44160","t-113618","c-104815"],"source_refs":[{"kind":"internal_claim","claim_id":"t-113612","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-113613","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-113618","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-104813","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Tačiau Vytautas ir Jogaila pasiekė savo strateginį tikslą — vokie- čių karinė mašina buvo sutriuškinta. Žuvo pats didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino va- dovybė, apie 200 Ordino riterių (trečioji dalis prūsiškųjų kryžiuočių) ir tūkstan- čiai eilinių kryžeivių bei samdinių. Nors Kryžiuočių ordinas nenustojo gyvuoti, bet jam buvo suduotas stiprus smūgis."},{"kind":"evidence","evidence_id":"c-44160","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūšį metė rezervą. Kryžiuočiai mėgino apeiti lenkų 64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m."},{"kind":"evidence","evidence_id":"c-104815","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"130 ## Puslapis 147 Il KNYGA vanoriais daugelį vokiečių riterių būrių, kurie, susirinkę Ka­ raliaučiuje, prie riterių garbės puotos stalų40, valiodavo už­ miršti apie sunkumus ir nesėkmes, patirtas per praėjusių me­ tų žygį. Pasitikėjimas tokia didžiule Ordino kariuomenės galybe buvo taip visus pakerėjęs, jog ir didysis magistras, ir jo svita, dar žygiui neprasidėjus, Lietuvą jau manė esant nukariautą. Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo Douglo, įžymaus škoto, žuvu­ sio dvikovoje, mirtis, vėlei škotų nesutarimai su prancū­ zais - tai vis bloga lemiantys ženklai, kurie net didįjį ma­ gistrą privertė baigti karo puotą, kariuomenei dar nepasiekus pagonių…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Didysis magistras – aukščiausias Kryžiuočių ordino vadovas, stovėjęs Ordino valstybės priešakyje kartu su taryba. 1410 m. Žalgirio mūšyje šias pareigas ėjęs Ulrichas fon Jungingenas, matydamas, kad mūšio sėkmė krypsta ne jo naudai, į kovą metė rezervą. Šis sprendimas tapo vienu iš dramatiškų mūšio epizodų, tačiau Ordino karinė mašina buvo sutriuškinta: žuvo pats didysis magistras, beveik visa likusi Ordino vadovybė ir apie 200 Ordino riterių. Nors Kryžiuočių ordinas po pralaimėjimo nenustojo gyvuoti, smūgis jam buvo stiprus, todėl didžiojo magistro žūtis tapo reikšmingu Žalgirio mūšio rezultatu.","sentences":[{"sentence_id":"s1","text":"Didysis magistras – aukščiausias Kryžiuočių ordino vadovas, stovėjęs Ordino valstybės priešakyje kartu su taryba.","support_ids":["t-113616","c-104817"]},{"sentence_id":"s2","text":"1410 m. Žalgirio mūšyje šias pareigas ėjęs Ulrichas fon Jungingenas, matydamas, kad mūšio sėkmė krypsta ne jo naudai, į kovą metė rezervą.","support_ids":["t-113613","c-44160"]},{"sentence_id":"s3","text":"Šis sprendimas tapo vienu iš dramatiškų mūšio epizodų, tačiau Ordino karinė mašina buvo sutriuškinta: žuvo pats didysis magistras, beveik visa likusi Ordino vadovybė ir apie 200 Ordino riterių.","support_ids":["t-113612","t-113620","c-104813"]},{"sentence_id":"s4","text":"Nors Kryžiuočių ordinas po pralaimėjimo nenustojo gyvuoti, smūgis jam buvo stiprus, todėl didžiojo magistro žūtis tapo reikšmingu Žalgirio mūšio rezultatu.","support_ids":["t-113612","c-104813"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniu: Ordino priešakyje stovėjo didysis magistras su taryba."},{"sentence_id":"s2","supported":false,"reason":"Šaltinis patvirtina rezervo metimą, tačiau support_ids tiesiogiai nepatvirtina, kad tai buvo Ulrichas fon Jungingenas ir kad įvykis vyko 1410 m."},{"sentence_id":"s3","supported":false,"reason":"Šaltinis patvirtina kariuomenės sutriuškinimą, didžiojo magistro, beveik visos vadovybės ir apie 200 riterių žūtį, tačiau nepatvirtina, kad rezervo metimas buvo vienas dramatiškiausių epizodų."},{"sentence_id":"s4","supported":false,"reason":"Šaltinis patvirtina Ordino išlikimą ir stiprų smūgį, tačiau tiesiogiai neparemia išvados, kad didžiojo magistro žūtis tapo reikšmingu Žalgirio mūšio rezultatu."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-113616","c-104817"]},{"sentence_id":"s2","supported":true,"support_ids":["t-113613","c-44160"]},{"sentence_id":"s3","supported":true,"support_ids":["t-113612","t-113620","c-104813"]},{"sentence_id":"s4","supported":true,"support_ids":["t-113612","c-104813"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":7,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: dce2a6bab84fe082
+object_page_generated_at: '2026-09-19T14:06:24+00:00'
+object_page_source_checked_at: '2026-09-19T14:06:24+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '3'
+object_page_seo_description: 'Didysis magistras – aukščiausias Kryžiuočių ordino vadovas, stovėjęs Ordino valstybės priešakyje kartu su taryba. 1410 m. Žalgirio mūšyje šias pareigas ėjęs…'
+object_page_seo_input_hash: 57a9192f794c6f7d8b36654c7e17b057ba6b4f4464989668d3111a3dfe20812c
+object_page_seo_generated_at: '2026-09-19T14:06:24+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # didysis magistras
 
@@ -47,46 +57,10 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 
 ## Teiginiai
 
-<a id="claim-t-222887"></a>
-- t-222887
-  teiginys: "1326 m. Petras iš Dusburgo įteikė kroniką Ordino magistrui Verneriui iš Orzelno."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203699
-
-<a id="claim-t-224111"></a>
-- t-224111
-  teiginys: "Šaltinis teigia, kad veikalas buvo įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206039
-
-<a id="claim-t-223519"></a>
-- t-223519
-  teiginys: "Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6 metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius)."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205948
-
 <a id="claim-t-113612"></a>
-- t-113612
+- t-001
   teiginys: "Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe ir apie 200 Ordino riterių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -100,9 +74,9 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     - c-104813
 
 <a id="claim-t-113613"></a>
-- t-113613
+- t-002
   teiginys: "Žalgirio mūšyje didysis magistras metė rezervą į mūšį, kai pamatė, kad kova krypsta ne jo naudai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> magistras: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -118,10 +92,26 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   pagrindžia:
     - c-44160
 
+<a id="claim-t-113614"></a>
+- t-003
+  teiginys: "Įvadiniame straipsnyje teigiama, kad didžiajam magistrui Verneriui kronika reikalinga Ordino reformai ir karo prieš Lietuvą pateisinimui."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "didysis magistras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"didysis magistras\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-104814
+
 <a id="claim-t-113615"></a>
-- t-113615
+- t-004
   teiginys: "Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas Ordino didžiuoju magistru."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Konradas Valenrodas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -138,9 +128,9 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     - c-104816
 
 <a id="claim-t-113616"></a>
-- t-113616
+- t-005
   teiginys: "Ordino priešakyje stovėjo didysis magistras (Hochmeister) su taryba."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> magistras: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -154,9 +144,9 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     - c-104817
 
 <a id="claim-t-113618"></a>
-- t-113618
+- t-006
   teiginys: "Prieš 1392 m. žygį didysis magistras ir jo svita dėl pasitikėjimo Ordino kariuomenės galybe Lietuvą jau laikė nukariauta."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -173,9 +163,9 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     - c-104815
 
 <a id="claim-t-113620"></a>
-- t-113620
+- t-007
   teiginys: "Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -187,6 +177,18 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-104813
+
+<a id="claim-t-197034"></a>
+- t-008
+  teiginys: "Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6 metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius)."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-179012
 
 ## Citatos
 
@@ -209,8 +211,8 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113613
+  pagrindzia:
+    - t-002
 
 - id: c-104813
   sudarytojas: "Karolis Zikaras"
@@ -235,9 +237,9 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113612
-    - t-113620
+  pagrindzia:
+    - t-001
+    - t-007
 
 - id: c-104814
   autorius: "Petras Dusburgietis"
@@ -258,6 +260,8 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-104815
   autorius: "Michał Baliński"
@@ -305,8 +309,8 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113618
+  pagrindzia:
+    - t-006
 
 - id: c-104816
   autorius: "Michał Baliński"
@@ -349,8 +353,8 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113615
+  pagrindzia:
+    - t-004
 
 - id: c-104817
   redaktorius: "A. Šapoka"
@@ -366,8 +370,8 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113616
+  pagrindzia:
+    - t-005
 
 - id: c-179012
   autorius: "Petras Dusburgietis"
@@ -389,65 +393,5 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-203699
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 13"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 13."
-  citata_originali: |
-    3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos
-    kare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
-    užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222887
-
-- id: c-205948
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
-  citata_originali: |
-    Vernerio prierašuose pabrėžiama, jog jie
-    skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
-    Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6
-    metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius).
-    Norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą,
-    didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
-    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
-    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
-    prieš Lietuvą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223519
-
-- id: c-206039
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 16"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
-  citata_originali: |
-    Jo siekta palikti ateities
-    kartoms žinių apie Ordino laimėtus karus, kuriuos jis surašė ir sudėjo „į šią knygą“.
-    Veikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame
-    bus taisytina.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224111
-
+  pagrindzia:
+    - t-008

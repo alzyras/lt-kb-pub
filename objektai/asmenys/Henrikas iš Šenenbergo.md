@@ -35,6 +35,25 @@ canonical_biography: "Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, j
 
 Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo komtūras, ir.
 
+## Teiginiai
+
+<a id="claim-t-60317"></a>
+- t-001
+  teiginys: "Henrikas iš Šenenbergo, Kristburgo komtūras, su Helvigu iš Goldbacho užtiko Herkų Mantą ir jį nužudė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Herkus Mantas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas iš Šenenbergo: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Herkus Mantas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Henrikas iš Šenenbergo su kitais užtiko Herkų Mantą ir dalyvavo jo nužudyme."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas iš Šenenbergo puolė Herkus Mantas (0.86); Henrikas iš Šenenbergo buvo sąjungininkas su Helvigas iš Goldbacho (0.76)"
+  pagrindžia:
+    - c-60949
+
 ## Citatos
 
 - id: c-60949
@@ -56,21 +75,5 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-221266"></a>
-- t-001
-  teiginys: "Henrikas iš Šenenbergo, Kristburgo komtūras, su Helvigu iš Goldbacho užtiko Herkų Mantą ir jį nužudė."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Herkus Mantas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Šenenbergo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Herkus Mantas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Henrikas iš Šenenbergo su kitais užtiko Herkų Mantą ir dalyvavo jo nužudyme."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Henrikas iš Šenenbergo puolė Herkus Mantas (0.86); Henrikas iš Šenenbergo buvo sąjungininkas su Helvigas iš Goldbacho (0.76)"
-
+  pagrindzia:
+    - t-001

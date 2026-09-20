@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Jūra (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Jūra (vieta)
+identifikacija: vieta
 variantai:
-  - 'Jūra'
+  - Jūra
 aliases:
-  - 'Jūra'
+  - Jūra
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9112da73899a539b5b66eabb"
-canonical_name: "Jūra (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Jūra","Jūra (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9112da73899a539b5b66eabb
+canonical_name: Jūra (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Jūra
+  - Jūra (vieta)
 sameAs: []
-canonical_biography: "Jūra prasideda Raseinių apskrityje prie Štreitlauk ių kaimo ir iš dešinės įteka į Nemuną."
+canonical_biography: Jūra prasideda Raseinių apskrityje prie Štreitlauk ių kaimo ir iš dešinės įteka į Nemuną.
 ---
 # Jūra (vieta)
 
@@ -73,6 +73,5 @@ Jūra prasideda Raseinių apskrityje prie Štreitlauk ių kaimo ir iš dešinės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

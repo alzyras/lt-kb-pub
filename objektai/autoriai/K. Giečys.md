@@ -1,39 +1,39 @@
 ---
 tipas: autorius
-pavadinimas: 'K. Giečys'
+pavadinimas: K. Giečys
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1858 m.'
-  - '1935 m.'
+  - 1858 m.
+  - 1935 m.
 date_start: '1858'
 date_end: '1935'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
-  - 'XX'
+  - XIX
+  - XX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3478dbd4ac06c9c4f4354038"
-canonical_name: "K. Giečys"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["K. Giečys"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3478dbd4ac06c9c4f4354038
+canonical_name: K. Giečys
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - K. Giečys
 sameAs: []
-canonical_biography: "K. Giečys 1935 m. Vilniuje lenkų kalba išleido studiją „Blaivybės brolijos Žemaičių diecezijoje 1858-1864 m.“. K. Giečys išsamiausiai tyrė blaivybės brolijų veiklą Žemaičių (Telšių) vyskupystėje. K. Giečys aiškino, kad pirmieji blaivybės brolijų žingsniai galėjo būti žengti neviešai."
+canonical_biography: 'K. Giečys 1935 m. Vilniuje lenkų kalba išleido studiją „Blaivybės brolijos Žemaičių diecezijoje 1858-1864 m.“. K. Giečys išsamiausiai tyrė blaivybės brolijų veiklą Žemaičių (Telšių) vyskupystėje. K. Giečys aiškino, kad pirmieji blaivybės brolijų žingsniai galėjo būti žengti neviešai.'
 ---
 # K. Giečys
 

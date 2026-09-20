@@ -46,6 +46,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206038"></a>
+- t-001
+  teiginys: "1326 m. birželį lietuviai užpuolė Brandenburgo markgrafystę; Teodoras Narbutas šį puolimą apibūdino kaip pragaištingą, o lietuviai išsivedė iki šešių tūkstančių belaisvių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188653
+
 ## Santrauka
 
 1326 m. birželį lietuviai užpuolė Brandenburgo markgrafystę; Teodoras Narbutas šį puolimą apibūdino kaip pragaištingą, o lietuviai išsivedė iki šešių tūkstančių belaisvių.
@@ -67,21 +82,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206038"></a>
-- t-001
-  teiginys: "1326 m. birželį lietuviai užpuolė Brandenburgo markgrafystę; Teodoras Narbutas šį puolimą apibūdino kaip pragaištingą, o lietuviai išsivedė iki šešių tūkstančių belaisvių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188653
-

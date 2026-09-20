@@ -1,14 +1,14 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jadvyga Jogailienė'
+pavadinimas: Jadvyga Jogailienė
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1377 m.'
-  - '1398 m.'
+  - 1377 m.
+  - 1398 m.
 date_start: '1377'
 date_end: '1398'
 sukurta: ''
@@ -18,35 +18,377 @@ tags:
   - karalius
   - asmuo
 amziai:
-  - 'XIV'
+  - XIV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AJadwiga_by_Bacciarelli.jpg'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'portrait_of'
-media_primary_json: |-
-  {"mediaId":"m-421cb99915ff57f86b0b8a85","title":"Jadwiga by Bacciarelli.jpg","caption":"Jadvygos, Lenkijos karalienės, portretas.","originalTitle":"Jadwiga by Bacciarelli.jpg","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Poczet królów polskich z Zamku Królewskiego w Warszawie Marcelego Bacciarellego [1]","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":757,"height":952,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJadwiga_by_Bacciarelli.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1760s portrait paintings from Poland (female)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Female portrait paintings with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Jadwiga of Poland in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"On OSM","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-auto-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish Kings by Bacciarelli","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait miniatures with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait paintings of queens of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Queens Crown","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Wikiszkoła - władcy i władczynie Polski","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Jadvyga Jogailienė.md","title":"Jadvyga Jogailienė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:55:03.437855+03:00","reviewedAt":"2026-07-18T17:56:01.890472+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotos karalienės portretas.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai nurodo Queen Jadwiga Anjou; tai Jadvyga, vėliau tapusi Jogailos žmona ir Lenkijos karaliene.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinės Jadvygos atvaizdas.","isPrimary":1}
-media_direct_json: |-
-  [{"mediaId":"m-421cb99915ff57f86b0b8a85","title":"Jadwiga by Bacciarelli.jpg","caption":"Jadvygos, Lenkijos karalienės, portretas.","originalTitle":"Jadwiga by Bacciarelli.jpg","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Poczet królów polskich z Zamku Królewskiego w Warszawie Marcelego Bacciarellego [1]","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":757,"height":952,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJadwiga_by_Bacciarelli.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1760s portrait paintings from Poland (female)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Female portrait paintings with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Jadwiga of Poland in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"On OSM","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-auto-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish Kings by Bacciarelli","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait miniatures with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait paintings of queens of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Queens Crown","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Wikiszkoła - władcy i władczynie Polski","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Jadvyga Jogailienė.md","title":"Jadvyga Jogailienė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:55:03.437855+03:00","reviewedAt":"2026-07-18T17:56:01.890472+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotos karalienės portretas.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai nurodo Queen Jadwiga Anjou; tai Jadvyga, vėliau tapusi Jogailos žmona ir Lenkijos karaliene.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinės Jadvygos atvaizdas.","isPrimary":1}]
-media_contextual_json: |-
-  []
-media_all_json: |-
-  [{"mediaId":"m-421cb99915ff57f86b0b8a85","title":"Jadwiga by Bacciarelli.jpg","caption":"Jadvygos, Lenkijos karalienės, portretas.","originalTitle":"Jadwiga by Bacciarelli.jpg","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Poczet królów polskich z Zamku Królewskiego w Warszawie Marcelego Bacciarellego [1]","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":757,"height":952,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJadwiga_by_Bacciarelli.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1760s portrait paintings from Poland (female)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Female portrait paintings with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Jadwiga of Poland in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"On OSM","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-auto-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish Kings by Bacciarelli","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait miniatures with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait paintings of queens of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Queens Crown","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Wikiszkoła - władcy i władczynie Polski","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Jadvyga Jogailienė.md","title":"Jadvyga Jogailienė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:55:03.437855+03:00","reviewedAt":"2026-07-18T17:56:01.890472+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotos karalienės portretas.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai nurodo Queen Jadwiga Anjou; tai Jadvyga, vėliau tapusi Jogailos žmona ir Lenkijos karaliene.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinės Jadvygos atvaizdas.","isPrimary":1}]
-entity_id: "ent-1e7eefa1b1159be5dd813677"
-canonical_name: "Jadvyga Jogailienė"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jadvyga Jogailienė","karalienė Jadvyga"]
+media_primary_directness: direct
+media_primary_relation_type: portrait_of
+media_primary_json: '{"mediaId":"m-421cb99915ff57f86b0b8a85","title":"Jadwiga by Bacciarelli.jpg","caption":"Jadvygos, Lenkijos karalienės, portretas.","originalTitle":"Jadwiga by Bacciarelli.jpg","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Poczet królów polskich z Zamku Królewskiego w Warszawie Marcelego Bacciarellego [1]","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":757,"height":952,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJadwiga_by_Bacciarelli.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1760s portrait paintings from Poland (female)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Female portrait paintings with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Jadwiga of Poland in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"On OSM","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-auto-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish Kings by Bacciarelli","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait miniatures with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait paintings of queens of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Queens Crown","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Wikiszkoła - władcy i władczynie Polski","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Jadvyga Jogailienė.md","title":"Jadvyga Jogailienė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:55:03.437855+03:00","reviewedAt":"2026-07-18T17:56:01.890472+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotos karalienės portretas.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai nurodo Queen Jadwiga Anjou; tai Jadvyga, vėliau tapusi Jogailos žmona ir Lenkijos karaliene.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinės Jadvygos atvaizdas.","isPrimary":1}'
+media_direct_json: '[{"mediaId":"m-421cb99915ff57f86b0b8a85","title":"Jadwiga by Bacciarelli.jpg","caption":"Jadvygos, Lenkijos karalienės, portretas.","originalTitle":"Jadwiga by Bacciarelli.jpg","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Poczet królów polskich z Zamku Królewskiego w Warszawie Marcelego Bacciarellego [1]","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":757,"height":952,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJadwiga_by_Bacciarelli.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1760s portrait paintings from Poland (female)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Female portrait paintings with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Jadwiga of Poland in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"On OSM","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-auto-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish Kings by Bacciarelli","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait miniatures with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait paintings of queens of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Queens Crown","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Wikiszkoła - władcy i władczynie Polski","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Jadvyga Jogailienė.md","title":"Jadvyga Jogailienė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:55:03.437855+03:00","reviewedAt":"2026-07-18T17:56:01.890472+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotos karalienės portretas.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai nurodo Queen Jadwiga Anjou; tai Jadvyga, vėliau tapusi Jogailos žmona ir Lenkijos karaliene.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinės Jadvygos atvaizdas.","isPrimary":1}]'
+media_contextual_json: '[]'
+media_all_json: '[{"mediaId":"m-421cb99915ff57f86b0b8a85","title":"Jadwiga by Bacciarelli.jpg","caption":"Jadvygos, Lenkijos karalienės, portretas.","originalTitle":"Jadwiga by Bacciarelli.jpg","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Poczet królów polskich z Zamku Królewskiego w Warszawie Marcelego Bacciarellego [1]","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":757,"height":952,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJadwiga_by_Bacciarelli.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1760s portrait paintings from Poland (female)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Female portrait paintings with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Jadwiga of Poland in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"On OSM","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-auto-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish Kings by Bacciarelli","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait miniatures with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait paintings of queens of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Queens Crown","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Wikiszkoła - władcy i władczynie Polski","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Jadvyga Jogailienė.md","title":"Jadvyga Jogailienė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:55:03.437855+03:00","reviewedAt":"2026-07-18T17:56:01.890472+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotos karalienės portretas.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai nurodo Queen Jadwiga Anjou; tai Jadvyga, vėliau tapusi Jogailos žmona ir Lenkijos karaliene.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinės Jadvygos atvaizdas.","isPrimary":1}]'
+entity_id: ent-1e7eefa1b1159be5dd813677
+canonical_name: Jadvyga Jogailienė
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jadvyga Jogailienė
+  - karalienė Jadvyga
 sameAs: []
-canonical_biography: "Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.). 1384 m., kada Jadvyga jau buvo atvažiavusi iš Vengrijos į Krokuvą ir buvo vainikuota Lenkijos karaliene, pas Jogailą atvyko speciali lenkų ponų delegacija. Su pačia Jadvyga nebuvo ko kalbėti, nes ji tebuvo dar vos 14 metų mergaitė, buvo įsimylėjusi savo sužadėtinį Vilhelmą ir apie Jogailą nenorėjo nė klausyti. Papildomai išryškinami jos politiniai ginčai su Vytautu dėl kraičiu laikytų Lietuvos ir Rusios žemių, nepalankus požiūris į jo rytų politiką ir mirtis prieš Vorsklos mūšį."
+canonical_biography: 'Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.). 1384 m., kada Jadvyga jau buvo atvažiavusi iš Vengrijos į Krokuvą ir buvo vainikuota Lenkijos karaliene, pas Jogailą atvyko speciali lenkų ponų delegacija. Su pačia Jadvyga nebuvo ko kalbėti, nes ji tebuvo dar vos 14 metų mergaitė, buvo įsimylėjusi savo sužadėtinį Vilhelmą ir apie Jogailą nenorėjo nė klausyti. Papildomai išryškinami jos politiniai ginčai su Vytautu dėl kraičiu laikytų Lietuvos ir Rusios žemių, nepalankus požiūris į jo rytų politiką ir mirtis prieš Vorsklos mūšį.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T06:10:43+00:00","source_checked_at":"2026-09-19T06:10:43+00:00","counts":{"relations":6,"gallery":1,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Ka­ ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­ riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­ gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­ jos karalium“.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","claim_id":"t-176415","evidence_id":"c-15945","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b42125bcc9e430f47028a771","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Michał Baliński ją apibūdina kaip „žavesiu ir tauriais jausmais švytinčią“.","context":"1387 m. sausį, atvykstant į Vilnių; tai šaltinio autoriaus vertinimas.","support_ids":["t-176416","c-160431"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176416","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-160431","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"vfa1 ft I'' W Ji,\\V,|<jr iv try., 106 ## Puslapis 123 Il KNYGA Galop išsižadėjęs jau apnykusių pagonybės prietarų, kaip naujas Kristaus tikėjimo išpažinėjas ir uolus savo tautos apaštalas, 1387 metų sausį lietuvių žemėje Gedimino sostinė­ je atsirado Vladislovas Jogaila. Kartu su juo atvyko žavesiu ir tauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­ čionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno arkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­ čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­ krikštytieji Krokuvoje."}],"status":"published","conflict_status":"clear"},{"trait_id":"788f3aa60c9a1a1d343de9c1","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Šaltinyje teigiama, kad Jadvyga troško skleisti krikščionybę.","context":"1387 m. sausį, kartu su Jogaila atvykstant į Vilnių; teiginys pateiktas Michał Baliński veikale.","support_ids":["t-176416","c-160431"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176416","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-160431","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"vfa1 ft I'' W Ji,\\V,|<jr iv try., 106 ## Puslapis 123 Il KNYGA Galop išsižadėjęs jau apnykusių pagonybės prietarų, kaip naujas Kristaus tikėjimo išpažinėjas ir uolus savo tautos apaštalas, 1387 metų sausį lietuvių žemėje Gedimino sostinė­ je atsirado Vladislovas Jogaila. Kartu su juo atvyko žavesiu ir tauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­ čionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno arkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­ čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­ krikštytieji Krokuvoje."}],"status":"published","conflict_status":"clear"},{"trait_id":"c97a514a6204a2dcbac93cc5","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Jadvyga buvo Lenkijos karalienė; 1384 m. spalio 15 d. ji buvo karūnuota Lenkijos karaliumi.","context":"Krokuva, 1384 m. spalio 13–15 d.; šaltinis ją vadina keturiolikmete karaliene ir nurodo karūnavimą.","support_ids":["t-176414","c-15945"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176414","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-15945","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Ka­ ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­ riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­ gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­ jos karalium“."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7518320f2661f326ec43c817","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Jadvyga buvo Jogailos žmona.","context":"Krėvos sutarties sąlygomis 1385 m. Jogaila turėjo ją vesti; santuoka įvyko 1386 m. vasario 18 d.","support_ids":["t-176428","c-160438","t-176433","c-160436"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176428","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-176433","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-160438","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai, regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu. Su- tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų belaisvius ir „prišlieti“ Lietuvą prie Lenkijos. „Prišlieti“ būtina rašyti su ka- butėmis: mat iki šiol ginčijamasi, kaip išversti lotynišką žodį applicare."},{"kind":"evidence","evidence_id":"c-160436","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Po krikšto įvyko jo jung- tuvės su Jadvyga ir karūnacija Lenkijos karalium (krikštas buvo 1386 m. vasario 15, jungtuvės — 18 d., o karūnacija — kovo 4 d.)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6494daaf54ed529738f4591c","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Jadvyga laišku kreipėsi į Vytautą ir reikalavo mokėti jai metinį činšą už Lietuvos ir Rusijos žemes.","context":"Laiško Vytautui aplinkybės; šaltinis nurodo, kad ji rėmė reikalavimą kraičio teise į užrašytas žemes.","support_ids":["t-176429","c-36340"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176429","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-36340","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Tada Jadvyga „mylimam broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­ tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį činšą^3 ). Kiek toks reikalavimas buvo teisingas, sunku pasakyti, bet tokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad tos žemės priklauso Lenkijai."}],"status":"published","conflict_status":"clear"},{"trait_id":"b3dd7e541e4308969b2ee7c8","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Istorijos vadovėlyje teigiama, kad 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.","context":"Teiginys pateiktas Lietuvos istorijos apibendrinime apie 1386 m. vedybų pasekmes.","support_ids":["t-193624","c-176295"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193624","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-176295","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Šio karo pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei- kalus, galų gale privedęs prie Lenkijos ir Lietuvos Valstybės padalijimų ir panaikinimo. ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Jadvyga Jogailienė buvo Lenkijos karalienė, kurios santuoka su Jogaila tapo svarbiu Lietuvos ir Lenkijos politinių santykių lūžiu. 1384 m. spalio 13 d. ji iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi. 1385 m. Krėvos sutarties sąlygomis Jogaila įsipareigojo ją vesti, įvesti Lietuvoje katalikų tikėjimą ir siekti kitų sutartyje numatytų politinių tikslų; jų jungtuvės įvyko 1386 m. vasario 18 d. Jadvyga buvo siejama ir su Vilniaus religinio gyvenimo stiprinimu: pašventintą Šv. Stanislovo katedrą ji apdovanojo brangiais bažnytiniais reikmenimis bei kitu turtu iš savo lobyno. Vėliau ji Vytautui laišku priminė, kad Jogailos valdytos Lietuvos ir Rusijos žemės buvo jai užrašytos kraičiu, todėl reikalavo už jas metinio činšo.","sentences":[{"sentence_id":"s1","text":"Jadvyga Jogailienė buvo Lenkijos karalienė, kurios santuoka su Jogaila tapo svarbiu Lietuvos ir Lenkijos politinių santykių lūžiu.","support_ids":["c-15945","c-160438"]},{"sentence_id":"s2","text":"1384 m. spalio 13 d. ji iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi.","support_ids":["c-15945"]},{"sentence_id":"s3","text":"1385 m. Krėvos sutarties sąlygomis Jogaila įsipareigojo ją vesti, įvesti Lietuvoje katalikų tikėjimą ir siekti kitų sutartyje numatytų politinių tikslų; jų jungtuvės įvyko 1386 m. vasario 18 d.","support_ids":["c-160438","c-160436"]},{"sentence_id":"s4","text":"Jadvyga buvo siejama ir su Vilniaus religinio gyvenimo stiprinimu: pašventintą Šv. Stanislovo katedrą ji apdovanojo brangiais bažnytiniais reikmenimis bei kitu turtu iš savo lobyno.","support_ids":["c-160441"]},{"sentence_id":"s5","text":"Vėliau ji Vytautui laišku priminė, kad Jogailos valdytos Lietuvos ir Rusijos žemės buvo jai užrašytos kraičiu, todėl reikalavo už jas metinio činšo.","support_ids":["c-36340"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai patvirtina Jadvygos karalienės statusą ir santuoką su Jogaila, tačiau tiesiogiai nepatvirtina, kad ši santuoka buvo Lietuvos ir Lenkijos politinių santykių lūžis."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1384 m. spalio 13 d. atvykimą į Krokuvą ir karūnavimą po dviejų dienų."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Krėvos sutarties įsipareigojimus ir 1386 m. vasario 18 d. jungtuves."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina, kad Jadvyga pašventintą Vilniaus Šv. Stanislovo katedrą apdovanojo brangiais rykais ir kitu turtu iš savo lobyno."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai patvirtina Jadvygos laišką Vytautui, kraičiu užrašytas Lietuvos ir Rusijos žemes bei reikalavimą mokėti metinį činšą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["c-15945","c-160438"]},{"sentence_id":"s2","supported":false,"support_ids":["c-15945"]},{"sentence_id":"s3","supported":false,"support_ids":["c-160438","c-160436"]},{"sentence_id":"s4","supported":false,"support_ids":["c-160441"]},{"sentence_id":"s5","supported":false,"support_ids":["c-36340"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-421cb99915ff57f86b0b8a85","reason":"visual_verified_identity_primary","identity_verified":true,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[],"media_verification":{"status":"verified","primary_media_id":"m-421cb99915ff57f86b0b8a85","candidate_count":1,"visual_verified_count":1,"identity_verified_count":1,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Tai tiesioginis istorinės Jadvygos atvaizdas.","visual_evidence":"Matomas karūnuotos karalienės portretas.","metadata_evidence":"Kandidato pavadinimas ir aprašas aiškiai nurodo Queen Jadwiga Anjou; tai Jadvyga, vėliau tapusi Jogailos žmona ir Lenkijos karaliene.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_dukte","direction":"outbound","target":"objektai/asmenys/Liudvikas","claim_id":"t-176422","confidence":0.94},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Krokuva","claim_id":"t-176414","confidence":0.97},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-176416","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-88429","confidence":0.68},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-185099","confidence":0.78},{"predicate":"vede","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-12173","confidence":0.96}],"timeline":[{"date":"1384 m.","label":"Jadvyga 1384 m.","claimId":"t-176414"},{"date":"1384 m.","label":"Jadvyga 1384 m.","claimId":"t-176415"},{"date":"1385 m.","label":"Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino didįjį magistrą 1385 m.","claimId":"t-176413"},{"date":"1386 m.","label":"1386 m.","claimId":"t-176433"},{"date":"1386 m.","label":"ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m.","claimId":"t-193624"}],"support_disclosure":{"claims":19,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ea8578c11e76afa8
+object_page_generated_at: '2026-09-19T06:10:43+00:00'
+object_page_source_checked_at: '2026-09-19T06:10:43+00:00'
+object_page_content_state: content
+object_page_claim_count: '19'
+object_page_source_count: '4'
+object_page_seo_description: 'Jadvyga Jogailienė buvo Lenkijos karalienė, kurios santuoka su Jogaila tapo svarbiu Lietuvos ir Lenkijos politinių santykių lūžiu. 1384 m. spalio 13 d. ji…'
+object_page_seo_input_hash: b2d0b1ce6ae87873a414b76fa85bc10f63119e1a801a470ef6d9ed2d05768753
+object_page_seo_generated_at: '2026-09-19T06:10:43+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Jadvyga Jogailienė
 
 ## Santrauka
 
 Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.). 1384 m., kada Jadvyga jau buvo atvažiavusi iš Vengrijos į Krokuvą ir buvo vainikuota Lenkijos karaliene, pas Jogailą atvyko speciali lenkų ponų delegacija. Su pačia Jadvyga nebuvo ko kalbėti, nes ji tebuvo dar vos 14 metų mergaitė, buvo įsimylėjusi savo sužadėtinį Vilhelmą ir apie Jogailą nenorėjo nė klausyti. Papildomai išryškinami jos politiniai ginčai su Vytautu dėl kraičiu laikytų Lietuvos ir Rusios žemių, nepalankus požiūris į jo rytų politiką ir mirtis prieš Vorsklos mūšį.
+
+## Teiginiai
+
+<a id="claim-t-12172"></a>
+- t-001
+  teiginys: "Jadvyga laišku priminė Vytautui, kad Jogailos valdytos Lietuvos ir Rusijos žemės buvo jai užrašytos kraičiu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Jogaila valdė Lietuvos žemes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) valdė Lietuva (0.95); Jogaila (kunigaikštis, XIV–XV a.) valdė Rusija (0.93)"
+  pagrindžia:
+    - c-160434
+
+<a id="claim-t-12173"></a>
+- t-002
+  teiginys: "Lenkų karalaitė Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "vede -> Jadvyga Jogailienė: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jadvyga Jogailienė: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Jogaila buvo vedęs Jadvygą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) vedė Jadvyga Jogailienė (0.96)"
+  pagrindžia:
+    - c-160444
+
+<a id="claim-t-176413"></a>
+- t-003
+  teiginys: "Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino didįjį magistrą 1385 m. rugpjūtį pulti Lietuvą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-160446
+
+<a id="claim-t-176414"></a>
+- t-004
+  teiginys: "Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jadvygos įvažiavimą į Krokuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jadvyga Jogailienė keliavo į Krokuva (0.97)"
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-15945
+
+<a id="claim-t-176415"></a>
+- t-005
+  teiginys: "Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota Lenkijos karaliumi."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Jadvygos įvažiavimą į Krokuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jadvyga Jogailienė keliavo į Krokuva (0.97)"
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų faktą, bet pradiniame sakinyje yra OCR triukšmo."
+  pagrindžia:
+    - c-15945
+
+<a id="claim-t-176416"></a>
+- t-006
+  teiginys: "Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kontekste vieta yra Gedimino sostinė, t. y. Vilnius, o citata tiesiogiai sako, kad Jadvyga atvyko kartu su Jogaila."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Jadvyga Jogailienė keliavo į Vilnius (0.84)"
+  pagrindžia:
+    - c-160431
+
+<a id="claim-t-176417"></a>
+- t-007
+  teiginys: "Karalienė Jadvyga Vilniaus Šv. Stanislovo katedrą apdovanojo brangiais rykais ir kita manta iš savo lobyno."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rykai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rykai: mention_match, thing, gap=61"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Rykai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160441
+
+<a id="claim-t-176420"></a>
+- t-008
+  teiginys: "Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino Konradą Ciolnerį Rotenšteiną 1385 metais pulti Lietuvą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160446
+
+<a id="claim-t-176422"></a>
+- t-009
+  teiginys: "Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_dukte -> Liudvikas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Liudvikas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jadvygą kaip Liudviko dukterį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-36338
+
+<a id="claim-t-176425"></a>
+- t-010
+  teiginys: "Jadvyga laišku priminė Vytautui, kad Jogailos prieš vedybas valdytos Lietuvos ir Rusijos žemės jai užrašytos kraičiu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Jogaila valdė Lietuvos žemes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) valdė Lietuva (0.95); Jogaila (kunigaikštis, XIV–XV a.) valdė Rusija (0.93)"
+  pagrindžia:
+    - c-36340
+
+<a id="claim-t-176427"></a>
+- t-011
+  teiginys: "Netikėta Jadvygos Jogailienės mirtis, įvykusi pora savaičių prieš Vorsklos mūšį, pagreitino naują susiartinimą po 1398 m. susitarimo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vorskla: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vorskla: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Vorskla\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: po 1398 m.; įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti Jadvygą Jogailienę ir susieti „naują susiartinimą“ su citatos kontekstu."
+  pagrindžia:
+    - c-160432
+
+<a id="claim-t-176428"></a>
+- t-012
+  teiginys: "Krėvos sutarties sąlygomis Jogaila turėjo vesti Lenkijos karalaitę Jadvygą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "vede -> Jadvyga Jogailienė: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jadvyga Jogailienė: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Krėvos sutarties sąlyga tiesiogiai nurodo, kad Jogaila ima Jadvygą žmona."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) vedė Jadvyga Jogailienė (0.97)"
+  temporaliniai_duomenys: "įvykio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-160438
+
+<a id="claim-t-176429"></a>
+- t-013
+  teiginys: "Jadvyga reikalavo, kad Vytautas mokėtų jai metinį činšą už Lietuvos ir Rusijos žemes, užrašytas jai kraičiu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Jogaila valdė Lietuvos žemes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) valdė Lietuva (0.95); Jogaila (kunigaikštis, XIV–XV a.) valdė Rusija (0.93)"
+  pagrindžia:
+    - c-36340
+
+<a id="claim-t-176430"></a>
+- t-014
+  teiginys: "Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jadvyga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-36338
+
+<a id="claim-t-176431"></a>
+- t-015
+  teiginys: "Jadvyga Jogailienė buvo Vengrų karalienės Elžbietos duktė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vengrai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vengrai: mention_match, group, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Vengrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1377 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata apie Jadvygą pateikia tik jos ryšį su motina."
+  pagrindžia:
+    - c-160442
+
+<a id="claim-t-176433"></a>
+- t-016
+  teiginys: "1386 m. vasario 18 d. Jogaila susituokė su Jadvyga, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jadvyga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1386 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-160436
+
+<a id="claim-t-176434"></a>
+- t-017
+  teiginys: "Karalienė Jadvyga iš savo lobyno apdovanojo pašventintą Vilniaus bažnyčią brangiais rykais ir kita manta."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jadvyga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160441
+
+<a id="claim-t-184263"></a>
+- t-018
+  teiginys: "Dlugošas rašė, kad Jadvyga Jogailienė buvo atvykusi į Lietuvą, bet šaltinyje nurodoma, jog tai nėra tikra."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-167647
+
+<a id="claim-t-193624"></a>
+- t-019
+  teiginys: "ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176295
 
 ## Citatos
 
@@ -71,7 +413,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
     - t-005
 
@@ -94,7 +436,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
     - t-014
 
@@ -120,7 +462,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
     - t-013
 
@@ -151,7 +493,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-160432
@@ -172,7 +514,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-160434
@@ -197,7 +539,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-160436
@@ -217,7 +559,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-160438
@@ -238,7 +580,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-160441
@@ -263,7 +605,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
     - t-017
 
@@ -288,7 +630,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
 
 - id: c-160444
@@ -312,7 +654,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-160446
@@ -341,7 +683,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-008
 
@@ -364,7 +706,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
 
 - id: c-176295
@@ -386,340 +728,9 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Jadvyga Jogailienė keliavo į [[objektai/vietos/Krokuva]]
-
-## Teiginiai
-
-<a id="claim-t-12172"></a>
-- t-001
-  teiginys: "Jadvyga laišku priminė Vytautui, kad Jogailos valdytos Lietuvos ir Rusijos žemės buvo jai užrašytos kraičiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Jogaila valdė Lietuvos žemes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) valdė Lietuva (0.95); Jogaila (kunigaikštis, XIV–XV a.) valdė Rusija (0.93)"
-  pagrindžia:
-    - c-160434
-
-<a id="claim-t-12173"></a>
-- t-002
-  teiginys: "Lenkų karalaitė Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "vede -> Jadvyga Jogailienė: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Jadvyga Jogailienė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Jogaila buvo vedęs Jadvygą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) vedė Jadvyga Jogailienė (0.96)"
-  pagrindžia:
-    - c-160444
-
-<a id="claim-t-176413"></a>
-- t-003
-  teiginys: "Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino didįjį magistrą 1385 m. rugpjūtį pulti Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-160446
-
-<a id="claim-t-176414"></a>
-- t-004
-  teiginys: "Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jadvygos įvažiavimą į Krokuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jadvyga Jogailienė keliavo į Krokuva (0.97)"
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-15945
-
-<a id="claim-t-176415"></a>
-- t-005
-  teiginys: "Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota Lenkijos karaliumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Jadvygos įvažiavimą į Krokuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jadvyga Jogailienė keliavo į Krokuva (0.97)"
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų faktą, bet pradiniame sakinyje yra OCR triukšmo."
-  pagrindžia:
-    - c-15945
-
-<a id="claim-t-176416"></a>
-- t-006
-  teiginys: "Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kontekste vieta yra Gedimino sostinė, t. y. Vilnius, o citata tiesiogiai sako, kad Jadvyga atvyko kartu su Jogaila."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Jadvyga Jogailienė keliavo į Vilnius (0.84)"
-  pagrindžia:
-    - c-160431
-
-<a id="claim-t-176417"></a>
-- t-007
-  teiginys: "Karalienė Jadvyga Vilniaus Šv. Stanislovo katedrą apdovanojo brangiais rykais ir kita manta iš savo lobyno."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rykai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rykai: mention_match, thing, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Rykai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-160441
-
-<a id="claim-t-176420"></a>
-- t-008
-  teiginys: "Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino Konradą Ciolnerį Rotenšteiną 1385 metais pulti Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-160446
-
-<a id="claim-t-176422"></a>
-- t-009
-  teiginys: "Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_dukte -> Liudvikas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Liudvikas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jadvygą kaip Liudviko dukterį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36338
-
-<a id="claim-t-176425"></a>
-- t-010
-  teiginys: "Jadvyga laišku priminė Vytautui, kad Jogailos prieš vedybas valdytos Lietuvos ir Rusijos žemės jai užrašytos kraičiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Jogaila valdė Lietuvos žemes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) valdė Lietuva (0.95); Jogaila (kunigaikštis, XIV–XV a.) valdė Rusija (0.93)"
-  pagrindžia:
-    - c-36340
-
-<a id="claim-t-176427"></a>
-- t-011
-  teiginys: "Netikėta Jadvygos Jogailienės mirtis, įvykusi pora savaičių prieš Vorsklos mūšį, pagreitino naują susiartinimą po 1398 m. susitarimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vorskla: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vorskla: mention_match, place, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Vorskla\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: po 1398 m.; įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti Jadvygą Jogailienę ir susieti „naują susiartinimą“ su citatos kontekstu."
-  pagrindžia:
-    - c-160432
-
-<a id="claim-t-176428"></a>
-- t-012
-  teiginys: "Krėvos sutarties sąlygomis Jogaila turėjo vesti Lenkijos karalaitę Jadvygą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "vede -> Jadvyga Jogailienė: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Jadvyga Jogailienė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Krėvos sutarties sąlyga tiesiogiai nurodo, kad Jogaila ima Jadvygą žmona."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) vedė Jadvyga Jogailienė (0.97)"
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-160438
-
-<a id="claim-t-176429"></a>
-- t-013
-  teiginys: "Jadvyga reikalavo, kad Vytautas mokėtų jai metinį činšą už Lietuvos ir Rusijos žemes, užrašytas jai kraičiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Jogaila valdė Lietuvos žemes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) valdė Lietuva (0.95); Jogaila (kunigaikštis, XIV–XV a.) valdė Rusija (0.93)"
-  pagrindžia:
-    - c-36340
-
-<a id="claim-t-176430"></a>
-- t-014
-  teiginys: "Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jadvyga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36338
-
-<a id="claim-t-176431"></a>
-- t-015
-  teiginys: "Jadvyga Jogailienė buvo Vengrų karalienės Elžbietos duktė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vengrai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vengrai: mention_match, group, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Vengrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1377 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata apie Jadvygą pateikia tik jos ryšį su motina."
-  pagrindžia:
-    - c-160442
-
-<a id="claim-t-176433"></a>
-- t-016
-  teiginys: "1386 m. vasario 18 d. Jogaila susituokė su Jadvyga, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jadvyga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1386 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-160436
-
-<a id="claim-t-176434"></a>
-- t-017
-  teiginys: "Karalienė Jadvyga iš savo lobyno apdovanojo pašventintą Vilniaus bažnyčią brangiais rykais ir kita manta."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jadvyga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-160441
-
-<a id="claim-t-184263"></a>
-- t-018
-  teiginys: "Dlugošas rašė, kad Jadvyga Jogailienė buvo atvykusi į Lietuvą, bet šaltinyje nurodoma, jog tai nėra tikra."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jadvyga Jogailienė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jadvyga Jogailienė\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-167647
-
-<a id="claim-t-193624"></a>
-- t-019
-  teiginys: "ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176295
-

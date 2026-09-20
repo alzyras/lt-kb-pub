@@ -1,11 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'Perkūnas (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: Perkūnas (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'Perkūnas'
+  - Perkūnas
 aliases:
-  - 'Perkūnas'
+  - Perkūnas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Perkūnas (sąvoka)
 
@@ -76,7 +73,7 @@ Perkūnas, Jupiteris griausmavaldis, Jupiter tonam - seno vės Europoje labiausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200456
@@ -93,6 +90,5 @@ Perkūnas, Jupiteris griausmavaldis, Jupiter tonam - seno vės Europoje labiausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

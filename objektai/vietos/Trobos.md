@@ -35,6 +35,32 @@ historical_names: []
 
 Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraičiuose, Trobose, — 100 — Vaviorkoje, D.
 
+## Teiginiai
+
+<a id="claim-t-185315"></a>
+- t-001
+  teiginys: "Kojelavičius Trobiaus įkurtas Trobas laikė įrodymu, kad Trobius buvo Lietuvos didysis kunigaikštis."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168676
+
+<a id="claim-t-193454"></a>
+- t-002
+  teiginys: "Kad Trobius apskritai yra buvęs didžiuo ju kunigaikščiu, įrodo ir tai, jog, savo protėvių papro čiu, jis Lietuvos viduryje buvo įkūręs naują sodyb vietę, pavadindamas ją nuo savo vardo Trobomis."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168676
+
 ## Citatos
 
 - id: c-168676
@@ -61,33 +87,6 @@ Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraiči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-185315"></a>
-- t-001
-  teiginys: "Kojelavičius Trobiaus įkurtas Trobas laikė įrodymu, kad Trobius buvo Lietuvos didysis kunigaikštis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168676
-
-<a id="claim-t-193454"></a>
-- t-002
-  teiginys: "Kad Trobius apskritai yra buvęs didžiuo ju kunigaikščiu, įrodo ir tai, jog, savo protėvių papro čiu, jis Lietuvos viduryje buvo įkūręs naują sodyb vietę, pavadindamas ją nuo savo vardo Trobomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168676
-

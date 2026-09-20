@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Aistmarės (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Aistmarės (vieta)
+identifikacija: vieta
 variantai:
-  - 'Aistmarės'
+  - Aistmarės
 aliases:
-  - 'Aistmarės'
+  - Aistmarės
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0043d6ae02b04cfdc576a037"
-canonical_name: "Aistmarės (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Aistmarės","Aistmarės (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0043d6ae02b04cfdc576a037
+canonical_name: Aistmarės (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Aistmarės
+  - Aistmarės (vieta)
 sameAs: []
-canonical_biography: "Šiaurėje ją skalavo Aistmarės, rytuose — Pasargės, o pietuose — Veisiikos upės."
+canonical_biography: 'Šiaurėje ją skalavo Aistmarės, rytuose — Pasargės, o pietuose — Veisiikos upės.'
 ---
 # Aistmarės (vieta)
 
@@ -70,6 +70,5 @@ canonical_biography: "Šiaurėje ją skalavo Aistmarės, rytuose — Pasargės, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

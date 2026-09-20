@@ -28,6 +28,21 @@ Trys kunigaikščiai su samdytais totorių pulkais slinko Nemuno link, perėjo u
 
 Trys kunigaikščiai su samdytais totorių pulkais slinko Nemuno link, perėjo upę aukščiau Gardino ir, anot Teodoro Narbuto, taikė į Neries žemupį, kad susijungtų su kryžiuočiais prie Kauno.
 
+## Teiginiai
+
+<a id="claim-t-205886"></a>
+- t-001
+  teiginys: "Trys kunigaikščiai su samdytais totorių pulkais slinko Nemuno link, perėjo upę aukščiau Gardino ir, anot Teodoro Narbuto, taikė į Neries žemupį, kad susijungtų su kryžiuočiais prie Kauno."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188501
+
 ## Citatos
 
 - id: c-188501
@@ -48,21 +63,5 @@ Trys kunigaikščiai su samdytais totorių pulkais slinko Nemuno link, perėjo u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205886"></a>
-- t-001
-  teiginys: "Trys kunigaikščiai su samdytais totorių pulkais slinko Nemuno link, perėjo upę aukščiau Gardino ir, anot Teodoro Narbuto, taikė į Neries žemupį, kad susijungtų su kryžiuočiais prie Kauno."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
-  pagrindžia:
-    - c-188501
-

@@ -43,6 +43,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-194818"></a>
+- t-001
+  teiginys: "Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at siųsdavo lazdą su dviem užlenkimais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177214
+
 ## Citatos
 
 - id: c-177214
@@ -64,42 +79,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198225
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 290"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
-  citata_originali: |
-    Tą patvirtina
-    paprotys, gyvavęs Lietuvoje iki XVI amžiaus, kuriuo didelės
-    sumos auksu būdavo dedamos saugoti į Vilniaus bažnyčios -
-    Katedros - iždą .
-    Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at­
-    siųsdavo lazdą su dviem užlenkimais. Žyniai vilkėdavo įpras­
-    tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
-    juosta, kuria apsivyniodavo septynis kartus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-216309"></a>
-- t-001
-  teiginys: "Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at siųsdavo lazdą su dviem užlenkimais."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-198225
-

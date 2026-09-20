@@ -43,6 +43,21 @@ canonical_biography: "1721 m. Vitebsko pavieto iždininkas Vladislovas Vaina su 
 
 1721 m. Vitebsko pavieto iždininkas Vladislovas Vaina su bendrininkais Vilniuje užpuolė Jono Kybarto mūrinį namą ir išdaužė jo duris.
 
+## Teiginiai
+
+<a id="claim-t-203946"></a>
+- t-001
+  teiginys: "1721 m. Vitebsko pavieto iždininkas Vladislovas Vaina su bendrininkais Vilniuje užpuolė Jono Kybarto mūrinį namą ir išdaužė jo duris."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186550
+
 ## Citatos
 
 - id: c-186550
@@ -60,21 +75,5 @@ canonical_biography: "1721 m. Vitebsko pavieto iždininkas Vladislovas Vaina su 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203946"></a>
-- t-001
-  teiginys: "1721 m. Vitebsko pavieto iždininkas Vladislovas Vaina su bendrininkais Vilniuje užpuolė Jono Kybarto mūrinį namą ir išdaužė jo duris."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186550
-

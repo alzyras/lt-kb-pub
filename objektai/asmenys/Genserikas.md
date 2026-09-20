@@ -34,6 +34,29 @@ canonical_biography: "Narbutas Genseriką vadina galingu Afrikos vandalų karali
 
 Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją.
 
+## Teiginiai
+
+<a id="claim-t-191270"></a>
+- t-001
+  teiginys: "Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "valde -> Afrika: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Genserikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Afrika: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Genserikas vadinamas Afrikos vandalų karaliumi, todėl jo valdžia siejama su Afrika."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Genserikas valdė Afrika (0.70)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174152
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją.'
@@ -89,35 +112,5 @@ Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-213027"></a>
-- t-001
-  teiginys: "Genserikas buvo Afrikos vandalų karalius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-215472"></a>
-- t-002
-  teiginys: "Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "valde -> Afrika: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Genserikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Afrika: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Genserikas vadinamas Afrikos vandalų karaliumi, todėl jo valdžia siejama su Afrika."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Genserikas valdė Afrika (0.70)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-
+  pagrindzia:
+    - t-001

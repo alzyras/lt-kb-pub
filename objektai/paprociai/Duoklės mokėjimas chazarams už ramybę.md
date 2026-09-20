@@ -1,6 +1,6 @@
 ---
 tipas: paprotys
-pavadinimas: 'Duoklės mokėjimas chazarams už ramybę'
+pavadinimas: Duoklės mokėjimas chazarams už ramybę
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Duoklės mokėjimas chazarams už ramybę
 
@@ -77,6 +74,5 @@ Jie buvo ramūs, nuo nieko nepriklausė, išskyrus chazarus, kuriems už savo ra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

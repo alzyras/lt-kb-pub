@@ -4,25 +4,22 @@ pavadinimas: 'Amuletų, šventųjų medžių ir žalčių kulto laikymasis'
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1583 m.'
+  - 1583 m.
 date_start: '1583'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Amuletų, šventųjų medžių ir žalčių kulto laikymasis
 
@@ -85,6 +82,5 @@ Amuletai būdavo kabinami ant namų sienų ir dvivėrių durų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

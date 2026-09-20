@@ -27,6 +27,41 @@ media_all_json: |-
 
 Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, galėjusią krašto gynybai duoti nemažų būrių. Nėra abejonių, kad ir ji dalijosi į plačius valsčius, nes ir čia gyveno bajorų šeimos, kurioms taip pat priklausė didelės valdos.
 
+## Teiginiai
+
+<a id="claim-t-192982"></a>
+- t-001
+  teiginys: "Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, galėjusią krašto gynybai duoti nemažų būrių."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyne -> Varmija: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Glotinų šeima: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Varmija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Glotinų šeima vaizduojama kaip pajėgi duoti būrių Varmijos krašto gynybai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Glotinų šeima gynė Varmija (0.62)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175752
+
+<a id="claim-t-197501"></a>
+- t-002
+  teiginys: "Nėra abejonių, kad ir ji dalijosi į plačius valsčius, nes ir čia gyveno bajorų šeimos, kurioms taip pat priklausė didelės valdos."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-175752
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, galėjusią krašto gynybai duoti nemažų būrių.'
@@ -76,35 +111,6 @@ Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, gal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-213471"></a>
-- t-001
-  teiginys: "Nėra abejonių, kad ir ji dalijosi į plačius valsčius, nes ir čia gyveno bajorų šeimos, kurioms taip pat priklausė didelės valdos."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-214578"></a>
-- t-002
-  teiginys: "Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, galėjusią krašto gynybai duoti nemažų būrių."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyne -> Varmija: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Glotinų šeima: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Varmija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Glotinų šeima vaizduojama kaip pajėgi duoti būrių Varmijos krašto gynybai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Glotinų šeima gynė Varmija (0.62)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
+  pagrindzia:
+    - t-001
+    - t-002

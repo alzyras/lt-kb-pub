@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'LTI leidybos sutarties su Antanu Marcinovskiu sudarymas'
+pavadinimas: LTI leidybos sutarties su Antanu Marcinovskiu sudarymas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1837 m.'
+  - 1837 m.
 date_start: '1837'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # LTI leidybos sutarties su Antanu Marcinovskiu sudarymas
 
@@ -77,6 +74,5 @@ Sutartis su Antanu Marcinovskiu dėl viso veikalo išspausdinimo buvo sudaryta 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

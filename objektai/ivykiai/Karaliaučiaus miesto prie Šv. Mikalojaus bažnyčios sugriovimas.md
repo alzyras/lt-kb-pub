@@ -1,30 +1,27 @@
 ---
 tipas: ivykis
-pavadinimas: 'Karaliaučiaus miesto prie Šv. Mikalojaus bažnyčios sugriovimas'
+pavadinimas: Karaliaučiaus miesto prie Šv. Mikalojaus bažnyčios sugriovimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1550 m.'
-  - '1815 m.'
+  - 1550 m.
+  - 1815 m.
 date_start: '1550'
 date_end: '1815'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVI'
-  - 'XIX'
+  - XVI
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Karaliaučiaus miesto prie Šv. Mikalojaus bažnyčios sugriovimas
 
@@ -87,6 +84,5 @@ Sembai netikėtai užpuolė ir visiškai sugriovė prie Šv. Mikalojaus bažnyč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

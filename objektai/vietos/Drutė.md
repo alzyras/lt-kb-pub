@@ -36,6 +36,21 @@ historical_names: []
 
 Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame plote, o kairiojoje Dnepro pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio čių.
 
+## Teiginiai
+
+<a id="claim-t-194927"></a>
+- t-001
+  teiginys: "Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame plote, o kairiojoje Dnepro pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio čių."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-177323
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame plote, o kairiojoje Dnepro pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio čių.'
@@ -89,27 +104,5 @@ Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame pl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-213901"></a>
-- t-001
-  teiginys: "Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame plote, o kairiojoje Dnepro pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio čių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-214544"></a>
-- t-002
-  teiginys: "Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame plote."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
+  pagrindzia:
+    - t-001

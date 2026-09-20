@@ -34,6 +34,28 @@ canonical_biography: "Teodoras Narbutas Solovjovą mini kaip aiškinusį, kad pr
 
 Teodoras Narbutas Solovjovą mini kaip aiškinusį, kad priešistorėje buvusios dvi skirtingos tautos istoriniu laiku susiliejo.
 
+## Teiginiai
+
+<a id="claim-t-191620"></a>
+- t-001
+  teiginys: "Teodoras Narbutas Solovjovą mini kaip aiškinusį, kad priešistorėje buvusios dvi skirtingos tautos istoriniu laiku susiliejo."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Solovjovas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Solovjovas\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174502
+
 ## Citatos
 
 - id: c-174502
@@ -57,51 +79,5 @@ Teodoras Narbutas Solovjovą mini kaip aiškinusį, kad priešistorėje buvusios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195093
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 99"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 99."
-  citata_originali: |
-    Safaržykas teigia, jog priešistoriniais lai­
-    kais buvusi viena tauta, kuri, laikui bėgant, susidvejino5.
-    Kiti, pavyzdžiui, Solovjovas6, aiškina atvirkščiai ir teigia,
-    jog priešistoriniais laikais buvusios dvi Skirtingos tau­
-    tos, kurios istoriniais laikais susiliejo. Bet šie istorikai
-    patys prisipažįsta, jog nežino priešistorinių epochų, todėl
-    1 Išsamius įrodymus to, kad venedai iš tikrųjų buvo slavai ir
-    tą vardą jiems suteikė kitos tautos, o ne jie patys taip save vadino,
-    be to, Adelungas ir net Dobrovskis venedus klaidingai priskyrė prie
-    vokiečių, pateikė Safaržykas (Starožytnošci slawianskie.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-212500"></a>
-- t-001
-  teiginys: "Teodoras Narbutas Solovjovą mini kaip aiškinusį, kad priešistorėje buvusios dvi skirtingos tautos istoriniu laiku susiliejo."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Solovjovas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Solovjovas\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-195093
-

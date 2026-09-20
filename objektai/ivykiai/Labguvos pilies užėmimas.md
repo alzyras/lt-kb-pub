@@ -42,6 +42,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201328"></a>
+- t-001
+  teiginys: "Įbimgę tėvūnai šalaujų susirinko į sueimą tei rautis, kaip apmaudą nugiežti ant kryžėjų už tiek 1276 nelaimų, sau pridarytų; sutarė valodoj genaus ka riauti nekaip vergauti; to dėjęsi, tuojau išsiuntė keletą šimtų rinktinės joties pilį kryžėjų Labguvą užimti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184678
+
 ## Citatos
 
 - id: c-184678
@@ -67,20 +81,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201328"></a>
-- t-001
-  teiginys: "Įbimgę tėvūnai šalaujų susirinko į sueimą tei rautis, kaip apmaudą nugiežti ant kryžėjų už tiek 1276 nelaimų, sau pridarytų; sutarė valodoj genaus ka riauti nekaip vergauti; to dėjęsi, tuojau išsiuntė keletą šimtų rinktinės joties pilį kryžėjų Labguvą užimti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184678
-

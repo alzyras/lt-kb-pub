@@ -1,22 +1,22 @@
 ---
 tipas: ivykis
-pavadinimas: 'Salyno sutartis'
+pavadinimas: Salyno sutartis
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1392 m.'
-  - '1396 m.'
-  - '1398 m.'
+  - 1392 m.
+  - 1396 m.
+  - 1398 m.
 date_start: '1392'
 date_end: '1398'
 aliases:
-  - 'objektai/ivykiai/Salyno suvažiavimas ir jo reikšmė'
-  - 'objektai/ivykiai/Salyno taika'
+  - objektai/ivykiai/Salyno suvažiavimas ir jo reikšmė
+  - objektai/ivykiai/Salyno taika
 variantai:
-  - 'Salyno suvažiavimas ir jo reikšmė'
-  - 'Salyno taika'
+  - Salyno suvažiavimas ir jo reikšmė
+  - Salyno taika
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,19 +25,29 @@ tags:
   - paliaubos
   - suvažiavimas
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Salyno sutartis","url":"https://lt.wikipedia.org/wiki/Salyno_sutartis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Salyno Sutartis","url":"https://www.vle.lt/straipsnis/salyno-sutartis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T00:41:20+00:00","source_checked_at":"2026-09-20T00:41:20+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Salyno sutartis","url":"https://lt.wikipedia.org/wiki/Salyno_sutartis","publisher":"Vikipedija","language":"lt","article_id":"281543","revision_id":"7855212","published_at":"2026-06-13T08:37:40Z","version_pk":"","content_hash":"caf8a673d4d346831c57c961f568644f31bfe63ed31f84ce8221f02f490bad05","retrieved_at":"2026-09-20T00:39:38+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Salyno_sutartis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"281543"}},"intro":"Salyno sutartis − Lietuvos didžiojo kunigaikščio Vytauto ir Vokiečių ordino didžiojo magistro Konrado fon Jungingeno (vok. Hochmeister Konrad von Jungingen) sutartis, sudaryta 1398 m. spalio 12 d. Salyno saloje (Nemune, ties Nevėžio žiotimis).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Salyno sutartis","url":"https://lt.wikipedia.org/wiki/Salyno_sutartis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Salyno Sutartis","url":"https://www.vle.lt/straipsnis/salyno-sutartis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Salyno_sutartis","https://www.vle.lt/straipsnis/salyno-sutartis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b7db58b67335a8cdaeef1306","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"1398 m. spalio 12 d. Salyno saloje sutartį ratifikavo abiejų ordinų magistrai, vyskupai ir Vytautas su žmona Ona.","context":"Šaltinyje aprašytas iškilmingas sutarties ratifikavimas Salyno saloje.","support_ids":["t-12411","c-14183"],"source_refs":[{"kind":"internal_claim","claim_id":"t-12411","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-14183","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"1398 m. Gardine padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas: 1. Atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo jam pa­ dėti pastatyti dvi ar tris pilis. 2. Abi pusės prižadėjo paleisti belaisvius, jų skaičiuj ir Vytauto brolį Zigmantą. 3. Vytautas padės užkariauti Ordinui Pskovą, o šis Vytautui — Naugardą D. 4. Nepraleis jokios kariuomenės per savo žemes, einančios prieš kryžiuočius. 5. Jei Ordinas pageidautų, Vytautas turi, jei tokia jo būtų valia, pasistengti, kad ta sutartis būtų patvir­ tinta Jogailos^1 ). Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­ mune). Dalyvavo Prūsų ir Livonijos Ordinų…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"df311eb836bab8ce777c4cc7","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Salyno suvažiavimas truko visą savaitę; per ordinų magistrų surengtą puotą Vytautas buvo paskelbtas Lietuvos karaliumi.","context":"Taip suvažiavimą ir įvykį aprašo Zenonas Ivinskis.","support_ids":["t-66869","c-66975"],"source_refs":[{"kind":"internal_claim","claim_id":"t-66869","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-66975","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas sutiko ten jam pastatyti dvi naujas pilis. Jos turėjo reikšti atlygi­ nimą už Vytauto sunaikintąsias ordino pilis prie Nemuno per 1392 m. atsimetimą. Ordino ir Vytauto santykiams buvo reikšminga, kai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių ir nelaisvu valstiečių. Į iškilmingą ir visą savaitę trukusį Salyno suvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių jo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą puotą Vytautą paskelbė Lietuvos karaliumi. Tai turėjo būti atsa­ kymas į karalienės Jadvygos reikalavimą, kad Vytautas Lenkijai — ženklan didžiosios Lietuvos kunigaikštijos…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"36b2e4a74480dbc09035a078","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Salyno suvažiavime kartu su Vytautu dalyvavo kunigaikščiai, žymūs jo didikai ir bajorai; taip pat dalyvavo Prūsų ir Livonijos ordinų atstovai.","context":"Dalyvių sudėtis aprašyta 1398 m. Salyno suvažiavimo kontekste.","support_ids":["t-12411","c-14183","t-66869","c-66975"],"source_refs":[{"kind":"internal_claim","claim_id":"t-12411","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-66869","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-14183","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"1398 m. Gardine padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas: 1. Atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo jam pa­ dėti pastatyti dvi ar tris pilis. 2. Abi pusės prižadėjo paleisti belaisvius, jų skaičiuj ir Vytauto brolį Zigmantą. 3. Vytautas padės užkariauti Ordinui Pskovą, o šis Vytautui — Naugardą D. 4. Nepraleis jokios kariuomenės per savo žemes, einančios prieš kryžiuočius. 5. Jei Ordinas pageidautų, Vytautas turi, jei tokia jo būtų valia, pasistengti, kad ta sutartis būtų patvir­ tinta Jogailos^1 ). Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­ mune). Dalyvavo Prūsų ir Livonijos Ordinų…"},{"kind":"evidence","evidence_id":"c-66975","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas sutiko ten jam pastatyti dvi naujas pilis. Jos turėjo reikšti atlygi­ nimą už Vytauto sunaikintąsias ordino pilis prie Nemuno per 1392 m. atsimetimą. Ordino ir Vytauto santykiams buvo reikšminga, kai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių ir nelaisvu valstiečių. Į iškilmingą ir visą savaitę trukusį Salyno suvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių jo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą puotą Vytautą paskelbė Lietuvos karaliumi. Tai turėjo būti atsa­ kymas į karalienės Jadvygos reikalavimą, kad Vytautas Lenkijai — ženklan didžiosios Lietuvos kunigaikštijos…"}],"status":"published","conflict_status":"clear"},{"trait_id":"f3d7f7ecdec19a05633430e9","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Salyno aktu Vytautas Ordinui užleido visus Žemaičius, pasilikdamas sau Nevėžio žiotis; akte pirmą kartą apytikriai nužymėtos Ordinui tenkančių žemių sienos.","context":"Tai nurodyta kaip Salyno akto teritorinis padarinys.","support_ids":["t-66870","c-66974"],"source_refs":[{"kind":"internal_claim","claim_id":"t-66870","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-66974","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Pasilikdamas sau Nevėžio žiotis, Vytautas kryžiuo­ čiams užleido visus Žemaičius. Salyno akte pirmą kartą apytikriai buvo nužymėtos ordinui tenkančių žemių sienos. Žemaičiuose jos ėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo pratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli dabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos valdų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"3e3009018e23e8802978559a","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Zenono Ivinskio vertinimu, pastovus Salyno „amžinosios“ taikos įgyvendinimas būtų reiškęs grynai lietuvių gyvenamų žemių atidavimą Ordinui ir visišką Lietuvos nustūmimą nuo jūros.","context":"Autoriaus vertinimas, siejamas su Salyno taikos galimu įgyvendinimu.","support_ids":["t-66868","c-66973"],"source_refs":[{"kind":"internal_claim","claim_id":"t-66868","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-66973","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Salyno « amžinoji » taika, kurios pastovus įgyvendinimas būtų reiškęs ne tik grynai lietuvių gyvenamų žemių atidavimą ordinui, bet ir visišką Lietuvos nustūmimą nuo jūros, palietė dar kitus"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Salyno sutartis – Vytauto ir Kryžiuočių ordino susitarimas, kuriuo Lietuvos valdovas ordinui užleido visus Žemaičius, pasilikdamas tik Nevėžio žiotis. Susitarimo akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos: Žemaitijoje jos driekėsi Nevėžio upe, o toliau per Mūšą, Smardonę ir Apaščios ežerą siekė Pskovo respublikos valdas. Su šiuo susitarimu susijęs iškilmingas, visą savaitę trukęs Salyno suvažiavimas, į kurį su Vytautu atvyko kunigaikščių, didikų ir bajorų; puotoje Prūsų ir Livonijos magistrai jį paskelbė Lietuvos karaliumi. Ivinskis pabrėžia, kad ilgalaikis taikos įgyvendinimas būtų reiškęs ne tik lietuvių gyvenamų žemių atidavimą ordinui, bet ir visišką Lietuvos nustūmimą nuo jūros.","sentences":[{"sentence_id":"s1","text":"Salyno sutartis – Vytauto ir Kryžiuočių ordino susitarimas, kuriuo Lietuvos valdovas ordinui užleido visus Žemaičius, pasilikdamas tik Nevėžio žiotis.","support_ids":["t-66870","c-66974"]},{"sentence_id":"s2","text":"Susitarimo akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos: Žemaitijoje jos driekėsi Nevėžio upe, o toliau per Mūšą, Smardonę ir Apaščios ežerą siekė Pskovo respublikos valdas.","support_ids":["t-66870","c-66974"]},{"sentence_id":"s3","text":"Su šiuo susitarimu susijęs iškilmingas, visą savaitę trukęs Salyno suvažiavimas, į kurį su Vytautu atvyko kunigaikščių, didikų ir bajorų; puotoje Prūsų ir Livonijos magistrai jį paskelbė Lietuvos karaliumi.","support_ids":["t-66869","c-66975"]},{"sentence_id":"s4","text":"Ivinskis pabrėžia, kad ilgalaikis taikos įgyvendinimas būtų reiškęs ne tik lietuvių gyvenamų žemių atidavimą ordinui, bet ir visišką Lietuvos nustūmimą nuo jūros.","support_ids":["t-66868","c-66973"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta: nurodyta, kad Vytautas, pasilikdamas Nevėžio žiotis, ordinui užleido visus Žemaičius."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta: šaltinis tiksliai nurodo pirmą kartą apytikriai nužymėtas sienas per Nevėžį, Mūšą, Smardonę, Apaščios ežerą iki Pskovo valdų."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta: šaltinis mini visą savaitę trukusį suvažiavimą, atvykusius kunigaikščius, didikus ir bajorus bei Vytauto paskelbimą Lietuvos karaliumi per magistrų puotą."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta Ivinskio teiginiu apie lietuvių gyvenamų žemių atidavimą ordinui ir visišką Lietuvos nustūmimą nuo jūros."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-66870","c-66974"]},{"sentence_id":"s2","supported":true,"support_ids":["t-66870","c-66974"]},{"sentence_id":"s3","supported":true,"support_ids":["t-66869","c-66975"]},{"sentence_id":"s4","supported":true,"support_ids":["t-66868","c-66973"]}],"verifier":"gpt-5.6-luna"},"quality":58,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":4,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 739e66933791b364
+object_page_generated_at: '2026-09-20T00:41:20+00:00'
+object_page_source_checked_at: '2026-09-20T00:41:20+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '2'
+object_page_seo_description: 'Salyno sutartis – Vytauto ir Kryžiuočių ordino susitarimas, kuriuo Lietuvos valdovas ordinui užleido visus Žemaičius, pasilikdamas tik Nevėžio žiotis.…'
+object_page_seo_input_hash: 70035dc7eaf159008d061f61f28db6bc37600e8dc4e4deb690bf2c2ca91c902e
+object_page_seo_generated_at: '2026-09-20T00:41:20+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Salyno sutartis
 
@@ -62,6 +72,132 @@ Po preliminarios Gardino taikos sutartis buvo iškilmingai ratifikuota Salyno sa
 ## Rezultatas
 
 Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius su Lenkija.
+
+## Teiginiai
+
+<a id="claim-t-12411"></a>
+- t-001
+  teiginys: "1398 m. spalio 12 d. Salyno saloje sutartį ratifikavo abiejų ordinų magistrai, vyskupai ir Vytautas su žmona Ona."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Salyno sutartis: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salyno sutartis\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-14183
+
+<a id="claim-t-12412"></a>
+- t-002
+  teiginys: "Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Salyne aprašytas Vytauto Žemaitijos atidavimas Ordinui sutarties kontekste."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-14184
+
+<a id="claim-t-12413"></a>
+- t-003
+  teiginys: "Šiame veikale Salyno sutartis aiškinama kaip Vytauto galybės gestas Lenkijai ir grasinimas unijai."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Salyno sutartis: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salyno sutartis\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-14185
+
+<a id="claim-t-66868"></a>
+- t-004
+  teiginys: "Ivinskis pabrėžia, kad Salyno amžinosios taikos įgyvendinimas būtų reiškęs Lietuvos nustūmimą nuo jūros."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Salyno sutartis: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salyno sutartis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-66973
+
+<a id="claim-t-66869"></a>
+- t-005
+  teiginys: "Salyno suvažiavimo puotoje Vytautas buvo paskelbtas Lietuvos karaliumi."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Salyno sutartis: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salyno sutartis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-66975
+
+<a id="claim-t-66870"></a>
+- t-006
+  teiginys: "Salyno aktu Vytautas užleido ordinui visus Žemaičius, o akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Salyno akto kontekste Vytauto žemių užleidimas ordinui rodo sutartinį santykį su Ordinu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.76)"
+  pagrindžia:
+    - c-66974
+
+<a id="claim-t-66871"></a>
+- t-007
+  teiginys: "1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį."
+  atnaujinta: "2026-06-13 17:26"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Konradas Jungingenas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Konradas Jungingenas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Vytautas ir Konradas Jungingenas tiesiogiai įvardyti kaip galutinai patvirtinę sutartį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Konradas Jungingenas (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1396 m.; įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai apibendrina citatoje nurodytas sutarties datas, vietas ir patvirtinimą."
+  pagrindžia:
+    - c-66972
 
 ## Citatos
 
@@ -93,7 +229,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-14184
@@ -120,7 +256,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-14185
@@ -142,7 +278,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-66972
@@ -163,7 +299,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-66973
@@ -186,7 +322,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-66974
@@ -207,7 +343,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-66975
@@ -233,132 +369,5 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-## Teiginiai
-
-<a id="claim-t-12411"></a>
-- t-001
-  teiginys: "1398 m. spalio 12 d. Salyno saloje sutartį ratifikavo abiejų ordinų magistrai, vyskupai ir Vytautas su žmona Ona."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Salyno sutartis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salyno sutartis\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-14183
-
-<a id="claim-t-12412"></a>
-- t-002
-  teiginys: "Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Salyne aprašytas Vytauto Žemaitijos atidavimas Ordinui sutarties kontekste."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-14184
-
-<a id="claim-t-12413"></a>
-- t-003
-  teiginys: "Šiame veikale Salyno sutartis aiškinama kaip Vytauto galybės gestas Lenkijai ir grasinimas unijai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Salyno sutartis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salyno sutartis\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-14185
-
-<a id="claim-t-66868"></a>
-- t-004
-  teiginys: "Ivinskis pabrėžia, kad Salyno amžinosios taikos įgyvendinimas būtų reiškęs Lietuvos nustūmimą nuo jūros."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Salyno sutartis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salyno sutartis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-66973
-
-<a id="claim-t-66869"></a>
-- t-005
-  teiginys: "Salyno suvažiavimo puotoje Vytautas buvo paskelbtas Lietuvos karaliumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Salyno sutartis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salyno sutartis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-66975
-
-<a id="claim-t-66870"></a>
-- t-006
-  teiginys: "Salyno aktu Vytautas užleido ordinui visus Žemaičius, o akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Salyno akto kontekste Vytauto žemių užleidimas ordinui rodo sutartinį santykį su Ordinu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.76)"
-  pagrindžia:
-    - c-66974
-
-<a id="claim-t-66871"></a>
-- t-007
-  teiginys: "1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Konradas Jungingenas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Konradas Jungingenas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Vytautas ir Konradas Jungingenas tiesiogiai įvardyti kaip galutinai patvirtinę sutartį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Konradas Jungingenas (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1396 m.; įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai apibendrina citatoje nurodytas sutarties datas, vietas ir patvirtinimą."
-  pagrindžia:
-    - c-66972
-

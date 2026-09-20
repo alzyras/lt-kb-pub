@@ -24,6 +24,20 @@ media_all_json: |-
 
 Norėdamas kuomet tenai norą dievų tautai apreikšti, visų pirma ties visuomet žaliuojančiu ąžuolu palipęs ant malkos su dievais pasibylojo, 1 D u s b u r g , Chron.
 
+## Teiginiai
+
+<a id="claim-t-201437"></a>
+- t-001
+  teiginys: "Norėdamas kuomet tenai norą dievų tautai apreikšti, visų pirma ties visuomet žaliuojančiu ąžuolu palipęs ant malkos su dievais pasibylojo, 1 D u s b u r g , Chron."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184787
+
 ## Citatos
 
 - id: c-184787
@@ -40,20 +54,5 @@ Norėdamas kuomet tenai norą dievų tautai apreikšti, visų pirma ties visuome
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201437"></a>
-- t-001
-  teiginys: "Norėdamas kuomet tenai norą dievų tautai apreikšti, visų pirma ties visuomet žaliuojančiu ąžuolu palipęs ant malkos su dievais pasibylojo, 1 D u s b u r g , Chron."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184787
-

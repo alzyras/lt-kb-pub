@@ -33,6 +33,21 @@ canonical_biography: "Į Vakarus nuo dešiniojo 1 Thunmann."
 
 Į Vakarus nuo dešiniojo 1 Thunmann.
 
+## Teiginiai
+
+<a id="claim-t-194891"></a>
+- t-001
+  teiginys: "Į Vakarus nuo dešiniojo 1 Thunmann."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-177287
+
 ## Citatos
 
 - id: c-177287
@@ -51,4 +66,5 @@ canonical_biography: "Į Vakarus nuo dešiniojo 1 Thunmann."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

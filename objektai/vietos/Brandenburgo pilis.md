@@ -45,34 +45,10 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 
 ## Teiginiai
 
-<a id="claim-t-225725"></a>
-- t-002
-  teiginys: "1261 m. prieš Pokarvių mūšį kryžiuočių ir jų talkininkų kariuomenė stovyklavo vietoje, kur vėliau stovėjo Brandenburgo pilis."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204535
-
-<a id="claim-t-223943"></a>
-- t-223943
-  teiginys: "Brandenburgo markgrafas 1266 m. Prūsijos žemėje pastatydino Brandenburgo pilį."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203644
-
-<a id="claim-t-225792"></a>
-- t-225792
+<a id="claim-t-67728"></a>
+- t-001
   teiginys: "Dusburgietis pasakoja, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas mirė ir atgijo per Viešpaties kryžiaus atskalą."
-  atnaujinta: "2026-09-13 18:13"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,6 +61,8 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   temporaliniai_duomenys: "įvykio data: 1322 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Tai stebuklinis kronikos pasakojimas, todėl reikia atribucijos Dusburgiečiui."
+  pagrindžia:
+    - c-67520
 
 ## Citatos
 
@@ -112,42 +90,8 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-203644
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 130."
-  citata_originali: |
-    Brandenburgo markgrafas atvyko su daugybe karių į Prūsijos
-    žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro
-    bei brolių patariamas, pastatydino Brandenburgo pilį
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223943
-
-- id: c-204535
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 25"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
-  citata_originali: |
-    kad 1261 m., prieš
-    Pokarvių mūšį, kryžiuočių bei jų talkininkų kariuomenė sustojusi stovyklauti toje vietoje,
-    „kur dabar stovi Brandenburgo pilis“ (III, 91)
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Užėmė Brandenburgo pilį: [[objektai/asmenys/Glapas]]

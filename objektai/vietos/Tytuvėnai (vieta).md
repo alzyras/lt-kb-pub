@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Tytuvėnai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Tytuvėnai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Tytuvėnai'
+  - Tytuvėnai
 aliases:
-  - 'Tytuvėnai'
+  - Tytuvėnai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-20484dea46e25a881d712863"
-canonical_name: "Tytuvėnai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Tytuvėnai","Tytuvėnai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-20484dea46e25a881d712863
+canonical_name: Tytuvėnai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Tytuvėnai
+  - Tytuvėnai (vieta)
 sameAs: []
-canonical_biography: "Tytuvėnų parapijai 1864.I.28 buvo parašytas pastoracinis laiškas. Tytuvėnų parapijoje veikė burtininkai, apgaudinėję žmones."
+canonical_biography: 'Tytuvėnų parapijai 1864.I.28 buvo parašytas pastoracinis laiškas. Tytuvėnų parapijoje veikė burtininkai, apgaudinėję žmones.'
 place_authority: true
 historical_names: []
 ---

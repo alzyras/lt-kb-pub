@@ -1,11 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.)'
+pavadinimas: Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.)
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1513 m.'
-  - '1530 m.'
+  - 1513 m.
+  - 1530 m.
 date_start: '1513'
 date_end: '1530'
 sukurta: ''
@@ -13,19 +13,29 @@ atnaujinta: ''
 tags:
   - ivykis
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T12:57:22+00:00","source_checked_at":"2026-09-20T12:57:22+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 7efe802943f3a97a
+object_page_generated_at: '2026-09-20T12:57:22+00:00'
+object_page_source_checked_at: '2026-09-20T12:57:22+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.): 1513 m. vasario 21 d. ir 1530 m. Vilniuje kilo du dideli gaisrai, padarę miestui labai didelių nuostolių.…'
+object_page_seo_input_hash: 90b499f431d642265b78dc7193a114b01831720523fecafe60414c2c43041d86
+object_page_seo_generated_at: '2026-09-20T12:57:22+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.)
 
@@ -58,22 +68,10 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
 
 ## Teiginiai
 
-<a id="claim-t-218741"></a>
-- t-218741
-  teiginys: "Narbutas aprašo 1748 ir 1749 metais Vilniuje įvykusių gaisrų istoriją."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198752
-
 <a id="claim-t-54452"></a>
-- t-54452
+- t-001
   teiginys: "Per 1530 m. Vilniaus gaisrą liepsnose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -90,9 +88,9 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
     - c-55332
 
 <a id="claim-t-54453"></a>
-- t-54453
+- t-002
   teiginys: "Per 1513 m. vasario 21 d. Vilniaus gaisrą buvo sunaikinta Aukštutinė pilis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -109,9 +107,9 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
     - c-55332
 
 <a id="claim-t-54454"></a>
-- t-54454
+- t-003
   teiginys: "1513 m. vasario 21 d. ir 1530 m. Vilniuje kilę gaisrai miestui padarė labai didelių nuostolių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:21"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -128,9 +126,9 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
     - c-55332
 
 <a id="claim-t-54455"></a>
-- t-54455
+- t-004
   teiginys: "1513 m. vasario 21 d. ir 1530 m. Vilniaus gaisrai buvo viena iš priežasčių, paskatinusių karaliaus pastangas aprūpinti miestą vandeniu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -173,31 +171,8 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54452
-    - t-54453
-    - t-54454
-    - t-54455
-
-- id: c-198752
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 149."
-  citata_originali: |
-    Rankoje turiu knygelę25, kurios autorius nurodytas antraš­
-    tėje „Į skaitytoją“, dėsto eilėmis 1748 ir 1749 metais Vilniuje
-    įvykusių gaisrų nelaimingą istoriją. Toliau jis pateikia ilgą su­
-    degusių namų sąrašą. Paskui vėl graudžios eilės. Po šito, tary­
-    tum antrojoje veikalo dalyje, vėl kreipimasis į skaitytoją, ei­
-    liuota istorija antro gaisro, prasidėjusio Gregoravičiaus (Hre-
-    horovvicz) dvarelyje. Naujas sudegusių namų sąrašas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218741
-
+  pagrindzia:
+    - t-001
+    - t-002
+    - t-003
+    - t-004

@@ -32,29 +32,12 @@ media_all_json: |-
 
 p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
 
-## Citatos
-
-- id: c-43262
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
-  citata_originali: |
-    p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L. Karolomachija, Vilnius, 1992.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-41541"></a>
 - t-001
   teiginys: "1992 m. Vilniuje išleistoje L. Bojerio „Karolomachijoje“ aptariamas Salaspilio mūšis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Salaspilio (Kircholmo) mūšis (1605 m.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -69,3 +52,19 @@ p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
   pagrindžia:
     - c-43262
 
+## Citatos
+
+- id: c-43262
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
+  citata_originali: |
+    p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L. Karolomachija, Vilnius, 1992.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

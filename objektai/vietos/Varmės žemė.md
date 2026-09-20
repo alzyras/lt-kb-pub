@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Varmės žemė'
+pavadinimas: Varmės žemė
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-983e6a4eff033ba0181a4e77"
-canonical_name: "Varmės žemė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Varmės žemė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-983e6a4eff033ba0181a4e77
+canonical_name: Varmės žemė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Varmės žemė
 sameAs: []
-canonical_biography: "Broliai atplaukė prie Varmės žemės kranto ir netoli būsimos Baigos pilies pamatė prūsų pilį."
+canonical_biography: Broliai atplaukė prie Varmės žemės kranto ir netoli būsimos Baigos pilies pamatė prūsų pilį.
 ---
 # Varmės žemė
 
@@ -65,6 +64,5 @@ Broliai atplaukė prie Varmės žemės kranto ir netoli būsimos Baigos pilies p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

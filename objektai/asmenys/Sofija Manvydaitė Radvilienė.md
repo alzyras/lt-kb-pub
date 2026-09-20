@@ -43,6 +43,23 @@ canonical_biography: "1492 m. Sofija Manvydaitė Radvilienė kartu su dovanojama
 
 1492 m. Sofija Manvydaitė Radvilienė kartu su dovanojamais dvarų kompleksais perleido tarnybinius bajorus.
 
+## Teiginiai
+
+<a id="claim-t-204073"></a>
+- t-001
+  teiginys: "1492 m. Sofija Manvydaitė Radvilienė kartu su dovanojamais dvarų kompleksais perleido tarnybinius bajorus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nusako Sofijos veiksmą, datą ir perleidžiamų tarnybinių bajorų ryšį su dvarų kompleksais; papildomų aplinkybių nepridėta."
+  pagrindžia:
+    - c-186677
+
 ## Citatos
 
 - id: c-186677
@@ -62,23 +79,5 @@ canonical_biography: "1492 m. Sofija Manvydaitė Radvilienė kartu su dovanojama
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204073"></a>
-- t-001
-  teiginys: "1492 m. Sofija Manvydaitė Radvilienė kartu su dovanojamais dvarų kompleksais perleido tarnybinius bajorus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1492 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nusako Sofijos veiksmą, datą ir perleidžiamų tarnybinių bajorų ryšį su dvarų kompleksais; papildomų aplinkybių nepridėta."
-  pagrindžia:
-    - c-186677
-

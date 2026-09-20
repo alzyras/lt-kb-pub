@@ -42,82 +42,12 @@ canonical_biography: "1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir
 
 1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938). Girėno sumanytą skrydį. Transatlantiniai lakūnai Steponas Darius ir Stasys Girėnas.
 
-## Citatos
-
-- id: c-21993
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 221"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
-  citata_originali: |
-    Kazimiero bažnyčioje atidarytas Ateiz-
-    mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
-    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
-    M. K. Čiurlionio muziejaus senojo meno ekspozicija. Pradėti naudoti he-
-    rojinės istorijos puslapiai – LDK kova su kryžiuočiais, netgi idealizuoti
-    pagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir
-    S. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-
-    te ir naudota antivakarietiškumui ir antikatalikybei skleisti.
-  citata_rodoma: "Pradėti naudoti he-\nrojinės istorijos puslapiai – LDK kova su kryžiuočiais, netgi idealizuoti \npagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir \nS. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-\nte ir naudota antivakarietiškumui ir antikatalikybei skleisti."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-166963
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 173-174"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 173-174."
-  citata_originali: |
-    Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
-    liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
-    „Pienocentro“ pastatas Kaune (apie 1938).
-    Architektas V. Landsbergis-Žemkalnis
-
-    L I E T U V O S  I S T O R I J A
-    174
-    lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-166964
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 174"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 174."
-  citata_originali: |
-    Savo laiške
-    prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei
-    ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu. Didvyriams
-    Kaune pastatytas mauzoliejus (naikintas per nacių okupaciją ir baigtas
-    naikinti sovietmečiu). 1935 m. gegužės 21–22 d. kitas JAV lietuvis, Fe-
-    liksas Vaitkus, sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-## Ryšiai
-- Stasys Girėnas keliavo į [[objektai/vietos/Lietuva]]
-
 ## Teiginiai
 
 <a id="claim-t-64102"></a>
 - t-001
   teiginys: "Sovietmečiu buvo leidžiama rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -133,7 +63,7 @@ canonical_biography: "1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir
 <a id="claim-t-183570"></a>
 - t-002
   teiginys: "1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -156,7 +86,7 @@ canonical_biography: "1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir
 <a id="claim-t-183571"></a>
 - t-003
   teiginys: "Stasys Girėnas kartu su Steponu Dariumi buvo sumanęs skrydį, kurį 1935 m. gegužės 21–22 d. sėkmingai atliko Feliksas Vaitkus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -175,3 +105,72 @@ canonical_biography: "1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir
   pagrindžia:
     - c-166964
 
+## Citatos
+
+- id: c-21993
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
+  citata_originali: |
+    Kazimiero bažnyčioje atidarytas Ateiz-
+    mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
+    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
+    M. K. Čiurlionio muziejaus senojo meno ekspozicija. Pradėti naudoti he-
+    rojinės istorijos puslapiai – LDK kova su kryžiuočiais, netgi idealizuoti
+    pagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir
+    S. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-
+    te ir naudota antivakarietiškumui ir antikatalikybei skleisti.
+  citata_rodoma: "Pradėti naudoti he-\nrojinės istorijos puslapiai – LDK kova su kryžiuočiais, netgi idealizuoti \npagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir \nS. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-\nte ir naudota antivakarietiškumui ir antikatalikybei skleisti."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-166963
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 173-174"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 173-174."
+  citata_originali: |
+    Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
+    liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
+    „Pienocentro“ pastatas Kaune (apie 1938).
+    Architektas V. Landsbergis-Žemkalnis
+
+    L I E T U V O S  I S T O R I J A
+    174
+    lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-166964
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 174"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 174."
+  citata_originali: |
+    Savo laiške
+    prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei
+    ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu. Didvyriams
+    Kaune pastatytas mauzoliejus (naikintas per nacių okupaciją ir baigtas
+    naikinti sovietmečiu). 1935 m. gegužės 21–22 d. kitas JAV lietuvis, Fe-
+    liksas Vaitkus, sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+## Ryšiai
+- Stasys Girėnas keliavo į [[objektai/vietos/Lietuva]]

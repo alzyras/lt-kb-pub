@@ -35,6 +35,29 @@ canonical_biography: "Narbutas pagal islandų sakmes rašo, kad norvegas Augmund
 
 Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir su jos kraičiu gavo nemažą Rusios valdą.
 
+## Teiginiai
+
+<a id="claim-t-191370"></a>
+- t-001
+  teiginys: "Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir su jos kraičiu gavo nemažą Rusios valdą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_dukte -> Heiraudas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heiridė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Heiraudas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Heiridė tiesiogiai pavadinta Heiraudo dukra."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Heiridė buvo duktė Heiraudas (0.91); Augmundas vedė Heiridė (0.90)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
+  pagrindžia:
+    - c-174252
+
 ## Citatos
 
 - id: c-174252
@@ -58,69 +81,9 @@ Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195064
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 242"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
-  citata_originali: |
-    234
-    Islandų sakmėse, vadinamose šiaurinėmis sagomis,
-    esama žinių apie įžymų rusų karalių, vadinamą Zugurla-
-    mu, kuris, anot Torfėjo chronologinių skaičiavimų, taip
-    pat gyveno III amžiuje3. Iš to paties šaltinio žinoma, jog
-    rusų genties valdovo ir didvyrio Heiraudo dukra Heiridė
-    ištekėjo už norvego Augmundo; kartu ji gavo kraičio ne­
-    mažą Rusios valdą. Odo, irgi norvegų riterio, žmona bu­
-    vo rusnėnų karalienė Silkizifė; jis taip pat valdė savo
-    žmonos gimtąją žemę.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-002
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Heiridė]]
 - Sutuoktiniai: [[objektai/asmenys/Heiridė]]
-
-## Teiginiai
-
-<a id="claim-t-213445"></a>
-- t-001
-  teiginys: "Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir su jos kraičiu gavo nemažą Rusios valdą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_dukte -> Heiraudas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Heiridė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Heiraudas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Heiridė tiesiogiai pavadinta Heiraudo dukra."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Heiridė buvo duktė Heiraudas (0.91); Augmundas vedė Heiridė (0.90)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  pagrindžia:
-    - c-195064
-
-<a id="claim-t-213875"></a>
-- t-002
-  teiginys: "Pasak šaltinio, kartu su Heiride Augmundas gavo nemažą Rusios valdą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195064
-

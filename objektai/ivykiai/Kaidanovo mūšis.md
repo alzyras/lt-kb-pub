@@ -1,29 +1,26 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kaidanovo mūšis'
+pavadinimas: Kaidanovo mūšis
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1238 m.'
-  - '1249 m.'
+  - 1238 m.
+  - 1249 m.
 date_start: '1238'
 date_end: '1249'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kaidanovo mūšis
 
@@ -79,6 +76,5 @@ Kaidanovo vietovardyje tikrai galėjo atsispindėti buvęs di delis mūšis su K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

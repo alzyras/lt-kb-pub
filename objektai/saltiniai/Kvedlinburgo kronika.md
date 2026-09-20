@@ -34,6 +34,43 @@ media_all_json: |-
 
 Narbuto perteikimu, Kvedlinburgo kronika prieš 1009 m. minėjo rusus ir Rusią, buvusią toje pačioje vietoje arba Prūsijos šiaurėje. Kvedliriburgo kronika mini prieš 1009 metus ru sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos šiaurėje2.
 
+## Teiginiai
+
+<a id="claim-t-191847"></a>
+- t-001
+  teiginys: "Narbuto perteikimu, Kvedlinburgo kronika prieš 1009 m. minėjo rusus ir Rusią, buvusią toje pačioje vietoje arba Prūsijos šiaurėje."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kvedlinburgo kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kvedlinburgo kronika\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1009 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas metų rašymas ir išlaikyta Narbuto perteikimo atribucija. Nepridėtos gretimos žinios apie Adomą Bremenietį ar Sembą."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174729
+
+<a id="claim-t-197679"></a>
+- t-002
+  teiginys: "Kvedliriburgo kronika mini prieš 1009 metus ru sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos šiaurėje2."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179293
+
 ## Citatos
 
 - id: c-174729
@@ -61,6 +98,8 @@ Narbuto perteikimu, Kvedlinburgo kronika prieš 1009 m. minėjo rusus ir Rusią,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179293
   autorius: "Teodoras Narbutas"
@@ -82,66 +121,5 @@ Narbuto perteikimu, Kvedlinburgo kronika prieš 1009 m. minėjo rusus ir Rusią,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196930
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 217."
-  citata_originali: |
-    Kvedliriburgo kronika mini prieš 1009 metus ru­
-    sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos
-    šiaurėje2. Adomas Bremenietis, minėdamas Prūsijos pro­
-    vincijas, kurias dėl nesuprantamų priežasčių vadina salo­
-    mis, sako, jog Semba ribojasi su rusais, arba Rusios kraš­
-    tu, kurio jis vis dėlto nepriskiria prie Prūsijos provincijų,
-    nes tada tos žemės buvo Žemaitijos sudėtinė dalis3. Ra-
-    devikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos
-    sienas, mini Rusios problemą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-215206
-
-## Teiginiai
-
-<a id="claim-t-212139"></a>
-- t-001
-  teiginys: "Kvedliriburgo kronika mini prieš 1009 metus ru sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos šiaurėje2."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196930
-
-<a id="claim-t-215206"></a>
-- t-215206
-  teiginys: "Narbuto perteikimu, Kvedlinburgo kronika prieš 1009 m. minėjo rusus ir Rusią, buvusią toje pačioje vietoje arba Prūsijos šiaurėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kvedlinburgo kronika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=92"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kvedlinburgo kronika\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1009 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslintas metų rašymas ir išlaikyta Narbuto perteikimo atribucija. Nepridėtos gretimos žinios apie Adomą Bremenietį ar Sembą."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-196930
-
+  pagrindzia:
+    - t-002

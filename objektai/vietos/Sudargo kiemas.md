@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Sudargo kiemas'
+pavadinimas: Sudargo kiemas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1317 m.'
+  - 1317 m.
 date_start: '1317'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-c858221ac4b8f70cb0f3b46f"
-canonical_name: "Sudargo kiemas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Sudargo kiemas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-c858221ac4b8f70cb0f3b46f
+canonical_name: Sudargo kiemas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Sudargo kiemas
 sameAs: []
-canonical_biography: "1317 metais brolis Albrechtas iš Hageno užpuolė Sudargo kiemą ir sudegino jį kartu su aplinkiniais kaimais."
+canonical_biography: 1317 metais brolis Albrechtas iš Hageno užpuolė Sudargo kiemą ir sudegino jį kartu su aplinkiniais kaimais.
 ---
 # Sudargo kiemas
 
@@ -73,6 +72,5 @@ canonical_biography: "1317 metais brolis Albrechtas iš Hageno užpuolė Sudargo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

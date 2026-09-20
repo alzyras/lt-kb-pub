@@ -58,6 +58,48 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-187515"></a>
+- t-001
+  teiginys: "Komentare nurodoma, kad 1501-1502 m. žiemą Aukso ordos totoriai nesulaukė realios paramos kariuomene, artilerija ir maistu iš Aleksandro ir LDK Ponų Tarybos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "gap::items"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Auksinė Orda: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Artilerija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė Orda: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Artilerija\" parinktas kaip owner_note_path. Targetas \"Auksinė Orda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1501 m.; įvykio data: 1501-1502; įvykio data: 1502 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į vieną aiškų sakinį be antro aiškinamojo fragmento; teiginys remiasi komentaro citata."
+  pagrindžia:
+    - c-170467
+
+<a id="claim-t-187516"></a>
+- t-002
+  teiginys: "Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::items"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "kariavo_pries -> Lenkai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata nurodo, kad Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Lenkai (0.88); Lietuviai kariavo prieš Lenkai (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-170466
+
 ## Citatos
 
 - id: c-170466
@@ -85,8 +127,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
+    - t-002
 
 - id: c-170467
   autorius: "Anoniminis metraštininkas"
@@ -107,26 +149,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-187516"></a>
-- t-001
-  teiginys: "Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::items"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "kariavo_pries -> Lenkai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo, kad Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Lenkai (0.88); Lietuviai kariavo prieš Lenkai (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-170466
-
+  pagrindzia:
+    - t-001

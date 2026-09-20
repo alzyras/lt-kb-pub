@@ -35,6 +35,24 @@ canonical_biography: "Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestie
 
 Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, trečią kartą burtams kritus, sudegino pririštą ant žirgo.
 
+## Teiginiai
+
+<a id="claim-t-175204"></a>
+- t-001
+  teiginys: "Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, trečią kartą burtams kritus, sudegino pririštą ant žirgo."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Herkus Mantas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hirtshalsas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Herkus Mantas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hirtshalsas\" parinktas kaip owner_note_path. Targetas \"Herkus Mantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-159349
+
 ## Citatos
 
 - id: c-159349
@@ -56,59 +74,5 @@ Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201702
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 116"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
-  citata_originali: |
-    Po šių skerdynių
-    notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų
-    akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir
-    turtingam vyrui, vardu Hirtshalsas, kuris, patekęs į tokią bėdą, paprašė Herkų Mantą
-    prisiminti patirtas Magdeburgo mieste geradarystes ir išgelbėti jį nuo šitokios nelaimės.
-    Šitai išgirdęs, Herkus, jį užjausdamas, du kartus jį išgelbėjo. Tačiau kai ir trečią kartą
-    burtai jam krito, pats atsižadėjo noro išsigelbėti ir iš pagarbos tikėjimui laisva valia
-    pasiaukojo dievui: pririštas ant savo žirgo, jis buvo sudegintas367.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-221825"></a>
-- t-001
-  teiginys: "Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, trečią kartą burtams kritus, sudegino pririštą ant žirgo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herkus Mantas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hirtshalsas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Herkus Mantas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hirtshalsas\" parinktas kaip owner_note_path. Targetas \"Herkus Mantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-201702
-
-<a id="claim-t-224104"></a>
-- t-002
-  teiginys: "Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-201702
-

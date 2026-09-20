@@ -40,6 +40,47 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205918"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, Pskovo riteriai noriai prisidėjo prie Dovydo žygio prieš kryžiuočius ir žygiavo su jo vėliava."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188533
+
+<a id="claim-t-205919"></a>
+- t-002
+  teiginys: "1323 m. vasario pradžioje, pasak Teodoro Narbuto, kryžiuočiai apsiautė Pskovą ir aštuoniolika dienų puolė jo mūrus, tačiau Izborsko vietininkas kunigaikštis Eustachijus smogė jų stovyklai iš užnugario ir atitraukė juos nuo miesto šturmo."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188534
+
+<a id="claim-t-205920"></a>
+- t-003
+  teiginys: "Dovydas iš Gardino atskubėjo ginti Pskovo, sutriuškino kryžiuočių pulkus, užėmė jų stovyklą ir privertė magistrą Gerardą Jokę sudaryti aštuoniolikos metų taikos sutartį."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188535
+
 ## Santrauka
 
 Pasak Teodoro Narbuto, Pskovo riteriai noriai prisidėjo prie Dovydo žygio prieš kryžiuočius ir žygiavo su jo vėliava. 1323 m. vasario pradžioje, pasak Teodoro Narbuto, kryžiuočiai apsiautė Pskovą ir aštuoniolika dienų puolė jo mūrus, tačiau Izborsko vietininkas kunigaikštis Eustachijus smogė jų stovyklai iš užnugario ir atitraukė juos nuo miesto šturmo. Dovydas iš Gardino atskubėjo ginti Pskovo, sutriuškino kryžiuočių pulkus, užėmė jų stovyklą ir privertė magistrą Gerardą Jokę sudaryti aštuoniolikos metų taikos sutartį.
@@ -64,7 +105,7 @@ Pasak Teodoro Narbuto, Pskovo riteriai noriai prisidėjo prie Dovydo žygio prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188534
@@ -90,7 +131,7 @@ Pasak Teodoro Narbuto, Pskovo riteriai noriai prisidėjo prie Dovydo žygio prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-188535
@@ -111,47 +152,5 @@ Pasak Teodoro Narbuto, Pskovo riteriai noriai prisidėjo prie Dovydo žygio prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-205918"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, Pskovo riteriai noriai prisidėjo prie Dovydo žygio prieš kryžiuočius ir žygiavo su jo vėliava."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188533
-
-<a id="claim-t-205919"></a>
-- t-002
-  teiginys: "1323 m. vasario pradžioje, pasak Teodoro Narbuto, kryžiuočiai apsiautė Pskovą ir aštuoniolika dienų puolė jo mūrus, tačiau Izborsko vietininkas kunigaikštis Eustachijus smogė jų stovyklai iš užnugario ir atitraukė juos nuo miesto šturmo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188534
-
-<a id="claim-t-205920"></a>
-- t-003
-  teiginys: "Dovydas iš Gardino atskubėjo ginti Pskovo, sutriuškino kryžiuočių pulkus, užėmė jų stovyklą ir privertė magistrą Gerardą Jokę sudaryti aštuoniolikos metų taikos sutartį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188535
-

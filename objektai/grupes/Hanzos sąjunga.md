@@ -33,6 +33,37 @@ media_all_json: |-
 
 Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
 
+## Teiginiai
+
+<a id="claim-t-201476"></a>
+- t-001
+  teiginys: "Pirkliai, priklausantys Hanzos sąjungai, Kauno nepasiekdavo."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184823
+
+<a id="claim-t-203085"></a>
+- t-002
+  teiginys: "Lietuvos metraščio komentare nurodoma, kad Eriko XIII Pomeraniečio atstovų delegacija Lucko suvažiavime siekė užsitikrinti imperatoriaus Zigmanto paramą prieš Hanzos sąjungai priklausiusius Vokietijos miestus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Delegacijos tikslas suformuluotas kaip komentare priskiriamas siekis, nes tai motyvo interpretacija. Nepridėta platesnio konflikto konteksto."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Vokietija; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Luckas; mentioned_place: Švedija"
+  temporaliniai_duomenys: "įvykio data: po 1412 m.; įvykio data: 1412 m.; įvykio data: 1459 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Delegacijos tikslas suformuluotas kaip komentare priskiriamas siekis, nes tai motyvo interpretacija. Nepridėta platesnio konflikto konteksto."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-180630
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -68,6 +99,8 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-184823
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -84,35 +117,5 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201476
-
-## Teiginiai
-
-<a id="claim-t-211820"></a>
-- t-001
-  teiginys: "Lietuvos metraščio komentare nurodoma, kad Eriko XIII Pomeraniečio atstovų delegacija Lucko suvažiavime siekė užsitikrinti imperatoriaus Zigmanto paramą prieš Hanzos sąjungai priklausiusius Vokietijos miestus."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Delegacijos tikslas suformuluotas kaip komentare priskiriamas siekis, nes tai motyvo interpretacija. Nepridėta platesnio konflikto konteksto."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Vokietija; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Luckas; mentioned_place: Švedija"
-  temporaliniai_duomenys: "įvykio data: po 1412 m.; įvykio data: 1412 m.; įvykio data: 1459 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Delegacijos tikslas suformuluotas kaip komentare priskiriamas siekis, nes tai motyvo interpretacija. Nepridėta platesnio konflikto konteksto."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-
-<a id="claim-t-201476"></a>
-- t-201476
-  teiginys: "Pirkliai, priklausantys Hanzos sąjungai, Kauno nepasiekdavo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184823
-
+  pagrindzia:
+    - t-001

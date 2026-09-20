@@ -26,6 +26,33 @@ media_all_json: |-
 
 Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek daug ir šitokių baisių piktadarysčių esąs pridaręs, jis atsakė: „Kadangi man niekas nekliudė ir nedraudė603.
 
+## Teiginiai
+
+<a id="claim-t-89593"></a>
+- t-001
+  teiginys: "Sugautas vyras savo piktadarybes aiškino tuo, kad niekas jam nekliudė ir nedraudė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-85534
+
+<a id="claim-t-89594"></a>
+- t-002
+  teiginys: "Karvedys Henrikas savo piktadarybes aiškino tuo, kad jam niekas nekliudė ir nedraudė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kadangi man niekas nekliudė ir nedraudė603. Sitai kaip skatinami nusikalsti tie, kurie nebaudžiami už piktus darbus!: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kadangi man niekas nekliudė ir nedraudė603. Sitai kaip skatinami nusikalsti tie, kurie nebaudžiami už piktus darbus!\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-85535
+
 ## Citatos
 
 - id: c-85534
@@ -43,6 +70,8 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-85535
   autorius: "Petras Dusburgietis"
@@ -60,70 +89,5 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-203542
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 255"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
-  citata_originali: |
-    Kai jį broliai sugavo ir kai paklausė, kodėl tiek daug ir
-    šitokių baisių piktadarysčių esąs pridaręs, jis atsakė: „Kadangi man niekas nekliudė ir
-    nedraudė603. Sitai kaip skatinami nusikalsti tie, kurie nebaudžiami už piktus darbus!
-    14.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-206004
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 255"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
-  citata_originali: |
-    Pastarojoje pilyje buvo karvedys, vardu Henrikas, karys, lengva širdimi grobęs
-    bei žiauriai kankinęs ir dvasininkus, ir pasauliečius, ir vienuolius, ir ne vienuolius bei
-    visus kitus, kurie ėjo pro šalį. Kai jį broliai sugavo ir kai paklausė, kodėl tiek daug ir
-    šitokių baisių piktadarysčių esąs pridaręs, jis atsakė: „Kadangi man niekas nekliudė ir
-    nedraudė603. Sitai kaip skatinami nusikalsti tie, kurie nebaudžiami už piktus darbus!
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-223629"></a>
-- t-001
-  teiginys: "Sugautas vyras savo piktadarybes aiškino tuo, kad niekas jam nekliudė ir nedraudė."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203542
-
-<a id="claim-t-225743"></a>
-- t-002
-  teiginys: "Karvedys Henrikas savo piktadarybes aiškino tuo, kad jam niekas nekliudė ir nedraudė."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kadangi man niekas nekliudė ir nedraudė603. Sitai kaip skatinami nusikalsti tie, kurie nebaudžiami už piktus darbus!: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kadangi man niekas nekliudė ir nedraudė603. Sitai kaip skatinami nusikalsti tie, kurie nebaudžiami už piktus darbus!\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206004
-

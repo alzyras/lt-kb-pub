@@ -43,6 +43,40 @@ canonical_biography: "Narbutas klaidinga laikė nuomonę, kurią siejo su kronik
 
 Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledos vardo panašumu į Ladą. Narbutas mini, kad Belskis savo kronikoje pasakojo panašų dalyką apie senovės prūsų monetas. Belskis buvo ir lietuvių valdovų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytautaitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
 
+## Teiginiai
+
+<a id="claim-t-190381"></a>
+- t-001
+  teiginys: "Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledos vardo panašumu į Ladą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Belskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Belskis\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173264
+
+<a id="claim-t-197278"></a>
+- t-002
+  teiginys: "Belskis buvo ir lietuvių valdovų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytautaitis, kuris valdė Pskovo žemę apie 1342 metus27 28."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-173265
+
 ## Citatos
 
 - id: c-173264
@@ -67,6 +101,8 @@ Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-173265
   autorius: "Teodoras Narbutas"
@@ -86,123 +122,5 @@ Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198167
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
-  citata_originali: |
-    Iškiliojoje pusėje
-    ženklas, panašus į vadinamojo biarmiškojo raidyno raidę A
-    arbatų, prie kurios yra dobilo lapelis. Tas žodis gali turėti ryšį
-    su Hirijos (Hirrya), arba Jurijos (Juhrya), šalimi, kuri buvo prie
-    Jūros upės, jai priklausė ir Jurbarkas. Buvo ir lietuvių valdo­
-    vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
-    taitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-216960
-
-- id: c-200161
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
-  citata_originali: |
-    Šie
-    mitai jokiu būdu netaikomi Ledos dvyniams Kastorui ir Poliuk-
-    sui, kaip tai mėginta įrodyti.
-    Šios nuomonės klaidingumas atsirado dėl to, kad šitaip ma­
-    nė kronikininkas Belskis, kuriam tikriausiai pirmiau už Lato­
-    ną atėjo į galvą Ledos vardas, panašesnis į Ladą, žinomą Lėlio
-    ir Polėlio motinos vardu.
-    Tyrėjams stokojant kritiškumo, ta klaida išplito panašiai
-    kaip mūsų mitologų spėjimas; kai kurie iš mūsų deivės Lados
-    daro graikų Venerą arba egiptiečių Izidę, o iš jos dvynių Lėlių
-    vadina Kupidonu, o Polėlių - Himenėju.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-    - t-216960
-    - t-218082
-
-## Teiginiai
-
-<a id="claim-t-217305"></a>
-- t-001
-  teiginys: "Belskis buvo ir lietuvių valdovų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytautaitis, kuris valdė Pskovo žemę apie 1342 metus27 28."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198167
-
-<a id="claim-t-217790"></a>
-- t-002
-  teiginys: "Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledos vardo panašumu į Ladą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Belskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Belskis\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-200161
-
-<a id="claim-t-216960"></a>
-- t-216960
-  teiginys: "Narbutas mini, kad Belskis savo kronikoje pasakojo panašų dalyką apie senovės prūsų monetas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Belskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Belskis\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-198167
-    - c-200161
-
-<a id="claim-t-218082"></a>
-- t-218082
-  teiginys: "Šios nuomonės klaidingumas atsirado dėl to, kad šitaip ma nė kronikininkas Belskis, kuriam tikriausiai pirmiau už Lato ną atėjo į galvą Ledos vardas, panašesnis į Ladą, žinomą Lėlio ir Polėlio motinos vardu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200161
-

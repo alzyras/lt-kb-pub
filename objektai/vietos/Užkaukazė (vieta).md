@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Užkaukazė (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Užkaukazė (vieta)
+identifikacija: vieta
 variantai:
-  - 'Užkaukazė'
+  - Užkaukazė
 aliases:
-  - 'Užkaukazė'
+  - Užkaukazė
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-577b3939dddea1ec6060427d"
-canonical_name: "Užkaukazė (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Užkaukazė","Užkaukazė (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-577b3939dddea1ec6060427d
+canonical_name: Užkaukazė (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Užkaukazė
+  - Užkaukazė (vieta)
 sameAs: []
-canonical_biography: "Rusijos atžvilgiu tik Užkaukazės gyventojai turėjo tokių įgūdžių."
+canonical_biography: Rusijos atžvilgiu tik Užkaukazės gyventojai turėjo tokių įgūdžių.
 place_authority: true
 historical_names: []
 ---

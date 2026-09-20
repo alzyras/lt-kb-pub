@@ -3,40 +3,40 @@ tipas: asmuo
 pavadinimas: 'Gaudencijus (arkivyskupas, XI a.)'
 identifikacija: 'arkivyskupas, XI a.'
 variantai:
-  - 'Gaudencijus'
+  - Gaudencijus
 aliases:
-  - 'Gaudencijus'
+  - Gaudencijus
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1006 m.'
+  - 1006 m.
 date_start: '1006'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XI'
+  - XI
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-1db5f82a028bba803e22442e"
-canonical_name: "Gaudencijus (arkivyskupas, XI a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Gaudencijus","Gaudencijus (arkivyskupas, XI a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-1db5f82a028bba803e22442e
+canonical_name: 'Gaudencijus (arkivyskupas, XI a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Gaudencijus
+  - 'Gaudencijus (arkivyskupas, XI a.)'
 sameAs: []
-canonical_biography: "Gaudencijus buvo šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bičiulis."
+canonical_biography: Gaudencijus buvo šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bičiulis.
 ---
 # Gaudencijus (arkivyskupas, XI a.)
 
@@ -83,6 +83,5 @@ Gaudencijus buvo šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bičiulis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

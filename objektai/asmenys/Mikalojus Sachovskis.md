@@ -33,6 +33,17 @@ canonical_biography: "Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus S
 
 Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Šimonovos ir ypač Viesos kai­ me duotas privilegijas, nesvarbu, ar jos mūsų naujai duotos ir paskelbtos, ar vėliau gali būti duotos ir paskelbtos, šiuo atšaukiame ir norime, kad būtų.
 
+## Teiginiai
+
+<a id="claim-t-87787"></a>
+- t-001
+  teiginys: "Mikalojaus Sachovskio privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83766
+
 ## Citatos
 
 - id: c-83766
@@ -66,17 +77,5 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87787"></a>
-- t-001
-  teiginys: "Mikalojaus Sachovskio privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83766
-

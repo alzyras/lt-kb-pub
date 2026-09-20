@@ -46,6 +46,33 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206773"></a>
+- t-001
+  teiginys: "1397 m. prie Lucko Vytautas sutelkė Rusios, savo šalies vasalų, Lietuvos ir tikriausiai iš Lenkijos atsiųstų riterių pulkus, o su Tochtamyšo totoriais iš Lydos surengė žygį į Padonę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189388
+
+<a id="claim-t-206774"></a>
+- t-002
+  teiginys: "Liepos pabaigoje kariuomenė perėjo Ukrainą ir Doną, Azovo apylinkėse persekiojo totorių ordas bei pasiekė Volgą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189389
+
 ## Santrauka
 
 1397 m. prie Lucko Vytautas sutelkė Rusios, savo šalies vasalų, Lietuvos ir tikriausiai iš Lenkijos atsiųstų riterių pulkus, o su Tochtamyšo totoriais iš Lydos surengė žygį į Padonę. Liepos pabaigoje kariuomenė perėjo Ukrainą ir Doną, Azovo apylinkėse persekiojo totorių ordas bei pasiekė Volgą.
@@ -77,7 +104,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189389
@@ -101,33 +128,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206773"></a>
-- t-001
-  teiginys: "1397 m. prie Lucko Vytautas sutelkė Rusios, savo šalies vasalų, Lietuvos ir tikriausiai iš Lenkijos atsiųstų riterių pulkus, o su Tochtamyšo totoriais iš Lydos surengė žygį į Padonę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189388
-
-<a id="claim-t-206774"></a>
-- t-002
-  teiginys: "Liepos pabaigoje kariuomenė perėjo Ukrainą ir Doną, Azovo apylinkėse persekiojo totorių ordas bei pasiekė Volgą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189389
-

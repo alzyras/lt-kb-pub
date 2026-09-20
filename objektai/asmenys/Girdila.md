@@ -41,6 +41,44 @@ canonical_biography: "Dusburgietis teigia, kad apie išdavystę, per kurią žuv
 
 Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščionių 1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams visokeriopų eibių. Dusburgietis teigia, kad girdila ir patraukė su jais prie Aukaimio pilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga juos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti.
 
+## Teiginiai
+
+<a id="claim-t-60123"></a>
+- t-001
+  teiginys: "Girdila su jam skirtais vyrais patraukė prie Aukaimio pilies, bet iš anksto įspėti pilies vyrai juos užpuolė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Aukaimis: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Girdila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Aukaimis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje nurodyta, kad Girdila patraukė prie Aukaimio pilies."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Girdila keliavo į Aukaimis (0.88)"
+  pagrindžia:
+    - c-60755
+
+<a id="claim-t-60124"></a>
+- t-002
+  teiginys: "1285 m. skalvis Girdila, prieš atsivertimą gerbtas saviškių, pasigyrė galįs su šimtu ginkluotų vyrų pridaryti lietuviams žalos."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Girdila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=94"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Girdila\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1285 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo apkrautas antrašte ir boilerplate."
+  pagrindžia:
+    - c-60755
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -80,6 +118,9 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002
 
 ## Ryšiai
 - Girdila keliavo į [[objektai/vietos/Aukaimis]]

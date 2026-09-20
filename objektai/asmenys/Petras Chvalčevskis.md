@@ -39,6 +39,20 @@ canonical_biography: "Kaip atrodo, Barborai Radvilaitei gyvai esant ir po jos mi
 
 Kaip atrodo, Barborai Radvilaitei gyvai esant ir po jos mirties 1551 m. Kauno seniūniją tvarkė valdovo pilių ir dvarų priežiūras Petras Chvalčevskis.
 
+## Teiginiai
+
+<a id="claim-t-202195"></a>
+- t-001
+  teiginys: "Kaip atrodo, Barborai Radvilaitei gyvai esant ir po jos mirties 1551 m. Kauno seniūniją tvarkė valdovo pilių ir dvarų priežiūras Petras Chvalčevskis."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185542
+
 ## Citatos
 
 - id: c-185542
@@ -54,20 +68,5 @@ Kaip atrodo, Barborai Radvilaitei gyvai esant ir po jos mirties 1551 m. Kauno se
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202195"></a>
-- t-001
-  teiginys: "Kaip atrodo, Barborai Radvilaitei gyvai esant ir po jos mirties 1551 m. Kauno seniūniją tvarkė valdovo pilių ir dvarų priežiūras Petras Chvalčevskis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185542
-

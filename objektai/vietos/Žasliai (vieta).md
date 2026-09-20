@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Žasliai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Žasliai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Žasliai'
+  - Žasliai
 aliases:
-  - 'Žasliai'
+  - Žasliai
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-64e62bfedb0a0cc746ed8d9b"
-canonical_name: "Žasliai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Žasliai","Žasliai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-64e62bfedb0a0cc746ed8d9b
+canonical_name: Žasliai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Žasliai
+  - Žasliai (vieta)
 sameAs: []
-canonical_biography: "Prie Žaslių buvo išlikę du Pajautiškių kaimai."
+canonical_biography: Prie Žaslių buvo išlikę du Pajautiškių kaimai.
 ---
 # Žasliai (vieta)
 
@@ -71,6 +71,5 @@ Prie Žaslių buvo išlikę du Pajautiškių kaimai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

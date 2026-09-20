@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Varšava (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Varšava (vieta)
+identifikacija: vieta
 variantai:
-  - 'Varšava'
+  - Varšava
 aliases:
-  - 'Varšava'
+  - Varšava
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fdd0c438ad2f754f49ee241e"
-canonical_name: "Varšava (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Varšava","Varšava (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fdd0c438ad2f754f49ee241e
+canonical_name: Varšava (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Varšava
+  - Varšava (vieta)
 sameAs: []
-canonical_biography: "Kaune ir Vilniuje pasirodė vi sokių iš AVaršavos atkeliavusių agitatorių, ku rie, važinėdami po kaimus, kursto žmones, kad dėtūsi su lenkais. Iš Varšavos Kauno bažnytinei administracijai buvo išsiųstos reikalingos popieros."
+canonical_biography: 'Kaune ir Vilniuje pasirodė vi sokių iš AVaršavos atkeliavusių agitatorių, ku rie, važinėdami po kaimus, kursto žmones, kad dėtūsi su lenkais. Iš Varšavos Kauno bažnytinei administracijai buvo išsiųstos reikalingos popieros.'
 ---
 # Varšava (vieta)
 
@@ -87,7 +87,7 @@ Kaune ir Vilniuje pasirodė vi sokių iš AVaršavos atkeliavusių agitatorių, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192299
@@ -107,6 +107,5 @@ Kaune ir Vilniuje pasirodė vi sokių iš AVaršavos atkeliavusių agitatorių, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

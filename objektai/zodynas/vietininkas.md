@@ -1,34 +1,45 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'vietininkas'
+pavadinimas: vietininkas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1128 m.'
-  - '2026 m.'
+  - 1128 m.
+  - 2026 m.
 date_start: '1128'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XII'
-  - 'XXI'
+  - XII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Vietininkas","url":"https://lt.wikipedia.org/wiki/Vietininkas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T00:42:51+00:00","source_checked_at":"2026-09-19T00:42:51+00:00","counts":{"relations":0,"gallery":0,"sources":6},"featured_claim_ids":["t-203362","t-176258","t-200419","t-176261","t-176268","t-193166","t-200414"],"featured_claims":[{"claim_id":"t-203362","text":"Pasak A. Šapokos (red.), didysis kunigaikštis savo dvarams administruoti ir tvarkai srityse palaikyti skirdavo tam tikrus urėdus, vadinamus vietininkais.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-46940"]},{"claim_id":"t-176258","text":"Jogaila paskyrė Vaidilą Lydos vietininku ir atidavė jam į žmonas savo seserį.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-160265","c-183769"]},{"claim_id":"t-200419","text":"Vytautas panaikino svarbesnes sričių kunigaikštijas ir vietoj savarankiškų kunigaikščių paskyrė savo vietininkus.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-183763"]},{"claim_id":"t-176261","text":"Jogaila paskyrė Vaidilą Lydos vietininku ir, nepaisydamas Kęstučio prieštaravimų, atidavė jam į žmonas savo seserį.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-160265","c-183769"]},{"claim_id":"t-176268","text":"Vietininkai valdė dvarus, prižiūrėjo pilis ir turėjo jas taisyti bei laikyti paruoštas karui.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-46941","c-183753"]},{"claim_id":"t-193166","text":"Savo dvarams administruoti ir tvarkai srityse palaikyti didysis kunigaikštis skirdavo tam tikrus urėdus, kurie buvo vadinami vietininkais.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-46940"]},{"claim_id":"t-200414","text":"Kazimiero valdymo pabaigoje likusių kunigaikštysčių pilis valdė didžiojo kunigaikščio vietininkai.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-166388","c-183761"]}],"featured_quote":{"text":"**22. Vytauto santykiai su Lenkija jo gyvenimo pabaigoj** Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vy- tautas niekad nenorėjo gadinti santykių su Jogaila ir Lenkija. Bendradarbiavimo su Lenkija jis ypač buvo reikalingas, kovo- damas ginklu ir diplomatija su ordinu.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","claim_id":"t-193165","evidence_id":"c-175915","origin":"internal"},"wiki":{"status":"published","source":{"title":"Vietininkas","url":"https://lt.wikipedia.org/wiki/Vietininkas","publisher":"Vikipedija","language":"lt","article_id":"433363","revision_id":"7919849","published_at":"2026-09-07T18:04:17Z","version_pk":"","content_hash":"9f293970c07405760ca2fc19201000ef845f4697e23c9a0069363d3bdc04a03e","retrieved_at":"2026-09-19T00:38:26+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Vietininkas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"433363"}},"intro":"Vietininkas (lot. locativus) – linksnis, nurodantis vietą (locus). Atsako į klausimus kur? kame? Vietininko linksnis buvo indoeuropiečių prokalbėje, todėl yra išlikęs dalyje indoeuropiečių kalbų (baltų-slavų, sanskrite, lotynų). Dalyje kitų linksniuojamų kalbų (senovės graikų, senovės germanų) vietininko forma buvo sumišusi su kitais linksniais. Dabartinis lietuvių bendrinės kalbos vietininkas yra inesyvas (miške, miškuose). Senasis, iš indoeuropiečių prokalbės paveldėtas vietininkas vienaskaitoje buvo sudaromas prie kamieno arba kamiengalio balsio, jeigu jis turimas, jungiant galūnę *-i (*žans + *-i > *žansi ''žąsyje''; *šakā- + *-i > *šakāi ''šakoje''; *lauke- + *-i > *laukei ''lauke''), daugiskaitoje − prie kamieno arba kamiengalio balsio pridedant galūnę *-su (*žans + *-su > *žan(s)su ''žąsyse''; *šakā- + *-su > *šakāsu ''šakose''). Paliudytas senoviškas indoeuropietiškas vienaskaitos vietininkas be galūnės su tam tikra balsių kaita. Senųjų, pirminių vietininkų darybą žr. straipsniuose „Indoeuropiečių prokalbė“ ir „Baltų prokalbė“. Lietuvių kalboje seniau buvo (dabar kaip archaizmai kartais vartojami) ir kitų vietą reiškiančių linksnių – tai iliatyvas (miškan, miškuosna), aliatyvas (miškop, miškump) ir adesyvas (miškiep, miškuosemp). Šios vietininko atmainos yra archaizmai tik dabartinės kalbos atžvilgiu, nes iš visų lietuvių kalbos linksnių jie yra naujausi, buvo sudaryti vėliau už visus kitus linksnius ir gyvavo trumpiausiai. Iš neindoeuropiečių kalbų, vietininkas vartojamas tiurkų, finougrų, įvairiose indėnų kalbose. Turkų kalboje vietininko priesaga yra -da, tačiau jos išraiška gali kisti dėl balsių harmonijos ir suduslėjimo (oda – odada, ev – evde, kitap – kitapta). Finougrų kalbose yra daugiau kaip šeši vietininko raiškos būdai (iliatyvas, inesyvas, eliatyvas, aliatyvas, adesyvas, abliatyvas, superesyvas ir kt.). Pvz., estų kalboje:","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Vietininkas","url":"https://lt.wikipedia.org/wiki/Vietininkas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Vietininkas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3b3fe82fefeabf31d3948ddb","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Vietininkai – didžiojo kunigaikščio skiriami urėdai, administruojantys jo dvarus ir palaikantys tvarką srityse.","context":"Pasak A. Šapokos (red.) veikalo „Lietuvos istorija“ (1936 m.), jie galėjo valdyti dideles sritis arba nedidelius valsčius dvarų apylinkėse.","support_ids":["t-193166","c-46940"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193166","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-46940","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Savo dvarams administruoti ir tvar- kai srityse palaikyti didysis kunigaikštis skirdavo tam tikrus urėdus, kurie buvo vadinami vietininkais. Jų buvo įvai- rių. Vieni buvo paskirti buvusių sritinių kunigaikščių vietose ir valdė dideles sritis, kiti buvo paskirti didžiojo kunigaikščio dvaruose (domenuose) ir valdė tik nedidelius valsčius dvarų apylinkėse; jie turėdavo prižiūrėti ūkį ir už tai gaudavo 1/3 visų dvaro pajamų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"328d04e0a7b6258701175588","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Vietininkai ėjo tris pareigas: buvo didžiojo kunigaikščio turto valdytojai, pilių komendantai ir teisėjai.","context":"A. Šapokos (red.) „Lietuvos istorijoje“ (1936 m.) tiesiogiai aprašomos vietininkų pareigos.","support_ids":["t-176268","c-46941"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176268","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-46941","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tačiau vietininkai nebuvo vien tik ūkių prievaizdai: jie valdė ne tik dvarus, bet jų žinioje buvo ir tose srityse esančios pilys, kurias jie turėjo taisyti ir laikyti paruoštas karui. Be to, jie spręsdavo ne tik dvaro valstiečių, bet ir apylinkės bajorų bylas. Taigi vietininkai ėjo trejopas pareigas: 1) didžiojo ku- nigaikščio turto valdytojo, 2) pilies komendan- to ir 3) teisėjo."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9eca0ece08157a9b77a3f7f9","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Istoriniuose šaltiniuose vietininkas vartojamas asmeniui, paskirtam valdyti konkrečią valdą, sritį, miestą ar kunigaikštystę.","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.), aprašo Skirgailą kaip Jogailos vietininką, Vaidilą kaip Lydos vietininką ir Bogdaną Kievlą kaip Vilniaus vaivados vietininką; Teodoras Narbutas, „Lietuvių tautos istorija“ (2001 m.), mini Smolensko vietininkus.","support_ids":["t-203580","c-160269","t-200411","c-160265","t-200423","c-160275","t-206247","c-188862"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203580","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-200411","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-200423","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-206247","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-160269","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tos pirmosios Lietuvoj teisės būtų ge­ rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­ ros. Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­ čiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo tikėjimo nuostatus; dar numaldęs Baltojoje Rusioje prasidė­ jusius bruzdėjimus, pargrįžo į Vilnių. Čia, krašto reikalus įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­ vo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu, pavaldžiu karališkajai savo valdžiai16."},{"kind":"evidence","evidence_id":"c-160265","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus iki rūmų pataurininkio iškėlė. O Jogaila, labai jį pamilęs, ne tik Lydos vietininku padarė, bet, nepaisydamas Kęstučio prieštaravimų, dargi atidavė jam į žmonas savo seserį. Kaip pasiuntinys nuvykęs į Prūsiją, Vai­ dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­ dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­ žiuočių ir palengvinti jiems Kęstučio valdų puolimą28."},{"kind":"evidence","evidence_id":"c-160275","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"41 Miesto archyve yra Aleksandro Jogai- laičio, Lietuvos didžiojo kunigaikš­ čio, tokio turinio laiškas: „Vaitas, ta­ rybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, Vilniaus vaivados ir valstybės kanclerio Mi­ kalojaus Radvilos vietininką, kad tas Kievla perkėloje ties Vilniumi imąs po grašį nuo krovinio, ko Vytauto ir Žygimanto laikais nebūdavo. Tad kunigaikščio Aleksandro nurody­ mu, vaivada Mikalojus išsiklausinė- jo ir sužinojo, kad nuo seno nemo­ kėję to mokesčio vietininkui, tik po grašį nuo krovinio keltininkams, ku­ rie krovinius praleidžia, ir kad tą naują mokestį buvę įvedę Tomas ir Zdanas, Vilniaus vaivados ir miru­ sio karaliaus Kazimiero kanclerio, velionio pono…"},{"kind":"evidence","evidence_id":"c-188862","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Smolensko kunigaikštystė, savo pa­ čios ir visos valstybės labui, nuo šiol tampa Lietuvos provincija, valdoma dviejų vietininkų. Jais šį kartą skiriami Jomantas ir Ba­ zilijus Boreikis, garsūs Lietuvos didikai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0a70228a01df62aa7a59b3b6","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Vietininkas galėjo būti didžiojo kunigaikščio valdžiai priklausantis srities valdytojas, pakeitęs savarankišką kunigaikštį.","context":"„Vytautas Didysis 1350–1430“ (1930 m.) aprašo Vytauto vietininkus kaip nuo didžiojo kunigaikščio visiškai priklausomus valdytojus.","support_ids":["t-200420","c-183763"],"source_refs":[{"kind":"internal_claim","claim_id":"t-200420","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-183763","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Šis darbas beveik galutinai buvo baigtas Vytauto: jam pasisekė svarbesniąsias ir didesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­ gaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun. priklausomus."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"published","text":"Vietininkas – didžiojo kunigaikščio skiriamas urėdas, administravęs valdovo dvarus ir palaikęs tvarką jam pavaldžiose srityse. Jo valdžia galėjo apimti dideles teritorijas, likusias po sritinių kunigaikščių valdymo, arba tik nedidelį valsčių aplink valdovo dvarą. Vietininkas buvo ne vien ūkio prievaizdas: jis valdė dvarus, prižiūrėjo pilis, turėjo jas taisyti ir laikyti paruoštas karui, taip pat sprendė valstiečių ir apylinkės bajorų bylas. Vytauto laikais vietininkai pakeitė svarbesnių sričių savarankiškus kunigaikščius ir tapo nuo didžiojo kunigaikščio visiškai priklausomais valdžios atstovais. Išskirtinis pavyzdys – Vaidila, kurį Jogaila paskyrė Lydos vietininku, vedino savo seserį, o 1380 metais pasiuntė į Prūsiją rengti slapto susitarimo su kryžiuočių arkikomtūru.","sentences":[{"sentence_id":"s1","text":"Vietininkas – didžiojo kunigaikščio skiriamas urėdas, administravęs valdovo dvarus ir palaikęs tvarką jam pavaldžiose srityse.","support_ids":["t-193166","c-46940"]},{"sentence_id":"s2","text":"Jo valdžia galėjo apimti dideles teritorijas, likusias po sritinių kunigaikščių valdymo, arba tik nedidelį valsčių aplink valdovo dvarą.","support_ids":["t-193166","c-46940"]},{"sentence_id":"s3","text":"Vietininkas buvo ne vien ūkio prievaizdas: jis valdė dvarus, prižiūrėjo pilis, turėjo jas taisyti ir laikyti paruoštas karui, taip pat sprendė valstiečių ir apylinkės bajorų bylas.","support_ids":["t-176268","c-46941"]},{"sentence_id":"s4","text":"Vytauto laikais vietininkai pakeitė svarbesnių sričių savarankiškus kunigaikščius ir tapo nuo didžiojo kunigaikščio visiškai priklausomais valdžios atstovais.","support_ids":["t-200419","c-183763"]},{"sentence_id":"s5","text":"Išskirtinis pavyzdys – Vaidila, kurį Jogaila paskyrė Lydos vietininku, vedino savo seserį, o 1380 metais pasiuntė į Prūsiją rengti slapto susitarimo su kryžiuočių arkikomtūru.","support_ids":["t-176258","c-160265"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta t-193166 ir c-46940."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta t-193166 ir c-46940."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta t-176268 ir c-46941."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta t-200419 ir c-183763."},{"sentence_id":"s5","supported":true,"reason":"Tiesiogiai paremta t-176258 ir c-160265."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-193166","c-46940"]},{"sentence_id":"s2","supported":true,"support_ids":["t-193166","c-46940"]},{"sentence_id":"s3","supported":true,"support_ids":["t-176268","c-46941"]},{"sentence_id":"s4","supported":true,"support_ids":["t-200419","c-183763"]},{"sentence_id":"s5","supported":true,"support_ids":["t-176258","c-160265"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":41,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 32743ccaf16a8b5e
+object_page_generated_at: '2026-09-19T00:42:51+00:00'
+object_page_source_checked_at: '2026-09-19T00:42:51+00:00'
+object_page_summary_support_json: '[{"sentence_id":"s1","text":"Vietininkas – didžiojo kunigaikščio skiriamas urėdas, administravęs valdovo dvarus ir palaikęs tvarką jam pavaldžiose srityse.","support_ids":["t-193166","c-46940"]},{"sentence_id":"s2","text":"Jo valdžia galėjo apimti dideles teritorijas, likusias po sritinių kunigaikščių valdymo, arba tik nedidelį valsčių aplink valdovo dvarą.","support_ids":["t-193166","c-46940"]},{"sentence_id":"s3","text":"Vietininkas buvo ne vien ūkio prievaizdas: jis valdė dvarus, prižiūrėjo pilis, turėjo jas taisyti ir laikyti paruoštas karui, taip pat sprendė valstiečių ir apylinkės bajorų bylas.","support_ids":["t-176268","c-46941"]},{"sentence_id":"s4","text":"Vytauto laikais vietininkai pakeitė svarbesnių sričių savarankiškus kunigaikščius ir tapo nuo didžiojo kunigaikščio visiškai priklausomais valdžios atstovais.","support_ids":["t-200419","c-183763"]},{"sentence_id":"s5","text":"Išskirtinis pavyzdys – Vaidila, kurį Jogaila paskyrė Lydos vietininku, vedino savo seserį, o 1380 metais pasiuntė į Prūsiją rengti slapto susitarimo su kryžiuočių arkikomtūru.","support_ids":["t-176258","c-160265"]}]'
+object_page_content_state: content
+object_page_claim_count: '41'
+object_page_source_count: '5'
+object_page_seo_description: 'Vietininkas – didžiojo kunigaikščio skiriamas urėdas, administravęs valdovo dvarus ir palaikęs tvarką jam pavaldžiose srityse. Jo valdžia galėjo apimti…'
+object_page_seo_input_hash: 71be58a36826406359ef3b20e175363ce5f4c44a9fd7afb6c9624c1d364ef337
+object_page_seo_generated_at: '2026-09-19T00:42:51+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # vietininkas
 
@@ -42,77 +53,10 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 
 ## Teiginiai
 
-<a id="claim-t-193384"></a>
-- t-017
-  teiginys: "Kojelavičiaus perteiktoje retorinėje kalboje Kazimiero šalininkai priešpriešinami paprastam vietininkui."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
-  pagrindžia:
-    - c-176109
-
-<a id="claim-t-200420"></a>
-- t-021
-  teiginys: "Vytautas panaikino svarbesnes sričių kunigaikštijas ir savarankiškus kunigaikščius pakeitė nuo didžiojo kunigaikščio priklausomais vietininkais."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir suformuluotas aiškus faktinis sakinys apie vietininkus."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-183763
-
-<a id="claim-t-200425"></a>
-- t-200425
-  teiginys: "Moskožovskis nebuvo prikalbėtas tapti karaliaus vietininku Vilniuje."
-  atnaujinta: "2026-09-13 23:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Citata nepateikia aiškaus veiksnio, todėl sakinys perrašytas be dviprasmio įvardžio."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]"
-  ryšio_patikimumas: "susije_su -> Aleksas Jefremovičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "vietininkas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aleksas Jefremovičius: mention_match, person, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vietininkas\" parinktas kaip owner_note_path. Targetas \"Aleksas Jefremovičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-168006
-
-<a id="claim-t-176250"></a>
-- t-176250
-  teiginys: "Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Skirgaila: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Jogaila paskyrė Skirgailą savo vietininku."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) paskyrė Skirgaila (0.95)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-160264
-    - c-183760
-    - c-183770
-
 <a id="claim-t-176252"></a>
-- t-176252
+- t-001
   teiginys: "Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -126,12 +70,11 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindžia:
     - c-183766
     - c-160267
-    - c-183756
 
 <a id="claim-t-176255"></a>
-- t-176255
+- t-002
   teiginys: "Vladislovas Jogaila Vilniuje paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "paskyre -> Skirgaila: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -145,12 +88,11 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-160269
-    - c-183759
 
 <a id="claim-t-176256"></a>
-- t-176256
+- t-003
   teiginys: "Aleksandras Jogailaitis nurodė, kad Vilniaus vaivados vietininkams nereikia mokėti po grašį nuo krovinio perkėloje ties Vilniumi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras Jogailaitis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -163,12 +105,11 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-160275
-    - c-183764
 
 <a id="claim-t-176258"></a>
-- t-176258
+- t-004
   teiginys: "Jogaila paskyrė Vaidilą Lydos vietininku ir atidavė jam į žmonas savo seserį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -184,9 +125,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - c-183769
 
 <a id="claim-t-176259"></a>
-- t-176259
+- t-005
   teiginys: "Pskovo metraštis pasakoja, kad 1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksas Jefremovičius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -205,9 +146,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - c-183767
 
 <a id="claim-t-176261"></a>
-- t-176261
+- t-006
   teiginys: "Jogaila paskyrė Vaidilą Lydos vietininku ir, nepaisydamas Kęstučio prieštaravimų, atidavė jam į žmonas savo seserį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -223,9 +164,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - c-183769
 
 <a id="claim-t-176263"></a>
-- t-176263
+- t-007
   teiginys: "Bogdanas Kievla buvo Vilniaus vaivados ir valstybės kanclerio Mikalojaus Radvilos vietininkas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -241,9 +182,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - c-183764
 
 <a id="claim-t-176266"></a>
-- t-176266
+- t-008
   teiginys: "Rusios kronikininkai liudijo, kad Vilniaus gyventojai vietininkais pasikvietė Dovilą ir Maukoldą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilniaus gyventojai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -258,9 +199,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - c-160273
 
 <a id="claim-t-176268"></a>
-- t-176268
+- t-009
   teiginys: "Vietininkai valdė dvarus, prižiūrėjo pilis ir turėjo jas taisyti bei laikyti paruoštas karui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -275,10 +216,31 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - c-46941
     - c-183753
 
+<a id="claim-t-182991"></a>
+- t-010
+  teiginys: "Kazimiero valdymo pabaigoje likusių kunigaikštysčių pilis valdė didžiojo kunigaikščio vietininkai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "vietininkas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vietininkas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-166388
+    - c-183761
+
 <a id="claim-t-184644"></a>
-- t-184644
+- t-011
   teiginys: "Gediminas prijungė Lucką, Drohičiną ir Brestą prie Lietuvos valdų, palikdamas lietuvių įgulas ir vietininkus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -295,10 +257,29 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindžia:
     - c-168005
 
+<a id="claim-t-184645"></a>
+- t-012
+  teiginys: "Moskožovskis nebuvo prikalbėtas tapti karaliaus vietininku Vilniuje."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "vietininkas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vietininkas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168006
+
 <a id="claim-t-184647"></a>
-- t-184647
+- t-013
   teiginys: "Karalius laikinai paskyrė Spiteką valdų vietininku."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -315,9 +296,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - c-168008
 
 <a id="claim-t-184649"></a>
-- t-184649
+- t-014
   teiginys: "Aleksandro pasiuntinys Stanislovas Strumila Petravičius buvo Smolensko vietininkas ir derėjosi su Ivanu dėl skriaudų atlyginimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -335,9 +316,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - c-168010
 
 <a id="claim-t-193165"></a>
-- t-193165
+- t-015
   teiginys: "Vytauto santykiai su Lenkija jo gyvenimo pabaigoj Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenorėjo gadinti santykių su Jogaila ir Lenkija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -345,12 +326,11 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175915
-    - c-183768
 
 <a id="claim-t-193166"></a>
-- t-193166
+- t-016
   teiginys: "Savo dvarams administruoti ir tvarkai srityse palaikyti didysis kunigaikštis skirdavo tam tikrus urėdus, kurie buvo vadinami vietininkais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -359,10 +339,45 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindžia:
     - c-46940
 
+<a id="claim-t-193384"></a>
+- t-017
+  teiginys: "Kojelavičiaus perteiktoje retorinėje kalboje Kazimiero šalininkai priešpriešinami paprastam vietininkui."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
+  pagrindžia:
+    - c-176109
+
+<a id="claim-t-200402"></a>
+- t-018
+  teiginys: "Lietuvos metraščio pasakojime Vytautas Pskove vietininku pasodino Pinsko kunigaikštį Jurijų, pramintą Nosimi."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Valdovo veiksmas ir titulo vartosena pateikiami metraščio pasakojime, todėl reikia atribucijos."
+  susije_objektai: "mentioned_place: Pinskas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Černigovas"
+  ryšio_patikimumas: "susije_su -> Pinskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "vietininkas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Pinskas: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vietininkas\" parinktas kaip owner_note_path. Targetas \"Pinskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-170483
+
 <a id="claim-t-200410"></a>
-- t-200410
+- t-019
   teiginys: "Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai buvo išžudyti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir atitinka citatos informaciją."
   susije_objektai: "mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
@@ -371,33 +386,10 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindžia:
     - c-37967
 
-<a id="claim-t-200414"></a>
-- t-200414
-  teiginys: "Kazimiero valdymo pabaigoje likusių kunigaikštysčių pilis valdė didžiojo kunigaikščio vietininkai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pradiniame teiginyje yra neaiškus įvardis, o citata leidžia sakinį sukonkretinti."
-  susije_objektai: "mentioned_place: Maskva; mentioned_place: Černigovas"
-  ryšio_patikimumas: "susije_su -> Vilniaus gyventojai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "vietininkas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus gyventojai: mention_match, group, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vietininkas\" parinktas kaip owner_note_path. Targetas \"Vilniaus gyventojai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-166388
-    - c-183761
-
 <a id="claim-t-200419"></a>
-- t-200419
+- t-020
   teiginys: "Vytautas panaikino svarbesnes sričių kunigaikštijas ir vietoj savarankiškų kunigaikščių paskyrė savo vietininkus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -405,10 +397,22 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindžia:
     - c-183763
 
+<a id="claim-t-200420"></a>
+- t-021
+  teiginys: "Vytautas panaikino svarbesnes sričių kunigaikštijas ir savarankiškus kunigaikščius pakeitė nuo didžiojo kunigaikščio priklausomais vietininkais."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir suformuluotas aiškus faktinis sakinys apie vietininkus."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-183763
+
 <a id="claim-t-200424"></a>
-- t-200424
+- t-022
   teiginys: "Vytautas panaikino svarbesnes sričių kunigaikštijas ir vietoj savarankiškų kunigaikščių paskyrė nuo jo priklausomus vietininkus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -417,9 +421,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - c-183763
 
 <a id="claim-t-203362"></a>
-- t-203362
+- t-023
   teiginys: "Pasak A. Šapokos (red.), didysis kunigaikštis savo dvarams administruoti ir tvarkai srityse palaikyti skirdavo tam tikrus urėdus, vadinamus vietininkais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -429,9 +433,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - c-46940
 
 <a id="claim-t-203504"></a>
-- t-203504
+- t-024
   teiginys: "Aleksandras Jogailaitis nurodė, kad perkėloje ties Vilniumi nereikia mokėti po grašį Vilniaus vaivados vietininkams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
@@ -439,9 +443,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - c-183764
 
 <a id="claim-t-203558"></a>
-- t-203558
+- t-025
   teiginys: "Veikale „A. Šapoka (red.), Lietuvos istorija“ teigiama, kad iš vietininko savarankišku Lietuvos valdovu tapęs Vytautas niekada nenorėjo gadinti santykių su Jogaila ir Lenkija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -451,34 +455,20 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - c-183768
 
 <a id="claim-t-203580"></a>
-- t-203580
+- t-026
   teiginys: "Michał Baliński teigimu, Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys aiškiai perteikia citatoje nurodytą Skirgailos paskyrimą ir titulą."
   susije_objektai: "llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Mazovija"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-160269
-    - c-183759
-
-<a id="claim-t-203581"></a>
-- t-203581
-  teiginys: "Michał Baliński teigimu, Vladislovas Jogaila Vilniuje paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys tiksliai nurodo vietą, veikėją, paskyrimą ir titulavimą."
-  susije_objektai: "llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-160264
-    - c-183760
-    - c-183770
 
 <a id="claim-t-206247"></a>
-- t-206247
+- t-027
   teiginys: "Smolensko kunigaikštystę paverčiant Lietuvos provincija, vietininkais paskirti Jomantas ir Bazilijus Boreikis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -560,8 +550,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-200410
+  pagrindzia:
+    - t-019
 
 - id: c-46939
   redaktorius: "A. Šapoka"
@@ -581,7 +571,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-46940
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -601,9 +590,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193166
-    - t-203362
+  pagrindzia:
+    - t-016
+    - t-023
 
 - id: c-46941
   redaktorius: "A. Šapoka"
@@ -623,8 +612,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176268
+  pagrindzia:
+    - t-009
 
 - id: c-160264
   autorius: "Michał Baliński"
@@ -649,10 +638,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176250
-    - t-203581
-
 - id: c-160265
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -672,9 +657,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176258
-    - t-176261
+  pagrindzia:
+    - t-004
+    - t-006
 
 - id: c-160267
   autorius: "Michał Baliński"
@@ -712,8 +697,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176252
+  pagrindzia:
+    - t-001
 
 - id: c-160269
   autorius: "Michał Baliński"
@@ -736,9 +721,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176255
-    - t-203580
+  pagrindzia:
+    - t-002
+    - t-026
 
 - id: c-160270
   autorius: "Michał Baliński"
@@ -761,8 +746,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176259
+  pagrindzia:
+    - t-005
 
 - id: c-160273
   autorius: "Michał Baliński"
@@ -796,8 +781,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176266
+  pagrindzia:
+    - t-008
 
 - id: c-160275
   autorius: "Michał Baliński"
@@ -840,9 +825,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176256
-    - t-176263
+  pagrindzia:
+    - t-003
+    - t-007
 
 - id: c-166388
   redaktorius: "A. Šapoka"
@@ -861,8 +846,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-200414
+  pagrindzia:
+    - t-010
 
 - id: c-168005
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -886,8 +871,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184644
+  pagrindzia:
+    - t-011
 
 - id: c-168006
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -912,13 +897,12 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     priešų antpuoliai, pagaliau Skirgailos puikybė ir žiauru­
     mas aiškiai palaužė šio vyro kantrybę.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-200425
+  pagrindzia:
+    - t-012
 
 - id: c-168008
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -946,8 +930,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184647
+  pagrindzia:
+    - t-013
 
 - id: c-168010
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -972,8 +956,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184649
+  pagrindzia:
+    - t-014
 
 - id: c-170483
   autorius: "Anoniminis metraštininkas"
@@ -1006,6 +990,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
 
 - id: c-175915
   redaktorius: "A. Šapoka"
@@ -1024,8 +1010,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193165
+  pagrindzia:
+    - t-015
 
 - id: c-176109
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1043,12 +1029,11 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     kunigaikštį Kazimierą, aukos ir gyvybę, ir turtą už pa­
     prastą vietininką?
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-183753
@@ -1069,8 +1054,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176268
+  pagrindzia:
+    - t-009
 
 - id: c-183756
   autorius: "Michał Baliński"
@@ -1109,9 +1094,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176252
-
 - id: c-183757
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1142,7 +1124,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-183759
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1165,10 +1146,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176255
-    - t-203580
-
 - id: c-183760
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1192,10 +1169,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176250
-    - t-203581
-
 - id: c-183761
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1213,8 +1186,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-200414
+  pagrindzia:
+    - t-010
 
 - id: c-183763
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1234,15 +1207,14 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     priklausomus.
   citata_rodoma: "Šis darbas beveik\ngalutinai buvo baigtas Vytauto: jam pasisekė svarbesniąsias ir\ndidesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­\ngaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun.\npriklausomus."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-020
     - t-021
-    - t-200419
-    - t-200424
+    - t-022
 
 - id: c-183764
   autorius: "Michał Baliński"
@@ -1285,10 +1257,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176256
-    - t-176263
-    - t-203504
+  pagrindzia:
+    - t-007
+    - t-024
 
 - id: c-183766
   autorius: "Michał Baliński"
@@ -1315,8 +1286,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176252
+  pagrindzia:
+    - t-001
 
 - id: c-183767
   autorius: "Michał Baliński"
@@ -1339,8 +1310,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176259
+  pagrindzia:
+    - t-005
 
 - id: c-183768
   redaktorius: "A. Šapoka"
@@ -1359,9 +1330,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193165
-    - t-203558
+  pagrindzia:
+    - t-025
 
 - id: c-183769
   autorius: "Michał Baliński"
@@ -1382,9 +1352,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176258
-    - t-176261
+  pagrindzia:
+    - t-004
+    - t-006
 
 - id: c-183770
   autorius: "Michał Baliński"
@@ -1409,10 +1379,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176250
-    - t-203581
-
 - id: c-188862
   šaltinis: "Lietuvių tautos istorija, t. 5"
   puslapiai: "PDF 455"
@@ -1427,6 +1393,5 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206247
-
+  pagrindzia:
+    - t-027

@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Viatkos gubernija'
+pavadinimas: Viatkos gubernija
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b9126f089196ae3b7ce9d1a5"
-canonical_name: "Viatkos gubernija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Viatkos gubernija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b9126f089196ae3b7ce9d1a5
+canonical_name: Viatkos gubernija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Viatkos gubernija
 sameAs: []
-canonical_biography: "Viatkos gubernijoje metinis išgerto alkoholio kiekis buvo gerokai mažesnis negu Pabaltijo gubernijose."
+canonical_biography: Viatkos gubernijoje metinis išgerto alkoholio kiekis buvo gerokai mažesnis negu Pabaltijo gubernijose.
 place_authority: true
 historical_names: []
 ---

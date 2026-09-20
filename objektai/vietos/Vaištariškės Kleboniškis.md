@@ -33,6 +33,20 @@ historical_names: []
 
 Dvarelis buvo prie Neries upės, į šiaurę nuo Eigulių, vėliau pavadintas Kleboniškiu.
 
+## Teiginiai
+
+<a id="claim-t-201747"></a>
+- t-001
+  teiginys: "Dvarelis buvo prie Neries upės, į šiaurę nuo Eigulių, vėliau pavadintas Kleboniškiu."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185094
+
 ## Citatos
 
 - id: c-185094
@@ -49,20 +63,5 @@ Dvarelis buvo prie Neries upės, į šiaurę nuo Eigulių, vėliau pavadintas Kl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201747"></a>
-- t-001
-  teiginys: "Dvarelis buvo prie Neries upės, į šiaurę nuo Eigulių, vėliau pavadintas Kleboniškiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185094
-

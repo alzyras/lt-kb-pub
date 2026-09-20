@@ -1,28 +1,25 @@
 ---
 tipas: daiktas
-pavadinimas: 'Auksinė taurė su Zupano įrašu'
+pavadinimas: Auksinė taurė su Zupano įrašu
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1799 m.'
+  - 1799 m.
 date_start: '1799'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVIII'
+  - XVIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Auksinė taurė su Zupano įrašu
 
@@ -97,7 +94,7 @@ Narbutas nurodo, kad taurė kartu su kitomis brangenybėmis 1799 metais rasta To
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-195378
@@ -116,6 +113,5 @@ Narbutas nurodo, kad taurė kartu su kitomis brangenybėmis 1799 metais rasta To
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

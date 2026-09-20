@@ -46,51 +46,31 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 
 ## Teiginiai
 
-<a id="claim-t-211334"></a>
-- t-211334
-  teiginys: "Alšėnai yra dabartinio Ašmenos rajono miestelis."
-  atnaujinta: "2026-09-12 19:43"
+<a id="claim-t-187563"></a>
+- t-001
+  teiginys: "Voložine išgirdęs apie Žygimanto mirtį, Jonas Goštautas išskubėjo į Alšėnus pas Jurgį Simonaitį Alšėniškį."
+  atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193381
-
-<a id="claim-t-211567"></a>
-- t-211567
-  teiginys: "Alšėnuose Lietuvos didikai vienbalsiai nutarė rinkti Kazimierą Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194187
-
-<a id="claim-t-86058"></a>
-- t-86058
-  teiginys: "Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alšėnai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alšėnai\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_patikimumas: "keliavo_i -> Alšėnai: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Goštautas (vyskupas, XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Alšėnai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai nurodyta, kad Jonas Goštautas išskubėjo į Alšėnus."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  semantiniai_rysiai: "Goštautas (vyskupas, XV a.) keliavo į Alšėnai (0.91)"
   pagrindžia:
-    - c-82037
+    - c-170513
 
 <a id="claim-t-205743"></a>
-- t-205743
+- t-002
   teiginys: "Prie Neries upės priešais Rokantiškes įkurta rezidencinė pilis buvo pavadinta Alšėnais pagal jos įkūrėjo vardą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -120,9 +100,6 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-86058
-
 - id: c-170513
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -146,6 +123,8 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-188358
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -166,50 +145,8 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205743
-
-- id: c-193381
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 206"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 206."
-  citata_originali: |
-    Kalbama apie vaiz­
-    dingą Alšėnų piliakalni, esantį už kelių km nuo dabartinio Alšėnų
-    (Holšany, BTSR,
-    Ašmenos
-    raj.)
-    miestelio, prie
-    Alšėnų—Krėvos
-    vieškelio.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211334
-
-- id: c-194187
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 122"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 122."
-  citata_originali: |
-    Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį
-    Jurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš­
-    tystės šeimininku Jogailos sūnų karalaitį Kazimierą l0,
-    Lietuvos žemės tėvonį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211567
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]

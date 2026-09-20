@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Karo laivų „Piligrimo“ ir „Fridlando“ pastatymas'
+pavadinimas: Karo laivų „Piligrimo“ ir „Fridlando“ pastatymas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Karo laivų „Piligrimo“ ir „Fridlando“ pastatymas
 
@@ -73,6 +70,5 @@ Laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens mar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

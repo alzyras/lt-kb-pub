@@ -26,6 +26,20 @@ media_all_json: |-
 
 1 4 Dubnla (lenkiškai D ąbno)— Habdanko herbo (žr.
 
+## Teiginiai
+
+<a id="claim-t-194048"></a>
+- t-001
+  teiginys: "1 4 Dubnla (lenkiškai D ąbno)— Habdanko herbo (žr."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-176661
+
 ## Citatos
 
 - id: c-176661
@@ -42,4 +56,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

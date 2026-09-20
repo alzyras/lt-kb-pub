@@ -36,17 +36,22 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
 
 ## Teiginiai
 
-<a id="claim-t-224088"></a>
-- t-224088
-  teiginys: "Engelkė gyveno Kristburgo pilyje."
-  atnaujinta: "2026-09-13 11:42"
+<a id="claim-t-60273"></a>
+- t-001
+  teiginys: "Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Kristburgas: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Engelkė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kristburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai teigia, kad Engelkė gyveno Kristburgo pilyje."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Engelkė gyveno Kristburgas (0.98)"
   pagrindžia:
-    - c-202576
+    - c-60905
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -96,26 +101,8 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202576
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 138"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
-  citata_originali: |
-    Tuo metu mūsų minėtoje Kristburgo pilyje gyveno brolis Engelkė, gimęs Vestfalijoje,
-    nuostabaus pamaldumo ir begalinės savitvardos vyras, visa širdimi pasišventęs dievui, be
-    kitų dorovingų darbų garsėjęs dar ir tuo, kad ant savo nuogo kūno nedėvėjo marškinių,
-    o geležinius grandininius šarvus; iki savo mirties jis sudėvėjo ketverius tokius šarvus,
-    visiškai suėstus metų ir rūdžių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224088
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Engelkė gyveno [[objektai/vietos/Kristburgas]]

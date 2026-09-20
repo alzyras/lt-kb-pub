@@ -27,6 +27,21 @@ media_all_json: |-
 
 Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiuoti ir judėti, derindami šaudymą su judėjimu į priekį.
 
+## Teiginiai
+
+<a id="claim-t-193807"></a>
+- t-001
+  teiginys: "Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiuoti ir judėti, derindami šaudymą su judėjimu į priekį."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  pagrindžia:
+    - c-176452
+
 ## Citatos
 
 - id: c-176452
@@ -46,21 +61,5 @@ Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193807"></a>
-- t-001
-  teiginys: "Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiuoti ir judėti, derindami šaudymą su judėjimu į priekį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  pagrindžia:
-    - c-176452
-

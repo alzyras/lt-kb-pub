@@ -42,6 +42,21 @@ Vokiečiai, kaip aprašo Teodoras Narbutas, per aštuonias dienas susiskirstę �
 
 Vokiečiai, kaip aprašo Teodoras Narbutas, per aštuonias dienas susiskirstę į būrius plėšikavo ir nusiaubė Kalantus, Varluvą bei Surminus, nors šie kraštai anksčiau nebuvo pulti.
 
+## Teiginiai
+
+<a id="claim-t-206649"></a>
+- t-001
+  teiginys: "Vokiečiai, kaip aprašo Teodoras Narbutas, per aštuonias dienas susiskirstę į būrius plėšikavo ir nusiaubė Kalantus, Varluvą bei Surminus, nors šie kraštai anksčiau nebuvo pulti."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189264
+
 ## Citatos
 
 - id: c-189264
@@ -57,21 +72,5 @@ Vokiečiai, kaip aprašo Teodoras Narbutas, per aštuonias dienas susiskirstę �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206649"></a>
-- t-001
-  teiginys: "Vokiečiai, kaip aprašo Teodoras Narbutas, per aštuonias dienas susiskirstę į būrius plėšikavo ir nusiaubė Kalantus, Varluvą bei Surminus, nors šie kraštai anksčiau nebuvo pulti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189264
-

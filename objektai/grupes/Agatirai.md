@@ -27,6 +27,61 @@ media_all_json: |-
 
 T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje. Narbutas nurodo senovės tyrinėtojų teiginį, kad agatirai gyveno Marus, arba Maroszy, upės aukštupyje. Laikui bėgant, kai pastarieji paju dėjo į Vakarus, ta pati revoliucija turėjo priversti ir agatirus išsikelti iš Uždneprės.
 
+## Teiginiai
+
+<a id="claim-t-192949"></a>
+- t-001
+  teiginys: "T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Dnepras: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Agatirai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo agatirų gyvenimą kairiojoje Dnepro pakrantėje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Agatirai gyveno Dnepras (0.82); Gelonai užkariavo Agatirai (0.67)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175719
+
+<a id="claim-t-192950"></a>
+- t-002
+  teiginys: "Narbutas nurodo senovės tyrinėtojų teiginį, kad agatirai gyveno Marus, arba Maroszy, upės aukštupyje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Agatirai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Agatirai\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175720
+
+<a id="claim-t-197489"></a>
+- t-003
+  teiginys: "Laikui bėgant, kai pastarieji paju dėjo į Vakarus, ta pati revoliucija turėjo priversti ir agatirus išsikelti iš Uždneprės."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-175719
+
 ## Citatos
 
 - id: c-175719
@@ -57,6 +112,9 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-003
 
 - id: c-175720
   autorius: "Teodoras Narbutas"
@@ -80,118 +138,5 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195114
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 288"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
-  citata_originali: |
-    Apie juos jis pateikia tokių iš senovės rašytojų su­
-    rinktų žinių: jie gyveno ikikrikščioniškosios eros amžiais
-    kairiojoje Dnepro pakrantėje, gelonų ir budinu kaimynys­
-    tėje, vakaruose jie ribojosi su neurais arba ir su skitų-
-    gerų kraštu, taip pat netoli gyveno masagetai, melanchle-
-    nai ir antropofagai. Vėliau juos pavergė alanai išvien su
-    gelonais ir budinais. Laikui bėgant, kai pastarieji paju­
-    dėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-
-    tirus išsikelti iš Uždneprės. Taip pat yra senovės geogra­
-    fo, žinomo kaip Ravenos geografas2, IX amžiaus infor­
-    macija, jog agatirai, arba kitaip agazirai ar angershirai,
-    yra ta pati Amiano minima gentis, savaime suprantama,
-    gerokai prieš autoriaus amžių įsikūrusi krašte, per kurį
-    tekėjo dvi upės: Lela-Upe ir Anger-Upe. Žodis Upe lietu­
-    vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių
-    būtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­
-    tys.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
     - t-002
-
-- id: c-196701
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 289"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
-  citata_originali: |
-    Visa tai rodo, kad minėtų agazirų žemė buvusi prie En-
-    gūrės ežero, pavadinto jų vardu, o jie patys buvo lietu­
-    vių gentis ir, kaip rodo pavadinimas, šaka hirių kartos,
-    kuri buvo tokia sena kaip ir jų kaimynystė Uždneprėje
-    su gelonais ir budinais (§ 268). Tiesą sakant, senovės ty­
-    rinėtojai teigia, jog minėti agatirai gyveno Marus, arba
-    Maroszy, upės aukštupyje2. Septynių miestų žemėje*, pa­
-    skutiniame amžiuje prieš krikščioniškosios eros pradžią.
-    Tuo remdamasis, Naruševičius savo Lenkijos istorijos
-    pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta
-    dešiniojoje šios upės pakrantėje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-## Teiginiai
-
-<a id="claim-t-212289"></a>
-- t-001
-  teiginys: "T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Dnepras: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Agatirai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo agatirų gyvenimą kairiojoje Dnepro pakrantėje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Agatirai gyveno Dnepras (0.82); Gelonai užkariavo Agatirai (0.67)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-195114
-
-<a id="claim-t-212915"></a>
-- t-002
-  teiginys: "Laikui bėgant, kai pastarieji paju dėjo į Vakarus, ta pati revoliucija turėjo priversti ir agatirus išsikelti iš Uždneprės."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195114
-
-<a id="claim-t-214380"></a>
-- t-003
-  teiginys: "Narbutas nurodo senovės tyrinėtojų teiginį, kad agatirai gyveno Marus, arba Maroszy, upės aukštupyje."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Agatirai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Agatirai\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-196701
-

@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Karoblio upė'
+pavadinimas: Karoblio upė
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1444 m.'
+  - 1444 m.
 date_start: '1444'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-233938d581b36dd3e4511fb0"
-canonical_name: "Karoblio upė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Karoblio upė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-233938d581b36dd3e4511fb0
+canonical_name: Karoblio upė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Karoblio upė
 sameAs: []
-canonical_biography: "Alšys įkūrė miestą ant kalno prie Karoblio upės. Karoblio upelis išteka iš Alšėnų piliakalnio pašlaičių."
+canonical_biography: Alšys įkūrė miestą ant kalno prie Karoblio upės. Karoblio upelis išteka iš Alšėnų piliakalnio pašlaičių.
 ---
 # Karoblio upė
 
@@ -78,7 +77,7 @@ Alšys įkūrė miestą ant kalno prie Karoblio upės. Karoblio upelis išteka i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-194054
@@ -94,4 +93,3 @@ Alšys įkūrė miestą ant kalno prie Karoblio upės. Karoblio upelis išteka i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

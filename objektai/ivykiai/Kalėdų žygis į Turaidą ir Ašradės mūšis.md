@@ -36,6 +36,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201285"></a>
+- t-001
+  teiginys: "Nebtverdamies Padaugavio perkrikštai tokiomis novėmis visų pirma patrako ūkinykai Turaidos apy gardoj, kurie, možėdamos savo galia, patelkė į karę dar tolesnius latvius ir žemaičius, kurie, persikėlę per Daugavą, atėjo nakčia pagal Kūčių dieną į Turaidą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184635
+
 ## Citatos
 
 - id: c-184635
@@ -68,20 +82,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201285"></a>
-- t-001
-  teiginys: "Nebtverdamies Padaugavio perkrikštai tokiomis novėmis visų pirma patrako ūkinykai Turaidos apy gardoj, kurie, možėdamos savo galia, patelkė į karę dar tolesnius latvius ir žemaičius, kurie, persikėlę per Daugavą, atėjo nakčia pagal Kūčių dieną į Turaidą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184635
-

@@ -36,17 +36,25 @@ Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgars
 
 ## Teiginiai
 
-<a id="claim-t-218634"></a>
-- t-218634
-  teiginys: "Tai buvo dvi didelės recenzijos: pirmoji iš spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant roji - oficioze „Tygodnik Petersburski“."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-189318"></a>
+- t-001
+  teiginys: "Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgarsių recenzija apie T. Narbuto „Lietuvių mitologiją“."
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kraševskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Oficiozas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Oficiozas\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-201524
+    - c-172205
 
 ## Citatos
 
@@ -73,26 +81,5 @@ Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgars
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201524
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 55"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 55."
-  citata_originali: |
-    Oficialūs atgarsiai į T. Narbuto „Lietu­
-    vių mitologiją“ pasirodė netrukus, t. y. tais pačiais 1835 ir ki­
-    tais 1836 metais. Tai buvo dvi didelės recenzijos: pirmoji iš­
-    spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­
-    roji - oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­
-    miška, o antroji priklausė Juozapo Ignoto Kraševskio
-    plunksnai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218634
-
+  pagrindzia:
+    - t-001

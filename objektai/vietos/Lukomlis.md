@@ -46,34 +46,10 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
 
 ## Teiginiai
 
-<a id="claim-t-210472"></a>
-- t-210472
-  teiginys: "Lukomlis yra gyvenvietė Vitebsko srities pietvakariuose."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193638
-
-<a id="claim-t-211024"></a>
-- t-211024
-  teiginys: "Švitrigaila sugrįžo į Lukomlį ir jame paleido savo kariuomenę."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193752
-
 <a id="claim-t-68568"></a>
-- t-68568
+- t-001
   teiginys: "Švitrigaila po 11 savaičių traukdamasis grįžo į Lukomlį, kur paleido kariuomenę, o pats išvyko į Kijevą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Kijevas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -88,9 +64,9 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
     - c-43606
 
 <a id="claim-t-68569"></a>
-- t-68569
+- t-002
   teiginys: "Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Lukomlis: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -130,8 +106,8 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-68568
+  pagrindzia:
+    - t-001
 
 - id: c-68114
   autorius: "Zenonas Ivinskis"
@@ -149,46 +125,8 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-68569
-
-- id: c-193638
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 270."
-  citata_originali: |
-    Lukomlis — da­
-    bar BTSR gyvenvietė Vitebsko srities pietvakariuose. | pietus nuo
-    Lukomlio tikrai yra du dideli ežerai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210472
-
-- id: c-193752
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 116-117"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 116-117."
-  citata_originali: |
-    Livonijos magistras sugrįžo į savo žemę 32, o didy­
-    sis kunigaikštis Švitrigaila — į Lukomlį ir čia savo
-    121
-
-    kariuomenę — kunigaikščius ir bajorus — paleido
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211024
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]

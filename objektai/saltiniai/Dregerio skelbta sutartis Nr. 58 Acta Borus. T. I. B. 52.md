@@ -26,6 +26,21 @@ media_all_json: |-
 
 Narbuto aiškinimu, Dregerio skelbtoje sutartyje Nr. 58 minėtas tvirtoves sunku atpažinti dėl blogai išrašytų pavadinimų ir neišlikusių vietos ženklų.
 
+## Teiginiai
+
+<a id="claim-t-191833"></a>
+- t-001
+  teiginys: "Narbuto aiškinimu, Dregerio skelbtoje sutartyje Nr. 58 minėtas tvirtoves sunku atpažinti dėl blogai išrašytų pavadinimų ir neišlikusių vietos ženklų."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174715
+
 ## Citatos
 
 - id: c-174715
@@ -44,40 +59,5 @@ Narbuto aiškinimu, Dregerio skelbtoje sutartyje Nr. 58 minėtas tvirtoves sunku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196986
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 354"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 354."
-  citata_originali: |
-    Beje, šiandien nelengva atrasti
-    visas tvirtoves, kurias mini Dregerio skelbta sutartis (Nr.
-    58. Actą Borus. T. I. B. 52), visų pirma dėl to, kad blogai
-    išrašytos, antra vertus, dėl to, kad jų vietoje nieko, kas
-    primintų jų pavadinimus, neatstatyta.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-214084"></a>
-- t-001
-  teiginys: "Narbuto aiškinimu, Dregerio skelbtoje sutartyje Nr. 58 minėtas tvirtoves sunku atpažinti dėl blogai išrašytų pavadinimų ir neišlikusių vietos ženklų."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-196986
-

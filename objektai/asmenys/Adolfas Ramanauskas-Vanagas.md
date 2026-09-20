@@ -44,6 +44,43 @@ canonical_biography: "1956 m. suimtas ir vienas iš paskutinių partizanų vadų
 
 1956 m. suimtas ir vienas iš paskutinių partizanų vadų, buvęs mokytojas Adolfas Ramanauskas-Vanagas, nepaprastai žiauriai kankintas ir kitais metais Sovietų išniekinti Dainavos apygardos partizanų kūnai Adolfas Ramanauskas-Vanagas su ištikimais draugais.
 
+## Teiginiai
+
+<a id="claim-t-63404"></a>
+- t-001
+  teiginys: "Adolfas Ramanauskas-Vanagas 1956 m. buvo suimtas, žiauriai kankintas ir kitais metais sušaudytas."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dainava: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adolfas Ramanauskas-Vanagas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dainava: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adolfas Ramanauskas-Vanagas\" parinktas kaip owner_note_path. Targetas \"Dainava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1956 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie asmens suėmimą, kankinimą ir mirtį."
+  pagrindžia:
+    - c-64442
+
+<a id="claim-t-63405"></a>
+- t-002
+  teiginys: "Adolfas Ramanauskas-Vanagas vėliau įtarė, kad informacija apie rengiamą partizanų puolimą galėjo pasiekti priešą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Perloja: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adolfas Ramanauskas-Vanagas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Perloja: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adolfas Ramanauskas-Vanagas\" parinktas kaip owner_note_path. Targetas \"Perloja\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-41794
+
 ## Citatos
 
 - id: c-41794
@@ -72,7 +109,7 @@ canonical_biography: "1956 m. suimtas ir vienas iš paskutinių partizanų vadų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-64442
@@ -108,43 +145,5 @@ canonical_biography: "1956 m. suimtas ir vienas iš paskutinių partizanų vadų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-63404"></a>
-- t-001
-  teiginys: "Adolfas Ramanauskas-Vanagas 1956 m. buvo suimtas, žiauriai kankintas ir kitais metais sušaudytas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dainava: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adolfas Ramanauskas-Vanagas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dainava: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adolfas Ramanauskas-Vanagas\" parinktas kaip owner_note_path. Targetas \"Dainava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1956 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie asmens suėmimą, kankinimą ir mirtį."
-  pagrindžia:
-    - c-64442
-
-<a id="claim-t-63405"></a>
-- t-002
-  teiginys: "Adolfas Ramanauskas-Vanagas vėliau įtarė, kad informacija apie rengiamą partizanų puolimą galėjo pasiekti priešą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Perloja: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adolfas Ramanauskas-Vanagas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Perloja: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adolfas Ramanauskas-Vanagas\" parinktas kaip owner_note_path. Targetas \"Perloja\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-41794
-

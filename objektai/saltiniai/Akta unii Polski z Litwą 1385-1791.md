@@ -35,30 +35,12 @@ media_all_json: |-
 
 AUPL = Akta unii Polski z Litwą 1385-1791, išl.
 
-## Citatos
-
-- id: c-29609
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 15"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 15."
-  citata_originali: |
-    AUPL = Akta unii Polski z Litwą 1385-1791, išl. St. Kutrzeba ir
-    Wl. Semkowicz, Krokuva 1932.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-29704"></a>
 - t-001
   teiginys: "„Akta unii Polski z Litwą 1385-1791“ išleido St. Kutrzeba ir Wł. Semkowiczius Krokuvoje 1932 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -74,3 +56,20 @@ AUPL = Akta unii Polski z Litwą 1385-1791, išl.
   pagrindžia:
     - c-29609
 
+## Citatos
+
+- id: c-29609
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 15"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 15."
+  citata_originali: |
+    AUPL = Akta unii Polski z Litwą 1385-1791, išl. St. Kutrzeba ir
+    Wl. Semkowicz, Krokuva 1932.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

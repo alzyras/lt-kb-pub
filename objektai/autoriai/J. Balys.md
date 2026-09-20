@@ -41,6 +41,26 @@ canonical_biography: "pozicijų signatūras : J. Balys : Lithuania and Lithuania
 
 pozicijų signatūras : J. Balys : Lithuania and Lithuanians. A selected bibliography. (Studia Lituanica II), New York 1961 (Fr. A. Praeger, Publisher).
 
+## Teiginiai
+
+<a id="claim-t-30659"></a>
+- t-001
+  teiginys: "J. Balys 1961 m. Niujorke paskelbė rinktinę bibliografiją „Lithuania and Lithuanians“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Niujorkas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Balys: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Niujorkas: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Balys\" parinktas kaip owner_note_path. Targetas \"Niujorkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1961 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-32955
+
 ## Citatos
 
 - id: c-32955
@@ -60,26 +80,5 @@ pozicijų signatūras : J. Balys : Lithuania and Lithuanians. A selected bibliog
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-30659"></a>
-- t-001
-  teiginys: "J. Balys 1961 m. Niujorke paskelbė rinktinę bibliografiją „Lithuania and Lithuanians“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Niujorkas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Balys: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Niujorkas: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Balys\" parinktas kaip owner_note_path. Targetas \"Niujorkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1961 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-32955
-

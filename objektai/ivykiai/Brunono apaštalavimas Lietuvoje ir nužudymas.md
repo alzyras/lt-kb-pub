@@ -36,6 +36,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205340"></a>
+- t-001
+  teiginys: "Jie leidosi į krašto ¡gilumą: pasiekę Prū siją, per Galindą, kurią perėjo pėsčiomis, taip pat per Bartą, Nadruvą pateko į Lietuvos Rusią, arba Saloviją."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188140
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jie leidosi į krašto ¡gilumą: pasiekę Prū siją, per Galindą, kurią perėjo pėsčiomis, taip pat per Bartą, Nadruvą pateko į Lietuvos Rusią, arba Saloviją.'
@@ -76,21 +91,5 @@ Jie leidosi į krašto ¡gilumą: pasiekę Prū siją, per Galindą, kurią per�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205340"></a>
-- t-001
-  teiginys: "Jie leidosi į krašto ¡gilumą: pasiekę Prū siją, per Galindą, kurią perėjo pėsčiomis, taip pat per Bartą, Nadruvą pateko į Lietuvos Rusią, arba Saloviją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-188140
-

@@ -35,6 +35,20 @@ W. Kula, siekdamas įgyvendinti savo tyrimų tikslus, naudojo F. Braudelio idėj
 
 W. Kula, siekdamas įgyvendinti savo tyrimų tikslus, naudojo F. Braudelio idėjas.
 
+## Teiginiai
+
+<a id="claim-t-203646"></a>
+- t-001
+  teiginys: "W. Kula, siekdamas įgyvendinti savo tyrimų tikslus, naudojo F. Braudelio idėjas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186250
+
 ## Citatos
 
 - id: c-186250
@@ -58,20 +72,5 @@ W. Kula, siekdamas įgyvendinti savo tyrimų tikslus, naudojo F. Braudelio idėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203646"></a>
-- t-001
-  teiginys: "W. Kula, siekdamas įgyvendinti savo tyrimų tikslus, naudojo F. Braudelio idėjas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
-  pagrindžia:
-    - c-186250
-

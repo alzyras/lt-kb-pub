@@ -38,22 +38,10 @@ historical_names: []
 
 ## Teiginiai
 
-<a id="claim-t-211156"></a>
-- t-211156
-  teiginys: "Zietela, baltarusiškai Diatlov ir lenkiškai Zdzlęclot, yra tarp Slonimo ir aukštutinio Nemuno, apie 30 km į pietvakarius nuo Naugarduko."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-192986
-
 <a id="claim-t-32707"></a>
-- t-32707
+- t-001
   teiginys: "Zieteloje į pietvakarius nuo Naugarduko iki autoriaus laikų buvo išsilaikiusi lietuvių kalbos sala."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -89,27 +77,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-32707
-
-- id: c-192986
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 200"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 200."
-  citata_originali: |
-    Orig.— link Zditovo. Sis IM Zditovas klaidingai tapatinamas
-    su Zditovo gyvenviete pietinėje BTSR dalyje (Pinsko balose, prie
-    Jieseldos upės). Iš tikrųjų pagal metraščio pasakojimą tai galėjo
-    būti tik Zietela (baltar. Diatlov, lenk. Zdzlęclot) — tarp Slonimo ir
-    aukštutinio Nemuno, apie 30 km | pietvakarius nuo Naugarduko,
-    kurį Haličo-Volynės kunigaikštis Danielius pabijojo pulti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211156
-
+  pagrindzia:
+    - t-001

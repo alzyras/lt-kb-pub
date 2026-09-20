@@ -53,6 +53,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-195667"></a>
+- t-001
+  teiginys: "Vyžas po padu adydavo karnomis arba liuntu, kad jos ilgiau laikytų."
+  atnaujinta: "2026-07-12 11:56"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178068
+
 <a id="claim-t-195668"></a>
 - t-002
   teiginys: "Pasakojime minima ir maža vyžiukė, kurią Baltras padarė pertvarkęs Napaliuko darbą."
@@ -63,20 +73,10 @@ Nenurodyta
   pagrindžia:
     - c-178069
 
-<a id="claim-t-195667"></a>
-- t-195667
-  teiginys: "Vyžas po padu adydavo karnomis arba liuntu, kad jos ilgiau laikytų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178068
-
 <a id="claim-t-195669"></a>
-- t-195669
+- t-003
   teiginys: "Vyžas pindavo iš suraitytų karnų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 11:56"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -101,8 +101,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195669
+  pagrindzia:
+    - t-003
 
 - id: c-178068
   autorius: "M. Katkus"
@@ -122,8 +122,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195667
+  pagrindzia:
+    - t-001
 
 - id: c-178069
   autorius: "M. Katkus"
@@ -134,11 +134,9 @@ Nenurodyta
     Baltras atėjo prievakary ir atnešė terboje žirnių anksčių. Pertaisė Napaliuko darbą ir padarė dailią, mažą vyžiukę.
   citata_rodoma: "Baltras atėjo prievakary ir atnešė terboje žirnių anksčių. Pertaisė Napaliuko darbą ir padarė dailią, mažą vyžiukę."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

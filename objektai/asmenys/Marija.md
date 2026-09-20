@@ -1,9 +1,9 @@
 ---
 tipas: asmuo
-pavadinimas: 'Marija'
+pavadinimas: Marija
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,19 +16,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-472528489ec05e912f8798a3"
-canonical_name: "Marija"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Marija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-472528489ec05e912f8798a3
+canonical_name: Marija
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Marija
 sameAs: []
-canonical_biography: "Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgrafu, vėliau tapusiu ciesoriumi Zigmantu. Marija jau buvo iš Drohičino atvykęs į Gardiną."
+canonical_biography: 'Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgrafu, vėliau tapusiu ciesoriumi Zigmantu. Marija jau buvo iš Drohičino atvykęs į Gardiną.'
+external_sources_json: '[{"title":"Marija (Jėzaus motina)","url":"https://lt.wikipedia.org/wiki/Marija_(J%C4%97zaus_motina)","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T09:16:50+00:00","source_checked_at":"2026-09-20T09:16:50+00:00","counts":{"relations":3,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Marija (Jėzaus motina)","url":"https://lt.wikipedia.org/wiki/Marija_(J%C4%97zaus_motina)","publisher":"Vikipedija","language":"lt","article_id":"70188","revision_id":"7909815","published_at":"2026-08-24T05:45:30Z","version_pk":"","content_hash":"27fc5c66811f153fa6aca4ade486793721eb874bda6ce37a9fa4d2176d99e239","retrieved_at":"2026-09-20T09:15:32+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Marija_(J%C4%97zaus_motina)&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"70188"}},"intro":"Apie respubliką Rusijoje žr. Marija (Rusija).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":true,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Marija (Jėzaus motina)","url":"https://lt.wikipedia.org/wiki/Marija_(J%C4%97zaus_motina)","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Marija_(J%C4%97zaus_motina)"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_dukte","direction":"outbound","target":"objektai/asmenys/Gediminas","claim_id":"t-97314","confidence":0.96},{"predicate":"buvo_zmona","direction":"outbound","target":"objektai/asmenys/Dimitras (Tverės kunigaikštis)","claim_id":"t-97314","confidence":0.95},{"predicate":"vede","direction":"inbound","target":"objektai/asmenys/Dimitras (Tverės kunigaikštis)","claim_id":"t-97314","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1eb0d47af845450b
+object_page_generated_at: '2026-09-20T09:16:50+00:00'
+object_page_source_checked_at: '2026-09-20T09:16:50+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Marija: Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgrafu, vėliau tapusiu ciesoriumi Zigmantu. Marija jau buvo iš Drohičino…'
+object_page_seo_input_hash: ef048df396635fab7f2143f65e05a466a4f202ccd530d35eca694e9ffd20b1b6
+object_page_seo_generated_at: '2026-09-20T09:16:50+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Marija
 
@@ -38,46 +50,10 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
 
 ## Teiginiai
 
-<a id="claim-t-211070"></a>
-- t-211070
-  teiginys: "Marija buvo Tverės didžiojo kunigaikščio Boriso duktė."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193864
-
-<a id="claim-t-218166"></a>
-- t-218166
-  teiginys: "Marija vietos žmonių buvo vadinama Panna Marya Perkunatele arba Perkūnija."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200636
-
-<a id="claim-t-225625"></a>
-- t-225625
-  teiginys: "Kitąkart mūšio metu danguje pasirodžiusi mergelė Marija (III, 141)."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203127
-
 <a id="claim-t-35219"></a>
-- t-35219
+- t-001
   teiginys: "Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgrafu, vėliau tapusiu ciesoriumi Zigmantu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Austrija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -90,10 +66,22 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
   pagrindžia:
     - c-38089
 
+<a id="claim-t-196855"></a>
+- t-002
+  teiginys: "Marija jau buvo iš Drohičino atvykęs į Gardiną."
+  atnaujinta: "2026-07-12 22:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-176579
+
 <a id="claim-t-206362"></a>
-- t-206362
+- t-003
   teiginys: "Teodoro Narbuto pasakojime vyskupas Eufemijus pakrikštijo Kęstučio dukterį Mariją Viešpaties Atsimainymo cerkvėje ir sutuokė ją su Tverės kunigaikščiu Jonu Michailovičiumi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -124,8 +112,8 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-35219
+  pagrindzia:
+    - t-001
 
 - id: c-176579
   autorius: "Anoniminis metraštininkas"
@@ -150,6 +138,8 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-188977
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -167,84 +157,5 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206362
-
-- id: c-193377
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 78-79"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78-79."
-  citata_originali: |
-    O didysis kunigaikštis Kęstutis, sutelkęs savo pajė­
-    gas, skuba į Vilnių ir suima didįjį kunigaikštį Jogailą
-    su broliaisM ir su motina, suranda tas sutartis, kurias
-    buvo su vokiečiais sudarę, ir pasiunčia žygūną pas sa­
-    vo sūnų, didįjį kunigaikštį Vytautą, į Drohičiną, pra­
-    nešdamas, kas įvyko. Tas žygūnas suranda didįjį ku-
-    SJ
-
-    nigaikštį Vytautą Gardine, nes jis jau buvo iš Drohiči-
-    no atvykęs į Gardiną. Didysis kunigaikštis Vytautas
-    per vieną dieną atskuba iš Gardino pas savo tėvą, di­
-    dįjį kunigaikštį Kęstutį.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-193864
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 45."
-  citata_originali: |
-    Ginvila vedė Tverės didžiojo kunigaikščio Boriso
-    dukterį, vardu Mariją
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211070
-
-- id: c-200636
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 124."
-  citata_originali: |
-    Žemaitijoje,
-    kai kuriose vietose, iki šiol tebesimeldžia Perkūnaitėlei, tik savo
-    maldas kreipia į švenčiausiąją mergelę Mariją, kurią jie vadi­
-    na Panna Marya Perkunatele arba Perkūnija.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218166
-
-- id: c-203127
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 17"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
-  citata_originali: |
-    Kitąkart mūšio metu danguje pasirodžiusi
-    mergelė Marija (III, 141).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225625
-
+  pagrindzia:
+    - t-003

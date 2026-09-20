@@ -36,6 +36,25 @@ historical_names: []
 
 Šarauskas į Paobelių kaimą pasiuntė patyrusius vyresniuosius karius V.
 
+## Teiginiai
+
+<a id="claim-t-42015"></a>
+- t-001
+  teiginys: "J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius apeiti bolševikų iš užnugario."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Paobeliai: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "J. Šarauskas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Paobeliai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad J. Šarauskas pasiuntė karius į Paobelių kaimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "J. Šarauskas siuntė į Paobeliai (0.93)"
+  pagrindžia:
+    - c-45266
+
 ## Citatos
 
 - id: c-45266
@@ -65,28 +84,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/J. Šarauskas]]
-
-## Teiginiai
-
-<a id="claim-t-42015"></a>
-- t-001
-  teiginys: "J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius apeiti bolševikų iš užnugario."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Paobeliai: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "J. Šarauskas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Paobeliai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad J. Šarauskas pasiuntė karius į Paobelių kaimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "J. Šarauskas siuntė į Paobeliai (0.93)"
-  pagrindžia:
-    - c-45266
-

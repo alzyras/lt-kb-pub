@@ -42,6 +42,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201276"></a>
+- t-001
+  teiginys: "Įžagę lietuviai žemaičiai į taip naudingą grobį Brandenburgijos atentį metą sukėlė vėl karėjus ir 1327 paskyrę sau karvedžiu Algirdą, vyriausią sūnų Ge dimino, kursai buvo jau garsus ne vien Lietuvoj, bet ir už rubežiaus savo kantrybe ir narsybe, trau kė vėl."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184626
+
 ## Citatos
 
 - id: c-184626
@@ -71,20 +85,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201276"></a>
-- t-001
-  teiginys: "Įžagę lietuviai žemaičiai į taip naudingą grobį Brandenburgijos atentį metą sukėlė vėl karėjus ir 1327 paskyrę sau karvedžiu Algirdą, vyriausią sūnų Ge dimino, kursai buvo jau garsus ne vien Lietuvoj, bet ir už rubežiaus savo kantrybe ir narsybe, trau kė vėl."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184626
-

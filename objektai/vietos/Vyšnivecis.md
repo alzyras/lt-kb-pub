@@ -35,6 +35,42 @@ historical_names: []
 
 Čartoriskiai (Klevanė), Vyšnioveckiai (Vyšnivecis) ir kiti,.
 
+## Teiginiai
+
+<a id="claim-t-77707"></a>
+- t-001
+  teiginys: "Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vyšnioveckiai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vyšnivecis: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vyšnioveckiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vyšnivecis buvo Vyšnioveckių tėvonija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Vyšnivecis priklausė Vyšnioveckiai (0.88); Vyšnivecis priklausė Voluinė (0.70)"
+  pagrindžia:
+    - c-24609
+
+<a id="claim-t-77708"></a>
+- t-002
+  teiginys: "Vyšnioveckiai sukūrė tėvoniją Vyšnivecyje, Voluinėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Vyšnivecis: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vyšnioveckiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vyšnivecis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vyšnioveckiai nurodyti kaip sukūrę tėvoniją, kurios vieta pateikta kaip Vyšnivecis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Vyšnioveckiai valdė teritoriją Vyšnivecis (0.82); Vyšnivecis priklausė Voluinė (0.70)"
+  pagrindžia:
+    - c-75043
+
 ## Citatos
 
 - id: c-24609
@@ -58,7 +94,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-75043
@@ -86,42 +122,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-77707"></a>
-- t-001
-  teiginys: "Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vyšnioveckiai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vyšnivecis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vyšnioveckiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vyšnivecis buvo Vyšnioveckių tėvonija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Vyšnivecis priklausė Vyšnioveckiai (0.88); Vyšnivecis priklausė Voluinė (0.70)"
-  pagrindžia:
-    - c-24609
-
-<a id="claim-t-77708"></a>
-- t-002
-  teiginys: "Vyšnioveckiai sukūrė tėvoniją Vyšnivecyje, Voluinėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Vyšnivecis: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vyšnioveckiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vyšnivecis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vyšnioveckiai nurodyti kaip sukūrę tėvoniją, kurios vieta pateikta kaip Vyšnivecis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Vyšnioveckiai valdė teritoriją Vyšnivecis (0.82); Vyšnivecis priklausė Voluinė (0.70)"
-  pagrindžia:
-    - c-75043
-

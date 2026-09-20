@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'Vidaus reikalų viceministro 1869 m. lapkričio 27 d. raštas A. Potapovui'
+pavadinimas: Vidaus reikalų viceministro 1869 m. lapkričio 27 d. raštas A. Potapovui
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1023 m.'
-  - '1869 m.'
+  - 1023 m.
+  - 1869 m.
 date_start: '1023'
 date_end: '1869'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XI'
-  - 'XIX'
+  - XI
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vidaus reikalų viceministro 1869 m. lapkričio 27 d. raštas A. Potapovui
 

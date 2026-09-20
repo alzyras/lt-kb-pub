@@ -1,12 +1,12 @@
 ---
 tipas: grupe
-pavadinimas: 'Liaudies blaivybės globos komitetai (institucija)'
+pavadinimas: Liaudies blaivybės globos komitetai (institucija)
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 variantai:
-  - 'Liaudies blaivybės globos komitetai'
+  - Liaudies blaivybės globos komitetai
 aliases:
-  - 'Liaudies blaivybės globos komitetai'
+  - Liaudies blaivybės globos komitetai
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -15,12 +15,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Liaudies blaivybės globos komitetai (institucija)
 

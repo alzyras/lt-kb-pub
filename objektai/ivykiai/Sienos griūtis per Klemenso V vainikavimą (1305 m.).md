@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Sienos griūtis per Klemenso V vainikavimą (1305 m.)'
+pavadinimas: Sienos griūtis per Klemenso V vainikavimą (1305 m.)
 variantai:
-  - 'Sienos griūtis per Klemenso V vainikavimą'
+  - Sienos griūtis per Klemenso V vainikavimą
 aliases:
-  - 'Sienos griūtis per Klemenso V vainikavimą'
+  - Sienos griūtis per Klemenso V vainikavimą
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1226 m.'
+  - 1226 m.
 date_start: '1226'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Sienos griūtis per Klemenso V vainikavimą (1305 m.)
 
@@ -86,6 +83,5 @@ Po Klemenso V vainikavimo prie Liono sugriuvusi siena pražudė daug žmonių ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

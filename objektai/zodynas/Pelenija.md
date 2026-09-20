@@ -78,11 +78,9 @@ Terminas siejamas su pirmąja pavasario diena.
     Pelenijai išaušus sveikiname pirmąją pavasario dieną.
   citata_rodoma: "Pelenijai išaušus sveikiname pirmąją pavasario dieną"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

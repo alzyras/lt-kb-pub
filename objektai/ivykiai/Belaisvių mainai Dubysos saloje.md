@@ -38,6 +38,19 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-206776"></a>
+- t-001
+  teiginys: "Rugpjūčio 15 d. Dubysos saloje vykusiame suvažiavime lietuviams atstovavo Vytautas ir Skirgaila, o Ordino pusę – Verneris Tetingenas su kitais vyresniaisiais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189391
+
 <a id="claim-t-206777"></a>
 - t-002
   teiginys: "Per belaisvių mainus Dubysos saloje už keturis kunigaikštiškos kilmės belaisvius buvo atiduoti keturi kryžiuočių riteriai, o išpirkos nemokėjo nė viena pusė."
@@ -50,19 +63,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
   pagrindžia:
     - c-189392
-
-<a id="claim-t-206776"></a>
-- t-206776
-  teiginys: "Rugpjūčio 15 d. Dubysos saloje vykusiame suvažiavime lietuviams atstovavo Vytautas ir Skirgaila, o Ordino pusę – Verneris Tetingenas su kitais vyresniaisiais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189391
 
 ## Santrauka
 
@@ -85,8 +85,8 @@ Rugpjūčio 15 d. Dubysos saloje vykusiame suvažiavime lietuviams atstovavo Vyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206776
+  pagrindzia:
+    - t-001
 
 - id: c-189392
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -98,11 +98,9 @@ Rugpjūčio 15 d. Dubysos saloje vykusiame suvažiavime lietuviams atstovavo Vyt
     žiuočių riterių; pagaliau nė už vieną žmogų nė vienai pusei
     nereikėjo mokėti.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

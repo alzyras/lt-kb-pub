@@ -43,6 +43,42 @@ historical_names: []
 
 Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir buvo čia pastatęs net 2 pramonės priemiesčius, iš kurių ypač buvo garsi Gorodnica.
 
+## Teiginiai
+
+<a id="claim-t-67978"></a>
+- t-001
+  teiginys: "Gorodnica buvo ypač garsus Tizenhauzo Gardine pastatytas pramonės priemiestis."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gorodnica: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gorodnica apibūdinta kaip Gardine pastatytas priemiestis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Gorodnica priklausė Gardinas (0.83)"
+  pagrindžia:
+    - c-46499
+
+<a id="claim-t-67979"></a>
+- t-002
+  teiginys: "Gorodnica buvo ypač garsus vienas iš dviejų Tizenhauzo Gardine pastatytų pramonės priemiesčių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gorodnica: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gorodnica įvardyta kaip vienas Gardine pastatytų priemiesčių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Gorodnica priklausė Gardinas (0.83)"
+  pagrindžia:
+    - c-46499
+
 ## Citatos
 
 - id: c-46499
@@ -73,43 +109,6 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-67978"></a>
-- t-001
-  teiginys: "Gorodnica buvo ypač garsus Tizenhauzo Gardine pastatytas pramonės priemiestis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gorodnica: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gorodnica apibūdinta kaip Gardine pastatytas priemiestis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Gorodnica priklausė Gardinas (0.83)"
-  pagrindžia:
-    - c-46499
-
-<a id="claim-t-67979"></a>
-- t-002
-  teiginys: "Gorodnica buvo ypač garsus vienas iš dviejų Tizenhauzo Gardine pastatytų pramonės priemiesčių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gorodnica: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gorodnica įvardyta kaip vienas Gardine pastatytų priemiesčių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Gorodnica priklausė Gardinas (0.83)"
-  pagrindžia:
-    - c-46499
-

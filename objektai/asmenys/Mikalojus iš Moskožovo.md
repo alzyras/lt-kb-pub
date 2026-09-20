@@ -34,6 +34,28 @@ canonical_biography: "Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pil
 
 Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais Vytauto puolimo pastangas.
 
+## Teiginiai
+
+<a id="claim-t-186150"></a>
+- t-001
+  teiginys: "Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais Vytauto puolimo pastangas."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mikalojus iš Moskožovo: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys sako, kad Moskožovas gynė pilį ir niekais vertė Vytauto puolimą, todėl santykis yra karinė priešprieša Vytautui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Mikalojus iš Moskožovo kariavo prieš Vytautas (Lietuvos valdovas, XIV–XV a.) (0.73)"
+  pagrindžia:
+    - c-169511
+
 ## Citatos
 
 - id: c-169511
@@ -60,4 +82,5 @@ Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

@@ -46,6 +46,40 @@ canonical_biography: "Jokūbas l, lietuvių kilmės, taip pat pranciškonas, her
 
 Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę „Z", dieceziją tevaldė 7 metus - nuo 1400 metų iki 1407 m. Gražumu ir įkalbinėjimais daugelį pagonių krikščionių tikėjimą priimti paskatino.
 
+## Teiginiai
+
+<a id="claim-t-87708"></a>
+- t-001
+  teiginys: "Jokūbas I, lietuvių kilmės pranciškonas, Vilniaus dieceziją valdė 1400-1407 m. ir skatino pagonis priimti krikščionybę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jokūbas I: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jokūbas I\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "valdymo laikotarpis: iki 1407 m.; valdymo laikotarpis: 1400-1407; valdymo laikotarpis: 1407 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jokūbas I valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys faktinis, bet turi OCR klaidų ir gali būti suformuluotas švariau."
+  pagrindžia:
+    - c-83687
+
+<a id="claim-t-194711"></a>
+- t-002
+  teiginys: "Tai buvo tarp 1351 ir 1355 metų; tada tasai Jonas I buvo Varmijos vyskupas."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
+  pagrindžia:
+    - c-177107
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Tai buvo tarp 1351 ir 1355 metų; tada tasai Jonas I buvo Varmijos vyskupas.'
@@ -109,7 +143,7 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177107
@@ -132,6 +166,8 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-177309
   autorius: "Teodoras Narbutas"
@@ -155,7 +191,6 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179329
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -175,92 +210,3 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194977
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 345"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 345."
-  citata_originali: |
-    Kaip pavyzdį jis
-    nurodo šv. Vaitiėkaus bažnytėlę, kuri, pasak jo, buvo
-    pastatyta Sambijos vyskupo Jono I maždaug XIII amžiaus
-    pabaigoje ir tuomet buvo per mylią nuo kranto. Šiuo
-    klausimu jis cituoja buvusio profesoriaus Rapolto teiginį
-    (Meditalio epistolaris de origine succini in littore sam-
-    biensi.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-197914
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
-  citata_originali: |
-    Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­
-    vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­
-    dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
-    Jono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355
-    metų; tada tasai Jonas I buvo Varmijos vyskupas
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-## Teiginiai
-
-<a id="claim-t-87708"></a>
-- t-001
-  teiginys: "Jokūbas I, lietuvių kilmės pranciškonas, Vilniaus dieceziją valdė 1400-1407 m. ir skatino pagonis priimti krikščionybę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jokūbas I: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jokūbas I\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "valdymo laikotarpis: iki 1407 m.; valdymo laikotarpis: 1400-1407; valdymo laikotarpis: 1407 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jokūbas I valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys faktinis, bet turi OCR klaidų ir gali būti suformuluotas švariau."
-  pagrindžia:
-    - c-83687
-
-<a id="claim-t-212962"></a>
-- t-002
-  teiginys: "Jonas I nurodo šv."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194977
-
-<a id="claim-t-219746"></a>
-- t-003
-  teiginys: "Tai buvo tarp 1351 ir 1355 metų; tada tasai Jonas I buvo Varmijos vyskupas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  pagrindžia:
-    - c-197914
-

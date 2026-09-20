@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Girkalnis (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Girkalnis (vieta)
+identifikacija: vieta
 variantai:
-  - 'Girkalnis'
+  - Girkalnis
 aliases:
-  - 'Girkalnis'
+  - Girkalnis
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d63f61e3dc4ac07cbfde375b"
-canonical_name: "Girkalnis (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Girkalnis","Girkalnis (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d63f61e3dc4ac07cbfde375b
+canonical_name: Girkalnis (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Girkalnis
+  - Girkalnis (vieta)
 sameAs: []
-canonical_biography: "Valančius tais metais ap lankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če kiškę 6 7. Girkalnio parapijiečiai Steponas ir Kotryna minimi kaip vieno apsakymo personažai."
+canonical_biography: 'Valančius tais metais ap lankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če kiškę 6 7. Girkalnio parapijiečiai Steponas ir Kotryna minimi kaip vieno apsakymo personažai.'
 place_authority: true
 historical_names: []
 ---

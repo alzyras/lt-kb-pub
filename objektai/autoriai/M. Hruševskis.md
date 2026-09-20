@@ -44,6 +44,27 @@ canonical_biography: "Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRI
 
 Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE LIETUVOJE 293 galėjo skelbtis pasauliui, kad ji jau yra paženklinta kryžiaus ženklu. Hruševskyj, M.
 
+## Teiginiai
+
+<a id="claim-t-30833"></a>
+- t-001
+  teiginys: "M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų ir Lietuvos kunigaikščių valdžią joje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Hruševskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Hruševskis\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1908-1910; įvykio data: 1910 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia platesnį, bet vis dar glaustą faktą apie tyrimų temą."
+  pagrindžia:
+    - c-33053
+
 ## Citatos
 
 - id: c-33053
@@ -65,65 +86,5 @@ Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-190165
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 216"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 216."
-  citata_originali: |
-    Tai buvo akivaizdūs pritem-
-    pimai, o tai paaiškintina ne tiek objektyvia laikysena, kiek siekiu dar labiau suteikti naujų
-    argumentų LDK kaip rusų valstybės idėjai, kuri nematė ukrainiečių ir baltarusių istorijos
-    genezės ir LDK vaidmens šiame procese.
-    Ukrainos nacionalinės istoriografijos patriarchas ir klasikas Mychaila Hruševskis
-    daugiatomėje Ukrainos–Rusios istorijoje, plačiai kalbėjo apie Lietuvos ir Lenkijos „oku-
-    paciją“ ir įvedė į istoriografiją sąvoką „Lietuvos–Lenkijos epocha“. Iš pirmo žvilgsnio gar-
-    susis istorikas šia sąvoka tarsi pritaria tiems, kurie LDK istoriją priskiria Lenkijai jau nuo
-    Krėvos.
-  citata_rodoma: "os nacionalinės istoriografijos patriarchas ir klasikas Mychaila Hruševskis \ndaugiatomėje Ukrainos–Rusios istorijoje, plačiai kalbėjo apie Lietuvos ir Lenkijos „oku-\npaciją“ ir įvedė į istoriografiją sąvoką „Lietuvos–Lenkijos epocha“. Iš pi"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-30833"></a>
-- t-001
-  teiginys: "M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų ir Lietuvos kunigaikščių valdžią joje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "M. Hruševskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Hruševskis\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1908-1910; įvykio data: 1910 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia platesnį, bet vis dar glaustą faktą apie tyrimų temą."
-  pagrindžia:
-    - c-33053
-
-<a id="claim-t-207548"></a>
-- t-002
-  teiginys: "Mychaila Hruševskis daugiatomėje Ukrainos–Rusios istorijoje į istoriografiją įvedė sąvoką „Lietuvos–Lenkijos epocha“; šaltinis jį vadina Ukrainos nacionalinės istoriografijos patriarchu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190165
-

@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Rodanas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Rodanas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Rodanas'
+  - Rodanas
 aliases:
-  - 'Rodanas'
+  - Rodanas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fcc4a87bccd0e4c000644a24"
-canonical_name: "Rodanas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Rodanas","Rodanas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fcc4a87bccd0e4c000644a24
+canonical_name: Rodanas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Rodanas
+  - Rodanas (vieta)
 sameAs: []
-canonical_biography: "Galijos Rodano pavadinimo panašumas paskatino jį tapatinti su Eridanu ir susieti su Padu."
+canonical_biography: Galijos Rodano pavadinimo panašumas paskatino jį tapatinti su Eridanu ir susieti su Padu.
 ---
 # Rodanas (vieta)
 
@@ -71,6 +71,5 @@ Galijos Rodano pavadinimo panašumas paskatino jį tapatinti su Eridanu ir susie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

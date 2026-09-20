@@ -27,6 +27,67 @@ media_all_json: |-
 
 Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos. Kojelavičiaus pasakojime karalius atmetė maskvėnų skundus ir laiškuose uždraudė minėti Maskvos caro bei Livonijos valdovo titulus. Pasak Kojelavičiaus, karalius, sužinojęs, kad lenkams Livonija nerūpi, pasiuntė Gotardą Ketlerį į Lietuvą tartis dėl pagalbos.
 
+## Teiginiai
+
+<a id="claim-t-186300"></a>
+- t-001
+  teiginys: "Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyne -> Livonija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos luomai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Lietuvos luomai privalo ginti Livoniją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Lietuvos luomai gynė Livonija (0.90); Lietuvos luomai gynė Teutonai (0.84)"
+  pagrindžia:
+    - c-169661
+
+<a id="claim-t-196357"></a>
+- t-002
+  teiginys: "Kojelavičiaus pasakojime karalius atmetė maskvėnų skundus ir laiškuose uždraudė minėti Maskvos caro bei Livonijos valdovo titulus."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178647
+
+<a id="claim-t-196358"></a>
+- t-003
+  teiginys: "Pasak Kojelavičiaus, karalius, sužinojęs, kad lenkams Livonija nerūpi, pasiuntė Gotardą Ketlerį į Lietuvą tartis dėl pagalbos."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-169661
+
+<a id="claim-t-196359"></a>
+- t-004
+  teiginys: "Seime nutarta, kad karalius, paėmęs Livoniją į globą, savo nuožiūra sudarytų valstybei naudingiausią susitarimą su šiuo kraštu."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178648
+
 ## Citatos
 
 - id: c-169661
@@ -58,7 +119,7 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-003
 
@@ -89,7 +150,7 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-178648
@@ -113,67 +174,5 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-## Teiginiai
-
-<a id="claim-t-186300"></a>
-- t-001
-  teiginys: "Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyne -> Livonija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos luomai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Lietuvos luomai privalo ginti Livoniją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Lietuvos luomai gynė Livonija (0.90); Lietuvos luomai gynė Teutonai (0.84)"
-  pagrindžia:
-    - c-169661
-
-<a id="claim-t-196357"></a>
-- t-002
-  teiginys: "Kojelavičiaus pasakojime karalius atmetė maskvėnų skundus ir laiškuose uždraudė minėti Maskvos caro bei Livonijos valdovo titulus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178647
-
-<a id="claim-t-196358"></a>
-- t-003
-  teiginys: "Pasak Kojelavičiaus, karalius, sužinojęs, kad lenkams Livonija nerūpi, pasiuntė Gotardą Ketlerį į Lietuvą tartis dėl pagalbos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-169661
-
-<a id="claim-t-196359"></a>
-- t-004
-  teiginys: "Seime nutarta, kad karalius, paėmęs Livoniją į globą, savo nuožiūra sudarytų valstybei naudingiausią susitarimą su šiuo kraštu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178648
-

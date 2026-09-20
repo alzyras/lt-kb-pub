@@ -26,6 +26,20 @@ media_all_json: |-
 
 Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidėsiančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kunigaikštystės.
 
+## Teiginiai
+
+<a id="claim-t-193672"></a>
+- t-001
+  teiginys: "Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidėsiančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kunigaikštystės."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176341
+
 ## Citatos
 
 - id: c-176341
@@ -46,20 +60,5 @@ Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193672"></a>
-- t-001
-  teiginys: "Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidėsiančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kunigaikštystės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176341
-

@@ -37,6 +37,42 @@ historical_names: []
 
 Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, Junigėda, Putvė (« Pu­ tenicka ») ir Aukaimis (abi Karšuvos srityje). Dar žinomas tada ir trečias iki tol vis neįveiktos žemaičių pilies paėmimas, būtent, Putvės — Putenikos (prie upės Jūros).
 
+## Teiginiai
+
+<a id="claim-t-32490"></a>
+- t-001
+  teiginys: "Putvė, dar vadinta Putenika, buvo prie Jūros upės stovėjusi žemaičių pilis, kuri iki paėmimo laikyta neįveikta."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Putvė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Putvė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata kalba apie Putvės pilies paėmimą kryžiuočių veiksmų kontekste."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Putvė (0.82)"
+  pagrindžia:
+    - c-32368
+
+<a id="claim-t-32491"></a>
+- t-002
+  teiginys: "Putvė, dar vadinta Putenicka, buvo viena iš Karšuvos srities pilių, kurias priešai atakavo po du ar tris kartus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Karšuva: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Putvė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Karšuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Putvė buvo Karšuvos srityje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Putvė priklausė Karšuva (0.91)"
+  pagrindžia:
+    - c-34017
+
 ## Citatos
 
 - id: c-32368
@@ -57,7 +93,7 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-34017
@@ -78,45 +114,8 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 ## Ryšiai
 - Putvė priklausė [[objektai/vietos/Karšuva]]
-
-## Teiginiai
-
-<a id="claim-t-32490"></a>
-- t-001
-  teiginys: "Putvė, dar vadinta Putenika, buvo prie Jūros upės stovėjusi žemaičių pilis, kuri iki paėmimo laikyta neįveikta."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Putvė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Putvė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata kalba apie Putvės pilies paėmimą kryžiuočių veiksmų kontekste."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Putvė (0.82)"
-  pagrindžia:
-    - c-32368
-
-<a id="claim-t-32491"></a>
-- t-002
-  teiginys: "Putvė, dar vadinta Putenicka, buvo viena iš Karšuvos srities pilių, kurias priešai atakavo po du ar tris kartus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Karšuva: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Putvė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Karšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Putvė buvo Karšuvos srityje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Putvė priklausė Karšuva (0.91)"
-  pagrindžia:
-    - c-34017
-

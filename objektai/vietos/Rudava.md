@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Rudava'
+pavadinimas: Rudava
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1370 m.'
-  - '2026 m.'
+  - 1370 m.
+  - 2026 m.
 date_start: '1370'
 date_end: '2026'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - vieta
   - pilis
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ef9c53ac4c2a108d637a9563"
-canonical_name: "Rudava"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Rudava"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ef9c53ac4c2a108d637a9563
+canonical_name: Rudava
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Rudava
 sameAs: []
-canonical_biography: "Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus). 324 Rudaičiai 77, 105 Rudamina 76, 112 Rudava, prie Karaliaučiaus 149, 253, 259 Rude Gerhardas 226 Rūdninkai 162 Ruginienė, žr."
+canonical_biography: 'Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus). 324 Rudaičiai 77, 105 Rudamina 76, 112 Rudava, prie Karaliaučiaus 149, 253, 259 Rude Gerhardas 226 Rūdninkai 162 Ruginienė, žr.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Rudava","url":"https://en.wikipedia.org/wiki/Rudava","publisher":"Wikipedia","kind":"encyclopedia","status":"published","confidence":0.99,"language":"en"},{"title":"Rudava","url":"https://www.vle.lt/straipsnis/rudava/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:09:10+00:00","source_checked_at":"2026-09-20T04:09:10+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Rudava","url":"https://en.wikipedia.org/wiki/Rudava","publisher":"Wikipedia","language":"en","article_id":"7412431","revision_id":"1374553016","published_at":"2026-09-12T19:21:50Z","version_pk":"","content_hash":"be7bcfd72b0f9f228a97367f9f27aaf03648793b2dcfe9a6fef26e2a743e9947","retrieved_at":"2026-09-20T04:08:25+00:00","history_url":"https://en.wikipedia.org/w/index.php?title=Rudava&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"7412431"}},"intro":"Rudava – upė vakarų Slovakijoje, Zahorės regione. Ji yra kairysis Moravos upės intakas. Dalis šios upės teka per Zahorės karinį poligoną. Jos ilgis – 47,3 km, o baseino plotas – 418 km².","original_intro":"Rudava is a river in western Slovakia, Záhorie region. It is a left tributary to the river Morava. Part of this river flows through the military district of Záhorie. It is 47.3 km (29.4 mi) long and its basin size is 418 km2 (161 sq mi).","translation_status":"translated_verified","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"en","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Wikipedia","title":"Rudava","url":"https://en.wikipedia.org/wiki/Rudava","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Rudava","url":"https://www.vle.lt/straipsnis/rudava/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://en.wikipedia.org/wiki/Rudava","https://www.vle.lt/straipsnis/rudava/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-135441","confidence":0.71}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 15dba1e60db8bf07
+object_page_generated_at: '2026-09-20T04:09:10+00:00'
+object_page_source_checked_at: '2026-09-20T04:09:10+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Rudava: Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus). 324 Rudaičiai 77, 105 Rudamina…'
+object_page_seo_input_hash: fb9125aed7bb1de4253b73af1bc06e084cb079275b28f12fbdf68267c38595c5
+object_page_seo_generated_at: '2026-09-20T04:09:10+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Rudava
 
@@ -48,22 +60,42 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
 
 ## Teiginiai
 
-<a id="claim-t-220745"></a>
-- t-220745
-  teiginys: "1308 metais Rudavos valsčius buvo nusiaubtas gaisrais."
-  atnaujinta: "2026-09-13 11:42"
+<a id="claim-t-69174"></a>
+- t-001
+  teiginys: "Rudavos valsčiuje po stipraus puolimo buvo užimta pilis, o daug sembų išžudyta."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Sembai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rudava: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Sembai: mention_match, group, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudava\" parinktas kaip owner_note_path. Targetas \"Sembai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-206310
+    - c-68582
+
+<a id="claim-t-69175"></a>
+- t-002
+  teiginys: "Rudava buvo valsčius Semboje, kurio centras buvo Rudavos pilis į šiaurę nuo dabartinio Kaliningrado."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sembai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rudava: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Sembai: mention_match, group, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudava\" parinktas kaip owner_note_path. Targetas \"Sembai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-68582
 
 <a id="claim-t-69176"></a>
-- t-69176
+- t-003
   teiginys: "1370 m. vasario 17 d. lietuviai vėl susirinko prie Rudavos bažnytkaimio netoli Karaliaučiaus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,9 +112,9 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
     - c-37703
 
 <a id="claim-t-69177"></a>
-- t-69177
+- t-004
   teiginys: "Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu, esančiu už trijų mylių į šiaurę nuo Karaliaučiaus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -94,50 +126,6 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-68581
-
-<a id="claim-t-221199"></a>
-- t-221199
-  teiginys: "Rudavos valsčiuje po stipraus puolimo buvo užimta pilis, o daug sembų išžudyta."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sembai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rudava: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Sembai: mention_match, group, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudava\" parinktas kaip owner_note_path. Targetas \"Sembai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204589
-
-<a id="claim-t-221555"></a>
-- t-221555
-  teiginys: "Čekijos karalius kitą dieną po žygio prie Medenavos patraukė į Rudavos valsčių ir užėmė ten esančią pilį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204589
-
-<a id="claim-t-221900"></a>
-- t-221900
-  teiginys: "Rudava buvo valsčius Semboje, kurio centras buvo Rudavos pilis į šiaurę nuo dabartinio Kaliningrado."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sembai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rudava: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Sembai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudava\" parinktas kaip owner_note_path. Targetas \"Sembai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204589
 
 ## Citatos
 
@@ -160,8 +148,8 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-69176
+  pagrindzia:
+    - t-003
 
 - id: c-68581
   autorius: "Zenonas Ivinskis"
@@ -178,8 +166,8 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-69177
+  pagrindzia:
+    - t-004
 
 - id: c-68582
   autorius: "Petras Dusburgietis"
@@ -221,68 +209,6 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-204589
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 105-106"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105-106."
-  citata_originali: |
-    Kitą dieną patraukė  į Rudavos valsčių ir ten
-    pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų,
-
-      321 D.— Medenow, Jer. — Medenouwe; Medenava (vėliau — Medenau, dab. Logvinovas),
-    to pat vardo valsčiaus centras pietvakarių Semboje. I tūkstantmečio pabaigos — XIII a.
-    sembų pilis buvo kiek toliau į šiaurės rytus nuo dabartinės gyvenvietės, kranto kyšulyje
-    įrengtame piliakalnyje, įtvirtintame dviem galingais pylimais; vėliau, atrodo, čia buvusi
-    vyskupo  pilis. Ankstesnio laikotarpio (I tūkstantmečio 1-os pusės) piliakalnis yra  į
-    pietryčius nuo gyvenvietės (CF, p. 13—16, Nr. 4, 5; Гуревич Ф. Д. Из истории..., с.
-    340—341, 369, 436—443).
-      322 D.— Super [...] habitaciones suas (III, 108, 204, 209, 228, 332), Jer — hŭs, hûf,
-    gebûve; kituose šaltiniuose — curia, kartais pabrėžiant, kad pulchram et bene munitam
-    (MPH, 4, p. 430). Tai didelės, turtingos, daugiau ar mažiau įtvirtintos sodybos (kartais
-    — labai gerai), bet ne pilys, nes Dusburgietis jas skiria nuo pilies  ir kitų gynybinės
-    paskirties įtvirtinimų (habitaciones, et alia, que extra castra et municiones sita — III,
-    204), kilmingųjų, žymiųjų prūsų (potentis Prutheni), jotvingių (дом Стекинтове —
-    ПСРЛ, 2, стб. 828) ir lietuvių, kiemai (Łowmiański H., Studja..., 1, p. 293—295; Pašuta
-    V., Lietuvos..., p. 155, 329; Jurginis J., Baudžiavos..., p. 93, 101).
-      323 D.— ad territorium Rudowie, Jer.— zu Rudowe; Rudava, valsčius Semboje. Jo
-    centras — Rudavos pilis buvo per 18 km į šiaurę nuo dab. Kaliningrado, į vakarus nuo
-    dab. automobilių kelio Kaliningradas—Zelionogradskas, kalvoje, greta kurios vėliau buvo
-    pastatyta Ordino pilis (Boetticher A., Die Bau..., 1, p. 118; CF, p. 52, schema 23a).
-    Rudava — dab. Melnikovas.
-      Kai kas mano, jog Dusburgiečio minima Rudavos valsčiaus pilis, kur išžudyta daug
-    sembų, buvo kiek  į pietus nuo Rudavos, piliakalnyje prie Ekričių (dab. Vetrovas)  ir
-    Maldaičių, jog tai Nogimptės (Nogympten) pilis (CF, p. 52—54; GAO, p. 108; plg. Ewald
-    A. L., Die Eroberung..., 3, p. 17).
-
-    kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221199
-    - t-221555
-    - t-221900
-
-- id: c-206310
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 203."
-  citata_originali: |
-    1308 viešpaties metais, švento Jurgio dieną (balandžio 23), Manstas, Sudargas ir kiti
-    Žemaitijos kilmingieji su 5 tūkstančiais raitelių pro Noihauzą Kuršių nerijoje įsibrovė į
-    Sembos žemę ir nusiaubė gaisrais Pavundos562 bei Rudavos valsčius
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220745
-
+  pagrindzia:
+    - t-001
+    - t-002

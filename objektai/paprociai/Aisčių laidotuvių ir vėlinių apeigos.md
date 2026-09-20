@@ -1,10 +1,10 @@
 ---
 tipas: paprotys
-pavadinimas: 'Aisčių laidotuvių ir vėlinių apeigos'
+pavadinimas: Aisčių laidotuvių ir vėlinių apeigos
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -17,12 +17,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:59:39+00:00","source_checked_at":"2026-09-19T22:59:39+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 43e496486e6d45ae
+object_page_generated_at: '2026-09-19T22:59:39+00:00'
+object_page_source_checked_at: '2026-09-19T22:59:39+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Aisčių laidotuvių ir vėlinių apeigos: Aisčių laidojimo ir vėlių minėjimo praktikos apėmė įkapių dėjimą, skirtingus laidosenos būdus, žirgų laidojimą…'
+object_page_seo_input_hash: db9b6f240b50729e5a110aef32aee907c33da97435c3021c1766a4b8b574624a
+object_page_seo_generated_at: '2026-09-19T22:59:39+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Aisčių laidotuvių ir vėlinių apeigos
 
@@ -49,6 +59,95 @@ Nenurodyta
 ## Kontekstas
 
 Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-05332"></a>
+- t-001
+  teiginys: "Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys faktinis, bet reikėjo aiškiai susieti su note objektu."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-174967
+
+<a id="claim-t-12418"></a>
+- t-002
+  teiginys: "Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus."
+  atnaujinta: "2026-07-19 17:26"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-14480
+
+<a id="claim-t-192096"></a>
+- t-003
+  teiginys: "Laidodami lavonus aisčiai į kapą dėdavo įkapes, o laidojimo būdas buvo nevienodas: žymesniuosius sudegindavo, kitus laidodavo nesudegintus su daiktais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-00230
+
+<a id="claim-t-192097"></a>
+- t-004
+  teiginys: "Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-00231
+
+<a id="claim-t-192099"></a>
+- t-005
+  teiginys: "Aisčių laidotuvių paprotys numatė, kad su kilmingo žmogaus lavonu sudegindavo ginklus, arklį, tarnus, moteris ir karo žygiui reikalingus daiktus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys paremtas citata, bet pritaikytas note objektui ir sutrumpintas."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-14479
+
+<a id="claim-t-192100"></a>
+- t-006
+  teiginys: "Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_author: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsų žemė"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-05407
+
+<a id="claim-t-192508"></a>
+- t-007
+  teiginys: "Narbutas, remdamasis Nestoro išsaugotu gyvenimo paveikslu, rašo, kad krivičiai degindavo mirusiuosius ir laidotuvėse rengdavo turnyrus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Krivičiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aisčių laidotuvių ir vėlinių apeigos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krivičiai: mention_match, group, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aisčių laidotuvių ir vėlinių apeigos\" parinktas kaip owner_note_path. Targetas \"Krivičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175298
 
 ## Reikšmingi paminėjimai
 - c-007
@@ -91,8 +190,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192096
+  pagrindzia:
+    - t-003
 
 - id: c-00231
   redaktorius: "A. Šapoka"
@@ -113,8 +212,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192097
+  pagrindzia:
+    - t-004
 
 - id: c-05407
   autorius: "Zenonas Ivinskis"
@@ -134,8 +233,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192100
+  pagrindzia:
+    - t-006
 
 - id: c-14479
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -158,8 +257,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192099
+  pagrindzia:
+    - t-005
 
 - id: c-14480
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -179,8 +278,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-12418
+  pagrindzia:
+    - t-002
 
 - id: c-174967
   autorius: "Zenonas Ivinskis"
@@ -197,8 +296,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05332
+  pagrindzia:
+    - t-001
 
 - id: c-175298
   autorius: "Teodoras Narbutas"
@@ -225,91 +324,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-213307"></a>
-- t-001
-  teiginys: "Narbutas, remdamasis Nestoro išsaugotu gyvenimo paveikslu, rašo, kad krivičiai degindavo mirusiuosius ir laidotuvėse rengdavo turnyrus."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Krivičiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aisčių laidotuvių ir vėlinių apeigos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krivičiai: mention_match, group, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aisčių laidotuvių ir vėlinių apeigos\" parinktas kaip owner_note_path. Targetas \"Krivičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-05332"></a>
-- t-05332
-  teiginys: "Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys faktinis, bet reikėjo aiškiai susieti su note objektu."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-174967
-
-<a id="claim-t-12418"></a>
-- t-12418
-  teiginys: "Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-14480
-
-<a id="claim-t-192096"></a>
-- t-192096
-  teiginys: "Laidodami lavonus aisčiai į kapą dėdavo įkapes, o laidojimo būdas buvo nevienodas: žymesniuosius sudegindavo, kitus laidodavo nesudegintus su daiktais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-00230
-
-<a id="claim-t-192097"></a>
-- t-192097
-  teiginys: "Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-00231
-
-<a id="claim-t-192099"></a>
-- t-192099
-  teiginys: "Aisčių laidotuvių paprotys numatė, kad su kilmingo žmogaus lavonu sudegindavo ginklus, arklį, tarnus, moteris ir karo žygiui reikalingus daiktus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys paremtas citata, bet pritaikytas note objektui ir sutrumpintas."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-14479
-
-<a id="claim-t-192100"></a>
-- t-192100
-  teiginys: "Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_author: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsų žemė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-05407
-
+  pagrindzia:
+    - t-007

@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Hermanas'
+pavadinimas: Hermanas
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 sukurta: ''
@@ -14,19 +14,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-bbdcece8a85b7a291816ebdc"
-canonical_name: "Hermanas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Hermanas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-bbdcece8a85b7a291816ebdc
+canonical_name: Hermanas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Hermanas
 sameAs: []
-canonical_biography: "Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą."
+canonical_biography: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:26:22+00:00","source_checked_at":"2026-09-19T23:26:22+00:00","counts":{"relations":6,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"775ab89ae181a0b25c907cf1","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Meistras","context":"Šaltinyje apgulties metu Hermanas vadinamas meistru; jis pilies angoje pastatė bombardą prieš lietuvius.","support_ids":["t-40139","c-44346"],"source_refs":[{"kind":"internal_claim","claim_id":"t-40139","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-44346","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Po keturių savaičių apgulties, po dauge- lio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lie- tuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą. Po sunkių kovų buvo „pilyje daug brolių sužeistų, netinkamų gynybai , tačiau juos keitė sveikieji."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5da52c168a3e0dd74c4e0536","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Kryžiuotis","context":"Teodoras Narbutas Hermaną vadina kryžiuočiu, kuris suardė antrą pastatytą pabūklo pakoją.","support_ids":["t-206284","c-188899"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206284","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188899","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Buvo pastatytas ki­ tas, ir šį suardė kryžiuotis Hermanas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"34109a1c38c6429dfb400c08","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Magistras","context":"Dusburgietis Hermaną vadina broliu Hermanu, magistru, ir aprašo jo veiklą 1232 bei 1234 metais.","support_ids":["t-221186","c-205024","t-224609","c-204028"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221186","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-224609","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205024","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo 229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo 1202 m., Krokuvos kunigaikštis 1228— 1229 ir nuo 1232 m., Opolės kunigaikštis nuo 1229 m., Didžiosios Lenkijos kunigaikštis nuo 1234 m. Pasak Dusburgiečio, Henrikas Barzdotasis 1233 m. dalyvavo žygyje į Prūsiją, tačiau kunigaikščio dokumentai kalba apie jo buvimą Prūsijoje 1235 m. (Labuda G., Stanowisko..., p. 311—312). Manoma, kad žygyje dalyvavo ne pats Henrikas Barzdotasis, bet jo sūnus Henrikas Pamaldusis (Zientara B., Sprawy pruskie..., p. 38). 230 Pamario kunigaikštis (miręs 1266 m.). 231 Kryžiuočiai puolė 1233 m.…"},{"kind":"evidence","evidence_id":"c-204028","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra senoji pilis223."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"3640b630cf4dcf0dd793ac38","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Elbingo komtūras ir didysis Ordino špitolininkas","context":"1327 metais Hermanas šaltinyje įvardijamas Elbingo komtūru bei didžiuoju Ordino špitolininku.","support_ids":["t-223067","c-206032"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223067","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-206032","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"1327 viešpaties metais brolis Hermanas, Elbingo komtūras bei didysis Ordino špitolininkas, netoli Zalfeldo miesto pastatė jau minėtą miestą, vardu Morungenas"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Hermanas – Ordino brolis, minimas kaip Elbingo komtūras ir didysis Ordino špitolininkas. 1232 m., padedamas į Torunę atvykusių maldininkų, jis pastatė Kulmo pilį ir miestą vietoje, kur buvo senoji pilis. 1327 m. Hermanas, būdamas Elbingo komtūru ir didžiuoju Ordino špitolininku, netoli Zalfeldo miesto pastatė Morungeno miestą. Karo veiksmuose jis minimas kaip meistras, kuris po keturių savaičių apgulties vienoje pilies angoje prieš lietuvius pastatė bombardą, tačiau lietuviai, priešais įtaisę tokį pat pabūklą, jį nukovė. Šie duomenys rodo Hermaną kaip su Ordino valdžia, miestų kūrimu ir pilies gynyba siejamą veikėją, tačiau pateiktos ištraukos neleidžia patikimai nustatyti, ar visuose pasakojimuose kalbama apie tą patį asmenį.","sentences":[{"sentence_id":"s1","text":"Hermanas – Ordino brolis, minimas kaip Elbingo komtūras ir didysis Ordino špitolininkas.","support_ids":["t-223067","c-206032"]},{"sentence_id":"s2","text":"1232 m., padedamas į Torunę atvykusių maldininkų, jis pastatė Kulmo pilį ir miestą vietoje, kur buvo senoji pilis.","support_ids":["t-224609","c-204028"]},{"sentence_id":"s3","text":"1327 m. Hermanas, būdamas Elbingo komtūru ir didžiuoju Ordino špitolininku, netoli Zalfeldo miesto pastatė Morungeno miestą.","support_ids":["t-223067","c-206032"]},{"sentence_id":"s4","text":"Karo veiksmuose jis minimas kaip meistras, kuris po keturių savaičių apgulties vienoje pilies angoje prieš lietuvius pastatė bombardą, tačiau lietuviai, priešais įtaisę tokį pat pabūklą, jį nukovė.","support_ids":["t-40139","c-44346","t-183740","c-167128"]},{"sentence_id":"s5","text":"Šie duomenys rodo Hermaną kaip su Ordino valdžia, miestų kūrimu ir pilies gynyba siejamą veikėją, tačiau pateiktos ištraukos neleidžia patikimai nustatyti, ar visuose pasakojimuose kalbama apie tą patį asmenį.","support_ids":["t-223067","c-206032","t-224609","c-204028","t-40139","c-44346"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniais: Hermanas įvardijamas broliu, Elbingo komtūru ir didžiuoju Ordino špitolininku."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad 1232 m. Hermanas, padedamas į Torunę atvykusių maldininkų, pastatė Kulmo pilį ir miestą senosios pilies vietoje."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1327 m. datą, Hermano pareigas, Zalfeldo apylinkes ir Morungeno miesto pastatymą."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina keturių savaičių apgultį, bombardos pastatymą pilies angoje prieš lietuvius ir Hermano nukovimą tokiu pat lietuvių pabūklu."},{"sentence_id":"s5","supported":false,"reason":"Šaltiniai pagrindžia ryšį su Ordino valdžia, miestų kūrimu ir pilies gynyba, tačiau tiesiogiai nepagrindžia išvados, kad neįmanoma patikimai nustatyti, ar visuose pasakojimuose kalbama apie tą patį asmenį."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-223067","c-206032"]},{"sentence_id":"s2","supported":true,"support_ids":["t-224609","c-204028"]},{"sentence_id":"s3","supported":true,"support_ids":["t-223067","c-206032"]},{"sentence_id":"s4","supported":true,"support_ids":["t-40139","c-44346","t-183740","c-167128"]},{"sentence_id":"s5","supported":true,"support_ids":["t-223067","c-206032","t-224609","c-204028","t-40139","c-44346"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas","claim_id":"t-220387","confidence":0.82},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-113454","confidence":0.85},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-113454","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Kryžius","claim_id":"t-225342","confidence":0.68},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-183740","confidence":0.88},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Elbingas","claim_id":"t-225342","confidence":0.88}],"timeline":[{"date":"1232 m.","label":"Dusburgietis pasakoja, kad Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m.","claimId":"t-224609"},{"date":"1234 m.","label":"Dusburgietis pasakoja, kad 1234 m.","claimId":"t-221186"},{"date":"1324 m.","label":"1324 m.","claimId":"t-225741"}],"support_disclosure":{"claims":7,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3edd28437d1d1650
+object_page_generated_at: '2026-09-19T23:26:22+00:00'
+object_page_source_checked_at: '2026-09-19T23:26:22+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '3'
+object_page_seo_description: 'Hermanas – Ordino brolis, minimas kaip Elbingo komtūras ir didysis Ordino špitolininkas. 1232 m., padedamas į Torunę atvykusių maldininkų, jis pastatė Kulmo…'
+object_page_seo_input_hash: c3507dbce3f0b1d281b8c7f5ad51a4586039071599628783ab9f6eae648f5a6d
+object_page_seo_generated_at: '2026-09-19T23:26:22+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Hermanas
 
@@ -36,71 +48,10 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 
 ## Teiginiai
 
-<a id="claim-t-206284"></a>
-- t-003
-  teiginys: "Teodoras Narbutas rašo, kad kryžiuotis Hermanas suardė antrą pastatytą pabūklo pakoją."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188899
-
-<a id="claim-t-225741"></a>
-- t-004
-  teiginys: "1324 m. Hermanas atvyko į Prūsiją su riteriais ir ginklanešiais."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203651
-
-<a id="claim-t-221186"></a>
-- t-221186
-  teiginys: "Dusburgietis pasakoja, kad 1234 m. magistras Hermanas subūrė brolių ir ginklanešių kariuomenę ir pastatė Rudino pilį."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205024
-
-<a id="claim-t-223067"></a>
-- t-223067
-  teiginys: "Hermanas buvo Elbingo komtūras ir didysis Ordino špitolininkas."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206032
-
-<a id="claim-t-224609"></a>
-- t-224609
-  teiginys: "Dusburgietis pasakoja, kad Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204028
-
 <a id="claim-t-40139"></a>
-- t-40139
+- t-001
   teiginys: "Meistras Hermanas po keturių savaičių apgulties pastatė bombardą prieš lietuvius, tačiau buvo jų užmuštas tokiu pat pabūklu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -114,9 +65,9 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
     - c-44346
 
 <a id="claim-t-183740"></a>
-- t-183740
+- t-002
   teiginys: "Po keturių savaičių apgulties lietuviai pabūklu nukovė meistrą Hermaną, kai jis pilies angoje pastatė bombardą prieš lietuvius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -132,6 +83,19 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
   semantiniai_rysiai: "Lietuviai puolė Hermanas (0.88); Hermanas kariavo prieš Lietuviai (0.86)"
   pagrindžia:
     - c-167128
+
+<a id="claim-t-206284"></a>
+- t-003
+  teiginys: "Teodoras Narbutas rašo, kad kryžiuotis Hermanas suardė antrą pastatytą pabūklo pakoją."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188899
 
 ## Citatos
 
@@ -156,8 +120,8 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-40139
+  pagrindzia:
+    - t-001
 
 - id: c-167128
   sudarytojas: "Karolis Zikaras"
@@ -183,8 +147,8 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183740
+  pagrindzia:
+    - t-002
 
 - id: c-188899
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -194,100 +158,9 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
     Buvo pastatytas ki­
     tas, ir šį suardė kryžiuotis Hermanas.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-- id: c-203651
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 219."
-  citata_originali: |
-    1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
-    iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei
-    ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė
-    prieš tikėjimo priešus, nes ledas buvo plonas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- id: c-204028
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 72"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
-  citata_originali: |
-    Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
-    pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
-    senoji pilis223.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224609
-
-- id: c-205024
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 74-75"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74-75."
-  citata_originali: |
-    Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo
-    229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo
-    1202 m., Krokuvos kunigaikštis 1228— 1229 ir nuo 1232 m., Opolės kunigaikštis nuo
-    1229 m., Didžiosios Lenkijos kunigaikštis nuo 1234 m. Pasak Dusburgiečio, Henrikas
-    Barzdotasis 1233 m. dalyvavo žygyje į Prūsiją, tačiau kunigaikščio dokumentai kalba
-    apie jo buvimą Prūsijoje 1235 m. (Labuda G., Stanowisko..., p. 311—312). Manoma,
-    kad žygyje dalyvavo ne pats Henrikas Barzdotasis, bet jo sūnus Henrikas Pamaldusis
-    (Zientara B., Sprawy pruskie..., p. 38).
-    230  Pamario kunigaikštis (miręs 1266 m.).
-    231 Kryžiuočiai puolė 1233 m. spalio-lapkričio mėn. arba 1234 m. sausio-vasario
-    mėn. (Jasiński T., Stosunki śląsko-pruskie..., p. 401).
-    232 Zirgūna (D.— Sirgune, XIII—XIV a. dokumentuose — Sirgun, Syrgen, plg. pr.
-    zirgis, lie. žirgas, Žirgupė; vok. Sorge, dab. Dzierzgoń — GAO, p. 158; Būga K., 3, p. 539;
-    Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo
-    (dab. Družno) ežerą (žr. paaiškinimą III, 14, 4). Mūšis įvyko, atrodo, prie Kristburgo,
-    dab. Dzežgonis (VBK; SRP, 1, p. 58 — Tepeno M. išnaša; Ewald A. L., Die Eroberung...,
-    1, p. 163). D. pasakojimą apie krikščionių pergalę kartais linkstama laikyti įvykius
-    pagražinančiu prasimanymu arba vėlesne tradicija (Kujot S., Dzieje Prus..., 1, p. 601).
-
-    žemės, subūrė brolių ir ginklanešių kariuomenę ir pastatė Rudino
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221186
-
-- id: c-206032
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 252"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 252."
-  citata_originali: |
-    1327 viešpaties metais brolis Hermanas, Elbingo komtūras bei didysis Ordino
-    špitolininkas, netoli Zalfeldo miesto pastatė jau minėtą miestą, vardu Morungenas
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223067
-

@@ -34,6 +34,48 @@ canonical_biography: "Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai i
 
 Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai Žemės rutulys tapo karštas tarsi raudonai įkaitinta geležis. Teodoras Narbutas Aleksandro Humbolto veikalais apie Žemės temperatūros kitimą grindė prielaidą apie labai senus Šiaurės gyventojus. Narbutas Humboltui priskyrė aiškinimą, kad senovės Šiaurės tropinę augaliją sukūrė po sausumos ir skystosios materijos atsiskyrimo likusi šiluma.
 
+## Teiginiai
+
+<a id="claim-t-191592"></a>
+- t-001
+  teiginys: "Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai Žemės rutulys tapo karštas tarsi raudonai įkaitinta geležis."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Humboltas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Humboltas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Humboltas: mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Humboltas\" parinktas kaip owner_note_path. Targetas \"Humboltas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174474
+
+<a id="claim-t-191594"></a>
+- t-002
+  teiginys: "Narbutas Humboltui priskyrė aiškinimą, kad senovės Šiaurės tropinę augaliją sukūrė po sausumos ir skystosios materijos atsiskyrimo likusi šiluma."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Humboltas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Humboltas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Humboltas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Humboltas\" parinktas kaip owner_note_path. Targetas \"Humboltas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174476
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoras Narbutas Aleksandro Humbolto veikalais apie Žemės temperatūros kitimą grindė prielaidą apie labai senus Šiaurės gyventojus.'
@@ -102,6 +144,8 @@ Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-174476
   autorius: "Teodoras Narbutas"
@@ -127,64 +171,5 @@ Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195888
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 36"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 36."
-  citata_originali: |
-    Humboltas** tvirtina, jog, kai skystoji materija staiga
-    atsiskyrė nuo kietosios, Žemės rutulyje atsirado tiek ener­
-    gijos, kad ji buvo karšta tarsi raudonai įkaitinta geležis.
-    Aušti pradėjo nuo ašigalių. Vėliau tose šalyse susifor­
-    mavo atogrąžų klimatas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-213580"></a>
-- t-001
-  teiginys: "Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai Žemės rutulys tapo karštas tarsi raudonai įkaitinta geležis."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Humboltas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Humboltas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Humboltas: mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Humboltas\" parinktas kaip owner_note_path. Targetas \"Humboltas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-195888
-
-<a id="claim-t-215115"></a>
-- t-002
-  teiginys: "Narbutas Humboltui priskyrė aiškinimą, kad senovės Šiaurės tropinę augaliją sukūrė po sausumos ir skystosios materijos atsiskyrimo likusi šiluma."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Humboltas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Humboltas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Humboltas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Humboltas\" parinktas kaip owner_note_path. Targetas \"Humboltas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
+  pagrindzia:
+    - t-002

@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Goplo ežeras'
+pavadinimas: Goplo ežeras
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e0420cfbf9814f6ca01af6d7"
-canonical_name: "Goplo ežeras"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Goplo ežeras"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e0420cfbf9814f6ca01af6d7
+canonical_name: Goplo ežeras
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Goplo ežeras
 sameAs: []
-canonical_biography: "Prie Goplo ežero buvo atkastas deivės Laimos stabas."
+canonical_biography: Prie Goplo ežero buvo atkastas deivės Laimos stabas.
 ---
 # Goplo ežeras
 
@@ -78,7 +77,7 @@ Prie Goplo ežero buvo atkastas deivės Laimos stabas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-198419
@@ -95,6 +94,5 @@ Prie Goplo ežero buvo atkastas deivės Laimos stabas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

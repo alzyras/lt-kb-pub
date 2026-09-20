@@ -27,6 +27,17 @@ media_all_json: |-
 
 Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensis Canonicus Ecclesiae in Poboysco Plebanus, in Honorem Sanctae et Individuae Trinitatis extructae, nec non in Memoriam Nativitatis, et As­ sumptionis Gloriosae Virginis Mariae, et.
 
+## Teiginiai
+
+<a id="claim-t-86858"></a>
+- t-001
+  teiginys: "Formulė „In Nomine Domini Amen. Ad Perpetuam Rei Memoriam“ lietuviškai pateikta kaip „Vardan Viešpaties Amen. Amžinai dalykų atminčiai“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82837
+
 ## Citatos
 
 - id: c-82837
@@ -57,17 +68,5 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-86858"></a>
-- t-001
-  teiginys: "Formulė „In Nomine Domini Amen. Ad Perpetuam Rei Memoriam“ lietuviškai pateikta kaip „Vardan Viešpaties Amen. Amžinai dalykų atminčiai“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82837
-

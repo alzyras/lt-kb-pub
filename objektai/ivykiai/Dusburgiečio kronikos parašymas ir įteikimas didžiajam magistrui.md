@@ -1,29 +1,26 @@
 ---
 tipas: ivykis
-pavadinimas: 'Dusburgiečio kronikos parašymas ir įteikimas didžiajam magistrui'
+pavadinimas: Dusburgiečio kronikos parašymas ir įteikimas didžiajam magistrui
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1320 m.'
-  - '1326 m.'
+  - 1320 m.
+  - 1326 m.
 date_start: '1320'
 date_end: '1326'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Dusburgiečio kronikos parašymas ir įteikimas didžiajam magistrui
 
@@ -61,9 +58,25 @@ Dusburgietis savo kroniką rašė tarp 1320 ir 1326 metų.
     tautos papročių ir įpročių apybraižą ir kai 1326 metais įteikė
     savo kroniką didžiajam magistrui.
   statusas: verified
-  atnaujinta: "2026-09-12 23:45"
+  atnaujinta: "2026-09-13 18:02"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-217301"></a>
+- t-001
+  teiginys: "Dusburgietis savo kroniką rašė tarp 1320 ir 1326 metų."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201129
 

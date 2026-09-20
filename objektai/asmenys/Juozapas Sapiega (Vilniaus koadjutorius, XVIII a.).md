@@ -72,9 +72,9 @@ Juozapas Sapiega buvo Vilniaus koadjutorius. J. D. Lopacinskis buvo jo sekretori
     - c-183844
 
 <a id="claim-t-200466"></a>
-- t-200466
+- t-003
   teiginys: "Po Juozapo Sapiegos mirties Steponas(?) Olendskis perėmė kanauninko lobyne likusį turtą ir išsivežė sidabrą, alavą, varį bei staltieses."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Sapiegos: 0.85"
@@ -98,10 +98,8 @@ Juozapas Sapiega buvo Vilniaus koadjutorius. J. D. Lopacinskis buvo jo sekretori
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-    - t-200466
-
+    - t-003

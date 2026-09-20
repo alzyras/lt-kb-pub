@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Kasparas Dankvertas'
+pavadinimas: Kasparas Dankvertas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b63544480f6f08ea0d4b371c"
-canonical_name: "Kasparas Dankvertas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Kasparas Dankvertas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b63544480f6f08ea0d4b371c
+canonical_name: Kasparas Dankvertas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Kasparas Dankvertas
 sameAs: []
-canonical_biography: "Kasparas Dankvertas buvo prūsų kronikų rašytojas."
+canonical_biography: Kasparas Dankvertas buvo prūsų kronikų rašytojas.
 ---
 # Kasparas Dankvertas
 
@@ -69,6 +69,5 @@ Kasparas Dankvertas buvo prūsų kronikų rašytojas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

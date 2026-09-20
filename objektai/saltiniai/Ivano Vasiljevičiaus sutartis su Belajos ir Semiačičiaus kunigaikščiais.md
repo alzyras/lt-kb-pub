@@ -1,6 +1,6 @@
 ---
 tipas: saltinis
-pavadinimas: 'Ivano Vasiljevičiaus sutartis su Belajos ir Semiačičiaus kunigaikščiais'
+pavadinimas: Ivano Vasiljevičiaus sutartis su Belajos ir Semiačičiaus kunigaikščiais
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Ivano Vasiljevičiaus sutartis su Belajos ir Semiačičiaus kunigaikščiais
 
@@ -68,6 +65,5 @@ Sutartimi buvo numatyta puldinėti Lietuvos Didžiąją Kunigaikštystę ir vald
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

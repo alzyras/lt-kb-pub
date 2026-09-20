@@ -41,6 +41,24 @@ canonical_biography: "Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ 
 
 Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Niezabitowskio straipsnį apie Dionizo Poškos rinkinį.
 
+## Teiginiai
+
+<a id="claim-t-190433"></a>
+- t-001
+  teiginys: "Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Niezabitowskio straipsnį apie Dionizo Poškos rinkinį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1823 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas sutrumpintas iki rišlaus teiginio apie straipsnį ir autorių. Nepridėta straipsnio turinio, kurio citata nepateikia."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173316
+
 ## Citatos
 
 - id: c-173316
@@ -61,44 +79,5 @@ Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Ni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199572
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 506"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 506."
-  citata_originali: |
-    T. Nar­
-    butas turėjo omenyje straipsnį: Krotki spis
-    niektorych starožytnych zabytkow, znajdujących się
-    w zbiorze obywatela prowincyi Zmudzkiej Dioni-
-    zego Paszkiewicza pisarza ziem. ptu Rosienskiego,
-    przez Kajetana Niezabitowskiego H Dziennik Wi-
-    lenski. - 1823. - T. II. - S. 157-161.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-216816"></a>
-- t-001
-  teiginys: "Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Niezabitowskio straipsnį apie Dionizo Poškos rinkinį."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1823 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas sutrumpintas iki rišlaus teiginio apie straipsnį ir autorių. Nepridėta straipsnio turinio, kurio citata nepateikia."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-199572
-

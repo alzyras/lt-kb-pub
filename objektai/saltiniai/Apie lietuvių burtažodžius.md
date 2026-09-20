@@ -38,6 +38,18 @@ tags:
 
 A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
+## Teiginiai
+
+<a id="claim-t-195229"></a>
+- t-001
+  teiginys: "1914 m. A. R. Niemio straipsnis „Apie lietuvių burtažodžius“ paskelbtas „Virittaja“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177595
+
 ## Citatos
 
 - id: c-177595
@@ -55,18 +67,5 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195229"></a>
-- t-001
-  teiginys: "1914 m. A. R. Niemio straipsnis „Apie lietuvių burtažodžius“ paskelbtas „Virittaja“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177595
-

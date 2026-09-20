@@ -42,6 +42,20 @@ canonical_biography: "Algimanto apygardos vadovybė 1949 m. Iš kairės: organiz
 
 Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus viršininkas Aleksas Matelis-Audenis, apygardos vadas Antanas Starkus-Montė ir apygardos štabo viršininkas Albinas Pajarskas-Bebas.
 
+## Teiginiai
+
+<a id="claim-t-39481"></a>
+- t-001
+  teiginys: "1949 m. Aleksas Matelis-Audenis buvo Algimanto apygardos organizacinio skyriaus viršininkas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1949 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie asmenį ir pareigas."
+  pagrindžia:
+    - c-41285
+
 ## Citatos
 
 - id: c-41285
@@ -67,20 +81,5 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-39481"></a>
-- t-001
-  teiginys: "1949 m. Aleksas Matelis-Audenis buvo Algimanto apygardos organizacinio skyriaus viršininkas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie asmenį ir pareigas."
-  pagrindžia:
-    - c-41285
-

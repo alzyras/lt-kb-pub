@@ -49,6 +49,23 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203799"></a>
+- t-001
+  teiginys: "1792 m. Ignoto Želazovskio žmonės per Rydzevskio namo užpuolimą už Rūdninkų vartų lazdomis smurtavo prieš namuose buvusius žmones."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus ir tiesiogiai pagrįstas citata: nurodyti užpuolikai, vieta, laikas bei lazdų panaudojimas. Nieko papildomai nepridėta."
+  pagrindžia:
+    - c-186403
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -69,9 +86,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - id: c-186403
   autorius: "Domininkas Burba"
   šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
@@ -88,33 +102,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-195347"></a>
-- t-001
-  teiginys: "Elgetos nešiojamas gynybos ir pasiramstymo daiktas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177752
-
-<a id="claim-t-203799"></a>
-- t-002
-  teiginys: "1792 m. Ignoto Želazovskio žmonės per Rydzevskio namo užpuolimą už Rūdninkų vartų lazdomis smurtavo prieš namuose buvusius žmones."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1792 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus ir tiesiogiai pagrįstas citata: nurodyti užpuolikai, vieta, laikas bei lazdų panaudojimas. Nieko papildomai nepridėta."
-  pagrindžia:
-    - c-186403
-
+  pagrindzia:
+    - t-001

@@ -67,9 +67,9 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
     - c-184141
 
 <a id="claim-t-203826"></a>
-- t-203826
+- t-002
   teiginys: "1743 m. Marcelijus Baikovskis su ginkluotais pagalbininkais užpuolė Dominykos Šydlovskos namą prie Šv. Kazimiero bažnyčios ir sumušė jos tėvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -83,9 +83,9 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
     - c-186430
 
 <a id="claim-t-203827"></a>
-- t-203827
+- t-003
   teiginys: "1722 m. jėzuitų bursos studentų ir Šv. Kazimiero bažnyčios giedotojų gauja užpuolė Kazimiero Gembičiaus mūrinį namą, bet Elžbieta Pranckevičienė su žmonėmis ją išvaikė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -113,12 +113,11 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
     tais (per dvidešimt metų nuo II Gesu užbaigos) ir užbaigta 1615 metais,
     tiksliai pakartoja Romos pavyzdžio planą ir bendrą kompoziciją.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186430
@@ -137,8 +136,8 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203826
+  pagrindzia:
+    - t-002
 
 - id: c-186431
   autorius: "Domininkas Burba"
@@ -155,6 +154,5 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203827
-
+  pagrindzia:
+    - t-003

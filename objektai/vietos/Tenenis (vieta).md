@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Tenenis (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Tenenis (vieta)
+identifikacija: vieta
 variantai:
-  - 'Tenenis'
+  - Tenenis
 aliases:
-  - 'Tenenis'
+  - Tenenis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-10878dcfee8d95375f0cb613"
-canonical_name: "Tenenis (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Tenenis","Tenenis (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-10878dcfee8d95375f0cb613
+canonical_name: Tenenis (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Tenenis
+  - Tenenis (vieta)
 sameAs: []
-canonical_biography: "Jis turėjo būti prie Tenenio upės, rodos, toje vietoje, kur yra Prūsijos Romučių (Romuten) kaimas, o Že maitijoje, tik už sienos - Romuniškiai (Romuniszki)."
+canonical_biography: 'Jis turėjo būti prie Tenenio upės, rodos, toje vietoje, kur yra Prūsijos Romučių (Romuten) kaimas, o Že maitijoje, tik už sienos - Romuniškiai (Romuniszki).'
 ---
 # Tenenis (vieta)
 
@@ -71,6 +71,5 @@ Jis turėjo būti prie Tenenio upės, rodos, toje vietoje, kur yra Prūsijos Rom
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

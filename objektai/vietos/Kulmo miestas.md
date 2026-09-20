@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Kulmo miestas'
+pavadinimas: Kulmo miestas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5667ee0b4059aac59bc861f7"
-canonical_name: "Kulmo miestas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kulmo miestas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5667ee0b4059aac59bc861f7
+canonical_name: Kulmo miestas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kulmo miestas
 sameAs: []
-canonical_biography: "Ketinu nueiti į Kulmo miestą ir ten išklausyti mišių. Ginkluoti Kulmo miesto miestiečiai nukovė prūsų kariuomenės vadą ir daug karių."
+canonical_biography: Ketinu nueiti į Kulmo miestą ir ten išklausyti mišių. Ginkluoti Kulmo miesto miestiečiai nukovė prūsų kariuomenės vadą ir daug karių.
 ---
 # Kulmo miestas
 
@@ -77,7 +76,7 @@ Ketinu nueiti į Kulmo miestą ir ten išklausyti mišių. Ginkluoti Kulmo miest
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-203373
@@ -95,6 +94,5 @@ Ketinu nueiti į Kulmo miestą ir ten išklausyti mišių. Ginkluoti Kulmo miest
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

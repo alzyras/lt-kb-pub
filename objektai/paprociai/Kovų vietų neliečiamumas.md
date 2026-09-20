@@ -53,6 +53,17 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-67129"></a>
+- t-001
+  teiginys: "Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-11077
+
 ## Citatos
 
 - id: c-10011
@@ -71,7 +82,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-11077
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -94,21 +104,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-192577
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  puslapiai: "PDF 181"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 181."
-  citata_originali: |
-    Vienok šiandien, atsitikus parėdymu vyresnybės per tokias vietas arba kapus naują vieškelį vesti ar žvizdrą iš tokių kapų į
-        kelią pilti, nieko tokio nėra randama, kas tą didelybę praėjusiojo svieto rodytų, nes tiktai
-        sutrynėję ginklai praėjusiųjų gadynių ir kaulai žmonių tokių, kokius šiandien regim dar
-        gyvojančius.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

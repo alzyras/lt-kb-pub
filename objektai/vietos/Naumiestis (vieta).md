@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Naumiestis (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Naumiestis (vieta)
+identifikacija: vieta
 variantai:
-  - 'Naumiestis'
+  - Naumiestis
 aliases:
-  - 'Naumiestis'
+  - Naumiestis
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-eacc24270f4c81d3418f7b2b"
-canonical_name: "Naumiestis (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Naumiestis","Naumiestis (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-eacc24270f4c81d3418f7b2b
+canonical_name: Naumiestis (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Naumiestis
+  - Naumiestis (vieta)
 sameAs: []
-canonical_biography: "Delegatai galėjo atsilankyti Naumiestyje."
+canonical_biography: Delegatai galėjo atsilankyti Naumiestyje.
 ---
 # Naumiestis (vieta)
 
@@ -75,6 +75,5 @@ Delegatai galėjo atsilankyti Naumiestyje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

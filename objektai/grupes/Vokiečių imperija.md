@@ -28,22 +28,10 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
 
 ## Teiginiai
 
-<a id="claim-t-210770"></a>
-- t-210770
-  teiginys: "Ir sutelkė abi pusės didžiulę kariuomenę: karalius Jogaila su visa Lenkų karalystės jėga, o didysis kuni gaikštis Vytautas su visomis Lietuvių ir Rusų pajėgo mis ir su daugeliu Ordos totorių, o Prūsijos magistras taip pat su savo pajėgomis ir su visa Vokiečių."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193369
-
 <a id="claim-t-35789"></a>
-- t-35789
+- t-001
   teiginys: "Vokiečių imperija Vytauto laikais dydžiu galėjo prilygti jo valstybei, bet valdžios požiūriu buvo mažiau vieninga."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -79,26 +67,5 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-35789
-
-- id: c-193369
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 104."
-  citata_originali: |
-    Ir sutelkė abi pusės didžiulę kariuomenę: karalius
-    Jogaila su visa Lenkų karalystės jėga, o didysis kuni­
-    gaikštis Vytautas su visomis Lietuvių ir Rusų pajėgo­
-    mis ir su daugeliu Ordos totorių, o Prūsijos magistras
-    taip pat su savo pajėgomis ir su visa Vokiečių imperija.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210770
-
+  pagrindzia:
+    - t-001

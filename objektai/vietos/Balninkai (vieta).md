@@ -1,41 +1,41 @@
 ---
 tipas: vieta
-pavadinimas: 'Balninkai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Balninkai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Balninkai'
+  - Balninkai
 aliases:
-  - 'Balninkai'
+  - Balninkai
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 datos:
-  - '1863 m.'
-  - '1867 m.'
+  - 1863 m.
+  - 1867 m.
 date_start: '1863'
 date_end: '1867'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-01e948bc59748e8c88f0cd2f"
-canonical_name: "Balninkai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Balninkai","Balninkai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-01e948bc59748e8c88f0cd2f
+canonical_name: Balninkai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Balninkai
+  - Balninkai (vieta)
 sameAs: []
-canonical_biography: "Iš jų vienuolika skirti atskiroms parapijoms: Balninkų, Brunavos, Butkiškės, Grinkiškio, Grūšlaukės, Kamajų bei Skapiškio (šis laiškas buvo iš siųstas taip pat Rietavo ir Veliuonos dekanatų parapi joms), Kartenos, Kupiškio, Plungės, Tytuvėnų ir Kuršo."
+canonical_biography: 'Iš jų vienuolika skirti atskiroms parapijoms: Balninkų, Brunavos, Butkiškės, Grinkiškio, Grūšlaukės, Kamajų bei Skapiškio (šis laiškas buvo iš siųstas taip pat Rietavo ir Veliuonos dekanatų parapi joms), Kartenos, Kupiškio, Plungės, Tytuvėnų ir Kuršo.'
 place_authority: true
 historical_names: []
 ---

@@ -47,6 +47,26 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-64968"></a>
+- t-001
+  teiginys: "Ant tos pačios malkinės Brutenis liepė uždegti ugnį, o abu seneliai su ja sudegė."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-10258
+
+<a id="claim-t-64970"></a>
+- t-002
+  teiginys: "Abu seneliai galiausiai sudegė kartu su malkine."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-10258
+
 ## Pastabos
 
 - žodis čia gali reikšti apeiginį laužą ar malkų sukrautą pakylą; kandidatas pateikiamas dėl aiškaus materialaus panaudojimo apeiginiame veiksme.
@@ -68,6 +88,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002
 
 - id: c-10259
   autorius: "Simonas Daukantas"
@@ -84,53 +107,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-192590
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  puslapiai: "PDF 241"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 241."
-  citata_originali: |
-    Tad abudu
-        seneliu susikibusiu, pragydusiu ir giedodamu lygiai su malkine sugruzdėjusiu. Nes visa tas, ką čia
-        išrašiau, yra yna^1022 pasaka, nekaip būti daiktai.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-192844
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  puslapiai: "PDF 241"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 241."
-  citata_originali: |
-    palipus ir Vaidovyčiui, seneliui rykiui, ant tos pačios malkinės, liepęs Brutenis uždegti ją. Tad vėl ėmęs
-        pats svietui sakyti: „Dievai mudu pakvietė į puotą linksmintis antrame gyvenime su mudviejų
-        prieteliais. Todėl skiriavos nuo jūsų ir linkiva lietos^1020 vyrams pakelti tarp savęs naują rykį, kurs jus
-        rėdytų, taikintų ir kliautį tarp visų saugotų, tokį rykį, kurs dievams tinka ir kūrėjų kūrėjo klauso.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-210197"></a>
-- t-001
-  teiginys: "Abu seneliai galiausiai sudegė kartu su malkine."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-192590
-    - c-192844
-

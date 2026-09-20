@@ -63,17 +63,25 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
 
 ## Teiginiai
 
-<a id="claim-t-217022"></a>
-- t-217022
-  teiginys: "1863 m. sukilime aktyviai dalyvavo visa Narbutų šei ma: į miškus išėjo sūnūs Boleslovas, Pranciškus."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
+<a id="claim-t-187904"></a>
+- t-001
+  teiginys: "1863 m. sukilime Pranciškus Narbutas išėjo į miškus, o vėliau spėjo pasitraukti į užsienį."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "gap::people"
   teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Liudvikas Narbutas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pranciškus Narbutas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Liudvikas Narbutas: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pranciškus Narbutas\" parinktas kaip owner_note_path. Targetas \"Liudvikas Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1863 m.; įvykio data: 1864 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas lietuviškas sakinys apie Pranciškų Narbutą. Jis tiksliai apima citatoje nurodytą išėjimą į miškus ir pasitraukimą į užsienį."
   pagrindžia:
-    - c-199143
+    - c-170887
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -113,21 +121,5 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199143
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 13"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
-  citata_originali: |
-    1863 m. sukilime aktyviai dalyvavo visa Narbutų šei­
-    ma: į miškus išėjo sūnūs Boleslovas, Pranciškus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217022
-
+  pagrindzia:
+    - t-001

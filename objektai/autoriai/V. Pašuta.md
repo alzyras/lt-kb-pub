@@ -43,6 +43,24 @@ canonical_biography: "Dusburgietis teigia, kad pašuta parodė kronikos autoriau
 
 Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti Ordino valstybės valdančią klasę, apologizuoti Ordiną, skleisti kovos prieš Pabaltijo bei arabų tautas būtinumo idėjas ir kt. Dusburgietis teigia, kad tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro 149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование..., с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24— 30 (M. Jučas). Dusburgietis teigia, kad 304 Dab. Dzežgonis, Dzierzgoń. Pilis pastatyta 1247—1248 m. (SRP, 1, p. 683; Ewald A. L., Die Eroberung..., 2, p. 235; HP, 1, 1, p. 449; Wunder H., Siedlungs-..., p. 170; Górnowicz H., Toponimia..., p. 43) kairiajame Zirgūnos (dab. Dzierzgoń) krante.
 
+## Teiginiai
+
+<a id="claim-t-60523"></a>
+- t-001
+  teiginys: "V. Pašuta siejo Dusburgiečio rutėnus su Smolensko kunigaikščių rusais."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "V. Pašuta: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Pašuta\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-61156
+
 ## Citatos
 
 - id: c-61156
@@ -60,6 +78,8 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-61157
   autorius: "Petras Dusburgietis"
@@ -82,56 +102,3 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-203090
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
-  citata_originali: |
-    Ch. Hartknochas, pirmas D. kronikos leidėjas, galvojo, kad tuo vardu čia vadinami
-    Riugeno salos gyventojai (Hartknoch Ch., Selectae.., p. 64). Manyta, jog Dusburgiečio
-    rutėnai — galbūt Galičo (SRP, 1, p. 133 — Töppen M.) ar Smolensko kunigaikščių rusai
-    (Pašuta V., Lietuvos.., p. 306—307), nors rusų metraščiai tokios prielaidos neparemia.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-220201"></a>
-- t-001
-  teiginys: "V. Pašuta siejo Dusburgiečio rutėnus su Smolensko kunigaikščių rusais."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. Pašuta: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Pašuta\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203090
-
-<a id="claim-t-222716"></a>
-- t-222716
-  teiginys: "V. Pašuta rašė apie prūsų tautos kovą, Lietuvos valstybės susidarymą ir revanšistus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. Pašuta: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Pašuta\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-

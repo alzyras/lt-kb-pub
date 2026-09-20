@@ -35,22 +35,31 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
 
 ## Teiginiai
 
-<a id="claim-t-213179"></a>
-- t-213179
-  teiginys: "Vizinas gyveno ant įtvirtinto Anapilio kalno ir puldinėjo gretimas apylinkes."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-191237"></a>
+- t-001
+  teiginys: "Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vien žvilgsniu nugalėti prieš jį pakeltą ginklą."
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "prekiavo_su -> Danija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Danija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini rusus, prekiavusius Danijoje."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Rusai prekiavo su Danija (0.90)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-196776
+    - c-174119
 
-<a id="claim-t-213325"></a>
-- t-213325
+<a id="claim-t-191238"></a>
+- t-002
   teiginys: "Narbuto pasakojime Starkateras Rusioje iškvietė Viziną į dvikovą ir nukovė jį, oda apsaugojęs kalaviją nuo burtininko žvilgsnio."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,32 +74,19 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-196589
+    - c-174120
 
-<a id="claim-t-212562"></a>
-- t-212562
-  teiginys: "Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vien žvilgsniu nugalėti prieš jį pakeltą ginklą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-196589
-
-<a id="claim-t-212680"></a>
-- t-212680
+<a id="claim-t-197840"></a>
+- t-003
   teiginys: "Narsusis Starkateras, tai sužino jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė jį, pasitelkęs ¡gudrybę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-196589
+    - c-174119
 
 ## Citatos
 
@@ -118,6 +114,9 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-003
 
 - id: c-174120
   autorius: "Teodoras Narbutas"
@@ -138,49 +137,5 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196589
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 244"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
-  citata_originali: |
-    Pirkliavę Danijoje rusai
-    guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
-    jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė
-    jį, pasitelkęs ¡gudrybę. Žinodamas, kad slibinas žvilgsniu
-    užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona
-    oda; taip burtininko akims nepasiekiamas ¡ginklas padėjo
-    jam, nes, pasikliaudamas savo burtais, slibinas nebuvo itin
-    atsargus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212562
-    - t-212680
-    - t-213325
-
-- id: c-196776
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 244"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
-  citata_originali: |
-    Tuo tarpu atsitiko taip, kad Rusioje buvo didelis tiro­
-    nas ir žmogžudys Vizinas1, gyvenęs ant įtvirtinto kalno,
-    kuris vadinosi Anapiliu; iš čia jis puldinėdavo ir plėšdavo
-    gretimas apylinkes, žudydavo visus, kurie tik drįsdavo
-    ibent kiek jam pasipriešinti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213179
-
+  pagrindzia:
+    - t-002

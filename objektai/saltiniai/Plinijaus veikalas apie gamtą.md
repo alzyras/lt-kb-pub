@@ -26,6 +26,28 @@ media_all_json: |-
 
 Pasak Teodoro Narbuto, Plinijus užrašė Kapadokijos karaliaus Archelajo pasakojimą apie iš Indijos atvežamą gintaro žaliavą su medžių žieve.
 
+## Teiginiai
+
+<a id="claim-t-191706"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, Plinijus užrašė Kapadokijos karaliaus Archelajo pasakojimą apie iš Indijos atvežamą gintaro žaliavą su medžių žieve."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Indija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Plinijaus veikalas apie gamtą: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Indija: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijaus veikalas apie gamtą\" parinktas kaip owner_note_path. Targetas \"Indija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174588
+
 ## Citatos
 
 - id: c-174588
@@ -50,53 +72,5 @@ Pasak Teodoro Narbuto, Plinijus užrašė Kapadokijos karaliaus Archelajo pasako
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194530
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
-  citata_originali: |
-    Jūroje išilgai prūsų pakrančių slypi
-    ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie
-    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
-    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
-    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
-    skirtos nuo medžių žievės1.
-    152
-    Pavienių gintaro gabalų randama beveik visur: Lie­
-    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
-    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
-    balų išmesdavo Švedijos ežeras Maeleras.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-215858"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, Plinijus užrašė Kapadokijos karaliaus Archelajo pasakojimą apie iš Indijos atvežamą gintaro žaliavą su medžių žieve."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Indija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijaus veikalas apie gamtą: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Indija: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijaus veikalas apie gamtą\" parinktas kaip owner_note_path. Targetas \"Indija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-194530
-

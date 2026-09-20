@@ -27,6 +27,21 @@ media_all_json: |-
 
 Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai buvo žynės, duodančios amžinos skaistybės - tikra šio žodžio prasme - įžadus; sulaužiusias tą priesaiką bausdavo 32 Lettische Grammatik.
 
+## Teiginiai
+
+<a id="claim-t-189444"></a>
+- t-001
+  teiginys: "Mat žinoma, kad visos vaidilutės buvo nesenos."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172331
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Vaidilutės (Wejdalotki) Tai buvo žynės, duodančios amžinos skaistybės - tikra šio žodžio prasme - įžadus; sulaužiusias tą priesaiką bausdavo 32 Lettische Grammatik.'
@@ -71,40 +86,5 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198628
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 300"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 300."
-  citata_originali: |
-    Vis dėlto
-    reikia daryti išvadą, kad tas pareigas eidavo jaunos merginos
-    ir iki nustatytų metų, o vėliau galėdavo ištekėti. Mat žinoma,
-    kad visos vaidilutės buvo nesenos. O tos, kurios norėjo tar­
-    nauti dievams pasibaigus skirtam laikui, pasitraukdavo į nuo­
-    šalias vietas, kur tapdavo ypatingomis pranašautojomis34.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-220075"></a>
-- t-001
-  teiginys: "Mat žinoma, kad visos vaidilutės buvo nesenos."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-198628
-

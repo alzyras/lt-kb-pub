@@ -29,6 +29,20 @@ media_all_json: |-
 
 Lygia dalia Alber tas nuo popiežiaus išlūgojo tuos pačius atpuskus ir tą patį griekų atleidimą, kaip jei einantiems į Že mę Šventą kariauti.
 
+## Teiginiai
+
+<a id="claim-t-201203"></a>
+- t-001
+  teiginys: "Lygia dalia Alber tas nuo popiežiaus išlūgojo tuos pačius atpuskus ir tą patį griekų atleidimą, kaip jei einantiems į Že mę Šventą kariauti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184553
+
 ## Citatos
 
 - id: c-184553
@@ -52,20 +66,5 @@ Lygia dalia Alber tas nuo popiežiaus išlūgojo tuos pačius atpuskus ir tą pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201203"></a>
-- t-001
-  teiginys: "Lygia dalia Alber tas nuo popiežiaus išlūgojo tuos pačius atpuskus ir tą patį griekų atleidimą, kaip jei einantiems į Že mę Šventą kariauti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184553
-

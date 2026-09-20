@@ -43,6 +43,24 @@ historical_names: []
 
 1998 m. Uspenjės sobore vykdant archeologinius tyrimus aptikti keli sarkofagai, kuriuose, Hlebo Ivakino ir Oleksandros Kozak teigimu, palaidoti Olekaičių giminės atstovai.
 
+## Teiginiai
+
+<a id="claim-t-203969"></a>
+- t-001
+  teiginys: "1998 m. Uspenjės sobore vykdant archeologinius tyrimus aptikti keli sarkofagai, kuriuose, Hlebo Ivakino ir Oleksandros Kozak teigimu, palaidoti Olekaičių giminės atstovai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1998 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas ne tiesiogiai citatoje įvardytas veikėjas „archeologai“ ir išlaikyta palaidojimo interpretacijos atribucija. Vietos pavadinimas sutrumpintas nekeičiant objekto."
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186573
+
 ## Citatos
 
 - id: c-186573
@@ -59,24 +77,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203969"></a>
-- t-001
-  teiginys: "1998 m. Uspenjės sobore vykdant archeologinius tyrimus aptikti keli sarkofagai, kuriuose, Hlebo Ivakino ir Oleksandros Kozak teigimu, palaidoti Olekaičių giminės atstovai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  temporaliniai_duomenys: "įvykio data: 1998 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas ne tiesiogiai citatoje įvardytas veikėjas „archeologai“ ir išlaikyta palaidojimo interpretacijos atribucija. Vietos pavadinimas sutrumpintas nekeičiant objekto."
-  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
-  pagrindžia:
-    - c-186573
-

@@ -4,25 +4,22 @@ pavadinimas: 'Kronika polska, litewska, żmodzka y wszystkiey Rusi'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1582 m.'
+  - 1582 m.
 date_start: '1582'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kronika polska, litewska, żmodzka y wszystkiey Rusi
 
@@ -72,6 +69,5 @@ M. Strijkovskis savo Kronikoje beveik pažodžiui perteikė šio varianto fragme
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

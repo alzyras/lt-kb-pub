@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Lubavos žemės puolimas ir 15 lietuvių žūtis (1303 m.)'
+pavadinimas: Lubavos žemės puolimas ir 15 lietuvių žūtis (1303 m.)
 variantai:
-  - 'Lubavos žemės puolimas ir 15 lietuvių žūtis'
+  - Lubavos žemės puolimas ir 15 lietuvių žūtis
 aliases:
-  - 'Lubavos žemės puolimas ir 15 lietuvių žūtis'
+  - Lubavos žemės puolimas ir 15 lietuvių žūtis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1303 m.'
+  - 1303 m.
 date_start: '1303'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Lubavos žemės puolimas ir 15 lietuvių žūtis (1303 m.)
 
@@ -84,6 +81,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

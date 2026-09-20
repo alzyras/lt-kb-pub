@@ -1,13 +1,13 @@
 ---
 tipas: autorius
-pavadinimas: 'Adomas Bremenietis'
+pavadinimas: Adomas Bremenietis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1009 m.'
-  - '1076 m.'
+  - 1009 m.
+  - 1076 m.
 date_start: '1009'
 date_end: '1076'
 sukurta: ''
@@ -17,28 +17,41 @@ tags:
   - metraštininkas
   - autorius
 amziai:
-  - 'XI'
+  - XI
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4da2536e06bfda3dc9c50ccc"
-canonical_name: "Adomas Bremenietis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Adomas Bremenietis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4da2536e06bfda3dc9c50ccc
+canonical_name: Adomas Bremenietis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Adomas Bremenietis
 sameAs: []
-canonical_biography: "O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė daugiau žinių apie prūsus ir ypač."
+canonical_biography: 'O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė daugiau žinių apie prūsus ir ypač.'
+external_sources_json: '[{"title":"Adomas Bremenietis","url":"https://www.vle.lt/straipsnis/adomas-bremenietis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T09:03:36+00:00","source_checked_at":"2026-09-19T09:03:36+00:00","counts":{"relations":0,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Adomas Bremenietis","url":"https://www.vle.lt/straipsnis/adomas-bremenietis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/adomas-bremenietis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"82fb7e3134a5aedefd18e696","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Arkivyskupas.","context":"Zenonas Ivinskis jį taip įvardija aprašydamas Adomo veiklą 1072–1076 m.","support_ids":["t-30554","c-32896"],"source_refs":[{"kind":"internal_claim","claim_id":"t-30554","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-32896","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė daugiau žinių apie prūsus ir ypač iškėlė jų prekybinius santykius su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų."}],"status":"published","conflict_status":"clear"},{"trait_id":"11567a76fbaff36350c92800","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"1072–1076 m. parašė veikalo „Gesta Hammaburgensis ecclesiae pontificum“ ketvirtąją knygą, kurioje pateikė Skandinavijos ir pietinių bei rytinių Baltijos žemių geografiją bei žinių apie prūsus.","context":"Zenono Ivinskio aprašymas; nurodomas 1072–1076 m. laikotarpis.","support_ids":["t-30554","c-32896"],"source_refs":[{"kind":"internal_claim","claim_id":"t-30554","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-32896","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė daugiau žinių apie prūsus ir ypač iškėlė jų prekybinius santykius su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5aff210560a8e86f9a8381ef","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Rašė apie herulus ir jų apsistojimą prie Hebolos, arba Havolos, upės.","context":"Teodoras Narbutas nurodo, kad taip teigia Helmoldas ir Adomas Bremenietis.","support_ids":["t-214141","c-197292"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214141","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197292","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Helmoldas ir Adomas Bremenietis teigia, jog herulai pirmiausia ap­ sistojo prie Hebolos, arba Havolos, upės; dėl to kai ku­ rie kronikininkai priskiria juos prie slavų havolėnų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"29baa26362e7c0d624eeb38a","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Rašė apie Upsalos žynius, tarnavusius piktosioms dvasioms.","context":"Teodoras Narbutas cituoja Adomą Bremenietį, veikalo 235 skyrių.","support_ids":["t-215945","c-199007"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215945","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199007","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Tautos šventovė buvo Upsaloje; ten, kaip Romovės šventykloje, sto­ vėjo trijų vyriausiųjų dievų stabai (Adamus Bremenensis. De situ Daniae. - Cap. 233); ten, kaip ir Romovėje, gyveno tar­ nauti dievams pašaukti žyniai ir, be abejo, taip pat vyriausiasis žynys. Adomas Bremenietis (skyrius 235) sako: de sacerdoti­ bus, qui ad Ubsolam Daemonibus astare solebant (apie žynius, kurie Upsaloje buvo papratę tarnauti piktosioms dvasioms)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9505eef19d1b7aea1679fb78","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Užsiminė apie šventąjį ąžuolą, augusį Švedijoje netoli Upsalos.","context":"Teodoro Narbuto pateikiamas Adomo Bremeniečio liudijimas.","support_ids":["t-217764","c-198287"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217764","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-198287","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Tą ypatybę kronikininkai priskiria velnio galy­ bei, manydami, kad velniai buvo garbinami toje šventykloje šalies dievų pavidalu. Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo­ lą, augusį Švedijoje, netoli Upsalos, tačiau Albertas Krantcas* 11, nė kiek neneigdamas, kad tas medis visą laiką žaliavęs, pridu­ ria, jog jo rūšies niekas negalėjęs nustatyti. Taigi tai turėjo bū­ ti ne ąžuolai, bet kitokios rūšies medžiai, kurie išnyko seniai, dar iki XIII amžiaus, o jų liekana buvo tie milžiniški šventieji medžiai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"571d736b399d9879cd6bf0c4","canonical_code":"author.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"„Europos šiaurės Tacitas“.","context":"Zenono Ivinskio vertinimas, pateiktas kalbant apie Adomą Bremenietį ir jo 1072–1076 m. veikalą.","support_ids":["t-30554","c-32896"],"source_refs":[{"kind":"internal_claim","claim_id":"t-30554","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-32896","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė daugiau žinių apie prūsus ir ypač iškėlė jų prekybinius santykius su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Adomas Bremenietis – XI amžiaus autorius, savo veikale „Gesta Hammaburgensis ecclesiae pontificum“ pateikęs žinių apie Baltijos regiono tautas ir jų ryšius. 1072–1076 m. parašyto veikalo ketvirtoje knygoje jis aprašė Skandinavijos bei pietines ir rytines Baltijos žemes, ypač paminėdamas prūsus. Autorius išskyrė sembų arba prūsų prekybinius santykius su švedais ir apibūdino juos kaip labai žmoniškus žmones, gelbėjusius jūroje pavojuje atsidūrusius ar piratų užpultus asmenis. Pasak Narbuto, Adomas Bremenietis taip pat liudijo, kad krikščionių dvasininkai iš Vokietijos ir kitų kraštų jūra atvykdavo skelbti Evangelijos prūsams, lietuviams ir latviams. Kitas jo užrašytas motyvas – šventasis medis Švedijoje, netoli Upsalos; šaltinyje pabrėžiama, kad medis visą laiką žaliavo, tačiau jo rūšies nustatyti nepavyko.","sentences":[{"sentence_id":"s1","text":"Adomas Bremenietis – XI amžiaus autorius, savo veikale „Gesta Hammaburgensis ecclesiae pontificum“ pateikęs žinių apie Baltijos regiono tautas ir jų ryšius.","support_ids":["t-30554","c-32896"]},{"sentence_id":"s2","text":"1072–1076 m. parašyto veikalo ketvirtoje knygoje jis aprašė Skandinavijos bei pietines ir rytines Baltijos žemes, ypač paminėdamas prūsus.","support_ids":["t-30554","c-32896"]},{"sentence_id":"s3","text":"Autorius išskyrė sembų arba prūsų prekybinius santykius su švedais ir apibūdino juos kaip labai žmoniškus žmones, gelbėjusius jūroje pavojuje atsidūrusius ar piratų užpultus asmenis.","support_ids":["t-30554","c-32896"]},{"sentence_id":"s4","text":"Pasak Narbuto, Adomas Bremenietis taip pat liudijo, kad krikščionių dvasininkai iš Vokietijos ir kitų kraštų jūra atvykdavo skelbti Evangelijos prūsams, lietuviams ir latviams.","support_ids":["t-205503","c-187909"]},{"sentence_id":"s5","text":"Kitas jo užrašytas motyvas – šventasis medis Švedijoje, netoli Upsalos; šaltinyje pabrėžiama, kad medis visą laiką žaliavo, tačiau jo rūšies nustatyti nepavyko.","support_ids":["t-216928","t-217764","c-198287"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta: šaltinis nurodo autorių, veikalą ir jo pateiktas žinias apie Baltijos žemes, prūsus bei jų ryšius."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1072–1076 m., ketvirtąją knygą, Skandinaviją, Baltijos pietines ir rytines žemes bei prūsus."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai aprašo sembų arba prūsų prekybą su švedais, jų žmoniškumą ir pagalbą jūroje nukentėjusiems bei piratų užpultiems asmenims."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad dvasininkai iš Vokietijos ir kitų kraštų jūra atvykdavo skelbti Evangelijos prūsams, lietuviams ir latviams."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai mini šventąjį medį Švedijoje prie Upsalos, jo nuolatinį žaliavimą ir nenustatytą rūšį."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-30554","c-32896"]},{"sentence_id":"s2","supported":true,"support_ids":["t-30554","c-32896"]},{"sentence_id":"s3","supported":true,"support_ids":["t-30554","c-32896"]},{"sentence_id":"s4","supported":true,"support_ids":["t-205503","c-187909"]},{"sentence_id":"s5","supported":true,"support_ids":["t-216928","t-217764","c-198287"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 931e3204d97c8bd3
+object_page_generated_at: '2026-09-19T09:03:36+00:00'
+object_page_source_checked_at: '2026-09-19T09:03:36+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '4'
+object_page_seo_description: 'Adomas Bremenietis – XI amžiaus autorius, savo veikale „Gesta Hammaburgensis ecclesiae pontificum“ pateikęs žinių apie Baltijos regiono tautas ir jų ryšius.…'
+object_page_seo_input_hash: a1ec97fccfa3bdd7011c2233b909b29e674d59c722377c973b06049dda3b1f8b
+object_page_seo_generated_at: '2026-09-19T09:03:36+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Adomas Bremenietis
 
@@ -48,42 +61,10 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 
 ## Teiginiai
 
-<a id="claim-t-214141"></a>
-- t-214141
-  teiginys: "Helmoldas ir Adomas Bremenietis teigia, jog herulai pirmiausia ap sistojo prie Hebolos, arba Havolos, upės; dėl to kai ku rie kronikininkai priskiria juos prie slavų havolėnų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197292
-
-<a id="claim-t-216234"></a>
-- t-216234
-  teiginys: "Narbutas teigė, kad, Adomo Bremeniečio pranešimu, švedų protėviai ypač laikėsi šventųjų ąžuolų tradicijos."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Švedai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Bremenietis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Švedai: mention_match, group, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Bremenietis\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-197715
-
 <a id="claim-t-30554"></a>
-- t-30554
+- t-001
   teiginys: "Adomas Bremenietis 1072-1076 m. veikalo „Gesta Hammaburgensis ecclesiae pontificum“ ketvirtoje knygoje pateikė žinių apie prūsus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -99,149 +80,63 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   pagrindžia:
     - c-32896
 
-<a id="claim-t-205503"></a>
-- t-205503
-  teiginys: "Narbutas rašo, kad Adomas Bremenietis tvirtino, jog krikščionių dvasininkai jūra atplaukdavo skelbti Evangelijos prūsams, lietuviams ir latviams."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-188391"></a>
+- t-002
+  teiginys: "Narbutas rašė, kad Adomas Bremenietis mini šventąjį ąžuolą, augusį Švedijoje netoli Upsalos."
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187909
-
-<a id="claim-t-212326"></a>
-- t-212326
-  teiginys: "Adomas Bremenietis, Narbuto perteikimu, rašė apie didžiulę Baltijos jūros salą, vadintą Estlandija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumas: "susije_su -> Upsala: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Adomas Bremenietis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Bremenietis\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  ryšio_targeto_parinkimas: "Upsala: mention_match, place, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Bremenietis\" parinktas kaip owner_note_path. Targetas \"Upsala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-197078
+    - c-171282
 
-<a id="claim-t-212891"></a>
-- t-212891
-  teiginys: "Adomas Bremenietis, Narbuto aiškinimu, Balticum vardą siejo su Baltijos pakrančių baltais, priskirtais lietuvių genties tautoms."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-188392"></a>
+- t-003
+  teiginys: "Narbutas teigė, kad, Adomo Bremeniečio pranešimu, švedų protėviai ypač laikėsi šventųjų ąžuolų tradicijos."
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumas: "susije_su -> Švedai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Adomas Bremenietis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Bremenietis\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  ryšio_targeto_parinkimas: "Švedai: mention_match, group, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Bremenietis\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-197660
+    - c-171283
 
-<a id="claim-t-212898"></a>
-- t-212898
-  teiginys: "Ado mas Bremenietis žinojo tą pačią Estiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197078
-
-<a id="claim-t-213294"></a>
-- t-213294
-  teiginys: "Adomas Bremenietis, minėdamas Prūsijos pro vincijas, kurias dėl nesuprantamų priežasčių vadina salo mis, sako, jog Semba ribojasi su rusais, arba Rusios kraš tu, kurio jis vis dėlto nepriskiria prie Prūsijos provincijų, nes tada tos žemės buvo Žemaitijos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-214688"></a>
-- t-214688
-  teiginys: "Adomas Bremenietis Balticum pavadinimą tapatina su baltų, priklausančių lietuvių genties tautoms, vardu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197660
-
-<a id="claim-t-214763"></a>
-- t-214763
-  teiginys: "Adomas Bremenietis, Narbuto teigimu, Sembą laikė besiribojančia su rusais arba Rusia, bet Rusios nepriskyrė Prūsijos provincijoms."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Bremenietis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=108"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Bremenietis\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-
-<a id="claim-t-214835"></a>
-- t-214835
-  teiginys: "Adomas Bremenietis priskyrė Lenkijai visą Prūsiją net iki Baltijos jūros; kaimynystėje jis randa rusus, kuriuos netinkamai vadina rutėnais, t."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-215945"></a>
-- t-215945
-  teiginys: "Adomas Bremenietis (skyrius 235) sako: de sacerdoti bus, qui ad Ubsolam Daemonibus astare solebant."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-188393"></a>
+- t-004
+  teiginys: "Narbutas Adomą Bremenietį nurodė kaip šaltinį apie prie šventyklų buvusius apeiginius šaltinius ar šulinius."
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-199007
+    - c-171284
 
-<a id="claim-t-216928"></a>
-- t-216928
-  teiginys: "Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo lą, augusį Švedijoje, netoli Upsalos, tačiau Albertas Krantcas 11, nė kiek neneigdamas, kad tas medis visą laiką žaliavęs, pridu ria, jog jo rūšies niekas negalėjęs nustatyti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198287
-
-<a id="claim-t-217624"></a>
-- t-217624
+<a id="claim-t-188394"></a>
+- t-005
   teiginys: "Narbutas citavo Adomą Bremenietį apie Upsalos žynius: „de sacerdotibus, qui ad Ubsolam Daemonibus astare solebant“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -257,40 +152,92 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   semantiniai_rysiai: "Žyniai gyveno Romovė (0.82)"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-199007
+    - c-171285
 
-<a id="claim-t-217764"></a>
-- t-217764
-  teiginys: "Narbutas rašė, kad Adomas Bremenietis mini šventąjį ąžuolą, augusį Švedijoje netoli Upsalos."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-190679"></a>
+- t-006
+  teiginys: "Adomas Bremenietis, Narbuto perteikimu, rašė apie didžiulę Baltijos jūros salą, vadintą Estlandija."
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Upsala: 0.85"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Adomas Bremenietis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Upsala: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Bremenietis\" parinktas kaip owner_note_path. Targetas \"Upsala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Bremenietis\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-198287
+    - c-173561
 
-<a id="claim-t-218422"></a>
-- t-218422
-  teiginys: "Narbutas Adomą Bremenietį nurodė kaip šaltinį apie prie šventyklų buvusius apeiginius šaltinius ar šulinius."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-190680"></a>
+- t-007
+  teiginys: "Adomas Bremenietis, Narbuto aiškinimu, Balticum vardą siejo su Baltijos pakrančių baltais, priskirtais lietuvių genties tautoms."
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Bremenietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Bremenietis\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-197715
+    - c-173562
+
+<a id="claim-t-190681"></a>
+- t-008
+  teiginys: "Adomas Bremenietis, Narbuto teigimu, Sembą laikė besiribojančia su rusais arba Rusia, bet Rusios nepriskyrė Prūsijos provincijoms."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Bremenietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=108"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Bremenietis\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173563
+
+<a id="claim-t-197575"></a>
+- t-009
+  teiginys: "Adomas Bremenietis priskyrė Lenkijai visą Prūsiją net iki Baltijos jūros; kaimynystėje jis randa rusus, kuriuos netinkamai vadina rutėnais, t."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-173563
+
+<a id="claim-t-205503"></a>
+- t-010
+  teiginys: "Narbutas rašo, kad Adomas Bremenietis tvirtino, jog krikščionių dvasininkai jūra atplaukdavo skelbti Evangelijos prūsams, lietuviams ir latviams."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187909
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -352,8 +299,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-30554
+  pagrindzia:
+    - t-001
 
 - id: c-171282
   autorius: "Teodoras Narbutas"
@@ -376,6 +323,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-171283
   autorius: "Teodoras Narbutas"
@@ -398,6 +347,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-171284
   autorius: "Teodoras Narbutas"
@@ -418,6 +369,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-171285
   autorius: "Teodoras Narbutas"
@@ -438,6 +391,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-173561
   autorius: "Teodoras Narbutas"
@@ -458,6 +413,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-173562
   autorius: "Teodoras Narbutas"
@@ -476,6 +433,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-173563
   autorius: "Teodoras Narbutas"
@@ -505,6 +464,9 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+    - t-009
 
 - id: c-187909
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -522,147 +484,5 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205503
-
-- id: c-197078
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 92."
-  citata_originali: |
-    Dešinėje tos upės pusėje gotų
-    jau nebuvo, todėl prūsai įėjo į estų genčių skaičių. Ado­
-    mas Bremenietis* žinojo tą pačią Estiją. Aprašinėdamas
-    prie Baltijos jūros esančius kraštus, kuriuos dėl senama­
-    diškų kaprizų vadina salomis, jis rašo: „Taip pat mums
-    pasakojo, kad toje jūroje esama daug kitų salų, kurių
-    viena
-    didžiulė vadinasi Estlandija1.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212326
-    - t-212898
-
-- id: c-197292
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 327"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 327."
-  citata_originali: |
-    Helmoldas ir
-    Adomas Bremenietis teigia, jog herulai pirmiausia ap­
-    sistojo prie Hebolos, arba Havolos, upės; dėl to kai ku­
-    rie kronikininkai priskiria juos prie slavų havolėnų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214141
-
-- id: c-197660
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 177"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
-  citata_originali: |
-    Tuo labiau kad jūros vadinimas Baltąja
-    neprieštarauja senovės ir naujųjų laikų geografijai. Ado­
-    mas Bremenietis Balticum pavadinimą tapatina ¡su šių
-    kraštų pakrančių gyventojais (baltų), priklausančiais lie­
-    tuvių genties tautoms5. Regis tą patį patvirtina ir Bajeris,
-    šį dalyką tyrinėjęs išsamiau ir kruopščiau6.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212891
-    - t-214688
-
-- id: c-197715
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 238"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
-  citata_originali: |
-    Apskritai reikia ma­
-    nyti, kad visur, kur buvo šventyklos, augo šventieji ąžuolai,
-    kadangi šio medžio šventumas lietuvių mitologijoje susiliejo
-    su dievų buveinės vaizdiniu.
-    Tikėjimą šito medžio šventumu skandinavai iš dalies pe­
-    rėmė iš lietuvių, kadangi ne visi ir ne visur turėjo šventyklas
-    po ąžuolais; kaip praneša Adomas Bremenietis, to ypač laikė­
-    si švedų protėviai .
-    Lietuvių liaudies pasakos mini, kad žmonės valgydavę gi­
-    les, iškeptas pelenuose arba virtas su pelenais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216234
-    - t-218422
-
-- id: c-198287
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
-  citata_originali: |
-    Tą ypatybę kronikininkai priskiria velnio galy­
-    bei, manydami, kad velniai buvo garbinami toje šventykloje
-    šalies dievų pavidalu.
-    Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo­
-    lą, augusį Švedijoje, netoli Upsalos, tačiau Albertas Krantcas* 11,
-    nė kiek neneigdamas, kad tas medis visą laiką žaliavęs, pridu­
-    ria, jog jo rūšies niekas negalėjęs nustatyti. Taigi tai turėjo bū­
-    ti ne ąžuolai, bet kitokios rūšies medžiai, kurie išnyko seniai,
-    dar iki XIII amžiaus, o jų liekana buvo tie milžiniški šventieji
-    medžiai.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216928
-    - t-217764
-
-- id: c-199007
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 416"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 416."
-  citata_originali: |
-    Tautos
-    šventovė buvo Upsaloje; ten, kaip Romovės šventykloje, sto­
-    vėjo trijų vyriausiųjų dievų stabai (Adamus Bremenensis. De
-    situ Daniae. - Cap. 233); ten, kaip ir Romovėje, gyveno tar­
-    nauti dievams pašaukti žyniai ir, be abejo, taip pat vyriausiasis
-    žynys. Adomas Bremenietis (skyrius 235) sako: de sacerdoti­
-    bus, qui ad Ubsolam Daemonibus astare solebant (apie žynius,
-    kurie Upsaloje buvo papratę tarnauti piktosioms dvasioms).
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215945
-    - t-217624
-
+  pagrindzia:
+    - t-010

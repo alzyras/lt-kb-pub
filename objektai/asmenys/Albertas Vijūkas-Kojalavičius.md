@@ -1,14 +1,14 @@
 ---
 tipas: asmuo
-pavadinimas: 'Albertas Vijūkas-Kojalavičius'
+pavadinimas: Albertas Vijūkas-Kojalavičius
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - Lietuvos Didžioji Kunigaikštija ir jos tradicija
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1618 m.'
-  - '1646 m.'
+  - 1618 m.
+  - 1646 m.
 date_start: '1618'
 date_end: '1646'
 sukurta: ''
@@ -17,34 +17,187 @@ tags:
   - mokslininkas
   - asmuo
 amziai:
-  - 'XVII'
+  - XVII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f5c1ea6b86470cb1c040821b"
-canonical_name: "Albertas Vijūkas-Kojalavičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Albertas Vijūkas-Kojalavičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f5c1ea6b86470cb1c040821b
+canonical_name: Albertas Vijūkas-Kojalavičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Albertas Vijūkas-Kojalavičius
 sameAs: []
-canonical_biography: "Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos ir daugiatautės bei daugiakonfesės LDK."
+canonical_biography: 'Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos ir daugiatautės bei daugiakonfesės LDK.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T09:23:57+00:00","source_checked_at":"2026-09-20T09:23:57+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"83b995c12a439643835eebba","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Istorikas","context":"Alfredas Bumblauskas Albertą Vijūką-Kojalavičių įvardija kaip istoriką; 2013 m. veikale apie LDK tradiciją.","support_ids":["t-207467","c-190032"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207467","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190032","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"Žymiausios LDK kultūros asmenybės – užtektų paminėti is- toriką Albertą Vijūką-Kojalavičių ar karo inžinierių Kazimierą Semenavičių – jie abu savo garsiuosiuose veikaluose savo pavardes parašė jau lenkiška forma (Siemienowicz, Kojało- wicz)."}],"status":"published","conflict_status":"clear"},{"trait_id":"b3d114fd73925262c3c4ed42","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Priskiriamas prie žymiausių LDK kultūros asmenybių","context":"Tai Alfredo Bumblausko vertinimas veikale apie LDK tradiciją.","support_ids":["t-207467","c-190032"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207467","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190032","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"Žymiausios LDK kultūros asmenybės – užtektų paminėti is- toriką Albertą Vijūką-Kojalavičių ar karo inžinierių Kazimierą Semenavičių – jie abu savo garsiuosiuose veikaluose savo pavardes parašė jau lenkiška forma (Siemienowicz, Kojało- wicz)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e6b76971f17d7d4e242ac347","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje","context":"Lietuvos istorijoje aprašomas Alberto Vijūko-Kojalavičiaus darbų vaidmuo; šaltinis nurodo jų įtaką, siekusią toli už etninės Lietuvos ribų.","support_ids":["t-18765","c-21550"],"source_refs":[{"kind":"internal_claim","claim_id":"t-18765","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-21550","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"do ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: aa488bb4e94b0f9b
+object_page_generated_at: '2026-09-20T09:23:57+00:00'
+object_page_source_checked_at: '2026-09-20T09:23:57+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Albertas Vijūkas-Kojalavičius: Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje. Narbutas nurodo, kad…'
+object_page_seo_input_hash: 32d00ed88f09f51b9eb70273962cbb94a1d25e948fea5e05ce7bedafa770a203
+object_page_seo_generated_at: '2026-09-20T09:23:57+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Albertas Vijūkas-Kojalavičius
 
 ## Santrauka
 
 Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje. Narbutas nurodo, kad Kojalavičius mini XV a. lenkiškus grašius piorunkas ir skiria juos nuo Lietuvoje žinotų perunų arba perkūnų. Narbutas kaltina Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl esą įprasto ligonių, bejėgių ir mirštančiųjų žudymo.
+
+## Teiginiai
+
+<a id="claim-t-18765"></a>
+- t-001
+  teiginys: "Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojalavičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojalavičius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1618 m.; įvykio data: 1646 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškesnės ir natūralesnės formuluotės apie asmens darbus."
+  pagrindžia:
+    - c-21550
+
+<a id="claim-t-188506"></a>
+- t-002
+  teiginys: "Narbutas nurodo, kad Kojalavičius mini XV a. lenkiškus grašius piorunkas ir skiria juos nuo Lietuvoje žinotų perunų arba perkūnų."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kojalavičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojalavičius: owner_note_path, person"
+  ryšio_targeto_parinkimas: "Kojalavičius: mention_match, person, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojalavičius\" parinktas kaip owner_note_path. Targetas \"Kojalavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-171396
+
+<a id="claim-t-188507"></a>
+- t-003
+  teiginys: "Narbutas kaltina Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl esą įprasto ligonių, bejėgių ir mirštančiųjų žudymo."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kojalavičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojalavičius: owner_note_path, person"
+  ryšio_targeto_parinkimas: "Kojalavičius: mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojalavičius\" parinktas kaip owner_note_path. Targetas \"Kojalavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-171397
+
+<a id="claim-t-190838"></a>
+- t-004
+  teiginys: "Narbutas vertina, kad Albertas Vijūkas-Kojalavičius lotyniškoje lietuvių istorijoje tik sudėjo Strijkovskio veikalą į istorinius rėmus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lotynai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojalavičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lotynai: mention_match, group, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojalavičius\" parinktas kaip owner_note_path. Targetas \"Lotynai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+  pagrindžia:
+    - c-173720
+
+<a id="claim-t-190839"></a>
+- t-005
+  teiginys: "Ksaveras Bogušas poloviečius priskyrė lietuvių genties tautoms, remdamasis panašiomis Kojalavičiaus prielaidomis."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Poloviečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojalavičius: owner_note_path, person"
+  ryšio_targeto_parinkimas: "Poloviečiai: mention_match, group, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojalavičius\" parinktas kaip owner_note_path. Targetas \"Poloviečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+  pagrindžia:
+    - c-173721
+
+<a id="claim-t-190840"></a>
+- t-006
+  teiginys: "Narbutas rašo, kad Kojalavičius poloviečius laikė turinčiais lietuvių kalbą ir siejo juos su Mamajaus sugriauta Beloserkos sostine."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kojalavičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojalavičius: owner_note_path, person"
+  ryšio_targeto_parinkimas: "Kojalavičius: mention_match, person, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojalavičius\" parinktas kaip owner_note_path. Targetas \"Kojalavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+  pagrindžia:
+    - c-173722
+
+<a id="claim-t-191935"></a>
+- t-007
+  teiginys: "Narbutas priekaištauja, kad per 400 metų krašto praeitimi pasirūpino tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojalavičius: owner_note_path, person"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=1"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojalavičius\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
+  pagrindžia:
+    - c-174817
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -145,8 +298,8 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-18765
+  pagrindzia:
+    - t-001
 
 - id: c-171396
   autorius: "Teodoras Narbutas"
@@ -166,6 +319,8 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-171397
   autorius: "Teodoras Narbutas"
@@ -189,6 +344,8 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-173720
   autorius: "Teodoras Narbutas"
@@ -211,6 +368,8 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-173721
   autorius: "Teodoras Narbutas"
@@ -231,6 +390,8 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-173722
   autorius: "Teodoras Narbutas"
@@ -253,6 +414,8 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-174817
   autorius: "Teodoras Narbutas"
@@ -270,191 +433,5 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-190032
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 22"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 22."
-  citata_originali: |
-    Štai kodėl
-    ir LDK piliečiai pradeda visą jungtinę valstybę vadinti „mūsų Lenkija“. Tačiau svarbiau-
-    sia – LDK kultūroje įsitvirtina net formaliai nuo 1697 m. lenkų kalba ir raštija, pakeitusi iki
-    to dominavusią rusėnų raštiją. Žymiausios LDK kultūros asmenybės – užtektų paminėti is-
-    toriką Albertą Vijūką-Kojalavičių ar karo inžinierių Kazimierą Semenavičių – jie abu savo
-    garsiuosiuose veikaluose savo pavardes parašė jau lenkiška forma (Siemienowicz, Kojało-
-    wicz).
-  citata_rodoma: "Žymiausios LDK kultūros asmenybės – užtektų paminėti is-\ntoriką Albertą Vijūką-Kojalavičių ar karo inžinierių Kazimierą Semenavičių – jie abu savo \ngarsiuosiuose veikaluose savo pavardes parašė jau lenkiška forma (Siemienowicz, Kojało-\nwicz)."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207467
-
-- id: c-195333
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
-  citata_originali: |
-    95
-    Pastabos. Mūsų mokslininkas, lietuvių istorijos tyri­
-    nėtojas Ksaveras Bogušas priskiria lietuvių genties tau­
-    toms iš kitur pažįstamus poloviečius', remdamasis tokio­
-    mis pat Kojalavičiaus prielaidomis1 2. Naruševičius patei­
-    kia žinių, kurios, rodos, taip pat remia šią nuomonę, kad
-    poloviečiai buvę rusų kaimynai nuo saulės patekėjimo ir
-    nusileidimo pusių3.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-195593
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 452"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 452."
-  citata_originali: |
-    Kortos, romanai, garderobai — tokios yra jų dory­
-    bės. Vyrauja tuščias pasididžiavimas senoliais, o protėvių
-    istorijai paprasčiausiai atsuko nugarą. Per 400 metų nė
-    vienas lietuvis, išskyrus Kojalavičių, Mykolą Lietuvį ir
-    Teodorą Narbutą, nepasirūpino krašto praeitimi.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-200385
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 359"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 359."
-  citata_originali: |
-    Draugystės, svetingumo, santai­
-    kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­
-    baimingai tautai tikriausiai nebuvo tušti simboliai. Tad Ški­
-    cas, Henenbergeris, Hartknochas ir Kojalavičius apšmeižė se­
-    novės lietuvius, priskirdami jiems žiaurumą su ligoniais, bejė­
-    giais, luošaisiais arba mirštančiais žmonėmis, esą buvę įprasta
-    pagreitinti jų mirtį . Tuo nepatikės niekas, kas bent kiek pa- 13
-    13
-    Iš dalies tą darė herulai -  tai pasakysime mūsų istorijos tęsiny­
-    je, -  bet ne smurtu ir ne pagal religijos nuostatus, o tik prietaringų ir
-    ligos palaužtų senelių prašymu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-## Teiginiai
-
-<a id="claim-t-212152"></a>
-- t-001
-  teiginys: "Ksaveras Bogušas poloviečius priskyrė lietuvių genties tautoms, remdamasis panašiomis Kojalavičiaus prielaidomis."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Poloviečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojalavičius: owner_note_path, person"
-  ryšio_targeto_parinkimas: "Poloviečiai: mention_match, group, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojalavičius\" parinktas kaip owner_note_path. Targetas \"Poloviečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  pagrindžia:
-    - c-195333
-
-<a id="claim-t-212883"></a>
-- t-002
-  teiginys: "Narbutas priekaištauja, kad per 400 metų krašto praeitimi pasirūpino tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojalavičius: owner_note_path, person"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=1"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojalavičius\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-  pagrindžia:
-    - c-195593
-
-<a id="claim-t-217003"></a>
-- t-003
-  teiginys: "Narbutas kaltina Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl esą įprasto ligonių, bejėgių ir mirštančiųjų žudymo."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kojalavičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojalavičius: owner_note_path, person"
-  ryšio_targeto_parinkimas: "Kojalavičius: mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojalavičius\" parinktas kaip owner_note_path. Targetas \"Kojalavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-200385
-
-<a id="claim-t-18765"></a>
-- t-18765
-  teiginys: "Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojalavičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=92"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojalavičius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1618 m.; įvykio data: 1646 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškesnės ir natūralesnės formuluotės apie asmens darbus."
-  pagrindžia:
-    - c-21550
-
-<a id="claim-t-207467"></a>
-- t-207467
-  teiginys: "Alfredas Bumblauskas Albertą Vijūką-Kojalavičių priskiria prie žymiausių LDK kultūros asmenybių ir nurodo, kad savo garsiuosiuose veikaluose jis pavardę rašė lenkiška forma."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190032
-
+  pagrindzia:
+    - t-007

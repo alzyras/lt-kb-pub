@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Gardino-Volkovysko kraštas'
+pavadinimas: Gardino-Volkovysko kraštas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b89abda264924109bd1da905"
-canonical_name: "Gardino-Volkovysko kraštas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Gardino-Volkovysko kraštas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b89abda264924109bd1da905
+canonical_name: Gardino-Volkovysko kraštas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Gardino-Volkovysko kraštas
 sameAs: []
-canonical_biography: "Motiejus Strijkovskis Bychovco kronikos variantą rado Gardino-Volkovysko krašte, Didžiosios Berestovicos dvare."
+canonical_biography: 'Motiejus Strijkovskis Bychovco kronikos variantą rado Gardino-Volkovysko krašte, Didžiosios Berestovicos dvare.'
 ---
 # Gardino-Volkovysko kraštas
 
@@ -70,6 +69,5 @@ Motiejus Strijkovskis Bychovco kronikos variantą rado Gardino-Volkovysko krašt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

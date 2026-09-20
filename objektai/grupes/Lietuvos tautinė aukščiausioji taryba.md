@@ -35,6 +35,28 @@ media_all_json: |-
 
 Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis.
 
+## Teiginiai
+
+<a id="claim-t-77828"></a>
+- t-001
+  teiginys: "1794 m. balandį Vilniuje paskelbtu Lietuvos sukilimo aktu buvo sudaryta Lietuvos tautinė aukščiausioji taryba."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pasakymas, kad Vilnius buvo išvaduotas iš rusų, tiesiogiai leidžia daryti išvadą, jog rusai prieš tai valdė miestą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Rusai valdė miestą Vilnius (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1794 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys tik kontekstualiai veda prie objekto; citata palaiko tikslesnį faktą apie tarybos sudarymą."
+  pagrindžia:
+    - c-75149
+
 ## Citatos
 
 - id: c-75149
@@ -61,60 +83,5 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-190135
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 194"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 194."
-  citata_originali: |
-    Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose. Lietu-
-    vos sukilėlių vadu tapo Vilniaus karo inžinerijos mokyklos viršininkas Jokūbas Jasinskis.
-    Sukilėliai balandį išvadavo iš rusų Vilnių ir Rotušės aikštėje paskelbė Lietuvos sukilimo
-    aktą, kuriuo buvo sudaroma sukilėlių vyriausybė – Lietuvos tautinė aukščiausioji taryba.
-  citata_rodoma: "Sukilėliai balandį išvadavo iš rusų Vilnių ir Rotušės aikštėje paskelbė Lietuvos sukilimo \naktą, kuriuo buvo sudaroma sukilėlių vyriausybė – Lietuvos tautinė aukščiausioji taryba."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-77828"></a>
-- t-001
-  teiginys: "1794 m. balandį Vilniuje paskelbtu Lietuvos sukilimo aktu buvo sudaryta Lietuvos tautinė aukščiausioji taryba."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pasakymas, kad Vilnius buvo išvaduotas iš rusų, tiesiogiai leidžia daryti išvadą, jog rusai prieš tai valdė miestą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Rusai valdė miestą Vilnius (0.74)"
-  temporaliniai_duomenys: "įvykio data: 1794 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys tik kontekstualiai veda prie objekto; citata palaiko tikslesnį faktą apie tarybos sudarymą."
-  pagrindžia:
-    - c-75149
-
-<a id="claim-t-207518"></a>
-- t-002
-  teiginys: "Lietuvos tautinė aukščiausioji taryba buvo Lietuvos sukilimo metu sudaryta sukilėlių vyriausybė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  pagrindžia:
-    - c-190135
-

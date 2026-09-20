@@ -43,6 +43,65 @@ canonical_biography: "Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po V
 
 Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kaip 1857-1858 m. leisto leidinio „Teki Wileńskie“ leidėjas.
 
+## Teiginiai
+
+<a id="claim-t-54996"></a>
+- t-001
+  teiginys: "Adomas Honorijus Kirkoras 1857–1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“)."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "gap::authors"
+  ryšio_patikimumas: "susije_su -> Vilniaus Senienų muziejus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Honorijus Kirkoras: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilniaus Senienų muziejus: mention_match, group, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Honorijus Kirkoras\" parinktas kaip owner_note_path. Targetas \"Vilniaus Senienų muziejus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1857-1858; įvykio data: 1858 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-55561
+
+<a id="claim-t-81882"></a>
+- t-002
+  teiginys: "Adomas Honorijus Kirkoras 1857-1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“)."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::authors"
+  ryšio_patikimumas: "susije_su -> Vilniaus Senienų muziejus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Honorijus Kirkoras: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilniaus Senienų muziejus: mention_match, group, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Honorijus Kirkoras\" parinktas kaip owner_note_path. Targetas \"Vilniaus Senienų muziejus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1857-1858; įvykio data: 1858 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją."
+  pagrindžia:
+    - c-55561
+
+<a id="claim-t-81883"></a>
+- t-003
+  teiginys: "1859 m. išleistame vadove po Vilnių Adomas Honorijus Kirkoras pažymėjo, kad Vilnius jau turi savo istorikus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::authors"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Honorijus Kirkoras: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Honorijus Kirkoras\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1859 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Kirkoro pastebėjimą, kurį patvirtina citata."
+  pagrindžia:
+    - c-78419
+
 ## Citatos
 
 - id: c-55561
@@ -64,7 +123,7 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -85,65 +144,5 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-54996"></a>
-- t-001
-  teiginys: "Adomas Honorijus Kirkoras 1857–1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“)."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::authors"
-  ryšio_patikimumas: "susije_su -> Vilniaus Senienų muziejus: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Honorijus Kirkoras: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus Senienų muziejus: mention_match, group, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Honorijus Kirkoras\" parinktas kaip owner_note_path. Targetas \"Vilniaus Senienų muziejus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1857-1858; įvykio data: 1858 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-55561
-
-<a id="claim-t-81882"></a>
-- t-002
-  teiginys: "Adomas Honorijus Kirkoras 1857-1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“)."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::authors"
-  ryšio_patikimumas: "susije_su -> Vilniaus Senienų muziejus: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Honorijus Kirkoras: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus Senienų muziejus: mention_match, group, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Honorijus Kirkoras\" parinktas kaip owner_note_path. Targetas \"Vilniaus Senienų muziejus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1857-1858; įvykio data: 1858 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją."
-  pagrindžia:
-    - c-55561
-
-<a id="claim-t-81883"></a>
-- t-003
-  teiginys: "1859 m. išleistame vadove po Vilnių Adomas Honorijus Kirkoras pažymėjo, kad Vilnius jau turi savo istorikus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::authors"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Honorijus Kirkoras: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Honorijus Kirkoras\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1859 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Kirkoro pastebėjimą, kurį patvirtina citata."
-  pagrindžia:
-    - c-78419
-

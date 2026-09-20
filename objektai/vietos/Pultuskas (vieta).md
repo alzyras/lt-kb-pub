@@ -50,6 +50,34 @@ Lapkričio 22 d. Gardino seniūnas Dovydas su nemaža kariuomene užpuolė Pultu
 
 Lapkričio 22 d. Gardino seniūnas Dovydas su nemaža kariuomene užpuolė Pultusko apylinkes Mazovijoje ir jas apiplėšė.
 
+## Teiginiai
+
+<a id="claim-t-205871"></a>
+- t-001
+  teiginys: "Lapkričio 22 d. Gardino seniūnas Dovydas su nemaža kariuomene užpuolė Pultusko apylinkes Mazovijoje ir jas apiplėšė."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188486
+
+<a id="claim-t-206555"></a>
+- t-002
+  teiginys: "Pasak Teodoro Narbuto, po pergalės prie Vilkyškių didysis kunigaikštis su nemaža kariauna iš Gardino nuvyko į Pultuską, užkariavo Mazovijos žemes ir priartėjo prie Vyslos."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189170
+
 ## Citatos
 
 - id: c-188486
@@ -78,7 +106,7 @@ Lapkričio 22 d. Gardino seniūnas Dovydas su nemaža kariuomene užpuolė Pultu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189170
@@ -96,34 +124,5 @@ Lapkričio 22 d. Gardino seniūnas Dovydas su nemaža kariuomene užpuolė Pultu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-205871"></a>
-- t-001
-  teiginys: "Lapkričio 22 d. Gardino seniūnas Dovydas su nemaža kariuomene užpuolė Pultusko apylinkes Mazovijoje ir jas apiplėšė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188486
-
-<a id="claim-t-206555"></a>
-- t-002
-  teiginys: "Pasak Teodoro Narbuto, po pergalės prie Vilkyškių didysis kunigaikštis su nemaža kariauna iš Gardino nuvyko į Pultuską, užkariavo Mazovijos žemes ir priartėjo prie Vyslos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189170
-

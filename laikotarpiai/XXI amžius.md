@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XXI amžius"
 periodo_pradzia: 2001
 periodo_pabaiga: 2100
-periodo_objektu_skaicius: 703
+periodo_objektu_skaicius: 702
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 703.
+Objektų skaičius: 702.
 
 ## Susiję objektai
 
@@ -625,7 +625,6 @@ Objektų skaičius: 703.
 - [[objektai/saltiniai/Karo Archyvas]]
 - [[objektai/saltiniai/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)]]
 - [[objektai/saltiniai/Kauno miestiečiai ir Lietuvos bernardinų provincijos ikūrimas XVI a. pradžioje]]
-- [[objektai/saltiniai/Kazimiero Bagdzevičiaus 1828-12-14 laiškas Motiejui Valančiui]]
 - [[objektai/saltiniai/Kiekvienas Lietuvos kariuomenės raidos etapas svarbus ir reikšmingas]]
 - [[objektai/saltiniai/Klaipėdos konvencija]]
 - [[objektai/saltiniai/Kovų istorijos II knyga XX amžius]]

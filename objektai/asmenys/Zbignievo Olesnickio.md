@@ -34,6 +34,20 @@ canonical_biography: "Dlugošas turėjo žinių ir iš kitų dalyvių, pasižym�
 
 Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip Zbignievo Olesnickio.
 
+## Teiginiai
+
+<a id="claim-t-195000"></a>
+- t-001
+  teiginys: "Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip Zbignievo Olesnickio."
+  atnaujinta: "2026-07-06 12:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177382
+
 ## Citatos
 
 - id: c-177382
@@ -51,20 +65,5 @@ Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195000"></a>
-- t-001
-  teiginys: "Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip Zbignievo Olesnickio."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177382
-

@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Vilkmergė (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Vilkmergė (vieta)
+identifikacija: vieta
 variantai:
-  - 'Vilkmergė'
+  - Vilkmergė
 aliases:
-  - 'Vilkmergė'
+  - Vilkmergė
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-32d74f10d5a6b18a9f6db471"
-canonical_name: "Vilkmergė (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vilkmergė","Vilkmergė (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-32d74f10d5a6b18a9f6db471
+canonical_name: Vilkmergė (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vilkmergė
+  - Vilkmergė (vieta)
 sameAs: []
-canonical_biography: "Su skausmu širdies savo radau; Šiauliuose, Tel šiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir Kaune daugybę uždarytų per nelaimes, vaikų savo."
+canonical_biography: 'Su skausmu širdies savo radau; Šiauliuose, Tel šiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir Kaune daugybę uždarytų per nelaimes, vaikų savo.'
 place_authority: true
 historical_names: []
 ---

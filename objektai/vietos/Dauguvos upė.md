@@ -37,6 +37,20 @@ Kryžiuočiai nei iš už Nemuno, nei iš už Dauguvos nesibrovė su gink lu ran
 
 Kryžiuočiai nei iš už Nemuno, nei iš už Dauguvos nesibrovė su gink lu rankose.
 
+## Teiginiai
+
+<a id="claim-t-205845"></a>
+- t-001
+  teiginys: "Kryžiuočiai nei iš už Nemuno, nei iš už Dauguvos nesibrovė su gink lu rankose."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188460
+
 ## Citatos
 
 - id: c-188460
@@ -54,20 +68,5 @@ Kryžiuočiai nei iš už Nemuno, nei iš už Dauguvos nesibrovė su gink lu ran
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205845"></a>
-- t-001
-  teiginys: "Kryžiuočiai nei iš už Nemuno, nei iš už Dauguvos nesibrovė su gink lu rankose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188460
-

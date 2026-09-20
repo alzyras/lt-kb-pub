@@ -42,6 +42,54 @@ historical_names: []
 
 1247 metais jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o Narbutas rašo, kad tas kraštas buvo labai nuniokotas.
 
+## Teiginiai
+
+<a id="claim-t-192874"></a>
+- t-001
+  teiginys: "1247 metais jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o Narbutas rašo, kad tas kraštas buvo labai nuniokotas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ochodza: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Holmas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ochodza: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Holmas\" parinktas kaip owner_note_path. Targetas \"Ochodza\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175644
+
+<a id="claim-t-205133"></a>
+- t-002
+  teiginys: "1202 metais žemgaliai prie Holmo sudegino bažnytėlę, bet nepaėmė pilies."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188151
+
+<a id="claim-t-205228"></a>
+- t-003
+  teiginys: "Holme tuo metu įsiliepsnojo sukilimas: buvo nužudyti kunigaikščiai, puolamos vokiečių pagrob tos kaimenės, kas tik pagautas, buvo nužudytas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188098
+
 ## Citatos
 
 - id: c-175644
@@ -66,6 +114,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-188098
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -90,8 +140,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205228
+  pagrindzia:
+    - t-003
 
 - id: c-188151
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -110,80 +160,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205133
-
-- id: c-194401
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
-  citata_originali: |
-    Ne
-    viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
-    nes turime žinių apie didelį ir galingą jotvingių žygį į
-    Pietų Rusią, Jie tikriausiai ketino pasinaudoti ianuometi­
-    niais to krašto sunkumais: mongolai nuolat puldinėjo, o
-    kunigaikščiai vaidijosi tarpusavyje. 1247 metais jotvin­
-    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
-    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
-    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
-    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
-    čino (dabar Kobrino apskritis).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-215667"></a>
-- t-001
-  teiginys: "1247 metais jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o Narbutas rašo, kad tas kraštas buvo labai nuniokotas."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Ochodza: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Holmas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ochodza: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Holmas\" parinktas kaip owner_note_path. Targetas \"Ochodza\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-194401
-
-<a id="claim-t-205133"></a>
-- t-205133
-  teiginys: "1202 metais žemgaliai prie Holmo sudegino bažnytėlę, bet nepaėmė pilies."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-188151
-
-<a id="claim-t-205228"></a>
-- t-205228
-  teiginys: "Holme tuo metu įsiliepsnojo sukilimas: buvo nužudyti kunigaikščiai, puolamos vokiečių pagrob tos kaimenės, kas tik pagautas, buvo nužudytas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-188098
-
+  pagrindzia:
+    - t-002

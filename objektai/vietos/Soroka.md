@@ -43,22 +43,10 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
 
 ## Teiginiai
 
-<a id="claim-t-211406"></a>
-- t-211406
-  teiginys: "Soroka — dabar Moldavijos TSR miestas Sorokai (prie Dnest ro, apie 90 km į pietus-pietvakarius nuo Braclavo)."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193333
-
-<a id="claim-t-211570"></a>
-- t-211570
+<a id="claim-t-199852"></a>
+- t-001
   teiginys: "Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras."
-  atnaujinta: "2026-09-12 19:43"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Pirminė formuluotė per šnekamoji; citata palaiko enciklopedinį sakinį."
@@ -66,11 +54,13 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
   semantiniai_rysiai: "[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] keliavo į Soroka"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-182786
 
-<a id="claim-t-211772"></a>
-- t-211772
+<a id="claim-t-199853"></a>
+- t-002
   teiginys: "Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos."
-  atnaujinta: "2026-09-12 19:43"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Palikta metraščio atribucija, nes citata perteikia slaptą susitarimą ir valdovo veiksmų pasakojimą. Nepridėta teiginių apie vėlesnį žygio įvykdymą."
@@ -78,6 +68,8 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
   semantiniai_rysiai: "[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] keliavo į Soroka"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-182786
 
 ## Citatos
 
@@ -112,21 +104,6 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193333
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 309"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 309."
-  citata_originali: |
-    Soroka — dabar Moldavijos TSR miestas Sorokai (prie Dnest­
-    ro, apie 90 km į pietus-pietvakarius nuo Braclavo).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211406
-
+  pagrindzia:
+    - t-001
+    - t-002

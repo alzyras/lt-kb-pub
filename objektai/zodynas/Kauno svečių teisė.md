@@ -24,6 +24,20 @@ media_all_json: |-
 
 Kauno suolininkas Martynas Slaveckis skundėsi Kauno vaitui, kad upėje palikta į Aleksotą neiškelta Henriko Bantkės vytinė, potvynio metu upės nešama, nevaldoma sugriovė dalį Nemuno krantinės.
 
+## Teiginiai
+
+<a id="claim-t-201806"></a>
+- t-001
+  teiginys: "Kauno suolininkas Martynas Slaveckis skundėsi Kauno vaitui, kad upėje palikta į Aleksotą neiškelta Henriko Bantkės vytinė, potvynio metu upės nešama, nevaldoma sugriovė dalį Nemuno krantinės."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185153
+
 ## Citatos
 
 - id: c-185153
@@ -41,20 +55,5 @@ Kauno suolininkas Martynas Slaveckis skundėsi Kauno vaitui, kad upėje palikta 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201806"></a>
-- t-001
-  teiginys: "Kauno suolininkas Martynas Slaveckis skundėsi Kauno vaitui, kad upėje palikta į Aleksotą neiškelta Henriko Bantkės vytinė, potvynio metu upės nešama, nevaldoma sugriovė dalį Nemuno krantinės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185153
-

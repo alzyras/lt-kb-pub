@@ -42,6 +42,20 @@ canonical_biography: "Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu M
 
 Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyveno brolis Heinemanas ir brolis Fridrichas, kuriuodu vienas kitą taip mylėjo, kad vienas be kito nenorėjo ne tik gyventi, bet ir mirti.
 
+## Teiginiai
+
+<a id="claim-t-197079"></a>
+- t-001
+  teiginys: "Apie brolio Gotfrido, didžiojo magistro, atvykimą, apie tai, kaip jis atsisa kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno 1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją atvyko į Livoniją, palikęs."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60909
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -86,62 +100,8 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Fridrichas (Marienburgo brolis) gyveno [[objektai/vietos/Marienburgas]]
-
-## Teiginiai
-
-<a id="claim-t-223486"></a>
-- t-001
-  teiginys: "Apie brolio Gotfrido, didžiojo magistro, atvykimą, apie tai, kaip jis atsisa kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno 1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją atvyko į Livoniją, palikęs."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-222518"></a>
-- t-222518
-  teiginys: "Apie nuostabų įvykį Tuo metu Marienburgo pilyje gyveno brolis Heinemanas ir brolis Fridrichas, kuriuodu vienas kitą taip mylėjo, kad vienas be kito nenorėjo ne tik gyventi, bet ir mirti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-222523"></a>
-- t-222523
-  teiginys: "Brolis Fridrichas ir brolis Heinemanas gyveno Marienburgo pilyje ir buvo vaizduojami kaip labai artimi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Marienburgas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fridrichas (Marienburgo brolis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Fridrichas gyveno Marienburgo pilyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Fridrichas (Marienburgo brolis) gyveno Marienburgas (0.90); Heinemanas (Marienburgo brolis) gyveno Marienburgas (0.90)"
-
-<a id="claim-t-223492"></a>
-- t-223492
-  teiginys: "Marienburgo pilyje gyvenęs brolis Fridrichas nukrito nuo žirgo ir užsimušė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Marienburgas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fridrichas (Marienburgo brolis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Fridrichas gyveno Marienburgo pilyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Fridrichas (Marienburgo brolis) gyveno Marienburgas (0.90)"
-

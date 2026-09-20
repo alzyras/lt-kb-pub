@@ -43,6 +43,33 @@ historical_names: []
 
 Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „druska“ ir sieja su kadaise sūriu vandeniu. Narbutas rašo, kad 1290 m. Christburgas buvo prie pat Drūsinės ežero, nors jo laikais nuo ežero nutolęs penkias mylias. Rytuose siena driekėsi net: iki Elbingo upės, Drūsinės ežero, paskui tiesiai palei Sirgunės upę (arba Sorge) net iki Osos, taigi Christburgo ir Rizenburgo valsčiai dar priklausė šiai provincijai.
 
+## Teiginiai
+
+<a id="claim-t-192815"></a>
+- t-001
+  teiginys: "Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „druska“ ir sieja su kadaise sūriu vandeniu."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175585
+
+<a id="claim-t-197870"></a>
+- t-002
+  teiginys: "Rytuose siena driekėsi net: iki Elbingo upės, Drūsinės ežero, paskui tiesiai palei Sirgunės upę (arba Sorge) net iki Osos, taigi Christburgo ir Rizenburgo valsčiai dar priklausė šiai provincijai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179373
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „druska“ ir sieja su kadaise sūriu vandeniu.'
@@ -115,6 +142,8 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179373
   autorius: "Teodoras Narbutas"
@@ -133,50 +162,5 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195341
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 355"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
-  citata_originali: |
-    Bet ši išvada nepaplito,
-    nes buvo pernelyg dirbtinė. Iš šiaurės ją skalauja Aist­
-    marės, iš vakarų •— 'Vysla. Rytuose siena driekėsi net: iki
-    Elbingo upės, Drūsinės ežero, paskui tiesiai palei Sirgu-
-    nės upę (arba Sorge) net iki Osos, taigi Christburgo ir
-    Rizenburgo valsčiai dar priklausė šiai provincijai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-212172"></a>
-- t-001
-  teiginys: "Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „druska“ ir sieja su kadaise sūriu vandeniu."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-214553"></a>
-- t-002
-  teiginys: "Rytuose siena driekėsi net: iki Elbingo upės, Drūsinės ežero, paskui tiesiai palei Sirgunės upę (arba Sorge) net iki Osos, taigi Christburgo ir Rizenburgo valsčiai dar priklausė šiai provincijai."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195341
-

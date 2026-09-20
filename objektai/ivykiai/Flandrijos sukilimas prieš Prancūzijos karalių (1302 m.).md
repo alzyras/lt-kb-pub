@@ -1,34 +1,31 @@
 ---
 tipas: ivykis
-pavadinimas: 'Flandrijos sukilimas prieš Prancūzijos karalių (1302 m.)'
+pavadinimas: Flandrijos sukilimas prieš Prancūzijos karalių (1302 m.)
 variantai:
-  - 'Flandrijos sukilimas prieš Prancūzijos karalių'
+  - Flandrijos sukilimas prieš Prancūzijos karalių
 aliases:
-  - 'Flandrijos sukilimas prieš Prancūzijos karalių'
+  - Flandrijos sukilimas prieš Prancūzijos karalių
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1222 m.'
-  - '1302 m.'
+  - 1222 m.
+  - 1302 m.
 date_start: '1222'
 date_end: '1302'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
-  - 'XIV'
+  - XIII
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Flandrijos sukilimas prieš Prancūzijos karalių (1302 m.)
 
@@ -83,6 +80,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

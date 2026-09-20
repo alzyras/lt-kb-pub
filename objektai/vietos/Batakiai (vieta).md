@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Batakiai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Batakiai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Batakiai'
+  - Batakiai
 aliases:
-  - 'Batakiai'
+  - Batakiai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-53c279eaa74155dc49ba7ab2"
-canonical_name: "Batakiai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Batakiai","Batakiai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-53c279eaa74155dc49ba7ab2
+canonical_name: Batakiai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Batakiai
+  - Batakiai (vieta)
 sameAs: []
-canonical_biography: "Antai Adakavo parapijos (Batakių deka nato) klebonas kun. Feliksas Žukovskis įskundė valdžiai sukilėlių ryšininką bajorą Stankevičių."
+canonical_biography: Antai Adakavo parapijos (Batakių deka nato) klebonas kun. Feliksas Žukovskis įskundė valdžiai sukilėlių ryšininką bajorą Stankevičių.
 place_authority: true
 historical_names: []
 ---

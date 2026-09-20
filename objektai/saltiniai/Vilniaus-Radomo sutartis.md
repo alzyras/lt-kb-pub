@@ -35,6 +35,24 @@ M. Liubavskis LDK Seimo raidoje 1401 m. Vilniaus-Radomo sutartį išskyrė kaip 
 
 M. Liubavskis LDK Seimo raidoje 1401 m. Vilniaus-Radomo sutartį išskyrė kaip pirmojo didikų ir bajorų surašymo datą.
 
+## Teiginiai
+
+<a id="claim-t-204416"></a>
+- t-001
+  teiginys: "M. Liubavskis LDK Seimo raidoje 1401 m. Vilniaus-Radomo sutartį išskyrė kaip pirmojo didikų ir bajorų surašymo datą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1401 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Aiškiau susietas istoriko vertinimas su konkrečia sutartimi ir 1401 m. data. Atribucija palikta, nes teiginys apibūdina Liubavskio istoriografinę interpretaciją."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-187020
+
 ## Citatos
 
 - id: c-187020
@@ -52,24 +70,5 @@ M. Liubavskis LDK Seimo raidoje 1401 m. Vilniaus-Radomo sutartį išskyrė kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204416"></a>
-- t-001
-  teiginys: "M. Liubavskis LDK Seimo raidoje 1401 m. Vilniaus-Radomo sutartį išskyrė kaip pirmojo didikų ir bajorų surašymo datą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1401 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Aiškiau susietas istoriko vertinimas su konkrečia sutartimi ir 1401 m. data. Atribucija palikta, nes teiginys apibūdina Liubavskio istoriografinę interpretaciją."
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-187020
-

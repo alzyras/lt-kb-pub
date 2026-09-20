@@ -32,6 +32,32 @@ media_all_json: |-
 
 Štai 1483 m. Strasburge išleisto Johano Herolto knygoje Sermones discipuli de tempore et de sanetis yra įrašyta, kad ją Kauno bernardinų vienuolynui parūpino XV-XVI a. Iš pradžių Kauno bernardinų knygų rinkinys buvo nedidelis, jis kentėjo nuo vienuolyno ir Šv.
 
+## Teiginiai
+
+<a id="claim-t-201848"></a>
+- t-001
+  teiginys: "Štai 1483 m. Strasburge išleisto Johano Herolto knygoje Sermones discipuli de tempore et de sanetis yra įrašyta, kad ją Kauno bernardinų vienuolynui parūpino XV-XVI a."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185195
+
+<a id="claim-t-201849"></a>
+- t-002
+  teiginys: "Iš pradžių Kauno bernardinų knygų rinkinys buvo nedidelis, jis kentėjo nuo vienuolyno ir Šv."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185196
+
 ## Citatos
 
 - id: c-185195
@@ -48,7 +74,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185196
@@ -66,32 +92,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201848"></a>
-- t-001
-  teiginys: "Štai 1483 m. Strasburge išleisto Johano Herolto knygoje Sermones discipuli de tempore et de sanetis yra įrašyta, kad ją Kauno bernardinų vienuolynui parūpino XV-XVI a."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185195
-
-<a id="claim-t-201849"></a>
-- t-002
-  teiginys: "Iš pradžių Kauno bernardinų knygų rinkinys buvo nedidelis, jis kentėjo nuo vienuolyno ir Šv."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185196
-

@@ -33,6 +33,17 @@ media_all_json: |-
 
 Žemlionys ir vyčiai šaltinyje aiškiai sutapatinami.
 
+## Teiginiai
+
+<a id="claim-t-07857"></a>
+- t-001
+  teiginys: "Žemlionys vadinti ir vyčiais, nes turėjo vyti priešus gindamiesi arba gyveno vietoje, neklajodami su gyvuliais."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-10095
+
 ## Citatos
 
 - id: c-10095
@@ -48,6 +59,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-10096
   autorius: "Simonas Daukantas"
@@ -64,7 +77,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-10097
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -81,13 +93,3 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210082"></a>
-- t-001
-  teiginys: "Žemlionys vadinti ir vyčiais, nes turėjo vyti priešus gindamiesi arba gyveno vietoje, neklajodami su gyvuliais."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-

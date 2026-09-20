@@ -53,6 +53,56 @@ Jame buvo įtaisytas senienų muziejus.
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-07520"></a>
+- t-001
+  teiginys: "D. Poška savo Baublyje įtaisė senienų muziejų."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> D. Poška: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "D. Poškos Baublys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "D. Poška: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Poškos Baublys\" parinktas kaip owner_note_path. Targetas \"D. Poška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-00228
+
+<a id="claim-t-07521"></a>
+- t-002
+  teiginys: "D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1812 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinį verta sušiuolaikinti ir pašalinti archajišką formą."
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-00229
+
+<a id="claim-t-188379"></a>
+- t-003
+  teiginys: "Narbutas Baublio vardą aiškina mitologiškai ir sieja su žemaitišku buliaus balso apibūdinimu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> D. Poška: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "D. Poškos Baublys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "D. Poška: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Poškos Baublys\" parinktas kaip owner_note_path. Targetas \"D. Poška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171273
+
 ## Citatos
 
 - id: c-00228
@@ -78,8 +128,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-07520
+  pagrindzia:
+    - t-001
 
 - id: c-00229
   redaktorius: "A. Šapoka"
@@ -103,8 +153,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-07521
+  pagrindzia:
+    - t-002
 
 - id: c-171273
   autorius: "Teodoras Narbutas"
@@ -126,78 +176,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201230
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 237"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
-  citata_originali: |
-    Šis tėvynės paminklų brangintojas liepė iš trūnijusiame
-    šio ąžuolo kamiene įrengti kabinetą, turintį 7 uolekčių, 18 co­
-    lių skersmenį, kuriame dabar jis laiko retų senienų kolekciją
-    ir istorijos veikalus apie krašto praeitį. Mitologinis šio ąžuolo
-    vardas yra Baublys (Baublis); žemaičių tarmėje tai turėtų reikšti
-    buliaus balso apibūdinimą, balso, kokiu nebliauna nei karvė,
-    nei jautis14. Matyt, tai buvo vienas ąžuolų pranašautojų, iš ku­
-    rio sutrūnijusio vidaus pasigirsdavo balsas, panašus į buliaus
-    baubimą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-216269"></a>
-- t-001
-  teiginys: "Narbutas Baublio vardą aiškina mitologiškai ir sieja su žemaitišku buliaus balso apibūdinimu."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> D. Poška: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "D. Poškos Baublys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "D. Poška: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Poškos Baublys\" parinktas kaip owner_note_path. Targetas \"D. Poška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201230
-
-<a id="claim-t-07520"></a>
-- t-07520
-  teiginys: "D. Poška savo Baublyje įtaisė senienų muziejų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> D. Poška: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "D. Poškos Baublys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "D. Poška: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Poškos Baublys\" parinktas kaip owner_note_path. Targetas \"D. Poška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-00228
-
-<a id="claim-t-07521"></a>
-- t-07521
-  teiginys: "D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1812 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinį verta sušiuolaikinti ir pašalinti archajišką formą."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-00229
-
+  pagrindzia:
+    - t-003

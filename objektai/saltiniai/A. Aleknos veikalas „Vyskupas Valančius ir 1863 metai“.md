@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'A. Aleknos veikalas „Vyskupas Valančius ir 1863 metai“'
+pavadinimas: A. Aleknos veikalas „Vyskupas Valančius ir 1863 metai“
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 datos:
-  - '1863 m.'
-  - '1921 m.'
+  - 1863 m.
+  - 1921 m.
 date_start: '1863'
 date_end: '1921'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
-  - 'XX'
+  - XIX
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # A. Aleknos veikalas „Vyskupas Valančius ir 1863 metai“
 

@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kulmo žemės nusiaubimas Lokietkos kariuomenės (1329 m.)'
+pavadinimas: Kulmo žemės nusiaubimas Lokietkos kariuomenės (1329 m.)
 variantai:
-  - 'Kulmo žemės nusiaubimas Lokietkos kariuomenės'
+  - Kulmo žemės nusiaubimas Lokietkos kariuomenės
 aliases:
-  - 'Kulmo žemės nusiaubimas Lokietkos kariuomenės'
+  - Kulmo žemės nusiaubimas Lokietkos kariuomenės
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1329 m.'
+  - 1329 m.
 date_start: '1329'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kulmo žemės nusiaubimas Lokietkos kariuomenės (1329 m.)
 
@@ -63,9 +60,25 @@ Nenurodyta
     buvo sudaręs su Čekijos karaliumi ir magistru, jis su 6 tūkstančiais karių klastingai
     įsibrovė į Kulmo žemę ir ją siaubė 5 dienas ir 5 naktis, degindamas bei plėšdamas.
   statusas: verified
-  atnaujinta: "2026-09-13 11:39"
+  atnaujinta: "2026-09-13 18:01"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-220253"></a>
+- t-001
+  teiginys: "1329 m. vasario 1 d. Lokietka su 6 tūkstančiais karių įsiveržė į Kulmo žemę."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205997
 

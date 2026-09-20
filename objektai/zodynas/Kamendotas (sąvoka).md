@@ -29,6 +29,44 @@ media_all_json: |-
 
 Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų brostvių, kamendotas Baigos, arba Onedos, nenorėjo to daryti, tardamas geresniai į mūšą stoti su neprieteliais ir dūksaujant pas Dievą sau kelią skinti. Nes, besigrumiant su lietuviais, krito kamendotas įgulės, kuri, nustojusi karvedžio, pradėjo gurti, o lietuviai kuo narsesniai laužtis, ant galo įsigrūdo į pilį ir visa, kas tenai gyvu buvo, nugalavo, o pilį sudegino. Tarp vyresniųjų pilės pusė turės būti brostvių, antra pusė ūkinykų, o kamendotas konvento tiesos suole sėdėti ir spręsti ly giai su kitais pilės teisdariais galės.
 
+## Teiginiai
+
+<a id="claim-t-201183"></a>
+- t-001
+  teiginys: "Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų brostvių, kamendotas Baigos, arba Onedos, nenorėjo to daryti, tardamas geresniai į mūšą stoti su neprieteliais ir dūksaujant pas Dievą sau kelią skinti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184533
+
+<a id="claim-t-201184"></a>
+- t-002
+  teiginys: "Nes, besigrumiant su lietuviais, krito kamendotas įgulės, kuri, nustojusi karvedžio, pradėjo gurti, o lietuviai kuo narsesniai laužtis, ant galo įsigrūdo į pilį ir visa, kas tenai gyvu buvo, nugalavo, o pilį sudegino."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184534
+
+<a id="claim-t-201185"></a>
+- t-003
+  teiginys: "Tarp vyresniųjų pilės pusė turės būti brostvių, antra pusė ūkinykų, o kamendotas konvento tiesos suole sėdėti ir spręsti ly giai su kitais pilės teisdariais galės."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184535
+
 ## Citatos
 
 - id: c-184533
@@ -50,7 +88,7 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184534
@@ -75,7 +113,7 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184535
@@ -97,44 +135,5 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-201183"></a>
-- t-001
-  teiginys: "Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų brostvių, kamendotas Baigos, arba Onedos, nenorėjo to daryti, tardamas geresniai į mūšą stoti su neprieteliais ir dūksaujant pas Dievą sau kelią skinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184533
-
-<a id="claim-t-201184"></a>
-- t-002
-  teiginys: "Nes, besigrumiant su lietuviais, krito kamendotas įgulės, kuri, nustojusi karvedžio, pradėjo gurti, o lietuviai kuo narsesniai laužtis, ant galo įsigrūdo į pilį ir visa, kas tenai gyvu buvo, nugalavo, o pilį sudegino."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184534
-
-<a id="claim-t-201185"></a>
-- t-003
-  teiginys: "Tarp vyresniųjų pilės pusė turės būti brostvių, antra pusė ūkinykų, o kamendotas konvento tiesos suole sėdėti ir spręsti ly giai su kitais pilės teisdariais galės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184535
-

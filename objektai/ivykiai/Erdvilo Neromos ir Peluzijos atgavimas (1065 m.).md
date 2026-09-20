@@ -47,6 +47,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205579"></a>
+- t-001
+  teiginys: "Betgi sun ku tiksliai nustatyti to Mantvilos sumanyto, o Erdvilo surengto žygio datą, tik sprendžiant iš genealoginėje len telėje nurodytų pirmojo jų mirties metų, būtent 1070-ųjų, galima būtų tą laiką nukelti dar penkeriais metais anks čiau, tai yra į 1065."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187834
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Betgi sun ku tiksliai nustatyti to Mantvilos sumanyto, o Erdvilo surengto žygio datą, tik sprendžiant iš genealoginėje len telėje nurodytų pirmojo jų mirties metų, būtent 1070-ųjų, galima būtų tą laiką nukelti dar penkeriais metais anks čiau, tai yra į 1065.'
@@ -98,21 +113,5 @@ Betgi sun ku tiksliai nustatyti to Mantvilos sumanyto, o Erdvilo surengto žygio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205579"></a>
-- t-001
-  teiginys: "Betgi sun ku tiksliai nustatyti to Mantvilos sumanyto, o Erdvilo surengto žygio datą, tik sprendžiant iš genealoginėje len telėje nurodytų pirmojo jų mirties metų, būtent 1070-ųjų, galima būtų tą laiką nukelti dar penkeriais metais anks čiau, tai yra į 1065."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187834
-

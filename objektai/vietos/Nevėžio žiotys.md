@@ -36,6 +36,25 @@ historical_names: []
 
 Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis statydino pilį Nevėžio žiočių Vyrgalės saloje - Naująjį Kauną ir „tiltą per Nemuną“ (greičiausiai per Nemuno senvagę į salą).
 
+## Teiginiai
+
+<a id="claim-t-41975"></a>
+- t-001
+  teiginys: "Kęstutis statydino Naująjį Kauną Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Kaunas: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste nurodoma, kad Kęstutis statydino pilį, vadinamą Naujuoju Kaunu; kandidatų sąraše yra Kaunas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastatė Kaunas (0.74); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gynė Nevėžio žiotys (0.66)"
+  pagrindžia:
+    - c-45242
+
 ## Citatos
 
 - id: c-45242
@@ -59,25 +78,5 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-41975"></a>
-- t-001
-  teiginys: "Kęstutis statydino Naująjį Kauną Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Kaunas: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste nurodoma, kad Kęstutis statydino pilį, vadinamą Naujuoju Kaunu; kandidatų sąraše yra Kaunas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastatė Kaunas (0.74); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gynė Nevėžio žiotys (0.66)"
-  pagrindžia:
-    - c-45242
-

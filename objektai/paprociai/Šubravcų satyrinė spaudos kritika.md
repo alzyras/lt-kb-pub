@@ -70,9 +70,9 @@ Nenurodyta
     - c-55730
 
 <a id="claim-t-54740"></a>
-- t-54740
+- t-002
   teiginys: "Šubravcų draugijos nariai leido humoristinį laikraštį Wiadomości brukowe, kuriame aktyviai bendradarbiavo ir M. Balinskis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-27 06:43"
   sprendimo_priezastis: "gap::customs"
   ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -102,12 +102,10 @@ Nenurodyta
     lizmo išgarsino draugiją net už Lietuvos ribų.
   citata_rodoma: "Draugijos narių leidžiamas \nhumoristinis laikraštis Wiadomości brukowe (Grindinio žinios), \nkuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a. \nAnglijoje leidžiamo žurnalo Spectator tradicijas. Satyriniai kil­\nmingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­\nvos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­\nlizmo išgarsino draugiją net už Lietuvos ribų."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-54740
-
+    - t-002

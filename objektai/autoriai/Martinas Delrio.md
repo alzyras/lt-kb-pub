@@ -34,6 +34,40 @@ canonical_biography: "Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliek
 
 Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnimi priskyrė piromantijai. Martinas Delrio smogia strėle į vieną kurį kalną.
 
+## Teiginiai
+
+<a id="claim-t-190370"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnimi priskyrė piromantijai."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Strijkovskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martinas Delrio: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Strijkovskis: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martinas Delrio\" parinktas kaip owner_note_path. Targetas \"Strijkovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173253
+
+<a id="claim-t-197322"></a>
+- t-002
+  teiginys: "Martinas Delrio smogia strėle į vieną kurį kalną."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179129
+
 ## Citatos
 
 - id: c-173253
@@ -61,6 +95,8 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179129
   autorius: "Teodoras Narbutas"
@@ -81,25 +117,5 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198598
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 346"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 346."
-  citata_originali: |
-    Šia tema Vergilijus
-    taip aiškina: „Dažnai užeina audra su nepaprasta liūtimi, ūž­
-    dami krinta žemyn baisūs lietūs, kurie užlieja ir niekais paver­
-    čia žemdirbio triūsą. O pats Jupiteris viduty tamsios nakties
-    galinga dešine svaido žaibus, nuo trenksmo net žemė dreba,
-    gyvuliai bėga, žmonių širdis persmelkia nerimas, o jis smogia
-    strėle į vieną kurį kalną. Padūksta vėjai, vis stiprėja liūtis, gū­
-    džiai ošia miškas ir suūžia jūros pakrantės.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

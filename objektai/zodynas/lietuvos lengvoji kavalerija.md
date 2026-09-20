@@ -27,6 +27,20 @@ media_all_json: |-
 
 115, „LIETUVOS LENGVOJI KAVALERIJA“, Lietuvos kariuomenė svetimšalių akimis xv1- XVIII a., p. 150-151.
 
+## Teiginiai
+
+<a id="claim-t-193810"></a>
+- t-001
+  teiginys: "115, „LIETUVOS LENGVOJI KAVALERIJA“, Lietuvos kariuomenė svetimšalių akimis xv1- XVIII a., p. 150-151."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-176455
+
 ## Citatos
 
 - id: c-176455
@@ -46,20 +60,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193810"></a>
-- t-001
-  teiginys: "115, „LIETUVOS LENGVOJI KAVALERIJA“, Lietuvos kariuomenė svetimšalių akimis xv1- XVIII a., p. 150-151."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-176455
-

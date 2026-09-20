@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Kulmo pilis'
+pavadinimas: Kulmo pilis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1232 m.'
+  - 1232 m.
 date_start: '1232'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0198972dd1589f73a387d532"
-canonical_name: "Kulmo pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kulmo pilis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0198972dd1589f73a387d532
+canonical_name: Kulmo pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kulmo pilis
 sameAs: []
-canonical_biography: "Kulmo pilis pastatyta vietoje, kur dabar yra senoji pilis."
+canonical_biography: 'Kulmo pilis pastatyta vietoje, kur dabar yra senoji pilis.'
 ---
 # Kulmo pilis
 
@@ -72,6 +71,5 @@ Kulmo pilis pastatyta vietoje, kur dabar yra senoji pilis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

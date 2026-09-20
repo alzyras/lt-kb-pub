@@ -1,6 +1,6 @@
 ---
 tipas: posakis
-pavadinimas: 'pirmasis su neapdorota medžiaga dirbęs žmogus ir visas jo milži­niškas darbas dažniausiai būva pamirštas'
+pavadinimas: pirmasis su neapdorota medžiaga dirbęs žmogus ir visas jo milži­niškas darbas dažniausiai būva pamirštas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # pirmasis su neapdorota medžiaga dirbęs žmogus ir visas jo milži­niškas darbas dažniausiai būva pamirštas
 
@@ -60,6 +57,5 @@ Vadinasi, pirmasis su neapdorota medžiaga dirbęs žmogus ir visas jo milži ni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

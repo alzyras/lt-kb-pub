@@ -2,6 +2,39 @@
 @use "./variables.scss" as *;
 @use "./editorial.scss" as editorial;
 
+.content-cycle {
+  margin: 2.5rem auto;
+  padding: 1.25rem 0;
+  border-block: 1px solid var(--lightgray);
+  max-width: 76ch;
+  width: calc(100% - 2rem);
+  font-size: 0.92rem;
+  ul {
+    padding-left: 1.2rem;
+  }
+  li {
+    margin-block: 0.65rem;
+  }
+  a {
+    overflow-wrap: anywhere;
+  }
+  a[aria-current="page"] {
+    color: var(--darkgray);
+    font-weight: 700;
+  }
+}
+
+body[data-slug^="straipsniai/"]:has(.valancius-feature) {
+  .article-title {
+    overflow-wrap: break-word;
+    text-wrap: balance;
+  }
+  .valancius-feature figure img {
+    object-fit: contain;
+    max-height: 70vh;
+  }
+}
+
 // Collection-style skin.
 :root {
   --bm-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -2291,7 +2324,9 @@ html.hide-person-parentheticals .person-title-parenthetical {
 }
 
 // Long-form, source-led editorial pages.
-body[data-slug="straipsniai/puota-svecias-ir-statusas"] .page > #quartz-body {
+:is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+  .page
+  > #quartz-body {
   grid-template-areas:
     "grid-header"
     "grid-center"
@@ -2302,25 +2337,31 @@ body[data-slug="straipsniai/puota-svecias-ir-statusas"] .page > #quartz-body {
   max-width: none;
 }
 
-body[data-slug="straipsniai/puota-svecias-ir-statusas"] .left.sidebar,
-body[data-slug="straipsniai/puota-svecias-ir-statusas"] .right.sidebar {
+:is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+  .left.sidebar,
+:is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+  .right.sidebar {
   display: none !important;
 }
 
-body[data-slug="straipsniai/puota-svecias-ir-statusas"] .page-header {
+:is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+  .page-header {
   box-sizing: border-box;
   width: 100%;
   margin: 0 !important;
   padding-bottom: 1.25rem;
 }
 
-body[data-slug="straipsniai/puota-svecias-ir-statusas"] .page-header > .popover-hint {
+:is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+  .page-header
+  > .popover-hint {
   box-sizing: border-box;
   width: min(100% - 2rem, 930px);
   margin-inline: auto;
 }
 
-body[data-slug="straipsniai/puota-svecias-ir-statusas"] .article-title {
+:is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+  .article-title {
   max-width: 18ch;
   margin-top: clamp(2.2rem, 6vw, 5.6rem);
   font-size: clamp(3rem, 6.5vw, 6.6rem);
@@ -2330,14 +2371,16 @@ body[data-slug="straipsniai/puota-svecias-ir-statusas"] .article-title {
   text-wrap: balance;
 }
 
-body[data-slug="straipsniai/puota-svecias-ir-statusas"] .content-meta,
-body[data-slug="straipsniai/puota-svecias-ir-statusas"] .object-map-cta,
-body[data-slug="straipsniai/puota-svecias-ir-statusas"] .tags {
+:is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+  .content-meta,
+:is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+  .object-map-cta,
+:is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature)) .tags {
   max-width: 930px;
   margin-inline: auto;
 }
 
-body[data-slug="straipsniai/puota-svecias-ir-statusas"] .center {
+:is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature)) .center {
   display: block !important;
   grid-area: grid-center;
   grid-column: 1 / -1 !important;
@@ -2345,7 +2388,9 @@ body[data-slug="straipsniai/puota-svecias-ir-statusas"] .center {
   min-width: 0;
 }
 
-body[data-slug="straipsniai/puota-svecias-ir-statusas"] .center > .puota-feature {
+:is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+  .center
+  > .puota-feature {
   box-sizing: border-box;
   width: min(100% - 2rem, 820px);
   max-width: none;
@@ -2610,6 +2655,17 @@ body[data-slug="straipsniai"] .articles-index {
       center 44% / cover;
 }
 
+.articles-index .article-card--valancius-imperija {
+  background:
+    linear-gradient(90deg, rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.38)),
+    url("/static/media/valancius/motiejus-valancius-noel-portretas-1854.jpg") center 30% / cover;
+}
+.articles-index .article-card--valancius-kasdienybe {
+  background:
+    linear-gradient(90deg, rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.38)),
+    url("/static/media/valancius/vinkus-vitkauskas-blaivybes-medzio-raizinys-1861.jpg") center 25% / cover;
+}
+
 .articles-index .article-card strong {
   max-width: 12ch;
   color: #fff;
@@ -2638,25 +2694,33 @@ body[data-slug="straipsniai"] .articles-index {
 }
 
 @media all and (max-width: 780px) {
-  body[data-slug="straipsniai/puota-svecias-ir-statusas"] .page > #quartz-body {
+  :is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+    .page
+    > #quartz-body {
     padding: 0 !important;
   }
 
-  body[data-slug="straipsniai/puota-svecias-ir-statusas"] .page-header {
+  :is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+    .page-header {
     width: 100%;
   }
 
-  body[data-slug="straipsniai/puota-svecias-ir-statusas"] .page-header > .popover-hint {
+  :is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+    .page-header
+    > .popover-hint {
     width: min(100% - 1.5rem, 930px);
   }
 
-  body[data-slug="straipsniai/puota-svecias-ir-statusas"] .article-title {
+  :is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+    .article-title {
     margin-top: 2.4rem;
     font-size: clamp(2.6rem, 11vw, 4.3rem);
     line-height: 0.92;
   }
 
-  body[data-slug="straipsniai/puota-svecias-ir-statusas"] .center > .puota-feature {
+  :is(body[data-slug="straipsniai/puota-svecias-ir-statusas"], body:has(.valancius-feature))
+    .center
+    > .puota-feature {
     width: min(100% - 1.5rem, 820px);
     padding-top: 1.5rem;
   }

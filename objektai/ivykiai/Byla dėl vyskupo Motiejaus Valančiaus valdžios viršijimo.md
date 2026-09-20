@@ -1,8 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Byla dėl vyskupo Motiejaus Valančiaus valdžios viršijimo'
+pavadinimas: Byla dėl vyskupo Motiejaus Valančiaus valdžios viršijimo
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Byla dėl vyskupo Motiejaus Valančiaus valdžios viršijimo
 
@@ -35,20 +32,6 @@ Nenurodyta
 
 ## Rezultatas
 Nenurodyta
-
-## Teiginiai
-
-<a id="claim-t-208752"></a>
-- t-001
-  teiginys: "1867-01-19 Kauno gubernatorius Obolenskis, Vilniaus generalgubernatoriaus A. Baranovo įsakymu, iškėlė vysk. M. Valančiui bylą už savo valdžios viršijimą."
-  atnaujinta: "2026-09-13 13:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191372
 
 ## Santrauka
 
@@ -80,6 +63,19 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
+## Teiginiai
+
+<a id="claim-t-208752"></a>
+- t-001
+  teiginys: "1867-01-19 Kauno gubernatorius Obolenskis, Vilniaus generalgubernatoriaus A. Baranovo įsakymu, iškėlė vysk. M. Valančiui bylą už savo valdžios viršijimą."
+  atnaujinta: "2026-09-13 13:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191372
 

@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Ladogos ežeras'
+pavadinimas: Ladogos ežeras
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4cc841f724a9644c4a24f1de"
-canonical_name: "Ladogos ežeras"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ladogos ežeras"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4cc841f724a9644c4a24f1de
+canonical_name: Ladogos ežeras
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ladogos ežeras
 sameAs: []
-canonical_biography: "Gal senų seniausiais laikais skandinavai kitu keliu iš Baltijos jūros patekdavo į Nevo-s upę ir Ladogos ežerą, o iš ten — pas Pailmenės slavus, kurie iš Britanijos ir Es tijos atgabentas prekes sugebėdavo pergabenti į pietus Volgos, Dono ir Dnepro upėmis."
+canonical_biography: 'Gal senų seniausiais laikais skandinavai kitu keliu iš Baltijos jūros patekdavo į Nevo-s upę ir Ladogos ežerą, o iš ten — pas Pailmenės slavus, kurie iš Britanijos ir Es tijos atgabentas prekes sugebėdavo pergabenti į pietus Volgos, Dono ir Dnepro upėmis.'
 ---
 # Ladogos ežeras
 
@@ -68,6 +67,5 @@ Gal senų seniausiais laikais skandinavai kitu keliu iš Baltijos jūros patekda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

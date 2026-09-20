@@ -1,13 +1,13 @@
 ---
 tipas: saltinis
-pavadinimas: 'Simono Grunau kronika'
+pavadinimas: Simono Grunau kronika
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1500 m.'
-  - '1699 m.'
+  - 1500 m.
+  - 1699 m.
 date_start: '1500'
 date_end: '1699'
 sukurta: ''
@@ -15,20 +15,30 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XV'
-  - 'XVII'
+  - XV
+  - XVII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T13:58:05+00:00","source_checked_at":"2026-09-19T13:58:05+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"e800f87d87eb1405832cbdd2","canonical_code":"source.authorship","label":"Autorystė","group":"Šaltinio bruožai","value":"Simonas Grunau","context":"Šaltinis įvardijamas kaip Simono Grunau kronika.","support_ids":["t-23409","c-175825","t-207566","c-190183"],"source_refs":[{"kind":"internal_claim","claim_id":"t-23409","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-207566","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-175825","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Atsikirsdami kritikams romantikai pasitelkdavo XVI–XVII a. Prū- sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die- vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus. Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų ir griausmų dievas, o trečiasis – javų dievas Patrimpas. Aprašomas šių dievų kultas ir kulto tarnų hierarchija, vaidilutės."},{"kind":"evidence","evidence_id":"c-190183","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"rsdami romantikai pasitelkdavo XVI–XVII a. Prūsijos šaltinius, kuriuose kro- nikininkai tiesiai kalbėjo apie prūsų dievus. Plačiausiai apie prūsų dievų panteoną papa- sakota Simono Grunau kronikoje. Pasak"}],"status":"published","conflict_status":"clear"},{"trait_id":"3f7bbca5bb7430a69cd4af99","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Kronika","context":"Šaltinis tiesiogiai įvardijamas kaip kronika.","support_ids":["t-23409","c-175825","t-207566","c-190183"],"source_refs":[{"kind":"internal_claim","claim_id":"t-23409","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-207566","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-175825","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Atsikirsdami kritikams romantikai pasitelkdavo XVI–XVII a. Prū- sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die- vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus. Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų ir griausmų dievas, o trečiasis – javų dievas Patrimpas. Aprašomas šių dievų kultas ir kulto tarnų hierarchija, vaidilutės."},{"kind":"evidence","evidence_id":"c-190183","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"rsdami romantikai pasitelkdavo XVI–XVII a. Prūsijos šaltinius, kuriuose kro- nikininkai tiesiai kalbėjo apie prūsų dievus. Plačiausiai apie prūsų dievų panteoną papa- sakota Simono Grunau kronikoje. Pasak"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Simono Grunau kronika – istorijos šaltinis, kuriame pasakojama apie Rikojotą, prūsų dievų kulto centrą. Ši vietovė apibūdinama kaip erdvė, kurioje augo žiemą ir vasarą žaliuojantis ąžuolas, o po juo buvo įsikūrusi prūsų dievų šventykla. Šventykla vaizduojama papuošta trimis stabais, susijusiais su trimis prūsų dievais: Pakulu, Perkūnu ir Patrimpu. Kronikoje taip pat aprašomas šių dievų kultas, kulto tarnų hierarchija ir vaidilutės, todėl Rikojotas pateikiamas ne vien kaip konkreti vietovė, bet ir kaip religinės tvarkos bei apeigų centras. Išskirtinę šio pasakojimo detalę sudaro amžinai žaliuojantis ąžuolas, po kuriuo esanti šventykla tampa viso kulto vaizdinio ašimi.","sentences":[{"sentence_id":"s1","text":"Simono Grunau kronika – istorijos šaltinis, kuriame pasakojama apie Rikojotą, prūsų dievų kulto centrą.","support_ids":["t-23411","c-175825"]},{"sentence_id":"s2","text":"Ši vietovė apibūdinama kaip erdvė, kurioje augo žiemą ir vasarą žaliuojantis ąžuolas, o po juo buvo įsikūrusi prūsų dievų šventykla.","support_ids":["t-23412","c-175825"]},{"sentence_id":"s3","text":"Šventykla vaizduojama papuošta trimis stabais, susijusiais su trimis prūsų dievais: Pakulu, Perkūnu ir Patrimpu.","support_ids":["t-23409","c-175825"]},{"sentence_id":"s4","text":"Kronikoje taip pat aprašomas šių dievų kultas, kulto tarnų hierarchija ir vaidilutės, todėl Rikojotas pateikiamas kaip religinės tvarkos bei apeigų centras.","support_ids":["t-23409","t-23411","c-175825"]},{"sentence_id":"s5","text":"Išskirtinę šio pasakojimo detalę sudaro amžinai žaliuojantis ąžuolas, po kuriuo esanti šventykla tampa viso kulto vaizdinio ašimi.","support_ids":["t-23412","c-175825"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniu: Rikojotas įvardijamas kaip prūsų dievų kulto centras Simono Grunau kronikoje."},{"sentence_id":"s2","supported":true,"reason":"Šaltinyje tiesiogiai aprašomas žiemą ir vasarą žaliuojantis ąžuolas bei po juo įsikūrusi šventykla."},{"sentence_id":"s3","supported":true,"reason":"Šaltinyje tiesiogiai nurodoma, kad šventykla papuošta trimis stabais, vaizduojančiais Pakulą, Perkūną ir Patrimpą."},{"sentence_id":"s4","supported":false,"reason":"Kultas, kulto tarnų hierarchija ir vaidilutės šaltinyje minimi, tačiau išvada, kad Rikojotas yra religinės tvarkos bei apeigų centras, nėra tiesiogiai paremta."},{"sentence_id":"s5","supported":false,"reason":"Ąžuolas ir po juo esanti šventykla aprašomi tiesiogiai, tačiau teiginiai apie išskirtinumą ir vaizdinio ašį yra interpretaciniai, o ne tiesiogiai paremti."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-23411","c-175825"]},{"sentence_id":"s2","supported":true,"support_ids":["t-23412","c-175825"]},{"sentence_id":"s3","supported":true,"support_ids":["t-23409","c-175825"]},{"sentence_id":"s4","supported":true,"support_ids":["t-23409","t-23411","c-175825"]},{"sentence_id":"s5","supported":true,"support_ids":["t-23412","c-175825"]}],"verifier":"gpt-5.6-luna"},"quality":63,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":4,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 131e5a7c690029b0
+object_page_generated_at: '2026-09-19T13:58:05+00:00'
+object_page_source_checked_at: '2026-09-19T13:58:05+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '2'
+object_page_seo_description: 'Simono Grunau kronika – istorijos šaltinis, kuriame pasakojama apie Rikojotą, prūsų dievų kulto centrą. Ši vietovė apibūdinama kaip erdvė, kurioje augo žiemą…'
+object_page_seo_input_hash: 08b136a2853c433d0473e264a9b368f33d1133eb7bb1564362c478ce8a593e0d
+object_page_seo_generated_at: '2026-09-19T13:58:05+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Simono Grunau kronika
 
@@ -44,58 +54,10 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 
 ## Teiginiai
 
-<a id="claim-t-219842"></a>
-- t-219842
-  teiginys: "Simono Grunau antrajame traktate pateikiamos žinios apie Romovės įkūrimą ir krivio buvimą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199760
-
-<a id="claim-t-217997"></a>
-- t-217997
-  teiginys: "Atsakant į tai, reikia atkreipti kritiko dėmesį, kad tie vardai kronikose iš dalies rašomi ne tiksliai, kadangi šiaip jau žinomiBrutenes (Brutenis) ir Wejdawutis (Vaidevutis) tame būryje turi tokias pat vardų galūnes."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199211
-
-<a id="claim-t-223331"></a>
-- t-223331
-  teiginys: "Žymiai išsamiau jis ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas XVII a."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204286
-
-<a id="claim-t-225614"></a>
-- t-225614
-  teiginys: "Simonas Grunau XVI a. 3-iajame dešimtmetyje parašė Prūsijos istoriją, kurioje plačiai rėmėsi Petru iš Dusburgo."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata tiesiogiai pagrindžia konkretesnį teiginį apie Simono Grunau kroniką."
-  susije_objektai: "mentioned_author: [[objektai/autoriai/K. Hartknochas|K. Hartknochas]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]; mentioned_place: Prūsija; llm_object: Prūsija"
-  temporaliniai_duomenys: "įvykio data: iki 1529 m.; įvykio data: po 1521 m.; įvykio data: 1521 m.; įvykio data: 1529 m.; įvykio data: 1679 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia konkretesnį teiginį apie Simono Grunau kroniką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
 <a id="claim-t-23409"></a>
-- t-23409
+- t-001
   teiginys: "Simono Grunau kronikoje Rikojoto šventykla aprašoma kaip papuošta trimis stabais, vaizduojančiais tris prūsų dievus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie Simono Grunau kronikos turinį."
   susije_objektai: "mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]"
@@ -104,9 +66,9 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     - c-175825
 
 <a id="claim-t-23411"></a>
-- t-23411
+- t-002
   teiginys: "Simono Grunau kronikoje Rikojotas apibūdinamas kaip prūsų dievų kulto centras."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
@@ -114,9 +76,9 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     - c-175825
 
 <a id="claim-t-23412"></a>
-- t-23412
+- t-003
   teiginys: "Simono Grunau kronikoje Rikojotas vadinamas prūsų dievų kulto centru su ąžuolu ir po juo įsikūrusia šventykla."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
@@ -124,9 +86,9 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     - c-175825
 
 <a id="claim-t-26928"></a>
-- t-26928
+- t-004
   teiginys: "Romantikai rėmėsi XVI-XVII a. Prūsijos šaltiniais, kuriuose kronikininkai kalbėjo apie prūsų dievus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pradinis teiginys buvo fragmentas; citata leidžia sudaryti pilną sakinį."
   susije_objektai: "mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsija; mentioned_place: Prūsų žemė"
@@ -134,48 +96,62 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   pagrindžia:
     - c-175825
 
-<a id="claim-t-207566"></a>
-- t-207566
-  teiginys: "Simono Grunau kronika apibūdinama kaip plačiausiai pasakojanti apie prūsų dievų panteoną."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-193060"></a>
+- t-005
+  teiginys: "Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui."
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190183
-
-<a id="claim-t-207568"></a>
-- t-207568
-  teiginys: "Simono Grunau kronikoje nurodoma, kad Simonas Grunau pirmasis pavartojo terminą „krivių krivaitis“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190185
-
-<a id="claim-t-216893"></a>
-- t-216893
-  teiginys: "Narbutas Simoną Grunau vadina suniekintu, bet didesnės pagarbos vertu kronikininku, nors pripažįsta jo šališkumą ir nekritiškumą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumas: "gyveno -> Prūsija: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simono Grunau kronika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simono Grunau kronika\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Simonas Grunau: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata lokalizuoja Simono Grunau veiklą Prūsijoje; tai pakankamai palaiko gyvenimo ar buvimo vietos ryšį."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: iki 1529 m.; gyvenimo laikotarpis: po 1521 m.; gyvenimo laikotarpis: 1521 m.; gyvenimo laikotarpis: 1529 m.; gyvenimo laikotarpis: 1679 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Simonas Grunau gyveno Prūsija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Mitologinis apeigos pasakojimas suformuluotas kaip Narbuto perteikta Grunau žinia. Nepridėta platesnių išvadų apie lietuvių religiją ar išpažinties tikrumą."
+  pagrindžia:
+    - c-175827
+
+<a id="claim-t-193061"></a>
+- t-006
+  teiginys: "Simonas Grunau XVI a. 3-iajame dešimtmetyje parašė Prūsijos istoriją, kurioje plačiai rėmėsi Petru iš Dusburgo."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata tiesiogiai pagrindžia konkretesnį teiginį apie Simono Grunau kroniką."
+  susije_objektai: "mentioned_author: [[objektai/autoriai/K. Hartknochas|K. Hartknochas]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]; mentioned_place: Prūsija; llm_object: Prūsija"
+  temporaliniai_duomenys: "įvykio data: iki 1529 m.; įvykio data: po 1521 m.; įvykio data: 1521 m.; įvykio data: 1529 m.; įvykio data: 1679 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia konkretesnį teiginį apie Simono Grunau kroniką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-175828
+
+<a id="claim-t-197027"></a>
+- t-007
+  teiginys: "Žymiai išsamiau jis ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas XVII a."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-179009
+
+<a id="claim-t-197355"></a>
+- t-008
+  teiginys: "Atsakant į tai, reikia atkreipti kritiko dėmesį, kad tie vardai kronikose iš dalies rašomi ne tiksliai, kadangi šiaip jau žinomiBrutenes (Brutenis) ir Wejdawutis (Vaidevutis) tame būryje turi tokias pat vardų galūnes."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-199211
-    - c-199760
+    - c-175826
 
 ## Reikšmingi paminėjimai
 - c-005
@@ -222,11 +198,11 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-23409
-    - t-23411
-    - t-23412
-    - t-26928
+  pagrindzia:
+    - t-001
+    - t-002
+    - t-003
+    - t-004
 
 - id: c-175826
   autorius: "Teodoras Narbutas"
@@ -260,6 +236,8 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 - id: c-175827
   autorius: "Teodoras Narbutas"
@@ -279,6 +257,8 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-175828
   autorius: "Petras Dusburgietis"
@@ -298,6 +278,8 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-179009
   autorius: "Petras Dusburgietis"
@@ -316,122 +298,5 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-190183
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 100"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 100."
-  citata_originali: |
-    Atsikirsdami romantikai pasitelkdavo XVI–XVII a. Prūsijos šaltinius, kuriuose kro-
-    nikininkai tiesiai kalbėjo apie prūsų dievus. Plačiausiai apie prūsų dievų panteoną papa-
-    sakota Simono Grunau kronikoje. Pasak jo, prūsų dievų kulto centras – Rikojoto vietovė,
-  citata_rodoma: "rsdami romantikai pasitelkdavo XVI–XVII a. Prūsijos šaltinius, kuriuose kro-\nnikininkai tiesiai kalbėjo apie prūsų dievus. Plačiausiai apie prūsų dievų panteoną papa-\nsakota Simono Grunau kronikoje. Pasak"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207566
-
-- id: c-190185
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 102"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 102."
-  citata_originali: |
-    Svarbiausias iš jų Patulas – požemio die-
-    vas, antrasis – Perkūnas – žaibų ir griausmų dievas, o trečiasis – javų dievas Patrimpas.
-    Aprašomas jų kultas ir kulto tarnų hierarchija. Grunau pirmasis pavartojo krivių krivaičio
-    terminą.
-  citata_rodoma: "Grunau pirmasis pavartojo krivių krivaičio \nterminą."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207568
-
-- id: c-199211
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 433"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 433."
-  citata_originali: |
-    O kas gi buvo
-    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
-    tuva kilties ir vienos genties broliai? Labiausiai kritikui nepa­
-    tiko, kad didžioji vardų dalis baigiasi raide o; tokių prūsiškų,
-    šiaip jau žinomų vardų esą maža. Atsakant į tai, reikia atkreipti
-    kritiko dėmesį, kad tie vardai kronikose iš dalies rašomi ne­
-    tiksliai, kadangi šiaip jau žinomiBrutenes (Brutenis) ir Wejda-
-    wutis (Vaidevutis) tame būryje turi tokias pat vardų galūnes.
-    Tačiau pats kritikas negali užginčyti, kad buvo vardų ir su to­
-    kia galūne; tegu pamąsto apie tokį atvejį, jog tų žmonių būry­
-    je daugiausia buvo turinčių tas nelaimingas galūnes, kurios
-    padarė, kad autorius pats susilpnina ir vienu plunksnos brūkš­
-    niu padaro abejotinus savo principinius teiginius, taip stropiai
-    pateiktus anksčiau toje pačioje istorijoje, ir vyriausiojo žynio
-    buvimo įrodymus, nukreiptus prieš priešingų hipotezių kėlė­
-    jus, - įrodymus, tokius tvirtus, aiškius ir akivaizdžius, kiek tik
-    leidžia pagalbinės istorijos mokslo priemonės, - pasitelkda­
-    mas hipotezes jiems visiškai sugriauti ir dar hipotezes, pasi­
-    skolintas iš Hartknocho, kuris nerūpestingai prikaišiojo jų į
-    savo Prūsijos istorijos aprašymus ' ir šiandien tikrai atšauktų,
-    jeigu perskaitytų, ką mes čia tuo klausimu išdėstėme.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216893
-    - t-217997
-
-- id: c-199760
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 415"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
-  citata_originali: |
-    Abu šie kronikinin­
-    kai - Lukas Davidas (kn. I. - P. 16,53-54) ir Simonas Grunau
-    (traktatas II. - Skyrius 1. - Skirsnis 4) - aiškiai įtikina, kad jų
-    žinios apie Romovės įkūrimą ir krivio buvimą remiasi pirmo­
-    jo Prūsijos vyskupo Kristijono kronika.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216893
-    - t-219842
-
-- id: c-204286
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 20"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
-  citata_originali: |
-    Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
-    variantas. Moksliškai šį veikalą tyrinėti XIX a. 3-ame dešimtmetyje ėmėsi J. Foigtas83. M.
-    Tepenas, apžvelgdamas Prūsijos istoriografiją, nemaža dėmesio skyrė ir Dusburgiečiui84.
-    Žymiai išsamiau jis ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum
-    Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas
-    XVII a.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223331
-
+  pagrindzia:
+    - t-007

@@ -36,6 +36,24 @@ Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`,
 
 - Dalies formų tiksli šiuolaikinė atitiktis ne iki galo aiški, bet hierarchija ir pareiginis pobūdis akivaizdūs.
 
+## Teiginiai
+
+<a id="claim-t-07727"></a>
+- t-001
+  teiginys: "Senovės kariuomenėje buvo keli vadovybės rangai nuo dešimtininko iki aukščiausio vadovo."
+  atnaujinta: "2026-05-20 21:56"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "karinės vadovybės rangai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karinės vadovybės rangai\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09648
+
 ## Citatos
 
 - id: c-09648
@@ -51,20 +69,5 @@ Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-209948"></a>
-- t-001
-  teiginys: "Senovės kariuomenėje buvo keli vadovybės rangai nuo dešimtininko iki aukščiausio vadovo."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "karinės vadovybės rangai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karinės vadovybės rangai\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
+  pagrindzia:
+    - t-001

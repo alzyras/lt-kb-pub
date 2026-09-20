@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Dnepras'
+pavadinimas: Dnepras
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1540 m.'
+  - 1540 m.
 date_start: '1540'
 date_end: ''
 sukurta: ''
@@ -16,28 +16,40 @@ tags:
   - kraštas
   - vieta
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-afe89b8c64dd6e8f78e0a1cc"
-canonical_name: "Dnepras"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Dnepras"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-afe89b8c64dd6e8f78e0a1cc
+canonical_name: Dnepras
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Dnepras
 sameAs: []
-canonical_biography: "Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų. Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais. Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono."
+canonical_biography: 'Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų. Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais. Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T05:02:08+00:00","source_checked_at":"2026-09-19T05:02:08+00:00","counts":{"relations":11,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Agatirai","claim_id":"t-212289","confidence":0.82},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Budinai","claim_id":"t-215514","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Gelonai","claim_id":"t-212926","confidence":0.86},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Graikai","claim_id":"t-213341","confidence":0.7},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Kujavai","claim_id":"t-213146","confidence":0.76},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Roksolanai","claim_id":"t-215843","confidence":0.78},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Sarmatai","claim_id":"t-213576","confidence":0.7},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Hiriai","claim_id":"t-214600","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Slavai","claim_id":"t-214220","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Gerų kraštas","claim_id":"t-212683","confidence":0.63},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Julijonas","claim_id":"t-215743","confidence":0.76}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 90644a9da08af7b6
+object_page_generated_at: '2026-09-19T05:02:08+00:00'
+object_page_source_checked_at: '2026-09-19T05:02:08+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Dnepras: Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų. Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę…'
+object_page_seo_input_hash: 915e5886ed7e67a14489a3434228240ef1f797acb8e762e6f691e3fe2e50128d
+object_page_seo_generated_at: '2026-09-19T05:02:08+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Dnepras
 
@@ -47,145 +59,70 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 
 ## Teiginiai
 
-<a id="claim-t-206462"></a>
-- t-017
-  teiginys: "Pasak Teodoro Narbuto, viena orda užvaldė Dnepro žemupį ir pradėjo skverbtis į Krymą."
-  atnaujinta: "2026-08-16 22:50"
+<a id="claim-t-185236"></a>
+- t-001
+  teiginys: "Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189077
-
-<a id="claim-t-207917"></a>
-- t-207917
-  teiginys: "Maskvos valstybės siena vakaruose pasiekė Dnepro upę."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190390
-
-<a id="claim-t-211337"></a>
-- t-211337
-  teiginys: "Smolensko maršalas Petrikas buvo nuskandintas Dnepre."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193390
-
-<a id="claim-t-212732"></a>
-- t-212732
-  teiginys: "Svajonė apie šį susijungimą, kaip gana taikliai spėja Krugas savo veikale apie rusų monetas, atsirado iš pa davimo apie slavų keliones iš Variagų jūros į Dneprą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194762
-
-<a id="claim-t-212785"></a>
-- t-212785
-  teiginys: "Šiandien ji vadinama Pečeros kalva, kuri stūk so čia pat prie Dnepro, be užutekių, graži ir patogi."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194475
-
-<a id="claim-t-215536"></a>
-- t-215536
-  teiginys: "Pelazgai laikui bėgant tapo didžiule tauta.1, laibai pla čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse, pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir Dono."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195904
-
-<a id="claim-t-215920"></a>
-- t-215920
-  teiginys: "Narbutas teigia, kad kimbrai buvo įsikūrę prie Dnepro ir turėjo kolonijų Juodosios jūros vakarinėje pakrantėje."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196061
-
-<a id="claim-t-212093"></a>
-- t-212093
-  teiginys: "Narbutas rašė, kad daugiausia Baltarusijos pilkapių buvo Dnepro vidurupyje nuo Sklovo apylinkių iki Pripetės žiočių."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Pripetė: 0.85"
+  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Dnepras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pripetė: mention_match, place, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepras\" parinktas kaip owner_note_path. Targetas \"Pripetė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepras\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168597
 
-<a id="claim-t-212829"></a>
-- t-212829
-  teiginys: "Narbutas pasakoja, kad Herodotui Padneprės graikų kolonistai sakę, jog gintaras juos pasiekdavęs iš šiaurės vakarų jūros."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-188686"></a>
+- t-002
+  teiginys: "Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
+  ryšio_patikimumas: "susije_su -> Mogiliovas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dnepras: owner_note_path, place"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepras\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  ryšio_subjekto_parinkimas: "Dnepras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Mogiliovas: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepras\" parinktas kaip owner_note_path. Targetas \"Mogiliovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-194670
+    - c-171575
 
-<a id="claim-t-213743"></a>
-- t-213743
-  teiginys: "Iš čia, tęsdami kelionę į vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos vakarine Dnepro šaka1, Pentikapo upe, kurios vandens baseinas jungėsi su Nemuno sistema (.21)."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-192641"></a>
+- t-003
+  teiginys: "Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono."
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Dnepras: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pelazgai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pelazgų pasklidimas pakrantėse iki Dnepro tiesiogiai sieja jų gyvenamą ar paplitimo erdvę su Dnepru."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Pelazgai gyveno Dnepras (0.68); Pelazgai gyveno Donas (0.68)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-196180
+    - c-175411
 
-<a id="claim-t-214617"></a>
-- t-214617
+<a id="claim-t-192642"></a>
+- t-004
   teiginys: "Narbutas teigė, kad 1540 m. pr. Kr. skitams priklausė Dnepro žiotys ir Tauridė."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -203,24 +140,53 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   temporalinis_llm_pakomentavimas: "Chronologinis teiginys apie skitus paliktas su Narbuto atribucija. Sąmoningai praleistas vertinimas apie jų gausumą ir galią."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-195273
+    - c-175412
 
-<a id="claim-t-214832"></a>
-- t-214832
-  teiginys: "Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti palei senas Rusijos sienas su Lietuvos valstybe, de šiniojoje driekiasi už Borisovo."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-192643"></a>
+- t-005
+  teiginys: "Narbutas chionitus laikė Padneprės emporiumų graikų kolonistais, gyvenusiais dešiniajame Dnepro krante ties Kijevu."
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Dnepras: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Graikai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Chionitai apibūdinti kaip graikų kolonistai, gyvenę Dnepro dešiniajame krante; kandidatų sąraše nėra chionitų, todėl ryšys vedamas su graikais vidutiniu tikrumu."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Graikai gyveno Dnepras (0.70)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-197587
+    - c-175413
 
-<a id="claim-t-215051"></a>
-- t-215051
+<a id="claim-t-192644"></a>
+- t-006
+  teiginys: "Narbutas pasakoja, kad Herodotui Padneprės graikų kolonistai sakę, jog gintaras juos pasiekdavęs iš šiaurės vakarų jūros."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dnepras: owner_note_path, place"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepras\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175414
+
+<a id="claim-t-192645"></a>
+- t-007
   teiginys: "Narbutas aiškino, kad gelonų-budinų nepasiekė nuo Dnestro plūdusios skitams priešiškos tautos, nes jos neprasiskverbė į kairįjį Dnepro krantą."
-  atnaujinta: "2026-09-13 18:13"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -235,93 +201,12 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-194448
+    - c-175415
 
-<a id="claim-t-215157"></a>
-- t-215157
-  teiginys: "Tačiau ži noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama Chue, Chunnigard-, ji priklausė minėtai tautai."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195941
-
-<a id="claim-t-205162"></a>
-- t-205162
-  teiginys: "Narbutas teigia, kad VI amžiaus pradžioje Baltijos jūros pakrančių prekės pasiekdavo Dneprą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
-  pagrindžia:
-    - c-187687
-
-<a id="claim-t-206463"></a>
-- t-206463
-  teiginys: "Algirdas patraukė į Dnepro žemupį, o iš Podolės išvyti totoriai atsitraukė į kairįjį Dnepro krantą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189078
-
-<a id="claim-t-210491"></a>
-- t-210491
-  teiginys: "Vietiniai kairiosios Dnepro pakrantės prie Ki jevo stebėjimai rodo, kad ten judėjo žemės dėl drebėjimo arba vidinės priežasties."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-214455"></a>
-- t-214455
-  teiginys: "Tų įdubų juos tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa grindinės upės vandens lygis buvo gerokai aukštesnis, tekėdavo visais metų laikais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-214499"></a>
-- t-214499
-  teiginys: "Iš to darau išvadą, jog Gerų kraštas plytėjo abie jose Dnepro pakrantėse, kur viename plote sukaupta ga na daug pilkapių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196127
-
-<a id="claim-t-215289"></a>
-- t-215289
-  teiginys: "Iš to darau išvadą, jog Gerų kraštas plytėjo abie jose Dnepro pakrantėse, kur viename plote sukaupta ga na daug pilkapių, panašių į šen bei ten išmėtytus kapi nynus, šio krašto vidurys yra Rogačiovas, kurio apylin kėse esama gausiausių pilkapių rinkinių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196127
-
-<a id="claim-t-215857"></a>
-- t-215857
+<a id="claim-t-192646"></a>
+- t-008
   teiginys: "Narbutas kairiąją Dnepro pakrantę apibūdino kaip platų pavasario potvynių užliejamą slėnį su vasarą išdžiūstančiais ežerais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -336,12 +221,12 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-196127
+    - c-175416
 
-<a id="claim-t-215935"></a>
-- t-215935
+<a id="claim-t-192647"></a>
+- t-009
   teiginys: "Narbutas rašė, kad senoji kairioji Dnepro šaka driekėsi nuo Beržūnos iki Desnos žiočių, o prie Kijevo buvo įlankų ir gilių ežerėlių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -355,6 +240,126 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepras\" parinktas kaip owner_note_path. Targetas \"Beržūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175417
+
+<a id="claim-t-192649"></a>
+- t-010
+  teiginys: "Narbutas rašė, kad daugiausia Baltarusijos pilkapių buvo Dnepro vidurupyje nuo Sklovo apylinkių iki Pripetės žiočių."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Pripetė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dnepras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pripetė: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepras\" parinktas kaip owner_note_path. Targetas \"Pripetė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175419
+
+<a id="claim-t-197865"></a>
+- t-011
+  teiginys: "Tačiau ži noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama Chue, Chunnigard-, ji priklausė minėtai tautai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179370
+
+<a id="claim-t-197866"></a>
+- t-012
+  teiginys: "Iš čia, tęsdami kelionę į vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos vakarine Dnepro šaka1, Pentikapo upe, kurios vandens baseinas jungėsi su Nemuno sistema (.21)."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179371
+
+<a id="claim-t-197867"></a>
+- t-013
+  teiginys: "Iš to darau išvadą, jog Gerų kraštas plytėjo abie jose Dnepro pakrantėse, kur viename plote sukaupta ga na daug pilkapių, panašių į šen bei ten išmėtytus kapi nynus, šio krašto vidurys yra Rogačiovas, kurio apylin kėse esama gausiausių pilkapių rinkinių."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-175416
+
+<a id="claim-t-197868"></a>
+- t-014
+  teiginys: "Tų įdubų juos tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa grindinės upės vandens lygis buvo gerokai aukštesnis, tekėdavo visais metų laikais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-175417
+
+<a id="claim-t-197869"></a>
+- t-015
+  teiginys: "Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti palei senas Rusijos sienas su Lietuvos valstybe, de šiniojoje driekiasi už Borisovo."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179372
+
+<a id="claim-t-205162"></a>
+- t-016
+  teiginys: "Narbutas teigia, kad VI amžiaus pradžioje Baltijos jūros pakrančių prekės pasiekdavo Dneprą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-187687
+
+<a id="claim-t-206462"></a>
+- t-017
+  teiginys: "Pasak Teodoro Narbuto, viena orda užvaldė Dnepro žemupį ir pradėjo skverbtis į Krymą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189077
+
+<a id="claim-t-206463"></a>
+- t-018
+  teiginys: "Algirdas patraukė į Dnepro žemupį, o iš Podolės išvyti totoriai atsitraukė į kairįjį Dnepro krantą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189078
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -483,6 +488,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-171575
   autorius: "Teodoras Narbutas"
@@ -503,6 +510,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-175411
   autorius: "Teodoras Narbutas"
@@ -524,6 +533,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-175412
   autorius: "Teodoras Narbutas"
@@ -543,6 +554,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-175413
   autorius: "Teodoras Narbutas"
@@ -567,6 +580,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-175414
   autorius: "Teodoras Narbutas"
@@ -587,6 +602,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-175415
   autorius: "Teodoras Narbutas"
@@ -612,6 +629,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-175416
   autorius: "Teodoras Narbutas"
@@ -640,6 +659,9 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+    - t-013
 
 - id: c-175417
   autorius: "Teodoras Narbutas"
@@ -672,6 +694,9 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+    - t-014
 
 - id: c-175419
   autorius: "Teodoras Narbutas"
@@ -701,6 +726,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-179370
   autorius: "Teodoras Narbutas"
@@ -721,6 +748,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-179371
   autorius: "Teodoras Narbutas"
@@ -741,6 +770,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 - id: c-179372
   autorius: "Teodoras Narbutas"
@@ -766,6 +797,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
 
 - id: c-187687
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -786,8 +819,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205162
+  pagrindzia:
+    - t-016
 
 - id: c-189077
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -797,12 +830,11 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     Viena tokia orda užvaldė Dnepro žemupį ir ėmė brau­
     tis į Krymą.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-189078
@@ -818,326 +850,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206463
-
-- id: c-190390
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 160"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 160."
-  citata_originali: |
-    B
-    a
-    j
-    o
-    r
-    i
-    š
-    k
-    o
-    j
-    o
-    p
-    a
-    s
-    a
-    u
-    l
-    i
-    o
-    p
-    r
-    o
-    f
-    i
-    l
-    i
-    a
-    i
-    krančių žemės. Maskvos valstybės siena vakaruose pasiekė Dnepro upę. Tuo pat metu
-    pietrytines ir pietines sąjungininkės Lenkijos karalystės, kaip ir Lietuvos Didžiosios
-    Kunigaikštystės, sritis niokojo totoriai, stiprėjo turkų grėsmė.
-  citata_rodoma: "Maskvos valstybės siena vakaruose pasiekė Dnepro upę."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207917
-
-- id: c-193390
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 127"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 127."
-  citata_originali: |
-    Paskui Smolenske kilo didelis maištas, smolenskie-
-    čiai sučiupo Smolensko maršalą Petriką 5 ir nuskandino
-    Dnepre
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211337
-
-- id: c-194448
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 201"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 201."
-  citata_originali: |
-    Taigi protėvius tau­
-    tos, kurios istoriją nagrinėjame, toliau tyrinėti pradėsime
-    nuo jų išėjimo iš Skitijos, buvusios prie Dono.
-    206
-    Kalbėdami apie didžiosios, arba karalių valdomos, Ski­
-    tijos nykimą, minėjome tai lėmusias priežastis, kurios tar­
-    si neturėjo įtakos gelonų-budinų tautai, nes nuo Dnestro
-    plūdusios skitams priešiškos tautos neprasiskverbė j kai­
-    riosios Dnepro pakrantės gilumą. Taip pat ir sarmatų slin­
-    kimas nuo Dono žemupio Dnepro link nągalėjo trikdyti
-    ramybės tos tautos, kuri nuo seno gyveno su jais kaimy­
-    nystėje; svarbiausi sarmatų žygiai buvo nukreipti tiesiai į
-    Uždneprės šalį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215051
-
-- id: c-194475
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 375"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
-  citata_originali: |
-    Šiandien ji vadinama Pečeros kalva, kuri stūk­
-    so čia pat prie Dnepro, be užutekių, graži ir patogi
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212785
-
-- id: c-194670
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 150"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
-  citata_originali: |
-    Priartinus mūsų tyrimus prie
-    geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
-    tėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi
-    apie gintaringas vietas; boristeniečiai, ariba Padneprės
-    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
-    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
-    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
-    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212829
-
-- id: c-194762
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 333"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 333."
-  citata_originali: |
-    Svajonė apie šį susijungimą, kaip gana taikliai spėja
-    Krugas savo veikale apie rusų monetas, atsirado iš pa­
-    davimo apie slavų keliones iš Variagų jūros į Dneprą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212732
-
-- id: c-195273
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 50."
-  citata_originali: |
-    Anksčiau jau minėjome, kad skitai
-    yra kone seniausia Europos tauta, kurios atėjimas iš Azi­
-    jos per Dono žemupį parodo Europos tautų kūdikystę.
-    Jau 1540 metais prieš Kristaus gimimą jie buvo labai
-    gausūs ir galingi, tuomet jiems priklausė Dnepro žiotys
-    ir Tauridė1. Paskui jie paplito po visas Europos šalis
-    kimbrų, keltų ir kitokiais pavadinimais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214617
-
-- id: c-195904
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 40"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
-  citata_originali: |
-    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
-    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
-    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
-    Dono
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215536
-
-- id: c-195941
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
-  citata_originali: |
-    Prajus** vėlgi kalba apie tą patį, žiūrė­
-    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
-    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
-    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
-    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
-    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
-    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
-    Chue, Chunnigard-, ji priklausė minėtai tautai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215157
-
-- id: c-196061
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 44"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 44."
-  citata_originali: |
-    Jie buvo įsikūrę prie Dnepro ir turėjo didelių kolonijų
-    Juodosios jūros vakarinėje pakrantėje, taip pat Dnepro ir
-    Dnestro tarpupyje
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215920
-
-- id: c-196127
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 377"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
-  citata_originali: |
-    Iš to darau išvadą, jog Gerų kraštas plytėjo abie­
-    jose Dnepro pakrantėse, kur viename plote sukaupta ga­
-    na daug pilkapių, panašių į šen bei ten išmėtytus kapi­
-    nynus, šio krašto vidurys yra Rogačiovas, kurio apylin­
-    kėse esama gausiausių pilkapių rinkinių. Kairioji Dnepro
-    pakrantė sudaro lygumą, arba platų pavasario potvynių
-    užliejamą slėnį; šiame slėnyje tęsiasi juosta šiandien
-    sąnašų perskirtos įdubo-s, kur pavasario potvynių vande­
-    nys sudaro vasarą išdžiūstančius ežerus. Tų įdubų juos­
-    tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­
-    grindinės upės vandens lygis buvo gerokai aukštesnis,
-    tekėdavo visais metų laikais. Plytėjo ilga įlanka, arba
-    kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­
-    lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­
-    je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai
-    ežerėliai1.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214499
-    - t-215289
-    - t-215857
-
-- id: c-196180
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
-  citata_originali: |
-    Iš čia, tęsdami kelionę į
-    vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos
-    vakarine Dnepro šaka1, Pentikapo upe, kurios vandens
-    baseinas jungėsi su Nemuno sistema (§21). Toliau, savo
-    kelionėje nenutoldami nuo kairiojo' Pripetės kranto, pateko
-    prie Maročės ir Punios žiočių. Šiose vietose keliaujanti
-    tauta sustojo ir, kaip įtikėtina, kažkiek laiko gyveno ar
-    paliko savo koloniją, kuri ten įsikūrė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213743
-
-- id: c-197587
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 381"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
-  citata_originali: |
-    Tokių kalvų kartais randama išsibarsčiusių laukuose,
-    netgi sausose pievose po dvi, kelias, o kai kur jų esti la­
-    bai daug netvarkingai išmėtytų įvairiomis kryptimis ir
-    įvairaus dydžio: daugiausia vidutinių, mažiau mažų, o
-    didelių nedaug, daugiausia stūkso atskirai, nuošaliau nuo
-    kitų ar poromis. Paprastai jos būva netoli gyvenviečių
-    arba joms tinkamose vietose.
-    Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
-    daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
-    Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
-    palei senas Rusijos sienas su Lietuvos valstybe, de­
-    šiniojoje driekiasi už Borisovo apskrities net iki tikrosios
-    Lietuvos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214832
+  pagrindzia:
+    - t-018
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Hiriai]]

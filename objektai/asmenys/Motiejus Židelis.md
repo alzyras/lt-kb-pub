@@ -39,6 +39,20 @@ canonical_biography: "Štai 1554 m. Kauno miestietis Andrius Oršuliškis Kauno 
 
 Štai 1554 m. Kauno miestietis Andrius Oršuliškis Kauno vaito teisme apskundė savo vytinės laivavedį Motiejų Židelį, kad šis, nors dar rudenį buvo įsakytas ištraukti pergą į krantą Aleksote (na lixthat ieszcze w iesieni wiwindowac pergę), to nepadarė ir.
 
+## Teiginiai
+
+<a id="claim-t-202150"></a>
+- t-001
+  teiginys: "Štai 1554 m. Kauno miestietis Andrius Oršuliškis Kauno vaito teisme apskundė savo vytinės laivavedį Motiejų Židelį, kad šis, nors dar rudenį buvo įsakytas ištraukti pergą į krantą Aleksote (na lixthat ieszcze w iesieni wiwindowac pergę), to nepadarė ir."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185497
+
 ## Citatos
 
 - id: c-185497
@@ -56,20 +70,5 @@ canonical_biography: "Štai 1554 m. Kauno miestietis Andrius Oršuliškis Kauno 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202150"></a>
-- t-001
-  teiginys: "Štai 1554 m. Kauno miestietis Andrius Oršuliškis Kauno vaito teisme apskundė savo vytinės laivavedį Motiejų Židelį, kad šis, nors dar rudenį buvo įsakytas ištraukti pergą į krantą Aleksote (na lixthat ieszcze w iesieni wiwindowac pergę), to nepadarė ir."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185497
-

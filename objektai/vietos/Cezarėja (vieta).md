@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Cezarėja (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Cezarėja (vieta)
+identifikacija: vieta
 variantai:
-  - 'Cezarėja'
+  - Cezarėja
 aliases:
-  - 'Cezarėja'
+  - Cezarėja
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6fb86721ba0f26eac0279b13"
-canonical_name: "Cezarėja (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Cezarėja","Cezarėja (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6fb86721ba0f26eac0279b13
+canonical_name: Cezarėja (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Cezarėja
+  - Cezarėja (vieta)
 sameAs: []
-canonical_biography: "Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai."
+canonical_biography: 'Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai.'
 ---
 # Cezarėja (vieta)
 
@@ -70,6 +70,5 @@ Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

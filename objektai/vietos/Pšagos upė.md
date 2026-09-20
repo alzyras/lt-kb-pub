@@ -37,6 +37,20 @@ Pasak Teodoro Narbuto, Algirdas, lydimas kelių brolių ir gausios kariaunos, į
 
 Pasak Teodoro Narbuto, Algirdas, lydimas kelių brolių ir gausios kariaunos, įsiveržė į naugardiečiams priklausiusią Šelonės sritį ir įsikūrė stovykloje prie Pšagos upės žiočių.
 
+## Teiginiai
+
+<a id="claim-t-206644"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, Algirdas, lydimas kelių brolių ir gausios kariaunos, įsiveržė į naugardiečiams priklausiusią Šelonės sritį ir įsikūrė stovykloje prie Pšagos upės žiočių."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189259
+
 ## Citatos
 
 - id: c-189259
@@ -53,20 +67,5 @@ Pasak Teodoro Narbuto, Algirdas, lydimas kelių brolių ir gausios kariaunos, į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206644"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, Algirdas, lydimas kelių brolių ir gausios kariaunos, įsiveržė į naugardiečiams priklausiusią Šelonės sritį ir įsikūrė stovykloje prie Pšagos upės žiočių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189259
-

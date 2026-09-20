@@ -27,6 +27,17 @@ media_all_json: |-
 
 Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvarų ir kitokių dievybių.
 
+## Teiginiai
+
+<a id="claim-t-03062"></a>
+- t-001
+  teiginys: "Lauksargiai, kaukai ir aitvarai minimi tarp javų globėjų ir kitokių dievybių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-03300
+
 ## Citatos
 
 - id: c-03300
@@ -43,17 +54,5 @@ Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-03062"></a>
-- t-001
-  teiginys: "Lauksargiai, kaukai ir aitvarai minimi tarp javų globėjų ir kitokių dievybių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-03300
-

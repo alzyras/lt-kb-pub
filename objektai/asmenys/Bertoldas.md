@@ -36,6 +36,50 @@ canonical_biography: "Jie taip pat smurtu paėmė ir vieną dvasininką, poną B
 
 Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie žiauriai nužudė Rygos mieste jo paties na­ muose. Trečia, ar galėjo jam rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la­ biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini­ mų Ordinui.
 
+## Teiginiai
+
+<a id="claim-t-87485"></a>
+- t-001
+  teiginys: "Dvasininkas Bertoldas buvo smurtu paimtas ir žiauriai nužudytas savo namuose Rygos mieste."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Ryga: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bertoldas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ryga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Bertoldas buvo nužudytas Rygos mieste."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Bertoldas mirė Ryga (0.93)"
+  pagrindžia:
+    - c-83464
+
+<a id="claim-t-194223"></a>
+- t-002
+  teiginys: "Trečia, ar galėjo jam rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini mų Ordinui."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176823
+
+<a id="claim-t-205143"></a>
+- t-003
+  teiginys: "Pritardami tai nuo monei ir remdamiesi kronikos liudijimais, manome la biausiai tikėtina esant, kad Bertoldas pirma kiek laiko lankėsi Latvijos žemėse, lydėdamas Meinhardą, taigi bu vo žinomas tenykščiams gyventojams ir mokėjo jų kalbą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188155
+
 ## Citatos
 
 - id: c-83464
@@ -58,7 +102,7 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-176823
@@ -83,7 +127,7 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-188155
@@ -105,53 +149,8 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 ## Ryšiai
 - Bertoldas mirė [[objektai/vietos/Ryga]]
-
-## Teiginiai
-
-<a id="claim-t-87485"></a>
-- t-001
-  teiginys: "Dvasininkas Bertoldas buvo smurtu paimtas ir žiauriai nužudytas savo namuose Rygos mieste."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Ryga: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bertoldas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ryga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Bertoldas buvo nužudytas Rygos mieste."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Bertoldas mirė Ryga (0.93)"
-  pagrindžia:
-    - c-83464
-
-<a id="claim-t-194223"></a>
-- t-002
-  teiginys: "Trečia, ar galėjo jam rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini mų Ordinui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176823
-
-<a id="claim-t-205143"></a>
-- t-003
-  teiginys: "Pritardami tai nuo monei ir remdamiesi kronikos liudijimais, manome la biausiai tikėtina esant, kad Bertoldas pirma kiek laiko lankėsi Latvijos žemėse, lydėdamas Meinhardą, taigi bu vo žinomas tenykščiams gyventojams ir mokėjo jų kalbą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188155
-

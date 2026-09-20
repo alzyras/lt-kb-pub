@@ -27,6 +27,41 @@ media_all_json: |-
 
 Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai. Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he rulai.
 
+## Teiginiai
+
+<a id="claim-t-192994"></a>
+- t-001
+  teiginys: "Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Stodorėnai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Brėžanai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Stodorėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Brėžanai ir stodorėnai nurodyti kaip priklausę tai pačiai sąjungai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Brėžanai buvo sąjungininkas su Stodorėnai (0.72)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175764
+
+<a id="claim-t-197492"></a>
+- t-002
+  teiginys: "Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he rulai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-175764
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai.'
@@ -72,35 +107,6 @@ Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-214117"></a>
-- t-001
-  teiginys: "Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he rulai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-215798"></a>
-- t-002
-  teiginys: "Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Stodorėnai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Brėžanai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Stodorėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Brėžanai ir stodorėnai nurodyti kaip priklausę tai pačiai sąjungai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Brėžanai buvo sąjungininkas su Stodorėnai (0.72)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
+  pagrindzia:
+    - t-001
+    - t-002

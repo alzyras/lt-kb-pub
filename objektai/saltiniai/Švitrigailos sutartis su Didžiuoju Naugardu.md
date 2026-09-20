@@ -27,6 +27,41 @@ media_all_json: |-
 
 Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­ tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­ nėtinai sėkmingas, taigi. Nors šiuo 6 Šios sutarties originalas (kaip tvirti­ na K a r a m z i n a s, V, L 144, prieraš.) yra Užsienio reikalų kolegijos archyve, bet toks senas, kad pavyko įskaityti tik kai kurias ir tai ne išti­ sas eilutes.
 
+## Teiginiai
+
+<a id="claim-t-88365"></a>
+- t-001
+  teiginys: "Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Švitrigaila: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Didžiojo Naugardo bojarinai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Didžiojo Naugardo bojarinai sudarė sutartį su Švitrigaila."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Didžiojo Naugardo bojarinai sudarė sutartį su Švitrigaila (0.93); Vilnius prekiavo su Ryga (0.78); Vilnius prekiavo su Naugardas (0.57)"
+  pagrindžia:
+    - c-84345
+
+<a id="claim-t-88366"></a>
+- t-002
+  teiginys: "Švitrigailos sutarties su Didžiuoju Naugardu originalas buvo laikomas Užsienio reikalų kolegijos archyve ir buvo sunkiai įskaitomas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigailos sutartis su Didžiuoju Naugardu: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos sutartis su Didžiuoju Naugardu\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-84344
+
 ## Citatos
 
 - id: c-84344
@@ -49,7 +84,7 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-84345
@@ -76,41 +111,5 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-88365"></a>
-- t-001
-  teiginys: "Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Švitrigaila: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Didžiojo Naugardo bojarinai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Didžiojo Naugardo bojarinai sudarė sutartį su Švitrigaila."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Didžiojo Naugardo bojarinai sudarė sutartį su Švitrigaila (0.93); Vilnius prekiavo su Ryga (0.78); Vilnius prekiavo su Naugardas (0.57)"
-  pagrindžia:
-    - c-84345
-
-<a id="claim-t-88366"></a>
-- t-002
-  teiginys: "Švitrigailos sutarties su Didžiuoju Naugardu originalas buvo laikomas Užsienio reikalų kolegijos archyve ir buvo sunkiai įskaitomas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švitrigailos sutartis su Didžiuoju Naugardu: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos sutartis su Didžiuoju Naugardu\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-84344
-

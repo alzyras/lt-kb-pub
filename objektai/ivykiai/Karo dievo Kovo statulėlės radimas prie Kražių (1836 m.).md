@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Karo dievo Kovo statulėlės radimas prie Kražių (1836 m.)'
+pavadinimas: Karo dievo Kovo statulėlės radimas prie Kražių (1836 m.)
 variantai:
-  - 'Karo dievo Kovo statulėlės radimas prie Kražių'
+  - Karo dievo Kovo statulėlės radimas prie Kražių
 aliases:
-  - 'Karo dievo Kovo statulėlės radimas prie Kražių'
+  - Karo dievo Kovo statulėlės radimas prie Kražių
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1836 m.'
+  - 1836 m.
 date_start: '1836'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Karo dievo Kovo statulėlės radimas prie Kražių (1836 m.)
 
@@ -83,6 +80,5 @@ Narbutas teigia, kad 1836 metais Žemaitijoje, netoli Kražių, rasta natūralau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

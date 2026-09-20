@@ -37,6 +37,25 @@ historical_names: []
 
 Taigi Kęstučio dvaras buvo vie­ ta, kur daugiausia turėta žinių apie visus kaimynus.
 
+## Teiginiai
+
+<a id="claim-t-36346"></a>
+- t-001
+  teiginys: "Kęstučio dvare buvo sukaupta daug žinių apie Lietuvos kaimynus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstučio dvaras: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Pavadinimas ir teiginys tiesiogiai nurodo dvarą kaip Kęstučio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kęstučio dvaras priklausė Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.84)"
+  pagrindžia:
+    - c-38536
+
 ## Citatos
 
 - id: c-38536
@@ -58,25 +77,5 @@ Taigi Kęstučio dvaras buvo vie­ ta, kur daugiausia turėta žinių apie visus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-36346"></a>
-- t-001
-  teiginys: "Kęstučio dvare buvo sukaupta daug žinių apie Lietuvos kaimynus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstučio dvaras: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Pavadinimas ir teiginys tiesiogiai nurodo dvarą kaip Kęstučio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kęstučio dvaras priklausė Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.84)"
-  pagrindžia:
-    - c-38536
-

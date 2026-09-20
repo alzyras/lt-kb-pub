@@ -28,22 +28,10 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
 
 ## Teiginiai
 
-<a id="claim-t-214784"></a>
-- t-003
-  teiginys: "Šio Divonio kelionės aprašymas išliko rankraštyje, kuris atiteko Plocko kated ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo no rastas šio Jaroslavo parašytoje kronikoje."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196530
-
-<a id="claim-t-212389"></a>
-- t-212389
+<a id="claim-t-191760"></a>
+- t-001
   teiginys: "Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Plocko kanauninko Jaroslavo kronikoje."
-  atnaujinta: "2026-09-13 21:45"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -57,11 +45,13 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plocko kanauninko Jaroslavo kronika\" parinktas kaip owner_note_path. Targetas \"Plockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174642
 
-<a id="claim-t-212428"></a>
-- t-212428
+<a id="claim-t-191761"></a>
+- t-002
   teiginys: "Teodoro Narbuto teigimu, Jaroslavo kronika sudarė vyskupo Kristijono kronikos „Liber filiorum Belini“ pradžią."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -69,7 +59,7 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-196157
+    - c-174643
 
 ## Citatos
 
@@ -92,6 +82,8 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-174643
   autorius: "Teodoras Narbutas"
@@ -109,43 +101,5 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196157
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
-  citata_originali: |
-    3 Apie tikrą egzistavimą vyskupo Kristijono kronikos, kuri vadi­
-    nosi Liber filiorum Belini, cum suis superstitionibus Brutiae factionis
-    incipit cum molestia cordis ir kurios pradžią sudarė Jaroslavo kroni­
-    ka, o vėliau autoriaus pastabos, nėra abejonių, atsižvelgiant j tai, ką
-    šia tema parašė ponas Foigtas (Gesch. Preuss. B. I. S. 617).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212428
-
-- id: c-196530
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
-  citata_originali: |
-    Šio Divonio kelionės
-    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
-    ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­
-    no rastas šio Jaroslavo parašytoje kronikoje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
+  pagrindzia:
+    - t-002

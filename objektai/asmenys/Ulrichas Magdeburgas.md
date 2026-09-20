@@ -31,6 +31,20 @@ canonical_biography: "Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stip
 
 Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karaliaučiaus, atleido laivus su mitalu, kuriuos Ulrichas Magdeburgas, vadinamas Milžinu kryžėjų, su kitais brostviais saugojo.
 
+## Teiginiai
+
+<a id="claim-t-201404"></a>
+- t-001
+  teiginys: "Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karaliaučiaus, atleido laivus su mitalu, kuriuos Ulrichas Magdeburgas, vadinamas Milžinu kryžėjų, su kitais brostviais saugojo."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184754
+
 ## Citatos
 
 - id: c-184754
@@ -53,20 +67,5 @@ Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201404"></a>
-- t-001
-  teiginys: "Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karaliaučiaus, atleido laivus su mitalu, kuriuos Ulrichas Magdeburgas, vadinamas Milžinu kryžėjų, su kitais brostviais saugojo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184754
-

@@ -29,6 +29,20 @@ media_all_json: |-
 
 Nuo tų pergalių meldžionų apniko šiurpulys parusnėnus ir taip išguro, jog nie kame nebrėmės su meldžionimis ir pilis palikini traukės į girias, kurias kryžėjai užėmę vienas su žeme sulygino, kitose savo pilės įkūrė, jei vieta jiems pobūda rodės.
 
+## Teiginiai
+
+<a id="claim-t-201244"></a>
+- t-001
+  teiginys: "Nuo tų pergalių meldžionų apniko šiurpulys parusnėnus ir taip išguro, jog nie kame nebrėmės su meldžionimis ir pilis palikini traukės į girias, kurias kryžėjai užėmę vienas su žeme sulygino, kitose savo pilės įkūrė, jei vieta jiems pobūda rodės."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184594
+
 ## Citatos
 
 - id: c-184594
@@ -49,20 +63,5 @@ Nuo tų pergalių meldžionų apniko šiurpulys parusnėnus ir taip išguro, jog
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201244"></a>
-- t-001
-  teiginys: "Nuo tų pergalių meldžionų apniko šiurpulys parusnėnus ir taip išguro, jog nie kame nebrėmės su meldžionimis ir pilis palikini traukės į girias, kurias kryžėjai užėmę vienas su žeme sulygino, kitose savo pilės įkūrė, jei vieta jiems pobūda rodės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184594
-

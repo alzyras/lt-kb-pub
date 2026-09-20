@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Kolhų kraštas'
+pavadinimas: Kolhų kraštas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5fb309884941b8af73400345"
-canonical_name: "Kolhų kraštas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kolhų kraštas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5fb309884941b8af73400345
+canonical_name: Kolhų kraštas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kolhų kraštas
 sameAs: []
-canonical_biography: "Reikėjo trisdešimt dienų, kad keliautojas iš Kolhų kraš to prie Fasio pasiektų Meotų jūrą."
+canonical_biography: 'Reikėjo trisdešimt dienų, kad keliautojas iš Kolhų kraš to prie Fasio pasiektų Meotų jūrą.'
 ---
 # Kolhų kraštas
 
@@ -65,6 +64,5 @@ Reikėjo trisdešimt dienų, kad keliautojas iš Kolhų kraš to prie Fasio pasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

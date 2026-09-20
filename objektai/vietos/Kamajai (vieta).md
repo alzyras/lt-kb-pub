@@ -1,42 +1,42 @@
 ---
 tipas: vieta
-pavadinimas: 'Kamajai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Kamajai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Kamajai'
+  - Kamajai
 aliases:
-  - 'Kamajai'
+  - Kamajai
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 datos:
-  - '1861 m.'
-  - '1862 m.'
-  - '1863 m.'
+  - 1861 m.
+  - 1862 m.
+  - 1863 m.
 date_start: '1861'
 date_end: '1863'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-56f99968e042b5e65442577c"
-canonical_name: "Kamajai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kamajai","Kamajai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-56f99968e042b5e65442577c
+canonical_name: Kamajai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kamajai
+  - Kamajai (vieta)
 sameAs: []
-canonical_biography: "Iš jų vienuolika skirti atskiroms parapijoms: Balninkų, Brunavos, Butkiškės, Grinkiškio, Grūšlaukės, Kamajų bei Skapiškio (šis laiškas buvo iš siųstas taip pat Rietavo ir Veliuonos dekanatų parapi joms), Kartenos, Kupiškio, Plungės, Tytuvėnų ir Kuršo. Skapiškio bei Kamajų parapijoms."
+canonical_biography: 'Iš jų vienuolika skirti atskiroms parapijoms: Balninkų, Brunavos, Butkiškės, Grinkiškio, Grūšlaukės, Kamajų bei Skapiškio (šis laiškas buvo iš siųstas taip pat Rietavo ir Veliuonos dekanatų parapi joms), Kartenos, Kupiškio, Plungės, Tytuvėnų ir Kuršo. Skapiškio bei Kamajų parapijoms.'
 place_authority: true
 historical_names: []
 ---

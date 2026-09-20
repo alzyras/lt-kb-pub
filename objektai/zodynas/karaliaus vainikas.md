@@ -36,22 +36,10 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-196375"></a>
-- t-003
-  teiginys: "Žinodami, kad pastarojo Č ek a i siūlo karaliaus v a in ik ą Jog a ila i ir V y ta u tu i šiaurėje bei rytuose ir paska tino kaimynus čekus, atsikra čius teisėto valdovo valdžios, pasisiūlyti į valdinius."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168710
-
 <a id="claim-t-185349"></a>
-- t-185349
+- t-001
   teiginys: "Čekai pasiūlė Jogailai ir Vytautui Čekijos karaliaus vainiką, manydami, kad jie norės atkeršyti už pablogėjusius santykius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,9 +56,9 @@ media_all_json: |-
     - c-168710
 
 <a id="claim-t-185350"></a>
-- t-185350
+- t-002
   teiginys: "Čekai neišsižadėjo sumanymo ir antrą kartą siuntė žygūnus palenkti Jogailą bei Vytautą priimti karaliaus vainiką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -85,6 +73,18 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168711
+
+<a id="claim-t-196375"></a>
+- t-003
+  teiginys: "Žinodami, kad pastarojo Č ek a i siūlo karaliaus v a in ik ą Jog a ila i ir V y ta u tu i šiaurėje bei rytuose ir paska tino kaimynus čekus, atsikra čius teisėto valdovo valdžios, pasisiūlyti į valdinius."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168710
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -154,14 +154,13 @@ media_all_json: |-
     pasisiūlyti į valdinius.
   citata_rodoma: "Jogaila\n1419 m e ta i \nir Vytautas, įsitikinę, jog len­\nkų reikalavimai teisėti, neat­\nmetė šitokios galimybės ginčui išspręsti. Kai paaiškėjo, \nkad imperatoriaus sprendimai nesiremia teisingumu, \nkad jo skelbiamos ištarmės pažeidžia net moralės nor­\nmas, jie atsisakė jo tarpinin-\n1420 m e ta i \nkavimo ir pasiryžo ginklu įro-\nkilusių tikybinių nesutarimų čekai atsisakė klausyti \nRomos bažnyčios, pradėjo atvirai maištauti prieš savo \nkaralių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­\nmyninėse šalyse jėgų, kuriomis galėtų remtis kovoje \nprieš imperatoriaus galybę. Žinodami, kad pastarojo\nČ ek a i siūlo karaliaus \nv a in ik ą \nJog a ila i \nir \nV y ta u tu i\nšiaurėje bei rytuose ir paska­\ntino kaimynus čekus, atsikra­\nčius teisėto valdovo valdžios, \npasisiūlyti į valdinius."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-001
     - t-003
-    - t-185349
 
 - id: c-168711
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -181,6 +180,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185350
-
+  pagrindzia:
+    - t-002

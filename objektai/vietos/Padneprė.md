@@ -38,6 +38,50 @@ historical_names: []
 
 Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąja Dnepro pakrante ties Kijevu, kitapus Dnepro nurodydamas alanus. Pečenegų orda Charoboe turėjo dalį Padneprės žemių tarp Dnepro ir Bugo aukštupio, o jos sostine nurodomas Belotzebo miestas.
 
+## Teiginiai
+
+<a id="claim-t-192847"></a>
+- t-001
+  teiginys: "Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąja Dnepro pakrante ties Kijevu, kitapus Dnepro nurodydamas alanus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Dnepras: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Graikai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad graikų kolonistai gyveno dešiniojoje Dnepro pakrantėje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Graikai gyveno Dnepras (0.86); Graikai gyveno Padneprė (0.72)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175617
+
+<a id="claim-t-192848"></a>
+- t-002
+  teiginys: "Pečenegų orda Charoboe turėjo dalį Padneprės žemių tarp Dnepro ir Bugo aukštupio, o jos sostine nurodomas Belotzebo miestas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "valde_teritorija -> Padneprė: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pečenegai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Padneprė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pečenegų orda tiesiogiai turėjo dalį Padneprės žemių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Pečenegai valdė teritoriją Padneprė (0.90)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175618
+
 ## Citatos
 
 - id: c-175617
@@ -63,6 +107,8 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-175618
   autorius: "Teodoras Narbutas"
@@ -82,53 +128,8 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195863
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 107"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 107."
-  citata_originali: |
-    100
-    Geografija. Viena dešiniojoje Dnepro pakrantėje gy­
-    venusi pečenegų orda Charoboe turėjo dalį Padneprės
-    žemių tarp Dnepro ir Bugo aukštupio; jos sostinė, pasak
-    Purpurinio, buvo Belotzebo miestas, o slaviškai Belaja
-    Cerkovė1. Tad nuo X iki XII amžiaus antrojo dešimtme­
-    čio šiai ordai priklausė kraštas prie Rosés upės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Pečenegai]]
-
-## Teiginiai
-
-<a id="claim-t-213264"></a>
-- t-001
-  teiginys: "Pečenegų orda Charoboe turėjo dalį Padneprės žemių tarp Dnepro ir Bugo aukštupio, o jos sostine nurodomas Belotzebo miestas."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "valde_teritorija -> Padneprė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pečenegai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Padneprė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pečenegų orda tiesiogiai turėjo dalį Padneprės žemių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Pečenegai valdė teritoriją Padneprė (0.90)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-195863
-

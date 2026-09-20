@@ -66,18 +66,3 @@ Terminas vartojamas šalutinio kruopų gamybos produkto ir vaikų maisto bei ža
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-195641"></a>
-- t-001
-  teiginys: "Šulmilčiai šiame šaltinyje duodami vaikams tešlai ir lipdiniams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178043
-

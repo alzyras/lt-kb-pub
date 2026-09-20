@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'I. Oginskis'
+pavadinimas: I. Oginskis
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7a16f0c4198953230d4d240a"
-canonical_name: "I. Oginskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["I. Oginskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7a16f0c4198953230d4d240a
+canonical_name: I. Oginskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - I. Oginskis
 sameAs: []
-canonical_biography: "I. Oginskio liudijimas rodo, kad laikraščio idėja jau senokai pleveno šviesuomenėje."
+canonical_biography: 'I. Oginskio liudijimas rodo, kad laikraščio idėja jau senokai pleveno šviesuomenėje.'
 ---
 # I. Oginskis
 

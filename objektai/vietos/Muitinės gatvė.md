@@ -40,6 +40,20 @@ historical_names: []
 
 Kauną ištiko kiti dideli gaisrai, 1610 m. degė Muitinės gatvės namai, 1603 ir 1624 m. - bernardinų vienuolynas ir jų Šv.
 
+## Teiginiai
+
+<a id="claim-t-201721"></a>
+- t-001
+  teiginys: "Kauną ištiko kiti dideli gaisrai, 1610 m. degė Muitinės gatvės namai, 1603 ir 1624 m. - bernardinų vienuolynas ir jų Šv."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185068
+
 ## Citatos
 
 - id: c-185068
@@ -55,20 +69,5 @@ Kauną ištiko kiti dideli gaisrai, 1610 m. degė Muitinės gatvės namai, 1603 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201721"></a>
-- t-001
-  teiginys: "Kauną ištiko kiti dideli gaisrai, 1610 m. degė Muitinės gatvės namai, 1603 ir 1624 m. - bernardinų vienuolynas ir jų Šv."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185068
-

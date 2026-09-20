@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Santyro pilis'
+pavadinimas: Santyro pilis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f06d5f471fcccc257326a6c4"
-canonical_name: "Santyro pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Santyro pilis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f06d5f471fcccc257326a6c4
+canonical_name: Santyro pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Santyro pilis
 sameAs: []
-canonical_biography: "Sventopelkas su kariuomene priėjo Santyro pilį ir prie jos įsirengė stovyklą."
+canonical_biography: Sventopelkas su kariuomene priėjo Santyro pilį ir prie jos įsirengė stovyklą.
 ---
 # Santyro pilis
 
@@ -66,6 +65,5 @@ Sventopelkas su kariuomene priėjo Santyro pilį ir prie jos įsirengė stovykl�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

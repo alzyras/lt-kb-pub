@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Senovės romėnai'
+pavadinimas: Senovės romėnai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -14,18 +14,335 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T11:12:13+00:00","source_checked_at":"2026-09-19T11:12:13+00:00","counts":{"relations":2,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Šiuos prietarus žinojo ir Lietuvos rusinai. Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė- jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­ gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­ vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","claim_id":"t-216759","evidence_id":"c-201346","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"301255648f165f53cdd24798","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Statė prabangius ir didingus aukurus, skirtus atskiriems dievams.","context":"Teodoras Narbutas, aprašydamas senovės egiptiečius, graikus ir romėnus, teigia, kad jie statė tokius aukurus.","support_ids":["t-216533","c-199293"],"source_refs":[{"kind":"internal_claim","claim_id":"t-216533","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199293","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Kunigai, stovėdami ant pa­ kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­ kai, romėnai statė prabangius ir didingus aukurus, paskirtus skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­ prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus kai kuriuos, buvusius Perkūno šventyklose."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"15294aa6b53005870b71e284","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Garbinėjo žalčius.","context":"Teodoras Narbutas teigia, kad senovėje žalčių garbinimas buvo visuotinis ir kad romėnai nebuvo laisvi nuo šių prietarų.","support_ids":["t-216759","c-201346"],"source_refs":[{"kind":"internal_claim","claim_id":"t-216759","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-201346","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Šiuos prietarus žinojo ir Lietuvos rusinai. Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė- jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­ gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­ vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"396eae167fd963b945563e20","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Laikėsi nuostatos, kad savižudybė smerktina.","context":"Teodoras Narbutas teigia, kad senovės graikai ir romėnai laikėsi tos pačios nuomonės; tai pateikiama kalbant apie senovės lietuvių požiūrį į savižudybę.","support_ids":["t-216307","c-197992"],"source_refs":[{"kind":"internal_claim","claim_id":"t-216307","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-197992","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Juk mirtingai būtybei net sekundė gyvenimo yra malonus turtas. Negalime neigti, kad senovės lietuviai nesmerkė savižudy­ bės; juk nepalyginti labiau apsišvietę graikai ir romėnai buvo tos pačios nuomonės. Tai nugrimzdusios į paklydimą religijos silpnoji pusė."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-215999","confidence":0.86},{"predicate":"pastate","direction":"outbound","target":"objektai/daiktai/Aukurai","claim_id":"t-216533","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 361b9c74a8a1894a
+object_page_generated_at: '2026-09-19T11:12:13+00:00'
+object_page_source_checked_at: '2026-09-19T11:12:13+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Senovės romėnai: Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuriai buvo lemta tapti pasaulio valdymo pavyzdžiu. Narbutas rašo, kad…'
+object_page_seo_input_hash: af46926b9e285614e8257b6a6f4b9b93e2b2296d6a888370f2731f3159867857
+object_page_seo_generated_at: '2026-09-19T11:12:13+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Senovės romėnai
 
 ## Santrauka
 
 Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuriai buvo lemta tapti pasaulio valdymo pavyzdžiu. Narbutas rašo, kad romėnai Kabirus vadino Diipotentes, Dii socii arba Anactes, tai yra monarchais. Narbutas mano, kad religinių paslapčių požiūriu graikai ir romėnai pamėgdžiojo egiptiečius.
+
+## Teiginiai
+
+<a id="claim-t-189364"></a>
+- t-001
+  teiginys: "Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuriai buvo lemta tapti pasaulio valdymo pavyzdžiu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lacijus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senovės romėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lacijus: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės romėnai\" parinktas kaip owner_note_path. Targetas \"Lacijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172251
+
+<a id="claim-t-189368"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad romėnai Kabirus vadino Diipotentes, Dii socii arba Anactes, tai yra monarchais."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senovės romėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės romėnai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172255
+
+<a id="claim-t-189372"></a>
+- t-003
+  teiginys: "Narbutas rašo, kad romėnai turėjo dievaitį Famulą, kuris žmonėms apsireikšdavo žalčiu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senovės romėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės romėnai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172259
+
+<a id="claim-t-189373"></a>
+- t-004
+  teiginys: "Narbutas pažymi, kad graikai ir romėnai Heraklį vadino Alkidu, Minervą Alkida ir turėjo dievybes, vadintas Alkidėmis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senovės romėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės romėnai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172260
+
+<a id="claim-t-189374"></a>
+- t-005
+  teiginys: "Narbutas rašo, kad kronikos romėnų ar į juos panašių atvykimą į Lietuvą datavo 48 m. pr. Kr., 57 m. po Kr. arba 401 m."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Senovės romėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai mini romėnų ar į juos panašių asmenų atvykimą į Lietuvą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Senovės romėnai keliavo į Lietuva (0.86)"
+  temporaliniai_duomenys: "kelionės data: 401 m"
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Senovės romėnai keliavo į Lietuva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Kronikinis kilmės pasakojimas performuluotas kaip šaltinių datavimas, ne kaip neutralus faktas. Palikta būtina Narbuto ir kronikų atribucija."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172261
+
+<a id="claim-t-189375"></a>
+- t-006
+  teiginys: "Narbutas lygina, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus atskiriems dievams."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "pastate -> Aukurai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Senovės romėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Aukurai: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad romėnai statė prabangius aukurus."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Senovės romėnai pastatė Aukurai (0.90); Graikai pastatė Aukurai (0.90)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172262
+
+<a id="claim-t-189376"></a>
+- t-007
+  teiginys: "Narbutas perteikia Strijkovskio teiginį, kad ugnies apeigomis buvo pamėgdžiojami romėnai per Palilėjų šventes deivės Palės garbei."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senovės romėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės romėnai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172263
+
+<a id="claim-t-189377"></a>
+- t-008
+  teiginys: "Narbutas rašo, kad romėnai laukų apvalymo apeigas vadino Ambervales arba Cum solemnia vota lustrare agros."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ambervales: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senovės romėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Ambervales: mention_match, thing, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės romėnai\" parinktas kaip owner_note_path. Targetas \"Ambervales\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172264
+
+<a id="claim-t-189378"></a>
+- t-009
+  teiginys: "Narbutas rašo, kad romėnai per vestuves nukirpdavo kasas, aukodavo jas Junonai ir šią pakirptuvių apeigą vadino Heratelea."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172263
+
+<a id="claim-t-194588"></a>
+- t-010
+  teiginys: "Savo ruožtu romėnai - kuo jie darėsi galingesni ir labiau apsišvietę, tuo labiau grimzdo į daugiadievystės chaosą."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-176992
+
+<a id="claim-t-194589"></a>
+- t-011
+  teiginys: "Graikai bei romėnai, kuriuos šiame veikale minėsime va dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas dievybes - Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia viskam."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-176988
+
+<a id="claim-t-194590"></a>
+- t-012
+  teiginys: "Narbutas teigia, kad šio dievo mitas taip pat sutampa su senovės persų Oromazu ir Arimanu, iš kurių, matyt, ir kilęs."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-176989
+
+<a id="claim-t-194591"></a>
+- t-013
+  teiginys: "Romėnų DU Penates, Lares ir 1.1., lie tuvių Siejmi Dewas, Gulbi ir 1.1, buvo šios rūšies dievaičiai, tik jie buvo visiems bendri, garbinami visų krašto žmonių, jų es mę suprasdavo ir juos įsivaizduodavo pagal kitų dievų pavyz dį, jiems skirtas maldas jungdavo."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-176990
+
+<a id="claim-t-194592"></a>
+- t-014
+  teiginys: "Senovėje žalčių garbinimas buvo visuotinis: indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau gelis kitų tautų nebuvo laisvos nuo tų prietarų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-176991
+
+<a id="claim-t-194593"></a>
+- t-015
+  teiginys: "Negalime neigti, kad senovės lietuviai nesmerkė savižudy bės; juk nepalyginti labiau apsišvietę graikai ir romėnai buvo tos pačios nuomonės."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-176992
+
+<a id="claim-t-194594"></a>
+- t-016
+  teiginys: "Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie toj parašų patvirtindavo savo raštus - taip, kaip romėnai9."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-176993
+
+<a id="claim-t-197221"></a>
+- t-017
+  teiginys: "Tas tikėjimas V amžiaus pabaigoje arba VI amžiaus pradžioje kažkokiu bū du susigiminiavo su senovės romėnų tikyba, tikriausiai ne itin svetima lietuvių protėviams dėl jų kraujo giminystės ir santy kių rytuose su graikais2."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-176987
+
+<a id="claim-t-197222"></a>
+- t-018
+  teiginys: "Per sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš metų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo už nuodėmes, savo misterijose vaizduodavo gamtos atgimi mą, rengdavosi naujam, doram gyvenimui."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179072
+
+<a id="claim-t-197223"></a>
+- t-019
+  teiginys: "Toks vainikas senovės prūsų tarme vadinosi apglobtė (Abglojte), kas reiškia nuometą."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-172265
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -93,6 +410,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-172255
   autorius: "Teodoras Narbutas"
@@ -111,6 +430,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-172259
   autorius: "Teodoras Narbutas"
@@ -130,6 +451,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-172260
   autorius: "Teodoras Narbutas"
@@ -146,6 +469,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-172261
   autorius: "Teodoras Narbutas"
@@ -168,6 +493,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-172262
   autorius: "Teodoras Narbutas"
@@ -187,6 +514,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-172263
   autorius: "Teodoras Narbutas"
@@ -208,6 +537,9 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+    - t-009
 
 - id: c-172264
   autorius: "Teodoras Narbutas"
@@ -228,6 +560,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 - id: c-172265
   autorius: "Teodoras Narbutas"
@@ -249,6 +583,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 - id: c-176987
   autorius: "Teodoras Narbutas"
@@ -272,6 +608,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
 
 - id: c-176988
   autorius: "Teodoras Narbutas"
@@ -292,6 +630,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-176989
   autorius: "Teodoras Narbutas"
@@ -309,6 +649,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 - id: c-176990
   autorius: "Teodoras Narbutas"
@@ -331,6 +673,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 - id: c-176991
   autorius: "Teodoras Narbutas"
@@ -348,6 +692,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
 
 - id: c-176992
   autorius: "Teodoras Narbutas"
@@ -366,6 +712,9 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+    - t-015
 
 - id: c-176993
   autorius: "Teodoras Narbutas"
@@ -386,6 +735,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 - id: c-179072
   autorius: "Teodoras Narbutas"
@@ -409,421 +760,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197992
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 360"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 360."
-  citata_originali: |
-    Juk mirtingai būtybei net sekundė
-    gyvenimo yra malonus turtas.
-    Negalime neigti, kad senovės lietuviai nesmerkė savižudy­
-    bės; juk nepalyginti labiau apsišvietę graikai ir romėnai buvo
-    tos pačios nuomonės. Tai nugrimzdusios į paklydimą religijos
-    silpnoji pusė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-218527
-
-- id: c-198114
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 200"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 200."
-  citata_originali: |
-    Apie fetišizmą
-    Visos stabmeldžių tautos turėjo įvairiais vardais vadina­
-    mus savo namų dievus. Romėnų DU Penates, Lares ir 1.1., lie­
-    tuvių Siejmi Dewas, Gulbi ir 1.1, buvo šios rūšies dievaičiai, tik
-    jie buvo visiems bendri, garbinami visų krašto žmonių, jų es­
-    mę suprasdavo ir juos įsivaizduodavo pagal kitų dievų pavyz­
-    dį, jiems skirtas maldas jungdavo su maldomis, kreipiamomis
-    apskritai į visus dievus; jų žemą kategoriją rodo tai, kad jie
-    buvo kasdieniai, globojantys tą ar kitą namų ūkio dalį, saky­
-    čiau, namų parankiniai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- id: c-198153
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
-  citata_originali: |
-    Palemonas (Palemon)
-    Didvyris, vardas, Lietuvos pajūrio šalies valdovas, atkilęs
-    su savo žmonėmis iš svetimos žemės.
-    Kronikos vienur rašė, kad romėnai arba kurie nors pana­
-    šūs į juos piliečiai atvykę į Lietuvą apie 48 metus prieš Kristų,
-    kitur - 57 metais po Kristaus, trečiur - tos pačios eros 401
-    metais. Strijkovskis, savo papratimu nesileisdamas į jokią kri­
-    tiką, naiviai deda ištraukas iš anuomet jam žinomų kronikų,
-    kurių gana daug turėjo rankose, arba semiasi žinių iš vietos
-    padavimų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-199030
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
-  citata_originali: |
-    Tuo tarpu Apvaizda ruošė kitą tautą, turėjusią tapti Euro­
-    pos apšvietos sargu. Senovės Lacijaus gilumoje, tarp plikų kal­
-    nų, nesveikiausiame užkampyje, užsimezgė romėnų karalys­
-    tė - romėnų, kurie parodė pasauliui didų būdą, didžias dory­
-    bes, nepalyginamą tėvynės meilę, vyriškumą, ištvermę, gilia­
-    mintę politiką, neišmatuojamą troškimą būti galingi. Visa tai,
-    sulydyta su įgimtais europiečių privalumais, sukūrė tautą, ver­
-    tą valdyti pasaulį, - tautą, kuriai buvo lemta tapti pavyzdžiu
-    tolimiausiems ainiams ir kuri tarytum šešėlis dingo nuo pa­
-    saulio paviršiaus vien todėl, kad jos moralė skyrėsi nuo religi­
-    jos vaizdinių, kad dievų žyniai nebuvo filosofai nei filosofijos
-    žyniai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- id: c-199185
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 91."
-  citata_originali: |
-    Per­
-    sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš
-    metų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo
-    už nuodėmes, savo misterijose vaizduodavo gamtos atgimi­
-    mą, rengdavosi naujam, doram gyvenimui.
-    Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
-    šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
-    mės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo
-    suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
-    aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
-    tingais mitais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-199922
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 84"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
-  citata_originali: |
-    Tas tikėjimas
-    V amžiaus pabaigoje arba VI amžiaus pradžioje kažkokiu bū­
-    du susigiminiavo su senovės romėnų tikyba, tikriausiai ne itin
-    svetima lietuvių protėviams dėl jų kraujo giminystės ir santy­
-    kių rytuose su graikais2. Kadangi lietuvių gentys nuolatos pa­
-    laikė artimus ryšius su gotais, tad ir iš jų perėmė daug religi­
-    nių mitų ir apeigų, kurių pėdsakai mūsų mitologijoje yra pa­
-    kankamai ryškūs - tiek, kad senesnieji istorikai visą tą mitolo­
-    giją kildina iš skandinavų. Kadangi ir šioje yra nemažai pasi­
-    savinta iš graikų, todėl mūsų ir skandinavų mitologijos pana-
-    šybė pasirodo esanti dar ryškesnė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-216533
-    - t-218527
-
-- id: c-200075
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 216"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 216."
-  citata_originali: |
-    Senovės germanai nehervalai turėjo du dievaičius Alcius,
-    amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
-    laikų graikai ir romėnai Heraklį vadino Alkidu, Minervą - Al­
-    kidą. Jie taip pat turėjo atskiras dievybes, vadintas Alkidėmis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-216533
-    - t-219024
-    - t-219688
-
-- id: c-201346
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
-  citata_originali: |
-    Šiuos prietarus žinojo ir Lietuvos rusinai.
-    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
-    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
-    gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
-    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
+  pagrindzia:
+    - t-018
 
 ## Ryšiai
 - Senovės romėnai pastatė [[objektai/daiktai/Aukurai]]
-
-## Teiginiai
-
-<a id="claim-t-215997"></a>
-- t-001
-  teiginys: "Per sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš metų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo už nuodėmes, savo misterijose vaizduodavo gamtos atgimi mą, rengdavosi naujam, doram gyvenimui."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199185
-
-<a id="claim-t-215999"></a>
-- t-002
-  teiginys: "Narbutas rašo, kad kronikos romėnų ar į juos panašių atvykimą į Lietuvą datavo 48 m. pr. Kr., 57 m. po Kr. arba 401 m."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Senovės romėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini romėnų ar į juos panašių asmenų atvykimą į Lietuvą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Senovės romėnai keliavo į Lietuva (0.86)"
-  temporaliniai_duomenys: "kelionės data: 401 m"
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Senovės romėnai keliavo į Lietuva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Kronikinis kilmės pasakojimas performuluotas kaip šaltinių datavimas, ne kaip neutralus faktas. Palikta būtina Narbuto ir kronikų atribucija."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-198153
-
-<a id="claim-t-216307"></a>
-- t-003
-  teiginys: "Negalime neigti, kad senovės lietuviai nesmerkė savižudy bės; juk nepalyginti labiau apsišvietę graikai ir romėnai buvo tos pačios nuomonės."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-197992
-
-<a id="claim-t-216759"></a>
-- t-004
-  teiginys: "Senovėje žalčių garbinimas buvo visuotinis: indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau gelis kitų tautų nebuvo laisvos nuo tų prietarų."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-201346
-
-<a id="claim-t-217372"></a>
-- t-005
-  teiginys: "Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuriai buvo lemta tapti pasaulio valdymo pavyzdžiu."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lacijus: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės romėnai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lacijus: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės romėnai\" parinktas kaip owner_note_path. Targetas \"Lacijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-199030
-
-<a id="claim-t-217539"></a>
-- t-006
-  teiginys: "Toks vainikas senovės prūsų tarme vadinosi apglobtė (Abglojte), kas reiškia nuometą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-
-<a id="claim-t-217551"></a>
-- t-007
-  teiginys: "Narbutas pažymi, kad graikai ir romėnai Heraklį vadino Alkidu, Minervą Alkida ir turėjo dievybes, vadintas Alkidėmis."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės romėnai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės romėnai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-200075
-
-<a id="claim-t-218921"></a>
-- t-008
-  teiginys: "Romėnų DU Penates, Lares ir 1.1., lie tuvių Siejmi Dewas, Gulbi ir 1.1, buvo šios rūšies dievaičiai, tik jie buvo visiems bendri, garbinami visų krašto žmonių, jų es mę suprasdavo ir juos įsivaizduodavo pagal kitų dievų pavyz dį, jiems skirtas maldas jungdavo."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-198114
-
-<a id="claim-t-219845"></a>
-- t-009
-  teiginys: "Tas tikėjimas V amžiaus pabaigoje arba VI amžiaus pradžioje kažkokiu bū du susigiminiavo su senovės romėnų tikyba, tikriausiai ne itin svetima lietuvių protėviams dėl jų kraujo giminystės ir santy kių rytuose su graikais2."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199922
-
-<a id="claim-t-216533"></a>
-- t-216533
-  teiginys: "Narbutas lygina, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus atskiriems dievams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "pastate -> Aukurai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Senovės romėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Aukurai: llm_allowed_candidate, thing"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad romėnai statė prabangius aukurus."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Senovės romėnai pastatė Aukurai (0.90); Graikai pastatė Aukurai (0.90)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-199922
-    - c-200075
-
-<a id="claim-t-218527"></a>
-- t-218527
-  teiginys: "Savo ruožtu romėnai - kuo jie darėsi galingesni ir labiau apsišvietę, tuo labiau grimzdo į daugiadievystės chaosą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-197992
-    - c-199922
-
-<a id="claim-t-219024"></a>
-- t-219024
-  teiginys: "Graikai bei romėnai, kuriuos šiame veikale minėsime va dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas dievybes - Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia viskam."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-200075
-
-<a id="claim-t-219688"></a>
-- t-219688
-  teiginys: "Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie toj parašų patvirtindavo savo raštus - taip, kaip romėnai9."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-200075
-
-<a id="claim-t-219819"></a>
-- t-219819
-  teiginys: "Narbutas rašo, kad romėnai per vestuves nukirpdavo kasas, aukodavo jas Junonai ir šią pakirptuvių apeigą vadino Heratelea."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės romėnai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės romėnai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-

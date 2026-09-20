@@ -27,6 +27,17 @@ media_all_json: |-
 
 Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis".
 
+## Teiginiai
+
+<a id="claim-t-02092"></a>
+- t-001
+  teiginys: "Vienuolynai buvo paskelbti „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-02330
+
 ## Citatos
 
 - id: c-02330
@@ -46,17 +57,5 @@ Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propag
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-02092"></a>
-- t-001
-  teiginys: "Vienuolynai buvo paskelbti „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-02330
-

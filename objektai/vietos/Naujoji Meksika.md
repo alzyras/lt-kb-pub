@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Naujoji Meksika'
+pavadinimas: Naujoji Meksika
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-80569a20875400986229b27c"
-canonical_name: "Naujoji Meksika"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Naujoji Meksika"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-80569a20875400986229b27c
+canonical_name: Naujoji Meksika
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Naujoji Meksika
 sameAs: []
-canonical_biography: "Noclis straips nyje apie Serapį teigia, kad XVI amžiuje ispanai Naujojoje Meksikoje, Akusamilio provincijoje, radę kažkokį meksikie čių dievą, ant kurio drabužių buvę iškalti kryžiai."
+canonical_biography: 'Noclis straips nyje apie Serapį teigia, kad XVI amžiuje ispanai Naujojoje Meksikoje, Akusamilio provincijoje, radę kažkokį meksikie čių dievą, ant kurio drabužių buvę iškalti kryžiai.'
 ---
 # Naujoji Meksika
 
@@ -67,6 +66,5 @@ Noclis straips nyje apie Serapį teigia, kad XVI amžiuje ispanai Naujojoje Meks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

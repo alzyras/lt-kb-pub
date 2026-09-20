@@ -1,18 +1,18 @@
 ---
 tipas: asmuo
-pavadinimas: 'Birutė'
+pavadinimas: Birutė
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - Lietuvos Didžioji Kunigaikštija ir jos tradicija
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1331 m.'
-  - '1416 m.'
+  - 1331 m.
+  - 1416 m.
 date_start: '1331'
 date_end: '1416'
 sukurta: ''
@@ -21,30 +21,42 @@ tags:
   - asmuo
   - kunigaikštis
 amziai:
-  - 'XIV'
-  - 'XV'
+  - XIV
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vytautas_the_Great_statue_03937.JPG/1920px-Vytautas_the_Great_statue_03937.JPG'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVytautas_the_Great_statue_03937.JPG'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'statue_of'
-media_primary_json: |-
-  {"mediaId":"m-34c5236d231bd6dadf922380","title":"Vytautas the Great statue 03937.JPG","caption":"Birutės medinė skulptūra su mažuoju Vytautu Vilniuje.","originalTitle":"Vytautas the Great statue 03937.JPG","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Self-photographed","dateDisplay":"2007","dateStart":null,"dateEnd":null,"width":1944,"height":2592,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVytautas_the_Great_statue_03937.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vytautas_the_Great_statue_03937.JPG/1920px-Vytautas_the_Great_statue_03937.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"šeima","label":"šeima","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Birutė","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments and memorials to Vytautas the Great","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Sony DSC-W55","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Birutė.md","title":"Birutė","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T18:21:01.131577+03:00","reviewedAt":"2026-07-18T18:21:18.088674+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma medinė moters figūra su vaikais, atitinkanti Birutės su mažuoju Vytautu skulptūrą.","metadataEvidence":"Wikimedia Commons aprašyme konkrečiai nurodyta, kad tai Birutės, Kęstučio žmonos, skulptūra su mažuoju Vytautu; pateiktas pavadinimas, autorius ir vieta Vilniuje.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą – Birutę – kaip skulptūrą.","isPrimary":1}
-media_direct_json: |-
-  [{"mediaId":"m-34c5236d231bd6dadf922380","title":"Vytautas the Great statue 03937.JPG","caption":"Birutės medinė skulptūra su mažuoju Vytautu Vilniuje.","originalTitle":"Vytautas the Great statue 03937.JPG","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Self-photographed","dateDisplay":"2007","dateStart":null,"dateEnd":null,"width":1944,"height":2592,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVytautas_the_Great_statue_03937.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vytautas_the_Great_statue_03937.JPG/1920px-Vytautas_the_Great_statue_03937.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"šeima","label":"šeima","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Birutė","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments and memorials to Vytautas the Great","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Sony DSC-W55","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Birutė.md","title":"Birutė","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T18:21:01.131577+03:00","reviewedAt":"2026-07-18T18:21:18.088674+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma medinė moters figūra su vaikais, atitinkanti Birutės su mažuoju Vytautu skulptūrą.","metadataEvidence":"Wikimedia Commons aprašyme konkrečiai nurodyta, kad tai Birutės, Kęstučio žmonos, skulptūra su mažuoju Vytautu; pateiktas pavadinimas, autorius ir vieta Vilniuje.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą – Birutę – kaip skulptūrą.","isPrimary":1}]
-media_contextual_json: |-
-  []
-media_all_json: |-
-  [{"mediaId":"m-34c5236d231bd6dadf922380","title":"Vytautas the Great statue 03937.JPG","caption":"Birutės medinė skulptūra su mažuoju Vytautu Vilniuje.","originalTitle":"Vytautas the Great statue 03937.JPG","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Self-photographed","dateDisplay":"2007","dateStart":null,"dateEnd":null,"width":1944,"height":2592,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVytautas_the_Great_statue_03937.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vytautas_the_Great_statue_03937.JPG/1920px-Vytautas_the_Great_statue_03937.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"šeima","label":"šeima","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Birutė","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments and memorials to Vytautas the Great","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Sony DSC-W55","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Birutė.md","title":"Birutė","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T18:21:01.131577+03:00","reviewedAt":"2026-07-18T18:21:18.088674+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma medinė moters figūra su vaikais, atitinkanti Birutės su mažuoju Vytautu skulptūrą.","metadataEvidence":"Wikimedia Commons aprašyme konkrečiai nurodyta, kad tai Birutės, Kęstučio žmonos, skulptūra su mažuoju Vytautu; pateiktas pavadinimas, autorius ir vieta Vilniuje.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą – Birutę – kaip skulptūrą.","isPrimary":1}]
-entity_id: "ent-da2cfb82b3f38f410f9e03e6"
-canonical_name: "Birutė"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Birutė","Birutės"]
+media_primary_directness: direct
+media_primary_relation_type: statue_of
+media_primary_json: '{"mediaId":"m-34c5236d231bd6dadf922380","title":"Vytautas the Great statue 03937.JPG","caption":"Birutės medinė skulptūra su mažuoju Vytautu Vilniuje.","originalTitle":"Vytautas the Great statue 03937.JPG","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Self-photographed","dateDisplay":"2007","dateStart":null,"dateEnd":null,"width":1944,"height":2592,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVytautas_the_Great_statue_03937.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vytautas_the_Great_statue_03937.JPG/1920px-Vytautas_the_Great_statue_03937.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"šeima","label":"šeima","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Birutė","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments and memorials to Vytautas the Great","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Sony DSC-W55","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Birutė.md","title":"Birutė","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T18:21:01.131577+03:00","reviewedAt":"2026-07-18T18:21:18.088674+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma medinė moters figūra su vaikais, atitinkanti Birutės su mažuoju Vytautu skulptūrą.","metadataEvidence":"Wikimedia Commons aprašyme konkrečiai nurodyta, kad tai Birutės, Kęstučio žmonos, skulptūra su mažuoju Vytautu; pateiktas pavadinimas, autorius ir vieta Vilniuje.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą – Birutę – kaip skulptūrą.","isPrimary":1}'
+media_direct_json: '[{"mediaId":"m-34c5236d231bd6dadf922380","title":"Vytautas the Great statue 03937.JPG","caption":"Birutės medinė skulptūra su mažuoju Vytautu Vilniuje.","originalTitle":"Vytautas the Great statue 03937.JPG","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Self-photographed","dateDisplay":"2007","dateStart":null,"dateEnd":null,"width":1944,"height":2592,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVytautas_the_Great_statue_03937.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vytautas_the_Great_statue_03937.JPG/1920px-Vytautas_the_Great_statue_03937.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"šeima","label":"šeima","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Birutė","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments and memorials to Vytautas the Great","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Sony DSC-W55","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Birutė.md","title":"Birutė","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T18:21:01.131577+03:00","reviewedAt":"2026-07-18T18:21:18.088674+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma medinė moters figūra su vaikais, atitinkanti Birutės su mažuoju Vytautu skulptūrą.","metadataEvidence":"Wikimedia Commons aprašyme konkrečiai nurodyta, kad tai Birutės, Kęstučio žmonos, skulptūra su mažuoju Vytautu; pateiktas pavadinimas, autorius ir vieta Vilniuje.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą – Birutę – kaip skulptūrą.","isPrimary":1}]'
+media_contextual_json: '[]'
+media_all_json: '[{"mediaId":"m-34c5236d231bd6dadf922380","title":"Vytautas the Great statue 03937.JPG","caption":"Birutės medinė skulptūra su mažuoju Vytautu Vilniuje.","originalTitle":"Vytautas the Great statue 03937.JPG","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Self-photographed","dateDisplay":"2007","dateStart":null,"dateEnd":null,"width":1944,"height":2592,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVytautas_the_Great_statue_03937.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vytautas_the_Great_statue_03937.JPG/1920px-Vytautas_the_Great_statue_03937.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"šeima","label":"šeima","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Birutė","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments and memorials to Vytautas the Great","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Sony DSC-W55","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Birutė.md","title":"Birutė","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T18:21:01.131577+03:00","reviewedAt":"2026-07-18T18:21:18.088674+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma medinė moters figūra su vaikais, atitinkanti Birutės su mažuoju Vytautu skulptūrą.","metadataEvidence":"Wikimedia Commons aprašyme konkrečiai nurodyta, kad tai Birutės, Kęstučio žmonos, skulptūra su mažuoju Vytautu; pateiktas pavadinimas, autorius ir vieta Vilniuje.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą – Birutę – kaip skulptūrą.","isPrimary":1}]'
+entity_id: ent-da2cfb82b3f38f410f9e03e6
+canonical_name: Birutė
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Birutė
+  - Birutės
 sameAs: []
-canonical_biography: "Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris. Birutė iš jų bus išmokęs skaityti ir rašyti. Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę."
+canonical_biography: 'Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris. Birutė iš jų bus išmokęs skaityti ir rašyti. Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
+external_sources_json: '[{"title":"Birutė","url":"https://lt.wikipedia.org/wiki/Birut%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Birutė","url":"https://www.vle.lt/straipsnis/birute/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T08:45:25+00:00","source_checked_at":"2026-09-19T08:45:25+00:00","counts":{"relations":3,"gallery":1,"sources":7},"featured_claim_ids":["t-176317","t-176318","t-220058","t-176313","t-176321"],"featured_claims":[{"claim_id":"t-176317","text":"Birutės ir Kęstučio meilės istorija laikoma vienu iš Lietuvos metraščiuose užrašytų epinių pasakojimų siužetų.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-160331"]},{"claim_id":"t-176318","text":"Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-160331"]},{"claim_id":"t-220058","text":"Strijkov skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy bas, aiškiai mini ją buvus panašia žyne, arba vestale.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-201567"]},{"claim_id":"t-176313","text":"Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-15262"]},{"claim_id":"t-176321","text":"Kunigaikštienės Birutės paskandinimo aplinkybės, kaip ir Kęstučio mirtis, šaltinyje vadinamos neaiškiomis.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-160334"]}],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Birutė","url":"https://lt.wikipedia.org/wiki/Birut%C4%97","publisher":"Vikipedija","language":"lt","article_id":"47935","revision_id":"7254026","published_at":"2024-04-20T15:22:16Z","version_pk":"","content_hash":"38176d74a74d5b8b927d1c65d2f468282c4d7fa2bbfd3c9579e65c2de35dba70","retrieved_at":"2026-09-19T08:43:09+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Birut%C4%97&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"47935"}},"intro":"Birutė (m. 1382 m. Brasta, Lietuva) – Lietuvos didžiojo kunigaikščio Kęstučio antroji žmona, žymiausio Lietuvos valdovo Vytauto motina. Birutė yra kilusi iš Palangos, iš žemaičių bajorų giminės. Jos dėdė iš tėvo pusės buvo žemaičių didžiūnas Vidmantas.","original_intro":"","translation_status":"native","infobox":[{"code":"death_date","label":"Mirė","value":"1382 m. ar apie 1389 m.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Palanga","source":"wikipedia_infobox"},{"code":"spouse","label":"Sutuoktiniai","value":"Kęstutis","source":"wikipedia_infobox"},{"code":"children","label":"Vaikai","value":"Vytautas Didysis · Tautvilas · Žygimantas Kęstutaitis · Miklausė Marija · Ona Danutė · Rimgailė","source":"wikipedia_infobox"},{"code":"positions","label":"Pareigos","value":"Lietuvos didžioji kunigaikštienė","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Birutė","url":"https://lt.wikipedia.org/wiki/Birut%C4%97","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Birutė","url":"https://www.vle.lt/straipsnis/birute/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Birut%C4%97","https://www.vle.lt/straipsnis/birute/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"6e1c78a58cbf5dd657f6369b","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Neįgijo krikščioniško vardo ir buvo palaidota kaip pagonė.","context":"Taip aprašoma 2013 m. Lietuvos istorijoje; šaltinis nurodo, kad jos legenda išliko įsigalint krikščionybei.","support_ids":["t-176318","c-160331"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176318","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-160331","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Visų pirma atsirado herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš- čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai- dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti pasakojimai užrašyti XV–XVI a."}],"status":"published","conflict_status":"clear"},{"trait_id":"0b373d3e2838c2ed18060608","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Kunigaikštienė.","context":"Šaltinyje Birutė įvardijama Kęstučio žmona ir kunigaikštienė.","support_ids":["t-176321","c-160334"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176321","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-160334","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tačiau ir tai negalėjo pasotinti go­ duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­ 36 Klausimas, ar Kęstutis pats pasirin­ kęs mirtį, - juk Skirgaila, važiavęs jo aplankyti, netikėtai rado negyvą, ar nužudytas, o jo žmona kunigaikš­ tienė Birutė paskandinta, - nėra iki šiol aiškus ir rašantiesiems Lietuvos istoriją dera jo imtis. 37 Vygandas savo kronikoje, p."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"80f95111030b082d5ad5d680","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Panaši į žynę arba vestalę.","context":"Teodoras Narbutas nurodo, kad Strijkovskis taip apibūdino Birutę pasakodamas apie jos ir Kęstučio vedybas.","support_ids":["t-220058","c-201567"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220058","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-201567","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Strijkov­ skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­ bas, aiškiai mini ją buvus panašia žyne, arba vestale."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"55555f6f789a765c58535a12","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Jos ir Kęstučio meilės istorija laikoma vienu iš epinių pasakojimų siužetų, užrašytų Lietuvos metraščiuose.","context":"Tokį vertinimą pateikia Lietuvos istorijos autoriai, kalbėdami apie XV–XVI a. užrašytus pasakojimus.","support_ids":["t-176317","c-160331"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176317","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-160331","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Visų pirma atsirado herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš- čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai- dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti pasakojimai užrašyti XV–XVI a."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"71a0a6ee3c700811405853f0","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Jos legenda nenutrūko įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta.","context":"Tai 2013 m. Lietuvos istorijoje pateiktas autoriaus apibūdinimas.","support_ids":["t-176318","c-160331"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176318","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-160331","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Visų pirma atsirado herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš- čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai- dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti pasakojimai užrašyti XV–XVI a."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Birutė – Lietuvos didžiojo kunigaikščio Kęstučio žmona ir kunigaikštienė, minima istoriniuose bei epiniuose pasakojimuose. Pasak vieno šaltinio, ji pagimdė tris jaunesniuosius Kęstučio sūnus ir tris dukteris. Birutės ir Kęstučio meilės istorija priskiriama prie Lietuvos metraščiuose užrašytų epinių siužetų, vėliau įsitvirtinusių kaip reikšminga jų atminimo dalis. Išskirtinė jos istorijos detalė – Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, tačiau jos legenda išliko krikščionybei įsigalint; Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta. Šaltiniuose taip pat minima, kad ji galėjo būti žynė arba vestalė, o jos paskandinimo aplinkybės vadinamos neaiškiomis. Pateikti duomenys neleidžia patikimai nustatyti Birutės gyvenimo laikotarpio ir konkrečios veiklos vietos, todėl santrauka laikytina neišsamia.","sentences":[{"sentence_id":"s1","text":"Birutė – Lietuvos didžiojo kunigaikščio Kęstučio žmona ir kunigaikštienė, minima istoriniuose bei epiniuose pasakojimuose.","support_ids":["c-160334","c-160331"]},{"sentence_id":"s2","text":"Pasak vieno šaltinio, ji pagimdė tris jaunesniuosius Kęstučio sūnus ir tris dukteris.","support_ids":["c-15262"]},{"sentence_id":"s3","text":"Birutės ir Kęstučio meilės istorija priskiriama prie Lietuvos metraščiuose užrašytų epinių siužetų, vėliau įsitvirtinusių kaip reikšminga jų atminimo dalis.","support_ids":["c-160331"]},{"sentence_id":"s4","text":"Išskirtinė jos istorijos detalė – Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, tačiau jos legenda išliko krikščionybei įsigalint; Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta.","support_ids":["c-160331"]},{"sentence_id":"s5","text":"Šaltiniuose taip pat minima, kad ji galėjo būti žynė arba vestalė, o jos paskandinimo aplinkybės vadinamos neaiškiomis.","support_ids":["c-201567","c-160334"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai patvirtina, kad Birutė buvo Kęstučio žmona ir kunigaikštienė bei minima epiniame siužete, tačiau neparemia viso teiginio apie istorinius ir epinius pasakojimus."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Birutė pagimdė tris jaunesniuosius Kęstučio sūnus ir tris dukteris."},{"sentence_id":"s3","supported":false,"reason":"Šaltinis patvirtina meilės istorijos priskyrimą Lietuvos metraščiuose užrašytiems epiniams siužetams, tačiau nepatvirtina teiginio, kad ji vėliau įsitvirtino kaip reikšminga jų atminimo dalis."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina, kad Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, jos legenda išliko krikščionybei įsigalint, o Birutės kalnas buvo gerbiamas kaip šventosios vieta."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai nurodo, kad Birutė galėjo būti žynė arba vestalė, o jos paskandinimo aplinkybės laikomos neaiškiomis."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["c-160334","c-160331"]},{"sentence_id":"s2","supported":false,"support_ids":["c-15262"]},{"sentence_id":"s3","supported":false,"support_ids":["c-160331"]},{"sentence_id":"s4","supported":false,"support_ids":["c-160331"]},{"sentence_id":"s5","supported":false,"support_ids":["c-201567","c-160334"]}],"verifier":"gpt-5.6-luna"},"quality":28,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-34c5236d231bd6dadf922380","reason":"visual_verified_identity_primary","identity_verified":true,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[],"media_verification":{"status":"verified","primary_media_id":"m-34c5236d231bd6dadf922380","candidate_count":1,"visual_verified_count":1,"identity_verified_count":1,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Vaizdas tiesiogiai vaizduoja konkretų targetą – Birutę – kaip skulptūrą.","visual_evidence":"Matoma medinė moters figūra su vaikais, atitinkanti Birutės su mažuoju Vytautu skulptūrą.","metadata_evidence":"Wikimedia Commons aprašyme konkrečiai nurodyta, kad tai Birutės, Kęstučio žmonos, skulptūra su mažuoju Vytautu; pateiktas pavadinimas, autorius ir vieta Vilniuje.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_dukte","direction":"outbound","target":"objektai/asmenys/Vydimantas","claim_id":"t-176315","confidence":0.94},{"predicate":"buvo_palaidotas","direction":"outbound","target":"objektai/daiktai/Aukuras","claim_id":"t-219074","confidence":0.86},{"predicate":"buvo_zmona","direction":"outbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-184675","confidence":0.96}],"timeline":[],"support_disclosure":{"claims":6,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 26dc10dae933068e
+object_page_generated_at: '2026-09-19T08:45:25+00:00'
+object_page_source_checked_at: '2026-09-19T08:45:25+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '5'
+object_page_seo_description: 'Birutė – Lietuvos didžiojo kunigaikščio Kęstučio žmona ir kunigaikštienė, minima istoriniuose bei epiniuose pasakojimuose. Pasak vieno šaltinio, ji pagimdė…'
+object_page_seo_input_hash: 5a2b01567de78c6328abcd86bd8a651040d895ba0db27744b7a3aa25951b9dfb
+object_page_seo_generated_at: '2026-09-19T08:45:25+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Birutė
 
@@ -53,6 +65,104 @@ canonical_biography: "Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio s�
 Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris. Birutė iš jų bus išmokęs skaityti ir rašyti. Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.
 
 ## Teiginiai
+
+<a id="claim-t-176313"></a>
+- t-001
+  teiginys: "Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Birutė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-15262
+
+<a id="claim-t-176314"></a>
+- t-002
+  teiginys: "Birutė iš jų bus išmokęs skaityti ir rašyti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Birutė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-160327
+
+<a id="claim-t-176315"></a>
+- t-003
+  teiginys: "Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_dukte -> Vydimantas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Birutė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vydimantas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Birutę kaip Vydimanto dukterį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Birutė buvo duktė Vydimantas (0.94)"
+  pagrindžia:
+    - c-160328
+
+<a id="claim-t-176317"></a>
+- t-004
+  teiginys: "Birutės ir Kęstučio meilės istorija laikoma vienu iš Lietuvos metraščiuose užrašytų epinių pasakojimų siužetų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Birutės kalnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Birutė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Birutės kalnas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Birutės kalnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-160331
+
+<a id="claim-t-176318"></a>
+- t-005
+  teiginys: "Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Algirdo žygiai į Maskvą: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdo žygiai į Maskvą: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai įvardyti Algirdo žygiai į Maskvą kaip su Algirdu susijęs įvykis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) keliavo į Algirdo žygiai į Maskvą (0.83)"
+  pagrindžia:
+    - c-160331
+
+<a id="claim-t-176319"></a>
+- t-006
+  teiginys: "Lietuvos metraščiuose Birutė vaizduojama kaip Palangos mergelė, žmonių garbinta kaip dievaitė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Palanga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Birutė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Palanga: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Palanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-160333
 
 <a id="claim-t-176321"></a>
 - t-007
@@ -91,160 +201,10 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   pagrindžia:
     - c-168036
 
-<a id="claim-t-210815"></a>
-- t-210815
-  teiginys: "Birutė buvo Palangoje gyvenusi mergelė, žmonių garbinta kaip dievaitė."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194275
-
-<a id="claim-t-219169"></a>
-- t-219169
-  teiginys: "Birutė turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kunigaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip žmoną."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201546
-
-<a id="claim-t-220058"></a>
-- t-220058
-  teiginys: "Strijkov skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy bas, aiškiai mini ją buvus panašia žyne, arba vestale."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201567
-
-<a id="claim-t-219110"></a>
-- t-219110
-  teiginys: "Au kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu sę, turėjo palikti jai tas apeigas."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-201502
-
-<a id="claim-t-219810"></a>
-- t-219810
-  teiginys: "Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Palangos aukuro apeigas, todėl jos Žemaitijoje išliko ilgiau."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Aukuras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Birutė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aukuras: mention_match, thing, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Aukuras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200481
-
-<a id="claim-t-176313"></a>
-- t-176313
-  teiginys: "Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Birutė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-15262
-
-<a id="claim-t-176314"></a>
-- t-176314
-  teiginys: "Birutė iš jų bus išmokęs skaityti ir rašyti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Birutė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-160327
-
-<a id="claim-t-176315"></a>
-- t-176315
-  teiginys: "Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_dukte -> Vydimantas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Birutė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vydimantas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Birutę kaip Vydimanto dukterį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Birutė buvo duktė Vydimantas (0.94)"
-  pagrindžia:
-    - c-160328
-
-<a id="claim-t-176317"></a>
-- t-176317
-  teiginys: "Birutės ir Kęstučio meilės istorija laikoma vienu iš Lietuvos metraščiuose užrašytų epinių pasakojimų siužetų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Birutės kalnas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Birutė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Birutės kalnas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Birutės kalnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-160331
-
-<a id="claim-t-176318"></a>
-- t-176318
-  teiginys: "Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Algirdo žygiai į Maskvą: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdo žygiai į Maskvą: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai įvardyti Algirdo žygiai į Maskvą kaip su Algirdu susijęs įvykis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) keliavo į Algirdo žygiai į Maskvą (0.83)"
-  pagrindžia:
-    - c-160331
-
 <a id="claim-t-184676"></a>
-- t-184676
+- t-009
   teiginys: "Vytautas, sužinojęs apie Jogailos žygį į Trakus, su pamote Birute pasitraukė į Gardiną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -261,10 +221,88 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   pagrindžia:
     - c-168037
 
+<a id="claim-t-188514"></a>
+- t-010
+  teiginys: "Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip Žemaičių didiko dukterį ir Praurimės aukuro ugnies saugotoją prie Palangos."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Aukuras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Birutė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aukuras: mention_match, thing, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Aukuras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171404
+
+<a id="claim-t-188515"></a>
+- t-011
+  teiginys: "Narbutas pasakoja, kad Kęstutis Birutę išsivežė prieš jos valią į Naujuosius Trakus ir ten vedė, nors ji buvo davusi skaistybės įžadą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Birutė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Birutės nugabenimą į Naujuosius Trakus."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Birutė keliavo į Trakai (0.88)"
+  pagrindžia:
+    - c-171405
+
+<a id="claim-t-188516"></a>
+- t-012
+  teiginys: "Narbutas rašo, kad Birutė, žuvus Kęstučiui ir valdant Vytautui, grįžo į Palangą ir 1416 metais ten mirė laikydamasi senojo tikėjimo."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Palanga: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Birutė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Palanga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai teigia Birutės grįžimą į Palangą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Birutė keliavo į Palanga (0.93); Birutė mirė Palanga (0.86)"
+  pagrindžia:
+    - c-171406
+
+<a id="claim-t-188517"></a>
+- t-013
+  teiginys: "Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Palangos aukuro apeigas, todėl jos Žemaitijoje išliko ilgiau."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Aukuras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Birutė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aukuras: mention_match, thing, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Aukuras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171407
+
 <a id="claim-t-196428"></a>
-- t-196428
+- t-014
   teiginys: "Kojelavičiaus pasakojime Kęstutis, grįžęs į Lietuvą, paėmė į žmonas vaidilutę Birutę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -274,37 +312,31 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   pagrindžia:
     - c-168036
 
-<a id="claim-t-207488"></a>
-- t-207488
-  teiginys: "Alfredas Bumblauskas nurodo, kad Birutės ir Kęstučio meilės istorija yra vienas iš Lietuvos metraščiuose užrašytų siužetų, atitinkančių epinius pasakojimus."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-197390"></a>
+- t-015
+  teiginys: "Au kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu sę, turėjo palikti jai tas apeigas."
+  atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
-  pagrindžia:
-    - c-190034
-
-<a id="claim-t-219836"></a>
-- t-219836
-  teiginys: "Narbutas chronologiškai skaičiuoja, kad Birutė gimė apie 1331 metus, ištekėjo 1348 metais ir mirė 1416 metais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Birutė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
-    - c-200035
+    - c-179162
+
+<a id="claim-t-197391"></a>
+- t-016
+  teiginys: "Birutė iškirpta arba išgraužta, dėl tų prietarų jie mano, kad tai pranašauja žmonių arba gyvulių marą; dėl šios priežasties dažnai visame kaime kyla didelis verksmas ir susijaudinimas; išplisdamas aplinkui, jis tampa didelio nerimo priežastimi."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-171408
 
 ## Reikšmingi paminėjimai
 - c-005
@@ -429,8 +461,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176313
+  pagrindzia:
+    - t-001
 
 - id: c-160327
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -460,8 +492,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176314
+  pagrindzia:
+    - t-002
 
 - id: c-160328
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -484,8 +516,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176315
+  pagrindzia:
+    - t-003
 
 - id: c-160331
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -509,9 +541,9 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176317
-    - t-176318
+  pagrindzia:
+    - t-004
+    - t-005
 
 - id: c-160333
   autorius: "Petras Dusburgietis"
@@ -529,6 +561,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-160334
   autorius: "Michał Baliński"
@@ -565,12 +599,11 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     žmonių.
   citata_rodoma: "Tačiau ir tai negalėjo pasotinti go­\nduolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­\n36\nKlausimas, ar Kęstutis pats pasirin­\nkęs mirtį, - juk Skirgaila, važiavęs\njo aplankyti, netikėtai rado negyvą,\nar nužudytas, o jo žmona kunigaikš­\ntienė Birutė paskandinta, - nėra iki\nšiol aiškus ir rašantiesiems Lietuvos\nistoriją dera jo imtis.\n37\nVygandas  savo kronikoje, p."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-168036
@@ -595,14 +628,13 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     romis, nusiaubė visą kraštą.
   citata_rodoma: "Užėmęs kovos lau­\nką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­\nsa, gana kruviną; jie čia ir sustojo, be vado nedrįsdami \ntoliau žygiuoti. Tuo tarpu lietuviai, išsaugoję likusius \nkarius, ramiai patraukė namo, išsigabendami laimikį — \nvisą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į \nžmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­\nnimu, nors labai norėjo užmiršti savo vargus."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
-    - t-196428
+    - t-014
 
 - id: c-168037
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -630,8 +662,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184676
+  pagrindzia:
+    - t-009
 
 - id: c-171404
   autorius: "Teodoras Narbutas"
@@ -657,6 +689,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-171405
   autorius: "Teodoras Narbutas"
@@ -679,6 +713,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-171406
   autorius: "Teodoras Narbutas"
@@ -698,6 +734,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 - id: c-171407
   autorius: "Teodoras Narbutas"
@@ -719,6 +757,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 - id: c-171408
   autorius: "Teodoras Narbutas"
@@ -740,6 +780,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 - id: c-179162
   autorius: "Teodoras Narbutas"
@@ -762,165 +804,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-190034
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 106"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 106."
-  citata_originali: |
-    Visų pirma atsirado herojinės dainos, bet
-    jų žinoma labai nedaug. Ryškiausias pavyzdys – dainos apie Sudaitį. Šiandien pripažįstama,
-    kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedi-
-    mino sapnas apie Vilniaus įkūrimą, Algirdo žygiai į Maskvą bei Birutės ir Kęstučio meilės
-    istorija (Birutės istorija įdomi dar ir kitkuo – taip ir neįgijusi krikščioniško vardo, palaidota
-    kaip pagonė, jos legenda nenutrūko ir įsigalint krikščionybei, o XVI a.
-  citata_rodoma: "usias pavyzdys – dainos apie Sudaitį. Šiandien pripažįstama, \nkad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedi-\nmino sapnas apie Vilniaus įkūrimą, Algirdo žygiai į Maskvą bei Birutės ir Kęstučio meilės \nistorija (Biru"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207488
-
-- id: c-194275
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 67"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 67."
-  citata_originali: |
-    Kęstutis, viešpataudamas Trakuose bei Žemaičiuose,
-    išgirdo esant Palangoje mergelę, vardu Birutę, kuri pa­
-    gonišku papročiu buvo pasižadėjusi savo dievams iš­
-    saugoti skaistybę ir pati buvo žmonių garbinama kaip
-    dievaitė
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210815
-
-- id: c-200035
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 157"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
-  citata_originali: |
-    Pastebėję po nakties avį
-    nuplikusia dėmėmis nugara, be vilnos, tarytum būtų ji iškirpta
-    arba išgraužta, dėl tų prietarų jie mano, kad tai pranašauja
-    žmonių arba gyvulių marą; dėl šios priežasties dažnai visame
-    kaime kyla didelis verksmas ir susijaudinimas; išplisdamas ap­
-    linkui, jis tampa didelio nerimo priežastimi. Stenderis savo lat­
-    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
-    sukeltų, neramumų liudytojas.
-    Garbinamas buvo žalčio pavidalu.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219836
-
-- id: c-200481
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
-  citata_originali: |
-    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
-    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
-    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
-    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
-    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
-    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
-    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
-    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
-    deivę, juk ir Strijkovskis tą patvirtina.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219810
-
-- id: c-201502
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
-  citata_originali: |
-    Lietuvos ir Prūsijos archeologų surinkti duomenys patiks­
-    lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Prauri-
-    mės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi­
-    lučių. Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
-    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
-    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
-    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
-    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
-    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
-    sę, turėjo palikti jai tas apeigas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219110
-
-- id: c-201546
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
-  citata_originali: |
-    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
-    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
-    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
-    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
-    nė, būdama gyva, garsėjo savo kilniaširdiškumu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219169
-
-- id: c-201567
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 114"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 114."
-  citata_originali: |
-    Strijkov­
-    skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­
-    bas, aiškiai mini ją buvus panašia žyne, arba vestale.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220058
+  pagrindzia:
+    - t-015
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

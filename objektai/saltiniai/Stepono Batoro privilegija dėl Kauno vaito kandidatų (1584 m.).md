@@ -28,6 +28,20 @@ media_all_json: |-
 
 Steponas Batoras, Kauno burmistrų ir tarėjų prašomas, atsižvelgė į senovinius papročius ir paskelbtoje privilegijoje pareiškė skelbsiantis Kauno miesto vaitu vieną iš keturių Kauno burmistrų, tarėjų ir miestiečių bendruomenės pasiūlytų kandidatų į tas.
 
+## Teiginiai
+
+<a id="claim-t-202257"></a>
+- t-001
+  teiginys: "Steponas Batoras, Kauno burmistrų ir tarėjų prašomas, atsižvelgė į senovinius papročius ir paskelbtoje privilegijoje pareiškė skelbsiantis Kauno miesto vaitu vieną iš keturių Kauno burmistrų, tarėjų ir miestiečių bendruomenės pasiūlytų kandidatų į tas."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185604
+
 ## Citatos
 
 - id: c-185604
@@ -46,20 +60,5 @@ Steponas Batoras, Kauno burmistrų ir tarėjų prašomas, atsižvelgė į senovi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202257"></a>
-- t-001
-  teiginys: "Steponas Batoras, Kauno burmistrų ir tarėjų prašomas, atsižvelgė į senovinius papročius ir paskelbtoje privilegijoje pareiškė skelbsiantis Kauno miesto vaitu vieną iš keturių Kauno burmistrų, tarėjų ir miestiečių bendruomenės pasiūlytų kandidatų į tas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185604
-

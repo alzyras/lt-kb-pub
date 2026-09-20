@@ -49,23 +49,10 @@ canonical_biography: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Staro
 
 ## Teiginiai
 
-<a id="claim-t-210698"></a>
-- t-210698
-  teiginys: "Gimbutas valdė Jurbarką, Kauną ir Žemaičių žemę."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-193098
-
 <a id="claim-t-200697"></a>
-- t-200697
+- t-001
   teiginys: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -83,9 +70,9 @@ canonical_biography: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Staro
     - c-184045
 
 <a id="claim-t-205523"></a>
-- t-205523
+- t-002
   teiginys: "Gimbuto sūnus ir Palemono pro anūkis Mantvila — turtingas Lietuvos didikas ir žymus kariūnas, arba Wada, tikriausiai pasižymėjęs kai kuriuose grobikiškuose žygiuose ir, galimas daiktas, gelbėdamas Lietuvos žemes dešiniajame Neries žemupio krante nuo Rusios."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -105,8 +92,8 @@ canonical_biography: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Staro
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-26 17:37"
-  pagrindžia:
-    - t-200697
+  pagrindzia:
+    - t-001
 
 - id: c-188139
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -125,24 +112,5 @@ canonical_biography: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Staro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205523
-
-- id: c-193098
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 41."
-  citata_originali: |
-    O jo
-    brolis Gimbutas Jurbarką, ir Kauną, ir visą Žemaičių
-    žemę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210698
-
+  pagrindzia:
+    - t-002

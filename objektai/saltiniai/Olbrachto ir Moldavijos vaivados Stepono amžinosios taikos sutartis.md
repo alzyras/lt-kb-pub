@@ -1,6 +1,6 @@
 ---
 tipas: saltinis
-pavadinimas: 'Olbrachto ir Moldavijos vaivados Stepono amžinosios taikos sutartis'
+pavadinimas: Olbrachto ir Moldavijos vaivados Stepono amžinosios taikos sutartis
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Olbrachto ir Moldavijos vaivados Stepono amžinosios taikos sutartis
 
@@ -74,7 +71,7 @@ Moldavijos vaivada Steponas su karaliumi Olbrachtu sudarė taiką, davė vasalo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-193376
@@ -97,6 +94,5 @@ Moldavijos vaivada Steponas su karaliumi Olbrachtu sudarė taiką, davė vasalo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

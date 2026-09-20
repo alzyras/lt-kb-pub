@@ -28,6 +28,28 @@ media_all_json: |-
 
 T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių. „Spisanie Muzeum w Szawrach“ sieja Obelių kapinyno radinius su viena garbingiausių vietų Saurų dvaro muziejuje.
 
+## Teiginiai
+
+<a id="claim-t-191694"></a>
+- t-001
+  teiginys: "T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Spisanie Muzeum w Szawrach: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, author, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Spisanie Muzeum w Szawrach\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T16:15:14Z"
+  pagrindžia:
+    - c-174576
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '„Spisanie Muzeum w Szawrach“ sieja Obelių kapinyno radinius su viena garbingiausių vietų Saurų dvaro muziejuje.'
@@ -64,47 +86,5 @@ T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197025
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 491"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
-  citata_originali: |
-    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
-    leidimą (PEĮ. L. 133). Dievo Kovo stabą T. Narbutas ypač vertino
-    laikydamas jį vienu svarbiausių savo
-    kolekcijos
-    egzempliorių
-    ( [Narbutt T.] Spisanie Muzeum w Szawrach. L. 2. Nr. 9).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-214605"></a>
-- t-001
-  teiginys: "T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Spisanie Muzeum w Szawrach: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, author, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Spisanie Muzeum w Szawrach\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T16:15:14Z"
-  pagrindžia:
-    - c-197025
-

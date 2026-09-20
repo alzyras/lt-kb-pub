@@ -38,22 +38,10 @@ Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Mari
 
 ## Teiginiai
 
-<a id="claim-t-211981"></a>
-- t-211981
-  teiginys: "Ritersverderio pilis buvo Kauno apylinkėse."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193784
-
 <a id="claim-t-196737"></a>
-- t-196737
+- t-001
   teiginys: "Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Marienburge Vytautas įkurdino savo karius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,25 +79,5 @@ Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Mari
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196737
-
-- id: c-193784
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 240."
-  citata_originali: |
-    Jo gyvenamoji
-    vieta antrojo pabėgimo pas kryžiuočius metais buvo Bartenšteinas
-    (nuo 1390 m. rudens), o paskui (nuo 1391 m. rugpiūčio mėn.) —
-    Ritersverderio pilis Kauno apylinkėje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211981
-
+  pagrindzia:
+    - t-001

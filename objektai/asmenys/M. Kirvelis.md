@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'M. Kirvelis'
+pavadinimas: M. Kirvelis
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1858 m.'
+  - 1858 m.
 date_start: '1858'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-49964378a33561a638d08943"
-canonical_name: "M. Kirvelis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["M. Kirvelis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-49964378a33561a638d08943
+canonical_name: M. Kirvelis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - M. Kirvelis
 sameAs: []
-canonical_biography: "1858 m. rugpjūčio 15 d. M. Kirvelis prikalbėjo savo parapiją visiškai išsižadėti degtinės."
+canonical_biography: 1858 m. rugpjūčio 15 d. M. Kirvelis prikalbėjo savo parapiją visiškai išsižadėti degtinės.
 ---
 # M. Kirvelis
 

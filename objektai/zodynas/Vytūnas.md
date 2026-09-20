@@ -36,6 +36,26 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
 
 - Tiksli šių vardų atitiktis vėlesnei administracinei nomenklatūrai neaiški, bet funkcijos tekste aiškios.
 
+## Teiginiai
+
+<a id="claim-t-70063"></a>
+- t-001
+  teiginys: "`Vytūnas` šiame tekste yra karo vadovas, vedantis kariauną, kai nėra atmono."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09764
+
+<a id="claim-t-70064"></a>
+- t-002
+  teiginys: "Vytūnas vesdavo visą kariauną į karą, kai nebūdavo atmono."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09764
+
 ## Citatos
 
 - id: c-09764
@@ -50,41 +70,6 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-192572
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  puslapiai: "PDF 291"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 291."
-  citata_originali: |
-    Karės vyresnieji tie buvo: atmonas, nuo žodžio atmonyti, dešimtininkas, šimtininkas, arba pulkorius, nuo žodžio pulti, ir karūžasis, kuriuos viršiau minavojau; buvo dar vytūnas, kurs visą kariauną vedė į karę nesant atmono, sargūnas, kursai rūpinos kariaunos mitalu ir pavojumu^1308 , abažūnas, kurs priegule^1309 kariaunos rūpinos. Lygia dalia pilies vyras, arba pilies ponas, turėjo sau pripadėtoją vyresnįjį, anginu vadinamą, kurs angas pilies saugojo ir uždarius jų raktus pas save laikė, be jo žinios, karei esant, niekas negalėjo įeiti į pilį nei išeiti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 16:28"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-209959"></a>
-- t-001
-  teiginys: "`Vytūnas` šiame tekste yra karo vadovas, vedantis kariauną, kai nėra atmono."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-192572
-
-<a id="claim-t-210246"></a>
-- t-002
-  teiginys: "Vytūnas vesdavo visą kariauną į karą, kai nebūdavo atmono."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-192572
-

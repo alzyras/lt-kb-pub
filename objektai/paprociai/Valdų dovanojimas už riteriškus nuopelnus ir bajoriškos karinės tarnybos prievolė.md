@@ -48,6 +48,25 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-87185"></a>
+- t-001
+  teiginys: "Dovanotų valdų gavėjas ir jo palikuonys galėjo jomis laisvai disponuoti, bet privalėjo atlikti Lietuvos Didžiosios Kunigaikštystės bajorų karinę tarnybą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Bajorai tiesiogiai apibūdinti kaip Lietuvos Didžiosios Kunigaikštystės bajorai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Bajorai priklausė Lietuva (0.80)"
+  pagrindžia:
+    - c-83164
+
 ## Citatos
 
 - id: c-83164
@@ -73,25 +92,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87185"></a>
-- t-001
-  teiginys: "Dovanotų valdų gavėjas ir jo palikuonys galėjo jomis laisvai disponuoti, bet privalėjo atlikti Lietuvos Didžiosios Kunigaikštystės bajorų karinę tarnybą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Bajorai tiesiogiai apibūdinti kaip Lietuvos Didžiosios Kunigaikštystės bajorai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Bajorai priklausė Lietuva (0.80)"
-  pagrindžia:
-    - c-83164
-

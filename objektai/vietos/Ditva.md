@@ -36,6 +36,28 @@ historical_names: []
 
 Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairiojo Ditvos kranto, o dešiniajame krante jų nebuvę.
 
+## Teiginiai
+
+<a id="claim-t-188987"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairiojo Ditvos kranto, o dešiniajame krante jų nebuvę."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ditva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ditva\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171876
+
 ## Citatos
 
 - id: c-171876
@@ -58,63 +80,5 @@ Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198922
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 182"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
-  citata_originali: |
-    Tai galima pastebėti iš to, kas išdėstyta,
-    ir iš kai kurių žmonių pasakojimų. Kaip tik tokie bjaurūs vabz­
-    džiai yra tarakonai, kurie Lydoje ir jos apylinkėse iki pat kai­
-    riojo Ditvos kranto yra visuotinai paplitę ir labai įkyrėję; o tos
-    upės dešiniajame krante, kaip ir visoje tikrojoje Lietuvoje, ku­
-    rios pietinės sienos siekė tą upę, niekur jų nėra.
-    Kaukai (Kaukie)
-    Tai buvusios mitinės pabaisos arba siaubą keliantys neūžau­
-    gos, naktimis gąsdinantys žmones.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-216455"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairiojo Ditvos kranto, o dešiniajame krante jų nebuvę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ditva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ditva\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-198922
-
-<a id="claim-t-218874"></a>
-- t-002
-  teiginys: "Kaip tik tokie bjaurūs vabz džiai yra tarakonai, kurie Lydoje ir jos apylinkėse iki pat kai riojo Ditvos kranto yra visuotinai paplitę ir labai įkyrėję; o tos upės dešiniajame krante, kaip ir visoje tikrojoje Lietuvoje, ku rios pietinės sienos siekė tą upę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198922
-

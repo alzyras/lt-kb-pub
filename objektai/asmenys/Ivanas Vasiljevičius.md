@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Ivanas Vasiljevičius'
+pavadinimas: Ivanas Vasiljevičius
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1499 m.'
+  - 1499 m.
 date_start: '1499'
 date_end: ''
 sukurta: ''
@@ -17,28 +17,40 @@ tags:
   - kunigaikštis
   - valstybė
 amziai:
-  - 'XV'
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9d03fad4aaf85131f883f773"
-canonical_name: "Ivanas Vasiljevičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Ivanas Vasiljevičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9d03fad4aaf85131f883f773
+canonical_name: Ivanas Vasiljevičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Ivanas Vasiljevičius
 sameAs: []
-canonical_biography: "Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės. Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui. Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose."
+canonical_biography: 'Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės. Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui. Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:37:15+00:00","source_checked_at":"2026-09-20T11:37:15+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"6df7cdc493582d986f79c27c","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Maskvos didysis kunigaikštis","context":"Šaltinis nurodo, kad Ivanas Vasiljevičius buvo Maskvos didysis kunigaikštis; pasakojama apie 1499 m. įvykius.","support_ids":["t-211161","c-193729"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211161","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193729","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Tais pačiais metais mirė pats Maskvos didysis ku­ nigaikštis Ivanas Vasiljevičius 30 ir į Maskvos didžiojo kunigaikščio sostą sėdo jo sūnus"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 35fabdedf3cd2f2d
+object_page_generated_at: '2026-09-20T11:37:15+00:00'
+object_page_source_checked_at: '2026-09-20T11:37:15+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Ivanas Vasiljevičius: Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Vasiljevičiaus…'
+object_page_seo_input_hash: e300dc7300939c9627b20f7c22200383f0fb9af4dd3e38e5991f89d76c314ae2
+object_page_seo_generated_at: '2026-09-20T11:37:15+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ivanas Vasiljevičius
 
@@ -48,48 +60,10 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 
 ## Teiginiai
 
-<a id="claim-t-211161"></a>
-- t-211161
-  teiginys: "Ivanas Vasiljevičius buvo Maskvos didysis kunigaikštis."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193729
-
-<a id="claim-t-211990"></a>
-- t-211990
-  teiginys: "Lietuvos metraštis teigia, kad nuo pasaulio sutvėrimo septyni tūkstančiai aštun taisiais, o nuo dievo gimimo 1499 metais Maskvos di dysis kunigaikštis Ivanas Vasiljevičius sumanė pradėti kovą prieš savo žentą, Lietuvos didįjį kunigaikštį Aleksandrą."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
-  pagrindžia:
-    - c-193833
-
-<a id="claim-t-211810"></a>
-- t-211810
-  teiginys: "Lietuvos metraštis Ivaną Vasiljevičių vaizduoja 1499 m. pradėjusiu karą prieš žentą Aleksandrą po susitarimų su Mengli-Girėjumi ir Steponu."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-193833
-
 <a id="claim-t-87520"></a>
-- t-87520
+- t-001
   teiginys: "Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vasiljevičius (Maskvos valdovas): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -103,9 +77,9 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     - c-83499
 
 <a id="claim-t-87521"></a>
-- t-87521
+- t-002
   teiginys: "Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -117,6 +91,38 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83500
+
+<a id="claim-t-184713"></a>
+- t-003
+  teiginys: "Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ivanas Vasiljevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivanas Vasiljevičius\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168074
+
+<a id="claim-t-193913"></a>
+- t-004
+  teiginys: "Lietuvos metraštis Ivaną Vasiljevičių vaizduoja 1499 m. pradėjusiu karą prieš žentą Aleksandrą po susitarimų su Mengli-Girėjumi ir Steponu."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176538
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -208,8 +214,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-87520
+  pagrindzia:
+    - t-001
 
 - id: c-83500
   autorius: "Michał Baliński"
@@ -228,8 +234,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-87521
+  pagrindzia:
+    - t-002
 
 - id: c-168074
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -255,6 +261,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-176538
   autorius: "Anoniminis metraštininkas"
@@ -285,57 +293,5 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193729
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 161"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 161."
-  citata_originali: |
-    Tais pačiais metais mirė pats Maskvos didysis ku­
-    nigaikštis Ivanas Vasiljevičius 30 ir į Maskvos didžiojo
-    kunigaikščio sostą sėdo jo sūnus
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211161
-
-- id: c-193833
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 150"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
-  citata_originali: |
-    54. APIE MASKVOS DIDŽIOJO KUNIGAIKŠČIO IVANO
-    VAŠIUEVlCi AUS KARĄ SU SAVO ŽENTU, LIETUVOS
-    DIDŽIUOJU KUNIGAIKŠČIU ALEKSANDRU, TAIP PAT
-    APIE UŽVOLGIO ORDOS CHANĄ SICH-ACHMETĄ
-    Nuo pasaulio sutvėrimo septyni tūkstančiai aštun­
-    taisiais, o nuo dievo gimimo 1499 metais Maskvos di­
-    dysis kunigaikštis Ivanas Vasiljevičius sumanė pradėti
-    kovą prieš savo žentą, Lietuvos didįjį kunigaikštį
-    Aleksandrą, prieš tai sudaręs sąmokslą su Perekopo
-    chanu Mengli-Girėjumi1  bei savo marčios tėvu, Mol­
-    davijos vaivada Steponu prisiekęs jiems amžiną taiką
-    bei pasirėmęs giminystės ryšiais. Ir siunčia žmones pas
-    Belajos kunigaikštį Simoną Jonaitį3  ir pas kunigaikštį
-    Vasilijų Jonaitį Semiačičių, slaptai siūlydamas, kad jie
-    su miestais ir valsčiais atsimestų nuo jo žento, didžiojo
-    kunigaikščio Aleksandro, ir su viskuo pereitų jo tar­
-    nybon, be to, dar žadėjo jiems daug savo miestų ir
-    valsčių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211810
-    - t-211990
-
+  pagrindzia:
+    - t-004

@@ -40,6 +40,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205411"></a>
+- t-001
+  teiginys: "Latviai pasklido į šalis, didesnė dau guma užsidarė pilyje, krikščionims netgi pavyko nukauti jų vyresnįjį bei viso sukilimo vadą Akoną, kuris kurstė ir rusų kunigaikštį."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187853
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Latviai pasklido į šalis, didesnė dau guma užsidarė pilyje, krikščionims netgi pavyko nukauti jų vyresnįjį bei viso sukilimo vadą Akoną, kuris kurstė ir rusų kunigaikštį.'
@@ -82,21 +97,5 @@ Latviai pasklido į šalis, didesnė dau guma užsidarė pilyje, krikščionims 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205411"></a>
-- t-001
-  teiginys: "Latviai pasklido į šalis, didesnė dau guma užsidarė pilyje, krikščionims netgi pavyko nukauti jų vyresnįjį bei viso sukilimo vadą Akoną, kuris kurstė ir rusų kunigaikštį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187853
-

@@ -42,6 +42,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-194940"></a>
+- t-001
+  teiginys: "Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo sužieduotuvių žiedą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-177336
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo sužieduotuvių žiedą.'
@@ -84,27 +99,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-213734"></a>
-- t-001
-  teiginys: "Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo sužieduotuvių žiedą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-214664"></a>
-- t-002
-  teiginys: "Honorija slapta nusiuntė hunų karaliui Atilai savo sužieduotuvių žiedą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
+  pagrindzia:
+    - t-001

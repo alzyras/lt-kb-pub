@@ -48,6 +48,21 @@ Teodoras Narbutas aprašo, kad lietuvių kunigaikščiai prie Rūdavos kaimo už
 
 Teodoras Narbutas aprašo, kad lietuvių kunigaikščiai prie Rūdavos kaimo užėmė tvirtas pozicijas ir, jo vertinimu, tikriausiai laukė susirėmimo.
 
+## Teiginiai
+
+<a id="claim-t-206623"></a>
+- t-001
+  teiginys: "Teodoras Narbutas aprašo, kad lietuvių kunigaikščiai prie Rūdavos kaimo užėmė tvirtas pozicijas ir, jo vertinimu, tikriausiai laukė susirėmimo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189238
+
 ## Citatos
 
 - id: c-189238
@@ -68,21 +83,5 @@ Teodoras Narbutas aprašo, kad lietuvių kunigaikščiai prie Rūdavos kaimo už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206623"></a>
-- t-001
-  teiginys: "Teodoras Narbutas aprašo, kad lietuvių kunigaikščiai prie Rūdavos kaimo užėmė tvirtas pozicijas ir, jo vertinimu, tikriausiai laukė susirėmimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189238
-

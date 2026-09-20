@@ -35,6 +35,20 @@ Michelis Foucault apibūdino aplink vedamą nuteistąjį susirinkusią publiką 
 
 Michelis Foucault apibūdino aplink vedamą nuteistąjį susirinkusią publiką kaip mirties bausmės liudininkus, proceso garantus ir tam tikru mastu jo dalyvius.
 
+## Teiginiai
+
+<a id="claim-t-203998"></a>
+- t-001
+  teiginys: "Michelis Foucault apibūdino aplink vedamą nuteistąjį susirinkusią publiką kaip mirties bausmės liudininkus, proceso garantus ir tam tikru mastu jo dalyvius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186602
+
 ## Citatos
 
 - id: c-186602
@@ -52,20 +66,5 @@ Michelis Foucault apibūdino aplink vedamą nuteistąjį susirinkusią publiką 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203998"></a>
-- t-001
-  teiginys: "Michelis Foucault apibūdino aplink vedamą nuteistąjį susirinkusią publiką kaip mirties bausmės liudininkus, proceso garantus ir tam tikru mastu jo dalyvius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  pagrindžia:
-    - c-186602
-

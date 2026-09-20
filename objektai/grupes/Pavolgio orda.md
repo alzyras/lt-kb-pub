@@ -28,6 +28,21 @@ Teodoras Narbutas pasakoja, kad Mamajus, jo vaizduojamas kaip pavergęs chano, v
 
 Teodoras Narbutas pasakoja, kad Mamajus, jo vaizduojamas kaip pavergęs chano, vadinto Mamant Sultonu, protą ir valią, viešpatavo Aukso bei Pavolgio ordose ir paskyrė Mykolui visos Rusios didžiojo kunigaikščio pareigas.
 
+## Teiginiai
+
+<a id="claim-t-206682"></a>
+- t-001
+  teiginys: "Teodoras Narbutas pasakoja, kad Mamajus, jo vaizduojamas kaip pavergęs chano, vadinto Mamant Sultonu, protą ir valią, viešpatavo Aukso bei Pavolgio ordose ir paskyrė Mykolui visos Rusios didžiojo kunigaikščio pareigas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189297
+
 ## Citatos
 
 - id: c-189297
@@ -52,21 +67,5 @@ Teodoras Narbutas pasakoja, kad Mamajus, jo vaizduojamas kaip pavergęs chano, v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206682"></a>
-- t-001
-  teiginys: "Teodoras Narbutas pasakoja, kad Mamajus, jo vaizduojamas kaip pavergęs chano, vadinto Mamant Sultonu, protą ir valią, viešpatavo Aukso bei Pavolgio ordose ir paskyrė Mykolui visos Rusios didžiojo kunigaikščio pareigas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189297
-

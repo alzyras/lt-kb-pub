@@ -29,6 +29,20 @@ media_all_json: |-
 
 Tie, kurie į karę traukė ūkę nuo neprietelių ginti, vadinos vyčiais, nuo žodžio vyti, tai yra gin ti, kurie neprietelius ujo iš savo ūkės laukan.
 
+## Teiginiai
+
+<a id="claim-t-201214"></a>
+- t-001
+  teiginys: "Tie, kurie į karę traukė ūkę nuo neprietelių ginti, vadinos vyčiais, nuo žodžio vyti, tai yra gin ti, kurie neprietelius ujo iš savo ūkės laukan."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184564
+
 ## Citatos
 
 - id: c-184564
@@ -54,20 +68,5 @@ Tie, kurie į karę traukė ūkę nuo neprietelių ginti, vadinos vyčiais, nuo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201214"></a>
-- t-001
-  teiginys: "Tie, kurie į karę traukė ūkę nuo neprietelių ginti, vadinos vyčiais, nuo žodžio vyti, tai yra gin ti, kurie neprietelius ujo iš savo ūkės laukan."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184564
-

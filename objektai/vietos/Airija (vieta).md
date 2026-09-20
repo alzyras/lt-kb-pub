@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Airija (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Airija (vieta)
+identifikacija: vieta
 variantai:
-  - 'Airija'
+  - Airija
 aliases:
-  - 'Airija'
+  - Airija
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-aefe9d36b65add73a1a7f2a3"
-canonical_name: "Airija (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Airija","Airija (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-aefe9d36b65add73a1a7f2a3
+canonical_name: Airija (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Airija
+  - Airija (vieta)
 sameAs: []
-canonical_biography: "Nenuostabu, kad blaivybės brolijų veikla surado Airijoje tinkamą dirvą."
+canonical_biography: 'Nenuostabu, kad blaivybės brolijų veikla surado Airijoje tinkamą dirvą.'
 place_authority: true
 historical_names: []
 ---
@@ -41,33 +41,6 @@ Blaivybės brolijų veikla Airijoje, pasak Egidijaus Aleksandravičiaus, rado ti
 ## Santrauka
 
 Blaivybės brolijų veikla Airijoje, pasak Egidijaus Aleksandravičiaus, rado tinkamą dirvą.
-
-## Teiginiai
-
-<a id="claim-t-212691"></a>
-- t-001
-  teiginys: "Airija aprašoma kaip turtinga švino ir alavo."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195811
-
-<a id="claim-t-209385"></a>
-- t-209385
-  teiginys: "Blaivybės brolijų veikla Airijoje, pasak Egidijaus Aleksandravičiaus, rado tinkamą dirvą."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
-  pagrindžia:
-    - c-191899
 
 ## Citatos
 
@@ -92,7 +65,7 @@ Blaivybės brolijų veikla Airijoje, pasak Egidijaus Aleksandravičiaus, rado ti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-209385
+    - t-001
 
 - id: c-195811
   autorius: "Teodoras Narbutas"
@@ -110,5 +83,32 @@ Blaivybės brolijų veikla Airijoje, pasak Egidijaus Aleksandravičiaus, rado ti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-209385"></a>
+- t-001
+  teiginys: "Blaivybės brolijų veikla Airijoje, pasak Egidijaus Aleksandravičiaus, rado tinkamą dirvą."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
+  pagrindžia:
+    - c-191899
+
+<a id="claim-t-212691"></a>
+- t-002
+  teiginys: "Airija aprašoma kaip turtinga švino ir alavo."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195811
 

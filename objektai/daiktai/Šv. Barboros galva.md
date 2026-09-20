@@ -39,6 +39,20 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201370"></a>
+- t-001
+  teiginys: "Kas ir nutiko; Bernheimas, marčelga kryžėjų, antpuolęs pilį Cartovicą, varu įsigrūdo ir, iškirtęs visus tenai ginklą pakeliančius, savo įgulę įdėjo, o sugrietą grobį su iždu Sviatopelko ir kitais jo turtais, tarp kurių pačią galvą šv."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184720
+
 ## Citatos
 
 - id: c-184720
@@ -61,20 +75,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201370"></a>
-- t-001
-  teiginys: "Kas ir nutiko; Bernheimas, marčelga kryžėjų, antpuolęs pilį Cartovicą, varu įsigrūdo ir, iškirtęs visus tenai ginklą pakeliančius, savo įgulę įdėjo, o sugrietą grobį su iždu Sviatopelko ir kitais jo turtais, tarp kurių pačią galvą šv."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184720
-

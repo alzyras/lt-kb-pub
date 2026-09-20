@@ -43,6 +43,23 @@ canonical_biography: "1595 m. Mikalojus Jonaitis Karpis Kurtuvėnų tijūnijoje 
 
 1595 m. Mikalojus Jonaitis Karpis Kurtuvėnų tijūnijoje ėjo Naujadvario seniūno pareigas.
 
+## Teiginiai
+
+<a id="claim-t-203720"></a>
+- t-001
+  teiginys: "1595 m. Mikalojus Jonaitis Karpis Kurtuvėnų tijūnijoje ėjo Naujadvario seniūno pareigas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  temporaliniai_duomenys: "įvykio data: 1595 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra gramatiškas ir aiškiai nurodo Mikalojų Jonaitį Karpį, pareigas, vietą bei metus. Atribucijos nereikia."
+  pagrindžia:
+    - c-186324
+
 ## Citatos
 
 - id: c-186324
@@ -60,23 +77,5 @@ canonical_biography: "1595 m. Mikalojus Jonaitis Karpis Kurtuvėnų tijūnijoje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203720"></a>
-- t-001
-  teiginys: "1595 m. Mikalojus Jonaitis Karpis Kurtuvėnų tijūnijoje ėjo Naujadvario seniūno pareigas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
-  temporaliniai_duomenys: "įvykio data: 1595 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra gramatiškas ir aiškiai nurodo Mikalojų Jonaitį Karpį, pareigas, vietą bei metus. Atribucijos nereikia."
-  pagrindžia:
-    - c-186324
-

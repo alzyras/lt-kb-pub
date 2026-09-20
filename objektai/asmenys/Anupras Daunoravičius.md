@@ -43,6 +43,24 @@ canonical_biography: "1779 m. Tomo Uzaro žmonės užpuolė Anupro Daunoravičia
 
 1779 m. Tomo Uzaro ginkluoti žmonės užpuolė Anupro ir Teresės Daunoravičių namą, sumušė miegančius žmones, o Teresė Daunoravičienė neteko kūdikio.
 
+## Teiginiai
+
+<a id="claim-t-203926"></a>
+- t-001
+  teiginys: "1779 m. Tomo Uzaro ginkluoti žmonės užpuolė Anupro ir Teresės Daunoravičių namą, sumušė miegančius žmones, o Teresė Daunoravičienė neteko kūdikio."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1779 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įtrauktas ginkluotų užpuolikų veikimas ir pasekmė Teresei Daunoravičienei. Teiginys apsiriboja tiesiogiai citatoje nurodytais faktais."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186530
+
 ## Citatos
 
 - id: c-186530
@@ -59,24 +77,5 @@ canonical_biography: "1779 m. Tomo Uzaro žmonės užpuolė Anupro Daunoravičia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203926"></a>
-- t-001
-  teiginys: "1779 m. Tomo Uzaro ginkluoti žmonės užpuolė Anupro ir Teresės Daunoravičių namą, sumušė miegančius žmones, o Teresė Daunoravičienė neteko kūdikio."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1779 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įtrauktas ginkluotų užpuolikų veikimas ir pasekmė Teresei Daunoravičienei. Teiginys apsiriboja tiesiogiai citatoje nurodytais faktais."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186530
-

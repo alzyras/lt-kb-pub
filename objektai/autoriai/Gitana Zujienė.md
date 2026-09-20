@@ -35,6 +35,20 @@ Gitanos Zujienės tyrimas parodė, kad XVII a. pirmojoje pusėje LDK nusikaltima
 
 Gitanos Zujienės tyrimas parodė, kad XVII a. pirmojoje pusėje LDK nusikaltimas laikytas ir teisės normų sulaužymu, ir nusikaltimu prieš Dievą.
 
+## Teiginiai
+
+<a id="claim-t-203997"></a>
+- t-001
+  teiginys: "Gitanos Zujienės tyrimas parodė, kad XVII a. pirmojoje pusėje LDK nusikaltimas laikytas ir teisės normų sulaužymu, ir nusikaltimu prieš Dievą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186601
+
 ## Citatos
 
 - id: c-186601
@@ -52,20 +66,5 @@ Gitanos Zujienės tyrimas parodė, kad XVII a. pirmojoje pusėje LDK nusikaltima
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203997"></a>
-- t-001
-  teiginys: "Gitanos Zujienės tyrimas parodė, kad XVII a. pirmojoje pusėje LDK nusikaltimas laikytas ir teisės normų sulaužymu, ir nusikaltimu prieš Dievą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  pagrindžia:
-    - c-186601
-

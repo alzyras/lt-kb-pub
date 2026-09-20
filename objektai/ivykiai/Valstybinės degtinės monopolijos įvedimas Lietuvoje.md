@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Valstybinės degtinės monopolijos įvedimas Lietuvoje'
+pavadinimas: Valstybinės degtinės monopolijos įvedimas Lietuvoje
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1897 m.'
+  - 1897 m.
 date_start: '1897'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Valstybinės degtinės monopolijos įvedimas Lietuvoje
 

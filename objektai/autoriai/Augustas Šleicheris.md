@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Augustas Šleicheris'
+pavadinimas: Augustas Šleicheris
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-657c053ae645f5e4ef8b2d71"
-canonical_name: "Augustas Šleicheris"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Augustas Šleicheris"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-657c053ae645f5e4ef8b2d71
+canonical_name: Augustas Šleicheris
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Augustas Šleicheris
 sameAs: []
-canonical_biography: "Narbuto lietuvių mi tologijos tyrinėjimą atsiliepė žymusis kalbininkas Augustas Šleicheris, pasišovęs išaiškinti, kurie įvairiuose šaltiniuose mi nimi lietuvių dievų vardai yra patikimi, iš liaudies užrašyti ir kurie pramanyti arba iškraipyti."
+canonical_biography: 'Narbuto lietuvių mi tologijos tyrinėjimą atsiliepė žymusis kalbininkas Augustas Šleicheris, pasišovęs išaiškinti, kurie įvairiuose šaltiniuose mi nimi lietuvių dievų vardai yra patikimi, iš liaudies užrašyti ir kurie pramanyti arba iškraipyti.'
 ---
 # Augustas Šleicheris
 
@@ -68,6 +68,5 @@ Narbuto lietuvių mi tologijos tyrinėjimą atsiliepė žymusis kalbininkas Augu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

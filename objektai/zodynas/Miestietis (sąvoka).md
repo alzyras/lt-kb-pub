@@ -41,25 +41,12 @@ media_all_json: |-
 
 1542–1564 m. Kauno miesto aktų knygose minimas Jonas Kojala buvo miestietis, įrašytas dėl skolų ir samdos reikalų.
 
-## Citatos
-
-- id: c-185709
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
-  puslapiai: "PDF 2"
-  indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 2."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-07-26 21:24"
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-202362"></a>
 - t-001
   teiginys: "1542–1564 m. Kauno miesto aktų knygose minimas Jonas Kojala buvo miestietis, įrašytas dėl skolų ir samdos reikalų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 21:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,3 +66,15 @@ media_all_json: |-
   pagrindžia:
     - c-185709
 
+## Citatos
+
+- id: c-185709
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
+  puslapiai: "PDF 2"
+  indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 2."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 21:24"
+  pagrindzia:
+    - t-001

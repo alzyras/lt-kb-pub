@@ -39,6 +39,20 @@ canonical_biography: "Žinoma, kad 1587 m. Kauno miesto taryba išrinko 2 statyb
 
 Žinoma, kad 1587 m. Kauno miesto taryba išrinko 2 statybų prižiūrėtojus (aediles seu architecti) Joną Gradovskį ir Jodoką Veselį, numanu, kad jie dirbo prie rotušės statybos.
 
+## Teiginiai
+
+<a id="claim-t-202083"></a>
+- t-001
+  teiginys: "Žinoma, kad 1587 m. Kauno miesto taryba išrinko 2 statybų prižiūrėtojus (aediles seu architecti) Joną Gradovskį ir Jodoką Veselį, numanu, kad jie dirbo prie rotušės statybos."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185430
+
 ## Citatos
 
 - id: c-185430
@@ -55,20 +69,5 @@ canonical_biography: "Žinoma, kad 1587 m. Kauno miesto taryba išrinko 2 statyb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202083"></a>
-- t-001
-  teiginys: "Žinoma, kad 1587 m. Kauno miesto taryba išrinko 2 statybų prižiūrėtojus (aediles seu architecti) Joną Gradovskį ir Jodoką Veselį, numanu, kad jie dirbo prie rotušės statybos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185430
-

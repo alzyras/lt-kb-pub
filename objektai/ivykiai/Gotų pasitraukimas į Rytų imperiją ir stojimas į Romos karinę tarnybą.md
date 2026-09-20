@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Gotų pasitraukimas į Rytų imperiją ir stojimas į Romos karinę tarnybą'
+pavadinimas: Gotų pasitraukimas į Rytų imperiją ir stojimas į Romos karinę tarnybą
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Gotų pasitraukimas į Rytų imperiją ir stojimas į Romos karinę tarnybą
 
@@ -73,6 +70,5 @@ Hunų smurto įveikti gotai ieškojo pagalbos ir prie globsčio Rytų imperijoje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

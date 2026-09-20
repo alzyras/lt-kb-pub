@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Chelmas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Chelmas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Chelmas'
+  - Chelmas
 aliases:
-  - 'Chelmas'
+  - Chelmas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-977dbc44d81364517be33482"
-canonical_name: "Chelmas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Chelmas","Chelmas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-977dbc44d81364517be33482
+canonical_name: Chelmas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Chelmas
+  - Chelmas (vieta)
 sameAs: []
-canonical_biography: "Neras įteka į Vartą prie Chelmo."
+canonical_biography: Neras įteka į Vartą prie Chelmo.
 ---
 # Chelmas (vieta)
 
@@ -69,6 +69,5 @@ Neras įteka į Vartą prie Chelmo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

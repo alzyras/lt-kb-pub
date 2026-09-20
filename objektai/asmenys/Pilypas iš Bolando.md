@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Pilypas iš Bolando'
+pavadinimas: Pilypas iš Bolando
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1305 m.'
+  - 1305 m.
 date_start: '1305'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3f1855f66bc463c98cfd756f"
-canonical_name: "Pilypas iš Bolando"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Pilypas iš Bolando"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3f1855f66bc463c98cfd756f
+canonical_name: Pilypas iš Bolando
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Pilypas iš Bolando
 sameAs: []
-canonical_biography: "Pilypas iš Bolando buvo Sembos vyskupo fogtas."
+canonical_biography: Pilypas iš Bolando buvo Sembos vyskupo fogtas.
 ---
 # Pilypas iš Bolando
 
@@ -74,6 +73,5 @@ Pilypas iš Bolando buvo Sembos vyskupo fogtas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

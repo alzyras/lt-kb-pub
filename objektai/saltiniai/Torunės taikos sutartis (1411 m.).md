@@ -1,32 +1,29 @@
 ---
 tipas: saltinis
-pavadinimas: 'Torunės taikos sutartis (1411 m.)'
+pavadinimas: Torunės taikos sutartis (1411 m.)
 variantai:
-  - 'Torunės taikos sutartis'
+  - Torunės taikos sutartis
 aliases:
-  - 'Torunės taikos sutartis'
+  - Torunės taikos sutartis
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1411 m.'
+  - 1411 m.
 date_start: '1411'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Torunės taikos sutartis (1411 m.)
 
@@ -68,6 +65,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

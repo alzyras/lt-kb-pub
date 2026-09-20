@@ -53,6 +53,28 @@ Boleslovas Narbutas minimas kaip vienas iš Teodoro Narbuto sūnų, 1863 m. suki
 - amziai: XIX
 - date_start: 1863
 
+## Teiginiai
+
+<a id="claim-t-188040"></a>
+- t-001
+  teiginys: "1863 m. sukilimo metu Boleslovas, vienas iš Teodoro Narbuto sūnų, išėjo į miškus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Liudvikas Narbutas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Boleslovas Narbutas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Liudvikas Narbutas: mention_match, person, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Boleslovas Narbutas\" parinktas kaip owner_note_path. Targetas \"Liudvikas Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1863 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau yra aiškus lietuviškas sakinys apie Boleslovą Narbutą ir jo veiksmą 1863 m. sukilime. Papildomų detalių iš citatos nereikia."
+  pagrindžia:
+    - c-170754
+
 ## Citatos
 
 - id: c-170754
@@ -71,34 +93,5 @@ Boleslovas Narbutas minimas kaip vienas iš Teodoro Narbuto sūnų, 1863 m. suki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-216698"></a>
-- t-001
-  teiginys: "Boleslovas Narbutas aktyviai dalyvavo 1863 m. sukilime."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-
-<a id="claim-t-217388"></a>
-- t-002
-  teiginys: "1863 m. sukilimo metu Boleslovas, vienas iš Teodoro Narbuto sūnų, išėjo į miškus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Liudvikas Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Boleslovas Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Liudvikas Narbutas: mention_match, person, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Boleslovas Narbutas\" parinktas kaip owner_note_path. Targetas \"Liudvikas Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1863 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra aiškus lietuviškas sakinys apie Boleslovą Narbutą ir jo veiksmą 1863 m. sukilime. Papildomų detalių iš citatos nereikia."
-
+  pagrindzia:
+    - t-001

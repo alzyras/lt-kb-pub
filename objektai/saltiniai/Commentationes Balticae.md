@@ -33,30 +33,12 @@ media_all_json: |-
 
 « Commentationes Balticae » (CB)^171.
 
-## Citatos
-
-- id: c-29704
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 99"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 99."
-  citata_originali: |
-    Nuo 1953 iki 1967 m. Bonnoje Baltų Tyrimo Institutas išleido 13 tt.
-    « Commentationes Balticae » (CB)^171.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-29799"></a>
 - t-001
   teiginys: "Baltų Tyrimo Institutas 1953–1967 m. Bonnoje išleido 13 Commentationes Balticae tomų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -72,3 +54,20 @@ media_all_json: |-
   pagrindžia:
     - c-29704
 
+## Citatos
+
+- id: c-29704
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 99"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 99."
+  citata_originali: |
+    Nuo 1953 iki 1967 m. Bonnoje Baltų Tyrimo Institutas išleido 13 tt.
+    « Commentationes Balticae » (CB)^171.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

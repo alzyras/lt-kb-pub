@@ -42,6 +42,40 @@ canonical_biography: "1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko P
 
 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai. Lietuvos metraščio pasakojime Britanijos karalaitę Uršulę, lydimą už Anglijos karaliaus sūnaus, nužudė Atila.
 
+## Teiginiai
+
+<a id="claim-t-87930"></a>
+- t-001
+  teiginys: "1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mauricijus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Uršulė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mauricijus: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uršulė\" parinktas kaip owner_note_path. Targetas \"Mauricijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1632 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-83909
+
+<a id="claim-t-193998"></a>
+- t-002
+  teiginys: "Lietuvos metraščio pasakojime Britanijos karalaitę Uršulę, lydimą už Anglijos karaliaus sūnaus, nužudė Atila."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176623
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Lietuvos metraščio pasakojime Britanijos karalaitę Uršulę, lydimą už Anglijos karaliaus sūnaus, nužudė Atila.'
@@ -75,8 +109,8 @@ canonical_biography: "1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-87930
+  pagrindzia:
+    - t-001
 
 - id: c-176623
   autorius: "Anoniminis metraštininkas"
@@ -95,36 +129,5 @@ canonical_biography: "1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-212000"></a>
-- t-001
-  teiginys: "Lietuvos metraščio pasakojime Britanijos karalaitę Uršulę, lydimą už Anglijos karaliaus sūnaus, nužudė Atila."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-
-<a id="claim-t-87930"></a>
-- t-87930
-  teiginys: "1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mauricijus: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Uršulė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Mauricijus: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uršulė\" parinktas kaip owner_note_path. Targetas \"Mauricijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1632 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-83909
-
+  pagrindzia:
+    - t-002

@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Boleslovo Narsiojo jotvingių žemių prijungimas prie Lenkijos'
+pavadinimas: Boleslovo Narsiojo jotvingių žemių prijungimas prie Lenkijos
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1018 m.'
+  - 1018 m.
 date_start: '1018'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XI'
+  - XI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Boleslovo Narsiojo jotvingių žemių prijungimas prie Lenkijos
 
@@ -80,6 +77,5 @@ Po 1018 m. Boleslovas Narsusis prie Lenkijos karalystės prijungė prie Bugo esa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

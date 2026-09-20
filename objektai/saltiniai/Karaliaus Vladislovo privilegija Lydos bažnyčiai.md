@@ -34,6 +34,34 @@ Teodoras Narbutas aprašo Lydos klebonijos dokumentuose rastą Vladislovo privil
 
 Teodoras Narbutas aprašo Lydos klebonijos dokumentuose rastą Vladislovo privilegijos skiautę, iš kurios išskaityta tik frazė „In nomine Dni Amen.“ Vladislovo privilegijos kitoje pusėje vėlesne rašysena nurodyta 1413 metų data, kurią Teodoras Narbutas laikė pačios privilegijos data.
 
+## Teiginiai
+
+<a id="claim-t-207035"></a>
+- t-001
+  teiginys: "Teodoras Narbutas aprašo Lydos klebonijos dokumentuose rastą Vladislovo privilegijos skiautę, iš kurios išskaityta tik frazė „In nomine Dni Amen.“"
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189650
+
+<a id="claim-t-207036"></a>
+- t-002
+  teiginys: "Vladislovo privilegijos kitoje pusėje vėlesne rašysena nurodyta 1413 metų data, kurią Teodoras Narbutas laikė pačios privilegijos data."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189651
+
 ## Citatos
 
 - id: c-189650
@@ -50,7 +78,7 @@ Teodoras Narbutas aprašo Lydos klebonijos dokumentuose rastą Vladislovo privil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189651
@@ -67,34 +95,5 @@ Teodoras Narbutas aprašo Lydos klebonijos dokumentuose rastą Vladislovo privil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-207035"></a>
-- t-001
-  teiginys: "Teodoras Narbutas aprašo Lydos klebonijos dokumentuose rastą Vladislovo privilegijos skiautę, iš kurios išskaityta tik frazė „In nomine Dni Amen.“"
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189650
-
-<a id="claim-t-207036"></a>
-- t-002
-  teiginys: "Vladislovo privilegijos kitoje pusėje vėlesne rašysena nurodyta 1413 metų data, kurią Teodoras Narbutas laikė pačios privilegijos data."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189651
-

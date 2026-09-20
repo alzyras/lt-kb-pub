@@ -1,33 +1,30 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'sufraganas (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: sufraganas (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'sufraganas'
+  - sufraganas
 aliases:
-  - 'sufraganas'
+  - sufraganas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1096 m.'
+  - 1096 m.
 date_start: '1096'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XI'
+  - XI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # sufraganas (sąvoka)
 
@@ -75,6 +72,5 @@ Dusburgietis nurodo, kad Jeruzalės patriarchui buvo pavaldūs arkivyskupai su s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

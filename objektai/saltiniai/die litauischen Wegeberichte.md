@@ -27,6 +27,25 @@ media_all_json: |-
 
 Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­ tuvos kelių aprašymuose (« die litauischen Wegeberichte ») įvairiose Aukštaičių žemės vietose minimi didžiojo kunigaikščio dvarai (jų iš viso sužymėta 18), gali tarnauti lietuvių plotui apibrėžti, palieka.
 
+## Teiginiai
+
+<a id="claim-t-32022"></a>
+- t-001
+  teiginys: "XIV a. pabaigos „die litauischen Wegeberichte“ įvairiose Aukštaičių žemės vietose mini 18 didžiojo kunigaikščio dvarų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Zietela: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Zietela: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata teigia, kad lietuvių gyventas plotas matomas Zieteloje, todėl palaikomas lietuvių gyvenimo ryšys su Zietela."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai gyveno Zietela (0.74)"
+  pagrindžia:
+    - c-33775
+
 ## Citatos
 
 - id: c-33775
@@ -50,25 +69,5 @@ Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­ tuvos kelių aprašymu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-32022"></a>
-- t-001
-  teiginys: "XIV a. pabaigos „die litauischen Wegeberichte“ įvairiose Aukštaičių žemės vietose mini 18 didžiojo kunigaikščio dvarų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Zietela: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Zietela: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata teigia, kad lietuvių gyventas plotas matomas Zieteloje, todėl palaikomas lietuvių gyvenimo ryšys su Zietela."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuviai gyveno Zietela (0.74)"
-  pagrindžia:
-    - c-33775
-

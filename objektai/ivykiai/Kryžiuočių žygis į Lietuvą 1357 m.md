@@ -58,9 +58,9 @@ Nenurodyta
     - c-189429
 
 <a id="claim-t-206815"></a>
-- t-206815
+- t-002
   teiginys: "Lietuvių būrys sumušė stovyklos sargybinius ir privertė kryžiuočių kariauną trauktis, netekus vežimų, atsargų ir grobio."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -90,12 +90,11 @@ Nenurodyta
     vedė Barkūno grafas, vokiečiams vadovavo Niurnbergo burg­
     grafas ir kiti garsios kilmės kariai.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189430
@@ -121,6 +120,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206815
-
+  pagrindzia:
+    - t-002

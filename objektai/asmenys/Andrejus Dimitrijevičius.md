@@ -34,6 +34,21 @@ canonical_biography: "Per Smolensko maištą smolenskiečiai Smolensko vaivados 
 
 Per Smolensko maištą smolenskiečiai Smolensko vaivados vieton pasisodino Dorohobužo kunigaikštį Andrejų Dimitrijevičių.
 
+## Teiginiai
+
+<a id="claim-t-194127"></a>
+- t-001
+  teiginys: "Per Smolensko maištą smolenskiečiai Smolensko vaivados vieton pasisodino Dorohobužo kunigaikštį Andrejų Dimitrijevičių."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176740
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Per Smolensko maištą smolenskiečiai Smolensko vaivados vieton pasisodino Dorohobužo kunigaikštį Andrejų Dimitrijevičių.'
@@ -76,17 +91,5 @@ Per Smolensko maištą smolenskiečiai Smolensko vaivados vieton pasisodino Doro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-211159"></a>
-- t-001
-  teiginys: "Per Smolensko maištą smolenskiečiai Smolensko vaivados vieton pasisodino Dorohobužo kunigaikštį Andrejų Dimitrijevičių."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-
+  pagrindzia:
+    - t-001

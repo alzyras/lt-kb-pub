@@ -50,22 +50,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-218617"></a>
-- t-003
-  teiginys: "Gediminas 1302 metais suteikė herbą Krunevičiui."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200132
-
-<a id="claim-t-214090"></a>
-- t-214090
+<a id="claim-t-192031"></a>
+- t-001
   teiginys: "Narbuto aiškinimu, 1302 m. Gedimino Krunevičiui duotas herbas siejamas su lietuviams nebūdingu herbų suteikimo papročiu."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Herbai: 0.85"
@@ -80,11 +68,13 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Išskleistas konkretus įvykis ir pašalinta neaiški nuoroda į „tą patį pasakojimą“. Vertinimas apie paprotį paliktas kaip Narbuto aiškinimas."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174908
 
-<a id="claim-t-215833"></a>
-- t-215833
+<a id="claim-t-192032"></a>
+- t-002
   teiginys: "Narbutas pateikia 1302 m. Gedimino Krunevičiui duotą herbą kaip pavyzdį, kad didieji kunigaikščiai kartais suteikdavo herbus slavų giminėms."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Herbai: 0.85"
@@ -98,6 +88,8 @@ Nenurodyta
   temporaliniai_duomenys: "įvykio data: 1302 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas lietuviškas sakinys apie Gedimino herbo suteikimą Krunevičiui. Narbuto interpretacinis pavyzdžio pateikimas paliktas su atribucija."
+  pagrindžia:
+    - c-174908
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -133,22 +125,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-200132
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 402"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
-  citata_originali: |
-    Kartais didieji ku­
-    nigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302
-    metais Gediminas davė Krunevičiui10.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
+  pagrindzia:
+    - t-001
+    - t-002

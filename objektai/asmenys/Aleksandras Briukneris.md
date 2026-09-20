@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Aleksandras Briukneris'
+pavadinimas: Aleksandras Briukneris
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1892 m.'
+  - 1892 m.
 date_start: '1892'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9ceeb907163c0a78b14e9bf0"
-canonical_name: "Aleksandras Briukneris"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Aleksandras Briukneris"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9ceeb907163c0a78b14e9bf0
+canonical_name: Aleksandras Briukneris
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Aleksandras Briukneris
 sameAs: []
-canonical_biography: "A. Briukneris ironizavo, kad mitologai nuo Narbuto iki Karo sukūrė gausų ir įvairų lietuvių Olimpą."
+canonical_biography: 'A. Briukneris ironizavo, kad mitologai nuo Narbuto iki Karo sukūrė gausų ir įvairų lietuvių Olimpą.'
 ---
 # Aleksandras Briukneris
 
@@ -99,6 +98,5 @@ A. Briukneris ironizavo, kad mitologai nuo Narbuto iki Karo sukūrė gausų ir �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

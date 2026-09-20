@@ -68,9 +68,9 @@ media_all_json: |-
     - c-55403
 
 <a id="claim-t-55202"></a>
-- t-55202
+- t-002
   teiginys: "Balińskio vertime formulė perteikiama žodžiais „viskas yra viena - ir žemė, ir žmonės“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -84,9 +84,9 @@ media_all_json: |-
     - c-55403
 
 <a id="claim-t-71821"></a>
-- t-71821
+- t-003
   teiginys: "Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuviai: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -125,14 +125,13 @@ media_all_json: |-
     Žemaitijos vardo, nes viskas yra vie­
     na - ir žemė, ir žmonės/'
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-55202
+    - t-002
 
 - id: c-55404
   autorius: "Zenonas Ivinskis"
@@ -152,6 +151,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-71821
-
+  pagrindzia:
+    - t-003

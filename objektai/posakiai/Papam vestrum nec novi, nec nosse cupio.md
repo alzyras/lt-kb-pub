@@ -49,6 +49,59 @@ Frazė pateikta Gedimino laiškų tikrumo aptarime, priešpriešinant ją pagarb
 
 Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 
+## Teiginiai
+
+<a id="claim-t-55187"></a>
+- t-001
+  teiginys: "Krantzas Gediminui priskyrė lotynišką pareiškimą „Papam vestrum nec novi, nec nosse cupio“."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "gap::sayings"
+  ryšio_patikimumas: "susije_su -> Albertas Krantzas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Papam vestrum nec novi, nec nosse cupio: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Albertas Krantzas: mention_match, author, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Papam vestrum nec novi, nec nosse cupio\" parinktas kaip owner_note_path. Targetas \"Albertas Krantzas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55780
+
+<a id="claim-t-55188"></a>
+- t-002
+  teiginys: "Formulė „Papam vestrum nec novi, nec nosse cupio“ lietuviškai aiškinama kaip „Jūsų Tėvo nei pažinojau, nei trokštu pažinti“."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "gap::sayings"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Papam vestrum nec novi, nec nosse cupio: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Papam vestrum nec novi, nec nosse cupio\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55780
+    - c-55781
+
+<a id="claim-t-55189"></a>
+- t-003
+  teiginys: "„Papam vestrum nec novi, nec nosse cupio“ reiškė pareiškimą, kad popiežiaus nei pažinojo, nei troško pažinti."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "gap::sayings"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55781
+
+<a id="claim-t-82143"></a>
+- t-004
+  teiginys: "Posakis „Papam vestrum nec novi, nec nosse cupio“ buvo pateiktas kaip atsakymas popiežiaus pasiuntiniams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::sayings"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55781
+
 ## Citatos
 
 - id: c-55780
@@ -73,7 +126,7 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -100,61 +153,7 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-003
     - t-004
-
-## Teiginiai
-
-<a id="claim-t-55187"></a>
-- t-001
-  teiginys: "Krantzas Gediminui priskyrė lotynišką pareiškimą „Papam vestrum nec novi, nec nosse cupio“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::sayings"
-  ryšio_patikimumas: "susije_su -> Albertas Krantzas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Papam vestrum nec novi, nec nosse cupio: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Albertas Krantzas: mention_match, author, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Papam vestrum nec novi, nec nosse cupio\" parinktas kaip owner_note_path. Targetas \"Albertas Krantzas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55780
-
-<a id="claim-t-55188"></a>
-- t-002
-  teiginys: "Formulė „Papam vestrum nec novi, nec nosse cupio“ lietuviškai aiškinama kaip „Jūsų Tėvo nei pažinojau, nei trokštu pažinti“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::sayings"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Papam vestrum nec novi, nec nosse cupio: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Papam vestrum nec novi, nec nosse cupio\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55780
-    - c-55781
-
-<a id="claim-t-55189"></a>
-- t-003
-  teiginys: "„Papam vestrum nec novi, nec nosse cupio“ reiškė pareiškimą, kad popiežiaus nei pažinojo, nei troško pažinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::sayings"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55781
-
-<a id="claim-t-82143"></a>
-- t-004
-  teiginys: "Posakis „Papam vestrum nec novi, nec nosse cupio“ buvo pateiktas kaip atsakymas popiežiaus pasiuntiniams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::sayings"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55781
-

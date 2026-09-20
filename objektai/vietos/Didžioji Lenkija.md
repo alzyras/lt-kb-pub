@@ -1,15 +1,15 @@
 ---
 tipas: vieta
-pavadinimas: 'Didžioji Lenkija'
+pavadinimas: Didžioji Lenkija
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1253 m.'
-  - '1254 m.'
-  - '1306 m.'
-  - '1431 m.'
+  - 1253 m.
+  - 1254 m.
+  - 1306 m.
+  - 1431 m.
 date_start: '1253'
 date_end: '1431'
 sukurta: ''
@@ -18,29 +18,41 @@ tags:
   - vieta
   - regionas
 amziai:
-  - 'XIII'
-  - 'XV'
+  - XIII
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8c14bf0b832bbdede8f3b399"
-canonical_name: "Didžioji Lenkija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Didžioji Lenkija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8c14bf0b832bbdede8f3b399
+canonical_name: Didžioji Lenkija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Didžioji Lenkija
 sameAs: []
-canonical_biography: "Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais."
+canonical_biography: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Didžioji Lenkija","url":"https://lt.wikipedia.org/wiki/Did%C5%BEioji_Lenkija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Didžioji Lenkija","url":"https://www.vle.lt/straipsnis/didzioji-lenkija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T10:48:59+00:00","source_checked_at":"2026-09-20T10:48:59+00:00","counts":{"relations":3,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Didžioji Lenkija","url":"https://lt.wikipedia.org/wiki/Did%C5%BEioji_Lenkija","publisher":"Vikipedija","language":"lt","article_id":"258524","revision_id":"7233626","published_at":"2024-03-24T13:16:00Z","version_pk":"","content_hash":"29408378ee157241c4e1983cdaff7912d2b7fe08b9c95122f9932ecc15e8766c","retrieved_at":"2026-09-20T10:47:55+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Did%C5%BEioji_Lenkija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"258524"}},"intro":"Šis straipsnis – apie istorinį regioną. Apie administracinius vienetus žiūrėkite Didžiosios Lenkijos provincija, Didžiosios Lenkijos vaivadija.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Didžioji Lenkija","url":"https://lt.wikipedia.org/wiki/Did%C5%BEioji_Lenkija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Didžioji Lenkija","url":"https://www.vle.lt/straipsnis/didzioji-lenkija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Did%C5%BEioji_Lenkija","https://www.vle.lt/straipsnis/didzioji-lenkija/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-184940","confidence":0.96},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-114861","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Poznanė","claim_id":"t-114861","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: fdb4a4aad0e03e54
+object_page_generated_at: '2026-09-20T10:48:59+00:00'
+object_page_source_checked_at: '2026-09-20T10:48:59+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Didžioji Lenkija: Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų…'
+object_page_seo_input_hash: 082acfe61c33caa3293c19861d3ff98e0228e8c06fbdfeaf0e9ff47e8217e4f9
+object_page_seo_generated_at: '2026-09-20T10:48:59+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Didžioji Lenkija
 
@@ -49,6 +61,25 @@ historical_names: []
 Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.
 
 ## Teiginiai
+
+<a id="claim-t-173358"></a>
+- t-001
+  teiginys: "1431 m. Didžiojoje Lenkijoje įsiplieskė karas su Kryžiuočių ordinu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Didžioji Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžioji Lenkija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1431 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-157684
 
 <a id="claim-t-173359"></a>
 - t-002
@@ -66,29 +97,10 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   pagrindžia:
     - c-157682
 
-<a id="claim-t-173358"></a>
-- t-173358
-  teiginys: "1431 m. Didžiojoje Lenkijoje įsiplieskė karas su Kryžiuočių ordinu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Didžioji Lenkija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžioji Lenkija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1431 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-157684
-
 <a id="claim-t-173361"></a>
-- t-173361
+- t-003
   teiginys: "1431 m. Didžiojoje Lenkijoje kilo karas su Kryžiuočių ordinu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -105,9 +117,9 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     - c-157680
 
 <a id="claim-t-183009"></a>
-- t-183009
+- t-004
   teiginys: "Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -126,9 +138,9 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     - c-166402
 
 <a id="claim-t-184940"></a>
-- t-184940
+- t-005
   teiginys: "Po paliaubų sutarties Vytautas nuvyko į Lietuvą, o Jogaila išvyko į Didžiąją Lenkiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -198,8 +210,8 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-173361
+  pagrindzia:
+    - t-003
 
 - id: c-157682
   redaktorius: "A. Šapoka"
@@ -223,12 +235,11 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     generaliniais sei-
     meliais.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-157684
@@ -250,8 +261,8 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-173358
+  pagrindzia:
+    - t-001
 
 - id: c-166402
   redaktorius: "A. Šapoka"
@@ -278,8 +289,8 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183009
+  pagrindzia:
+    - t-004
 
 - id: c-168301
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -306,8 +317,8 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184940
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

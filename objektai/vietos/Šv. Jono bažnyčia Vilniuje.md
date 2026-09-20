@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Šv. Jono bažnyčia Vilniuje'
+pavadinimas: Šv. Jono bažnyčia Vilniuje
 saltiniai:
-  - 'Lenkai Lietuvoje Dr. J. Basanavičius'
+  - Lenkai Lietuvoje Dr. J. Basanavičius
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
 datos:
-  - '1386 m.'
-  - '1668 m.'
+  - 1386 m.
+  - 1668 m.
 date_start: '1386'
 date_end: '1668'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - šventvietė
   - vieta
 amziai:
-  - 'XIV'
-  - 'XVII'
+  - XIV
+  - XVII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f71765f7d9152aeca13beb59"
-canonical_name: "Šv. Jono bažnyčia Vilniuje"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Šv. Jono bažnyčia Vilniuje"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f71765f7d9152aeca13beb59
+canonical_name: Šv. Jono bažnyčia Vilniuje
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šv. Jono bažnyčia Vilniuje
 sameAs: []
-canonical_biography: "Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir pritaikė jį jiems gyventi. Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią. 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos."
+canonical_biography: Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir pritaikė jį jiems gyventi. Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią. 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:26:01+00:00","source_checked_at":"2026-09-19T21:26:01+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Mes cituojame tik tuos, kuriuos matėme patys. 70 Detali Kardinalijos istorija yra tokia: kunigaikštis Jurgis Radvila, dar bū­ damas Vilniaus vyskupijos koadju­ torius, su broliu gavo palikimo mū­ rinį namą, Goštautų vardo, stovintį priešais Šv. Jono bažnyčią, visą mū­ rinį.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-195199","evidence_id":"c-177564","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"d66686e79a34d06ad96ac241","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Išlikę gotiniai bruožai: aštrialankiai langai, galingos sienų atramos (kontraforsai) ir halės tipo erdvė, padalyta į tris vienodo aukščio navas.","context":"M. Vorobjovo 1940 m. aprašymas apie Šv. Jono bažnyčią Vilniuje.","support_ids":["t-200789","c-184134"],"source_refs":[{"kind":"internal_claim","claim_id":"t-200789","source":"darbas/sources/Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.).md"},{"kind":"evidence","evidence_id":"c-184134","source":"darbas/sources/Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.).md","quote":"Gal kiek ryš­ kesni gotiniai bruožai yra išlikę tiktai šv. Jono bažnyčioje: iš oro ( 52 ) — aštrialankiai langai ir galingos sienų atramos (kontraforsai), viduje (12)—aiškiai išreikštas halės tipas: erdvė padalytą į tris vienodo aukščio navas aukštais, lieknais aštuoniasieniais pilioriais; pastarieji, nors buvo vėliau naujai apdirbinėjami, iš karto išduoda gotinį savo charakterį. Gi tobuliausiai halės tipas yra įsikūnijęs XVI amžiuje, būtent Bernardinų bažnyčioje, kurią tuojau pat išnagrinėsime."}],"status":"published","conflict_status":"clear"},{"trait_id":"6ca25c93b6fb174f153c67d8","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Prie bažnyčios buvo priskirti visas jos turtas ir arkipresbiterio namai.","context":"1571 m. kovo 10 d. Žygimantas Augustas bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.","support_ids":["t-195200","c-177567"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195200","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177567","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Jono brolijai priklausantiems, kurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta­ tais ir papuošimu, ad tenorem [pagal] sutartį, 1521 metų ba­ landžio 9 dieną sudarytą Vilniaus miesto su tos bažnyčios arkipresbiterių Leonardu Rodijanu, o šviesiausiojo karaliaus Žygimanto Augusto patvirtintą. Tasai karalius 1571 metų kovo 10 dieną Šv. Jono bažnyčią atidavė kun. Valerijono Pro- tasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­ toriaus instancijai su visu turtu ir arkipresbiterio namais pri- 172 ## Puslapis 189 Il KNYGA jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos."}],"status":"published","conflict_status":"clear"},{"trait_id":"b3322ef94525194b32f8b696","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Prijungta prie Jėzaus Draugijos kolegijos.","context":"1571 m. kovo 10 d. Žygimanto Augusto sprendimu, perduodant bažnyčią Vilniaus vyskupo ir Akademijos kolegijos fundatoriaus instancijai.","support_ids":["t-195200","c-177567"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195200","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177567","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Jono brolijai priklausantiems, kurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta­ tais ir papuošimu, ad tenorem [pagal] sutartį, 1521 metų ba­ landžio 9 dieną sudarytą Vilniaus miesto su tos bažnyčios arkipresbiterių Leonardu Rodijanu, o šviesiausiojo karaliaus Žygimanto Augusto patvirtintą. Tasai karalius 1571 metų kovo 10 dieną Šv. Jono bažnyčią atidavė kun. Valerijono Pro- tasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­ toriaus instancijai su visu turtu ir arkipresbiterio namais pri- 172 ## Puslapis 189 Il KNYGA jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Šv. Jono bažnyčia Vilniuje yra gotikos bruožų išlaikiusi miesto bažnyčia. Jos architektūroje matyti aštrialankiai langai, galingi kontraforsai ir halės tipo trijų vienodo aukščio navų erdvė, suskaidyta aukštais aštuoniasieniais pilioriais. 1571 m. kovo 10 d. Žygimantas Augustas bažnyčią, jos turtą ir arkipresbiterio namus prijungė prie Jėzaus Draugijos kolegijos. Vėliau, 1668 m. gegužės 17 d., karaliaus raštu galutinai pripažinta jos priklausomybė vienuoliams jėzuitams. Bažnyčia tapo ir religinės polemikos scena: vyskupo Protasevičiaus įsakymu priešais ją viešai degintos surinktos disidentų knygos. Netoliese, priešais bažnyčią, stovėjo Goštautų vardu vadintas mūrinis namas, vėliau siejamas su Kardinalijos istorija.","sentences":[{"sentence_id":"s1","text":"Šv. Jono bažnyčia Vilniuje yra gotikos bruožų išlaikiusi miesto bažnyčia.","support_ids":["t-200789","c-184134"]},{"sentence_id":"s2","text":"Jos architektūroje matyti aštrialankiai langai, galingi kontraforsai ir halės tipo trijų vienodo aukščio navų erdvė, suskaidyta aukštais aštuoniasieniais pilioriais.","support_ids":["t-200789","c-184134"]},{"sentence_id":"s3","text":"1571 m. kovo 10 d. Žygimantas Augustas bažnyčią, jos turtą ir arkipresbiterio namus prijungė prie Jėzaus Draugijos kolegijos.","support_ids":["t-195200","c-177567"]},{"sentence_id":"s4","text":"Vėliau, 1668 m. gegužės 17 d., karaliaus raštu galutinai pripažinta jos priklausomybė vienuoliams jėzuitams.","support_ids":["t-195203","c-177562"]},{"sentence_id":"s5","text":"Bažnyčia tapo ir religinės polemikos scena: vyskupo Protasevičiaus įsakymu priešais ją viešai degintos surinktos disidentų knygos.","support_ids":["t-195204","c-177563"]},{"sentence_id":"s6","text":"Netoliese, priešais bažnyčią, stovėjo Goštautų vardu vadintas mūrinis namas, vėliau siejamas su Kardinalijos istorija.","support_ids":["t-195199","c-177564"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniais: bažnyčioje išlikę gotikos bruožai."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo aštrialankius langus, kontraforsus ir trijų vienodo aukščio navų halės tipo erdvę su aštuoniasieniais pilioriais."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai patvirtina datą, Žygimantą Augustą, bažnyčios turtą, arkipresbiterio namus ir prijungimą prie Jėzaus Draugijos kolegijos."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1668 m. gegužės 17 d. karaliaus raštą ir priklausomybės jėzuitams pripažinimą."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad vyskupo Protasevičiaus įsakymu priešais Šv. Jono bažnyčią buvo viešai deginamos surinktos disidentų knygos."},{"sentence_id":"s6","supported":true,"reason":"Šaltinis tiesiogiai nurodo priešais bažnyčią stovėjusį Goštautų vardu vadintą mūrinį namą ir sieja pasakojimą su Kardinalijos istorija."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-200789","c-184134"]},{"sentence_id":"s2","supported":true,"support_ids":["t-200789","c-184134"]},{"sentence_id":"s3","supported":true,"support_ids":["t-195200","c-177567"]},{"sentence_id":"s4","supported":true,"support_ids":["t-195203","c-177562"]},{"sentence_id":"s5","supported":true,"support_ids":["t-195204","c-177563"]},{"sentence_id":"s6","supported":true,"support_ids":["t-195199","c-177564"]}],"verifier":"gpt-5.6-luna"},"quality":55,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[{"date":"1386 m.","label":"1386 m.","claimId":"t-195201"},{"date":"1386 m.","label":"Šv.","claimId":"t-195202"},{"date":"1571 m.","label":"1571 m.","claimId":"t-195200"},{"date":"1668 m.","label":"1668 m.","claimId":"t-195203"}],"support_disclosure":{"claims":7,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a3e08fa3bcfffe27
+object_page_generated_at: '2026-09-19T21:26:01+00:00'
+object_page_source_checked_at: '2026-09-19T21:26:01+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '2'
+object_page_seo_description: 'Šv. Jono bažnyčia Vilniuje yra gotikos bruožų išlaikiusi miesto bažnyčia. Jos architektūroje matyti aštrialankiai langai, galingi kontraforsai ir halės tipo…'
+object_page_seo_input_hash: 8b937fde3d666fb5aafb6f3521448fa777843c92d99a98d711b15e31fb3daf74
+object_page_seo_generated_at: '2026-09-19T21:26:01+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Šv. Jono bažnyčia Vilniuje
 
@@ -48,23 +60,10 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
 
 ## Teiginiai
 
-<a id="claim-t-200789"></a>
-- t-008
-  teiginys: "Šv. Jono bažnyčioje Vilniuje išlikę gotiniai bruožai apima aštrialankius langus, kontraforsus ir halės tipo trijų navų erdvę."
-  atnaujinta: "2026-07-14 21:36"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
-  vertinimo_atnaujinta: "2026-07-14T18:29:35Z"
-  pagrindžia:
-    - c-184134
-
 <a id="claim-t-195198"></a>
-- t-195198
+- t-001
   teiginys: "Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir pritaikė jį jiems gyventi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Citata pagrindžia veiksmą ir ryšį su Šv. Jono bažnyčios vieta."
@@ -74,9 +73,9 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     - c-177566
 
 <a id="claim-t-195199"></a>
-- t-195199
+- t-002
   teiginys: "Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Citata pagrindžia tik pastato vietą priešais bažnyčią."
@@ -86,9 +85,9 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     - c-177564
 
 <a id="claim-t-195200"></a>
-- t-195200
+- t-003
   teiginys: "1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Citata pagrindžia datą, valdovą ir bažnyčios prijungimą prie Jėzaus Draugijos kolegijos."
@@ -101,9 +100,9 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     - c-177567
 
 <a id="claim-t-195201"></a>
-- t-195201
+- t-004
   teiginys: "1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "OCR fragmentas perrašytas į užbaigtą faktinį sakinį."
@@ -116,9 +115,9 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     - c-177568
 
 <a id="claim-t-195202"></a>
-- t-195202
+- t-005
   teiginys: "Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Citata pagrindžia visas sakinyje pateiktas datas."
@@ -132,9 +131,9 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     - c-177565
 
 <a id="claim-t-195203"></a>
-- t-195203
+- t-006
   teiginys: "1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Pradinis tekstas buvo nutrūkęs, o citata palaiko pilną faktinį sakinį."
@@ -147,15 +146,28 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     - c-177562
 
 <a id="claim-t-195204"></a>
-- t-195204
+- t-007
   teiginys: "Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Pradinis teiginys buvo nebaigtas fragmentas, o citata leidžia suformuluoti konkretų faktą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177563
+
+<a id="claim-t-200789"></a>
+- t-008
+  teiginys: "Šv. Jono bažnyčioje Vilniuje išlikę gotiniai bruožai apima aštrialankius langus, kontraforsus ir halės tipo trijų navų erdvę."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:35Z"
+  pagrindžia:
+    - c-184134
 
 ## Citatos
 
@@ -176,8 +188,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195203
+  pagrindzia:
+    - t-006
 
 - id: c-177563
   autorius: "Michał Baliński"
@@ -200,8 +212,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195204
+  pagrindzia:
+    - t-007
 
 - id: c-177564
   autorius: "Michał Baliński"
@@ -225,8 +237,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195199
+  pagrindzia:
+    - t-002
 
 - id: c-177565
   autorius: "Michał Baliński"
@@ -254,8 +266,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195202
+  pagrindzia:
+    - t-005
 
 - id: c-177566
   autorius: "Michał Baliński"
@@ -275,8 +287,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195198
+  pagrindzia:
+    - t-001
 
 - id: c-177567
   autorius: "Michał Baliński"
@@ -305,8 +317,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195200
+  pagrindzia:
+    - t-003
 
 - id: c-177568
   autorius: "Michał Baliński"
@@ -332,8 +344,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195201
+  pagrindzia:
+    - t-004
 
 - id: c-184134
   autorius: "Mikalojus Vorobjovas"
@@ -350,11 +362,9 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     tobuliausiai halės tipas yra įsikūnijęs XVI amžiuje, būtent Bernardinų
     bažnyčioje, kurią tuojau pat išnagrinėsime.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
-

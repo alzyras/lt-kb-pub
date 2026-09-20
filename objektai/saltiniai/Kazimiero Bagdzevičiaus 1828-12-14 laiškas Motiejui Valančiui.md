@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'Kazimiero Bagdzevičiaus 1828-12-14 laiškas Motiejui Valančiui'
+pavadinimas: Kazimiero Bagdzevičiaus 1828-12-14 laiškas Motiejui Valančiui
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1323 m.'
-  - '2089 m.'
+  - 1323 m.
+  - 2089 m.
 date_start: '1323'
 date_end: '2089'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kazimiero Bagdzevičiaus 1828-12-14 laiškas Motiejui Valančiui
 

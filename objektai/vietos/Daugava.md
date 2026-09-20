@@ -1,12 +1,12 @@
 ---
 tipas: vieta
-pavadinimas: 'Daugava'
+pavadinimas: Daugava
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 datos:
-  - '1182 m.'
+  - 1182 m.
 date_start: '1182'
 date_end: ''
 sukurta: ''
@@ -15,28 +15,41 @@ tags:
   - upė
   - vieta
 amziai:
-  - 'XII'
+  - XII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-bd5a143647e7a6f55fbb0e6d"
-canonical_name: "Daugava"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Daugava","Daugavos"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-bd5a143647e7a6f55fbb0e6d
+canonical_name: Daugava
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Daugava
+  - Daugavos
 sameAs: []
-canonical_biography: "Daugava teka į Žemaičių jūrą. Anapus Daugavos gyveno lietuvių krašto žmonės, vėliau vadinti latviais."
+canonical_biography: 'Daugava teka į Žemaičių jūrą. Anapus Daugavos gyveno lietuvių krašto žmonės, vėliau vadinti latviais.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Daugava - Wikipedia","url":"https://en.wikipedia.org/wiki/Daugava","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T00:02:05+00:00","source_checked_at":"2026-09-20T00:02:05+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Wikipedia","title":"Daugava - Wikipedia","url":"https://en.wikipedia.org/wiki/Daugava","kind":"institutional","bucket":"wikipedia"}],"primary_source_urls":["https://en.wikipedia.org/wiki/Daugava"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"65b464667bc61372a5b1eb2e","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Upė","context":"Simonas Daukantas, 1995 m. leidinyje „Istorija žemaitiška“, Daugavą įvardija tarp upių, kuriomis ėjo traktis į Juodąją jūrą.","support_ids":["t-201054","c-184404"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201054","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184404","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Viena ėjusi į pietva­ karius per vietoves, arba miestus, vadinamus As- kaukalis, Setidava, Eidovo, Kališas, Arsenijus, Kar- hodunas, Asanka, Setuja, Kelemantija ir Karnun- tas; garsios ginklinyčios rymionų padunojy, kame rymionys, atėmę minavotas prekes nuo lietuvių ir žemaičių, leido namon patys per Adrijos jūrą, kuria trakčia sako ir eržilą Nerono, viršiaus minavotą, sukeliavus gintarų krašte1 2. Antra traktis ėjusi į rytpietį upėmis Daugava, Triperiu, Berezina ir Nipru į Juodąją jūrą3. Tame pajūry sako buvus vietovę, arba miestą, Dioskūras vadinamą, didžiai garsų mugėmis, į kurias pasakoja 300 įvairių giminių susirinkdavusių, tarp kurių al- viena ypatinga kalba kalbėjusi."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"989eb2a5712cf7809ec7a017","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Skardžiai","context":"Simonas Daukantas aprašo 1182 m. mūšį ant Daugavos skardžių.","support_ids":["t-201055","c-184405"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201055","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184405","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Darin lietuviai ir žemaičiai, nuo visur sutraukę savo karė- 1182 jus, ėjo gudų tremti, kurie jau ugnia ir karda te- riojo padaugavius. Abi šąli su visų didžiausia aitra ir narsybe susigrūmė ant skardžių Daugavos. Izias­ lavas garbingas drąsybe ir narsybe, sako, pats eila- vęs savo gudus į mūšą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2d1c22cd0df287e998220f3c","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Geografinė riba tarp lietuvių gyvenamų vietovių ir Latvija vadinto krašto","context":"Simonas Daukantas nurodo, kad anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.","support_ids":["t-210097","c-192867"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210097","source":"darbas/sources/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md"},{"kind":"evidence","evidence_id":"c-192867","source":"darbas/sources/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md","quote":"Antrapus Daugavos lietuvius gyvenančius lig upei Gaujai vadino latviais iš pagadinto vardo latuviai, jų kraštą Latvija. Dar juo į rytus vadino kraštą Letgalija, tai yra – Lietuvos galas, kame Lietuvos tauta bengės, o krievių^107 prasidėjo; juo į pietus padaugaviais lužėnais, arba baltaisiais gudais."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 73fc18bde42045e7
+object_page_generated_at: '2026-09-20T00:02:05+00:00'
+object_page_source_checked_at: '2026-09-20T00:02:05+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '2'
+object_page_seo_description: 'Daugava teka į Žemaičių jūrą. Anapus Daugavos gyveno lietuvių krašto žmonės, vėliau vadinti latviais. Šaltinių citatos.'
+object_page_seo_input_hash: c4e26cbb3fe114cb7b707182ecca56a577bff8dede094cbe49036c804632522b
+object_page_seo_generated_at: '2026-09-20T00:02:05+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Daugava
 
@@ -57,6 +70,95 @@ Daugava teka į Žemaičių jūrą. Anapus Daugavos gyveno lietuvių krašto žm
 
 Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip geografinė riba anapus Lietuvių žemių.
 
+## Teiginiai
+
+<a id="claim-t-08491"></a>
+- t-001
+  teiginys: "Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata leidžia tiksliau nurodyti ribą iki Gaujos ir pašalinti nepagrįstą „vėliau“."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Latvija; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-10484
+
+<a id="claim-t-195079"></a>
+- t-002
+  teiginys: "Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pašalinta dviprasmybė, kas buvo minima kaip suomių padermės atšaka."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_place: Dvina; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vysla"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177465
+
+<a id="claim-t-195080"></a>
+- t-003
+  teiginys: "Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
+  susije_objektai: "mentioned_place: Dvina; mentioned_person: [[objektai/asmenys/Gerasimas|Gerasimas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Alšėnai; mentioned_place: Vitebskas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177462
+
+<a id="claim-t-195081"></a>
+- t-004
+  teiginys: "Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_place: Dvina; mentioned_place: Pamaris; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Bremenas"
+  temporaliniai_duomenys: "įvykio data: 1158 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177464
+
+<a id="claim-t-195082"></a>
+- t-005
+  teiginys: "Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pašalintas nutrūkimas ir perteklinės detalės, paliktas citata paremtas teiginys apie Dviną."
+  susije_objektai: "mentioned_place: Dvina; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vilija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177463
+
+<a id="claim-t-201054"></a>
+- t-006
+  teiginys: "Antra traktis ėjusi į rytpietį upėmis Daugava, Triperiu, Berezina ir Nipru į Juodąją jūrą3."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184404
+
+<a id="claim-t-201055"></a>
+- t-007
+  teiginys: "Darin lietuviai ir žemaičiai, nuo visur sutraukę savo karė- 1182 jus, ėjo gudų tremti, kurie jau ugnia ir karda teriojo padaugavius."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184405
+
 ## Citatos
 
 - id: c-10484
@@ -75,6 +177,8 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-177462
   autorius: "Michał Baliński"
@@ -98,8 +202,8 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195080
+  pagrindzia:
+    - t-003
 
 - id: c-177463
   autorius: "Michał Baliński"
@@ -128,8 +232,8 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195082
+  pagrindzia:
+    - t-005
 
 - id: c-177464
   autorius: "Michał Baliński"
@@ -150,8 +254,8 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195081
+  pagrindzia:
+    - t-004
 
 - id: c-177465
   autorius: "Michał Baliński"
@@ -178,8 +282,8 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195079
+  pagrindzia:
+    - t-002
 
 - id: c-184404
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -206,8 +310,8 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201054
+  pagrindzia:
+    - t-006
 
 - id: c-184405
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -226,93 +330,5 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201055
-
-## Teiginiai
-
-<a id="claim-t-210097"></a>
-- t-001
-  teiginys: "Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata leidžia tiksliau nurodyti ribą iki Gaujos ir pašalinti nepagrįstą „vėliau“."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Latvija; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
-<a id="claim-t-195079"></a>
-- t-195079
-  teiginys: "Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pašalinta dviprasmybė, kas buvo minima kaip suomių padermės atšaka."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_place: Dvina; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vysla"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177465
-
-<a id="claim-t-195080"></a>
-- t-195080
-  teiginys: "Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
-  susije_objektai: "mentioned_place: Dvina; mentioned_person: [[objektai/asmenys/Gerasimas|Gerasimas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Alšėnai; mentioned_place: Vitebskas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177462
-
-<a id="claim-t-195081"></a>
-- t-195081
-  teiginys: "Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_place: Dvina; mentioned_place: Pamaris; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Bremenas"
-  temporaliniai_duomenys: "įvykio data: 1158 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177464
-
-<a id="claim-t-195082"></a>
-- t-195082
-  teiginys: "Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pašalintas nutrūkimas ir perteklinės detalės, paliktas citata paremtas teiginys apie Dviną."
-  susije_objektai: "mentioned_place: Dvina; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vilija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177463
-
-<a id="claim-t-201054"></a>
-- t-201054
-  teiginys: "Antra traktis ėjusi į rytpietį upėmis Daugava, Triperiu, Berezina ir Nipru į Juodąją jūrą3."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184404
-
-<a id="claim-t-201055"></a>
-- t-201055
-  teiginys: "Darin lietuviai ir žemaičiai, nuo visur sutraukę savo karė- 1182 jus, ėjo gudų tremti, kurie jau ugnia ir karda teriojo padaugavius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184405
-
+  pagrindzia:
+    - t-007

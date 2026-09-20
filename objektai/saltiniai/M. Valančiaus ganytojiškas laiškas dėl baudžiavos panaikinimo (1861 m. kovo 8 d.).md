@@ -1,32 +1,29 @@
 ---
 tipas: saltinis
-pavadinimas: 'M. Valančiaus ganytojiškas laiškas dėl baudžiavos panaikinimo (1861 m. kovo 8 d.)'
+pavadinimas: M. Valančiaus ganytojiškas laiškas dėl baudžiavos panaikinimo (1861 m. kovo 8 d.)
 variantai:
-  - 'M. Valančiaus ganytojiškas laiškas dėl baudžiavos panaikinimo'
+  - M. Valančiaus ganytojiškas laiškas dėl baudžiavos panaikinimo
 aliases:
-  - 'M. Valančiaus ganytojiškas laiškas dėl baudžiavos panaikinimo'
+  - M. Valančiaus ganytojiškas laiškas dėl baudžiavos panaikinimo
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1861 m.'
+  - 1861 m.
 date_start: '1861'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # M. Valančiaus ganytojiškas laiškas dėl baudžiavos panaikinimo (1861 m. kovo 8 d.)
 

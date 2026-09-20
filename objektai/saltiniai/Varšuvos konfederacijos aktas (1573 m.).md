@@ -26,6 +26,27 @@ media_all_json: |-
 
 Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uoliai saugojo 1573 metų Varšuvos konfederacijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas buvo iškeikęs visus tos konfederacijos gynėjus. Renkamas karalium jis prisiekė laikytis 1573 metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikėjimo niekas nebus persekiojamas.
 
+## Teiginiai
+
+<a id="claim-t-67555"></a>
+- t-001
+  teiginys: "1573 metų Varšuvos konfederacija garantavo, kad dėl tikėjimo niekas nebus persekiojamas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67418
+
+<a id="claim-t-67556"></a>
+- t-002
+  teiginys: "Steponas Batoras saugojo 1573 m. Varšuvos konfederacijos akto nuostatus dėl protestantų tikėjimo laisvės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-67419
+
 ## Citatos
 
 - id: c-67418
@@ -46,7 +67,7 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-67419
@@ -70,27 +91,5 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-67555"></a>
-- t-001
-  teiginys: "1573 metų Varšuvos konfederacija garantavo, kad dėl tikėjimo niekas nebus persekiojamas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67418
-
-<a id="claim-t-67556"></a>
-- t-002
-  teiginys: "Steponas Batoras saugojo 1573 m. Varšuvos konfederacijos akto nuostatus dėl protestantų tikėjimo laisvės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-67419
-

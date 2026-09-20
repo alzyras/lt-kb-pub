@@ -28,6 +28,20 @@ Lažinio palivarkinio ūkio biudžeto apskaičiavimo metodai ir vertinimo kriter
 
 Lažinio palivarkinio ūkio biudžeto apskaičiavimo metodai ir vertinimo kriterijai istorikui kėlė didžiausių keblumų.
 
+## Teiginiai
+
+<a id="claim-t-203640"></a>
+- t-001
+  teiginys: "Lažinio palivarkinio ūkio biudžeto apskaičiavimo metodai ir vertinimo kriterijai istorikui kėlė didžiausių keblumų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186244
+
 ## Citatos
 
 - id: c-186244
@@ -57,20 +71,5 @@ Lažinio palivarkinio ūkio biudžeto apskaičiavimo metodai ir vertinimo kriter
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203640"></a>
-- t-001
-  teiginys: "Lažinio palivarkinio ūkio biudžeto apskaičiavimo metodai ir vertinimo kriterijai istorikui kėlė didžiausių keblumų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
-  pagrindžia:
-    - c-186244
-

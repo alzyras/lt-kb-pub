@@ -41,6 +41,24 @@ canonical_biography: "Lukšienė (BBK, t."
 
 Lukšienė (BBK, t.
 
+## Teiginiai
+
+<a id="claim-t-100131"></a>
+- t-001
+  teiginys: "M. Lukšienė rašė apie bibliotekas Lietuvoje XIX a. pradžioje ir to laikotarpio pradines mokyklas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Lukšienė: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Lukšienė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-30731
+
 ## Citatos
 
 - id: c-30731
@@ -57,56 +75,5 @@ Lukšienė (BBK, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-190161
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 326"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 326."
-  citata_originali: |
-    Poznań, 1988). Vis dėlto LDK tradicijas pamažu pradėjo matyti ir lietuvių istoriografija
-    (M. Lukšienė, vėliau „Tautinio atgimimo studijų“ kompanija: E. Aleksandravičius, A. Ku-
-    lakauskas ir kiti). Šiandien tokią tendenciją tęsia gausėjantys tyrėjų būriai Lietuvoje, Bal-
-    tarusijoje ir Lenkijoje.
-  citata_rodoma: "LDK tradicijas pamažu pradėjo matyti ir lietuvių istoriografija \n(M. Lukšienė, vėliau „Tautinio atgimimo studijų“ kompanija: E. Aleksandravičius, A. Ku-\nlakauskas ir kiti). Šiandien"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-100131"></a>
-- t-001
-  teiginys: "M. Lukšienė rašė apie bibliotekas Lietuvoje XIX a. pradžioje ir to laikotarpio pradines mokyklas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "M. Lukšienė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Lukšienė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-30731
-
-<a id="claim-t-207544"></a>
-- t-002
-  teiginys: "M. Lukšienė priklauso lietuvių istoriografijai, kuri pamažu pradėjo matyti LDK tradicijas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  pagrindžia:
-    - c-190161
-

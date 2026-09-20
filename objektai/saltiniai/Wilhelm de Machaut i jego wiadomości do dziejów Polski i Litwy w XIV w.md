@@ -32,30 +32,12 @@ media_all_json: |-
 
 (”) Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy w XIV w., KH, t.
 
-## Citatos
-
-- id: c-31881
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 245."
-  citata_originali: |
-    — (”) _Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy
-    w XIV w.,_ KH, t. 43, 1929, 217-228 p.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-100224"></a>
 - t-001
   teiginys: "„Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy w XIV w.“ paskelbta KH 43 tome 1929 m., p. 217–228."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -71,3 +53,20 @@ media_all_json: |-
   pagrindžia:
     - c-31881
 
+## Citatos
+
+- id: c-31881
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 245"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 245."
+  citata_originali: |
+    — (”) _Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy
+    w XIV w.,_ KH, t. 43, 1929, 217-228 p.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

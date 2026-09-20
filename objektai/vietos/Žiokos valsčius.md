@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Žiokos valsčius'
+pavadinimas: Žiokos valsčius
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4b177fb6e5ce0d61e62897d6"
-canonical_name: "Žiokos valsčius"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Žiokos valsčius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4b177fb6e5ce0d61e62897d6
+canonical_name: Žiokos valsčius
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Žiokos valsčius
 sameAs: []
-canonical_biography: "Žiokos valsčiuje gyveno prūsas Dargis."
+canonical_biography: Žiokos valsčiuje gyveno prūsas Dargis.
 ---
 # Žiokos valsčius
 
@@ -65,6 +64,5 @@ canonical_biography: "Žiokos valsčiuje gyveno prūsas Dargis."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

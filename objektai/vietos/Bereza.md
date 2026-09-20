@@ -50,28 +50,12 @@ Bereza šiame straipsnyje minima kaip Mykolo Antano Sapiegos palaidojimo vieta.
 
 Bereza čia minima kaip laidojimo vieta.
 
-## Citatos
-
-- id: c-183976
-  autorius: "Domininkas Burba"
-  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
-  puslapiai: "PDF 11"
-  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-07-26 17:37"
-  pagrindžia:
-    - t-001
-
-## Ryšiai
-- Turėjo palaidotą asmenį: [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]
-
 ## Teiginiai
 
 <a id="claim-t-200573"></a>
 - t-001
   teiginys: "1760 m. Mykolas Antanas Sapiega buvo palaidotas Berezoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "buvo_palaidotas -> Bereza: 0.99"
@@ -86,3 +70,18 @@ Bereza čia minima kaip laidojimo vieta.
   pagrindžia:
     - c-183976
 
+## Citatos
+
+- id: c-183976
+  autorius: "Domininkas Burba"
+  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
+  puslapiai: "PDF 11"
+  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 17:37"
+  pagrindzia:
+    - t-001
+
+## Ryšiai
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]

@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Konradas Valenrodas'
+pavadinimas: Konradas Valenrodas
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1382 m.'
-  - '1393 m.'
+  - 1382 m.
+  - 1393 m.
 date_start: '1382'
 date_end: '1393'
 sukurta: ''
@@ -14,28 +14,40 @@ tags:
   - asmuo
   - mokslininkas
 amziai:
-  - 'XIV'
+  - XIV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ccc16c42240f94ceca724858"
-canonical_name: "Konradas Valenrodas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Konradas Valenrodas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ccc16c42240f94ceca724858
+canonical_name: Konradas Valenrodas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Konradas Valenrodas
 sameAs: []
-canonical_biography: "Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir maršalo Konrado Valen­ rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­ kų pilį. 22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s klysta sakyda­ mi, esą žygio vadovavimas buvo pa­ vestas Konradui Valenrodui, kurį jau tuo metu vadina didžiuoju ma­ gistru, kai Konradas Valenrodas 1382 metais, sekmadienį prieš Šv. Po visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­ do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­ ties narsa, o pirmiausia nesulaikomas potraukis į riterystę vėl subūrė iš visų Europos šalių gausius ir pajėgius kryžininkų pulkus."
+canonical_biography: 'Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir maršalo Konrado Valen­ rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­ kų pilį. 22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s klysta sakyda­ mi, esą žygio vadovavimas buvo pa­ vestas Konradui Valenrodui, kurį jau tuo metu vadina didžiuoju ma­ gistru, kai Konradas Valenrodas 1382 metais, sekmadienį prieš Šv. Po visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­ do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­ ties narsa, o pirmiausia nesulaikomas potraukis į riterystę vėl subūrė iš visų Europos šalių gausius ir pajėgius kryžininkų pulkus.'
+external_sources_json: '[{"title":"Konradas Valenrodas","url":"https://lt.wikipedia.org/wiki/Konradas_Valenrodas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:37:14+00:00","source_checked_at":"2026-09-19T18:37:14+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":["t-87396","t-206332","t-87398","t-206330","t-206331","t-87395"],"featured_claims":[{"claim_id":"t-87396","text":"Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas Ordino didžiuoju magistru ir mirė 1393 m. liepos 25 d.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-83377"]},{"claim_id":"t-206332","text":"Teodoras Narbutas nurodo, kad Konradas Valenrodas 1377–1382 m. valdė Šliochovo komtūriją, iki 1387 m. tarnavo maršalka, o 1391 m. vienbalsiai išrinktas didžiuoju magistru.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","evidence_ids":["c-188947"]},{"claim_id":"t-87398","text":"Konrado Valenrodo vadovaujama kryžiuočių kariauna kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-83376"]},{"claim_id":"t-206330","text":"Teodoras Narbutas mini Konradą Valenrodą kaip ordino maršalką, su kuriuo buvo užmegzti diplomatiniai ryšiai svarstant suvažiavimo galimybę.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","evidence_ids":["c-188945"]},{"claim_id":"t-206331","text":"Konradą Valenrodą Teodoras Narbutas aprašo kaip ordino maršalką, vedusį ginkluotus žmones iš Elbliongo, Kristburgo ir Osterodės pagalbon; jo pasiųstas Ragainės komtūras galėjo susikalbėti su pilies įgula.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","evidence_ids":["c-188946"]},{"claim_id":"t-87395","text":"Konrado Valenrodo šlovė ir narsa 1392 m. padėjo suburti gausius kryžininkų pulkus žygiui į Lietuvą.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-83374"]}],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Konradas Valenrodas","url":"https://lt.wikipedia.org/wiki/Konradas_Valenrodas","publisher":"Vikipedija","language":"lt","article_id":"167645","revision_id":"7231718","published_at":"2024-03-23T01:12:34Z","version_pk":"","content_hash":"b34fb8ab75b72734f62c5f449793747c9719b35123ebfee50e5cdea0eeec1b68","retrieved_at":"2026-09-19T18:35:21+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Konradas_Valenrodas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"167645"}},"intro":"Konradas Valenrodas (vok. Konrad von Wallenrode, g. tarp 1330 ir 1340 m. Valenrodų pilyje, dab. Bairoito apskritis, Aukštutinė Frankonija, Bavarija – 1393 m. liepos 23 d.) – Vokiečių ordino karinis ir valstybės veikėjas, Vokiečių ordino magistras.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"tarp 1330 ir 1340 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Valenrodų pilyje, dab. Bairoito apskritis, Aukštutinė Frankonija, Bavarija","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1393 m. liepos 23 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Marienburgo pilis","source":"wikipedia_infobox"},{"code":"religion","label":"Religija","value":"katalikybė","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Konradas Valenrodas","url":"https://lt.wikipedia.org/wiki/Konradas_Valenrodas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Konradas_Valenrodas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f2ae479cb79e47d37fcfc9ee","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Šaltinio autoriaus apibūdinamas kaip narsus ir turintis nesulaikomą potraukį į riterystę.","context":"Michał Baliński taip jį aprašo pasakodamas apie 1392 m. kryžininkų žygio į Lietuvą telkimą.","support_ids":["t-87395","c-83374"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87395","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83374","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti Lietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo naudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­ čioniška būdama, iš naujų savo tikėjimo brolių ne gynybos sulaukė, o dar žiauresnių smūgių nei totorių antpuoliai. Po visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­ do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­ ties narsa, o pirmiausia nesulaikomas potraukis į riterystę vėl subūrė iš visų Europos šalių gausius ir pajėgius kryži- ninkų pulkus, pasišovusius traukti į vargų prispaustą Lietuvą. Anglija, Škotija ir Prancūzija gerokai papildė sa- duodama 12…"}],"status":"published","conflict_status":"clear"},{"trait_id":"2b932da92caaf13c74d8d5e6","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Ordino didysis maršalas 1382–1387 m.; didysis komtūras nuo 1387 m.; didysis magistras nuo 1391 m. kovo 12 d.","context":"Michał Baliński nurodo šias pareigas ir datas; Teodoras Narbutas taip pat mini jo tarnybą maršalkos pareigose ir išrinkimą didžiuoju magistru 1391 m.","support_ids":["t-87396","c-83377","t-206332","c-188947"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87396","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-206332","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-83377","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s klysta sakyda­ mi, esą žygio vadovavimas buvo pa­ vestas Konradui Valenrodui, kurį jau tuo metu vadina didžiuoju ma­ gistru, kai Konradas Valenrodas 1382 metais, sekmadienį prieš Šv. Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Marijai šventę tapo didžiuoju komtūru arba arkikomtūru, 1390 rugpjūčio 15 d., po didžiojo magistro Konrado Ciolnerio fon Rotenšteino mirties, - ir didžiojo magistro vieti­ ninku, iki pat kapitulos suvažiavi­ mo, ir tik 1391 m. kovo 12 d. išrink­ tas didž. magistru; mirė 1393 m. liepos 25 d."},{"kind":"evidence","evidence_id":"c-188947","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Konradas jau se­ nokai gyveno Prūsijoje, kai jam 1377 m etais buvo duota Šliochovo komtūrija, ją valdė iki 1382 metų, tuomet pakvies­ tas būti maršalka, kuriuo tarnavo iki 1387 metų, kol buvo pa­ keltas į didžiuosius kom tūrus. Kai m irė Ciolneris, kurio 399 pavaduotoju, kaip kad matėme, jis buvo septynis mėnesius, 1391 metais buvo vienbalsiai išrinktas didžiuoju magistru"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"dcb5ec70bdf95757258130fc","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Ordino maršalka, vedęs ginkluotus žmones iš Elbliongo, Kristburgo ir Osterodės pagalbon.","context":"Teodoras Narbutas taip aprašo Konrado Valenrodo vaidmenį konkrečiame karo veiksmų epizode.","support_ids":["t-206331","c-188946"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206331","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188946","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Buvo tai ordino maršalka Konradas Valenrodas, vedantis ginkluotus žmones iš Elbliongo, Kristburgo ir Ostero- dės, skubantis pagalbon; jo pasiųstas narsusis Ragainės komtū­ ras gebėjo priartėti prie Neries tiek, kad girdėjo šūksnius iš pilies ir galėjo susikalbėti su įgula."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"fbe1a516cea39123782366c8","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Šaltinyje minima jo plačiai pasklidusi šlovė; kartu nurodoma, kad jo narsa ir riterystės siekis padėjo suburti gausius kryžininkų pulkus žygiui į Lietuvą.","context":"Michał Baliński tai vertina pasakodamas apie 1392 m. žygio rengimą.","support_ids":["t-87395","c-83374"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87395","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83374","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti Lietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo naudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­ čioniška būdama, iš naujų savo tikėjimo brolių ne gynybos sulaukė, o dar žiauresnių smūgių nei totorių antpuoliai. Po visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­ do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­ ties narsa, o pirmiausia nesulaikomas potraukis į riterystę vėl subūrė iš visų Europos šalių gausius ir pajėgius kryži- ninkų pulkus, pasišovusius traukti į vargų prispaustą Lietuvą. Anglija, Škotija ir Prancūzija gerokai papildė sa- duodama 12…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Konradas Valenrodas buvo Kryžiuočių ordino pareigūnas ir didysis magistras, aktyviai veikęs Lietuvos pasienio politiniuose bei kariniuose įvykiuose. 1377–1382 m. jis valdė Šliochovo komtūriją, vėliau tarnavo maršalka, o 1391 m. kovo 12 d. buvo išrinktas Ordino didžiuoju magistru. Jo šlovė, narsa ir polinkis į riterystę padėjo suburti gausius kryžininkų būrius 1392 m. žygiui į Lietuvą. Viename svarbiame žygyje jo vadovaujama kryžiuočių kariuomenė kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį, kuri po atkaklios gynybos buvo priversta pasiduoti. Valenrodas taip pat minimas kaip diplomatinio bendravimo su Lietuva dalyvis, o jo gyvenimas baigėsi 1393 m. liepos 25 d.","sentences":[{"sentence_id":"s1","text":"Konradas Valenrodas buvo Kryžiuočių ordino pareigūnas ir didysis magistras, aktyviai veikęs Lietuvos pasienio politiniuose bei kariniuose įvykiuose.","support_ids":["t-87396","c-83377","t-206330","c-188945"]},{"sentence_id":"s2","text":"1377–1382 m. jis valdė Šliochovo komtūriją, vėliau tarnavo maršalka, o 1391 m. kovo 12 d. buvo išrinktas Ordino didžiuoju magistru.","support_ids":["t-206332","c-188947","t-87396","c-83377"]},{"sentence_id":"s3","text":"Jo šlovė, narsa ir polinkis į riterystę padėjo suburti gausius kryžininkų būrius 1392 m. žygiui į Lietuvą.","support_ids":["t-87395","c-83374"]},{"sentence_id":"s4","text":"Viename svarbiame žygyje jo vadovaujama kryžiuočių kariuomenė kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį, kuri po atkaklios gynybos buvo priversta pasiduoti.","support_ids":["t-87398","c-83376"]},{"sentence_id":"s5","text":"Valenrodas taip pat minimas kaip diplomatinio bendravimo su Lietuva dalyvis, o jo gyvenimas baigėsi 1393 m. liepos 25 d.","support_ids":["t-206330","c-188945","t-87396","c-83377"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai nurodo, kad Konradas Valenrodas buvo Ordino pareigūnas, maršalka ir didysis magistras, dalyvavęs kariniuose bei diplomatiniuose reikaluose, susijusiuose su Lietuva."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai nurodyta, kad 1377–1382 m. jis valdė Šliochovo komtūriją, vėliau tarnavo maršalka, o 1391 m. kovo 12 d. išrinktas didžiuoju magistru."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai sieja jo šlovę, narsą ir polinkį į riterystę su gausių kryžininkų pulkų subūrimu 1392 m. žygiui į Lietuvą."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad jo vadovaujama kryžiuočių kariuomenė kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį, o po atkaklios gynybos įgula pasidavė."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai nurodo jo dalyvavimą diplomatiniuose ryšiuose su Lietuva ir tiesiogiai pateikia mirties datą – 1393 m. liepos 25 d."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-87396","c-83377","t-206330","c-188945"]},{"sentence_id":"s2","supported":true,"support_ids":["t-206332","c-188947","t-87396","c-83377"]},{"sentence_id":"s3","supported":true,"support_ids":["t-87395","c-83374"]},{"sentence_id":"s4","supported":true,"support_ids":["t-87398","c-83376"]},{"sentence_id":"s5","supported":true,"support_ids":["t-206330","c-188945","t-87396","c-83377"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a9193f230e527de1
+object_page_generated_at: '2026-09-19T18:37:14+00:00'
+object_page_source_checked_at: '2026-09-19T18:37:14+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Konradas Valenrodas buvo Kryžiuočių ordino pareigūnas ir didysis magistras, aktyviai veikęs Lietuvos pasienio politiniuose bei kariniuose įvykiuose. 1377–1382…'
+object_page_seo_input_hash: 89ecd91dc63c63546060ef0365a09992ce47f1889c34fedd0757ea5459bccc4a
+object_page_seo_generated_at: '2026-09-19T18:37:14+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Konradas Valenrodas
 
@@ -45,36 +57,10 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 
 ## Teiginiai
 
-<a id="claim-t-206328"></a>
-- t-005
-  teiginys: "Teodoras Narbutas rašo, kad netikėta mirtis nutraukė Konrado Valenrodo gyvenimą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188943
-
-<a id="claim-t-206330"></a>
-- t-007
-  teiginys: "Teodoras Narbutas mini Konradą Valenrodą kaip ordino maršalką, su kuriuo buvo užmegzti diplomatiniai ryšiai svarstant suvažiavimo galimybę."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188945
-
 <a id="claim-t-87395"></a>
-- t-87395
+- t-001
   teiginys: "Konrado Valenrodo šlovė ir narsa 1392 m. padėjo suburti gausius kryžininkų pulkus žygiui į Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -91,9 +77,9 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - c-83374
 
 <a id="claim-t-87396"></a>
-- t-87396
+- t-002
   teiginys: "Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas Ordino didžiuoju magistru ir mirė 1393 m. liepos 25 d."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -110,9 +96,9 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - c-83377
 
 <a id="claim-t-87397"></a>
-- t-87397
+- t-003
   teiginys: "Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas didžiuoju magistru, o 1393 m. liepos 25 d. mirė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Panevėžys: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -129,9 +115,9 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - c-83375
 
 <a id="claim-t-87398"></a>
-- t-87398
+- t-004
   teiginys: "Konrado Valenrodo vadovaujama kryžiuočių kariauna kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -144,10 +130,23 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   pagrindžia:
     - c-83376
 
+<a id="claim-t-206328"></a>
+- t-005
+  teiginys: "Teodoras Narbutas rašo, kad netikėta mirtis nutraukė Konrado Valenrodo gyvenimą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188943
+
 <a id="claim-t-206329"></a>
-- t-206329
+- t-006
   teiginys: "Teodoras Narbutas, polemizuodamas su A. Mickevičiumi, galbūt grąžino autentišką Konrado Valenrodo vaizdą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -157,10 +156,23 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   pagrindžia:
     - c-188944
 
+<a id="claim-t-206330"></a>
+- t-007
+  teiginys: "Teodoras Narbutas mini Konradą Valenrodą kaip ordino maršalką, su kuriuo buvo užmegzti diplomatiniai ryšiai svarstant suvažiavimo galimybę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188945
+
 <a id="claim-t-206331"></a>
-- t-206331
+- t-008
   teiginys: "Konradą Valenrodą Teodoras Narbutas aprašo kaip ordino maršalką, vedusį ginkluotus žmones iš Elbliongo, Kristburgo ir Osterodės pagalbon; jo pasiųstas Ragainės komtūras galėjo susikalbėti su pilies įgula."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -171,9 +183,9 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - c-188946
 
 <a id="claim-t-206332"></a>
-- t-206332
+- t-009
   teiginys: "Teodoras Narbutas nurodo, kad Konradas Valenrodas 1377–1382 m. valdė Šliochovo komtūriją, iki 1387 m. tarnavo maršalka, o 1391 m. vienbalsiai išrinktas didžiuoju magistru."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -219,8 +231,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-87395
+  pagrindzia:
+    - t-001
 
 - id: c-83375
   autorius: "Michał Baliński"
@@ -247,8 +259,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-87397
+  pagrindzia:
+    - t-003
 
 - id: c-83376
   autorius: "Michał Baliński"
@@ -271,8 +283,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-87398
+  pagrindzia:
+    - t-004
 
 - id: c-83377
   autorius: "Michał Baliński"
@@ -315,8 +327,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-87396
+  pagrindzia:
+    - t-002
 
 - id: c-188943
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -328,12 +340,11 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     ir kraštui, kuriuos jis nuskurdino savo neapsakom u išlaidu­
     mu, - tinkam u laiku
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-188944
@@ -349,8 +360,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206329
+  pagrindzia:
+    - t-006
 
 - id: c-188945
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -363,12 +374,11 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     suvažiavimą, kadangi žinome buvus apsaugos raštų, Jogailai
     anų šiam tikslui duotų1.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-188946
@@ -386,8 +396,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206331
+  pagrindzia:
+    - t-008
 
 - id: c-188947
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -408,6 +418,5 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206332
-
+  pagrindzia:
+    - t-009

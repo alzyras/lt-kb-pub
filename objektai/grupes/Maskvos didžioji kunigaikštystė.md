@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Maskvos didžioji kunigaikštystė'
+pavadinimas: Maskvos didžioji kunigaikštystė
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Maskvos didžioji kunigaikštystė
 
@@ -66,6 +63,18 @@ Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius buvo Vytauto žentas ir
   pagrindžia:
     - c-193498
 
+<a id="claim-t-211980"></a>
+- t-211980
+  teiginys: "Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius buvo Vytauto žentas ir jo vasalas."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193036
+
 ## Citatos
 
 - id: c-193036
@@ -79,11 +88,13 @@ Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius buvo Vytauto žentas ir
     sudarę amžiną taiką ir nustatę sieną pagal Ugros upę,
     važiavo su visais savo žmonėmis į skirtingas puses.
   statusas: verified
-  atnaujinta: "2026-09-12 23:39"
+  atnaujinta: "2026-09-13 18:07"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211980
 
 - id: c-193498
   autorius: "Anoniminis metraštininkas"

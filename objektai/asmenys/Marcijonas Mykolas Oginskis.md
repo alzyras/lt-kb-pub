@@ -43,25 +43,12 @@ canonical_biography: "1738 m. Marcijonas Mykolas Oginskis iš Vengrijos pirko tr
 
 1738 m. Marcijonas Mykolas Oginskis iš Vengrijos pirko trylika statinių seno vyno, dvi statines seno sausų uogų vyno ir dešimt statinių dviejų rūšių jauno vyno už 274 raudonuosius auksinus.
 
-## Citatos
-
-- id: c-185915
-  autorius: "Rimvydas Laužikas"
-  šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
-  puslapiai: "PDF 3"
-  indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-07-26 20:29"
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-202557"></a>
 - t-001
   teiginys: "1738 m. Marcijonas Mykolas Oginskis iš Vengrijos pirko trylika statinių seno vyno, dvi statines seno sausų uogų vyno ir dešimt statinių dviejų rūšių jauno vyno už 274 raudonuosius auksinus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -81,3 +68,15 @@ canonical_biography: "1738 m. Marcijonas Mykolas Oginskis iš Vengrijos pirko tr
   pagrindžia:
     - c-185915
 
+## Citatos
+
+- id: c-185915
+  autorius: "Rimvydas Laužikas"
+  šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
+  puslapiai: "PDF 3"
+  indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 20:29"
+  pagrindzia:
+    - t-001

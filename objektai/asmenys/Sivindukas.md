@@ -73,12 +73,11 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
     Dorogobužo ir Smolensko.
   citata_rodoma: "Be Naugardo, Pskovo, Tverės bei kitų\nsričių išrengtų raitelių ir Maskvos val-\ndovo dvaro pulko, dalyvavo ir toto-\nriai, vadovaujami murzos Sivinduko,\nkunigaikščio Madyko sūnaus. Rusai\nneturėjo artilerijos ir reikšmingesnių\npėstininkų pajėgų, kurios pasiliko prie\nDorogobužo ir Smolensko."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai

@@ -51,23 +51,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-206212"></a>
-- t-002
-  teiginys: "Pasak Teodoro Narbuto, Krokuvos tautos suvažiavime Jogaila buvo pristatytas kaip tautai pageidaujamas valdovas, pabrėžiant jo pergalę prieš kryžiuočius, Kauno užėmimą ir gerą širdį."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-188827
-
 <a id="claim-t-28815"></a>
-- t-28815
+- t-001
   teiginys: "1386 m. vasario 2 d. Liubline kilmingųjų seimas Jogailą išrinko Lenkijos karaliumi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Liublinas: 0.87"
   ryšio_patikimumo_lygis: "aukstas"
@@ -84,10 +71,23 @@ Nenurodyta
   pagrindžia:
     - c-28719
 
+<a id="claim-t-206212"></a>
+- t-002
+  teiginys: "Pasak Teodoro Narbuto, Krokuvos tautos suvažiavime Jogaila buvo pristatytas kaip tautai pageidaujamas valdovas, pabrėžiant jo pergalę prieš kryžiuočius, Kauno užėmimą ir gerą širdį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188827
+
 <a id="claim-t-206214"></a>
-- t-206214
+- t-003
   teiginys: "Pasak Teodoro Narbuto, nebelikus kliūčių, į Lietuvą turėjo būti pakartotinai siunčiami pasiuntiniai su karalienės pasižadėjimų patvirtinimais ir kvietimu didžiajam kunigaikščiui skubiai atvykti į Krokuvą būti išrinktam karaliumi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,8 +115,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-28815
+  pagrindzia:
+    - t-001
 
 - id: c-188827
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -130,12 +130,11 @@ Nenurodyta
     mas tautos, kuri po tokios skaudžios netekties, kaip Kazimiero
     Didžiojo mirtis, tapo našlaite.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-188829
@@ -153,6 +152,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206214
-
+  pagrindzia:
+    - t-003

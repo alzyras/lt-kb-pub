@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jonas Jurgaitis Zaberezinskis'
+pavadinimas: Jonas Jurgaitis Zaberezinskis
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1498 m.'
+  - 1498 m.
 date_start: '1498'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-697b60ad0889dcd4d886dca9"
-canonical_name: "Jonas Jurgaitis Zaberezinskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jonas Jurgaitis Zaberezinskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-697b60ad0889dcd4d886dca9
+canonical_name: Jonas Jurgaitis Zaberezinskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jonas Jurgaitis Zaberezinskis
 sameAs: []
-canonical_biography: "Jonas Jurgaitis Zaberezinskis buvo Trakų vaivada ir krašto maršalas nuo 1498 m. Kova dėl (takos didžiajam kunigaikščiui, kilusi tarp Jono Zaberezinskio ir naujojo Aleksandro favorito My kolo Glinskio, pasibaigė Zaberezinskio nužudymu t508.II.2."
+canonical_biography: 'Jonas Jurgaitis Zaberezinskis buvo Trakų vaivada ir krašto maršalas nuo 1498 m. Kova dėl (takos didžiajam kunigaikščiui, kilusi tarp Jono Zaberezinskio ir naujojo Aleksandro favorito My kolo Glinskio, pasibaigė Zaberezinskio nužudymu t508.II.2.'
 ---
 # Jonas Jurgaitis Zaberezinskis
 
@@ -86,7 +85,7 @@ Jonas Jurgaitis Zaberezinskis buvo Trakų vaivada ir krašto maršalas nuo 1498 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-194072
@@ -108,6 +107,5 @@ Jonas Jurgaitis Zaberezinskis buvo Trakų vaivada ir krašto maršalas nuo 1498 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

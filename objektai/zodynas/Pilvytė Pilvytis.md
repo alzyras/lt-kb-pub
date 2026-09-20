@@ -27,6 +27,34 @@ media_all_json: |-
 
 Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės deivę, lietuvių Fortūną. Narbutas Pilvytę laikė originaliu lietuvišku pavadinimu ir aiškino jį per žodį Pilwis, reiškiantį storulį arba perkeltine prasme turtuolį.
 
+## Teiginiai
+
+<a id="claim-t-189169"></a>
+- t-001
+  teiginys: "Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės deivę, lietuvių Fortūną."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172057
+
+<a id="claim-t-189170"></a>
+- t-002
+  teiginys: "Narbutas Pilvytę laikė originaliu lietuvišku pavadinimu ir aiškino jį per žodį Pilwis, reiškiantį storulį arba perkeltine prasme turtuolį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172058
+
 ## Citatos
 
 - id: c-172057
@@ -49,6 +77,8 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-172058
   autorius: "Teodoras Narbutas"
@@ -68,43 +98,5 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-200894
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 125"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 125."
-  citata_originali: |
-    Pilvytį' (Pilwite)
-    Pinigų, turto, lobių, sėkmės deivė, lietuvių Fortūna.
-    Kad šis mitas buvo žinomas, įrodo pateikiama dainelė, ku­
-    rią dar tebemoka vietos valstiečiai:
-    Weju, weju tau, Pilwite!
-    Ir per tauku, ir per mariu;
-    Ni aldeju nietureju,
-    Ni sparnas man niepadariu,
-    Tik tej sztowe priraszite.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-218991"></a>
-- t-001
-  teiginys: "Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės deivę, lietuvių Fortūną."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-200894
-
+  pagrindzia:
+    - t-002

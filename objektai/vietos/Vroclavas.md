@@ -1,12 +1,12 @@
 ---
 tipas: vieta
-pavadinimas: 'Vroclavas'
+pavadinimas: Vroclavas
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1432 m.'
-  - '1967 m.'
+  - 1432 m.
+  - 1967 m.
 date_start: '1432'
 date_end: '1967'
 sukurta: ''
@@ -15,29 +15,41 @@ tags:
   - vieta
   - žemė
 amziai:
-  - 'XV'
-  - 'XX'
+  - XV
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-70e584d741b0cbdd8d1b32a9"
-canonical_name: "Vroclavas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vroclavas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-70e584d741b0cbdd8d1b32a9
+canonical_name: Vroclavas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vroclavas
 sameAs: []
-canonical_biography: ": Historia Litwy, Vroclavas-Varšuva-Krokuva 1967. Dą­ browski, Vroclavas-Varšuva-Krokuva (PAN) 1961, 1965. Pus­ broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­ beno savo politinę karjerą pradedąs Zbignievas Olesnickis."
+canonical_biography: ': Historia Litwy, Vroclavas-Varšuva-Krokuva 1967. Dą­ browski, Vroclavas-Varšuva-Krokuva (PAN) 1961, 1965. Pus­ broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­ beno savo politinę karjerą pradedąs Zbignievas Olesnickis.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Vroclavas","url":"https://lt.wikipedia.org/wiki/Vroclavas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Vroclavas","url":"https://www.vle.lt/straipsnis/vroclavas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T16:05:24+00:00","source_checked_at":"2026-09-19T16:05:24+00:00","counts":{"relations":3,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­ ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­ čio dvare9.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-85594","evidence_id":"c-81576","origin":"internal"},"wiki":{"status":"published","source":{"title":"Vroclavas","url":"https://lt.wikipedia.org/wiki/Vroclavas","publisher":"Vikipedija","language":"lt","article_id":"41699","revision_id":"7757852","published_at":"2026-02-21T13:57:50Z","version_pk":"","content_hash":"ee860971f6988b916e75796190c1371f39af0556ede3bef0078322578de985b8","retrieved_at":"2026-09-19T16:02:51+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Vroclavas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"41699"}},"intro":"Vroclavas, iki 1945 m. lietuvių kalba vadintas Breslau (lenk. Wrocław, vok. Breslau, ček. Vratislav, veng. Boroszló, lot. Vratislavia, Wratislavia, Budorgis) – miestas-apskritis pietvakarių Lenkijoje, Žemutinės Silezijos vaivadijos sostinė. Išsidėstęs prie Odros (Oderio) upės. Išvystyta mašinų gamyba, chemijos, lengvoji, medienos, maisto pramonė. Yra universitetas, keletas mokslo institutų, Lenkijos mokslų akademijos leidykla ir biblioteka. Operos teatras, Silezijos muziejus, architektūros muziejus, rotušė (XIII–XVI a.), gotikinio stiliaus bažnyčios, Vroclavo zoologijos sodas ir kiti pastatai.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Vroclavas","url":"https://lt.wikipedia.org/wiki/Vroclavas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Vroclavas","url":"https://www.vle.lt/straipsnis/vroclavas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Vroclavas","https://www.vle.lt/straipsnis/vroclavas/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Vroclavas yra miestas, kurio gyventojai palaikė prekybinius ir politinius ryšius su Lietuva bei Vilniumi. 1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis. Švitrigaila prašė didžiojo magistro garantuoti jiems laisvą ir nevaržomą kelionę per Ordino teritorijas, nes šie žmonės rodė Lietuvai daug palankumo. Vroclavas taip pat tapo svarbia politinių protestų kryptimi: Jogaila ir Vytautas ten pasiuntė savo protestus, kuriuos gabeno Zbignevas Olesnickis. Kito ginčo metu Jogaila kreipėsi į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą, o pasakojime apie įvykius minima, kad prieš Kalėdas čia imperatorių su dvariškiais pasitiko įgaliotiniai.","sentences":[{"sentence_id":"s1","text":"Vroclavas yra miestas, kurio gyventojai palaikė prekybinius ir politinius ryšius su Lietuva bei Vilniumi.","support_ids":["t-85591","t-85593"]},{"sentence_id":"s2","text":"1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.","support_ids":["t-85591"]},{"sentence_id":"s3","text":"Švitrigaila prašė didžiojo magistro garantuoti jiems laisvą ir nevaržomą kelionę per Ordino teritorijas, nes šie žmonės rodė Lietuvai daug palankumo.","support_ids":["t-85592","t-85595"]},{"sentence_id":"s4","text":"Vroclavas taip pat tapo svarbia politinių protestų kryptimi: Jogaila ir Vytautas ten pasiuntė savo protestus, kuriuos gabeno Zbignevas Olesnickis.","support_ids":["t-85593"]},{"sentence_id":"s5","text":"Kito ginčo metu Jogaila kreipėsi į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą, o pasakojime apie įvykius minima, kad prieš Kalėdas čia imperatorių su dvariškiais pasitiko įgaliotiniai.","support_ids":["t-85596","t-206608"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia prekybinius ryšius ir politinius protestus, tačiau neįrodo, kad būtent Vroclavo gyventojai palaikė politinius ryšius su Lietuva bei Vilniumi."},{"sentence_id":"s2","supported":true,"reason":"Sakinys tiesiogiai atitinka t-85591 pateiktą šaltinio ištrauką."},{"sentence_id":"s3","supported":true,"reason":"t-85592 ir t-85595 tiesiogiai patvirtina Švitrigailos prašymą užtikrinti Vroclavo gyventojams laisvą kelionę su prekėmis ir nurodytą palankumą Lietuvai."},{"sentence_id":"s4","supported":false,"reason":"Šaltinis patvirtina protestų pasiuntimą į Vroclavą ir Zbignevo Olesnickio vaidmenį, tačiau nepatvirtina apibūdinimo „svarbi politinių protestų kryptis“."},{"sentence_id":"s5","supported":true,"reason":"t-85596 patvirtina Jogailos kreipimąsi į popiežių Martyną V, o t-206608 – įgaliotinių susitikimą su imperatoriumi ir dvariškiais prieš Kalėdas Vroclave."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-85591","t-85593"]},{"sentence_id":"s2","supported":false,"support_ids":["t-85591"]},{"sentence_id":"s3","supported":false,"support_ids":["t-85592","t-85595"]},{"sentence_id":"s4","supported":false,"support_ids":["t-85593"]},{"sentence_id":"s5","supported":false,"support_ids":["t-85596","t-206608"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-85591","confidence":0.68},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-85593","confidence":0.9},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179457","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":9,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3f0d87c45d708153
+object_page_generated_at: '2026-09-19T16:05:24+00:00'
+object_page_source_checked_at: '2026-09-19T16:05:24+00:00'
+object_page_content_state: content
+object_page_claim_count: '9'
+object_page_source_count: '4'
+object_page_seo_description: 'Vroclavas yra miestas, kurio gyventojai palaikė prekybinius ir politinius ryšius su Lietuva bei Vilniumi. 1432 m. Vroclavo gyventojai per Ordino žemes…'
+object_page_seo_input_hash: cb732d9c1bff9568109914b4d7907fb83dae47325603c624460ee0d428264514
+object_page_seo_generated_at: '2026-09-19T16:05:24+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vroclavas
 
@@ -47,34 +59,10 @@ historical_names: []
 
 ## Teiginiai
 
-<a id="claim-t-210767"></a>
-- t-210767
-  teiginys: "Ir kai jau baigė kariuome nę tvarkyti, patraukė į Vroclavą."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193074
-
-<a id="claim-t-211654"></a>
-- t-211654
-  teiginys: "Prie Vroclavo Kazimiero kariuomenė susidūrė su Jiržio kariuomene."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193921
-
 <a id="claim-t-85591"></a>
-- t-85591
+- t-001
   teiginys: "1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.68"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -93,9 +81,9 @@ historical_names: []
     - c-81576
 
 <a id="claim-t-85592"></a>
-- t-85592
+- t-002
   teiginys: "Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą kelionę su prekėmis per Ordino žemes."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kistrinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -109,9 +97,9 @@ historical_names: []
     - c-81579
 
 <a id="claim-t-85593"></a>
-- t-85593
+- t-003
   teiginys: "Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Vroclavas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -126,9 +114,9 @@ historical_names: []
     - c-81578
 
 <a id="claim-t-85595"></a>
-- t-85595
+- t-004
   teiginys: "Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą ir nevaržomą keliavimą su prekėmis per Ordino žemes."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kistrinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -142,9 +130,9 @@ historical_names: []
     - c-81579
 
 <a id="claim-t-85596"></a>
-- t-85596
+- t-005
   teiginys: "Jogaila tuojau apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -158,9 +146,9 @@ historical_names: []
     - c-81581
 
 <a id="claim-t-206607"></a>
-- t-206607
+- t-006
   teiginys: "Vroclave per Kalėdas buvo planuota surengti suvažiavimą, kuriame, dalyvaujant imperatoriui, turėjo būti imtasi įgyvendinti priešsutartinius priesakus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -171,9 +159,9 @@ historical_names: []
     - c-189222
 
 <a id="claim-t-206608"></a>
-- t-206608
+- t-007
   teiginys: "Teodoras Narbutas aprašo, kad dėl abiejų pusių atkaklumo nė viena jų nenusileido, todėl įgaliotiniai, nieko neįrodę, grįžo į Vokietiją, o prieš Kalėdas Vroclave sutiko imperatorių su dvariškiais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -205,8 +193,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-85591
+  pagrindzia:
+    - t-001
 
 - id: c-81577
   autorius: "Michał Baliński"
@@ -232,8 +220,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-85591
+  pagrindzia:
+    - t-001
 
 - id: c-81578
   autorius: "Zenonas Ivinskis"
@@ -253,8 +241,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-85593
+  pagrindzia:
+    - t-003
 
 - id: c-81579
   autorius: "Michał Baliński"
@@ -291,9 +279,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-85592
-    - t-85595
+  pagrindzia:
+    - t-002
+    - t-004
 
 - id: c-81581
   autorius: "Zenonas Ivinskis"
@@ -310,8 +298,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-85596
+  pagrindzia:
+    - t-005
 
 - id: c-189222
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -338,8 +326,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206607
+  pagrindzia:
+    - t-006
 
 - id: c-189223
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -355,44 +343,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206608
-
-- id: c-193074
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 137"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 137."
-  citata_originali: |
-    Ir kai jau baigė kariuome­
-    nę tvarkyti, patraukė į Vroclavą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210767
-
-- id: c-193921
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 137"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 137."
-  citata_originali: |
-    Kai karalius
-    Kazimieras, parengęs visus būrius mūšiui, su kariuo­
-    mene priartėjo prie Vroclavo, susidūrė su Jiržio 26 ka­
-    riuomene ir susikovė
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211654
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

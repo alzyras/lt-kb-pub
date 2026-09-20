@@ -35,6 +35,34 @@ Nors Gotfrido brolis Edesos grafas Balduinas buvo pripažintas karaliumi, tačia
 
 Nors Gotfrido brolis Edesos grafas Balduinas buvo pripažintas karaliumi, tačiau priešišku mo ir pavydo įšėlis nę tik kad nenurimo, bet ėmė reikš tis dar smarkiau. Vis dėlto karalius Balduinas ir kare, ir politinėse ving rybėse įrodė turįs nemaža sugebėjimų, kai per 18 metų ne tik kad išlaikė pašlijusios savo valstybės pajėgumą, bet pakrančių žemėse dar prijungė nemažai miestų — Ak rą, Tripolis, Sidonas, Beritąs, Biblas.
 
+## Teiginiai
+
+<a id="claim-t-205061"></a>
+- t-001
+  teiginys: "Nors Gotfrido brolis Edesos grafas Balduinas buvo pripažintas karaliumi, tačiau priešišku mo ir pavydo įšėlis nę tik kad nenurimo, bet ėmė reikš tis dar smarkiau."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188036
+
+<a id="claim-t-205479"></a>
+- t-002
+  teiginys: "Vis dėlto karalius Balduinas ir kare, ir politinėse ving rybėse įrodė turįs nemaža sugebėjimų, kai per 18 metų ne tik kad išlaikė pašlijusios savo valstybės pajėgumą, bet pakrančių žemėse dar prijungė nemažai miestų — Ak rą, Tripolis, Sidonas, Beritąs, Biblas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187685
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Nors Gotfrido brolis Edesos grafas Balduinas buvo pripažintas karaliumi, tačiau priešišku mo ir pavydo įšėlis nę tik kad nenurimo, bet ėmė reikš tis dar smarkiau.'
@@ -87,7 +115,7 @@ Nors Gotfrido brolis Edesos grafas Balduinas buvo pripažintas karaliumi, tačia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-188036
@@ -108,34 +136,5 @@ Nors Gotfrido brolis Edesos grafas Balduinas buvo pripažintas karaliumi, tačia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205061"></a>
-- t-001
-  teiginys: "Nors Gotfrido brolis Edesos grafas Balduinas buvo pripažintas karaliumi, tačiau priešišku mo ir pavydo įšėlis nę tik kad nenurimo, bet ėmė reikš tis dar smarkiau."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188036
-
-<a id="claim-t-205479"></a>
-- t-002
-  teiginys: "Vis dėlto karalius Balduinas ir kare, ir politinėse ving rybėse įrodė turįs nemaža sugebėjimų, kai per 18 metų ne tik kad išlaikė pašlijusios savo valstybės pajėgumą, bet pakrančių žemėse dar prijungė nemažai miestų — Ak rą, Tripolis, Sidonas, Beritąs, Biblas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187685
-

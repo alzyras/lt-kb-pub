@@ -1,33 +1,30 @@
 ---
 tipas: daiktas
-pavadinimas: 'Laiškas (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Laiškas (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Laiškas'
+  - Laiškas
 aliases:
-  - 'Laiškas'
+  - Laiškas
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 datos:
-  - '2000 m.'
+  - 2000 m.
 date_start: '2000'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Laiškas (daiktas)
 
@@ -117,7 +114,7 @@ Per Jono Augštuolio buvimą Stockholme į Lietuvą persiųsta arti 2000 laišk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192463
@@ -135,7 +132,7 @@ Per Jono Augštuolio buvimą Stockholme į Lietuvą persiųsta arti 2000 laišk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-192464
@@ -154,6 +151,5 @@ Per Jono Augštuolio buvimą Stockholme į Lietuvą persiųsta arti 2000 laišk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

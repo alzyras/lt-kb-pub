@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Vitlandsortas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Vitlandsortas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Vitlandsortas'
+  - Vitlandsortas
 aliases:
-  - 'Vitlandsortas'
+  - Vitlandsortas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-2dc59947559e16e0923273ab"
-canonical_name: "Vitlandsortas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vitlandsortas","Vitlandsortas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-2dc59947559e16e0923273ab
+canonical_name: Vitlandsortas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vitlandsortas
+  - Vitlandsortas (vieta)
 sameAs: []
-canonical_biography: "Sambijos vyskupas Henrikas Vitlandsorto žemes perleido Ordinui, kad ten būtų pastatyta tvirtovė."
+canonical_biography: 'Sambijos vyskupas Henrikas Vitlandsorto žemes perleido Ordinui, kad ten būtų pastatyta tvirtovė.'
 ---
 # Vitlandsortas (vieta)
 
@@ -74,6 +74,5 @@ Sambijos vyskupas Henrikas Vitlandsorto žemes perleido Ordinui, kad ten būtų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -37,22 +37,10 @@ Kairiajame Neries krante prie Semeliškių — Rykantų įsitvirtinusi 3-ioji I.
 
 ## Teiginiai
 
-<a id="claim-t-217828"></a>
-- t-217828
-  teiginys: "Panašių vietovių yra Lietuvoje, Žemaitijoje ir Livoni joje - Rykantai (Rykonty), Rykainiai (Rikojnie; gal Rukainiai?"
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199987
-
 <a id="claim-t-42106"></a>
-- t-42106
+- t-001
   teiginys: "Prie Semeliškių–Rykantų įsitvirtinusi I. Musteikio vadovaujama 3-ioji divizija spalio 14–15 d. sustabdė lenkų veržimąsi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Lenkai: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -91,24 +79,5 @@ Kairiajame Neries krante prie Semeliškių — Rykantų įsitvirtinusi 3-ioji I.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-42106
-
-- id: c-199987
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
-  citata_originali: |
-    Panašių vietovių yra Lietuvoje, Žemaitijoje ir Livoni­
-    joje - Rykantai (Rykonty), Rykainiai (Rikojnie; gal Rukainiai? -
-    R. J.) ir panašios.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217828
-
+  pagrindzia:
+    - t-001

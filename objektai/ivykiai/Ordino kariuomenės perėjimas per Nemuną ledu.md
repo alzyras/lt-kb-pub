@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Ordino kariuomenės perėjimas per Nemuną ledu'
+pavadinimas: Ordino kariuomenės perėjimas per Nemuną ledu
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Ordino kariuomenės perėjimas per Nemuną ledu
 
@@ -76,6 +73,5 @@ Ordino kariuomenė vidurnaktį su ginklais perėjo Nemuną ledu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

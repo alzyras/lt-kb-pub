@@ -34,6 +34,63 @@ media_all_json: |-
 
 Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję plėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam tikros pažangos tiems varganiems gyventojams, panašiai kaip ir į Rusios kraštus už Dvinos. Visi žemaičiai nuo se­ nų laikų lietuviais save vadino, bet niekados - žemaičiais, ir dėl tokio ta­ patumo mes mūsų titule nerašome Žemaitijos vardo, nes viskas yra vie­ na - ir žemė, ir žmonės/' 3 Kraštas, lankytas normanų piratų iš Švedijos, Norvegijos ir. Tad galėjo čia pirmiau būti skandinavų nausėdijos, taigi Vilniaus pradžia gal siekia normanų piratus, kūrusius Lietuvoje seniausias gyvenvietes IX-X amžiuje.
 
+## Teiginiai
+
+<a id="claim-t-86723"></a>
+- t-001
+  teiginys: "Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Baltija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kraštas prie Baltijos pakrantės apibūdinamas kaip normanų piratų lankytas, tad fiksuojama jų kelionių kryptis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Normanai keliavo į Baltija (0.72)"
+  pagrindžia:
+    - c-82702
+
+<a id="claim-t-86724"></a>
+- t-002
+  teiginys: "IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Baltija: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo normanų žygius į Baltijos pakrantes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Normanai keliavo į Baltija (0.76)"
+  pagrindžia:
+    - c-82701
+
+<a id="claim-t-188289"></a>
+- t-003
+  teiginys: "Narbutas rašo, kad šiaurės sagose minimi normanų jūros žygiai į turtingą Permę, arba Biarmiją."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "surenge_zygi_i -> Biarmija: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Biarmija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai mini normanų jūros žygius į Permę, arba Biarmiją."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Normanai surengė žygį į Biarmija (0.80)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171182
+
 ## Citatos
 
 - id: c-82701
@@ -78,8 +135,8 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-86724
+  pagrindzia:
+    - t-002
 
 - id: c-82702
   autorius: "Michał Baliński"
@@ -113,8 +170,8 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-86723
+  pagrindzia:
+    - t-001
 
 - id: c-171182
   autorius: "Teodoras Narbutas"
@@ -135,88 +192,8 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-200199
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
-  citata_originali: |
-    Panemunių Žemaitijoje paplitęs garsus padavimas skel­
-    bia štai ką . Jūrininkai, atplaukę iš už jūros, plaukė Nemunu
-    10
-    Permė, arba Biarmija, buvo turtingas kraštas, ypač tauriųjų
-    metalų, todėl traukė plėšikus normanus; šito įrodymų yra šiaurės
-    sagose, tarp kitų Kormaks -  saga pasakoja, kad Norvegijos karalius
-    Hanaldas Graurokas darė jūros žygius į Biarmenlandiją. Tai buvo X
-    amžiaus pirmojoje pusėje (Sagaen Bibliothek v.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Prekiavo su: [[objektai/grupes/Lietuviai]]
-
-## Teiginiai
-
-<a id="claim-t-217391"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad šiaurės sagose minimi normanų jūros žygiai į turtingą Permę, arba Biarmiją."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "surenge_zygi_i -> Biarmija: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Biarmija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini normanų jūros žygius į Permę, arba Biarmiją."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Normanai surengė žygį į Biarmija (0.80)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-200199
-
-<a id="claim-t-86723"></a>
-- t-86723
-  teiginys: "Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Baltija: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kraštas prie Baltijos pakrantės apibūdinamas kaip normanų piratų lankytas, tad fiksuojama jų kelionių kryptis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Normanai keliavo į Baltija (0.72)"
-  pagrindžia:
-    - c-82702
-
-<a id="claim-t-86724"></a>
-- t-86724
-  teiginys: "IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Baltija: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo normanų žygius į Baltijos pakrantes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Normanai keliavo į Baltija (0.76)"
-  pagrindžia:
-    - c-82701
-

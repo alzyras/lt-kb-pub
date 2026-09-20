@@ -41,6 +41,25 @@ canonical_biography: "Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ ar
 
 Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad 443 ## Puslapis 460 VILNIAUS MIESTO ISTORIJA II TOMAS juos laiku pasiųstų JMCPP : Mlodyčiui į Leipcigą ir ponui Plockiui sumokėti skolą iš.
 
+## Teiginiai
+
+<a id="claim-t-87819"></a>
+- t-001
+  teiginys: "Stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad būtų sumokėta skola Plockiui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Liublinas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pavlikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Liublinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pavlikas tiesiogiai lokalizuojamas Liubline pinigų keitimo epizode."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Pavlikas keliavo į Liublinas (0.78)"
+  pagrindžia:
+    - c-83798
+
 ## Citatos
 
 - id: c-83798
@@ -66,25 +85,5 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87819"></a>
-- t-001
-  teiginys: "Stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad būtų sumokėta skola Plockiui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Liublinas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pavlikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Liublinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pavlikas tiesiogiai lokalizuojamas Liubline pinigų keitimo epizode."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Pavlikas keliavo į Liublinas (0.78)"
-  pagrindžia:
-    - c-83798
-

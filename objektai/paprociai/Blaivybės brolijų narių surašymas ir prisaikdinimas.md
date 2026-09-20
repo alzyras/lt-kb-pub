@@ -1,8 +1,8 @@
 ---
 tipas: paprotys
-pavadinimas: 'Blaivybės brolijų narių surašymas ir prisaikdinimas'
+pavadinimas: Blaivybės brolijų narių surašymas ir prisaikdinimas
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Blaivybės brolijų narių surašymas ir prisaikdinimas
 

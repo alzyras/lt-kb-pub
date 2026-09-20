@@ -44,6 +44,55 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-185701"></a>
+- t-001
+  teiginys: "1321 m. Gediminas Kernavėje atšventė pergalę prieš Rusią, pagerbė dievus ir paleido apmokėtą bei apdovanotą kariuomenę."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kernavė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gedimino pergalės šventimas Kernavėje ir Trakų įkūrimas (1321 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kernavė: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino pergalės šventimas Kernavėje ir Trakų įkūrimas (1321 m.)\" parinktas kaip owner_note_path. Targetas \"Kernavė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1321 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuotas glaustas, pilnas sakinys."
+  pagrindžia:
+    - c-169062
+
+<a id="claim-t-196146"></a>
+- t-002
+  teiginys: "Nugalėjęs ir apmalšinęs Rusią, Gedi minas Kernavėje atšventė 1321 m e ta i pergalę: tėvų papročiu pa gerbęs dievus, paleido ka riuomenę sumokėjęs atlyginimą ir apdovanojęs dova nomis."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-178555
+
+<a id="claim-t-196147"></a>
+- t-003
+  teiginys: "Kojelavičiaus pasakojime Gediminas, sėkmingą medžioklę palaikęs ženklu, netoli Kernavės įkūrė Trakus ir perkėlė ten Lietuvos sostinę."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178556
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1321 m. Gediminas Kernavėje atšventė pergalę prieš Rusią, pagerbė dievus ir paleido apmokėtą bei apdovanotą kariuomenę.'
@@ -123,7 +172,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-178555
@@ -164,7 +213,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-178556
@@ -198,55 +247,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-185701"></a>
-- t-001
-  teiginys: "1321 m. Gediminas Kernavėje atšventė pergalę prieš Rusią, pagerbė dievus ir paleido apmokėtą bei apdovanotą kariuomenę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kernavė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino pergalės šventimas Kernavėje ir Trakų įkūrimas (1321 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kernavė: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino pergalės šventimas Kernavėje ir Trakų įkūrimas (1321 m.)\" parinktas kaip owner_note_path. Targetas \"Kernavė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1321 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuotas glaustas, pilnas sakinys."
-  pagrindžia:
-    - c-169062
-
-<a id="claim-t-196146"></a>
-- t-002
-  teiginys: "Nugalėjęs ir apmalšinęs Rusią, Gedi minas Kernavėje atšventė 1321 m e ta i pergalę: tėvų papročiu pa gerbęs dievus, paleido ka riuomenę sumokėjęs atlyginimą ir apdovanojęs dova nomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-178555
-
-<a id="claim-t-196147"></a>
-- t-003
-  teiginys: "Kojelavičiaus pasakojime Gediminas, sėkmingą medžioklę palaikęs ženklu, netoli Kernavės įkūrė Trakus ir perkėlė ten Lietuvos sostinę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178556
-

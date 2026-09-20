@@ -29,6 +29,20 @@ media_all_json: |-
 
 Po tos mūšos kuržemiai atėjo į abažą žemaičių, stovintį ties Sintele, arba Santekle, pilė, pagalbos nuo žemaičių lūgodami ir iš vieno žadėdami su jais vokyčius kariauti.
 
+## Teiginiai
+
+<a id="claim-t-201242"></a>
+- t-001
+  teiginys: "Po tos mūšos kuržemiai atėjo į abažą žemaičių, stovintį ties Sintele, arba Santekle, pilė, pagalbos nuo žemaičių lūgodami ir iš vieno žadėdami su jais vokyčius kariauti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184592
+
 ## Citatos
 
 - id: c-184592
@@ -51,20 +65,5 @@ Po tos mūšos kuržemiai atėjo į abažą žemaičių, stovintį ties Sintele,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201242"></a>
-- t-001
-  teiginys: "Po tos mūšos kuržemiai atėjo į abažą žemaičių, stovintį ties Sintele, arba Santekle, pilė, pagalbos nuo žemaičių lūgodami ir iš vieno žadėdami su jais vokyčius kariauti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184592
-

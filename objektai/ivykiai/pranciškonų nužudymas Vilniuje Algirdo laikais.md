@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'pranciškonų nužudymas Vilniuje Algirdo laikais'
+pavadinimas: pranciškonų nužudymas Vilniuje Algirdo laikais
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1542 m.'
+  - 1542 m.
 date_start: '1542'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # pranciškonų nužudymas Vilniuje Algirdo laikais
 
@@ -80,6 +77,5 @@ Bychovco kronikoje pasakojama apie 14 pranciškonų nužudymą Vilniuje Algirdo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

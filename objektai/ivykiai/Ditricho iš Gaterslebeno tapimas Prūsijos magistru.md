@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Ditricho iš Gaterslebeno tapimas Prūsijos magistru'
+pavadinimas: Ditricho iš Gaterslebeno tapimas Prūsijos magistru
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1271 m.'
+  - 1271 m.
 date_start: '1271'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Ditricho iš Gaterslebeno tapimas Prūsijos magistru
 
@@ -77,6 +74,5 @@ Ditrichas iš Gaterslebeno buvo aštuntasis Prūsijos žemės magistras ir prad�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

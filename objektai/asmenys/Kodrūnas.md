@@ -42,6 +42,25 @@ canonical_biography: "Dusburgietis teigia, kad magistras, galop nurimęs, pasiun
 
 Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę kariuomenę keršyti už neteisingai nužudytuosius; atplaukę prie Baigos, jie ten išlipo ir, tinkamose vietose išdėstę lankininkus bei surėmę į sieną kopėčias, smarkiai užpuolė šią prūsų pilį, o kadangi jiems.
 
+## Teiginiai
+
+<a id="claim-t-60356"></a>
+- t-001
+  teiginys: "Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Baiga: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kodrūnas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Baiga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kodrūnas talkino užimant Baigos pilį; jis nėra pagrindinis užėmėjas, bet dalyvavimas užėmime tiesiogiai palaikomas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kodrūnas užėmė Baiga (0.68)"
+  pagrindžia:
+    - c-60988
+
 ## Citatos
 
 - id: c-60988
@@ -68,21 +87,5 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-225077"></a>
-- t-001
-  teiginys: "Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Baiga: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kodrūnas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Baiga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kodrūnas talkino užimant Baigos pilį; jis nėra pagrindinis užėmėjas, bet dalyvavimas užėmime tiesiogiai palaikomas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kodrūnas užėmė Baiga (0.68)"
-
+  pagrindzia:
+    - t-001

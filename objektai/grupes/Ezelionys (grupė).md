@@ -29,6 +29,20 @@ media_all_json: |-
 
 Išgirdę taip pat ezelionys žemaičius taip laimin gai kariaujant išsižadėjo krikščionų tikybos ir ėmė uiti vokyčius iš savo salos ir siuntinius atleido pas žemaičius pagalbos lūgodami ir ketėdami iš vieno kariauti vokyčius.
 
+## Teiginiai
+
+<a id="claim-t-201246"></a>
+- t-001
+  teiginys: "Išgirdę taip pat ezelionys žemaičius taip laimin gai kariaujant išsižadėjo krikščionų tikybos ir ėmė uiti vokyčius iš savo salos ir siuntinius atleido pas žemaičius pagalbos lūgodami ir ketėdami iš vieno kariauti vokyčius."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184596
+
 ## Citatos
 
 - id: c-184596
@@ -53,20 +67,5 @@ Išgirdę taip pat ezelionys žemaičius taip laimin gai kariaujant išsižadėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201246"></a>
-- t-001
-  teiginys: "Išgirdę taip pat ezelionys žemaičius taip laimin gai kariaujant išsižadėjo krikščionų tikybos ir ėmė uiti vokyčius iš savo salos ir siuntinius atleido pas žemaičius pagalbos lūgodami ir ketėdami iš vieno kariauti vokyčius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184596
-

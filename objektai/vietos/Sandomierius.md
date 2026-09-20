@@ -45,74 +45,12 @@ historical_names: []
 
 1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes. Drauge su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes, o 1307 buvo įsiveržę į Kališo sritį^5.
 
-## Citatos
-
-- id: c-32409
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 224."
-  citata_originali: |
-    1296 lietuviai įsiveržė į
-    Sandomieriaus ir Kujavijos žemes. 1300 jie vėl pasirodė Dobry­
-    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
-    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
-    o 1307 buvo įsiveržę į Kališo sritį^5.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-34032
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 224."
-  citata_originali: |
-    1300 jie vėl pasirodė Dobry­
-    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
-    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
-    o 1307 buvo įsiveržę į Kališo sritį^5.
-    Tuo pačiu laiku lietuviai turėjo kitą svarbų frontą.
-  citata_rodoma: "Drauge\nsu rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,\no 1307 buvo įsiveržę į Kališo sritį^5.\nTuo pačiu laiku lietuviai turėjo kitą svarbų frontą."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-167764
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 224."
-  citata_originali: |
-    Tęsdamas tėvo nurodytą politiką, Vytenis ne mažiau
-    intensyviai iki 1307 puldinėjo Lenkiją. 1296 lietuviai įsiveržė į
-    Sandomieriaus ir Kujavijos žemes. 1300 jie vėl pasirodė Dobry­
-    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-- Puolė Sandomierių: [[objektai/grupes/Lietuviai]]
-
 ## Teiginiai
 
 <a id="claim-t-32532"></a>
 - t-001
   teiginys: "1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Liublinas: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -132,7 +70,7 @@ historical_names: []
 <a id="claim-t-32533"></a>
 - t-002
   teiginys: "1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Kujavija: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -147,3 +85,64 @@ historical_names: []
     - c-32409
     - c-167764
 
+## Citatos
+
+- id: c-32409
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 224"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 224."
+  citata_originali: |
+    1296 lietuviai įsiveržė į
+    Sandomieriaus ir Kujavijos žemes. 1300 jie vėl pasirodė Dobry­
+    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
+    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
+    o 1307 buvo įsiveržę į Kališo sritį^5.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-34032
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 224"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 224."
+  citata_originali: |
+    1300 jie vėl pasirodė Dobry­
+    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
+    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
+    o 1307 buvo įsiveržę į Kališo sritį^5.
+    Tuo pačiu laiku lietuviai turėjo kitą svarbų frontą.
+  citata_rodoma: "Drauge\nsu rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,\no 1307 buvo įsiveržę į Kališo sritį^5.\nTuo pačiu laiku lietuviai turėjo kitą svarbų frontą."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-167764
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 224"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 224."
+  citata_originali: |
+    Tęsdamas tėvo nurodytą politiką, Vytenis ne mažiau
+    intensyviai iki 1307 puldinėjo Lenkiją. 1296 lietuviai įsiveržė į
+    Sandomieriaus ir Kujavijos žemes. 1300 jie vėl pasirodė Dobry­
+    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+## Ryšiai
+- Puolė Sandomierių: [[objektai/grupes/Lietuviai]]

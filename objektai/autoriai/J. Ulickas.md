@@ -1,8 +1,8 @@
 ---
 tipas: autorius
-pavadinimas: 'J. Ulickas'
+pavadinimas: J. Ulickas
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5b6a790fc2e0a3c1a20ee762"
-canonical_name: "J. Ulickas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["J. Ulickas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5b6a790fc2e0a3c1a20ee762
+canonical_name: J. Ulickas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - J. Ulickas
 sameAs: []
-canonical_biography: "Ulickas savo atsimi nimuose pasakoja, kad vienas vyras, prisiekęs bažnyčio je negerti, parėjęs namo verkė, nes nežinąs, kaip ištver ti 6."
+canonical_biography: 'Ulickas savo atsimi nimuose pasakoja, kad vienas vyras, prisiekęs bažnyčio je negerti, parėjęs namo verkė, nes nežinąs, kaip ištver ti 6.'
 ---
 # J. Ulickas
 

@@ -1,29 +1,26 @@
 ---
 tipas: saltinis
-pavadinimas: '„Pasakojimas apie Teutonų ordino pradžią“'
+pavadinimas: „Pasakojimas apie Teutonų ordino pradžią“
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1204 m.'
-  - '1211 m.'
+  - 1204 m.
+  - 1211 m.
 date_start: '1204'
 date_end: '1211'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # „Pasakojimas apie Teutonų ordino pradžią“
 
@@ -66,6 +63,5 @@ Pasakojimas apie Teutonų ordino pradžią atsirado Akone greičiausiai 1204–1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

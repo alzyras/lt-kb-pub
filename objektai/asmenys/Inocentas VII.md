@@ -34,6 +34,24 @@ canonical_biography: "Inocentas VII, Gregorijus XII ir Aleksandras V parem­ dav
 
 Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordiną.
 
+## Teiginiai
+
+<a id="claim-t-35101"></a>
+- t-001
+  teiginys: "Inocentas VII, Gregorijus XII ir Aleksandras V remdavo Vytautą prieš Ordiną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras V: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Inocentas VII: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras V: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Inocentas VII\" parinktas kaip owner_note_path. Targetas \"Aleksandras V\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-38033
+
 ## Citatos
 
 - id: c-38033
@@ -54,24 +72,5 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-35101"></a>
-- t-001
-  teiginys: "Inocentas VII, Gregorijus XII ir Aleksandras V remdavo Vytautą prieš Ordiną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras V: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Inocentas VII: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras V: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Inocentas VII\" parinktas kaip owner_note_path. Targetas \"Aleksandras V\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-38033
-

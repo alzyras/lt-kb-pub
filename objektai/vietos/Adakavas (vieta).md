@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Adakavas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Adakavas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Adakavas'
+  - Adakavas
 aliases:
-  - 'Adakavas'
+  - Adakavas
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0c0a62cf77c2c132cd64aa7d"
-canonical_name: "Adakavas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Adakavas","Adakavas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0c0a62cf77c2c132cd64aa7d
+canonical_name: Adakavas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Adakavas
+  - Adakavas (vieta)
 sameAs: []
-canonical_biography: "Adakavo parapijoje klebonavo kun. Feliksas Žukovskis."
+canonical_biography: Adakavo parapijoje klebonavo kun. Feliksas Žukovskis.
 place_authority: true
 historical_names: []
 ---

@@ -42,6 +42,21 @@ Narbutas teigia, kad Aldona ir Grauža 7 m. e. a. padėjo langobardų karaliui C
 
 Narbutas teigia, kad Aldona ir Grauža 7 m. e. a. padėjo langobardų karaliui Chuniberlui susigrąžinti sostą, iš kurio jį buvo išvijęs Briksijos valdovas Ataka.
 
+## Teiginiai
+
+<a id="claim-t-205223"></a>
+- t-001
+  teiginys: "Narbutas teigia, kad Aldona ir Grauža 7 m. e. a. padėjo langobardų karaliui Chuniberlui susigrąžinti sostą, iš kurio jį buvo išvijęs Briksijos valdovas Ataka."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-187661
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas teigia, kad Aldona ir Grauža 7 m. e. a. padėjo langobardų karaliui Chuniberlui susigrąžinti sostą, iš kurio jį buvo išvijęs Briksijos valdovas Ataka.'
@@ -78,21 +93,5 @@ Narbutas teigia, kad Aldona ir Grauža 7 m. e. a. padėjo langobardų karaliui C
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205223"></a>
-- t-001
-  teiginys: "Narbutas teigia, kad Aldona ir Grauža 7 m. e. a. padėjo langobardų karaliui Chuniberlui susigrąžinti sostą, iš kurio jį buvo išvijęs Briksijos valdovas Ataka."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
-  pagrindžia:
-    - c-187661
-

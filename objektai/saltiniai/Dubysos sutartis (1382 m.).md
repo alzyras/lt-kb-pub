@@ -38,6 +38,33 @@ Teodoras Narbutas nurodo, kad Dubysos sutartimi Lietuvos didysis kunigaikštis k
 
 Teodoras Narbutas nurodo, kad Dubysos sutartimi Lietuvos didysis kunigaikštis ketveriems metams įsipareigojo remti Ordiną, nepulti jo valdų ir priimti krikštą su visa tauta. Narbutas nurodo, kad sutarties originalai su iš dalies išlikusiais kunigaikščių antspaudais buvo prie nuorašų Slaptajame Karaliaučiaus archyve, seniausi nuorašai – Slaptajame valstybiniame Berlyno archyve, o tekstai spausdinti Bačkos ir Napierskio leidiniuose.
 
+## Teiginiai
+
+<a id="claim-t-207040"></a>
+- t-001
+  teiginys: "Teodoras Narbutas nurodo, kad Dubysos sutartimi Lietuvos didysis kunigaikštis ketveriems metams įsipareigojo remti Ordiną, nepulti jo valdų ir priimti krikštą su visa tauta."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189655
+
+<a id="claim-t-207041"></a>
+- t-002
+  teiginys: "Narbutas nurodo, kad sutarties originalai su iš dalies išlikusiais kunigaikščių antspaudais buvo prie nuorašų Slaptajame Karaliaučiaus archyve, seniausi nuorašai – Slaptajame valstybiniame Berlyno archyve, o tekstai spausdinti Bačkos ir Napierskio leidiniuose."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189656
+
 ## Citatos
 
 - id: c-189655
@@ -67,7 +94,7 @@ Teodoras Narbutas nurodo, kad Dubysos sutartimi Lietuvos didysis kunigaikštis k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189656
@@ -87,33 +114,5 @@ Teodoras Narbutas nurodo, kad Dubysos sutartimi Lietuvos didysis kunigaikštis k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-207040"></a>
-- t-001
-  teiginys: "Teodoras Narbutas nurodo, kad Dubysos sutartimi Lietuvos didysis kunigaikštis ketveriems metams įsipareigojo remti Ordiną, nepulti jo valdų ir priimti krikštą su visa tauta."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189655
-
-<a id="claim-t-207041"></a>
-- t-002
-  teiginys: "Narbutas nurodo, kad sutarties originalai su iš dalies išlikusiais kunigaikščių antspaudais buvo prie nuorašų Slaptajame Karaliaučiaus archyve, seniausi nuorašai – Slaptajame valstybiniame Berlyno archyve, o tekstai spausdinti Bačkos ir Napierskio leidiniuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189656
-

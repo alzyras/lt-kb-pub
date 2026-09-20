@@ -28,6 +28,62 @@ media_all_json: |-
 
 Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į draugiją. Slavofilai: jie skelbė, kad didžiosios Lietuvos kunigaikštijos že- mės nuo amžių buvusios rusų kultūros įta- koje, kad lenkai ten tesą tik atėjūnai ir kad todėl negalima jiems leisti toliau lenkinti krašto.
 
+## Teiginiai
+
+<a id="claim-t-72625"></a>
+- t-001
+  teiginys: "Slavofilai skelbė, kad Didžiosios Lietuvos Kunigaikštijos žemės nuo seno buvusios rusų kultūros įtakoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-71025
+
+<a id="claim-t-72626"></a>
+- t-002
+  teiginys: "Slavofilai Petrapilyje susiorganizavo į draugiją ir nepritarė universiteto klestėjimui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Petrapilis: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Slavofilai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Petrapilis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Slavofilai susiorganizavo Petrapilyje, todėl vietos ryšys pagrįstas, nors tai organizavimosi, o ne gyvenimo teiginys."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Slavofilai gyveno Petrapilis (0.78)"
+  pagrindžia:
+    - c-71025
+
+<a id="claim-t-72627"></a>
+- t-003
+  teiginys: "Slavofilams nepatiko Vilniaus universiteto klestėjimas, kai jis išgarsėjo kaip geriausia lenkų mokslo įstaiga."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-71024
+
+<a id="claim-t-182924"></a>
+- t-004
+  teiginys: "Slavofilai reikalavo pakeisti visą Vilniaus apygardos švietimo sistemą."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Slavofilai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slavofilai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-166327
+
 ## Citatos
 
 - id: c-71024
@@ -50,7 +106,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-71025
@@ -73,7 +129,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -95,62 +151,5 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-## Teiginiai
-
-<a id="claim-t-72625"></a>
-- t-001
-  teiginys: "Slavofilai skelbė, kad Didžiosios Lietuvos Kunigaikštijos žemės nuo seno buvusios rusų kultūros įtakoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-71025
-
-<a id="claim-t-72626"></a>
-- t-002
-  teiginys: "Slavofilai Petrapilyje susiorganizavo į draugiją ir nepritarė universiteto klestėjimui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Petrapilis: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Slavofilai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Petrapilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Slavofilai susiorganizavo Petrapilyje, todėl vietos ryšys pagrįstas, nors tai organizavimosi, o ne gyvenimo teiginys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Slavofilai gyveno Petrapilis (0.78)"
-  pagrindžia:
-    - c-71025
-
-<a id="claim-t-72627"></a>
-- t-003
-  teiginys: "Slavofilams nepatiko Vilniaus universiteto klestėjimas, kai jis išgarsėjo kaip geriausia lenkų mokslo įstaiga."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-71024
-
-<a id="claim-t-182924"></a>
-- t-004
-  teiginys: "Slavofilai reikalavo pakeisti visą Vilniaus apygardos švietimo sistemą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Slavofilai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slavofilai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-166327
-

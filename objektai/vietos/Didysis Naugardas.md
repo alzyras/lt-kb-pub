@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Didysis Naugardas'
+pavadinimas: Didysis Naugardas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
@@ -9,17 +9,17 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1000 m.'
-  - '1407 m.'
-  - '1409 m.'
-  - '1418 m.'
-  - '1426 m.'
-  - '1427 m.'
-  - '1428 m.'
-  - '2026 m.'
+  - 1000 m.
+  - 1407 m.
+  - 1409 m.
+  - 1418 m.
+  - 1426 m.
+  - 1427 m.
+  - 1428 m.
+  - 2026 m.
 date_start: '1000'
 date_end: '2026'
 sukurta: ''
@@ -28,29 +28,41 @@ tags:
   - miestas
   - vieta
 amziai:
-  - 'X'
-  - 'XXI'
+  - X
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3073ff3426598fd1798b27aa"
-canonical_name: "Didysis Naugardas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Didysis Naugardas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3073ff3426598fd1798b27aa
+canonical_name: Didysis Naugardas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Didysis Naugardas
 sameAs: []
-canonical_biography: "Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas. Naugardą."
+canonical_biography: 'Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas. Naugardą.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Didysis Naugardas","url":"https://www.vle.lt/straipsnis/didysis-naugardas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T02:08:26+00:00","source_checked_at":"2026-09-19T02:08:26+00:00","counts":{"relations":2,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Didžiulė politinė permaina, atėjusi per Jogailą su Lietuvos krikštu ir sąjunga su Lenkija, vėliau greitas Lietuvos vasalų virtimas turtingiausia aristokratija - visa tai Vilniaus mies­ tiečiams nesuteikė nei progos, nei palankaus meto įgyti daugiau laisvių. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar- das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti, tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­ tingesnėmis gyvenvietėmis.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-179789","evidence_id":"c-163437","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Didysis Naugardas","url":"https://www.vle.lt/straipsnis/didysis-naugardas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/didysis-naugardas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"32e321e7ce11b8972e649813","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Tinkamas prekybai","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.), aprašydamas laikotarpį iki Vilniaus iškilimo, teigia, kad Didysis Naugardas buvo tinkamas prekybai.","support_ids":["t-179779","c-163435"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179779","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163435","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar- das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti, tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­ tingesnėmis gyvenvietėmis. Įsikūrusių toliau šiaurėje mongolų antpuoliai jų ne tik nepalietė taip, kaip visos Rusios, bet ir nelei­ do įsigalėti jokiems smulkiems kunigaikščiams, valdžiusiems sa­ vo teritorijas, išsekintiems tarpusavio vaidų ir totorių atakų."}],"status":"published","conflict_status":"clear"},{"trait_id":"2acc53894c2a8564454ebca9","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Tankiai gyvenama gyvenvietė","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.), teigia, kad anksčiau už Vilnių įkurtas Didysis Naugardas greičiau virto tankiai gyvenama gyvenviete.","support_ids":["t-179789","c-163437"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179789","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163437","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Didžiulė politinė permaina, atėjusi per Jogailą su Lietuvos krikštu ir sąjunga su Lenkija, vėliau greitas Lietuvos vasalų virtimas turtingiausia aristokratija - visa tai Vilniaus mies­ tiečiams nesuteikė nei progos, nei palankaus meto įgyti daugiau laisvių. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar- das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti, tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­ tingesnėmis gyvenvietėmis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c685bae9559a1749048bcc05","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Turtingesnė gyvenvietė","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.), teigia, kad Didysis Naugardas greičiau virto turtingesne gyvenviete.","support_ids":["t-179779","c-163435"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179779","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163435","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar- das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti, tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­ tingesnėmis gyvenvietėmis. Įsikūrusių toliau šiaurėje mongolų antpuoliai jų ne tik nepalietė taip, kaip visos Rusios, bet ir nelei­ do įsigalėti jokiems smulkiems kunigaikščiams, valdžiusiems sa­ vo teritorijas, išsekintiems tarpusavio vaidų ir totorių atakų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"736b4ed4d28adacb24e9a83a","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Įsikūręs toliau šiaurėje","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.), Didįjį Naugardą priskiria Rusios miestams, įsikūrusiems toliau šiaurėje; šis kontekstas siejamas su mongolų antpuolių poveikiu.","support_ids":["t-179779","c-163435"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179779","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163435","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar- das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti, tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­ tingesnėmis gyvenvietėmis. Įsikūrusių toliau šiaurėje mongolų antpuoliai jų ne tik nepalietė taip, kaip visos Rusios, bet ir nelei­ do įsigalėti jokiems smulkiems kunigaikščiams, valdžiusiems sa­ vo teritorijas, išsekintiems tarpusavio vaidų ir totorių atakų."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179775","confidence":0.94},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-178112","confidence":0.8}],"timeline":[],"support_disclosure":{"claims":4,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 87adccbf1cfbaf9a
+object_page_generated_at: '2026-09-19T02:08:26+00:00'
+object_page_source_checked_at: '2026-09-19T02:08:26+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '3'
+object_page_seo_description: 'Didysis Naugardas: Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas.…'
+object_page_seo_input_hash: 2469a70875a3dc5251f04f6206c21e2fac40a037422fb1794c1ace6456fc5c8c
+object_page_seo_generated_at: '2026-09-19T02:08:26+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Didysis Naugardas
 
@@ -60,75 +72,10 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 
 ## Teiginiai
 
-<a id="claim-t-210907"></a>
-- t-210907
-  teiginys: "Lietuvos metraštis teigia, kad ir Moldavų bei Besarabų šalies valdovai, valachų kalba vadinami vaivadomis5, ir Bu'garų šalies val dovas, bulgarų kalba vadinamas despotu6, ir kiti di dieji kunigaikščiai — Tverės didysis kunigaikštis, ir Riazanės didysis kunigaikštis, ir Odojevo didysis ku."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-192996
-
-<a id="claim-t-211122"></a>
-- t-211122
-  teiginys: "Jurgis Lengvenaitis po Smolensko praradimo pabėgo į Didįjį Naugardą."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193891
-
-<a id="claim-t-211360"></a>
-- t-211360
-  teiginys: "Naugardo teritorijų 1428 m. liepos 16 d."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193077
-
-<a id="claim-t-211512"></a>
-- t-211512
-  teiginys: "Vytautas pasiuntė pasiuntinius į Didįjį Naugardą reikalaudamas pripažinti jį valdovu ir mokėti duoklę."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194211
-
-<a id="claim-t-218066"></a>
-- t-218066
-  teiginys: "Narbutas rašo, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija palaikė ryšius su Naugardo slavais, bet sudarė atskirą valstybę."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Biarmija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Didysis Naugardas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Biarmija: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didysis Naugardas\" parinktas kaip owner_note_path. Targetas \"Biarmija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-
 <a id="claim-t-179774"></a>
-- t-179774
+- t-001
   teiginys: "1449 m. Kazimieras sutiko, kad Pskovas su Didžiuoju Naugardu liktų Maskvos įtakoje, o Tverė - Lietuvos įtakoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -145,9 +92,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-163439
 
 <a id="claim-t-179775"></a>
-- t-179775
+- t-002
   teiginys: "1428 m. Vytautas surengė paskutinį savo žygį į Didįjį Naugardą ir paėmė iš jo 10 000 rublių kontribuciją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Didysis Naugardas: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -164,9 +111,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-24099
 
 <a id="claim-t-179777"></a>
-- t-179777
+- t-003
   teiginys: "Kazimierui pasidalijus įtakos sritimis su Maskva, Didysis Naugardas buvo paliktas Maskvos įtakoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -182,9 +129,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-163439
 
 <a id="claim-t-179778"></a>
-- t-179778
+- t-004
   teiginys: "1428 m. Naugardo ir Porchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -201,9 +148,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-163441
 
 <a id="claim-t-179779"></a>
-- t-179779
+- t-005
   teiginys: "Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis bei turtingesnėmis gyvenvietėmis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -218,9 +165,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-163437
 
 <a id="claim-t-179780"></a>
-- t-179780
+- t-006
   teiginys: "Mindaugas Didžiajame Naugarde sudarė sąjungą su Aleksandru Nevskiu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -234,9 +181,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-32007
 
 <a id="claim-t-179781"></a>
-- t-179781
+- t-007
   teiginys: "1428 m. Naugardas ir Porchovas sumokėjo Vytautui 10 000 rublių kontribuciją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -252,9 +199,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-163432
 
 <a id="claim-t-179782"></a>
-- t-179782
+- t-008
   teiginys: "Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl saugumo ir prekybos laisvės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ivanas Jermoliničius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -268,9 +215,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-163443
 
 <a id="claim-t-179783"></a>
-- t-179783
+- t-009
   teiginys: "Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -284,9 +231,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-163431
 
 <a id="claim-t-179784"></a>
-- t-179784
+- t-010
   teiginys: "Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva, kaip anksčiau buvo padaręs Smolenske."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -300,9 +247,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-37329
 
 <a id="claim-t-179786"></a>
-- t-179786
+- t-011
   teiginys: "Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila saugumo ir prekybos laisvės sutartį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ivanas Jermoliničius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -317,9 +264,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-163443
 
 <a id="claim-t-179790"></a>
-- t-179790
+- t-012
   teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino sutartį, o Švitrigaila sustiprino ryšius su Naugardu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Didžiojo Naugardo respublika: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -337,9 +284,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-163436
 
 <a id="claim-t-179791"></a>
-- t-179791
+- t-013
   teiginys: "Algirdo įtaka šiaurėje siekė Didžiojo Naugardo miesto respubliką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -354,9 +301,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-163440
 
 <a id="claim-t-179792"></a>
-- t-179792
+- t-014
   teiginys: "Algirdas ir Maskvos kunigaikštis siekė išplėsti savo įtaką Didžiajame Naugarde, Pskove, Smolenske ir Tverėje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -370,9 +317,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-32008
 
 <a id="claim-t-179793"></a>
-- t-179793
+- t-015
   teiginys: "1407 m. Vytautas susitaikė su Didžiuoju Naugardu ir grąžino ten sau ištikimą Lengvenį Algirdaitį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -389,9 +336,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-163433
 
 <a id="claim-t-179794"></a>
-- t-179794
+- t-016
   teiginys: "Vytautas turėjo patrankų per 1426 m. žygį į Pskovą ir 1428 m. žygį į Naugardą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -409,9 +356,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-167674
 
 <a id="claim-t-179795"></a>
-- t-179795
+- t-017
   teiginys: "Didysis Naugardas netrukus išslydo iš Vytauto įtakos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -425,9 +372,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-163438
 
 <a id="claim-t-179796"></a>
-- t-179796
+- t-018
   teiginys: "Vytautas 1428 m. pajungė Didįjį Naugardą tikrindamas rytinius Lietuvos valstybės pakraščius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Didžiojo Naugardo respublika: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -443,10 +390,49 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   pagrindžia:
     - c-163445
 
+<a id="claim-t-187570"></a>
+- t-019
+  teiginys: "Lietuvos metraštis vaizduoja, kad naugardiečiai pagerbė Sofiją ir Joną Algimantaitį ir nulydėjo juos į Maskvą pas Vasilijų Dimitrijevičių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Didžiojo Naugardo respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Didysis Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didysis Naugardas\" parinktas kaip owner_note_path. Targetas \"Didžiojo Naugardo respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170518
+
+<a id="claim-t-188685"></a>
+- t-020
+  teiginys: "Narbutas rašo, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija palaikė ryšius su Naugardo slavais, bet sudarė atskirą valstybę."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Biarmija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Didysis Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Biarmija: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didysis Naugardas\" parinktas kaip owner_note_path. Targetas \"Biarmija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171574
+
 <a id="claim-t-193177"></a>
-- t-193177
+- t-021
   teiginys: "Naugardą Jonas III po antrojo žygio (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie Maskvos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -457,9 +443,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-24101
 
 <a id="claim-t-194252"></a>
-- t-194252
+- t-022
   teiginys: "Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga nėtinai svarbiu prekybos centru; Lietuvoje ligi šiol yra išli kusių svarbių jo privilegijų Rygos pirkliams pėdsakų; ir be Rygos buvę sąjungoje su juo ir kurį laiką jam priklausę Psko vas bei Naugardas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -469,9 +455,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-176847
 
 <a id="claim-t-201056"></a>
-- t-201056
+- t-023
   teiginys: "Nes paskesniai karšdamas Gostomyslas, rėdytojas Didžiojo Naugardo, ta ręs savo ūkiams, idant gudai sau tuos variagus už kviestų ant savo ūkės rėdos, vienok rašytojai nesa ko lyčiaus to užkvietimo, nuo kokių priešakių, arba neprietelių, gudai gindamies ar."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -481,9 +467,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-184406
 
 <a id="claim-t-205125"></a>
-- t-205125
+- t-024
   teiginys: "Riurikas pakviečiamas į Didžiojo Naugardo kunigaikštystę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -493,9 +479,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-188092
 
 <a id="claim-t-205288"></a>
-- t-205288
+- t-025
   teiginys: "Didžiajame Naugarde įsitvirtina krikščio nybė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -544,8 +530,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179775
+  pagrindzia:
+    - t-002
 
 - id: c-24101
   redaktorius: "A. Šapoka"
@@ -563,8 +549,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193177
+  pagrindzia:
+    - t-021
 
 - id: c-32007
   autorius: "Zenonas Ivinskis"
@@ -582,8 +568,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179780
+  pagrindzia:
+    - t-006
 
 - id: c-32008
   autorius: "Zenonas Ivinskis"
@@ -602,8 +588,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179792
+  pagrindzia:
+    - t-014
 
 - id: c-37329
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -621,8 +607,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179784
+  pagrindzia:
+    - t-010
 
 - id: c-37331
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -643,8 +629,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179794
+  pagrindzia:
+    - t-016
 
 - id: c-163431
   autorius: "Zenonas Ivinskis"
@@ -665,8 +651,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179783
+  pagrindzia:
+    - t-009
 
 - id: c-163432
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -688,8 +674,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179781
+  pagrindzia:
+    - t-007
 
 - id: c-163433
   autorius: "Zenonas Ivinskis"
@@ -712,8 +698,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179793
+  pagrindzia:
+    - t-015
 
 - id: c-163435
   autorius: "Michał Baliński"
@@ -733,8 +719,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179779
+  pagrindzia:
+    - t-005
 
 - id: c-163436
   sudarytojas: "Karolis Zikaras"
@@ -759,8 +745,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179790
+  pagrindzia:
+    - t-012
 
 - id: c-163437
   autorius: "Michał Baliński"
@@ -781,8 +767,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179779
+  pagrindzia:
+    - t-005
 
 - id: c-163438
   autorius: "Zenonas Ivinskis"
@@ -802,8 +788,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179795
+  pagrindzia:
+    - t-017
 
 - id: c-163439
   redaktorius: "A. Šapoka"
@@ -824,9 +810,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179774
-    - t-179777
+  pagrindzia:
+    - t-001
+    - t-003
 
 - id: c-163440
   redaktorius: "A. Šapoka"
@@ -847,8 +833,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179791
+  pagrindzia:
+    - t-013
 
 - id: c-163441
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -869,8 +855,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179778
+  pagrindzia:
+    - t-004
 
 - id: c-163443
   autorius: "Michał Baliński"
@@ -897,9 +883,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179782
-    - t-179786
+  pagrindzia:
+    - t-008
+    - t-011
 
 - id: c-163445
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -918,8 +904,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179796
+  pagrindzia:
+    - t-018
 
 - id: c-167674
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -939,8 +925,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179794
+  pagrindzia:
+    - t-016
 
 - id: c-170518
   autorius: "Anoniminis metraštininkas"
@@ -961,6 +947,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 - id: c-171574
   autorius: "Teodoras Narbutas"
@@ -988,6 +976,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
 
 - id: c-176847
   autorius: "Michał Baliński"
@@ -1013,8 +1003,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194252
+  pagrindzia:
+    - t-022
 
 - id: c-184406
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -1045,8 +1035,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201056
+  pagrindzia:
+    - t-023
 
 - id: c-187680
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -1065,8 +1055,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205288
+  pagrindzia:
+    - t-025
 
 - id: c-188092
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -1086,85 +1076,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205125
-
-- id: c-192996
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 178"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 178."
-  citata_originali: |
-    Ir Moldavų bei Besarabų * šalies valdovai, valachų
-    kalba vadinami vaivadomis5, ir Bu'garų šalies val­
-    dovas, bulgarų kalba vadinamas despotu6, ir kiti di­
-    dieji kunigaikščiai — Tverės didysis kunigaikštis, ir
-    Riazanės didysis kunigaikštis, ir Odojevo didysis ku­
-    nigaikštis, ir Didysis Naugardas, ir Didysis Pskovas;
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210907
-
-- id: c-193077
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 253"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 253."
-  citata_originali: |
-    LDK kariuomenė įžengė j D. Naugardo teritorijų 1428 m.
-    liepos 16 d.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211360
-
-- id: c-193891
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 128"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 128."
-  citata_originali: |
-    o kuni­
-    gaikštis Jurgis Lengvenaitis, bijodamas Kazimiero rūs­
-    tybės, su kunigaikštiene pabėgo į Didįjį Naugardą l0.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211122
-
-- id: c-194211
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 102."
-  citata_originali: |
-    Paskui didysis kunigaikštis Vytautas nusiuntė savo
-    pasiuntinius į Didįjį Naugardą ir Pskovą, idant ten jį
-    pripažintų savo valdovu ir mokėtų jam duoklę,1 sakė:
-    „Jūs duodate duoklę mano žentui, Maskvos kunigaikš­
-    čiui Vasilijui, kuris yra mano vasalas, o man, vyriau­
-    siajam valdovui, nenorite duoti."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211512
+  pagrindzia:
+    - t-024
 
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -36,22 +36,10 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 
 ## Teiginiai
 
-<a id="claim-t-224230"></a>
-- t-224230
-  teiginys: "1284 m. popiežius Honorijus IV patvirtino Karmelitų ordiną."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-201693
-
 <a id="claim-t-112560"></a>
-- t-112560
+- t-001
   teiginys: "Karmelitų ordino vienuoliai Lietuvoje rūpinosi pradžios mokslu kartu su kitų ordinų vienuoliais ir parapijų kunigais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Lietuva: 0.65"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -66,9 +54,9 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
     - c-103937
 
 <a id="claim-t-112561"></a>
-- t-112561
+- t-002
   teiginys: "Mikalojus Radvila pakvietė karmelitus ir prie Šv. Jurgio bažnyčios Vilniuje pastatydino jiems vienuolyną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mikalojus Radvila: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -104,8 +92,8 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112560
+  pagrindzia:
+    - t-001
 
 - id: c-103938
   autorius: "Michał Baliński"
@@ -126,24 +114,5 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112561
-
-- id: c-201693
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 239"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 239."
-  citata_originali: |
-    Šis
-    popiežius patvirtino karmelitų ordiną, dėl kurio Liono sinodas nebuvo nieko nutaręs, o
-    karmelitai šiurkščius marškinius pakeitė baltais abitais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224230
-
+  pagrindzia:
+    - t-002

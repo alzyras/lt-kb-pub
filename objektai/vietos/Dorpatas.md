@@ -43,6 +43,69 @@ historical_names: []
 
 Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje. Vytauto laikų Dorpatas buvo vienas iš prekybos centrų netoli Lietuvos.
 
+## Teiginiai
+
+<a id="claim-t-36197"></a>
+- t-001
+  teiginys: "Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Hanza: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dorpatas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Hanza: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Dorpatas priklausė Hanzai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Dorpatas priklausė Hanza (0.98)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Dorpatas priklausė Hanza“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-38474
+
+<a id="claim-t-36198"></a>
+- t-002
+  teiginys: "Vytauto laikų Dorpatas buvo vienas iš prekybos centrų netoli Lietuvos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dorpatas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dorpatas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-38475
+
+<a id="claim-t-205438"></a>
+- t-003
+  teiginys: "1223 m. riteriai kalavijuočiai nesėkmingai mėgino užimti Dorpato pilį."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-188027
+
+<a id="claim-t-205762"></a>
+- t-004
+  teiginys: "Dorpatas, pasak Teodoro Narbuto, iš trijų pusių buvo juosiamas mūro sienos, o iš ketvirtosios saugomas labai galingos pilies."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188377
+
 ## Citatos
 
 - id: c-38474
@@ -67,7 +130,7 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-38475
@@ -94,7 +157,7 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-188027
@@ -115,7 +178,7 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-188377
@@ -135,74 +198,10 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 ## Ryšiai
 - Puolė Dorpatą: [[objektai/grupes/Lietuviai]]
 - Užėmė Dorpatą: [[objektai/grupes/Maskvėnai]]
 - Dorpatas priklausė [[objektai/grupes/Hanza]]
-
-## Teiginiai
-
-<a id="claim-t-36197"></a>
-- t-001
-  teiginys: "Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Hanza: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dorpatas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Hanza: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Dorpatas priklausė Hanzai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Dorpatas priklausė Hanza (0.98)"
-  temporaliniai_duomenys: "priklausymo laikotarpis: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Dorpatas priklausė Hanza“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-38474
-
-<a id="claim-t-36198"></a>
-- t-002
-  teiginys: "Vytauto laikų Dorpatas buvo vienas iš prekybos centrų netoli Lietuvos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dorpatas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dorpatas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-38475
-
-<a id="claim-t-205438"></a>
-- t-003
-  teiginys: "1223 m. riteriai kalavijuočiai nesėkmingai mėgino užimti Dorpato pilį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-188027
-
-<a id="claim-t-205762"></a>
-- t-004
-  teiginys: "Dorpatas, pasak Teodoro Narbuto, iš trijų pusių buvo juosiamas mūro sienos, o iš ketvirtosios saugomas labai galingos pilies."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188377
-

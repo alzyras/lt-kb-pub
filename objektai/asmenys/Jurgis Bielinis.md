@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jurgis Bielinis'
+pavadinimas: Jurgis Bielinis
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a199744a17d57dd1fdb6f803"
-canonical_name: "Jurgis Bielinis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jurgis Bielinis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a199744a17d57dd1fdb6f803
+canonical_name: Jurgis Bielinis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jurgis Bielinis
 sameAs: []
-canonical_biography: "Per Jurgį Bielinį vysk. M. Valančius nusiuntė 5 000 rub. Tilžės dekanui kun. J. Zabermanui savo raštams spausdinti."
+canonical_biography: Per Jurgį Bielinį vysk. M. Valančius nusiuntė 5 000 rub. Tilžės dekanui kun. J. Zabermanui savo raštams spausdinti.
 ---
 # Jurgis Bielinis
 

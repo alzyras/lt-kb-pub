@@ -33,39 +33,3 @@ canonical_biography: "Nenurodyta"
 ## Santrauka
 
 Nenurodyta
-
-## Teiginiai
-
-<a id="claim-t-211835"></a>
-- t-001
-  teiginys: "Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį Jurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš tystės šeimininku Jogailos sūnų karalaitį Kazimierą."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-193815
-
-## Citatos
-
-- id: c-193815
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 122"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 122."
-  citata_originali: |
-    Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį
-    Jurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš­
-    tystės šeimininku Jogailos sūnų karalaitį Kazimierą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-

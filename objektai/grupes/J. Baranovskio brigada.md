@@ -27,6 +27,25 @@ media_all_json: |-
 
 Baranovskio brigada atakuoja 2-ojo pėst.
 
+## Teiginiai
+
+<a id="claim-t-40892"></a>
+- t-001
+  teiginys: "Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Videniškis: 0.85"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "M. Butkievičiaus kavalerijos brigada: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Videniškis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad M. Butkievičiaus kavalerijos brigada pasiekė Videniškio rajoną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "M. Butkievičiaus kavalerijos brigada keliavo į Videniškis (0.85); J. Baranovskio brigada puolė Lietuviai (0.78)"
+  pagrindžia:
+    - c-44746
+
 ## Citatos
 
 - id: c-44746
@@ -52,25 +71,5 @@ Baranovskio brigada atakuoja 2-ojo pėst.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-40892"></a>
-- t-001
-  teiginys: "Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Videniškis: 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "M. Butkievičiaus kavalerijos brigada: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Videniškis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad M. Butkievičiaus kavalerijos brigada pasiekė Videniškio rajoną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "M. Butkievičiaus kavalerijos brigada keliavo į Videniškis (0.85); J. Baranovskio brigada puolė Lietuviai (0.78)"
-  pagrindžia:
-    - c-44746
-

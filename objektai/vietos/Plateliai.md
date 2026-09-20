@@ -37,6 +37,41 @@ historical_names: []
 
 md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaičių kraštas ir jo pajūris buvo vadinami Sambija ir Samland. - pagrindzia: - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą. citataoriginali: | Kiti.
 
+## Teiginiai
+
+<a id="claim-t-189045"></a>
+- t-001
+  teiginys: "Narbutas, remdamasis Lasickiu, Platelių valsčių sieja su legendine pilimi, tačiau pažymi, kad Lasickis apie ją daugiau nepapasakojo."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.61"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Plateliai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata mini Platelius kaip vietą Lietuvoje, nors kalba apie daugiau nei vienus Platelius."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171934
+
+<a id="claim-t-205287"></a>
+- t-002
+  teiginys: "Čia reikėtų prisiminti, ką Mykolas Lietuvis pagal čio nykštes legendas skelbė, kad atvykėliai su Palemonu pir miausia pastatė Platelių tvirtovę iškart, kai tik išsilaipino (Quaedam ad Litvaniam pertinentia, ex fragmentis Michelonis Lituani."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188039
+
 ## Citatos
 
 - id: c-171934
@@ -60,6 +95,8 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-188039
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -79,21 +116,5 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-205287"></a>
-- t-001
-  teiginys: "Čia reikėtų prisiminti, ką Mykolas Lietuvis pagal čio nykštes legendas skelbė, kad atvykėliai su Palemonu pir miausia pastatė Platelių tvirtovę iškart, kai tik išsilaipino (Quaedam ad Litvaniam pertinentia, ex fragmentis Michelonis Lituani."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-188039
-
+  pagrindzia:
+    - t-002

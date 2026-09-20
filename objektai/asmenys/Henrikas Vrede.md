@@ -34,6 +34,25 @@ canonical_biography: "Švedų reitaras Henrikas Vrede atidavė karaliui savo ži
 
 Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą, pats žuvo, tačiau jo dėka Karolis Ix išsigelbėjo.
 
+## Teiginiai
+
+<a id="claim-t-40135"></a>
+- t-001
+  teiginys: "Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą ir žuvo, o Karolis IX dėl to išsigelbėjo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Karolis IX: 0.75"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas Vrede: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Karolis IX: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Henrikas Vrede atidavė žirgą karaliui, todėl Karolis IX išsigelbėjo; tai palaiko gynimo ar gelbėjimo santykį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas Vrede gynė Karolis IX (0.75)"
+  pagrindžia:
+    - c-44343
+
 ## Citatos
 
 - id: c-44343
@@ -54,25 +73,5 @@ canonical_biography: "Švedų reitaras Henrikas Vrede atidavė karaliui savo ži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-40135"></a>
-- t-001
-  teiginys: "Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą ir žuvo, o Karolis IX dėl to išsigelbėjo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Karolis IX: 0.75"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas Vrede: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Karolis IX: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Henrikas Vrede atidavė žirgą karaliui, todėl Karolis IX išsigelbėjo; tai palaiko gynimo ar gelbėjimo santykį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Henrikas Vrede gynė Karolis IX (0.75)"
-  pagrindžia:
-    - c-44343
-

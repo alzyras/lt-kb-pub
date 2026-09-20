@@ -34,6 +34,25 @@ canonical_biography: "Trubeckojaus kariuomenė (apie 15000 karių) užėmė Msti
 
 Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. užėmus miestą visi miestiečiai buvo išžudyti) ir žygiavo į Lietuvos gilumą, Minsko link.
 
+## Teiginiai
+
+<a id="claim-t-39979"></a>
+- t-001
+  teiginys: "A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Mstislavlis: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "A. N. Trubeckojus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad A. N. Trubeckojaus kariuomenė užėmė Mstislavlį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "A. N. Trubeckojus užėmė Mstislavlis (0.94); A. N. Trubeckojus surengė žygį į Lietuva (0.78); A. N. Trubeckojus surengė žygį į Minskas (0.66)"
+  pagrindžia:
+    - c-44248
+
 ## Citatos
 
 - id: c-44248
@@ -68,28 +87,8 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - A. N. Trubeckojus užėmė [[objektai/vietos/Mstislavlis]]
-
-## Teiginiai
-
-<a id="claim-t-39979"></a>
-- t-001
-  teiginys: "A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Mstislavlis: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "A. N. Trubeckojus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad A. N. Trubeckojaus kariuomenė užėmė Mstislavlį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "A. N. Trubeckojus užėmė Mstislavlis (0.94); A. N. Trubeckojus surengė žygį į Lietuva (0.78); A. N. Trubeckojus surengė žygį į Minskas (0.66)"
-  pagrindžia:
-    - c-44248
-

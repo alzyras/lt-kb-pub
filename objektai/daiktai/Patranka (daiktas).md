@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Patranka (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Patranka (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Patranka'
+  - Patranka
 aliases:
-  - 'Patranka'
+  - Patranka
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Patranka (daiktas)
 
@@ -128,7 +125,7 @@ Vokiečiai Kauno pilį sudaužė iš didelių patrankų. Jogaila nusprendė, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-193235
@@ -148,7 +145,7 @@ Vokiečiai Kauno pilį sudaužė iš didelių patrankų. Jogaila nusprendė, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-193301
@@ -165,7 +162,7 @@ Vokiečiai Kauno pilį sudaužė iš didelių patrankų. Jogaila nusprendė, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-193758
@@ -184,7 +181,7 @@ Vokiečiai Kauno pilį sudaužė iš didelių patrankų. Jogaila nusprendė, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-194087
@@ -205,6 +202,5 @@ Vokiečiai Kauno pilį sudaužė iš didelių patrankų. Jogaila nusprendė, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

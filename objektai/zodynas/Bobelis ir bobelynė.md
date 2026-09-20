@@ -51,6 +51,19 @@ Bobelis šiame šaltinyje aiškinamas kaip mažai žemės turintis valstietis, o
 
 Abu terminai vartojami 1864 m. žemės ir ūkinės padėties kontekste.
 
+## Teiginiai
+
+<a id="claim-t-195644"></a>
+- t-001
+  teiginys: "Bobelynė šiame šaltinyje reiškia mažą žemės sklypą ar ūkį, kurį galima gauti ar parduoti."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-178045
+
 ## Citatos
 
 - id: c-178045
@@ -67,4 +80,5 @@ Abu terminai vartojami 1864 m. žemės ir ūkinės padėties kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

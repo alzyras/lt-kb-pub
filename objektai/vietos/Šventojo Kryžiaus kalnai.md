@@ -35,6 +35,22 @@ historical_names: []
 
 Šventasis Kryžius lokalizuojamas kalnų keteroje, vadinamoje Lysogory arba Šventojo Kryžiaus kalnais.
 
+## Teiginiai
+
+<a id="claim-t-200391"></a>
+- t-001
+  teiginys: "Šventojo Kryžiaus kalnai yra Lenkijos Kielcų vaivadijos kalnų ketera, kurioje yra 593 m aukščio Šventojo Kryžiaus viršūnė."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie Šventojo Kryžiaus kalnų keterą ir joje esančią viršūnę. Citatoje minimi vienuolynas bei relikvija sąmoningai nepridėti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-183687
+
 ## Citatos
 
 - id: c-183687
@@ -56,18 +72,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-211059"></a>
-- t-001
-  teiginys: "Šventojo Kryžiaus kalnai yra Lenkijos Kielcų vaivadijos kalnų ketera, kurioje yra 593 m aukščio Šventojo Kryžiaus viršūnė."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie Šventojo Kryžiaus kalnų keterą ir joje esančią viršūnę. Citatoje minimi vienuolynas bei relikvija sąmoningai nepridėti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-
+  pagrindzia:
+    - t-001

@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Naujoji Vilnia'
+pavadinimas: Naujoji Vilnia
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-2effb70bda137d2f8f641e31"
-canonical_name: "Naujoji Vilnia"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Naujoji Vilnia"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-2effb70bda137d2f8f641e31
+canonical_name: Naujoji Vilnia
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Naujoji Vilnia
 sameAs: []
-canonical_biography: "Rakantiškės yra senas Naujosios Vilnios pavadinimas."
+canonical_biography: Rakantiškės yra senas Naujosios Vilnios pavadinimas.
 ---
 # Naujoji Vilnia
 
@@ -68,6 +67,5 @@ Rakantiškės yra senas Naujosios Vilnios pavadinimas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -34,6 +34,40 @@ canonical_biography: "Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio
 
 Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Danijos karaliaus priešai. Wespats sudarė su juo sąjungą ir vedė jo dukrą.
 
+## Teiginiai
+
+<a id="claim-t-191486"></a>
+- t-001
+  teiginys: "Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Danijos karaliaus priešai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Danija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Wespats: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Danija: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wespats\" parinktas kaip owner_note_path. Targetas \"Danija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174368
+
+<a id="claim-t-197844"></a>
+- t-002
+  teiginys: "Wespats sudarė su juo sąjungą ir vedė jo dukrą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179360
+
 ## Citatos
 
 - id: c-174368
@@ -58,6 +92,8 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179360
   autorius: "Teodoras Narbutas"
@@ -79,46 +115,5 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197482
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 239"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
-  citata_originali: |
-    Bet tam, kad visiškai užimtų Rusią, Frotonui dar reikėjo
-    nugalėti turtingą tenykštį karaliuką, vardu Ganduvanas2,
-    su kuriuo susidoroti buvo ne taip lengva; jis sudarė su
-    juo sąjungą ir vedė jo dukrą. Taip ir baigėsi tą sykį dvie­
-    jų tautų tarpusavio karai3. Iš tiesų chronologai nesutaria
-    tarpusavyje, kuriais metais pradėjo valdyti Protonas I;
-    tačiau iš chronologinių apskaičiavimų aišku, kad jis buvęs
-    beveik Romos imperatoriaus Oktaviano Augusto amžinin­
-    kas, tik kiek jaunesnis.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-214392"></a>
-- t-001
-  teiginys: "Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Danijos karaliaus priešai."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Danija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wespats: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Danija: mention_match, place, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wespats\" parinktas kaip owner_note_path. Targetas \"Danija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
+  pagrindzia:
+    - t-002

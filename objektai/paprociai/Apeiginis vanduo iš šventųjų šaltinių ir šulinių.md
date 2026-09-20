@@ -50,6 +50,28 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-187988"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad apeiginiu vandeniu iš šventųjų šaltinių ar šulinių apiplaudavo aukojamus gyvulius ir laikė jį švarinančiu."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "gap::customs"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-170999
+
+<a id="claim-t-187990"></a>
+- t-002
+  teiginys: "Narbutas, remdamasis Dusburgiečiu, rašo, kad krikščionims nebuvo leidžiama prieiti prie apeiginių šventųjų šaltinių."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "gap::customs"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-170999
+
 ## Citatos
 
 - id: c-170999
@@ -71,4 +93,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001
+    - t-002

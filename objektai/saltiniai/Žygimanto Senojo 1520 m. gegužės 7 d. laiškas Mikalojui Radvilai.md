@@ -31,6 +31,20 @@ media_all_json: |-
 
 Pačiame karo įkarštyje 1520 m. gegužės 7 d. Žygimantas Senasis rašė Lietuvos kancleriui ir Vilniaus vaivadai Mikalojui Radvilai, kad dėl kelio į Kauną uždarymo visa druska ir kitos prekės, paprastai vežamos per Kauną, pasuko Bugu ir Narevu, o Kauno muitinės.
 
+## Teiginiai
+
+<a id="claim-t-202306"></a>
+- t-001
+  teiginys: "Pačiame karo įkarštyje 1520 m. gegužės 7 d. Žygimantas Senasis rašė Lietuvos kancleriui ir Vilniaus vaivadai Mikalojui Radvilai, kad dėl kelio į Kauną uždarymo visa druska ir kitos prekės, paprastai vežamos per Kauną, pasuko Bugu ir Narevu, o Kauno muitinės."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185653
+
 ## Citatos
 
 - id: c-185653
@@ -49,20 +63,5 @@ Pačiame karo įkarštyje 1520 m. gegužės 7 d. Žygimantas Senasis rašė Liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202306"></a>
-- t-001
-  teiginys: "Pačiame karo įkarštyje 1520 m. gegužės 7 d. Žygimantas Senasis rašė Lietuvos kancleriui ir Vilniaus vaivadai Mikalojui Radvilai, kad dėl kelio į Kauną uždarymo visa druska ir kitos prekės, paprastai vežamos per Kauną, pasuko Bugu ir Narevu, o Kauno muitinės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185653
-

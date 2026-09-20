@@ -1,6 +1,6 @@
 ---
 tipas: daiktas
-pavadinimas: 'Senovinė lietuviška moneta iš Kauno'
+pavadinimas: Senovinė lietuviška moneta iš Kauno
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Senovinė lietuviška moneta iš Kauno
 
@@ -89,7 +86,7 @@ Prie Kauno rastoje monetoje vienoje pusėje pavaizduoti Gediminaičių Stulpai i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-201108
@@ -109,6 +106,5 @@ Prie Kauno rastoje monetoje vienoje pusėje pavaizduoti Gediminaičių Stulpai i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

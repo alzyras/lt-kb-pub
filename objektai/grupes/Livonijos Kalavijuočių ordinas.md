@@ -34,6 +34,21 @@ Jie nieko bendro, išskyrus regulą, su kalavijuočių riteriais neturėjo.
 
 Jie nieko bendro, išskyrus regulą, su kalavijuočių riteriais neturėjo.
 
+## Teiginiai
+
+<a id="claim-t-205264"></a>
+- t-001
+  teiginys: "Jie nieko bendro, išskyrus regulą, su kalavijuočių riteriais neturėjo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187802
+
 ## Citatos
 
 - id: c-187802
@@ -51,21 +66,5 @@ Jie nieko bendro, išskyrus regulą, su kalavijuočių riteriais neturėjo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205264"></a>
-- t-001
-  teiginys: "Jie nieko bendro, išskyrus regulą, su kalavijuočių riteriais neturėjo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187802
-

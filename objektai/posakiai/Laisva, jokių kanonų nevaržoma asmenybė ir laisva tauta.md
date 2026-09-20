@@ -39,6 +39,21 @@ Frazė užfiksuota T. Narbuto pirmojo tomo leidimo įvadinėje, recepcinėje arb
 
 Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartojama kaip neutrali istorinė išvada.
 
+## Teiginiai
+
+<a id="claim-t-189596"></a>
+- t-001
+  teiginys: "„Laisva, jokių kanonų nevaržoma asmenybė ir laisva tauta“ citatoje apibūdinamas kaip vienas svarbiausių tautinio judėjimo devizų."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171027
+
 ## Citatos
 
 - id: c-171027
@@ -62,4 +77,5 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

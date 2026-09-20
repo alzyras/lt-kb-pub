@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Florencijos ir Lukos miestiečių susirėmimas su Siena (1259 m.)'
+pavadinimas: Florencijos ir Lukos miestiečių susirėmimas su Siena (1259 m.)
 variantai:
-  - 'Florencijos ir Lukos miestiečių susirėmimas su Siena'
+  - Florencijos ir Lukos miestiečių susirėmimas su Siena
 aliases:
-  - 'Florencijos ir Lukos miestiečių susirėmimas su Siena'
+  - Florencijos ir Lukos miestiečių susirėmimas su Siena
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1259 m.'
+  - 1259 m.
 date_start: '1259'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Florencijos ir Lukos miestiečių susirėmimas su Siena (1259 m.)
 
@@ -81,6 +78,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

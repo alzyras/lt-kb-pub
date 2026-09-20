@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Pilikė (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Pilikė (vieta)
+identifikacija: vieta
 variantai:
-  - 'Pilikė'
+  - Pilikė
 aliases:
-  - 'Pilikė'
+  - Pilikė
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8873cc565b2bfe37adbbfa24"
-canonical_name: "Pilikė (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pilikė","Pilikė (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8873cc565b2bfe37adbbfa24
+canonical_name: Pilikė (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pilikė
+  - Pilikė (vieta)
 sameAs: []
-canonical_biography: "Pilikėje, Akmenos kairiojo kranto vingyje, galėjo būti anksčiau statyta pilaitė."
+canonical_biography: 'Pilikėje, Akmenos kairiojo kranto vingyje, galėjo būti anksčiau statyta pilaitė.'
 ---
 # Pilikė (vieta)
 
@@ -71,6 +71,5 @@ Pilikėje, Akmenos kairiojo kranto vingyje, galėjo būti anksčiau statyta pila
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

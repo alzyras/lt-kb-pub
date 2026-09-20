@@ -5,7 +5,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1280 m.'
+  - 1280 m.
 date_start: '1280'
 date_end: ''
 sukurta: ''
@@ -15,28 +15,41 @@ tags:
   - kunigas
   - mokslininkas
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fb4f5df44e6495d6a88b1ddd"
-canonical_name: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Albertas Didysis","Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fb4f5df44e6495d6a88b1ddd
+canonical_name: 'Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Albertas Didysis
+  - 'Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)'
 sameAs: []
-canonical_biography: "Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, dirbęs Kelne ir miręs 1280 m."
+canonical_biography: 'Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, dirbęs Kelne ir miręs 1280 m.'
+external_sources_json: '[{"title":"Albertas Didysis","url":"https://lt.wikipedia.org/wiki/Albertas_Didysis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Albertas Didysis","url":"https://www.vle.lt/straipsnis/albertas-didysis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:01:53+00:00","source_checked_at":"2026-09-19T18:01:53+00:00","counts":{"relations":4,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Tais pačiais metais Kelne mirė Albertas Didysis","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","claim_id":"t-221996","evidence_id":"c-204991","origin":"internal"},"wiki":{"status":"published","source":{"title":"Albertas Didysis","url":"https://lt.wikipedia.org/wiki/Albertas_Didysis","publisher":"Vikipedija","language":"lt","article_id":"51887","revision_id":"7407009","published_at":"2024-10-12T14:09:08Z","version_pk":"","content_hash":"ee53b1963868ada8061fe776568438ccddbfaa782b97d3cd979b2a492091a187","retrieved_at":"2026-09-19T17:59:40+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Albertas_Didysis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"51887"}},"intro":"Albertas Didysis (1193 m. arba 1206 m. Lauingene, Švabijoje – 1280 m. lapkričio 15 d. Kelne, Vokietija) – dominikonų vienuolis, vyskupas, teologas, vienas iš Bažnyčios mokytojų, šventasis, gamtos mokslų globėjas. Laikomas garsiausiu vokiečių filosofu Viduramžiais. Pirmasis scholastas, pradėjęs teologijoje remtis Aristotelio filosofija. Amžininkų dėl milžiniškos mokslininko ir scholasto reputacijos tituluotas „Didžiuoju“.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Albertas Didysis","url":"https://lt.wikipedia.org/wiki/Albertas_Didysis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Albertas Didysis","url":"https://www.vle.lt/straipsnis/albertas-didysis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Albertas_Didysis","https://www.vle.lt/straipsnis/albertas-didysis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"85e00cc33d4da572cd9f225b","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Vokietijoje gimęs pamokslininkų ordino kunigas; atsisakė Regensburgo vyskupystės ir 18 metų triūsė Kelne.","context":"Petras Dusburgietis, „Prūsijos žemės kronika“; aprašoma XIII a. Alberto veikla ir gyvenimas.","support_ids":["t-224417","t-222450","c-203628"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224417","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-222450","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203628","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Albertą Didįjį ir Tomą Akvinietį Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas, kuris neturėjo sau lygaus išsilavinimu. Atsisakęs Regensburgo vyskupystės, jis 18 metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties metais, o palaidotas Kelne. Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto mokinys bei pamokslininkų ordino vienuolis (Ptol."}],"status":"published","conflict_status":"clear"},{"trait_id":"fcfcbc66cac6f2eab4db5554","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Šaltinio autoriaus teigimu, Albertas Didysis neturėjo sau lygaus išsilavinimu.","context":"Petras Dusburgietis taip jį vertina aprašydamas Alberto gyvenimo laikotarpį XIII a.","support_ids":["t-224712","c-203628"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224712","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203628","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Albertą Didįjį ir Tomą Akvinietį Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas, kuris neturėjo sau lygaus išsilavinimu. Atsisakęs Regensburgo vyskupystės, jis 18 metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties metais, o palaidotas Kelne. Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto mokinys bei pamokslininkų ordino vienuolis (Ptol."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, XIII amžiuje išsiskyręs ypatingu išsilavinimu. Šaltinyje jis pristatomas kaip žmogus, neturėjęs sau lygaus išsilavinimu, todėl jo vardas siejamas su išskirtiniu mokytumu ir autoritetu. Atsisakęs Regensburgo vyskupystės, Albertas Didysis 18 metų triūsė Kelne, kuris tapo svarbiausia jo veiklos ir gyvenimo vieta. Jis mirė 1280 metais, sulaukęs 80 metų, ir buvo palaidotas Kelne; šaltinis taip pat nurodo, kad tuo metu garsėjo jo mokinys, pamokslininkų ordino vienuolis Tomas Akvinietis.","sentences":[{"sentence_id":"s1","text":"Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, XIII amžiuje išsiskyręs ypatingu išsilavinimu.","support_ids":["t-224417","t-224712","c-203628"]},{"sentence_id":"s2","text":"Šaltinyje jis pristatomas kaip žmogus, neturėjęs sau lygaus išsilavinimu, todėl jo vardas siejamas su išskirtiniu mokytumu ir autoritetu.","support_ids":["t-224712","c-203628"]},{"sentence_id":"s3","text":"Atsisakęs Regensburgo vyskupystės, Albertas Didysis 18 metų triūsė Kelne, kuris tapo svarbiausia jo veiklos ir gyvenimo vieta.","support_ids":["t-222450","c-203628"]},{"sentence_id":"s4","text":"Jis mirė 1280 metais, sulaukęs 80 metų, ir buvo palaidotas Kelne; šaltinis taip pat nurodo, kad tuo metu garsėjo jo mokinys, pamokslininkų ordino vienuolis Tomas Akvinietis.","support_ids":["t-221473","t-222450","c-203628"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltinis tiesiogiai pagrindžia kilmę, priklausymą ordinui ir neprilygstamą išsilavinimą, tačiau XIII amžius šiame support_ids rinkinyje tiesiogiai nenurodytas."},{"sentence_id":"s2","supported":false,"reason":"Šaltinis pagrindžia neprilygstamą išsilavinimą, bet išskirtinis autoritetas nėra tiesiogiai nurodytas."},{"sentence_id":"s3","supported":false,"reason":"Šaltinis pagrindžia atsisakytą Regensburgo vyskupystę ir 18 metų darbą Kelne, tačiau nepatvirtina, kad Kelne buvo svarbiausia jo veiklos ir gyvenimo vieta."},{"sentence_id":"s4","supported":true,"reason":"Visi sakinio faktai tiesiogiai nurodyti šaltinyje: mirtis 1280 metais sulaukus 80 metų, palaidojimas Kelne ir Tomo Akviniečio, Alberto mokinio bei pamokslininkų ordino vienuolio, garsėjimas tuo metu."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-224417","t-224712","c-203628"]},{"sentence_id":"s2","supported":true,"support_ids":["t-224712","c-203628"]},{"sentence_id":"s3","supported":true,"support_ids":["t-222450","c-203628"]},{"sentence_id":"s4","supported":true,"support_ids":["t-221473","t-222450","c-203628"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_palaidotas","direction":"outbound","target":"objektai/vietos/Kelnas","claim_id":"t-222450","confidence":0.96},{"predicate":"gime","direction":"outbound","target":"objektai/vietos/Vokietija","claim_id":"t-224712","confidence":0.95},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Kelnas","claim_id":"t-222450","confidence":0.82},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Kelnas","claim_id":"t-224477","confidence":0.97}],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d08abe03505d27d2
+object_page_generated_at: '2026-09-19T18:01:53+00:00'
+object_page_source_checked_at: '2026-09-19T18:01:53+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Albertas Didysis (pamokslininkų ordino kunigas, XIII a.): Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, XIII amžiuje išsiskyręs…'
+object_page_seo_input_hash: d56575d758e241a27708b201903504dbd1ecd0111192c4feafee806c9c659f90
+object_page_seo_generated_at: '2026-09-19T18:01:53+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)
 
@@ -50,73 +63,27 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
 
 ## Teiginiai
 
-<a id="claim-t-221996"></a>
-- t-221996
-  teiginys: "Tais pačiais metais Kelne mirė Albertas Didysis."
-  atnaujinta: "2026-09-13 11:42"
+<a id="claim-t-56968"></a>
+- t-001
+  teiginys: "Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gime -> Vokietija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vokietija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste tiesiogiai pasakyta, kad Albertas Didysis gimė Vokietijoje."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) gimė Vokietija (0.95)"
   pagrindžia:
-    - c-204991
+    - c-57669
 
-<a id="claim-t-212755"></a>
-- t-212755
-  teiginys: "Mirus Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo nijos karalystės valdžios galybė, padažnėjo grobikiškų žygių įvairių agresyvių tautų, besiskverbiančių vis toliau į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši niąją jo pakrantę."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194768
-
-<a id="claim-t-213379"></a>
-- t-213379
-  teiginys: "Tai nugirdęs kronikininkas Vitechindas3, savo ruož tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku mu, rašo apie makedonus, po Aleksandro Didžiojo mirties atvykusius į prūsų kraštus."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  pagrindžia:
-    - c-195662
-
-<a id="claim-t-205115"></a>
-- t-205115
-  teiginys: "Anglijos karaliaus Alfredo Didžiojo pavedimu keliavo į Prūsiją, užsuko į uostą, susipažino su tenykš čio krašto būkle bei kai kuriais gyventojų papročiais ir pateikė karaliui platų to aprašymą, iš kur paėmę tuos dalykus, kurie iš tiesų svarbūs mūsų temai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:35Z"
-  pagrindžia:
-    - c-188044
-
-<a id="claim-t-221473"></a>
-- t-221473
-  teiginys: "Apie Albertą Didįjį ir Tomą Akvinietį Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas, kuris neturėjo sau lygaus išsilavinimu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  pagrindžia:
-    - c-203628
-
-<a id="claim-t-222450"></a>
-- t-222450
+<a id="claim-t-56970"></a>
+- t-002
   teiginys: "Albertas Didysis atsisakė Regensburgo vyskupystės, 18 metų triūsė Kelne ir mirė 1280 m., sulaukęs 80 metų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_palaidotas -> Kelnas: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -131,39 +98,59 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys glaustai ir tiksliai perteikia citatoje nurodytus faktus."
   pagrindžia:
-    - c-203628
+    - c-57669
 
-<a id="claim-t-224417"></a>
-- t-224417
-  teiginys: "Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-194472"></a>
+- t-003
+  teiginys: "Apie Albertą Didįjį ir Tomą Akvinietį Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas, kuris neturėjo sau lygaus išsilavinimu."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
-    - c-203628
+    - c-57669
 
-<a id="claim-t-224712"></a>
-- t-224712
-  teiginys: "Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-194908"></a>
+- t-004
+  teiginys: "Tai nugirdęs kronikininkas Vitechindas3, savo ruož tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku mu, rašo apie makedonus, po Aleksandro Didžiojo mirties atvykusius į prūsų kraštus."
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
+  teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gime -> Vokietija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vokietija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai pasakyta, kad Albertas Didysis gimė Vokietijoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) gimė Vokietija (0.95)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
-    - c-203628
+    - c-177304
+
+<a id="claim-t-194909"></a>
+- t-005
+  teiginys: "Mirus Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo nijos karalystės valdžios galybė, padažnėjo grobikiškų žygių įvairių agresyvių tautų, besiskverbiančių vis toliau į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši niąją jo pakrantę."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-177305
+    - c-179299
+
+<a id="claim-t-205115"></a>
+- t-006
+  teiginys: "Anglijos karaliaus Alfredo Didžiojo pavedimu keliavo į Prūsiją, užsuko į uostą, susipažino su tenykš čio krašto būkle bei kai kuriais gyventojų papročiais ir pateikė karaliui platų to aprašymą, iš kur paėmę tuos dalykus, kurie iš tiesų svarbūs mūsų temai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:35Z"
+  pagrindžia:
+    - c-188044
 
 ## Citatos
 
@@ -185,6 +172,10 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002
+    - t-003
 
 - id: c-177304
   autorius: "Teodoras Narbutas"
@@ -207,6 +198,8 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-177305
   autorius: "Teodoras Narbutas"
@@ -232,6 +225,8 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-179299
   autorius: "Teodoras Narbutas"
@@ -257,6 +252,8 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-188044
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -278,102 +275,8 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205115
-
-- id: c-194768
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 202."
-  citata_originali: |
-    Mirus
-    Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­
-    nijos karalystės valdžios galybė, padažnėjo grobikiškų
-    žygių įvairių agresyvių tautų, besiskverbiančių vis toliau
-    į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši­
-    niąją jo pakrantę. Alanai traukė ten, tad gelonai-budinai
-    liko kairiojoje Dnepro pakrantėje savarankiški, be sle­
-    giančios jų valdžios įtakos; netgi esama nedidelių dings­
-    čių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­
-    tus. Gal tai davė pradžią romėnų žinioms apie gelonų
-    žygį į getų dukras ir net į Rodopų kalnus arba į šiandie­
-    nius Balkanus, kur buvo pažinti puikūs šios tautos lanki­
-    ninkai (§63).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212755
-
-- id: c-195662
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 195"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
-  citata_originali: |
-    Hartknochas2 pa­
-    teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
-    žinomi padavimai apie tenykščių genčių, ypač prūsų, iš­
-    takas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
-    tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
-    mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
-    atvykusius į prūsų kraštus. Po jo keli kronikininkai teigė
-    tą patį, visada remdamiesi vietiniais stebėjimais, kurie
-    visada jiems patvirtindavo giminingumą su heleniškomis
-    kartomis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213379
-
-- id: c-203628
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 233"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
-  citata_originali: |
-    Apie Albertą Didįjį ir Tomą Akvinietį
-
-      Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas,
-    kuris neturėjo sau lygaus išsilavinimu. Atsisakęs Regensburgo vyskupystės,  jis 18
-    metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties
-    metais, o palaidotas Kelne. Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto
-    mokinys bei pamokslininkų ordino vienuolis (Ptol.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221473
-    - t-222450
-    - t-224417
-    - t-224712
-
-- id: c-204991
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 238"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238."
-  citata_originali: |
-    Tais pačiais metais Kelne mirė Albertas Didysis
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221996
+  pagrindzia:
+    - t-006
 
 ## Ryšiai
 - Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) gimė [[objektai/vietos/Vokietija]]

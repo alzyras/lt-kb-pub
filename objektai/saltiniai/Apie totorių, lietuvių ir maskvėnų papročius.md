@@ -34,22 +34,10 @@ Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas formavo
 
 ## Teiginiai
 
-<a id="claim-t-211272"></a>
-- t-211272
-  teiginys: "Bychovco kronika lyginama su Mykolo Lietuvio traktatu Apie totorių, lietuvių ir maskvėnų papročius."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193689
-
 <a id="claim-t-204296"></a>
-- t-204296
+- t-001
   teiginys: "Mykolas Lietuvis rašė, kad LDK miestuose buvo gausu alaus ir degtinės daryklų, o žmonės buvo labai įjunkę į šiuos gėrimus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -60,9 +48,9 @@ Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas formavo
     - c-186912
 
 <a id="claim-t-204308"></a>
-- t-204308
+- t-002
   teiginys: "Mykolas Lietuvis rašė, kad lietuviai gėrė daugelio rūšių vyną, nors savo pasakojime visai nepaminėjo midaus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -73,9 +61,9 @@ Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas formavo
     - c-186918
 
 <a id="claim-t-204319"></a>
-- t-204319
+- t-003
   teiginys: "Mykolo Lietuvio pasakojime lietuviai maitinosi prabangiais iš tolimų kraštų atvežtais valgiais, o maskvėnai vengė prieskonių ir per Velykų puotas tenkinosi druska, garstyčiomis, česnakais bei svogūnais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -120,8 +108,8 @@ Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas formavo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204319
+  pagrindzia:
+    - t-003
 
 - id: c-186912
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
@@ -144,8 +132,8 @@ Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas formavo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204296
+  pagrindzia:
+    - t-001
 
 - id: c-186918
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
@@ -166,28 +154,5 @@ Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas formavo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204308
-
-- id: c-193689
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 23"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 23."
-  citata_originali: |
-    Tuo Bychovco
-    kronika ir skiriasi nuo Mykolo Lietuvio traktato „Apie
-    totorių, lietuvių ir maskvėnų papročius" (V., 1966).
-    Jo autorius taip pat nesibiaurėjo savo valstybės isto­
-    rija. bet teikiamais jos pavyzdžiais siekė kovoti su sa­
-    vo gyvenamojo laikotarpio visuomenės ir santvarkos
-    ydomis
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211272
-
+  pagrindzia:
+    - t-002

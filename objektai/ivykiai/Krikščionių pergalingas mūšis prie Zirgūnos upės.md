@@ -43,6 +43,25 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-91906"></a>
+- t-001
+  teiginys: "Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Krikščionių pergalingas mūšis prie Zirgūnos upės: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Krikščionys: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Krikščionių pergalingas mūšis prie Zirgūnos upės: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citatos antraštė ir tekstas tiesiogiai sieja krikščionis su šiuo mūšiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Krikščionys dalyvavo mūšyje Krikščionių pergalingas mūšis prie Zirgūnos upės (0.86); Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) dalyvavo mūšyje Krikščionių pergalingas mūšis prie Zirgūnos upės (0.78)"
+  pagrindžia:
+    - c-87548
+
 ## Citatos
 
 - id: c-87548
@@ -71,54 +90,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202723
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 74"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74."
-  citata_originali: |
-    Apie krikščionių pergalingą mūšį, kuriame krito penki tūkstančiai prūsų
-
-       Šitai padarę, magistras brolis Hermanas ir kiti broliai suburė žiemą231, kai stipriausias
-    šaltis buvo viską sukaustęs, minėtuosius maldininkus, karštai trokštančius sutramdyti
-    prūsų akiplėšiškumą, įsibrovė į Reisių valsčių ir, ten išžudę arba paėmę į nelaisvę daugybę
-    žmonių, priartėjo prie Zirgūnos upės232, kur ir sulaukė to, ko taip ilgai buvo troškę. Mat
-    ten užtiko sutelktą didžiulę prūsų kariuomenę, ginkluotą ir pasirengusią kovai. Narsiai ją
-    užpuolę, privertė bėgti. Tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau
-    įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam
-    nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius. Vienur švytruojąs
-    Kristaus kariaunos kalavijas ryte rijo netikėlių kūnus, kitur ietis, ne veltui plušėdama,
-    sėjo aplinkui žaizdas, nes prūsai niekur negalėjo pasprukti nuo persekiotojų; šitaip buvo
-    suduotas skaudus smūgis prūsų tautai, nes tą dieną krito daugiau nei penki tūkstančiai
-    nukautųjų. Šitai padarę, visi maldininkai džiūgaudami sugrįžo pas saviškius, šlovindami
-    išganytojo palankumą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-222934"></a>
-- t-001
-  teiginys: "Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Krikščionių pergalingas mūšis prie Zirgūnos upės: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Krikščionys: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Krikščionių pergalingas mūšis prie Zirgūnos upės: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citatos antraštė ir tekstas tiesiogiai sieja krikščionis su šiuo mūšiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Krikščionys dalyvavo mūšyje Krikščionių pergalingas mūšis prie Zirgūnos upės (0.86); Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) dalyvavo mūšyje Krikščionių pergalingas mūšis prie Zirgūnos upės (0.78)"
-  pagrindžia:
-    - c-202723
-

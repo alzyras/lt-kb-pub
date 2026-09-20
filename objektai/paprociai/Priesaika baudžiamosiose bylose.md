@@ -39,6 +39,20 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203692"></a>
+- t-001
+  teiginys: "Bajoras, apkaltintas vagyste, pirmus tris kartus galėjo gintis priesaika, tačiau po kiekvieno kaltinimo turėjo statyti vis daugiau bendrapriesaikininkų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186296
+
 ## Santrauka
 
 Bajoras, apkaltintas vagyste, pirmus tris kartus galėjo gintis priesaika, tačiau po kiekvieno kaltinimo turėjo statyti vis daugiau bendrapriesaikininkų.
@@ -64,20 +78,5 @@ Bajoras, apkaltintas vagyste, pirmus tris kartus galėjo gintis priesaika, tači
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203692"></a>
-- t-001
-  teiginys: "Bajoras, apkaltintas vagyste, pirmus tris kartus galėjo gintis priesaika, tačiau po kiekvieno kaltinimo turėjo statyti vis daugiau bendrapriesaikininkų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186296
-

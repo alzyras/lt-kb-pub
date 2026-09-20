@@ -32,6 +32,20 @@ media_all_json: |-
 
 Dusburgietis teigia, kad de Vries Jan.
 
+## Teiginiai
+
+<a id="claim-t-61065"></a>
+- t-001
+  teiginys: "Jano de Vrieso „Altnordisches etymologisches Wörterbuch“ išleistas Leidene 1962 m."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1962 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidimo vietą ir metus."
+  pagrindžia:
+    - c-61697
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jano de Vrieso „Altnordisches etymologisches Wörterbuch“ išleistas Leidene 1962 m.'
@@ -61,4 +75,5 @@ Dusburgietis teigia, kad de Vries Jan.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

@@ -44,6 +44,30 @@ canonical_biography: "Gókski, K."
 
 Gókski, K.
 
+## Teiginiai
+
+<a id="claim-t-54118"></a>
+- t-001
+  teiginys: "K. Gókski 1888 m. paskelbė darbą „Bitwa pod Grunwaldem“ leidinyje „Biblioteka Warszawska“."
+  atnaujinta: "2026-05-23 15:44"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1888 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55067
+
+<a id="claim-t-54119"></a>
+- t-002
+  teiginys: "K. Gókski 1888 m. „Biblioteka Warszawska“ paskelbė darbą „Bitwa pod Grunwaldem“ apie Žalgirio mūšį."
+  atnaujinta: "2026-05-23 15:44"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1888 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55067
+
 ## Citatos
 
 - id: c-55067
@@ -63,31 +87,6 @@ Gókski, K.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-54118"></a>
-- t-001
-  teiginys: "K. Gókski 1888 m. paskelbė darbą „Bitwa pod Grunwaldem“ leidinyje „Biblioteka Warszawska“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1888 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55067
-
-<a id="claim-t-54119"></a>
-- t-002
-  teiginys: "K. Gókski 1888 m. „Biblioteka Warszawska“ paskelbė darbą „Bitwa pod Grunwaldem“ apie Žalgirio mūšį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1888 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55067
-

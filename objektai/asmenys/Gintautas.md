@@ -41,47 +41,10 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
 
 ## Teiginiai
 
-<a id="claim-t-219795"></a>
-- t-219795
-  teiginys: "Paskui šitaip klestėjo Žemaičių kunigaikš tystėje iki paskutinių atsivertimo laikų, būtent iki 1414 metų liepos 28 dienos, kurią Aukaimio kaime mirė paskutinis Kri vių Krivaitis, vardu Gintautas, iš eilės 74 žynys."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197927
-
-<a id="claim-t-216714"></a>
-- t-216714
-  teiginys: "Ma tyt, autorius turėjo rankoje istorijos šaltinį, iš kurio pasisėmė žinią, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis vyriausiųjų žynių eilėje."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-198228
-
-<a id="claim-t-217600"></a>
-- t-217600
-  teiginys: "Tenai, Aukaimio kaime, dar slapstėsi vyriau siasis žynys Gintautas, kurio gyvenimas nutrūko 1414 metų liepos 28 dieną; jis buvo 74-asis iš eilės ir su juo baigėsi lietu vių stabmeldystė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201359
-
-<a id="claim-t-218237"></a>
-- t-218237
+<a id="claim-t-190067"></a>
+- t-001
   teiginys: "Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mirė 1414 m. liepos 28 d. ir buvęs 74-asis eilėje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -100,7 +63,20 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
   temporalinis_llm_pakomentavimas: "Ištaisytas OCR ir sakinys sutelktas į Gintautą. Religinės istorijos interpretacija palikta su Narbuto atribucija."
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
-    - c-201359
+    - c-172950
+
+<a id="claim-t-194704"></a>
+- t-002
+  teiginys: "Ma tyt, autorius turėjo rankoje istorijos šaltinį, iš kurio pasisėmė žinią, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis vyriausiųjų žynių eilėje."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-177100
 
 ## Citatos
 
@@ -124,6 +100,8 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-177100
   autorius: "Teodoras Narbutas"
@@ -145,72 +123,5 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197927
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 427"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 427."
-  citata_originali: |
-    Paskui šitaip klestėjo Žemaičių kunigaikš­
-    tystėje iki paskutinių atsivertimo laikų, būtent iki 1414 metų
-    liepos 28 dienos, kurią Aukaimio kaime mirė paskutinis Kri­
-    vių Krivaitis, vardu Gintautas, iš eilės 74 žynys.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219795
-
-- id: c-198228
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 431"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
-  citata_originali: |
-    Turime dar pakartotinai panagrinėti šį lietuvių mitologi­
-    jos fragmentą, kadangi, gavę jį pavėluotai, negalėjome sudėti
-    kylančių iš jo pastabų į atitinkamus šio veikalo straipsnius. Ma­
-    tyt, autorius turėjo rankoje istorijos šaltinį, iš kurio pasisėmė
-    žinią, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis
-    vyriausiųjų žynių eilėje. Žynių, anot Prūsijos kronikų, iki ga­
-    lutinio stabmeldystės žlugimo, arba iki vyriausiojo žynio Ale-
-    po, buvo 481 12; taigi nuo krikšto priėmimo datos, arba nuo 1265
-    iki 1414 metų, per 149 metus, jų buvo dar 23.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216714
-
-- id: c-201359
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 429"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
-  citata_originali: |
-    Smun­
-    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai - pir­
-    miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
-    liau Žemaitijoje. Tenai, Aukaimio kaime, dar slapstėsi vyriau­
-    siasis žynys Gintautas, kurio gyvenimas nutrūko 1414 metų
-    liepos 28 dieną; jis buvo 74-asis iš eilės ir su juo baigėsi lietu­
-    vių stabmeldystė. Bet ne mažiau įdomus dalykas yra trijų tipų
-    žynių lazdų aprašymas, tuo labiau dar su tokiu tiksliu piešiniu
-    ir aprašymais.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217600
-    - t-218237
-
+  pagrindzia:
+    - t-002

@@ -56,9 +56,9 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
     - c-24200
 
 <a id="claim-t-76585"></a>
-- t-76585
+- t-002
   teiginys: "Sanguškos, kilę iš šalutinių Gediminaičių šakų, sukūrė tėvoniją Kovelyje, vėliau Slavuta."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Slavuta: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -90,12 +90,11 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
   citata_rodoma: "Vėliau Voluinė apskritai tapo šalutinių Gedimi-\nnaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-\nguškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai\n(Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)\nir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-\nprastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-\nkos“ kilmės kunigaikščiai Ostrogiškiai."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-74134
@@ -123,6 +122,5 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-76585
-
+  pagrindzia:
+    - t-002

@@ -1,13 +1,28 @@
 ---
 tipas: daiktas
-pavadinimas: 'Laivas (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Laivas (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Laivas'
+  - Laivas
 aliases:
-  - 'Laivas'
+  - Laivas
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
+external_sources_json: '[{"title":"Laivas","url":"https://lt.wikipedia.org/wiki/Laivas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T12:30:08+00:00","source_checked_at":"2026-09-19T12:30:08+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Laivas susiūbavo ir pamažu New-Yor- kas pradėjo nykti iš mūsų akių.","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md","claim_id":"t-209855","evidence_id":"c-192475","origin":"internal"},"wiki":{"status":"published","source":{"title":"Laivas","url":"https://lt.wikipedia.org/wiki/Laivas","publisher":"Vikipedija","language":"lt","article_id":"66410","revision_id":"7390695","published_at":"2024-09-24T14:37:29Z","version_pk":"","content_hash":"b3f9348fb2d97e17526e7c25dc33ed909757439dc7b81414723aee5d05f0e0b8","retrieved_at":"2026-09-19T12:28:59+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Laivas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"66410"}},"intro":"Laivas – savaeigė arba nesavaeigė priemonė, skirta judėti vandeniu ir po juo. Laivą, kaip architektūrinį statinį tiria mokslo šaka – laivo teorija. Laivas juda varomas sraigto, irklų (senieji irkliniai laivai), ratų (senieji ratiniai garlaiviai) arba burių, kartais tempiamas kito laivo (buksyro).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Laivas","url":"https://lt.wikipedia.org/wiki/Laivas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Laivas"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d382f221e0345805
+object_page_generated_at: '2026-09-19T12:30:08+00:00'
+object_page_source_checked_at: '2026-09-19T12:30:08+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+description: 'Laivas (daiktas): Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom tarpu laivas pradėjo vis — 19 — kas kart labiau siūbuoti rėždamas…'
+socialDescription: Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom tarpu laivas pradėjo vis — 19 — kas kart labiau siūbuoti rėždamas jūrių krūti nę ir dalydamas Atlantiko vandenynus į dvi. Patikrinti teiginiai ir šaltiniai.
+object_page_seo_description: 'Laivas (daiktas): Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom tarpu laivas pradėjo vis — 19 — kas kart labiau siūbuoti rėždamas…'
+object_page_seo_input_hash: 6ac17b3604ea065d885e309c4e680f29f065778776ffb4fcbf70ee8d8aadfad3
+object_page_seo_generated_at: '2026-09-19T12:30:08+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,12 +31,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Laivas (daiktas)
 
@@ -49,7 +61,7 @@ Nenurodyta
 <a id="claim-t-209855"></a>
 - t-001
   teiginys: "Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių."
-  atnaujinta: "2026-09-12 14:40"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -61,7 +73,7 @@ Nenurodyta
 <a id="claim-t-209856"></a>
 - t-002
   teiginys: "Tuom tarpu laivas pradėjo vis — 19 — kas kart labiau siūbuoti rėždamas jūrių krūti nę ir dalydamas Atlantiko vandenynus į dvi."
-  atnaujinta: "2026-09-12 14:40"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -73,7 +85,7 @@ Nenurodyta
 <a id="claim-t-211742"></a>
 - t-003
   teiginys: "Plaukė jie laivais per jūrą į šiaurę ir, aplenkę Prancū ziją ir Angliją, įplaukė Į Danijos karalystę."
-  atnaujinta: "2026-09-12 19:43"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -85,7 +97,7 @@ Nenurodyta
 <a id="claim-t-212031"></a>
 - t-004
   teiginys: "Sofija ir Jonas Algimantaitis iš Gdansko išplaukė laivais ir per jūrą pasiekė Pernu bei Pskovą."
-  atnaujinta: "2026-09-12 19:43"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -97,7 +109,7 @@ Nenurodyta
 <a id="claim-t-214416"></a>
 - t-005
   teiginys: "Jų laivai plaukdavo už Heraklio stulpų, kur buvo finikiečių koloni ja Gadira, šiandien Kadis, tinkama laivams įplaukti; ten iš Viduržemio jūros užsukdavo laivai, plaukę į Šiaurę pre kių, be to, būdavo keičiamasi prekėmis ¡su atplaukusiais pakrančių, tolesnių."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -109,7 +121,7 @@ Nenurodyta
 <a id="claim-t-215814"></a>
 - t-006
   teiginys: "Prie Laukstetės įlankos laivai įplaukdavo ir išplaukdavo, o Ordinas ketino rūpintis jų saugumu."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -121,7 +133,7 @@ Nenurodyta
 <a id="claim-t-220413"></a>
 - t-007
   teiginys: "Auktuolyčių pilies puolime daugybė pėstininkų plaukė laivais."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -133,7 +145,7 @@ Nenurodyta
 <a id="claim-t-221338"></a>
 - t-008
   teiginys: "1295 m. broliai laivais plaukė beveik iki Junigedos pilies, tačiau laivai įstrigo seklumoje dėl mažo vandens."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -142,10 +154,22 @@ Nenurodyta
   pagrindžia:
     - c-201976
 
-<a id="claim-t-221687"></a>
+<a id="claim-t-221489"></a>
 - t-009
+  teiginys: "Mstivojaus sukilimo metu penkiolika brolių laivų gabeno reikmenis tikėjimui ir tikintiesiems ginti."
+  atnaujinta: "2026-09-19 15:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202885
+
+<a id="claim-t-221687"></a>
+- t-010
   teiginys: "Prūsai pasistatydino daug laivų, kad pultų brolių laivus, gabenančius maistą į Karaliaučiaus pilį."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -155,9 +179,9 @@ Nenurodyta
     - c-202558
 
 <a id="claim-t-222422"></a>
-- t-010
+- t-011
   teiginys: "Vėjas nunešė Sventopelko laivus nuo kranto, o neradę jų kariai puolė į Vyslą ir nuskendo."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -167,9 +191,9 @@ Nenurodyta
     - c-205726
 
 <a id="claim-t-224281"></a>
-- t-011
+- t-012
   teiginys: "Krikščionių laivai jūra atplaukdavo į Prūsijos žemę, o prūsai juos anksčiau dažnai skandindavo."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -179,9 +203,9 @@ Nenurodyta
     - c-202192
 
 <a id="claim-t-225501"></a>
-- t-012
+- t-013
   teiginys: "Konrado laivai paskandino daugelį kunigaikščio laivų, kitus stipriai sužalojo, o likusieji pasiekė Elbingą."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -209,7 +233,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192476
@@ -230,7 +254,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-193317
@@ -249,7 +273,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-194165
@@ -268,7 +292,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-196185
@@ -290,7 +314,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-196187
@@ -311,7 +335,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-201976
@@ -329,7 +353,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-202192
@@ -346,8 +370,8 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
+  pagrindzia:
+    - t-012
 
 - id: c-202558
   autorius: "Petras Dusburgietis"
@@ -368,8 +392,8 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
+  pagrindzia:
+    - t-010
 
 - id: c-202885
   autorius: "Petras Dusburgietis"
@@ -381,11 +405,12 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
     penkiolika brolių laivų, prikrautų visokiausių reikmenų tikėjimui bei tikintiesiems ginti;
     galop laivininkai turėjo visą krovinį iš laivų išmesti į upę, nes kitaip patys nebūtų pabėgę.
   statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
+  atnaujinta: "2026-09-13 18:01"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 - id: c-203151
   autorius: "Petras Dusburgietis"
@@ -403,8 +428,8 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
+  pagrindzia:
+    - t-013
 
 - id: c-203215
   autorius: "Petras Dusburgietis"
@@ -422,7 +447,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-205726
@@ -442,6 +467,5 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
+  pagrindzia:
+    - t-011

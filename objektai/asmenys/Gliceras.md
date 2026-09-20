@@ -34,6 +34,48 @@ canonical_biography: "Narbutas Glicerą mini tarp trumpai valdžiusių imperator
 
 Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki Romulo Momilijaus Augustulo iškėlimo 475 metais. Narbutas rašo, kad Nepas nuvertė Glicerą ir paskyrė jį Salemos vyskupu, o vėliau Dalmatijoje Nepą nužudė Glicero atsiųsti žmonės.
 
+## Teiginiai
+
+<a id="claim-t-191271"></a>
+- t-001
+  teiginys: "Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki Romulo Momilijaus Augustulo iškėlimo 475 metais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Orestas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gliceras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Orestas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gliceras\" parinktas kaip owner_note_path. Targetas \"Orestas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174153
+
+<a id="claim-t-191950"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad Nepas nuvertė Glicerą ir paskyrė jį Salemos vyskupu, o vėliau Dalmatijoje Nepą nužudė Glicero atsiųsti žmonės."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Italai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gliceras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Italai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gliceras\" parinktas kaip owner_note_path. Targetas \"Italai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
+  pagrindžia:
+    - c-174832
+
 ## Citatos
 
 - id: c-174153
@@ -56,6 +98,8 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-174832
   autorius: "Teodoras Narbutas"
@@ -77,81 +121,5 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196038
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 313"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
-  citata_originali: |
-    Imperatoriaus
-    sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
-    darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
-    galbos iš Konstantinopolio. Per šią sumaištį greitai kei­
-    tėsi imperatoriai: Antemijus, Olibrijus, Gliceras, Nepas
-    neilgai valdė; pagaliau Ricimero mirtis davė progą sam­
-    dytai kariuomenei vadovavusiam Orestui į imperatoriaus
-    sostą pasodinti savo dar jauną sūnų Romulą Momilijų
-    Augustulą. Tai įvyko 475 metais.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210345
-    - t-214566
-
-## Teiginiai
-
-<a id="claim-t-213744"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad Nepas nuvertė Glicerą ir paskyrė jį Salemos vyskupu, o vėliau Dalmatijoje Nepą nužudė Glicero atsiųsti žmonės."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Italai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gliceras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Italai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gliceras\" parinktas kaip owner_note_path. Targetas \"Italai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-
-<a id="claim-t-210345"></a>
-- t-210345
-  teiginys: "Per šią sumaištį greitai kei tėsi imperatoriai: Antemijus, Olibrijus, Gliceras, Nepas neilgai valdė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196038
-
-<a id="claim-t-214566"></a>
-- t-214566
-  teiginys: "Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki Romulo Momilijaus Augustulo iškėlimo 475 metais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Orestas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gliceras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Orestas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gliceras\" parinktas kaip owner_note_path. Targetas \"Orestas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-196038
-
+  pagrindzia:
+    - t-002

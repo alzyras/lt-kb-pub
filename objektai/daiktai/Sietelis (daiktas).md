@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Sietelis (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Sietelis (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Sietelis'
+  - Sietelis
 aliases:
-  - 'Sietelis'
+  - Sietelis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Sietelis (daiktas)
 
@@ -77,6 +74,5 @@ Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

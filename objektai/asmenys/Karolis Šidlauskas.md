@@ -56,6 +56,18 @@ Karolis Šidlauskas aprašomas kaip nedidelio ūgio samdinys, drauge tarnavęs s
 
 - samdinys
 
+## Teiginiai
+
+<a id="claim-t-195277"></a>
+- t-001
+  teiginys: "Karolis Šidlauskas drauge su pasakotoju tarnavo per vyrą ir buvo vadinamas Karaliuku."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177642
+
 ## Citatos
 
 - id: c-177642
@@ -71,18 +83,5 @@ Karolis Šidlauskas aprašomas kaip nedidelio ūgio samdinys, drauge tarnavęs s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195277"></a>
-- t-001
-  teiginys: "Karolis Šidlauskas drauge su pasakotoju tarnavo per vyrą ir buvo vadinamas Karaliuku."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177642
-

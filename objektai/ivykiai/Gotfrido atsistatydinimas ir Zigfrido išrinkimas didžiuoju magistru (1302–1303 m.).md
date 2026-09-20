@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Gotfrido atsistatydinimas ir Zigfrido išrinkimas didžiuoju magistru (1302–1303 m.)'
+pavadinimas: Gotfrido atsistatydinimas ir Zigfrido išrinkimas didžiuoju magistru (1302–1303 m.)
 variantai:
-  - 'Gotfrido atsistatydinimas ir Zigfrido išrinkimas didžiuoju magistru'
+  - Gotfrido atsistatydinimas ir Zigfrido išrinkimas didžiuoju magistru
 aliases:
-  - 'Gotfrido atsistatydinimas ir Zigfrido išrinkimas didžiuoju magistru'
+  - Gotfrido atsistatydinimas ir Zigfrido išrinkimas didžiuoju magistru
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1302 m.'
+  - 1302 m.
 date_start: '1302'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Gotfrido atsistatydinimas ir Zigfrido išrinkimas didžiuoju magistru (1302–1303 m.)
 
@@ -84,6 +81,5 @@ Po Gotfrido atsistatydinimo didžiuoju magistru buvo išrinktas Zigfridas iš Fo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

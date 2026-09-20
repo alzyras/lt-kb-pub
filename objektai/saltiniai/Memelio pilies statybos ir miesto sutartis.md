@@ -1,6 +1,6 @@
 ---
 tipas: saltinis
-pavadinimas: 'Memelio pilies statybos ir miesto sutartis'
+pavadinimas: Memelio pilies statybos ir miesto sutartis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Memelio pilies statybos ir miesto sutartis
 
@@ -61,6 +58,5 @@ Narbutas nurodo sutartį tarp Livonijos riterių ir Kuršo vyskupo Henriko dėl 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

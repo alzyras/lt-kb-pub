@@ -6,8 +6,8 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
-  - 'Lituanistika-64400-Feodalines-teises-apraiskos-LDK'
+  - Lietuvos Didžioji Kunigaikštija ir jos tradicija
+  - Lituanistika-64400-Feodalines-teises-apraiskos-LDK
   - 'Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
@@ -25,7 +25,7 @@ tags:
   - karalius
   - kunigas
 amziai:
-  - 'XVI'
+  - XVI
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -33,19 +33,32 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-077de0fd46448f11b82f2562"
-canonical_name: "Žygimantas Augustas (arkivyskupas, XVI a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Žygimantas Augustas","Žygimantas Augustas (arkivyskupas, XVI a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-077de0fd46448f11b82f2562
+canonical_name: 'Žygimantas Augustas (arkivyskupas, XVI a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Žygimantas Augustas
+  - 'Žygimantas Augustas (arkivyskupas, XVI a.)'
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau dingo)."
+canonical_biography: 'Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau dingo).'
+external_sources_json: '[{"title":"Žygimantas Augustas","url":"https://lt.wikipedia.org/wiki/%C5%BDygimantas_Augustas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Žygimantas Augustas","url":"https://www.vle.lt/straipsnis/zygimantas-augustas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T02:07:00+00:00","source_checked_at":"2026-09-19T02:07:00+00:00","counts":{"relations":14,"gallery":0,"sources":12},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Žygimantas Augustas","url":"https://lt.wikipedia.org/wiki/%C5%BDygimantas_Augustas","publisher":"Vikipedija","language":"lt","article_id":"21852","revision_id":"7926004","published_at":"2026-09-16T19:22:48Z","version_pk":"","content_hash":"c02d15de0de09f2b8a266ab16676334278b73e29a4821eb9ec1f42976f672636","retrieved_at":"2026-09-19T02:04:34+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=%C5%BDygimantas_Augustas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"21852"}},"intro":"Žygimantas II Augustas, arba Zigmantas II Augustas (lenk. Zygmunt II August, 1520 m. rugpjūčio 1 d. – 1572 m. liepos 7 d.) – Lenkijos karalius (1548–1572) ir Lietuvos didysis kunigaikštis (1544–1572), kurio valdymo metu Lenkijos karalystė ir Lietuvos Didžioji Kunigaikštystė susijungė, sudarydamos konfederaciją – Abiejų Tautų Respubliką. Žygimanto Senojo sūnus. Žygimantas Augustas mirė nesusilaukęs įpėdinio ir buvo paskutinysis Jogailaičių dinastijos valdovas.","original_intro":"","translation_status":"native","infobox":[{"code":"positions","label":"Pareigos","value":"Lenkijos karalius ir Lietuvos didysis kunigaikštis; Lietuvos didysis kunigaikštis; Lenkijos karalius","source":"wikipedia_infobox"},{"code":"birth_date","label":"Gimė","value":"~1520 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Krokuva","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1572 m.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Knišinas","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"1574 m. vasario 10 d. · Vavelio katedra","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Žygimantas Senasis; Bona Sforca","source":"wikipedia_infobox"},{"code":"spouse","label":"Sutuoktiniai","value":"Elžbieta Habsburgaitė · Barbora Radvilaitė · Kotryna Habsburgaitė","source":"wikipedia_infobox"},{"code":"reign","label":"Valdymas","value":"1544 m. – 1572 m.; 1548 m. – 1572 m.","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Žygimantas Augustas","url":"https://lt.wikipedia.org/wiki/%C5%BDygimantas_Augustas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Žygimantas Augustas","url":"https://www.vle.lt/straipsnis/zygimantas-augustas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/%C5%BDygimantas_Augustas","https://www.vle.lt/straipsnis/zygimantas-augustas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"df6f022358ee44e464915f21","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Gavęs žinią apie Polocko netektį, apsiverkė.","context":"Aprašoma jo reakcija į Polocko praradimą; šaltinis nenurodo platesnio charakterio apibendrinimo.","support_ids":["t-182749","c-166162"],"source_refs":[{"kind":"internal_claim","claim_id":"t-182749","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166162","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Nors miestas didvyriškai gynėsi, po dviejų savaičių kovos įgula, nebegalėdama prie- šintis, pasidavė. Polocko netektis buvo netikėta kaip per- kūnas iš giedro dangaus. Gavęs šią žinią, Žygimantas Augustas net apsiverkė."}],"status":"published","conflict_status":"clear"},{"trait_id":"90ee8ce65f41d76b939461a4","canonical_code":"person.habits","label":"Įpročiai","group":"Asmens bruožai","value":"XVI a. medžioklėje naudojo arkebuzą.","context":"Šaltinis jį įvardija pirmuoju valdovu, XVI a. medžioklėje naudojusiu arkebuzą.","support_ids":["t-204120","c-186720"],"source_refs":[{"kind":"internal_claim","claim_id":"t-204120","source":"darbas/sources/Lituanistika-66360-Didieji-medziokliai-Radvilos.md"},{"kind":"evidence","evidence_id":"c-186720","source":"darbas/sources/Lituanistika-66360-Didieji-medziokliai-Radvilos.md","quote":"Žygimantas Augustas buvo pirmas val- dovas, XVI a. medžioklėje naudojęs arkebuzą (kulkomis šaudantį ginklą)35 – jos švininių kulkų randama ir vykdant medžioklės dvarų archeologinius kasinėji- mus36."}],"status":"published","conflict_status":"clear"},{"trait_id":"02a9915d87010e200a056948","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lenkijos karalius ir Lietuvos didysis kunigaikštis.","context":"Šaltiniuose jis apibūdinamas kaip karalius ir Lietuvos didysis kunigaikštis; 1550–1571 m. datuojamuose dokumentuose minimi jo valdovo užrašai.","support_ids":["t-204018","c-186622"],"source_refs":[{"kind":"internal_claim","claim_id":"t-204018","source":"darbas/sources/Lituanistika-64400-Feodalines-teises-apraiskos-LDK.md"},{"kind":"evidence","evidence_id":"c-186622","source":"darbas/sources/Lituanistika-64400-Feodalines-teises-apraiskos-LDK.md","quote":"Valdovo dokumentuose „leno teisės\" sąvoka (beje, šįkart rusėnų kalba) dar kartą pasirodo Lenkijos karaliaus ir Lietuvos didžiojo kunigaikščio Žygimanto Augusto laikais. Pavyzdžiui, 1558 m. valdovo privilegijoje dvaro stalininkui Bag- donui Steckavičiui suteikiamos tarnybos „leno teise\" (правом ленным) 45. Šiame dokumente esanti išlyga dėl tų tarnybų paveldėjimo atskleidžia konkretų leno teisės ypatumą."}],"status":"published","conflict_status":"clear"},{"trait_id":"25c2c25e60b6f6769a9a25fb","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"„Paskutinis savarankiškas Lietuvos valdovas ir paskutinis vyriškasis Jogailos palikuonis“.","context":"Tai Teodoro Narbuto istoriniame veikale pateiktas autoriaus vertinimas, siejamas su Žygimanto Augusto mirtimi ir tautos savarankiškumo pabaiga.","support_ids":["t-216014","c-198732"],"source_refs":[{"kind":"internal_claim","claim_id":"t-216014","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-198732","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Istorijos veikalą T. Narbutas baigia tokiais žodžiais: „Aš pri­ vedžiau savo rašinį iki epochos, kuria baigėsi tautos savaran­ kiškumas. Čia turiu perduoti darbą tęsti lenkų istorikams. Pas­ kutinis savarankiškas Lietuvos valdovas ir paskutinis vyriška­ sis Jogailos palikuonis Žygimantas Augustas mirė, ir aš lau- j? žau plunksną prie jo karsto“7."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-88469","confidence":0.84},{"predicate":"buvo_vyras","direction":"outbound","target":"objektai/asmenys/Barbora Radvilaitė","claim_id":"t-86276","confidence":0.64},{"predicate":"buvo_zmona","direction":"inbound","target":"objektai/asmenys/Barbora Radvilaitė","claim_id":"t-54953","confidence":0.86},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Barboros rūmai Vilniuje","claim_id":"t-183848","confidence":0.7},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-176975","confidence":0.9},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Knišinas","claim_id":"t-183854","confidence":0.86},{"predicate":"pastate","direction":"outbound","target":"objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai","claim_id":"t-87042","confidence":0.79},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-183581","confidence":0.68},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Šv. Barboros bažnyčia Žemutinėje pilyje","claim_id":"t-86276","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai","claim_id":"t-87130","confidence":0.72},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Vilniaus jėzuitų kolegija","claim_id":"t-86704","confidence":0.7},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-183827","confidence":0.72},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-183827","confidence":0.74},{"predicate":"vede","direction":"outbound","target":"objektai/asmenys/Barbora Radvilaitė","claim_id":"t-183848","confidence":0.92}],"timeline":[{"date":"1546 m.","label":"1546 m.","claimId":"t-183846"},{"date":"1547 m.","label":"1547 m.","claimId":"t-183849"},{"date":"1547 m.","label":"1547 m.","claimId":"t-201565"},{"date":"1555 m.","label":"1555 m.","claimId":"t-183845"},{"date":"1557 m.","label":"1557 m.","claimId":"t-183852"},{"date":"1558 m.","label":"Žygimanto Augusto laikais valdovo dokumentuose leno teisės sąvoka vėl vartota rusėnų kalba; 1558 m.","claimId":"t-204018"},{"date":"1560 m.","label":"1560 m.","claimId":"t-201566"},{"date":"1564 m.","label":"1564 m.","claimId":"t-183853"}],"support_disclosure":{"claims":23,"sources":10}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6fa22f41367366eb
+object_page_generated_at: '2026-09-19T02:07:00+00:00'
+object_page_source_checked_at: '2026-09-19T02:07:00+00:00'
+object_page_content_state: content
+object_page_claim_count: '23'
+object_page_source_count: '10'
+object_page_seo_description: 'Žygimantas Augustas (arkivyskupas, XVI a.): Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją…'
+object_page_seo_input_hash: 2903973e341296dd6314180a0ddf382b3ce95ecf6473f621ba24f5994d9b7195
+object_page_seo_generated_at: '2026-09-19T02:07:00+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Žygimantas Augustas (arkivyskupas, XVI a.)
 
@@ -54,6 +67,376 @@ canonical_biography: "Dusburgietis teigia, kad rotundas, pavestas Žygimanto Aug
 Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau dingo).
 
 ## Teiginiai
+
+<a id="claim-t-182749"></a>
+- t-001
+  teiginys: "Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-166162
+
+<a id="claim-t-183581"></a>
+- t-002
+  teiginys: "Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "pastate -> Vilnius: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste Žygimantas Augustas nurodytas kaip kartu dalyvavęs Vilniaus Žemutinės pilies statydinime; atskiro pilies objekto nėra."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Bona Sforca pastatė Vilnius (0.68); Žygimantas Augustas (arkivyskupas, XVI a.) pastatė Vilnius (0.68)"
+  pagrindžia:
+    - c-166974
+
+<a id="claim-t-183582"></a>
+- t-003
+  teiginys: "Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-166975
+
+<a id="claim-t-183845"></a>
+- t-004
+  teiginys: "1555 m. Žygimantas Augustas patvirtino Radvilos dovanojimą gydytojui Cimermanui."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1555 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą patvirtinimą."
+  pagrindžia:
+    - c-167230
+
+<a id="claim-t-183846"></a>
+- t-005
+  teiginys: "1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1546 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, gramatiškas ir paremtas citata."
+  pagrindžia:
+    - c-167231
+
+<a id="claim-t-183847"></a>
+- t-006
+  teiginys: "Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-167232
+
+<a id="claim-t-183848"></a>
+- t-007
+  teiginys: "Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "vede -> Barbora Radvilaitė: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Augustas susituokė su Barbora Radvilaite."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) vedė Barbora Radvilaitė (0.92); Žygimantas Augustas (arkivyskupas, XVI a.) gyveno Barboros rūmai Vilniuje (0.70)"
+  pagrindžia:
+    - c-167233
+
+<a id="claim-t-183849"></a>
+- t-008
+  teiginys: "1547 m. Žygimantas Augustas paskelbė potvarkį dėl supirkinėtojų, už miesto branginusių iš kaimų atvežamus produktus."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1547 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinė formuluotė nutrūkusi."
+  pagrindžia:
+    - c-167234
+
+<a id="claim-t-183850"></a>
+- t-009
+  teiginys: "Žygimantas Augustas po kelerių metų patvirtino Paleckiui suteiktą stiklo gamybos privilegiją."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-167235
+
+<a id="claim-t-183851"></a>
+- t-010
+  teiginys: "Žygimantas Augustas nemažomis lėšomis pastatydino Šv. Barboros bažnyčią žmonos Barboros Radvilaitės atminimui."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-167236
+
+<a id="claim-t-183852"></a>
+- t-011
+  teiginys: "1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "mūšio data: 1557 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis sakinys yra kontekstinis fragmentas."
+  pagrindžia:
+    - c-167237
+
+<a id="claim-t-183853"></a>
+- t-012
+  teiginys: "1564 m. liepos 7 d. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Statuto galios."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1564 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą sprendimą."
+  pagrindžia:
+    - c-167238
+
+<a id="claim-t-183854"></a>
+- t-013
+  teiginys: "Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "mire -> Knišinas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Knišinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Žygimanto Augusto mirties vietą Knišine."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) mirė Knišinas (0.86)"
+  pagrindžia:
+    - c-167239
+
+<a id="claim-t-184910"></a>
+- t-014
+  teiginys: "1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168271
+
+<a id="claim-t-184911"></a>
+- t-015
+  teiginys: "Karalius Augustas, gindamas arkivyskupą Vilhelmą, išsiuntė pas magistrą kilmingą bajorą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  pagrindžia:
+    - c-168272
+
+<a id="claim-t-188657"></a>
+- t-016
+  teiginys: "Narbutas Žygimantą Augustą vadino paskutiniu savarankišku Lietuvos valdovu ir paskutiniu vyriškuoju Jogailos palikuoniu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171546
+
+<a id="claim-t-188658"></a>
+- t-017
+  teiginys: "Valdant Žygimantui Augustui Veliuonos klebonas Ragauskas priėmė Socino tikėjimą, o vietos bažnyčia ilgai priklausė evangelikams reformatams."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Veliuona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Veliuona: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Veliuona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171547
+
+<a id="claim-t-194728"></a>
+- t-018
+  teiginys: "1185) pasakoja, kad tik valdant Žygimantui Augustui karališkoji kanceliarija nustojo ma žesnes rusų cerkves vadinti sinagogomis."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171547
+
+<a id="claim-t-196668"></a>
+- t-019
+  teiginys: "Kadangi švedų valdovas atsisakė siūlomos sąjungos, būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud ros, Augustas laiškais stengėsi sutaikyti švedus bei maskvėnus."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-178828
+
+<a id="claim-t-197460"></a>
+- t-020
+  teiginys: "Žygimantas Augustas buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-177124
 
 <a id="claim-t-200770"></a>
 - t-021
@@ -74,6 +457,30 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184115
+
+<a id="claim-t-201565"></a>
+- t-022
+  teiginys: "1547 m. Žygimantas Augustas pakartojo tėvo nurodymus."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184912
+
+<a id="claim-t-201566"></a>
+- t-023
+  teiginys: "1560 m. Žygimantas Augustas, reaguodamas į vilniečių skundą, esą jiems trukdoma Kaune prekiauti, iš jų imamas vadinamasis atvykimo mokestis (Jl8Ka, mokestis, kurį turėjo sumokėti į miestą su prekėmis atvykęs pirklys) kaip iš maskvėnų, nurodė kauniečiams."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184913
 
 <a id="claim-t-202316"></a>
 - t-024
@@ -113,374 +520,10 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   pagrindžia:
     - c-185874
 
-<a id="claim-t-207759"></a>
-- t-207759
-  teiginys: "Po Barboros Radvilaitės mirties Žygimantas Augustas, kaip nurodo Jūratė Kiaupienė, tikėdamasis sulaukti įpėdinio, Europos valdovų dvaruose ieškojo žmonos."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
-  pagrindžia:
-    - c-190412
-
-<a id="claim-t-216014"></a>
-- t-216014
-  teiginys: "Narbutas Žygimantą Augustą vadino paskutiniu savarankišku Lietuvos valdovu ir paskutiniu vyriškuoju Jogailos palikuoniu."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198732
-
-<a id="claim-t-182749"></a>
-- t-182749
-  teiginys: "Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-166162
-
-<a id="claim-t-183581"></a>
-- t-183581
-  teiginys: "Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "pastate -> Vilnius: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste Žygimantas Augustas nurodytas kaip kartu dalyvavęs Vilniaus Žemutinės pilies statydinime; atskiro pilies objekto nėra."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Bona Sforca pastatė Vilnius (0.68); Žygimantas Augustas (arkivyskupas, XVI a.) pastatė Vilnius (0.68)"
-  pagrindžia:
-    - c-166974
-
-<a id="claim-t-183582"></a>
-- t-183582
-  teiginys: "Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-166975
-
-<a id="claim-t-183845"></a>
-- t-183845
-  teiginys: "1555 m. Žygimantas Augustas patvirtino Radvilos dovanojimą gydytojui Cimermanui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1555 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą patvirtinimą."
-  pagrindžia:
-    - c-167230
-
-<a id="claim-t-183846"></a>
-- t-183846
-  teiginys: "1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1546 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, gramatiškas ir paremtas citata."
-  pagrindžia:
-    - c-167231
-
-<a id="claim-t-183847"></a>
-- t-183847
-  teiginys: "Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-167232
-
-<a id="claim-t-183848"></a>
-- t-183848
-  teiginys: "Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "vede -> Barbora Radvilaitė: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Augustas susituokė su Barbora Radvilaite."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) vedė Barbora Radvilaitė (0.92); Žygimantas Augustas (arkivyskupas, XVI a.) gyveno Barboros rūmai Vilniuje (0.70)"
-  pagrindžia:
-    - c-167233
-
-<a id="claim-t-183849"></a>
-- t-183849
-  teiginys: "1547 m. Žygimantas Augustas paskelbė potvarkį dėl supirkinėtojų, už miesto branginusių iš kaimų atvežamus produktus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1547 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinė formuluotė nutrūkusi."
-  pagrindžia:
-    - c-167234
-
-<a id="claim-t-183850"></a>
-- t-183850
-  teiginys: "Žygimantas Augustas po kelerių metų patvirtino Paleckiui suteiktą stiklo gamybos privilegiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-167235
-
-<a id="claim-t-183851"></a>
-- t-183851
-  teiginys: "Žygimantas Augustas nemažomis lėšomis pastatydino Šv. Barboros bažnyčią žmonos Barboros Radvilaitės atminimui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-167236
-
-<a id="claim-t-183852"></a>
-- t-183852
-  teiginys: "1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "mūšio data: 1557 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis sakinys yra kontekstinis fragmentas."
-  pagrindžia:
-    - c-167237
-
-<a id="claim-t-183853"></a>
-- t-183853
-  teiginys: "1564 m. liepos 7 d. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Statuto galios."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1564 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą sprendimą."
-  pagrindžia:
-    - c-167238
-
-<a id="claim-t-183854"></a>
-- t-183854
-  teiginys: "Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "mire -> Knišinas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Knišinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Žygimanto Augusto mirties vietą Knišine."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) mirė Knišinas (0.86)"
-  pagrindžia:
-    - c-167239
-
-<a id="claim-t-184910"></a>
-- t-184910
-  teiginys: "1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Austrija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168271
-    - c-168272
-
-<a id="claim-t-184911"></a>
-- t-184911
-  teiginys: "Karalius Augustas, gindamas arkivyskupą Vilhelmą, išsiuntė pas magistrą kilmingą bajorą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  pagrindžia:
-    - c-168272
-
-<a id="claim-t-196668"></a>
-- t-196668
-  teiginys: "Kadangi švedų valdovas atsisakė siūlomos sąjungos, būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud ros, Augustas laiškais stengėsi sutaikyti švedus bei maskvėnus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-178828
-
-<a id="claim-t-201565"></a>
-- t-201565
-  teiginys: "1547 m. Žygimantas Augustas pakartojo tėvo nurodymus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184912
-
-<a id="claim-t-201566"></a>
-- t-201566
-  teiginys: "1560 m. Žygimantas Augustas, reaguodamas į vilniečių skundą, esą jiems trukdoma Kaune prekiauti, iš jų imamas vadinamasis atvykimo mokestis (Jl8Ka, mokestis, kurį turėjo sumokėti į miestą su prekėmis atvykęs pirklys) kaip iš maskvėnų, nurodė kauniečiams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184913
-
 <a id="claim-t-204018"></a>
-- t-204018
+- t-026
   teiginys: "Žygimanto Augusto laikais valdovo dokumentuose leno teisės sąvoka vėl vartota rusėnų kalba; 1558 m. privilegijoje Bagdonui Steckavičiui tarnyba suteikta „правом ленным“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -494,9 +537,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-186622
 
 <a id="claim-t-204019"></a>
-- t-204019
+- t-027
   teiginys: "1550–1571 m. Žygimanto Augusto užrašuose ištarnos, suteiktos leno teisės pagrindu, paveldėjimas visada buvo aiškiai ribojamas vyriškąja linija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -510,9 +553,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-186623
 
 <a id="claim-t-204120"></a>
-- t-204120
+- t-028
   teiginys: "Žygimantas Augustas buvo pirmasis valdovas, XVI a. medžioklėje naudojęs arkebuzą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -521,64 +564,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
   pagrindžia:
     - c-186720
-
-<a id="claim-t-207429"></a>
-- t-207429
-  teiginys: "Bumblausko aprašyme LDK pinigų sistema prie Žygimanto Augusto įžengė į „aukso amžių“, kai buvo išleistos stambaus nominalo auksinės monetos – dukatai ir portugalai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190028
-
-<a id="claim-t-216922"></a>
-- t-216922
-  teiginys: "Valdant Žygimantui Augustui Veliuonos klebonas Ragauskas priėmė Socino tikėjimą, o vietos bažnyčia ilgai priklausė evangelikams reformatams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Veliuona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Veliuona: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Veliuona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198847
-
-<a id="claim-t-218624"></a>
-- t-218624
-  teiginys: "1185) pasakoja, kad tik valdant Žygimantui Augustui karališkoji kanceliarija nustojo ma žesnes rusų cerkves vadinti sinagogomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-198847
-    - c-199469
-
-<a id="claim-t-220070"></a>
-- t-220070
-  teiginys: "Valdant Žygimantui Augustui, Veliuonos vietos kunigas Ragauskas priėmė Socino tikėjimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198847
 
 ## Reikšmingi paminėjimai
 - c-014
@@ -661,8 +646,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-182749
+  pagrindzia:
+    - t-001
 
 - id: c-166974
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -680,8 +665,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183581
+  pagrindzia:
+    - t-002
 
 - id: c-166975
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -700,8 +685,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183582
+  pagrindzia:
+    - t-003
 
 - id: c-167230
   autorius: "Michał Baliński"
@@ -719,8 +704,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183845
+  pagrindzia:
+    - t-004
 
 - id: c-167231
   autorius: "Michał Baliński"
@@ -742,8 +727,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183846
+  pagrindzia:
+    - t-005
 
 - id: c-167232
   autorius: "Michał Baliński"
@@ -763,8 +748,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183847
+  pagrindzia:
+    - t-006
 
 - id: c-167233
   autorius: "Michał Baliński"
@@ -789,8 +774,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183848
+  pagrindzia:
+    - t-007
 
 - id: c-167234
   autorius: "Michał Baliński"
@@ -814,8 +799,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183849
+  pagrindzia:
+    - t-008
 
 - id: c-167235
   autorius: "Michał Baliński"
@@ -842,8 +827,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183850
+  pagrindzia:
+    - t-009
 
 - id: c-167236
   autorius: "Michał Baliński"
@@ -869,8 +854,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183851
+  pagrindzia:
+    - t-010
 
 - id: c-167237
   autorius: "Michał Baliński"
@@ -894,8 +879,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183852
+  pagrindzia:
+    - t-011
 
 - id: c-167238
   autorius: "Michał Baliński"
@@ -923,8 +908,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183853
+  pagrindzia:
+    - t-012
 
 - id: c-167239
   autorius: "Michał Baliński"
@@ -944,8 +929,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183854
+  pagrindzia:
+    - t-013
 
 - id: c-168271
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -975,8 +960,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184910
+  pagrindzia:
+    - t-014
 
 - id: c-168272
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -999,9 +984,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184910
-    - t-184911
+  pagrindzia:
+    - t-015
 
 - id: c-171546
   autorius: "Teodoras Narbutas"
@@ -1020,6 +1004,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 - id: c-171547
   autorius: "Teodoras Narbutas"
@@ -1040,6 +1026,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
+    - t-018
 
 - id: c-177124
   autorius: "Teodoras Narbutas"
@@ -1062,6 +1051,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
 
 - id: c-178828
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1092,8 +1083,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196668
+  pagrindzia:
+    - t-019
 
 - id: c-178829
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1117,7 +1108,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-184115
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -1130,12 +1120,11 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     torium. Nereikia manyti, kad abu šiuodu stilių taip jau yra priešingi vienas
     kitam.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-184912
@@ -1151,8 +1140,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201565
+  pagrindzia:
+    - t-022
 
 - id: c-184913
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1168,8 +1157,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201566
+  pagrindzia:
+    - t-023
 
 - id: c-185663
   autorius: "Marija Matušakaitė"
@@ -1178,9 +1167,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:20"
-  pagrindžia:
+  pagrindzia:
     - t-024
 
 - id: c-185874
@@ -1190,9 +1178,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:20"
-  pagrindžia:
+  pagrindzia:
     - t-025
 
 - id: c-186622
@@ -1213,8 +1200,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204018
+  pagrindzia:
+    - t-026
 
 - id: c-186623
   autorius: "Rimvydas Petrauskas"
@@ -1232,8 +1219,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204019
+  pagrindzia:
+    - t-027
 
 - id: c-186720
   autorius: "Toma Zarankaitė"
@@ -1250,124 +1237,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204120
-
-- id: c-190028
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 48"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 48."
-  citata_originali: |
-    Monetose atsirado lotyniškos legendos, nurodan-
-    čios valstybę ir valdovą, o kartu monetose, be averse vaizduoto Vyčio, reverse atsiranda
-    Lenkijos Erelis. Žygimanto Senojo laikais – nuo 1508 m. – LDK monetos pradėtos tiksliai
-    datuoti. Į „aukso amžių“ (net tiesiogine prasme) LDK pinigų sistema įžengė prie Žygi-
-    manto Augusto, kuomet išleistos stambaus nominalo auksinės monetos – dukatai ir por-
-    tugalai (1 portugalas = 10 dukatų arba 400 grašių).
-  citata_rodoma: "Į „aukso amžių“ (net tiesiogine prasme) LDK pinigų sistema įžengė prie Žygi-\nmanto Augusto, kuomet išleistos stambaus nominalo auksinės monetos – dukatai ir por-\ntugalai (1 portugalas = 10 dukatų arba 400 grašių)."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207429
-
-- id: c-190412
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 196"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 196."
-  citata_originali: |
-    Ta-
-    čiau visi jie tarnavo savo tėvynei, atstovaudami Lietuvos Didžiosios Kunigaikštystės poli-
-    tiniams interesams imperatoriaus dvare, atlikdami valdovo ar Ponų Tarybos pavedimus.
-    Vieną tokią delikačią diplomatinę misiją atliko M. Radvila Juodasis. Po antrosios
-    žmonos Barboros Radvilaitės mirties
-    24 našlaujantis Žygimantas Augustas, tuo metu dar
-    tikėdamasis susilaukti įpėdinio, Europos valdovų dvaruose ieškojo žmonos.
-  citata_rodoma: "Po antrosios\nžmonos Barboros Radvilaitės mirties\n24 našlaujantis Žygimantas Augustas, tuo metu dar\ntikėdamasis susilaukti įpėdinio, Europos valdovų dvaruose ieškojo žmonos."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207759
-
-- id: c-198732
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 8"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
-  citata_originali: |
-    Istorijos veikalą T. Narbutas baigia tokiais žodžiais: „Aš pri­
-    vedžiau savo rašinį iki epochos, kuria baigėsi tautos savaran­
-    kiškumas. Čia turiu perduoti darbą tęsti lenkų istorikams. Pas­
-    kutinis savarankiškas Lietuvos valdovas ir paskutinis vyriška­
-    sis Jogailos palikuonis Žygimantas Augustas mirė, ir aš lau- j?
-    žau plunksną prie jo karsto“7.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216014
-
-- id: c-198847
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
-  citata_originali: |
-    1414 metais
-    kunigaikštis Vytautas, gyvendamas Veliuonos pilyje, administ­
-    ravo tą kraštą, įsteigė Veliuonos vėliavininkų ą, arba apskritį,
-    užrašė bažnyčiai daugiau pajamų. Valdant Žygimantui Augus­
-    tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
-    cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
-    iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
-    Zigmantui III.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216922
-    - t-218624
-    - t-220070
-
-- id: c-199469
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 400"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
-  citata_originali: |
-    Is­
-    torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
-    ir ją išmatavęs: ji buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
-    Joje buvusios trys figūros, pavaizduotos iki juosmens - Patrim­
-    pas, ar Atrimpas, gražiaveidis jaunikaitis be barzdos ir ūsų, su
-    varpų vainiku. Viduryje buvo Perkūnas - vidutinio amžiaus,
-    barzda ir plaukai garbiniuoti, juodi, aplink galvą buvo ugnies
-    spindulių vainikas, veidas ugninės - raudonos - spalvos, išpū­
-    tęs ir piktas, žiūrėjo į Atrimpą su pykčiu, o tas tarytum šypso-
-    jęsis.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218624
+  pagrindzia:
+    - t-028
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]]

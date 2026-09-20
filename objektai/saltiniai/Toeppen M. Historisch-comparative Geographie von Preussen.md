@@ -34,6 +34,20 @@ media_all_json: |-
 
 Dusburgietis teigia, kad toeppen M.
 
+## Teiginiai
+
+<a id="claim-t-61317"></a>
+- t-001
+  teiginys: "M. Toeppeno „Historisch-comparative Geographie von Preussen“ išleista Gotha mieste 1858 m."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1858 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia leidimo vietą ir metus."
+  pagrindžia:
+    - c-61949
+
 ## Citatos
 
 - id: c-61949
@@ -49,4 +63,5 @@ Dusburgietis teigia, kad toeppen M.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

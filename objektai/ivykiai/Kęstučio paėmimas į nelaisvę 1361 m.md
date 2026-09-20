@@ -36,6 +36,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206819"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojime Kęstutį, 1361 m. paimtą į nelaisvę, nugabeno į Marienburgą, kur surengtos viešos pamaldos, nes Kęstučio paėmimas laikytas ypatingu Dangaus palaiminimo ženklu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189434
+
 ## Santrauka
 
 Teodoro Narbuto pasakojime Kęstutį, 1361 m. paimtą į nelaisvę, nugabeno į Marienburgą, kur surengtos viešos pamaldos, nes Kęstučio paėmimas laikytas ypatingu Dangaus palaiminimo ženklu.
@@ -59,21 +74,5 @@ Teodoro Narbuto pasakojime Kęstutį, 1361 m. paimtą į nelaisvę, nugabeno į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206819"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojime Kęstutį, 1361 m. paimtą į nelaisvę, nugabeno į Marienburgą, kur surengtos viešos pamaldos, nes Kęstučio paėmimas laikytas ypatingu Dangaus palaiminimo ženklu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189434
-

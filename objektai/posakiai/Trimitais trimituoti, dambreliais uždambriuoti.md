@@ -76,11 +76,9 @@ Ganymo ir trimito garsų dainos formulė.
     randame: „Trimitais trimituoti, dambreliais uždambriuoti“ .
   citata_rodoma: "Nieks negali neigti, kad kerdžių trimitas nėra mūsų\ntautinis muzikos įrankis; gali būti, kad jis vadinasi dabru. \nDainose\nrandame: „Trimitais trimituoti, dambreliais uždambriuoti“ ."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

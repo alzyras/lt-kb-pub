@@ -35,6 +35,20 @@ I. Sprogis aprašė archyvo knygų turinį. Sprogis k u o p ų t e i s m u i yra
 
 I. Sprogis aprašė archyvo knygų turinį. Sprogis k u o p ų t e i s m u i yra p a s k y r ę s v i s ą.
 
+## Teiginiai
+
+<a id="claim-t-204103"></a>
+- t-001
+  teiginys: "I. Sprogis aprašė archyvo knygų turinį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186707
+
 ## Citatos
 
 - id: c-186707
@@ -54,7 +68,7 @@ I. Sprogis aprašė archyvo knygų turinį. Sprogis k u o p ų t e i s m u i yra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186708
@@ -77,18 +91,3 @@ I. Sprogis aprašė archyvo knygų turinį. Sprogis k u o p ų t e i s m u i yra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-204103"></a>
-- t-001
-  teiginys: "I. Sprogis aprašė archyvo knygų turinį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
-  pagrindžia:
-    - c-186707
-

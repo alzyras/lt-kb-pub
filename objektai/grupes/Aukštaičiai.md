@@ -36,6 +36,32 @@ media_all_json: |-
 
 Į pietus nuo žemaičių ir į rytus nuo jotvingų gyveno aukštaičiai, kurie sudarė vėlesnės Lietuvos valstybės branduolį. Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Senosios kronikos mini daug ordino puolimų į Žemaičius ir Aukštaičius, taip pat daug mini lietuvių žygių, tačiau nė viena kronika aiškiai nepasako, kas tuo metu valdė Lietuvą.
 
+## Teiginiai
+
+<a id="claim-t-194991"></a>
+- t-001
+  teiginys: "Vis daugiau duomenų atsiranda teigti, jog Gedimino dinastijos kilmės reikia ieškoti Aukštaičiuose."
+  atnaujinta: "2026-07-06 12:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177374
+
+<a id="claim-t-194992"></a>
+- t-002
+  teiginys: "Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris grupes, (1377.II.) teriojo Aukštaičius."
+  atnaujinta: "2026-07-06 12:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-31037
+
 ## Citatos
 
 - id: c-31037
@@ -51,7 +77,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177374
@@ -71,32 +97,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-194991"></a>
-- t-001
-  teiginys: "Vis daugiau duomenų atsiranda teigti, jog Gedimino dinastijos kilmės reikia ieškoti Aukštaičiuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177374
-
-<a id="claim-t-194992"></a>
-- t-002
-  teiginys: "Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris grupes, (1377.II.) teriojo Aukštaičius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-31037
-

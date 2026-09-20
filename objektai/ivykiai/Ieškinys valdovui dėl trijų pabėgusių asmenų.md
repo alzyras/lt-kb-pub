@@ -42,6 +42,24 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203767"></a>
+- t-001
+  teiginys: "1551 m. valdovui pateiktame ieškinyje skųstasi, kad tris pabėgusius asmenis priglaudęs bajoras atsisakė juos atiduoti teismo pareigūnams ir juos sumušė."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1551 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinti OCR ir sakinio sandaros trūkumai, aiškiai įvardytas bajoro veiksmas bei teismo pareigūnų kontekstas."
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186371
+
 ## Santrauka
 
 1551 m. valdovui pateiktame ieškinyje skųstasi, kad tris pabėgusius asmenis priglaudęs bajoras atsisakė juos atiduoti teismo pareigūnams ir juos sumušė.
@@ -63,24 +81,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203767"></a>
-- t-001
-  teiginys: "1551 m. valdovui pateiktame ieškinyje skųstasi, kad tris pabėgusius asmenis priglaudęs bajoras atsisakė juos atiduoti teismo pareigūnams ir juos sumušė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  temporaliniai_duomenys: "įvykio data: 1551 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinti OCR ir sakinio sandaros trūkumai, aiškiai įvardytas bajoro veiksmas bei teismo pareigūnų kontekstas."
-  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
-  pagrindžia:
-    - c-186371
-

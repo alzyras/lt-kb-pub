@@ -43,6 +43,20 @@ canonical_biography: "opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora
 
 opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc.
 
+## Teiginiai
+
+<a id="claim-t-88070"></a>
+- t-001
+  teiginys: "Josephi Mariae Fonseca ab Ebora darbu ir rūpesčiu 1733 m. Romoje išleistas „Annales Minorum“ XIX tomas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1733 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata yra bibliografinė, bet remia faktą apie jo vaidmenį leidime."
+  pagrindžia:
+    - c-84049
+
 ## Citatos
 
 - id: c-84049
@@ -65,20 +79,5 @@ opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-88070"></a>
-- t-001
-  teiginys: "Josephi Mariae Fonseca ab Ebora darbu ir rūpesčiu 1733 m. Romoje išleistas „Annales Minorum“ XIX tomas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1733 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata yra bibliografinė, bet remia faktą apie jo vaidmenį leidime."
-  pagrindžia:
-    - c-84049
-

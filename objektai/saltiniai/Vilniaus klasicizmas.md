@@ -35,33 +35,12 @@ media_all_json: |-
 
 Vilniaus klasicizmas: parodos katalogas.
 
-## Citatos
-
-- id: c-48460
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
-  citata_originali: |
-    Vilnius, 2001; Vilniaus klasicizmas: parodos
-    katalogas. Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailės
-    muziejus 2000 m. kovas – rugsėjis. Vilnius, 2000; Vilnius Jono Kazimiero Vilčinskio
-    leidiniuose: paroda 1999 01 01–1999 04 19.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-45770"></a>
 - t-001
   teiginys: "„Vilniaus klasicizmas“ yra parodos katalogas, siejamas su 1999–2000 m. parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -79,7 +58,7 @@ Vilniaus klasicizmas: parodos katalogas.
 <a id="claim-t-45771"></a>
 - t-002
   teiginys: "„Vilniaus klasicizmas“ buvo parodos katalogas, susijęs su 1999–2000 m. parodomis Varšuvoje ir Vilniuje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -95,3 +74,23 @@ Vilniaus klasicizmas: parodos katalogas.
   pagrindžia:
     - c-48460
 
+## Citatos
+
+- id: c-48460
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
+  citata_originali: |
+    Vilnius, 2001; Vilniaus klasicizmas: parodos
+    katalogas. Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailės
+    muziejus 2000 m. kovas – rugsėjis. Vilnius, 2000; Vilnius Jono Kazimiero Vilčinskio
+    leidiniuose: paroda 1999 01 01–1999 04 19.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002

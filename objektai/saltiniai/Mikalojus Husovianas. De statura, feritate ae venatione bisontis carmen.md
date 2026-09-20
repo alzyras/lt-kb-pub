@@ -30,6 +30,32 @@ media_all_json: |-
 
 1523 m. Mikalojus Husovianas poemoje De statura, feritate ae venatione bisontis carmen (Giesmė apie stumbro išvaizdq, žiaurumq ir medžioklę) didžiausią dėmesį skyrė medžioklei Lietuvos giriose, bet matė ir kitokią didžiulę naudą, kurią teikė girios: Nors ši. Mikalojus Husovianas poemoje De statura, feritate ae venatione bisontis carmen (Giesmė apie stumbro išvaizdq, žiaurumq ir medžioklę) didžiausią dėmesį skyrė medžioklei Lietuvos giriose, bet matė ir kitokią didžiulę naudą, kurią teikė girios: Nors ši tauta ir.
 
+## Teiginiai
+
+<a id="claim-t-202252"></a>
+- t-001
+  teiginys: "1523 m. Mikalojus Husovianas poemoje De statura, feritate ae venatione bisontis carmen (Giesmė apie stumbro išvaizdq, žiaurumq ir medžioklę) didžiausią dėmesį skyrė medžioklei Lietuvos giriose, bet matė ir kitokią didžiulę naudą, kurią teikė girios: Nors ši."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185599
+
+<a id="claim-t-202253"></a>
+- t-002
+  teiginys: "Mikalojus Husovianas poemoje De statura, feritate ae venatione bisontis carmen (Giesmė apie stumbro išvaizdq, žiaurumq ir medžioklę) didžiausią dėmesį skyrė medžioklei Lietuvos giriose, bet matė ir kitokią didžiulę naudą, kurią teikė girios: Nors ši tauta ir."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185600
+
 ## Citatos
 
 - id: c-185599
@@ -48,7 +74,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185600
@@ -70,32 +96,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-202252"></a>
-- t-001
-  teiginys: "1523 m. Mikalojus Husovianas poemoje De statura, feritate ae venatione bisontis carmen (Giesmė apie stumbro išvaizdq, žiaurumq ir medžioklę) didžiausią dėmesį skyrė medžioklei Lietuvos giriose, bet matė ir kitokią didžiulę naudą, kurią teikė girios: Nors ši."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185599
-
-<a id="claim-t-202253"></a>
-- t-002
-  teiginys: "Mikalojus Husovianas poemoje De statura, feritate ae venatione bisontis carmen (Giesmė apie stumbro išvaizdq, žiaurumq ir medžioklę) didžiausią dėmesį skyrė medžioklei Lietuvos giriose, bet matė ir kitokią didžiulę naudą, kurią teikė girios: Nors ši tauta ir."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185600
-

@@ -43,6 +43,24 @@ canonical_biography: "1741 m. Jonas Prušakas Benevskis buvo Haličo žemės med
 
 1741 m. Haličo žemės medžioklis Jonas Prušakas Benevskis užpuolė Gembičių dvarelį prie pilies, kuriame buvo apsistojęs Mykolas Stanevičius.
 
+## Teiginiai
+
+<a id="claim-t-203932"></a>
+- t-001
+  teiginys: "1741 m. Haličo žemės medžioklis Jonas Prušakas Benevskis užpuolė Gembičių dvarelį prie pilies, kuriame buvo apsistojęs Mykolas Stanevičius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1741 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Asmens pareigos susietos su konkrečiu jo veiksmu ir įvykio vieta. Išplėstas tik cituojamas kontekstas, nepridėtos pasekmės."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186536
+
 ## Citatos
 
 - id: c-186536
@@ -60,24 +78,5 @@ canonical_biography: "1741 m. Jonas Prušakas Benevskis buvo Haličo žemės med
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203932"></a>
-- t-001
-  teiginys: "1741 m. Haličo žemės medžioklis Jonas Prušakas Benevskis užpuolė Gembičių dvarelį prie pilies, kuriame buvo apsistojęs Mykolas Stanevičius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1741 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Asmens pareigos susietos su konkrečiu jo veiksmu ir įvykio vieta. Išplėstas tik cituojamas kontekstas, nepridėtos pasekmės."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186536
-

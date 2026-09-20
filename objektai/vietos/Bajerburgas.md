@@ -1,15 +1,15 @@
 ---
 tipas: vieta
-pavadinimas: 'Bajerburgas'
+pavadinimas: Bajerburgas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1329 m.'
-  - '1384 m.'
-  - '2026 m.'
+  - 1329 m.
+  - 1384 m.
+  - 2026 m.
 date_start: '1329'
 date_end: '2026'
 sukurta: ''
@@ -18,35 +18,232 @@ tags:
   - vieta
   - pilis
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-500cb7130c1449e78c5d8ef1"
-canonical_name: "Bajerburgas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Bajerburgas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-500cb7130c1449e78c5d8ef1
+canonical_name: Bajerburgas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Bajerburgas
 sameAs: []
-canonical_biography: "Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr."
+canonical_biography: 'Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Bajerburgas","url":"https://lt.wikipedia.org/wiki/Bajerburgas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T12:04:56+00:00","source_checked_at":"2026-09-19T12:04:56+00:00","counts":{"relations":9,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Bajerburgas","url":"https://lt.wikipedia.org/wiki/Bajerburgas","publisher":"Vikipedija","language":"lt","article_id":"223615","revision_id":"7709437","published_at":"2025-12-08T21:38:05Z","version_pk":"","content_hash":"06e42b46bd0ead2aee51de2c365f2b05548ffb57396a5f7afd4c74f5614982fe","retrieved_at":"2026-09-19T12:02:47+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Bajerburgas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"223615"}},"intro":"Bajerburgo vardu vadintos kelios šalia Nemuno pastatytos Ordino pilys. Pirmoji Bajerburgo pilis pastatyta 1337 m., Gedimino valdymo pabaigoje (dabar Veliuonos II piliakalnis. 1337 m. ties Dubysos santaka su Nemunu Ordinas pastatė Marienburgą. Kadangi ši pilis buvo per daug įsikišusi į Lietuvą ir toli nuo kitų atraminių punktų, tais pačiais metais palei Nemuną buvo pastatyta dar viena pilis. Žygiui, kurio metu buvo pastatyta pilis, vadovavo Bavarijos kunigaikštis Heinrichas. Pilis pavadinta šiuose žygiuose dalyvavusių Čekijos karaliaus Jono ir Žemutinės Bavarijos kunigaikščio Heinricho XIV garbei. Buvo planuota, kad tai tapsianti svarbiausia pilimi regione, naująja Lietuvos, kurią tikėtasi greitai užkariauti, sostine. Pilyje buvo palikta 100 karių įgula, 40 riterių, taip pat daug šaulių ir prižiūrėtojų. Čia taip pat buvo planuojama įsteigti ir vyskupystė. Šie planai taip ir liko neįgyvendinti. Netrukus po pastatymo pilis lietuvių buvo sugriauta. Pasak vienos iš versijų, šturmuojant Bajerburgą galėjo žūti ir pats kunigaikštis Gediminas. Manoma, kad pilis stovėjusi dešiniajame Nemuno krante, 2 km į vakarus nuo Veliuonos, netoli Gystaus žiočių. Pastatymo metu pilis, pasak kronikų, buvo saloje. Sugriovus pirmąją Bajerburgo pilį 1343 m. Ordinas pastatė kitą pilį tokiu pat pavadinimu žemiau palei Nemuną, netoliese dabartinių Maštaičių. Trečioji Bajerburgo pilis buvo dabartinio Jurbarko vietoje, pastatyta 1387 m.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Bajerburgas","url":"https://lt.wikipedia.org/wiki/Bajerburgas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Bajerburgas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"a0b6048cca9b8d74b7394b9f","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Ant Nemuno kranto, tarp Veliuonos ir Peštvės, prie Kvalkės upelės.","context":"Zenono Ivinskio 1978 m. veikale aprašoma Bajerburgo vieta.","support_ids":["t-71844","c-31957"],"source_refs":[{"kind":"internal_claim","claim_id":"t-71844","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-31957","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Apsaugoti toli lietuvių teritorijoje pastatytam Marienburgui, ant Nemuno kranto tada buvo pastatytas Bajerburgas (tarp Veliuonos ir Peštvės, prie upelės Kvalkės). Savo vardą gavusi žymiam svečiui pagerbti, ilgam aprūpinta maistu ir stipria įgula, naujoji pilis turėjo tapti sostine Lietuvos, kurią svajota greit nukariauti."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9d85d3a70e51bbd5b3c79573","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Maždaug per ketvirtį mylios nuo Veliuonos.","context":"Teodoro Narbuto pasakojime aprašoma pilies vieta.","support_ids":["t-205753","c-188368"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205753","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188368","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Tuo metu kunigaikštis Henrikas Bavarietis truputį žemiau pradėjo naują pilį, kurią baigęs statyti pavadino Bajerburgu; ji buvo tiktai per ketvirtį mylios nuo Veliuo­ nos. Tą lietuvių tvirtovę tas pats kunigaikštis kažkaip užkariavo (istorija to nemini), atstatė ir pavadinęs Frid- burgu perdavė kryžiuočiams"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"62a7045580e3969fd09424a6","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Pilies ir tvirtovės pobūdžio objektas.","context":"Šaltiniuose Bajerburgas vadinamas pilimi ir tvirtove; tai tiesioginis istorinis apibūdinimas.","support_ids":["t-71843","c-37296","t-206459","c-189074"],"source_refs":[{"kind":"internal_claim","claim_id":"t-71843","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-206459","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-37296","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­ nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis dėlto atsiuntė savo brolį Kaributą pagalbon."},{"kind":"evidence","evidence_id":"c-189074","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Grįždamas atgalios maršalka apsupo Bajerburgo tvir­ tovę, kurią lietuviai atstatę, vėl savo žmonių ten buvo įkurdi­ nę. Kunigaikštis Kęstutis atvyko pagalbon, bet pamatęs, kad Gotesverderis jau užimtas ir žiauriai susidorota su įgula, pa­ traukė maršalkos pėdomis; pastarojo stovykla buvo taip stip­ riai pagal cirkumvalacijos taisykles dideliu atstumu įtvirtinta, kad visos pastangos išvyti priešą iš pilies pasirodė esančios be­ prasmės."}],"status":"published","conflict_status":"clear"},{"trait_id":"9532b2d10815f707b570de6a","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Pastatytas Marienburgui apsaugoti.","context":"Zenonas Ivinskis 1978 m. veikale nurodo šią Bajerburgo paskirtį.","support_ids":["t-71844","c-31957"],"source_refs":[{"kind":"internal_claim","claim_id":"t-71844","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-31957","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Apsaugoti toli lietuvių teritorijoje pastatytam Marienburgui, ant Nemuno kranto tada buvo pastatytas Bajerburgas (tarp Veliuonos ir Peštvės, prie upelės Kvalkės). Savo vardą gavusi žymiam svečiui pagerbti, ilgam aprūpinta maistu ir stipria įgula, naujoji pilis turėjo tapti sostine Lietuvos, kurią svajota greit nukariauti."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4773b37f0790c4f55052a4a7","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Turėjo tapti Lietuvos sostine.","context":"Zenono Ivinskio 1978 m. veikale tai pateikiama kaip to meto kryžiuočių svajonė ir planas, o ne kaip įgyvendintas faktas.","support_ids":["t-71844","c-31957"],"source_refs":[{"kind":"internal_claim","claim_id":"t-71844","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-31957","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Apsaugoti toli lietuvių teritorijoje pastatytam Marienburgui, ant Nemuno kranto tada buvo pastatytas Bajerburgas (tarp Veliuonos ir Peštvės, prie upelės Kvalkės). Savo vardą gavusi žymiam svečiui pagerbti, ilgam aprūpinta maistu ir stipria įgula, naujoji pilis turėjo tapti sostine Lietuvos, kurią svajota greit nukariauti."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"dc07aad4d1a3781582994da0","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Pagrindinis postas.","context":"Teodoras Narbutas taip apibūdina Bajerburgą savo istoriniame pasakojime.","support_ids":["t-205754","c-188369"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205754","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188369","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Iš jų Bajerburgas buvo pagrindinis postas, turin­ tis labai stiprią įgulą iš keturiasdešimties ordino riterių, šimto rinktinių kareivių, tiek pat lankininkų, ką jau kal­ bėti apie sargybą vitingų, atsiųstų Sambijos ir Natangijos kareivių."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"86aace331971fe028e8695a6","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Turėjo labai stiprią įgulą: 40 Ordino riterių, 100 rinktinių kareivių, 100 lankininkų ir sargybą iš Sambijos bei Natangijos karių.","context":"Teodoro Narbuto aprašoma įgula; tai autoriaus pateiktas istorinis vertinimas ir skaičiai.","support_ids":["t-205754","c-188369"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205754","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188369","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Iš jų Bajerburgas buvo pagrindinis postas, turin­ tis labai stiprią įgulą iš keturiasdešimties ordino riterių, šimto rinktinių kareivių, tiek pat lankininkų, ką jau kal­ bėti apie sargybą vitingų, atsiųstų Sambijos ir Natangijos kareivių."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4e15a4e931ccd2d470af2b09","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Buvo aprūpintas maistu ir stipria įgula.","context":"Zenono Ivinskio 1978 m. veikale aprašoma naujoji pilis jos pastatymo laikotarpiu.","support_ids":["t-71844","c-31957"],"source_refs":[{"kind":"internal_claim","claim_id":"t-71844","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-31957","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Apsaugoti toli lietuvių teritorijoje pastatytam Marienburgui, ant Nemuno kranto tada buvo pastatytas Bajerburgas (tarp Veliuonos ir Peštvės, prie upelės Kvalkės). Savo vardą gavusi žymiam svečiui pagerbti, ilgam aprūpinta maistu ir stipria įgula, naujoji pilis turėjo tapti sostine Lietuvos, kurią svajota greit nukariauti."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-176364","confidence":0.82},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-180748","confidence":0.72},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-86002","confidence":0.82},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-176326","confidence":0.88},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Henrikas (Bavarijos kunigaikštis)","claim_id":"t-87684","confidence":0.74},{"predicate":"pastate","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-180363","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-176364","confidence":0.84},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-66565","confidence":0.82},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-176354","confidence":0.83}],"timeline":[],"support_disclosure":{"claims":7,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 563d247e57991200
+object_page_generated_at: '2026-09-19T12:04:56+00:00'
+object_page_source_checked_at: '2026-09-19T12:04:56+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '4'
+object_page_seo_description: 'Bajerburgas: Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo…'
+object_page_seo_input_hash: 292b216af0e1a073ccb14b73b4bca624ef1ed8a9326acd6ec6791051fb2b844f
+object_page_seo_generated_at: '2026-09-19T12:04:56+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Bajerburgas
 
 ## Santrauka
 
 Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr.
+
+## Teiginiai
+
+<a id="claim-t-71843"></a>
+- t-001
+  teiginys: "Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos buvo susimetę kryžiuočiai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Veliuona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bajerburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Veliuona: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajerburgas\" parinktas kaip owner_note_path. Targetas \"Veliuona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-37296
+
+<a id="claim-t-71844"></a>
+- t-002
+  teiginys: "Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės, Marienburgui apsaugoti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Marienburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bajerburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Marienburgas: mention_match, place, gap=94"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajerburgas\" parinktas kaip owner_note_path. Targetas \"Marienburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-31957
+
+<a id="claim-t-71845"></a>
+- t-003
+  teiginys: "1384 m. liepos 9 d. pradėjęs išdavystę, Vytautas sunaikino jam pavestą Naująjį Bajerburgą."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Marienburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bajerburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Marienburgas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajerburgas\" parinktas kaip owner_note_path. Targetas \"Marienburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-31958
+
+<a id="claim-t-71846"></a>
+- t-004
+  teiginys: "Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Veliuona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bajerburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Veliuona: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajerburgas\" parinktas kaip owner_note_path. Targetas \"Veliuona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-31957
+
+<a id="claim-t-71847"></a>
+- t-005
+  teiginys: "1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Naująjį Bajerburgą bei dar vieną jam pavestą pilį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Marienburgas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Marienburgo sudeginimas rodo karinį puolimą prieš šią vietą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Marienburgas (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas, išnaša ir perteiktas citata pagrįstas veiksmas."
+  pagrindžia:
+    - c-31958
+
+<a id="claim-t-188670"></a>
+- t-006
+  teiginys: "XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pastatė Fridburgą ir Bajerburgą, nes žygyje dalyvavo Bavarijos kunigaikštis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Fridburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bajerburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Fridburgas: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajerburgas\" parinktas kaip owner_note_path. Targetas \"Fridburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171559
+
+<a id="claim-t-193169"></a>
+- t-007
+  teiginys: "Visas Nemuno žemupys jau Vytenio laikais buvo kryžiuočių; o Gedimino laikais, pasistatę Bajerburgo ir Marijenburgo pilis, kryžiuočiai paslinko dar arčiau."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-175918
+
+<a id="claim-t-205753"></a>
+- t-008
+  teiginys: "Teodoro Narbuto pasakojime Henrikas Bavarietis pastatė naują pilį ir pavadino ją Bajerburgu; pilis stovėjo maždaug ketvirtį mylios nuo Veliuonos."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188368
+
+<a id="claim-t-205754"></a>
+- t-009
+  teiginys: "Teodoras Narbutas Bajerburgą apibūdina kaip pagrindinį postą, kuriame buvo 40 Ordino riterių, 100 rinktinių kareivių, 100 lankininkų ir sargyba iš Sambijos bei Natangijos karių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188369
+
+<a id="claim-t-206458"></a>
+- t-010
+  teiginys: "Kariaunos susitelkė prie neseniai žemaičių sugriauto Bajerburgo, siekdamos apsupti didelę reikšmę įgavusią Veliuonos tvirtovę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189073
+
+<a id="claim-t-206459"></a>
+- t-011
+  teiginys: "Grįždamas maršalka apsupo Bajerburgo tvirtovę, kurią lietuviai buvo atstatę ir vėl apgyvendinę savais žmonėmis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189074
+
+<a id="claim-t-206460"></a>
+- t-012
+  teiginys: "Kęstutis puolė Bajerburgą iš trijų pusių, sudegino priemiesčius ir įsakė užlyginti griovius."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189075
 
 ## Citatos
 
@@ -70,9 +267,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-71844
-    - t-71846
+  pagrindzia:
+    - t-002
+    - t-004
 
 - id: c-31958
   autorius: "Zenonas Ivinskis"
@@ -89,9 +286,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-71845
-    - t-71847
+  pagrindzia:
+    - t-003
+    - t-005
 
 - id: c-37296
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -113,8 +310,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-71843
+  pagrindzia:
+    - t-001
 
 - id: c-171559
   autorius: "Teodoras Narbutas"
@@ -134,6 +331,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-175918
   redaktorius: "A. Šapoka"
@@ -153,8 +352,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193169
+  pagrindzia:
+    - t-007
 
 - id: c-188368
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -175,8 +374,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205753
+  pagrindzia:
+    - t-008
 
 - id: c-188369
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -199,8 +398,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205754
+  pagrindzia:
+    - t-009
 
 - id: c-189073
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -232,8 +431,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206458
+  pagrindzia:
+    - t-010
 
 - id: c-189074
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -253,8 +452,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206459
+  pagrindzia:
+    - t-011
 
 - id: c-189075
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -271,216 +470,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206460
-
-- id: c-200182
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
-  citata_originali: |
-    Kaip tik ten buvo minima Velionos šventykla. XIV am­
-    žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis - Fridburgą ir Bajer-
-    burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
-    lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
-    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
-    kiu šaunamuoju ginklu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
+    - t-012
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
-
-## Teiginiai
-
-<a id="claim-t-218192"></a>
-- t-001
-  teiginys: "XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pastatė Fridburgą ir Bajerburgą, nes žygyje dalyvavo Bavarijos kunigaikštis."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Fridburgas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajerburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Fridburgas: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajerburgas\" parinktas kaip owner_note_path. Targetas \"Fridburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-200182
-
-<a id="claim-t-71843"></a>
-- t-71843
-  teiginys: "Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos buvo susimetę kryžiuočiai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Veliuona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajerburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Veliuona: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajerburgas\" parinktas kaip owner_note_path. Targetas \"Veliuona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-37296
-
-<a id="claim-t-71844"></a>
-- t-71844
-  teiginys: "Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės, Marienburgui apsaugoti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Marienburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajerburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Marienburgas: mention_match, place, gap=94"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajerburgas\" parinktas kaip owner_note_path. Targetas \"Marienburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-31957
-
-<a id="claim-t-71845"></a>
-- t-71845
-  teiginys: "1384 m. liepos 9 d. pradėjęs išdavystę, Vytautas sunaikino jam pavestą Naująjį Bajerburgą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Marienburgas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajerburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Marienburgas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajerburgas\" parinktas kaip owner_note_path. Targetas \"Marienburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-31958
-
-<a id="claim-t-71846"></a>
-- t-71846
-  teiginys: "Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Veliuona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajerburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Veliuona: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajerburgas\" parinktas kaip owner_note_path. Targetas \"Veliuona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-31957
-
-<a id="claim-t-71847"></a>
-- t-71847
-  teiginys: "1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Naująjį Bajerburgą bei dar vieną jam pavestą pilį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Marienburgas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Marienburgo sudeginimas rodo karinį puolimą prieš šią vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Marienburgas (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas, išnaša ir perteiktas citata pagrįstas veiksmas."
-  pagrindžia:
-    - c-31958
-
-<a id="claim-t-193169"></a>
-- t-193169
-  teiginys: "Visas Nemuno žemupys jau Vytenio laikais buvo kryžiuočių; o Gedimino laikais, pasistatę Bajerburgo ir Marijenburgo pilis, kryžiuočiai paslinko dar arčiau."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-175918
-
-<a id="claim-t-205753"></a>
-- t-205753
-  teiginys: "Teodoro Narbuto pasakojime Henrikas Bavarietis pastatė naują pilį ir pavadino ją Bajerburgu; pilis stovėjo maždaug ketvirtį mylios nuo Veliuonos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188368
-
-<a id="claim-t-205754"></a>
-- t-205754
-  teiginys: "Teodoras Narbutas Bajerburgą apibūdina kaip pagrindinį postą, kuriame buvo 40 Ordino riterių, 100 rinktinių kareivių, 100 lankininkų ir sargyba iš Sambijos bei Natangijos karių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188369
-
-<a id="claim-t-206458"></a>
-- t-206458
-  teiginys: "Kariaunos susitelkė prie neseniai žemaičių sugriauto Bajerburgo, siekdamos apsupti didelę reikšmę įgavusią Veliuonos tvirtovę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189073
-
-<a id="claim-t-206459"></a>
-- t-206459
-  teiginys: "Grįždamas maršalka apsupo Bajerburgo tvirtovę, kurią lietuviai buvo atstatę ir vėl apgyvendinę savais žmonėmis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189074
-
-<a id="claim-t-206460"></a>
-- t-206460
-  teiginys: "Kęstutis puolė Bajerburgą iš trijų pusių, sudegino priemiesčius ir įsakė užlyginti griovius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189075
-

@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Kiaukliai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Kiaukliai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Kiaukliai'
+  - Kiaukliai
 aliases:
-  - 'Kiaukliai'
+  - Kiaukliai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0d4b57873d565532ba20c46b"
-canonical_name: "Kiaukliai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kiaukliai","Kiaukliai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0d4b57873d565532ba20c46b
+canonical_name: Kiaukliai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kiaukliai
+  - Kiaukliai (vieta)
 sameAs: []
-canonical_biography: "Taip katalikai gynė Kiauklių bažnytėlę ir."
+canonical_biography: Taip katalikai gynė Kiauklių bažnytėlę ir.
 place_authority: true
 historical_names: []
 ---

@@ -35,22 +35,10 @@ Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austravij�
 
 ## Teiginiai
 
-<a id="claim-t-213025"></a>
-- t-213025
-  teiginys: "Fosas išjuokia tokius pasakiškus Strabono pasakojimus, o kimbrus, ar ba himerus, laiko paprasta finikiečių išmone, neleidžia painioti Jasono kelionės su Siaurės istorija."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196732
-
-<a id="claim-t-213883"></a>
-- t-213883
+<a id="claim-t-191671"></a>
+- t-001
   teiginys: "Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austraviją, arba Glesariją, laikė fryzų sala Amelandu."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,7 +53,7 @@ Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austravij�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
-    - c-197455
+    - c-174553
 
 ## Citatos
 
@@ -86,44 +74,5 @@ Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austravij�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196732
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 330"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 330."
-  citata_originali: |
-    Fosas* išjuokia
-    tokius pasakiškus Strabono pasakojimus, o kimbrus, ar­
-    ba himerus, laiko paprasta finikiečių išmone, neleidžia
-    painioti Jasono kelionės su Siaurės istorija
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213025
-
-- id: c-197455
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
-  citata_originali: |
-    Kiek čia nepatikimumo!2
-    Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­
-    roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
-    Amelandu. Jam rūpėjo įrodyti, jog romėnų kariai rinkę
-    gintarą, todėl jis teigė, jog jo buvo turtinga visa vaka­
-    rinė Europos pakrantė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213883
-
+  pagrindzia:
+    - t-001

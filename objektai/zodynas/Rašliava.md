@@ -57,19 +57,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-168692"></a>
-- t-002
-  teiginys: "Rašliava vartojama kaip istorinės raštijos pavadinimas."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-153486
-
 <a id="claim-t-168690"></a>
-- t-168690
+- t-001
   teiginys: "Pirmoji Lietuvos rašliava apibūdinama kaip istorinė ir publicistiška."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -82,10 +73,19 @@ Nenurodyta
   pagrindžia:
     - c-153486
 
+<a id="claim-t-168692"></a>
+- t-002
+  teiginys: "Rašliava vartojama kaip istorinės raštijos pavadinimas."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-153486
+
 <a id="claim-t-168695"></a>
-- t-168695
+- t-003
   teiginys: "Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -117,14 +117,13 @@ Nenurodyta
     publicistišką charakterį.
   citata_rodoma: "Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo\npublicistišką charakterį."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-001
     - t-002
-    - t-168690
 
 - id: c-153487
   redaktorius: "A. Šapoka"
@@ -147,8 +146,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-168695
+  pagrindzia:
+    - t-003
 
 - id: c-153490
   redaktorius: "A. Šapoka"
@@ -168,4 +167,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

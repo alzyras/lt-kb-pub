@@ -42,6 +42,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201950"></a>
+- t-001
+  teiginys: "Tiesa, Kauno liuteronai kviečiami neatsisakydavo dalyvauti liuteronų ir kalvinų susiėjimuose, kaip antai 1585 m. Kristupo Radvilos Perkūno Vilniuje sukviestame abiejų protestantų tikėjimų teologų pasitarime, kuriuo buvo siekiama suartinti kalvinus ir."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185297
+
 ## Citatos
 
 - id: c-185297
@@ -60,20 +74,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201950"></a>
-- t-001
-  teiginys: "Tiesa, Kauno liuteronai kviečiami neatsisakydavo dalyvauti liuteronų ir kalvinų susiėjimuose, kaip antai 1585 m. Kristupo Radvilos Perkūno Vilniuje sukviestame abiejų protestantų tikėjimų teologų pasitarime, kuriuo buvo siekiama suartinti kalvinus ir."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185297
-

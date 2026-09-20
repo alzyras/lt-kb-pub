@@ -1,17 +1,17 @@
 ---
 tipas: daiktas
-pavadinimas: 'Kardas'
+pavadinimas: Kardas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-  - 'Lituanistika-3-Kazimiero-Jogailaicio-dvaras'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Lituanistika-3-Kazimiero-Jogailaicio-dvaras
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1458 m.'
-  - '1917 m.'
-  - '1920 m.'
+  - 1458 m.
+  - 1917 m.
+  - 1920 m.
 date_start: '1458'
 date_end: '1920'
 sukurta: ''
@@ -20,20 +20,30 @@ tags:
   - daiktas
   - ginklas
 amziai:
-  - 'XV'
-  - 'XX'
+  - XV
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Kardas","url":"https://lt.wikipedia.org/wiki/Kardas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T10:31:49+00:00","source_checked_at":"2026-09-19T10:31:49+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Kardas","url":"https://lt.wikipedia.org/wiki/Kardas","publisher":"Vikipedija","language":"lt","article_id":"8371","revision_id":"6765444","published_at":"2022-11-26T11:56:47Z","version_pk":"","content_hash":"65a22f54dcce62ac0ecbf639c2899842da2daeb7546d885ef458e5677c882f25","retrieved_at":"2026-09-19T10:30:37+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Kardas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"8371"}},"intro":"Kardas – ginklas ilga geležte, sudarytas iš geležtės ir rankenos su apsauga. Lietuvių kalboje kardu dažniausiai vadinami tik lenkti kertamieji ir duriamieji ginklai, kokie buvo naudoti Abiejų Tautų Respublikoje. Kardo geležtė paprastai metalinė, su ašmenimis išlenktojoje briaunoje ir su smailiu galu, todėl gali būti naudojama ne tik kaip kertamasis, bet ir kaip duriamasis ginklas. Kardai yra vienarankiai ginklai. Kardai išsivystė iš durklų, kai metalo apdirbimo technologija leido gaminti ilgesnes geležtes – maždaug antro tūkstantmečio pr. m. e. pradžioje. Geležiniai kardai labai paplito, vėliau išradus plieno gamybą, kardus pradėta kalti iš plieno. Kardai senais laikais būdavo pagrindinė kovos jėga mūšyje. Maždaug XVI a. Buvo išrastos špagos. Žmonės kurie kaudavosi špagomis būdavo vadinami dvikovininkais, tačiau dvikovininkai kaudavosi ir kare.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Kardas","url":"https://lt.wikipedia.org/wiki/Kardas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kardas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"935c63c5458efb24c12f5015","canonical_code":"object.purpose","label":"Paskirtis","group":"Naudojimas","value":"Skirtas ulonų, artilerijos ir gurguolės puskarininkiams.","context":"1917 m. modelio lenkiškas kardas; paskirtis nurodyta 1920 m. kontekste.","support_ids":["t-92969","c-88400"],"source_refs":[{"kind":"internal_claim","claim_id":"t-92969","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-88400","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Lenkas, senas karys, irgi ilgai juk neatsiminė, kad turi pistoletą.“ 1917 m. modelio lenkiškas kardas, skirtas ulonų, artilerijos ir gurguolės puskarininkiams 1920 m."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a71d9041d97a6a92
+object_page_generated_at: '2026-09-19T10:31:49+00:00'
+object_page_source_checked_at: '2026-09-19T10:31:49+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Kardas: Višniaveckis jį nu- sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai- sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu…'
+object_page_seo_input_hash: eacdb36a3dfc258e68e2d4f27cb322ed1ce73e5a914df9e07023e206e8ea1a6d
+object_page_seo_generated_at: '2026-09-19T10:31:49+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kardas
 
@@ -63,49 +73,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-202438"></a>
-- t-010
-  teiginys: "Kardai buvo tarp ginklų, kuriais, pasak šaltinio, 1458 m. į Mantują pas popiežių vykusios Kazimiero legacijos ilgaplaukiai blondinai buvo apsiginklavę."
-  atnaujinta: "2026-07-24 14:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-3-Kazimiero-Jogailaicio-dvaras"
-  temporaliniai_duomenys: "įvykio data: 1458 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys sutelktas į kardą ir suformuluotas kaip vientisas faktinis sakinys. Išlaikytas šaltinio aprašomasis pobūdis bei kelionės kontekstas."
-  pagrindžia:
-    - c-185785
-
-<a id="claim-t-214207"></a>
-- t-214207
-  teiginys: "Kardą jie įsmeigdavo į žemę arba ant paaukštinimo rankena aukštyn."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197124
-
-<a id="claim-t-219018"></a>
-- t-219018
-  teiginys: "Mirusįjį, vežamą į laidotuvių vietą, lydi raiti ginkluoti gi minaičiai ir bičiuliai, kurie šalia vežimo, ant kurio guli miru siojo palaikai, tolydžio mosikuoja kardais, čerškina kardą į kar dą ir vis šaukia: „Ei, ei, bėkite, pykuoliai!“ (Gej, gej, begejte."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201460
-
 <a id="claim-t-92967"></a>
-- t-92967
+- t-001
   teiginys: "Seimeliuose plikbajoriai turėjo bajoriškąjį ženklą kardą, kuriuo galėjo paremti savo pono ar užmokėjusio asmens nuomonę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -119,9 +90,9 @@ Nenurodyta
     - c-88398
 
 <a id="claim-t-92968"></a>
-- t-92968
+- t-002
   teiginys: "1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -135,9 +106,9 @@ Nenurodyta
     - c-88402
 
 <a id="claim-t-92969"></a>
-- t-92969
+- t-003
   teiginys: "1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -154,9 +125,9 @@ Nenurodyta
     - c-88400
 
 <a id="claim-t-92970"></a>
-- t-92970
+- t-004
   teiginys: "Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Sibiras: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -170,9 +141,9 @@ Nenurodyta
     - c-88397
 
 <a id="claim-t-92971"></a>
-- t-92971
+- t-005
   teiginys: "Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -186,9 +157,9 @@ Nenurodyta
     - c-88401
 
 <a id="claim-t-92972"></a>
-- t-92972
+- t-006
   teiginys: "Kautynėse po iečių buvo naudojami kirviai, kardai ir kiti ginklai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -202,9 +173,9 @@ Nenurodyta
     - c-88396
 
 <a id="claim-t-92974"></a>
-- t-92974
+- t-007
   teiginys: "Valkininkuose bajorų minia kardais sukapojo Mykolą Sapiegą ir dar du belaisvius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -218,18 +189,18 @@ Nenurodyta
     - c-88404
 
 <a id="claim-t-92975"></a>
-- t-92975
+- t-008
   teiginys: "Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-88399
 
 <a id="claim-t-200940"></a>
-- t-200940
+- t-009
   teiginys: "Susirėmusios šalys pirma vylyčiomis vars tės, paskui baisesniai dar kardomis skardės, kausena buvo didžiai smarki ir maringa."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -238,10 +209,25 @@ Nenurodyta
   pagrindžia:
     - c-184290
 
+<a id="claim-t-202438"></a>
+- t-010
+  teiginys: "Kardai buvo tarp ginklų, kuriais, pasak šaltinio, 1458 m. į Mantują pas popiežių vykusios Kazimiero legacijos ilgaplaukiai blondinai buvo apsiginklavę."
+  atnaujinta: "2026-07-24 14:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-3-Kazimiero-Jogailaicio-dvaras"
+  temporaliniai_duomenys: "įvykio data: 1458 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutelktas į kardą ir suformuluotas kaip vientisas faktinis sakinys. Išlaikytas šaltinio aprašomasis pobūdis bei kelionės kontekstas."
+  pagrindžia:
+    - c-185785
+
 <a id="claim-t-203797"></a>
-- t-203797
+- t-011
   teiginys: "1754 m. Tado Gurskio pagalbininkai kardais ir pistoletais užpuolė misionieriams priklausiusį mūrinį namą, kuriame gyveno Antanas ir Ona Volanskiai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -252,9 +238,9 @@ Nenurodyta
     - c-186401
 
 <a id="claim-t-203798"></a>
-- t-203798
+- t-012
   teiginys: "1721 m. Vladislovas Vaina su bendrininkais užpuolė Jono Kybarto mūrinį namą Vilniuje ir plokščiąja kardų puse mušė šeimininką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -284,8 +270,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-92972
+  pagrindzia:
+    - t-006
 
 - id: c-88397
   redaktorius: "A. Šapoka"
@@ -307,8 +293,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-92970
+  pagrindzia:
+    - t-004
 
 - id: c-88398
   redaktorius: "A. Šapoka"
@@ -329,8 +315,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-92967
+  pagrindzia:
+    - t-001
 
 - id: c-88399
   redaktorius: "A. Šapoka"
@@ -349,8 +335,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-92975
+  pagrindzia:
+    - t-008
 
 - id: c-88400
   sudarytojas: "Karolis Zikaras"
@@ -371,8 +357,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-92969
+  pagrindzia:
+    - t-003
 
 - id: c-88401
   sudarytojas: "Karolis Zikaras"
@@ -390,8 +376,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-92971
+  pagrindzia:
+    - t-005
 
 - id: c-88402
   redaktorius: "A. Šapoka"
@@ -413,8 +399,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-92968
+  pagrindzia:
+    - t-002
 
 - id: c-88404
   redaktorius: "A. Šapoka"
@@ -436,8 +422,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-92974
+  pagrindzia:
+    - t-007
 
 - id: c-184290
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -462,8 +448,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-200940
+  pagrindzia:
+    - t-009
 
 - id: c-185785
   autorius: "Rowell, Stephen Christopher"
@@ -477,12 +463,11 @@ Nenurodyta
     važiavo į Mantują pas popiežių, didelį įspūdį padarė žaliai apsirengę ilgaplaukiai blon­
     dinai su plunksnuotomis kepuraitėmis, apsiginklavę arbaletais, kardais ir strėlinėmis.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-186401
@@ -501,8 +486,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203797
+  pagrindzia:
+    - t-011
 
 - id: c-186402
   autorius: "Domininkas Burba"
@@ -520,45 +505,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203798
-
-- id: c-197124
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 64"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 64."
-  citata_originali: |
-    Jie įsmeigdavo šį kardą į
-    žemę ar į tam tikrą paaukštinimą rankena aukštyn, ir
-    tai buvo savotiškas kryžius; šiam dievybės ar vilties įvaiz­
-    džiui jie lenkėsi iki pat žemės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214207
-
-- id: c-201460
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 362"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 362."
-  citata_originali: |
-    Mirusįjį, vežamą į laidotuvių vietą, lydi raiti ginkluoti gi­
-    minaičiai ir bičiuliai, kurie šalia vežimo, ant kurio guli miru­
-    siojo palaikai, tolydžio mosikuoja kardais, čerškina kardą į kar­
-    dą ir vis šaukia: „Ei, ei, bėkite, pykuoliai!“ (Gej, gej, begejte
-    Pokole!)
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219018
-
+  pagrindzia:
+    - t-012

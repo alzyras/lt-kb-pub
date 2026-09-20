@@ -28,6 +28,20 @@ Leninio tipo feodalizmas Lietuvoje liko neišplėtotas, nes ši socialinė tvark
 
 Leninio tipo feodalizmas Lietuvoje liko neišplėtotas, nes ši socialinė tvarka į Lietuvą atėjo vėlai, o tarptautinė situacija skatino teritorijos konsolidaciją ir ribojo savarankiškų valdžios centrų atsiradimą.
 
+## Teiginiai
+
+<a id="claim-t-204037"></a>
+- t-001
+  teiginys: "Leninio tipo feodalizmas Lietuvoje liko neišplėtotas, nes ši socialinė tvarka į Lietuvą atėjo vėlai, o tarptautinė situacija skatino teritorijos konsolidaciją ir ribojo savarankiškų valdžios centrų atsiradimą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186641
+
 ## Citatos
 
 - id: c-186641
@@ -51,20 +65,5 @@ Leninio tipo feodalizmas Lietuvoje liko neišplėtotas, nes ši socialinė tvark
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204037"></a>
-- t-001
-  teiginys: "Leninio tipo feodalizmas Lietuvoje liko neišplėtotas, nes ši socialinė tvarka į Lietuvą atėjo vėlai, o tarptautinė situacija skatino teritorijos konsolidaciją ir ribojo savarankiškų valdžios centrų atsiradimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  pagrindžia:
-    - c-186641
-

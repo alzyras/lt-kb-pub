@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'A. Korovinas'
+pavadinimas: A. Korovinas
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1897 m.'
+  - 1897 m.
 date_start: '1897'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-1ce0fce37dc4d95bbfd0f008"
-canonical_name: "A. Korovinas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["A. Korovinas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-1ce0fce37dc4d95bbfd0f008
+canonical_name: A. Korovinas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - A. Korovinas
 sameAs: []
-canonical_biography: "Korovino duomenimis, 1897 m. jų buvo apie 20012."
+canonical_biography: 'Korovino duomenimis, 1897 m. jų buvo apie 20012.'
 ---
 # A. Korovinas
 

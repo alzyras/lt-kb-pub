@@ -31,6 +31,56 @@ media_all_json: |-
 
 Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Švč. Bene pirmieji sukruto ir į valdovą kreipėsi Literatų brolijos nariai. Kaip matyti iš 1579 m. Stepono Batoro konfirmacinės privilegijos šiai brolijai, ji dėl liuteronizmo plitimo buvo beveik sunykusi.
 
+## Teiginiai
+
+<a id="claim-t-201840"></a>
+- t-001
+  teiginys: "Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Švč."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185187
+
+<a id="claim-t-201841"></a>
+- t-002
+  teiginys: "Bene pirmieji sukruto ir į valdovą kreipėsi Literatų brolijos nariai."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185188
+
+<a id="claim-t-201842"></a>
+- t-003
+  teiginys: "Kaip matyti iš 1579 m. Stepono Batoro konfirmacinės privilegijos šiai brolijai, ji dėl liuteronizmo plitimo buvo beveik sunykusi."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185189
+
+<a id="claim-t-201843"></a>
+- t-004
+  teiginys: "Savo namus, į kuriuos rinkdavosi bendrauti, turėjo Literatų brolija."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185190
+
 ## Citatos
 
 - id: c-185187
@@ -50,7 +100,7 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185188
@@ -68,7 +118,7 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-185189
@@ -85,7 +135,7 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-185190
@@ -102,56 +152,5 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-## Teiginiai
-
-<a id="claim-t-201840"></a>
-- t-001
-  teiginys: "Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Švč."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185187
-
-<a id="claim-t-201841"></a>
-- t-002
-  teiginys: "Bene pirmieji sukruto ir į valdovą kreipėsi Literatų brolijos nariai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185188
-
-<a id="claim-t-201842"></a>
-- t-003
-  teiginys: "Kaip matyti iš 1579 m. Stepono Batoro konfirmacinės privilegijos šiai brolijai, ji dėl liuteronizmo plitimo buvo beveik sunykusi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185189
-
-<a id="claim-t-201843"></a>
-- t-004
-  teiginys: "Savo namus, į kuriuos rinkdavosi bendrauti, turėjo Literatų brolija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185190
-

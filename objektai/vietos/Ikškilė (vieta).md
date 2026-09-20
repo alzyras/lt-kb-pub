@@ -48,6 +48,37 @@ Tuo metu vyskupystės katedra iš Ikškilės buvo perkelta į Rygą ir prie jos 
 
 Tuo metu vyskupystės katedra iš Ikškilės buvo perkelta į Rygą ir prie jos įkur tas augustinų regulos vienuolynas.
 
+## Teiginiai
+
+<a id="claim-t-205251"></a>
+- t-001
+  teiginys: "Tuo metu vyskupystės katedra iš Ikškilės buvo perkelta į Rygą ir prie jos įkur tas augustinų regulos vienuolynas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1201 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ištaisyta OCR klaida ir išlaikyti abu cituojami instituciniai pokyčiai: katedros perkėlimas bei vienuolyno įkūrimas."
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187751
+
+<a id="claim-t-205770"></a>
+- t-002
+  teiginys: "Karius užklupo žinia apie artėjantį priešą, kuris buvo pasiekęs net Ikškilės tvirtovę."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188385
+
 ## Citatos
 
 - id: c-187751
@@ -63,7 +94,7 @@ Tuo metu vyskupystės katedra iš Ikškilės buvo perkelta į Rygą ir prie jos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188385
@@ -84,37 +115,5 @@ Tuo metu vyskupystės katedra iš Ikškilės buvo perkelta į Rygą ir prie jos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-205251"></a>
-- t-001
-  teiginys: "Tuo metu vyskupystės katedra iš Ikškilės buvo perkelta į Rygą ir prie jos įkur tas augustinų regulos vienuolynas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1201 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Ištaisyta OCR klaida ir išlaikyti abu cituojami instituciniai pokyčiai: katedros perkėlimas bei vienuolyno įkūrimas."
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-187751
-
-<a id="claim-t-205770"></a>
-- t-002
-  teiginys: "Karius užklupo žinia apie artėjantį priešą, kuris buvo pasiekęs net Ikškilės tvirtovę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188385
-

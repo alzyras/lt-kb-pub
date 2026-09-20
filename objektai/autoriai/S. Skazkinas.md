@@ -35,6 +35,20 @@ S. Skazkino požiūriu, ankstyvieji Vidurio Rytų Europos manoriai buvo susiję 
 
 S. Skazkino požiūriu, ankstyvieji Vidurio Rytų Europos manoriai buvo susiję su XV–XVIII a. palivarkais, tačiau jų raida neaiškintina evoliucionistiškai.
 
+## Teiginiai
+
+<a id="claim-t-203653"></a>
+- t-001
+  teiginys: "S. Skazkino požiūriu, ankstyvieji Vidurio Rytų Europos manoriai buvo susiję su XV–XVIII a. palivarkais, tačiau jų raida neaiškintina evoliucionistiškai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186257
+
 ## Citatos
 
 - id: c-186257
@@ -62,20 +76,5 @@ S. Skazkino požiūriu, ankstyvieji Vidurio Rytų Europos manoriai buvo susiję 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203653"></a>
-- t-001
-  teiginys: "S. Skazkino požiūriu, ankstyvieji Vidurio Rytų Europos manoriai buvo susiję su XV–XVIII a. palivarkais, tačiau jų raida neaiškintina evoliucionistiškai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
-  pagrindžia:
-    - c-186257
-

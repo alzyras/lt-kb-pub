@@ -49,28 +49,19 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-67165"></a>
-- t-003
-  teiginys: "Linijinei taktikai reikėjo gana lygios vietovės, nes miškingoje ar raižytoje vietovėje pėstininkams buvo sunku išlaikyti lygiavimą."
-  atnaujinta: "2026-05-31 10:29"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-12410
-
 <a id="claim-t-67163"></a>
-- t-67163
+- t-001
   teiginys: "XVII a. antroji pusė ir visas XVIII a. buvo linijinės taktikos epocha karyboje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12409
 
 <a id="claim-t-67164"></a>
-- t-67164
+- t-002
   teiginys: "Linijinėje taktikoje kariai šaudydavo nesitaikydami, o mažą taiklumą kompensuodavo salvėmis ir kulkų gausa."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Šautuvai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -83,10 +74,19 @@ Nenurodyta
   pagrindžia:
     - c-12413
 
+<a id="claim-t-67165"></a>
+- t-003
+  teiginys: "Linijinei taktikai reikėjo gana lygios vietovės, nes miškingoje ar raižytoje vietovėje pėstininkams buvo sunku išlaikyti lygiavimą."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-12410
+
 <a id="claim-t-67166"></a>
-- t-67166
+- t-004
   teiginys: "Linijinės taktikos puolime ilgos linijos artėdavo prie priešo pozicijų ir efektyvios ugnies nuotolyje derindavo šaudymą su judėjimu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -116,8 +116,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-67163
+  pagrindzia:
+    - t-001
 
 - id: c-12410
   sudarytojas: "Karolis Zikaras"
@@ -132,12 +132,11 @@ Nenurodyta
     linių, kitur - kariai susigrūstų. Į tarpus gali lengvai įsiveržti priešas,
     o susigrūdę kariai trukdytų vieni kitiems šaudyti.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-12411
@@ -162,8 +161,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-67166
+  pagrindzia:
+    - t-004
 
 - id: c-12413
   sudarytojas: "Karolis Zikaras"
@@ -183,6 +182,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-67164
-
+  pagrindzia:
+    - t-002

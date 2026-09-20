@@ -1,14 +1,14 @@
 ---
 tipas: ivykis
-pavadinimas: 'Lietuvos žydų sunaikinimas - Holokaustas'
+pavadinimas: Lietuvos žydų sunaikinimas - Holokaustas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1940 m.'
-  - '1941 m.'
-  - '1943 m.'
-  - '1944 m.'
-  - '1990 m.'
+  - 1940 m.
+  - 1941 m.
+  - 1943 m.
+  - 1944 m.
+  - 1990 m.
 date_start: '1940'
 date_end: '1990'
 sukurta: ''
@@ -18,19 +18,29 @@ tags:
   - karas
   - okupacija
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T07:45:05+00:00","source_checked_at":"2026-09-20T07:45:05+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":["t-75231","t-75234","t-75236","t-75232","t-75235"],"featured_claims":[{"claim_id":"t-75231","text":"1943 m. naciai naikino Lietuvos miestų getus ir vežė Lietuvos žydus į koncentracijos stovyklas Estijoje, Latvijoje ir Lenkijoje.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-73089"]},{"claim_id":"t-75234","text":"Lietuvos žydų sunaikinimas dėl nacių rasinės genocidinės politikos laikomas kruviniausiu Lietuvos XX a. istorijos puslapiu ir didele tragedija.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-23118"]},{"claim_id":"t-75236","text":"1943 m. naciai naikino Lietuvos miestų getus, kasė ir degino nužudytųjų kūnus.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-23117"]},{"claim_id":"t-75232","text":"Nacių „kovos su judobolševizmu“ propaganda susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-73090"]},{"claim_id":"t-75235","text":"Lietuvos žydų Holokaustas buvo viena iš didžiulių Lietuvos patirtų netekčių.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-23114"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"43da9024f7c0aeec469d164c","canonical_code":"event.causes","label":"Priežastys","group":"Įvykio eiga","value":"Nacių „kovos su judobolševizmu“ propaganda susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.","context":"Šaltinio autorių aprašymas apie pirmąją nacių okupacijos savaitę Lietuvoje.","support_ids":["t-75232","c-73090"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75232","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73090","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis. Pirmą nacių okupacijos savaitę daug gy- ventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, ku- rias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai. Tačiau naciai, kitaip negu Vakarų Europoje, masines žydų žudynes pradėjo be 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 199 pereinamojo laikotarpio."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6c7ff3a3507c36d6729faeb7","canonical_code":"event.causes","label":"Priežastys","group":"Įvykio eiga","value":"Lietuvos žydai buvo naikinami dėl nacių rasinės genocidinės politikos.","context":"Šaltinio autorių apibūdinimas apie Lietuvos žydų sunaikinimo priežastį.","support_ids":["t-75234","c-23118"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75234","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-23118","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Dėl nacių rasinės genocidinės politikos Lietuva liko be šimtmečiais gy- venusios spalvingiausios savo etninės dalies – žydų. Niekuo nekaltų žydų sunaikinimas tik dėl to, kad jie buvo žydai – kruviniausias Lietuvos is- torijos XX a. puslapis, daugybės talentingų žmonių praradimas, didžiulė žydų tautos ir visos Lietuvos netektis ir tragedija."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"689943a91d03574abbc32ff1","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Pirmą nacių okupacijos savaitę prasidėjo masinės žydų žudynės, o tūkstančiai žmonių buvo sunaikinti per vadinamąsias „valymo operacijas“.","context":"Šaltinio autorių aprašymas apie įvykių pradžią pirmąją nacių okupacijos savaitę.","support_ids":["t-75232","c-73090"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75232","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73090","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis. Pirmą nacių okupacijos savaitę daug gy- ventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, ku- rias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai. Tačiau naciai, kitaip negu Vakarų Europoje, masines žydų žudynes pradėjo be 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 199 pereinamojo laikotarpio."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4ab8171f51e0e0745fe47d30","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"1943 m. naciai naikino Lietuvos miestų getus, iškasė ir degino nužudytųjų kūnus.","context":"Šaltinio autorių aprašymas apie įvykius karo pabaigoje, 1943 m.","support_ids":["t-75236","c-23117"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75236","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-23117","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"1e10013dba06c3c00a2c9e83","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"11 000 Lietuvos žydų buvo išvežti į Estijoje ir Latvijoje buvusius koncentracijos lagerius, apie 3 500 – į stovyklas Lenkijoje.","context":"Šaltinio autorių pateikti 1943 m. išvežtų Lietuvos žydų skaičiai.","support_ids":["t-75231","c-73089"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75231","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73089","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje, 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 201 apie 8 tūkst."}],"status":"published","conflict_status":"clear"},{"trait_id":"1c9e691b2ba5862b748a067e","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Lietuva liko be šimtmečiais gyvenusios spalvingiausios savo etninės dalies – žydų.","context":"Šaltinio autorių vertinimas apie nacių rasinės genocidinės politikos padarinį.","support_ids":["t-75234","c-23118"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75234","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-23118","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Dėl nacių rasinės genocidinės politikos Lietuva liko be šimtmečiais gy- venusios spalvingiausios savo etninės dalies – žydų. Niekuo nekaltų žydų sunaikinimas tik dėl to, kad jie buvo žydai – kruviniausias Lietuvos is- torijos XX a. puslapis, daugybės talentingų žmonių praradimas, didžiulė žydų tautos ir visos Lietuvos netektis ir tragedija."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"82b21bda91cfa0d5dec4f8d6","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Šaltinio autoriai Lietuvos žydų sunaikinimą apibūdina kaip kruviniausią Lietuvos XX a. istorijos puslapį, didelę žydų tautos ir visos Lietuvos netektį bei tragediją.","context":"Šaltinio autorių vertinimas apie Lietuvos žydų sunaikinimo reikšmę.","support_ids":["t-75234","c-23118"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75234","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-23118","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Dėl nacių rasinės genocidinės politikos Lietuva liko be šimtmečiais gy- venusios spalvingiausios savo etninės dalies – žydų. Niekuo nekaltų žydų sunaikinimas tik dėl to, kad jie buvo žydai – kruviniausias Lietuvos is- torijos XX a. puslapis, daugybės talentingų žmonių praradimas, didžiulė žydų tautos ir visos Lietuvos netektis ir tragedija."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"413bcd4b9c3505da73cd43c0","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Lietuvos žydų Holokaustas įvardijamas kaip viena iš didžiulių Lietuvos patirtų netekčių.","context":"Šaltinio autorių apibendrinimas apie Lietuvos XX a. patirtas netektis.","support_ids":["t-75235","c-23114"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75235","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-23114","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su- gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši- nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953), o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Lietuvos žydų sunaikinimas – Holokaustas yra nacių rasinės genocidinės politikos nulemtas Lietuvos žydų naikinimo procesas. Jo pradžią lydėjo nacių „kovos su judobolševizmu“ propaganda, susipynusi su stipriomis lietuvių antisovietinėmis nuotaikomis; dėl to dalis žydų buvo persekiojami kaip tariami komunistai ar sovietų aktyvistai, o keli tūkstančiai sunaikinti per vadinamąsias „valymo operacijas“. 1943 m. naciai naikino Lietuvos miestų getus, kasė ir degino nužudytųjų kūnus, o 11 000 Lietuvos žydų išvežė į Estijoje ir Latvijoje veikusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje. Šis sunaikinimas laikomas kruviniausiu XX a. Lietuvos istorijos puslapiu, didžiule žydų tautos ir visos Lietuvos netektimi bei viena iš didžiųjų Lietuvos patirtų tragedijų.","sentences":[{"sentence_id":"s1","text":"Lietuvos žydų sunaikinimas – Holokaustas yra nacių rasinės genocidinės politikos nulemtas Lietuvos žydų naikinimo procesas.","support_ids":["t-75234","c-23118"]},{"sentence_id":"s2","text":"Jo pradžią lydėjo nacių „kovos su judobolševizmu“ propaganda, susipynusi su stipriomis lietuvių antisovietinėmis nuotaikomis; dėl to dalis žydų buvo persekiojami kaip tariami komunistai ar sovietų aktyvistai, o keli tūkstančiai sunaikinti per vadinamąsias „valymo operacijas“.","support_ids":["t-75232","c-73090"]},{"sentence_id":"s3","text":"1943 m. naciai naikino Lietuvos miestų getus, kasė ir degino nužudytųjų kūnus, o 11 000 Lietuvos žydų išvežė į Estijoje ir Latvijoje veikusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje.","support_ids":["t-75231","c-73089","t-75236","c-23117"]},{"sentence_id":"s4","text":"Šis sunaikinimas laikomas kruviniausiu XX a. Lietuvos istorijos puslapiu, didžiule žydų tautos ir visos Lietuvos netektimi bei viena iš didžiųjų Lietuvos patirtų tragedijų.","support_ids":["t-75234","c-23118","t-75235","c-23114"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta t-75234 ir c-23118: sunaikinimas siejamas su nacių rasine genocidine politika."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta t-75232 ir c-73090: nurodyta propaganda, antisovietinės nuotaikos, žydų persekiojimas bei sunaikinimas per „valymo operacijas“."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta t-75231, t-75236, c-73089 ir c-23117: patvirtinti getų naikinimas, kūnų iškasimas ir deginimas bei nurodyti išvežtųjų skaičiai ir kryptys."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta t-75234, t-75235, c-23118 ir c-23114: sunaikinimas įvardijamas kruviniausiu XX a. Lietuvos istorijos puslapiu, didele žydų tautos ir Lietuvos netektimi bei tragedija."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-75234","c-23118"]},{"sentence_id":"s2","supported":true,"support_ids":["t-75232","c-73090"]},{"sentence_id":"s3","supported":true,"support_ids":["t-75231","c-73089","t-75236","c-23117"]},{"sentence_id":"s4","supported":true,"support_ids":["t-75234","c-23118","t-75235","c-23114"]}],"verifier":"gpt-5.6-luna"},"quality":55,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: bfa838c3d0403054
+object_page_generated_at: '2026-09-20T07:45:05+00:00'
+object_page_source_checked_at: '2026-09-20T07:45:05+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Lietuvos žydų sunaikinimas - Holokaustas: Lietuvos žydų sunaikinimas – Holokaustas yra nacių rasinės genocidinės politikos nulemtas Lietuvos žydų naikinimo…'
+object_page_seo_input_hash: c2084feb328c573a06ab282952596b0f62e2502b85cf166933d6c972af52fcf0
+object_page_seo_generated_at: '2026-09-20T07:45:05+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Lietuvos žydų sunaikinimas - Holokaustas
 
@@ -56,6 +66,78 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75231"></a>
+- t-001
+  teiginys: "1943 m. naciai naikino Lietuvos miestų getus ir vežė Lietuvos žydus į koncentracijos stovyklas Estijoje, Latvijoje ir Lenkijoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Estija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos žydų sunaikinimas - Holokaustas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Estija: mention_match, place, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos žydų sunaikinimas - Holokaustas\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1943 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, todėl perrašytas į pilną sakinį."
+  pagrindžia:
+    - c-73089
+
+<a id="claim-t-75232"></a>
+- t-002
+  teiginys: "Nacių „kovos su judobolševizmu“ propaganda susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos žydų sunaikinimas - Holokaustas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos žydų sunaikinimas - Holokaustas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
+  pagrindžia:
+    - c-73090
+
+<a id="claim-t-75233"></a>
+- t-003
+  teiginys: "Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Šiauliai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos žydų sunaikinimas - Holokaustas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Šiauliai: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos žydų sunaikinimas - Holokaustas\" parinktas kaip owner_note_path. Targetas \"Šiauliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  pagrindžia:
+    - c-23116
+
+<a id="claim-t-75234"></a>
+- t-004
+  teiginys: "Lietuvos žydų sunaikinimas dėl nacių rasinės genocidinės politikos laikomas kruviniausiu Lietuvos XX a. istorijos puslapiu ir didele tragedija."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos žydų sunaikinimas - Holokaustas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos žydų sunaikinimas - Holokaustas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  pagrindžia:
+    - c-23118
+
 <a id="claim-t-75235"></a>
 - t-005
   teiginys: "Lietuvos žydų Holokaustas buvo viena iš didžiulių Lietuvos patirtų netekčių."
@@ -74,82 +156,10 @@ Nenurodyta
   pagrindžia:
     - c-23114
 
-<a id="claim-t-75231"></a>
-- t-75231
-  teiginys: "1943 m. naciai naikino Lietuvos miestų getus ir vežė Lietuvos žydus į koncentracijos stovyklas Estijoje, Latvijoje ir Lenkijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Estija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos žydų sunaikinimas - Holokaustas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Estija: mention_match, place, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos žydų sunaikinimas - Holokaustas\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1943 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, todėl perrašytas į pilną sakinį."
-  pagrindžia:
-    - c-73089
-
-<a id="claim-t-75232"></a>
-- t-75232
-  teiginys: "Nacių „kovos su judobolševizmu“ propaganda susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos žydų sunaikinimas - Holokaustas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos žydų sunaikinimas - Holokaustas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  pagrindžia:
-    - c-73090
-
-<a id="claim-t-75233"></a>
-- t-75233
-  teiginys: "Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šiauliai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos žydų sunaikinimas - Holokaustas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Šiauliai: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos žydų sunaikinimas - Holokaustas\" parinktas kaip owner_note_path. Targetas \"Šiauliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1941 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  pagrindžia:
-    - c-23116
-
-<a id="claim-t-75234"></a>
-- t-75234
-  teiginys: "Lietuvos žydų sunaikinimas dėl nacių rasinės genocidinės politikos laikomas kruviniausiu Lietuvos XX a. istorijos puslapiu ir didele tragedija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos žydų sunaikinimas - Holokaustas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos žydų sunaikinimas - Holokaustas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-23118
-
 <a id="claim-t-75236"></a>
-- t-75236
+- t-006
   teiginys: "1943 m. naciai naikino Lietuvos miestų getus, kasė ir degino nužudytųjų kūnus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -182,12 +192,11 @@ Nenurodyta
     o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
   citata_rodoma: "Tačiau pergyvenusi\ndidžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos\nvykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-\ngebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-\nnimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),\no tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-23116
@@ -207,8 +216,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75233
+  pagrindzia:
+    - t-003
 
 - id: c-23117
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -226,8 +235,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75236
+  pagrindzia:
+    - t-006
 
 - id: c-23118
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -249,8 +258,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75234
+  pagrindzia:
+    - t-004
 
 - id: c-73089
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -270,8 +279,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75231
+  pagrindzia:
+    - t-001
 
 - id: c-73090
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -296,6 +305,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75232
-
+  pagrindzia:
+    - t-002

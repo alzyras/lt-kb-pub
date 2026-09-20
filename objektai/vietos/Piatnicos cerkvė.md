@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Piatnicos cerkvė'
+pavadinimas: Piatnicos cerkvė
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-13c9687dc6d894c3759309ca"
-canonical_name: "Piatnicos cerkvė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Piatnicos cerkvė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-13c9687dc6d894c3759309ca
+canonical_name: Piatnicos cerkvė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Piatnicos cerkvė
 sameAs: []
-canonical_biography: "Narbuto teiginiai, kad žemaičiai „vandens mergeles“ va dino gudelkomis, vaivorykštę - Linksminę, žinios „apie kaž kokį lietuvių Bakchą, jo garbintojus ir jo šventyklą, buvusią Vilniuje“, Piatnicos cerkvės vietoje34, ir 1.1., ir 1.1."
+canonical_biography: 'Narbuto teiginiai, kad žemaičiai „vandens mergeles“ va dino gudelkomis, vaivorykštę - Linksminę, žinios „apie kaž kokį lietuvių Bakchą, jo garbintojus ir jo šventyklą, buvusią Vilniuje“, Piatnicos cerkvės vietoje34, ir 1.1., ir 1.1.'
 ---
 # Piatnicos cerkvė
 
@@ -68,6 +67,5 @@ Narbuto teiginiai, kad žemaičiai „vandens mergeles“ va dino gudelkomis, va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -32,6 +32,27 @@ media_all_json: |-
 
 Dusburgietis teigia, kad rymut K., Nazwy miast Polski.— Wrocław—Warszawa—Kraków—Gdańsk, 1980.
 
+## Teiginiai
+
+<a id="claim-t-61277"></a>
+- t-001
+  teiginys: "K. Rymuto „Nazwy miast Polski“ buvo išleista 1980 m., leidimo vietomis nurodant Wrocławą, Varšuvą, Krokuvą ir Gdanską."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rymut K., Nazwy miast Polski: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=99"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rymut K., Nazwy miast Polski\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1980 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia visą bibliografinį įrašą su leidimo vietomis ir metais."
+  pagrindžia:
+    - c-61909
+
 ## Citatos
 
 - id: c-61909
@@ -46,41 +67,5 @@ Dusburgietis teigia, kad rymut K., Nazwy miast Polski.— Wrocław—Warszawa—
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202960
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
-  citata_originali: |
-    Rymut K., Nazwy miast Polski.— Wrocław—Warszawa—Kraków—Gdańsk, 1980.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-221887"></a>
-- t-001
-  teiginys: "K. Rymuto „Nazwy miast Polski“ buvo išleista 1980 m., leidimo vietomis nurodant Wrocławą, Varšuvą, Krokuvą ir Gdanską."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rymut K., Nazwy miast Polski: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=99"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rymut K., Nazwy miast Polski\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1980 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia visą bibliografinį įrašą su leidimo vietomis ir metais."
-  pagrindžia:
-    - c-202960
-

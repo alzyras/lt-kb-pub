@@ -42,6 +42,48 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-189843"></a>
+- t-001
+  teiginys: "Narbutas priesaiką priskyrė aukoms, nes ją laikė geranoriška paties žmogaus sąžinės auka."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Antikos žmonės: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių priesaikos formulės ir užkeikimai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Antikos žmonės: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių priesaikos formulės ir užkeikimai\" parinktas kaip owner_note_path. Targetas \"Antikos žmonės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172726
+
+<a id="claim-t-189844"></a>
+- t-002
+  teiginys: "Narbutas lietuvių priesaikas lygino su antikos priesaikomis ir nurodė formules „dėl Dievo“ bei „Kad aš skradžiai prapultau“."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Antikos žmonės: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių priesaikos formulės ir užkeikimai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Antikos žmonės: mention_match, thing, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių priesaikos formulės ir užkeikimai\" parinktas kaip owner_note_path. Targetas \"Antikos žmonės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172727
+
 ## Citatos
 
 - id: c-172726
@@ -67,6 +109,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-172727
   autorius: "Teodoras Narbutas"
@@ -92,54 +136,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197994
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 320"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
-  citata_originali: |
-    Antikos žmonės duodavo dvejopas
-    priesaikas: vienokią paprastą, kai būdavo prisiekiama kokiam
-    galingam ir kerštingam dievui: Me Hercule, MeJove, tegu Her­
-    kų lis, Jupiteris bus man maloningas; kitokią su užkeikimu,
-    kreipdamiesi į Stikso vandenis, į pragarą ir kitas mitines pa­
-    baisas arba į Cezario gyvybę, į jo barzdą, kadangi jo pyktis
-    būdavo toks pat baisus kaip ir anų.
-    Lietuviai savo priesaikas duodavo visai panašiai: visi saky­
-    davo (tai ir dabar yra kaimiečių paprotys) „dėl Dievo“ (Dali
-    lkw u), taip pat: Kad man Periamas sumusztu; tai reiškė šaukti
-    dievus būti liudytojais. Priesaikos su užkeikimu taip pat dar
-    tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
-    (Kad až skradziuprapoltu).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-220033"></a>
-- t-001
-  teiginys: "Narbutas lietuvių priesaikas lygino su antikos priesaikomis ir nurodė formules „dėl Dievo“ bei „Kad aš skradžiai prapultau“."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Antikos žmonės: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių priesaikos formulės ir užkeikimai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antikos žmonės: mention_match, thing, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių priesaikos formulės ir užkeikimai\" parinktas kaip owner_note_path. Targetas \"Antikos žmonės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-197994
-
+  pagrindzia:
+    - t-002

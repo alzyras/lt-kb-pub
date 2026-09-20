@@ -27,6 +27,21 @@ media_all_json: |-
 
 Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir seminarijoje, kur iki tol buvo lenkiškai dėstoma homiletika (pamokslų mokslas); dabar buvo įsakyta ją dėstyti rusiškai arba lietuviškai. Nuo to laiko profesorius (vėliau Seinų vyskupas) Antanas Baranauskas čia ėmė dėstyti lietuviškai lietuvių kalbą ir homiletiką.
 
+## Teiginiai
+
+<a id="claim-t-193286"></a>
+- t-001
+  teiginys: "Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir seminarijoje, kur iki tol buvo lenkiškai dėstoma homiletika (pamokslų mokslas); dabar buvo įsakyta ją dėstyti rusiškai arba lietuviškai."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-176015
+
 ## Citatos
 
 - id: c-176015
@@ -51,21 +66,5 @@ Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir semi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193286"></a>
-- t-001
-  teiginys: "Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir seminarijoje, kur iki tol buvo lenkiškai dėstoma homiletika (pamokslų mokslas); dabar buvo įsakyta ją dėstyti rusiškai arba lietuviškai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-176015
-

@@ -42,6 +42,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205998"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojime Treniota, žygiuodamas į Mazoviją, užėmė Oršimovo pilį ir įsakė išžudyti visus jos vyrus."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188613
+
 ## Santrauka
 
 Teodoro Narbuto pasakojime Treniota, žygiuodamas į Mazoviją, užėmė Oršimovo pilį ir įsakė išžudyti visus jos vyrus.
@@ -65,21 +80,5 @@ Teodoro Narbuto pasakojime Treniota, žygiuodamas į Mazoviją, užėmė Oršimo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205998"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojime Treniota, žygiuodamas į Mazoviją, užėmė Oršimovo pilį ir įsakė išžudyti visus jos vyrus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188613
-

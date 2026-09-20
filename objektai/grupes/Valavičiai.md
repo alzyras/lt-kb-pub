@@ -27,6 +27,20 @@ media_all_json: |-
 
 giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai, Oginskiai ir kt.
 
+## Teiginiai
+
+<a id="claim-t-204127"></a>
+- t-001
+  teiginys: "Po Mikalojaus Radvilos Rudojo mirties Valavičiai buvo tarp svarbių LDK giminių, toliau išlaikiusių didžiojo LDK medžioklio pareigybę."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186729
+
 ## Citatos
 
 - id: c-22791
@@ -48,9 +62,6 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - id: c-186729
   autorius: "Toma Zarankaitė"
   šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
@@ -70,36 +81,5 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-20056"></a>
-- t-001
-  teiginys: "XVI a. Valavičiai buvo priskirti prie įtakingų rusėnų giminių, laikiusių save LDK piliečiais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valavičiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Rusėnai: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valavičiai\" parinktas kaip owner_note_path. Targetas \"Rusėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-22791
-
-<a id="claim-t-204127"></a>
-- t-002
-  teiginys: "Po Mikalojaus Radvilos Rudojo mirties Valavičiai buvo tarp svarbių LDK giminių, toliau išlaikiusių didžiojo LDK medžioklio pareigybę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  pagrindžia:
-    - c-186729
-
+  pagrindzia:
+    - t-001

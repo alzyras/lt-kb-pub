@@ -45,46 +45,62 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
 
 ## Teiginiai
 
-<a id="claim-t-216614"></a>
-- t-216614
-  teiginys: "Narbuto darbas paskatino Kraševskį beveik dešimtmetį studijuoti Lietuvos praeitį."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-190034"></a>
+- t-001
+  teiginys: "Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbuto „Lietuvių mitologiją“, paskelbta „Tygodnik Petersburski“."
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kraševskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozapas Ignotas Kraševskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Ignotas Kraševskis\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-200115
+    - c-172917
 
-<a id="claim-t-217199"></a>
-- t-217199
-  teiginys: "Kraševskio santykiams (nors, jeigu tikėsime pir muoju, jie niekuomet nebuvo asmeniškai pažįstami)."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-190035"></a>
+- t-002
+  teiginys: "Anot Kraševskio, mirusįjį palietę žmonės lietuvių laidojimo papročiuose tapdavo „nešvarūs“."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Juostos: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozapas Ignotas Kraševskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Juostos: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Ignotas Kraševskis\" parinktas kaip owner_note_path. Targetas \"Juostos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-197857
+    - c-172918
 
-<a id="claim-t-216606"></a>
-- t-216606
+<a id="claim-t-197408"></a>
+- t-003
   teiginys: "Juozapas Ignotas Kraševskis nori tvirtinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai didelis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas, taip pat skambėjo įvairiuose to krašto padavimuose."
-  atnaujinta: "2026-09-12 23:46"
+  atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-201161
+    - c-172917
 
 <a id="claim-t-206306"></a>
-- t-206306
+- t-004
   teiginys: "Teodoras Narbutas pažymi, kad Juozapas Ignotas Kraševskis, pats patyręs istoriko darbo skonį, negalėjo nuslėpti nuostabos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -122,6 +138,9 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-003
 
 - id: c-172918
   autorius: "Teodoras Narbutas"
@@ -142,6 +161,8 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-188921
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -157,73 +178,5 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206306
-
-- id: c-197857
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 59"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 59."
-  citata_originali: |
-    Ga­
-    lima spėti, kad būtent ši recenzija davė pradžią šaltiems T. Nar­
-    buto ir J. I. Kraševskio santykiams (nors, jeigu tikėsime pir­
-    muoju, jie niekuomet nebuvo asmeniškai pažįstami).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217199
-
-- id: c-200115
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 10"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 10."
-  citata_originali: |
-    Bet T. Narbuto istorijos pasirodymas
-    paskatino patį J. I. Kraševskį beveik dešimtmetį paskirti nuo­
-    dugnioms Lietuvos praeities studijoms.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216614
-
-- id: c-201161
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 55"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 55."
-  citata_originali: |
-    Kaip ir įprasta kiekvie­
-    nam tokio pobūdžio rašiniui, recenzentas iš pradžių nurodė
-    teigiamąsias „Mitologijos“ puses: „Nors autorius ir ne vienas
-    pats stojo Lietuvos istorijos tyrinėjimų srityje (kaip jis nori tvir­
-    tinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus
-    Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę
-    jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai dide­
-    lis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios
-    buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas,
-    taip pat skambėjo įvairiuose to krašto padavimuose. Jau vien
-    dėl šios priežasties jo darbas tapo reikšminga medžiaga, kad
-    kada nors būtų parašyta tikra (pabr. mano - R. G.) Lietuvos
-    istorija“20. Recenzento nuomone, T. Narbuto „Lietuvių mito­
-    18 Dzieje starožytne narodu Litewskiego przez Teodora Narbut-
-    ta.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216606
-
+  pagrindzia:
+    - t-004

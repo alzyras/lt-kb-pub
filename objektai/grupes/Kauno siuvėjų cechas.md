@@ -32,6 +32,32 @@ media_all_json: |-
 
 Štai 1553 m. magistratas nurodė siuvėjų pameistriams klausyti savųjų meistrų. Štai 1560 m. Kauno siuvėjai pasirūpino gauti iš Vilniaus siuvėjų cecho laišką su išdėstytais pastarųjų cecho nuostatais.
 
+## Teiginiai
+
+<a id="claim-t-201866"></a>
+- t-001
+  teiginys: "Štai 1553 m. magistratas nurodė siuvėjų pameistriams klausyti savųjų meistrų."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185213
+
+<a id="claim-t-201867"></a>
+- t-002
+  teiginys: "Štai 1560 m. Kauno siuvėjai pasirūpino gauti iš Vilniaus siuvėjų cecho laišką su išdėstytais pastarųjų cecho nuostatais."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185214
+
 ## Citatos
 
 - id: c-185213
@@ -49,7 +75,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185214
@@ -65,32 +91,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201866"></a>
-- t-001
-  teiginys: "Štai 1553 m. magistratas nurodė siuvėjų pameistriams klausyti savųjų meistrų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185213
-
-<a id="claim-t-201867"></a>
-- t-002
-  teiginys: "Štai 1560 m. Kauno siuvėjai pasirūpino gauti iš Vilniaus siuvėjų cecho laišką su išdėstytais pastarųjų cecho nuostatais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185214
-

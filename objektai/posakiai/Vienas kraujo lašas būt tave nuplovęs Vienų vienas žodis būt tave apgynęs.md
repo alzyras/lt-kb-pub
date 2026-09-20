@@ -35,6 +35,39 @@ media_all_json: |-
 
 Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“, ir kažkodėl niekas nekreipia dėmesio į tai, kad 1940 m. “ Užmirštama mintimis pereiti ir į kitą Aisčio eilutę - „Vienų vienas žodis būt tave apgynęs“.
 
+## Teiginiai
+
+<a id="claim-t-41468"></a>
+- t-001
+  teiginys: "Poeto Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 metų įvykių vertinimu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1792 m.; įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja Aisčio eilutę su 1940 m. įvykių vertinimu."
+  pagrindžia:
+    - c-44965
+
+<a id="claim-t-41469"></a>
+- t-002
+  teiginys: "Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ aiškina kaip priminimą apie protestų ir Vyriausybės pasitraukimo galimybę 1940 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia interpretaciją, bet ją reikia aiškiai atribuoti ir patikslinti pasipriešinimo formas."
+  pagrindžia:
+    - c-44964
+
 ## Citatos
 
 - id: c-44964
@@ -61,7 +94,7 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-44965
@@ -84,39 +117,5 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-41468"></a>
-- t-001
-  teiginys: "Poeto Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 metų įvykių vertinimu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1792 m.; įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja Aisčio eilutę su 1940 m. įvykių vertinimu."
-  pagrindžia:
-    - c-44965
-
-<a id="claim-t-41469"></a>
-- t-002
-  teiginys: "Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ aiškina kaip priminimą apie protestų ir Vyriausybės pasitraukimo galimybę 1940 m."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia interpretaciją, bet ją reikia aiškiai atribuoti ir patikslinti pasipriešinimo formas."
-  pagrindžia:
-    - c-44964
-

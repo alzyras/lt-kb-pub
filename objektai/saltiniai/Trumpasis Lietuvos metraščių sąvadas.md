@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'Trumpasis Lietuvos metraščių sąvadas'
+pavadinimas: Trumpasis Lietuvos metraščių sąvadas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1377 m.'
-  - '1446 m.'
+  - 1377 m.
+  - 1446 m.
 date_start: '1377'
 date_end: '1446'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
-  - 'XV'
+  - XIV
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Trumpasis Lietuvos metraščių sąvadas
 
@@ -70,6 +67,5 @@ Trumpajame sąvade, sudarytame apie 1446 m., nuo sekliau ir išsamiau nušvieči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

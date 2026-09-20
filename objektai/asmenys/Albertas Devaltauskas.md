@@ -40,6 +40,20 @@ canonical_biography: "Pirmasis Kauno pakamaris Albertas Devaltauskas (Deltuvišk
 
 Pirmasis Kauno pakamaris Albertas Devaltauskas (Deltuviškis) šias teisėjo pareigas ėjo 1566-1581 m. Jo įpėdiniai buvo: 1581-1599 m.
 
+## Teiginiai
+
+<a id="claim-t-202155"></a>
+- t-001
+  teiginys: "Pirmasis Kauno pakamaris Albertas Devaltauskas (Deltuviškis) šias teisėjo pareigas ėjo 1566-1581 m. Jo įpėdiniai buvo: 1581-1599 m."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185502
+
 ## Citatos
 
 - id: c-185502
@@ -55,20 +69,5 @@ Pirmasis Kauno pakamaris Albertas Devaltauskas (Deltuviškis) šias teisėjo par
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202155"></a>
-- t-001
-  teiginys: "Pirmasis Kauno pakamaris Albertas Devaltauskas (Deltuviškis) šias teisėjo pareigas ėjo 1566-1581 m. Jo įpėdiniai buvo: 1581-1599 m."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185502
-

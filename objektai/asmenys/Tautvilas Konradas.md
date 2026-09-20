@@ -1,38 +1,37 @@
 ---
 tipas: asmuo
-pavadinimas: 'Tautvilas Konradas'
+pavadinimas: Tautvilas Konradas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1352 m.'
-  - '1390 m.'
+  - 1352 m.
+  - 1390 m.
 date_start: '1352'
 date_end: '1390'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9492f86d7f29269ce5d86bec"
-canonical_name: "Tautvilas Konradas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Tautvilas Konradas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9492f86d7f29269ce5d86bec
+canonical_name: Tautvilas Konradas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Tautvilas Konradas
 sameAs: []
-canonical_biography: "Tautvilas Konradas buvo Kęstučio sūnus ir Vytauto bei Žygimanto brolis."
+canonical_biography: Tautvilas Konradas buvo Kęstučio sūnus ir Vytauto bei Žygimanto brolis.
 ---
 # Tautvilas Konradas
 
@@ -75,6 +74,5 @@ Tautvilas Konradas buvo Kęstučio sūnus ir Vytauto bei Žygimanto brolis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

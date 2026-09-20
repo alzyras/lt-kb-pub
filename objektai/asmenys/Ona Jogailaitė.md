@@ -1,10 +1,10 @@
 ---
 tipas: asmuo
-pavadinimas: 'Ona Jogailaitė'
+pavadinimas: Ona Jogailaitė
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1571 m.'
+  - 1571 m.
 date_start: '1571'
 date_end: ''
 sukurta: ''
@@ -13,28 +13,43 @@ tags:
   - karalienė
   - asmuo
 amziai:
-  - 'XVI'
+  - XVI
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a0f4c21496bc869f52a57ee5"
-canonical_name: "Ona Jogailaitė"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["jos didenybė karalaitė Ona","karalaitė Ona","Ona","Ona Jogailaitė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a0f4c21496bc869f52a57ee5
+canonical_name: Ona Jogailaitė
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - jos didenybė karalaitė Ona
+  - karalaitė Ona
+  - Ona
+  - Ona Jogailaitė
 sameAs: []
-canonical_biography: "Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena iš paveldėtojų ir iki tol neištekėjusi sesuo. Jai skiriamos valdos, piniginės sumos, brangenybės, drabužiai ir praktinės pareigos dėl Šv. Onos bažnyčios, prieglaudos bei laiškų sunaikinimo."
+canonical_biography: 'Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena iš paveldėtojų ir iki tol neištekėjusi sesuo. Jai skiriamos valdos, piniginės sumos, brangenybės, drabužiai ir praktinės pareigos dėl Šv. Onos bažnyčios, prieglaudos bei laiškų sunaikinimo.'
+external_sources_json: '[{"title":"Ona Jogailaitė","url":"https://lt.wikipedia.org/wiki/Ona_Jogailait%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Ona Jogailaitė","url":"https://www.vle.lt/straipsnis/ona-jogailaite/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:53:47+00:00","source_checked_at":"2026-09-19T21:53:47+00:00","counts":{"relations":2,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Ona Jogailaitė","url":"https://lt.wikipedia.org/wiki/Ona_Jogailait%C4%97","publisher":"Vikipedija","language":"lt","article_id":"80881","revision_id":"7722086","published_at":"2025-12-25T10:05:25Z","version_pk":"","content_hash":"6f5980e05ba6ab6c9bfb2669ca39fcbda590c40cb35fe2731179d3efe9565dab","retrieved_at":"2026-09-19T21:52:03+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Ona_Jogailait%C4%97&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"80881"}},"intro":"Ona Jogailaitė (lenk. Anna Jagiellonka, 1523 m. spalio 18 d. – 1596 m. rugsėjo 9 d.) – Lenkijos karalienė ir Lietuvos didžioji kunigaikštienė. Lietuvos didžiojo kunigaikščio ir Lenkijos karaliaus Žygimanto Augusto sesuo, Stepono Batoro žmona.","original_intro":"","translation_status":"native","infobox":[{"code":"positions","label":"Pareigos","value":"Lenkijos karalienė ir Lietuvos didžioji kunigaikštienė; left|35pxLenkijos karalienė ir Lietuvos didžioji kunigaikštienė","source":"wikipedia_infobox"},{"code":"birth_date","label":"Gimė","value":"~1523 m. spalio 18 d.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Krokuva","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1596 m. spalio 9 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Varšuva","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Vavelio katedra","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Žygimantas Senasis; Bona Sforza","source":"wikipedia_infobox"},{"code":"spouse","label":"Sutuoktiniai","value":"Steponas Batoras","source":"wikipedia_infobox"},{"code":"reign","label":"Valdymas","value":"1574 m. - 1587 m.","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Ona Jogailaitė","url":"https://lt.wikipedia.org/wiki/Ona_Jogailait%C4%97","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Ona Jogailaitė","url":"https://www.vle.lt/straipsnis/ona-jogailaite/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Ona_Jogailait%C4%97","https://www.vle.lt/straipsnis/ona-jogailaite/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f5a16bfcfefa70160f4a0925","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Testamente paskelbta viena iš valdų, dvarų ir kito judamojo bei nekilnojamojo turto paveldėtojų.","context":"Michał Baliński veikale cituojamas testamentas; testamento autoriaus sprendimas dėl paveldėjimo.","support_ids":["t-54979","c-55524"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54979","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55524","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"VILNIAUS MIESTO ISTORIJA II TOMAS darbams naudotų. Tad šių, mūsų valdų, ir dvarų, taip pat ir kito judamo ir nejudamo turto, kurį turime ir valdome, bet kokia teise mums priklausančio ir bet kokiu besivadi­ nančio, darome, skelbiame paveldėtojomis karalaites: jos di­ denybę Kotryną, Švedijos karalienę, jos didenybę karalaitę Sofiją, Braunsbergo kunigaikštienę, jos didenybę Oną, dar iki šiol tebemergaujančią, šiuos visus dvarus lygiomis dali­ mis jų didenybėms duodame, dovanojame ir paskiriame bet kurioje valstybėje arba paviete esančius ir bet kur saugoja­ mus su visa valstybinės nuosavybės teise, kaip juos patys turėjome ir valdėme, turime ir valdome. O už tai jų dideny­ bes įpareigojame…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2530c8978845c7fe03a42359","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Jei pasiliktų Lenkijoje, jai buvo pavesta prisidėti prie testamento valios vykdymo ir Šv. Onos bažnyčios užbaigimo.","context":"Michał Baliński veikale cituojamas testamentas; testamento autoriai ją prašo tai atlikti ateityje, jei ji pasiliktų valstybėse.","support_ids":["t-54984","c-55528"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54984","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55528","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Kad klebonija ir mansionieriai būtų aprūpinti gera ir garbinga fundacija, kad būtų jiems pastatytas namas ir kad visa tai būtų įgyvendin­ ta, kaip aukščiau ir žemiau savo valią pareiškėme, turi būti padaryta, dėl to jų didenybes mūsų seseris arba tuos, kurie valdys Respubliką, įpareigojame sąžine, garbe ir tikėjimu. O ypač jos didenybę karalaitę Oną, jeigu čia, mūsų valsty­ bėse, pasiliktų, prašome, kad jos didenybė visu tuo su aukš­ čiau paminėtais vykdytojais pati uoliai prisidėtų ir kad mū­ sų valią įgyvendinti stengtųsi, ypač kad toji Šv. Onos bažnyčia būtų užbaigta ir Dievo tarnai prie jos pakankamai apdova­ noti ir aprūpinti būtų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d311e9f38e11fec615cf1e16","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Jei pasiliktų Lenkijoje, jai buvo paliktos skirtos valdos, žemės ir pinigų sumos.","context":"Michał Baliński veikale cituojamas testamentas; nurodymas taikomas Onai, pasilikusiai Lenkijoje.","support_ids":["t-82639","c-79102"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82639","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-79102","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Taip pat tikėjimu ir garbe prisaikdina­ me visus mūsų pareigūnus, kurie tuos reikalus tvarkys kaip mūsų tarnai, kai to teks imtis, kad ištikimai, kaip doriems žmonėms pridera, saugotų tuos daiktus ir niekam kitam ne­ duotų, tik pagal šį paskyrimą ir mūsų valią. Ir ypač, kad jos didenybė karalaitė Ona, pasilikusi čia, Lenkijoje, liktų su jai skirtomis valdomis, žemėmis ir pinigų sumomis, nors pa­ sitikėdami savo pavaldinių, garbingų žmonių, dorumu, ne­ bijome dėl to, kad, mokant kraitį, ji galėtų netekti tų išmo­ kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas. Vis dėlto, jeigu Viešpatį Dievą ir šventą teisingumą užmiršęs ar mū­ sų įpėdinis, ar kas kitas jos didenybę karalaitę Oną po mū­…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e52c9183416af62b9e4e8b9a","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Testamente jai palikta spręsti dėl Šv. Onos bažnyčios užbaigimo ir nurodyta jos akivaizdoje neskaitytus laiškus sudeginti, išskyrus privilegijų pergamentus.","context":"Michał Baliński veikale cituojamas testamentas; tai testamento autorių nurodymas ir prašymas, taikomas tuo atveju, jei Ona pasiliktų valstybėse.","support_ids":["t-54986","c-55530"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54986","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55530","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"IV KNYGA nai, Švedijos karalienei, sumokėti ir aukščiau paminėtam mūsų dvarui atlyginti pagal paprotį, ypač tiems mūsų dva­ ro tarnams, kurie neturi jokio aprūpinimo. Taip pat jos di­ denybės valioje bus pabaigti Šv. Onos bažnyčią Vilniuje ir kitos aukščiau paminėtos pareigos, be to, ir tai, kas dėl prie­ glaudos, išpildyti. Prašome jos didenybę karalaitę Oną, jei­ gu čia po mūsų valstybėse pasiliks, kad laiškus toje aukš­ čiau paminėtoje skrynioje, kur yra vienaragis [deimantas], įsakytų jos akyse sudeginti neskaičius, išskyrus privilegijų pergamentus, jeigu ten jų būtų ir jeigu jau į jos didenybės, o ne kieno kito rankas patektų, prašome ir įspėjame tą, kas juos aptiktų, prisaikdiname jo…"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-82639","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Rykai","claim_id":"t-54983","confidence":0.88}],"timeline":[],"support_disclosure":{"claims":8,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e1efe2e57580c5b2
+object_page_generated_at: '2026-09-19T21:53:47+00:00'
+object_page_source_checked_at: '2026-09-19T21:53:47+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '1'
+object_page_seo_description: 'Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena iš paveldėtojų ir iki tol neištekėjusi sesuo. Jai skiriamos valdos, piniginės…'
+object_page_seo_input_hash: 3e94afbbded858520e162fc0b680e834512cd0fe67a6892504e30a354765f9e5
+object_page_seo_generated_at: '2026-09-19T21:53:47+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ona Jogailaitė
 
@@ -68,6 +83,71 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 
 ## Teiginiai
 
+<a id="claim-t-54979"></a>
+- t-001
+  teiginys: "Karalaitė Ona (Ona Jogailaitė) testamente paskelbta viena iš valdų, dvarų ir kito turto paveldėtojų."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ona Jogailaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ona Jogailaitė\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55524
+
+<a id="claim-t-54981"></a>
+- t-002
+  teiginys: "Karalaitei Onai (Onai Jogailaitei) turėjo būti atiduotas kraitis ir tūkstantis raudonųjų vengriškų zlotų auksu."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Ona Vytautienė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ona Jogailaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Ona Vytautienė: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ona Jogailaitė\" parinktas kaip owner_note_path. Targetas \"Ona Vytautienė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55525
+
+<a id="claim-t-54982"></a>
+- t-003
+  teiginys: "Karalaitei Onai (Onai Jogailaitei) buvo atskirai dovanojamas žiede įtvirtintas aštrus deimantas."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Ona Vytautienė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ona Jogailaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Ona Vytautienė: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ona Jogailaitė\" parinktas kaip owner_note_path. Targetas \"Ona Vytautienė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55526
+
+<a id="claim-t-54983"></a>
+- t-004
+  teiginys: "Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "priklause -> Ona Jogailaitė: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rykai: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Ona Jogailaitė: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Virtuvės rykai tiesiogiai paskiriami karalaitei Onai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Rykai priklausė Ona Jogailaitė (0.88)"
+  pagrindžia:
+    - c-55527
+
 <a id="claim-t-54984"></a>
 - t-005
   teiginys: "Karalaitė Ona (Ona Jogailaitė) buvo prašoma prisidėti prie valios vykdymo ir Šv. Onos bažnyčios užbaigimo."
@@ -84,94 +164,26 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   pagrindžia:
     - c-55528
 
-<a id="claim-t-54979"></a>
-- t-54979
-  teiginys: "Karalaitė Ona (Ona Jogailaitė) testamente paskelbta viena iš valdų, dvarų ir kito turto paveldėtojų."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-54985"></a>
+- t-006
+  teiginys: "Jeigu Ona Jogailaitė po testatoriaus mirties būtų nuskriausta, jai turėjo atitekti visas jo kilnojamasis ir nekilnojamasis turtas."
+  atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumas: "susije_su -> Ona Vytautienė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Ona Jogailaitė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ona Jogailaitė\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Ona Vytautienė: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ona Jogailaitė\" parinktas kaip owner_note_path. Targetas \"Ona Vytautienė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-55524
-
-<a id="claim-t-54980"></a>
-- t-54980
-  teiginys: "Karalaitė Ona (Ona Jogailaitė) testamente apibūdinta kaip iki tol tebebuvusi neištekėjusi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "susije_su -> Braunsbergas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ona Jogailaitė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Braunsbergas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ona Jogailaitė\" parinktas kaip owner_note_path. Targetas \"Braunsbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55524
-    - c-55525
-    - c-55527
     - c-79102
 
-<a id="claim-t-54981"></a>
-- t-54981
-  teiginys: "Karalaitei Onai (Onai Jogailaitei) turėjo būti atiduotas kraitis ir tūkstantis raudonųjų vengriškų zlotų auksu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "susije_su -> Ona Vytautienė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ona Jogailaitė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ona Vytautienė: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ona Jogailaitė\" parinktas kaip owner_note_path. Targetas \"Ona Vytautienė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55525
-
-<a id="claim-t-54982"></a>
-- t-54982
-  teiginys: "Karalaitei Onai (Onai Jogailaitei) buvo atskirai dovanojamas žiede įtvirtintas aštrus deimantas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "susije_su -> Ona Vytautienė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ona Jogailaitė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ona Vytautienė: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ona Jogailaitė\" parinktas kaip owner_note_path. Targetas \"Ona Vytautienė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55526
-
-<a id="claim-t-54983"></a>
-- t-54983
-  teiginys: "Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "priklause -> Ona Jogailaitė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rykai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Ona Jogailaitė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Virtuvės rykai tiesiogiai paskiriami karalaitei Onai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Rykai priklausė Ona Jogailaitė (0.88)"
-  pagrindžia:
-    - c-55527
-
 <a id="claim-t-54986"></a>
-- t-54986
+- t-007
   teiginys: "Karalaitei Onai (Onai Jogailaitei) palikta spręsti dėl Šv. Onos bažnyčios užbaigimo ir laiškų sudeginimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::people"
   ryšio_patikimumas: "susije_su -> Ona Vytautienė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -185,9 +197,9 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     - c-55530
 
 <a id="claim-t-82639"></a>
-- t-82639
+- t-008
   teiginys: "Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::people"
   ryšio_patikimumas: "gyveno -> Lenkija: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -228,9 +240,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54979
-    - t-54980
+  pagrindzia:
+    - t-001
 
 - id: c-55525
   autorius: "Michał Baliński"
@@ -284,9 +295,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54980
-    - t-54981
+  pagrindzia:
+    - t-002
 
 - id: c-55526
   autorius: "Michał Baliński"
@@ -309,8 +319,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54982
+  pagrindzia:
+    - t-003
 
 - id: c-55527
   autorius: "Michał Baliński"
@@ -357,9 +367,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54980
-    - t-54983
+  pagrindzia:
+    - t-004
 
 - id: c-55528
   autorius: "Michał Baliński"
@@ -380,12 +389,11 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     būtų užbaigta ir Dievo tarnai prie jos pakankamai apdova­
     noti ir aprūpinti būtų.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-55530
@@ -418,8 +426,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54986
+  pagrindzia:
+    - t-007
 
 - id: c-79102
   autorius: "Michał Baliński"
@@ -461,7 +469,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54980
-    - t-82639
-
+  pagrindzia:
+    - t-006
+    - t-008

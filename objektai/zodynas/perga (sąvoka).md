@@ -29,6 +29,32 @@ media_all_json: |-
 
 Mažiausias Aleksote statomas laivas buvo perga. Tai gali būti iš rašytinių šaltinių žinoma didelė Nemuno valtis perga, kuria taip pat, kaip vytinėmis ir škutais, buvo gabenamos prekės.
 
+## Teiginiai
+
+<a id="claim-t-201782"></a>
+- t-001
+  teiginys: "Mažiausias Aleksote statomas laivas buvo perga."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185129
+
+<a id="claim-t-201783"></a>
+- t-002
+  teiginys: "Tai gali būti iš rašytinių šaltinių žinoma didelė Nemuno valtis perga, kuria taip pat, kaip vytinėmis ir škutais, buvo gabenamos prekės."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185130
+
 ## Citatos
 
 - id: c-185129
@@ -45,7 +71,7 @@ Mažiausias Aleksote statomas laivas buvo perga. Tai gali būti iš rašytinių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185130
@@ -64,32 +90,5 @@ Mažiausias Aleksote statomas laivas buvo perga. Tai gali būti iš rašytinių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201782"></a>
-- t-001
-  teiginys: "Mažiausias Aleksote statomas laivas buvo perga."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185129
-
-<a id="claim-t-201783"></a>
-- t-002
-  teiginys: "Tai gali būti iš rašytinių šaltinių žinoma didelė Nemuno valtis perga, kuria taip pat, kaip vytinėmis ir škutais, buvo gabenamos prekės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185130
-

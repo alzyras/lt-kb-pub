@@ -27,6 +27,34 @@ media_all_json: |-
 
 Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Lenkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vytauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vytauto tiesioginei valdžiai atiteko tik rytinė.
 
+## Teiginiai
+
+<a id="claim-t-193294"></a>
+- t-001
+  teiginys: "Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Lenkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vytauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vytauto tiesioginei valdžiai atiteko tik rytinė."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-176022
+
+<a id="claim-t-204001"></a>
+- t-002
+  teiginys: "Pirmojo Lietuvos Statuto epochoje sąvokos „lenas“ („feudum“) ir „vasalas“ („vassallus“) apibūdino didikų ir bajorų, o ne didžiojo kunigaikščio ir bajorų santykius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186605
+
 ## Citatos
 
 - id: c-176022
@@ -49,7 +77,7 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186605
@@ -70,34 +98,5 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-193294"></a>
-- t-001
-  teiginys: "Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Lenkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vytauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vytauto tiesioginei valdžiai atiteko tik rytinė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-176022
-
-<a id="claim-t-204001"></a>
-- t-002
-  teiginys: "Pirmojo Lietuvos Statuto epochoje sąvokos „lenas“ („feudum“) ir „vasalas“ („vassallus“) apibūdino didikų ir bajorų, o ne didžiojo kunigaikščio ir bajorų santykius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186605
-

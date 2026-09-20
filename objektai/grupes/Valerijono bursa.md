@@ -33,6 +33,32 @@ media_all_json: |-
 
 2mo: kad tie namai būtų vadinami Valerijono bursomis. Valerijono bursai skiriamų metinių pajamų sąrašas Iš kahalo nuo 5 500 auksinų sumos komisijos sprendimo vigore [galia] - 165 auks.
 
+## Teiginiai
+
+<a id="claim-t-194300"></a>
+- t-001
+  teiginys: "2mo: kad tie namai būtų vadinami Valerijono bursomis."
+  atnaujinta: "2026-07-06 12:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176892
+
+<a id="claim-t-194301"></a>
+- t-002
+  teiginys: "Valerijono bursai skiriamų metinių pajamų sąrašas Iš kahalo nuo 5 500 auksinų sumos komisijos sprendimo vigore [galia] - 165 auks."
+  atnaujinta: "2026-07-06 12:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176893
+
 ## Citatos
 
 - id: c-176892
@@ -56,7 +82,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-176893
@@ -76,32 +102,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-194300"></a>
-- t-001
-  teiginys: "2mo: kad tie namai būtų vadinami Valerijono bursomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176892
-
-<a id="claim-t-194301"></a>
-- t-002
-  teiginys: "Valerijono bursai skiriamų metinių pajamų sąrašas Iš kahalo nuo 5 500 auksinų sumos komisijos sprendimo vigore [galia] - 165 auks."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176893
-

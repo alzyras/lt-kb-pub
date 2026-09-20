@@ -1,11 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'valsčius (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: valsčius (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'valsčius'
+  - valsčius
 aliases:
-  - 'valsčius'
+  - valsčius
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # valsčius (sąvoka)
 
@@ -70,6 +67,18 @@ Kiekviena provincija dalijosi j mažesnes dalis, atskirus valsčius, teritorijas
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-206348
+
+<a id="claim-t-225100"></a>
+- t-225100
+  teiginys: "Sklunijos valsčiaus vyrai grąžino Karaliaučiaus broliams pagrobtus arklius."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206291
 
 ## Citatos
 
@@ -121,11 +130,13 @@ Kiekviena provincija dalijosi j mažesnes dalis, atskirus valsčius, teritorijas
     Kai apie tai išgirdo Sklunijos valsčiaus vyrai, sugrąžino, gailėdamiesi nusikaltę,
     Karaliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo.
   statusas: verified
-  atnaujinta: "2026-09-13 11:39"
+  atnaujinta: "2026-09-13 18:04"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225100
 
 - id: c-206348
   autorius: "Petras Dusburgietis"

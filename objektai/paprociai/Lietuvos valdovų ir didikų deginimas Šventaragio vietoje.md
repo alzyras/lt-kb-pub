@@ -1,6 +1,6 @@
 ---
 tipas: paprotys
-pavadinimas: 'Lietuvos valdovų ir didikų deginimas Šventaragio vietoje'
+pavadinimas: Lietuvos valdovų ir didikų deginimas Šventaragio vietoje
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Lietuvos valdovų ir didikų deginimas Šventaragio vietoje
 
@@ -87,7 +84,7 @@ Ir pagal savo tėvo įsakymą toje vietoje, Vilnios žiotyse, kur ji įteka į N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-194370
@@ -108,6 +105,5 @@ Ir pagal savo tėvo įsakymą toje vietoje, Vilnios žiotyse, kur ji įteka į N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -40,6 +40,32 @@ canonical_biography: "Nenurodyta"
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-204116"></a>
+- t-001
+  teiginys: "Martyno Kromerio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžiotas gyvūnų rūšis ir jų medžiojimo būdus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186725
+
+<a id="claim-t-204136"></a>
+- t-002
+  teiginys: "Martynas Kromeris išskiria stumbrus, briedžius, taurus, meškas, lūšis ir bebrus kaip to meto valdovo ir kilmingųjų mėgtas medžioti gyvūnų rūšis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186735
+
 ## Citatos
 
 - id: c-186725
@@ -60,7 +86,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186735
@@ -84,32 +110,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-204116"></a>
-- t-001
-  teiginys: "Martyno Kromerio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžiotas gyvūnų rūšis ir jų medžiojimo būdus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  pagrindžia:
-    - c-186725
-
-<a id="claim-t-204136"></a>
-- t-002
-  teiginys: "Martynas Kromeris išskiria stumbrus, briedžius, taurus, meškas, lūšis ir bebrus kaip to meto valdovo ir kilmingųjų mėgtas medžioti gyvūnų rūšis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  pagrindžia:
-    - c-186735
-

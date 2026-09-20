@@ -47,22 +47,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-216023"></a>
-- t-216023
-  teiginys: "Kai išvirtą alų pastatydavo rūsyje ir ketin davo pradėti jį gerti, namų šeimininkas, pritekinęs indą iš pir mos statinės, atlikdavo apeigas, vadintas nuleidimu (Nutajdimas), deivės Ragutienės garbei."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199676
-
 <a id="claim-t-203898"></a>
-- t-203898
+- t-001
   teiginys: "1778 m. kapitulos name Skapo gatvėje užpuolikai ištuštino dvi alaus statines ir iš rūsio paėmė daržovių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -93,25 +81,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203898
-
-- id: c-199676
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 347"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 347."
-  citata_originali: |
-    Kai išvirtą alų pastatydavo rūsyje ir ketin­
-    davo pradėti jį gerti, namų šeimininkas, pritekinęs indą iš pir­
-    mos statinės, atlikdavo apeigas, vadintas nuleidimu (Nutajdi-
-    mas), deivės Ragutienės garbei.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216023
-
+  pagrindzia:
+    - t-001

@@ -36,6 +36,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205945"></a>
+- t-001
+  teiginys: "Teodoras Narbutas pasakoja, kad Levo tarnams apsupus beginklį Vaišelgą, pats Levas smogė didžiajam kunigaikščiui per galvą ir įsakė suimti Vaišelgos palydoje buvusius lietuvių didikus."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188560
+
 ## Santrauka
 
 Teodoras Narbutas pasakoja, kad Levo tarnams apsupus beginklį Vaišelgą, pats Levas smogė didžiajam kunigaikščiui per galvą ir įsakė suimti Vaišelgos palydoje buvusius lietuvių didikus.
@@ -61,21 +76,5 @@ Teodoras Narbutas pasakoja, kad Levo tarnams apsupus beginklį Vaišelgą, pats 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205945"></a>
-- t-001
-  teiginys: "Teodoras Narbutas pasakoja, kad Levo tarnams apsupus beginklį Vaišelgą, pats Levas smogė didžiajam kunigaikščiui per galvą ir įsakė suimti Vaišelgos palydoje buvusius lietuvių didikus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188560
-

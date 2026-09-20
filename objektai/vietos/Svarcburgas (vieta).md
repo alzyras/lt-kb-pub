@@ -1,40 +1,40 @@
 ---
 tipas: vieta
-pavadinimas: 'Svarcburgas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Svarcburgas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Svarcburgas'
+  - Svarcburgas
 aliases:
-  - 'Svarcburgas'
+  - Svarcburgas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1251 m.'
+  - 1251 m.
 date_start: '1251'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0cfa68908626ebf17de6b473"
-canonical_name: "Svarcburgas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Svarcburgas","Svarcburgas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0cfa68908626ebf17de6b473
+canonical_name: Svarcburgas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Svarcburgas
+  - Svarcburgas (vieta)
 sameAs: []
-canonical_biography: "Grafas Henrikas iš Svarcburgo kitais metais po 1251 m. įsiveržė į Prūsijos žemę su daugybe karių."
+canonical_biography: Grafas Henrikas iš Svarcburgo kitais metais po 1251 m. įsiveržė į Prūsijos žemę su daugybe karių.
 ---
 # Svarcburgas (vieta)
 
@@ -77,6 +77,5 @@ Grafas Henrikas iš Svarcburgo kitais metais po 1251 m. įsiveržė į Prūsijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

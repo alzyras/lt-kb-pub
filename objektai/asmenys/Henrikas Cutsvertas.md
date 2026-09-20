@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Henrikas Cutsvertas'
+pavadinimas: Henrikas Cutsvertas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1200 m.'
-  - '1296 m.'
+  - 1200 m.
+  - 1296 m.
 date_start: '1200'
 date_end: '1296'
 sukurta: ''
@@ -17,35 +17,206 @@ tags:
   - pilis
   - upė
 amziai:
-  - 'XII'
-  - 'XIII'
+  - XII
+  - XIII
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ec598c02c5204f36b75d0ee6"
-canonical_name: "Henrikas Cutsvertas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Henrikas Cutsvertas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ec598c02c5204f36b75d0ee6
+canonical_name: Henrikas Cutsvertas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Henrikas Cutsvertas
 sameAs: []
-canonical_biography: "Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies. Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą. Magistras pasiuntė Henriką Cutsvertą, 29 brolius ir 1200 vyrų tykoti dykrose tarp Luko ir Narevo."
+canonical_biography: 'Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies. Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą. Magistras pasiuntė Henriką Cutsvertą, 29 brolius ir 1200 vyrų tykoti dykrose tarp Luko ir Narevo.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:35:30+00:00","source_checked_at":"2026-09-20T04:35:30+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"6521195fc7608c7816b7546d","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Baigos komtūras ir brolis","context":"Šaltiniuose Henrikas Cutsvertas įvardijamas Baigos komtūru ir broliu; jis vadovavo karinėms ekspedicijoms.","support_ids":["t-221296","c-203011","t-222822","c-204668"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221296","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-222822","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203011","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Aukaimio valsčiaus nusiaubimą Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių ir tūkstančiu penkiais šimtais vyrų išjojo537 link Junigedos pilies; surengę pasalas, Ragainės broliai su savo ginklanešiais iškėlė vėliavą ir patraukė prie šios pilies, o joje tuo metu buvo daug svečių, kurie, smarkiai įniršę dėl šio žygio, pasileido ginkluoti jų persekioti; broliai būtų juos tikriausiai smarkiai sumušę, jeigu nebūtų per anksti išpuolę iš pasalų."},{"kind":"evidence","evidence_id":"c-204668","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos, kai karalius bus iškeliavęs iš savo žemės, ir ten nusigauti su brolių kariuomene; jis subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Henrikas Cutsvertas buvo Baigos komtūras ir karo vadas, minimas Prūsijos bei Lietuvos pasienio kovų aprašymuose. Birželio 29 d. jis su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies, kur jo pajėgos susidūrė su pilies gynėjais ir jų persekiotojais. Kitame žygyje Cutsvertas, vadovaudamas 1200 riterių, užėmė kelius tarp Alnos ir Narevo upių ir sumušė lietuvių kunigaikštį Jazbutą, kuris neteko grobio bei dalies raitelių. Pasak kito pasakojimo, susidūrimo metu Jazbutas puolė Cutsvertą kalaviju, tačiau šis sužeistas ietimi persmeigė kunigaikštį, pats netekdamas piršto. Vėliau Karaliaučiaus komtūro pasiųstas supti pilies, Cutsvertas buvo smarkiai sumuštas ir turėjo trauktis iš krašto.","sentences":[{"sentence_id":"s1","text":"Henrikas Cutsvertas buvo Baigos komtūras ir karo vadas, minimas Prūsijos bei Lietuvos pasienio kovų aprašymuose.","support_ids":["t-196470","c-178710","t-221296","c-203011"]},{"sentence_id":"s2","text":"Birželio 29 d. jis su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies, kur jo pajėgos susidūrė su pilies gynėjais ir jų persekiotojais.","support_ids":["t-221296","c-203011"]},{"sentence_id":"s3","text":"Kitame žygyje Cutsvertas, vadovaudamas 1200 riterių, užėmė kelius tarp Alnos ir Narevo upių ir sumušė lietuvių kunigaikštį Jazbutą, kuris neteko grobio bei dalies raitelių.","support_ids":["t-196470","c-178710"]},{"sentence_id":"s4","text":"Pasak kito pasakojimo, susidūrimo metu Jazbutas puolė Cutsvertą kalaviju, tačiau šis sužeistas ietimi persmeigė kunigaikštį, pats netekdamas piršto.","support_ids":["t-184712","c-168073"]},{"sentence_id":"s5","text":"Vėliau Karaliaučiaus komtūro pasiųstas supti pilies, Cutsvertas buvo smarkiai sumuštas ir turėjo trauktis iš krašto.","support_ids":["t-196471","c-178711"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai nurodo, kad Henrikas Cutsvertas buvo Baigos komtūras, vadovavo kariuomenei ir minimas Prūsijos bei Lietuvos kovų aprašymuose."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai patvirtinta birželio 29 d. data, 20 brolių, 1500 vyrų, žygis link Junigedos ir susidūrimas su gynėjais bei persekiotojais."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1200 riterių, kelius tarp Alnos ir Narevo, Jazbuto sumušimą, grobio praradimą ir didelės dalies raitelių netektį."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai aprašo Jazbuto puolimą kalaviju, jo persmeigimą ietimi ir Cutsverto piršto nukirtimą."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Karaliaučiaus komtūro Bertoldo pasiųstas Cutsvertas buvo smarkiai sumuštas ir pasitraukė iš krašto."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-196470","c-178710","t-221296","c-203011"]},{"sentence_id":"s2","supported":true,"support_ids":["t-221296","c-203011"]},{"sentence_id":"s3","supported":true,"support_ids":["t-196470","c-178710"]},{"sentence_id":"s4","supported":true,"support_ids":["t-184712","c-168073"]},{"sentence_id":"s5","supported":true,"support_ids":["t-196471","c-178711"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Junigeda","claim_id":"t-221296","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 42e487b6fce555a7
+object_page_generated_at: '2026-09-20T04:35:30+00:00'
+object_page_source_checked_at: '2026-09-20T04:35:30+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Henrikas Cutsvertas buvo Baigos komtūras ir karo vadas, minimas Prūsijos bei Lietuvos pasienio kovų aprašymuose. Birželio 29 d. jis su 20 brolių ir 1500 vyrų…'
+object_page_seo_input_hash: c3e4a4947ea78facf1978dc5c0f7cd065bb033d59f2dda2c3a2d45d6e64be388
+object_page_seo_generated_at: '2026-09-20T04:35:30+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Henrikas Cutsvertas
 
 ## Santrauka
 
 Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies. Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą. Magistras pasiuntė Henriką Cutsvertą, 29 brolius ir 1200 vyrų tykoti dykrose tarp Luko ir Narevo.
+
+## Teiginiai
+
+<a id="claim-t-59915"></a>
+- t-001
+  teiginys: "Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Junigeda: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas Cutsvertas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Henriko judėjimą link Junigedos pilies."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas Cutsvertas keliavo į Junigeda (0.90)"
+  pagrindžia:
+    - c-60549
+
+<a id="claim-t-59916"></a>
+- t-002
+  teiginys: "Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas Cutsvertas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Henrikui įsakyta su kariuomene traukti link Lietuvos, todėl remiamas karinis žygis į Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60550
+
+<a id="claim-t-59917"></a>
+- t-003
+  teiginys: "Magistras pasiuntė Henriką Cutsvertą, 29 brolius ir 1200 vyrų tykoti dykrose tarp Luko ir Narevo."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60549
+    - c-60550
+
+<a id="claim-t-59918"></a>
+- t-004
+  teiginys: "Jazbutui sužeidus Henriko Cutsverto žirgą, Henrikas Cutsvertas įniršęs perdūrė Jazbutą ietimi."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Henrikas Cutsvertas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jazbutas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Henrikas Cutsvertas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Jazbutas užpuolė Henriką Cutsvertą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jazbutas puolė Henrikas Cutsvertas (0.94); Jazbutas buvo priešas Henrikas Cutsvertas (0.86)"
+  pagrindžia:
+    - c-60548
+
+<a id="claim-t-59919"></a>
+- t-005
+  teiginys: "Henrikas Cutsvertas, prūso įspėtas apie gresiančią išdavystę Lietuvoje, paprašė patarimo, kaip išvengti pavojaus."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henrikas Cutsvertas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=61"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas Cutsvertas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60551
+
+<a id="claim-t-184712"></a>
+- t-006
+  teiginys: "Henrikas Cutsvertas vadovavo užpakalinei vorai ir ietimi persmeigė lietuvių kunigaikštį Jazbutą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas Cutsvertas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Mūšio kontekste Henrikas vadovauja priešingai pusei, o lietuviai traukiasi netekę vado."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168073
+
+<a id="claim-t-196470"></a>
+- t-007
+  teiginys: "Baigos komtūras Henrikas Cutsvertas su 1200 riterių užėmė kelius tarp Alnos ir Narevo upių ir sumušė Jazbutą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-178710
+
+<a id="claim-t-196471"></a>
+- t-008
+  teiginys: "Henrikas Cutsvertas, Karaliaučiaus komtūro Bertoldo pasiųstas supti pilies, buvo smarkiai sumuštas ir turėjo trauktis iš krašto."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-178711
+
+<a id="claim-t-197092"></a>
+- t-009
+  teiginys: "Henrikas Cutsvertas buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis, garsėjęs kaip labai gabus račius ir didelis karo pabūklų meistras."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60547
+
+<a id="claim-t-197093"></a>
+- t-010
+  teiginys: "Brolis Henrikas visa tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė į Lietuvos žemę žvalgus, kurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60548
+
+<a id="claim-t-197094"></a>
+- t-011
+  teiginys: "Dusburgietis teigia, kad henrikas Cutsvertas pasakė: „Nesunku atiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės, bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus apgins."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-179025
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -192,6 +363,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 - id: c-60548
   autorius: "Petras Dusburgietis"
@@ -209,6 +382,9 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+    - t-010
 
 - id: c-60549
   autorius: "Petras Dusburgietis"
@@ -230,6 +406,9 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-003
 
 - id: c-60550
   autorius: "Petras Dusburgietis"
@@ -247,6 +426,9 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+    - t-003
 
 - id: c-60551
   autorius: "Petras Dusburgietis"
@@ -265,6 +447,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-168073
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -301,8 +485,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184712
+  pagrindzia:
+    - t-006
 
 - id: c-178710
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -331,8 +515,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196470
+  pagrindzia:
+    - t-007
 
 - id: c-178711
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -366,8 +550,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196471
+  pagrindzia:
+    - t-008
 
 - id: c-179025
   autorius: "Petras Dusburgietis"
@@ -387,141 +571,10 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201654
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 181"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 181."
-  citata_originali: |
-    Minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su
-    tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai
-    stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link
-    Medrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki
-    pamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę.
-    245 (238). Apie vieną nuostabų atsivertimą
-    Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo
-    vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,
-    garsėjęs kaip labai gabus račius ir didelis karo pabūklų meistras.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222822
-
-- id: c-206286
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 184"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184."
-  citata_originali: |
-    Šitai išgirdę, broliai ir kiti,
-    labai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?“ Jiems
-    atsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais. Jis pasakė: „Nesunku
-    atiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti
-    dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės,
-    bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus
-    apgins.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Jazbutas]]
 - Puolė Henrikas Cutsvertą: [[objektai/asmenys/Jazbutas]]
 - Henrikas Cutsvertas keliavo į [[objektai/vietos/Junigeda]]
-
-## Teiginiai
-
-<a id="claim-t-221296"></a>
-- t-001
-  teiginys: "Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Junigeda: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas Cutsvertas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Henriko judėjimą link Junigedos pilies."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Henrikas Cutsvertas keliavo į Junigeda (0.90)"
-
-<a id="claim-t-225773"></a>
-- t-002
-  teiginys: "Brolis Henrikas visa tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė į Lietuvos žemę žvalgus, kurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-184712"></a>
-- t-184712
-  teiginys: "Henrikas Cutsvertas vadovavo užpakalinei vorai ir ietimi persmeigė lietuvių kunigaikštį Jazbutą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas Cutsvertas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Mūšio kontekste Henrikas vadovauja priešingai pusei, o lietuviai traukiasi netekę vado."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168073
-
-<a id="claim-t-196470"></a>
-- t-196470
-  teiginys: "Baigos komtūras Henrikas Cutsvertas su 1200 riterių užėmė kelius tarp Alnos ir Narevo upių ir sumušė Jazbutą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
-  pagrindžia:
-    - c-178710
-
-<a id="claim-t-196471"></a>
-- t-196471
-  teiginys: "Henrikas Cutsvertas, Karaliaučiaus komtūro Bertoldo pasiųstas supti pilies, buvo smarkiai sumuštas ir turėjo trauktis iš krašto."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
-  pagrindžia:
-    - c-178711
-
-<a id="claim-t-222822"></a>
-- t-222822
-  teiginys: "Magistras pasiuntė Henriką Cutsvertą, 29 brolius ir 1200 vyrų tykoti dykrose tarp Luko ir Narevo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lukas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henrikas Cutsvertas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lukas: mention_match, place, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas Cutsvertas\" parinktas kaip owner_note_path. Targetas \"Lukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-201654
-

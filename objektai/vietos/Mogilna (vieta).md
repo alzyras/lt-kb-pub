@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Mogilna (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Mogilna (vieta)
+identifikacija: vieta
 variantai:
-  - 'Mogilna'
+  - Mogilna
 aliases:
-  - 'Mogilna'
+  - Mogilna
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-21496f932bd64a38e86e62d5"
-canonical_name: "Mogilna (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Mogilna","Mogilna (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-21496f932bd64a38e86e62d5
+canonical_name: Mogilna (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Mogilna
+  - Mogilna (vieta)
 sameAs: []
-canonical_biography: "Mogilna buvo BTSR gyvenvietė prie Nemuno aukštupio, apie 80 km į pietus nuo Minsko."
+canonical_biography: 'Mogilna buvo BTSR gyvenvietė prie Nemuno aukštupio, apie 80 km į pietus nuo Minsko.'
 ---
 # Mogilna (vieta)
 
@@ -72,6 +72,5 @@ Mogilna buvo BTSR gyvenvietė prie Nemuno aukštupio, apie 80 km į pietus nuo M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

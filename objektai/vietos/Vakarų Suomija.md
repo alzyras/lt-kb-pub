@@ -53,6 +53,18 @@ Vakarų Suomija šiame šaltinyje minima kaip Augusto Roberto Niemio gimimo regi
 
 Vakarų Suomija šiame šaltinyje yra regionas.
 
+## Teiginiai
+
+<a id="claim-t-195647"></a>
+- t-001
+  teiginys: "Augustas Robertas Niemi gimė vakarų Suomijoje."
+  atnaujinta: "2026-07-12 09:30"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178048
+
 ## Citatos
 
 - id: c-178048
@@ -75,18 +87,5 @@ Vakarų Suomija šiame šaltinyje yra regionas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195647"></a>
-- t-001
-  teiginys: "Augustas Robertas Niemi gimė vakarų Suomijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::places"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178048
-

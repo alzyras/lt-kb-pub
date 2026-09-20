@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Ladyžinas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Ladyžinas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Ladyžinas'
+  - Ladyžinas
 aliases:
-  - 'Ladyžinas'
+  - Ladyžinas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b17b785800110d4f4a9adad3"
-canonical_name: "Ladyžinas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ladyžinas","Ladyžinas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b17b785800110d4f4a9adad3
+canonical_name: Ladyžinas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ladyžinas
+  - Ladyžinas (vieta)
 sameAs: []
-canonical_biography: "Padneprės Ukrainos Ladyžino miestas prie Bugo, kur iš kai riojo kranto įteka upė Sup."
+canonical_biography: 'Padneprės Ukrainos Ladyžino miestas prie Bugo, kur iš kai riojo kranto įteka upė Sup.'
 ---
 # Ladyžinas (vieta)
 
@@ -71,6 +71,5 @@ Padneprės Ukrainos Ladyžino miestas prie Bugo, kur iš kai riojo kranto įteka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

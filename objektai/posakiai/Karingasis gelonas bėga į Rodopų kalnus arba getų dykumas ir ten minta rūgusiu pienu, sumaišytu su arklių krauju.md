@@ -27,6 +27,39 @@ media_all_json: |-
 
 Narbutas, remdamasis Vergilijumi, pateikia spalvingą gelonų gyvenimo ir mitybos formulę, susietą su Rodopų kalnais, getų dykumomis ir kumelių pienu su arklių krauju.
 
+## Teiginiai
+
+<a id="claim-t-192116"></a>
+- t-001
+  teiginys: "Teodoras Narbutas, remdamasis Vergilijumi, gelonų kumelės pieno vartojimą siejo su rūgusiu pienu, maišytu su arklių krauju."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Gelonai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karingasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Gelonai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karingasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju\" parinktas kaip owner_note_path. Targetas \"Gelonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174997
+
+<a id="claim-t-194905"></a>
+- t-002
+  teiginys: "Tokiame piene, sumaišius jį su dar šiltu ir šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl destiliuojant galima pagaminti svaiginantį gėrimą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-177301
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas, remdamasis Vergilijumi, gelonų kumelės pieno vartojimą siejo su rūgusiu pienu, maišytu su arklių krauju.'
@@ -63,6 +96,8 @@ Narbutas, remdamasis Vergilijumi, pateikia spalvingą gelonų gyvenimo ir mitybo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-177301
   autorius: "Teodoras Narbutas"
@@ -84,59 +119,5 @@ Narbutas, remdamasis Vergilijumi, pateikia spalvingą gelonų gyvenimo ir mitybo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195992
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 79"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 79."
-  citata_originali: |
-    Tokiame piene, sumaišius jį su dar šiltu ir
-    šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl
-    destiliuojant galima pagaminti svaiginantį gėrimą. Ver­
-    gilijus apie tokį kumelės pieno vartojimą rašė: „Karin­
-    gasis gelonas bėga į Rodopų kalnus arba getų dykumas
-    ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4.
-    Senovėje buvo sakoma, kad gelonai iš odos, nuplėštos nuo
-    nukauto kautynėse priešo, dirbo diržus ginklams ir apy­
-    nasrius arkliams5.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-212847"></a>
-- t-001
-  teiginys: "Teodoras Narbutas, remdamasis Vergilijumi, gelonų kumelės pieno vartojimą siejo su rūgusiu pienu, maišytu su arklių krauju."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Gelonai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karingasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gelonai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karingasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju\" parinktas kaip owner_note_path. Targetas \"Gelonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-215903"></a>
-- t-002
-  teiginys: "Tokiame piene, sumaišius jį su dar šiltu ir šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl destiliuojant galima pagaminti svaiginantį gėrimą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-195992
-

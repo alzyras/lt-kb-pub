@@ -35,6 +35,20 @@ W. Abelio samprata sieja derliaus svyravimus ir produkcijos kainos santykį su E
 
 W. Abelio samprata sieja derliaus svyravimus ir produkcijos kainos santykį su Europos agrarine raida.
 
+## Teiginiai
+
+<a id="claim-t-203654"></a>
+- t-001
+  teiginys: "W. Abelio samprata sieja derliaus svyravimus ir produkcijos kainos santykį su Europos agrarine raida."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186258
+
 ## Citatos
 
 - id: c-186258
@@ -60,20 +74,5 @@ W. Abelio samprata sieja derliaus svyravimus ir produkcijos kainos santykį su E
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203654"></a>
-- t-001
-  teiginys: "W. Abelio samprata sieja derliaus svyravimus ir produkcijos kainos santykį su Europos agrarine raida."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
-  pagrindžia:
-    - c-186258
-

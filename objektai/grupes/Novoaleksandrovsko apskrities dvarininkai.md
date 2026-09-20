@@ -1,29 +1,26 @@
 ---
 tipas: grupe
-pavadinimas: 'Novoaleksandrovsko apskrities dvarininkai'
+pavadinimas: Novoaleksandrovsko apskrities dvarininkai
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1861 m.'
-  - '1862 m.'
+  - 1861 m.
+  - 1862 m.
 date_start: '1861'
 date_end: '1862'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Novoaleksandrovsko apskrities dvarininkai
 

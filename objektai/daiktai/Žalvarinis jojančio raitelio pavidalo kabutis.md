@@ -47,6 +47,17 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-40812"></a>
+- t-001
+  teiginys: "Žalvarinis jojančio raitelio pavidalo kabutis datuojamas XI-XII a. ir siejamas su Didvyčiais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-42597
+
 ## Citatos
 
 - id: c-42597
@@ -63,17 +74,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-40812"></a>
-- t-001
-  teiginys: "Žalvarinis jojančio raitelio pavidalo kabutis datuojamas XI-XII a. ir siejamas su Didvyčiais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-42597
-

@@ -38,23 +38,10 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 
 ## Teiginiai
 
-<a id="claim-t-207919"></a>
-- t-207919
-  teiginys: "Grigalius Chodkevičius raštu paliudijo, kad Bogdanas Senkavičius pats ir už brolį atvyko į karo tarnybą bei įsirašė į vėliavininko sąrašą."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
-  pagrindžia:
-    - c-190362
-
 <a id="claim-t-40125"></a>
-- t-40125
+- t-001
   teiginys: "Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų karių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -69,9 +56,9 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
     - c-44337
 
 <a id="claim-t-184710"></a>
-- t-184710
+- t-002
   teiginys: "Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -138,8 +125,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-40125
+  pagrindzia:
+    - t-001
 
 - id: c-168071
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -163,31 +150,5 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184710
-
-- id: c-190362
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 181"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 181."
-  citata_originali: |
-    Iš 1568 m. Žygimanto Augusto rašto dvarioniui Bogušui Ovsianui sužinome, kad
-    bajoro Bogdano Senkavičiaus žmona skundėsi, kad jų Skorobovo dvarelį su valdiniais,
-    pastatais ir viskuo, kas jame buvo, minėtas B. Ovsianas prijungė prie valdovo Cerinio
-    dvaro, nurodydamas priežastį, kad dvarelio savininko brolis, kuris neturi atsidalijęs
-    savo dalies, nestojo į karo tarnybą. Valdovui buvo pateiktas didžiojo etmono Grigo
-    Chodkevičiaus raštas, kuriuo jis paliudijo, kad konfiskuoto Skorobovo dvarelio savi-
-    ninkas Bogdanas Senkavičius pats už save ir už brolį atvyko į karo tarnybą, įsirašė į
-    vėliavininko sąrašą ir yra didžiojo etmono kariuomenėje, rašė, kad pas jį [G. Chodkevi-
-    čių] buvo atvažiavusi nuskriaustojo žmona ir prašė padarytą didelę skriaudą atlyginti ir
-  citata_rodoma: "Valdovui buvo pateiktas didžiojo etmono Grigo\nChodkevičiaus raštas, kuriuo jis paliudijo, kad konfiskuoto Skorobovo dvarelio savi-\nninkas Bogdanas Senkavičius pats už save ir už brolį atvyko į karo tarnybą, įsirašė į\nvėliavininko sąrašą ir yra didžiojo etmono kariuomenėje"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207919
-
+  pagrindzia:
+    - t-002

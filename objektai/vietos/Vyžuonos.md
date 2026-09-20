@@ -36,6 +36,36 @@ historical_names: []
 
 Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padaliniai prie kario diržo įsitvirtino Vyžuonose ir Vyžuonų dvare.
 
+## Teiginiai
+
+<a id="claim-t-42341"></a>
+- t-001
+  teiginys: "Vyžuonas užėmė lietuviai ir vokiečiai, verždamiesi toliau po susidūrimo su priešo pėstininkais prie Debeikių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Vyžuonos: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vyžuonos: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lietuviai užėmė Vyžuonas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai užėmė Vyžuonos (0.92); Vokiečiai užėmė Vyžuonos (0.92)"
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  pagrindžia:
+    - c-45446
+
+<a id="claim-t-42342"></a>
+- t-002
+  teiginys: "Kolonos padaliniai įsitvirtino Vyžuonose ir Vyžuonų dvare po to, kai buvo atsisakyta tolesnio puolimo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  pagrindžia:
+    - c-45445
+
 ## Citatos
 
 - id: c-45445
@@ -56,7 +86,7 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-45446
@@ -78,39 +108,8 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Užėmė Vyžuonos: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vokiečiai]]
-
-## Teiginiai
-
-<a id="claim-t-42341"></a>
-- t-001
-  teiginys: "Vyžuonas užėmė lietuviai ir vokiečiai, verždamiesi toliau po susidūrimo su priešo pėstininkais prie Debeikių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Vyžuonos: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vyžuonos: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lietuviai užėmė Vyžuonas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuviai užėmė Vyžuonos (0.92); Vokiečiai užėmė Vyžuonos (0.92)"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  pagrindžia:
-    - c-45446
-
-<a id="claim-t-42342"></a>
-- t-002
-  teiginys: "Kolonos padaliniai įsitvirtino Vyžuonose ir Vyžuonų dvare po to, kai buvo atsisakyta tolesnio puolimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  pagrindžia:
-    - c-45445
-

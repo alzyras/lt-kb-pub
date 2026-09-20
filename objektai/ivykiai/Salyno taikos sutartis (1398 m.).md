@@ -46,6 +46,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206704"></a>
+- t-001
+  teiginys: "1398 m. rugsėjo pabaigoje, Narbuto aprašymu, Salyno saloje buvo Livonijos magistras Venemaras Brugenojė, aukštieji pareigūnai, vyskupai ir didysis kunigaikštis su žmona bei palyda."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189319
+
+<a id="claim-t-206705"></a>
+- t-002
+  teiginys: "Salyno sutartimi Vytautas, kaip ją perteikia Narbutas, įsipareigojo savo valstybės provincijose skleisti krikščioniškąjį tikėjimą, priklausyti Romos bažnyčiai ir valstybei bei neleisti išpuolių į Ordino valdas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189320
+
 ## Santrauka
 
 1398 m. rugsėjo pabaigoje, Narbuto aprašymu, Salyno saloje buvo Livonijos magistras Venemaras Brugenojė, aukštieji pareigūnai, vyskupai ir didysis kunigaikštis su žmona bei palyda. Salyno sutartimi Vytautas, kaip ją perteikia Narbutas, įsipareigojo savo valstybės provincijose skleisti krikščioniškąjį tikėjimą, priklausyti Romos bažnyčiai ir valstybei bei neleisti išpuolių į Ordino valdas.
@@ -78,7 +106,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189320
@@ -110,34 +138,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206704"></a>
-- t-001
-  teiginys: "1398 m. rugsėjo pabaigoje, Narbuto aprašymu, Salyno saloje buvo Livonijos magistras Venemaras Brugenojė, aukštieji pareigūnai, vyskupai ir didysis kunigaikštis su žmona bei palyda."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189319
-
-<a id="claim-t-206705"></a>
-- t-002
-  teiginys: "Salyno sutartimi Vytautas, kaip ją perteikia Narbutas, įsipareigojo savo valstybės provincijose skleisti krikščioniškąjį tikėjimą, priklausyti Romos bažnyčiai ir valstybei bei neleisti išpuolių į Ordino valdas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189320
-

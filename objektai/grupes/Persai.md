@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Persai'
+pavadinimas: Persai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -15,12 +15,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Persai","url":"https://lt.wikipedia.org/wiki/Persai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Persai","url":"https://www.vle.lt/straipsnis/persai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T05:00:55+00:00","source_checked_at":"2026-09-20T05:00:55+00:00","counts":{"relations":10,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Persai","url":"https://lt.wikipedia.org/wiki/Persai","publisher":"Vikipedija","language":"lt","article_id":"181999","revision_id":"7196431","published_at":"2024-02-17T12:22:53Z","version_pk":"","content_hash":"8b0643b10cf729a192ae3b658b0602a7b35a19813c08a8be854787b48e365167","retrieved_at":"2026-09-20T04:59:51+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Persai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"181999"}},"intro":"Persai – iranėnų tauta, daugiausia gyvenanti Irane bei kaimyninėse šalyse įskaitant Persų įlankos arabų šalis. Taip pat daug persų gyvena Šiaurės Amerikoje ir Europoje. Persams būdinga bendra kalba, kilmė, istorija. Persų kilmė, bent pagal kalbą, siekia Indoeuropiečius arijus, atvykusius į Irano teritoriją iš Centrinės Azijos 2000–1500 m. pr. m. e. Nuo 550 m. pr. m. e. iš Persio provincijos senovės persai pradėjo platinti savo kalbą ir kultūrą po visą Irano plokščiakalnį, nukariaudami ir asimiliuodami tiek arijų, tiek ne arijų kilmės tautas. Šis procesas tęsėsi net esant graikų, arabų, mongolų ir turkų invazijoms ir vyko iki pat Islamo laikų. Ilgainiui atsirado daugybė dialektų ir geografinių tapatybių, kol kilo XX a. tautinis judėjimas, kuriam padarė įtaką pokyčiai Osmanų imperijoje, Arabų pasaulyje ir Europoje. Praradus Afganistaną ir teritorijas Kaukaze (Azerbaidžanas) persų identitetas susitelkė ties Irano teritorija. Norėdamas sujungti modernią valstybę su imperialintine praeitimi Reza Šachas pakeitė šalies pavadinimą iš Persijos į Iraną 1935 m, pažymėdamas Irano nacionalizmo pradžią. Po Irano revoliucijos pradėtos vertinti ir šiitų vertybės. Persai, net esant teokratinei valdžiai, rodo polinkį urbanizacijai ir modernumui[reikalingas šaltinis]. Bendruomenės vakaruose palaiko glaudžius ryšius su likusiom šeimom Irane ir yra vakarietiškos įtakos šaltinis. Suirus Tarybų Sąjungai persai užmezgė glaudesnius kultūrinius ryšius su giminingomis tautomis Kaukaze (tatais ir talyšais) ir tadžikais Afganistane ir Tadžikistane.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Persai","url":"https://lt.wikipedia.org/wiki/Persai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Persai","url":"https://www.vle.lt/straipsnis/persai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Persai","https://www.vle.lt/straipsnis/persai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"6caea62bd3d2c44936fd144d","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Pasak Teodoro Narbuto, remiantis Herodotu ir Strabonu, persai ilgai nežinojo šventyklų ir aukas atnašavo kalnuose.","context":"Autoriaus vertinimas; aprašomas senovės persų religinis gyvenimas.","support_ids":["t-216934","c-199562"],"source_refs":[{"kind":"internal_claim","claim_id":"t-216934","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199562","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Šventyklos Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­ riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo kalnai. Antikos žmonių šventyklos susidėdavo iš dviejų dalių: Na- os, kurioje stovėdavo indas su šventuoju vandeniu ir rinkdavosi žmonės bei dalyvaudavo apeigose; antroji dalis -Adytum, ku­ rioje stovėdavo stabai; ten teisę būti turėjo tik pašvęstieji asme­ nys, žyniai, vadai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"96655a87d8aba071c7d5fe2a","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Teodoras Narbutas rašo, kad persai ugnį garbino kaip dievybę.","context":"Autoriaus vertinimas; teiginys pateikiamas greta chaldėjų, egiptiečių, graikų, romėnų ir kitų tautų aprašymo.","support_ids":["t-217928","c-201158"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217928","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-201158","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­ dingos mūsų tėvynės istorijai. Šventoji ugnis Chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti kaip dievybę garbino ugnį. Gvebrai, ligi šiol išpažįstantys Zoroast- ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą, bet nemoka tos esybės pavadinti vardu."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Narso kariuomenės sutelkimas Pado žemupyje ir Taginos mūšis","claim_id":"t-212548","confidence":0.72},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Europa","claim_id":"t-213138","confidence":0.9},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Isteris","claim_id":"t-213715","confidence":0.84},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Skitija","claim_id":"t-214531","confidence":0.74},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Budinai","claim_id":"t-212385","confidence":0.68},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Gelonai","claim_id":"t-212385","confidence":0.68},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Skitija","claim_id":"t-214657","confidence":0.9},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Darijus","claim_id":"t-212905","confidence":0.71},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Graikai","claim_id":"t-213138","confidence":0.82},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Graikai","claim_id":"t-214844","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: df7d1fbe955aea63
+object_page_generated_at: '2026-09-20T05:00:55+00:00'
+object_page_source_checked_at: '2026-09-20T05:00:55+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Persai: Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneriai ar priešai. Šaltinių citatos.'
+object_page_seo_input_hash: 62ba4abde2951b6b2e8df1cddc66fcba763bdcdafaee41e5244613bd1a2cf2da
+object_page_seo_generated_at: '2026-09-20T05:00:55+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Persai
 
@@ -30,22 +40,129 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
 
 ## Teiginiai
 
-<a id="claim-t-214264"></a>
-- t-214264
-  teiginys: "Persų būriai įžengė į Europą ir, graikų sąjun gininkų remiami, brovėsi Dunojaus link."
-  atnaujinta: "2026-09-13 18:13"
+<a id="claim-t-189425"></a>
+- t-001
+  teiginys: "Narbutas mini, kad senovės persai turėjo karingą dievaitį Kaousą."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  ryšio_patikimumas: "susije_su -> Kalavijas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Persai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Persai\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-196619
+    - c-172312
 
-<a id="claim-t-213138"></a>
-- t-213138
+<a id="claim-t-189426"></a>
+- t-002
+  teiginys: "Narbutas šio dievo mitą sieja su senovės persų Oromazu ir Arimanu ir spėja iš jų kilmę."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Persai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Persai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172313
+
+<a id="claim-t-189427"></a>
+- t-003
+  teiginys: "Narbutas žalčių garbinimą vadina visuotiniu senovės prietaru ir tarp jį pažinojusių tautų mini persus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gotai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Persai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gotai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Persai\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172314
+
+<a id="claim-t-189428"></a>
+- t-004
+  teiginys: "Narbutas rašo, kad chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti ugnį garbino kaip dievybę."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Persai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Persai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172315
+
+<a id="claim-t-189429"></a>
+- t-005
+  teiginys: "Narbutas, remdamasis Herodotu ir Strabonu, rašo, kad persai ir kitos Rytų tautos ilgai nežinojo šventyklų, o aukas atnašavo kalnuose."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Persai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Persai\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-172316
+
+<a id="claim-t-192438"></a>
+- t-006
+  teiginys: "Teodoras Narbutas vaizduoja, kad Indatiras niekino graikus ir persus kaip svetimus žmones, o persai savo ruožtu niekino skitus kaip barbarus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Darijus: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Persai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Darijus: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Persai\" parinktas kaip owner_note_path. Targetas \"Darijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175232
+
+<a id="claim-t-192439"></a>
+- t-007
   teiginys: "514 m. pr. Kr. Darijui patraukus prieš Indatirą, persų būriai įžengė į Europą ir, remiami graikų sąjungininkų, brovėsi Dunojaus link."
-  atnaujinta: "2026-09-13 18:12"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,12 +181,12 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   temporalinis_llm_pakomentavimas: "Ištaisyti OCR lūžiai ir išskleistas laiko bei veikėjo kontekstas. Nepridėta aplinkybių apie skitų laikyseną."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-196619
+    - c-175233
 
-<a id="claim-t-215390"></a>
-- t-215390
+<a id="claim-t-192440"></a>
+- t-008
   teiginys: "552 m. Naršo vadovaujamoje Justiniano kariuomenėje prie Pado žemupio greta longobardų ir persų buvo herulų."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -86,65 +203,8 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas iki sakinio apie persų buvimą kariuomenėje ir išskleistas vadovavimo bei vietos kontekstas. Nepridėta daugiau apie Romos užėmimą ar Totilos žūtį."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-216934"></a>
-- t-216934
-  teiginys: "Narbutas, remdamasis Herodotu ir Strabonu, rašo, kad persai ir kitos Rytų tautos ilgai nežinojo šventyklų, o aukas atnašavo kalnuose."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Persai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Persai\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-199562
-
-<a id="claim-t-217928"></a>
-- t-217928
-  teiginys: "Narbutas rašo, kad chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti ugnį garbino kaip dievybę."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Persai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Persai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-201158
-
-<a id="claim-t-219991"></a>
-- t-219991
-  teiginys: "Narbutas žalčių garbinimą vadina visuotiniu senovės prietaru ir tarp jį pažinojusių tautų mini persus."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Persai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Persai\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-200185
+    - c-175234
 
 ## Citatos
 
@@ -168,6 +228,8 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-172313
   autorius: "Teodoras Narbutas"
@@ -185,6 +247,8 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-172314
   autorius: "Teodoras Narbutas"
@@ -202,6 +266,8 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-172315
   autorius: "Teodoras Narbutas"
@@ -222,6 +288,8 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-172316
   autorius: "Teodoras Narbutas"
@@ -245,6 +313,8 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-175232
   autorius: "Teodoras Narbutas"
@@ -269,6 +339,8 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-175233
   autorius: "Teodoras Narbutas"
@@ -289,6 +361,8 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-175234
   autorius: "Teodoras Narbutas"
@@ -310,100 +384,8 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196619
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 56"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
-  citata_originali: |
-    Šis, priplaukęs su 30 galerų, labai juos sumušė,
-    paėmė didelį grobį ir belaisvių, tarp kurių buvo ir kara­
-    liaus brolis.
-    39
-    Po kurio laiko, 514 metais prieš Kristaus gimimą, kai
-    skitai nė neketino žemintis, pats Darijus patraukė prieš
-    Indatirą. Persų būriai įžengė į Europą ir, graikų sąjun­
-    gininkų remiami, brovėsi Dunojaus link.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213138
-    - t-214264
-
-- id: c-199562
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 263."
-  citata_originali: |
-    Šventyklos
-    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
-    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
-    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
-    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
-    kalnai.
-    Antikos žmonių šventyklos susidėdavo iš dviejų dalių: Na-
-    os, kurioje stovėdavo indas su šventuoju vandeniu ir rinkdavosi
-    žmonės bei dalyvaudavo apeigose; antroji dalis -Adytum, ku­
-    rioje stovėdavo stabai; ten teisę būti turėjo tik pašvęstieji asme­
-    nys, žyniai, vadai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216934
-
-- id: c-200185
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
-  citata_originali: |
-    Šiuos prietarus žinojo ir Lietuvos rusinai.
-    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
-    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
-    gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
-    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219991
-
-- id: c-201158
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 223"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
-  citata_originali: |
-    Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
-    pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
-    dingos mūsų tėvynės istorijai.
-    Šventoji ugnis
-    Chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti kaip
-    dievybę garbino ugnį. Gvebrai, ligi šiol išpažįstantys Zoroast-
-    ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą,
-    bet nemoka tos esybės pavadinti vardu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217928
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Rėmė Persai: [[objektai/grupes/Graikai]]

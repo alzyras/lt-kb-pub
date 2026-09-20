@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Romnai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Romnai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Romnai'
+  - Romnai
 aliases:
-  - 'Romnai'
+  - Romnai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fdbe6405d2e8c2f82052fba5"
-canonical_name: "Romnai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Romnai","Romnai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fdbe6405d2e8c2f82052fba5
+canonical_name: Romnai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Romnai
+  - Romnai (vieta)
 sameAs: []
-canonical_biography: "Prie Romnos upės žiočių yra miestelis, vadinamas Romnais arba Romne."
+canonical_biography: 'Prie Romnos upės žiočių yra miestelis, vadinamas Romnais arba Romne.'
 ---
 # Romnai (vieta)
 
@@ -72,6 +72,5 @@ Prie Romnos upės žiočių yra miestelis, vadinamas Romnais arba Romne.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

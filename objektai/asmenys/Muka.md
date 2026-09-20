@@ -44,48 +44,10 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
 
 ## Teiginiai
 
-<a id="claim-t-224898"></a>
-- t-224898
-  teiginys: "Muka su 19 plėšikautojų apsupo ir nukovė 45 lietuvių raitelius."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204665
-
-<a id="claim-t-222501"></a>
-- t-222501
-  teiginys: "Dusburgietis teigia, kad muka mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene lapkričio 21 dieną į Mazovijos žemę ir, plėšdamas bei degindamas, nusiaubė Plocko vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės kaimų, daugybę vienuolynams bei kilmingiesiems priklausančių dvarų, 30 parapinių bažnyčių ir koplyčių su daug dievo garbei skirtų maldos namų."
-  atnaujinta: "2026-09-13 18:02"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-223932"></a>
-- t-223932
-  teiginys: "Muka su savo bendrais paspruko nuo gausių Lietuvos raitelių, numetęs maistą, gėrimą ir kitus trukdančius daiktus."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Muka: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Muka\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202555
-
-<a id="claim-t-222026"></a>
-- t-222026
+<a id="claim-t-60177"></a>
+- t-001
   teiginys: "1324 m. Varmės vyskupystės vyras Muka su 19 plėšikautojų dykrose apsupo ir nukovė 45 lietuvių raitelius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lietuviai: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -99,7 +61,23 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
-    - c-202555
+    - c-60810
+
+<a id="claim-t-60178"></a>
+- t-002
+  teiginys: "Muka su savo bendrais paspruko nuo gausių Lietuvos raitelių, numetęs maistą, gėrimą ir kitus trukdančius daiktus."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Muka: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Muka\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60809
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -150,6 +128,8 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-60810
   autorius: "Petras Dusburgietis"
@@ -173,45 +153,5 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202555
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 220"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 220."
-  citata_originali: |
-    Dar apie tą patį
-    Kitą kartą tas pats Muka patraukė su būriu plėšikautojų prieš netikėlius ir, atvykęs į
-    dykras, išvydo daugybę Lietuvos raitelių; pabūgęs tokios gausybės bei galybės, numetė
-    į šalį valgį bei gėrimą ir visa kita, kas galėjo trukdyti, ir su savo bendrais paspruko bei
-    išvengė mirties. Neilgai trukus tas pats Muka susirūpinęs po ilgų svarstymų tarė savo
-    bendrams: „Mums prisieis mirti badu, nes neturime maisto. Dėl to patariu bent garbingai
-    numirti. Sėlinkime paskui mūsų priešus ir žiūrėkime, ar nepavyks šio ar to iš jų laimėti“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222026
-    - t-223932
-
-- id: c-204665
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 220"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 220."
-  citata_originali: |
-    Tais pačiais metais ir	tuo pat laiku vienas Varmės vyskupystės vyras, vardu Muka,
-    su 19 plėšikautojų patraukė link Lietuvos, aptiko dykrose 45 lietuvių raitelius, sumaniai
-    juos apsupo ir visus nukovė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224898
-
+  pagrindzia:
+    - t-001

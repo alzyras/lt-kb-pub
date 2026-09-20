@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Žąslai (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Žąslai (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Žąslai'
+  - Žąslai
 aliases:
-  - 'Žąslai'
+  - Žąslai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Žąslai (daiktas)
 
@@ -62,9 +59,25 @@ Prie Ogrodnikų kaimo iškastuose pilkapiuose rasta žąslų, tinkančių viduti
     vidutinio dydžio arkliui, bei surūdijusių geležinių nuolau­
     žų.
   statusas: verified
-  atnaujinta: "2026-09-12 23:39"
+  atnaujinta: "2026-09-13 18:04"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-215107"></a>
+- t-001
+  teiginys: "Prie Ogrodnikų kaimo iškastuose pilkapiuose rasta žąslų, tinkančių vidutinio dydžio arkliui."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196188
 

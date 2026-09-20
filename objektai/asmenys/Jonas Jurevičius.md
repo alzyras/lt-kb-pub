@@ -41,6 +41,20 @@ canonical_biography: "Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę n
 
 Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų ......................
 
+## Teiginiai
+
+<a id="claim-t-202175"></a>
+- t-001
+  teiginys: "Štai apie 1510 m. Kauno miestietis Jonas Jurevičius tvirtino, kad pas Kėdainių miestietį Pacų Raukutį yra sudėtos jo prekės: 7laštai druskos, beveik 7 audinių rietimai, varinis katilas, vaškas."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185522
+
 ## Citatos
 
 - id: c-185522
@@ -57,20 +71,5 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202175"></a>
-- t-001
-  teiginys: "Štai apie 1510 m. Kauno miestietis Jonas Jurevičius tvirtino, kad pas Kėdainių miestietį Pacų Raukutį yra sudėtos jo prekės: 7laštai druskos, beveik 7 audinių rietimai, varinis katilas, vaškas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185522
-

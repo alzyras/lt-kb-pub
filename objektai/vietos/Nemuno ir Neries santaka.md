@@ -33,6 +33,20 @@ historical_names: []
 
 Nemuno vandens kelias ir pirmoji gyvenvietė Santakoje.
 
+## Teiginiai
+
+<a id="claim-t-201702"></a>
+- t-001
+  teiginys: "Nemuno vandens kelias ir pirmoji gyvenvietė Santakoje."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185049
+
 ## Citatos
 
 - id: c-185049
@@ -49,20 +63,5 @@ Nemuno vandens kelias ir pirmoji gyvenvietė Santakoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201702"></a>
-- t-001
-  teiginys: "Nemuno vandens kelias ir pirmoji gyvenvietė Santakoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185049
-

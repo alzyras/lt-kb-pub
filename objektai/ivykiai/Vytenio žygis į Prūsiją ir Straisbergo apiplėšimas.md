@@ -39,6 +39,33 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-185791"></a>
+- t-001
+  teiginys: "Per žygį į Prūsiją lietuviai rugsėjo pabaigoje per šv. Mykolą apiplėšė Straisbergo miestą, kur žuvo daug bažnyčiose susirinkusių žmonių."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-178612
+
+<a id="claim-t-196287"></a>
+- t-002
+  teiginys: "Kojelavičius aiškina, kad Vytenis, galbūt dėl Livonijos karo ar ankstesnio pralaimėjimo, pasiuntė lengvosios raitijos būrius grobio į Prūsiją."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178612
+
 ## Citatos
 
 - id: c-178612
@@ -79,34 +106,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-185791"></a>
-- t-001
-  teiginys: "Per žygį į Prūsiją lietuviai rugsėjo pabaigoje per šv. Mykolą apiplėšė Straisbergo miestą, kur žuvo daug bažnyčiose susirinkusių žmonių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-178612
-
-<a id="claim-t-196287"></a>
-- t-002
-  teiginys: "Kojelavičius aiškina, kad Vytenis, galbūt dėl Livonijos karo ar ankstesnio pralaimėjimo, pasiuntė lengvosios raitijos būrius grobio į Prūsiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178612
-

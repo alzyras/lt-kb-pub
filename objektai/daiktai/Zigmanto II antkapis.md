@@ -47,6 +47,26 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-65014"></a>
+- t-001
+  teiginys: "Krokuvos katedroje esančiame Zigmanto II antkapyje Zigmantas II Senasis pavaizduotas kaip Lietuvos didysis kunigaikštis ir Lenkijos karalius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-65533
+
+<a id="claim-t-65015"></a>
+- t-002
+  teiginys: "Zigmanto II antkapis buvo Krokuvos katedroje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-65534
+
 ## Citatos
 
 - id: c-65533
@@ -64,7 +84,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-65534
@@ -83,26 +103,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-65014"></a>
-- t-001
-  teiginys: "Krokuvos katedroje esančiame Zigmanto II antkapyje Zigmantas II Senasis pavaizduotas kaip Lietuvos didysis kunigaikštis ir Lenkijos karalius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-65533
-
-<a id="claim-t-65015"></a>
-- t-002
-  teiginys: "Zigmanto II antkapis buvo Krokuvos katedroje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-65534
-

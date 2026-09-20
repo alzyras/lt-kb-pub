@@ -67,9 +67,9 @@ Nenurodyta
     - c-169075
 
 <a id="claim-t-185715"></a>
-- t-185715
+- t-002
   teiginys: "Kojelavičiaus pasakojime Surminas per kryžiuočių atokvėpį išvedė Kolainių įgulą ir išgabeno vertingiausius daiktus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,9 +91,9 @@ Nenurodyta
     - c-169076
 
 <a id="claim-t-196180"></a>
-- t-196180
+- t-003
   teiginys: "Kojelavičiaus pasakojime kryžiuočiai užėmė tuščią Kolainių pilį, sugriovė gynybinius įrenginius ir nebesiveržė toliau."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -167,12 +167,11 @@ Nenurodyta
     tokią, rodos, beviltišką.
   citata_rodoma: "Pirmiausia\nėmėsi kariauti Meinhardas, Prūsijos magistras, apie\nbalandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos\nNemuno pakrantėje esančią Lietuvos pilį. Penki šim­\ntai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų\nniokoti, o du tūkstančiai pėstininkų atkakliai puolė\napsuptą pilį. Gynė ją šimtas dvidešimt raitelių, vado­\nvaujamų Surmino, ryžtingo ir prityrusio vyro; narsiai\nir ilgai pilies įgula atmušinėjo priešų antpuolius, ne­\nleisdama jiems be nuostolių supti tvirtovės, mat atvi­\nrame lauke šie buvo nesunkiai sužeidžiami ietimis ir\nstrėlėmis; kadangi įgula buvo nedidelė, o priešas, pul­\ndamas iš visų pusių, nepaliauj amai sekino menkas jė­\ngas, vos ne vos įstengiančias vienu metu užstoti visą\ngynybinę sieną, lietuviai patyrė didelių nuostolių; kai\nvos dvylika jų liko nesužeistų, pilėnams iškilo baisus\npavojus, tačiau netikėta priešų klaida pakeitė padėtį,\ntokią, rodos, beviltišką."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-169076
@@ -215,7 +214,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185715
-    - t-196180
-
+  pagrindzia:
+    - t-002
+    - t-003

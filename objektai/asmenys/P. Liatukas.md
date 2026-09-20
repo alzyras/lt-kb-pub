@@ -34,6 +34,42 @@ canonical_biography: "Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Lia
 
 Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įsakė Kaune esančio 2-ojo pėstininkų pulko vadui karin.
 
+## Teiginiai
+
+<a id="claim-t-39622"></a>
+- t-001
+  teiginys: "P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Prienai: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "P. Liatukas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prienai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "P. Liatukas įsakė atsiųsti kareivių būrį į Prienus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "P. Liatukas siuntė į Prienai (0.93); P. Liatukas gynė Nemunas (0.72)"
+  pagrindžia:
+    - c-41426
+
+<a id="claim-t-39623"></a>
+- t-002
+  teiginys: "P. Liatukas vasario 8 d. įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Prienai: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "P. Liatukas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prienai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo P. Liatuko įsakymą išsiųsti rinktinę į Prienus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "P. Liatukas siuntė į Prienai (0.94)"
+  pagrindžia:
+    - c-41427
+
 ## Citatos
 
 - id: c-41426
@@ -53,7 +89,7 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-41427
@@ -77,45 +113,8 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 ## Ryšiai
 - P. Liatukas siuntė į [[objektai/vietos/Prienai]]
-
-## Teiginiai
-
-<a id="claim-t-39622"></a>
-- t-001
-  teiginys: "P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Prienai: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "P. Liatukas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prienai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "P. Liatukas įsakė atsiųsti kareivių būrį į Prienus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "P. Liatukas siuntė į Prienai (0.93); P. Liatukas gynė Nemunas (0.72)"
-  pagrindžia:
-    - c-41426
-
-<a id="claim-t-39623"></a>
-- t-002
-  teiginys: "P. Liatukas vasario 8 d. įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Prienai: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "P. Liatukas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prienai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo P. Liatuko įsakymą išsiųsti rinktinę į Prienus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "P. Liatukas siuntė į Prienai (0.94)"
-  pagrindžia:
-    - c-41427
-

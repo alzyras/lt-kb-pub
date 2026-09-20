@@ -50,6 +50,51 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-192023"></a>
+- t-001
+  teiginys: "Narbutas, remdamasis Foigtu ir vietiniais padavimais, Šv. Adalberto bažnytėlės pradžią sieja su XIII a. pabaiga, o mūrinę statybą – su 1422 m."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "interpretacija"
+  ryšio_patikimumas: "susije_su -> Adalbertas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Adalbertas: mention_match, person, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra\" parinktas kaip owner_note_path. Targetas \"Adalbertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas bažnytėlės objektas ir palikta šaltinių atribucija. Nepridėta papildomų išvadų apie Otokarą ar Sembos užkariavimą."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174903
+
+<a id="claim-t-192024"></a>
+- t-002
+  teiginys: "1669 m. didžiulė audra visiškai išgriovė Šv. Adalberto bažnytėlės sienas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Adalbertas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Adalbertas: mention_match, person, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra\" parinktas kaip owner_note_path. Targetas \"Adalbertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1669 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Neaiškus įvardis pakeistas konkrečiu note objektu. Nepridėta informacijos apie griuvėsių vietą ar jūros kranto pokyčius."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174904
+    - c-175282
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Foigtu ir vietiniais padavimais, Šv. Adalberto bažnytėlės pradžią sieja su XIII a. pabaiga, o mūrinę statybą – su 1422 m.'
@@ -96,6 +141,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-174904
   autorius: "Teodoras Narbutas"
@@ -119,6 +166,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-175282
   autorius: "Teodoras Narbutas"
@@ -141,74 +190,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195411
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 186"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 186."
-  citata_originali: |
-    Šiandien tų griuvėsių liku­
-    čius galima pamatyti beveik pačioje jūros pakrantėje, į
-    kairę nuo kelio, einančio iš Laukstetų į Litausdorfo kaimą.
-    1669 metais didžiulė audra visiškai išgriovė šio pastato
-    sienas.
-    189
-    Ne mažiau įdomios yra pono Foigto studijos apie pra­
-    dingusią, jūrai užliejus, Vitlandijos žemę, taip pat po tos
-    pačios gamtinės revoliucijos, kuri Memelio vagą pavertė
-    marių dalimi.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-212168"></a>
-- t-001
-  teiginys: "1669 m. didžiulė audra visiškai išgriovė Šv. Adalberto bažnytėlės sienas."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Adalbertas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Adalbertas: mention_match, person, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra\" parinktas kaip owner_note_path. Targetas \"Adalbertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1669 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Neaiškus įvardis pakeistas konkrečiu note objektu. Nepridėta gretimo puslapio ir kitos temos konteksto."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-195411
-
-<a id="claim-t-214026"></a>
-- t-002
-  teiginys: "Narbutas, remdamasis Foigtu ir vietiniais padavimais, Šv. Adalberto bažnytėlės pradžią sieja su XIII a. pabaiga, o mūrinę statybą – su 1422 m."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  teiginio_tipas: "interpretacija"
-  ryšio_patikimumas: "susije_su -> Adalbertas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Adalbertas: mention_match, person, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra\" parinktas kaip owner_note_path. Targetas \"Adalbertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas bažnytėlės objektas ir palikta šaltinių atribucija. Nepridėta papildomų išvadų apie Otokarą ar Sembos užkariavimą."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
+  pagrindzia:
+    - t-002

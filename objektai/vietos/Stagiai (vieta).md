@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Stagiai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Stagiai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Stagiai'
+  - Stagiai
 aliases:
-  - 'Stagiai'
+  - Stagiai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5523bfd054df2fff524b1a75"
-canonical_name: "Stagiai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Stagiai","Stagiai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5523bfd054df2fff524b1a75
+canonical_name: Stagiai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Stagiai
+  - Stagiai (vieta)
 sameAs: []
-canonical_biography: "Stagių piliakalnio legendą au torius panaudoja pailiustruoti minčiai, jog už neteisingu mą ir šventvagystę Dievas baudžia šiame gyvenime."
+canonical_biography: 'Stagių piliakalnio legendą au torius panaudoja pailiustruoti minčiai, jog už neteisingu mą ir šventvagystę Dievas baudžia šiame gyvenime.'
 place_authority: true
 historical_names: []
 ---

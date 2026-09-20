@@ -50,39 +50,3 @@ Krzysztofas Pietkicwiczius sieja rašytinio dokumento išplitimą su žemėvaldo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Teiginiai
-
-<a id="claim-t-207904"></a>
-- t-001
-  teiginys: "Krzysztofas Pietkicwiczius sieja rašytinio dokumento išplitimą su žemėvaldos santykių raida."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190521
-
-## Citatos
-
-- id: c-190521
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 144"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 144."
-  citata_originali: |
-    Krzysztofas Pietkicwiczius, aptardamas didžiojo kunigaikščio Aleksandro
-    laikų situaciją, suformuluoja tezę, kad rašytinio dokumento išplitimą, jo svarbos suvo-
-    kimą visuomenėje reikia sieti su žemėvaldos santykių raida, lietuvių bajorijos virtimo
-    XV a. žemvaldžių luomu procesu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-

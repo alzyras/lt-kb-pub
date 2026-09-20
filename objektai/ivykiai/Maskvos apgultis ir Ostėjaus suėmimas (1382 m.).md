@@ -46,6 +46,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206886"></a>
+- t-001
+  teiginys: "1382 m. Tochtamyšas apsupo Maskvą, o kunigaikštis Ostėjus, Narbuto vadinamas lietuviu ir Algirdo vaikaičiu, organizavo miesto gynybą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189501
+
 ## Santrauka
 
 1382 m. Tochtamyšas apsupo Maskvą, o kunigaikštis Ostėjus, Narbuto vadinamas lietuviu ir Algirdo vaikaičiu, organizavo miesto gynybą.
@@ -72,20 +86,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206886"></a>
-- t-001
-  teiginys: "1382 m. Tochtamyšas apsupo Maskvą, o kunigaikštis Ostėjus, Narbuto vadinamas lietuviu ir Algirdo vaikaičiu, organizavo miesto gynybą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189501
-

@@ -48,6 +48,32 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201982"></a>
+- t-001
+  teiginys: "Senojo Kauno miesto antspaudas Ankstyviausias gerai išlikęs Kauno miesto antspaudas buvo įspaustas 1471 m. Kauno miesto tarybos rašte Rygos tarybai."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185329
+
+<a id="claim-t-201983"></a>
+- t-002
+  teiginys: "Miesto savivalda buvo miestiečių bendruomenės būklė ir kartu įrankis užtikrinti ir ginti savo teises ne visada miestiečiams palankioje luominėje visuomenėje ir santykiuose su kitais miestais."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185330
+
 ## Citatos
 
 - id: c-185329
@@ -68,7 +94,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185330
@@ -87,32 +113,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201982"></a>
-- t-001
-  teiginys: "Senojo Kauno miesto antspaudas Ankstyviausias gerai išlikęs Kauno miesto antspaudas buvo įspaustas 1471 m. Kauno miesto tarybos rašte Rygos tarybai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185329
-
-<a id="claim-t-201983"></a>
-- t-002
-  teiginys: "Miesto savivalda buvo miestiečių bendruomenės būklė ir kartu įrankis užtikrinti ir ginti savo teises ne visada miestiečiams palankioje luominėje visuomenėje ir santykiuose su kitais miestais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185330
-

@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Pilvė (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Pilvė (vieta)
+identifikacija: vieta
 variantai:
-  - 'Pilvė'
+  - Pilvė
 aliases:
-  - 'Pilvė'
+  - Pilvė
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-55b9cb2806d2c47f0d37a69d"
-canonical_name: "Pilvė (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pilvė","Pilvė (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-55b9cb2806d2c47f0d37a69d
+canonical_name: Pilvė (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pilvė
+  - Pilvė (vieta)
 sameAs: []
-canonical_biography: "Pilviškių mies telio šiapus Pilvės ir Šešupės nieko neliko."
+canonical_biography: Pilviškių mies telio šiapus Pilvės ir Šešupės nieko neliko.
 ---
 # Pilvė (vieta)
 
@@ -71,6 +71,5 @@ Pilviškių mies telio šiapus Pilvės ir Šešupės nieko neliko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -38,6 +38,20 @@ historical_names: []
 
 Susinėrę ties Ryga, traukė per Jelgavą į Tauriavietės pilį; tenai eidamas žemgalius ir žemai čius, kurie norėjo dar remtis, išblaškė ir, ties minavota pilė sustoję į abažą, ėmė apygardas terioti ir javus naikinti, kaimas deginti.
 
+## Teiginiai
+
+<a id="claim-t-201176"></a>
+- t-001
+  teiginys: "Susinėrę ties Ryga, traukė per Jelgavą į Tauriavietės pilį; tenai eidamas žemgalius ir žemai čius, kurie norėjo dar remtis, išblaškė ir, ties minavota pilė sustoję į abažą, ėmė apygardas terioti ir javus naikinti, kaimas deginti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184526
+
 ## Citatos
 
 - id: c-184526
@@ -61,20 +75,5 @@ Susinėrę ties Ryga, traukė per Jelgavą į Tauriavietės pilį; tenai eidamas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201176"></a>
-- t-001
-  teiginys: "Susinėrę ties Ryga, traukė per Jelgavą į Tauriavietės pilį; tenai eidamas žemgalius ir žemai čius, kurie norėjo dar remtis, išblaškė ir, ties minavota pilė sustoję į abažą, ėmė apygardas terioti ir javus naikinti, kaimas deginti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184526
-

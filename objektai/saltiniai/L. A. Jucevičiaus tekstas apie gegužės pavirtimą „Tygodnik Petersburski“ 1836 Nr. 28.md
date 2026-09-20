@@ -32,6 +32,24 @@ media_all_json: |-
 
 Narbuto teigimu, Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 aprašė ilgą legendą apie gegužės pavirtimą.
 
+## Teiginiai
+
+<a id="claim-t-191848"></a>
+- t-001
+  teiginys: "Narbuto teigimu, Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 aprašė ilgą legendą apie gegužės pavirtimą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1836 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas citatoje vartojamas Jucevičiaus vardas ir palikta atribucija legendos kontekstui. Nepridėta paties pavirtimo turinio."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174730
+
 ## Citatos
 
 - id: c-174730
@@ -49,41 +67,5 @@ Narbuto teigimu, Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195144
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 480"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 480."
-  citata_originali: |
-    O taip atsitiktų, jeigu aš pateikčiau ilgą legendą
-    apie gegužės pavirtimą, kurio aprašymu ekskunigas Adomas Ju­
-    cevičius užėmė nemenką „Tygodnik Petersburski“ (1836. Nr. 28)
-    dalį. Vis dėlto patį pavirtimo turinį privalau aprašyti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-214335"></a>
-- t-001
-  teiginys: "Narbuto teigimu, Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 aprašė ilgą legendą apie gegužės pavirtimą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1836 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas citatoje vartojamas Jucevičiaus vardas ir palikta atribucija legendos kontekstui. Nepridėta paties pavirtimo turinio."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-195144
-

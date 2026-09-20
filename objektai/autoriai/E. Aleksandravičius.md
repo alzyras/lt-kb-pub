@@ -63,6 +63,25 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-187793"></a>
+- t-001
+  teiginys: "E. Aleksandravičius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Reda Griškaitė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "E. Aleksandravičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Reda Griškaitė: mention_match, author, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"E. Aleksandravičius\" parinktas kaip owner_note_path. Targetas \"Reda Griškaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-170735
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -101,38 +120,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-190152
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 326"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 326."
-  citata_originali: |
-    Poznań, 1988). Vis dėlto LDK tradicijas pamažu pradėjo matyti ir lietuvių istoriografija
-    (M. Lukšienė, vėliau „Tautinio atgimimo studijų“ kompanija: E. Aleksandravičius, A. Ku-
-    lakauskas ir kiti). Šiandien tokią tendenciją tęsia gausėjantys tyrėjų būriai Lietuvoje, Bal-
-    tarusijoje ir Lenkijoje.
-  citata_rodoma: "LDK tradicijas pamažu pradėjo matyti ir lietuvių istoriografija \n(M. Lukšienė, vėliau „Tautinio atgimimo studijų“ kompanija: E. Aleksandravičius, A. Ku-\nlakauskas ir kiti). Šiandien"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-207535"></a>
-- t-001
-  teiginys: "E. Aleksandravičius priskiriamas lietuvių istoriografijai, kuri pradėjo matyti LDK tradicijas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  pagrindžia:
-    - c-190152
-

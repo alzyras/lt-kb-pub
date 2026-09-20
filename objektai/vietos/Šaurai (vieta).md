@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Šaurai (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Šaurai (vieta)
+identifikacija: vieta
 variantai:
-  - 'Šaurai'
+  - Šaurai
 aliases:
-  - 'Šaurai'
+  - Šaurai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4c0a4ebb4c0b205343742d03"
-canonical_name: "Šaurai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Šaurai","Šaurai (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4c0a4ebb4c0b205343742d03
+canonical_name: Šaurai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šaurai
+  - Šaurai (vieta)
 sameAs: []
-canonical_biography: "Šaurų dvaro bibliotekoje buvo saugoma nemažai D. Poškos rankraščių."
+canonical_biography: Šaurų dvaro bibliotekoje buvo saugoma nemažai D. Poškos rankraščių.
 ---
 # Šaurai (vieta)
 
@@ -72,6 +72,5 @@ canonical_biography: "Šaurų dvaro bibliotekoje buvo saugoma nemažai D. Poško
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

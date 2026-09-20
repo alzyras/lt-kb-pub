@@ -33,6 +33,40 @@ canonical_biography: "Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su 
 
 Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja su Kijevo įkūrimu arba atnaujinimu. Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko ir Choryvo miestų atnaujinimo epocha.
 
+## Teiginiai
+
+<a id="claim-t-191261"></a>
+- t-001
+  teiginys: "Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja su Kijevo įkūrimu arba atnaujinimu."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "pastate -> Kijevas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sčekas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sčekas kartu su kitais broliais siejamas su Kijevo įkūrimu arba atnaujinimu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+  pagrindžia:
+    - c-174143
+
+<a id="claim-t-197719"></a>
+- t-002
+  teiginys: "Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko ir Choryvo miestų atnaujinimo epocha."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174143
+
 ## Citatos
 
 - id: c-174143
@@ -57,103 +91,6 @@ Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195241
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 379"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 379."
-  citata_originali: |
-    Iš tiesų truputį vėliau jie iške­
-    liavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­
-    tėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami
-    prie Dnepro net savo pavadinimo pėdsakų. Tačiau slavai
-    ir toliau gyveno šiame mieste ir jo apylinkėse.
-    Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko
-    ir Choryvo miestų atnaujinimo epocha. Padavimas teigia,
-    jog jie buvę įkūrėjai ar atnaujintojai Kijevo, be to, ga­
-    lėjo būti, jog pirmojo vardas buvo šiek tiek panašus į
-    senovinį miesto pavadinimą; iš čia ir atsirado naujas
-    Kijev horod, Kijev perevoz na Dnepre pavadinimas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-212521
-    - t-212820
-
-- id: c-195640
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 379-380"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 379-380."
-  citata_originali: |
-    Choryvas susijęs su Kareivų pavar­
-    1 Arabų rašytojai Kijevo kraštą vadino Kujėriais. 2r. akademiko
-    iš St. Peterburgo Frano veikalą „De Chazaris“ (ištrauka iš Januto
-    geografijos žodyno).
-    i.
-    369
-
-    de; Sčeiko atgarsį matome Stetkevičių arba Steckių gimi­
-    nėse. Tai netgi leidžia daryti prielaidą, jog minėti broliai
-    galėjo priklausyti krivičių tautai ar kuriai kitai su lietu­
-    viais susigiminiavusiai slavų kartai
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-213769"></a>
-- t-001
-  teiginys: "Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja su Kijevo įkūrimu arba atnaujinimu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "pastate -> Kijevas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sčekas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sčekas kartu su kitais broliais siejamas su Kijevo įkūrimu arba atnaujinimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  pagrindžia:
-    - c-195241
-
-<a id="claim-t-212521"></a>
-- t-212521
-  teiginys: "Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko ir Choryvo miestų atnaujinimo epocha."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195241
-
-<a id="claim-t-212820"></a>
-- t-212820
-  teiginys: "Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko ir Choryvo miestų atnaujinimo epocha. Padavimas teigia, jog jie buvę įkūrėjai ar atnaujintojai Kijevo, be to, ga lėjo būti, jog pirmojo vardas buvo šiek tiek panašus į senovinį miesto pavadinimą; iš čia ir."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195241
-
+    - t-002

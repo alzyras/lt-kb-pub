@@ -26,6 +26,28 @@ media_all_json: |-
 
 Teodoro Narbuto aiškinime Plinijus Panotii vadino pasakojimo apie ilgaausius žmones veikėjus.
 
+## Teiginiai
+
+<a id="claim-t-191710"></a>
+- t-001
+  teiginys: "Teodoro Narbuto aiškinime Plinijus Panotii vadino pasakojimo apie ilgaausius žmones veikėjus."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Plinijaus „Naturalis historia“: owner_note_path, source"
+  ryšio_targeto_parinkimas: "Romai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijaus „Naturalis historia“\" parinktas kaip owner_note_path. Targetas \"Romai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174592
+
 ## Citatos
 
 - id: c-174592
@@ -51,24 +73,5 @@ Teodoro Narbuto aiškinime Plinijus Panotii vadino pasakojimo apie ilgaausius ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-212917"></a>
-- t-001
-  teiginys: "Teodoro Narbuto aiškinime Plinijus Panotii vadino pasakojimo apie ilgaausius žmones veikėjus."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Romai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijaus „Naturalis historia“: owner_note_path, source"
-  ryšio_targeto_parinkimas: "Romai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijaus „Naturalis historia“\" parinktas kaip owner_note_path. Targetas \"Romai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
+  pagrindzia:
+    - t-001

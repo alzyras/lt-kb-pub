@@ -42,6 +42,21 @@ historical_names: []
 
 1466 m. Torne buvo pasirašyta taika, kuria ordinas pasidarė Lenkijos vasalu ir perleido jai daug žemių.
 
+## Teiginiai
+
+<a id="claim-t-193280"></a>
+- t-001
+  teiginys: "1466 m. Torne buvo pasirašyta taika, kuria ordinas pasidarė Lenkijos vasalu ir perleido jai daug žemių."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-176009
+
 ## Citatos
 
 - id: c-176009
@@ -59,21 +74,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193280"></a>
-- t-001
-  teiginys: "1466 m. Torne buvo pasirašyta taika, kuria ordinas pasidarė Lenkijos vasalu ir perleido jai daug žemių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-176009
-

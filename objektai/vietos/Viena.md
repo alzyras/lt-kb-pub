@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Viena'
+pavadinimas: Viena
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
@@ -8,9 +8,9 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1683 m.'
-  - '1936 m.'
-  - '2026 m.'
+  - 1683 m.
+  - 1936 m.
+  - 2026 m.
 date_start: '1683'
 date_end: '2026'
 sukurta: ''
@@ -19,29 +19,41 @@ tags:
   - vieta
   - sostinė
 amziai:
-  - 'XVII'
-  - 'XXI'
+  - XVII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-358995e43d65ce43d58d11d6"
-canonical_name: "Viena"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Viena"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-358995e43d65ce43d58d11d6
+canonical_name: Viena
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Viena
 sameAs: []
-canonical_biography: "Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio."
+canonical_biography: 'Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Viena","url":"https://lt.wikipedia.org/wiki/Viena","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:08:35+00:00","source_checked_at":"2026-09-20T11:08:35+00:00","counts":{"relations":1,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Viena","url":"https://lt.wikipedia.org/wiki/Viena","publisher":"Vikipedija","language":"lt","article_id":"7480","revision_id":"7912601","published_at":"2026-08-26T15:37:16Z","version_pk":"","content_hash":"570608973d630103bbe512f7cee31c7d066293f0ed716b3874e4cf0ec478f875","retrieved_at":"2026-09-20T11:07:22+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Viena&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"7480"}},"intro":"Viena (vok. Wien) – didžiausias Austrijos miestas, sostinė ir kartu viena iš devynių Austrijos žemių. Pagal gyventojų skaičių Viena yra šeštas pagal dydį miestas Europos Sąjungoje. Miestas įsikūręs rytinėje šalies dalyje netoli sienų su Čekija, Slovakija ir Vengrija. Mieste reziduoja kai kurios tarptautinės organizacijos (JTO, TATENA, OPEC ir kt.). Šimtmečiais Viena buvo Habsburgų dinastijos rezidencija. Taip miestas tuo metu išsivystė į vieną iš Europos kultūros ir politikos centrų. 2001 m. Vienos senamiestis buvo įrašytas į UNESCO Pasaulio kultūros paveldo sąrašą. Viena kartais vadinama „Muzikos miestu“ dėl reikšmingo muzikinio paveldo — vieni garsiausių kompozitorių Volfgangas Amadėjus Mocartas ir Liudvikas van Bethovenas šį miestą vadino savo namais. Viena taip pat sulaukia įvertinimo dėl geros gyvenymo kokybės — Mercer sudarytame miestų, kuriuose geriausia gyventi, sąraše paprastai įvertinama geriausiai.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Viena","url":"https://lt.wikipedia.org/wiki/Viena","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Viena"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Sapiegos","claim_id":"t-91448","confidence":0.62}],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3ad5622e65775e7e
+object_page_generated_at: '2026-09-20T11:08:35+00:00'
+object_page_source_checked_at: '2026-09-20T11:08:35+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Viena: Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino su Lietuvos…'
+object_page_seo_input_hash: 05da2b5c2c4cfde039873f7b7445b6fdb7883459913adfa49f57596829ec5d04
+object_page_seo_generated_at: '2026-09-20T11:08:35+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Viena
 
@@ -51,23 +63,10 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 
 ## Teiginiai
 
-<a id="claim-t-207807"></a>
-- t-207807
-  teiginys: "Kelionė iš Vienos į Vilnių užtrukdavo 43-53 dienas."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-190546
-
-<a id="claim-t-220496"></a>
-- t-220496
+<a id="claim-t-91446"></a>
+- t-001
   teiginys: "„Pranešimas...“ aptiktas Vokiečių ordino archyve Vienoje, XVI a. pradžios kodekse."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -78,26 +77,12 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viena\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-203610
-
-<a id="claim-t-225337"></a>
-- t-225337
-  teiginys: "Vienos bibliotekos rankraštis, datuojamas XVII a. ar vėlesniu laiku, buvo nurašytas nuo Berlyno teksto."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Viena: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Berlynas: mention_match, place, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viena\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+    - c-87155
 
 <a id="claim-t-91447"></a>
-- t-91447
+- t-002
   teiginys: "Po sąjungos su Austrija turkai puolė Austriją ir pasiekė Vieną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Austrija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -111,9 +96,9 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
     - c-24560
 
 <a id="claim-t-91448"></a>
-- t-91448
+- t-003
   teiginys: "1683 m. hetmonas Sapiega, vykdamas vaduoti Vienos, delsė su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Viena: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -130,6 +115,41 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-24561
+
+<a id="claim-t-91450"></a>
+- t-004
+  teiginys: "Vienos bibliotekos rankraštis, datuojamas XVII a. ar vėlesniu laiku, buvo nurašytas nuo Berlyno teksto."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Viena: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Berlynas: mention_match, place, gap=88"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viena\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-87157
+
+<a id="claim-t-188848"></a>
+- t-005
+  teiginys: "Narbutas rašė, kad Jeronimas, vykdamas per Lenkiją į Vieną, lenkų kunigams neatskleidė Viklifo raštų naujienos."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Viena: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viena\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171737
 
 ## Reikšmingi paminėjimai
 - c-005
@@ -170,8 +190,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91447
+  pagrindzia:
+    - t-002
 
 - id: c-24561
   redaktorius: "A. Šapoka"
@@ -193,8 +213,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91448
+  pagrindzia:
+    - t-003
 
 - id: c-87155
   autorius: "Petras Dusburgietis"
@@ -211,6 +231,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-87157
   autorius: "Petras Dusburgietis"
@@ -229,6 +251,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-171737
   autorius: "Teodoras Narbutas"
@@ -251,44 +275,5 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-190546
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 194"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 194."
-  citata_originali: |
-    Esant geram aptarnavimui, pasiuntinys rai-
-    tomis per dieną galėdavo įveikti nuo б iki 9 mylių kelią (1 mylia - 7,4 km), rogėmis
-    nuvažiuodavo 7-8 mylias, o vengriška karieta—daugiausiai 16 mylių arba apie 118 km
-    per dieną. Kelionė iš Vienos į Vilnių užtrukdavo 43-53 dienas. Nuvykti iš Vienos į
-    Krokuvą užtekdavo 7-16 dienų.
-  citata_rodoma: "Kelionė iš Vienos į Vilnių užtrukdavo 43-53 dienas. Nuvykti iš Vienos į\nKrokuvą užtekdavo 7-16 dienų."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207807
-
-- id: c-203610
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 23"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
-  citata_originali: |
-    Kaip ir anksčiau mūsų minėtas
-    (Henriko iš Hohenlohės) taip ir šis „Pranešimas...“ aptiktas Vokiečių ordino archyve
-    Vienoje, XVI a. pradžios kodekse, parašytame Ordino archyvo Prūsijoje medžiagos
-    pagrindu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220496
-
+  pagrindzia:
+    - t-005

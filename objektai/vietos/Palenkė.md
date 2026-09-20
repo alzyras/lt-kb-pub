@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Palenkė'
+pavadinimas: Palenkė
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -9,8 +9,8 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1345 m.'
-  - '2026 m.'
+  - 1345 m.
+  - 2026 m.
 date_start: '1345'
 date_end: '2026'
 sukurta: ''
@@ -20,29 +20,41 @@ tags:
   - pilis
   - žemė
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-bbf849319ebdebd438c43a1d"
-canonical_name: "Palenkė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Palenkė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-bbf849319ebdebd438c43a1d
+canonical_name: Palenkė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Palenkė
 sameAs: []
-canonical_biography: "Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti ordino žemių, esančių Palenkės pasieny. Pirmiausia tokie kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Palenkėje. Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos."
+canonical_biography: 'Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti ordino žemių, esančių Palenkės pasieny. Pirmiausia tokie kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Palenkėje. Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Podlasie","url":"https://en.wikipedia.org/wiki/Podlasie","publisher":"Wikipedia","kind":"encyclopedia","status":"published","confidence":0.99,"language":"en"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T05:25:15+00:00","source_checked_at":"2026-09-19T05:25:15+00:00","counts":{"relations":10,"gallery":0,"sources":8},"featured_claim_ids":["t-112042","t-112047","t-112048","t-112056","t-112051","t-112054","t-112055"],"featured_claims":[{"claim_id":"t-112042","text":"Trakų dešimties metų paliaubų sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-24354"]},{"claim_id":"t-112047","text":"Vytauto laikais pilys buvo statomos ir Palenkėje, tarp jų Melnike ir galbūt Brastoje.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-103527"]},{"claim_id":"t-112048","text":"Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-32314"]},{"claim_id":"t-112056","text":"Lietuvos ir Lenkijos teritoriniai ginčai dėl Palenkės žemės buvo pasiekę karinės konfrontacijos lygį.","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","evidence_ids":["c-103537"]},{"claim_id":"t-112051","text":"Kęstutis paveldėjo Trakus ir Gardiną su Palenke.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-103529"]},{"claim_id":"t-112054","text":"Trakų kunigaikštija, Gardino ir Palenkės sritys sudarė Kęstučio valdytą vakarinę valstybės dalį.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-32315"]},{"claim_id":"t-112055","text":"Vytauto laikais Palenkėje, Melnyke ir galbūt Brastoje, imta statyti pilis rusėniškose LDK žemėse.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-103527"]}],"featured_quote":{"text":"Kryžiuočių stovykloje veikiąs Vytautas, kurį palaikė dalis Lietuvos, Jogailai buvo gana pavojingas. Kęstutaitis iš pusbrolio reikalavo tėviškės, bet Trakai jau buvo atiduoti Skirgailai. Tad Vytautas tegalėjo gauti Gardiną su Palenkė.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","claim_id":"t-112052","evidence_id":"c-103536","origin":"internal"},"wiki":{"status":"published","source":{"title":"Podlasie","url":"https://en.wikipedia.org/wiki/Podlasie","publisher":"Wikipedia","language":"en","article_id":"431080","revision_id":"1373626317","published_at":"2026-09-07T00:16:19Z","version_pk":"","content_hash":"a569659ede2052601ed02ded377629a54cc282fe547a70d953d6ca5fd009bbe6","retrieved_at":"2026-09-19T05:22:22+00:00","history_url":"https://en.wikipedia.org/w/index.php?title=Podlasie&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"431080"}},"intro":"Palenkė (lenk. [pɔˈdlaɕɛ]; baltarusių: Падляшша, lotyniška transliteracija: Padlašša; lietuviškai: Palenkė), dar vadinama Palenkija, yra istorinis regionas šiaurės rytų Lenkijoje. Didžiausias jos miestas yra Balstogė, o istorinė sostinė – Drohičinas. Kaip ir keli kiti istoriniai Lenkijos regionai, pavyzdžiui, Didžioji Lenkija, Mažoji Lenkija, Mazovija, Pamarys, Silezija ir Varmija, Palenkė turi savitus tautinius kostiumus, unikalią tradicinę architektūrą ir virtuvę. 1513–1795 m. ji buvo vaivadija, kurios sostinė buvo Drohičine. Dabar į šiaurę nuo Bugo upės esanti jos dalis įeina į šiuolaikinę Palenkės vaivadiją, kurios sostinė yra Balstogė, o pietinės dalys yra Mazovijos ir Liublino vaivadijose.","original_intro":"Podlasie (Polish: [pɔˈdlaɕɛ] ; Belarusian: Падляшша, romanized: Padlašša; Lithuanian: Palenkė), also known as Podlachia, is a historical region in north-eastern Poland. Its largest city is Białystok, whereas the historical capital is Drohiczyn. Similarly to several other historical regions of Poland, e.g. Greater Poland, Lesser Poland, Mazovia, Pomerania, Silesia, Warmia, Podlasie possesses its own folk costumes, unique traditional architecture and cuisine. Between 1513 and 1795 it was a voivodeship with the capital in Drohiczyn. Now the part north of the Bug River is included in the modern Podlaskie Voivodeship with the capital in Białystok, whereas southern parts are located in the Masovian and Lublin Voivodeships.","translation_status":"translated_verified","infobox":[],"identity_signals":{"exact_title":false,"api_redirect":true,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"en","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Wikipedia","title":"Podlasie","url":"https://en.wikipedia.org/wiki/Podlasie","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://en.wikipedia.org/wiki/Podlasie"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"09638ac1bcac52d211ed9400","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Palenkėje buvo tankiau gyvenama.","context":"Kazimiero laikais, A. Šapokos istorijos aprašyme.","support_ids":["t-112043","c-46663"],"source_refs":[{"kind":"internal_claim","claim_id":"t-112043","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-46663","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo- lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy- linkes, buvo beveik negyvenamos."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f08008bfb18cce5e8f462246","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Palenkės girios.","context":"Tikriausiai III amžiaus pabaigoje, Teodoro Narbuto teigimu.","support_ids":["t-212294","c-196936"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212294","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196936","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tikriausiai III amžiaus pabaigoje jie persikėlė į Vakarus, į Palenkės girias."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2c68d82390561274b6a84287","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Palenkėje buvo statomos pilys, tarp jų Melnyke ir galbūt Brastoje.","context":"Vytauto laikais, Lietuvos istorijos autorių aprašyme.","support_ids":["t-112047","c-103527"],"source_refs":[{"kind":"internal_claim","claim_id":"t-112047","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-103527","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško- se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Palenkė – istorinė Lietuvos Didžiosios Kunigaikštystės sritis, siejama su Gardinu, Brasta ir vakarine valstybės dalimi. Kęstučio laikais ji kartu su Trakų kunigaikštija ir Gardino sritimi sudarė jo valdytą vakarinės valstybės dalies branduolį. Vytauto laikotarpiu Palenkė tapo svarbia LDK rusėniškųjų žemių erdve, kurioje imta statyti pilis; tarp minimų vietų – Melnikas ir galbūt Brasta. Kazimiero laikais Palenkė buvo viena iš nedaugelio tankiau gyvenamų sričių, greta tikrosios Lietuvos, Voluinės ir Podolės Braclavo srities. Jos reikšmę rodo ir politinis bei karinis jautrumas: teritoriniai ginčai su Lenkija dėl Palenkės buvo pasiekę karinės konfrontacijos lygį, o vienoje Jogailos ir Kęstučio sutartyje ordinas įsipareigojo šios srities nepulti.","sentences":[{"sentence_id":"s1","text":"Palenkė – istorinė Lietuvos Didžiosios Kunigaikštystės sritis, siejama su Gardinu, Brasta ir vakarine valstybės dalimi.","support_ids":["t-112051","t-112054","t-112059"]},{"sentence_id":"s2","text":"Kęstučio laikais ji kartu su Trakų kunigaikštija ir Gardino sritimi sudarė jo valdytą vakarinės valstybės dalies branduolį.","support_ids":["t-112054","t-112059"]},{"sentence_id":"s3","text":"Vytauto laikotarpiu Palenkė tapo svarbia LDK rusėniškųjų žemių erdve, kurioje imta statyti pilis; tarp minimų vietų – Melnikas ir galbūt Brasta.","support_ids":["t-112047","t-112055"]},{"sentence_id":"s4","text":"Kazimiero laikais Palenkė buvo viena iš nedaugelio tankiau gyvenamų sričių, greta tikrosios Lietuvos, Voluinės ir Podolės Braclavo srities.","support_ids":["t-112043"]},{"sentence_id":"s5","text":"Jos reikšmę rodo ir politinis bei karinis jautrumas: teritoriniai ginčai su Lenkija dėl Palenkės buvo pasiekę karinės konfrontacijos lygį, o vienoje Jogailos ir Kęstučio sutartyje ordinas įsipareigojo šios srities nepulti.","support_ids":["t-112056","t-183066"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai Palenkę sieja su Gardinu, Brasta ir Kęstučio valdoma vakarine LDK dalimi."},{"sentence_id":"s2","supported":false,"reason":"Šaltiniai patvirtina, kad šios sritys sudarė Kęstučio vakarinę valstybės dalį, bet neįvardija jos branduoliu."},{"sentence_id":"s3","supported":false,"reason":"Šaltiniai patvirtina pilių statybą Palenkėje, Melnyke ir galbūt Brastoje, tačiau neparemia teiginio, kad Palenkė tapo svarbia rusėniškųjų žemių erdve."},{"sentence_id":"s4","supported":true,"reason":"Teiginys tiesiogiai atitinka šaltinį apie tankesnį gyvenimą Palenkėje, tikrojoje Lietuvoje, Voluinėje ir Podolės Braclavo srityje."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina karinės konfrontacijos lygį pasiekusius ginčus dėl Palenkės ir sutarties įsipareigojimą jos nepulti."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-112051","t-112054","t-112059"]},{"sentence_id":"s2","supported":false,"support_ids":["t-112054","t-112059"]},{"sentence_id":"s3","supported":false,"support_ids":["t-112047","t-112055"]},{"sentence_id":"s4","supported":false,"support_ids":["t-112043"]},{"sentence_id":"s5","supported":false,"support_ids":["t-112056","t-183066"]}],"verifier":"gpt-5.6-luna"},"quality":53,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Petras Goštautas","claim_id":"t-173208","confidence":0.89},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Pilys","claim_id":"t-112047","confidence":0.58},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Melnikas","claim_id":"t-68689","confidence":0.82},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-112337","confidence":0.84},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-28867","confidence":0.74},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Jurgis Nosuta","claim_id":"t-186224","confidence":0.96},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Mazovijos kunigaikščiai","claim_id":"t-211646","confidence":0.82},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-112051","confidence":0.78},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-112048","confidence":0.72},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-112059","confidence":0.91}],"timeline":[],"support_disclosure":{"claims":17,"sources":7}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6e84d193dff1d545
+object_page_generated_at: '2026-09-19T05:25:15+00:00'
+object_page_source_checked_at: '2026-09-19T05:25:15+00:00'
+object_page_content_state: content
+object_page_claim_count: '17'
+object_page_source_count: '7'
+object_page_seo_description: 'Palenkė – istorinė Lietuvos Didžiosios Kunigaikštystės sritis, siejama su Gardinu, Brasta ir vakarine valstybės dalimi. Kęstučio laikais ji kartu su Trakų…'
+object_page_seo_input_hash: 9686ba47ab49b81678b3d27ca81015a8278e5a0f1ee70ebcc953c5c49b9d4f51
+object_page_seo_generated_at: '2026-09-19T05:25:15+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Palenkė
 
@@ -52,22 +64,10 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 
 ## Teiginiai
 
-<a id="claim-t-212294"></a>
-- t-212294
-  teiginys: "Tikriausiai III amžiaus pabaigoje jie persikėlė į Vakarus, į Palenkės girias."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196936
-
 <a id="claim-t-112042"></a>
-- t-112042
+- t-001
   teiginys: "Trakų dešimties metų paliaubų sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -82,9 +82,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-24354
 
 <a id="claim-t-112043"></a>
-- t-112043
+- t-002
   teiginys: "Kazimiero laikais tankiau gyventa tik tikrojoje Lietuvoje, Palenkėje, Voluinėje ir Podolės Braclavo srityje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Braclavas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -98,9 +98,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-46663
 
 <a id="claim-t-112045"></a>
-- t-112045
+- t-003
   teiginys: "Goštautui išvykus į Tikociną Palenkėje, apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -117,9 +117,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-103528
 
 <a id="claim-t-112046"></a>
-- t-112046
+- t-004
   teiginys: "Kazimiero laikais Palenkė buvo tarp tankiau gyvenamų Lietuvos sričių kartu su tikrąja Lietuva, Voluine ir Podolės Braclavo sritimi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Braclavas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -134,9 +134,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-46663
 
 <a id="claim-t-112047"></a>
-- t-112047
+- t-005
   teiginys: "Vytauto laikais pilys buvo statomos ir Palenkėje, tarp jų Melnike ir galbūt Brastoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Melnikas: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -151,9 +151,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-103527
 
 <a id="claim-t-112048"></a>
-- t-112048
+- t-006
   teiginys: "Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Gardinas: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -168,9 +168,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-32314
 
 <a id="claim-t-112050"></a>
-- t-112050
+- t-007
   teiginys: "Apie 1345 m. Goštautas šalies reikalais išvyko į Tikociną Palenkėje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Goštautas (vyskupas, XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -186,9 +186,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-103528
 
 <a id="claim-t-112051"></a>
-- t-112051
+- t-008
   teiginys: "Kęstutis paveldėjo Trakus ir Gardiną su Palenke."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Gardinas: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -203,9 +203,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-103529
 
 <a id="claim-t-112052"></a>
-- t-112052
+- t-009
   teiginys: "Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke, nes Trakai jau buvo atiduoti Skirgailai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Trakai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -219,9 +219,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-103536
 
 <a id="claim-t-112054"></a>
-- t-112054
+- t-010
   teiginys: "Trakų kunigaikštija, Gardino ir Palenkės sritys sudarė Kęstučio valdytą vakarinę valstybės dalį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Palenkė: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -236,9 +236,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-32315
 
 <a id="claim-t-112055"></a>
-- t-112055
+- t-011
   teiginys: "Vytauto laikais Palenkėje, Melnyke ir galbūt Brastoje, imta statyti pilis rusėniškose LDK žemėse."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -252,9 +252,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-103527
 
 <a id="claim-t-112056"></a>
-- t-112056
+- t-012
   teiginys: "Lietuvos ir Lenkijos teritoriniai ginčai dėl Palenkės žemės buvo pasiekę karinės konfrontacijos lygį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -269,9 +269,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-103537
 
 <a id="claim-t-112057"></a>
-- t-112057
+- t-013
   teiginys: "Palenkėje tarp vietos žmonių sklido padavimas, kad senovėje iš ten eidavo į Vilnių kalnų kasti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -285,9 +285,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-103534
 
 <a id="claim-t-112058"></a>
-- t-112058
+- t-014
   teiginys: "Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės vaivadijas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -301,9 +301,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-103526
 
 <a id="claim-t-112059"></a>
-- t-112059
+- t-015
   teiginys: "Palenkės sritis kartu su Trakų kunigaikštija ir Gardino sritimi priklausė Kęstučio valdomai vakarinei valstybės daliai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_teritorija -> Palenkė: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -318,9 +318,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-32315
 
 <a id="claim-t-112060"></a>
-- t-112060
+- t-016
   teiginys: "Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Palenkę ir kitas LDK teritorijas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -334,9 +334,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-103526
 
 <a id="claim-t-183066"></a>
-- t-183066
+- t-017
   teiginys: "Jogailos ir Kęstučio pasirašytoje sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -354,9 +354,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-166457
 
 <a id="claim-t-185079"></a>
-- t-185079
+- t-018
   teiginys: "Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -373,10 +373,29 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   pagrindžia:
     - c-168440
 
+<a id="claim-t-185081"></a>
+- t-019
+  teiginys: "Vilniaus seime lenkų atstovai reikalavo Palenkę, Volynę, Kijevo ir Seversko žemes atiduoti Lenkijos karalystei."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Palenkė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Palenkė\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168442
+
 <a id="claim-t-193223"></a>
-- t-193223
+- t-020
   teiginys: "Pirmiausia tokie kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Palenkėje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -386,9 +405,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-24355
 
 <a id="claim-t-204027"></a>
-- t-204027
+- t-021
   teiginys: "Rimvydo Petrausko vertinimu, leno teisės pagrindu valdovui skirtos suteiktys Palenkėje buvo priemonė stiprinti valdovo pozicijas ginčytinoje pasienio teritorijoje su Mazovija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -444,8 +463,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112042
+  pagrindzia:
+    - t-001
 
 - id: c-24355
   redaktorius: "A. Šapoka"
@@ -463,8 +482,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193223
+  pagrindzia:
+    - t-020
 
 - id: c-32314
   autorius: "Zenonas Ivinskis"
@@ -482,8 +501,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112048
+  pagrindzia:
+    - t-006
 
 - id: c-32315
   autorius: "Zenonas Ivinskis"
@@ -502,9 +521,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112054
-    - t-112059
+  pagrindzia:
+    - t-010
+    - t-015
 
 - id: c-46663
   redaktorius: "A. Šapoka"
@@ -524,9 +543,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112043
-    - t-112046
+  pagrindzia:
+    - t-002
+    - t-004
 
 - id: c-103526
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -545,9 +564,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112058
-    - t-112060
+  pagrindzia:
+    - t-014
+    - t-016
 
 - id: c-103527
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -569,9 +588,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112047
-    - t-112055
+  pagrindzia:
+    - t-005
+    - t-011
 
 - id: c-103528
   autorius: "Michał Baliński"
@@ -604,9 +623,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112045
-    - t-112050
+  pagrindzia:
+    - t-003
+    - t-007
 
 - id: c-103529
   autorius: "Zenonas Ivinskis"
@@ -621,8 +640,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112051
+  pagrindzia:
+    - t-008
 
 - id: c-103534
   autorius: "Michał Baliński"
@@ -654,8 +673,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112057
+  pagrindzia:
+    - t-013
 
 - id: c-103536
   autorius: "Zenonas Ivinskis"
@@ -672,8 +691,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112052
+  pagrindzia:
+    - t-009
 
 - id: c-103537
   sudarytojas: "Karolis Zikaras"
@@ -691,8 +710,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112056
+  pagrindzia:
+    - t-012
 
 - id: c-166457
   redaktorius: "A. Šapoka"
@@ -709,8 +728,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183066
+  pagrindzia:
+    - t-017
 
 - id: c-168440
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -736,8 +755,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185079
+  pagrindzia:
+    - t-018
 
 - id: c-168442
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -764,6 +783,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 - id: c-186631
   autorius: "Rimvydas Petrauskas"
@@ -779,25 +800,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204027
-
-- id: c-196936
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 114"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 114."
-  citata_originali: |
-    Tikriausiai III amžiaus
-    pabaigoje jie persikėlė į Vakarus, į Palenkės girias.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212294
+  pagrindzia:
+    - t-021
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

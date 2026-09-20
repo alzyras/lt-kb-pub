@@ -39,6 +39,15 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
 
 ## Teiginiai
 
+<a id="claim-t-67256"></a>
+- t-001
+  teiginys: "Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė siekti Tochtamyšo valdžios Ordoje ir Vytauto valdžios Rusioje."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-14557
+
 <a id="claim-t-67257"></a>
 - t-002
   teiginys: "Rusų metraščiai teigė, kad Vytautas žadėjo Tochtamyšą pasodinti Aukso Ordoje, o pats siekė Maskvos sosto."
@@ -56,15 +65,6 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   pagrindžia:
     - c-14555
 
-<a id="claim-t-67256"></a>
-- t-67256
-  teiginys: "Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė siekti Tochtamyšo valdžios Ordoje ir Vytauto valdžios Rusioje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-14557
-
 ## Citatos
 
 - id: c-14555
@@ -81,12 +81,11 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
     siam Tochtamyšui pareiškęs: aš tave pasodinsiu Auksinėj Ordoj,
     o tu mane — Maskvos soste^1 ).
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-14556
@@ -108,7 +107,6 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-14557
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -129,6 +127,5 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-67256
-
+  pagrindzia:
+    - t-001

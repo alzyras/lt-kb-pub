@@ -27,6 +27,17 @@ media_all_json: |-
 
 Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 
+## Teiginiai
+
+<a id="claim-t-07831"></a>
+- t-001
+  teiginys: "Aušrėnais vadinti žemaičiai, kurie, pasak seno rašytojo, dirbo žemę ir augino javus bei vaisius."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-10062
+
 ## Citatos
 
 - id: c-10061
@@ -43,7 +54,6 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-10062
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -59,16 +69,8 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Aušrėnai gyveno [[objektai/vietos/Baltija]]
-
-## Teiginiai
-
-<a id="claim-t-209996"></a>
-- t-001
-  teiginys: "Aušrėnais vadinti žemaičiai, kurie, pasak seno rašytojo, dirbo žemę ir augino javus bei vaisius."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-

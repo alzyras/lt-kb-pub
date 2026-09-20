@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Kovalero (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Kovalero (vieta)
+identifikacija: vieta
 variantai:
-  - 'Kovalero'
+  - Kovalero
 aliases:
-  - 'Kovalero'
+  - Kovalero
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-21bae4ebfe50a944adb62dab"
-canonical_name: "Kovalero (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kovalero","Kovalero (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-21bae4ebfe50a944adb62dab
+canonical_name: Kovalero (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kovalero
+  - Kovalero (vieta)
 sameAs: []
-canonical_biography: "Kovalero, Komalek priešais Plovistą šiauri niame ežero pakraštyje."
+canonical_biography: 'Kovalero, Komalek priešais Plovistą šiauri niame ežero pakraštyje.'
 ---
 # Kovalero (vieta)
 
@@ -70,6 +70,5 @@ Kovalero, Komalek priešais Plovistą šiauri niame ežero pakraštyje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

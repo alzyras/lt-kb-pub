@@ -47,40 +47,10 @@ Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klima
 
 ## Teiginiai
 
-<a id="claim-t-210515"></a>
-- t-210515
-  teiginys: "Bychovco kronikos rankraštį prieš 1830 m. Alek sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil niaus gimnazijos mokytojas Ipolitas Klimaševskis."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-
-<a id="claim-t-210746"></a>
-- t-210746
-  teiginys: "Prieš 1830 m. Ipolitas Klimaševskis Bychovco kronikos rankraštį aptiko Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "keliavo_i -> Mogiliovcai: 0.55"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mogiliovcai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Rankraščio aptikimas Mogiliovcų dvaro bibliotekoje leidžia tik netiesiogiai sieti Klimaševskį su šia vieta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.) keliavo į Mogiliovcai (0.55)"
-  temporaliniai_duomenys: "įvykio data: iki 1830 m.; įvykio data: po 1446 m.; įvykio data: 1446 m.; įvykio data: 1506 m.; įvykio data: 1830 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo rankraščio radėją, laiką ir Mogiliovcų dvaro biblioteką. Jis remiasi įvado informacija, todėl papildoma metraščio poleminė atribucija nereikalinga."
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-
-<a id="claim-t-211320"></a>
-- t-211320
+<a id="claim-t-187262"></a>
+- t-001
   teiginys: "Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klimaševskis aptiko Bychovco kronikos rankraštį."
-  atnaujinta: "2026-09-13 18:13"
+  atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "keliavo_i -> Mogiliovcai: 0.55"
@@ -96,6 +66,30 @@ Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klima
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinė formuluotė neenciklopedinė ir vartoja neaiškų kontekstinį žodį."
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170318
+
+<a id="claim-t-187263"></a>
+- t-002
+  teiginys: "Prieš 1830 m. Ipolitas Klimaševskis Bychovco kronikos rankraštį aptiko Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "keliavo_i -> Mogiliovcai: 0.55"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mogiliovcai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Rankraščio aptikimas Mogiliovcų dvaro bibliotekoje leidžia tik netiesiogiai sieti Klimaševskį su šia vieta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.) keliavo į Mogiliovcai (0.55)"
+  temporaliniai_duomenys: "įvykio data: iki 1830 m.; įvykio data: po 1446 m.; įvykio data: 1446 m.; įvykio data: 1506 m.; įvykio data: 1830 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo rankraščio radėją, laiką ir Mogiliovcų dvaro biblioteką. Jis remiasi įvado informacija, todėl papildoma metraščio poleminė atribucija nereikalinga."
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-170318
 
 ## Citatos
 
@@ -121,4 +115,6 @@ Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klima
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001
+    - t-002

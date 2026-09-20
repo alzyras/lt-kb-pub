@@ -36,6 +36,25 @@ canonical_biography: "Vos tik čionai atėjo žinia apie tą sutartį, Varmės v
 
 Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­ kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo miręs), kartu su savo diecezijos klebonais Elblionge bemat surengė pasitarimą ir.
 
+## Teiginiai
+
+<a id="claim-t-87847"></a>
+- t-001
+  teiginys: "Pomezanijos vyskupas Rudolfas Elblionge su kitais vyskupais surengė pasitarimą dėl taikos sutarties ir prisidėjo prie laiško Livonijai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Elbliongas: 0.64"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rudolfas (Pomezanijos vyskupas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Elbliongas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Rudolfas su kitais vyskupais tiesiogiai siejamas su pasitarimo surengimu Elblionge."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Rudolfas (Pomezanijos vyskupas) keliavo į Elbliongas (0.64)"
+  pagrindžia:
+    - c-83826
+
 ## Citatos
 
 - id: c-83826
@@ -70,25 +89,5 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87847"></a>
-- t-001
-  teiginys: "Pomezanijos vyskupas Rudolfas Elblionge su kitais vyskupais surengė pasitarimą dėl taikos sutarties ir prisidėjo prie laiško Livonijai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Elbliongas: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rudolfas (Pomezanijos vyskupas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Elbliongas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Rudolfas su kitais vyskupais tiesiogiai siejamas su pasitarimo surengimu Elblionge."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Rudolfas (Pomezanijos vyskupas) keliavo į Elbliongas (0.64)"
-  pagrindžia:
-    - c-83826
-

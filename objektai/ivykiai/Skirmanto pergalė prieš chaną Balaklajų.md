@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Skirmanto pergalė prieš chaną Balaklajų'
+pavadinimas: Skirmanto pergalė prieš chaną Balaklajų
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Skirmanto pergalė prieš chaną Balaklajų
 
@@ -50,6 +47,18 @@ Nenurodyta
   pagrindžia:
     - c-193513
 
+<a id="claim-t-210896"></a>
+- t-210896
+  teiginys: "Skirmantas prie Kaidanovo nugalėjo Balaklajų ir nukovė jo totorių kariuomenę."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193060
+
 ## Santrauka
 
 Skirmantas liepė Balaklajaus pasiuntiniams nupjaustyti nosis, lūpas ir ausis. Skirmantas prie Kaidanovo nugalėjo Balaklajų ir nukovė jo totorių kariuomenę.
@@ -70,11 +79,13 @@ Skirmantas liepė Balaklajaus pasiuntiniams nupjaustyti nosis, lūpas ir ausis. 
     Černigovo, Starodubo l3, Karačevo M miestus, ir, laimė­
     jęs pergalę, be nuostolių pargrįžo atgalios
   statusas: verified
-  atnaujinta: "2026-09-12 23:39"
+  atnaujinta: "2026-09-13 18:02"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210896
 
 - id: c-193513
   autorius: "Anoniminis metraštininkas"

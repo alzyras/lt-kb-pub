@@ -35,6 +35,21 @@ Teodoras Narbutas žemaičius apibūdina kaip „fanatikus“ ir pasakoja, kad j
 
 Teodoras Narbutas žemaičius apibūdina kaip „fanatikus“ ir pasakoja, kad jie Gerardą Rudę, Sambijos fogtą, paaukojo dievams, pririšę riterį prie keturių stulpų ir sudeginę.
 
+## Teiginiai
+
+<a id="claim-t-206106"></a>
+- t-001
+  teiginys: "Teodoras Narbutas žemaičius apibūdina kaip „fanatikus“ ir pasakoja, kad jie Gerardą Rudę, Sambijos fogtą, paaukojo dievams, pririšę riterį prie keturių stulpų ir sudeginę."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188721
+
 ## Citatos
 
 - id: c-188721
@@ -60,21 +75,5 @@ Teodoras Narbutas žemaičius apibūdina kaip „fanatikus“ ir pasakoja, kad j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206106"></a>
-- t-001
-  teiginys: "Teodoras Narbutas žemaičius apibūdina kaip „fanatikus“ ir pasakoja, kad jie Gerardą Rudę, Sambijos fogtą, paaukojo dievams, pririšę riterį prie keturių stulpų ir sudeginę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-188721
-

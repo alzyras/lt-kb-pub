@@ -42,6 +42,28 @@ canonical_biography: "1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarins
 
 1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio žurnalistams pranešė, kad lapkričio 13 dieną Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas (TTGK) (jam dar.
 
+## Teiginiai
+
+<a id="claim-t-19031"></a>
+- t-001
+  teiginys: "1978 m. lapkričio 22 d. kunigas Juozas Zdebskis su Alfonsu Svarinsku ir Sigitu Tamkevičiumi Maskvoje pranešė apie TTGK įkūrimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Maskva: 0.67"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Juozas Zdebskis (kunigas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Juozas Zdebskis dalyvavo spaudos konferencijoje Maskvoje; kelionė nėra pasakyta tiesiogiai, bet vietos buvimas aiškus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Juozas Zdebskis (kunigas) keliavo į Maskva (0.67)"
+  temporaliniai_duomenys: "įvykio data: 1978 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, sutrumpintas iki asmeniui tinkamo fakto."
+  pagrindžia:
+    - c-21790
+
 ## Citatos
 
 - id: c-21790
@@ -73,28 +95,5 @@ canonical_biography: "1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarins
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-19031"></a>
-- t-001
-  teiginys: "1978 m. lapkričio 22 d. kunigas Juozas Zdebskis su Alfonsu Svarinsku ir Sigitu Tamkevičiumi Maskvoje pranešė apie TTGK įkūrimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Maskva: 0.67"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Juozas Zdebskis (kunigas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Juozas Zdebskis dalyvavo spaudos konferencijoje Maskvoje; kelionė nėra pasakyta tiesiogiai, bet vietos buvimas aiškus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Juozas Zdebskis (kunigas) keliavo į Maskva (0.67)"
-  temporaliniai_duomenys: "įvykio data: 1978 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, sutrumpintas iki asmeniui tinkamo fakto."
-  pagrindžia:
-    - c-21790
-

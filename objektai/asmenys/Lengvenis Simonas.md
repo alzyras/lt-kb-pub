@@ -35,6 +35,20 @@ Lengvenis Simonas, Mstislavlio kunigaikštis, saugojo Lietuvos sienas nuo Rusios
 
 Lengvenis Simonas, Mstislavlio kunigaikštis, saugojo Lietuvos sienas nuo Rusios.
 
+## Teiginiai
+
+<a id="claim-t-207000"></a>
+- t-001
+  teiginys: "Lengvenis Simonas, Mstislavlio kunigaikštis, saugojo Lietuvos sienas nuo Rusios."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189615
+
 ## Citatos
 
 - id: c-189615
@@ -58,20 +72,5 @@ Lengvenis Simonas, Mstislavlio kunigaikštis, saugojo Lietuvos sienas nuo Rusios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-207000"></a>
-- t-001
-  teiginys: "Lengvenis Simonas, Mstislavlio kunigaikštis, saugojo Lietuvos sienas nuo Rusios."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189615
-

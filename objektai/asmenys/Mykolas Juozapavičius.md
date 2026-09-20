@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Mykolas Juozapavičius'
+pavadinimas: Mykolas Juozapavičius
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0f36b6c2225ee41190c54ef3"
-canonical_name: "Mykolas Juozapavičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mykolas Juozapavičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0f36b6c2225ee41190c54ef3
+canonical_name: Mykolas Juozapavičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mykolas Juozapavičius
 sameAs: []
-canonical_biography: "Valančius rašė Alsėdžių deka nui, kad Uršulę Veinicką apskundęs kaimynas Mykolas Juozapavičius."
+canonical_biography: 'Valančius rašė Alsėdžių deka nui, kad Uršulę Veinicką apskundęs kaimynas Mykolas Juozapavičius.'
 ---
 # Mykolas Juozapavičius
 

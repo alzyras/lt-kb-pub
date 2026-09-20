@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Justinas Narbutas'
+pavadinimas: Justinas Narbutas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e28f43e8431005d9bb424c1c"
-canonical_name: "Justinas Narbutas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Justinas Narbutas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e28f43e8431005d9bb424c1c
+canonical_name: Justinas Narbutas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Justinas Narbutas
 sameAs: []
-canonical_biography: "Išsamesnėms krašto praeities studijoms istoriką galė jo paskatinti pusbrolio Justino parašyta nedidelė knygelė „Trumpa lietuvių tautos istorijos bruožų apybraiža“."
+canonical_biography: Išsamesnėms krašto praeities studijoms istoriką galė jo paskatinti pusbrolio Justino parašyta nedidelė knygelė „Trumpa lietuvių tautos istorijos bruožų apybraiža“.
 ---
 # Justinas Narbutas
 
@@ -66,6 +65,5 @@ Išsamesnėms krašto praeities studijoms istoriką galė jo paskatinti pusbroli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

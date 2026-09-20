@@ -1,33 +1,30 @@
 ---
 tipas: ivykis
-pavadinimas: 'Sidabrinių monetų lobio radimas prie Ogrodnikų (1826 m.)'
+pavadinimas: Sidabrinių monetų lobio radimas prie Ogrodnikų (1826 m.)
 variantai:
-  - 'Sidabrinių monetų lobio radimas prie Ogrodnikų'
+  - Sidabrinių monetų lobio radimas prie Ogrodnikų
 aliases:
-  - 'Sidabrinių monetų lobio radimas prie Ogrodnikų'
+  - Sidabrinių monetų lobio radimas prie Ogrodnikų
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1826 m.'
-  - '1832 m.'
+  - 1826 m.
+  - 1832 m.
 date_start: '1826'
 date_end: '1832'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Sidabrinių monetų lobio radimas prie Ogrodnikų (1826 m.)
 
@@ -83,6 +80,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

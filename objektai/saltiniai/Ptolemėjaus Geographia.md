@@ -26,6 +26,80 @@ media_all_json: |-
 
 Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie provinciją tarp Olecko ir Raigardo, siejamą su Sūduva. Pasak Teodoro Narbuto, Ptolemėjus Salavijos gyventojus žinojo slavinu vardu, o svetimšaliai šią žemę vadino Skalva arba Rusia. Teodoras Narbutas nurodo, kad Ptolemėjus Stavanus vadino Stabatii.
 
+## Teiginiai
+
+<a id="claim-t-191721"></a>
+- t-001
+  teiginys: "Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie provinciją tarp Olecko ir Raigardo, siejamą su Sūduva."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Sūduva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ptolemėjaus Geographia: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Sūduva: mention_match, place, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjaus Geographia\" parinktas kaip owner_note_path. Targetas \"Sūduva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174603
+
+<a id="claim-t-191722"></a>
+- t-002
+  teiginys: "Pasak Teodoro Narbuto, Ptolemėjus Salavijos gyventojus žinojo slavinu vardu, o svetimšaliai šią žemę vadino Skalva arba Rusia."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusia: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ptolemėjaus Geographia: owner_note_path, source"
+  ryšio_targeto_parinkimas: "Rusia: mention_match, place, gap=121"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjaus Geographia\" parinktas kaip owner_note_path. Targetas \"Rusia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174604
+
+<a id="claim-t-191723"></a>
+- t-003
+  teiginys: "Teodoras Narbutas nurodo, kad Ptolemėjus Stavanus vadino Stabatii."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ptolemėjaus Geographia: owner_note_path, source"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=1"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjaus Geographia\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174605
+
+<a id="claim-t-197686"></a>
+- t-004
+  teiginys: "Tačiau Ptolemėjas turi tam tikrų žinių apie šią, toje pačioje vietoje esančią provinciją, be to, neabe jotina, kad nuo seno ten gyveno ir lietuviui Tas pats geografas taip pat žinojo vieną sudinų koloniją, buvusią germanų markomanų genties kaimynystėje, dabar."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174603
+
 ## Citatos
 
 - id: c-174603
@@ -53,6 +127,9 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-004
 
 - id: c-174604
   autorius: "Teodoras Narbutas"
@@ -74,6 +151,8 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-174605
   autorius: "Teodoras Narbutas"
@@ -92,130 +171,5 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195083
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
-  citata_originali: |
-    Ten, miškuose, yra akmeninių pas­
-    tatų griuvėsių ir ant kalvų piliaviečių, primenančių žilą
-    šios žemės senovę. Ptolemėjas žinojo Salavijos gyvento­
-    jus slavinu vardu; iš to galima spręsti, kad Rusios egzis­
-    tavimo laikais didelė dalis šios žemės II krikščioniškosios
-    eros amžiuje buvo žinoma Skalvos arba Rusios vardu,
-    kuriuo ją ir vadino svetimšaliai. Rytuose ji ribojosi su
-    Sudargija, pietuose — su Nadruva, vakaruose — su Kur­
-    šių mariomis, o šiaurėje — su Žemaitija.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-196032
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
-  citata_originali: |
-    Tačiau Ptolemėjas turi tam tikrų žinių apie
-    šią, toje pačioje vietoje esančią provinciją, be to, neabe­
-    jotina, kad nuo seno ten gyveno ir lietuviui Tas pats
-    geografas taip pat žinojo vieną sudinų koloniją, buvusią
-    germanų markomanų genties kaimynystėje, dabar Pra­
-    hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
-    iš prūsų Sūduvos kažkokia užklydusi genties dalis4. Ne
-    kartą provincijoje prisiglausdavo nuo lenkų ir lietuvių
-    ginklų bėgantys jotvingiai. Rytuose ji ribojosi su Sudar­
-    gą, pietuose — su jotvingių Polese, vakaruose — su Ga­
-    linda ir Barta, o šiaurėje — su Barta ir Nadruva.
-    1 Kiti teigia, kad iš žodžio S žudąs, išmatos, pelkės, nes seniau
-    žemė ten buvusi labai pelkėta; bet išmanančiam kalbą ir papročius šis
-    spėjimas yra visiškai nepriimtinas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-
-## Teiginiai
-
-<a id="claim-t-212909"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, Ptolemėjus Salavijos gyventojus žinojo slavinu vardu, o svetimšaliai šią žemę vadino Skalva arba Rusia."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Rusia: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemėjaus Geographia: owner_note_path, source"
-  ryšio_targeto_parinkimas: "Rusia: mention_match, place, gap=121"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjaus Geographia\" parinktas kaip owner_note_path. Targetas \"Rusia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-195083
-
-<a id="claim-t-213032"></a>
-- t-002
-  teiginys: "Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie provinciją tarp Olecko ir Raigardo, siejamą su Sūduva."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Sūduva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemėjaus Geographia: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Sūduva: mention_match, place, gap=92"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjaus Geographia\" parinktas kaip owner_note_path. Targetas \"Sūduva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-196032
-
-<a id="claim-t-213242"></a>
-- t-003
-  teiginys: "Teodoras Narbutas nurodo, kad Ptolemėjus Stavanus vadino Stabatii."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemėjaus Geographia: owner_note_path, source"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=1"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjaus Geographia\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-
-<a id="claim-t-214554"></a>
-- t-004
-  teiginys: "Tačiau Ptolemėjas turi tam tikrų žinių apie šią, toje pačioje vietoje esančią provinciją, be to, neabe jotina, kad nuo seno ten gyveno ir lietuviui Tas pats geografas taip pat žinojo vieną sudinų koloniją, buvusią germanų markomanų genties kaimynystėje, dabar."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196032
-
+  pagrindzia:
+    - t-003

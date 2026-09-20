@@ -47,6 +47,35 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-67199"></a>
+- t-001
+  teiginys: "Seimas būdavo baigiamas atsisveikinimu su karaliumi, per kurį visi vėl bučiuodavo jam ranką."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67211
+
+<a id="claim-t-67200"></a>
+- t-002
+  teiginys: "Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu: toliau buvo tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo vadinama r u g o m i s."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67213
+
+<a id="claim-t-67201"></a>
+- t-003
+  teiginys: "Seimo pradžioje visi bučiuodavo soste sėdinčiam karaliui ranką, o kancleris arba vicekancleris paskelbdavo karaliaus pasiūlymus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67212
+
 ## Citatos
 
 - id: c-67211
@@ -75,7 +104,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-67212
@@ -98,7 +127,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-67213
@@ -117,35 +146,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-67199"></a>
-- t-001
-  teiginys: "Seimas būdavo baigiamas atsisveikinimu su karaliumi, per kurį visi vėl bučiuodavo jam ranką."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67211
-
-<a id="claim-t-67200"></a>
-- t-002
-  teiginys: "Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu: toliau buvo tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo vadinama r u g o m i s."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67213
-
-<a id="claim-t-67201"></a>
-- t-003
-  teiginys: "Seimo pradžioje visi bučiuodavo soste sėdinčiam karaliui ranką, o kancleris arba vicekancleris paskelbdavo karaliaus pasiūlymus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67212
-

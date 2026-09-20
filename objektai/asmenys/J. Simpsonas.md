@@ -34,6 +34,24 @@ canonical_biography: "Simpsono klausimą dėl požiūrio į federaciją su Rusij
 
 Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Lietuva galėtų įsijungti į Rusijos federaciją maždaug tokiais pagrindais, kaip Bavarija į Vokietijos sąjungą“ – Kaune apstulbusi Lietuvos vyriausybė skubiai paskelbė, kad tai tik asmeninė A.
 
+## Teiginiai
+
+<a id="claim-t-26443"></a>
+- t-001
+  teiginys: "J. Simpsonas paklausė A. Voldemaro apie požiūrį į federaciją su Rusija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Voldemaras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Simpsonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "A. Voldemaras: mention_match, person, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Simpsonas\" parinktas kaip owner_note_path. Targetas \"A. Voldemaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-26668
+
 ## Citatos
 
 - id: c-26668
@@ -54,24 +72,5 @@ Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-26443"></a>
-- t-001
-  teiginys: "J. Simpsonas paklausė A. Voldemaro apie požiūrį į federaciją su Rusija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Voldemaras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Simpsonas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Voldemaras: mention_match, person, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Simpsonas\" parinktas kaip owner_note_path. Targetas \"A. Voldemaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-26668
-

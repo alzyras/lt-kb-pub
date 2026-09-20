@@ -27,6 +27,18 @@ media_all_json: |-
 
 Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. parašė kaizeriui peticiją ir surinko po ja net 16.400 parašų. Tada lietuviai vėl kreipėsi į kaizerį su nauja peticija (1882 m.), bet šį kartą jau nebegavo net atsakymo. Kadangi tuo pat metu buvo rašomos peticijos dėl lietuvių kalbos grąžinimo į mokyklas, tai konservatoriai, norėdami įsipirkti į lietuvių malonę, dėjosi pritarią tiems lietuvių rūpesčiams, o iš tikro parlamente lietuvių reikalų neužtardavo nė vienu žodžiu.
 
+## Teiginiai
+
+<a id="claim-t-70281"></a>
+- t-001
+  teiginys: "Rašant peticijas dėl lietuvių kalbos grąžinimo į mokyklas, konservatoriai dėjosi pritariantys lietuvių rūpesčiams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-69331
+
 ## Citatos
 
 - id: c-69331
@@ -53,18 +65,5 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-70281"></a>
-- t-001
-  teiginys: "Rašant peticijas dėl lietuvių kalbos grąžinimo į mokyklas, konservatoriai dėjosi pritariantys lietuvių rūpesčiams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-69331
-

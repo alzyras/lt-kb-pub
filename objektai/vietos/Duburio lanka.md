@@ -48,6 +48,18 @@ Duburio lanka minima kaip gyvulių varymo ir ganymo vieta.
 
 Duburio lanka šiame šaltinyje yra lankos vietovė.
 
+## Teiginiai
+
+<a id="claim-t-195488"></a>
+- t-001
+  teiginys: "Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177910
+
 ## Citatos
 
 - id: c-177909
@@ -64,9 +76,6 @@ Duburio lanka šiame šaltinyje yra lankos vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - id: c-177910
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -80,19 +89,5 @@ Duburio lanka šiame šaltinyje yra lankos vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195488"></a>
-- t-001
-  teiginys: "Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177909
-    - c-177910
-

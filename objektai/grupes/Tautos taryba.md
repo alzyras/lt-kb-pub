@@ -38,22 +38,10 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-209599"></a>
-- t-209599
-  teiginys: "Delegatai telegrafavo visiems Tautos Tarybos nariams, prašydami įgaliojimų tartis su tautininkais."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192219
-
 <a id="claim-t-101477"></a>
-- t-101477
+- t-001
   teiginys: "1943 m. lapkričio 23–24 d. vadinamoji Tautos taryba ir generaliniai tarėjai atmetė SS dalinio organizavimo planą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> generaliniai tarėjai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -70,9 +58,9 @@ media_all_json: |-
     - c-95033
 
 <a id="claim-t-101478"></a>
-- t-101478
+- t-002
   teiginys: "1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą ir pasisakė už tautinę Lietuvos kariuomenę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -111,25 +99,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-101477
-    - t-101478
-
-- id: c-192219
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 5"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 5."
-  citata_originali: |
-    Penkiomis išmušus ir gaidžiams jau senai savo
-    rytmetines dainas atgiedojus, mušėme telegra­
-    mas visiems Tautos Tarybos nariams prašyda­
-    mi įgaliojimų tartis su tautininkais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209599
-
+  pagrindzia:
+    - t-001
+    - t-002

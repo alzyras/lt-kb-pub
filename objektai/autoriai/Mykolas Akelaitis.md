@@ -43,6 +43,27 @@ canonical_biography: "Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Myk
 
 Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Mykolas Akelaitis (1828—1857 m.) parašė eilių ir išleido keletą liaudžiai naudingų lietuviškų knygų.
 
+## Teiginiai
+
+<a id="claim-t-01120"></a>
+- t-001
+  teiginys: "Mykolas Akelaitis kartu su Antanu Tatare parašė eilių ir išleido kelias liaudžiai naudingas lietuviškas knygas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antanas Tatarė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Akelaitis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Antanas Tatarė: mention_match, author, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Akelaitis\" parinktas kaip owner_note_path. Targetas \"Antanas Tatarė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1857 m.; įvykio data: 1881 m.; įvykio data: 1889 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet sutvarkytas kaip sakinys apie Mykolą Akelaitį."
+  pagrindžia:
+    - c-01358
+
 ## Citatos
 
 - id: c-01358
@@ -63,27 +84,5 @@ Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Mykolas Akelaitis (1828�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-01120"></a>
-- t-001
-  teiginys: "Mykolas Akelaitis kartu su Antanu Tatare parašė eilių ir išleido kelias liaudžiai naudingas lietuviškas knygas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antanas Tatarė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Akelaitis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Antanas Tatarė: mention_match, author, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Akelaitis\" parinktas kaip owner_note_path. Targetas \"Antanas Tatarė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1857 m.; įvykio data: 1881 m.; įvykio data: 1889 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet sutvarkytas kaip sakinys apie Mykolą Akelaitį."
-  pagrindžia:
-    - c-01358
-

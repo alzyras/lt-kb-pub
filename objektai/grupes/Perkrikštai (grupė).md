@@ -29,6 +29,20 @@ media_all_json: |-
 
 Nes kaip per neteisybę kryžėjai į Žemaičių pajūrius buvo įsiveisę, taip visokiais pragumais vėl per neteisybę tvirtinos, kurie krū paudami, idant perkrikštai neįgautų kokio tokio akylumo savo kalboj ir, pragumui kokiam radusis, nepatraktų ir gimine ypatinga.
 
+## Teiginiai
+
+<a id="claim-t-201243"></a>
+- t-001
+  teiginys: "Nes kaip per neteisybę kryžėjai į Žemaičių pajūrius buvo įsiveisę, taip visokiais pragumais vėl per neteisybę tvirtinos, kurie krū paudami, idant perkrikštai neįgautų kokio tokio akylumo savo kalboj ir, pragumui kokiam radusis, nepatraktų ir gimine ypatinga."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184593
+
 ## Citatos
 
 - id: c-184593
@@ -63,20 +77,5 @@ Nes kaip per neteisybę kryžėjai į Žemaičių pajūrius buvo įsiveisę, tai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201243"></a>
-- t-001
-  teiginys: "Nes kaip per neteisybę kryžėjai į Žemaičių pajūrius buvo įsiveisę, taip visokiais pragumais vėl per neteisybę tvirtinos, kurie krū paudami, idant perkrikštai neįgautų kokio tokio akylumo savo kalboj ir, pragumui kokiam radusis, nepatraktų ir gimine ypatinga."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184593
-

@@ -33,6 +33,41 @@ canonical_biography: "Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Ba
 
 Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie Šiaurės tautų lopšį.
 
+## Teiginiai
+
+<a id="claim-t-191656"></a>
+- t-001
+  teiginys: "Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie Šiaurės tautų lopšį."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rudbekas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudbekas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174538
+
+<a id="claim-t-205135"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad Rudbeko veikalas buvo sukėlęs daug triukšmo ir prilygintas fantastinėms svajonėms, tačiau jame esama pagrįstinų minčių ir teisingų tyrinėjimų krypčių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187927
+
 ## Citatos
 
 - id: c-174538
@@ -58,6 +93,8 @@ Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-187927
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -78,81 +115,5 @@ Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-196931
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 38"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
-  citata_originali: |
-    O iš čia didelė tauta ėmė lietis į
-    visus kraštus; iš eilės Europos vakarai, šiaurė, rytai bei
-    pietūs regėjo ir gausias kariuomenes, ir daugybę atvy­
-    kėlių, vadinamų variagais, gotais ir įvairiais kitais var­
-    dais. Be viso to, dar prisiminkime, ką dėstė daug seno­
-    vės autorių nuo Jordano* ir net iki Rudbeko** ir Ba­
-    sės*** apie Šiaurės tautų lopšį. Susimąstykime skaity­
-    dami išmintingus Aleksandro Humbolto veikalus apie
-    Žemės rutulio temperatūros kitimą ir aiškiai suprasime
-    mūsų pateiktas mintis, jų tikėtinumą, žodžiu, įsitikinsi­
-    me, kad mūsų Šiaurėje labai seniai būta gyventojų, ku­
-    rie gyveno po laimingesnių dangumi.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-    - t-003
-
-## Teiginiai
-
-<a id="claim-t-205135"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad Rudbeko veikalas buvo sukėlęs daug triukšmo ir prilygintas fantastinėms svajonėms, tačiau jame esama pagrįstinų minčių ir teisingų tyrinėjimų krypčių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187927
-
-<a id="claim-t-212194"></a>
-- t-002
-  teiginys: "Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie Šiaurės tautų lopšį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rudbekas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudbekas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-196931
-
-<a id="claim-t-213317"></a>
-- t-003
-  teiginys: "Be viso to, dar prisiminkime, ką dėstė daug seno vės autorių nuo Jordano ir net iki Rudbeko ir Ba sės apie Šiaurės tautų lopšį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196931
-

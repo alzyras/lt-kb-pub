@@ -36,22 +36,10 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 
 ## Teiginiai
 
-<a id="claim-t-217500"></a>
-- t-217500
-  teiginys: "O XV amžiaus pradžioje, kai Karolio VI žmona, Prancū zijos karalienė Izabelė buvo pirmoji Europos elegantė, pradė jusi nešioti drobinius marškinius, toje pačioje epochoje lietu viai savo krašte ėmė visuotinai dėvėti gelumbę, kuri iki tol bu vo tik prabangos."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200516
-
 <a id="claim-t-35184"></a>
-- t-35184
+- t-001
   teiginys: "Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dubysa: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -87,8 +75,8 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-35184
+  pagrindzia:
+    - t-001
 
 - id: c-167660
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -110,26 +98,5 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-35184
-
-- id: c-200516
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
-  citata_originali: |
-    O XV amžiaus pradžioje, kai Karolio VI žmona, Prancū­
-    zijos karalienė Izabelė buvo pirmoji Europos elegantė, pradė­
-    jusi nešioti drobinius marškinius, toje pačioje epochoje lietu­
-    viai savo krašte ėmė visuotinai dėvėti gelumbę, kuri iki tol bu­
-    vo tik prabangos ženklas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217500
-
+  pagrindzia:
+    - t-001

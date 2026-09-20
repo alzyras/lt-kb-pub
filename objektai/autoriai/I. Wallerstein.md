@@ -35,6 +35,20 @@ I. Wallersteino teigimu, pagrindinės XVI–XVIII a. ATR dvarų pajamos buvo gau
 
 I. Wallersteino teigimu, pagrindinės XVI–XVIII a. ATR dvarų pajamos buvo gaunamos iš žemės ūkio produkcijos eksporto.
 
+## Teiginiai
+
+<a id="claim-t-203651"></a>
+- t-001
+  teiginys: "I. Wallersteino teigimu, pagrindinės XVI–XVIII a. ATR dvarų pajamos buvo gaunamos iš žemės ūkio produkcijos eksporto."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186255
+
 ## Citatos
 
 - id: c-186255
@@ -57,20 +71,5 @@ I. Wallersteino teigimu, pagrindinės XVI–XVIII a. ATR dvarų pajamos buvo gau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203651"></a>
-- t-001
-  teiginys: "I. Wallersteino teigimu, pagrindinės XVI–XVIII a. ATR dvarų pajamos buvo gaunamos iš žemės ūkio produkcijos eksporto."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
-  pagrindžia:
-    - c-186255
-

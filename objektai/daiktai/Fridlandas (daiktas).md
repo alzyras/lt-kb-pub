@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Fridlandas (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Fridlandas (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Fridlandas'
+  - Fridlandas
 aliases:
-  - 'Fridlandas'
+  - Fridlandas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Fridlandas (daiktas)
 
@@ -77,6 +74,5 @@ Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

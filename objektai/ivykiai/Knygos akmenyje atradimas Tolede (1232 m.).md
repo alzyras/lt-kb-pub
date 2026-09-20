@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Knygos akmenyje atradimas Tolede (1232 m.)'
+pavadinimas: Knygos akmenyje atradimas Tolede (1232 m.)
 variantai:
-  - 'Knygos akmenyje atradimas Tolede'
+  - Knygos akmenyje atradimas Tolede
 aliases:
-  - 'Knygos akmenyje atradimas Tolede'
+  - Knygos akmenyje atradimas Tolede
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1232 m.'
+  - 1232 m.
 date_start: '1232'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Knygos akmenyje atradimas Tolede (1232 m.)
 
@@ -81,6 +78,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

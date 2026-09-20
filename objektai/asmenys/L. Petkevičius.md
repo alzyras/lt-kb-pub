@@ -1,41 +1,41 @@
 ---
 tipas: asmuo
-pavadinimas: 'Li Petkevičius (XIX a.)'
+pavadinimas: Li Petkevičius (XIX a.)
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1861 m.'
+  - 1861 m.
 date_start: '1861'
 date_end: ''
 variantai:
-  - 'L. Petkevičius'
+  - L. Petkevičius
 aliases:
-  - 'L. Petkevičius'
+  - L. Petkevičius
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-95e08650dde31c0b0f89c3f6"
-canonical_name: "Li Petkevičius (XIX a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["L. Petkevičius","Li Petkevičius (XIX a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-95e08650dde31c0b0f89c3f6
+canonical_name: Li Petkevičius (XIX a.)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - L. Petkevičius
+  - Li Petkevičius (XIX a.)
 sameAs: []
-canonical_biography: "1861 m. L. Petkevičius paskelbė uždarąs savas degtinės gamybos ir prekybos įmones ir kvietė kaimynus elgtis taip pat."
+canonical_biography: 1861 m. L. Petkevičius paskelbė uždarąs savas degtinės gamybos ir prekybos įmones ir kvietė kaimynus elgtis taip pat.
 ---
 # Li Petkevičius (XIX a.)
 

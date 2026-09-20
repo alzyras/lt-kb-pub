@@ -34,6 +34,25 @@ canonical_biography: "Dusburgietis teigia, kad galop atvyko jo šventenybė Pily
 
 Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, apaštališkojo sosto legatas, atsiųstas į Lenkijos žemę, ir brolis Konradas iš Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams skriaudų šiose trijose minėtosios.
 
+## Teiginiai
+
+<a id="claim-t-60411"></a>
+- t-001
+  teiginys: "Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pilypas (Fermo vyskupas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pilypas tiesiogiai nurodytas kaip atsiųstas į Lenkijos žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pilypas (Fermo vyskupas) keliavo į Lenkija (0.91)"
+  pagrindžia:
+    - c-61043
+
 ## Citatos
 
 - id: c-61043
@@ -58,24 +77,8 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Pilypas (Fermo vyskupas) keliavo į [[objektai/vietos/Lenkija]]
-
-## Teiginiai
-
-<a id="claim-t-222585"></a>
-- t-001
-  teiginys: "Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pilypas (Fermo vyskupas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pilypas tiesiogiai nurodytas kaip atsiųstas į Lenkijos žemę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Pilypas (Fermo vyskupas) keliavo į Lenkija (0.91)"
-

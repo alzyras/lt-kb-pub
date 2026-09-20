@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Konradas Tušenfeldas'
+pavadinimas: Konradas Tušenfeldas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f33abb22933b21470c53170e"
-canonical_name: "Konradas Tušenfeldas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Konradas Tušenfeldas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f33abb22933b21470c53170e
+canonical_name: Konradas Tušenfeldas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Konradas Tušenfeldas
 sameAs: []
-canonical_biography: "Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu."
+canonical_biography: 'Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.'
 ---
 # Konradas Tušenfeldas
 
@@ -64,6 +63,5 @@ Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

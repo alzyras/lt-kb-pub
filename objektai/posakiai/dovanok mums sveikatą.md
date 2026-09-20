@@ -45,6 +45,18 @@ Trečioji „Pone Karaliau“ prašymo formulė.
 
 Apeiginis sveikatos prašymas.
 
+## Teiginiai
+
+<a id="claim-t-195417"></a>
+- t-001
+  teiginys: "Giedant „Pone Karaliau“ buvo sakoma „dovanok mums sveikatą“."
+  atnaujinta: "2026-07-12 02:45"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177838
+
 ## Citatos
 
 - id: c-177838
@@ -66,18 +78,5 @@ Apeiginis sveikatos prašymas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195417"></a>
-- t-001
-  teiginys: "Giedant „Pone Karaliau“ buvo sakoma „dovanok mums sveikatą“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177838
-

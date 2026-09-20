@@ -1,40 +1,40 @@
 ---
 tipas: vieta
-pavadinimas: 'Pavunda (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Pavunda (vieta)
+identifikacija: vieta
 variantai:
-  - 'Pavunda'
+  - Pavunda
 aliases:
-  - 'Pavunda'
+  - Pavunda
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1308 m.'
+  - 1308 m.
 date_start: '1308'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-181a07ec5b912a19abc2609c"
-canonical_name: "Pavunda (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pavunda","Pavunda (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-181a07ec5b912a19abc2609c
+canonical_name: Pavunda (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pavunda
+  - Pavunda (vieta)
 sameAs: []
-canonical_biography: "1308 metais Pavundos valsčius buvo nusiaubtas gaisrais."
+canonical_biography: 1308 metais Pavundos valsčius buvo nusiaubtas gaisrais.
 ---
 # Pavunda (vieta)
 
@@ -77,6 +77,5 @@ canonical_biography: "1308 metais Pavundos valsčius buvo nusiaubtas gaisrais."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

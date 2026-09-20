@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Romuva'
+pavadinimas: Romuva
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -15,21 +15,33 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-87fb534c0084f2b669b3b8a8"
-canonical_name: "Romuva"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Romuva"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-87fb534c0084f2b669b3b8a8
+canonical_name: Romuva
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Romuva
 sameAs: []
-canonical_biography: "Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį. Romuvoje pagrindinis kulto objektas buvo ugnis."
+canonical_biography: Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį. Romuvoje pagrindinis kulto objektas buvo ugnis.
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Romuva","url":"https://lt.wikipedia.org/wiki/Romuva","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Romuva (temple) - Wikipedia","url":"https://en.wikipedia.org/wiki/Romuva_(temple)","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T17:55:18+00:00","source_checked_at":"2026-09-19T17:55:18+00:00","counts":{"relations":3,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Romuva","url":"https://lt.wikipedia.org/wiki/Romuva","publisher":"Vikipedija","language":"lt","article_id":"107268","revision_id":"7865527","published_at":"2026-06-21T22:44:59Z","version_pk":"","content_hash":"730f45a2604ac72721bbb1633a6a0147464586288ad185ed9ed0eed0fb4e6fe8","retrieved_at":"2026-09-19T17:54:14+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Romuva&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"107268"}},"intro":"„Romuva“ (kitaip Senovės baltų religinė bendrija) – XX a. įkurta ir daugiausia Lietuvoje veikianti neopagoniškoji religinė bendrija. „Romuva“ taip pat turi bendruomenes ir pasekėjų Australijoje, Kanadoje, JAV, Didžiojoje Britanijoje ir Norvegijoje. „Romuvos“ tikėjimo praktikavimas daugelio jos pasekėjų laikomas kultūrinio pasididžiavimo dalimi, kaip ir tradicinis menas, baltiškasis folkloras, tradicinių švenčių šventimas, tradicinių dainų dainavimas. Pavadinimas bendrijai suteiktas pagal Petro Dusburgiečio aprašytą senovės prūsų šventyklą Romovę (prūs. Rāmawa) Nadruvoje. Senovės baltų religija, į kurią orientuojasi „Romuva“, yra bendras sąlyginis įvairių ikikrikščioniškų religinių praktikų, kultų ir pasaulėžiūrų gyvavusių baltų gyvenamame regione apibūdinimas. Šios religinės praktikos ir pasaulėžiūros buvo daugiasluoksnės ir laikui bėgant keitėsi, pvz., keitėsi laidojimo papročiai, o tai rodo fundamentalius pasaulėžiūros pokyčius. Pvz., Marija Gimbutienė teigia, jog baltų pirmtakai garbino Žemės deivę bei kitas moteriškos giminės deives, o ateiviai indoeuropiečiai atnešė tikėjimo į Dangaus dievą ir kitas vyriškos dievybes papročius. „Romuva“ nebando apimti visos baltų religijos įvairovės, o orientuojasi į vieną iš jos aspektų – chtoniškąją, per valstiečių sluoksnį išlikusią tikybą. Pati „Romuva“ teigia, kad ji tęsia baltiškąsias tradicijas, kurios išliko folklore ir papročiuose.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Romuva","url":"https://lt.wikipedia.org/wiki/Romuva","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Romuva"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"659070176eff0b103ef3073c","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.","context":"Romuva stovėjo Raseinių ir Ariogalos apylinkėse; šios vietovės šaltinyje apibūdinamos kaip pagonims labai svarbios. Aprašyta 2007 m. leidinyje, remiantis autoriaus pateiktu istoriniu pasakojimu.","support_ids":["t-84718","c-80851"],"source_refs":[{"kind":"internal_claim","claim_id":"t-84718","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-80851","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Baigusi kruvinus darbus, ginkluota palyda kitą die­ ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes. Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­ vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­ vių Krivaičio pagrindinė buveinė). Pakeliui viską versdama pelenais, kryžiuočių kariauna puolėsi Bisenės pilies link, pa­ siryžusi užimti ją šturmu, ir jau vėlų vakarą imta pulti."}],"status":"published","conflict_status":"clear"},{"trait_id":"006f6e39e1a5245d83652d15","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Romuvą sudarė Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.","context":"Šaltinis Romuvą aprašo kaip vietą, kurioje buvo šventykla ir pagrindinė buveinė; ji stovėjo Raseinių ir Ariogalos apylinkėse. Aprašyta 2007 m. leidinyje.","support_ids":["t-84715","c-80850"],"source_refs":[{"kind":"internal_claim","claim_id":"t-84715","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-80850","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Vaikių krašte buvo šventoji giria, ku­ ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­ tais vieną naktį buvo sudeginta iki pamatų, visi gyventojai išžudyti. Baigusi kruvinus darbus, ginkluota palyda kitą die­ ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes. Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­ vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­ vių Krivaičio pagrindinė buveinė)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Šventasis ąžuolas","claim_id":"t-220446","confidence":0.77},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Baltai","claim_id":"t-222170","confidence":0.74},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Nadruva","claim_id":"t-183626","confidence":0.92}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1898f5870c7bdd57
+object_page_generated_at: '2026-09-19T17:55:18+00:00'
+object_page_source_checked_at: '2026-09-19T17:55:18+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Romuva: Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį. Romuvoje pagrindinis kulto…'
+object_page_seo_input_hash: 69e3c4be198468d31d35b2312c5c654afdae401041442242e2c8af2829f9d9ec
+object_page_seo_generated_at: '2026-09-19T17:55:18+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Romuva
 
@@ -38,6 +50,22 @@ historical_names: []
 Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį. Romuvoje pagrindinis kulto objektas buvo ugnis.
 
 ## Teiginiai
+
+<a id="claim-t-84715"></a>
+- t-001
+  teiginys: "Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ariogala: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ariogala: mention_match, place, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romuva\" parinktas kaip owner_note_path. Targetas \"Ariogala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-80850
 
 <a id="claim-t-84716"></a>
 - t-002
@@ -56,26 +84,10 @@ historical_names: []
   pagrindžia:
     - c-24436
 
-<a id="claim-t-84715"></a>
-- t-84715
-  teiginys: "Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ariogala: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ariogala: mention_match, place, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romuva\" parinktas kaip owner_note_path. Targetas \"Ariogala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-80850
-
 <a id="claim-t-84717"></a>
-- t-84717
+- t-003
   teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 17:11"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -83,9 +95,9 @@ historical_names: []
     - c-167019
 
 <a id="claim-t-84718"></a>
-- t-84718
+- t-004
   teiginys: "Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ariogala: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -99,9 +111,9 @@ historical_names: []
     - c-80851
 
 <a id="claim-t-183626"></a>
-- t-183626
+- t-005
   teiginys: "Lietuvos istorijos autoriai Nadruvoje buvusią Romuvą laiko ankstyva pagonybės virtimo institucine religija apraiška."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -119,9 +131,9 @@ historical_names: []
     - c-167018
 
 <a id="claim-t-205182"></a>
-- t-205182
+- t-006
   teiginys: "O kai prūsai jau turėjo pakankamai karo meno išmokusių karių, Vaidevutis ir vyriausiasis žynys ušaukė tautą į Romuvą ir ten po aukų atnašavimo pra nešė dievų ¡pageidavimą ir valią atkeršyti dabar už mozūrų jiems padarytą gėdą ir patirtą pažeminimą stojant į."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -132,9 +144,9 @@ historical_names: []
     - c-187833
 
 <a id="claim-t-205306"></a>
-- t-205306
+- t-007
   teiginys: "Betgi savame krašte jis įkurdino kitą Romuvą su kitu Kriviu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -143,19 +155,6 @@ historical_names: []
   vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
   pagrindžia:
     - c-188106
-
-<a id="claim-t-207607"></a>
-- t-207607
-  teiginys: "Romuvoje ugnį Bumblauskas įvardija kaip pagrindinį kulto objektą, o jos garbinimą sieja su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
-  pagrindžia:
-    - c-190224
 
 ## Citatos
 
@@ -172,12 +171,11 @@ historical_names: []
     šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
   citata_rodoma: "Šio proceso ankstyvąja apraiška reikėtų laikyti\nšaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-24437
@@ -197,8 +195,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-84717
+  pagrindzia:
+    - t-003
 
 - id: c-80850
   autorius: "Michał Baliński"
@@ -219,8 +217,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-84715
+  pagrindzia:
+    - t-001
 
 - id: c-80851
   autorius: "Michał Baliński"
@@ -240,8 +238,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-84718
+  pagrindzia:
+    - t-004
 
 - id: c-167018
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -259,8 +257,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183626
+  pagrindzia:
+    - t-005
 
 - id: c-167019
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -278,8 +276,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-84717
+  pagrindzia:
+    - t-003
 
 - id: c-187833
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -304,8 +302,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205182
+  pagrindzia:
+    - t-006
 
 - id: c-188106
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -326,29 +324,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205306
-
-- id: c-190224
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 104"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 104."
-  citata_originali: |
-    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų. Todėl, kad būtų
-    išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje;
-    tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritori-
-    joje esančios šventovės gynybai. Romuvoje pagrindinis kulto objektas buvo ugnis, kurios
-    garbinimas susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
-  citata_rodoma: "Romuvoje pagrindinis kulto objektas buvo ugnis, kurios \ngarbinimas susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207607
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Romuva priklausė [[objektai/vietos/Nadruva]]

@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'Peterburgo Romos katalikų dvasinės kolegijos 1841 m. birželio 9 d. įsakas Telšių (Žemaičių) vyskupui S. Giedraičiui'
+pavadinimas: Peterburgo Romos katalikų dvasinės kolegijos 1841 m. birželio 9 d. įsakas Telšių (Žemaičių) vyskupui S. Giedraičiui
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1671 m.'
-  - '1841 m.'
+  - 1671 m.
+  - 1841 m.
 date_start: '1671'
 date_end: '1841'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVII'
-  - 'XIX'
+  - XVII
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Peterburgo Romos katalikų dvasinės kolegijos 1841 m. birželio 9 d. įsakas Telšių (Žemaičių) vyskupui S. Giedraičiui
 

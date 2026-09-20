@@ -49,6 +49,25 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-10213"></a>
+- t-001
+  teiginys: "Po Giedraičių kautynių atkirsta lenkų kavalerijos brigada lapkričio 24 d. ties Labanoru perėjo fronto liniją."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Labanoras: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "brigada: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Labanoras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo brigados judėjimą ties Labanoru."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "brigada keliavo į Labanoras (0.74)"
+  pagrindžia:
+    - c-11845
+
 ## Citatos
 
 - id: c-11845
@@ -79,25 +98,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-10213"></a>
-- t-001
-  teiginys: "Po Giedraičių kautynių atkirsta lenkų kavalerijos brigada lapkričio 24 d. ties Labanoru perėjo fronto liniją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Labanoras: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "brigada: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Labanoras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo brigados judėjimą ties Labanoru."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "brigada keliavo į Labanoras (0.74)"
-  pagrindžia:
-    - c-11845
-

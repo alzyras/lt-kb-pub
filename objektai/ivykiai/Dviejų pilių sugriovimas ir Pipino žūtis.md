@@ -50,6 +50,56 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-66533"></a>
+- t-001
+  teiginys: "221 Pipino nukankinimas vaizduojamas tendencingai (žr."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pipinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dviejų pilių sugriovimas ir Pipino žūtis: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Pipinas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dviejų pilių sugriovimas ir Pipino žūtis\" parinktas kaip owner_note_path. Targetas \"Pipinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  pagrindžia:
+    - c-66747
+
+<a id="claim-t-66534"></a>
+- t-002
+  teiginys: "Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dviejų pilių sugriovimas ir Pipino žūtis: owner_note_path, event"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=1"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dviejų pilių sugriovimas ir Pipino žūtis\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1231 m.; įvykio data: apie 1231 m.; įvykio data: 1292 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Sakinys sutvarkytas iš antraštinio fragmento į aiškų faktą apie dvi pilis."
+  pagrindžia:
+    - c-66746
+
+<a id="claim-t-194384"></a>
+- t-003
+  teiginys: "Apie dviejų pilių sugriovimą ir Pipino žūtį Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos pakrantėje, aukščiau Torunės, pilį, vardu Ragava218, o dar vieną — žemiau, apie tą vietą, kur dabar yra senoji pilis219."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-66746
+
 ## Citatos
 
 - id: c-66746
@@ -101,6 +151,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+    - t-003
 
 - id: c-66747
   autorius: "Petras Dusburgietis"
@@ -115,129 +168,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-204872
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 71-72"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 71-72."
-  citata_originali: |
-    Apie dviejų pilių sugriovimą ir Pipino žūtį
-
-      Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos
-    pakrantėje, aukščiau Torunės,  pilį, vardu Ragava218, o dar vieną — žemiau, apie tą
-    vietą, kur dabar yra senoji pilis219. Tarp šių pilių, netoli ežero, pavadinto Pipino ežeru,
-
-      215  Tautosakoje baltas arklys ar balta kumelė — stebuklingi. Žinomi balti ir juodi
-    Perkūno žirgai, šio plauko žirgai buvę ypatingai gerbiami (Dundulienė P., Arklys..., p.
-    83—101).
-      216  D. in territorio Scoken (taip pat III, 101), Jer. Schâkin ir Schôkin. Sch[a]cken
-    (SRP, 2, p. 517; be to, GAO, p. 167), vok. Schaaken, pr. *Žōkō, lie. Žioka (Būga K., 3,
-    p. 135; MPKP, 1, p. 25) ar Skokiai (Salys A.), kartais buvo rašoma ir Šakiai. Vietovė ir
-    tuo pat vardu vienas didžiausių Sembos valsčių buvęs šiaurės Semboje, pietinėje Kuršių
-    marių pakrantėje, apie didelį kyšulį — Pustų ragą (Łowmiański H., Studja..., 2, p. 36,
-    139 ir kt.). Valsčiaus centras (pilis) ieškotinas pačioje Ziokoje (vėliau Schaaken, dab.
-    Nekrasovo, Kaširskojės apyl.), vėliau čia buvo Ordino pilis (Hartknoch M. Ch., Alt- und
-    Neues..., p. 403), arba labiau  į pietryčius apie buvusį Gailgarbį (Gallgarben, matyt, iš
-    Geilgarben, plg. pr. gailis ‘baltas’ ir garbis ‘kalnas’ — Būga K., 1, p. 524; GAO, p. 35;
-    dab. Maršalskojė, žr. CV —Prussia, t. 32, d. 2, p. 310; CF, p. 80).
-      217 Fogtu buvo 1278—1292 m.
-      218 D. minima (apie 1231 m.) castrum dictum Rogow (plg. pr. ragis, lie. ragas resp.
-    Ragupė — GAO, p. 143) siejama su dab. Rogovu per 11 km į šiaurės rytus nuo Torunės.
-    Pačios prūsų Ragavos pilies reikėtų ieškoti arčiau Drevantos upės (D. kronikoje, matyt,
-    supainiojo Vyslą su jos deš. intaku Drevanta) dab. Jedvabno kaimo piliakalnyje arba
-    Bžezinskos kaimo Koplyčios kalne (Powierski J., Przekaz..., p. 397—398; SZCh, p. 107).
-      219 Antroji prūsų pilis buvusi Senajame Ruime, dab. Starogrude (Jer.; SZCh, p. 121
-    — 122), per 4,5 km į pietvakarius nuo dab. Chełmno.
-
-    vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis
-    plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę
-    arba nužudomas. Vieni krikščionis puolė iš aukščiau pastatytos pilies, kiti — iš žemiau,
-    o šis — iš esančios per patį vidurį. Galop broliai susikovė su Ragavos pilėnais ir, dievui
-    leidus, daugybę jų nužudė, o jų nelaisvėn paimtą vadą išsivedė; tas vadas, norėdamas
-    išvengti mirties, perdavė jiems savo pilį, o vėliau, kai kitos pilies pilėnai po gėrynių
-    gulėjo girti kas sau, nuvedė ten brolius su kariuomene, kurie juos smarkiai užpuolė,
-    vienus išžudė, kitus paėmė į nelaisvę, o pilį pavertė pelenais. Neilgai trukus  jis išdavė
-    savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės
-    ir ten po medžiu pakorė221.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
-- id: c-205394
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 72"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
-  citata_originali: |
-    221  Pipino nukankinimas vaizduojamas tendencingai (žr. įvadą).
-    222  Žr. D. III. 84.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-221903"></a>
-- t-001
-  teiginys: "221 Pipino nukankinimas vaizduojamas tendencingai (žr."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pipinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dviejų pilių sugriovimas ir Pipino žūtis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Pipinas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dviejų pilių sugriovimas ir Pipino žūtis\" parinktas kaip owner_note_path. Targetas \"Pipinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  pagrindžia:
-    - c-205394
-
-<a id="claim-t-222496"></a>
-- t-002
-  teiginys: "Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dviejų pilių sugriovimas ir Pipino žūtis: owner_note_path, event"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=1"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dviejų pilių sugriovimas ir Pipino žūtis\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1231 m.; įvykio data: apie 1231 m.; įvykio data: 1292 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Dubliuojamas įvesties teiginys perrašytas į tą patį citatos remiamą faktinį sakinį."
-  pagrindžia:
-    - c-204872
-
-<a id="claim-t-223033"></a>
-- t-003
-  teiginys: "Apie dviejų pilių sugriovimą ir Pipino žūtį Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos pakrantėje, aukščiau Torunės, pilį, vardu Ragava218, o dar vieną — žemiau, apie tą vietą, kur dabar yra senoji pilis219."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204872
-

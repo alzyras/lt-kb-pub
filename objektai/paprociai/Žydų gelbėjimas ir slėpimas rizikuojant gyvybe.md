@@ -65,6 +65,25 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
 
 - Praktika pateikiama kaip priešinga kolaboravimui ir smurtui Holokausto metu.
 
+## Teiginiai
+
+<a id="claim-t-20827"></a>
+- t-001
+  teiginys: "Už žydų gelbėjimą Pasaulio teisuoliais pripažinti 830 lietuvių, o jų sąrašas papildomas."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "gyne -> Žydai: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja lietuvius su žydų gelbėjimu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuviai gynė Žydai (0.87)"
+  pagrindžia:
+    - c-23548
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
@@ -92,43 +111,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-20826"></a>
-- t-001
-  teiginys: "Dalis lietuvių visuomenės rizikuodama gyvybe bandė padėti žydams ir juos gelbėti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::customs"
-  ryšio_patikimumas: "gyne -> Žydai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad lietuvių visuomenės dalis padėjo ir gelbėjo žydus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuviai gynė Žydai (0.88)"
-  pagrindžia:
-    - c-23548
-
-<a id="claim-t-20827"></a>
-- t-002
-  teiginys: "Už žydų gelbėjimą Pasaulio teisuoliais pripažinti 830 lietuvių, o jų sąrašas papildomas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::customs"
-  ryšio_patikimumas: "gyne -> Žydai: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja lietuvius su žydų gelbėjimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuviai gynė Žydai (0.87)"
-  pagrindžia:
-    - c-23548
-

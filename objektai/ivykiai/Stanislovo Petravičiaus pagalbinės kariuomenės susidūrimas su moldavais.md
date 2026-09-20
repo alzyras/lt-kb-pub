@@ -52,6 +52,20 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203107"></a>
+- t-001
+  teiginys: "Bychovco kronikoje pasakojama, kad karalius Olbrachtas, sulaukęs į pagalbą atėjusios brolio kariuomenės, be baimės žengė keliu, pasiekė Kamenecą, paskui Lvovą, o tada kariuomenė išsiskirstė."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Patikslintas veikėjas, eiga ir rezultatas."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-181725
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -76,16 +90,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210420"></a>
-- t-001
-  teiginys: "Bychovco kronikoje pasakojama, kad karalius Olbrachtas, sulaukęs į pagalbą atėjusios brolio kariuomenės, be baimės žengė keliu, pasiekė Kamenecą, paskui Lvovą, o tada kariuomenė išsiskirstė."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Patikslintas veikėjas, eiga ir rezultatas."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-
+  pagrindzia:
+    - t-001

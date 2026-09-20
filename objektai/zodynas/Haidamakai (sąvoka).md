@@ -33,6 +33,21 @@ Kazimieras Michalovskis ir A. Jaroševskis K. Venglevskio ir Pranciškaus Posach
 
 Kazimieras Michalovskis ir A. Jaroševskis K. Venglevskio ir Pranciškaus Posachovičiaus elgesį vadino „haidamakišku“, siedami šį terminą su Haličo kazokais, XVIII a. rengusiais sukilimus prieš Lenkijos aristokratus ir pasižymėjusiais ypatingu žiaurumu.
 
+## Teiginiai
+
+<a id="claim-t-203843"></a>
+- t-001
+  teiginys: "Kazimieras Michalovskis ir A. Jaroševskis K. Venglevskio ir Pranciškaus Posachovičiaus elgesį vadino „haidamakišku“, siedami šį terminą su Haličo kazokais, XVIII a. rengusiais sukilimus prieš Lenkijos aristokratus ir pasižymėjusiais ypatingu žiaurumu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:01Z"
+  pagrindžia:
+    - c-186447
+
 ## Citatos
 
 - id: c-186447
@@ -52,21 +67,5 @@ Kazimieras Michalovskis ir A. Jaroševskis K. Venglevskio ir Pranciškaus Posach
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203843"></a>
-- t-001
-  teiginys: "Kazimieras Michalovskis ir A. Jaroševskis K. Venglevskio ir Pranciškaus Posachovičiaus elgesį vadino „haidamakišku“, siedami šį terminą su Haličo kazokais, XVIII a. rengusiais sukilimus prieš Lenkijos aristokratus ir pasižymėjusiais ypatingu žiaurumu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  vertinimo_atnaujinta: "2026-07-30T22:17:01Z"
-  pagrindžia:
-    - c-186447
-

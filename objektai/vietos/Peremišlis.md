@@ -38,22 +38,10 @@ historical_names: []
 
 ## Teiginiai
 
-<a id="claim-t-210566"></a>
-- t-210566
-  teiginys: "Peremišlis yra Pietų Lenkijos miestas prie Sano upės."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193514
-
 <a id="claim-t-36478"></a>
-- t-36478
+- t-001
   teiginys: "Peremišlio kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštėlių žemėse."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_teritorija -> Peremišlis: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -87,23 +75,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-36478
-
-- id: c-193514
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 257"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 257."
-  citata_originali: |
-    Peremišlis — dabar pietų Lenkijos miestas (prie Sano upės,
-    arti TSRS sienos, apie 100 km j vakarus nuo Lvovo|
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210566
-
+  pagrindzia:
+    - t-001

@@ -1,33 +1,30 @@
 ---
 tipas: ivykis
-pavadinimas: 'Liudviko Bavarijos ir Fridricho Austrijos išrinkimas Romos karaliais (1314 m.)'
+pavadinimas: Liudviko Bavarijos ir Fridricho Austrijos išrinkimas Romos karaliais (1314 m.)
 variantai:
-  - 'Liudviko Bavarijos ir Fridricho Austrijos išrinkimas Romos karaliais'
+  - Liudviko Bavarijos ir Fridricho Austrijos išrinkimas Romos karaliais
 aliases:
-  - 'Liudviko Bavarijos ir Fridricho Austrijos išrinkimas Romos karaliais'
+  - Liudviko Bavarijos ir Fridricho Austrijos išrinkimas Romos karaliais
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1314 m.'
-  - '1322 m.'
+  - 1314 m.
+  - 1322 m.
 date_start: '1314'
 date_end: '1322'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Liudviko Bavarijos ir Fridricho Austrijos išrinkimas Romos karaliais (1314 m.)
 
@@ -85,6 +82,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

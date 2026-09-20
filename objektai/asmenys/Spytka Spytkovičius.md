@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Spytka Spytkovičius'
+pavadinimas: Spytka Spytkovičius
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-2b9cb9f1661ab2dfa033c790"
-canonical_name: "Spytka Spytkovičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Spytka Spytkovičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-2b9cb9f1661ab2dfa033c790
+canonical_name: Spytka Spytkovičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Spytka Spytkovičius
 sameAs: []
-canonical_biography: "Spytka Spytkovičius buvo Jogailos kariuomenės kiemo etmonas."
+canonical_biography: Spytka Spytkovičius buvo Jogailos kariuomenės kiemo etmonas.
 ---
 # Spytka Spytkovičius
 
@@ -66,6 +65,5 @@ Spytka Spytkovičius buvo Jogailos kariuomenės kiemo etmonas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -1,38 +1,38 @@
 ---
 tipas: autorius
-pavadinimas: 'Ignotas Jonas Hanušas'
+pavadinimas: Ignotas Jonas Hanušas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1842 m.'
-  - '1847 m.'
+  - 1842 m.
+  - 1847 m.
 date_start: '1842'
 date_end: '1847'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9a5f510d38681387fc24154d"
-canonical_name: "Ignotas Jonas Hanušas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Ignotas Jonas Hanušas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9a5f510d38681387fc24154d
+canonical_name: Ignotas Jonas Hanušas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Ignotas Jonas Hanušas
 sameAs: []
-canonical_biography: "Ignotas Jonas Hanušas parašė lyginamąją slavų, lietuvių, prūsų, indų ir persų mitologijos studiją."
+canonical_biography: 'Ignotas Jonas Hanušas parašė lyginamąją slavų, lietuvių, prūsų, indų ir persų mitologijos studiją.'
 ---
 # Ignotas Jonas Hanušas
 
@@ -89,6 +89,5 @@ Ignotas Jonas Hanušas parašė lyginamąją slavų, lietuvių, prūsų, indų i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

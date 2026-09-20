@@ -44,22 +44,10 @@ Tų metų rudenį Vytauto nurodymu Skirgaila, žygiuodamas iš Kijevo į pietus,
 
 ## Teiginiai
 
-<a id="claim-t-211731"></a>
-- t-211731
-  teiginys: "Zvenigorodas yra miestas prie Gniloj Tikič upės, apie 160 km į pietus nuo Kijevo."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193113
-
 <a id="claim-t-42349"></a>
-- t-42349
+- t-001
   teiginys: "1396 m. rudenį Skirgaila Vytauto nurodymu paėmė Zvenigorodą ir prijungė šias Aukso ordai pavaldžias žemes prie LDK."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -98,24 +86,5 @@ Tų metų rudenį Vytauto nurodymu Skirgaila, žygiuodamas iš Kijevo į pietus,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-42349
-
-- id: c-193113
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 246."
-  citata_originali: |
-    Zvenigorodas — dabar UTSR Čerkasų sr. miestas Zvenigorod-
-    ka (prie Gintoj Tikič upės, apie 160 km į pietus nuo Kijevo). Se­
-    nasis Zvenigorodas buvo už 7 varstų nuo dabartinės Zvenlgorodkos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211731
-
+  pagrindzia:
+    - t-001

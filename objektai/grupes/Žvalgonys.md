@@ -27,6 +27,21 @@ media_all_json: |-
 
 Narbutas Žvalgonis apibūdino kaip žynius, atlikdavusius vedybų apeigas, pranašaudavusius jaunavedžiams ateitį ir sakydavusius kalbas.
 
+## Teiginiai
+
+<a id="claim-t-189543"></a>
+- t-001
+  teiginys: "Narbutas Žvalgonis apibūdino kaip žynius, atlikdavusius vedybų apeigas, pranašaudavusius jaunavedžiams ateitį ir sakydavusius kalbas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172431
+
 ## Citatos
 
 - id: c-172431
@@ -50,4 +65,5 @@ Narbutas Žvalgonis apibūdino kaip žynius, atlikdavusius vedybų apeigas, pran
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

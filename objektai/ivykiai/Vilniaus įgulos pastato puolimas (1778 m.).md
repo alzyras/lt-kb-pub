@@ -46,6 +46,24 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203893"></a>
+- t-001
+  teiginys: "1778 m. naktį Kazimieras Račynskis su talkininkais užpuolė Vilniaus įgulą ir sumušė įgulos kareivį Motiejų Belavskį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1778 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus laiko fragmentas ir įvardyti užpuolimo dalyviai bei nukentėjusysis. Nepateikta papildomų aplinkybių, kurių citatoje nėra."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186497
+
 ## Santrauka
 
 1778 m. naktį Kazimieras Račynskis su talkininkais užpuolė Vilniaus įgulą ir sumušė įgulos kareivį Motiejų Belavskį.
@@ -67,24 +85,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203893"></a>
-- t-001
-  teiginys: "1778 m. naktį Kazimieras Račynskis su talkininkais užpuolė Vilniaus įgulą ir sumušė įgulos kareivį Motiejų Belavskį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1778 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus laiko fragmentas ir įvardyti užpuolimo dalyviai bei nukentėjusysis. Nepateikta papildomų aplinkybių, kurių citatoje nėra."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186497
-

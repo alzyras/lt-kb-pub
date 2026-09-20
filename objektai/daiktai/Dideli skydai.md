@@ -45,6 +45,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206071"></a>
+- t-001
+  teiginys: "Lietuviai, prisidengę dideliais skydais, veikė uždaromis kolonomis ir pralaužė voluiniečių eiles."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188686
+
 ## Santrauka
 
 Lietuviai, prisidengę dideliais skydais, veikė uždaromis kolonomis ir pralaužė voluiniečių eiles.
@@ -69,21 +84,5 @@ Lietuviai, prisidengę dideliais skydais, veikė uždaromis kolonomis ir pralau�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206071"></a>
-- t-001
-  teiginys: "Lietuviai, prisidengę dideliais skydais, veikė uždaromis kolonomis ir pralaužė voluiniečių eiles."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188686
-

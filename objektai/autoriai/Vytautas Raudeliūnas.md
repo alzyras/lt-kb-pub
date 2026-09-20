@@ -35,6 +35,20 @@ Vytautas Raudeliūnas straipsnyje „Mirties bausmė senovės Lietuvoje“ aptar
 
 Vytautas Raudeliūnas straipsnyje „Mirties bausmė senovės Lietuvoje“ aptarė mirties bausmės raidą senovės Lietuvoje bendriausiais bruožais.
 
+## Teiginiai
+
+<a id="claim-t-203711"></a>
+- t-001
+  teiginys: "Vytautas Raudeliūnas straipsnyje „Mirties bausmė senovės Lietuvoje“ aptarė mirties bausmės raidą senovės Lietuvoje bendriausiais bruožais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186315
+
 ## Citatos
 
 - id: c-186315
@@ -54,20 +68,5 @@ Vytautas Raudeliūnas straipsnyje „Mirties bausmė senovės Lietuvoje“ aptar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203711"></a>
-- t-001
-  teiginys: "Vytautas Raudeliūnas straipsnyje „Mirties bausmė senovės Lietuvoje“ aptarė mirties bausmės raidą senovės Lietuvoje bendriausiais bruožais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186315
-

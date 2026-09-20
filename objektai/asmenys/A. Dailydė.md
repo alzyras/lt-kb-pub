@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'A. Dailydė'
+pavadinimas: A. Dailydė
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-060302dc755a4f2a33807750"
-canonical_name: "A. Dailydė"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["A. Dailydė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-060302dc755a4f2a33807750
+canonical_name: A. Dailydė
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - A. Dailydė
 sameAs: []
-canonical_biography: "A. Dailydė priešinosi Marijampolės mokyklų direktoriui Meyeriui-pastoriui."
+canonical_biography: A. Dailydė priešinosi Marijampolės mokyklų direktoriui Meyeriui-pastoriui.
 ---
 # A. Dailydė
 
@@ -66,6 +65,5 @@ A. Dailydė priešinosi Marijampolės mokyklų direktoriui Meyeriui-pastoriui.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

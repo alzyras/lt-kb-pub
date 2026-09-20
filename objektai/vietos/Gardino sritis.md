@@ -36,6 +36,25 @@ historical_names: []
 
 Apie VIII-IX amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų Gardino sritį.
 
+## Teiginiai
+
+<a id="claim-t-28331"></a>
+- t-001
+  teiginys: "Apie VIII-IX a. slavai jau buvo prie Polocko ir Minsko, o iš pietų pasiekė Gardino sritį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Gardino sritis: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Slavai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gardino sritis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad slavai pasiekė Gardino sritį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Slavai keliavo į Gardino sritis (0.88); Slavai gyveno Pamaris (0.86)"
+  pagrindžia:
+    - c-28235
+
 ## Citatos
 
 - id: c-28235
@@ -52,25 +71,5 @@ Apie VIII-IX amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų G
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-28331"></a>
-- t-001
-  teiginys: "Apie VIII-IX a. slavai jau buvo prie Polocko ir Minsko, o iš pietų pasiekė Gardino sritį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Gardino sritis: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Slavai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gardino sritis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad slavai pasiekė Gardino sritį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Slavai keliavo į Gardino sritis (0.88); Slavai gyveno Pamaris (0.86)"
-  pagrindžia:
-    - c-28235
-

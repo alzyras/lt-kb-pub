@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Vilniaus generalgubernija'
+pavadinimas: Vilniaus generalgubernija
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 datos:
-  - '1853 m.'
+  - 1853 m.
 date_start: '1853'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-bb79b9fca287cf4fa54b1f8b"
-canonical_name: "Vilniaus generalgubernija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vilniaus generalgubernija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-bb79b9fca287cf4fa54b1f8b
+canonical_name: Vilniaus generalgubernija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vilniaus generalgubernija
 sameAs: []
-canonical_biography: "1853 m. Vilniaus generalgubernijoje įsigaliojo įstatymas, draudžiantis kištis į valstiečių santuoką, kai tuokiasi to paties pono valstiečiai."
+canonical_biography: '1853 m. Vilniaus generalgubernijoje įsigaliojo įstatymas, draudžiantis kištis į valstiečių santuoką, kai tuokiasi to paties pono valstiečiai.'
 place_authority: true
 historical_names: []
 ---

@@ -43,6 +43,25 @@ historical_names: []
 
 Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­ žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio mas- 50 Petrus Maureus Royzius, gimęs Alcagnizo [ Alkaniso] mieste Aragonoje, kilęs iš ispanų Ruiz de Moros gi­ minės.
 
+## Teiginiai
+
+<a id="claim-t-86166"></a>
+- t-001
+  teiginys: "Alkanisas nurodomas kaip Aragono miestas, kuriame gimė teisininkas Petrus Maureus Royzius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Aragonas: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Alkanisas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Aragonas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Alkanisas tiesiogiai lokalizuotas Aragone."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Alkanisas priklausė Aragonas (0.87)"
+  pagrindžia:
+    - c-82145
+
 ## Citatos
 
 - id: c-82145
@@ -72,25 +91,5 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-86166"></a>
-- t-001
-  teiginys: "Alkanisas nurodomas kaip Aragono miestas, kuriame gimė teisininkas Petrus Maureus Royzius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Aragonas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Alkanisas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Aragonas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Alkanisas tiesiogiai lokalizuotas Aragone."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Alkanisas priklausė Aragonas (0.87)"
-  pagrindžia:
-    - c-82145
-

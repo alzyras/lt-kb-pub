@@ -34,6 +34,40 @@ canonical_biography: "Romai antrąkart patekus į Totilos rankas, Justiniano kar
 
 Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herulų, o ši kariuomenė 552 metais dalyvavo Taginos mūšyje, kur žuvo Totila. Taip pat ir Romai antrąkart pakliuvus į Totilos rankas, kai Justinianas surinko ka riuomenę, greta longobardų ir persų buvo herulų.
 
+## Teiginiai
+
+<a id="claim-t-191478"></a>
+- t-001
+  teiginys: "Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herulų, o ši kariuomenė 552 metais dalyvavo Taginos mūšyje, kur žuvo Totila."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Justinianas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Justinianas: mention_match, person, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totila\" parinktas kaip owner_note_path. Targetas \"Justinianas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174360
+
+<a id="claim-t-197834"></a>
+- t-002
+  teiginys: "Taip pat ir Romai antrąkart pakliuvus į Totilos rankas, kai Justinianas surinko ka riuomenę, greta longobardų ir persų buvo herulų."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174360
+
 ## Citatos
 
 - id: c-174360
@@ -55,75 +89,6 @@ Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herul�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195656
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 325"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 325."
-  citata_originali: |
-    Taip pat ir Romai antrąkart
-    pakliuvus į Totilos rankas, kai Justinianas surinko ka­
-    riuomenę, greta longobardų ir persų buvo herulų. Si ka­
-    riuomenė buvo sutelkta Pado žemupyje 552 metais Nar­
-    šui vadovaujant ir dalyvavo Taginos mūšyje; čia ir žuvo
-    Totila. Nedaug herulų, gal išlikusių kažkur Rytų valsty­
-    bės provincijose po to, kai prieš keturiasdešimt metų bu­
-    vo išblaškyti, liko šiose vietose gyventi1.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-    - t-003
-
-## Teiginiai
-
-<a id="claim-t-214896"></a>
-- t-001
-  teiginys: "Totila žuvo Taginos mūšyje 552 m."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195656
-
-<a id="claim-t-215213"></a>
-- t-002
-  teiginys: "Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herulų, o ši kariuomenė 552 metais dalyvavo Taginos mūšyje, kur žuvo Totila."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Justinianas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Totila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Justinianas: mention_match, person, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totila\" parinktas kaip owner_note_path. Targetas \"Justinianas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-195656
-
-<a id="claim-t-215266"></a>
-- t-003
-  teiginys: "Taip pat ir Romai antrąkart pakliuvus į Totilos rankas, kai Justinianas surinko ka riuomenę, greta longobardų ir persų buvo herulų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195656
-

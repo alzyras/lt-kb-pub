@@ -2,28 +2,25 @@
 tipas: saltinis
 pavadinimas: 'Kalvaria, arba kelias kryžiaus sopulun Jezusa Kristusa'
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1855 m.'
-  - '1861 m.'
+  - 1855 m.
+  - 1861 m.
 date_start: '1855'
 date_end: '1861'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kalvaria, arba kelias kryžiaus sopulun Jezusa Kristusa
 

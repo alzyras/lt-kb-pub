@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Monetos radimas kapavietėje prie Druskininkų (1841 m.)'
+pavadinimas: Monetos radimas kapavietėje prie Druskininkų (1841 m.)
 variantai:
-  - 'Monetos radimas kapavietėje prie Druskininkų'
+  - Monetos radimas kapavietėje prie Druskininkų
 aliases:
-  - 'Monetos radimas kapavietėje prie Druskininkų'
+  - Monetos radimas kapavietėje prie Druskininkų
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1841 m.'
+  - 1841 m.
 date_start: '1841'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Monetos radimas kapavietėje prie Druskininkų (1841 m.)
 
@@ -83,6 +80,5 @@ Monetos vienoje pusėje buvo pavaizduotas Gedimino šeimos herbas Stulpai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

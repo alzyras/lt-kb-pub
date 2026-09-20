@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Sviatoslavas'
+pavadinimas: Sviatoslavas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
@@ -16,25 +16,208 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9d3caf290f374a334e64e039"
-canonical_name: "Sviatoslavas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Sviatoslavas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9d3caf290f374a334e64e039
+canonical_name: Sviatoslavas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Sviatoslavas
 sameAs: []
-canonical_biography: "Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio sūnus Jurgis buvo priverstas padaryti su Lietuva sąjungą."
+canonical_biography: 'Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio sūnus Jurgis buvo priverstas padaryti su Lietuva sąjungą.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T12:16:13+00:00","source_checked_at":"2026-09-19T12:16:13+00:00","counts":{"relations":8,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"78b25434322e9ac13119c280","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Daukantas apibūdina Sviatoslavą kaip nieko negeidžiantį, išskyrus pasižymėjimą karais ir žygiais.","context":"Sviatoslavo valdžios perėmimo metu, jam dar nesant krikščioniu; Daukanto vertinimas veikale „Istorija žemaitiška“, 1995 m.","support_ids":["t-201033","c-184383"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201033","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184383","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Taip parėdžius ūkę, nukeliavusi į Konstantinopolį krikštytis, nuo kur paskui sugrįžus Kijeve karšinusis. Sviatoslavas, nebūdamas dar krikščioniu, bekarš- tant motinai paėmė valdžią ūkės nieko negeisdamas, kaip vienomis karėmis ir žygiais atsiženklinti. Per­ galėjo trakuojančius viatičius ir chazarus, kuriems pirma gudai patys šylės, įsilaužęs padunojy į pilį Sarkel, paveikęs dar jasus ir kasogus, užėmęs vie­ tovę Tamatarchą, arba Fanagoriją, ir visą pašalį Azovo jūros."}],"status":"published","conflict_status":"clear"},{"trait_id":"a4eefe18cfbe464c3463244c","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Laikėsi protėvių tikėjimo.","context":"Narbutas taip aprašo Sviatoslavą, nurodydamas jo auklėtoją Asmundą Skandinavą; veikale „Lietuvių tautos istorija“, t. 3, 1994 m.","support_ids":["t-205331","c-188017"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205331","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188017","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"O jos sūnus Sviatoslavas, priešingai, laikėsi protėvių tikėjimo, juk jo auklėtojas buvo Asmundas Skandinavas"}],"status":"published","conflict_status":"clear"},{"trait_id":"edb9f6e1585ec19f873552fc","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Buvo Smolensko kunigaikštis.","context":"Aprašant jo sąjungą su Andriumi ir Mstislavlio užvaldymą; Ivinskio veikale „Lietuvos istorija iki Vytauto Didžiojo mirties“, 1978 m.","support_ids":["t-179683","c-163350"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179683","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-163350","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Už pažadą ginti nuo priešų, jis ordinui buvo užrašęs «visą savo Polocko karalystę». Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį. Bet maištininkai greitai buvo įveikti."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"948f59bc08757152a40ffa45","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Viešpatavo Smolenske ir buvo vienas iš Lietuvos didžiojo kunigaikščio vasalų.","context":"Narbuto pasakojime apie Sviatoslavo žygį į Vitebską ir Oršą; veikale „Lietuvių tautos istorija“, t. 5, 2001 m.","support_ids":["t-206393","c-189008"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206393","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-189008","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Sviatoslavas viešpatavo Smolenske, buvo vienas iš Lietuvos didžiojo kunigaikščio vasalų; šis, be abejo­ nės, Livonijos magistro, tarpininkaujamo Andriaus, įkalbėtas, atvykęs lydimas pusbrolio Jono, taip pat dviejų savo sūnų - Glebo ir Jurgio, nužygiavo į Vitebską, paskui į Oršą,"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e3c55b7707297cf5791aacc5","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Buvo Černigovo kunigaikštis.","context":"Narbutas jį taip įvardija aprašydamas 1181 m. tarpusavio karą Rusioje; veikale „Lietuvių tautos istorija“, t. 3, 1994 m.","support_ids":["t-205110","c-187981"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205110","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187981","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"tuo metu, kai Rusioje vyko tarpusavio karas ir kai Černigovo kunigaikštis Sviatoslavas siautėjo reikšdamas įvairias pretenzijas ir pasitelkęs sąjungininkų paramą traukė su kariauna į mūšio laulką kautis su di­ džiojo kunigaikščio Vsevolodo pulkais, kunigaikštis Vses- lavas Vasilkovičius, turbūt turėjęs Polocko kunigaikščio titulą, juk Glėbas Rogvolodovičius viešpatavo Dručke1 ir, būdamas palei Kijevą, į pagalbą buvo pasitelkęs ir polo- ckiečių sąjungininkus — lietuvių kariaunos pulkus1 2."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Sviatoslavas – istoriniuose šaltiniuose minimas kunigaikštis, siejamas su Smolensku ir Lietuvos pietiniais kraštais. Vienas šaltinis nurodo, kad jis viešpatavo Smolenske ir buvo Lietuvos didžiojo kunigaikščio vasalas. Būdamas sąjungoje su Andriumi, Sviatoslavas užvaldė Mstislavlį, tačiau maištininkai netrukus buvo įveikti. Pats Sviatoslavas žuvo prie Mstislavlio, ant Vechros kranto, o jo sūnus Jurgis po to pažadėjo Jogailai paklusnumą. Kitas pasakojimas jį vadina Černigovo kunigaikščiu, mini jo žygį Lietuvos pietuose ir teigia, kad lenkų raitelis jį aptiko ąžuolų giraitėje bei nužudė, kai jis, tikėtina, nenorėjo pasiduoti į nelaisvę. Kadangi pateikti šaltiniai nesutaria dėl Sviatoslavo tapatybės ir padėties, duomenų nepakanka visiškai patikimai biografinei santraukai.","sentences":[{"sentence_id":"s1","text":"Sviatoslavas – istoriniuose šaltiniuose minimas kunigaikštis, siejamas su Smolensku ir Lietuvos pietiniais kraštais.","support_ids":["t-206393","t-205447"]},{"sentence_id":"s2","text":"Vienas šaltinis nurodo, kad jis viešpatavo Smolenske ir buvo Lietuvos didžiojo kunigaikščio vasalas.","support_ids":["t-206393","c-189008"]},{"sentence_id":"s3","text":"Būdamas sąjungoje su Andriumi, Sviatoslavas užvaldė Mstislavlį, tačiau maištininkai netrukus buvo įveikti.","support_ids":["t-179683","c-163350"]},{"sentence_id":"s4","text":"Pats Sviatoslavas žuvo prie Mstislavlio, ant Vechros kranto, o jo sūnus Jurgis po to pažadėjo Jogailai paklusnumą.","support_ids":["t-179685","c-30288"]},{"sentence_id":"s5","text":"Kitas pasakojimas jį vadina Černigovo kunigaikščiu, mini jo žygį Lietuvos pietuose ir teigia, kad lenkų raitelis jį aptiko ąžuolų giraitėje bei nužudė, kai jis, tikėtina, nenorėjo pasiduoti į nelaisvę.","support_ids":["t-205447","c-188124","t-206394","c-189009"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta nurodytais šaltiniais: Sviatoslavas siejamas su Smolensku ir žygiu Lietuvos pietiniuose kraštuose."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Sviatoslavas viešpatavo Smolenske ir buvo Lietuvos didžiojo kunigaikščio vasalas."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad Sviatoslavas, būdamas sąjungoje su Andriumi, užvaldė Mstislavlį, o maištininkai buvo įveikti."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo Sviatoslavo žūtį prie Mstislavlio ant Vechros kranto ir Jurgio paklusnumo pažadą Jogailai."},{"sentence_id":"s5","supported":true,"reason":"Nurodyti šaltiniai tiesiogiai parem ia Černigovo kunigaikščio titulą, žygį Lietuvos pietuose, nužudymą ąžuolų giraitėje ir tikėtiną nenorą pasiduoti į nelaisvę."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-206393","t-205447"]},{"sentence_id":"s2","supported":true,"support_ids":["t-206393","c-189008"]},{"sentence_id":"s3","supported":true,"support_ids":["t-179683","c-163350"]},{"sentence_id":"s4","supported":true,"support_ids":["t-179685","c-30288"]},{"sentence_id":"s5","supported":true,"support_ids":["t-205447","c-188124","t-206394","c-189009"]}],"verifier":"gpt-5.6-luna"},"quality":28,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Jurgis (Sviatoslavo sūnus)","claim_id":"t-30317","confidence":0.93},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Jurijus","claim_id":"t-186226","confidence":0.96},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Smolenskas","claim_id":"t-182085","confidence":0.84},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Mstislavlis","claim_id":"t-179685","confidence":0.96},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Vechra","claim_id":"t-179685","confidence":0.92},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Mstislavlis","claim_id":"t-179683","confidence":0.96},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Mstislavlis","claim_id":"t-182085","confidence":0.9},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Smolenskas","claim_id":"t-179683","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":11,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f3845f51cb2c353d
+object_page_generated_at: '2026-09-19T12:16:13+00:00'
+object_page_source_checked_at: '2026-09-19T12:16:13+00:00'
+object_page_content_state: content
+object_page_claim_count: '11'
+object_page_source_count: '5'
+object_page_seo_description: 'Sviatoslavas – istoriniuose šaltiniuose minimas kunigaikštis, siejamas su Smolensku ir Lietuvos pietiniais kraštais. Vienas šaltinis nurodo, kad jis…'
+object_page_seo_input_hash: 71008fa1ab2f00569da7b84cba202fdcf028d6786e454ad4d6f842c7e0845e44
+object_page_seo_generated_at: '2026-09-19T12:16:13+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Sviatoslavas
 
 ## Santrauka
 
 Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio sūnus Jurgis buvo priverstas padaryti su Lietuva sąjungą.
+
+## Teiginiai
+
+<a id="claim-t-179683"></a>
+- t-001
+  teiginys: "Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Mstislavlis: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sviatoslavas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim'as tiesiogiai sako, kad Sviatoslavas užvaldė Mstislavlį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sviatoslavas užėmė Mstislavlis (0.96); Sviatoslavas valdė Smolenskas (0.90)"
+  pagrindžia:
+    - c-163350
+
+<a id="claim-t-179685"></a>
+- t-002
+  teiginys: "Sviatoslavas žuvo prie Mstislavlio ant Vechros kranto."
+  atnaujinta: "2026-05-31 14:17"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Mstislavlis: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sviatoslavas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Sviatoslavo žūties vietą prie Mstislavlio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sviatoslavas mirė Mstislavlis (0.96); Sviatoslavas mirė Vechra (0.92)"
+  pagrindžia:
+    - c-30288
+
+<a id="claim-t-184838"></a>
+- t-003
+  teiginys: "Kojelavičiaus pasakojime Sviatoslavas, nuniokojęs Oršos apylinkes, puolė Mstislavlį ir privertė Skirgailą bei Vytautą vesti karius prieš jį."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sviatoslavas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sviatoslavas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168199
+
+<a id="claim-t-196597"></a>
+- t-004
+  teiginys: "Kojelavičiaus pasakojime Sviatoslavas, nuniokojęs Oršos apylinkes, brovėsi į Mstislavlį ir beveik privedė krašto sostinę prie kritinės padėties."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168199
+
+<a id="claim-t-201033"></a>
+- t-005
+  teiginys: "Sviatoslavas, nebūdamas dar krikščioniu, bekarštant motinai paėmė valdžią ūkės nieko negeisdamas, kaip vienomis karėmis ir žygiais atsiženklinti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184383
+
+<a id="claim-t-201034"></a>
+- t-006
+  teiginys: "Višislavas įgavęs Naugardą į valdžią, Iziaslavas Polocką, Jaroslavas Rostovą, kuriam nustipus, kliuvo jis Bo risui, Glėbas gavo Muromą, Sviatoslavas Pajuodgirę, Viršuj: g eia i."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184384
+
+<a id="claim-t-201035"></a>
+- t-007
+  teiginys: "Sviatoslavas, jų viešpats, pirma jau pergalėtas, da bar palikinąs buveinę ir valdžią ūkės prasikraustė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184385
+
+<a id="claim-t-205110"></a>
+- t-008
+  teiginys: "Narbutas rašo, kad 1181 m. Černigovo kunigaikštis Sviatoslavas su sąjungininkais traukė kautis su didžiojo kunigaikščio Vsevolodo pulkais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1181 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta perteklinė įžanga ir išskleistas įvykio veiksmas. Valdovų titulų vartosena palikta su šaltinio atribucija."
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187981
+
+<a id="claim-t-205331"></a>
+- t-009
+  teiginys: "Sviatoslavas buvo Olgos sūnus ir Asmundo Skandinavo auklėtinis."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188017
+
+<a id="claim-t-205447"></a>
+- t-010
+  teiginys: "Lietuvos pietiniuose kraštuose po tiek laiko vy ravusios taikos pastebime buvus surengtą Černigovo ku nigaikščio Sviatoslavo žygį."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188124
+
+<a id="claim-t-206393"></a>
+- t-011
+  teiginys: "Sviatoslavas viešpatavo Smolenske ir buvo Lietuvos didžiojo kunigaikščio vasalas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189008
+
+<a id="claim-t-206394"></a>
+- t-012
+  teiginys: "Teodoras Narbutas pasakoja, kad lenkų raitelis Sviatoslavą rado ąžuolų giraitėje be jėgų po medžiu ir nužudė vietoje, tikriausiai todėl, kad Sviatoslavas nenorėjo pasiduoti į nelaisvę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189009
 
 ## Citatos
 
@@ -53,7 +236,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-163350
@@ -71,7 +254,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-163352
@@ -92,9 +275,6 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - id: c-168199
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -130,7 +310,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-004
 
@@ -155,7 +335,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-184384
@@ -184,7 +364,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-184385
@@ -207,7 +387,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-187981
@@ -231,7 +411,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-188017
@@ -262,7 +442,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-188124
@@ -281,7 +461,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-189008
@@ -299,7 +479,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-189009
@@ -316,7 +496,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 ## Ryšiai
@@ -324,176 +504,3 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 - Sviatoslavas valdė [[objektai/vietos/Mstislavlis]], [[objektai/vietos/Smolenskas]]
 - Sviatoslavas mirė [[objektai/vietos/Mstislavlis]], [[objektai/vietos/Vechra]]
 - Sviatoslavas užėmė [[objektai/vietos/Mstislavlis]]
-
-## Teiginiai
-
-<a id="claim-t-179683"></a>
-- t-001
-  teiginys: "Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Mstislavlis: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sviatoslavas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim'as tiesiogiai sako, kad Sviatoslavas užvaldė Mstislavlį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sviatoslavas užėmė Mstislavlis (0.96); Sviatoslavas valdė Smolenskas (0.90)"
-  pagrindžia:
-    - c-163350
-    - c-163352
-
-<a id="claim-t-179685"></a>
-- t-002
-  teiginys: "Sviatoslavas žuvo prie Mstislavlio ant Vechros kranto."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Mstislavlis: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sviatoslavas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Sviatoslavo žūties vietą prie Mstislavlio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sviatoslavas mirė Mstislavlis (0.96); Sviatoslavas mirė Vechra (0.92)"
-  pagrindžia:
-    - c-30288
-
-<a id="claim-t-184838"></a>
-- t-003
-  teiginys: "Kojelavičiaus pasakojime Sviatoslavas, nuniokojęs Oršos apylinkes, puolė Mstislavlį ir privertė Skirgailą bei Vytautą vesti karius prieš jį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sviatoslavas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sviatoslavas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168199
-
-<a id="claim-t-196597"></a>
-- t-004
-  teiginys: "Kojelavičiaus pasakojime Sviatoslavas, nuniokojęs Oršos apylinkes, brovėsi į Mstislavlį ir beveik privedė krašto sostinę prie kritinės padėties."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168199
-
-<a id="claim-t-201033"></a>
-- t-005
-  teiginys: "Sviatoslavas, nebūdamas dar krikščioniu, bekarštant motinai paėmė valdžią ūkės nieko negeisdamas, kaip vienomis karėmis ir žygiais atsiženklinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184383
-
-<a id="claim-t-201034"></a>
-- t-006
-  teiginys: "Višislavas įgavęs Naugardą į valdžią, Iziaslavas Polocką, Jaroslavas Rostovą, kuriam nustipus, kliuvo jis Bo risui, Glėbas gavo Muromą, Sviatoslavas Pajuodgirę, Viršuj: g eia i."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184384
-
-<a id="claim-t-201035"></a>
-- t-007
-  teiginys: "Sviatoslavas, jų viešpats, pirma jau pergalėtas, da bar palikinąs buveinę ir valdžią ūkės prasikraustė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184385
-
-<a id="claim-t-205110"></a>
-- t-008
-  teiginys: "Narbutas rašo, kad 1181 m. Černigovo kunigaikštis Sviatoslavas su sąjungininkais traukė kautis su didžiojo kunigaikščio Vsevolodo pulkais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1181 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta perteklinė įžanga ir išskleistas įvykio veiksmas. Valdovų titulų vartosena palikta su šaltinio atribucija."
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187981
-
-<a id="claim-t-205331"></a>
-- t-009
-  teiginys: "Sviatoslavas buvo Olgos sūnus ir Asmundo Skandinavo auklėtinis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188017
-
-<a id="claim-t-205447"></a>
-- t-010
-  teiginys: "Lietuvos pietiniuose kraštuose po tiek laiko vy ravusios taikos pastebime buvus surengtą Černigovo ku nigaikščio Sviatoslavo žygį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188124
-
-<a id="claim-t-206393"></a>
-- t-011
-  teiginys: "Sviatoslavas viešpatavo Smolenske ir buvo Lietuvos didžiojo kunigaikščio vasalas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189008
-
-<a id="claim-t-206394"></a>
-- t-012
-  teiginys: "Teodoras Narbutas pasakoja, kad lenkų raitelis Sviatoslavą rado ąžuolų giraitėje be jėgų po medžiu ir nužudė vietoje, tikriausiai todėl, kad Sviatoslavas nenorėjo pasiduoti į nelaisvę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189009
-

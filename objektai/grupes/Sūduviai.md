@@ -1,18 +1,18 @@
 ---
 tipas: grupe
-pavadinimas: 'Sūduviai'
+pavadinimas: Sūduviai
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1259 m.'
-  - '1262 m.'
-  - '1263 m.'
-  - '1264 m.'
-  - '1277 m.'
-  - '1280 m.'
-  - '1282 m.'
+  - 1259 m.
+  - 1262 m.
+  - 1263 m.
+  - 1264 m.
+  - 1277 m.
+  - 1280 m.
+  - 1282 m.
 date_start: '1259'
 date_end: '1282'
 sukurta: ''
@@ -22,19 +22,29 @@ tags:
   - ordinas
   - kariuomenė
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T01:59:51+00:00","source_checked_at":"2026-09-19T01:59:51+00:00","counts":{"relations":30,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"abeb735d1fe90aaca9ff3c4c","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Skomantas į Kulmo žemę įsiveržė su 4 000 sūduvių gentainių ir stipria lietuvių kariuomene.","context":"1277 m. spalio 21 d.; taip aprašo Petras Dusburgietis.","support_ids":["t-223456","c-203826"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223456","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203826","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Įniršęs dėl tokio savo žmonių pralaimėjimo ir tokių didelių nuostolių, patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių dieną481, pasiryžęs visokeriopai atkeršyti už savųjų žūtį. Iš pradžių jie smarkiai užpuolė vieno vasalo pilį, vardu Plovista482, buvusią Osos upės pakrantėje; būtų ją sugriovę, jeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie netikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"589018545a99ac9bd848b88f","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Liudvikas iš Libencelės atsivedė 1 600 abiejų lyčių sūduvių.","context":"Aprašydamas sūduvių atvertimą į Kristaus tikėjimą; taip aprašo Petras Dusburgietis.","support_ids":["t-224670","c-201823"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224670","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201823","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­ mą Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią tikėjimo priešus sūduvius. Siekdamas šio tikslo, subūrė daug brolių bei kitų karių; kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė į Kristaus tikėjimą. Juos išvydęs, magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"eab9804e5427aadbc3bbe839","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Skomantas buvo sūduvių vadas.","context":"Aprašydamas jo vadovaujamus karo žygius; taip nurodo Petras Dusburgietis.","support_ids":["t-223456","c-203826"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223456","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203826","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Įniršęs dėl tokio savo žmonių pralaimėjimo ir tokių didelių nuostolių, patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių dieną481, pasiryžęs visokeriopai atkeršyti už savųjų žūtį. Iš pradžių jie smarkiai užpuolė vieno vasalo pilį, vardu Plovista482, buvusią Osos upės pakrantėje; būtų ją sugriovę, jeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie netikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties."}],"status":"published","conflict_status":"clear"},{"trait_id":"66a9eab12fc3024c5b3dddb7","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Sūduviai siekė atkeršyti už savųjų žūtį ir ankstesnius kryžiuočių smūgius.","context":"Skomantas į Kulmo žemę įsiveržė keršyti už savųjų žūtį; sūduviai, pasitelkę lietuvius, puolė Sembos žemę keršydami už priespaudą. Tai autoriaus aprašytas konkrečių žygių tikslas, ne apibendrinta grupės savybė.","support_ids":["t-224990","c-203826","t-224652","c-205344"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224990","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-224652","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203826","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Įniršęs dėl tokio savo žmonių pralaimėjimo ir tokių didelių nuostolių, patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių dieną481, pasiryžęs visokeriopai atkeršyti už savųjų žūtį. Iš pradžių jie smarkiai užpuolė vieno vasalo pilį, vardu Plovista482, buvusią Osos upės pakrantėje; būtų ją sugriovę, jeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie netikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties."},{"kind":"evidence","evidence_id":"c-205344","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Sembos žemės nusiaubimą Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už šitokią priespaudą, tačiau patys vieni nieko nestengdami, pasitelkė į pagalbą lietuvius ir smarkiai užpuolė Sembos žemę497. Broliai iš anksto buvo pasirengę tam antpuoliui. Dėl to šie nieko kita čia negalėjo daryti, tik dešimt dienų žygiuoti nuo vienos šios žemės ribos iki kitos ir deginti sodybas bei visa kita, kas buvo už pilių ir įtvirtinimų [sienų]; jie sugrįžo namo, netekę tik 5 savo karių."}],"status":"published","conflict_status":"clear"},{"trait_id":"3e877b8189d9b8f062dea706","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Sūduviai rėmė sukilusius pomezaniečius ir kartu su lietuviais rėmė sukilėlius.","context":"1243 m. ir vėlesnių įvykių aprašymuose; taip nurodo Teodoras Narbutas.","support_ids":["t-205627","c-188242","t-205628","c-188243"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205627","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"internal_claim","claim_id":"t-205628","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188242","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Tų žmonių dejonės turėjo pasiekti Mindaugą, nes 1243 metais jis pa­ vedė Treniotai paremti sūduvius, traukusius į pagalbą prūsams pomezaniečiams, sukilusiems prieš kryžiuočius1 2."},{"kind":"evidence","evidence_id":"c-188243","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Pagalbos ranką jiems ištiesė Sviatopelkas, suki­ lėlius rėmė sūduviai su lietuviais, padėjo joanitų riteriai, gyvenę Pomeranijoje."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d1786f48963cca82aecc5f5f","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Sūduviai vykdė karinius žygius: puldavo ir apguldavo pilis, niokodavo žemes, degindavo gyvenvietes bei grobdavo turtą.","context":"Petras Dusburgietis taip aprašo konkrečius sūduvių žygius Vartenbergo, Lubavos, Bartenšteino, Kulmo, Notangos ir Sembos žemėse XIII a.","support_ids":["t-220297","c-204495","t-220434","c-202607","t-221664","c-203386","t-223672","c-202469","t-225291","c-202323","t-224652","c-205344"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220297","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-220434","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-221664","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-223672","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-225291","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-224652","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204495","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Sūduviai, subūrę dar didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių, kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista. 160 (155)."},{"kind":"evidence","evidence_id":"c-202607","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos pilies bei miesto sugriovimą Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei miestą440. Paskui prie Štraisbergo pilies441 įėjo į Kulmo žemę padaliję savo kariuomenę, paėmė daug pilių, o į jas bėgančius žmones išžudė ar išsivarė į nelaisvę. Po to priėjo Torunę ir sudegino ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų."},{"kind":"evidence","evidence_id":"c-203386","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie antrąjį Bartenšteino pilies sugriovimą Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams, labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje, broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę į nelaisvę visus gyventojus, ir net pelenais pavertė. 174 (169)."},{"kind":"evidence","evidence_id":"c-202469","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams, būtent: Eimsutis ir dar viena Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui."},{"kind":"evidence","evidence_id":"c-202323","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie sūduvių pabėgimą Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė. Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai sužeidė, o kiti gėdingai pabėgo. 201 (196)."},{"kind":"evidence","evidence_id":"c-205344","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Sembos žemės nusiaubimą Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už šitokią priespaudą, tačiau patys vieni nieko nestengdami, pasitelkė į pagalbą lietuvius ir smarkiai užpuolė Sembos žemę497. Broliai iš anksto buvo pasirengę tam antpuoliui. Dėl to šie nieko kita čia negalėjo daryti, tik dešimt dienų žygiuoti nuo vienos šios žemės ribos iki kitos ir deginti sodybas bei visa kita, kas buvo už pilių ir įtvirtinimų [sienų]; jie sugrįžo namo, netekę tik 5 savo karių."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a46f9f1cf8eff77c69bc9a20","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Sūduviai kartu su prūsais ir lietuviais kariavo prieš kryžiuočius bei apgulė Vėluvos pilį.","context":"Sembos rajone vykusio jungtinės kariuomenės žygio aprašymas; taip nurodo Petras Dusburgietis.","support_ids":["t-220574","c-204733"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220574","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204733","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259— 1263 m."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Sūduviai – Petro Dusburgiečio kronikoje minima karinga grupė, veikusi Sūduvos ir Kulmo žemėse. Kronikoje jie apibūdinami kaip didelėmis kariuomenėmis rengę antpuolius: įsiveržę į Lubavos žemę sugriovė pilį bei miestą, užėmė pilių Kulmo žemėje ir sudegino Torunės ligoninę. Kitu išskirtiniu epizodu laikomas Bartenšteino pilies puolimas, kai sūduviai ją sugriovė, padegė ir gyventojus išžudė arba išsivarė į nelaisvę. Jų vadas Skomantas su keturiais tūkstančiais gentainių bei stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę, o kitu metu su sūduvių ir rusų kariuomene ją siaubė devynias dienas. Sūduvių karinis vaidmuo atsiskleidžia ir prie Vinso miško, kur trys tūkstančiai rinktinių vyrų pasivijo atsitraukiančią brolių kariuomenę.","sentences":[{"sentence_id":"s1","text":"Sūduviai – Petro Dusburgiečio kronikoje minima karinga grupė, veikusi Sūduvos ir Kulmo žemėse.","support_ids":["t-223539","t-223672"]},{"sentence_id":"s2","text":"Kronikoje jie apibūdinami kaip didelėmis kariuomenėmis rengę antpuolius: įsiveržę į Lubavos žemę sugriovė pilį bei miestą, užėmė pilių Kulmo žemėje ir sudegino Torunės ligoninę.","support_ids":["t-221605"]},{"sentence_id":"s3","text":"Kitu išskirtiniu epizodu laikomas Bartenšteino pilies puolimas, kai sūduviai ją sugriovė, padegė ir gyventojus išžudė arba išsivarė į nelaisvę.","support_ids":["t-221664"]},{"sentence_id":"s4","text":"Jų vadas Skomantas su keturiais tūkstančiais gentainių bei stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę, o kitu metu su sūduvių ir rusų kariuomene ją siaubė devynias dienas.","support_ids":["t-223456","t-223672"]},{"sentence_id":"s5","text":"Sūduvių karinis vaidmuo atsiskleidžia ir prie Vinso miško, kur trys tūkstančiai rinktinių vyrų pasivijo atsitraukiančią brolių kariuomenę.","support_ids":["t-223539"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Sūduviai Petro Dusburgiečio kronikoje aprašomi kaip kariuomenę telkianti grupė, veikianti Sūduvos ir Kulmo žemėse."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo įsiveržimą į Lubavos žemę, pilies ir miesto sugriovimą, pilių užėmimą Kulmo žemėje bei Torunės ligoninės sudeginimą."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad sūduviai apsiautė Bartenšteino pilį, ją sugriovė ir gyventojus išžudė arba išvarė į nelaisvę."},{"sentence_id":"s4","supported":true,"reason":"Abu teiginio epizodai tiesiogiai paremti: Skomantas su 4000 sūduvių ir lietuvių kariuomene įsiveržė spalio 21 d., o vėliau su sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad prie Vinso miško 3000 rinktinių sūduvių vyrų pasivijo atsitraukiančią brolių kariuomenę."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-223539","t-223672"]},{"sentence_id":"s2","supported":false,"support_ids":["t-221605"]},{"sentence_id":"s3","supported":false,"support_ids":["t-221664"]},{"sentence_id":"s4","supported":false,"support_ids":["t-223456","t-223672"]},{"sentence_id":"s5","supported":false,"support_ids":["t-223539"]}],"verifier":"gpt-5.6-luna"},"quality":53,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Bartenšteinas","claim_id":"t-221509","confidence":0.94},{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Bysleida","claim_id":"t-221258","confidence":0.92},{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Vėluva","claim_id":"t-220187","confidence":0.84},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Sventopelkas","claim_id":"t-222300","confidence":0.76},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-179323","confidence":0.78},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/grupes/Pagudėnai","claim_id":"t-225758","confidence":0.82},{"predicate":"buvo_sajungininkas_su","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-220519","confidence":0.88},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-222235","confidence":0.82},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Hermanas iš Šenenbergo","claim_id":"t-225345","confidence":0.86},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Auksinė Orda","claim_id":"t-225002","confidence":0.78},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-220221","confidence":0.9},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Birgelava","claim_id":"t-221551","confidence":0.75},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-225002","confidence":0.78},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-213771","confidence":0.84},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Vėluva","claim_id":"t-222529","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Suvalkai","claim_id":"t-220686","confidence":0.85},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Martynas iš Golino","claim_id":"t-222889","confidence":0.93},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Bartenšteinas","claim_id":"t-220562","confidence":0.82},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Elbingas","claim_id":"t-223594","confidence":0.78},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Galinda","claim_id":"t-221524","confidence":0.88},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kulmas","claim_id":"t-220231","confidence":0.93},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kulmo žemė","claim_id":"t-223845","confidence":0.88},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Lubava","claim_id":"t-220231","confidence":0.92},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Notanga","claim_id":"t-221273","confidence":0.9},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Pilaitė","claim_id":"t-222635","confidence":0.8},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Semba","claim_id":"t-220519","confidence":0.84},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Torunė","claim_id":"t-220231","confidence":0.78},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Vartenbergas","claim_id":"t-220297","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Kulmas","claim_id":"t-221848","confidence":0.82},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-223426","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":26,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: bb5c880fe0e11141
+object_page_generated_at: '2026-09-19T01:59:51+00:00'
+object_page_source_checked_at: '2026-09-19T01:59:51+00:00'
+object_page_content_state: content
+object_page_claim_count: '26'
+object_page_source_count: '3'
+object_page_seo_description: 'Sūduviai – Petro Dusburgiečio kronikoje minima karinga grupė, veikusi Sūduvos ir Kulmo žemėse. Kronikoje jie apibūdinami kaip didelėmis kariuomenėmis rengę…'
+object_page_seo_input_hash: 2892640796ba126f62bf36680db23a7e588d83cc255c5eb07ad61bee8be5aaaf
+object_page_seo_generated_at: '2026-09-19T01:59:51+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Sūduviai
 
@@ -44,66 +54,27 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 
 ## Teiginiai
 
-<a id="claim-t-213406"></a>
-- t-213406
-  teiginys: "Lietuvių padermės tautos: senovės prū sai, galindai, sūduviai, kuršiai ir šiandieniai lietuviai, taip pat ir latviai, dėl dviejų priežasčių nusipelnė ypatin go slavų istoriko ir kalbos tyrinėtojo dėmesio."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-89233"></a>
+- t-001
+  teiginys: "Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197370
-
-<a id="claim-t-224400"></a>
-- t-224400
-  teiginys: "Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-202858
-
-<a id="claim-t-215267"></a>
-- t-215267
-  teiginys: "Sūduva turėjo gana daug įtvirtintų pilių, kur gyveno šioje provincijoje dau giausia buvusių savarankiškų valdovų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196101
-
-<a id="claim-t-220434"></a>
-- t-220434
-  teiginys: "Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Lubava: 0.90"
+  ryšio_patikimumas: "puole -> Vartenbergas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
   ryšio_sprendimo_taisykle: "llm_validated_relation"
   ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lubava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sūduviai tiesiogiai įvardyti kaip įsibrovę į Lubavos žemę."
+  ryšio_targeto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sūduviai tiesiogiai įvardyti kaip atžygiavę prie Vartenbergo pilies ir ją sunaikinę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sūduviai puolė Lubava (0.90)"
+  semantiniai_rysiai: "Sūduviai puolė Vartenbergas (0.86)"
   pagrindžia:
-    - c-202607
+    - c-85225
 
-<a id="claim-t-220574"></a>
-- t-220574
+<a id="claim-t-89234"></a>
+- t-002
   teiginys: "Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "apgule -> Vėluva: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -117,11 +88,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   temporaliniai_duomenys: "mūšio data: 1262 m.; mūšio data: 1263 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Sūduviai puolė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Prieglius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Semba“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata."
+  pagrindžia:
+    - c-85226
 
-<a id="claim-t-221258"></a>
-- t-221258
+<a id="claim-t-89235"></a>
+- t-003
   teiginys: "Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "apgule -> Bysleida: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -132,11 +105,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   ryšio_paaiskinimas: "Skalviai tiesiogiai minimi tarp Bysleidos pilį apsiautusių grupių."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Sūduviai apgulė Bysleida (0.92); Nadruviai apgulė Bysleida (0.92); Skalviai apgulė Bysleida (0.92)"
+  pagrindžia:
+    - c-85214
 
-<a id="claim-t-221465"></a>
-- t-221465
+<a id="claim-t-89236"></a>
+- t-004
   teiginys: "Magistras su kariuomene įsiveržė į Sūduvos Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kimenava: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -147,37 +122,12 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduviai\" parinktas kaip owner_note_path. Targetas \"Kimenava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-202355
+    - c-85216
 
-<a id="claim-t-221534"></a>
-- t-221534
-  teiginys: "Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206096
-
-<a id="claim-t-221605"></a>
-- t-221605
-  teiginys: "Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos pilies bei miesto sugriovimą Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-202607
-
-<a id="claim-t-221664"></a>
-- t-221664
+<a id="claim-t-89237"></a>
+- t-005
   teiginys: "Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "apgule -> Bartenšteinas: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -188,11 +138,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   ryšio_paaiskinimas: "Citata tiesiogiai sako, kad sūduviai apsiautė Bartenšteino pilį."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Sūduviai apgulė Bartenšteinas (0.93)"
+  pagrindžia:
+    - c-85222
 
-<a id="claim-t-221716"></a>
-- t-221716
+<a id="claim-t-89238"></a>
+- t-006
   teiginys: "Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Sūduva: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -203,12 +155,29 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   ryšio_paaiskinimas: "Konradas tiesiogiai įvardytas kaip įsiveržęs į Sūduvos žemę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-204973
+    - c-85227
 
-<a id="claim-t-223043"></a>
-- t-223043
+<a id="claim-t-89239"></a>
+- t-007
+  teiginys: "Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Sūduva: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ulrichas Bajeris: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sūduva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ulrichas Bajeris tiesiogiai įvardytas kaip įsiveržęs į Sūduvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ulrichas Bajeris puolė Sūduva (0.92)"
+  pagrindžia:
+    - c-85219
+
+<a id="claim-t-89240"></a>
+- t-008
   teiginys: "Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, juos išžudė, o moteris ir vaikus išsivarė į nelaisvę."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -218,11 +187,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=45"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduviai\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-85223
 
-<a id="claim-t-223539"></a>
-- t-223539
+<a id="claim-t-89241"></a>
+- t-009
   teiginys: "Prie Vinso miško brolių kariuomenę pasivijo 3000 rinktinių sūduvių vyrų, bet broliai juos užpuolė ir privertė trauktis."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Sūduva: 0.85"
   ryšio_patikimumo_lygis: "aukstas"
@@ -233,165 +204,12 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo Konrado įsiveržimą į Sūduvos žemę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-204973
+    - c-85227
 
-<a id="claim-t-223952"></a>
-- t-223952
-  teiginys: "Dusburgietis sūduvius vadina paskutine ir galingiausia neužkariauta Prūsijos žemės gentimi."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sūduviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduviai\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1277 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Tai autoriaus vertinimas, todėl reikia atribucijos ir trumpos formos."
-  pagrindžia:
-    - c-206271
-
-<a id="claim-t-223970"></a>
-- t-223970
-  teiginys: "Apie sūduvių pabėgimą Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202323
-
-<a id="claim-t-224059"></a>
-- t-224059
-  teiginys: "1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Lietuviai minimi toje pačioje kariuomenėje, siaubusioje Ordino valdas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sūduviai kariavo prieš Kryžiuočių ordinas (0.78); Lietuviai kariavo prieš Kryžiuočių ordinas (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1277 m.; įvykio data: 1280 m.; įvykio data: 1282 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas citata."
-  pagrindžia:
-    - c-203116
-
-<a id="claim-t-224652"></a>
-- t-224652
-  teiginys: "Magistro Mangoldo vadovavimo metais sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Semba: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad sūduviai užpuolė Sembos žemę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sūduviai puolė Semba (0.92); Lietuviai puolė Semba (0.84); Sūduviai buvo sąjungininkas su Lietuviai (0.82)"
-  pagrindžia:
-    - c-205344
-
-<a id="claim-t-225291"></a>
-- t-225291
-  teiginys: "Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Notanga: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Notanga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sūduviai tiesiogiai įvardyti kaip įsibrovę į Notangos žemę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sūduviai puolė Notanga (0.91)"
-  pagrindžia:
-    - c-202323
-
-<a id="claim-t-205627"></a>
-- t-205627
-  teiginys: "1243 m. Mindaugas pasiuntė Treniotą paremti sūduvių, traukusių į pagalbą prieš kryžiuočius sukilusiems pomezaniečiams, kaip nurodo Teodoras Narbutas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
-  pagrindžia:
-    - c-188242
-
-<a id="claim-t-205628"></a>
-- t-205628
-  teiginys: "Sūduviai kartu su lietuviais rėmė sukilėlius, kuriems taip pat padėjo Sviatopelkas ir Pomeranijoje gyvenę joanitų riteriai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
-  pagrindžia:
-    - c-188243
-
-<a id="claim-t-220297"></a>
-- t-220297
-  teiginys: "Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vartenbergas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sūduviai tiesiogiai įvardyti kaip atžygiavę prie Vartenbergo pilies ir ją sunaikinę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sūduviai puolė Vartenbergas (0.86)"
-  pagrindžia:
-    - c-204495
-
-<a id="claim-t-223259"></a>
-- t-223259
-  teiginys: "Skomantas, sūduvių vadas, įsiveržė į Kulmo žemę ir padalijo savo kariuomenę į dvi dalis prieš Torunę ir Kulmo miestą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206117
-
-<a id="claim-t-223456"></a>
-- t-223456
-  teiginys: "Skomantas su 4 tūkstančiais sūduvių gentainių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę spalio 21 dieną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-223627"></a>
-- t-223627
+<a id="claim-t-89242"></a>
+- t-010
   teiginys: "Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Kulmas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -406,12 +224,12 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie sūduvių karinį įsiveržimą, o pradinis teiginys turi OCR triukšmo."
   pagrindžia:
-    - c-206117
+    - c-85229
 
-<a id="claim-t-223672"></a>
-- t-223672
+<a id="claim-t-89243"></a>
+- t-011
   teiginys: "Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Kulmas: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -422,36 +240,119 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   ryšio_paaiskinimas: "Sūduviai įvardyti kariuomenėje, siaubusioje Kulmo žemę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Sūduviai puolė Kulmas (0.88); Rusai puolė Kulmas (0.86)"
+  pagrindžia:
+    - c-85218
 
-<a id="claim-t-223884"></a>
-- t-223884
-  teiginys: "Sūduviai po ilgų antpuolių sudegino ir sunaikino Vartenbergo pilį bei nužudė du brolius su visa šeimyna."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-89244"></a>
+- t-012
+  teiginys: "Dusburgietis sūduvius vadina paskutine ir galingiausia neužkariauta Prūsijos žemės gentimi."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sūduviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduviai\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1277 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Tai autoriaus vertinimas, todėl reikia atribucijos ir trumpos formos."
+  pagrindžia:
+    - c-85230
+
+<a id="claim-t-89245"></a>
+- t-013
+  teiginys: "1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Lietuviai minimi toje pačioje kariuomenėje, siaubusioje Ordino valdas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sūduviai kariavo prieš Kryžiuočių ordinas (0.78); Lietuviai kariavo prieš Kryžiuočių ordinas (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1277 m.; įvykio data: 1280 m.; įvykio data: 1282 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas citata."
+  pagrindžia:
+    - c-85221
+
+<a id="claim-t-89246"></a>
+- t-014
+  teiginys: "Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Notanga: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Notanga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sūduviai tiesiogiai įvardyti kaip įsibrovę į Notangos žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sūduviai puolė Notanga (0.91)"
+  pagrindžia:
+    - c-85215
+
+<a id="claim-t-89247"></a>
+- t-015
+  teiginys: "Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lubava: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lubava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sūduviai tiesiogiai įvardyti kaip įsibrovę į Lubavos žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sūduviai puolė Lubava (0.90)"
+  pagrindžia:
+    - c-85220
+
+<a id="claim-t-89248"></a>
+- t-016
+  teiginys: "Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos."
+  atnaujinta: "2026-07-19 20:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Liudvikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sūduviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Liudvikas: mention_match, person, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduviai\" parinktas kaip owner_note_path. Targetas \"Liudvikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-204495
+    - c-85212
 
-<a id="claim-t-224593"></a>
-- t-224593
-  teiginys: "Jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-89249"></a>
+- t-017
+  teiginys: "Magistro Mangoldo vadovavimo metais sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Semba: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad sūduviai užpuolė Sembos žemę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sūduviai puolė Semba (0.92); Lietuviai puolė Semba (0.84); Sūduviai buvo sąjungininkas su Lietuviai (0.82)"
   pagrindžia:
-    - c-201823
-    - c-206117
+    - c-85228
 
-<a id="claim-t-224670"></a>
-- t-224670
+<a id="claim-t-89250"></a>
+- t-018
   teiginys: "Liudvikas iš Libencelės į Kristaus tikėjimą atvertė tūkstantį šešis šimtus abiejų lyčių sūduvių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kimenava: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -462,24 +363,12 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduviai\" parinktas kaip owner_note_path. Targetas \"Kimenava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-201823
+    - c-85213
 
-<a id="claim-t-224809"></a>
-- t-224809
-  teiginys: "1600 sūduvių, kuriuos Liudvikas iš Libencelės buvo atvertęs į Kristaus tikėjimą, buvo nuvesti į Sembos žemę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-201823
-
-<a id="claim-t-224990"></a>
-- t-224990
+<a id="claim-t-89251"></a>
+- t-019
   teiginys: "Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Kulmas: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -490,25 +379,95 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   ryšio_paaiskinimas: "Skomantas tiesiogiai įvardytas kaip įsiveržęs į Kulmo žemę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Sūduviai puolė Kulmas (0.88); Lietuviai puolė Kulmas (0.86)"
+  pagrindžia:
+    - c-85224
 
-<a id="claim-t-225740"></a>
-- t-225740
-  teiginys: "Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-194364"></a>
+- t-020
+  teiginys: "Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos pilies bei miesto sugriovimą Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
+  teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Liudvikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sūduviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Liudvikas: mention_match, person, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduviai\" parinktas kaip owner_note_path. Targetas \"Liudvikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-85220
+
+<a id="claim-t-194365"></a>
+- t-021
+  teiginys: "Apie sūduvių pabėgimą Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-202323
+    - c-85215
+
+<a id="claim-t-194366"></a>
+- t-022
+  teiginys: "Jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-85212
+
+<a id="claim-t-196924"></a>
+- t-023
+  teiginys: "Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-178982
+
+<a id="claim-t-197523"></a>
+- t-024
+  teiginys: "Sūduva turėjo gana daug įtvirtintų pilių, kur gyveno šioje provincijoje dau giausia buvusių savarankiškų valdovų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179229
+
+<a id="claim-t-205627"></a>
+- t-025
+  teiginys: "1243 m. Mindaugas pasiuntė Treniotą paremti sūduvių, traukusių į pagalbą prieš kryžiuočius sukilusiems pomezaniečiams, kaip nurodo Teodoras Narbutas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188242
+
+<a id="claim-t-205628"></a>
+- t-026
+  teiginys: "Sūduviai kartu su lietuviais rėmė sukilėlius, kuriems taip pat padėjo Sviatopelkas ir Pomeranijoje gyvenę joanitų riteriai."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188243
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -608,6 +567,9 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+    - t-022
 
 - id: c-85213
   autorius: "Petras Dusburgietis"
@@ -629,6 +591,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
 
 - id: c-85214
   autorius: "Petras Dusburgietis"
@@ -648,6 +612,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-85215
   autorius: "Petras Dusburgietis"
@@ -666,6 +632,9 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+    - t-021
 
 - id: c-85216
   autorius: "Petras Dusburgietis"
@@ -685,6 +654,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-85218
   autorius: "Petras Dusburgietis"
@@ -704,6 +675,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-85219
   autorius: "Petras Dusburgietis"
@@ -729,6 +702,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-85220
   autorius: "Petras Dusburgietis"
@@ -748,6 +723,9 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+    - t-020
 
 - id: c-85221
   autorius: "Petras Dusburgietis"
@@ -768,6 +746,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 - id: c-85222
   autorius: "Petras Dusburgietis"
@@ -787,6 +767,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-85223
   autorius: "Petras Dusburgietis"
@@ -809,6 +791,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 - id: c-85224
   autorius: "Petras Dusburgietis"
@@ -831,6 +815,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 - id: c-85225
   autorius: "Petras Dusburgietis"
@@ -852,6 +838,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-85226
   autorius: "Petras Dusburgietis"
@@ -873,6 +861,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-85227
   autorius: "Petras Dusburgietis"
@@ -894,6 +884,9 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+    - t-009
 
 - id: c-85228
   autorius: "Petras Dusburgietis"
@@ -914,6 +907,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
 
 - id: c-85229
   autorius: "Petras Dusburgietis"
@@ -943,6 +938,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-85230
   autorius: "Petras Dusburgietis"
@@ -962,6 +959,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 - id: c-178982
   autorius: "Petras Dusburgietis"
@@ -983,6 +982,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
 
 - id: c-179229
   autorius: "Teodoras Narbutas"
@@ -1011,6 +1012,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
 
 - id: c-188242
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -1030,8 +1033,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205627
+  pagrindzia:
+    - t-025
 
 - id: c-188243
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -1050,345 +1053,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205628
-
-- id: c-196101
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
-  citata_originali: |
-    Gyventojai aistringai gynė savo lais­
-    vę, dažnai maištavo; kryžiuočiai iškapojo beveik visus, o
-    likusius, sugautus giriose, perkėlė į Sambiją. Taip pat
-    daug sudinų persikėlė ir į Lietuvą. Sūduva turėjo gana
-    daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
-    giausia buvusių savarankiškų valdovų. Kryžiuočiams val­
-    dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
-    apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
-    vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
-    Raigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie
-    šią, toje pačioje vietoje esančią provinciją, be to, neabe­
-    jotina, kad nuo seno ten gyveno ir lietuviui Tas pats
-    geografas taip pat žinojo vieną sudinų koloniją, buvusią
-    germanų markomanų genties kaimynystėje, dabar Pra­
-    hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
-    iš prūsų Sūduvos kažkokia užklydusi genties dalis4.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215267
-
-- id: c-197370
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 15"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 15."
-  citata_originali: |
-    Lietuvių padermės tautos: senovės prū­
-    sai, galindai, sūduviai, kuršiai ir šiandieniai lietuviai,
-    taip pat ir latviai, dėl dviejų priežasčių nusipelnė ypatin­
-    go slavų istoriko ir kalbos tyrinėtojo dėmesio.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213406
-
-- id: c-201823
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
-  citata_originali: |
-    Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
-    mą
-    Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis
-    pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią
-    tikėjimo priešus sūduvius. Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;
-    kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su
-    savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų
-    lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė į Kristaus tikėjimą. Juos išvydęs,
-    magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224593
-    - t-224670
-    - t-224809
-
-- id: c-202323
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 163"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
-  citata_originali: |
-    Apie sūduvių pabėgimą
-    Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
-    palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.
-    Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai
-    sužeidė, o kiti gėdingai pabėgo.
-    201 (196).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223970
-    - t-225291
-    - t-225740
-
-- id: c-202355
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
-  citata_originali: |
-    Sitai padaręs,
-    magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava,
-    ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog
-    jiems bus leista netrukdomiems iš čia išeiti su visa manta, pasižadėjus priimti Kristaus
-    tikėjimą. Tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti į Sembos žemę. Kai kitą
-    dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal, jie
-    sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221465
-
-- id: c-202607
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
-  citata_originali: |
-    Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
-    pilies bei miesto sugriovimą
-    Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo
-    matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei miestą440. Paskui
-    prie Štraisbergo pilies441 įėjo į Kulmo žemę padaliję savo kariuomenę, paėmė daug pilių,
-    o į jas bėgančius žmones išžudė ar išsivarė į nelaisvę. Po to priėjo Torunę ir sudegino
-    ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220434
-    - t-221605
-
-- id: c-202858
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 128"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
-  citata_originali: |
-    Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224400
-
-- id: c-203116
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 12"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
-  citata_originali: |
-    Traidenis (1269—1282 m.), remdamas žiemgalius,
-    telkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
-    bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
-    sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
-    (III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
-    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes,
-    pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
-    po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224059
-
-- id: c-204495
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 143"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
-  citata_originali: |
-    Sūduviai, subūrę dar
-    didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,
-    kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du
-    brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista.
-
-
-
-
-                     160 (155).
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220297
-    - t-223884
-
-- id: c-204973
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 161"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 161."
-  citata_originali: |
-    Apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje
-    Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais
-    raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488;
-    neskaitant galybės užmuštųjų, jie išsivarė su savimi tūkstantį belaisvių ir išsigabeno
-    galybę kitokio grobio. Kitą dieną, kai brolių kariuomenė atsitraukdama priėjo mišką,
-    vardu Vinsas489, juos pasivijo trys tūkstančiai rinktinių sūduvių vyrų, kuriuos broliai su
-    saviškiais drąsiai užpuolė, daugybę nukovė ir mirtinai sužeidė, o kitus nuvijo iki įeigos į
-    jų žemę. Šiose kautynėse brolių kariuomenė neteko šešių vyrų, kritusių kovoje, visi kiti
-    sveiki sugrįžo atgal.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221716
-    - t-223539
-
-- id: c-205344
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 164"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
-  citata_originali: |
-    Apie Sembos žemės nusiaubimą
-    Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami
-    mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu
-    įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už šitokią priespaudą, tačiau patys
-    vieni nieko nestengdami, pasitelkė į pagalbą lietuvius ir smarkiai užpuolė Sembos žemę497.
-    Broliai iš anksto buvo pasirengę tam antpuoliui. Dėl to šie nieko kita čia negalėjo daryti,
-    tik dešimt dienų žygiuoti nuo vienos šios žemės ribos iki kitos ir deginti sodybas bei visa
-    kita, kas buvo už pilių ir įtvirtinimų [sienų]; jie sugrįžo namo, netekę tik 5 savo karių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224652
-
-- id: c-206096
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 166"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
-  citata_originali: |
-    Apie Marienburgo pilies pastatymą
-    1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
-    kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios
-    šlovei bei garbei ji čia ir buvo perkelta500.
-    209 (204). Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
-    Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
-    pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
-    kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
-    kurį niokojo, degindamas ir grobdamas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221534
-
-- id: c-206117
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 144-145"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144-145."
-  citata_originali: |
-    Apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį
-
-      Po to Skomantas442, įsibrovęs su sūduviais  į Kulmo žemę, padalijo savo kariuomenę
-      439  Sūduviai puolė tarp 1263 m. balandžio pradžios  ir 1264 m. sausio mėn, D.
-    III, 161 aprašomas prūsų antpuolis įvyko 1263 m. balandžio—birželio mėn. Aprašomi
-    įvykiai, galimas daiktas, rodo sūduvių ir prūsų karinį bendradarbiavimą (Powierski J.,
-    Dobra.., p. 77—78).
-      440 Dab. Liubava (Lóbau, Lubawa), gyvenvietė į rytus nuo Drevantos aukštupio.
-      441 D.— Straisbergk; vėliau — Strasburg, dab. Brodnica prie Drevantos (SZCh, p.
-    12).
-      442 D.— Scumandus, Jer.— Skomant; jotvingių Skomant(a)s arba Skomand(a)
-    s. Asmenvardis giminingas vietovardžiams Skomantai, Klaipėdos rj. (Gerullis G., Zur
-    Sprache.., p. 48; Būga К., 2, p. 100—101; 3, p. 140—141), Skuomantai (kaimas prie
-    Rokiškio, su tarminiu senesnio o virtimu uo).
-
-    į dvi dalis, kurių viena patraukė prieš Torunę, o kita prieš Kulmo miestą, žudydamos,
-    imdamos į nelaisvę ir degindamos visa, ką sutikdavo pakelėje.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223259
-    - t-223627
-    - t-224593
-
-- id: c-206271
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 160"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 160."
-  citata_originali: |
-    Apie karą su sūduviais ir apie paskutinį karą Prūsijos žemėje
-
-      Užkariavus iš viešpaties Jėzaus Kristaus malonės visas Prūsijos žemės gentis, beliko
-    vienui viena, bet visų galingiausioji, būtent sūduviai, kuriuos broliai narsiai puolė, ne
-    tiek pasikliaudami žmogaus drąsa ir gausia kariuomene, kiek dieviškąja pagalba, nes
-    žinojo, kad viešpats yra mokęs, jog, aukojant auką, privalu aukoti ne tik galvą ar kurią
-      481 Metus nurodo Sembos kanauninko kronika, kur rašoma, kad 1277 m.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223952
+  pagrindzia:
+    - t-026
 
 ## Ryšiai
 - Puolė Sūduviai: [[objektai/asmenys/Martynas iš Golino]]

@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Pamedės žemė'
+pavadinimas: Pamedės žemė
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-65986481374c76a0e7422566"
-canonical_name: "Pamedės žemė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pamedės žemė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-65986481374c76a0e7422566
+canonical_name: Pamedės žemė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pamedės žemė
 sameAs: []
-canonical_biography: "Broliai su maldininkais patraukė į Pamedės žemę, pasiėmę pilims statyti reikalingus daiktus."
+canonical_biography: 'Broliai su maldininkais patraukė į Pamedės žemę, pasiėmę pilims statyti reikalingus daiktus.'
 ---
 # Pamedės žemė
 
@@ -66,6 +65,5 @@ Broliai su maldininkais patraukė į Pamedės žemę, pasiėmę pilims statyti r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

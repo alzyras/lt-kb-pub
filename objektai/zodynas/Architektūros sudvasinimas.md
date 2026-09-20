@@ -57,11 +57,9 @@ Vorobjovas architektūros sudvasinimą šiame portale siejo su vartų architekt�
     tinės architektūros charakterio: apie vartų paskirtį užsimena nebent tiktai
     glaistytinis šv.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

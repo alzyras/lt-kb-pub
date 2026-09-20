@@ -55,22 +55,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-210422"></a>
-- t-210422
-  teiginys: "Smolensko prastieji žmonės sukilimo metu buvo apsiginklavę dalgiais."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193932
-
 <a id="claim-t-40703"></a>
-- t-40703
+- t-001
   teiginys: "Per Vilniaus gynybą dalis ginkluotų miesto gyventojų kovėsi specialiai kovai perdarytais dalgiais ir nukaltomis ietimis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -110,27 +98,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-40703
-
-- id: c-193932
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 127"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 127."
-  citata_originali: |
-    Po Velykų, Šventosios savaitės trečiadie­
-    nį 3, Smolensko prastieji žmonės — kalviai, odminiai,
-    batsiuviai, mėsininkai, katiliai — sumanė Andrių varu
-    iš miesto išvaryti, o priesaiką paminti, ir apsiginklavo
-    ietimis bei strėlėmis, ir dalgiais, ir kirviais, ir ėmė
-    skambinti varpu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210422
-
+  pagrindzia:
+    - t-001

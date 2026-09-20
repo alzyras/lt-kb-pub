@@ -47,22 +47,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-212060"></a>
-- t-212060
-  teiginys: "Bychovco kronikoje perpasakojamas pasakojimas apie 1440 m. Smolensko sukilimą."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193979
-
 <a id="claim-t-66899"></a>
-- t-66899
+- t-001
   teiginys: "Po Smolensko atsiėmimo tuo metu buvo išvengta karo su Maskva ir Pskovu, kuris taip pat rengėsi karui dėl Smolensko."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
@@ -92,26 +80,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-66899
-
-- id: c-193979
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 16"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 16."
-  citata_originali: |
-    Bychovco kronikos tekstas, kuris dar remiasi anks­
-    tesnių sąvadų medžiaga, baigiasi perrašytu iš Trumpojo
-    sąvado, bet taip pat perredaguotu pasakojimu apie
-    1440 m. sukilimą Smolenske ir 1445 m. pradžios karą
-    su Maskvos didžiąja kunigaikštyste.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212060
-
+  pagrindzia:
+    - t-001

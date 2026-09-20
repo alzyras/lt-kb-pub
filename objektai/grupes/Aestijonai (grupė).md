@@ -29,6 +29,20 @@ media_all_json: |-
 
 Toliaus dar tasai Pitėjas taip pasakoja: tenai attakotame bei išgraužotame jūros bangiomis krašte gyvenanti dvi tauti — aestijonų ir gutonų, kursai kraštas vadinęsis Mentonomon, 6000 straipsnių pla tus, nuo kurio viena diena gali nuirkluoti jūra pa gal į.
 
+## Teiginiai
+
+<a id="claim-t-201248"></a>
+- t-001
+  teiginys: "Toliaus dar tasai Pitėjas taip pasakoja: tenai attakotame bei išgraužotame jūros bangiomis krašte gyvenanti dvi tauti — aestijonų ir gutonų, kursai kraštas vadinęsis Mentonomon, 6000 straipsnių pla tus, nuo kurio viena diena gali nuirkluoti jūra pa gal į."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184598
+
 ## Citatos
 
 - id: c-184598
@@ -54,20 +68,5 @@ Toliaus dar tasai Pitėjas taip pasakoja: tenai attakotame bei išgraužotame j�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201248"></a>
-- t-001
-  teiginys: "Toliaus dar tasai Pitėjas taip pasakoja: tenai attakotame bei išgraužotame jūros bangiomis krašte gyvenanti dvi tauti — aestijonų ir gutonų, kursai kraštas vadinęsis Mentonomon, 6000 straipsnių pla tus, nuo kurio viena diena gali nuirkluoti jūra pa gal į."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184598
-

@@ -48,6 +48,24 @@ historical_names: []
 
 1741 m. Gembičių dvarelį prie pilies užpuolusio Jono Prušako Benevskio žmonių būryje buvo asmenų iš Verbų.
 
+## Teiginiai
+
+<a id="claim-t-203840"></a>
+- t-001
+  teiginys: "1741 m. Gembičių dvarelį prie pilies užpuolusio Jono Prušako Benevskio žmonių būryje buvo asmenų iš Verbų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1741 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys suformuluotas sklandžiau ir aiškiai susietas su Verbų vieta. Išlaikytas citatoje nurodytas užpuolimo kontekstas."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186444
+
 ## Citatos
 
 - id: c-186444
@@ -65,24 +83,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203840"></a>
-- t-001
-  teiginys: "1741 m. Gembičių dvarelį prie pilies užpuolusio Jono Prušako Benevskio žmonių būryje buvo asmenų iš Verbų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1741 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys suformuluotas sklandžiau ir aiškiai susietas su Verbų vieta. Išlaikytas citatoje nurodytas užpuolimo kontekstas."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186444
-

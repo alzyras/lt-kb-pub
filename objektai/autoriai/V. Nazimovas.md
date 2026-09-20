@@ -1,37 +1,37 @@
 ---
 tipas: autorius
-pavadinimas: 'V. Nazimovas'
+pavadinimas: V. Nazimovas
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1859 m.'
+  - 1859 m.
 date_start: '1859'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-74a4c6c9e1e233a156f92f43"
-canonical_name: "V. Nazimovas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["V. Nazimovas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-74a4c6c9e1e233a156f92f43
+canonical_name: V. Nazimovas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - V. Nazimovas
 sameAs: []
-canonical_biography: "V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, kad blaivybės plėtra turėtų skatinti ieškoti kitų pajamų šaltinių, neparemtų liaudies silpninimu ir tvirkinimu. V. Nazimovas 1859 m. memoriale finansų ministrui rašė, kad dabartinės atpirkimo sistemos liaudis apskritai neapkenčia ir kad joje tarnaujantys asmenys piktnaudžiauja."
+canonical_biography: 'V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, kad blaivybės plėtra turėtų skatinti ieškoti kitų pajamų šaltinių, neparemtų liaudies silpninimu ir tvirkinimu. V. Nazimovas 1859 m. memoriale finansų ministrui rašė, kad dabartinės atpirkimo sistemos liaudis apskritai neapkenčia ir kad joje tarnaujantys asmenys piktnaudžiauja.'
 ---
 # V. Nazimovas
 
@@ -42,23 +42,6 @@ V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, ka
 ## Santrauka
 
 V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, kad blaivybės plėtra turėtų skatinti ieškoti kitų pajamų šaltinių, neparemtų liaudies silpninimu ir tvirkinimu.
-
-## Teiginiai
-
-<a id="claim-t-209281"></a>
-- t-001
-  teiginys: "V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, kad blaivybės plėtra turėtų skatinti ieškoti kitų pajamų šaltinių, neparemtų liaudies silpninimu ir tvirkinimu."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  temporaliniai_duomenys: "įvykio data: 1859 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškiai įvardija V. Nazimovą, datą, adresatą ir jo nuomonės turinį. Vertinamoji formuluotė palikta kaip autoriaus nuomonė."
-  pagrindžia:
-    - c-191995
 
 ## Citatos
 
@@ -84,3 +67,20 @@ V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+## Teiginiai
+
+<a id="claim-t-209281"></a>
+- t-001
+  teiginys: "V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, kad blaivybės plėtra turėtų skatinti ieškoti kitų pajamų šaltinių, neparemtų liaudies silpninimu ir tvirkinimu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1859 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškiai įvardija V. Nazimovą, datą, adresatą ir jo nuomonės turinį. Vertinamoji formuluotė palikta kaip autoriaus nuomonė."
+  pagrindžia:
+    - c-191995
+

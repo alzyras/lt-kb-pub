@@ -33,6 +33,27 @@ media_all_json: |-
 
 Žemaičio-Vytauto pavaduotoju, kiek vėliau ir LLKS gynybos pajėgų vadu.
 
+## Teiginiai
+
+<a id="claim-t-40978"></a>
+- t-001
+  teiginys: "1949 m. minimas LLKS gynybos pajėgų vadas, susijęs su vieningos pasipriešinimo judėjimo vadovybės kūrimu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuvos laisvės kovos sąjūdis: 0.58"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "LLKS gynybos pajėgos: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuvos laisvės kovos sąjūdis: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "LLKS gynybos pajėgos tekste siejamos su Lietuvos laisvės kovos sąjūdžiu, tačiau priklausomybė išvedama iš pavadinimo ir pareigų konteksto."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "LLKS gynybos pajėgos priklausė Lietuvos laisvės kovos sąjūdis (0.58)"
+  temporaliniai_duomenys: "įvykio data: 1949 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-44783
+
 ## Citatos
 
 - id: c-44783
@@ -55,27 +76,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-40978"></a>
-- t-001
-  teiginys: "1949 m. minimas LLKS gynybos pajėgų vadas, susijęs su vieningos pasipriešinimo judėjimo vadovybės kūrimu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuvos laisvės kovos sąjūdis: 0.58"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "LLKS gynybos pajėgos: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuvos laisvės kovos sąjūdis: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "LLKS gynybos pajėgos tekste siejamos su Lietuvos laisvės kovos sąjūdžiu, tačiau priklausomybė išvedama iš pavadinimo ir pareigų konteksto."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "LLKS gynybos pajėgos priklausė Lietuvos laisvės kovos sąjūdis (0.58)"
-  temporaliniai_duomenys: "įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-44783
-

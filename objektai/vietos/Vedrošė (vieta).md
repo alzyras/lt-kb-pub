@@ -1,40 +1,40 @@
 ---
 tipas: vieta
-pavadinimas: 'Vedrošė (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Vedrošė (vieta)
+identifikacija: vieta
 variantai:
-  - 'Vedrošė'
+  - Vedrošė
 aliases:
-  - 'Vedrošė'
+  - Vedrošė
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1500 m.'
+  - 1500 m.
 date_start: '1500'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d6cae31bfb22b74bb72ffcea"
-canonical_name: "Vedrošė (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vedrošė","Vedrošė (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d6cae31bfb22b74bb72ffcea
+canonical_name: Vedrošė (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vedrošė
+  - Vedrošė (vieta)
 sameAs: []
-canonical_biography: "Vedrošė — upė ir kaimas dabartinėje Smolensko srityje. 1500 m. liepos 14 d. mūšis tarp Lietuvos ir Maskvos kariuomenių vyko prie Vedrošės."
+canonical_biography: Vedrošė — upė ir kaimas dabartinėje Smolensko srityje. 1500 m. liepos 14 d. mūšis tarp Lietuvos ir Maskvos kariuomenių vyko prie Vedrošės.
 ---
 # Vedrošė (vieta)
 
@@ -89,7 +89,7 @@ Vedrošė — upė ir kaimas dabartinėje Smolensko srityje. 1500 m. liepos 14 d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-194123
@@ -105,6 +105,5 @@ Vedrošė — upė ir kaimas dabartinėje Smolensko srityje. 1500 m. liepos 14 d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

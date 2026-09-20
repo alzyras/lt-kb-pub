@@ -64,9 +64,9 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     - c-38385
 
 <a id="claim-t-36007"></a>
-- t-36007
+- t-002
   teiginys: "Atskiros Lietuvos karalijos projektas būtų panaikinęs inkorporacijos klausimą, nes karūna su karūna negalėjo būti sujungta."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
   ryšio_patikimumas: "susije_su -> Karūna: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -100,12 +100,11 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     ti sujungta — inkorporuota^3 ).
   citata_rodoma: "Tas\nprojektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­\ntuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­\nbės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų\nnebegalėję būti, nes karūna su karūna negali bū­\nti sujungta — inkorporuota^3 )."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-38386
@@ -131,6 +130,5 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-36007
-
+  pagrindzia:
+    - t-002

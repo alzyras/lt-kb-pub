@@ -1,15 +1,15 @@
 ---
 tipas: asmuo
-pavadinimas: "Dmitrijus Hlušonokas"
-canonical_entity_id: "ent-noble-4edf01ce40697542ddb95cbd"
-noble_scope: "ldk-didikai-iki-1795-v1"
-noble_family: "Oginskiai"
+pavadinimas: Dmitrijus Hlušonokas
+canonical_entity_id: ent-noble-4edf01ce40697542ddb95cbd
+noble_scope: ldk-didikai-iki-1795-v1
+noble_family: Oginskiai
 aliases:
-  - "Dmitrijus Hlušonokas"
+  - Dmitrijus Hlušonokas
 saltiniai:
-  - "VLE: Oginskiai"
-date_start: ""
-date_end: ""
+  - 'VLE: Oginskiai'
+date_start: ''
+date_end: ''
 periodo_grupes:
   - LDK
 bukle: viesas_pradinis
@@ -24,19 +24,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-noble-4edf01ce40697542ddb95cbd"
-canonical_name: "Dmitrijus Hlušonokas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Dmitrijus Hlušonokas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-noble-4edf01ce40697542ddb95cbd
+canonical_name: Dmitrijus Hlušonokas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Dmitrijus Hlušonokas
 sameAs: []
-canonical_biography: "Dmitrijus Hlušonokas - Oginskiai giminės atstovas."
+canonical_biography: Dmitrijus Hlušonokas - Oginskiai giminės atstovas.
 ---
 # Dmitrijus Hlušonokas
 

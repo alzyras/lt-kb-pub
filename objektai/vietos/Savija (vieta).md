@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Savija (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Savija (vieta)
+identifikacija: vieta
 variantai:
-  - 'Savija'
+  - Savija
 aliases:
-  - 'Savija'
+  - Savija
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ed912db1ea3404f033a92756"
-canonical_name: "Savija (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Savija","Savija (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ed912db1ea3404f033a92756
+canonical_name: Savija (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Savija
+  - Savija (vieta)
 sameAs: []
-canonical_biography: "Prie Savos ir Dravos upių plytėjusi Panonijos dalis buvo vadinama Savija."
+canonical_biography: Prie Savos ir Dravos upių plytėjusi Panonijos dalis buvo vadinama Savija.
 ---
 # Savija (vieta)
 
@@ -70,6 +70,5 @@ Prie Savos ir Dravos upių plytėjusi Panonijos dalis buvo vadinama Savija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

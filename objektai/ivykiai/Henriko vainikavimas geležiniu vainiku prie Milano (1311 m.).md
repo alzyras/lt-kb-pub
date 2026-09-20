@@ -1,34 +1,31 @@
 ---
 tipas: ivykis
-pavadinimas: 'Henriko vainikavimas geležiniu vainiku prie Milano (1311 m.)'
+pavadinimas: Henriko vainikavimas geležiniu vainiku prie Milano (1311 m.)
 variantai:
-  - 'Henriko vainikavimas geležiniu vainiku prie Milano'
+  - Henriko vainikavimas geležiniu vainiku prie Milano
 aliases:
-  - 'Henriko vainikavimas geležiniu vainiku prie Milano'
+  - Henriko vainikavimas geležiniu vainiku prie Milano
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1234 m.'
-  - '1311 m.'
+  - 1234 m.
+  - 1311 m.
 date_start: '1234'
 date_end: '1311'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
-  - 'XIV'
+  - XIII
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Henriko vainikavimas geležiniu vainiku prie Milano (1311 m.)
 
@@ -82,6 +79,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

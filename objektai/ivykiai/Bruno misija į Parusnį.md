@@ -42,6 +42,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201307"></a>
+- t-001
+  teiginys: "Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užsidegė meile žodžio Dievo ir gailesiu savo bendro Vaitiekaus vėl eiti netikėlių mokyti; to dėjęsis, leidos į Parusnį metuo se 1008 su 18 savo tarnų, tarp kurių du buvusiu zokanyku."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184657
+
 ## Citatos
 
 - id: c-184657
@@ -71,20 +85,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201307"></a>
-- t-001
-  teiginys: "Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užsidegė meile žodžio Dievo ir gailesiu savo bendro Vaitiekaus vėl eiti netikėlių mokyti; to dėjęsis, leidos į Parusnį metuo se 1008 su 18 savo tarnų, tarp kurių du buvusiu zokanyku."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184657
-

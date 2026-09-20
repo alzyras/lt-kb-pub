@@ -34,6 +34,31 @@ canonical_biography: "Narbutas rašo, kad nuo Baltijos jūros pasitraukę senov�
 
 Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. Kr. pagarsėjo pergale prieš konsulą Scipioną.
 
+## Teiginiai
+
+<a id="claim-t-191462"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. Kr. pagarsėjo pergale prieš konsulą Scipioną."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Scipionas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=89"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Scipionas\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 169 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Scipionas susietas su citatoje minima kimbrų pergale, o chronikinis Narbuto pasakojimas paliktas su atribucija. Nepridėta informacijos apie Veronos apylinkių gyventojų skaičių."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174344
+
 ## Citatos
 
 - id: c-174344
@@ -58,71 +83,8 @@ Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195078
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
-  citata_originali: |
-    Mes turime neabejotiną tos
-    genties paminklą, rodantį, kad kirnbrų, arba kimerų, gen­
-    tys nebuvo ir nėra vien pasaka, nepaisant jų karų su ro­
-    mėnais, kurių aprašinėtojams galėjo būti priekaištauja­
-    ma, kad šį pavadinimą suteikė laukinių germanų iš Pa­
-    baltijo ordoms. Italijoje, netoli Veronos, slėnyje tarp
-    Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių
-    senovės kirnbrų, kurie, pasitraukę nuo Baltijos jūros, pa­
-    garsėjo pergale prieš konsulą Scipioną 169 metais prieš
-    Kristaus gimimą. Švedų autorius Biorntelis (Bornthel)
-    mano dabar esant iki 60 000 jų gyventojų.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-002
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Kimbrai]]
-
-## Teiginiai
-
-<a id="claim-t-212579"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. Kr. pagarsėjo pergale prieš konsulą Scipioną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Scipionas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=89"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Scipionas\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 169 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Scipionas susietas su citatoje minima kimbrų pergale, o chronikinis Narbuto pasakojimas paliktas su atribucija. Nepridėta informacijos apie Veronos apylinkių gyventojų skaičių."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-195078
-
-<a id="claim-t-215065"></a>
-- t-002
-  teiginys: "Italijoje, netoli Veronos, slėnyje tarp Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių senovės kirnbrų, kurie, pasitraukę nuo Baltijos jūros, pa garsėjo pergale prieš konsulą Scipioną 169 metais prieš Kristaus gimimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195078
-

@@ -1,6 +1,6 @@
 ---
 tipas: daiktas
-pavadinimas: 'Klajokliškos palapinės'
+pavadinimas: Klajokliškos palapinės
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Klajokliškos palapinės
 
@@ -75,6 +72,5 @@ Narbutas nurodo, kad amaksoliai neturėjo kitokių būstų, tik klajokliškas pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

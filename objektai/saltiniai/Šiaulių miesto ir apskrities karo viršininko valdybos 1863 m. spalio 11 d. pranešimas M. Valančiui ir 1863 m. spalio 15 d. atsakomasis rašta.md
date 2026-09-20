@@ -1,28 +1,25 @@
 ---
 tipas: saltinis
-pavadinimas: 'Šiaulių miesto ir apskrities karo viršininko valdybos 1863 m. spalio 11 d. pranešimas M. Valančiui ir 1863 m. spalio 15 d. atsakomasis rašta'
+pavadinimas: Šiaulių miesto ir apskrities karo viršininko valdybos 1863 m. spalio 11 d. pranešimas M. Valančiui ir 1863 m. spalio 15 d. atsakomasis rašta
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1863 m.'
+  - 1863 m.
 date_start: '1863'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Šiaulių miesto ir apskrities karo viršininko valdybos 1863 m. spalio 11 d. pranešimas M. Valančiui ir 1863 m. spalio 15 d. atsakomasis rašta
 

@@ -17,7 +17,6 @@ import { mediaLicenseLabel } from "../util/mediaGallery"
 import style from "./styles/exhibitionPage.scss"
 import photoswipeStyle from "./styles/photoswipe.scss"
 import viewerStyle from "./styles/objectMediaGallery.scss"
-import { EditorialCatalog, editorialCatalogStyle } from "./EditorialCatalog"
 // @ts-ignore
 import script from "./scripts/exhibition.inline"
 import { RelatedContent } from "./ContentCycle"
@@ -337,12 +336,14 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
           <p class="exhibition-intro">{exhibition.description}</p>
           {exhibition.exhibitionId.startsWith("valancius-") && (
             <p class="exhibition-proof-note">
-              Parengė Lietuvos istorijos žinių lobynas · redakcinė peržiūra
+              Parengė Lietuvos istorijos žinių lobynas
+              {exhibition.noindex && " · redakcinė peržiūra"}
             </p>
           )}
           <p class="exhibition-proof-note">
-            Kiekvienas faktinis teiginys turi nuorodą į šaltinį. Vaizdo interpretacijos pažymėtos
-            kaip parodos pasakojimas.
+            {exhibition.exhibitionId.startsWith("valancius-")
+              ? "Eksponatų aprašymus papildo katalogų nuorodos ir istorinių šaltinių ištraukos."
+              : "Kiekvienas faktinis teiginys turi nuorodą į šaltinį. Vaizdo interpretacijos pažymėtos kaip parodos pasakojimas."}
           </p>
           <div class="exhibition-reading-key" aria-label="Kaip skaityti parodą">
             <span class="is-narrative">Parodos pasakojimas</span>
@@ -466,17 +467,45 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
 
 function ExhibitionIndex({ exhibitions }: { exhibitions: ExhibitionManifest[] }) {
   return (
-    <EditorialCatalog
-      title="Parodos"
-      lead="Susitikimai su praeitimi. Atrasti eksponatai, jų istorijos ir skirtingi žvilgsniai į Lietuvos atmintį."
-      entries={exhibitions.map((exhibition) => ({
-        slug: exhibition.slug,
-        title: exhibition.title,
-        description: exhibition.description || exhibition.subtitle,
-        image: mediaImageUrl(exhibition.hero),
-        kicker: exhibition.subtitle || "Skaitmeninė paroda",
-      }))}
-    />
+    <main class="exhibitions-index">
+      <header>
+        <p class="exhibition-eyebrow">
+          <Images size={15} /> Kuruoti pasakojimai
+        </p>
+        <h1>Skaitmeninės parodos</h1>
+        <p>
+          Kuruoti Lietuvos istorijos pasakojimai, kuriuose šaltinis, vaizdas ir atmintis susijungia
+          į vieną kelionę.
+        </p>
+      </header>
+      <div>
+        {exhibitions.map((exhibition) => (
+          <article
+            class={`exhibition-index-card exhibition-theme--${exhibition.theme || "historical"}`}
+          >
+            <a href={`/${exhibition.slug}`}>
+              <img src={mediaImageUrl(exhibition.hero)} alt={exhibition.title} />
+            </a>
+            <div>
+              <span>
+                {exhibition.theme === "interwar"
+                  ? "Teminė paroda · 1930-ieji"
+                  : exhibition.theme === "symbols"
+                    ? "Teminė paroda · valstybės ženklai"
+                    : "Nuolatinė paroda"}
+              </span>
+              <h2>
+                <a href={`/${exhibition.slug}`}>{exhibition.title}</a>
+              </h2>
+              <p>{exhibition.subtitle}</p>
+              <a href={`/${exhibition.slug}`}>
+                Atidaryti parodą <ArrowRight size={15} />
+              </a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </main>
   )
 }
 
@@ -492,7 +521,7 @@ const ExhibitionPage: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
   return <ExhibitionIndex exhibitions={exhibitions} />
 }
 
-ExhibitionPage.css = [photoswipeStyle, viewerStyle, style, editorialCatalogStyle]
+ExhibitionPage.css = [photoswipeStyle, viewerStyle, style]
 ExhibitionPage.afterDOMLoaded = script
 
 export default (() => ExhibitionPage) satisfies QuartzComponentConstructor

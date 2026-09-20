@@ -44,6 +44,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203685"></a>
+- t-001
+  teiginys: "Visuomenės saugumo deklaracijoje akcentuotas būtinumas griežtai bausti už nusikaltimus viešose vietose, remiantis 1601 ir 1598 m. konstitucijomis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186289
+
 ## Santrauka
 
 Visuomenės saugumo deklaracijoje akcentuotas būtinumas griežtai bausti už nusikaltimus viešose vietose, remiantis 1601 ir 1598 m. konstitucijomis.
@@ -69,20 +83,5 @@ Visuomenės saugumo deklaracijoje akcentuotas būtinumas griežtai bausti už nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203685"></a>
-- t-001
-  teiginys: "Visuomenės saugumo deklaracijoje akcentuotas būtinumas griežtai bausti už nusikaltimus viešose vietose, remiantis 1601 ir 1598 m. konstitucijomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186289
-

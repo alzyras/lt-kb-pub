@@ -32,6 +32,25 @@ media_all_json: |-
 
 Gedimi­ nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­ vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
 
+## Teiginiai
+
+<a id="claim-t-86854"></a>
+- t-001
+  teiginys: "Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas atrodė toks galingas, tarsi staugtų šimtas vilkų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Aukštutinė pilis: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Aukštutinė pilis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sapno aiškinimas tiesiogiai nurodo, kad Gediminas turėjo pastatydinti Aukštutinę mūro pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Gediminas pastatė Aukštutinė pilis (0.82); Gediminas pastatė Vilniaus Aukštutinė pilis (0.78)"
+  pagrindžia:
+    - c-82833
+
 ## Citatos
 
 - id: c-82833
@@ -83,25 +102,5 @@ Gedimi­ nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne regėjo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-86854"></a>
-- t-001
-  teiginys: "Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas atrodė toks galingas, tarsi staugtų šimtas vilkų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Aukštutinė pilis: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aukštutinė pilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sapno aiškinimas tiesiogiai nurodo, kad Gediminas turėjo pastatydinti Aukštutinę mūro pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Gediminas pastatė Aukštutinė pilis (0.82); Gediminas pastatė Vilniaus Aukštutinė pilis (0.78)"
-  pagrindžia:
-    - c-82833
-

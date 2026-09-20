@@ -39,6 +39,20 @@ canonical_biography: "1624 m. Kauno laivų statytojas Ambrožėjus Mikalojeviči
 
 1624 m. Kauno laivų statytojas Ambrožėjus Mikalojevičius buvo pastatęs bajorui Kaštelai 1 vytinę, o dėl paruoštos medžiagos kitai vytinei susiginčijo tas pats Kaštela ir Kauno miestietis Greiteris.
 
+## Teiginiai
+
+<a id="claim-t-202136"></a>
+- t-001
+  teiginys: "1624 m. Kauno laivų statytojas Ambrožėjus Mikalojevičius buvo pastatęs bajorui Kaštelai 1 vytinę, o dėl paruoštos medžiagos kitai vytinei susiginčijo tas pats Kaštela ir Kauno miestietis Greiteris."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185483
+
 ## Citatos
 
 - id: c-185483
@@ -56,20 +70,5 @@ canonical_biography: "1624 m. Kauno laivų statytojas Ambrožėjus Mikalojeviči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202136"></a>
-- t-001
-  teiginys: "1624 m. Kauno laivų statytojas Ambrožėjus Mikalojevičius buvo pastatęs bajorui Kaštelai 1 vytinę, o dėl paruoštos medžiagos kitai vytinei susiginčijo tas pats Kaštela ir Kauno miestietis Greiteris."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185483
-

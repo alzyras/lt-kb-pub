@@ -39,6 +39,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205527"></a>
+- t-001
+  teiginys: "Pagal šią normą pirklių laivas nebuvo puolamas, jei jo savininkas nebuvo ginkluotas, neturėjo plėšikavimo tikslų ir plėšikams nei padėjo, nei trukdė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187705
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pagal šią normą pirklių laivas nebuvo puolamas, jei jo savininkas nebuvo ginkluotas, neturėjo plėšikavimo tikslų ir plėšikams nei padėjo, nei trukdė.'
@@ -87,21 +102,5 @@ Pagal šią normą pirklių laivas nebuvo puolamas, jei jo savininkas nebuvo gin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205527"></a>
-- t-001
-  teiginys: "Pagal šią normą pirklių laivas nebuvo puolamas, jei jo savininkas nebuvo ginkluotas, neturėjo plėšikavimo tikslų ir plėšikams nei padėjo, nei trukdė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187705
-

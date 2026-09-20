@@ -33,6 +33,28 @@ canonical_biography: "Narbutas mini kritiko teiginį, kad Jargallo, Jaygello ir 
 
 Narbutas mini kritiko teiginį, kad Jargallo, Jaygello ir Pomoloys esą aiškiai lietuviški vardai.
 
+## Teiginiai
+
+<a id="claim-t-190229"></a>
+- t-001
+  teiginys: "Narbutas mini kritiko teiginį, kad Jargallo, Jaygello ir Pomoloys esą aiškiai lietuviški vardai."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Pomoloys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jargallo: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Pomoloys: mention_match, person, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jargallo\" parinktas kaip owner_note_path. Targetas \"Pomoloys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173112
+
 ## Citatos
 
 - id: c-173112
@@ -59,4 +81,5 @@ Narbutas mini kritiko teiginį, kad Jargallo, Jaygello ir Pomoloys esą aiškiai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

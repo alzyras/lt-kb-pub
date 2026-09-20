@@ -55,6 +55,38 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-186651"></a>
+- t-001
+  teiginys: "Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandro žygis Braclavo link Moldavijos kampanijoje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandro žygis Braclavo link Moldavijos kampanijoje\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-169913
+
+<a id="claim-t-196783"></a>
+- t-002
+  teiginys: "Lietuvos metraštis pasakoja, kad Aleksandro maršalas Stanislovas Petravičius nespėjo laiku atvykti į pagalbą karaliui Olbrachtui, nes prie Dnestro jį pasitiko moldavai."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-178905
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -111,6 +143,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-178905
   autorius: "Anoniminis metraštininkas"
@@ -147,73 +181,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193881
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 149."
-  citata_originali: |
-    Ir kai ka­
-    ralius Olbrachtas su visa kariuomene jau buvo Buko­
-    vinoje ir žygiavo be baimės dėl sudarytos amžinosios
-    taikos ir priesaikos, nesitikėdamas iš niekur smūgio,
-    tuo metu Moldavijos vaivadai Steponui labai skaudėjo
-    kojos, bet, norėdamas įvykdyti savo sumanymą, jis
-    užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvy­
-    ko su visais savo žmonėmis, ir su turkais, ir su veng­
-    rais, ir su valachais, ir tuose miškuose bei bukynuose
-    užpuolė karalių Olbrachtą bei jo kariuomenę**, dau­
-    gelį iš jo kariuomenės nukovė, o kitus paėmė gyvus;
-    atėmė daug gurguolių su dideliu turtu ir kelias garsias
-    patrankas, o pačiam karaliui Olbrachtui ir daugeliui
-    jo ponų bei karių nieko nepakenkė.
-    Kai karalius perėjo miškus ir Bukoviną, Moldavijos
-    vaivada su visais savo žmonėmis pasuko atgalios. Tada
-    Moldavijos vaivada paėmė nelaisvėn Lenkijos karalys­
-    tės didįjį maršalą poną Točinskį 3S.
-    Lietuvos didžiojo kunigaikščio Aleksandro maršalas
-    ponas Stanislovas Petravičius su visais žmonėmis, ku­
-    rie su juo buvo siųsti Į pagalbą karaliui Olbrachtui,
-    nesuspėjo laiku atvykti, nes bežygiuojančius keliu ir
-    persikėlusius per Dnestro upę pasitiko moldavai ir sto­
-    jo į mūšį su jais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-210693"></a>
-- t-001
-  teiginys: "Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandro žygis Braclavo link Moldavijos kampanijoje: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandro žygis Braclavo link Moldavijos kampanijoje\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-
-<a id="claim-t-211133"></a>
-- t-002
-  teiginys: "Lietuvos metraštis pasakoja, kad Aleksandro maršalas Stanislovas Petravičius nespėjo laiku atvykti į pagalbą karaliui Olbrachtui, nes prie Dnestro jį pasitiko moldavai."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-193881
-

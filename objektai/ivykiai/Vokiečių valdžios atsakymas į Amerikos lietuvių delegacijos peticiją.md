@@ -1,8 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Vokiečių valdžios atsakymas į Amerikos lietuvių delegacijos peticiją'
+pavadinimas: Vokiečių valdžios atsakymas į Amerikos lietuvių delegacijos peticiją
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vokiečių valdžios atsakymas į Amerikos lietuvių delegacijos peticiją
 
@@ -70,6 +67,5 @@ Toks bu vo vokiečių valdžios atsakymas į mano jiems inteiktą peticiją.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

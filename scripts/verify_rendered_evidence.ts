@@ -13,6 +13,7 @@ import {
 } from "../quartz/util/evidenceIntegrity"
 import { INTENTIONAL_IGNORED_OBJECT_PAGES } from "../quartz/util/contentPaths"
 import { createUniqueSlugMap, FilePath } from "../quartz/util/path"
+import { uniqueCitations } from "../quartz/util/objectDetail"
 
 const objectRoot = path.resolve(process.env.CORPUS_ROOT ?? "objektai")
 const publicRoot = path.resolve(process.env.PUBLIC_ROOT ?? "public")
@@ -302,10 +303,16 @@ for (const file of sourceFiles) {
       return
     }
 
-    for (const rawRef of refs) {
-      const citationId = normalizeEvidenceId(rawRef)
-      const citation = citationById.get(citationId)
-      if (!citation) continue
+    const referencedCitations = refs
+      .map((ref) => citationById.get(normalizeEvidenceId(ref)))
+      .filter((citation) => citation !== undefined)
+    // Direct object cards consolidate identical source/page/quote records.
+    // Audit every distinct quotation; legacy cards still expose every ID.
+    const expectedCitations = assetHtml.includes("object-evidence-citation")
+      ? uniqueCitations(referencedCitations)
+      : referencedCitations
+    for (const citation of expectedCitations) {
+      const citationId = citation.id
       const card = citationCard(assetHtml, citationId)
       if (!card) {
         issues.push({ file: relativePath, claim: claim.id, citation: citationId, reason: "Missing rendered citation card" })

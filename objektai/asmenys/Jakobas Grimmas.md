@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jakobas Grimmas'
+pavadinimas: Jakobas Grimmas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1835 m.'
+  - 1835 m.
 date_start: '1835'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-970063737226e584b741e3b0"
-canonical_name: "Jakobas Grimmas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jakobas Grimmas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-970063737226e584b741e3b0
+canonical_name: Jakobas Grimmas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jakobas Grimmas
 sameAs: []
-canonical_biography: "Jakobo Grimmo Vokiečių mitologija pasirodė 1835 m."
+canonical_biography: Jakobo Grimmo Vokiečių mitologija pasirodė 1835 m.
 ---
 # Jakobas Grimmas
 
@@ -76,6 +75,5 @@ Jakobo Grimmo Vokiečių mitologija pasirodė 1835 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

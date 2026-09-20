@@ -45,6 +45,26 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-67002"></a>
+- t-001
+  teiginys: "1587 m. elekcijoje kandidatais buvo Maksimilijonas, Maskvos caras Teodoras ir Švedijos karalaitis Zigmantas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67077
+
+<a id="claim-t-67003"></a>
+- t-002
+  teiginys: "1587 m. elekcijos seime Zamoiskis ir jo priešininkai suvažiavo su kariuomenėmis, o lietuviai reikalavo jas pašalinti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67075
+
 ## Citatos
 
 - id: c-67075
@@ -64,7 +84,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-67077
@@ -91,26 +111,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-67002"></a>
-- t-001
-  teiginys: "1587 m. elekcijoje kandidatais buvo Maksimilijonas, Maskvos caras Teodoras ir Švedijos karalaitis Zigmantas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67077
-
-<a id="claim-t-67003"></a>
-- t-002
-  teiginys: "1587 m. elekcijos seime Zamoiskis ir jo priešininkai suvažiavo su kariuomenėmis, o lietuviai reikalavo jas pašalinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67075
-

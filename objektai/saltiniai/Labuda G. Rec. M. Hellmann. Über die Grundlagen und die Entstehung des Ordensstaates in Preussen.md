@@ -32,6 +32,20 @@ media_all_json: |-
 
 Dusburgietis teigia, kad labuda G.
 
+## Teiginiai
+
+<a id="claim-t-61121"></a>
+- t-001
+  teiginys: "G. Labudos recenzija apie M. Hellmanno „Über die Grundlagen und die Entstehung des Ordensstaates in Preussen“ paskelbta 1964 m. Torunėje, ZHP 29 tome."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1964 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti aiškų faktą apie recenzijos publikaciją."
+  pagrindžia:
+    - c-61753
+
 ## Citatos
 
 - id: c-61753
@@ -47,36 +61,5 @@ Dusburgietis teigia, kad labuda G.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202590
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
-  citata_originali: |
-    Labuda G. Rec.: M. Hellmann. Über  die Grundlagen und  die Entstehung des
-    Ordensstaates in Preussen...— ZHP [B], Toruń, 1964, t. 29, z. 4, s. 68—70.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-222595"></a>
-- t-001
-  teiginys: "G. Labudos recenzija apie M. Hellmanno „Über die Grundlagen und die Entstehung des Ordensstaates in Preussen“ paskelbta 1964 m. Torunėje, ZHP 29 tome."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1964 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti aiškų faktą apie recenzijos publikaciją."
-  pagrindžia:
-    - c-202590
-

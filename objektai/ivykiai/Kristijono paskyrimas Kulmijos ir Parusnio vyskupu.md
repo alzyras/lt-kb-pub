@@ -42,6 +42,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201325"></a>
+- t-001
+  teiginys: "Pasakojant Kristijonui, popiežius, matydamas skaitlių perkrikštų gausų esant, užvis jog tuodu kunigaikščiu, dėkavodamu už moks lą savo mokytojui Kristijonui, kunigaikštystas savo jam padovenojo, todėl Inocentas III pakėlė jį vys kupu Kulmijos ir visų tų."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184675
+
 ## Citatos
 
 - id: c-184675
@@ -73,20 +87,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201325"></a>
-- t-001
-  teiginys: "Pasakojant Kristijonui, popiežius, matydamas skaitlių perkrikštų gausų esant, užvis jog tuodu kunigaikščiu, dėkavodamu už moks lą savo mokytojui Kristijonui, kunigaikštystas savo jam padovenojo, todėl Inocentas III pakėlė jį vys kupu Kulmijos ir visų tų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184675
-

@@ -28,6 +28,27 @@ media_all_json: |-
 
 Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarkant taikos ir karo reikalus.
 
+## Teiginiai
+
+<a id="claim-t-185385"></a>
+- t-001
+  teiginys: "Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarkant taikos ir karo reikalus."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "globėjas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"globėjas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168746
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarkant taikos ir karo reikalus.'
@@ -82,4 +103,5 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

@@ -1,10 +1,10 @@
 ---
 tipas: ivykis
-pavadinimas: 'Jėzuitų aptiktas žalčių galvų fetišas prie Vilniaus (XVII a. pradžia)'
+pavadinimas: Jėzuitų aptiktas žalčių galvų fetišas prie Vilniaus (XVII a. pradžia)
 variantai:
-  - 'Jėzuitų aptiktas žalčių galvų fetišas prie Vilniaus'
+  - Jėzuitų aptiktas žalčių galvų fetišas prie Vilniaus
 aliases:
-  - 'Jėzuitų aptiktas žalčių galvų fetišas prie Vilniaus'
+  - Jėzuitų aptiktas žalčių galvų fetišas prie Vilniaus
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -15,12 +15,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Jėzuitų aptiktas žalčių galvų fetišas prie Vilniaus (XVII a. pradžia)
 
@@ -75,6 +72,5 @@ Kai iš vaiko atėmė fetišą, jis labai nu siminė, ėmė karščiuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

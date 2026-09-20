@@ -48,22 +48,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-220837"></a>
-- t-220837
-  teiginys: "1277 m. Tibro vanduo Romoje pakilo daugiau kaip keturias pėdas virš švenčiausiosios Marijos altoriaus rotondoje."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204040
-
-<a id="claim-t-221768"></a>
-- t-221768
+<a id="claim-t-59677"></a>
+- t-001
   teiginys: "Markburge priimami riteriai prieš įvilktuves kniūpsti puolė prieš altorių."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Markburgas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,6 +61,8 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Markburgas: mention_match, place, gap=66"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Altorius\" parinktas kaip owner_note_path. Targetas \"Markburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60309
 
 ## Citatos
 
@@ -99,22 +89,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-204040
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 237"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 237."
-  citata_originali: |
-    1277 viešpaties metais valdė popiežius Mikalojus III ir Rudolfas. Tuo laiku Romoje
-    taip ištvino ir išsiliejo Tibras, kad pakilo per keturias ir daugiau pėdų virš švenčiausiosios
-    Marijos altoriaus rotondoje (Ptol. 23, 26; Mart. p. 420).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220837
-
+  pagrindzia:
+    - t-001

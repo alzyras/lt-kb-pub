@@ -36,6 +36,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201290"></a>
+- t-001
+  teiginys: "Apgulus pilį, rados kru vina mūša, kaipogi įgulė Bisenės gyniojo švente nybes su neaprašoma kantrybe ir narsybe, vienok lig nesubrėškus dar pergalėjo meldžionys įgulę ir į pilį varu įsilaužė; iškirtę svietą, pačią pilį sude gino, bet ar įgijo tuo pačiu žygiu."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184640
+
 ## Citatos
 
 - id: c-184640
@@ -60,20 +74,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201290"></a>
-- t-001
-  teiginys: "Apgulus pilį, rados kru vina mūša, kaipogi įgulė Bisenės gyniojo švente nybes su neaprašoma kantrybe ir narsybe, vienok lig nesubrėškus dar pergalėjo meldžionys įgulę ir į pilį varu įsilaužė; iškirtę svietą, pačią pilį sude gino, bet ar įgijo tuo pačiu žygiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184640
-

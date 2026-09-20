@@ -39,9 +39,9 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
     - c-88526
 
 <a id="claim-t-93129"></a>
-- t-93129
+- t-002
   teiginys: "Posakis ragino perskaityti knygą, kurioje vaizduotos Didžiojo karo baisybės: atakos, nuodingos dujos, tankai ir mirtis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -68,8 +68,8 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-93129
+  pagrindzia:
+    - t-002
 
 - id: c-88526
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -85,11 +85,9 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
     šią knygą perskaityti. Knyga parašyta taip vaizdžiai ir gerai, kad
     jos autorius net įtrauktas į kandidatus Nobelio premijai gauti.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

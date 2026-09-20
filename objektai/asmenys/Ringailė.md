@@ -43,54 +43,12 @@ canonical_biography: "Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henri
 
 Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas Vytautą, vedė jo seserį Ringailę, tai ordinas jo neįtarė, ir tuo būdu buvo slapta susitarta. Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
 
-## Citatos
-
-- id: c-88851
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  puslapiai: "PDF 129"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 129."
-  citata_originali: |
-    100 psl.). Ordinas, kartą jau apgautas,
-    pareikalavo, kad Vytautas laiduotų sutartį, įkeisdamas savo arti-
-    muosius. Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-
-    mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
-  citata_rodoma: "Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-\n  mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-88853
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  puslapiai: "PDF 25"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 25."
-  citata_originali: |
-    1392 m. Ringailę vedė Ritesverderyje
-    kitas Mozūrijos kunigaikštis Henrikas. Ji gavo krikšte
-    Elžbietos vardą.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Ryšiai
-- Sutuoktiniai: [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)]], [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]]
-
 ## Teiginiai
 
 <a id="claim-t-93490"></a>
 - t-001
   teiginys: "1392 m. Ringailę vedė Ritesverderyje kitas Mozūrijos kunigaikštis Henrikas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mozūrija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -109,10 +67,51 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 <a id="claim-t-93492"></a>
 - t-002
   teiginys: "Vytautas pasiuntė seserį Ringailę įkaitu, laiduodamas sutartį su Ordinu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-88851
 
+## Citatos
+
+- id: c-88851
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  puslapiai: "PDF 129"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 129."
+  citata_originali: |
+    100 psl.). Ordinas, kartą jau apgautas,
+    pareikalavo, kad Vytautas laiduotų sutartį, įkeisdamas savo arti-
+    muosius. Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-
+    mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
+  citata_rodoma: "Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-\n  mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-88853
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  puslapiai: "PDF 25"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 25."
+  citata_originali: |
+    1392 m. Ringailę vedė Ritesverderyje
+    kitas Mozūrijos kunigaikštis Henrikas. Ji gavo krikšte
+    Elžbietos vardą.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+## Ryšiai
+- Sutuoktiniai: [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)]], [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]]

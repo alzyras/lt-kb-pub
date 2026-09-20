@@ -24,6 +24,20 @@ media_all_json: |-
 
 Gediminas, didindamas dar kraitį savo dukters, pažadėjo ūkvaizdžiams 40 000 lenkų kalinių, Lietu voj vergaujančių, namo paleisti, idant jie Aldoną, 1 Kotzebue, Preus.
 
+## Teiginiai
+
+<a id="claim-t-201439"></a>
+- t-001
+  teiginys: "Gediminas, didindamas dar kraitį savo dukters, pažadėjo ūkvaizdžiams 40 000 lenkų kalinių, Lietu voj vergaujančių, namo paleisti, idant jie Aldoną, 1 Kotzebue, Preus."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184789
+
 ## Citatos
 
 - id: c-184789
@@ -40,20 +54,5 @@ Gediminas, didindamas dar kraitį savo dukters, pažadėjo ūkvaizdžiams 40 000
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201439"></a>
-- t-001
-  teiginys: "Gediminas, didindamas dar kraitį savo dukters, pažadėjo ūkvaizdžiams 40 000 lenkų kalinių, Lietu voj vergaujančių, namo paleisti, idant jie Aldoną, 1 Kotzebue, Preus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184789
-

@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Baigos pilis'
+pavadinimas: Baigos pilis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3e03966b67dae20719a93335"
-canonical_name: "Baigos pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Baigos pilis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3e03966b67dae20719a93335
+canonical_name: Baigos pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Baigos pilis
 sameAs: []
-canonical_biography: "Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos."
+canonical_biography: 'Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos.'
 ---
 # Baigos pilis
 
@@ -64,6 +63,5 @@ canonical_biography: "Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

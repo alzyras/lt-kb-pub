@@ -34,6 +34,17 @@ canonical_biography: "Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai On
 
 Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatinių dvarų. Ona (Zigmanto Augusto sesuo): po jo mirties neliko jokių vyriškų įpėdinių (liko tik seserys, kurių viena — Ona — tebebuvo netekėjusi), tad turėjo prasidėti laisvai renkamųjų valdovų periodas. Ona (Zigmanto Augusto sesuo): zigmanto Augusto sesuo Ona (ta pati, kuri buvo numatyta žmona karaliui Henrikui ir kurią vedė Stp. Batoras).
 
+## Teiginiai
+
+<a id="claim-t-64014"></a>
+- t-001
+  teiginys: "Po Zigmanto Augusto mirties neliko vyriškų įpėdinių; viena iš likusių seserų, Ona, tebebuvo netekėjusi."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-64890
+
 ## Citatos
 
 - id: c-64890
@@ -53,17 +64,5 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-64014"></a>
-- t-001
-  teiginys: "Po Zigmanto Augusto mirties neliko vyriškų įpėdinių; viena iš likusių seserų, Ona, tebebuvo netekėjusi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-64890
-

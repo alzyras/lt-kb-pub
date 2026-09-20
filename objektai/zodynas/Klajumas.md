@@ -38,19 +38,14 @@ Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
 
-<a id="claim-t-210191"></a>
-- t-210191
-  teiginys: "Klajumas buvo erdvė aplink žinyčią, kurioje žmonės rinkdavosi melstis."
-  atnaujinta: "2026-09-13 18:04"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
-<a id="claim-t-209952"></a>
-- t-209952
+<a id="claim-t-07677"></a>
+- t-001
   teiginys: "Klajume žmonės rinkdavosi melstis, o ąžuolinių malkų rietuvės buvo laikomos šventai ugniai kūrenti."
-  atnaujinta: "2026-09-12 16:28"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09608
 
 ## Citatos
 
@@ -67,6 +62,8 @@ Papildomos aiškios formos neišskirtos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-09609
   autorius: "Simonas Daukantas"
@@ -82,4 +79,3 @@ Papildomos aiškios formos neišskirtos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

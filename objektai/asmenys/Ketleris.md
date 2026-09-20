@@ -42,6 +42,32 @@ canonical_biography: "Teodoro Narbuto cituotame lotyniškame rankraštyje Kuršo
 
 Teodoro Narbuto cituotame lotyniškame rankraštyje Kuršo kunigaikščiu vadinamas Ketleris 1605 m. rugsėjo 27 d. atvyko pagelbėti Chodkevičiui.
 
+## Teiginiai
+
+<a id="claim-t-191432"></a>
+- t-001
+  teiginys: "Teodoro Narbuto cituotame lotyniškame rankraštyje Kuršo kunigaikščiu vadinamas Ketleris 1605 m. rugsėjo 27 d. atvyko pagelbėti Chodkevičiui."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "reme -> Chodkevičius: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ketleris: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Chodkevičius: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Ketleris atvyko padėti Chodkevičiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Ketleris rėmė Chodkevičius (0.88); Ketleris buvo valdovas Kuršas (0.86)"
+  temporaliniai_duomenys: "kelionės data: 1605 m.; valdymo laikotarpis: 1605 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Ketleris rėmė Chodkevičius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ketleris buvo valdovas Kuršas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Valdovo titulas ir rankraščio liudijimas pateikti su Narbuto tarpininkaujama atribucija. Nepridėta platesnių išvadų apie bajorus ar agazirus."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174314
+
 ## Citatos
 
 - id: c-174314
@@ -71,31 +97,8 @@ Teodoro Narbuto cituotame lotyniškame rankraštyje Kuršo kunigaikščiu vadina
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Ketleris buvo valdovas [[objektai/vietos/Kuršas]]
-
-## Teiginiai
-
-<a id="claim-t-212705"></a>
-- t-001
-  teiginys: "Teodoro Narbuto cituotame lotyniškame rankraštyje Kuršo kunigaikščiu vadinamas Ketleris 1605 m. rugsėjo 27 d. atvyko pagelbėti Chodkevičiui."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "reme -> Chodkevičius: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ketleris: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Chodkevičius: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Ketleris atvyko padėti Chodkevičiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Ketleris rėmė Chodkevičius (0.88); Ketleris buvo valdovas Kuršas (0.86)"
-  temporaliniai_duomenys: "kelionės data: 1605 m.; valdymo laikotarpis: 1605 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Ketleris rėmė Chodkevičius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ketleris buvo valdovas Kuršas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Valdovo titulas ir rankraščio liudijimas pateikti su Narbuto tarpininkaujama atribucija. Nepridėta platesnių išvadų apie bajorus ar agazirus."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-

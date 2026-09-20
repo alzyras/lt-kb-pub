@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Liutauro pasiuntimas užimti Polocką (1264 m.)'
+pavadinimas: Liutauro pasiuntimas užimti Polocką (1264 m.)
 variantai:
-  - 'Liutauro pasiuntimas užimti Polocką'
+  - Liutauro pasiuntimas užimti Polocką
 aliases:
-  - 'Liutauro pasiuntimas užimti Polocką'
+  - Liutauro pasiuntimas užimti Polocką
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1264 m.'
+  - 1264 m.
 date_start: '1264'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Liutauro pasiuntimas užimti Polocką (1264 m.)
 
@@ -82,6 +79,5 @@ O Lietu vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre niotos mirti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

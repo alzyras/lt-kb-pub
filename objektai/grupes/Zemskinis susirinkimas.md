@@ -34,6 +34,29 @@ media_all_json: |-
 
 Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Romanovas.
 
+## Teiginiai
+
+<a id="claim-t-41205"></a>
+- t-001
+  teiginys: "1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Romanova: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zemskinis susirinkimas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Romanova: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zemskinis susirinkimas\" parinktas kaip owner_note_path. Targetas \"Romanova\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1611 m.; įvykio data: 1613 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašymas aiškiau sieja veiksmą su note objektu."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-44874
+    - c-167062
+
 ## Citatos
 
 - id: c-44874
@@ -54,6 +77,8 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-167062
   sudarytojas: "Karolis Zikaras"
@@ -68,40 +93,12 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
     1613 m. Zemskinio susirinkimo išrinktas
     Michailas Fiodorovičius Romanovas.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Zemskinis susirinkimas paskyrė [[objektai/asmenys/Michailas Fiodorovičius Romanovas]]
-
-## Teiginiai
-
-<a id="claim-t-183670"></a>
-- t-001
-  teiginys: "1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą."
-  atnaujinta: "2026-09-13 23:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "paskyre -> Michailas Fiodorovičius Romanovas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zemskinis susirinkimas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Michailas Fiodorovičius Romanovas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Išrinkimas caru čia atitinka paskyrimo valdovu veiksmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Zemskinis susirinkimas paskyrė Michailas Fiodorovičius Romanovas (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1613 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašymas aiškiau sieja veiksmą su note objektu."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-167062
-

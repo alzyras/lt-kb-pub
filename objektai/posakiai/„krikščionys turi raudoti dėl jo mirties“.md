@@ -32,6 +32,42 @@ media_all_json: |-
 
 Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardamas, «krikščionys turi raudoti dėl jo mirties» 220c.
 
+## Teiginiai
+
+<a id="claim-t-195040"></a>
+- t-001
+  teiginys: "Eiliuotinės kronikos autorius žodžius „krikščionys turi raudoti dėl jo mirties“ įtraukė į kelias šiltas eilutes."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_object: [[objektai/zodynas/neofitas|neofitas]]; mentioned_place: Livonija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177408
+
+<a id="claim-t-195041"></a>
+- t-002
+  teiginys: "Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardamas, «krikščionys turi raudoti dėl jo mirties» 220c."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177408
+
+<a id="claim-t-195042"></a>
+- t-003
+  teiginys: "Eiliuotinės kronikos autorius apie neofitą Suksę rašė, kad „krikščionys turi raudoti dėl jo mirties“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_object: [[objektai/zodynas/neofitas|neofitas]]; mentioned_place: Livonija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177408
+
 ## Citatos
 
 - id: c-177408
@@ -52,44 +88,7 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-195040"></a>
-- t-001
-  teiginys: "Eiliuotinės kronikos autorius žodžius „krikščionys turi raudoti dėl jo mirties“ įtraukė į kelias šiltas eilutes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/zodynas/neofitas|neofitas]]; mentioned_place: Livonija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177408
-
-<a id="claim-t-195041"></a>
-- t-002
-  teiginys: "Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardamas, «krikščionys turi raudoti dėl jo mirties» 220c."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177408
-
-<a id="claim-t-195042"></a>
-- t-003
-  teiginys: "Eiliuotinės kronikos autorius apie neofitą Suksę rašė, kad „krikščionys turi raudoti dėl jo mirties“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/zodynas/neofitas|neofitas]]; mentioned_place: Livonija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177408
-

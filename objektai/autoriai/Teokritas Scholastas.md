@@ -33,6 +33,29 @@ canonical_biography: "Teokritas Scholastas paliko žinią, kad varpai priklausė
 
 Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbinimo paslaptingoms apeigoms.
 
+## Teiginiai
+
+<a id="claim-t-190458"></a>
+- t-001
+  teiginys: "Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbinimo paslaptingoms apeigoms."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Romėnai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Varpai: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Romėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad romėnai turėjo varpų, todėl varpai priskiriami romėnams."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Varpai priklausė Romėnai (0.84)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173341
+
 ## Citatos
 
 - id: c-173341
@@ -55,4 +78,5 @@ Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

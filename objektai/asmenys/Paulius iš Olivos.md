@@ -35,6 +35,25 @@ canonical_biography: "Kai maždaug tuo metu sužinota, jog Gedimino skundas tikr
 
 Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos.
 
+## Teiginiai
+
+<a id="claim-t-87818"></a>
+- t-001
+  teiginys: "Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Kryžiuočių ordinas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Paulius iš Olivos: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Paulius iš Olivos stojo ginti kryžiuočių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Paulius iš Olivos gynė Kryžiuočių ordinas (0.96); Paulius iš Olivos buvo sąjungininkas su Jordanas iš Pelplino (0.84)"
+  pagrindžia:
+    - c-83797
+
 ## Citatos
 
 - id: c-83797
@@ -66,29 +85,9 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Paulius iš Olivos gynė [[objektai/grupes/Kryžiuočių ordinas]]
 - Paulius iš Olivos rėmė [[objektai/grupes/Kryžiuočių ordinas]]
-
-## Teiginiai
-
-<a id="claim-t-87818"></a>
-- t-001
-  teiginys: "Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Kryžiuočių ordinas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Paulius iš Olivos: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Paulius iš Olivos stojo ginti kryžiuočių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Paulius iš Olivos gynė Kryžiuočių ordinas (0.96); Paulius iš Olivos buvo sąjungininkas su Jordanas iš Pelplino (0.84)"
-  pagrindžia:
-    - c-83797
-

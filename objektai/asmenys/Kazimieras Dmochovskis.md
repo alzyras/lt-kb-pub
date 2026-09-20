@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Kazimieras Dmochovskis'
+pavadinimas: Kazimieras Dmochovskis
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 datos:
-  - '1850 m.'
+  - 1850 m.
 date_start: '1850'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ad07bcaf4521325e1bb0e897"
-canonical_name: "Kazimieras Dmochovskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Kazimieras Dmochovskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ad07bcaf4521325e1bb0e897
+canonical_name: Kazimieras Dmochovskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Kazimieras Dmochovskis
 sameAs: []
-canonical_biography: "Pašventė ma ne dievobaimingas Godojamas Mogyliavo Archivyskupas visų katalikų bažnyčių, Maskolių ciesarystėje esančių, Metropolitą Jo Mylista Kazimieras Dmochovskis, drau gystėje savo padėjėjo ir busimojo įpėdinio Karistijos Vyskupo Jo mylistos Ignaciaus."
+canonical_biography: 'Pašventė ma ne dievobaimingas Godojamas Mogyliavo Archivyskupas visų katalikų bažnyčių, Maskolių ciesarystėje esančių, Metropolitą Jo Mylista Kazimieras Dmochovskis, drau gystėje savo padėjėjo ir busimojo įpėdinio Karistijos Vyskupo Jo mylistos Ignaciaus.'
 ---
 # Kazimieras Dmochovskis
 

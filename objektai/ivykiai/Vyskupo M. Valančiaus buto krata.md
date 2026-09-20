@@ -1,8 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Vyskupo M. Valančiaus buto krata'
+pavadinimas: Vyskupo M. Valančiaus buto krata
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vyskupo M. Valančiaus buto krata
 
@@ -35,34 +32,6 @@ Nenurodyta
 
 ## Rezultatas
 Nenurodyta
-
-## Teiginiai
-
-<a id="claim-t-208758"></a>
-- t-001
-  teiginys: "1870 m. spalio 24 d. Vilniaus generalgubernatorius A. Potapovas sudarė komisiją, įpareigotą atlikti vyskupo Motiejaus Valančiaus buto kratą, ir nurodė jo neareštuoti net radus draudžiamos literatūros."
-  atnaujinta: "2026-09-13 13:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
-  pagrindžia:
-    - c-191378
-
-<a id="claim-t-208759"></a>
-- t-002
-  teiginys: "1870 m. gruodžio 12 d. komisija atliko vyskupo Motiejaus Valančiaus buto kratą, tačiau nieko įtartino nerado."
-  atnaujinta: "2026-09-13 13:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
-  pagrindžia:
-    - c-191379
 
 ## Santrauka
 
@@ -90,7 +59,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-191379
@@ -107,6 +76,33 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
+## Teiginiai
+
+<a id="claim-t-208758"></a>
+- t-001
+  teiginys: "1870 m. spalio 24 d. Vilniaus generalgubernatorius A. Potapovas sudarė komisiją, įpareigotą atlikti vyskupo Motiejaus Valančiaus buto kratą, ir nurodė jo neareštuoti net radus draudžiamos literatūros."
+  atnaujinta: "2026-09-13 13:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
+  pagrindžia:
+    - c-191378
+
+<a id="claim-t-208759"></a>
+- t-002
+  teiginys: "1870 m. gruodžio 12 d. komisija atliko vyskupo Motiejaus Valančiaus buto kratą, tačiau nieko įtartino nerado."
+  atnaujinta: "2026-09-13 13:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
+  pagrindžia:
+    - c-191379
 

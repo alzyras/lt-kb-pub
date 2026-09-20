@@ -45,22 +45,10 @@ canonical_biography: "Žygių išvakarėse Maskvos didysis kunigaikštis Dmitrij
 
 ## Teiginiai
 
-<a id="claim-t-210778"></a>
-- t-210778
-  teiginys: "Dimitrijus Ivanovičius nutraukė taiką su Algirdu ir pasiuntė jam karo paskelbimą."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194352
-
 <a id="claim-t-40085"></a>
-- t-40085
+- t-001
   teiginys: "Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Tverė: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -105,8 +93,8 @@ canonical_biography: "Žygių išvakarėse Maskvos didysis kunigaikštis Dmitrij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-40085
+  pagrindzia:
+    - t-001
 
 - id: c-167122
   sudarytojas: "Karolis Zikaras"
@@ -135,30 +123,8 @@ canonical_biography: "Žygių išvakarėse Maskvos didysis kunigaikštis Dmitrij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-40085
-
-- id: c-194352
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 73"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 73."
-  citata_originali: |
-    Ilgokai jis viešpatavo Lietuvos Didžiojoje Kunigaikš­
-    tystėje ir palaikė taikingus bei nuoširdžius draugystės
-    santykius su Maskvos didžiuoju kunigaikščiu Dimitri-
-    jumi Ivanovičiumi s. O šis kunigaikštis, be jokios prie­
-    žasties nutraukęs taiką ir draugystę, atsiuntė pas didįjį
-    kunigaikštį Algirdą savo pasiuntinį su karo paskelbi­
-    mu
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210778
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Dmitrijus Ivanovičius puolė [[objektai/vietos/Tverė]]

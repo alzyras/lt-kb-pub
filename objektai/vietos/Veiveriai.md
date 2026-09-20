@@ -44,22 +44,10 @@ Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarij
 
 ## Teiginiai
 
-<a id="claim-t-209648"></a>
-- t-209648
-  teiginys: "Veiverių bažnytėlę supo keliolika medžių."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192268
-
 <a id="claim-t-02849"></a>
-- t-02849
+- t-001
   teiginys: "1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus, joje dėstyta ir lietuvių kalba."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -97,24 +85,5 @@ Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-02849
-
-- id: c-192268
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 41"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 41."
-  citata_originali: |
-    Tik
-    toli-toli stogso Veiverių bažnytėlė,
-    jų apsupę
-    laiko ir gina keliolika medžių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209648
-
+  pagrindzia:
+    - t-001

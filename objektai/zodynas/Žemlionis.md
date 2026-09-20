@@ -36,6 +36,40 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 
 - Tiksli moderni atitiktis svyruoja tarp `kareiviai` ir platesnio karo sluoksnio, bet tekste ryšys su karine tvarka aiškus.
 
+## Teiginiai
+
+<a id="claim-t-70424"></a>
+- t-001
+  teiginys: "Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žemlionys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "žemlionis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Žemlionys: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žemlionis\" parinktas kaip owner_note_path. Targetas \"Žemlionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09782
+
+<a id="claim-t-70425"></a>
+- t-002
+  teiginys: "Žemlioniu vadintas kiemas, karo metu pagal turimą žemę išleidęs vieną ar kelis raitus kareivius."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "žemlionis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žemlionis\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09781
+
 ## Citatos
 
 - id: c-09781
@@ -50,6 +84,8 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-09782
   autorius: "Simonas Daukantas"
@@ -71,6 +107,8 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-09783
   autorius: "Simonas Daukantas"
@@ -93,62 +131,3 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-192857
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  puslapiai: "PDF 77"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 77."
-  citata_originali: |
-    Jei toksai kiemas, karei kėlusis, leido kareivį jotą^259 vieną ar du, tris – pagal tą, kaip daug žemės turėjo, tad vadinos žemlioniu^260 , nuo žemės, kurią buvo sau pragyvenęs.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 16:28"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-210329
-
-## Teiginiai
-
-<a id="claim-t-210050"></a>
-- t-001
-  teiginys: "Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žemlionys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "žemlionis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Žemlionys: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žemlionis\" parinktas kaip owner_note_path. Targetas \"Žemlionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
-<a id="claim-t-210294"></a>
-- t-002
-  teiginys: "Žemlioniu vadintas kiemas, karo metu pagal turimą žemę išleidęs vieną ar kelis raitus kareivius."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "žemlionis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žemlionis\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-192857
-
-<a id="claim-t-210329"></a>
-- t-210329
-  teiginys: "`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-192857
-

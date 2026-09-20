@@ -1,13 +1,13 @@
 ---
 tipas: daiktas
-pavadinimas: 'Pasportas (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Pasportas (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Pasportas'
+  - Pasportas
 aliases:
-  - 'Pasportas'
+  - Pasportas
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Pasportas (daiktas)
 
@@ -129,7 +126,7 @@ Ne tik žiūrima pasporto, bet perkrečiami ir visi vežamieji daiktai. Ant mano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192454
@@ -148,7 +145,7 @@ Ne tik žiūrima pasporto, bet perkrečiami ir visi vežamieji daiktai. Ant mano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-192455
@@ -169,7 +166,7 @@ Ne tik žiūrima pasporto, bet perkrečiami ir visi vežamieji daiktai. Ant mano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-192456
@@ -194,7 +191,7 @@ Ne tik žiūrima pasporto, bet perkrečiami ir visi vežamieji daiktai. Ant mano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-192457
@@ -215,6 +212,5 @@ Ne tik žiūrima pasporto, bet perkrečiami ir visi vežamieji daiktai. Ant mano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-

@@ -33,6 +33,21 @@ canonical_biography: "Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė 
 
 Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabijo upės pakrantėje.
 
+## Teiginiai
+
+<a id="claim-t-196581"></a>
+- t-001
+  teiginys: "Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabijo upės pakrantėje."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178777
+
 ## Citatos
 
 - id: c-178777
@@ -56,21 +71,5 @@ Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-196581"></a>
-- t-001
-  teiginys: "Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabijo upės pakrantėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178777
-

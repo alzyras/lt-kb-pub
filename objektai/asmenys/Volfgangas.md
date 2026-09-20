@@ -42,6 +42,21 @@ canonical_biography: "Bavarijos grafas Volfgangas parėmė Prūsų magistrą žy
 
 Bavarijos grafas Volfgangas parėmė Prūsų magistrą žygyje, per kurį buvo nusiaubta Lietuva ir sunaikintos Ariogalos, Pernaravos bei Labūnavos žemės.
 
+## Teiginiai
+
+<a id="claim-t-193512"></a>
+- t-001
+  teiginys: "Bavarijos grafas Volfgangas parėmė Prūsų magistrą žygyje, per kurį buvo nusiaubta Lietuva ir sunaikintos Ariogalos, Pernaravos bei Labūnavos žemės."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-176192
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bavarijos grafas Volfgangas parėmė Prūsų magistrą žygyje, per kurį buvo nusiaubta Lietuva ir sunaikintos Ariogalos, Pernaravos bei Labūnavos žemės.'
@@ -120,21 +135,5 @@ Bavarijos grafas Volfgangas parėmė Prūsų magistrą žygyje, per kurį buvo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193512"></a>
-- t-001
-  teiginys: "Bavarijos grafas Volfgangas parėmė Prūsų magistrą žygyje, per kurį buvo nusiaubta Lietuva ir sunaikintos Ariogalos, Pernaravos bei Labūnavos žemės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-176192
-

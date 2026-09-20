@@ -44,6 +44,33 @@ historical_names: []
 
 Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kraštą, kaip viršiaus minavojau, pasakoja, jog žuvėdai užėmę per kelias my lias nuo pajūrio Žemaičiuose pilį, Apuole vadina mą, liepė jos ūkinykams mokėti pusę svaro sidabro nuo kiekvienos.
 
+## Teiginiai
+
+<a id="claim-t-201130"></a>
+- t-001
+  teiginys: "Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kraštą, kaip viršiaus minavojau, pasakoja, jog žuvėdai užėmę per kelias my lias nuo pajūrio Žemaičiuose pilį, Apuole vadina mą, liepė jos ūkinykams mokėti pusę svaro sidabro nuo kiekvienos."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184480
+
+<a id="claim-t-205460"></a>
+- t-002
+  teiginys: "Anscharijaus gyvenimo aprašyme, kur apie kuršius kalbama maždaug įpusėjus IX amžiui, tais laikais, kai jie atrėmė švedų ir danų puolimus, pastarie siems įsibrovus į kuršių miestą su įtvirtinimais — Apuolę (Uppeteela)."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-188065
+
 ## Citatos
 
 - id: c-184480
@@ -72,7 +99,7 @@ Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188065
@@ -95,33 +122,5 @@ Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201130"></a>
-- t-001
-  teiginys: "Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kraštą, kaip viršiaus minavojau, pasakoja, jog žuvėdai užėmę per kelias my lias nuo pajūrio Žemaičiuose pilį, Apuole vadina mą, liepė jos ūkinykams mokėti pusę svaro sidabro nuo kiekvienos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184480
-
-<a id="claim-t-205460"></a>
-- t-002
-  teiginys: "Anscharijaus gyvenimo aprašyme, kur apie kuršius kalbama maždaug įpusėjus IX amžiui, tais laikais, kai jie atrėmė švedų ir danų puolimus, pastarie siems įsibrovus į kuršių miestą su įtvirtinimais — Apuolę (Uppeteela)."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-188065
-

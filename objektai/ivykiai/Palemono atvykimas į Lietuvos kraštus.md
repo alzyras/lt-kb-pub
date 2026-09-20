@@ -43,6 +43,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205064"></a>
+- t-001
+  teiginys: "Dažną kartą ir kiekvieno ¡kronikininko kartojamas pasakojimas apie keleto šimtų aukštos kilmės riterių, vadovaujamų žymaus vado, pra minto Palemonu, atvykimą iš šiaurės rytų pusės j Lietu vos kraštus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187817
+
 ## Santrauka
 
 Dažną kartą ir kiekvieno ¡kronikininko kartojamas pasakojimas apie keleto šimtų aukštos kilmės riterių, vadovaujamų žymaus vado, pra minto Palemonu, atvykimą iš šiaurės rytų pusės j Lietu vos kraštus.
@@ -69,21 +84,5 @@ Dažną kartą ir kiekvieno ¡kronikininko kartojamas pasakojimas apie keleto š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205064"></a>
-- t-001
-  teiginys: "Dažną kartą ir kiekvieno ¡kronikininko kartojamas pasakojimas apie keleto šimtų aukštos kilmės riterių, vadovaujamų žymaus vado, pra minto Palemonu, atvykimą iš šiaurės rytų pusės j Lietu vos kraštus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187817
-

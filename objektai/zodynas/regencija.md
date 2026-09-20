@@ -27,6 +27,26 @@ media_all_json: |-
 
 Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su ja Maskvos kuni- gaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva tikė- josi pasinaudoti, — juo labiau, kad Zigmantas buvo pa- traukęs į savo pusę Krimo totorius, apsiėmęs jiems kasmet mokėti po 15.000 dukatų, ir Maskvai nuolat grėsė iš jų pusės.
 
+## Teiginiai
+
+<a id="claim-t-70301"></a>
+- t-001
+  teiginys: "Po Vosyliaus III mirties Maskvos kunigaikščiu tapus mažamečiam Jonui IV Žiauriajam, buvo sudaryta regencija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69353
+
+<a id="claim-t-70302"></a>
+- t-002
+  teiginys: "Po 1533 m. Vosyliaus III mirties sudaryta Jono IV regencija Maskvos kunigaikštystėje sukėlė vidaus neramumus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69352
+
 ## Citatos
 
 - id: c-69352
@@ -49,7 +69,7 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-69353
@@ -69,26 +89,5 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-70301"></a>
-- t-001
-  teiginys: "Po Vosyliaus III mirties Maskvos kunigaikščiu tapus mažamečiam Jonui IV Žiauriajam, buvo sudaryta regencija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69353
-
-<a id="claim-t-70302"></a>
-- t-002
-  teiginys: "Po 1533 m. Vosyliaus III mirties sudaryta Jono IV regencija Maskvos kunigaikštystėje sukėlė vidaus neramumus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69352
-

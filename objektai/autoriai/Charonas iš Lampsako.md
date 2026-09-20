@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Charonas iš Lampsako'
+pavadinimas: Charonas iš Lampsako
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos: []
@@ -11,7 +11,7 @@ atnaujinta: ''
 tags:
   - autorius
 amziai:
-  - 'L'
+  - L
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -19,25 +19,253 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0a888b8988e606b5fabaafa0"
-canonical_name: "Charonas iš Lampsako"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Charonas iš Lampsako"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0a888b8988e606b5fabaafa0
+canonical_name: Charonas iš Lampsako
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Charonas iš Lampsako
 sameAs: []
-canonical_biography: "Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagistis) vardu. Charonas iš Lampsako dar vadinamas Szwintestix, Szwaixtiks. Charonas iš Lampsako buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima."
+canonical_biography: 'Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagistis) vardu. Charonas iš Lampsako dar vadinamas Szwintestix, Szwaixtiks. Charonas iš Lampsako buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:34:43+00:00","source_checked_at":"2026-09-20T06:34:43+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0bd56cdcbe4540d010e21c36","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Išsaugojo įdomią istoriją apie hamadriades ir Reką, pasirūpinusį griūvančiu ąžuolu.","context":"Teodoras Narbutas tai rašo 1998 m. leidinyje „Lietuvių tautos istorija“, t. 1.","support_ids":["t-219938","c-199057"],"source_refs":[{"kind":"internal_claim","claim_id":"t-219938","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199057","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­ nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek malonumo mūsų žemiškajam gyvenimui, sukūrė giliamintę mi- lologinę pasaką: esą hamadriadės gyvendavusios medžiuose, kartu su jais augdavusios, kentėdavusios ir užbaigdavusios sa­ vo gyvenimą. Charonas iš Lampsako išsaugojo mums įdomią istoriją apie šį dalyką. Kažkoks Rekas (Rhoecus), kartą apim­ lus gailesčio dėl griūvančio ąžuolo, liepė apkasti jį šviežia že­ me ir paramstyti."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 8cc03d7a822d5d79
+object_page_generated_at: '2026-09-20T06:34:43+00:00'
+object_page_source_checked_at: '2026-09-20T06:34:43+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '1'
+object_page_seo_description: 'Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagistis) vardu. Charonas iš Lampsako dar vadinamas Szwintestix, Szwaixtiks. Charonas iš…'
+object_page_seo_input_hash: 4059a18b7309814789b5cb862a7ab7b6657e54fcffdc4d97d8cf3c4da0f2b129
+object_page_seo_generated_at: '2026-09-20T06:34:43+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Charonas iš Lampsako
 
 ## Santrauka
 
 Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagistis) vardu. Charonas iš Lampsako dar vadinamas Szwintestix, Szwaixtiks. Charonas iš Lampsako buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima.
+
+## Teiginiai
+
+<a id="claim-t-190252"></a>
+- t-001
+  teiginys: "Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagistis) vardu."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-173135
+
+<a id="claim-t-190254"></a>
+- t-002
+  teiginys: "Charonas iš Lampsako dar vadinamas Szwintestix, Szwaixtiks."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lasickis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Charonas iš Lampsako: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lasickis: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Charonas iš Lampsako\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173137
+
+<a id="claim-t-190261"></a>
+- t-003
+  teiginys: "Charonas iš Lampsako sukeldavęs tą griausmą, kuris pasigirsta ore trenkus perkūnui."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Japonai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Charonas iš Lampsako: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Japonai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Charonas iš Lampsako\" parinktas kaip owner_note_path. Targetas \"Japonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173144
+    - c-179105
+
+<a id="claim-t-190263"></a>
+- t-004
+  teiginys: "Narbutas rašo, kad Charonas iš Lampsako išsaugojo pasakojimą apie Reką, pasirūpinusį griūvančiu ąžuolu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-173146
+
+<a id="claim-t-194645"></a>
+- t-005
+  teiginys: "Charonas iš Lampsako turėjo ne vieną pavadinimą, priklausomai nuo to, koks kultas buvo toje ar kitoje provincijoje."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-177042
+
+<a id="claim-t-194646"></a>
+- t-006
+  teiginys: "Charonas iš Lampsako priskiria dievui nepritinkančias savybes, paversdamas jį kiaulių globėju, nors jis pats tų gyvulių globėjais laiko visai kitas dievybes, tai yra Kremarą (Kremam) ir Priparšį (Priparszas), ir pasakoja, kad kažkokie kalviai Budraičiai (Budrajcis) labai karštai jam meldžiasi."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-177043
+
+<a id="claim-t-194648"></a>
+- t-007
+  teiginys: "Charonas iš Lampsako verčia Angularis, taigi turėjo būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-177045
+
+<a id="claim-t-194649"></a>
+- t-008
+  teiginys: "Charonas iš Lampsako nulemdavo gyvulių pašaro skalsumą ir saugodavo laikomą mėsą nuo sugedimo."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-177046
+
+<a id="claim-t-194650"></a>
+- t-009
+  teiginys: "Charonas iš Lampsako taip pat turėjo galios saugoti bites nuo kenksmingų vabzdžių ir kitų nutikimų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-177047
+
+<a id="claim-t-197280"></a>
+- t-010
+  teiginys: "Charonas iš Lampsako atsistodavo ant kėdutės veidu į duris, o visi dalyvaujantys nukreipdavo veidus į ją."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179099
+
+<a id="claim-t-197281"></a>
+- t-011
+  teiginys: "Charonas iš Lampsako visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai buvo paprastas girtuoklių globėjo epitetas."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179100
+
+<a id="claim-t-197282"></a>
+- t-012
+  teiginys: "Charonas iš Lampsako nepriklauso XV amžiaus pradžiai; neabejotina, kad sukurtas pagal stabmeldišką Perkūnaitėlės vaizdinį toje epochoje, kai dar prietaringai bijota perkūnijos."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179101
+
+<a id="claim-t-197283"></a>
+- t-013
+  teiginys: "Charonas iš Lampsako sugrįžo jėzuitų pastangomis, valdant Zigmantui III."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-173139
+
+<a id="claim-t-197284"></a>
+- t-014
+  teiginys: "Charonas iš Lampsako buvo vadinama Verpėja (Werpentie)."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179102
+
+<a id="claim-t-197285"></a>
+- t-015
+  teiginys: "Charonas iš Lampsako buvo Brėkštos priešingybė, kitaip sakant, nekentė tamsos ir miegalių."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179103
+
+<a id="claim-t-197286"></a>
+- t-016
+  teiginys: "Charonas iš Lampsako buvo pripažinta deive."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-173146
 
 ## Reikšmingi paminėjimai
 - c-008
@@ -100,6 +328,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-173137
   autorius: "Teodoras Narbutas"
@@ -122,6 +352,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-173139
   autorius: "Teodoras Narbutas"
@@ -142,6 +374,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 - id: c-173144
   autorius: "Teodoras Narbutas"
@@ -161,6 +395,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-173146
   autorius: "Teodoras Narbutas"
@@ -182,6 +418,9 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+    - t-016
 
 - id: c-177042
   autorius: "Teodoras Narbutas"
@@ -201,6 +440,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-177043
   autorius: "Teodoras Narbutas"
@@ -223,6 +464,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-177045
   autorius: "Teodoras Narbutas"
@@ -245,6 +488,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-177046
   autorius: "Teodoras Narbutas"
@@ -262,6 +507,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 - id: c-177047
   autorius: "Teodoras Narbutas"
@@ -280,6 +527,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 - id: c-179099
   autorius: "Teodoras Narbutas"
@@ -302,6 +551,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-179100
   autorius: "Teodoras Narbutas"
@@ -320,6 +571,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-179101
   autorius: "Teodoras Narbutas"
@@ -342,6 +595,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 - id: c-179102
   autorius: "Teodoras Narbutas"
@@ -362,6 +617,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
 
 - id: c-179103
   autorius: "Teodoras Narbutas"
@@ -379,6 +636,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
 
 - id: c-179104
   autorius: "Teodoras Narbutas"
@@ -398,7 +657,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -415,400 +673,5 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197822
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
-  citata_originali: |
-    Straipsnyje „Stabai“ pamatysime tam tikrą to dievo pa­
-    veikslą. Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
-    dangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­
-    eina Bubbulis - paims, pagriebs“. Jį taip pat vadino Tiimpus,
-    lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai
-    buvo paprastas girtuoklių globėjo epitetas.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197870
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
-  citata_originali: |
-    1414 metais
-    kunigaikštis Vytautas, gyvendamas Veliuonos pilyje, administ­
-    ravo tą kraštą, įsteigė Veliuonos vėliavininkų ą, arba apskritį,
-    užrašė bažnyčiai daugiau pajamų. Valdant Žygimantui Augus­
-    tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
-    cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
-    iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
-    Zigmantui III.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219871
-
-- id: c-198423
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 93"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 93."
-  citata_originali: |
-    Vokiška rankraštinė J. E R. kronika, apie kurią papasako­
-    sime žemiau, minėdama šio dievo šventyklą Vilniuje, nurodo
-    atskirą papildymą: „Perkurt, arba Perkurtas, lietuviškai reiškia
-    griaustinį (Donnerschlag); tai buvo tikras lietuvių Jupiteris. Ta­
-    čiau jis turėjo ne vieną pavadinimą, priklausomai nuo to, koks
-    kultas buvo toje ar kitoje provincijoje. Beje, jį vadino Jeu arba
-    Jeou, o prie Oderio -Jesse“. Lasickis jį dar vadina Pargu.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198705
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 147."
-  citata_originali: |
-    Austėja (Austheja)
-    Deivė, bičių ir bitininkystės globėja. Jos buvo šaukiamasi
-    geidaujant iš kur nors atklydusį jaunų bičių spiečių įsivilioti į
-    savo avilius ir dreves. Ji taip pat turėjo galios saugoti bites nuo
-    kenksmingų vabzdžių ir kitų nutikimų.
-    Lasickis jos išsamiau neaiškino.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199057
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 232"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
-  citata_originali: |
-    Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­
-    nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek
-    malonumo mūsų žemiškajam gyvenimui, sukūrė giliamintę mi-
-    lologinę pasaką: esą hamadriadės gyvendavusios medžiuose,
-    kartu su jais augdavusios, kentėdavusios ir užbaigdavusios sa­
-    vo gyvenimą. Charonas iš Lampsako išsaugojo mums įdomią
-    istoriją apie šį dalyką. Kažkoks Rekas (Rhoecus), kartą apim­
-    lus gailesčio dėl griūvančio ąžuolo, liepė apkasti jį šviežia že­
-    me ir paramstyti.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218520
-    - t-219871
-    - t-219938
-    - t-219969
-
-- id: c-199094
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 125"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 125."
-  citata_originali: |
-    Nuo kojų iki pusės kūną gaubia tiršti debesys, tarytum
-    pati kiltų su jais. Jeigu šis paminklas nėra iš stabmeldystės lai­
-    kų, tai - kaip reiktų manyti - ar jis nepriklauso XV amžiaus
-    pradžiai; neabejotina, kad sukurtas pagal stabmeldišką Per-
-    kūnaitėlės vaizdinį toje epochoje, kai dar prietaringai bijota
-    perkūnijos.
-    Pagaliau reikia manyti, kad Perkūnaitėlės vardas visiškai
-    atitinka antikinių laikų Fulgurą; šiuo vardu romėnai garbino
-    Junoną, žaibų motiną, tardami ją esant saugotoja nuo perkū­
-    nijos.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199113
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 141"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 141."
-  citata_originali: |
-    Todėl kaimiečiai, matydami naktį krentantį lyg žvaigždė
-    ugninį meteorą, sako: kas nors mirė. Ryškiausios žvaigždės ir
-    žmonėms pažįstami jų spiečiai priklauso būtybėms, kurioms
-    gyvenimo dienų niekad nemąžta.
-    Yra padavimas, jog Žemaičiuose buvę septynios deivės par­
-    kos. Jas vadino Deivėmis Valdytojomis (Dejwe-Walditoje). Pir­
-    moji verpdavo žmogaus gyvenimą kuodeliu, gautu iš Ukapirmo;
-    ji buvo vadinama Verpėja (Werpentie).
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199234
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 145."
-  citata_originali: |
-    Valgina (Walgina)
-    Deivė, globojanti naminius gyvulius jų tuklumo bei tinka­
-    mumo žmonių maistui požiūriu. Ji nulemdavo gyvulių pašaro
-    skalsumą ir saugodavo laikomą mėsą nuo sugedimo. Trumpą
-    žinią apie ją mums išsaugojo tik Lasickis.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199408
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
-  citata_originali: |
-    Mirė maždaug prieš 1220
-    metus. Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa­
-    statė stabą, kadangi po mirties jai pradėta teikti dievišką gar­
-    bę, kitaip sakant, ji buvo pripažinta deive. Toje vietoje jai bu­
-    vo meldžiamasi: jos šaukėsi liepų miškelyje, ją garbino iki pas­
-    kutinių lietuvių stabmeldystės laikų.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199901
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 34"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 34."
-  citata_originali: |
-    Viduryje erd­
-    vios trobos arba klojime statydavo kėdutę arba aukštą kilno­
-    jamą suolą, gražioji aukotoja baltais drabužiais, su vainikėliu
-    ant galvos prisij u ošdavo prijuostę, į kurią pridėdavo paplotė­
-    lių, vadinamų sikies. Tada su ceremonijomis išvesta j trobos
-    vidurį, ji atsistodavo ant kėdutės veidu į duris, o visi dalyvau­
-    jantys nukreipdavo veidus į ją. Mergina, stovėdama ant kėdu­
-    tės ant dešinės kojos, kairiąją truputį pakėlusi, kairiojoje ran­
-    koje laikydavo ilgą šiaudų spalvos kaspiną, kurio galą iškelda­
-    vo virš galvos, o dešiniojoje - taurę su alumi.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-199946
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 162"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 162."
-  citata_originali: |
-    Varpelis (WarpeJis)
-    Aido, sklindančio ore, dievaitis. Lasickis pasakoja, kad, se­
-    novės lietuvių nuomone, jis sukeldavęs tą griausmą, kuris pa­
-    sigirsta ore trenkus perkūnui. Tai yra jis buvo atsikartojantis
-    garsas, vadinasi, aidas.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218300
-
-- id: c-200322
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 107"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 107."
-  citata_originali: |
-    Kriukis (Krugis)
-    Kalvių dievas arba kažkokia antikinio Vulkano liekana; jis,
-    visuotinai pripažintas geriausiu kalviu ir to amato globėju, Lie­
-    tuvoje buvo pramintas tautišku vardu, kilusiu išKriugos - kriu­
-    kio, kablio. Šį vardą mums išsaugojo Lasickis. Tačiau jis pri­
-    skiria dievui nepritinkančias savybes, paversdamas jį kiaulių
-    globėju, nors jis pats tų gyvulių globėjais laiko visai kitas die­
-    vybes, tai yra Kremarą (Kremam) ir Priparšį (Priparszas), ir
-    pasakoja, kad kažkokie kalviai Budraičiai (Budrajcis) labai
-    karštai jam meldžiasi.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200338
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 146"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 146."
-  citata_originali: |
-    Budintoja (Budintoja)
-    Budėjimui prielanki deivė, pratusi reikiamu momentu pa­
-    žadinti miegančiuosius. Tik tiek težinome iš Lasickio.
-    Tačiau iš žmonių pasakojimų aiškėja, kad ji buvo Brėkštos
-    priešingybė, kitaip sakant, nekentė tamsos ir miegalių.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200587
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 140"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 140."
-  citata_originali: |
-    Atikoje Krono šventė buvo švenčiama Krono garbei he-
-    katombajono (Hekatombeon) mėnesį, kurį anksčiau vadino
-    Krono mėnesiu (Kronius).
-    Užsparinė (Usparinia)
-    Tai buvo žemės ribų deivė, globojanti kampinius kaupus
-    arba sergėjanti sienų neliečiamumą; jų nepažeidžiamumas lie­
-    tuviams buvo šventenybė.
-    Lasickio, aišku, su klaida užrašyta Aspelenie (Užpelenė),
-    nes tą vardą į lotynų kalbą jis verčia Angularis, taigi turėjo
-    būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-218051"></a>
-- t-001
-  teiginys: "Charonas iš Lampsako atsistodavo ant kėdutės veidu į duris, o visi dalyvaujantys nukreipdavo veidus į ją."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199901
-
-<a id="claim-t-218300"></a>
-- t-218300
-  teiginys: "Charonas iš Lampsako sukeldavęs tą griausmą, kuris pasigirsta ore trenkus perkūnui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Japonai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Charonas iš Lampsako: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Japonai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Charonas iš Lampsako\" parinktas kaip owner_note_path. Targetas \"Japonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-199946
-
-<a id="claim-t-218520"></a>
-- t-218520
-  teiginys: "Charonas iš Lampsako dar vadinamas Szwintestix, Szwaixtiks."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Charonas iš Lampsako: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Charonas iš Lampsako\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-199057
-
-<a id="claim-t-219871"></a>
-- t-219871
-  teiginys: "Charonas iš Lampsako buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Charonas iš Lampsako: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Charonas iš Lampsako\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197870
-    - c-199057
-
-<a id="claim-t-219938"></a>
-- t-219938
-  teiginys: "Charonas iš Lampsako išsaugojo mums įdomią istoriją apie šį dalyką."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199057
-
-<a id="claim-t-219969"></a>
-- t-219969
-  teiginys: "Narbutas rašo, kad Charonas iš Lampsako išsaugojo pasakojimą apie Reką, pasirūpinusį griūvančiu ąžuolu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199057
-
+  pagrindzia:
+    - t-003

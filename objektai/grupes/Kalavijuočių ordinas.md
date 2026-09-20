@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Kalavijuočių ordinas'
+pavadinimas: Kalavijuočių ordinas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -9,15 +9,15 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1180 m.'
-  - '1186 m.'
-  - '1198 m.'
-  - '1202 m.'
-  - '1203 m.'
-  - '2026 m.'
+  - 1180 m.
+  - 1186 m.
+  - 1198 m.
+  - 1202 m.
+  - 1203 m.
+  - 2026 m.
 date_start: '1180'
 date_end: '2026'
 sukurta: ''
@@ -27,21 +27,30 @@ tags:
   - ordinas
   - gentis
 amziai:
-  - 'XII'
-  - 'XXI'
+  - XII
+  - XXI
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AKalavijuociai.jpg'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'seal_of'
-media_primary_json: |-
-  {"mediaId":"m-baf2b4c9fe464b86a6d4ddb8","title":"Kalavijuociai.jpg","caption":"Kalavijuočių ordino antspaudas, XIII a.","originalTitle":"Kalavijuociai.jpg","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kalavijuočių ordino antspaudas (Kurlovičs G., Tomašūns A. Latvijas vēsture vidusskolai. 1. sēj. Rīga, 1999. 68. lpp.)","dateDisplay":"13 th century date QS:P,+1250-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":374,"height":523,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKalavijuociai.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ecclesiastical seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Livonian Brothers of the Sword","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media lacking author information","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of medieval Livonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vector version available","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kalavijuočių ordinas.md","title":"Kalavijuočių ordinas","itemType":"grupe","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T12:28:07.222668+03:00","reviewedAt":"2026-07-31T05:56:29.413822+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas ovalus viduramžių antspaudas su kryžiaus ir kalavijo motyvais bei juosiančiu įrašu.","metadataEvidence":"Wikimedia Commons kandidatas pavadintas „Kalavijuociai.jpg“, o aprašyme konkrečiai nurodytas Livonijos Kalavijuočių brolių ordino antspaudas ir XIII a. data.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Kalavijuočių ordino antspaudą.","isPrimary":1}
-media_direct_json: |-
-  [{"mediaId":"m-baf2b4c9fe464b86a6d4ddb8","title":"Kalavijuociai.jpg","caption":"Kalavijuočių ordino antspaudas, XIII a.","originalTitle":"Kalavijuociai.jpg","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kalavijuočių ordino antspaudas (Kurlovičs G., Tomašūns A. Latvijas vēsture vidusskolai. 1. sēj. Rīga, 1999. 68. lpp.)","dateDisplay":"13 th century date QS:P,+1250-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":374,"height":523,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKalavijuociai.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ecclesiastical seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Livonian Brothers of the Sword","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media lacking author information","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of medieval Livonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vector version available","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kalavijuočių ordinas.md","title":"Kalavijuočių ordinas","itemType":"grupe","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T12:28:07.222668+03:00","reviewedAt":"2026-07-31T05:56:29.413822+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas ovalus viduramžių antspaudas su kryžiaus ir kalavijo motyvais bei juosiančiu įrašu.","metadataEvidence":"Wikimedia Commons kandidatas pavadintas „Kalavijuociai.jpg“, o aprašyme konkrečiai nurodytas Livonijos Kalavijuočių brolių ordino antspaudas ir XIII a. data.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Kalavijuočių ordino antspaudą.","isPrimary":1}]
-media_contextual_json: |-
-  []
-media_all_json: |-
-  [{"mediaId":"m-baf2b4c9fe464b86a6d4ddb8","title":"Kalavijuociai.jpg","caption":"Kalavijuočių ordino antspaudas, XIII a.","originalTitle":"Kalavijuociai.jpg","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kalavijuočių ordino antspaudas (Kurlovičs G., Tomašūns A. Latvijas vēsture vidusskolai. 1. sēj. Rīga, 1999. 68. lpp.)","dateDisplay":"13 th century date QS:P,+1250-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":374,"height":523,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKalavijuociai.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ecclesiastical seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Livonian Brothers of the Sword","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media lacking author information","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of medieval Livonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vector version available","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kalavijuočių ordinas.md","title":"Kalavijuočių ordinas","itemType":"grupe","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T12:28:07.222668+03:00","reviewedAt":"2026-07-31T05:56:29.413822+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas ovalus viduramžių antspaudas su kryžiaus ir kalavijo motyvais bei juosiančiu įrašu.","metadataEvidence":"Wikimedia Commons kandidatas pavadintas „Kalavijuociai.jpg“, o aprašyme konkrečiai nurodytas Livonijos Kalavijuočių brolių ordino antspaudas ir XIII a. data.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Kalavijuočių ordino antspaudą.","isPrimary":1}]
+media_primary_directness: direct
+media_primary_relation_type: seal_of
+media_primary_json: '{"mediaId":"m-baf2b4c9fe464b86a6d4ddb8","title":"Kalavijuociai.jpg","caption":"Kalavijuočių ordino antspaudas, XIII a.","originalTitle":"Kalavijuociai.jpg","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kalavijuočių ordino antspaudas (Kurlovičs G., Tomašūns A. Latvijas vēsture vidusskolai. 1. sēj. Rīga, 1999. 68. lpp.)","dateDisplay":"13 th century date QS:P,+1250-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":374,"height":523,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKalavijuociai.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ecclesiastical seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Livonian Brothers of the Sword","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media lacking author information","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of medieval Livonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vector version available","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kalavijuočių ordinas.md","title":"Kalavijuočių ordinas","itemType":"grupe","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T12:28:07.222668+03:00","reviewedAt":"2026-07-31T05:56:29.413822+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas ovalus viduramžių antspaudas su kryžiaus ir kalavijo motyvais bei juosiančiu įrašu.","metadataEvidence":"Wikimedia Commons kandidatas pavadintas „Kalavijuociai.jpg“, o aprašyme konkrečiai nurodytas Livonijos Kalavijuočių brolių ordino antspaudas ir XIII a. data.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Kalavijuočių ordino antspaudą.","isPrimary":1}'
+media_direct_json: '[{"mediaId":"m-baf2b4c9fe464b86a6d4ddb8","title":"Kalavijuociai.jpg","caption":"Kalavijuočių ordino antspaudas, XIII a.","originalTitle":"Kalavijuociai.jpg","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kalavijuočių ordino antspaudas (Kurlovičs G., Tomašūns A. Latvijas vēsture vidusskolai. 1. sēj. Rīga, 1999. 68. lpp.)","dateDisplay":"13 th century date QS:P,+1250-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":374,"height":523,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKalavijuociai.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ecclesiastical seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Livonian Brothers of the Sword","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media lacking author information","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of medieval Livonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vector version available","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kalavijuočių ordinas.md","title":"Kalavijuočių ordinas","itemType":"grupe","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T12:28:07.222668+03:00","reviewedAt":"2026-07-31T05:56:29.413822+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas ovalus viduramžių antspaudas su kryžiaus ir kalavijo motyvais bei juosiančiu įrašu.","metadataEvidence":"Wikimedia Commons kandidatas pavadintas „Kalavijuociai.jpg“, o aprašyme konkrečiai nurodytas Livonijos Kalavijuočių brolių ordino antspaudas ir XIII a. data.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Kalavijuočių ordino antspaudą.","isPrimary":1}]'
+media_contextual_json: '[]'
+media_all_json: '[{"mediaId":"m-baf2b4c9fe464b86a6d4ddb8","title":"Kalavijuociai.jpg","caption":"Kalavijuočių ordino antspaudas, XIII a.","originalTitle":"Kalavijuociai.jpg","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kalavijuočių ordino antspaudas (Kurlovičs G., Tomašūns A. Latvijas vēsture vidusskolai. 1. sēj. Rīga, 1999. 68. lpp.)","dateDisplay":"13 th century date QS:P,+1250-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":374,"height":523,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKalavijuociai.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ecclesiastical seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Livonian Brothers of the Sword","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media lacking author information","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of medieval Livonia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vector version available","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Kalavijuočių ordinas.md","title":"Kalavijuočių ordinas","itemType":"grupe","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T12:28:07.222668+03:00","reviewedAt":"2026-07-31T05:56:29.413822+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas ovalus viduramžių antspaudas su kryžiaus ir kalavijo motyvais bei juosiančiu įrašu.","metadataEvidence":"Wikimedia Commons kandidatas pavadintas „Kalavijuociai.jpg“, o aprašyme konkrečiai nurodytas Livonijos Kalavijuočių brolių ordino antspaudas ir XIII a. data.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Kalavijuočių ordino antspaudą.","isPrimary":1}]'
+external_sources_json: '[{"title":"Kalavijuočių ordinas","url":"https://lt.wikipedia.org/wiki/Kalavijuo%C4%8Di%C5%B3_ordinas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Kalavijuočių ordinas","url":"https://www.vle.lt/straipsnis/kalavijuociu-ordinas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T01:45:29+00:00","source_checked_at":"2026-09-19T01:45:29+00:00","counts":{"relations":14,"gallery":1,"sources":12},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Pagal Palestinoje su turkais kovojančių templininkų statutą, vyskupo priklausomybėje 1202-1203 m. žiemą buvo įkurtas kalavijuočių ordinas ( _Fratres Militiae Christi_ ). Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","claim_id":"t-175552","evidence_id":"c-05800","origin":"internal"},"wiki":{"status":"published","source":{"title":"Kalavijuočių ordinas","url":"https://lt.wikipedia.org/wiki/Kalavijuo%C4%8Di%C5%B3_ordinas","publisher":"Vikipedija","language":"lt","article_id":"12692","revision_id":"7803913","published_at":"2026-04-11T01:23:52Z","version_pk":"","content_hash":"e5ef1c67341c3e982025b39391cfe665b47e13c2cbfaf5b51404383e1fdbec2c","retrieved_at":"2026-09-19T01:42:17+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Kalavijuo%C4%8Di%C5%B3_ordinas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"12692"}},"intro":"Kalavijuočių ordinas – riterių ordinas, įkurtas 1202 m. Rygoje vokiečių vyskupo Alberto (1199-1229) iniciatyva. Ordino tikslas buvo ginklu skinti kelią krikščionybei etninėse šiaurės baltų ir finų (lyvių, estų) žemėse, nes ankstesnės taikios misijos ten baigėsi nesėkme. Pavadinimas kilęs nuo raudono kalavijo simbolio, žymėto ant balto riterių apsiausto. Oficialiai vadinosi Kristaus kariuomenės broliais (lot. Fratres militiae Christi). Juridiškai Ordinas buvo vyskupo vasalas. Ekspansiją kalavijuočiai pradėjo išilgai Dauguvos ir Gaujos upių. Užgrobtąsias sritis vadino bendru Livlando, arba Livonijos vardu (nuo lyvių genties pavadinimo). Du trečdaliai užgrobtųjų žemių atitekdavo vyskupui, trečdalis – Ordinui. Ordino valdos buvo suskirstytos į mažesnes sritis, kurias valdė komtūrai, o komtūrijų atskiras pilis administravo fogtai. Magistrą rinkdavo iki gyvos galvos. Ordino broliai buvo karingi vienuoliai, prisiekę visą gyvenimą kovoti su nekrikštais ir ginti bažnyčią, taip pat laikytis trijų vienuoliškų principų: nesiekti turto, būti dori ir klusnūs. Jie buvo susiskirstę į riterius, kunigus ir patarnautojus (ginklanešius, amatininkus, tarnus). Iš pradžių gyveno pilyse, kur valgydavo prie bendro stalo, miegodavo bendrame kambaryje. Užgrobtųjų žemių gyventojų krikščioninimu nesirūpino, todėl faktiškai pavergtieji baltai ir finai tebebuvo pagonys. Kalavijuočių ordinas padėjo pavergti lyvius (1207), šiaurės sėlius (1208), latgalius (iki 1230) ir pietų bei centrinius estus (1217). 1231 m. Ordinui pavyko įsigalėti Šiaurės ir Vidurio Kurše. Su danais ginčijosi dėl teisių į Šiaurės Estiją. Puldinėjo Lietuvą, iš pradžių pasitelkęs į sąjungininkus žiemgalius (1205, 1208). Tačiau vėliau, Ordinui įsigalėjus Rytų Žiemgaloje, prasidėjo jo kovos su žiemgaliais. Karas su lietuviais ir žemaičiais baigėsi pralaimėjimu kryžiaus žygyje į Lietuvą (Saulės mūšis, 1236), po kurio Ordinas nebeatsigavo ir nustojo egzistavęs kaip savarankiška organizacija. 1237 m. susijungė su Kryžiuočių ordinu ir tapo jo šaka (žr. Livonijos ordinas). Savarankiško egzistavimo laikotarpiu ordinui vadovavo du didieji magistrai - 1204-1209 m. - Vinas fon Rorbachas (vok. Wenno von Rohrbach) ir, 1209-1236 m., - Saulės mūšyje žuvęs Folkvinas Naumburgietis (vok. Volkwin von Naumburg zu Winterstätten).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Kalavijuočių ordinas","url":"https://lt.wikipedia.org/wiki/Kalavijuo%C4%8Di%C5%B3_ordinas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Kalavijuočių ordinas","url":"https://www.vle.lt/straipsnis/kalavijuociu-ordinas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kalavijuo%C4%8Di%C5%B3_ordinas","https://www.vle.lt/straipsnis/kalavijuociu-ordinas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7e3e664f00393a97774d0974","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Nukariauti, jėga pakrikštyti ir pajungti pagonis baltus naujai vokiečių valstybei.","context":"Karolis Zikaras, 1202 m. aprašydamas dabartinėje Latvijoje įsikūrusį ordiną, nurodo jo siekius.","support_ids":["t-175530","c-42692"],"source_refs":[{"kind":"internal_claim","claim_id":"t-175530","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-42692","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Tačiau šis proce- sas buvo pertrauktas 1202 m., dabartinėje Latvijos teritorijoje įsi- kūrus vokiečių Kalavijuočių ordinui, kuris siekė nukariauti ir jėga pakrikštyti pagonis baltus bei pajungti juos naujai vokiečių valsty- bei. Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros epocha, kurios pabaigoje daugelis baltų tautų nustojo egzistuoti."}],"status":"published","conflict_status":"clear"},{"trait_id":"44d567875761c41980867625","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"1202–1203 m. žiemą ordinas buvo įkurtas vyskupo priklausomybėje pagal Palestinoje su turkais kovojusių templininkų statutą.","context":"Zenonas Ivinskis taip aprašo ordino įkūrimą; jo nariai vadinti „Schwertbrueder“.","support_ids":["t-175532","c-05800"],"source_refs":[{"kind":"internal_claim","claim_id":"t-175532","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-05800","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Pagal Palestinoje su turkais kovojančių templininkų statutą, vyskupo priklausomybėje 1202-1203 m. žiemą buvo įkurtas kalavijuočių ordinas ( _Fratres Militiae Christi_ ). Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"66c71c52809528bfb78155d8","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Ordino nariai ant balto apsiausto nešiojo išsiuvinėtą kalaviją ir raudoną kryžių.","context":"Zenonas Ivinskis aprašo 1202–1203 m. įkurto ordino narių aprangą ir skiriamuosius ženklus.","support_ids":["t-175552","c-05800"],"source_refs":[{"kind":"internal_claim","claim_id":"t-175552","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-05800","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Pagal Palestinoje su turkais kovojančių templininkų statutą, vyskupo priklausomybėje 1202-1203 m. žiemą buvo įkurtas kalavijuočių ordinas ( _Fratres Militiae Christi_ ). Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją."}],"status":"published","conflict_status":"clear"},{"trait_id":"0a1b1d4980b49884e586c8f3","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Pirmiausia ordinas ėmė stiprintis prie Dauguvos krantų.","context":"Zenonas Ivinskis šį procesą aprašo ankstyvuoju ordino veiklos laikotarpiu.","support_ids":["t-175543","c-05799"],"source_refs":[{"kind":"internal_claim","claim_id":"t-175543","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-05799","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Pirmiausia prie Dauguvos krantų ėmė stiprintis kalavijuočių ordinas^69. Visby salos ir Liubeko pirkliams ėmus lankyti Dauguvos sritį, nuo 1180 m. Padauguviu pradėjo domėtis ir misininkai, ir 1186 m. Bremeno arkivyskupas Hartvigas II Ikšlolės (Uexkuel) vyskupu įšventino vienuolį Meinhardą, kurio įpėdinis Bertoldas 1198 m. žuvo kovoje su lybiais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"99dedc19378e05c4bf024040","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"1202 m. Dauguvos žiotyse susikūręs ordinas pamažu pradėjo užkariauti lybius, latvius, estus ir kuršius.","context":"Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas ir Mindaugas Tamošaitis taip apibūdina ordino veiklą.","support_ids":["t-175551","c-159654"],"source_refs":[{"kind":"internal_claim","claim_id":"t-175551","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-159654","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordi- nas pamažu pradeda užkariauti lybius, latvius, estus, kuršius. Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4da84239f918c841c77a5811","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Po susijungimo su Kryžiuočių ordinu Livonijos ordinas išlaikė atskirą krašto magistrą ir kitus valdžios organus; bendra buvo politika ir savitarpio pagalba.","context":"A. Šapoka taip aprašo padėtį po Kalavijuočių ordino susidėjimo su Kryžiuočių ordinu.","support_ids":["t-175550","c-00318"],"source_refs":[{"kind":"internal_claim","claim_id":"t-175550","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-00318","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Pabūgęs, kad vienas neat- silaikys, kalavijuočių ordinas susidėjo su kariaujančiu tuo metu Prūsuose kryžiuočių ordinu. Tuo būdu Latvijoje įsikūrusi vo- kiečių valstybė susiliejo su įsikūrusia Prūsuose, ir nuo to laiko jos abi stengėsi jau bendrai kariauti su aisčiais. Vadovybė čia buvo pripažinta senesniam ir galingesniam vokiečių kryžiuočių ordinui. Bet Livonijos ordinas niekad nenustojo savarankišku- mo: jis visą laiką turėjo atskirą krašto magistrą ir kitus valdžios organus; bendra buvo tik politika ir savitarpio pagalba."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"745b7c246f41881207b7cbfb","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Po pralaimėjimo 1236 m. Saulės mūšyje kalavijuočių likučiai buvo prijungti prie Kryžiuočių ordino.","context":"Karolis Zikaras aprašo ordino veiklos pabaigos aplinkybes po Saulės mūšio.","support_ids":["t-175531","c-159667"],"source_refs":[{"kind":"internal_claim","claim_id":"t-175531","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-159667","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stip- resnis ir geriau organizuotas nei kalavijuočiai. Po pralaimė- jimo Saulės mūšyje kalavijuočių likučiai buvo prijungti prie Kryžiuočių ordino. Per beveik tris dešimtmečius kryžiuočiai nukariavo visas prūsų gentis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f96fdce08c9b8c45a3737901","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.","context":"Alfonsas Bumblauskas taip apibūdina ordino statusą 1237 m.","support_ids":["t-207509","c-190126"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207509","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190126","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":". Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda jungti lyvius, latvius, estus, kuršius; 1230 m. prie Vyslos įsikūrė Kryžiuočių ordinas, pajungęs prūsus; 1236 m. popiežius jau skelbia kryžiaus žygį prieš lietuvius. Nors žemaičiai Saulės mūšyje šį žygį atlaikė, tačiau replės Lietuvą jau spaudė – 1237 m. Kalavijuočių ordinas tapo Kry- žiuočių ordino vasalu. Lietu"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Kalavijuočių ordinas buvo vokiečių karinė religinė organizacija, XIII amžiaus pradžioje įkurta dabartinės Latvijos teritorijoje. 1202–1203 m. žiemą jis įsteigtas vyskupo priklausomybėje pagal templininkų statutą, o jo nariai ant balto apsiausto nešiojo išsiuvinėtą kalaviją. Ordino tikslas buvo nukariauti, prievarta pakrikštyti ir pajungti baltų pagonis naujai vokiečių valstybei. Įsikūręs Dauguvos žiotyse, jis pamažu užkariavo lybių, latvių, estų ir kuršių žemes, taip tapdamas svarbia kryžiaus žygių prie Baltijos jūros jėga. 1236 m. lietuviai Saulės mūšyje ordiną sutriuškino, o po pralaimėjimo jo likučiai buvo prijungti prie Kryžiuočių ordino, nors Livonijos šaka išlaikė atskirus valdžios organus.","sentences":[{"sentence_id":"s1","text":"Kalavijuočių ordinas buvo vokiečių karinė religinė organizacija, XIII amžiaus pradžioje įkurta dabartinės Latvijos teritorijoje.","support_ids":["t-175530","t-175532","c-42692","c-05800"]},{"sentence_id":"s2","text":"1202–1203 m. žiemą jis įsteigtas vyskupo priklausomybėje pagal templininkų statutą, o jo nariai ant balto apsiausto nešiojo išsiuvinėtą kalaviją.","support_ids":["t-175532","t-175552","c-05800"]},{"sentence_id":"s3","text":"Ordino tikslas buvo nukariauti, prievarta pakrikštyti ir pajungti baltų pagonis naujai vokiečių valstybei.","support_ids":["t-175546","c-42692"]},{"sentence_id":"s4","text":"Įsikūręs Dauguvos žiotyse, jis pamažu užkariavo lybių, latvių, estų ir kuršių žemes, taip tapdamas svarbia kryžiaus žygių prie Baltijos jūros jėga.","support_ids":["t-175551","c-159654","t-175530","c-42692"]},{"sentence_id":"s5","text":"1236 m. lietuviai Saulės mūšyje ordiną sutriuškino, o po pralaimėjimo jo likučiai buvo prijungti prie Kryžiuočių ordino, nors Livonijos šaka išlaikė atskirus valdžios organus.","support_ids":["t-175548","c-159655","t-175531","c-159667","t-175550","c-00318"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Visi pagrindiniai teiginiai paremti: ordinas buvo vokiečių, įkurtas 1202 m. dabartinėje Latvijoje ir įvardijamas kaip karinis ordinas."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta įrodymais apie įkūrimą 1202–1203 m. žiemą vyskupo priklausomybėje pagal templininkų statutą ir kalavijo ženklą ant balto apsiausto."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta įrodymais apie tikslą nukariauti, jėga pakrikštyti ir pajungti baltų pagonis naujai vokiečių valstybei."},{"sentence_id":"s4","supported":false,"reason":"Įrodymai pagrindžia įsikūrimą Dauguvos žiotyse ir lybių, latvių, estų bei kuršių užkariavimą, tačiau tiesiogiai nepagrindžia apibūdinimo, kad ordinas tapo svarbia kryžiaus žygių prie Baltijos jūros jėga."},{"sentence_id":"s5","supported":true,"reason":"Įrodymai tiesiogiai patvirtina 1236 m. lietuvių pergalę Saulės mūšyje, ordino likučių prijungimą prie Kryžiuočių ordino ir Livonijos šakos atskirų valdžios organų išlaikymą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-175530","t-175532","c-42692","c-05800"]},{"sentence_id":"s2","supported":true,"support_ids":["t-175532","t-175552","c-05800"]},{"sentence_id":"s3","supported":true,"support_ids":["t-175546","c-42692"]},{"sentence_id":"s4","supported":true,"support_ids":["t-175551","c-159654","t-175530","c-42692"]},{"sentence_id":"s5","supported":true,"support_ids":["t-175548","c-159655","t-175531","c-159667","t-175550","c-00318"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":{"media_id":"m-baf2b4c9fe464b86a6d4ddb8","reason":"deterministic_media_primary","identity_verified":false,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"m-baf2b4c9fe464b86a6d4ddb8","candidate_count":1,"visual_verified_count":1,"identity_verified_count":0,"primary":{"visual_verified":true,"identity_verified":false,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Kalavijuočių ordino antspaudą.","visual_evidence":"Matomas ovalus viduramžių antspaudas su kryžiaus ir kalavijo motyvais bei juosiančiu įrašu.","metadata_evidence":"Wikimedia Commons kandidatas pavadintas „Kalavijuociai.jpg“, o aprašyme konkrečiai nurodytas Livonijos Kalavijuočių brolių ordino antspaudas ir XIII a. data.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Dauguva","claim_id":"t-175543","confidence":0.79},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Latvija","claim_id":"t-175530","confidence":0.86},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-10128","confidence":0.82},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Lietuvos kariuomenė","claim_id":"t-175547","confidence":0.9},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-184562","confidence":0.72},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-169682","confidence":0.91},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-10287","confidence":0.75},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Šiauliai","claim_id":"t-78777","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Žiemgaliai","claim_id":"t-222049","confidence":0.9},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)","claim_id":"t-40177","confidence":0.94},{"predicate":"sudare_sutarti_su","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-66881","confidence":0.86},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/grupes/Baltai","claim_id":"t-42475","confidence":0.78},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/grupes/Estai","claim_id":"t-175551","confidence":0.76},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/grupes/Kuršiai","claim_id":"t-175551","confidence":0.76}],"timeline":[{"date":"1202 m.","label":"1202 m.","claimId":"t-175530"},{"date":"1202 m.","label":"1202 m.","claimId":"t-175544"},{"date":"1202 m.","label":"1202 m.","claimId":"t-175546"},{"date":"1202 m.","label":"1202 m.","claimId":"t-175551"},{"date":"1205 m.","label":"1205 m.","claimId":"t-205591"},{"date":"1236 m.","label":"1236 m.","claimId":"t-175547"},{"date":"1236 m.","label":"1236 m.","claimId":"t-175548"},{"date":"1237 m.","label":"Prie Dauguvos žiočių susikūręs Kalavijuočių ordinas 1237 m.","claimId":"t-207509"}],"support_disclosure":{"claims":20,"sources":10}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 4e632e056d9e2509
+object_page_generated_at: '2026-09-19T01:45:29+00:00'
+object_page_source_checked_at: '2026-09-19T01:45:29+00:00'
+object_page_content_state: content
+object_page_claim_count: '20'
+object_page_source_count: '10'
+object_page_seo_description: 'Kalavijuočių ordinas buvo vokiečių karinė religinė organizacija, XIII amžiaus pradžioje įkurta dabartinės Latvijos teritorijoje. 1202–1203 m. žiemą jis…'
+object_page_seo_input_hash: 0c1158d1b519d3f27df51a03c255a728e99c6bacdc4e352dd208395616e28cc2
+object_page_seo_generated_at: '2026-09-19T01:45:29+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kalavijuočių ordinas
 
@@ -50,6 +59,398 @@ media_all_json: |-
 Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino vardas ir paprastasis pavadinimas pagal raudoną kalaviją. Šiame šaltinyje ordinas papildomai siejamas su stiprėjimu prie Dauguvos, steigimu pagal templininkų statutą ir nuolatiniu prieauglių didinimu iš Vokietijos kryžininkų.
 
 ## Teiginiai
+
+<a id="claim-t-175530"></a>
+- t-001
+  teiginys: "1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Latvija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Latvija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kalavijuočių ordino įsikūrimas dabartinėje Latvijos teritorijoje tiesiogiai nurodo vietos ryšį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kalavijuočių ordinas gyveno Latvija (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1202 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-42692
+
+<a id="claim-t-175531"></a>
+- t-002
+  teiginys: "Po pralaimėjimo Saulės mūšyje kalavijuočių likučiai buvo prijungti prie Kryžiuočių ordino."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kalavijuočių likučiai prijungti prie Kryžiuočių ordino."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kalavijuočių ordinas priklausė Kryžiuočių ordinas (0.88)"
+  pagrindžia:
+    - c-159667
+
+<a id="claim-t-175532"></a>
+- t-003
+  teiginys: "1202-1203 m. žiemą vyskupo priklausomybėje buvo įkurtas Kalavijuočių ordinas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalavijas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1202-1203; įvykio data: 1203 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie ordino įkūrimą."
+  pagrindžia:
+    - c-05800
+
+<a id="claim-t-175533"></a>
+- t-004
+  teiginys: "1557 m. iš Vilniaus į Livoniją žygiavo kariuomenė prieš kalavijuočių ordino magistrą Firstembergą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1557 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra glaustas, faktinis ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-159658
+
+<a id="claim-t-175536"></a>
+- t-005
+  teiginys: "Folkvinas, antrasis Kristaus karių ordino Livonijoje magistras, šešerius metus ragino prijungti jo ordiną prie Teutonų ordino."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1241 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas citata."
+  pagrindžia:
+    - c-159649
+
+<a id="claim-t-175537"></a>
+- t-006
+  teiginys: "Kalavijuočiai iš šiaurės Vytauto jaunystėje buvo vienas iš dviejų galingų priešų, smarkiai puldavusių Lietuvą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kardininkai, t. y. kalavijuočiai, puldavo Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kalavijuočių ordinas puolė Lietuva (0.86)"
+  pagrindžia:
+    - c-159660
+
+<a id="claim-t-175538"></a>
+- t-007
+  teiginys: "Kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai į Pavyslį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Padauguvis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group"
+  ryšio_targeto_parinkimas: "Padauguvis: mention_match, place, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Padauguvis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-46302
+
+<a id="claim-t-175539"></a>
+- t-008
+  teiginys: "Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną prie Teutonų ordino."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1241 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, konkretus ir paremtas citata."
+  pagrindžia:
+    - c-159662
+
+<a id="claim-t-175540"></a>
+- t-009
+  teiginys: "Maskvos ginklų sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-159651
+
+<a id="claim-t-175541"></a>
+- t-010
+  teiginys: "1236 metais popiežius įsakė Livonijoje esantiems Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1381 m.; įvykio data: 1385 m.; įvykio data: 1386 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir atitinka citatos informaciją."
+  pagrindžia:
+    - c-159670
+
+<a id="claim-t-175542"></a>
+- t-011
+  teiginys: "Gotardas Ketleris, Teutonų ordino Livonijoje magistras, patikėjo save, ordiną ir valdas valdovui, prašydamas gynybos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Livonija: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini Teutonų ordiną Livonijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Teutonai gyveno Livonija (0.80)"
+  pagrindžia:
+    - c-159651
+
+<a id="claim-t-175543"></a>
+- t-012
+  teiginys: "Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Dauguva: 0.79"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo ordino stiprinimosi vietą prie Dauguvos krantų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kalavijuočių ordinas gyveno Dauguva (0.79)"
+  temporaliniai_duomenys: "įvykio data: po 1180 m.; įvykio data: 1180 m.; įvykio data: 1186 m.; įvykio data: 1198 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, aiškus ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-05799
+
+<a id="claim-t-175544"></a>
+- t-013
+  teiginys: "1202 m. dabartinėje Latvijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Latvija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Latvija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kalavijuočių ordino įsikūrimas dabartinėje Latvijos teritorijoje tiesiogiai nurodo vietą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kalavijuočių ordinas gyveno Latvija (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1202 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-42692
+
+<a id="claim-t-175546"></a>
+- t-014
+  teiginys: "1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti, prievarta pakrikštyti ir pajungti pagonis baltus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Latvija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Latvija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kalavijuočių ordino įsikūrimas dabartinėje Latvijos teritorijoje tiesiogiai nurodo vietą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kalavijuočių ordinas gyveno Latvija (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1202 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradžia buvo kontekstinė, todėl faktas suformuluotas kaip savarankiškas sakinys."
+  pagrindžia:
+    - c-42692
+
+<a id="claim-t-175547"></a>
+- t-015
+  teiginys: "1236 m. Saulės mūšyje Lietuvos valstybės kariuomenė sutriuškino Kalavijuočių ordiną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kalavijuočių ordinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Lietuvos valstybės kariuomenė buvo pajėgi kautis su Kalavijuočių ordinu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Kalavijuočių ordinas (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1236 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir paliktas aiškiai citatos pagrįstas faktas."
+  pagrindžia:
+    - c-159655
+
+<a id="claim-t-175548"></a>
+- t-016
+  teiginys: "1236 m. Saulės mūšyje lietuviai sutriuškino Kalavijuočių ordiną."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1236 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-159655
+
+<a id="claim-t-175550"></a>
+- t-017
+  teiginys: "Kalavijuočių ordinas, bijodamas vienas neatsilaikyti, susidėjo su Prūsuose kariavusiu Kryžiuočių ordinu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1220 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-00318
+
+<a id="claim-t-175551"></a>
+- t-018
+  teiginys: "1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Dauguva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo ordino susikūrimą Dauguvos žiotyse."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Kalavijuočių ordinas gyveno Dauguva (0.82); Kalavijuočių ordinas užkariavo Estai (0.76); Kalavijuočių ordinas užkariavo Kuršiai (0.76)"
+  temporaliniai_duomenys: "mūšio data: 1202 m.; mūšio data: 1230 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kalavijuočių ordinas užkariavo Dauguva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Kalavijuočių ordiną."
+  pagrindžia:
+    - c-159654
+
+<a id="claim-t-175552"></a>
+- t-019
+  teiginys: "Kalavijuočių ordinas 1202-1203 m. žiemą buvo įkurtas vyskupo priklausomybėje pagal templininkų statutą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalavijas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1202-1203; įvykio data: 1203 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą įkūrimo aplinkybę."
+  pagrindžia:
+    - c-05800
+
+<a id="claim-t-175553"></a>
+- t-020
+  teiginys: "1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš Kalavijuočių ordino didįjį magistrą Firstembergą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1557 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir paremtas citata."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-159652
+
+<a id="claim-t-175557"></a>
+- t-021
+  teiginys: "1220 metais Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1220 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-159650
 
 <a id="claim-t-184562"></a>
 - t-022
@@ -71,395 +472,10 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - c-167923
 
-<a id="claim-t-220042"></a>
-- t-220042
-  teiginys: "Narbutas teigia, kad kalavijuočių riteriai griovė, naikino ir skandino su stabmeldiškųjų dievų vaizdavimu susijusius paminklus."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199723
-
-<a id="claim-t-222586"></a>
-- t-222586
-  teiginys: "Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną prie Teutonų ordino."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1241 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, konkretus ir paremtas citata."
-  pagrindžia:
-    - c-204601
-
-<a id="claim-t-222986"></a>
-- t-222986
-  teiginys: "1236 metais popiežius įsakė Livonijoje esantiems Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1381 m.; įvykio data: 1385 m.; įvykio data: 1386 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir atitinka citatos informaciją."
-  pagrindžia:
-    - c-206299
-
-<a id="claim-t-225837"></a>
-- t-225837
-  teiginys: "1220 metais Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1220 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-201971
-
-<a id="claim-t-175530"></a>
-- t-175530
-  teiginys: "1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Latvija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Latvija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kalavijuočių ordino įsikūrimas dabartinėje Latvijos teritorijoje tiesiogiai nurodo vietos ryšį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kalavijuočių ordinas gyveno Latvija (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1202 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-42692
-
-<a id="claim-t-175531"></a>
-- t-175531
-  teiginys: "Po pralaimėjimo Saulės mūšyje kalavijuočių likučiai buvo prijungti prie Kryžiuočių ordino."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kalavijuočių likučiai prijungti prie Kryžiuočių ordino."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kalavijuočių ordinas priklausė Kryžiuočių ordinas (0.88)"
-  pagrindžia:
-    - c-159667
-
-<a id="claim-t-175532"></a>
-- t-175532
-  teiginys: "1202-1203 m. žiemą vyskupo priklausomybėje buvo įkurtas Kalavijuočių ordinas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1202-1203; įvykio data: 1203 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie ordino įkūrimą."
-  pagrindžia:
-    - c-05800
-
-<a id="claim-t-175533"></a>
-- t-175533
-  teiginys: "1557 m. iš Vilniaus į Livoniją žygiavo kariuomenė prieš kalavijuočių ordino magistrą Firstembergą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1557 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra glaustas, faktinis ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-159658
-
-<a id="claim-t-175537"></a>
-- t-175537
-  teiginys: "Kalavijuočiai iš šiaurės Vytauto jaunystėje buvo vienas iš dviejų galingų priešų, smarkiai puldavusių Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kardininkai, t. y. kalavijuočiai, puldavo Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kalavijuočių ordinas puolė Lietuva (0.86)"
-  pagrindžia:
-    - c-159660
-
-<a id="claim-t-175538"></a>
-- t-175538
-  teiginys: "Kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai į Pavyslį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Padauguvis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "Padauguvis: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Padauguvis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-46302
-
-<a id="claim-t-175540"></a>
-- t-175540
-  teiginys: "Maskvos ginklų sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-159651
-
-<a id="claim-t-175542"></a>
-- t-175542
-  teiginys: "Gotardas Ketleris, Teutonų ordino Livonijoje magistras, patikėjo save, ordiną ir valdas valdovui, prašydamas gynybos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Livonija: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini Teutonų ordiną Livonijoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Teutonai gyveno Livonija (0.80)"
-  pagrindžia:
-    - c-159651
-
-<a id="claim-t-175543"></a>
-- t-175543
-  teiginys: "Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dauguva: 0.79"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo ordino stiprinimosi vietą prie Dauguvos krantų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kalavijuočių ordinas gyveno Dauguva (0.79)"
-  temporaliniai_duomenys: "įvykio data: po 1180 m.; įvykio data: 1180 m.; įvykio data: 1186 m.; įvykio data: 1198 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, aiškus ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-05799
-
-<a id="claim-t-175544"></a>
-- t-175544
-  teiginys: "1202 m. dabartinėje Latvijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Latvija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Latvija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kalavijuočių ordino įsikūrimas dabartinėje Latvijos teritorijoje tiesiogiai nurodo vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kalavijuočių ordinas gyveno Latvija (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1202 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-42692
-
-<a id="claim-t-175546"></a>
-- t-175546
-  teiginys: "1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti, prievarta pakrikštyti ir pajungti pagonis baltus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Latvija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Latvija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kalavijuočių ordino įsikūrimas dabartinėje Latvijos teritorijoje tiesiogiai nurodo vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kalavijuočių ordinas gyveno Latvija (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1202 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradžia buvo kontekstinė, todėl faktas suformuluotas kaip savarankiškas sakinys."
-  pagrindžia:
-    - c-42692
-
-<a id="claim-t-175547"></a>
-- t-175547
-  teiginys: "1236 m. Saulės mūšyje Lietuvos valstybės kariuomenė sutriuškino Kalavijuočių ordiną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kalavijuočių ordinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Lietuvos valstybės kariuomenė buvo pajėgi kautis su Kalavijuočių ordinu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Kalavijuočių ordinas (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1236 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir paliktas aiškiai citatos pagrįstas faktas."
-  pagrindžia:
-    - c-159655
-
-<a id="claim-t-175548"></a>
-- t-175548
-  teiginys: "1236 m. Saulės mūšyje lietuviai sutriuškino Kalavijuočių ordiną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1236 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-159655
-
-<a id="claim-t-175550"></a>
-- t-175550
-  teiginys: "Kalavijuočių ordinas, bijodamas vienas neatsilaikyti, susidėjo su Prūsuose kariavusiu Kryžiuočių ordinu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1220 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-00318
-
-<a id="claim-t-175551"></a>
-- t-175551
-  teiginys: "1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dauguva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo ordino susikūrimą Dauguvos žiotyse."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Kalavijuočių ordinas gyveno Dauguva (0.82); Kalavijuočių ordinas užkariavo Estai (0.76); Kalavijuočių ordinas užkariavo Kuršiai (0.76)"
-  temporaliniai_duomenys: "mūšio data: 1202 m.; mūšio data: 1230 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kalavijuočių ordinas užkariavo Dauguva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Kalavijuočių ordiną."
-  pagrindžia:
-    - c-159654
-
-<a id="claim-t-175552"></a>
-- t-175552
-  teiginys: "Kalavijuočių ordinas 1202-1203 m. žiemą buvo įkurtas vyskupo priklausomybėje pagal templininkų statutą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1202-1203; įvykio data: 1203 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą įkūrimo aplinkybę."
-  pagrindžia:
-    - c-05800
-
-<a id="claim-t-175553"></a>
-- t-175553
-  teiginys: "1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš Kalavijuočių ordino didįjį magistrą Firstembergą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1557 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir paremtas citata."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-159652
-
 <a id="claim-t-184564"></a>
-- t-184564
+- t-023
   teiginys: "Livonijos ordino ir Lietuvos sutaikymą bandė tarpininkauti Rygos vyskupas Fridrichas, pasitelkęs popiežiaus Jono XXII autoritetą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -475,10 +491,33 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - c-167925
 
+<a id="claim-t-187730"></a>
+- t-024
+  teiginys: "Komentare Andriui Algirdaičiui priskiriamas siekis atplėšti Polocką nuo LDK ir 1385 m. spalio 10 d. pasiduoti Livonijos ordinui kaip vasalui."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1381 m.; įvykio data: 1385 m.; įvykio data: 1386 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Siekio ir motyvo formuluotei būtina atribucija."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170669
+
 <a id="claim-t-193095"></a>
-- t-193095
+- t-025
   teiginys: "Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių ir krikštytų čiabuvių karinė pajėga."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -488,9 +527,9 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - c-00317
 
 <a id="claim-t-193539"></a>
-- t-193539
+- t-026
   teiginys: "Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -500,9 +539,9 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - c-176219
 
 <a id="claim-t-205210"></a>
-- t-205210
+- t-027
   teiginys: "1201 m. vyskupas Albertas, remdamasis popiežiaus leidimu, įsteigė riterių ordiną Fratres Militiae Christi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -513,9 +552,9 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - c-187679
 
 <a id="claim-t-205280"></a>
-- t-205280
+- t-028
   teiginys: "Narbutas nurodo, kad 1236 metų rugsėjo 22 dieną kalavijuočių magistras žuvo mūšyje su lietuviais prie Kamenio, o 1237 metų kovą ar balandį popiežius patvirtino susijungimą su Kryžiuočių ordinu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -526,9 +565,9 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - c-187850
 
 <a id="claim-t-205591"></a>
-- t-205591
+- t-029
   teiginys: "1205 m. kalavijuočių riterių magistras Venas, Narbuto pasakojimu, sunkiai atrėmė lietuvių puolimą Žemgaloje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -538,9 +577,9 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - c-188206
 
 <a id="claim-t-205592"></a>
-- t-205592
+- t-030
   teiginys: "Talibaldo sūnus Rameka surinko ginkluotų žmonių iš atokesnių valsčių, o Vendeno kalavijuočių komtūras Bertoldas atskubėjo jiems į pagalbą su riteriais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -551,9 +590,9 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - c-188207
 
 <a id="claim-t-205593"></a>
-- t-205593
+- t-031
   teiginys: "Gavęs žinią, kalavijuočių riterių magistras Folkvinas su keliais riteriais vijosi priešą, o pakeliui prie jo prisijungė pirklius Dauguva lydėjęs būrys."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -562,42 +601,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
   pagrindžia:
     - c-188208
-
-<a id="claim-t-207509"></a>
-- t-207509
-  teiginys: "Prie Dauguvos žiočių susikūręs Kalavijuočių ordinas 1237 m. tapo Kryžiuočių ordino vasalu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  temporaliniai_duomenys: "įvykio data: 1237 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinti šaltinio ištraukoje nepateikti 1202 metai. Palikti tik tiesiogiai patvirtinti ordino susikūrimo vietą ir 1237 m. statuso pasikeitimą."
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190126
-
-<a id="claim-t-221941"></a>
-- t-221941
-  teiginys: "Folkvinas, antrasis Kristaus karių ordino Livonijoje magistras, šešerius metus ragino prijungti jo ordiną prie Teutonų ordino."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1241 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas citata."
-  pagrindžia:
-    - c-201943
-    - c-204601
 
 ## Reikšmingi paminėjimai
 - c-019
@@ -641,8 +644,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193095
+  pagrindzia:
+    - t-025
 
 - id: c-00318
   redaktorius: "A. Šapoka"
@@ -664,8 +667,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175550
+  pagrindzia:
+    - t-017
 
 - id: c-05799
   autorius: "Zenonas Ivinskis"
@@ -684,8 +687,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175543
+  pagrindzia:
+    - t-012
 
 - id: c-05800
   autorius: "Zenonas Ivinskis"
@@ -705,9 +708,9 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175532
-    - t-175552
+  pagrindzia:
+    - t-003
+    - t-019
 
 - id: c-42692
   sudarytojas: "Karolis Zikaras"
@@ -729,10 +732,10 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175530
-    - t-175544
-    - t-175546
+  pagrindzia:
+    - t-001
+    - t-013
+    - t-014
 
 - id: c-46302
   redaktorius: "A. Šapoka"
@@ -751,8 +754,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175538
+  pagrindzia:
+    - t-007
 
 - id: c-159649
   autorius: "Petras Dusburgietis"
@@ -771,6 +774,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-159650
   autorius: "Petras Dusburgietis"
@@ -788,6 +793,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
 
 - id: c-159651
   autorius: "Michał Baliński"
@@ -812,9 +819,9 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175540
-    - t-175542
+  pagrindzia:
+    - t-009
+    - t-011
 
 - id: c-159652
   autorius: "Michał Baliński"
@@ -840,8 +847,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175553
+  pagrindzia:
+    - t-020
 
 - id: c-159654
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -860,8 +867,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175551
+  pagrindzia:
+    - t-018
 
 - id: c-159655
   sudarytojas: "Karolis Zikaras"
@@ -885,9 +892,9 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175547
-    - t-175548
+  pagrindzia:
+    - t-015
+    - t-016
 
 - id: c-159656
   autorius: "Petras Dusburgietis"
@@ -909,7 +916,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-159658
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -932,8 +938,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175533
+  pagrindzia:
+    - t-004
 
 - id: c-159660
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -963,8 +969,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175537
+  pagrindzia:
+    - t-006
 
 - id: c-159662
   autorius: "Petras Dusburgietis"
@@ -984,6 +990,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 - id: c-159667
   sudarytojas: "Karolis Zikaras"
@@ -1003,8 +1011,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175531
+  pagrindzia:
+    - t-002
 
 - id: c-159670
   autorius: "Petras Dusburgietis"
@@ -1028,6 +1036,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-167923
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1047,12 +1057,11 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     ir žuvo.
   citata_rodoma: "Vis dėl­\nto markgrafas, nenorėdamas, kad atrodytų, jog jis vel­\ntui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­\nnai vadinamas Brandenburgu. Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
 
 - id: c-167925
@@ -1084,8 +1093,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184564
+  pagrindzia:
+    - t-023
 
 - id: c-170669
   autorius: "Anoniminis metraštininkas"
@@ -1107,6 +1116,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
 
 - id: c-176219
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1127,8 +1138,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193539
+  pagrindzia:
+    - t-026
 
 - id: c-187679
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -1149,8 +1160,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205210
+  pagrindzia:
+    - t-027
 
 - id: c-187850
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -1173,8 +1184,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205280
+  pagrindzia:
+    - t-028
 
 - id: c-188206
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -1196,8 +1207,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205591
+  pagrindzia:
+    - t-029
 
 - id: c-188207
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -1216,8 +1227,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205592
+  pagrindzia:
+    - t-030
 
 - id: c-188208
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -1242,163 +1253,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205593
-
-- id: c-190126
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 82"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 82."
-  citata_originali: |
-    Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę:
-    1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda jungti lyvius,
-    latvius, estus, kuršius; 1230 m. prie Vyslos įsikūrė Kryžiuočių ordinas, pajungęs prūsus;
-    1236 m. popiežius jau skelbia kryžiaus žygį prieš lietuvius. Nors žemaičiai Saulės mūšyje
-    šį žygį atlaikė, tačiau replės Lietuvą jau spaudė – 1237 m. Kalavijuočių ordinas tapo Kry-
-    žiuočių ordino vasalu.
-    Lietuvos valstybės atsiradimą jei ir nenulėmė, tai bent pagreitino vokiečių riterių
-    agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.
-  citata_rodoma: ". Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda jungti lyvius, \nlatvius, estus, kuršius; 1230 m. prie Vyslos įsikūrė Kryžiuočių ordinas, pajungęs prūsus; \n1236 m. popiežius jau skelbia kryžiaus žygį prieš lietuvius. Nors žemaičiai Saulės mūšyje \nšį žygį atlaikė, tačiau replės Lietuvą jau spaudė – 1237 m. Kalavijuočių ordinas tapo Kry-\nžiuočių ordino vasalu. \nLietu"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207509
-
-- id: c-199723
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 259"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 259."
-  citata_originali: |
-    Šios rūšies paminklai buvo labiausiai naikinami Lietuvai
-    priimant krikščionių tikėjimą; ypač atvertėjai - kryžiuočių ir
-    kalavijuočių riteriai griovė, naikino, skandino viską, kas tik nors
-    kiek buvo susiję su stabmeldiškųjų dievų vaizdavimu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220042
-
-- id: c-201943
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
-  citata_originali: |
-    Tuo laiku brolis Folkvinas, antras Kristaus karių ordino magistras Livonijos žemėje,
-    šešerius metus per garbingus pasiuntinius ragino brolį Hermaną iš Zalcos, Teutonų
-    ordino didįjį magistrą, prijungti jo Ordiną prie savo Ordino. Šiuo reikalu brolis Hermanas,
-    minėtasis magistras, ir brolis Jonas iš Magdeburgo, brolio Folkvino pasiuntinys, kreipėsi
-      254 1240 ar 1241 m.
-      255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221941
-
-- id: c-201971
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 10"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
-  citata_originali: |
-    Lietuvos ir Jotvingių jėgos puolė vieną iš minėtos antiprūsiškosios
-    koalicijos dalyvių — Lenkiją25. Taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų
-    puolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų
-    bendradarbiavimas26. Tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė
-    kalavijuočiams padauguvyje27.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225837
-
-- id: c-203183
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 307"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 307."
-  citata_originali: |
-    Kristaus karių ordinas, Dobrynės broliai
-    Kristaus karių ordinas Livonijos žemėje
-    Kristburgas Senasis (*Kirsapilis, Kirsa, Kirsberg, Kirsburg; Cristburgk, Cristburc;
-    Christburg, Aldinkirsburg, Kirseburg ir pan., vėliau Alt Christburg, dab. Stary Dzierzgoń)
-    Kristburgas Naujasis (Kirsburg, Cristburg, Christiborc ir pan. prūsų Zirgūnos vietoje;
-    Christburgas, dab. Dzežgonis)
-    Kristmemelis (Cristmemela, Cristmemil; Kirsmemela)
-    Kriukai (Crucke, apie dab.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204601
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
-  citata_originali: |
-    28. Kaip Teutonų namų ordino broliams atiteko Livonijos žemė
-
-      Tuo laiku brolis Folkvinas, antras Kristaus karių ordino magistras Livonijos žemėje,
-    šešerius metus per garbingus pasiuntinius ragino brolį Hermaną iš Zalcos, Teutonų
-    ordino didįjį magistrą, prijungti jo Ordiną prie savo Ordino. Šiuo reikalu brolis Hermanas,
-    minėtasis magistras, ir brolis Jonas iš Magdeburgo, brolio Folkvino pasiuntinys, kreipėsi
-      254 1240 ar 1241 m.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221941
-    - t-222586
-
-- id: c-206299
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 83"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 83."
-  citata_originali: |
-    į jo šventenybę popiežių. Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
-    Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo
-    žmonių krito kovoje262. Šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė
-    mūsų minėtus brolius Gerlachą ir Joną šventosios Marijos Teutonų namų ligoninės ordino
-    drabužiais, duodamas jiems baltą apsiaustą su juodu kryžiumi ir įsakydamas jiems bei
-    kitiems to paties Kristaus karių ordino broliams, esantiems Livonijoje, vilkėti Teutonų
-    namų ordino vienuoliškais drabužiais ir šitaip pelnytis visų nuodėmių atleidimą263 (1236).
-    Po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku,
-    Prūsijos žemės magistrą, su keturiasdešimt brolių ir daugybe ginklanešių į Livonijos
-    žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus
-    vadovavo, o sugrįžęs į Vokietiją, rado ten amžinojo poilsio vietą264 (1237).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222986
+  pagrindzia:
+    - t-031
 
 ## Ryšiai
 - Puolė Kalavijuočių ordiną: [[objektai/grupes/Žiemgaliai]]

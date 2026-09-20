@@ -36,34 +36,10 @@ Rygos arkivyskupo Frideriko teigimu, Livonijos ordino magistras ir broliai suči
 
 ## Teiginiai
 
-<a id="claim-t-225701"></a>
-- t-002
-  teiginys: "Mikalojus IV priklausė mažesniųjų brolių ordinui."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204954
-
-<a id="claim-t-223682"></a>
-- t-223682
-  teiginys: "Bonaventūra buvo mažesniųjų brolių ordino vienuolis ir kardinolas."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206289
-
 <a id="claim-t-205880"></a>
-- t-205880
+- t-001
   teiginys: "Rygos arkivyskupo Frideriko teigimu, Livonijos ordino magistras ir broliai sučiupo iš lietuvių karaliaus Rygos link keliavusį Mažesniųjų brolių ordino brolį Gerhardą Dordemurę ir ilgai laikė Ašeradės pilyje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -100,40 +76,5 @@ Rygos arkivyskupo Frideriko teigimu, Livonijos ordino magistras ir broliai suči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205880
-
-- id: c-204954
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 239"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 239."
-  citata_originali: |
-    1288 viešpaties metais valdė Mikalojus IV, popiežius, priklausęs mažesniųjų brolių
-    ordinui, ir Rudolfas, Romos karalius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-206289
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 236"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236."
-  citata_originali: |
-    Jo šventenybė Bonaventūra, kardinolas, mažesniųjų
-    brolių ordino vienuolis, mirė ..... (Mart. p. 415; Ptol. 23, 2).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223682
-
+  pagrindzia:
+    - t-001

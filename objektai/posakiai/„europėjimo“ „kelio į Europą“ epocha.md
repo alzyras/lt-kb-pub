@@ -27,6 +27,21 @@ media_all_json: |-
 
 Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą.
 
+## Teiginiai
+
+<a id="claim-t-193676"></a>
+- t-001
+  teiginys: "Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  pagrindžia:
+    - c-176345
+
 ## Citatos
 
 - id: c-176345
@@ -45,21 +60,5 @@ Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193676"></a>
-- t-001
-  teiginys: "Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  pagrindžia:
-    - c-176345
-

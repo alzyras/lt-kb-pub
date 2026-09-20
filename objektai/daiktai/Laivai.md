@@ -1,18 +1,18 @@
 ---
 tipas: daiktas
-pavadinimas: 'Laivai'
+pavadinimas: Laivai
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1160 m.'
-  - '1313 m.'
-  - '1382 m.'
-  - '1383 m.'
+  - 1160 m.
+  - 1313 m.
+  - 1382 m.
+  - 1383 m.
 date_start: '1160'
 date_end: '1383'
 sukurta: ''
@@ -22,20 +22,30 @@ tags:
   - transportas
   - karo-reikmuo
 amziai:
-  - 'XII'
-  - 'XIV'
+  - XII
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T10:34:38+00:00","source_checked_at":"2026-09-19T10:34:38+00:00","counts":{"relations":4,"gallery":0,"sources":5},"featured_claim_ids":["t-179483","t-12313","t-224366","t-200941","t-179488"],"featured_claims":[{"claim_id":"t-179483","text":"Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-163186"]},{"claim_id":"t-12313","text":"1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-163179"]},{"claim_id":"t-224366","text":"1290 m. Ernekė, Ragainės komtūras, magistro įsakymu išplaukė laivais link Lietuvos.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-204920"]},{"claim_id":"t-200941","text":"To dėjęsi, piktadėjai teutonų, paskui nuo žemai čių vokyčiais pramanyti, vadinami saksonys, vestfalionys, frizionys, apsiginklavę ir penu apsiveizėję, kėlės į Padaugavį eiti, kurių būrį Bertoldas vysku pas, Liubeko mieste surinkęs, leidos laivais jūra pagal.","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","evidence_ids":["c-184291"]},{"claim_id":"t-179488","text":"Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-163178"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"e64952d68fa263492017b60b","canonical_code":"object.dimensions","label":"Matmenys","group":"Daikto bruožai","value":"Lengvi","context":"Michał Baliński aprašo, kad po Karolio Didžiojo monarchijos žlugimo piratų valdomi laivai buvo lengvi; tai istorinis autoriaus vertinimas apie to laikotarpio laivus.","support_ids":["t-179488","c-163178"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179488","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163178","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Nors jau V amžiaus pabaigoje, tuoj po Romos valstybės žlugimo, Europos Šiaurės kraštai kentėjo nuo normanų puldinėjimų, bet jie nebu­ vo tokie reikšmingi ir grėsmingi, kaip prasidėjusieji sulig didelės Ka­ rolio Didžiojo monarchijos žlugimu. Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę. Sagos, kitaip sakant, senovinės tos tautos legendos, eilėmis ir proza 15 ## Puslapis 32 VILNIAUS MIESTO ISTORIJA I TOMAS Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią bei Lenkiją."}],"status":"published","conflict_status":"clear"},{"trait_id":"dd627a7978880c5d4a6a5fa6","canonical_code":"object.purpose","label":"Paskirtis","group":"Naudojimas","value":"Naudoti kelionėms ir plaukimui upėmis, jūra bei į uostus","context":"Šaltiniuose laivai aprašomi kaip naudoti kariniams žygiams, kariuomenei gabenti, prekybinėms kelionėms ir plaukimui tarp uostų; šie teiginiai susiję su 1160–1410 m. įvykiais ir vėlesniu istorikų pasakojimu.","support_ids":["t-12313","c-163179","t-179482","c-163187","t-179483","c-163186","t-179486","c-05231","t-179488","c-163178","t-194182","c-176792","t-200941","c-184291","t-224366","c-204920"],"source_refs":[{"kind":"internal_claim","claim_id":"t-12313","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-179482","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-179483","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-179486","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"internal_claim","claim_id":"t-179488","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-194182","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-200941","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"internal_claim","claim_id":"t-224366","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-163179","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Jis darė 1382 m. sausio mėn. žygius į jo žemes, teriodamas Varmijos kraštą; tų metų pavasarį net ar­ motomis ginkluotas nuplaukė laivais Nemunu į Ordino sritį ir sustojo ties Jurbarku."},{"kind":"evidence","evidence_id":"c-163187","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"7 ## Puslapis 24 ĮVADAS Lenkijos miestų, jau XII amžiuje dėl savo prekybinių ryšių bu­ vo žinoma net Rytuose. Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­ dajam."},{"kind":"evidence","evidence_id":"c-163186","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"9 4 . 52 Tas žygis buvo paskubomis ir slap­ ta suruoštas, ir todėl didysis magist­ ras tuokart mažai teturėjo svetimša­ lių, juk nesigarsino po visą Europą, o slapčia iš Marienburgo išplaukė Vysla laivais, paskui jūros įlanka įplaukė į Nemuną. Mūsų istorikai bendrais bruožais ir ne taip išsamiai apie šitai pasakoja."},{"kind":"evidence","evidence_id":"c-05231","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Bet (1410.VIII.) Livonijos kariuomenė laivais atvyko Sembon."},{"kind":"evidence","evidence_id":"c-163178","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Nors jau V amžiaus pabaigoje, tuoj po Romos valstybės žlugimo, Europos Šiaurės kraštai kentėjo nuo normanų puldinėjimų, bet jie nebu­ vo tokie reikšmingi ir grėsmingi, kaip prasidėjusieji sulig didelės Ka­ rolio Didžiojo monarchijos žlugimu. Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę. Sagos, kitaip sakant, senovinės tos tautos legendos, eilėmis ir proza 15 ## Puslapis 32 VILNIAUS MIESTO ISTORIJA I TOMAS Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią bei Lenkiją."},{"kind":"evidence","evidence_id":"c-176792","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"5 Žodį Vilija, jeigu jo kilmės imtume ieškoti lietuvių kalboje, galima tarti kilus nuo Wiloju [vilioju] - gundau, arba nuo Wilius [vylius] - klasta, tad tokiu atveju Vilija reikštų Vilioklė. Gal dėl to, kad ta nuostabi upė vi­ liojo ir masino prie savo krantų vie­ nišus, klajojančius po gūdžias girias senovės lietuvius ir jų vaidilas. Ar­ ba, priešingai, po vandeniu slypin­ čiais rifais klastingai prigaudavo pir­ 16 ## Puslapis 33 I KNYGA klius, išdrįsusius, Lietuvai su Prūsi­ ja ėmus prekiauti, leistis į pirmąją kelionę sieliais."},{"kind":"evidence","evidence_id":"c-184291","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"To dėjęsi, piktadėjai teutonų, paskui nuo žemai­ čių vokyčiais pramanyti, vadinami saksonys, vest- falionys, frizionys, apsiginklavę ir penu apsiveizėję, kėlės į Padaugavį eiti, kurių būrį Bertoldas vysku­ pas, Liubeko mieste surinkęs, leidos laivais jūra pagal ir, atirklavęs į Rygos atsiautą, išsigavo į Dau- gavos įtaką, arba rėvą, ir tenai išlipo iš laivų kai- moj, Ryge vadinamoj, kurioj vietoj paskui tie mel- П87 džionys Rygos miestą įkūrė. Palikęs čia laivus, Ber­ toldas traukė su meldžionimis į Bažnyčios salą (Kir- chholm), vidury Daugavos esančią, iš tenai nuleido siuntinius pas žemgalius ir lotavus, klausdamas, ar keta jie krikštytis ir tikybą krikščionų stipriai sek­ ti. Gyventojai…"},{"kind":"evidence","evidence_id":"c-204920","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras, išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Laivai – istorinėje medžiagoje aprašomos plaukiojimo priemonės, naudotos kelionėms, žygiams, kariuomenės perkėlimui ir karinėms operacijoms. 1382 m. pavasarį Kęstutis ginkluotais laivais plaukė Nemunu į Ordino sritį ir sustojo ties Jurbarku. Kitame pasakojime didysis magistras slapta išplaukė iš Marienburgo Vysla, per jūros įlanką pasiekė Nemuną, taip parodydamas vandens kelių svarbą netikėtiems žygiams. 1290 m. Ragainės komtūras Ernekė, magistro įsakytas, laivais išplaukė Lietuvos link, lydimas Jono iš Vienos ir 25 ginklanešių. Dar ankstesniu laikotarpiu, po Karolio Didžiojo monarchijos žlugimo, lengvi piratų laivai iš Skandinavijos pasklido palei Baltijos pakrantę, o vienas kryžininkų būrys laivais pasiekė Rygos apylinkes ir ten juos paliko.","sentences":[{"sentence_id":"s1","text":"Laivai – istorinėje medžiagoje aprašomos plaukiojimo priemonės, naudotos kelionėms, žygiams, kariuomenės perkėlimui ir karinėms operacijoms.","support_ids":["t-12313","t-179483","t-200941","t-224366"]},{"sentence_id":"s2","text":"1382 m. pavasarį Kęstutis ginkluotais laivais plaukė Nemunu į Ordino sritį ir sustojo ties Jurbarku.","support_ids":["t-12313","c-163179"]},{"sentence_id":"s3","text":"Kitame pasakojime didysis magistras slapta išplaukė iš Marienburgo Vysla, per jūros įlanką pasiekė Nemuną, taip parodydamas vandens kelių svarbą netikėtiems žygiams.","support_ids":["t-179483","c-163186"]},{"sentence_id":"s4","text":"1290 m. Ragainės komtūras Ernekė, magistro įsakytas, laivais išplaukė Lietuvos link, lydimas Jono iš Vienos ir 25 ginklanešių.","support_ids":["t-224366","c-204920"]},{"sentence_id":"s5","text":"Dar ankstesniu laikotarpiu, po Karolio Didžiojo monarchijos žlugimo, lengvi piratų laivai iš Skandinavijos pasklido palei Baltijos pakrantę, o vienas kryžininkų būrys laivais pasiekė Rygos apylinkes ir ten juos paliko.","support_ids":["t-179488","c-163178","t-200941","c-184291"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Visi pagrindiniai teiginiai paremti nurodytais šaltiniais: laivai naudoti kelionėms, žygiams, kariuomenės perkėlimui ir kariniams veiksmams."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1382 m. pavasarį Kęstučio plaukimą ginkluotais laivais Nemunu į Ordino sritį ir sustojimą ties Jurbarku."},{"sentence_id":"s3","supported":false,"reason":"Šaltinis patvirtina maršrutą ir slaptą išplaukimą, tačiau nepatvirtina išvados apie vandens kelių svarbą netikėtiems žygiams."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina datą, Ernekės pareigas, išplaukimą laivais Lietuvos link, Jono iš Vienos dalyvavimą ir 25 ginklanešius."},{"sentence_id":"s5","supported":false,"reason":"Šaltiniai patvirtina piratų laivų pasklidimą ir kryžininkų atvykimą į Rygos apylinkes bei laivų palikimą, tačiau nepakankamai tiesiogiai pagrindžia, kad abu įvykiai priklausė tam pačiam ankstesniam laikotarpiui."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-12313","t-179483","t-200941","t-224366"]},{"sentence_id":"s2","supported":true,"support_ids":["t-12313","c-163179"]},{"sentence_id":"s3","supported":true,"support_ids":["t-179483","c-163186"]},{"sentence_id":"s4","supported":true,"support_ids":["t-224366","c-204920"]},{"sentence_id":"s5","supported":true,"support_ids":["t-179488","c-163178","t-200941","c-184291"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Enėjas","claim_id":"t-217200","confidence":0.95},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Verneris (Ragainės komtūras)","claim_id":"t-224760","confidence":0.95},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-86094","confidence":0.9},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Romėnai","claim_id":"t-216163","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":8,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1b9dc408fb57faff
+object_page_generated_at: '2026-09-19T10:34:38+00:00'
+object_page_source_checked_at: '2026-09-19T10:34:38+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '5'
+object_page_seo_description: 'Laivai – istorinėje medžiagoje aprašomos plaukiojimo priemonės, naudotos kelionėms, žygiams, kariuomenės perkėlimui ir karinėms operacijoms. 1382 m. pavasarį…'
+object_page_seo_input_hash: d06085a67b7e550f3f9531f83f8c81001696ddfedc6ab6b8e8c8c9831c563881
+object_page_seo_generated_at: '2026-09-19T10:34:38+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Laivai
 
@@ -65,40 +75,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-224366"></a>
-- t-224366
-  teiginys: "1290 m. Ernekė, Ragainės komtūras, magistro įsakymu išplaukė laivais link Lietuvos."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204920
-
-<a id="claim-t-214147"></a>
-- t-214147
-  teiginys: "Narbutas pasakoja, kad prie Rusnės įlankos danai nedaugeliu didelių, gerai ginkluotų laivų sunaikino rusų jūros pajėgas."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Laivai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laivai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
 <a id="claim-t-12313"></a>
-- t-12313
+- t-001
   teiginys: "1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Jurbarkas: 0.76"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -116,9 +96,9 @@ Nenurodyta
     - c-163179
 
 <a id="claim-t-12314"></a>
-- t-12314
+- t-002
   teiginys: "1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Salos: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -135,9 +115,9 @@ Nenurodyta
     - c-163180
 
 <a id="claim-t-179482"></a>
-- t-179482
+- t-003
   teiginys: "Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Anglai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -151,9 +131,9 @@ Nenurodyta
     - c-163187
 
 <a id="claim-t-179483"></a>
-- t-179483
+- t-004
   teiginys: "Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -167,9 +147,9 @@ Nenurodyta
     - c-163186
 
 <a id="claim-t-179484"></a>
-- t-179484
+- t-005
   teiginys: "1313 m. Vytenis atsiuntė Surminą su 100 laivų prieš kryžiuočius, puolusius Junigėdą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Semba: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -187,9 +167,9 @@ Nenurodyta
     - c-163181
 
 <a id="claim-t-179485"></a>
-- t-179485
+- t-006
   teiginys: "1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Semba: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -207,9 +187,9 @@ Nenurodyta
     - c-163181
 
 <a id="claim-t-179486"></a>
-- t-179486
+- t-007
   teiginys: "Rygiečiai ir Livonijos kariuomenė laivais judėjo į puolimo vietas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -223,9 +203,9 @@ Nenurodyta
     - c-05231
 
 <a id="claim-t-179487"></a>
-- t-179487
+- t-008
   teiginys: "1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos ir ten sustojo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Salos: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -242,9 +222,9 @@ Nenurodyta
     - c-163180
 
 <a id="claim-t-179488"></a>
-- t-179488
+- t-009
   teiginys: "Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -258,9 +238,9 @@ Nenurodyta
     - c-163178
 
 <a id="claim-t-179490"></a>
-- t-179490
+- t-010
   teiginys: "Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Skandinavai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -273,10 +253,30 @@ Nenurodyta
   pagrindžia:
     - c-163183
 
+<a id="claim-t-192502"></a>
+- t-011
+  teiginys: "Narbutas pasakoja, kad prie Rusnės įlankos danai nedaugeliu didelių, gerai ginkluotų laivų sunaikino rusų jūros pajėgas."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laivai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laivai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175292
+
 <a id="claim-t-194182"></a>
-- t-194182
+- t-012
   teiginys: "Ar ba, priešingai, po vandeniu slypin čiais rifais klastingai prigaudavo pir klius, išdrįsusius, Lietuvai su Prūsi ja ėmus prekiauti, leistis į pirmąją kelionę sieliais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -286,9 +286,9 @@ Nenurodyta
     - c-176792
 
 <a id="claim-t-200941"></a>
-- t-200941
+- t-013
   teiginys: "To dėjęsi, piktadėjai teutonų, paskui nuo žemai čių vokyčiais pramanyti, vadinami saksonys, vestfalionys, frizionys, apsiginklavę ir penu apsiveizėję, kėlės į Padaugavį eiti, kurių būrį Bertoldas vysku pas, Liubeko mieste surinkęs, leidos laivais jūra pagal."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -334,8 +334,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179486
+  pagrindzia:
+    - t-007
 
 - id: c-163178
   autorius: "Michał Baliński"
@@ -370,8 +370,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179488
+  pagrindzia:
+    - t-009
 
 - id: c-163179
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -393,8 +393,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-12313
+  pagrindzia:
+    - t-001
 
 - id: c-163180
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -417,9 +417,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-12314
-    - t-179487
+  pagrindzia:
+    - t-002
+    - t-008
 
 - id: c-163181
   autorius: "Zenonas Ivinskis"
@@ -440,9 +440,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179484
-    - t-179485
+  pagrindzia:
+    - t-005
+    - t-006
 
 - id: c-163183
   redaktorius: "A. Šapoka"
@@ -464,8 +464,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179490
+  pagrindzia:
+    - t-010
 
 - id: c-163185
   autorius: "Zenonas Ivinskis"
@@ -485,7 +485,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-163186
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -509,8 +508,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179483
+  pagrindzia:
+    - t-004
 
 - id: c-163187
   autorius: "Michał Baliński"
@@ -537,8 +536,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179482
+  pagrindzia:
+    - t-003
 
 - id: c-175292
   autorius: "Teodoras Narbutas"
@@ -559,6 +558,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-176792
   autorius: "Michał Baliński"
@@ -591,8 +592,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194182
+  pagrindzia:
+    - t-012
 
 - id: c-184291
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -618,26 +619,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-200941
-
-- id: c-204920
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
-  citata_originali: |
-    Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
-    išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias
-    naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224366
+  pagrindzia:
+    - t-013
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Enėjas]], [[objektai/asmenys/Verneris (Ragainės komtūras)]]

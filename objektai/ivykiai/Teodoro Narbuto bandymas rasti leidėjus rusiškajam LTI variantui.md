@@ -1,30 +1,27 @@
 ---
 tipas: ivykis
-pavadinimas: 'Teodoro Narbuto bandymas rasti leidėjus rusiškajam LTI variantui'
+pavadinimas: Teodoro Narbuto bandymas rasti leidėjus rusiškajam LTI variantui
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1139 m.'
-  - '1996 m.'
+  - 1139 m.
+  - 1996 m.
 date_start: '1139'
 date_end: '1996'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XII'
-  - 'XX'
+  - XII
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Teodoro Narbuto bandymas rasti leidėjus rusiškajam LTI variantui
 
@@ -95,6 +92,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

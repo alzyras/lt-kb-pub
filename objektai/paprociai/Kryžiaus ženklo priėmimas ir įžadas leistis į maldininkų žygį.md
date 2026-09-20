@@ -1,6 +1,6 @@
 ---
 tipas: paprotys
-pavadinimas: 'Kryžiaus ženklo priėmimas ir įžadas leistis į maldininkų žygį'
+pavadinimas: Kryžiaus ženklo priėmimas ir įžadas leistis į maldininkų žygį
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kryžiaus ženklo priėmimas ir įžadas leistis į maldininkų žygį
 
@@ -75,6 +72,5 @@ Vyskupai, prelatai, karaliai, kunigaikščiai, grafai, baronai, kiti kilmingieji
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

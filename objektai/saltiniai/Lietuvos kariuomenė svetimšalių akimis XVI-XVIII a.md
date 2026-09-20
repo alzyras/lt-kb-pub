@@ -26,6 +26,20 @@ media_all_json: |-
 
 89, „LAUKO STOVYKLA, Lietuvos kariuomenė svetimšalių akimis xvI-xvIII a., p. 67. 131, „HUSARAI“, Lietuvos kariuomenė svetimšalių akimis xvI-xVIII a., p. 104-107. 139, „LIETUVOS TOTORIAI“, Lietuvos kariuomenė svetimšalių akimis xvI-xvIII a., p. 151.
 
+## Teiginiai
+
+<a id="claim-t-193827"></a>
+- t-001
+  teiginys: "131, „HUSARAI“, Lietuvos kariuomenė svetimšalių akimis xvI-xVIII a., p. 104-107."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-176471
+
 ## Citatos
 
 - id: c-176471
@@ -40,20 +54,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193827"></a>
-- t-001
-  teiginys: "131, „HUSARAI“, Lietuvos kariuomenė svetimšalių akimis xvI-xVIII a., p. 104-107."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-176471
-

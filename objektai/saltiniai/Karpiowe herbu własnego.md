@@ -28,6 +28,20 @@ Aleksandro Meištovičiaus studija „Karpiowe herbu własnego“ buvo skirta Ka
 
 Aleksandro Meištovičiaus studija „Karpiowe herbu własnego“ buvo skirta Karpių giminei.
 
+## Teiginiai
+
+<a id="claim-t-203730"></a>
+- t-001
+  teiginys: "Aleksandro Meištovičiaus studija „Karpiowe herbu własnego“ buvo skirta Karpių giminei."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  pagrindžia:
+    - c-186334
+
 ## Citatos
 
 - id: c-186334
@@ -48,20 +62,5 @@ Aleksandro Meištovičiaus studija „Karpiowe herbu własnego“ buvo skirta Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203730"></a>
-- t-001
-  teiginys: "Aleksandro Meištovičiaus studija „Karpiowe herbu własnego“ buvo skirta Karpių giminei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
-  pagrindžia:
-    - c-186334
-

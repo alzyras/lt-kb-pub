@@ -27,6 +27,17 @@ media_all_json: |-
 
 Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vienkiemius, prasidėjo žemės ūkio modernizacija, dingo trilaukė L I E T U V O S I S T O R I J A 150 sėjomaina.
 
+## Teiginiai
+
+<a id="claim-t-77808"></a>
+- t-001
+  teiginys: "Vykdant žemės reformą žmonės kėlė sodybas į vienkiemius, nyko senieji kaimai ir dingo trilaukė sėjomaina."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-75133
+
 ## Citatos
 
 - id: c-75133
@@ -50,17 +61,5 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-77808"></a>
-- t-001
-  teiginys: "Vykdant žemės reformą žmonės kėlė sodybas į vienkiemius, nyko senieji kaimai ir dingo trilaukė sėjomaina."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-75133
-

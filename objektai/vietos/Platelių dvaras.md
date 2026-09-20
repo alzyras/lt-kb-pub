@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Platelių dvaras'
+pavadinimas: Platelių dvaras
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1840 m.'
+  - 1840 m.
 date_start: '1840'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0f0d29218f0a64a53eefb658"
-canonical_name: "Platelių dvaras"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Platelių dvaras"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0f0d29218f0a64a53eefb658
+canonical_name: Platelių dvaras
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Platelių dvaras
 sameAs: []
-canonical_biography: "1840 metų rugsėjo mėnesį viešėdamas Platelių dva re, priklausančiame grafienei Choueseul, tą dievuką gavau iš kun/igo/ Kognovickio, Platelių klebonijos vikaro."
+canonical_biography: '1840 metų rugsėjo mėnesį viešėdamas Platelių dva re, priklausančiame grafienei Choueseul, tą dievuką gavau iš kun/igo/ Kognovickio, Platelių klebonijos vikaro.'
 ---
 # Platelių dvaras
 
@@ -72,6 +71,5 @@ canonical_biography: "1840 metų rugsėjo mėnesį viešėdamas Platelių dva re
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

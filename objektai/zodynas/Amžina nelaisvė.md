@@ -28,6 +28,20 @@ Trečiasis Statutas uždraudė nuteistuosius imti į amžiną nelaisvę.
 
 Trečiasis Statutas uždraudė nuteistuosius imti į amžiną nelaisvę.
 
+## Teiginiai
+
+<a id="claim-t-203673"></a>
+- t-001
+  teiginys: "Trečiasis Statutas uždraudė nuteistuosius imti į amžiną nelaisvę."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186277
+
 ## Citatos
 
 - id: c-186277
@@ -47,20 +61,5 @@ Trečiasis Statutas uždraudė nuteistuosius imti į amžiną nelaisvę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203673"></a>
-- t-001
-  teiginys: "Trečiasis Statutas uždraudė nuteistuosius imti į amžiną nelaisvę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186277
-

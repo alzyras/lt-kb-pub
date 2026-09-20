@@ -38,6 +38,34 @@ Pasak Teodoro Narbuto, 1387 m. Lietuvos seime dalyvavo Skirgaila, Vladimiras Kij
 
 Pasak Teodoro Narbuto, 1387 m. Lietuvos seime dalyvavo Skirgaila, Vladimiras Kijevietis, Vytautas ir daugelis kitų kunigaikščių, didikų bei aukštųjų bajorų, o Jogaila jam pirmininkavo. Pasak Teodoro Narbuto, seimas svarstė priemones krikščionybei pagal Šventosios Romos bažnyčios apeigas įvesti visoje Lietuvos Didžiojoje Kunigaikštystėje ir pripažino ją vyraujančia religija visiems laikams.
 
+## Teiginiai
+
+<a id="claim-t-206670"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, 1387 m. Lietuvos seime dalyvavo Skirgaila, Vladimiras Kijevietis, Vytautas ir daugelis kitų kunigaikščių, didikų bei aukštųjų bajorų, o Jogaila jam pirmininkavo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189285
+
+<a id="claim-t-206671"></a>
+- t-002
+  teiginys: "Pasak Teodoro Narbuto, seimas svarstė priemones krikščionybei pagal Šventosios Romos bažnyčios apeigas įvesti visoje Lietuvos Didžiojoje Kunigaikštystėje ir pripažino ją vyraujančia religija visiems laikams."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189286
+
 ## Citatos
 
 - id: c-189285
@@ -74,7 +102,7 @@ Pasak Teodoro Narbuto, 1387 m. Lietuvos seime dalyvavo Skirgaila, Vladimiras Kij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189286
@@ -93,34 +121,5 @@ Pasak Teodoro Narbuto, 1387 m. Lietuvos seime dalyvavo Skirgaila, Vladimiras Kij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206670"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, 1387 m. Lietuvos seime dalyvavo Skirgaila, Vladimiras Kijevietis, Vytautas ir daugelis kitų kunigaikščių, didikų bei aukštųjų bajorų, o Jogaila jam pirmininkavo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189285
-
-<a id="claim-t-206671"></a>
-- t-002
-  teiginys: "Pasak Teodoro Narbuto, seimas svarstė priemones krikščionybei pagal Šventosios Romos bažnyčios apeigas įvesti visoje Lietuvos Didžiojoje Kunigaikštystėje ir pripažino ją vyraujančia religija visiems laikams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189286
-

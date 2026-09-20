@@ -45,6 +45,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206935"></a>
+- t-001
+  teiginys: "Skirgaila pasiūlė apsikeisti belaisviais, o vykdant šį susitarimą buvo sutartos keturiolikos dienų paliaubos ir asmeninis pokalbis Dubysos saloje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189550
+
 ## Santrauka
 
 Skirgaila pasiūlė apsikeisti belaisviais, o vykdant šį susitarimą buvo sutartos keturiolikos dienų paliaubos ir asmeninis pokalbis Dubysos saloje.
@@ -68,21 +83,5 @@ Skirgaila pasiūlė apsikeisti belaisviais, o vykdant šį susitarimą buvo suta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206935"></a>
-- t-001
-  teiginys: "Skirgaila pasiūlė apsikeisti belaisviais, o vykdant šį susitarimą buvo sutartos keturiolikos dienų paliaubos ir asmeninis pokalbis Dubysos saloje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189550
-

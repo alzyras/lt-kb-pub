@@ -47,6 +47,18 @@ Minios šūksnis, kai bematant sutvarko pastotą vežimą.
 
 Šmaikšti judraus sutvarkymo formulė.
 
+## Teiginiai
+
+<a id="claim-t-195419"></a>
+- t-001
+  teiginys: "Sutvarkant vežimą šaukiama „Krikštynos, prikeltuvės“."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177840
+
 ## Citatos
 
 - id: c-177840
@@ -63,18 +75,5 @@ Minios šūksnis, kai bematant sutvarko pastotą vežimą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195419"></a>
-- t-001
-  teiginys: "Sutvarkant vežimą šaukiama „Krikštynos, prikeltuvės“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177840
-

@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Aleksandras Jogailaitis'
+pavadinimas: Aleksandras Jogailaitis
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
@@ -9,8 +9,8 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1461 m.'
-  - '1536 m.'
+  - 1461 m.
+  - 1536 m.
 date_start: '1461'
 date_end: '1536'
 sukurta: ''
@@ -21,30 +21,47 @@ tags:
   - valdovas
   - asmuo
 amziai:
-  - 'XV'
-  - 'XVI'
+  - XV
+  - XVI
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '3'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3APrivilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'seal_of'
-media_primary_json: |-
-  {"mediaId":"m-3a1850362be25d83cc9a830a","title":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","caption":"Aleksandro Jogailaičio 1503 m. privilegija su asmeniniu antspaudu.","originalTitle":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos mokslų akademijos Vrublevskių biblioteka","dateDisplay":"1503-08-17","dateStart":null,"dateEnd":null,"width":1000,"height":807,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrivilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"privilegija","label":"privilegija","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1503 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1503 works","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Latin texts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Privilege of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Religion in Viciebsk","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Wax seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.159163+03:00","reviewedAt":"2026-07-18T20:50:13.526386+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis lotyniškas pergamentinis dokumentas su kabančiu raudono vaško antspaudu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta Aleksandro Jogailaičio privilegija su asmeniniu antspaudu, išduota 1503 m. Vilniuje.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas ir antspaudas tiesiogiai identifikuojami kaip Aleksandro Jogailaičio.","isPrimary":1}
-media_direct_json: |-
-  [{"mediaId":"m-3a1850362be25d83cc9a830a","title":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","caption":"Aleksandro Jogailaičio 1503 m. privilegija su asmeniniu antspaudu.","originalTitle":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos mokslų akademijos Vrublevskių biblioteka","dateDisplay":"1503-08-17","dateStart":null,"dateEnd":null,"width":1000,"height":807,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrivilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"privilegija","label":"privilegija","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1503 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1503 works","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Latin texts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Privilege of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Religion in Viciebsk","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Wax seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.159163+03:00","reviewedAt":"2026-07-18T20:50:13.526386+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis lotyniškas pergamentinis dokumentas su kabančiu raudono vaško antspaudu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta Aleksandro Jogailaičio privilegija su asmeniniu antspaudu, išduota 1503 m. Vilniuje.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas ir antspaudas tiesiogiai identifikuojami kaip Aleksandro Jogailaičio.","isPrimary":1}]
-media_contextual_json: |-
-  [{"mediaId":"m-96e827a2c461b90141a4f08e","title":"Seal with the coat of arms of Aleksandras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1492-1506.jpg","caption":"Aleksandro Jogailaičio antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu.","originalTitle":"Seal with the coat of arms of Aleksandras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1492-1506.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Hubert-herald.nl","dateDisplay":"1492-1506","dateStart":null,"dateEnd":null,"width":481,"height":576,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of the Polish-Lithuanian Commonwealth","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T11:56:26.080572+03:00","reviewedAt":"2026-07-18T20:50:13.533502+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apskritas heraldinis antspaudas su skydu, karūna, Lenkijos ereliu ir Lietuvos Vyčiu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodytas Aleksandro Jogailaičio antspaudas, datuojamas 1492–1506 m.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne portretas, bet aiškiai dokumentuotas valdovo antspaudas ir jo heraldinis simbolis.","isPrimary":0},{"mediaId":"m-547e7226472ac5ae9878a6e7","title":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","caption":"Lietuvos didysis antspaudas, naudotas Aleksandro Jogailaičio valdymo metu, 1503 m.","originalTitle":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","creator":"Alexander Jagiellon (1461 – 1506)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"7md.lt","dateDisplay":"1503","dateStart":null,"dateEnd":null,"width":199,"height":201,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"pahonia","label":"Pahonia","facetKind":"tema","confidence":0.95},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"didysis-lietuvos-antspaudas","label":"didysis Lietuvos antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seal of Grand Duchy of Lithuania (Alexander Jagiellon)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T19:33:55.158632+03:00","reviewedAt":"2026-07-18T20:50:13.538555+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apvalus raudono vaško didysis antspaudas su centriniu heraldiniu valdovo ir Vyčio motyvu.","metadataEvidence":"Pavadinime ir apraše nurodyta, kad tai Lietuvos didysis antspaudas, naudotas Aleksandro Jogailaičio valdymo metu 1503 m.; kūrėju nurodytas Alexander Jagiellon.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su Aleksandro Jogailaičio valdymu susijęs valstybinis simbolis, todėl tinkamas kaip kontekstinis vaizdas.","isPrimary":0}]
-media_all_json: |-
-  [{"mediaId":"m-3a1850362be25d83cc9a830a","title":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","caption":"Aleksandro Jogailaičio 1503 m. privilegija su asmeniniu antspaudu.","originalTitle":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos mokslų akademijos Vrublevskių biblioteka","dateDisplay":"1503-08-17","dateStart":null,"dateEnd":null,"width":1000,"height":807,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrivilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"privilegija","label":"privilegija","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1503 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1503 works","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Latin texts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Privilege of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Religion in Viciebsk","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Wax seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.159163+03:00","reviewedAt":"2026-07-18T20:50:13.526386+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis lotyniškas pergamentinis dokumentas su kabančiu raudono vaško antspaudu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta Aleksandro Jogailaičio privilegija su asmeniniu antspaudu, išduota 1503 m. Vilniuje.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas ir antspaudas tiesiogiai identifikuojami kaip Aleksandro Jogailaičio.","isPrimary":1},{"mediaId":"m-96e827a2c461b90141a4f08e","title":"Seal with the coat of arms of Aleksandras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1492-1506.jpg","caption":"Aleksandro Jogailaičio antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu.","originalTitle":"Seal with the coat of arms of Aleksandras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1492-1506.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Hubert-herald.nl","dateDisplay":"1492-1506","dateStart":null,"dateEnd":null,"width":481,"height":576,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of the Polish-Lithuanian Commonwealth","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T11:56:26.080572+03:00","reviewedAt":"2026-07-18T20:50:13.533502+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apskritas heraldinis antspaudas su skydu, karūna, Lenkijos ereliu ir Lietuvos Vyčiu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodytas Aleksandro Jogailaičio antspaudas, datuojamas 1492–1506 m.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne portretas, bet aiškiai dokumentuotas valdovo antspaudas ir jo heraldinis simbolis.","isPrimary":0},{"mediaId":"m-547e7226472ac5ae9878a6e7","title":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","caption":"Lietuvos didysis antspaudas, naudotas Aleksandro Jogailaičio valdymo metu, 1503 m.","originalTitle":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","creator":"Alexander Jagiellon (1461 – 1506)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"7md.lt","dateDisplay":"1503","dateStart":null,"dateEnd":null,"width":199,"height":201,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"pahonia","label":"Pahonia","facetKind":"tema","confidence":0.95},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"didysis-lietuvos-antspaudas","label":"didysis Lietuvos antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seal of Grand Duchy of Lithuania (Alexander Jagiellon)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T19:33:55.158632+03:00","reviewedAt":"2026-07-18T20:50:13.538555+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apvalus raudono vaško didysis antspaudas su centriniu heraldiniu valdovo ir Vyčio motyvu.","metadataEvidence":"Pavadinime ir apraše nurodyta, kad tai Lietuvos didysis antspaudas, naudotas Aleksandro Jogailaičio valdymo metu 1503 m.; kūrėju nurodytas Alexander Jagiellon.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su Aleksandro Jogailaičio valdymu susijęs valstybinis simbolis, todėl tinkamas kaip kontekstinis vaizdas.","isPrimary":0}]
-entity_id: "ent-b84d883010a1721af8d5c88e"
-canonical_name: "Aleksandras Jogailaitis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Aleksandras","Aleksandras Jogailaitis","Aleksandro Jogailaičio","karalius Aleksandras","kunigaikštis Aleksandras","Nos Alexander","šviesiausiasis Aleksandras"]
+media_primary_directness: direct
+media_primary_relation_type: seal_of
+media_primary_json: '{"mediaId":"m-3a1850362be25d83cc9a830a","title":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","caption":"Aleksandro Jogailaičio 1503 m. privilegija su asmeniniu antspaudu.","originalTitle":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos mokslų akademijos Vrublevskių biblioteka","dateDisplay":"1503-08-17","dateStart":null,"dateEnd":null,"width":1000,"height":807,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrivilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"privilegija","label":"privilegija","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1503 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1503 works","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Latin texts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Privilege of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Religion in Viciebsk","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Wax seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.159163+03:00","reviewedAt":"2026-07-18T20:50:13.526386+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis lotyniškas pergamentinis dokumentas su kabančiu raudono vaško antspaudu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta Aleksandro Jogailaičio privilegija su asmeniniu antspaudu, išduota 1503 m. Vilniuje.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas ir antspaudas tiesiogiai identifikuojami kaip Aleksandro Jogailaičio.","isPrimary":1}'
+media_direct_json: '[{"mediaId":"m-3a1850362be25d83cc9a830a","title":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","caption":"Aleksandro Jogailaičio 1503 m. privilegija su asmeniniu antspaudu.","originalTitle":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos mokslų akademijos Vrublevskių biblioteka","dateDisplay":"1503-08-17","dateStart":null,"dateEnd":null,"width":1000,"height":807,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrivilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"privilegija","label":"privilegija","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1503 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1503 works","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Latin texts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Privilege of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Religion in Viciebsk","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Wax seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.159163+03:00","reviewedAt":"2026-07-18T20:50:13.526386+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis lotyniškas pergamentinis dokumentas su kabančiu raudono vaško antspaudu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta Aleksandro Jogailaičio privilegija su asmeniniu antspaudu, išduota 1503 m. Vilniuje.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas ir antspaudas tiesiogiai identifikuojami kaip Aleksandro Jogailaičio.","isPrimary":1}]'
+media_contextual_json: '[{"mediaId":"m-96e827a2c461b90141a4f08e","title":"Seal with the coat of arms of Aleksandras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1492-1506.jpg","caption":"Aleksandro Jogailaičio antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu.","originalTitle":"Seal with the coat of arms of Aleksandras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1492-1506.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Hubert-herald.nl","dateDisplay":"1492-1506","dateStart":null,"dateEnd":null,"width":481,"height":576,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of the Polish-Lithuanian Commonwealth","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T11:56:26.080572+03:00","reviewedAt":"2026-07-18T20:50:13.533502+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apskritas heraldinis antspaudas su skydu, karūna, Lenkijos ereliu ir Lietuvos Vyčiu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodytas Aleksandro Jogailaičio antspaudas, datuojamas 1492–1506 m.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne portretas, bet aiškiai dokumentuotas valdovo antspaudas ir jo heraldinis simbolis.","isPrimary":0},{"mediaId":"m-547e7226472ac5ae9878a6e7","title":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","caption":"Lietuvos didysis antspaudas, naudotas Aleksandro Jogailaičio valdymo metu, 1503 m.","originalTitle":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","creator":"Alexander Jagiellon (1461 – 1506)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"7md.lt","dateDisplay":"1503","dateStart":null,"dateEnd":null,"width":199,"height":201,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"pahonia","label":"Pahonia","facetKind":"tema","confidence":0.95},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"didysis-lietuvos-antspaudas","label":"didysis Lietuvos antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seal of Grand Duchy of Lithuania (Alexander Jagiellon)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T19:33:55.158632+03:00","reviewedAt":"2026-07-18T20:50:13.538555+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apvalus raudono vaško didysis antspaudas su centriniu heraldiniu valdovo ir Vyčio motyvu.","metadataEvidence":"Pavadinime ir apraše nurodyta, kad tai Lietuvos didysis antspaudas, naudotas Aleksandro Jogailaičio valdymo metu 1503 m.; kūrėju nurodytas Alexander Jagiellon.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su Aleksandro Jogailaičio valdymu susijęs valstybinis simbolis, todėl tinkamas kaip kontekstinis vaizdas.","isPrimary":0}]'
+media_all_json: '[{"mediaId":"m-3a1850362be25d83cc9a830a","title":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","caption":"Aleksandro Jogailaičio 1503 m. privilegija su asmeniniu antspaudu.","originalTitle":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos mokslų akademijos Vrublevskių biblioteka","dateDisplay":"1503-08-17","dateStart":null,"dateEnd":null,"width":1000,"height":807,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrivilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"privilegija","label":"privilegija","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1503 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1503 works","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Latin texts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Privilege of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Religion in Viciebsk","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Wax seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.159163+03:00","reviewedAt":"2026-07-18T20:50:13.526386+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis lotyniškas pergamentinis dokumentas su kabančiu raudono vaško antspaudu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta Aleksandro Jogailaičio privilegija su asmeniniu antspaudu, išduota 1503 m. Vilniuje.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas ir antspaudas tiesiogiai identifikuojami kaip Aleksandro Jogailaičio.","isPrimary":1},{"mediaId":"m-96e827a2c461b90141a4f08e","title":"Seal with the coat of arms of Aleksandras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1492-1506.jpg","caption":"Aleksandro Jogailaičio antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu.","originalTitle":"Seal with the coat of arms of Aleksandras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1492-1506.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Hubert-herald.nl","dateDisplay":"1492-1506","dateStart":null,"dateEnd":null,"width":481,"height":576,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of the Polish-Lithuanian Commonwealth","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T11:56:26.080572+03:00","reviewedAt":"2026-07-18T20:50:13.533502+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apskritas heraldinis antspaudas su skydu, karūna, Lenkijos ereliu ir Lietuvos Vyčiu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodytas Aleksandro Jogailaičio antspaudas, datuojamas 1492–1506 m.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne portretas, bet aiškiai dokumentuotas valdovo antspaudas ir jo heraldinis simbolis.","isPrimary":0},{"mediaId":"m-547e7226472ac5ae9878a6e7","title":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","caption":"Lietuvos didysis antspaudas, naudotas Aleksandro Jogailaičio valdymo metu, 1503 m.","originalTitle":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","creator":"Alexander Jagiellon (1461 – 1506)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"7md.lt","dateDisplay":"1503","dateStart":null,"dateEnd":null,"width":199,"height":201,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"pahonia","label":"Pahonia","facetKind":"tema","confidence":0.95},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"didysis-lietuvos-antspaudas","label":"didysis Lietuvos antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seal of Grand Duchy of Lithuania (Alexander Jagiellon)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T19:33:55.158632+03:00","reviewedAt":"2026-07-18T20:50:13.538555+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apvalus raudono vaško didysis antspaudas su centriniu heraldiniu valdovo ir Vyčio motyvu.","metadataEvidence":"Pavadinime ir apraše nurodyta, kad tai Lietuvos didysis antspaudas, naudotas Aleksandro Jogailaičio valdymo metu 1503 m.; kūrėju nurodytas Alexander Jagiellon.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su Aleksandro Jogailaičio valdymu susijęs valstybinis simbolis, todėl tinkamas kaip kontekstinis vaizdas.","isPrimary":0}]'
+entity_id: ent-b84d883010a1721af8d5c88e
+canonical_name: Aleksandras Jogailaitis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Aleksandras
+  - Aleksandras Jogailaitis
+  - Aleksandro Jogailaičio
+  - karalius Aleksandras
+  - kunigaikštis Aleksandras
+  - Nos Alexander
+  - šviesiausiasis Aleksandras
 sameAs: []
-canonical_biography: "Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi laivyba Vilija, vedė Eleną ir Vilnių pasirinko nuolatiniam gyvenimui. Pasakojime taip pat pabrėžiama jo ligos, 1506 m. Kłecko pergalės žinios ir mirties Žemutinėje Vilniaus pilyje aplinkybės."
+canonical_biography: 'Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi laivyba Vilija, vedė Eleną ir Vilnių pasirinko nuolatiniam gyvenimui. Pasakojime taip pat pabrėžiama jo ligos, 1506 m. Kłecko pergalės žinios ir mirties Žemutinėje Vilniaus pilyje aplinkybės.'
+external_sources_json: '[{"title":"Aleksandras","url":"https://lt.wikipedia.org/wiki/Aleksandras","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T01:35:08+00:00","source_checked_at":"2026-09-19T01:35:08+00:00","counts":{"relations":11,"gallery":3,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui. Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, - Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­ naudoti savo galios ir susidoroti su savo priešais. Šach Ach­ medas, apleistas sąjungininko, Mendli Girėjaus sumuštas, 43 Žinome, kad Maskvoje iki šiol dar išlikęs priežodis: Kto w Wilnie nie by­ wał, tot czudes nie widał [Kas Vilniuje nebuvo, tas stebuklų neregėjo].","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-82170","evidence_id":"c-78661","origin":"internal"},"wiki":{"status":"published","source":{"title":"Aleksandras","url":"https://lt.wikipedia.org/wiki/Aleksandras","publisher":"Vikipedija","language":"lt","article_id":"44489","revision_id":"7689722","published_at":"2025-11-10T08:24:12Z","version_pk":"","content_hash":"9606879a9284a127d5fe976bf23b029f08e3035811290b34154f1fece6e5851a","retrieved_at":"2026-09-19T01:31:07+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Aleksandras&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"44489"}},"intro":"Aleksandras (lenk. Aleksander Jagiellończyk, 1461 m. rugpjūčio 5 d. – 1506 m. rugpjūčio 19/20 d.) – Lietuvos didysis kunigaikštis (nuo 1492 m. iki mirties) ir Lenkijos karalius (nuo 1501 m. spalio pradžios iki mirties). Kazimiero Jogailaičio ir „romėnų karaliaus“ (nevainikuoto Šventosios Romos imperijos valdovo) Albrechto II dukters Elžbietos ketvirtasis sūnus, Jogailos vaikaitis.","original_intro":"","translation_status":"native","infobox":[{"code":"positions","label":"Pareigos","value":"Lenkijos karalius ir Lietuvos didysis kunigaikštis; Lietuvos didysis kunigaikštis; Lenkijos karalius","source":"wikipedia_infobox"},{"code":"birth_date","label":"Gimė","value":"~1461 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Krokuva","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Vilnius","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Vilniaus katedroje","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Kazimieras; Elžbieta Habsburgaitė","source":"wikipedia_infobox"},{"code":"spouse","label":"Sutuoktiniai","value":"Elena","source":"wikipedia_infobox"},{"code":"reign","label":"Valdymas","value":"1492 m. – 1506 m.; 1501 m. – 1506 m.","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":true,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Aleksandras","url":"https://lt.wikipedia.org/wiki/Aleksandras","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Aleksandras"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"22820883a0cb0687f5d4bfe8","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Michałas Balińskis vertino, kad Aleksandro veiksmams stigo ryžto ir kad jis nesugebėjo panaudoti savo galios kovai su priešais.","context":"Autoriaus vertinimas apie laikotarpį, kai Aleksandras buvo išrinktas Lenkijos karaliumi 1501 m. ir jo valdas puldinėjo Krymo totoriai.","support_ids":["t-54939","c-55310"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54939","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55310","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tarp Aleksan­ dro ir jo uošvio vyko nuolatinės rietenos. Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui. Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, - Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­ naudoti savo galios ir susidoroti su savo priešais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"86655de7d7da34f1e8e76ed2","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Michałas Balińskis Aleksandro valdžią apibūdino kaip silpną.","context":"Autoriaus vertinimas, siejamas su netvarka Vilniaus miesto administracijoje ir vėliau kilusiais kivirčais.","support_ids":["t-82172","c-78668"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82172","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-78668","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Šio išmintingo karaliaus nuopel­ nas - vietinio Lietuvos ūkio pradmenys bei tvarka jos sosti­ nėje. Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką. 1536 metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­ tariant karalienei Bonai, paskelbti naujus miesto įstatymus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d43cd2f74b2d01be1c0b6ca5","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Michałas Balińskis Aleksandrą apibūdino kaip nerūpestingą ir išlaidų kupiną.","context":"Autoriaus vertinimas, pateiktas aptariant Vingrių šaltinių likimą ir dominikonų įkurdinimą.","support_ids":["t-82178","c-78669"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82178","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-78669","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Aleksandro Jogailaičio nerūpestingumas ir išlaidumas vė­ liau, valdant Žygimantui, sukėlė diskusiją apie Vilniaus sau­ gumui ir patogumui svarbų objektą, kurio vardas - Vingrių šaltiniai. Jų vandenys kadaise priklausė miestui, bet, laikui bėgant, tapo Švč. Trejybės klebonijos nuosavybe. Aleksan­ dras, toje vietoje įkurdinęs dominikonus, Vingrių šaltinių nesugrąžino miestui, bet sutiko juos kartu su klebonija 6 Tai matyti iš Žygimanto Senojo 1536 metų rugpjūčio 29 dienos (Archiwum Miejs. MSS.) privilegijos patvirtini­ mo, leidžiančio parduoti plytinę ir žemes, esančias už Vilijos, ant kal­ no priešais tiltą, - tais pačiais me­ tais kunigaikščio Poznanės vyskupo, miestui padaryto."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"cb6754472909ba45615e0b37","canonical_code":"person.habits","label":"Įpročiai","group":"Asmens bruožai","value":"Aleksandras nuolatiniam gyvenimui pasirinko Vilnių ir po vedybų su Elena išlaikė prabangų dvarą.","context":"Aprašomas jo gyvenimo būdas po vedybų su Elena; Michałas Balińskis teigia, kad tai padėjo atgaivinti sostinę.","support_ids":["t-82180","c-78666"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82180","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-78666","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Iš daugelio didžiųjų kunigaikščių privilegijų ir ediktų ma­ tyti, kad čia gerokai sumažėjo gyventojų, pastatai apleisti, miestas neplečiamas ir negražinamas. Tik Aleksandras, nuo­ latiniam gyvenimui pasirinkęs Vilnių ir po savo vedybų su Elena išlaikydamas prabangų dvarą, pirmasis atgaivino sos­ tinę. Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės 48 Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė metais, palaidota graikų apeigų kop- dalį Švč."}],"status":"published","conflict_status":"clear"},{"trait_id":"e76a9bb4f5ca831d5d8af250","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Aleksandras Šich Achmetą priėmė su didele pagarba ir pasisodino dešinėje.","context":"Albertas Vijūkas-Kojelavičius aprašo susitikimą, kai Šich Achmetas atvyko į seimą.","support_ids":["t-184662","c-168023"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184662","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168023","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Į seimą atvyko iš Vilniaus Skitas Sich Achmetas Šich Achmetas, Užvolgio ski- tariasi su karaliumi tų valdovas, o šiuo metu Breste ir Radome tremtinys ir beveik belaisvis. Aleksandras jį pasitiko už penkių mylių: pastačius plyname lauke puošnią pala­ pinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie karaliaus. Aleksandras Šich Achmetą priėmė su didele pagarba ir pasisodino dešinėje."}],"status":"published","conflict_status":"clear"},{"trait_id":"9c4fdb26c998a9590e499bce","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Aleksandras buvo Lietuvos didysis kunigaikštis.","context":"Lietuvos metraštyje nurodoma, kad 1492 m. liepos 18 d. Vilniuje jį Lietuvos didžiuoju kunigaikščiu patvirtino visų LDK žemių seimas.","support_ids":["t-210484","c-193984"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210484","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193984","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų LDK žemių seimas Vilniuje, 1492.VII.18."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"253aebdc14370b567736693d","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Aleksandras titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.","context":"Jo paties rašto titulas.","support_ids":["t-82179","c-78664"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82179","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-78664","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Mes, Aleksandras, Dievo malone didysis Lietuvos, Žemaitijos, Rusios, Kijevo ir 1.1, kunigaikštis. Po­ nas ir tėvonis. Šiuo raštu skelbiame visiems, kam dabar ar ateityje reikės žinoti, kad, kai mes įsitikinome šviesiausio­ sios ponios Elenos, Dievo malone didžiosios kunigaikštie­ nės, brangiausios mūsų žmonos, vedybine meile ir jos išti­ kimybe, norėdami ją mūsų malone ir geradarybe pradžiuginti ir ja pasirūpinti, jai ir jos palikuonims [dova­ nojame] turtus ar dvarus su visomis žemėmis, vadinamus Kniazičiai ir Teterinas, bei pilį, vadinamą Popova Hura, ku­ riuos anksčiau valdė Seisla vo* kunigaikštis Ivanas Jurgėvi- čius, ir kitas valdas, nuo seno priklausančias tiems patiems *…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a1d611a383c72963856eeb01","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Aleksandras buvo Lenkijos karalius.","context":"Jo paties rašte jis titulavosi Lenkijos karaliumi; šaltinis taip pat nurodo, kad karaliumi buvo išrinktas 1501 m.","support_ids":["t-82174","c-78670","t-54939","c-55310"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82174","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-54939","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-78670","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Quem quidem vitae spiritum 368 ## Puslapis 385 IV KNYGA Vardan Viešpaties Amen. Amžinai dalykų atminčiai. Aleksandras, Dievo malone Lenkijos karalius, didysis Lie­ tuvos, Rusios, Prūsijos kunigaikštis. Ponas ir tėvonis. Skel­ biame visiems ir kiekvienam, norėsiančiam su šiuo raštu su­ sipažinti. Kad mes mūsų senatorių ir žemiau surašytųjų liudytojų akivaizdoje, nors ir esame kūnu nusilpę, tačiau su sąmone ir sveiko proto, iš anksto rūpindamiesi, kad mirties galios, kurios valdžiai pagal gyvybės ir laikinumo neišven­ giamus dėsnius paklūsta visa, kas sukurta, netikėtai iš šio mirties patalo ir laikinosios Didenybės šlovės nebūtume pa­ imti, ir trokšdami, taip, kaip katalikiškajam karaliui…"},{"kind":"evidence","evidence_id":"c-55310","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tarp Aleksan­ dro ir jo uošvio vyko nuolatinės rietenos. Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui. Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, - Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­ naudoti savo galios ir susidoroti su savo priešais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"1ee24ed6809d4f2c1d42b589","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Michałas Balińskis teigė, kad Aleksandras, pasirinkęs Vilnių nuolatiniam gyvenimui ir išlaikęs prabangų dvarą, pirmasis atgaivino sostinę.","context":"Autoriaus istorinis vertinimas apie Vilniaus būklę po Aleksandro vedybų su Elena.","support_ids":["t-54942","c-55313"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54942","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55313","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Toksai pagrindinės valdžios nutolimas nuo sostinės galėjo turėti blogos įtakos jos gerovei. Iš daugelio didžiųjų kunigaikščių privilegijų ir ediktų ma­ tyti, kad čia gerokai sumažėjo gyventojų, pastatai apleisti, miestas neplečiamas ir negražinamas. Tik Aleksandras, nuo­ latiniam gyvenimui pasirinkęs Vilnių ir po savo vedybų su Elena išlaikydamas prabangų dvarą, pirmasis atgaivino sos­ tinę."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Aleksandras Jogailaitis – Lietuvos didysis kunigaikštis, gimęs 1461 m. rugpjūčio 5 d. Krokuvoje, Kazimiero ir Elžbietos ketvirtasis sūnus. 1492 m. liepos 18 d. Vilniuje jį Lietuvos didžiuoju kunigaikščiu patvirtino visų Lietuvos Didžiosios Kunigaikštystės žemių seimas, o į sostą jis buvo iškilmingai palydėtas iš Vilniaus seimo į Šv. Stanislovo katedrą. Siekdamas užgesinti vaidus su Ivanu Vasiljevičiumi, Aleksandras vedė jo dukterį Eleną, tačiau jo valdas vis tiek puldinėjo Krymo totorių orda, keldama grėsmę Kijevui. Valdovas rėmė miestų interesus: 1494 m. reikalavo kauniečiams laisvos laivybos Vysla, o Vilniaus auksakalių cechui buvo suteikta jo privilegija. Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10-osios naktį; jo palaikai buvo palaidoti prie katedros, greta Šv. Kazimiero.","sentences":[{"sentence_id":"s1","text":"Aleksandras Jogailaitis – Lietuvos didysis kunigaikštis, gimęs 1461 m. rugpjūčio 5 d. Krokuvoje, Kazimiero ir Elžbietos ketvirtasis sūnus.","support_ids":["t-210484","c-193984","t-210556","c-193908"]},{"sentence_id":"s2","text":"1492 m. liepos 18 d. Vilniuje jį Lietuvos didžiuoju kunigaikščiu patvirtino visų Lietuvos Didžiosios Kunigaikštystės žemių seimas, o į sostą jis buvo iškilmingai palydėtas iš Vilniaus seimo į Šv. Stanislovo katedrą.","support_ids":["t-210484","c-193984","t-184659","c-168020"]},{"sentence_id":"s3","text":"Siekdamas užgesinti vaidus su Ivanu Vasiljevičiumi, Aleksandras vedė jo dukterį Eleną, tačiau jo valdas vis tiek puldinėjo Krymo totorių orda, keldama grėsmę Kijevui.","support_ids":["t-82173","c-78658","t-82170","c-78661"]},{"sentence_id":"s4","text":"Valdovas rėmė miestų interesus: 1494 m. reikalavo kauniečiams laisvos laivybos Vysla, o Vilniaus auksakalių cechui buvo suteikta jo privilegija.","support_ids":["t-201511","c-184858","t-82175","c-78663"]},{"sentence_id":"s5","text":"Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10-osios naktį; jo palaikai buvo palaidoti prie katedros, greta Šv. Kazimiero.","support_ids":["t-82177","c-78667"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta gimimo datos, vietos, tėvų ir šeimos eilės šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina išrinkimą 1492 m. liepos 18 d. Vilniuje ir palydėjimą į Šv. Stanislovo katedrą."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai patvirtinta santuoka su Elenos, Ivano Vasiljevičiaus dukters, ir Krymo totorių puldinėjimai bei grėsmė Kijevui."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai patvirtina reikalavimą užtikrinti kauniečių laivybą Vysla ir privilegiją Vilniaus auksakalių cechui."},{"sentence_id":"s5","supported":true,"reason":"Tiesiogiai patvirtinta mirties vieta, data, nakties laikas ir palaidojimas prie katedros greta Šv. Kazimiero."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-210484","c-193984","t-210556","c-193908"]},{"sentence_id":"s2","supported":true,"support_ids":["t-210484","c-193984","t-184659","c-168020"]},{"sentence_id":"s3","supported":true,"support_ids":["t-82173","c-78658","t-82170","c-78661"]},{"sentence_id":"s4","supported":true,"support_ids":["t-201511","c-184858","t-82175","c-78663"]},{"sentence_id":"s5","supported":true,"support_ids":["t-82177","c-78667"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-3a1850362be25d83cc9a830a","reason":"visual_verified_identity_primary","identity_verified":true,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-96e827a2c461b90141a4f08e","relation_type":"associated_symbol_of"},{"media_id":"m-547e7226472ac5ae9878a6e7","relation_type":"associated_symbol_of"}],"media_verification":{"status":"verified","primary_media_id":"m-3a1850362be25d83cc9a830a","candidate_count":3,"visual_verified_count":3,"identity_verified_count":1,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Dokumentas ir antspaudas tiesiogiai identifikuojami kaip Aleksandro Jogailaičio.","visual_evidence":"Matomas didelis lotyniškas pergamentinis dokumentas su kabančiu raudono vaško antspaudu.","metadata_evidence":"Pavadinime ir apraše tiesiogiai nurodyta Aleksandro Jogailaičio privilegija su asmeniniu antspaudu, išduota 1503 m. Vilniuje.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/asmenys/Vasiljevičius (Maskvos valdovas)","claim_id":"t-54937","confidence":0.73},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Kijevas","claim_id":"t-82179","confidence":0.8},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-82174","confidence":0.88},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-88471","confidence":0.93},{"predicate":"buvo_zmona","direction":"inbound","target":"objektai/asmenys/Elena","claim_id":"t-82176","confidence":0.9},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-54942","confidence":0.93},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Parčevas","claim_id":"t-211554","confidence":0.82},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-82181","confidence":0.88},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-54941","confidence":0.94},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Malūnas","claim_id":"t-114162","confidence":0.9},{"predicate":"vede","direction":"outbound","target":"objektai/asmenys/Elena","claim_id":"t-54942","confidence":0.86}],"timeline":[{"date":"1461 m.","label":"Aleksandras Jogailaitis gimė 1461 m.","claimId":"t-210556"},{"date":"1492 m.","label":"1492 m.","claimId":"t-54935"},{"date":"1492 m.","label":"Lietuvos metraštis Aleksandrą Jogailaitį vadina Lietuvos didžiuoju kunigaikščiu, kurį 1492 m.","claimId":"t-210484"},{"date":"1494 m.","label":"1494 m.","claimId":"t-201511"},{"date":"1501 m.","label":"Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m.","claimId":"t-54939"},{"date":"1506 m.","label":"Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m.","claimId":"t-54941"}],"support_disclosure":{"claims":34,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 76b9b93cb9ca0460
+object_page_generated_at: '2026-09-19T01:35:08+00:00'
+object_page_source_checked_at: '2026-09-19T01:35:08+00:00'
+object_page_content_state: content
+object_page_claim_count: '34'
+object_page_source_count: '4'
+object_page_seo_description: 'Aleksandras Jogailaitis – Lietuvos didysis kunigaikštis, gimęs 1461 m. rugpjūčio 5 d. Krokuvoje, Kazimiero ir Elžbietos ketvirtasis sūnus. 1492 m. liepos 18…'
+object_page_seo_input_hash: a2f47fcf9e7224de6f776db54ad482e80ff08c6782f138217213bebf1750aa1d
+object_page_seo_generated_at: '2026-09-19T01:35:08+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Aleksandras Jogailaitis
 
@@ -81,6 +98,660 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   - santrauka: Pasakojime Aleksandro veiksmams priskiriama ryžto stoka, o jo valdžia Vilniaus administracijos kontekste vadinama silpna.
     šaltiniai:
       - Michał Baliński, Vilniaus miesto istorija (2007 m.)
+
+## Teiginiai
+
+<a id="claim-t-54935"></a>
+- t-001
+  teiginys: "1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55307
+
+<a id="claim-t-54936"></a>
+- t-002
+  teiginys: "Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=113"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta aiškiau įvardijant Aleksandrą Jogailaitį ir pašalinant perteklinę formuluotę."
+  pagrindžia:
+    - c-55307
+
+<a id="claim-t-54937"></a>
+- t-003
+  teiginys: "Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "buvo_priesas -> Vasiljevičius (Maskvos valdovas): 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai mini audringus vaidus tarp Aleksandro ir Ivano Vasiljevičiaus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Aleksandras Jogailaitis buvo priešas Vasiljevičius (Maskvos valdovas) (0.73)"
+  temporaliniai_duomenys: "įvykio data: 1494 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-78658
+
+<a id="claim-t-54938"></a>
+- t-004
+  teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiesiogiai atitinka citatos informaciją."
+  pagrindžia:
+    - c-55309
+
+<a id="claim-t-54939"></a>
+- t-005
+  teiginys: "Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m. jis buvo išrinktas Lenkijos karaliumi."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1501 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ryžto stoka yra autoriaus vertinimas, todėl pridėta atribucija."
+  pagrindžia:
+    - c-55310
+
+<a id="claim-t-54940"></a>
+- t-006
+  teiginys: "Aleksandrą Vilniuje kamavo sunki liga ir paralyžius, o gydyti buvo pakviestas Balinskis iš Krokuvos."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55311
+
+<a id="claim-t-54941"></a>
+- t-007
+  teiginys: "Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "mire -> Vilnius: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Aleksandro mirties vietą Vilniuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Aleksandras Jogailaitis mirė Vilnius (0.94)"
+  temporaliniai_duomenys: "mirties data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas vardas, kad teiginys būtų aiškus be konteksto."
+  pagrindžia:
+    - c-78667
+
+<a id="claim-t-54942"></a>
+- t-008
+  teiginys: "Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Aleksandras pasirinko Vilnių nuolatiniam gyvenimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Aleksandras Jogailaitis gyveno Vilnius (0.93); Aleksandras Jogailaitis vedė Elena (vyskupas, XV–XVI a.) (0.86)"
+  pagrindžia:
+    - c-55313
+
+<a id="claim-t-82170"></a>
+- t-009
+  teiginys: "Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78661
+
+<a id="claim-t-82171"></a>
+- t-010
+  teiginys: "Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Užupis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Užupis: mention_match, place, gap=107"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Užupis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78657
+
+<a id="claim-t-82172"></a>
+- t-011
+  teiginys: "Dėl silpnos Aleksandro Jogailaičio valdžios Vilniaus miesto administracijoje įsitvirtino netvarka ir kilo kivirčų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78668
+
+<a id="claim-t-82173"></a>
+- t-012
+  teiginys: "Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "buvo_priesas -> Vasiljevičius (Maskvos valdovas): 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo konfliktinius vaidus tarp Aleksandro ir Ivano Vasiljevičiaus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Aleksandras Jogailaitis buvo priešas Vasiljevičius (Maskvos valdovas) (0.73)"
+  temporaliniai_duomenys: "įvykio data: 1494 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai pagrindžia Aleksandro sprendimą vesti Eleną dėl politinių vaidų."
+  pagrindžia:
+    - c-78658
+
+<a id="claim-t-82174"></a>
+- t-013
+  teiginys: "Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Aleksandras tiesiogiai tituluojamas Lenkijos karaliumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Aleksandras Jogailaitis buvo valdovas Lenkija (0.88)"
+  pagrindžia:
+    - c-78670
+
+<a id="claim-t-82175"></a>
+- t-014
+  teiginys: "Aleksandras Jogailaitis buvo suteikęs privilegiją Vilniaus miesto auksakalių cechui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78663
+
+<a id="claim-t-82176"></a>
+- t-015
+  teiginys: "Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "buvo_zmona -> Aleksandras Jogailaitis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai vadina Eleną Aleksandro žmona."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) buvo žmona Aleksandras Jogailaitis (0.90); Mogiliavas priklausė Elena (vyskupas, XV–XVI a.) (0.82)"
+  pagrindžia:
+    - c-78660
+
+<a id="claim-t-82177"></a>
+- t-016
+  teiginys: "Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "mire -> Vilnius: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Aleksandro mirties vietą Vilniuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Aleksandras Jogailaitis mirė Vilnius (0.94)"
+  pagrindžia:
+    - c-78667
+
+<a id="claim-t-82178"></a>
+- t-017
+  teiginys: "Aleksandras Jogailaitis, įkurdinęs dominikonus, negrąžino Vilniaus miestui Vingrių šaltinių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78669
+
+<a id="claim-t-82179"></a>
+- t-018
+  teiginys: "Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "buvo_valdovas -> Kijevas: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Rašte Aleksandras tituluojamas Kijevo kunigaikščiu, todėl ryšys su Kijevu yra tiesiogiai pagrįstas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Aleksandras Jogailaitis buvo valdovas Kijevas (0.80)"
+  pagrindžia:
+    - c-78664
+
+<a id="claim-t-82180"></a>
+- t-019
+  teiginys: "Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Aleksandras pasirinko Vilnių gyvenimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Aleksandras Jogailaitis gyveno Vilnius (0.90); Aleksandras Jogailaitis vedė Elena (vyskupas, XV–XVI a.) (0.86)"
+  pagrindžia:
+    - c-78666
+
+<a id="claim-t-82181"></a>
+- t-020
+  teiginys: "Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Aleksandras buvo nugabentas į Vilnių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Aleksandras Jogailaitis keliavo į Vilnius (0.88); Totoriai puolė Lietuva (0.76)"
+  pagrindžia:
+    - c-78662
+
+<a id="claim-t-82182"></a>
+- t-021
+  teiginys: "Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1506 m.; įvykio data: apie 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus įvardis ir kontekstinis fragmentas."
+  pagrindžia:
+    - c-78665
+
+<a id="claim-t-82183"></a>
+- t-022
+  teiginys: "Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=88"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko konkretesnius Aleksandro veiksmus."
+  pagrindžia:
+    - c-78659
+
+<a id="claim-t-184657"></a>
+- t-023
+  teiginys: "Kazimieras prieš mirtį prašė lietuvių paskelbti Aleksandrą Jogailaitį Lietuvos valdovu."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168018
+
+<a id="claim-t-184658"></a>
+- t-024
+  teiginys: "Kojelavičius Aleksandrą Jogailaitį vaizduoja kaip jaunuolį, turėjusį valdovui deramų savybių."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168019
+
+<a id="claim-t-184659"></a>
+- t-025
+  teiginys: "Aleksandras Jogailaitis iš Vilniaus seimo buvo palydėtas į Šv. Stanislovo katedrą ir pasodintas į tėvo sostą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168020
+
+<a id="claim-t-184660"></a>
+- t-026
+  teiginys: "Aleksandras Jogailaitis apie pralaimėjimą sužinojo prie Bobro upės ir įrengė karo stovyklą Obolcuose."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168021
+
+<a id="claim-t-184661"></a>
+- t-027
+  teiginys: "Glinskio raginimų paveiktas Aleksandras Jogailaitis pasmerkė mirčiai kelis žymius Lietuvos didikus."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_priesas -> Zaberezinskis: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Zaberezinskis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Zaberezinskis įvardytas tarp asmenų, kuriuos Aleksandras pasmerkė mirčiai, todėl priešiškumas yra tiesiogiai numanomas iš veiksmo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Aleksandras Jogailaitis buvo priešas Zaberezinskis (0.68)"
+  pagrindžia:
+    - c-168022
+
+<a id="claim-t-184662"></a>
+- t-028
+  teiginys: "Aleksandras Jogailaitis Šich Achmetą pasitiko už penkių mylių ir priėmė su didele pagarba."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Radomas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Radomas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Radomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168023
+
+<a id="claim-t-188510"></a>
+- t-029
+  teiginys: "Valdant karaliui Aleksandrui Jogailaičiui, jo įsakymu pagoniškos šventyklos vietoje Ramygalos parapijoje buvo pastatyta filija."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ramygala: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Ramygala: mention_match, place, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Ramygala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171400
+
+<a id="claim-t-190845"></a>
+- t-030
+  teiginys: "Narbutas Aleksandrą Jogailaitį vadina karaliumi ir rašo, kad jo įsakymu pagoniškos šventyklos vietoje pastatyta filija."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Nevėžis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Nevėžis: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Nevėžis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+  pagrindžia:
+    - c-173727
+
+<a id="claim-t-193887"></a>
+- t-031
+  teiginys: "Ir didysis kunigaikštis Aleksandras, maty damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir ties perduoti etmono vietą."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-176512
+
+<a id="claim-t-193888"></a>
+- t-032
+  teiginys: "Aleksandras Jogailaitis gimė 1461 m. rugpjūčio 5 d. Krokuvoje ir buvo ketvirtasis Kazimiero bei Elžbietos sūnus."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176513
+
+<a id="claim-t-193889"></a>
+- t-033
+  teiginys: "Lietuvos metraštis Aleksandrą Jogailaitį vadina Lietuvos didžiuoju kunigaikščiu, kurį 1492 m. liepos 18 d. Vilniuje patvirtino visų LDK žemių seimas."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176514
+
+<a id="claim-t-196409"></a>
+- t-034
+  teiginys: "Iš karo stovyklos Aleksandras Jogailaitis leidosi į Krokuvą, gavęs žinią, kad Elžbieta susilaukė antrojo sūnaus."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-178666
+
+<a id="claim-t-196410"></a>
+- t-035
+  teiginys: "Albertas Vijūkas-Kojelavičius vaizduoja Aleksandrą Jogailaitį tik užprotestavus per pasiuntinį Vaitiekų Kiočką dėl Seversko kunigaikščių atsiskyrimo."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-168018
+
+<a id="claim-t-196411"></a>
+- t-036
+  teiginys: "Apie pralaimėjimą prie Bobro upės sužinojęs Aleksandras Jogailaitis įrengė karo stovyklą Obolcuose, kad sustabdytų priešo žygį."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-178667
+
+<a id="claim-t-196807"></a>
+- t-037
+  teiginys: "O pas kui didysis kunigaikštis Aleksandras sugrįžo į Lietu vą 39."
+  atnaujinta: "2026-07-12 22:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-176512
+
+<a id="claim-t-201511"></a>
+- t-038
+  teiginys: "1494 m. Aleksandras Jogailaitis rėmė kauniečius, reikalaudamas kauniečiams laisvos laivybos Vysla ir grasindamas Priisų miestų pirkliams represijomis."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184858
+
+<a id="claim-t-201512"></a>
+- t-039
+  teiginys: "Kitą kartą Aleksandras Jogailaitis suteikė parapinei bažnyčiai 2 kapas grašių iš vadinamųjų karčemų pinigų."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184859
+
+<a id="claim-t-201513"></a>
+- t-040
+  teiginys: "Miestiečių pasiuntiniai pateikė teismui pluoštą Aleksandro Jogailaičio valdymo laikų dokumentų, įrodančių miesto nuosavybės į ginčijamus objektus teises."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184860
 
 ## Reikšmingi paminėjimai
 - c-021
@@ -260,9 +931,9 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54935
-    - t-54936
+  pagrindzia:
+    - t-001
+    - t-002
 
 - id: c-55309
   autorius: "Michał Baliński"
@@ -284,8 +955,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54938
+  pagrindzia:
+    - t-004
 
 - id: c-55310
   autorius: "Michał Baliński"
@@ -307,8 +978,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54939
+  pagrindzia:
+    - t-005
 
 - id: c-55311
   autorius: "Michał Baliński"
@@ -330,8 +1001,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54940
+  pagrindzia:
+    - t-006
 
 - id: c-55313
   autorius: "Michał Baliński"
@@ -352,8 +1023,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54942
+  pagrindzia:
+    - t-008
 
 - id: c-78657
   autorius: "Michał Baliński"
@@ -376,8 +1047,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82171
+  pagrindzia:
+    - t-010
 
 - id: c-78658
   autorius: "Michał Baliński"
@@ -405,9 +1076,9 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54937
-    - t-82173
+  pagrindzia:
+    - t-003
+    - t-012
 
 - id: c-78659
   autorius: "Michał Baliński"
@@ -434,8 +1105,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82183
+  pagrindzia:
+    - t-022
 
 - id: c-78660
   autorius: "Michał Baliński"
@@ -483,8 +1154,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82176
+  pagrindzia:
+    - t-015
 
 - id: c-78661
   autorius: "Michał Baliński"
@@ -511,8 +1182,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82170
+  pagrindzia:
+    - t-009
 
 - id: c-78662
   autorius: "Michał Baliński"
@@ -578,8 +1249,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82181
+  pagrindzia:
+    - t-020
 
 - id: c-78663
   autorius: "Michał Baliński"
@@ -607,8 +1278,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82175
+  pagrindzia:
+    - t-014
 
 - id: c-78664
   autorius: "Michał Baliński"
@@ -635,8 +1306,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82179
+  pagrindzia:
+    - t-018
 
 - id: c-78665
   autorius: "Michał Baliński"
@@ -673,8 +1344,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82182
+  pagrindzia:
+    - t-021
 
 - id: c-78666
   autorius: "Michał Baliński"
@@ -696,8 +1367,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82180
+  pagrindzia:
+    - t-019
 
 - id: c-78667
   autorius: "Michał Baliński"
@@ -725,9 +1396,9 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54941
-    - t-82177
+  pagrindzia:
+    - t-007
+    - t-016
 
 - id: c-78668
   autorius: "Michał Baliński"
@@ -749,8 +1420,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82172
+  pagrindzia:
+    - t-011
 
 - id: c-78669
   autorius: "Michał Baliński"
@@ -779,8 +1450,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82178
+  pagrindzia:
+    - t-017
 
 - id: c-78670
   autorius: "Michał Baliński"
@@ -816,8 +1487,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82174
+  pagrindzia:
+    - t-013
 
 - id: c-168018
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -855,8 +1526,9 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196410
+  pagrindzia:
+    - t-023
+    - t-035
 
 - id: c-168019
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -881,6 +1553,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
 
 - id: c-168020
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -908,8 +1582,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184659
+  pagrindzia:
+    - t-025
 
 - id: c-168021
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -933,8 +1607,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184660
+  pagrindzia:
+    - t-026
 
 - id: c-168022
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -968,6 +1642,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-027
 
 - id: c-168023
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -993,8 +1669,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184662
+  pagrindzia:
+    - t-028
 
 - id: c-171400
   autorius: "Teodoras Narbutas"
@@ -1015,6 +1691,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-029
 
 - id: c-173727
   autorius: "Teodoras Narbutas"
@@ -1039,6 +1717,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-030
 
 - id: c-176512
   autorius: "Anoniminis metraštininkas"
@@ -1062,6 +1742,9 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-031
+    - t-037
 
 - id: c-176513
   autorius: "Anoniminis metraštininkas"
@@ -1079,6 +1762,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-032
 
 - id: c-176514
   autorius: "Anoniminis metraštininkas"
@@ -1093,6 +1778,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-033
 
 - id: c-178666
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1114,8 +1801,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196409
+  pagrindzia:
+    - t-034
 
 - id: c-178667
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1141,9 +1828,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184660
-    - t-196411
+  pagrindzia:
+    - t-036
 
 - id: c-184858
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1159,8 +1845,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201511
+  pagrindzia:
+    - t-038
 
 - id: c-184859
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1176,8 +1862,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201512
+  pagrindzia:
+    - t-039
 
 - id: c-184860
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1195,51 +1881,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201513
-
-- id: c-193656
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 150"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
-  citata_originali: |
-    O pas­
-    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
-    vą 39.
-    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
-    das, ir paplito žmonėse prancūziškos ligos40. Paskui,
-    sekančių metų vasarą bei rudenį4I, atėjo Moldavijos
-    vaivada Steponas, o su juo — turkų sultono didysis pa­
-    ša, vardu Malkočas 42, vedinas daugeliu žmonių, ir ka­
-    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
-    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
-    kuvos 43.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- id: c-193984
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 305"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 305."
-  citata_originali: |
-    1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
-    LDK žemių seimas Vilniuje, 1492.VII.18.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
+    - t-040
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
@@ -1248,555 +1891,3 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - Aleksandras Jogailaitis mirė [[objektai/vietos/Vilnius]]
 - Aleksandras Jogailaitis siuntė į [[objektai/vietos/Maskva]]
 - Aleksandras Jogailaitis gyveno [[objektai/vietos/Vilnius]]
-
-## Teiginiai
-
-<a id="claim-t-210484"></a>
-- t-001
-  teiginys: "Lietuvos metraštis Aleksandrą Jogailaitį vadina Lietuvos didžiuoju kunigaikščiu, kurį 1492 m. liepos 18 d. Vilniuje patvirtino visų LDK žemių seimas."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-193984
-
-<a id="claim-t-210556"></a>
-- t-002
-  teiginys: "Aleksandras Jogailaitis gimė 1461 m. rugpjūčio 5 d. Krokuvoje ir buvo ketvirtasis Kazimiero bei Elžbietos sūnus."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-
-<a id="claim-t-211375"></a>
-- t-003
-  teiginys: "O pas kui didysis kunigaikštis Aleksandras sugrįžo į Lietu vą 39."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193656
-
-<a id="claim-t-54935"></a>
-- t-54935
-  teiginys: "1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1492 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55307
-
-<a id="claim-t-54936"></a>
-- t-54936
-  teiginys: "Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=113"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1492 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta aiškiau įvardijant Aleksandrą Jogailaitį ir pašalinant perteklinę formuluotę."
-  pagrindžia:
-    - c-55307
-
-<a id="claim-t-54937"></a>
-- t-54937
-  teiginys: "Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "buvo_priesas -> Vasiljevičius (Maskvos valdovas): 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai mini audringus vaidus tarp Aleksandro ir Ivano Vasiljevičiaus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Aleksandras Jogailaitis buvo priešas Vasiljevičius (Maskvos valdovas) (0.73)"
-  temporaliniai_duomenys: "įvykio data: 1494 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-78658
-
-<a id="claim-t-54938"></a>
-- t-54938
-  teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1500 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiesiogiai atitinka citatos informaciją."
-  pagrindžia:
-    - c-55309
-
-<a id="claim-t-54939"></a>
-- t-54939
-  teiginys: "Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m. jis buvo išrinktas Lenkijos karaliumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1501 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Ryžto stoka yra autoriaus vertinimas, todėl pridėta atribucija."
-  pagrindžia:
-    - c-55310
-
-<a id="claim-t-54940"></a>
-- t-54940
-  teiginys: "Aleksandrą Vilniuje kamavo sunki liga ir paralyžius, o gydyti buvo pakviestas Balinskis iš Krokuvos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55311
-
-<a id="claim-t-54941"></a>
-- t-54941
-  teiginys: "Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "mire -> Vilnius: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Aleksandro mirties vietą Vilniuje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Aleksandras Jogailaitis mirė Vilnius (0.94)"
-  temporaliniai_duomenys: "mirties data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išplėstas vardas, kad teiginys būtų aiškus be konteksto."
-  pagrindžia:
-    - c-78667
-
-<a id="claim-t-54942"></a>
-- t-54942
-  teiginys: "Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Aleksandras pasirinko Vilnių nuolatiniam gyvenimui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Aleksandras Jogailaitis gyveno Vilnius (0.93); Aleksandras Jogailaitis vedė Elena (vyskupas, XV–XVI a.) (0.86)"
-  pagrindžia:
-    - c-55313
-
-<a id="claim-t-82170"></a>
-- t-82170
-  teiginys: "Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78661
-
-<a id="claim-t-82171"></a>
-- t-82171
-  teiginys: "Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Užupis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Užupis: mention_match, place, gap=107"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Užupis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78657
-
-<a id="claim-t-82172"></a>
-- t-82172
-  teiginys: "Dėl silpnos Aleksandro Jogailaičio valdžios Vilniaus miesto administracijoje įsitvirtino netvarka ir kilo kivirčų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78668
-
-<a id="claim-t-82173"></a>
-- t-82173
-  teiginys: "Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "buvo_priesas -> Vasiljevičius (Maskvos valdovas): 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo konfliktinius vaidus tarp Aleksandro ir Ivano Vasiljevičiaus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Aleksandras Jogailaitis buvo priešas Vasiljevičius (Maskvos valdovas) (0.73)"
-  temporaliniai_duomenys: "įvykio data: 1494 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai pagrindžia Aleksandro sprendimą vesti Eleną dėl politinių vaidų."
-  pagrindžia:
-    - c-78658
-
-<a id="claim-t-82174"></a>
-- t-82174
-  teiginys: "Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Aleksandras tiesiogiai tituluojamas Lenkijos karaliumi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Aleksandras Jogailaitis buvo valdovas Lenkija (0.88)"
-  pagrindžia:
-    - c-78670
-
-<a id="claim-t-82175"></a>
-- t-82175
-  teiginys: "Aleksandras Jogailaitis buvo suteikęs privilegiją Vilniaus miesto auksakalių cechui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78663
-
-<a id="claim-t-82176"></a>
-- t-82176
-  teiginys: "Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "buvo_zmona -> Aleksandras Jogailaitis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai vadina Eleną Aleksandro žmona."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) buvo žmona Aleksandras Jogailaitis (0.90); Mogiliavas priklausė Elena (vyskupas, XV–XVI a.) (0.82)"
-  pagrindžia:
-    - c-78660
-
-<a id="claim-t-82177"></a>
-- t-82177
-  teiginys: "Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "mire -> Vilnius: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Aleksandro mirties vietą Vilniuje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Aleksandras Jogailaitis mirė Vilnius (0.94)"
-  pagrindžia:
-    - c-78667
-
-<a id="claim-t-82178"></a>
-- t-82178
-  teiginys: "Aleksandras Jogailaitis, įkurdinęs dominikonus, negrąžino Vilniaus miestui Vingrių šaltinių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78669
-
-<a id="claim-t-82179"></a>
-- t-82179
-  teiginys: "Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "buvo_valdovas -> Kijevas: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Rašte Aleksandras tituluojamas Kijevo kunigaikščiu, todėl ryšys su Kijevu yra tiesiogiai pagrįstas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Aleksandras Jogailaitis buvo valdovas Kijevas (0.80)"
-  pagrindžia:
-    - c-78664
-
-<a id="claim-t-82180"></a>
-- t-82180
-  teiginys: "Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Aleksandras pasirinko Vilnių gyvenimui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Aleksandras Jogailaitis gyveno Vilnius (0.90); Aleksandras Jogailaitis vedė Elena (vyskupas, XV–XVI a.) (0.86)"
-  pagrindžia:
-    - c-78666
-
-<a id="claim-t-82181"></a>
-- t-82181
-  teiginys: "Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Aleksandras buvo nugabentas į Vilnių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Aleksandras Jogailaitis keliavo į Vilnius (0.88); Totoriai puolė Lietuva (0.76)"
-  pagrindžia:
-    - c-78662
-
-<a id="claim-t-82182"></a>
-- t-82182
-  teiginys: "Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1506 m.; įvykio data: apie 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus įvardis ir kontekstinis fragmentas."
-  pagrindžia:
-    - c-78665
-
-<a id="claim-t-82183"></a>
-- t-82183
-  teiginys: "Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Laivai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1492 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko konkretesnius Aleksandro veiksmus."
-  pagrindžia:
-    - c-78659
-
-<a id="claim-t-184659"></a>
-- t-184659
-  teiginys: "Aleksandras Jogailaitis iš Vilniaus seimo buvo palydėtas į Šv. Stanislovo katedrą ir pasodintas į tėvo sostą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168020
-
-<a id="claim-t-184660"></a>
-- t-184660
-  teiginys: "Aleksandras Jogailaitis apie pralaimėjimą sužinojo prie Bobro upės ir įrengė karo stovyklą Obolcuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168021
-    - c-178667
-
-<a id="claim-t-184662"></a>
-- t-184662
-  teiginys: "Aleksandras Jogailaitis Šich Achmetą pasitiko už penkių mylių ir priėmė su didele pagarba."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Radomas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Radomas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Radomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168023
-
-<a id="claim-t-196409"></a>
-- t-196409
-  teiginys: "Iš karo stovyklos Aleksandras Jogailaitis leidosi į Krokuvą, gavęs žinią, kad Elžbieta susilaukė antrojo sūnaus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
-  pagrindžia:
-    - c-178666
-
-<a id="claim-t-196410"></a>
-- t-196410
-  teiginys: "Albertas Vijūkas-Kojelavičius vaizduoja Aleksandrą Jogailaitį tik užprotestavus per pasiuntinį Vaitiekų Kiočką dėl Seversko kunigaikščių atsiskyrimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
-  pagrindžia:
-    - c-168018
-
-<a id="claim-t-196411"></a>
-- t-196411
-  teiginys: "Apie pralaimėjimą prie Bobro upės sužinojęs Aleksandras Jogailaitis įrengė karo stovyklą Obolcuose, kad sustabdytų priešo žygį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
-  pagrindžia:
-    - c-178667
-
-<a id="claim-t-201511"></a>
-- t-201511
-  teiginys: "1494 m. Aleksandras Jogailaitis rėmė kauniečius, reikalaudamas kauniečiams laisvos laivybos Vysla ir grasindamas Priisų miestų pirkliams represijomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184858
-
-<a id="claim-t-201512"></a>
-- t-201512
-  teiginys: "Kitą kartą Aleksandras Jogailaitis suteikė parapinei bažnyčiai 2 kapas grašių iš vadinamųjų karčemų pinigų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184859
-
-<a id="claim-t-201513"></a>
-- t-201513
-  teiginys: "Miestiečių pasiuntiniai pateikė teismui pluoštą Aleksandro Jogailaičio valdymo laikų dokumentų, įrodančių miesto nuosavybės į ginčijamus objektus teises."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184860
-

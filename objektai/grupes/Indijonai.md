@@ -27,6 +27,17 @@ media_all_json: |-
 
 Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.
 
+## Teiginiai
+
+<a id="claim-t-07835"></a>
+- t-001
+  teiginys: "Indijonai savo didžiojo dievo Višnaus įsikūnijimą vadino Adivarage Perunal."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-10066
+
 ## Citatos
 
 - id: c-10066
@@ -44,13 +55,5 @@ Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210078"></a>
-- t-001
-  teiginys: "Indijonai savo didžiojo dievo Višnaus įsikūnijimą vadino Adivarage Perunal."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
+  pagrindzia:
+    - t-001

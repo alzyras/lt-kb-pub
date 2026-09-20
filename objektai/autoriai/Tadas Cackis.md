@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Tadas Cackis'
+pavadinimas: Tadas Cackis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos: []
@@ -9,7 +9,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'C'
+  - C
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -17,19 +17,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-85a8c3452134b6d386723de7"
-canonical_name: "Tadas Cackis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Tadas Cackis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-85a8c3452134b6d386723de7
+canonical_name: Tadas Cackis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Tadas Cackis
 sameAs: []
-canonical_biography: "Cackio veikalas buvo T. Narbuto Saurų dvaro bibliotekoje."
+canonical_biography: Cackio veikalas buvo T. Narbuto Saurų dvaro bibliotekoje.
 ---
 # Tadas Cackis
 
@@ -74,6 +74,5 @@ Cackio veikalas buvo T. Narbuto Saurų dvaro bibliotekoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

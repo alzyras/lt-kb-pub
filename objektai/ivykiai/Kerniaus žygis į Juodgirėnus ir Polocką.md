@@ -36,6 +36,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201324"></a>
+- t-001
+  teiginys: "Įėjusiu į Juodgirėnus (šiandien Baltaisiais Gudais vadinamus) pasiskaidė į žaras ir, apygardas Polocko baisiai nuteriojusiu, į pačią pilį mojavo laužtis, bet šiuo kartu lio vusiuos tą daryti, nusluoguotu visokiomis gėrybėmis pagrįžo laimingai į Kernavę, savo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184674
+
 ## Citatos
 
 - id: c-184674
@@ -61,20 +75,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201324"></a>
-- t-001
-  teiginys: "Įėjusiu į Juodgirėnus (šiandien Baltaisiais Gudais vadinamus) pasiskaidė į žaras ir, apygardas Polocko baisiai nuteriojusiu, į pačią pilį mojavo laužtis, bet šiuo kartu lio vusiuos tą daryti, nusluoguotu visokiomis gėrybėmis pagrįžo laimingai į Kernavę, savo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184674
-

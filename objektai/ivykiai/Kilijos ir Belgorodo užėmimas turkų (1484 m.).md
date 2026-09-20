@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kilijos ir Belgorodo užėmimas turkų (1484 m.)'
+pavadinimas: Kilijos ir Belgorodo užėmimas turkų (1484 m.)
 variantai:
-  - 'Kilijos ir Belgorodo užėmimas turkų'
+  - Kilijos ir Belgorodo užėmimas turkų
 aliases:
-  - 'Kilijos ir Belgorodo užėmimas turkų'
+  - Kilijos ir Belgorodo užėmimas turkų
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1484 m.'
+  - 1484 m.
 date_start: '1484'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kilijos ir Belgorodo užėmimas turkų (1484 m.)
 
@@ -81,6 +78,5 @@ Kilija ir Belgorodas buvo turkų užimti 1484 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

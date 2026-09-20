@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'Vydžių bažnyčios administratoriaus Stanislovo Tauroševičiaus 1854. III. 24 raštas M. Valančiui'
+pavadinimas: Vydžių bažnyčios administratoriaus Stanislovo Tauroševičiaus 1854. III. 24 raštas M. Valančiui
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1671 m.'
-  - '1939 m.'
+  - 1671 m.
+  - 1939 m.
 date_start: '1671'
 date_end: '1939'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVII'
-  - 'XX'
+  - XVII
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vydžių bažnyčios administratoriaus Stanislovo Tauroševičiaus 1854. III. 24 raštas M. Valančiui
 

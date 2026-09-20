@@ -28,6 +28,20 @@ XVI–XVIII a. Abiejų Tautų Respublikos dvisektoriame ūkyje valstiečiams sva
 
 XVI–XVIII a. Abiejų Tautų Respublikos dvisektoriame ūkyje valstiečiams svarbiausias buvo natūrinis, o bajorams – piniginis sektorius.
 
+## Teiginiai
+
+<a id="claim-t-203639"></a>
+- t-001
+  teiginys: "XVI–XVIII a. Abiejų Tautų Respublikos dvisektoriame ūkyje valstiečiams svarbiausias buvo natūrinis, o bajorams – piniginis sektorius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186243
+
 ## Citatos
 
 - id: c-186243
@@ -47,20 +61,5 @@ XVI–XVIII a. Abiejų Tautų Respublikos dvisektoriame ūkyje valstiečiams sva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203639"></a>
-- t-001
-  teiginys: "XVI–XVIII a. Abiejų Tautų Respublikos dvisektoriame ūkyje valstiečiams svarbiausias buvo natūrinis, o bajorams – piniginis sektorius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
-  pagrindžia:
-    - c-186243
-

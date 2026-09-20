@@ -1,12 +1,12 @@
 ---
 tipas: autorius
-pavadinimas: 'Martynas Smigleckis'
+pavadinimas: Martynas Smigleckis
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1618 m.'
-  - '1646 m.'
+  - 1618 m.
+  - 1646 m.
 date_start: '1618'
 date_end: '1646'
 sukurta: ''
@@ -15,28 +15,42 @@ tags:
   - autorius
   - mokslininkas
 amziai:
-  - 'XVII'
+  - XVII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5448e986a23e974286f0d364"
-canonical_name: "Martynas Smigleckis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Martynas Smigleckis","Martyno Smigleckio"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5448e986a23e974286f0d364
+canonical_name: Martynas Smigleckis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Martynas Smigleckis
+  - Martyno Smigleckio
 sameAs: []
-canonical_biography: "Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip Vilniaus universiteto profesorių veikalų poveikio Europai pavyzdį."
+canonical_biography: Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip Vilniaus universiteto profesorių veikalų poveikio Europai pavyzdį.
+external_sources_json: '[{"title":"Martynas Smigleckis","url":"https://lt.wikipedia.org/wiki/Martynas_Smigleckis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Martynas Smigleckis","url":"https://www.vle.lt/straipsnis/martynas-smigleckis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:51:04+00:00","source_checked_at":"2026-09-20T04:51:04+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Martynas Smigleckis","url":"https://lt.wikipedia.org/wiki/Martynas_Smigleckis","publisher":"Vikipedija","language":"lt","article_id":"302844","revision_id":"7747751","published_at":"2026-02-09T05:39:11Z","version_pk":"","content_hash":"f6462599a036fb56cd65b6699cb2ad5033c216c305f6afaec21dd20211f314b4","retrieved_at":"2026-09-20T04:48:44+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Martynas_Smigleckis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"302844"}},"intro":"Martynas Smigleckis (lot. Martinus Leopolitanus, lenk. Marcin Śmiglecki 1564 m. lapkričio 11 d. Lvove, Ukrainoje – 1618 m. liepos 26 d. Kališe, Lenkijoje) – Lietuvos ir Lenkijos filosofas, teologas, jėzuitas.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1564 m. lapkričio 11 d.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Lvovas, Ukraina","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1618 m. lapkričio 26 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Kališas, Lenkija","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Martynas Smigleckis","url":"https://lt.wikipedia.org/wiki/Martynas_Smigleckis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Martynas Smigleckis","url":"https://www.vle.lt/straipsnis/martynas-smigleckis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Martynas_Smigleckis","https://www.vle.lt/straipsnis/martynas-smigleckis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"88f389e7d46591f228161373","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Parašė veikalą apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir privačią prekybą.","context":"Šaltinyje Martynas Smigleckis įvardijamas šio veikalo autoriumi.","support_ids":["t-105592","c-98295"],"source_refs":[{"kind":"internal_claim","claim_id":"t-105592","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-98295","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las, parašytas kun. Martyno Smig- leckio, jėzuito, šv. teologijos dakta­ ro\". 7-as leidimas, Krokuvoje, pas Andžejų Piotrkovčiką, 1640, in 4to."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8e24e542d498665c40cb93f0","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Parašė „Logiką“ (1618 m.), kuria rėmėsi Sorbonos ir Oksfordo daktarai.","context":"Teiginys pateiktas Lietuvos istorijos aprašyme apie Vilniaus universiteto profesorių veikalų sklaidą.","support_ids":["t-105593","c-22169"],"source_refs":[{"kind":"internal_claim","claim_id":"t-105593","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-22169","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Vilniaus universite- to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose vietoje įprasto Horacijaus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f8fff9e79d335a4cfc13d279","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Kunigas, jėzuitas ir šv. teologijos daktaras.","context":"Taip Martyną Smigleckį apibūdina šaltinyje cituojamas veikalo aprašymas.","support_ids":["t-105595","c-98295"],"source_refs":[{"kind":"internal_claim","claim_id":"t-105595","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-98295","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las, parašytas kun. Martyno Smig- leckio, jėzuito, šv. teologijos dakta­ ro\". 7-as leidimas, Krokuvoje, pas Andžejų Piotrkovčiką, 1640, in 4to."}],"status":"published","conflict_status":"clear"},{"trait_id":"a61c8acf7cb8248860e75c54","canonical_code":"author.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Jo „Logika“ (1618 m.) pasiekė protestantiškąją Angliją ir ja rėmėsi Sorbonos bei Oksfordo daktarai.","context":"Šaltinis tai pateikia kaip Vilniaus universiteto profesorių veikalų tarptautinės sklaidos pavyzdį.","support_ids":["t-105593","c-22169"],"source_refs":[{"kind":"internal_claim","claim_id":"t-105593","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-22169","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Vilniaus universite- to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose vietoje įprasto Horacijaus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7965004bd29f4e842efa4c4d","canonical_code":"author.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Michał Baliński jo knygą apibūdina kaip „nepaprastai parašytą“ ir „savo laiku labai patrauklią“.","context":"Tai Michał Balińskio vertinimas, pateiktas 2007 m. veikale „Vilniaus miesto istorija“, kalbant apie knygą ir jos 1640 m. leidimą.","support_ids":["t-105592","c-98295"],"source_refs":[{"kind":"internal_claim","claim_id":"t-105592","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-98295","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las, parašytas kun. Martyno Smig- leckio, jėzuito, šv. teologijos dakta­ ro\". 7-as leidimas, Krokuvoje, pas Andžejų Piotrkovčiką, 1640, in 4to."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Martynas Smigleckis – istoriniuose šaltiniuose minimas autorius, jėzuitas ir šventosios teologijos daktaras. Jis parašė veikalą apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir privačią prekybą – knygą, kuri šaltinyje apibūdinama kaip savo laikui nepaprastai parašyta ir patraukli. Šio veikalo septintasis leidimas 1640 m. buvo išspausdintas Krokuvoje, pas Andžejų Piotrkovčiką, todėl leidybos istorijoje išsiskiria ne tik turiniu, bet ir pakartotiniu išleidimu. Kitas svarbus Smigleckio darbas – „Logika“ (1618 m.): ji pasiekė protestantiškąją Angliją, o ja rėmėsi Sorbonos ir Oksfordo daktarai. Pateikti duomenys leidžia pagrįstai pabrėžti jo veikalų tarptautinį sklaidos mastą, tačiau nepakanka informacijos patikimai nusakyti autoriaus gyvenimo datas ar tikslią veiklos vietą.","sentences":[{"sentence_id":"s1","text":"Martynas Smigleckis – istoriniuose šaltiniuose minimas autorius, jėzuitas ir šventosios teologijos daktaras.","support_ids":["t-105595","c-98295"]},{"sentence_id":"s2","text":"Jis parašė veikalą apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir privačią prekybą – knygą, kuri šaltinyje apibūdinama kaip savo laikui nepaprastai parašyta ir patraukli.","support_ids":["t-105592","t-105595","c-98295"]},{"sentence_id":"s3","text":"Šio veikalo septintasis leidimas 1640 m. buvo išspausdintas Krokuvoje, pas Andžejų Piotrkovčiką, todėl leidybos istorijoje išsiskiria ne tik turiniu, bet ir pakartotiniu išleidimu.","support_ids":["c-98295"]},{"sentence_id":"s4","text":"Kitas svarbus Smigleckio darbas – „Logika“ (1618 m.): ji pasiekė protestantiškąją Angliją, o ja rėmėsi Sorbonos ir Oksfordo daktarai.","support_ids":["t-105593","c-22169"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Smigleckis buvo knygos autorius, jėzuitas ir šventosios teologijos daktaras."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina veikalo temą, autorystę ir apibūdinimą kaip nepaprastai parašyto bei patrauklaus savo laikui."},{"sentence_id":"s3","supported":false,"reason":"Šaltinis patvirtina septintąjį leidimą, 1640 m., Krokuvą ir Andžejų Piotrkovčiką, tačiau tiesiogiai nepatvirtina išvados, kad leidybos istorijoje veikalas tuo išsiskiria."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo „Logiką“ (1618 m.), jos pasiekimą protestantiškoje Anglijoje ir tai, kad ja rėmėsi Sorbonos bei Oksfordo daktarai."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-105595","c-98295"]},{"sentence_id":"s2","supported":true,"support_ids":["t-105592","t-105595","c-98295"]},{"sentence_id":"s3","supported":false,"support_ids":["c-98295"]},{"sentence_id":"s4","supported":true,"support_ids":["t-105593","c-22169"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":4,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e6d3f4745fb93d73
+object_page_generated_at: '2026-09-20T04:51:04+00:00'
+object_page_source_checked_at: '2026-09-20T04:51:04+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '2'
+object_page_seo_description: 'Martynas Smigleckis – istoriniuose šaltiniuose minimas autorius, jėzuitas ir šventosios teologijos daktaras. Jis parašė veikalą apie palūkanas, atpirkimus…'
+object_page_seo_input_hash: 06ea5657e546744a3ad0cd57cb2160b9a13140c1fd472856615a14cdaac33e42
+object_page_seo_generated_at: '2026-09-20T04:51:04+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Martynas Smigleckis
 
@@ -47,6 +61,91 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 ## Darbai
 
 - Logika
+
+## Teiginiai
+
+<a id="claim-t-105591"></a>
+- t-001
+  teiginys: "Martynas Smigleckis, aptardamas privačios prekybos arba monopolio privalumus ir trūkumus, Vilnių pateikė kaip stiklo prekių pavyzdį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas Smigleckis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Smigleckis\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-98297
+
+<a id="claim-t-105592"></a>
+- t-002
+  teiginys: "Martynas Smigleckis parašė veikalą apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir privačią prekybą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas Smigleckis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Smigleckis\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-98295
+
+<a id="claim-t-105593"></a>
+- t-003
+  teiginys: "Martyno Smigleckio „Logika“ (1618 m.) pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Anglai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas Smigleckis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Anglai: mention_match, group, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Smigleckis\" parinktas kaip owner_note_path. Targetas \"Anglai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1618 m.; įvykio data: 1646 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  pagrindžia:
+    - c-22169
+
+<a id="claim-t-105595"></a>
+- t-004
+  teiginys: "Martynas Smigleckis buvo knygos „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ autorius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas Smigleckis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Smigleckis\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-98295
+
+<a id="claim-t-105596"></a>
+- t-005
+  teiginys: "Martynas Smigleckis teigė, kad neteisinga respublikoje neleisti privačios prekybos dėl didesnio prekių ištekliaus mieste."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas Smigleckis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Smigleckis\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-98293
 
 ## Citatos
 
@@ -74,7 +173,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-98293
@@ -103,7 +202,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-98295
@@ -131,7 +230,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-004
 
@@ -162,91 +261,5 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-105591"></a>
-- t-001
-  teiginys: "Martynas Smigleckis, aptardamas privačios prekybos arba monopolio privalumus ir trūkumus, Vilnių pateikė kaip stiklo prekių pavyzdį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas Smigleckis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Smigleckis\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-98297
-
-<a id="claim-t-105592"></a>
-- t-002
-  teiginys: "Martynas Smigleckis parašė veikalą apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir privačią prekybą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas Smigleckis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Smigleckis\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-98295
-
-<a id="claim-t-105593"></a>
-- t-003
-  teiginys: "Martyno Smigleckio „Logika“ (1618 m.) pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Anglai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas Smigleckis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Anglai: mention_match, group, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Smigleckis\" parinktas kaip owner_note_path. Targetas \"Anglai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1618 m.; įvykio data: 1646 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  pagrindžia:
-    - c-22169
-
-<a id="claim-t-105595"></a>
-- t-004
-  teiginys: "Martynas Smigleckis buvo knygos „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ autorius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas Smigleckis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Smigleckis\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-98295
-
-<a id="claim-t-105596"></a>
-- t-005
-  teiginys: "Martynas Smigleckis teigė, kad neteisinga respublikoje neleisti privačios prekybos dėl didesnio prekių ištekliaus mieste."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas Smigleckis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Smigleckis\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-98293
-

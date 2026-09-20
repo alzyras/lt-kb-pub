@@ -32,6 +32,20 @@ media_all_json: |-
 
 Žinoma, kad 1486 m. Kazimieras Jogailaitis išdalijo 150 kapų lietuviškųjų grašių karčemų pinigų, surinktų Kaune, 1488 m. - 86 kapas.
 
+## Teiginiai
+
+<a id="claim-t-201805"></a>
+- t-001
+  teiginys: "Žinoma, kad 1486 m. Kazimieras Jogailaitis išdalijo 150 kapų lietuviškųjų grašių karčemų pinigų, surinktų Kaune, 1488 m. - 86 kapas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185152
+
 ## Citatos
 
 - id: c-185152
@@ -48,20 +62,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201805"></a>
-- t-001
-  teiginys: "Žinoma, kad 1486 m. Kazimieras Jogailaitis išdalijo 150 kapų lietuviškųjų grašių karčemų pinigų, surinktų Kaune, 1488 m. - 86 kapas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185152
-

@@ -55,9 +55,9 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     - c-46396
 
 <a id="claim-t-168659"></a>
-- t-168659
+- t-002
   teiginys: "„Saulės“ draugija Kaune įsteigė buhalterijos kursus, rengusius prekybai ir vartotojų bendrovėms reikalingus žmones."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -89,12 +89,10 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     „Saulės" draugija taip pat Kaune įsteigė buhalterijos
     kursus, kurie ruošė tam darbui tinkamus žmones.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-168659
-
+    - t-002

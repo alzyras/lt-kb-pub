@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Brabantas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Brabantas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Brabantas'
+  - Brabantas
 aliases:
-  - 'Brabantas'
+  - Brabantas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-dcaad2ce6d1a290b6355fda5"
-canonical_name: "Brabantas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Brabantas","Brabantas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-dcaad2ce6d1a290b6355fda5
+canonical_name: Brabantas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Brabantas
+  - Brabantas (vieta)
 sameAs: []
-canonical_biography: "Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei."
+canonical_biography: 'Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei.'
 ---
 # Brabantas (vieta)
 
@@ -69,6 +69,5 @@ Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

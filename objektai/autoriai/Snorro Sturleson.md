@@ -39,6 +39,20 @@ canonical_biography: "Įdedame čia trumpą žinutę apie tą Snorro ir jo darbu
 
 Įdedame čia trumpą žinutę apie tą Snorro ir jo darbus.
 
+## Teiginiai
+
+<a id="claim-t-194316"></a>
+- t-001
+  teiginys: "Įdedame čia trumpą žinutę apie tą Snorro ir jo darbus."
+  atnaujinta: "2026-07-06 12:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176908
+
 ## Citatos
 
 - id: c-176908
@@ -82,20 +96,5 @@ canonical_biography: "Įdedame čia trumpą žinutę apie tą Snorro ir jo darbu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-194316"></a>
-- t-001
-  teiginys: "Įdedame čia trumpą žinutę apie tą Snorro ir jo darbus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176908
-

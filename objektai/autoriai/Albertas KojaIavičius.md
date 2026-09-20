@@ -39,6 +39,20 @@ canonical_biography: "Lietuvos istorikas Albertas KojaIavičius užrašė savo l
 
 Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsitikinimą, kad Kaune pranciškonus įkurdinęs Vytautas, atsidėkodamas už išsigelbėjimą nesėkmingame 1399 m. Vorsklos mūšyje su to toriais.
 
+## Teiginiai
+
+<a id="claim-t-202220"></a>
+- t-001
+  teiginys: "Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsitikinimą, kad Kaune pranciškonus įkurdinęs Vytautas, atsidėkodamas už išsigelbėjimą nesėkmingame 1399 m. Vorsklos mūšyje su to toriais."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185567
+
 ## Citatos
 
 - id: c-185567
@@ -55,20 +69,5 @@ Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202220"></a>
-- t-001
-  teiginys: "Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsitikinimą, kad Kaune pranciškonus įkurdinęs Vytautas, atsidėkodamas už išsigelbėjimą nesėkmingame 1399 m. Vorsklos mūšyje su to toriais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185567
-

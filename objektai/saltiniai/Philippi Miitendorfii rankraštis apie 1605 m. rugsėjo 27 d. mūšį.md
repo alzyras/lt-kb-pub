@@ -33,6 +33,32 @@ media_all_json: |-
 
 Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuriame nurodyti 85 riteriai iš Angeširų apskrities.
 
+## Teiginiai
+
+<a id="claim-t-191805"></a>
+- t-001
+  teiginys: "Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuriame nurodyti 85 riteriai iš Angeširų apskrities."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_valdovas -> Kuršas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ketleris: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kuršas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ketleris tiesiogiai įvardytas Kuršo kunigaikščiu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Ketleris buvo valdovas Kuršas (0.94)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1605 m.; valdymo laikotarpis: apie 1605 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Ketleris buvo valdovas Kuršas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys išskleidžia rankraščio kalbą, mūšio datą ir jame minimą Angeširų apskrities detalę. Palikta Narbuto atribucija, nes cituojama jo turėto rankraščio informacija."
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174687
+
 ## Citatos
 
 - id: c-174687
@@ -62,28 +88,5 @@ Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuria
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-213545"></a>
-- t-001
-  teiginys: "Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuriame nurodyti 85 riteriai iš Angeširų apskrities."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_valdovas -> Kuršas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ketleris: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kuršas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ketleris tiesiogiai įvardytas Kuršo kunigaikščiu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Ketleris buvo valdovas Kuršas (0.94)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1605 m.; valdymo laikotarpis: apie 1605 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Ketleris buvo valdovas Kuršas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys išskleidžia rankraščio kalbą, mūšio datą ir jame minimą Angeširų apskrities detalę. Palikta Narbuto atribucija, nes cituojama jo turėto rankraščio informacija."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-
+  pagrindzia:
+    - t-001

@@ -34,6 +34,25 @@ media_all_json: |-
 
 Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
 
+## Teiginiai
+
+<a id="claim-t-86823"></a>
+- t-001
+  teiginys: "Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Savickiai: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Savickiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad namas atiteko Savickiams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Namas priklausė Savickiai (0.94)"
+  pagrindžia:
+    - c-82802
+
 ## Citatos
 
 - id: c-82802
@@ -53,28 +72,8 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Namas]]
-
-## Teiginiai
-
-<a id="claim-t-86823"></a>
-- t-001
-  teiginys: "Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Savickiai: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Savickiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad namas atiteko Savickiams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Namas priklausė Savickiai (0.94)"
-  pagrindžia:
-    - c-82802
-

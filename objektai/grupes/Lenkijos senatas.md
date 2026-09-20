@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Lenkijos senatas'
+pavadinimas: Lenkijos senatas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -17,18 +17,187 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T16:20:51+00:00","source_checked_at":"2026-09-19T16:20:51+00:00","counts":{"relations":2,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7a7580703dc0e2843adfe8ba","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Dvasininkijos luomo ir pasauliečių senatoriai","context":"Teodoro Narbuto pasakojime apie Lenkijos senato 15–16 a. diplomatinius veiksmus.","support_ids":["t-206180","c-188795"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206180","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188795","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Žengus šį žingsnį, didžiajam magistrui buvo pasiųstas Lenkijos Karalystės dvasininkijos luomo ir pa­ sauliečių senatorių laiškas, pažymėtas gegužės 8 diena, kuria­ me nurodoma, kad jis elgiasi prieštaraudam as savo paties pareiškimams ir pastangoms siekti Lenkijos Karūnos draugys­ tės, ko neseniai buvo ėmęsis pas karalienę Jadvygą; senatas, norėdamas aiškiau įsitikinti, ką mąsto didysis magistras, tyčia 1 Dlugošas, Mechovita, Strijkovskis, Glebavičius ir kiti. 421 nusiuntė pasiuntinį ir įteikė užklausimą: Ar taiką su ordinu reikia laikyti nutrauktą, ar ne?1"}],"status":"published","conflict_status":"clear"},{"trait_id":"60468406c9dcbbbcdc4bb61c","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Laikytis Lietuvos unijos su Lenkija ir riboti Žygimanto pastangas gauti karaliaus titulą bei karališkąsias insignijas be karaliaus ir karalystės luomų žinios bei pritarimo","context":"Albertas Vijūkas-Kojelavičius taip aprašo susitarimo sąlygas.","support_ids":["t-196098","c-167901"],"source_refs":[{"kind":"internal_claim","claim_id":"t-196098","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-167901","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Priesaika patvirtinto susitarimo pag­ rindiniai teiginiai buvo šie: turi būti amžinai laikomasi senojo Lietuvos susitarimo su Lenkija, tai yra unijos; Žygimantas niekad nesistengs be karaliaus ir karalystės luomų žinios bei pritarimo gauti karaliaus titulo ir iš­ rūpinti sau karališkąsias insignijas; savo įpėdiniu jis numatysiąs ir paskirsiąs ne ką kitą kaip karalių; jo sūnus Mykolas, Trakų bei Starodubo kunigaikštis, privaląs pasitenkinti šiomis žemėmis ir visada pripažinti kara­ liaus teises; Žygimantui mirus, Volynė turinti būti pri­ jungta prie Lenkijos karalystės; jeigu Mykolas mirtų nesulaukęs sūnaus, visos teisės į Trakų bei Starodubo kunigaikštystę atiteksią karaliui. Šios sąlygos…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"99314de9e4e8bfc788dba031","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Siekti Lenkijos Karūnos draugystės ir išlaikyti taiką su Kryžiuočių ordinu","context":"Teodoras Narbutas perteikia gegužės 8 d. Lenkijos senato laiške išdėstytą poziciją; taikos galiojimas pateikiamas kaip senato užklausa.","support_ids":["t-206180","c-188795"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206180","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188795","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Žengus šį žingsnį, didžiajam magistrui buvo pasiųstas Lenkijos Karalystės dvasininkijos luomo ir pa­ sauliečių senatorių laiškas, pažymėtas gegužės 8 diena, kuria­ me nurodoma, kad jis elgiasi prieštaraudam as savo paties pareiškimams ir pastangoms siekti Lenkijos Karūnos draugys­ tės, ko neseniai buvo ėmęsis pas karalienę Jadvygą; senatas, norėdamas aiškiau įsitikinti, ką mąsto didysis magistras, tyčia 1 Dlugošas, Mechovita, Strijkovskis, Glebavičius ir kiti. 421 nusiuntė pasiuntinį ir įteikė užklausimą: Ar taiką su ordinu reikia laikyti nutrauktą, ar ne?1"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d7c65717bbbca017acd2b2ee","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Turėjo lemiamą įtaką sprendimui dėl Lietuvos karaliaus karūnos uždėjimo Vytautui: prieš Vladislovo Jogailos ir Lenkijos senato valią karūnos nebuvo galima uždėti","context":"Michał Balińskis taip aprašo Vytauto karūnavimo klausimą.","support_ids":["t-86758","c-82738"],"source_refs":[{"kind":"internal_claim","claim_id":"t-86758","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-82738","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Puikų suruošia Vytautas priėmimą, bemaž du mėnesius užsitęsusį, mat nuo rugpjūčio pradžios iki rugsėjo pabaigos vyko tas svarbus kunigaikščių susibū­ rimas. Tačiau galima buvo numatyti, kad tas prašmatnias iškilmes, tą smagią viešnagę nutrauks liūdni įvykiai. Len­ kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­ ti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija, o karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­ kijos senato valią galima būtų didžiajam kunigaikščiui už­ dėti Lietuvos karaliaus karūną ir paskui išlaikyti ją nebau­ džiamiems."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8cb122e61eec716618b6c3a3","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Siuntė pasiuntinius į Vilnių, kurie grasino Vytautui karu, jei jis neatsisakys sumanymo","context":"Michał Balińskis aprašo Lenkijos senato pasiųstų Zbignevo Olesnickio ir Mikalojaus Michalovskio veiksmus.","support_ids":["t-86759","c-82737"],"source_refs":[{"kind":"internal_claim","claim_id":"t-86759","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-82737","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Deja, tik dalis tos pasiuntinybės pasie­ kė Lietuvos sostinę: kai kuriuos jų didžialenkiai sulaikė prie sienos ir imperatoriaus aktus, kuriais Vytautui pripažįsta­ mas karaliaus titulas, atėmė. Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbignevas Olesnickis ir Sandomiro vaivada Mikalojus Michalovskis grasino Vytau­ tui karu, jeigu jis neatsisakysiąs savo sumanymo. Bet jokiems įkalbinėjimams ir grasinimams senasis Vytautas nepasida­ vė."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d6189a34edb89f89fcfb6233","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Diplomatiniame pareiškime protestavo dėl Zlotorijos, Bobrovnikų ir visos Dobrynės užėmimo, laikydamas tai taikos ir draugiškų santykių nutraukimu bei Karūnos nuosavybės pasisavinimu","context":"Teodoras Narbutas perteikia birželio 9 d. Lenkijos senato pareiškimą.","support_ids":["t-206181","c-188796"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206181","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188796","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Lenkijos senatas kiek vėliau, tai yra karališkajai porai lankantis Lietuvoje, jautė pareigą ordinui aiškiau pri­ minti klastingą jo elgesį su karaliumi ir Lenkijos Karūna, se­ nato diplomatiniame pareiškime, rašytame birželio 9 dieną, be kita ko, nurodyta, kad Zlotorijos, Bobrovnikų ir visos Dob- rynės žemės paėmimą savo valdžion, lenkų vadą išvejant jėga, jis laiko aiškiu taikos ir bet kokių draugiškų santykių nutrau­ kimu, nes tos pilys ir žemės, nors buvo laikomos įkeistos, bet­ gi yra neatskiriam a Lenkijos Karūnos nuosavybė; tad dėl priešiškų žingsnių - tiek pasisavinant Karūnos nuosavybę, tiek su ginklu rankoje užpuolant minėtą pilį - senatas reiškia pro­ testą ir apskundžia…"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Lenkijos senatas buvo Lenkijos politinis organas, dalyvavęs sprendžiant karūnos, unijos ir karo bei taikos klausimus. Vilniuje jo pasiuntiniai Zbignevas Olesnickis ir Sandomiro vaivada Mikalojus Michalovskis grasino Vytautui karu, jei šis neatsisakys sumanymo siekti Lietuvos karaliaus karūnos. Šiame epizode senato valia kartu su Vladislovo Jogailos valia tapo kliūtimi Vytauto karūnavimui. Kitame susitarime buvo įtvirtinta, kad Lietuvos unijos su Lenkija reikia laikytis amžinai, o Žygimantas negali siekti karaliaus titulo ar karališkųjų insignijų be karaliaus ir karalystės luomų pritarimo. Birželio 9 d. diplomatiniame pareiškime senatas Zlotorijos, Bobrovnikų ir Dobrynės užėmimą laikė taikos su Kryžiuočių ordinu nutraukimu ir protestavo dėl Lenkijos Karūnos nuosavybės pasisavinimo.","sentences":[{"sentence_id":"s1","text":"Lenkijos senatas buvo Lenkijos politinis organas, dalyvavęs sprendžiant karūnos, unijos ir karo bei taikos klausimus.","support_ids":["t-86758","t-196098","t-206181","c-82738","c-167901","c-188796"]},{"sentence_id":"s2","text":"Vilniuje jo pasiuntiniai Zbignevas Olesnickis ir Sandomiro vaivada Mikalojus Michalovskis grasino Vytautui karu, jei šis neatsisakys sumanymo siekti Lietuvos karaliaus karūnos.","support_ids":["t-86759","c-82737"]},{"sentence_id":"s3","text":"Šiame epizode senato valia kartu su Vladislovo Jogailos valia tapo kliūtimi Vytauto karūnavimui.","support_ids":["t-86758","c-82738"]},{"sentence_id":"s4","text":"Kitame susitarime buvo įtvirtinta, kad Lietuvos unijos su Lenkija reikia laikytis amžinai, o Žygimantas negali siekti karaliaus titulo ar karališkųjų insignijų be karaliaus ir karalystės luomų pritarimo.","support_ids":["t-196098","c-167901"]},{"sentence_id":"s5","text":"Birželio 9 d. diplomatiniame pareiškime senatas Zlotorijos, Bobrovnikų ir Dobrynės užėmimą laikė taikos su Kryžiuočių ordinu nutraukimu ir protestavo dėl Lenkijos Karūnos nuosavybės pasisavinimo.","support_ids":["t-206181","c-188796"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia senato vaidmenį konkrečiuose karūnos, unijos ir karo bei taikos epizoduose, tačiau tiesiogiai nepatvirtina bendro teiginio, kad jis buvo politinis organas."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta šaltiniu: Vilniuje senato pasiųsti Zbignevas Olesnickis ir Mikalojus Michalovskis grasino Vytautui karu dėl jo sumanymo."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad be Vladislovo Jogailos ir Lenkijos senato valios Vytauto karūnuoti nebuvo galima."},{"sentence_id":"s4","supported":true,"reason":"Teiginys tiesiogiai atitinka susitarimo sąlygas, nurodytas šaltinio citatoje."},{"sentence_id":"s5","supported":true,"reason":"Teiginys tiesiogiai atitinka birželio 9 d. senato diplomatinio pareiškimo turinį."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-86758","t-196098","t-206181","c-82738","c-167901","c-188796"]},{"sentence_id":"s2","supported":true,"support_ids":["t-86759","c-82737"]},{"sentence_id":"s3","supported":true,"support_ids":["t-86758","c-82738"]},{"sentence_id":"s4","supported":true,"support_ids":["t-196098","c-167901"]},{"sentence_id":"s5","supported":true,"support_ids":["t-206181","c-188796"]}],"verifier":"gpt-5.6-luna"},"quality":33,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-184539","confidence":0.95},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-86759","confidence":0.91}],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 0d2e6d6cc6913973
+object_page_generated_at: '2026-09-19T16:20:51+00:00'
+object_page_source_checked_at: '2026-09-19T16:20:51+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Lenkijos senatas buvo Lenkijos politinis organas, dalyvavęs sprendžiant karūnos, unijos ir karo bei taikos klausimus. Vilniuje jo pasiuntiniai Zbignevas…'
+object_page_seo_input_hash: c455388a6cc746942b1fc719947c2c27f0f46a57679c77d72305e18dd93cb2f9
+object_page_seo_generated_at: '2026-09-19T16:20:51+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Lenkijos senatas
 
 ## Santrauka
 
 Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbignevas Olesnickis ir Sandomiro vaivada Mikalojus Michalovskis grasino Vytau­ tui karu, jeigu jis neatsisakysiąs savo sumanymo. Len­ kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­ ti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija, o karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­ kijos senato valią galima būtų didžiajam kunigaikščiui už­ dėti Lietuvos.
+
+## Teiginiai
+
+<a id="claim-t-86758"></a>
+- t-001
+  teiginys: "Be Vladislovo Jogailos ir Lenkijos senato valios Vytautui nebuvo galima uždėti Lietuvos karaliaus karūnos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkijos senatas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos senatas\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82738
+
+<a id="claim-t-86759"></a>
+- t-002
+  teiginys: "Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Vilnius: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkijos senatas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Lenkijos senato siųsti asmenys atvyko į Vilnių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Lenkijos senatas siuntė į Vilnius (0.91)"
+  pagrindžia:
+    - c-82737
+
+<a id="claim-t-184537"></a>
+- t-003
+  teiginys: "Lenkijos senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperatoriaus sumanymams jis nusileistų Lietuvos ir Lenkijos priešui."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkijos senatas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos senatas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  pagrindžia:
+    - c-167898
+
+<a id="claim-t-184538"></a>
+- t-004
+  teiginys: "Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkijos senatas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos senatas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-167899
+
+<a id="claim-t-184539"></a>
+- t-005
+  teiginys: "Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Lietuva: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkijos senatas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad senatas nutarė siųsti pasiuntinybę į Lietuvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Lenkijos senatas siuntė į Lietuva (0.95)"
+  pagrindžia:
+    - c-167900
+
+<a id="claim-t-196096"></a>
+- t-006
+  teiginys: "Kojelavičiaus pasakojime Gnezno arkivyskupas, kaip senato pirmininkas, kalbėjo iškalbingai, bet varžėsi, bijodamas įžeisti Vytautą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-167898
+
+<a id="claim-t-196097"></a>
+- t-007
+  teiginys: "Žygimanto pasiuntiniai turėjo senatui papasakoti įvykius Lietuvoje ir pareikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178527
+
+<a id="claim-t-196098"></a>
+- t-008
+  teiginys: "Susitarime numatyta laikytis Lietuvos unijos su Lenkija ir riboti Žygimanto siekį gauti karaliaus titulą ar karališkąsias insignijas."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-167901
+
+<a id="claim-t-206180"></a>
+- t-009
+  teiginys: "Pasak Teodoro Narbuto, Lenkijos senatas gegužės 8 d. laiške apkaltino didįjį magistrą prieštaraujant pastangoms siekti Lenkijos Karūnos draugystės ir paklausė, ar taika su Kryžiuočių ordinu tebėra galiojanti."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188795
+
+<a id="claim-t-206181"></a>
+- t-010
+  teiginys: "Lenkijos senatas birželio 9 d. diplomatiniame pareiškime laikė Zlotorijos, Bobrovnikų ir visos Dobrynės užėmimą taikos su Kryžiuočių ordinu nutraukimu bei protestavo dėl Karūnos nuosavybės pasisavinimo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188796
 
 ## Citatos
 
@@ -52,7 +221,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-82738
@@ -77,7 +246,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-167898
@@ -109,7 +278,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-006
 
@@ -137,7 +306,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-167900
@@ -168,7 +337,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-167901
@@ -208,7 +377,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-178527
@@ -235,7 +404,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-188795
@@ -260,7 +429,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-188796
@@ -286,168 +455,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 ## Ryšiai
 - Lenkijos senatas siuntė į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
-
-## Teiginiai
-
-<a id="claim-t-86758"></a>
-- t-001
-  teiginys: "Be Vladislovo Jogailos ir Lenkijos senato valios Vytautui nebuvo galima uždėti Lietuvos karaliaus karūnos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenkijos senatas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos senatas\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82738
-
-<a id="claim-t-86759"></a>
-- t-002
-  teiginys: "Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Vilnius: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkijos senatas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Lenkijos senato siųsti asmenys atvyko į Vilnių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Lenkijos senatas siuntė į Vilnius (0.91)"
-  pagrindžia:
-    - c-82737
-
-<a id="claim-t-184537"></a>
-- t-003
-  teiginys: "Lenkijos senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperatoriaus sumanymams jis nusileistų Lietuvos ir Lenkijos priešui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenkijos senatas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos senatas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  pagrindžia:
-    - c-167898
-
-<a id="claim-t-184538"></a>
-- t-004
-  teiginys: "Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenkijos senatas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos senatas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-167899
-
-<a id="claim-t-184539"></a>
-- t-005
-  teiginys: "Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkijos senatas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad senatas nutarė siųsti pasiuntinybę į Lietuvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Lenkijos senatas siuntė į Lietuva (0.95)"
-  pagrindžia:
-    - c-167900
-
-<a id="claim-t-196096"></a>
-- t-006
-  teiginys: "Kojelavičiaus pasakojime Gnezno arkivyskupas, kaip senato pirmininkas, kalbėjo iškalbingai, bet varžėsi, bijodamas įžeisti Vytautą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-167898
-
-<a id="claim-t-196097"></a>
-- t-007
-  teiginys: "Žygimanto pasiuntiniai turėjo senatui papasakoti įvykius Lietuvoje ir pareikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178527
-
-<a id="claim-t-196098"></a>
-- t-008
-  teiginys: "Susitarime numatyta laikytis Lietuvos unijos su Lenkija ir riboti Žygimanto siekį gauti karaliaus titulą ar karališkąsias insignijas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-167901
-
-<a id="claim-t-206180"></a>
-- t-009
-  teiginys: "Pasak Teodoro Narbuto, Lenkijos senatas gegužės 8 d. laiške apkaltino didįjį magistrą prieštaraujant pastangoms siekti Lenkijos Karūnos draugystės ir paklausė, ar taika su Kryžiuočių ordinu tebėra galiojanti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-188795
-
-<a id="claim-t-206181"></a>
-- t-010
-  teiginys: "Lenkijos senatas birželio 9 d. diplomatiniame pareiškime laikė Zlotorijos, Bobrovnikų ir visos Dobrynės užėmimą taikos su Kryžiuočių ordinu nutraukimu bei protestavo dėl Karūnos nuosavybės pasisavinimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-188796
-

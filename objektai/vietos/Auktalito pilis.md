@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Auktalito pilis'
+pavadinimas: Auktalito pilis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1256 m.'
+  - 1256 m.
 date_start: '1256'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5886f8303efa058ea061a593"
-canonical_name: "Auktalito pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Auktalito pilis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5886f8303efa058ea061a593
+canonical_name: Auktalito pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Auktalito pilis
 sameAs: []
-canonical_biography: "1256 m. Karaliaučiaus komtūras apsupo ir užėmė Auktalito pilį, o vėliau ją sudegino iki pamatų."
+canonical_biography: '1256 m. Karaliaučiaus komtūras apsupo ir užėmė Auktalito pilį, o vėliau ją sudegino iki pamatų.'
 ---
 # Auktalito pilis
 
@@ -73,6 +72,5 @@ canonical_biography: "1256 m. Karaliaučiaus komtūras apsupo ir užėmė Auktal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

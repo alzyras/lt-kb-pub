@@ -34,6 +34,17 @@ canonical_biography: "Pirmoji grupė, vadovaujama leitenanto Barkausko, puls št
 
 Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadovaujama karininko Sangino, puls dvaro klojimą, kuriame [miegojo] dvi bolševikų kuopos. Leitenantas Barkauskas puolė į bolševikų štabą, kur miegojo aštuoni komisarai.
 
+## Teiginiai
+
+<a id="claim-t-80708"></a>
+- t-001
+  teiginys: "Leitenanto Barkausko vadovaujama pirmoji grupė turėjo pulti bolševikų štabą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-41867
+
 ## Citatos
 
 - id: c-41867
@@ -50,17 +61,5 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-80708"></a>
-- t-001
-  teiginys: "Leitenanto Barkausko vadovaujama pirmoji grupė turėjo pulti bolševikų štabą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-41867
-

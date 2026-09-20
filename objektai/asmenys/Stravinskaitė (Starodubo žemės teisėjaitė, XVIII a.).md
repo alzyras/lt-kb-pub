@@ -79,9 +79,9 @@ Stravinskaitė minima kaip Starodubo žemės teisėjaitė, 1760 m. ištekėjusi 
     - c-183876
 
 <a id="claim-t-200702"></a>
-- t-200702
+- t-003
   teiginys: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -107,9 +107,8 @@ Stravinskaitė minima kaip Starodubo žemės teisėjaitė, 1760 m. ištekėjusi 
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -121,6 +120,5 @@ Stravinskaitė minima kaip Starodubo žemės teisėjaitė, 1760 m. ištekėjusi 
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-26 17:37"
-  pagrindžia:
-    - t-200702
-
+  pagrindzia:
+    - t-003

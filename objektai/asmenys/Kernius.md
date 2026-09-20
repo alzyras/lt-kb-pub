@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Kernius'
+pavadinimas: Kernius
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
@@ -8,7 +8,7 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1089 m.'
+  - 1089 m.
 date_start: '1089'
 date_end: ''
 sukurta: ''
@@ -17,28 +17,40 @@ tags:
   - kunigaikštis
   - asmuo
 amziai:
-  - 'XI'
+  - XI
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5a4e2adc3e7bdd2211b85956"
-canonical_name: "Kernius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Kernius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5a4e2adc3e7bdd2211b85956
+canonical_name: Kernius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Kernius
 sameAs: []
-canonical_biography: "Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui. Narbutas Kernių vaizduoja kaip Vidurio, arba Užnerio, Lietuvos kunigaikštį, kurio sostinė buvo Kernavė."
+canonical_biography: 'Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui. Narbutas Kernių vaizduoja kaip Vidurio, arba Užnerio, Lietuvos kunigaikštį, kurio sostinė buvo Kernavė.'
+external_sources_json: '[{"title":"Kernius","url":"https://www.vle.lt/straipsnis/kernius/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T02:42:45+00:00","source_checked_at":"2026-09-20T02:42:45+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Kernius","url":"https://www.vle.lt/straipsnis/kernius/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/kernius/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"74ac3eb29e79acf64ba85cb5","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lietuvos ir Žemaičių kunigaikštis; valdė kraštą tarp Neries, Nevėžio ir Daugavos; Ker­navėje gyveno su ūkės rėda ir Lietuvos vyresnybe, ją paskyrė visos Lietuvos ūkės buveine.","context":"Šaltinyje aprašomas Kerniaus laikotarpis, kai jis saugojosi gudų antpuolių ir įkūrė Kernavės pilį.","support_ids":["t-201001","c-184351"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201001","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184351","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"§ XV Kernius ir Gimbutas Lietuvos ir Žemaičių kunigaikščiai, karės jų su gudais, lenkais ir žuvėdais Kernius turėjęs savo valdžioj kraštą tarp upių Neries, Nevėžio ir Daugavos, Gimbutas valdęs vi­ sus Žemaičius; abudu gyvenusiu taikiai vienybėj ir kliauty. Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugodamos nuo antpuolių gu­ dų, aukštame skardy linksmoj laukymėj tarp ąžuo­ lynų rimtą pilį įkūręs ir nuo savo vardo ją Kerna­ ve praminęs, kurioje pats su ūkės rėdą ir Lietuvos vyresnybe gyvendamas, už buveinę visos Lietuvos ūkės paskyręs, kaipogi tenai kiekvienam reikalui ar pavojui radusis tėvūnai, arba senatoriai, į dūmą, ar­ ba rodą, galėjo veikiai susirinkti.…"}],"status":"published","conflict_status":"clear"},{"trait_id":"ba052cd5eafc892f4fcd7599","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Šaltinio autoriaus teigimu, po Jaroslavo karių antpuolių Kernius tapo jautresnis; su Gimbutu jis gyveno taikiai, vienybėje ir pasitikėjime.","context":"Autoriaus vertinimas ir aprašymas, siejamas su laikotarpiu po Jaroslavo karių veiksmų bei Kerniaus santykiais su Gimbutu.","support_ids":["t-201001","c-184351"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201001","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184351","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"§ XV Kernius ir Gimbutas Lietuvos ir Žemaičių kunigaikščiai, karės jų su gudais, lenkais ir žuvėdais Kernius turėjęs savo valdžioj kraštą tarp upių Neries, Nevėžio ir Daugavos, Gimbutas valdęs vi­ sus Žemaičius; abudu gyvenusiu taikiai vienybėj ir kliauty. Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugodamos nuo antpuolių gu­ dų, aukštame skardy linksmoj laukymėj tarp ąžuo­ lynų rimtą pilį įkūręs ir nuo savo vardo ją Kerna­ ve praminęs, kurioje pats su ūkės rėdą ir Lietuvos vyresnybe gyvendamas, už buveinę visos Lietuvos ūkės paskyręs, kaipogi tenai kiekvienam reikalui ar pavojui radusis tėvūnai, arba senatoriai, į dūmą, ar­ ba rodą, galėjo veikiai susirinkti.…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6463a475edd92331
+object_page_generated_at: '2026-09-20T02:42:45+00:00'
+object_page_source_checked_at: '2026-09-20T02:42:45+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir…'
+object_page_seo_input_hash: 77f00d8dd333121b5f9b8ab08536212cc18013c1aa9baaef526ed01db1023f28
+object_page_seo_generated_at: '2026-09-20T02:42:45+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kernius
 
@@ -48,58 +60,93 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
 
 ## Teiginiai
 
-<a id="claim-t-217674"></a>
-- t-217674
-  teiginys: "Narbutas, remdamasis Hartknocho pasakojimu, teigia, kad Amžinoji ugnis ant Kukovaičio kalno buvo Kerniaus užkurta."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-186005"></a>
+- t-001
+  teiginys: "Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "valde -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kernius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Kerniui buvo atiduotos valdyti Lietuvos žemės."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169366
+
+<a id="claim-t-186006"></a>
+- t-002
+  teiginys: "Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_dukte -> Kernius: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pajauta: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kernius: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo Pajautą kaip Kerniaus dukterį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Pajauta buvo duktė Kernius (0.96); Kernius buvo palaidotas Deltuva (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1089 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta, kad būtų įtrauktas citatoje svarbus paveldėjimo sprendimo rezultatas."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  pagrindžia:
+    - c-169367
+
+<a id="claim-t-188564"></a>
+- t-003
+  teiginys: "Narbutas Kernių vaizduoja kaip Vidurio, arba Užnerio, Lietuvos kunigaikštį, kurio sostinė buvo Kernavė."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kernavė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kernavė: mention_match, place, gap=86"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernius\" parinktas kaip owner_note_path. Targetas \"Kernavė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-198335
+    - c-171453
 
-<a id="claim-t-219828"></a>
-- t-219828
-  teiginys: "Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-188565"></a>
+- t-004
+  teiginys: "Pasak Narbuto perteikiamo Hartknocho, ant Kukovaičio kalno nuo seno degė Kerniaus užkurta Amžinoji ugnis."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernius\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-200550
+    - c-171454
 
-<a id="claim-t-201001"></a>
-- t-201001
-  teiginys: ". XV Kernius ir Gimbutas Lietuvos ir Žemaičių kunigaikščiai, karės jų su gudais, lenkais ir žuvėdais Kernius turėjęs savo valdžioj kraštą tarp upių Neries, Nevėžio ir Daugavos, Gimbutas valdęs vi sus Žemaičius; abudu gyvenusiu taikiai vienybėj ir kliauty."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184351
-
-<a id="claim-t-205345"></a>
-- t-205345
-  teiginys: "Teodoras Narbutas teigia, kad Kernius užvaldė kraštą iki Latvijos, Zemgalos, Vakarinės Dauguvos ir Breslaujos žemių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188146
-
-<a id="claim-t-212929"></a>
-- t-212929
+<a id="claim-t-190905"></a>
+- t-005
   teiginys: "Teodoro Narbuto aiškinimu, kunigaikščio Kerniaus valdymo metais Panerių genčių dūdų pūtimas prie Neries tapo dingstimi kraštą vadinti Litvania."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -114,19 +161,43 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-195871
+    - c-173787
 
-<a id="claim-t-215898"></a>
-- t-215898
+<a id="claim-t-197769"></a>
+- t-006
   teiginys: "Ka dangi Panerių gentys pūtė dūdas ant Neries krantų, ku nigaikščio Kerniaus valdymo metais atsirado dingstis su teikti visam kraštui ir giminei Litvania pavadinimą, ku ris dėl paprastų žmonių iškreipto lotynų tarimo pavirto Listubania."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-195871
+    - c-173787
+
+<a id="claim-t-201001"></a>
+- t-007
+  teiginys: ". XV Kernius ir Gimbutas Lietuvos ir Žemaičių kunigaikščiai, karės jų su gudais, lenkais ir žuvėdais Kernius turėjęs savo valdžioj kraštą tarp upių Neries, Nevėžio ir Daugavos, Gimbutas valdęs vi sus Žemaičius; abudu gyvenusiu taikiai vienybėj ir kliauty."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184351
+
+<a id="claim-t-205345"></a>
+- t-008
+  teiginys: "Teodoras Narbutas teigia, kad Kernius užvaldė kraštą iki Latvijos, Zemgalos, Vakarinės Dauguvos ir Breslaujos žemių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188146
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -255,6 +326,8 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-169367
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -281,6 +354,8 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-171453
   autorius: "Teodoras Narbutas"
@@ -307,6 +382,8 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-171454
   autorius: "Teodoras Narbutas"
@@ -326,6 +403,8 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-173787
   autorius: "Teodoras Narbutas"
@@ -354,6 +433,9 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+    - t-006
 
 - id: c-184351
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -387,8 +469,8 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201001
+  pagrindzia:
+    - t-007
 
 - id: c-188146
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -408,75 +490,8 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205345
-
-- id: c-195871
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 274"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 274."
-  citata_originali: |
-    Ka­
-    dangi Panerių gentys pūtė dūdas ant Neries krantų, ku­
-    nigaikščio Kerniaus valdymo metais atsirado dingstis su­
-    teikti visam kraštui ir giminei Litvania pavadinimą, ku­
-    ris dėl paprastų žmonių iškreipto lotynų tarimo pavirto
-    Listubania. Mes siekiame nurodyti tikrą, o ne liaudišką
-    pavadinimo šaltinį: lietuvių kalboje yra žodis tėvas: Ta­
-    rnas, Tabes, Tems, Temas, ir jis priklauso nuo tarimo įvai­
-    riais dialektais: senovės prūsų, herulų, latvių ir lietuvių* 1.
-    Tomis pačiomis kalbomis posakis Isz-Tawas arba Isz-
-    Tabas reiškia kilusį iš tėvo, tad Isztamany, ištavanai, ar­
-    ba sutrumpintai stavanai, stabanai, reiškė gentį, kilusią
-    tiesiogiai iš gimtinės lizdo; tikrieji lietuviai, arba seno­
-    vės Stavanijos gyventojai ligi šiol laikomi tokiais, kurie
-    geriausiai išlaikė savo papročius, įpročius, gimininius
-    bruožus ir jų dialekto originalumą.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212929
-    - t-215898
-
-- id: c-198335
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 221"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 221."
-  citata_originali: |
-    Hartknochas,
-    remdamasis savo tyrimais, pasakoja, kad ant to paties kalno
-    nuo seno degusi Kerniaus užkurta Amžinoji ugnis
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217674
-
-- id: c-200550
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
-  citata_originali: |
-    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
-    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219828
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Pajauta]]

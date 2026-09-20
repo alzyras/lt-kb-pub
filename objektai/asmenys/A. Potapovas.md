@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'A. Potapovas'
+pavadinimas: A. Potapovas
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5e33bcb365c6e5b4b8a9fc10"
-canonical_name: "A. Potapovas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["A. Potapovas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5e33bcb365c6e5b4b8a9fc10
+canonical_name: A. Potapovas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - A. Potapovas
 sameAs: []
-canonical_biography: "A. Potapovui nepatvirtinus penkių cenzorių, vyskupas į jų vietą naujų neskyrė. A. Potapovas, kaip Vilniaus generalgubernatorius, susijęs su 1868 m. pamokslų sakymo taisyklių nustatymu. 1868.IX.12 Vilniaus generalgubernatorius A. Potapovas prašė leidimo teisti vysk. M. Valančių."
+canonical_biography: 'A. Potapovui nepatvirtinus penkių cenzorių, vyskupas į jų vietą naujų neskyrė. A. Potapovas, kaip Vilniaus generalgubernatorius, susijęs su 1868 m. pamokslų sakymo taisyklių nustatymu. 1868.IX.12 Vilniaus generalgubernatorius A. Potapovas prašė leidimo teisti vysk. M. Valančių.'
 ---
 # A. Potapovas
 

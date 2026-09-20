@@ -43,6 +43,18 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62524"></a>
+- t-001
+  teiginys: "Vermandua grafystėje, pasak kronikos, atgijęs miręs riteris pranašavo daugeliui žmonių ir ilgai gyveno nevalgydamas bei negerdamas."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-63213
+
 ## Citatos
 
 - id: c-63213
@@ -62,14 +74,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-221469"></a>
-- t-001
-  teiginys: "Vermandua grafystėje, pasak kronikos, atgijęs miręs riteris pranašavo daugeliui žmonių ir ilgai gyveno nevalgydamas bei negerdamas."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
+  pagrindzia:
+    - t-001

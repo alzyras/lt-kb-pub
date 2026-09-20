@@ -1,38 +1,37 @@
 ---
 tipas: asmuo
-pavadinimas: 'I. Holovinskis'
+pavadinimas: I. Holovinskis
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1852 m.'
-  - '1853 m.'
+  - 1852 m.
+  - 1853 m.
 date_start: '1852'
 date_end: '1853'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-98c4771b202d3989f4df82b2"
-canonical_name: "I. Holovinskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["I. Holovinskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-98c4771b202d3989f4df82b2
+canonical_name: I. Holovinskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - I. Holovinskis
 sameAs: []
-canonical_biography: "I. Holovinskis buvo Rusijos imperijos katalikų bažnyčios metropolitas. I. Holovinskis skiepijo M. Valančiui principą vengti staigių ir atvirų permainų. I. Holovinskis 1852 arba 1853 m. sausio 31 d. rašė M. Valančiui į Varnius."
+canonical_biography: I. Holovinskis buvo Rusijos imperijos katalikų bažnyčios metropolitas. I. Holovinskis skiepijo M. Valančiui principą vengti staigių ir atvirų permainų. I. Holovinskis 1852 arba 1853 m. sausio 31 d. rašė M. Valančiui į Varnius.
 ---
 # I. Holovinskis
 

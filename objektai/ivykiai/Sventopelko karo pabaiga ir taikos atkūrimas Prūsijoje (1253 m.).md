@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Sventopelko karo pabaiga ir taikos atkūrimas Prūsijoje (1253 m.)'
+pavadinimas: Sventopelko karo pabaiga ir taikos atkūrimas Prūsijoje (1253 m.)
 variantai:
-  - 'Sventopelko karo pabaiga ir taikos atkūrimas Prūsijoje'
+  - Sventopelko karo pabaiga ir taikos atkūrimas Prūsijoje
 aliases:
-  - 'Sventopelko karo pabaiga ir taikos atkūrimas Prūsijoje'
+  - Sventopelko karo pabaiga ir taikos atkūrimas Prūsijoje
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1251 m.'
+  - 1251 m.
 date_start: '1251'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Sventopelko karo pabaiga ir taikos atkūrimas Prūsijoje (1253 m.)
 
@@ -85,6 +82,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

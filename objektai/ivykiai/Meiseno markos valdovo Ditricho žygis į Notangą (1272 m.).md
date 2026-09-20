@@ -51,6 +51,51 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-89382"></a>
+- t-001
+  teiginys: "Meiseno markos valdovas Ditrichas 1272 m. nusiaubė Notangą iki Gerkynės prekyvietės ir ten išbuvo tris dienas bei naktis."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1272 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, konkretus ir pagrįstas pateikta citata."
+  pagrindžia:
+    - c-85340
+
+<a id="claim-t-89383"></a>
+- t-002
+  teiginys: "Meiseno markos valdovas Ditrichas 1272 m. atvyko į Prūsiją su daugybe karių ir, padedamas magistro bei brolių, žygiavo į Notangą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Notanga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Notanga: mention_match, place, gap=121"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)\" parinktas kaip owner_note_path. Targetas \"Notanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "kelionės data: 1272 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išbaigtas ir jo faktai remiasi citata."
+  pagrindžia:
+    - c-85340
+
+<a id="claim-t-196961"></a>
+- t-003
+  teiginys: "Apie Herkaus Manto, notangų vado, žūtį Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė jokios baimės."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-178988
+
 ## Citatos
 
 - id: c-85339
@@ -75,7 +120,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-85340
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -101,6 +145,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002
 
 - id: c-178988
   autorius: "Petras Dusburgietis"
@@ -121,125 +168,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202350
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
-  citata_originali: |
-    135 (130). Apie Herkaus Manto, notangų vado, žūtį
-    Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė
-    jokios baimės. Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti
-    dėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne
-    kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas
-    sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo
-    komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai
-    nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-204169
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
-  citata_originali: |
-    Vis dėlto
-    broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių,
-    sugriovė šią pilaitę, o visą įgulą išžudė arba paėmė į nelaisvę. Kai šitai buvo padaryta,
-    minėtasis kunigaikštis, eidamas garbingomis savo tėvo pėdomis, nelyginant bebaimis
-    liūtas, kurio nebaugina jokios kovos, patraukė su savo kariuomene į priekį, nužygiuodamas
-    Notangos žeme ligi Gerkynės prekyvietės408, kur išbuvo tris dienas ir naktis, kiekvieną
-    dieną valydamas Notangą gaisrais bei plėšimais Jis  taip nusiaubė šią [žemę], kad kitais
-    metais ji vėl pasidavė tikėjimui bei broliams. Šitai padaręs, minėtasis markos valdovas
-    sugrįžo į savo tėvynę, tiesa, patyręs ir nuostolių, nes per pirmąjį pilaitės antpuolį žuvo
-    150 žmonių, o niokojant Notangos žemę, dar 50 vyrų krito nuo prūsų rankos.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204584
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
-  citata_originali: |
-    Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
-    Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos
-    žemėje, ir panoro, atėjus tinkamam laikui, pasigailėti savo žmonių, atvyko į Prūsiją
-    su daugybe karių Meiseno markos valdovas Ditrichas406, šviesiojo kunigaikščio valdovo
-    Henriko sūnus, kurį esame minėję, kalbėdami apie karą su pamedėnais; kai, pasitelkęs
-    magistrą ir brolius, ketino užgriūti priešus, prie įeigos į Notangos žemę rado pilaitę407,
-    ginamą daugybės ginklanešių, kliudžiusių šiam kunigaikščiui žygiuoti į priekį. Vis dėlto
-    broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių,
-    sugriovė šią pilaitę, o visą įgulą išžudė arba paėmė į nelaisvę. Kai šitai buvo padaryta,
-    minėtasis kunigaikštis, eidamas garbingomis savo tėvo pėdomis, nelyginant bebaimis
-    liūtas, kurio nebaugina jokios kovos, patraukė su savo kariuomene į priekį, nužygiuodamas
-    Notangos žeme ligi Gerkynės prekyvietės408, kur išbuvo tris dienas ir naktis, kiekvieną
-    dieną valydamas Notangą gaisrais bei plėšimais Jis  taip nusiaubė šią [žemę], kad kitais
-    metais ji vėl pasidavė tikėjimui bei broliams.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-221109"></a>
-- t-001
-  teiginys: "Meiseno markos valdovas Ditrichas 1272 m. nusiaubė Notangą iki Gerkynės prekyvietės ir ten išbuvo tris dienas bei naktis."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1272 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, konkretus ir pagrįstas pateikta citata."
-  pagrindžia:
-    - c-204584
-
-<a id="claim-t-221290"></a>
-- t-002
-  teiginys: "Apie Herkaus Manto, notangų vado, žūtį Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė jokios baimės."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202350
-
-<a id="claim-t-223908"></a>
-- t-003
-  teiginys: "Meiseno markos valdovas Ditrichas 1272 m. atvyko į Prūsiją su daugybe karių ir, padedamas magistro bei brolių, žygiavo į Notangą."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Notanga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Notanga: mention_match, place, gap=121"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)\" parinktas kaip owner_note_path. Targetas \"Notanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "kelionės data: 1272 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išbaigtas ir jo faktai remiasi citata."
-  pagrindžia:
-    - c-204584
-

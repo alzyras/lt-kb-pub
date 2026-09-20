@@ -1,39 +1,39 @@
 ---
 tipas: autorius
-pavadinimas: 'Olofas Monsonas'
+pavadinimas: Olofas Monsonas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1490 m.'
-  - '1558 m.'
+  - 1490 m.
+  - 1558 m.
 date_start: '1490'
 date_end: '1558'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
-  - 'XVI'
+  - XV
+  - XVI
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-52e9bb56e4df4f8403ed64a5"
-canonical_name: "Olofas Monsonas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Olofas Monsonas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-52e9bb56e4df4f8403ed64a5
+canonical_name: Olofas Monsonas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Olofas Monsonas
 sameAs: []
-canonical_biography: "Turima omenyje Olafo Monsono (1490—1558) „Siaurės tautų is torija“."
+canonical_biography: Turima omenyje Olafo Monsono (1490—1558) „Siaurės tautų is torija“.
 ---
 # Olofas Monsonas
 
@@ -75,6 +75,5 @@ Turima omenyje Olafo Monsono (1490—1558) „Siaurės tautų is torija“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

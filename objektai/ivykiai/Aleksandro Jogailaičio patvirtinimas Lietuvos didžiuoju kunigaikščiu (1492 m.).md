@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Aleksandro Jogailaičio patvirtinimas Lietuvos didžiuoju kunigaikščiu (1492 m.)'
+pavadinimas: Aleksandro Jogailaičio patvirtinimas Lietuvos didžiuoju kunigaikščiu (1492 m.)
 variantai:
-  - 'Aleksandro Jogailaičio patvirtinimas Lietuvos didžiuoju kunigaikščiu'
+  - Aleksandro Jogailaičio patvirtinimas Lietuvos didžiuoju kunigaikščiu
 aliases:
-  - 'Aleksandro Jogailaičio patvirtinimas Lietuvos didžiuoju kunigaikščiu'
+  - Aleksandro Jogailaičio patvirtinimas Lietuvos didžiuoju kunigaikščiu
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1492 m.'
+  - 1492 m.
 date_start: '1492'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Aleksandro Jogailaičio patvirtinimas Lietuvos didžiuoju kunigaikščiu (1492 m.)
 
@@ -80,6 +77,5 @@ Aleksandrą Lietuvos didžiuoju kunigaikščiu patvirtino visų LDK žemių seim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

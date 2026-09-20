@@ -1,34 +1,31 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'Rekolekcijos (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: Rekolekcijos (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'Rekolekcijos'
+  - Rekolekcijos
 aliases:
-  - 'Rekolekcijos'
+  - Rekolekcijos
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 datos:
-  - '1863 m.'
-  - '1865 m.'
+  - 1863 m.
+  - 1865 m.
 date_start: '1863'
 date_end: '1865'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Rekolekcijos (sąvoka)
 

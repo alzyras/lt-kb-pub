@@ -78,11 +78,9 @@ Nerman, B.: Die Verbindungen zwischen Skandinavien und dem Ostbaltikum in der j�
     Eisenzeit_ , Stockholm 1929. — (”) _Grobin-Seeburg.
   citata_rodoma: "—Nerman, B.: _Die\nVerbindungen zwischen Skandinavien und dem Ostbaltikum in der jüngeren\nEisenzeit_ , Stockholm 1929. — (”) _Grobin-Seeburg."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

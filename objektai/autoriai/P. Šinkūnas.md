@@ -33,6 +33,17 @@ canonical_biography: "Šinkūno, LIETUVOS GEOGRAFIJA. Šinkūno, GEOGRAFIJOS VAD
 
 Šinkūno, LIETUVOS GEOGRAFIJA. Šinkūno, GEOGRAFIJOS VADOVĖLIS.
 
+## Teiginiai
+
+<a id="claim-t-35469"></a>
+- t-001
+  teiginys: "P. Šinkūnas parengė „Geografijos vadovėlį“ IV pradžios mokyklos skyriui ir I vidurinės mokyklos klasei."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-36685
+
 ## Citatos
 
 - id: c-36685
@@ -49,17 +60,5 @@ canonical_biography: "Šinkūno, LIETUVOS GEOGRAFIJA. Šinkūno, GEOGRAFIJOS VAD
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-35469"></a>
-- t-001
-  teiginys: "P. Šinkūnas parengė „Geografijos vadovėlį“ IV pradžios mokyklos skyriui ir I vidurinės mokyklos klasei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36685
-

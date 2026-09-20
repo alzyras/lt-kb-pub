@@ -39,6 +39,20 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201387"></a>
+- t-001
+  teiginys: "Kas buvo kitose tautose, tas pats nutiko su lie tuviais, kalnėnais ir žemaičiais, kurie, gyvendami nuo neatmenamų laikų vienoj vietoj, turėjo savo dievus, kurie jų lieknuose ir giriose gyvendami džiaugės, ir godojo juos it ynus savo geradėjus ir užtarytojus."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184737
+
 ## Citatos
 
 - id: c-184737
@@ -64,20 +78,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201387"></a>
-- t-001
-  teiginys: "Kas buvo kitose tautose, tas pats nutiko su lie tuviais, kalnėnais ir žemaičiais, kurie, gyvendami nuo neatmenamų laikų vienoj vietoj, turėjo savo dievus, kurie jų lieknuose ir giriose gyvendami džiaugės, ir godojo juos it ynus savo geradėjus ir užtarytojus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184737
-

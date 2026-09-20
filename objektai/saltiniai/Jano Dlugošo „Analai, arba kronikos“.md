@@ -4,26 +4,23 @@ pavadinimas: 'Jano Dlugošo „Analai, arba kronikos“'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1455 m.'
-  - '1480 m.'
+  - 1455 m.
+  - 1480 m.
 date_start: '1455'
 date_end: '1480'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Jano Dlugošo „Analai, arba kronikos“
 
@@ -67,6 +64,5 @@ Dlugošas 1455–1480 m. rašytuose „Analuose, arba kronikose“ panaudojo Mik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

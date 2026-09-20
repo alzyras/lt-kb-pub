@@ -39,6 +39,30 @@ media_all_json: |-
 
 - Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!
 
+## Teiginiai
+
+<a id="claim-t-09681"></a>
+- t-001
+  teiginys: "Kai bokšto gynėjų buvo gerokai mažiau, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  pagrindžia:
+    - c-12492
+
+<a id="claim-t-193756"></a>
+- t-002
+  teiginys: "Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-176415
+
 ## Citatos
 
 - id: c-12492
@@ -56,7 +80,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-176415
@@ -72,30 +96,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-09681"></a>
-- t-001
-  teiginys: "Kai bokšto gynėjų buvo gerokai mažiau, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  pagrindžia:
-    - c-12492
-
-<a id="claim-t-193756"></a>
-- t-002
-  teiginys: "Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-176415
-

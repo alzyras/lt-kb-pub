@@ -24,6 +24,20 @@ media_all_json: |-
 
 8 3 Šeimos gyvenimo progos, Rachunki krölewskiei, s.
 
+## Teiginiai
+
+<a id="claim-t-202473"></a>
+- t-001
+  teiginys: "8 3 Šeimos gyvenimo progos, Rachunki krölewskiei, s."
+  atnaujinta: "2026-07-24 14:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-3-Kazimiero-Jogailaicio-dvaras"
+  pagrindžia:
+    - c-185820
+
 ## Citatos
 
 - id: c-185820
@@ -39,20 +53,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202473"></a>
-- t-001
-  teiginys: "8 3 Šeimos gyvenimo progos, Rachunki krölewskiei, s."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-3-Kazimiero-Jogailaicio-dvaras"
-  pagrindžia:
-    - c-185820
-

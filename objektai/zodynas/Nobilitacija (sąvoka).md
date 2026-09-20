@@ -40,6 +40,21 @@ Kai kuriais atvejais valdovo privilegija, kuria ištarna buvo suteikiama leno te
 
 Kai kuriais atvejais valdovo privilegija, kuria ištarna buvo suteikiama leno teisės pagrindu, būdavo derinama su asmens nobilitacija.
 
+## Teiginiai
+
+<a id="claim-t-204038"></a>
+- t-001
+  teiginys: "Kai kuriais atvejais valdovo privilegija, kuria ištarna buvo suteikiama leno teisės pagrindu, būdavo derinama su asmens nobilitacija."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186642
+
 ## Citatos
 
 - id: c-186642
@@ -60,21 +75,5 @@ Kai kuriais atvejais valdovo privilegija, kuria ištarna buvo suteikiama leno te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204038"></a>
-- t-001
-  teiginys: "Kai kuriais atvejais valdovo privilegija, kuria ištarna buvo suteikiama leno teisės pagrindu, būdavo derinama su asmens nobilitacija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186642
-

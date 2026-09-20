@@ -29,22 +29,10 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
 
 ## Teiginiai
 
-<a id="claim-t-216361"></a>
-- t-216361
-  teiginys: "Čia pat, priešais koplyčią, kilo aukuras, pastaty tas ant 12 laiptų; kiekvienas iš tų laiptų buvo ¥z uolekties aukš čio, 3 uolekčių pločio, aptvertas rąstais, o pats aukuras buvo kvadratinis, trijų uolekčių aukščio, 9 uolekčių pločio; viršuje jį juosė daugybė."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199350
-
 <a id="claim-t-82104"></a>
-- t-82104
+- t-001
   teiginys: "Fundacijos privilegija buvo parašyta lotynų kalba ant pergamento, didesnio nei uolektis ilgio ir pločio."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,27 +73,5 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-82104
-
-- id: c-199350
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 270."
-  citata_originali: |
-    Čia pat, priešais koplyčią, kilo aukuras, pastaty­
-    tas ant 12 laiptų; kiekvienas iš tų laiptų buvo ¥z uolekties aukš­
-    čio, 3 uolekčių pločio, aptvertas rąstais, o pats aukuras buvo
-    kvadratinis, trijų uolekčių aukščio, 9 uolekčių pločio; viršuje jį
-    juosė daugybė stumbrų ragų; apskritai aukuro aukštis siekė 9
-    uolektis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216361
-
+  pagrindzia:
+    - t-001

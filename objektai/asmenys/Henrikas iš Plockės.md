@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Henrikas iš Plockės'
+pavadinimas: Henrikas iš Plockės
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1314 m.'
-  - '1320 m.'
+  - 1314 m.
+  - 1320 m.
 date_start: '1314'
 date_end: '1320'
 sukurta: ''
@@ -15,34 +15,196 @@ tags:
   - karvedys
   - pareigūnas
 amziai:
-  - 'XIV'
+  - XIV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0824540e39e301aa225f28d0"
-canonical_name: "Henrikas iš Plockės"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Henrikas iš Plockės"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0824540e39e301aa225f28d0
+canonical_name: Henrikas iš Plockės
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Henrikas iš Plockės
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir. Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du. Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje."
+canonical_biography: 'Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir. Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du. Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:04:13+00:00","source_checked_at":"2026-09-20T06:04:13+00:00","counts":{"relations":6,"gallery":0,"sources":1},"featured_claim_ids":["t-221830","t-223789","t-220360","t-220680","t-222319"],"featured_claims":[{"claim_id":"t-221830","text":"1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-204322"]},{"claim_id":"t-223789","text":"1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-204096"]},{"claim_id":"t-220360","text":"Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-205266"]},{"claim_id":"t-220680","text":"1316 m. žiemą Henrikas iš Plockės su daugybe raitelių įsiveržė į Paštuvos valsčių ir jį nusiaubė.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-202597","c-204322","c-205266"]},{"claim_id":"t-222319","text":"1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-202862","c-204322"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b9189918071a8e7668024f82","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Prūsijos žemės maršalas","context":"XIV a. pradžioje, vadovavo kariuomenės žygiams ir apguloms.","support_ids":["t-220360","c-205266"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220360","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205266","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą. 317 (310)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Henrikas iš Plockės buvo Prūsijos žemės maršalas ir Vokiečių ordino karo vadas, vadovavęs žygiams į Lietuvos valsčius bei pilių apgultims. 1314 m. apie vasario 2 d. jis su visa kariuomene puolė Sizditės pilį Medininkų valsčiuje, tačiau pilėnai atkakliai priešinosi, o ordino kariai patyrė nuostolių. 1316 m. Henrikas nusiaubė Paštuvos valsčių, degindamas ir plėšdamas gyvenvietes, o vėliau, prisidėjęs Reino krašto maldininkams, surengė žygį į Medininkų valsčių. Tarp jo karinių veiksmų išsiskyrė Bisenės pilies apgultis, kurios metu kariuomenė Nemune pastatė laivų tiltą ir naudojo karo įrenginius, tačiau pilies užimti nepajėgė. 1320 m. liepos 27 d. Medininkų valsčiuje Henrikas žuvo per mūšį kartu su 29 broliais ir daugybe kitų žmonių.","sentences":[{"sentence_id":"s1","text":"Henrikas iš Plockės buvo Prūsijos žemės maršalas ir Vokiečių ordino karo vadas, vadovavęs žygiams į Lietuvos valsčius bei pilių apgultims.","support_ids":["t-220360","t-220680","t-223789"]},{"sentence_id":"s2","text":"1314 m. apie vasario 2 d. jis su visa kariuomene puolė Sizditės pilį Medininkų valsčiuje, tačiau pilėnai atkakliai priešinosi, o ordino kariai patyrė nuostolių.","support_ids":["t-223789","c-204096"]},{"sentence_id":"s3","text":"1316 m. Henrikas nusiaubė Paštuvos valsčių, degindamas ir plėšdamas gyvenvietes, o vėliau, prisidėjęs Reino krašto maldininkams, surengė žygį į Medininkų valsčių.","support_ids":["t-220680","c-202597","t-222319","c-202862"]},{"sentence_id":"s4","text":"Tarp jo karinių veiksmų išsiskyrė Bisenės pilies apgultis, kurios metu kariuomenė Nemune pastatė laivų tiltą ir naudojo karo įrenginius, tačiau pilies užimti nepajėgė.","support_ids":["t-220360","c-205266"]},{"sentence_id":"s5","text":"1320 m. liepos 27 d. Medininkų valsčiuje Henrikas žuvo per mūšį kartu su 29 broliais ir daugybe kitų žmonių.","support_ids":["t-221830","c-204322"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai Henriką įvardija Prūsijos žemės maršalu ir aprašo jo vadovautus žygius bei apgultis."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1314 m. žygį su visa kariuomene į Medininkų valsčių, Sizditės pilies puolimą, pilėnų pasipriešinimą ir ordino nuostolius."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina 1316 m. Paštuvos valsčiaus nusiaubimą ir vėlesnį žygį į Medininkų valsčių kartu su Reino krašto maldininkais."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai aprašo Bisenės pilies apgultį, laivų tiltą per Nemuną, karo įrenginius ir nesėkmingą puolimą."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1320 m. liepos 27 d. Henriko žūtį Medininkų valsčiuje kartu su 29 broliais ir daugybe kitų žmonių."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-220360","t-220680","t-223789"]},{"sentence_id":"s2","supported":true,"support_ids":["t-223789","c-204096"]},{"sentence_id":"s3","supported":true,"support_ids":["t-220680","c-202597","t-222319","c-202862"]},{"sentence_id":"s4","supported":true,"support_ids":["t-220360","c-205266"]},{"sentence_id":"s5","supported":true,"support_ids":["t-221830","c-204322"]}],"verifier":"gpt-5.6-luna"},"quality":50,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Bisenė","claim_id":"t-220360","confidence":0.91},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Medininkai","claim_id":"t-221830","confidence":0.82},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Bisenė","claim_id":"t-220360","confidence":0.9},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Medininkai","claim_id":"t-222319","confidence":0.88},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Sizditė","claim_id":"t-223789","confidence":0.96},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Medininkai","claim_id":"t-221830","confidence":0.9}],"timeline":[{"date":"1314 m.","label":"1314 m.","claimId":"t-223789"},{"date":"1316 m.","label":"1316 m.","claimId":"t-220680"},{"date":"1316 m.","label":"1316 m.","claimId":"t-222319"},{"date":"1320 m.","label":"1320 m.","claimId":"t-221830"}],"support_disclosure":{"claims":6,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6085f61e5a16cec1
+object_page_generated_at: '2026-09-20T06:04:13+00:00'
+object_page_source_checked_at: '2026-09-20T06:04:13+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '1'
+object_page_seo_description: 'Henrikas iš Plockės buvo Prūsijos žemės maršalas ir Vokiečių ordino karo vadas, vadovavęs žygiams į Lietuvos valsčius bei pilių apgultims. 1314 m. apie…'
+object_page_seo_input_hash: a34451631f58467cd7103d17594f7c14009a2abe4ff30aa2085b87d6c1f15666
+object_page_seo_generated_at: '2026-09-20T06:04:13+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Henrikas iš Plockės
 
 ## Santrauka
 
 Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir. Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du. Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.
+
+## Teiginiai
+
+<a id="claim-t-59864"></a>
+- t-001
+  teiginys: "Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Bisenė: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Bisenė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Henriko kariuomenė priėjo Bisenės pilį, ją apsupo ir ilgai puldinėjo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas iš Plockės apgulė Bisenė (0.91); Henrikas iš Plockės puolė Bisenė (0.90)"
+  pagrindžia:
+    - c-60502
+
+<a id="claim-t-59865"></a>
+- t-002
+  teiginys: "1314 m. Henrikas iš Plockės su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Medininkai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Henriko žygį į Medininkų valsčių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas iš Plockės surengė žygį į Medininkai (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1314 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citatoje nurodytais dalyviais bei kryptimi."
+  pagrindžia:
+    - c-60501
+
+<a id="claim-t-59866"></a>
+- t-003
+  teiginys: "1316 m. žiemą Henrikas iš Plockės su daugybe raitelių įsiveržė į Paštuvos valsčių ir jį nusiaubė."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas iš Plockės\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1316 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą žygį ir jo rezultatą."
+  pagrindžia:
+    - c-60496
+
+<a id="claim-t-59867"></a>
+- t-004
+  teiginys: "1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Medininkai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Henriko atžygiavimą į Medininkų valsčių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas iš Plockės surengė žygį į Medininkai (0.90); Henrikas iš Plockės mirė Medininkai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1320 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, o citata aiškiai palaiko mirties aplinkybes."
+  pagrindžia:
+    - c-60500
+
+<a id="claim-t-59868"></a>
+- t-005
+  teiginys: "1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Medininkai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Henrikas su kariuomene patraukė į Medininkų valsčių ir jį nusiaubė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas iš Plockės puolė Medininkai (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1316 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys išvardija šalutinius asmenis, o citata palaiko glaustesnį faktą apie veiksmą."
+  pagrindžia:
+    - c-60497
+
+<a id="claim-t-59869"></a>
+- t-006
+  teiginys: "1317 m. žiemą Henrikui iš Plockės žygiuojant prieš Vaikių valsčių, audra išblaškė daugiau kaip 500 arklių."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Vaikiai: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vaikiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo žygį prieš Vaikių valsčių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas iš Plockės surengė žygį į Vaikiai (0.92)"
+  temporaliniai_duomenys: "įvykio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas religinis antraštės triukšmas ir suformuluotas konkretus įvykis."
+  pagrindžia:
+    - c-60498
+
+<a id="claim-t-59870"></a>
+- t-007
+  teiginys: "1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Sizditė: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sizditė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Henrikas su kariuomene užpuolė Sizditės pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas iš Plockės puolė Sizditė (0.96); Henrikas iš Plockės surengė žygį į Medininkai (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1314 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata palaiko konkretų žygį ir puolimo objektą."
+  pagrindžia:
+    - c-60499
+
+<a id="claim-t-197096"></a>
+- t-008
+  teiginys: "Dusburgietis teigia, kad henrikas iš Plockės atsiduso, pakėlė akis į dangų ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą, pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo atvykęs, patraukė į Ragainę."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60502
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -127,6 +289,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-60497
   autorius: "Petras Dusburgietis"
@@ -147,6 +311,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-60498
   autorius: "Petras Dusburgietis"
@@ -169,6 +335,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-60499
   autorius: "Petras Dusburgietis"
@@ -191,6 +359,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-60500
   autorius: "Petras Dusburgietis"
@@ -213,6 +383,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-60501
   autorius: "Petras Dusburgietis"
@@ -233,6 +405,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-60502
   autorius: "Petras Dusburgietis"
@@ -251,136 +425,11 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-205266
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 208"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
-  citata_originali: |
-    Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
-    visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,
-    kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę
-    karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne
-    kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.
-    317 (310).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-220680
-    - t-224004
+    - t-008
 
 ## Ryšiai
 - Henrikas iš Plockės puolė [[objektai/vietos/Bisenė]], [[objektai/vietos/Sizditė]]
 - Henrikas iš Plockės apgulė [[objektai/vietos/Bisenė]]
 - Henrikas iš Plockės surengė žygį į [[objektai/vietos/Medininkai]], [[objektai/vietos/Vaikiai]]
-
-## Teiginiai
-
-<a id="claim-t-220360"></a>
-- t-001
-  teiginys: "Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Bisenė: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Bisenė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Henriko kariuomenė priėjo Bisenės pilį, ją apsupo ir ilgai puldinėjo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Henrikas iš Plockės apgulė Bisenė (0.91); Henrikas iš Plockės puolė Bisenė (0.90)"
-  pagrindžia:
-    - c-205266
-
-<a id="claim-t-221830"></a>
-- t-002
-  teiginys: "1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Medininkai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Henriko atžygiavimą į Medininkų valsčių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Henrikas iš Plockės surengė žygį į Medininkai (0.90); Henrikas iš Plockės mirė Medininkai (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1320 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, o citata aiškiai palaiko mirties aplinkybes."
-
-<a id="claim-t-223789"></a>
-- t-003
-  teiginys: "1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Sizditė: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sizditė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Henrikas su kariuomene užpuolė Sizditės pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Henrikas iš Plockės puolė Sizditė (0.96); Henrikas iš Plockės surengė žygį į Medininkai (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1314 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata palaiko konkretų žygį ir puolimo objektą."
-
-<a id="claim-t-220680"></a>
-- t-220680
-  teiginys: "1316 m. žiemą Henrikas iš Plockės su daugybe raitelių įsiveržė į Paštuvos valsčių ir jį nusiaubė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas iš Plockės\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą žygį ir jo rezultatą."
-  pagrindžia:
-    - c-205266
-
-<a id="claim-t-222319"></a>
-- t-222319
-  teiginys: "1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Medininkai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Henrikas su kariuomene patraukė į Medininkų valsčių ir jį nusiaubė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Henrikas iš Plockės puolė Medininkai (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys išvardija šalutinius asmenis, o citata palaiko glaustesnį faktą apie veiksmą."
-
-<a id="claim-t-224004"></a>
-- t-224004
-  teiginys: "Dusburgietis teigia, kad henrikas iš Plockės atsiduso, pakėlė akis į dangų ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą, pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo atvykęs, patraukė į Ragainę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205266
-

@@ -33,6 +33,20 @@ historical_names: []
 
 Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girioj, ne vien grobį iškratė, bet ir pačius išblaškė.
 
+## Teiginiai
+
+<a id="claim-t-201159"></a>
+- t-001
+  teiginys: "Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girioj, ne vien grobį iškratė, bet ir pačius išblaškė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184509
+
 ## Citatos
 
 - id: c-184509
@@ -56,20 +70,5 @@ Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201159"></a>
-- t-001
-  teiginys: "Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girioj, ne vien grobį iškratė, bet ir pačius išblaškė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184509
-

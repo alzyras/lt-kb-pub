@@ -35,49 +35,12 @@ media_all_json: |-
 
 PVL = Povest’ vremennych let, cast’ pervaja. Štai, XII amž. pradžioje surašyta «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m. darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­ kyta.
 
-## Citatos
-
-- id: c-29626
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 21"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 21."
-  citata_originali: |
-    PVL = Povest’ vremennych let, cast’ pervaja. Tekst i perevod.
-    Leningradas 1951.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-29627
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 126"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 126."
-  citata_originali: |
-    Štai, XII amž. pradžioje surašyta
-    «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.
-    darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­
-    kyta. 1044 m. Jaroslavas vėl ėjęs « na Litvu » ir pavasarį įkūręs
-    Naugarduką.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-29721"></a>
 - t-001
   teiginys: "„Povest’ vremennych let, cast’ pervaja“ teksto ir vertimo leidimas išleistas Leningrade 1951 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Leningradas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -96,7 +59,7 @@ PVL = Povest’ vremennych let, cast’ pervaja. Štai, XII amž. pradžioje sur
 <a id="claim-t-29722"></a>
 - t-002
   teiginys: "XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -112,3 +75,39 @@ PVL = Povest’ vremennych let, cast’ pervaja. Štai, XII amž. pradžioje sur
   pagrindžia:
     - c-29627
 
+## Citatos
+
+- id: c-29626
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 21"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 21."
+  citata_originali: |
+    PVL = Povest’ vremennych let, cast’ pervaja. Tekst i perevod.
+    Leningradas 1951.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-29627
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 126."
+  citata_originali: |
+    Štai, XII amž. pradžioje surašyta
+    «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.
+    darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­
+    kyta. 1044 m. Jaroslavas vėl ėjęs « na Litvu » ir pavasarį įkūręs
+    Naugarduką.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

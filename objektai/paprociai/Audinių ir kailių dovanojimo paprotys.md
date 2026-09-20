@@ -105,9 +105,8 @@ Audinių ir kailių dovanojimo paprotys LDK valdovų aplinkoje apėmė dovanas u
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:20"
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185678
@@ -117,8 +116,6 @@ Audinių ir kailių dovanojimo paprotys LDK valdovų aplinkoje apėmė dovanas u
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:26"
-  pagrindžia:
+  pagrindzia:
     - t-002
-

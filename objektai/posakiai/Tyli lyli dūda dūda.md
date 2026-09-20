@@ -49,6 +49,18 @@ Kartojamas refrenas kerdžiaus giedamose pašaipiose improvizacijose.
 
 Dainos refreno formulė.
 
+## Teiginiai
+
+<a id="claim-t-195422"></a>
+- t-001
+  teiginys: "Kerdžius gieda su refrenu „Tyli lyli dūda dūda“."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177843
+
 ## Citatos
 
 - id: c-177843
@@ -70,18 +82,5 @@ Dainos refreno formulė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195422"></a>
-- t-001
-  teiginys: "Kerdžius gieda su refrenu „Tyli lyli dūda dūda“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177843
-

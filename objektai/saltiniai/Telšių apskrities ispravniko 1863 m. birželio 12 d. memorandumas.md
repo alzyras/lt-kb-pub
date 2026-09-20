@@ -1,29 +1,26 @@
 ---
 tipas: saltinis
-pavadinimas: 'Telšių apskrities ispravniko 1863 m. birželio 12 d. memorandumas'
+pavadinimas: Telšių apskrities ispravniko 1863 m. birželio 12 d. memorandumas
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1861 m.'
-  - '1863 m.'
+  - 1861 m.
+  - 1863 m.
 date_start: '1861'
 date_end: '1863'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Telšių apskrities ispravniko 1863 m. birželio 12 d. memorandumas
 

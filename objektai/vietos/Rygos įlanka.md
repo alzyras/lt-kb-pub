@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Rygos įlanka'
+pavadinimas: Rygos įlanka
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7a6b5fa6ccd95c8674af570f"
-canonical_name: "Rygos įlanka"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Rygos įlanka"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7a6b5fa6ccd95c8674af570f
+canonical_name: Rygos įlanka
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Rygos įlanka
 sameAs: []
-canonical_biography: "Plinijus Rygos įlanką vadino Sinus Clytipenus. Nuo Dauguvos žiočių iki kyšulio Domės Ness jūra pasiglemžė daug sausumos, ypač tarp šio kyšu lio ir Engūrės ežero, todėl Rygos įlanką sudaręs kyšulys išsikišo labiau į jūrą šiaurės link ir pasisuko į Eželio sa los pusę."
+canonical_biography: 'Plinijus Rygos įlanką vadino Sinus Clytipenus. Nuo Dauguvos žiočių iki kyšulio Domės Ness jūra pasiglemžė daug sausumos, ypač tarp šio kyšu lio ir Engūrės ežero, todėl Rygos įlanką sudaręs kyšulys išsikišo labiau į jūrą šiaurės link ir pasisuko į Eželio sa los pusę.'
 ---
 # Rygos įlanka
 
@@ -80,7 +79,7 @@ Plinijus Rygos įlanką vadino Sinus Clytipenus. Nuo Dauguvos žiočių iki kyš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-195404
@@ -98,6 +97,5 @@ Plinijus Rygos įlanką vadino Sinus Clytipenus. Nuo Dauguvos žiočių iki kyš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

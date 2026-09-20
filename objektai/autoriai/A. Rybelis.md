@@ -1,8 +1,8 @@
 ---
 tipas: autorius
-pavadinimas: 'A. Rybelis'
+pavadinimas: A. Rybelis
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f08c7d6532022c08f28abaf4"
-canonical_name: "A. Rybelis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["A. Rybelis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f08c7d6532022c08f28abaf4
+canonical_name: A. Rybelis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - A. Rybelis
 sameAs: []
-canonical_biography: "A. Rybelis paskelbė keletą svarbių straipsnių blaivybės tema."
+canonical_biography: A. Rybelis paskelbė keletą svarbių straipsnių blaivybės tema.
 ---
 # A. Rybelis
 

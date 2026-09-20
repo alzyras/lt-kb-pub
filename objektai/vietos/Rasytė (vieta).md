@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Rasytė (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Rasytė (vieta)
+identifikacija: vieta
 variantai:
-  - 'Rasytė'
+  - Rasytė
 aliases:
-  - 'Rasytė'
+  - Rasytė
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-2ec7a151612174ac178ad6b7"
-canonical_name: "Rasytė (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Rasytė","Rasytė (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-2ec7a151612174ac178ad6b7
+canonical_name: Rasytė (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Rasytė
+  - Rasytė (vieta)
 sameAs: []
-canonical_biography: "Tad gamtinė revoliucija padarė žemesnius senovės Meme lio krantus ir tuo pat metu pertverė išplovą prie Rasytės."
+canonical_biography: Tad gamtinė revoliucija padarė žemesnius senovės Meme lio krantus ir tuo pat metu pertverė išplovą prie Rasytės.
 ---
 # Rasytė (vieta)
 
@@ -70,6 +70,5 @@ Tad gamtinė revoliucija padarė žemesnius senovės Meme lio krantus ir tuo pat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

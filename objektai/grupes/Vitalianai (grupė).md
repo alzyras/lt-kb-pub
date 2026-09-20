@@ -39,6 +39,34 @@ Pasak Teodoro Narbuto, Dorpato vyskupas, matydamas XIV amžiaus vandalų nunioko
 
 Pasak Teodoro Narbuto, Dorpato vyskupas, matydamas XIV amžiaus vandalų nuniokotus savo valsčius, susimokė su piratais, vadintais vitalianais, ir užmezgė ryšius su Stetino kunigaikščiu Sventiboru. Pasak Teodoro Narbuto, vitalianai, dar vadinti „Vitalienbruder“ ir „Gleichbeuter“, iš pradžių per Danijos karą su Švedija tiekė maistą blokuojamiems miestams ir veikė kaip kaperiai.
 
+## Teiginiai
+
+<a id="claim-t-206667"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, Dorpato vyskupas, matydamas XIV amžiaus vandalų nuniokotus savo valsčius, susimokė su piratais, vadintais vitalianais, ir užmezgė ryšius su Stetino kunigaikščiu Sventiboru."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189282
+
+<a id="claim-t-206668"></a>
+- t-002
+  teiginys: "Pasak Teodoro Narbuto, vitalianai, dar vadinti „Vitalienbruder“ ir „Gleichbeuter“, iš pradžių per Danijos karą su Švedija tiekė maistą blokuojamiems miestams ir veikė kaip kaperiai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189283
+
 ## Citatos
 
 - id: c-189282
@@ -58,7 +86,7 @@ Pasak Teodoro Narbuto, Dorpato vyskupas, matydamas XIV amžiaus vandalų nunioko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189283
@@ -78,34 +106,5 @@ Pasak Teodoro Narbuto, Dorpato vyskupas, matydamas XIV amžiaus vandalų nunioko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206667"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, Dorpato vyskupas, matydamas XIV amžiaus vandalų nuniokotus savo valsčius, susimokė su piratais, vadintais vitalianais, ir užmezgė ryšius su Stetino kunigaikščiu Sventiboru."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189282
-
-<a id="claim-t-206668"></a>
-- t-002
-  teiginys: "Pasak Teodoro Narbuto, vitalianai, dar vadinti „Vitalienbruder“ ir „Gleichbeuter“, iš pradžių per Danijos karą su Švedija tiekė maistą blokuojamiems miestams ir veikė kaip kaperiai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189283
-

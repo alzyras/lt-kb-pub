@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Bychovco kronikos rankraščio atradimas'
+pavadinimas: Bychovco kronikos rankraščio atradimas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1830 m.'
+  - 1830 m.
 date_start: '1830'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Bychovco kronikos rankraščio atradimas
 
@@ -77,6 +74,5 @@ Ipolitas Klimaševskis prieš 1830 m. aptiko Bychovco kronikos rankraštį Aleks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

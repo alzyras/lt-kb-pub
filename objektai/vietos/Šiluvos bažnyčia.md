@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Šiluvos bažnyčia'
+pavadinimas: Šiluvos bažnyčia
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b360394b6e360b4881d36321"
-canonical_name: "Šiluvos bažnyčia"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Šiluvos bažnyčia"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b360394b6e360b4881d36321
+canonical_name: Šiluvos bažnyčia
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šiluvos bažnyčia
 sameAs: []
-canonical_biography: "Našlaitė Liudvė šaukėsi Šiluvos baž nyčioje Dievo Motinos pagalbos ir tuojau buvo išklausy ta."
+canonical_biography: Našlaitė Liudvė šaukėsi Šiluvos baž nyčioje Dievo Motinos pagalbos ir tuojau buvo išklausy ta.
 place_authority: true
 historical_names: []
 ---

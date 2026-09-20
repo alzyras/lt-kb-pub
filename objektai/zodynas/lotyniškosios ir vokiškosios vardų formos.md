@@ -27,6 +27,17 @@ media_all_json: |-
 
 Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos vardai (šios kn.
 
+## Teiginiai
+
+<a id="claim-t-58914"></a>
+- t-001
+  teiginys: "Lotyniškosios ir vokiškosios vardų formos rodyklėse dažniausiai pateikiamos tuo linksniu, kuriuo užrašytos šaltiniuose."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59546
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lotyniškosios ir vokiškosios vardų formos rodyklėse dažniausiai pateikiamos tuo linksniu, kuriuo užrašytos šaltiniuose.'
@@ -65,13 +76,5 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-220671"></a>
-- t-001
-  teiginys: "Lotyniškosios ir vokiškosios vardų formos rodyklėse dažniausiai pateikiamos tuo linksniu, kuriuo užrašytos šaltiniuose."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
+  pagrindzia:
+    - t-001

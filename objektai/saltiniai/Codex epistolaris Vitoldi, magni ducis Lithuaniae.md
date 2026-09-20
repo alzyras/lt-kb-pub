@@ -78,7 +78,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-37190
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -92,12 +91,11 @@ media_all_json: |-
     gestas Poloniae illustrantia“).
   citata_rodoma: "C. ep. V. = Codex epistolaris Vitoldi Magni Ducis Lithvan.\n1376—1430 Collec. opera A. Prochaska. Cracoviae,\n1882 (VI tom. iš „Monumentą medii aevi historica res\ngestas Poloniae illustrantia"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-56391
@@ -118,4 +116,3 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

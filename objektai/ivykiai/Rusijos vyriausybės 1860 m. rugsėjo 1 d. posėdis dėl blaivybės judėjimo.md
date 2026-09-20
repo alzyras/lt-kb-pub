@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Rusijos vyriausybės 1860 m. rugsėjo 1 d. posėdis dėl blaivybės judėjimo'
+pavadinimas: Rusijos vyriausybės 1860 m. rugsėjo 1 d. posėdis dėl blaivybės judėjimo
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1860 m.'
+  - 1860 m.
 date_start: '1860'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Rusijos vyriausybės 1860 m. rugsėjo 1 d. posėdis dėl blaivybės judėjimo
 

@@ -1,13 +1,13 @@
 ---
 tipas: grupe
-pavadinimas: 'Romėnai'
+pavadinimas: Romėnai
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1936 m.'
-  - '2026 m.'
+  - 1936 m.
+  - 2026 m.
 date_start: '1936'
 date_end: '2026'
 sukurta: ''
@@ -16,20 +16,30 @@ tags:
   - grupe
   - tauta
 amziai:
-  - 'XX'
-  - 'XXI'
+  - XX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T14:15:08+00:00","source_checked_at":"2026-09-19T14:15:08+00:00","counts":{"relations":14,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7f5ad4ce0f0b71d373937573","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Romėnai pažindavo Juodosios jūros, Okeano ir Baltijos jūros pakrantes.","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 2 (1995 m.); aprašoma ankstesnė romėnų veikla.","support_ids":["t-215177","c-197010"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215177","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197010","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Romėnai pirmiausia pažindavo vienas Juodosios jūros pusės pakrantes, vė­ liau — kitas, esančias prie Okeano ir Baltijos jūros, ta­ čiau viduryje gana ilgą laiką buvo visiškai nepažintas"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"22f962b0a7942153efa5fe22","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Romėnai, kaip nugalėtojai, pažengė toliau, tačiau apie kraštus už Elbės ir Arkados žiočių nepaliko jokių rašytinių šaltinių.","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 2 (1995 m.); autoriaus aprašymas apie romėnų veiklą ir rašytinius palikimus.","support_ids":["t-215394","c-196210"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215394","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196210","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Graikai, ypač masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­ vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga­ lėtojai, pažengė toliau, tačiau apie kraštus, esančius už Elbės ir Arkados žiočių, nepaliko jokių rašytinių"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b6916da2037e600aa9acdb6b","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Romėnai niekad nenuplaukė toliau Elbės upės.","context":"Strabono teiginys, kurį cituoja Teodoras Narbutas, „Lietuvių tautos istorija“, t. 2 (1995 m.); kalbama apie romėnų geografinius tyrimus.","support_ids":["t-213019","c-195728"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213019","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195728","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Būdavo aptinkamos didelių upių žiotys, būdavo keliaujama jomis aukštyn, bet visa tai nesuteikdavo pa­ kankamai medžiagos nupiešti Siaurės Europos žemėlapį, atitinkantį tikrąjį vaizdą. Pirmieji geografijos žemėlapiai pernelyg priartindavo Vakarų jūras prie Juodosios jūros, iš to išeidavo, kad Galija buvo vos ne prie vieno dieno­ vidžio su Skitija, o Baltijos jūra įsiterpdavo tarp jų. Iš to Bazilija, arba šiandienė Semba, buvo vaizduojama čia pat, virš Galijos. Tai, ką čia pateikėme, įrodė ir parašė Diodoro amžininkas Strabonas: „Visas žemynas, esąs už Elbės upės, aukštyn net iki didelės jūros yra dar visiškai nežinomas, nes romėnai niekad nenuplaukė toliau Elbės ir niekas dar neapvažiavo…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"3fcfa6de0a78e2c5e13441d1","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Iš Karnunto prie Dunojaus buvo išsiųstas kilmingas romėnas atgabenti gintaro.","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 2 (1995 m.); 54 arba 55 m. po Kr., Nerono laikais.","support_ids":["t-215547","c-197387"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215547","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197387","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Krikščioniškosios eros 54 ar 55 metais imperatorius Neronas, norėjęs parodyti Romai ypač prašmatnų reginį, sumanė atgabenti daug gintaro iš tų vietų, kur jis gauna­ mas. Dėl to iš Karnunto gyvenvietės prie Dunojaus buvo išsiųstas kilmingas romėnas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"fd49dd3d90d9421a649d6c9c","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Romėnai šventę vadindavo Circumpotatio („gėrimas ratu“).","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 1 (1998 m.); aprašomas senovinis šventės pavadinimas.","support_ids":["t-217065","c-201410"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217065","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-201410","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Romėnai šią šventę vadindavo Circumpotatio (gėrimas ra­ tu), senovės slavai - Stypa arba Strawa."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Galėnas","claim_id":"t-215877","confidence":0.78},{"predicate":"gyne","direction":"outbound","target":"objektai/vietos/Florencija","claim_id":"t-214841","confidence":0.71},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Juvava","claim_id":"t-215494","confidence":0.76},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Jotvingiai","claim_id":"t-214726","confidence":0.94},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Kimbrai","claim_id":"t-212742","confidence":0.88},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Kimbrai","claim_id":"t-212742","confidence":0.88},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Sarmatai","claim_id":"t-214855","confidence":0.72},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Baltija","claim_id":"t-216163","confidence":0.74},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-217109","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Galeros","claim_id":"t-214637","confidence":0.8},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Laivai","claim_id":"t-216163","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Juvava","claim_id":"t-212461","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Herulai","claim_id":"t-215877","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Roksolanai","claim_id":"t-212352","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 28cbb2113baa6383
+object_page_generated_at: '2026-09-19T14:15:08+00:00'
+object_page_source_checked_at: '2026-09-19T14:15:08+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Romėnai: Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašytojas Tacitas savo veikale „Germania". Šaltinių citatos.'
+object_page_seo_input_hash: 7623e7d7a4d66937371265f2694b068274f06bfe75ade60a2dbe8051a9e949fd
+object_page_seo_generated_at: '2026-09-19T14:15:08+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Romėnai
 
@@ -39,70 +49,39 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 
 ## Teiginiai
 
-<a id="claim-t-215177"></a>
-- t-215177
-  teiginys: "Romėnai pirmiausia pažindavo vienas Juodosios jūros pusės pakrantes, vė liau — kitas, esančias prie Okeano ir Baltijos jūros, ta čiau viduryje gana ilgą laiką buvo visiškai nepažintas."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-66064"></a>
+- t-001
+  teiginys: "Romėnų rašytojas Tacitas pirmojo amžiaus pabaigoje veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus."
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romėnai\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-197010
+    - c-46394
 
-<a id="claim-t-215394"></a>
-- t-215394
-  teiginys: "Graikai, ypač masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga lėtojai, pažengė toliau, tačiau apie kraštus, esančius už Elbės ir Arkados žiočių, nepaliko jokių rašytinių."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196210
-
-<a id="claim-t-215547"></a>
-- t-215547
-  teiginys: "Dėl to iš Karnunto gyvenvietės prie Dunojaus buvo išsiųstas kilmingas romėnas."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197387
-
-<a id="claim-t-217065"></a>
-- t-217065
-  teiginys: "Romėnai šią šventę vadindavo Circumpotatio (gėrimas ra tu), senovės slavai - Stypa arba Strawa."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-188324"></a>
+- t-002
+  teiginys: "Narbutas romėnų Penates ir Lares, kaip ir lietuvių Siejmi Dewas bei Gulbi, priskyrė bendriems namų dievaičiams, globojusiems ūkio dalis."
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-201410
+    - c-171217
 
-<a id="claim-t-213019"></a>
-- t-213019
-  teiginys: "Tai, ką čia pateikėme, įrodė ir parašė Diodoro amžininkas Strabonas: „Visas žemynas, esąs už Elbės upės, aukštyn net iki didelės jūros yra dar visiškai nežinomas, nes romėnai niekad nenuplaukė toliau Elbės ir niekas dar neapvažiavo sausuma tų tolimų plotų“1."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195728
-
-<a id="claim-t-215953"></a>
-- t-215953
+<a id="claim-t-188325"></a>
+- t-003
   teiginys: "Narbutas rašė, kad žalčių garbinimas senovėje buvo paplitęs tarp indų, chaldėjų, egiptiečių, persų, finikiečių, graikų, romėnų ir gotų."
-  atnaujinta: "2026-09-12 23:46"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -117,12 +96,52 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-199856
+    - c-171218
 
-<a id="claim-t-217109"></a>
-- t-217109
+<a id="claim-t-188326"></a>
+- t-004
+  teiginys: "Narbutas nurodė, kad romėnai turėjo dievaitį Famulą, kuris žmonėms apsireikšdavo žalčiu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Atėniečiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Atėniečiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romėnai\" parinktas kaip owner_note_path. Targetas \"Atėniečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171219
+
+<a id="claim-t-188327"></a>
+- t-005
+  teiginys: "Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, o Minervą - Alkida."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Germanai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Germanai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romėnai\" parinktas kaip owner_note_path. Targetas \"Germanai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171220
+
+<a id="claim-t-188328"></a>
+- t-006
   teiginys: "Narbutas pažymėjo, kad kronikos romėnų ar į juos panašių atvykimą į Lietuvą datavo 48 m. pr. Kr., 57 m. po Kr. arba 401 m."
-  atnaujinta: "2026-09-12 23:46"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -141,61 +160,12 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   temporalinis_llm_pakomentavimas: "Legendinis kronikų pasakojimas paliktas su atribucija ir nepaverstas faktiniu atvykimu. Įtrauktos tik citatoje nurodytos datos."
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-200277
+    - c-171221
 
-<a id="claim-t-217652"></a>
-- t-217652
-  teiginys: "Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, o Minervą - Alkida."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Germanai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romėnai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Germanai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romėnai\" parinktas kaip owner_note_path. Targetas \"Germanai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-199765
-
-<a id="claim-t-217877"></a>
-- t-217877
-  teiginys: "Narbutas romėnų Penates ir Lares, kaip ir lietuvių Siejmi Dewas bei Gulbi, priskyrė bendriems namų dievaičiams, globojusiems ūkio dalis."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-198204
-
-<a id="claim-t-66064"></a>
-- t-66064
-  teiginys: "Romėnų rašytojas Tacitas pirmojo amžiaus pabaigoje veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aisčiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romėnai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romėnai\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-46394
-
-<a id="claim-t-216238"></a>
-- t-216238
+<a id="claim-t-188329"></a>
+- t-007
   teiginys: "Narbutas lietuvių antspaudų naudojimą vietoj parašų lygino su romėnų praktika."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -210,7 +180,51 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-199856
+    - c-171222
+
+<a id="claim-t-192452"></a>
+- t-008
+  teiginys: "Kartaginietis, nenorėdamas parodyti kelio paskui plaukusiam romėnų laivui, įviliojo jį į pavojingas vietas."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romėnai\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175246
+
+<a id="claim-t-194864"></a>
+- t-009
+  teiginys: "Sis autorius, kruopščiausiai rin kęs įvairias žinias iš retų raštų, pats lankėsi prie Elbės, vadovaudamas romėnų kariuomenei, be to, buvo visiškai atsidavęs gamtos tyrinėjimui ir neabejotinai turėjo progos susipažinti su to meto mokslininkų požiūriais ¡bei."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-177260
+
+<a id="claim-t-197515"></a>
+- t-010
+  teiginys: "Tai, ką čia pateikėme, įrodė ir parašė Diodoro amžininkas Strabonas: „Visas žemynas, esąs už Elbės upės, aukštyn net iki didelės jūros yra dar visiškai nežinomas, nes romėnai niekad nenuplaukė toliau Elbės ir niekas dar neapvažiavo sausuma tų tolimų plotų“1."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179226
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -337,8 +351,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-66064
+  pagrindzia:
+    - t-001
 
 - id: c-171217
   autorius: "Teodoras Narbutas"
@@ -361,6 +375,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-171218
   autorius: "Teodoras Narbutas"
@@ -378,6 +394,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-171219
   autorius: "Teodoras Narbutas"
@@ -397,6 +415,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-171220
   autorius: "Teodoras Narbutas"
@@ -413,6 +433,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-171221
   autorius: "Teodoras Narbutas"
@@ -435,6 +457,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-171222
   autorius: "Teodoras Narbutas"
@@ -455,6 +479,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-175246
   autorius: "Teodoras Narbutas"
@@ -480,6 +506,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 - id: c-177260
   autorius: "Teodoras Narbutas"
@@ -507,6 +535,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 - id: c-179226
   autorius: "Teodoras Narbutas"
@@ -533,201 +563,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195728
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 163"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 163."
-  citata_originali: |
-    Būdavo aptinkamos didelių upių žiotys, būdavo
-    keliaujama jomis aukštyn, bet visa tai nesuteikdavo pa­
-    kankamai medžiagos nupiešti Siaurės Europos žemėlapį,
-    atitinkantį tikrąjį vaizdą. Pirmieji geografijos žemėlapiai
-    pernelyg priartindavo Vakarų jūras prie Juodosios jūros,
-    iš to išeidavo, kad Galija buvo vos ne prie vieno dieno­
-    vidžio su Skitija, o Baltijos jūra įsiterpdavo tarp jų. Iš
-    to Bazilija, arba šiandienė Semba, buvo vaizduojama čia
-    pat, virš Galijos. Tai, ką čia pateikėme, įrodė ir parašė
-    Diodoro amžininkas Strabonas: „Visas žemynas, esąs už
-    Elbės upės, aukštyn net iki didelės jūros yra dar visiškai
-    nežinomas, nes romėnai niekad nenuplaukė toliau Elbės
-    ir niekas dar neapvažiavo sausuma tų tolimų plotų“1. Ki­
-    tur jis visiškai pasitiki Pitėjo aprašymais2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213019
-
-- id: c-196210
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 335"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
-  citata_originali: |
-    Graikai, ypač
-    masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
-    vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga­
-    lėtojai, pažengė toliau, tačiau apie kraštus, esančius už
-    Elbės ir Arkados žiočių, nepaliko jokių rašytinių
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215394
-
-- id: c-197010
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 162"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 162."
-  citata_originali: |
-    Romėnai pirmiausia
-    pažindavo vienas Juodosios jūros pusės pakrantes, vė­
-    liau — kitas, esančias prie Okeano ir Baltijos jūros, ta­
-    čiau viduryje gana ilgą laiką buvo visiškai nepažintas
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215177
-
-- id: c-197387
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 174"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 174."
-  citata_originali: |
-    Krikščioniškosios eros 54 ar 55 metais imperatorius
-    Neronas, norėjęs parodyti Romai ypač prašmatnų reginį,
-    sumanė atgabenti daug gintaro iš tų vietų, kur jis gauna­
-    mas. Dėl to iš Karnunto gyvenvietės prie Dunojaus buvo
-    išsiųstas kilmingas romėnas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215547
-
-- id: c-198204
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 200"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 200."
-  citata_originali: |
-    Apie fetišizmą
-    Visos stabmeldžių tautos turėjo įvairiais vardais vadina­
-    mus savo namų dievus. Romėnų DU Penates, Lares ir 1.1., lie­
-    tuvių Siejmi Dewas, Gulbi ir 1.1, buvo šios rūšies dievaičiai, tik
-    jie buvo visiems bendri, garbinami visų krašto žmonių, jų es­
-    mę suprasdavo ir juos įsivaizduodavo pagal kitų dievų pavyz­
-    dį, jiems skirtas maldas jungdavo su maldomis, kreipiamomis
-    apskritai į visus dievus; jų žemą kategoriją rodo tai, kad jie
-    buvo kasdieniai, globojantys tą ar kitą namų ūkio dalį, saky­
-    čiau, namų parankiniai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217877
-
-- id: c-199765
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 216"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 216."
-  citata_originali: |
-    Senovės germanai nehervalai turėjo du dievaičius Alcius,
-    amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
-    laikų graikai ir romėnai Heraklį vadino Alkidu, Minervą - Al­
-    kidą. Jie taip pat turėjo atskiras dievybes, vadintas Alkidėmis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217652
-
-- id: c-199856
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
-  citata_originali: |
-    Šiuos prietarus žinojo ir Lietuvos rusinai.
-    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
-    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
-    gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
-    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215953
-    - t-216238
-
-- id: c-200277
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
-  citata_originali: |
-    Palemonas (Palemon)
-    Didvyris, vardas, Lietuvos pajūrio šalies valdovas, atkilęs
-    su savo žmonėmis iš svetimos žemės.
-    Kronikos vienur rašė, kad romėnai arba kurie nors pana­
-    šūs į juos piliečiai atvykę į Lietuvą apie 48 metus prieš Kristų,
-    kitur - 57 metais po Kristaus, trečiur - tos pačios eros 401
-    metais. Strijkovskis, savo papratimu nesileisdamas į jokią kri­
-    tiką, naiviai deda ištraukas iš anuomet jam žinomų kronikų,
-    kurių gana daug turėjo rankose, arba semiasi žinių iš vietos
-    padavimų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217109
-
-- id: c-201410
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 336."
-  citata_originali: |
-    Romėnai šią šventę vadindavo Circumpotatio (gėrimas ra­
-    tu), senovės slavai - Stypa arba Strawa.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217065
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Puolė Romėnai: [[objektai/grupes/Herulai]]

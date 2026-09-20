@@ -46,9 +46,9 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
     - c-03357
 
 <a id="claim-t-182970"></a>
-- t-182970
+- t-002
   teiginys: "Polocke ir Kaune Hanza įsteigė savo agentūras, vadintas pirklių kontoromis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,12 +80,11 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
     savo agentūras (vadinamąsias pirklių kontoras).
   citata_rodoma: "Abiejuose tuose centruose Hanza veikiai įsteigė\nsavo agentūras (vadinamąsias pirklių kontoras)."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166368
@@ -105,6 +104,5 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-182970
-
+  pagrindzia:
+    - t-002

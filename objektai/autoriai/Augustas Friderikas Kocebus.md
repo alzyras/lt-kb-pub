@@ -1,39 +1,39 @@
 ---
 tipas: autorius
-pavadinimas: 'Augustas Friderikas Kocebus'
+pavadinimas: Augustas Friderikas Kocebus
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1761 m.'
-  - '1819 m.'
+  - 1761 m.
+  - 1819 m.
 date_start: '1761'
 date_end: '1819'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVIII'
-  - 'XIX'
+  - XVIII
+  - XIX
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-87360853f0bf9676fa928eed"
-canonical_name: "Augustas Friderikas Kocebus"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Augustas Friderikas Kocebus"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-87360853f0bf9676fa928eed
+canonical_name: Augustas Friderikas Kocebus
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Augustas Friderikas Kocebus
 sameAs: []
-canonical_biography: "Augustas Friderikas Kocebus (1761–1819) buvo vokiečių literatas ir Rusijos imperatoriaus dvariškis."
+canonical_biography: Augustas Friderikas Kocebus (1761–1819) buvo vokiečių literatas ir Rusijos imperatoriaus dvariškis.
 ---
 # Augustas Friderikas Kocebus
 
@@ -77,6 +77,5 @@ Augustas Friderikas Kocebus (1761–1819) buvo vokiečių literatas ir Rusijos i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

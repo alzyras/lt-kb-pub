@@ -42,6 +42,17 @@ canonical_biography: "p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
 
 p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
 
+## Teiginiai
+
+<a id="claim-t-39863"></a>
+- t-001
+  teiginys: "Bojeris L. buvo veikalo „Salaspilio mūšis Karolomachijoje“ autorius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-41667
+
 ## Citatos
 
 - id: c-41667
@@ -56,17 +67,5 @@ p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-39863"></a>
-- t-001
-  teiginys: "Bojeris L. buvo veikalo „Salaspilio mūšis Karolomachijoje“ autorius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-41667
-

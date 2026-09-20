@@ -43,6 +43,24 @@ canonical_biography: "Mikalojus Gricevičius prieš 1586 m. Ramygalos turgaus di
 
 1586 m. Ramygalos turgaus dieną paaiškėjo, kad prieš metus pasprukęs Mikalojus Gricevičius buvo išsivedęs Jurijaus Juknevičiaus uošvės arklį.
 
+## Teiginiai
+
+<a id="claim-t-203778"></a>
+- t-001
+  teiginys: "1586 m. Ramygalos turgaus dieną paaiškėjo, kad prieš metus pasprukęs Mikalojus Gricevičius buvo išsivedęs Jurijaus Juknevičiaus uošvės arklį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1586 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pataisyta negramatiška laiko konstrukcija ir aiškiai susieti pabėgimas, arklio išsivedimas bei vėlesnis atpažinimas."
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186382
+
 ## Citatos
 
 - id: c-186382
@@ -61,24 +79,5 @@ canonical_biography: "Mikalojus Gricevičius prieš 1586 m. Ramygalos turgaus di
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203778"></a>
-- t-001
-  teiginys: "1586 m. Ramygalos turgaus dieną paaiškėjo, kad prieš metus pasprukęs Mikalojus Gricevičius buvo išsivedęs Jurijaus Juknevičiaus uošvės arklį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  temporaliniai_duomenys: "įvykio data: 1586 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pataisyta negramatiška laiko konstrukcija ir aiškiai susieti pabėgimas, arklio išsivedimas bei vėlesnis atpažinimas."
-  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
-  pagrindžia:
-    - c-186382
-

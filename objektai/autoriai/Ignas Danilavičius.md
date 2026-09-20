@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Ignas Danilavičius'
+pavadinimas: Ignas Danilavičius
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -15,7 +15,7 @@ tags:
   - autorius
   - diplomatas
 amziai:
-  - 'D'
+  - D
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -23,19 +23,32 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6824317e3af819fe11862300"
-canonical_name: "Ignas Danilavičius"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Ignas Danilavičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6824317e3af819fe11862300
+canonical_name: Ignas Danilavičius
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Ignas Danilavičius
 sameAs: []
-canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių (Danilowicz)^37 , kuris pirmasis sudarė Lietuvos istorijai reikalingų dokumentų ar jų santraukų (regestų) rinkinį lenkų kalba, pradedant nuo Herodoto. Janulaitis : Ignas Danilavičius, Kaunas 1932."
+canonical_biography: 'Čia reikia paminėti labai kritišką Igną Danilavičių (Danilowicz)^37 , kuris pirmasis sudarė Lietuvos istorijai reikalingų dokumentų ar jų santraukų (regestų) rinkinį lenkų kalba, pradedant nuo Herodoto. Janulaitis : Ignas Danilavičius, Kaunas 1932.'
+external_sources_json: '[{"title":"Ignas Danilavičius","url":"https://www.vle.lt/straipsnis/ignas-danilavicius/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:31:04+00:00","source_checked_at":"2026-09-19T22:31:04+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Ignas Danilavičius","url":"https://www.vle.lt/straipsnis/ignas-danilavicius/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/ignas-danilavicius/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"1cff17f6bde3d88dba06ee21","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Dalį Lietuvos Statutuose nurodytų bausmių kildino iš magdeburginės teisės.","context":"XIX a. pirmoje pusėje; šaltinio autoriaus teiginys apie Igną Danilavičių.","support_ids":["t-203665","c-186269"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203665","source":"darbas/sources/Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose.md"},{"kind":"evidence","evidence_id":"c-186269","source":"darbas/sources/Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose.md","quote":"Jau XIX a. pirmoje pusėje Ignas Danilavičius dalį tokių bausmių Statutuose kildino iš magdeburginės teisės28."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 05a823009d389f9d
+object_page_generated_at: '2026-09-19T22:31:04+00:00'
+object_page_source_checked_at: '2026-09-19T22:31:04+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Ignas Danilavičius: Čia reikia paminėti labai kritišką Igną Danilavičių (Danilowicz)^37 , kuris pirmasis sudarė Lietuvos istorijai reikalingų dokumentų ar jų…'
+object_page_seo_input_hash: ca68599d95204cd191747d5db791b07ad3186bbf3f5bf5f1f7a0b79948314fb1
+object_page_seo_generated_at: '2026-09-19T22:31:04+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ignas Danilavičius
 
@@ -44,6 +57,25 @@ canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių
 Čia reikia paminėti labai kritišką Igną Danilavičių (Danilowicz)^37 , kuris pirmasis sudarė Lietuvos istorijai reikalingų dokumentų ar jų santraukų (regestų) rinkinį lenkų kalba, pradedant nuo Herodoto. Janulaitis : Ignas Danilavičius, Kaunas 1932.
 
 ## Teiginiai
+
+<a id="claim-t-81908"></a>
+- t-001
+  teiginys: "Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų ir regestų rinkinį."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ignas Danilavičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignas Danilavičius\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: iki 1569 m.; įvykio data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, aiškus ir tiksliai paremtas citata."
+  pagrindžia:
+    - c-78439
 
 <a id="claim-t-81909"></a>
 - t-002
@@ -61,61 +93,10 @@ canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių
   pagrindžia:
     - c-78441
 
-<a id="claim-t-212388"></a>
-- t-212388
-  teiginys: "I. Danilavičiaus darbe buvo paskelbtas Lietuvos metraščių pluoštas."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194423
-
-<a id="claim-t-219414"></a>
-- t-219414
-  teiginys: "Ignotas Danilavičius dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas krašto praeities studijomis."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ignas Danilavičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignas Danilavičius\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-198133
-
-<a id="claim-t-81908"></a>
-- t-81908
-  teiginys: "Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų ir regestų rinkinį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ignas Danilavičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignas Danilavičius\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: iki 1569 m.; įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, aiškus ir tiksliai paremtas citata."
-  pagrindžia:
-    - c-78439
-
 <a id="claim-t-81910"></a>
-- t-81910
+- t-003
   teiginys: "M. Balinskis dėkojo Ignui Danilavičiui už pagalbą istoriniais dokumentais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Danilavičius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -131,10 +112,43 @@ canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių
   pagrindžia:
     - c-78440
 
+<a id="claim-t-188404"></a>
+- t-004
+  teiginys: "Ignotas Danilavičius dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas krašto praeities studijomis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ignas Danilavičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignas Danilavičius\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171294
+
+<a id="claim-t-194660"></a>
+- t-005
+  teiginys: "Ignas Danilavičius turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kunigaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip žmoną."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-177057
+
 <a id="claim-t-200945"></a>
-- t-200945
+- t-006
   teiginys: "Vienintelį kartą jis mini Lietuvos metraščio Supraslio nuorašą, kurį neseniai buvo radęs ir paskel bęs Ignotas Danilavičius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -144,9 +158,9 @@ canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių
     - c-184295
 
 <a id="claim-t-203665"></a>
-- t-203665
+- t-007
   teiginys: "Ignas Danilavičius XIX a. pirmoje pusėje dalį Lietuvos Statutuose nurodytų bausmių kildino iš magdeburginės teisės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -196,8 +210,8 @@ canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-81908
+  pagrindzia:
+    - t-001
 
 - id: c-78440
   autorius: "Michał Baliński"
@@ -218,8 +232,8 @@ canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-81910
+  pagrindzia:
+    - t-003
 
 - id: c-78441
   autorius: "Michał Baliński"
@@ -238,12 +252,11 @@ canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių
     kas.
   citata_rodoma: "Veikalo pra­\ntarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­\nnui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui\nMalevskiui už gausius išrašus iš Lietuvos Metrikos. P."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-171294
@@ -266,6 +279,8 @@ canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-177057
   autorius: "Teodoras Narbutas"
@@ -291,6 +306,8 @@ canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-184295
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -308,8 +325,8 @@ canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-200945
+  pagrindzia:
+    - t-006
 
 - id: c-186269
   autorius: "Gitana Zujienė"
@@ -328,50 +345,5 @@ canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203665
-
-- id: c-194423
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 474"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 474."
-  citata_originali: |
-    Tai I. Danilavičiaus (1787—1843) darbas, kuriame buvo paskelb­
-    tas pluoštas Lietuvos metraščių (DanUomicz J. Latopisiec Litvvy
-    i kronika ruska. Wilno, 1827). Minėtas I. Danilavičiaus rinkinys,
-    davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto
-    Saurų dvaro bibliotekoje
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212388
-
-- id: c-198133
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
-  citata_originali: |
-    Išsamesnėms krašto praeities studijoms istoriką galė­
-    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
-    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
-    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
-    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
-    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
-    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
-    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
-    kus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219414
-
+  pagrindzia:
+    - t-007

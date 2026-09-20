@@ -47,23 +47,10 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 
 ## Teiginiai
 
-<a id="claim-t-215708"></a>
-- t-215708
-  teiginys: "Simonas Stanevičius buvo filosofijos magistras ir lietuviškų dainų rinkinio autorius."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-194939
-
 <a id="claim-t-169894"></a>
-- t-169894
+- t-001
   teiginys: "Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, laikomu kone tautinio kultūrinio sąjūdžio himnu ar manifestu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> S. Daukantas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,9 +67,9 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
     - c-154578
 
 <a id="claim-t-183347"></a>
-- t-183347
+- t-002
   teiginys: "Vilniaus universiteto aplinkoje Simonas Stanevičius ir kiti iš Žemaitijos kilę inteligentai plėtojo aukštąją kultūrą lietuvių kalba."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -98,27 +85,52 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   pagrindžia:
     - c-166738
 
-<a id="claim-t-218293"></a>
-- t-218293
+<a id="claim-t-188475"></a>
+- t-003
   teiginys: "Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui liudijo apie Švėkšnos klebono Juozapo Januškevičiaus sode rastą lobį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Švėkšna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simonas Stanevičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Švėkšna: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonas Stanevičius\" parinktas kaip owner_note_path. Targetas \"Švėkšna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   temporaliniai_duomenys: "įvykio data: 1836 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Išskleistas laiško autorius, adresatas, data ir liudijimo objektas. Nepridėta papildomų teiginių apie monetų kilmę ar lobio sudėtį."
   pagrindžia:
-    - c-199816
+    - c-171366
+
+<a id="claim-t-188476"></a>
+- t-004
+  teiginys: "Redakcinėje pastaboje spėjama, kad Raseinių korespondentas galėjo būti Simonas Stanevičius."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Raseiniai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Simonas Stanevičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Raseiniai: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonas Stanevičius\" parinktas kaip owner_note_path. Targetas \"Raseiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171366
+
+<a id="claim-t-197337"></a>
+- t-005
+  teiginys: "Simonas Stanevičius buvęs garbinamas kaip dievas ir turėjęs savo šventyklą Nemunaityje, ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų apskrityje yra taip besivadinąs miestelis su pylimų žymėmis ir keliais milžinkapiais."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171365
 
 ## Citatos
 
@@ -146,8 +158,8 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169894
+  pagrindzia:
+    - t-001
 
 - id: c-166738
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -177,8 +189,8 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183347
+  pagrindzia:
+    - t-002
 
 - id: c-171365
   autorius: "Teodoras Narbutas"
@@ -203,6 +215,8 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-171366
   autorius: "Teodoras Narbutas"
@@ -221,49 +235,6 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194939
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 481"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 481."
-  citata_originali: |
-    Taip tvirtina ponas Simonas
-    Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio au­
-    torius, man rašytame laiške (Raseiniai. 1836.IV.19).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215708
-
-- id: c-199816
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 220"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
-  citata_originali: |
-    Apie jį dar esama padavimo, kad jis buvęs gar­
-    binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
-    ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
-    skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
-    keliais milžinkapiais. Pusdievio ir Nemuno vardo panašumas
-    perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­
-    kas šia upe keliavęs, bus davęs upei savo vardą. Lietuvoje
-    gyveno panašiai besivadinanti bajorų giminė; turim rankoje
-    laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemu-
-    navičiaus (Niemonowicz) parašu. Matyti, kad ta pavardė yra
-    kilusi iš Nemuno pavadinimo, kaip Piotrowicz, tai yra Petro
-    sūnus, iš Petro.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218293
-
+  pagrindzia:
+    - t-003
+    - t-004

@@ -46,6 +46,23 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203879"></a>
+- t-001
+  teiginys: "1791 m. per Jono Radzevičiaus mūrinio namo Rūdninkų gatvėje užpuolimą šeimininkams grasinta pistoletu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie užpuolimo aplinkybę ir tiesiogiai paremtas citata. Nuteisimo aplinkybės, kurios teiginyje neminimos, nepridėtos."
+  pagrindžia:
+    - c-186483
+
 ## Santrauka
 
 1791 m. per Jono Radzevičiaus mūrinio namo Rūdninkų gatvėje užpuolimą šeimininkams grasinta pistoletu.
@@ -68,23 +85,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203879"></a>
-- t-001
-  teiginys: "1791 m. per Jono Radzevičiaus mūrinio namo Rūdninkų gatvėje užpuolimą šeimininkams grasinta pistoletu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie užpuolimo aplinkybę ir tiesiogiai paremtas citata. Nuteisimo aplinkybės, kurios teiginyje neminimos, nepridėtos."
-  pagrindžia:
-    - c-186483
-

@@ -34,6 +34,20 @@ media_all_json: |-
 
 0) e 4 G: „Želva Js nk Seta” va D r SOKOLKA gė VV siena statyta 6 km pločio neutrali zona, abi pusės turėjo pasitraukti atgal po 3 km. 1923 m.
 
+## Teiginiai
+
+<a id="claim-t-42482"></a>
+- t-001
+  teiginys: "Prie sienos nustatyta 6 km pločio neutrali zona, todėl abi pusės turėjo pasitraukti po 3 km."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: iki 1939 m.; įvykio data: 1923 m.; įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nepagrindžia neutralios zonos nustatymo metų, todėl pašalinta nepagrįsta data."
+  pagrindžia:
+    - c-45535
+
 ## Citatos
 
 - id: c-45535
@@ -70,20 +84,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-42482"></a>
-- t-001
-  teiginys: "Prie sienos nustatyta 6 km pločio neutrali zona, todėl abi pusės turėjo pasitraukti po 3 km."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: iki 1939 m.; įvykio data: 1923 m.; įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nepagrindžia neutralios zonos nustatymo metų, todėl pašalinta nepagrįsta data."
-  pagrindžia:
-    - c-45535
-

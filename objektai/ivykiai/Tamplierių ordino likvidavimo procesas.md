@@ -1,30 +1,27 @@
 ---
 tipas: ivykis
-pavadinimas: 'Tamplierių ordino likvidavimo procesas'
+pavadinimas: Tamplierių ordino likvidavimo procesas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1291 m.'
-  - '1314 m.'
+  - 1291 m.
+  - 1314 m.
 date_start: '1291'
 date_end: '1314'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
-  - 'XIV'
+  - XIII
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Tamplierių ordino likvidavimo procesas
 
@@ -81,6 +78,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

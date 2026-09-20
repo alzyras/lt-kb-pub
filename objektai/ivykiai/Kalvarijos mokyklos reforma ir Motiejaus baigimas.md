@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kalvarijos mokyklos reforma ir Motiejaus baigimas'
+pavadinimas: Kalvarijos mokyklos reforma ir Motiejaus baigimas
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 datos:
-  - '1818 m.'
+  - 1818 m.
 date_start: '1818'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kalvarijos mokyklos reforma ir Motiejaus baigimas
 

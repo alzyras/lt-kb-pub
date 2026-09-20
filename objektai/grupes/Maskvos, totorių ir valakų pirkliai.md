@@ -28,6 +28,25 @@ media_all_json: |-
 
 Maskvos, totorių ir valakų pirkliai, kaskart vis gausiau atvykstantys į Vilnių, išskyrus metų muges, negalėjo mainytis savo prekėmis su kitais sve­ timšaliais, bet tiktai su Vilniaus pirkliais.
 
+## Teiginiai
+
+<a id="claim-t-86811"></a>
+- t-001
+  teiginys: "Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metų muges, galėjo mainytis prekėmis tik su Vilniaus pirkliais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvos, totorių ir valakų pirkliai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pirkliai tiesiogiai apibūdinti kaip atvykstantys į Vilnių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Maskvos, totorių ir valakų pirkliai keliavo į Vilnius (0.82); Maskvos, totorių ir valakų pirkliai prekiavo su Vilnius (0.76)"
+  pagrindžia:
+    - c-82790
+
 ## Citatos
 
 - id: c-82790
@@ -61,28 +80,8 @@ Maskvos, totorių ir valakų pirkliai, kaskart vis gausiau atvykstantys į Vilni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Maskvos, totorių ir valakų pirkliai keliavo į [[objektai/vietos/Vilnius]]
-
-## Teiginiai
-
-<a id="claim-t-86811"></a>
-- t-001
-  teiginys: "Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metų muges, galėjo mainytis prekėmis tik su Vilniaus pirkliais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvos, totorių ir valakų pirkliai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pirkliai tiesiogiai apibūdinti kaip atvykstantys į Vilnių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Maskvos, totorių ir valakų pirkliai keliavo į Vilnius (0.82); Maskvos, totorių ir valakų pirkliai prekiavo su Vilnius (0.76)"
-  pagrindžia:
-    - c-82790
-

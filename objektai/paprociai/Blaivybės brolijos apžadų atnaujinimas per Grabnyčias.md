@@ -1,8 +1,8 @@
 ---
 tipas: paprotys
-pavadinimas: 'Blaivybės brolijos apžadų atnaujinimas per Grabnyčias'
+pavadinimas: Blaivybės brolijos apžadų atnaujinimas per Grabnyčias
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Blaivybės brolijos apžadų atnaujinimas per Grabnyčias
 
@@ -38,21 +35,6 @@ Nenurodyta
 
 ## Kontekstas
 Nenurodyta
-
-## Teiginiai
-
-<a id="claim-t-208834"></a>
-- t-001
-  teiginys: "Per Grabnyčias, vasario 2 d., Blaivybės brolijos nariai turėjo atnaujinti blaivybės apžadą prieš Švč. M. Marijos altorių arba paveikslą."
-  atnaujinta: "2026-09-13 13:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
-  pagrindžia:
-    - c-191454
 
 ## Santrauka
 
@@ -82,6 +64,20 @@ Per Grabnyčias, vasario 2 d., Blaivybės brolijos nariai turėjo atnaujinti bla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
+## Teiginiai
+
+<a id="claim-t-208834"></a>
+- t-001
+  teiginys: "Per Grabnyčias, vasario 2 d., Blaivybės brolijos nariai turėjo atnaujinti blaivybės apžadą prieš Švč. M. Marijos altorių arba paveikslą."
+  atnaujinta: "2026-09-13 13:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
+  pagrindžia:
+    - c-191454
 

@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Trakai'
+pavadinimas: Trakai
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -8,13 +8,13 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1000 m.'
-  - '1516 m.'
-  - '1586 m.'
+  - 1000 m.
+  - 1516 m.
+  - 1586 m.
 date_start: '1000'
 date_end: '1586'
 sukurta: ''
@@ -24,30 +24,44 @@ tags:
   - vieta
   - žemė
 amziai:
-  - 'X'
-  - 'XVI'
+  - X
+  - XVI
 media_total_count: '31'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ATrakai_Island_Castle_in_19c.jpg'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'depicts'
-media_primary_json: |-
-  {"mediaId":"m-8a8cbb7fc4225b6d4c59b618","title":"Trakai Island Castle in 19c.jpg","caption":"XIX a. Trakų salos pilies vaizdas","originalTitle":"Trakai Island Castle in 19c.jpg","creator":"Napoleon Orda","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"[1]","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":800,"height":535,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_Castle_in_19c.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Drawings of castles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Galvė","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings of Troki by Napoleon Orda","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle in art","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.190423+03:00","reviewedAt":"2026-08-11T00:49:48.019534+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma pilis saloje, apsupta vandens, su būdingais bokštais ir mūrais.","metadataEvidence":"Pavadinimas aiškiai nurodo „Trakai Island Castle“, aprašas nurodo Lietuvą, autorius Napoleon Orda, XIX a.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus istorinis konkrečios Trakų pilies atvaizdas.","isPrimary":1}
-media_direct_json: |-
-  [{"mediaId":"m-8a8cbb7fc4225b6d4c59b618","title":"Trakai Island Castle in 19c.jpg","caption":"XIX a. Trakų salos pilies vaizdas","originalTitle":"Trakai Island Castle in 19c.jpg","creator":"Napoleon Orda","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"[1]","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":800,"height":535,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_Castle_in_19c.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Drawings of castles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Galvė","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings of Troki by Napoleon Orda","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle in art","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.190423+03:00","reviewedAt":"2026-08-11T00:49:48.019534+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma pilis saloje, apsupta vandens, su būdingais bokštais ir mūrais.","metadataEvidence":"Pavadinimas aiškiai nurodo „Trakai Island Castle“, aprašas nurodo Lietuvą, autorius Napoleon Orda, XIX a.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus istorinis konkrečios Trakų pilies atvaizdas.","isPrimary":1},{"mediaId":"m-679d40a4c6658524704578c5","title":"Fotonuotrauka. Panoraminė. Lietuvos karo aviacijos III grupės lėktuvų skrydis Vilnius – Trakai – Vilnius. Trakų salos pilies ir tvirtovės apylinkių vaizdas iš žvalgybinio lėktuvo ir lengvojo bombonešio ANBO-IV. 1939.XI.1.","caption":"Trakų salos pilies griuvėsių ir ežerų panorama iš lėktuvo, 1939 m.","originalTitle":"Fotonuotrauka. Panoraminė. Lietuvos karo aviacijos III grupės lėktuvų skrydis Vilnius – Trakai – Vilnius. Trakų salos pilies ir tvirtovės apylinkių vaizdas iš žvalgybinio lėktuvo ir lengvojo bombonešio ANBO-IV. 1939.XI.1.","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_705875688","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-705875688/thumbnail-original/705875720.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-705875688%2Fthumbnail-original%2F705875720.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-705875688/thumbnail-original/705875720.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"transportas","label":"transportas","facetKind":"tema","confidence":0.8}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Borg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burcht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Caisleán","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castello","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castelo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castillo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Château fort","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Doprava","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"Fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Garraio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Gaztelu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hrad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Iompar","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Jauregi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kastell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Liikenne","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linnus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palace","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palacio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palads","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palais","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palast","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palat","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palats","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palatsi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palau","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palazz","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palazzo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palača","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palee","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paleis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palota","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palác","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palácio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pałac","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pilis","language":"def","canonicalCode":"pilis"},{"provider":"europeana","field":"edm_concepts","label":"Pils","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Promet","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pálás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rūmai","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Szállítás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Transport","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Transportas","language":"def","canonicalCode":"transportas"},{"provider":"europeana","field":"edm_concepts","label":"Transporte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Transports","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Trasporto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Utvrda","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vervoer","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Viduslaiku pils","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vár","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zamek","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:33:47.273427+03:00","reviewedAt":"2026-08-11T00:50:05.617369+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Iš paukščio skrydžio matomi salos pilies griuvėsiai, ežerai ir miškingos pakrantės.","metadataEvidence":"Pavadinime ir aprašyme konkrečiai įvardyti Trakai, Trakų salos pilis, jos griuvėsiai ir 1939 m. skrydis Vilnius–Trakai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus istorinis konkrečios Trakų vietos vaizdas, patvirtintas tiek fotografijoje, tiek metaduomenyse.","isPrimary":0},{"mediaId":"m-9814531d210034d8a7e90861","title":"Fotonuotrauka. Panoraminė. Mokinių ekskursija į Trakų salos pilį. Tvirtovės pietinės ir vakarinės sienų, pietinių ir vakarinių kazematų bei pietvakarinio bokšto griuvėsiai. Trakai, 1953.VII.22.","caption":"Trakų salos pilies griuvėsiai ir Galvės bei Bernardinų ežerai, 1953 m.","originalTitle":"Fotonuotrauka. Panoraminė. Mokinių ekskursija į Trakų salos pilį. Tvirtovės pietinės ir vakarinės sienų, pietinių ir vakarinių kazematų bei pietvakarinio bokšto griuvėsiai. Trakai, 1953.VII.22.","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_760238128","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-760238128/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-760238128%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-760238128/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"švietimas","label":"švietimas","facetKind":"tema","confidence":0.8}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ausbildung","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bokštas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Borg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burcht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Caisleán","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castello","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castelo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castillo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Château fort","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Creideamh","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dorre","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educació","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educación","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Education","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educazione","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educação","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educație","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Edukacja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Edukazzjoni","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Erlijio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"Fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Gaztelu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Haridus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hezkuntza","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hrad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Izglītība","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Izobraževanje","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kastell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Koulutus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linnus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Náboženstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Náboženství","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Obrazovanje","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Oideachas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Oktatás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Onderwijs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pilis","language":"def","canonicalCode":"pilis"},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religion","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religione","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religioon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religião","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religió","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religión","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliġjon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliģija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stolp","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Toranj","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Toren","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torn","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torni","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tornis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torony","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torre","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tour","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tower","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Turm","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Turn","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tårn","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Túr","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Uddannelse","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Uskonto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Utbildning","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Utvrda","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vallás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Veža","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Viduslaiku pils","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vzdelanie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vzdělávání","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vár","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Věž","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Wieża","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zamek","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Éducation","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Švietimas","language":"def","canonicalCode":"švietimas"}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:33:47.277007+03:00","reviewedAt":"2026-08-11T00:50:05.588098+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies griuvėsiai, ežeras, salos ir miškinga Trakų apylinkių panorama.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyti Trakai, Trakų salos pilis, Galvės ir Bernardinų ežerai bei fotografavimo vieta.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą – Trakus ir jų salos pilies griuvėsius.","isPrimary":0},{"mediaId":"m-1a72a76a8c066f10687c0b55","title":"Trakai Island 01.jpg","caption":"Trakų salos pilis nuo Galvės ežero","originalTitle":"Trakai Island 01.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:34:06","dateStart":null,"dateEnd":null,"width":5342,"height":2407,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_01.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Trakai_Island_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Trakai_Island_01.jpg/1920px-Trakai_Island_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Trakai_Island_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.450034+03:00","reviewedAt":"2026-08-11T00:49:48.038969+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma raudonų plytų pilis saloje, žiūrint per ežerą.","metadataEvidence":"Pavadinimas „Trakai Island 01.jpg“, aprašas aiškiai nurodo Trakus ir pilį, pateikta Commons nuoroda.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Konkreti Trakų salos pilies fotografija.","isPrimary":0},{"mediaId":"m-7271abdf29c08586178bd88b","title":"Trakai Island 02.jpg","caption":"Trakų salos pilis nuo Galvės ežero","originalTitle":"Trakai Island 02.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:37:53","dateStart":null,"dateEnd":null,"width":5681,"height":3773,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_02.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Trakai_Island_02.jpg/1920px-Trakai_Island_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.455510+03:00","reviewedAt":"2026-08-11T03:41:47.018355+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Tolumoje matoma Trakų salos pilis, pirmame plane – Galvės ežeras ir geltoni vandens dviračiai.","metadataEvidence":"Failo pavadinimas „Trakai Island 02.jpg“, aprašyme aiškiai identifikuoti Trakai ir jų pilis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškus tiesioginis Trakų salos pilies vaizdas iš ežero pusės.","isPrimary":0},{"mediaId":"m-e0c370ced84362e792010a8b","title":"Trakai Island 03.jpg","caption":"Trakų salos pilis nuo ežero","originalTitle":"Trakai Island 03.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:30:11","dateStart":null,"dateEnd":null,"width":6016,"height":3010,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_03.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/76/Trakai_Island_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Trakai_Island_03.jpg/1920px-Trakai_Island_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/76/Trakai_Island_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.461537+03:00","reviewedAt":"2026-08-11T00:49:48.059760+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma pilies panorama su bokštais, vartais, tiltu ir ežeru pirmame plane.","metadataEvidence":"Pavadinimas „Trakai Island 03.jpg“, aprašas aiškiai nurodo Trakus, pilį ir Lietuvą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Panoraminė konkrečios Trakų salos pilies fotografija.","isPrimary":0},{"mediaId":"m-ac64d0bc9beee166ae1cd29a","title":"Trakai Island 04.jpg","caption":"Trakų salos pilis Galvės ežere","originalTitle":"Trakai Island 04.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:01:25","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_04.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Trakai_Island_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Trakai_Island_04.jpg/1920px-Trakai_Island_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Trakai_Island_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.466847+03:00","reviewedAt":"2026-08-11T03:41:47.004297+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma raudonų plytų Trakų salos pilis saloje, tiltas, valtys ir Galvės ežeras.","metadataEvidence":"Failo pavadinimas „Trakai Island 04.jpg“, aprašyme tiesiogiai aprašyti Trakai ir jų pilis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas aiškiai ir tiesiogiai rodo pagrindinį Trakų istorinį objektą.","isPrimary":0},{"mediaId":"m-356629dc2c8ea8f44d6ae47e","title":"Trakai Island 05.jpg","caption":"Trakų salos pilis, žvelgiant iš Galvės ežero.","originalTitle":"Trakai Island 05.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:01:34","dateStart":null,"dateEnd":null,"width":5819,"height":2913,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_05.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Trakai_Island_05.jpg/1920px-Trakai_Island_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.472114+03:00","reviewedAt":"2026-08-11T00:49:48.128383+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Iš ežero matoma visa salos pilies kompozicija su bokštais, tiltu ir laivu priekiniame plane.","metadataEvidence":"Pavadinimas „Trakai Island 05.jpg“ ir aprašas apie Trakus bei Trakų salos pilį aiškiai identifikuoja vietą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Platus peizažinis vaizdas aiškiai rodo konkretų Trakų simbolį.","isPrimary":0},{"mediaId":"m-8660d7ec7ba53befa44717fc","title":"Trakai Island 06.jpg","caption":"Trakų salos pilis Galvės ežere.","originalTitle":"Trakai Island 06.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:01:54","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_06.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Trakai_Island_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Trakai_Island_06.jpg/1920px-Trakai_Island_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Trakai_Island_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.477833+03:00","reviewedAt":"2026-08-11T00:49:48.072937+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Raudonų plytų pilis su bokštais matoma saloje už ežero.","metadataEvidence":"Pavadinimas „Trakai Island 06.jpg“, aprašas tiesiogiai nurodo Trakus ir istorinę pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkretų Trakų objektą.","isPrimary":0},{"mediaId":"m-dbd1f84ddaeef6e3595f0d1a","title":"Trakai Island 07.jpg","caption":"Trakų salos pilis nuo Galvės ežero pusės.","originalTitle":"Trakai Island 07.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:03:44","dateStart":null,"dateEnd":null,"width":4132,"height":2153,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_07.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Trakai_Island_07.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Trakai_Island_07.jpg/1920px-Trakai_Island_07.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Trakai_Island_07.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.483084+03:00","reviewedAt":"2026-08-11T00:49:48.082250+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Visa pilies kompozicija su bokštais, tiltu, valtimis ir ežeru.","metadataEvidence":"Pavadinimas „Trakai Island 07.jpg“ ir aprašas tiesiogiai sieja vaizdą su Trakais.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis ir vizualiai vienareikšmis Trakų atvaizdas.","isPrimary":0},{"mediaId":"m-e08ae60126b67fc3ac141f5d","title":"Trakai Island 08.jpg","caption":"Trakų ežero pakrantė ir pilies bokštas miesto aplinkoje.","originalTitle":"Trakai Island 08.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:04:30","dateStart":null,"dateEnd":null,"width":6016,"height":3010,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_08.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_08.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Trakai_Island_08.jpg/1920px-Trakai_Island_08.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_08.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Geography of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.488354+03:00","reviewedAt":"2026-08-11T00:49:48.141585+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Galvės ežero pakrantė su valtimis, prieplauka, turistine infrastruktūra ir tolumoje esančiu pilies bokštu.","metadataEvidence":"Pavadinimas „Trakai Island 08.jpg“ ir aprašas apie Trakus bei Trakų salos pilį patvirtina vietą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai dokumentuoja Trakų kraštovaizdį ir atpažįstamą pilies bokštą.","isPrimary":0},{"mediaId":"m-03d17b650d749a83c7d9c5cd","title":"Trakai Island 10.jpg","caption":"Trakų miesto pakrantė prie ežero","originalTitle":"Trakai Island 10.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:06:42","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_10.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_10.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trakai_Island_10.jpg/1920px-Trakai_Island_10.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_10.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Geography of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.499425+03:00","reviewedAt":"2026-08-11T03:41:46.270204+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Trakų pakrantės gyvenvietė su prieplauka, valtimis ir ežeru.","metadataEvidence":"Failo pavadinimas „Trakai Island 10.jpg“, aprašyme aiškiai nurodyta Trakai, Lithuania; Wikimedia Commons šaltinis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Trakų miesto pakrantės kraštovaizdį.","isPrimary":0},{"mediaId":"m-070b062be9570a97f8b36734","title":"Trakai Island 11.jpg","caption":"Trakų salos pilis ir tiltas per Galvės ežerą.","originalTitle":"Trakai Island 11.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:07:49","dateStart":null,"dateEnd":null,"width":5784,"height":3464,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_11.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/Trakai_Island_11.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Trakai_Island_11.jpg/1920px-Trakai_Island_11.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/Trakai_Island_11.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.504895+03:00","reviewedAt":"2026-08-11T00:49:48.110767+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma raudonų plytų salos pilis su gynybiniais bokštais, vartų bokštu ir mediniu tiltu per vandenį.","metadataEvidence":"Pavadinimas „Trakai Island 11.jpg“, aprašas nurodo Trakai Island Castle, o Wikimedia Commons URL skirtas Trakų salos piliai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų Trakų objektą.","isPrimary":0},{"mediaId":"m-d695569b009cb0a2d56f0a36","title":"Trakai Island 12.jpg","caption":"Trakų salos pilies vartų bokštas ir apvalus gynybinis bokštas.","originalTitle":"Trakai Island 12.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:09:33","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_12.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trakai_Island_12.jpg/1920px-Trakai_Island_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vėliava","label":"vėliava","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Exterior of the outer bailey of Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.510666+03:00","reviewedAt":"2026-08-11T00:49:48.119586+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas pilies vartų bokštas su raudona vėliava, akmeninė siena ir didelis apvalus gynybinis bokštas.","metadataEvidence":"Failo pavadinimas „Trakai Island 12.jpg“, aprašas ir Commons nuoroda nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Konkreti pilies architektūra ir metaduomenys patvirtina ryšį su Trakais.","isPrimary":0},{"mediaId":"m-7a7a0bd6e1c3cb5c6adfa897","title":"Trakai Island 13.jpg","caption":"Trakų salos pilies apvalusis gynybinis bokštas prie ežero.","originalTitle":"Trakai Island 13.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:09:41","dateStart":null,"dateEnd":null,"width":3946,"height":5935,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_13.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_13.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trakai_Island_13.jpg/1920px-Trakai_Island_13.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_13.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.516153+03:00","reviewedAt":"2026-08-11T00:49:48.137284+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matomas didelis apvalus raudonų plytų bokštas, kitas pilies bokštas, siena ir ežeras.","metadataEvidence":"Pavadinimas „Trakai Island 13.jpg“ ir aprašas aiškiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Trakų pilies dalį.","isPrimary":0},{"mediaId":"m-8851ea1d6d122c0fd49c37f2","title":"Trakai Island 14.jpg","caption":"Trakų salos pilies vidinis bokštas","originalTitle":"Trakai Island 14.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:10:19","dateStart":null,"dateEnd":null,"width":3617,"height":5308,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_14.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Trakai_Island_14.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Trakai_Island_14.jpg/1920px-Trakai_Island_14.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Trakai_Island_14.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.522122+03:00","reviewedAt":"2026-08-11T00:49:48.050662+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis raudonų plytų bokštas, vartai, pilies mūrai ir vėliava.","metadataEvidence":"Pavadinimas „Trakai Island 14.jpg“, aprašas nurodo Trakus ir pilį, Commons įrašas identifikuoja objektą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Trakų pilies vartų ir bokšto vaizdas.","isPrimary":0},{"mediaId":"m-7f7ed054c724abaa8791f8d4","title":"Trakai Island 15.jpg","caption":"Trakų pilies apvalusis bokštas.","originalTitle":"Trakai Island 15.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:10:51","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_15.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Trakai_Island_15.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Trakai_Island_15.jpg/1920px-Trakai_Island_15.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Trakai_Island_15.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.528252+03:00","reviewedAt":"2026-08-11T00:49:48.106411+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matomas apvalus raudonų plytų bokštas su kūginiu čerpių stogu ir akmeniniu pamatu.","metadataEvidence":"Pavadinimas „Trakai Island 15.jpg“ ir aprašas tiesiogiai nurodo Trakus bei salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vienareikšmis tiesioginis Trakų pilies komplekso atvaizdas.","isPrimary":0},{"mediaId":"m-3290cb2670d94c8a886240ab","title":"Trakai Island 16.jpg","caption":"Trakų pilies bokšto stogas ir vėjarodis.","originalTitle":"Trakai Island 16.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:11:19","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_16.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Trakai_Island_16.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Trakai_Island_16.jpg/1920px-Trakai_Island_16.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Trakai_Island_16.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Castle towers in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Red clay roof tiles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Roof finials","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.533714+03:00","reviewedAt":"2026-08-11T00:49:48.101288+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Raudonų čerpių kūginis stogas, plytų bokštas ir dekoratyvinis vėjarodis.","metadataEvidence":"Pavadinimas „Trakai Island 16.jpg“ ir aprašas identifikuoja Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis, nors dalinis, konkretaus Trakų pilies bokšto atvaizdas.","isPrimary":0},{"mediaId":"m-d291b7e703f6d1dafe81a413","title":"Trakai Island 17.jpg","caption":"Trakų salos pilies vidinis kompleksas","originalTitle":"Trakai Island 17.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:11:55","dateStart":null,"dateEnd":null,"width":3792,"height":5050,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_17.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Trakai_Island_17.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trakai_Island_17.jpg/1920px-Trakai_Island_17.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Trakai_Island_17.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ducal Palace (Trakai Island Castle)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Keeps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"People in cages","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.538975+03:00","reviewedAt":"2026-08-11T00:49:48.055028+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies bokštas, rūmai, mūrai ir vidinis kiemas.","metadataEvidence":"Pavadinimas „Trakai Island 17.jpg“, aprašas ir Commons nuoroda tiesiogiai sieja vaizdą su Trakais.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Trakų salos pilies vaizdas.","isPrimary":0},{"mediaId":"m-d19d9bc22081ce3654c72af0","title":"Trakai Island 18.jpg","caption":"Trakų salos pilies vidinis kiemas","originalTitle":"Trakai Island 18.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:12:02","dateStart":null,"dateEnd":null,"width":5726,"height":3811,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_18.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Trakai_Island_18.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Trakai_Island_18.jpg/1920px-Trakai_Island_18.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Trakai_Island_18.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Keeps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"People in cages","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.544571+03:00","reviewedAt":"2026-08-11T03:41:47.009318+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies mūrai, bokštas, raudonų čerpių stogai, mediniai galerijų turėklai ir lankytojai vidiniame kieme.","metadataEvidence":"Failo pavadinimas „Trakai Island 18.jpg“, aprašyme pilis ir Trakai identifikuojami tiesiogiai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis Trakų salos pilies, esančios Trakuose, vaizdas.","isPrimary":0},{"mediaId":"m-077d2e0a07a3bb3a71432e75","title":"Trakai Island 19.jpg","caption":"Trakų salos pilies vidinės galerijos","originalTitle":"Trakai Island 19.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:12:16","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_19.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Trakai_Island_19.jpg/1920px-Trakai_Island_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.550291+03:00","reviewedAt":"2026-08-11T03:41:47.014071+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas pilies kiemo korpusas su raudonų plytų mūru, akmeninėmis sienomis, medinėmis galerijomis ir čerpių stogais.","metadataEvidence":"Failo pavadinimas „Trakai Island 19.jpg“, aprašyme tiesiogiai nurodomi Trakai ir jų istorinis paveldas.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkrečią Trakų salos pilies dalį.","isPrimary":0},{"mediaId":"m-6c1bfb86a67db7cf95cbf089","title":"Trakai Island 20.jpg","caption":"Trakų salos pilies bokštas ir kiemas","originalTitle":"Trakai Island 20.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:12:33","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_20.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Trakai_Island_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Trakai_Island_20.jpg/1920px-Trakai_Island_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Trakai_Island_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.555494+03:00","reviewedAt":"2026-08-11T00:49:48.044529+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas pilies raudonų plytų bokštas, čerpių stogai ir vidinis kiemas.","metadataEvidence":"Pavadinimas „Trakai Island 20.jpg“, aprašas ir Commons URL tiesiogiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai atpažįstama konkreti Trakų pilies architektūra.","isPrimary":0},{"mediaId":"m-2169375c6b3d3c53f26da5ba","title":"Trakai Island 21.jpg","caption":"Trakų salos pilies kiemas","originalTitle":"Trakai Island 21.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:13:11","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_21.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Trakai_Island_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Trakai_Island_21.jpg/1920px-Trakai_Island_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Trakai_Island_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.560933+03:00","reviewedAt":"2026-08-11T00:49:48.064857+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies mūrai, bokštas, mediniai laiptai ir vidiniame kieme esantys istoriniai eksponatai.","metadataEvidence":"Pavadinimas „Trakai Island 21.jpg“ ir Commons aprašas tiesiogiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Trakų pilies kiemo vaizdas.","isPrimary":0},{"mediaId":"m-96b1906fefca21a70f0bc898","title":"Trakai Island 24.jpg","caption":"Trakų salos pilies pastatas iš arti.","originalTitle":"Trakai Island 24.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:16:02","dateStart":null,"dateEnd":null,"width":5248,"height":3936,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_24.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Trakai_Island_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Trakai_Island_24.jpg/1920px-Trakai_Island_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Trakai_Island_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ducal Palace (Trakai Island Castle)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Keeps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.577317+03:00","reviewedAt":"2026-08-11T00:49:48.077789+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matoma raudonų plytų pilis, bokštas ir akmeninės gynybinės sienos.","metadataEvidence":"Pavadinimas „Trakai Island 24.jpg“, aprašas nurodo Trakus ir pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Trakų pilies atvaizdas.","isPrimary":0},{"mediaId":"m-0af522336d45c3bc556b5a59","title":"Trakai Island 25.jpg","caption":"Trakų salos pilies vidinės gynybinės sienos ir bokšto fragmentas.","originalTitle":"Trakai Island 25.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:16:36","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_25.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Trakai_Island_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Trakai_Island_25.jpg/1920px-Trakai_Island_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Trakai_Island_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"Arches in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.582803+03:00","reviewedAt":"2026-08-11T00:49:48.115006+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos akmeninės gynybinės sienos, plytų arkos ir raudonų čerpių pilies bokštas.","metadataEvidence":"Pavadinimas „Trakai Island 25.jpg“ ir aprašas apie Trakų salos pilį tiesiogiai sutampa su target vieta.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Architektūrinis vaizdas aiškiai priklauso Trakų salos piliai.","isPrimary":0},{"mediaId":"m-bdef9574fee27e54cee3c2ec","title":"Trakai Island 26.jpg","caption":"Trakų salos pilies gynybinės sienos ir bokštas.","originalTitle":"Trakai Island 26.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:19:54","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_26.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Trakai_Island_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trakai_Island_26.jpg/1920px-Trakai_Island_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Trakai_Island_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.588142+03:00","reviewedAt":"2026-08-11T00:49:48.132732+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos akmeninės sienos, plytų arkos, čerpių stogas ir pilies bokštas medžių apsuptyje.","metadataEvidence":"Failo pavadinimas „Trakai Island 26.jpg“ ir aprašas tiesiogiai sieja vaizdą su Trakų salos pilimi.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Konkrečios architektūrinės detalės ir metaduomenys patvirtina tiesioginį ryšį.","isPrimary":0},{"mediaId":"m-a68862d511b5d022fe09adbb","title":"Trakai Island 27.jpg","caption":"Trakų salos pilies gynybinis praėjimas","originalTitle":"Trakai Island 27.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:20:25","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_27.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trakai_Island_27.jpg/1920px-Trakai_Island_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.594051+03:00","reviewedAt":"2026-08-11T00:49:48.068928+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas akmeninių ir plytinių mūrų apsuptas pilies praėjimas bei medinis tiltas.","metadataEvidence":"Pavadinimas „Trakai Island 27.jpg“, aprašas ir Commons URL identifikuoja Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis konkretaus Trakų pilies komplekso fragmento vaizdas.","isPrimary":0},{"mediaId":"m-d4335b0b2bbc067c6c419a5e","title":"Trakai Island 28.jpg","caption":"Trakų salos pilies kiemo ir gynybinių sienų vaizdas.","originalTitle":"Trakai Island 28.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:20:41","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_28.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Trakai_Island_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trakai_Island_28.jpg/1920px-Trakai_Island_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Trakai_Island_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.599336+03:00","reviewedAt":"2026-08-11T00:49:48.092538+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Akmeninės sienos, medinis tiltas ir pilies kiemo struktūra atpažįstami kaip Trakų pilies kompleksas.","metadataEvidence":"Pavadinimas „Trakai Island 28.jpg“ ir aprašas tiesiogiai nurodo Trakus bei pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis konkretaus Trakų istorinio objekto atvaizdas.","isPrimary":0},{"mediaId":"m-24bce2896b85aabacfaac2cf","title":"Trakai Island 29.jpg","caption":"Trakų pilies bokštas ir pakrantės takas.","originalTitle":"Trakai Island 29.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:21:52","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Trakai_Island_29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Trakai_Island_29.jpg/1920px-Trakai_Island_29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Trakai_Island_29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.604546+03:00","reviewedAt":"2026-08-11T00:49:48.097329+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Kairėje aiškiai matomas pilies bokštas, šalia – Trakų ežero pakrantė ir takas.","metadataEvidence":"Pavadinimas „Trakai Island 29.jpg“, aprašas ir fotografijų serija tiesiogiai susieja vaizdą su Trakais.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Trakų pilies komplekso vaizdas.","isPrimary":0},{"mediaId":"m-91dc50f35fc929766078210f","title":"Trakai Island 30.jpg","caption":"Trakų salos pilies bokštas ir Lietuvos istorinė vėliava.","originalTitle":"Trakai Island 30.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:22:43","dateStart":null,"dateEnd":null,"width":3760,"height":5650,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_30.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Trakai_Island_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Trakai_Island_30.jpg/1920px-Trakai_Island_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Trakai_Island_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vėliava","label":"vėliava","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Exterior of the outer bailey of Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Towers in Lithuania","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.610223+03:00","reviewedAt":"2026-08-11T00:49:48.123656+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas raudonų plytų vartų bokštas, apvalus gynybinis bokštas, pilies siena ir raudona istorinė vėliava.","metadataEvidence":"Pavadinimas „Trakai Island 30.jpg“ bei aprašas tiesiogiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Trakų pilies architektūrą.","isPrimary":0}]
-media_contextual_json: |-
-  [{"mediaId":"m-ddf458845f1d43b900a18954","title":"28.05.19 Trakai EJ575-009 (47961490402).jpg","caption":"Trakų geležinkelio stotis ir traukinys.","originalTitle":"28.05.19 Trakai EJ575-009 (47961490402).jpg","creator":"Phil Richards from London, UK","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.0","attribution":"28.05.19 Trakai EJ575-009","dateDisplay":"2019-05-28 12:08","dateStart":null,"dateEnd":null,"width":5607,"height":3373,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/72/28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg/1920px-28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/72/28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.82},{"code":"transportas","label":"transportas","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"2019 in rail transport in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"LG Class 575","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trains at Trakai train station","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vilnius–Trakai train","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T12:31:46.448008+03:00","reviewedAt":"2026-08-11T00:49:48.086810+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Ant pastato aiškiai matomas užrašas „TRAKAI“, matoma geležinkelio stotis ir traukinys.","metadataEvidence":"Pavadinime nurodyta Trakai, o aprašas tiksliai identifikuoja Trakų geležinkelio stotį.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne pilis ar miesto panorama, bet aiškiai pagrįstas kontekstinis Trakų vietos atvaizdas.","isPrimary":0}]
-media_all_json: |-
-  [{"mediaId":"m-8a8cbb7fc4225b6d4c59b618","title":"Trakai Island Castle in 19c.jpg","caption":"XIX a. Trakų salos pilies vaizdas","originalTitle":"Trakai Island Castle in 19c.jpg","creator":"Napoleon Orda","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"[1]","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":800,"height":535,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_Castle_in_19c.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Drawings of castles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Galvė","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings of Troki by Napoleon Orda","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle in art","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.190423+03:00","reviewedAt":"2026-08-11T00:49:48.019534+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma pilis saloje, apsupta vandens, su būdingais bokštais ir mūrais.","metadataEvidence":"Pavadinimas aiškiai nurodo „Trakai Island Castle“, aprašas nurodo Lietuvą, autorius Napoleon Orda, XIX a.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus istorinis konkrečios Trakų pilies atvaizdas.","isPrimary":1},{"mediaId":"m-679d40a4c6658524704578c5","title":"Fotonuotrauka. Panoraminė. Lietuvos karo aviacijos III grupės lėktuvų skrydis Vilnius – Trakai – Vilnius. Trakų salos pilies ir tvirtovės apylinkių vaizdas iš žvalgybinio lėktuvo ir lengvojo bombonešio ANBO-IV. 1939.XI.1.","caption":"Trakų salos pilies griuvėsių ir ežerų panorama iš lėktuvo, 1939 m.","originalTitle":"Fotonuotrauka. Panoraminė. Lietuvos karo aviacijos III grupės lėktuvų skrydis Vilnius – Trakai – Vilnius. Trakų salos pilies ir tvirtovės apylinkių vaizdas iš žvalgybinio lėktuvo ir lengvojo bombonešio ANBO-IV. 1939.XI.1.","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_705875688","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-705875688/thumbnail-original/705875720.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-705875688%2Fthumbnail-original%2F705875720.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-705875688/thumbnail-original/705875720.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"transportas","label":"transportas","facetKind":"tema","confidence":0.8}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Borg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burcht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Caisleán","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castello","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castelo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castillo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Château fort","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Doprava","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"Fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Garraio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Gaztelu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hrad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Iompar","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Jauregi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kastell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Liikenne","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linnus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palace","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palacio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palads","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palais","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palast","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palat","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palats","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palatsi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palau","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palazz","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palazzo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palača","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palee","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paleis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palota","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palác","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palácio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pałac","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pilis","language":"def","canonicalCode":"pilis"},{"provider":"europeana","field":"edm_concepts","label":"Pils","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Promet","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pálás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rūmai","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Szállítás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Transport","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Transportas","language":"def","canonicalCode":"transportas"},{"provider":"europeana","field":"edm_concepts","label":"Transporte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Transports","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Trasporto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Utvrda","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vervoer","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Viduslaiku pils","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vár","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zamek","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:33:47.273427+03:00","reviewedAt":"2026-08-11T00:50:05.617369+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Iš paukščio skrydžio matomi salos pilies griuvėsiai, ežerai ir miškingos pakrantės.","metadataEvidence":"Pavadinime ir aprašyme konkrečiai įvardyti Trakai, Trakų salos pilis, jos griuvėsiai ir 1939 m. skrydis Vilnius–Trakai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus istorinis konkrečios Trakų vietos vaizdas, patvirtintas tiek fotografijoje, tiek metaduomenyse.","isPrimary":0},{"mediaId":"m-9814531d210034d8a7e90861","title":"Fotonuotrauka. Panoraminė. Mokinių ekskursija į Trakų salos pilį. Tvirtovės pietinės ir vakarinės sienų, pietinių ir vakarinių kazematų bei pietvakarinio bokšto griuvėsiai. Trakai, 1953.VII.22.","caption":"Trakų salos pilies griuvėsiai ir Galvės bei Bernardinų ežerai, 1953 m.","originalTitle":"Fotonuotrauka. Panoraminė. Mokinių ekskursija į Trakų salos pilį. Tvirtovės pietinės ir vakarinės sienų, pietinių ir vakarinių kazematų bei pietvakarinio bokšto griuvėsiai. Trakai, 1953.VII.22.","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_760238128","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-760238128/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-760238128%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-760238128/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"švietimas","label":"švietimas","facetKind":"tema","confidence":0.8}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ausbildung","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bokštas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Borg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burcht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Caisleán","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castello","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castelo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castillo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Château fort","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Creideamh","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dorre","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educació","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educación","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Education","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educazione","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educação","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educație","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Edukacja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Edukazzjoni","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Erlijio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"Fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Gaztelu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Haridus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hezkuntza","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hrad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Izglītība","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Izobraževanje","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kastell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Koulutus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linnus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Náboženstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Náboženství","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Obrazovanje","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Oideachas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Oktatás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Onderwijs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pilis","language":"def","canonicalCode":"pilis"},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religion","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religione","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religioon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religião","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religió","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religión","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliġjon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliģija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stolp","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Toranj","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Toren","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torn","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torni","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tornis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torony","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torre","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tour","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tower","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Turm","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Turn","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tårn","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Túr","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Uddannelse","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Uskonto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Utbildning","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Utvrda","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vallás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Veža","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Viduslaiku pils","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vzdelanie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vzdělávání","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vár","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Věž","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Wieża","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zamek","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Éducation","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Švietimas","language":"def","canonicalCode":"švietimas"}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:33:47.277007+03:00","reviewedAt":"2026-08-11T00:50:05.588098+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies griuvėsiai, ežeras, salos ir miškinga Trakų apylinkių panorama.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyti Trakai, Trakų salos pilis, Galvės ir Bernardinų ežerai bei fotografavimo vieta.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą – Trakus ir jų salos pilies griuvėsius.","isPrimary":0},{"mediaId":"m-1a72a76a8c066f10687c0b55","title":"Trakai Island 01.jpg","caption":"Trakų salos pilis nuo Galvės ežero","originalTitle":"Trakai Island 01.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:34:06","dateStart":null,"dateEnd":null,"width":5342,"height":2407,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_01.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Trakai_Island_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Trakai_Island_01.jpg/1920px-Trakai_Island_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Trakai_Island_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.450034+03:00","reviewedAt":"2026-08-11T00:49:48.038969+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma raudonų plytų pilis saloje, žiūrint per ežerą.","metadataEvidence":"Pavadinimas „Trakai Island 01.jpg“, aprašas aiškiai nurodo Trakus ir pilį, pateikta Commons nuoroda.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Konkreti Trakų salos pilies fotografija.","isPrimary":0},{"mediaId":"m-7271abdf29c08586178bd88b","title":"Trakai Island 02.jpg","caption":"Trakų salos pilis nuo Galvės ežero","originalTitle":"Trakai Island 02.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:37:53","dateStart":null,"dateEnd":null,"width":5681,"height":3773,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_02.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Trakai_Island_02.jpg/1920px-Trakai_Island_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.455510+03:00","reviewedAt":"2026-08-11T03:41:47.018355+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Tolumoje matoma Trakų salos pilis, pirmame plane – Galvės ežeras ir geltoni vandens dviračiai.","metadataEvidence":"Failo pavadinimas „Trakai Island 02.jpg“, aprašyme aiškiai identifikuoti Trakai ir jų pilis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškus tiesioginis Trakų salos pilies vaizdas iš ežero pusės.","isPrimary":0},{"mediaId":"m-e0c370ced84362e792010a8b","title":"Trakai Island 03.jpg","caption":"Trakų salos pilis nuo ežero","originalTitle":"Trakai Island 03.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:30:11","dateStart":null,"dateEnd":null,"width":6016,"height":3010,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_03.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/76/Trakai_Island_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Trakai_Island_03.jpg/1920px-Trakai_Island_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/76/Trakai_Island_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.461537+03:00","reviewedAt":"2026-08-11T00:49:48.059760+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma pilies panorama su bokštais, vartais, tiltu ir ežeru pirmame plane.","metadataEvidence":"Pavadinimas „Trakai Island 03.jpg“, aprašas aiškiai nurodo Trakus, pilį ir Lietuvą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Panoraminė konkrečios Trakų salos pilies fotografija.","isPrimary":0},{"mediaId":"m-ac64d0bc9beee166ae1cd29a","title":"Trakai Island 04.jpg","caption":"Trakų salos pilis Galvės ežere","originalTitle":"Trakai Island 04.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:01:25","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_04.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Trakai_Island_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Trakai_Island_04.jpg/1920px-Trakai_Island_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Trakai_Island_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.466847+03:00","reviewedAt":"2026-08-11T03:41:47.004297+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma raudonų plytų Trakų salos pilis saloje, tiltas, valtys ir Galvės ežeras.","metadataEvidence":"Failo pavadinimas „Trakai Island 04.jpg“, aprašyme tiesiogiai aprašyti Trakai ir jų pilis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas aiškiai ir tiesiogiai rodo pagrindinį Trakų istorinį objektą.","isPrimary":0},{"mediaId":"m-356629dc2c8ea8f44d6ae47e","title":"Trakai Island 05.jpg","caption":"Trakų salos pilis, žvelgiant iš Galvės ežero.","originalTitle":"Trakai Island 05.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:01:34","dateStart":null,"dateEnd":null,"width":5819,"height":2913,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_05.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Trakai_Island_05.jpg/1920px-Trakai_Island_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.472114+03:00","reviewedAt":"2026-08-11T00:49:48.128383+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Iš ežero matoma visa salos pilies kompozicija su bokštais, tiltu ir laivu priekiniame plane.","metadataEvidence":"Pavadinimas „Trakai Island 05.jpg“ ir aprašas apie Trakus bei Trakų salos pilį aiškiai identifikuoja vietą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Platus peizažinis vaizdas aiškiai rodo konkretų Trakų simbolį.","isPrimary":0},{"mediaId":"m-8660d7ec7ba53befa44717fc","title":"Trakai Island 06.jpg","caption":"Trakų salos pilis Galvės ežere.","originalTitle":"Trakai Island 06.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:01:54","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_06.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Trakai_Island_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Trakai_Island_06.jpg/1920px-Trakai_Island_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Trakai_Island_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.477833+03:00","reviewedAt":"2026-08-11T00:49:48.072937+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Raudonų plytų pilis su bokštais matoma saloje už ežero.","metadataEvidence":"Pavadinimas „Trakai Island 06.jpg“, aprašas tiesiogiai nurodo Trakus ir istorinę pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkretų Trakų objektą.","isPrimary":0},{"mediaId":"m-dbd1f84ddaeef6e3595f0d1a","title":"Trakai Island 07.jpg","caption":"Trakų salos pilis nuo Galvės ežero pusės.","originalTitle":"Trakai Island 07.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:03:44","dateStart":null,"dateEnd":null,"width":4132,"height":2153,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_07.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Trakai_Island_07.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Trakai_Island_07.jpg/1920px-Trakai_Island_07.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Trakai_Island_07.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.483084+03:00","reviewedAt":"2026-08-11T00:49:48.082250+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Visa pilies kompozicija su bokštais, tiltu, valtimis ir ežeru.","metadataEvidence":"Pavadinimas „Trakai Island 07.jpg“ ir aprašas tiesiogiai sieja vaizdą su Trakais.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis ir vizualiai vienareikšmis Trakų atvaizdas.","isPrimary":0},{"mediaId":"m-e08ae60126b67fc3ac141f5d","title":"Trakai Island 08.jpg","caption":"Trakų ežero pakrantė ir pilies bokštas miesto aplinkoje.","originalTitle":"Trakai Island 08.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:04:30","dateStart":null,"dateEnd":null,"width":6016,"height":3010,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_08.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_08.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Trakai_Island_08.jpg/1920px-Trakai_Island_08.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_08.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Geography of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.488354+03:00","reviewedAt":"2026-08-11T00:49:48.141585+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Galvės ežero pakrantė su valtimis, prieplauka, turistine infrastruktūra ir tolumoje esančiu pilies bokštu.","metadataEvidence":"Pavadinimas „Trakai Island 08.jpg“ ir aprašas apie Trakus bei Trakų salos pilį patvirtina vietą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai dokumentuoja Trakų kraštovaizdį ir atpažįstamą pilies bokštą.","isPrimary":0},{"mediaId":"m-03d17b650d749a83c7d9c5cd","title":"Trakai Island 10.jpg","caption":"Trakų miesto pakrantė prie ežero","originalTitle":"Trakai Island 10.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:06:42","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_10.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_10.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trakai_Island_10.jpg/1920px-Trakai_Island_10.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_10.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Geography of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.499425+03:00","reviewedAt":"2026-08-11T03:41:46.270204+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Trakų pakrantės gyvenvietė su prieplauka, valtimis ir ežeru.","metadataEvidence":"Failo pavadinimas „Trakai Island 10.jpg“, aprašyme aiškiai nurodyta Trakai, Lithuania; Wikimedia Commons šaltinis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Trakų miesto pakrantės kraštovaizdį.","isPrimary":0},{"mediaId":"m-070b062be9570a97f8b36734","title":"Trakai Island 11.jpg","caption":"Trakų salos pilis ir tiltas per Galvės ežerą.","originalTitle":"Trakai Island 11.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:07:49","dateStart":null,"dateEnd":null,"width":5784,"height":3464,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_11.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/Trakai_Island_11.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Trakai_Island_11.jpg/1920px-Trakai_Island_11.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/Trakai_Island_11.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.504895+03:00","reviewedAt":"2026-08-11T00:49:48.110767+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma raudonų plytų salos pilis su gynybiniais bokštais, vartų bokštu ir mediniu tiltu per vandenį.","metadataEvidence":"Pavadinimas „Trakai Island 11.jpg“, aprašas nurodo Trakai Island Castle, o Wikimedia Commons URL skirtas Trakų salos piliai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų Trakų objektą.","isPrimary":0},{"mediaId":"m-d695569b009cb0a2d56f0a36","title":"Trakai Island 12.jpg","caption":"Trakų salos pilies vartų bokštas ir apvalus gynybinis bokštas.","originalTitle":"Trakai Island 12.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:09:33","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_12.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trakai_Island_12.jpg/1920px-Trakai_Island_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vėliava","label":"vėliava","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Exterior of the outer bailey of Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.510666+03:00","reviewedAt":"2026-08-11T00:49:48.119586+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas pilies vartų bokštas su raudona vėliava, akmeninė siena ir didelis apvalus gynybinis bokštas.","metadataEvidence":"Failo pavadinimas „Trakai Island 12.jpg“, aprašas ir Commons nuoroda nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Konkreti pilies architektūra ir metaduomenys patvirtina ryšį su Trakais.","isPrimary":0},{"mediaId":"m-7a7a0bd6e1c3cb5c6adfa897","title":"Trakai Island 13.jpg","caption":"Trakų salos pilies apvalusis gynybinis bokštas prie ežero.","originalTitle":"Trakai Island 13.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:09:41","dateStart":null,"dateEnd":null,"width":3946,"height":5935,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_13.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_13.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trakai_Island_13.jpg/1920px-Trakai_Island_13.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_13.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.516153+03:00","reviewedAt":"2026-08-11T00:49:48.137284+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matomas didelis apvalus raudonų plytų bokštas, kitas pilies bokštas, siena ir ežeras.","metadataEvidence":"Pavadinimas „Trakai Island 13.jpg“ ir aprašas aiškiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Trakų pilies dalį.","isPrimary":0},{"mediaId":"m-8851ea1d6d122c0fd49c37f2","title":"Trakai Island 14.jpg","caption":"Trakų salos pilies vidinis bokštas","originalTitle":"Trakai Island 14.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:10:19","dateStart":null,"dateEnd":null,"width":3617,"height":5308,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_14.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Trakai_Island_14.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Trakai_Island_14.jpg/1920px-Trakai_Island_14.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Trakai_Island_14.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.522122+03:00","reviewedAt":"2026-08-11T00:49:48.050662+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis raudonų plytų bokštas, vartai, pilies mūrai ir vėliava.","metadataEvidence":"Pavadinimas „Trakai Island 14.jpg“, aprašas nurodo Trakus ir pilį, Commons įrašas identifikuoja objektą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Trakų pilies vartų ir bokšto vaizdas.","isPrimary":0},{"mediaId":"m-7f7ed054c724abaa8791f8d4","title":"Trakai Island 15.jpg","caption":"Trakų pilies apvalusis bokštas.","originalTitle":"Trakai Island 15.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:10:51","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_15.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Trakai_Island_15.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Trakai_Island_15.jpg/1920px-Trakai_Island_15.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Trakai_Island_15.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.528252+03:00","reviewedAt":"2026-08-11T00:49:48.106411+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matomas apvalus raudonų plytų bokštas su kūginiu čerpių stogu ir akmeniniu pamatu.","metadataEvidence":"Pavadinimas „Trakai Island 15.jpg“ ir aprašas tiesiogiai nurodo Trakus bei salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vienareikšmis tiesioginis Trakų pilies komplekso atvaizdas.","isPrimary":0},{"mediaId":"m-3290cb2670d94c8a886240ab","title":"Trakai Island 16.jpg","caption":"Trakų pilies bokšto stogas ir vėjarodis.","originalTitle":"Trakai Island 16.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:11:19","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_16.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Trakai_Island_16.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Trakai_Island_16.jpg/1920px-Trakai_Island_16.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Trakai_Island_16.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Castle towers in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Red clay roof tiles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Roof finials","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.533714+03:00","reviewedAt":"2026-08-11T00:49:48.101288+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Raudonų čerpių kūginis stogas, plytų bokštas ir dekoratyvinis vėjarodis.","metadataEvidence":"Pavadinimas „Trakai Island 16.jpg“ ir aprašas identifikuoja Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis, nors dalinis, konkretaus Trakų pilies bokšto atvaizdas.","isPrimary":0},{"mediaId":"m-d291b7e703f6d1dafe81a413","title":"Trakai Island 17.jpg","caption":"Trakų salos pilies vidinis kompleksas","originalTitle":"Trakai Island 17.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:11:55","dateStart":null,"dateEnd":null,"width":3792,"height":5050,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_17.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Trakai_Island_17.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trakai_Island_17.jpg/1920px-Trakai_Island_17.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Trakai_Island_17.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ducal Palace (Trakai Island Castle)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Keeps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"People in cages","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.538975+03:00","reviewedAt":"2026-08-11T00:49:48.055028+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies bokštas, rūmai, mūrai ir vidinis kiemas.","metadataEvidence":"Pavadinimas „Trakai Island 17.jpg“, aprašas ir Commons nuoroda tiesiogiai sieja vaizdą su Trakais.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Trakų salos pilies vaizdas.","isPrimary":0},{"mediaId":"m-d19d9bc22081ce3654c72af0","title":"Trakai Island 18.jpg","caption":"Trakų salos pilies vidinis kiemas","originalTitle":"Trakai Island 18.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:12:02","dateStart":null,"dateEnd":null,"width":5726,"height":3811,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_18.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Trakai_Island_18.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Trakai_Island_18.jpg/1920px-Trakai_Island_18.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Trakai_Island_18.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Keeps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"People in cages","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.544571+03:00","reviewedAt":"2026-08-11T03:41:47.009318+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies mūrai, bokštas, raudonų čerpių stogai, mediniai galerijų turėklai ir lankytojai vidiniame kieme.","metadataEvidence":"Failo pavadinimas „Trakai Island 18.jpg“, aprašyme pilis ir Trakai identifikuojami tiesiogiai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis Trakų salos pilies, esančios Trakuose, vaizdas.","isPrimary":0},{"mediaId":"m-077d2e0a07a3bb3a71432e75","title":"Trakai Island 19.jpg","caption":"Trakų salos pilies vidinės galerijos","originalTitle":"Trakai Island 19.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:12:16","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_19.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Trakai_Island_19.jpg/1920px-Trakai_Island_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.550291+03:00","reviewedAt":"2026-08-11T03:41:47.014071+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas pilies kiemo korpusas su raudonų plytų mūru, akmeninėmis sienomis, medinėmis galerijomis ir čerpių stogais.","metadataEvidence":"Failo pavadinimas „Trakai Island 19.jpg“, aprašyme tiesiogiai nurodomi Trakai ir jų istorinis paveldas.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkrečią Trakų salos pilies dalį.","isPrimary":0},{"mediaId":"m-6c1bfb86a67db7cf95cbf089","title":"Trakai Island 20.jpg","caption":"Trakų salos pilies bokštas ir kiemas","originalTitle":"Trakai Island 20.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:12:33","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_20.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Trakai_Island_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Trakai_Island_20.jpg/1920px-Trakai_Island_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Trakai_Island_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.555494+03:00","reviewedAt":"2026-08-11T00:49:48.044529+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas pilies raudonų plytų bokštas, čerpių stogai ir vidinis kiemas.","metadataEvidence":"Pavadinimas „Trakai Island 20.jpg“, aprašas ir Commons URL tiesiogiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai atpažįstama konkreti Trakų pilies architektūra.","isPrimary":0},{"mediaId":"m-2169375c6b3d3c53f26da5ba","title":"Trakai Island 21.jpg","caption":"Trakų salos pilies kiemas","originalTitle":"Trakai Island 21.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:13:11","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_21.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Trakai_Island_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Trakai_Island_21.jpg/1920px-Trakai_Island_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Trakai_Island_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.560933+03:00","reviewedAt":"2026-08-11T00:49:48.064857+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies mūrai, bokštas, mediniai laiptai ir vidiniame kieme esantys istoriniai eksponatai.","metadataEvidence":"Pavadinimas „Trakai Island 21.jpg“ ir Commons aprašas tiesiogiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Trakų pilies kiemo vaizdas.","isPrimary":0},{"mediaId":"m-96b1906fefca21a70f0bc898","title":"Trakai Island 24.jpg","caption":"Trakų salos pilies pastatas iš arti.","originalTitle":"Trakai Island 24.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:16:02","dateStart":null,"dateEnd":null,"width":5248,"height":3936,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_24.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Trakai_Island_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Trakai_Island_24.jpg/1920px-Trakai_Island_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Trakai_Island_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ducal Palace (Trakai Island Castle)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Keeps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.577317+03:00","reviewedAt":"2026-08-11T00:49:48.077789+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matoma raudonų plytų pilis, bokštas ir akmeninės gynybinės sienos.","metadataEvidence":"Pavadinimas „Trakai Island 24.jpg“, aprašas nurodo Trakus ir pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Trakų pilies atvaizdas.","isPrimary":0},{"mediaId":"m-0af522336d45c3bc556b5a59","title":"Trakai Island 25.jpg","caption":"Trakų salos pilies vidinės gynybinės sienos ir bokšto fragmentas.","originalTitle":"Trakai Island 25.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:16:36","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_25.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Trakai_Island_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Trakai_Island_25.jpg/1920px-Trakai_Island_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Trakai_Island_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"Arches in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.582803+03:00","reviewedAt":"2026-08-11T00:49:48.115006+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos akmeninės gynybinės sienos, plytų arkos ir raudonų čerpių pilies bokštas.","metadataEvidence":"Pavadinimas „Trakai Island 25.jpg“ ir aprašas apie Trakų salos pilį tiesiogiai sutampa su target vieta.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Architektūrinis vaizdas aiškiai priklauso Trakų salos piliai.","isPrimary":0},{"mediaId":"m-bdef9574fee27e54cee3c2ec","title":"Trakai Island 26.jpg","caption":"Trakų salos pilies gynybinės sienos ir bokštas.","originalTitle":"Trakai Island 26.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:19:54","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_26.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Trakai_Island_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trakai_Island_26.jpg/1920px-Trakai_Island_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Trakai_Island_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.588142+03:00","reviewedAt":"2026-08-11T00:49:48.132732+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos akmeninės sienos, plytų arkos, čerpių stogas ir pilies bokštas medžių apsuptyje.","metadataEvidence":"Failo pavadinimas „Trakai Island 26.jpg“ ir aprašas tiesiogiai sieja vaizdą su Trakų salos pilimi.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Konkrečios architektūrinės detalės ir metaduomenys patvirtina tiesioginį ryšį.","isPrimary":0},{"mediaId":"m-a68862d511b5d022fe09adbb","title":"Trakai Island 27.jpg","caption":"Trakų salos pilies gynybinis praėjimas","originalTitle":"Trakai Island 27.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:20:25","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_27.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trakai_Island_27.jpg/1920px-Trakai_Island_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.594051+03:00","reviewedAt":"2026-08-11T00:49:48.068928+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas akmeninių ir plytinių mūrų apsuptas pilies praėjimas bei medinis tiltas.","metadataEvidence":"Pavadinimas „Trakai Island 27.jpg“, aprašas ir Commons URL identifikuoja Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis konkretaus Trakų pilies komplekso fragmento vaizdas.","isPrimary":0},{"mediaId":"m-d4335b0b2bbc067c6c419a5e","title":"Trakai Island 28.jpg","caption":"Trakų salos pilies kiemo ir gynybinių sienų vaizdas.","originalTitle":"Trakai Island 28.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:20:41","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_28.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Trakai_Island_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trakai_Island_28.jpg/1920px-Trakai_Island_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Trakai_Island_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.599336+03:00","reviewedAt":"2026-08-11T00:49:48.092538+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Akmeninės sienos, medinis tiltas ir pilies kiemo struktūra atpažįstami kaip Trakų pilies kompleksas.","metadataEvidence":"Pavadinimas „Trakai Island 28.jpg“ ir aprašas tiesiogiai nurodo Trakus bei pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis konkretaus Trakų istorinio objekto atvaizdas.","isPrimary":0},{"mediaId":"m-24bce2896b85aabacfaac2cf","title":"Trakai Island 29.jpg","caption":"Trakų pilies bokštas ir pakrantės takas.","originalTitle":"Trakai Island 29.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:21:52","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Trakai_Island_29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Trakai_Island_29.jpg/1920px-Trakai_Island_29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Trakai_Island_29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.604546+03:00","reviewedAt":"2026-08-11T00:49:48.097329+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Kairėje aiškiai matomas pilies bokštas, šalia – Trakų ežero pakrantė ir takas.","metadataEvidence":"Pavadinimas „Trakai Island 29.jpg“, aprašas ir fotografijų serija tiesiogiai susieja vaizdą su Trakais.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Trakų pilies komplekso vaizdas.","isPrimary":0},{"mediaId":"m-91dc50f35fc929766078210f","title":"Trakai Island 30.jpg","caption":"Trakų salos pilies bokštas ir Lietuvos istorinė vėliava.","originalTitle":"Trakai Island 30.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:22:43","dateStart":null,"dateEnd":null,"width":3760,"height":5650,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_30.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Trakai_Island_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Trakai_Island_30.jpg/1920px-Trakai_Island_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Trakai_Island_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vėliava","label":"vėliava","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Exterior of the outer bailey of Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Towers in Lithuania","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.610223+03:00","reviewedAt":"2026-08-11T00:49:48.123656+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas raudonų plytų vartų bokštas, apvalus gynybinis bokštas, pilies siena ir raudona istorinė vėliava.","metadataEvidence":"Pavadinimas „Trakai Island 30.jpg“ bei aprašas tiesiogiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Trakų pilies architektūrą.","isPrimary":0},{"mediaId":"m-ddf458845f1d43b900a18954","title":"28.05.19 Trakai EJ575-009 (47961490402).jpg","caption":"Trakų geležinkelio stotis ir traukinys.","originalTitle":"28.05.19 Trakai EJ575-009 (47961490402).jpg","creator":"Phil Richards from London, UK","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.0","attribution":"28.05.19 Trakai EJ575-009","dateDisplay":"2019-05-28 12:08","dateStart":null,"dateEnd":null,"width":5607,"height":3373,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/72/28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg/1920px-28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/72/28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.82},{"code":"transportas","label":"transportas","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"2019 in rail transport in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"LG Class 575","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trains at Trakai train station","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vilnius–Trakai train","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T12:31:46.448008+03:00","reviewedAt":"2026-08-11T00:49:48.086810+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Ant pastato aiškiai matomas užrašas „TRAKAI“, matoma geležinkelio stotis ir traukinys.","metadataEvidence":"Pavadinime nurodyta Trakai, o aprašas tiksliai identifikuoja Trakų geležinkelio stotį.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne pilis ar miesto panorama, bet aiškiai pagrįstas kontekstinis Trakų vietos atvaizdas.","isPrimary":0}]
-entity_id: "ent-8b3075983719afb9a28bcc3b"
-canonical_name: "Trakai"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Trakai","Trakuose","Trakus","Trakų"]
+media_primary_directness: direct
+media_primary_relation_type: depicts
+media_primary_json: '{"mediaId":"m-8a8cbb7fc4225b6d4c59b618","title":"Trakai Island Castle in 19c.jpg","caption":"XIX a. Trakų salos pilies vaizdas","originalTitle":"Trakai Island Castle in 19c.jpg","creator":"Napoleon Orda","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"[1]","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":800,"height":535,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_Castle_in_19c.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Drawings of castles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Galvė","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings of Troki by Napoleon Orda","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle in art","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.190423+03:00","reviewedAt":"2026-08-11T00:49:48.019534+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma pilis saloje, apsupta vandens, su būdingais bokštais ir mūrais.","metadataEvidence":"Pavadinimas aiškiai nurodo „Trakai Island Castle“, aprašas nurodo Lietuvą, autorius Napoleon Orda, XIX a.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus istorinis konkrečios Trakų pilies atvaizdas.","isPrimary":1}'
+media_direct_json: '[{"mediaId":"m-8a8cbb7fc4225b6d4c59b618","title":"Trakai Island Castle in 19c.jpg","caption":"XIX a. Trakų salos pilies vaizdas","originalTitle":"Trakai Island Castle in 19c.jpg","creator":"Napoleon Orda","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"[1]","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":800,"height":535,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_Castle_in_19c.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Drawings of castles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Galvė","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings of Troki by Napoleon Orda","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle in art","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.190423+03:00","reviewedAt":"2026-08-11T00:49:48.019534+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma pilis saloje, apsupta vandens, su būdingais bokštais ir mūrais.","metadataEvidence":"Pavadinimas aiškiai nurodo „Trakai Island Castle“, aprašas nurodo Lietuvą, autorius Napoleon Orda, XIX a.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus istorinis konkrečios Trakų pilies atvaizdas.","isPrimary":1},{"mediaId":"m-679d40a4c6658524704578c5","title":"Fotonuotrauka. Panoraminė. Lietuvos karo aviacijos III grupės lėktuvų skrydis Vilnius – Trakai – Vilnius. Trakų salos pilies ir tvirtovės apylinkių vaizdas iš žvalgybinio lėktuvo ir lengvojo bombonešio ANBO-IV. 1939.XI.1.","caption":"Trakų salos pilies griuvėsių ir ežerų panorama iš lėktuvo, 1939 m.","originalTitle":"Fotonuotrauka. Panoraminė. Lietuvos karo aviacijos III grupės lėktuvų skrydis Vilnius – Trakai – Vilnius. Trakų salos pilies ir tvirtovės apylinkių vaizdas iš žvalgybinio lėktuvo ir lengvojo bombonešio ANBO-IV. 1939.XI.1.","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_705875688","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-705875688/thumbnail-original/705875720.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-705875688%2Fthumbnail-original%2F705875720.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-705875688/thumbnail-original/705875720.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"transportas","label":"transportas","facetKind":"tema","confidence":0.8}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Borg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burcht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Caisleán","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castello","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castelo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castillo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Château fort","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Doprava","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"Fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Garraio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Gaztelu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hrad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Iompar","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Jauregi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kastell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Liikenne","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linnus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palace","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palacio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palads","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palais","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palast","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palat","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palats","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palatsi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palau","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palazz","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palazzo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palača","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palee","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paleis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palota","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palác","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palácio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pałac","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pilis","language":"def","canonicalCode":"pilis"},{"provider":"europeana","field":"edm_concepts","label":"Pils","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Promet","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pálás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rūmai","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Szállítás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Transport","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Transportas","language":"def","canonicalCode":"transportas"},{"provider":"europeana","field":"edm_concepts","label":"Transporte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Transports","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Trasporto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Utvrda","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vervoer","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Viduslaiku pils","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vár","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zamek","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:33:47.273427+03:00","reviewedAt":"2026-08-11T00:50:05.617369+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Iš paukščio skrydžio matomi salos pilies griuvėsiai, ežerai ir miškingos pakrantės.","metadataEvidence":"Pavadinime ir aprašyme konkrečiai įvardyti Trakai, Trakų salos pilis, jos griuvėsiai ir 1939 m. skrydis Vilnius–Trakai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus istorinis konkrečios Trakų vietos vaizdas, patvirtintas tiek fotografijoje, tiek metaduomenyse.","isPrimary":0},{"mediaId":"m-9814531d210034d8a7e90861","title":"Fotonuotrauka. Panoraminė. Mokinių ekskursija į Trakų salos pilį. Tvirtovės pietinės ir vakarinės sienų, pietinių ir vakarinių kazematų bei pietvakarinio bokšto griuvėsiai. Trakai, 1953.VII.22.","caption":"Trakų salos pilies griuvėsiai ir Galvės bei Bernardinų ežerai, 1953 m.","originalTitle":"Fotonuotrauka. Panoraminė. Mokinių ekskursija į Trakų salos pilį. Tvirtovės pietinės ir vakarinės sienų, pietinių ir vakarinių kazematų bei pietvakarinio bokšto griuvėsiai. Trakai, 1953.VII.22.","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_760238128","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-760238128/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-760238128%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-760238128/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"švietimas","label":"švietimas","facetKind":"tema","confidence":0.8}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ausbildung","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bokštas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Borg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burcht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Caisleán","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castello","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castelo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castillo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Château fort","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Creideamh","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dorre","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educació","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educación","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Education","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educazione","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educação","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educație","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Edukacja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Edukazzjoni","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Erlijio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"Fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Gaztelu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Haridus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hezkuntza","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hrad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Izglītība","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Izobraževanje","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kastell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Koulutus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linnus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Náboženstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Náboženství","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Obrazovanje","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Oideachas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Oktatás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Onderwijs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pilis","language":"def","canonicalCode":"pilis"},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religion","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religione","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religioon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religião","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religió","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religión","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliġjon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliģija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stolp","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Toranj","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Toren","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torn","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torni","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tornis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torony","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torre","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tour","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tower","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Turm","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Turn","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tårn","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Túr","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Uddannelse","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Uskonto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Utbildning","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Utvrda","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vallás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Veža","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Viduslaiku pils","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vzdelanie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vzdělávání","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vár","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Věž","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Wieża","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zamek","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Éducation","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Švietimas","language":"def","canonicalCode":"švietimas"}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:33:47.277007+03:00","reviewedAt":"2026-08-11T00:50:05.588098+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies griuvėsiai, ežeras, salos ir miškinga Trakų apylinkių panorama.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyti Trakai, Trakų salos pilis, Galvės ir Bernardinų ežerai bei fotografavimo vieta.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą – Trakus ir jų salos pilies griuvėsius.","isPrimary":0},{"mediaId":"m-1a72a76a8c066f10687c0b55","title":"Trakai Island 01.jpg","caption":"Trakų salos pilis nuo Galvės ežero","originalTitle":"Trakai Island 01.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:34:06","dateStart":null,"dateEnd":null,"width":5342,"height":2407,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_01.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Trakai_Island_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Trakai_Island_01.jpg/1920px-Trakai_Island_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Trakai_Island_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.450034+03:00","reviewedAt":"2026-08-11T00:49:48.038969+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma raudonų plytų pilis saloje, žiūrint per ežerą.","metadataEvidence":"Pavadinimas „Trakai Island 01.jpg“, aprašas aiškiai nurodo Trakus ir pilį, pateikta Commons nuoroda.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Konkreti Trakų salos pilies fotografija.","isPrimary":0},{"mediaId":"m-7271abdf29c08586178bd88b","title":"Trakai Island 02.jpg","caption":"Trakų salos pilis nuo Galvės ežero","originalTitle":"Trakai Island 02.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:37:53","dateStart":null,"dateEnd":null,"width":5681,"height":3773,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_02.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Trakai_Island_02.jpg/1920px-Trakai_Island_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.455510+03:00","reviewedAt":"2026-08-11T03:41:47.018355+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Tolumoje matoma Trakų salos pilis, pirmame plane – Galvės ežeras ir geltoni vandens dviračiai.","metadataEvidence":"Failo pavadinimas „Trakai Island 02.jpg“, aprašyme aiškiai identifikuoti Trakai ir jų pilis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškus tiesioginis Trakų salos pilies vaizdas iš ežero pusės.","isPrimary":0},{"mediaId":"m-e0c370ced84362e792010a8b","title":"Trakai Island 03.jpg","caption":"Trakų salos pilis nuo ežero","originalTitle":"Trakai Island 03.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:30:11","dateStart":null,"dateEnd":null,"width":6016,"height":3010,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_03.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/76/Trakai_Island_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Trakai_Island_03.jpg/1920px-Trakai_Island_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/76/Trakai_Island_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.461537+03:00","reviewedAt":"2026-08-11T00:49:48.059760+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma pilies panorama su bokštais, vartais, tiltu ir ežeru pirmame plane.","metadataEvidence":"Pavadinimas „Trakai Island 03.jpg“, aprašas aiškiai nurodo Trakus, pilį ir Lietuvą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Panoraminė konkrečios Trakų salos pilies fotografija.","isPrimary":0},{"mediaId":"m-ac64d0bc9beee166ae1cd29a","title":"Trakai Island 04.jpg","caption":"Trakų salos pilis Galvės ežere","originalTitle":"Trakai Island 04.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:01:25","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_04.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Trakai_Island_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Trakai_Island_04.jpg/1920px-Trakai_Island_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Trakai_Island_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.466847+03:00","reviewedAt":"2026-08-11T03:41:47.004297+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma raudonų plytų Trakų salos pilis saloje, tiltas, valtys ir Galvės ežeras.","metadataEvidence":"Failo pavadinimas „Trakai Island 04.jpg“, aprašyme tiesiogiai aprašyti Trakai ir jų pilis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas aiškiai ir tiesiogiai rodo pagrindinį Trakų istorinį objektą.","isPrimary":0},{"mediaId":"m-356629dc2c8ea8f44d6ae47e","title":"Trakai Island 05.jpg","caption":"Trakų salos pilis, žvelgiant iš Galvės ežero.","originalTitle":"Trakai Island 05.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:01:34","dateStart":null,"dateEnd":null,"width":5819,"height":2913,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_05.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Trakai_Island_05.jpg/1920px-Trakai_Island_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.472114+03:00","reviewedAt":"2026-08-11T00:49:48.128383+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Iš ežero matoma visa salos pilies kompozicija su bokštais, tiltu ir laivu priekiniame plane.","metadataEvidence":"Pavadinimas „Trakai Island 05.jpg“ ir aprašas apie Trakus bei Trakų salos pilį aiškiai identifikuoja vietą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Platus peizažinis vaizdas aiškiai rodo konkretų Trakų simbolį.","isPrimary":0},{"mediaId":"m-8660d7ec7ba53befa44717fc","title":"Trakai Island 06.jpg","caption":"Trakų salos pilis Galvės ežere.","originalTitle":"Trakai Island 06.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:01:54","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_06.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Trakai_Island_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Trakai_Island_06.jpg/1920px-Trakai_Island_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Trakai_Island_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.477833+03:00","reviewedAt":"2026-08-11T00:49:48.072937+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Raudonų plytų pilis su bokštais matoma saloje už ežero.","metadataEvidence":"Pavadinimas „Trakai Island 06.jpg“, aprašas tiesiogiai nurodo Trakus ir istorinę pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkretų Trakų objektą.","isPrimary":0},{"mediaId":"m-dbd1f84ddaeef6e3595f0d1a","title":"Trakai Island 07.jpg","caption":"Trakų salos pilis nuo Galvės ežero pusės.","originalTitle":"Trakai Island 07.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:03:44","dateStart":null,"dateEnd":null,"width":4132,"height":2153,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_07.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Trakai_Island_07.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Trakai_Island_07.jpg/1920px-Trakai_Island_07.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Trakai_Island_07.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.483084+03:00","reviewedAt":"2026-08-11T00:49:48.082250+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Visa pilies kompozicija su bokštais, tiltu, valtimis ir ežeru.","metadataEvidence":"Pavadinimas „Trakai Island 07.jpg“ ir aprašas tiesiogiai sieja vaizdą su Trakais.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis ir vizualiai vienareikšmis Trakų atvaizdas.","isPrimary":0},{"mediaId":"m-e08ae60126b67fc3ac141f5d","title":"Trakai Island 08.jpg","caption":"Trakų ežero pakrantė ir pilies bokštas miesto aplinkoje.","originalTitle":"Trakai Island 08.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:04:30","dateStart":null,"dateEnd":null,"width":6016,"height":3010,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_08.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_08.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Trakai_Island_08.jpg/1920px-Trakai_Island_08.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_08.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Geography of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.488354+03:00","reviewedAt":"2026-08-11T00:49:48.141585+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Galvės ežero pakrantė su valtimis, prieplauka, turistine infrastruktūra ir tolumoje esančiu pilies bokštu.","metadataEvidence":"Pavadinimas „Trakai Island 08.jpg“ ir aprašas apie Trakus bei Trakų salos pilį patvirtina vietą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai dokumentuoja Trakų kraštovaizdį ir atpažįstamą pilies bokštą.","isPrimary":0},{"mediaId":"m-03d17b650d749a83c7d9c5cd","title":"Trakai Island 10.jpg","caption":"Trakų miesto pakrantė prie ežero","originalTitle":"Trakai Island 10.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:06:42","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_10.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_10.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trakai_Island_10.jpg/1920px-Trakai_Island_10.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_10.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Geography of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.499425+03:00","reviewedAt":"2026-08-11T03:41:46.270204+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Trakų pakrantės gyvenvietė su prieplauka, valtimis ir ežeru.","metadataEvidence":"Failo pavadinimas „Trakai Island 10.jpg“, aprašyme aiškiai nurodyta Trakai, Lithuania; Wikimedia Commons šaltinis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Trakų miesto pakrantės kraštovaizdį.","isPrimary":0},{"mediaId":"m-070b062be9570a97f8b36734","title":"Trakai Island 11.jpg","caption":"Trakų salos pilis ir tiltas per Galvės ežerą.","originalTitle":"Trakai Island 11.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:07:49","dateStart":null,"dateEnd":null,"width":5784,"height":3464,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_11.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/Trakai_Island_11.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Trakai_Island_11.jpg/1920px-Trakai_Island_11.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/Trakai_Island_11.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.504895+03:00","reviewedAt":"2026-08-11T00:49:48.110767+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma raudonų plytų salos pilis su gynybiniais bokštais, vartų bokštu ir mediniu tiltu per vandenį.","metadataEvidence":"Pavadinimas „Trakai Island 11.jpg“, aprašas nurodo Trakai Island Castle, o Wikimedia Commons URL skirtas Trakų salos piliai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų Trakų objektą.","isPrimary":0},{"mediaId":"m-d695569b009cb0a2d56f0a36","title":"Trakai Island 12.jpg","caption":"Trakų salos pilies vartų bokštas ir apvalus gynybinis bokštas.","originalTitle":"Trakai Island 12.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:09:33","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_12.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trakai_Island_12.jpg/1920px-Trakai_Island_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vėliava","label":"vėliava","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Exterior of the outer bailey of Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.510666+03:00","reviewedAt":"2026-08-11T00:49:48.119586+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas pilies vartų bokštas su raudona vėliava, akmeninė siena ir didelis apvalus gynybinis bokštas.","metadataEvidence":"Failo pavadinimas „Trakai Island 12.jpg“, aprašas ir Commons nuoroda nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Konkreti pilies architektūra ir metaduomenys patvirtina ryšį su Trakais.","isPrimary":0},{"mediaId":"m-7a7a0bd6e1c3cb5c6adfa897","title":"Trakai Island 13.jpg","caption":"Trakų salos pilies apvalusis gynybinis bokštas prie ežero.","originalTitle":"Trakai Island 13.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:09:41","dateStart":null,"dateEnd":null,"width":3946,"height":5935,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_13.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_13.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trakai_Island_13.jpg/1920px-Trakai_Island_13.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_13.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.516153+03:00","reviewedAt":"2026-08-11T00:49:48.137284+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matomas didelis apvalus raudonų plytų bokštas, kitas pilies bokštas, siena ir ežeras.","metadataEvidence":"Pavadinimas „Trakai Island 13.jpg“ ir aprašas aiškiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Trakų pilies dalį.","isPrimary":0},{"mediaId":"m-8851ea1d6d122c0fd49c37f2","title":"Trakai Island 14.jpg","caption":"Trakų salos pilies vidinis bokštas","originalTitle":"Trakai Island 14.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:10:19","dateStart":null,"dateEnd":null,"width":3617,"height":5308,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_14.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Trakai_Island_14.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Trakai_Island_14.jpg/1920px-Trakai_Island_14.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Trakai_Island_14.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.522122+03:00","reviewedAt":"2026-08-11T00:49:48.050662+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis raudonų plytų bokštas, vartai, pilies mūrai ir vėliava.","metadataEvidence":"Pavadinimas „Trakai Island 14.jpg“, aprašas nurodo Trakus ir pilį, Commons įrašas identifikuoja objektą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Trakų pilies vartų ir bokšto vaizdas.","isPrimary":0},{"mediaId":"m-7f7ed054c724abaa8791f8d4","title":"Trakai Island 15.jpg","caption":"Trakų pilies apvalusis bokštas.","originalTitle":"Trakai Island 15.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:10:51","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_15.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Trakai_Island_15.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Trakai_Island_15.jpg/1920px-Trakai_Island_15.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Trakai_Island_15.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.528252+03:00","reviewedAt":"2026-08-11T00:49:48.106411+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matomas apvalus raudonų plytų bokštas su kūginiu čerpių stogu ir akmeniniu pamatu.","metadataEvidence":"Pavadinimas „Trakai Island 15.jpg“ ir aprašas tiesiogiai nurodo Trakus bei salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vienareikšmis tiesioginis Trakų pilies komplekso atvaizdas.","isPrimary":0},{"mediaId":"m-3290cb2670d94c8a886240ab","title":"Trakai Island 16.jpg","caption":"Trakų pilies bokšto stogas ir vėjarodis.","originalTitle":"Trakai Island 16.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:11:19","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_16.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Trakai_Island_16.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Trakai_Island_16.jpg/1920px-Trakai_Island_16.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Trakai_Island_16.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Castle towers in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Red clay roof tiles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Roof finials","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.533714+03:00","reviewedAt":"2026-08-11T00:49:48.101288+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Raudonų čerpių kūginis stogas, plytų bokštas ir dekoratyvinis vėjarodis.","metadataEvidence":"Pavadinimas „Trakai Island 16.jpg“ ir aprašas identifikuoja Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis, nors dalinis, konkretaus Trakų pilies bokšto atvaizdas.","isPrimary":0},{"mediaId":"m-d291b7e703f6d1dafe81a413","title":"Trakai Island 17.jpg","caption":"Trakų salos pilies vidinis kompleksas","originalTitle":"Trakai Island 17.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:11:55","dateStart":null,"dateEnd":null,"width":3792,"height":5050,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_17.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Trakai_Island_17.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trakai_Island_17.jpg/1920px-Trakai_Island_17.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Trakai_Island_17.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ducal Palace (Trakai Island Castle)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Keeps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"People in cages","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.538975+03:00","reviewedAt":"2026-08-11T00:49:48.055028+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies bokštas, rūmai, mūrai ir vidinis kiemas.","metadataEvidence":"Pavadinimas „Trakai Island 17.jpg“, aprašas ir Commons nuoroda tiesiogiai sieja vaizdą su Trakais.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Trakų salos pilies vaizdas.","isPrimary":0},{"mediaId":"m-d19d9bc22081ce3654c72af0","title":"Trakai Island 18.jpg","caption":"Trakų salos pilies vidinis kiemas","originalTitle":"Trakai Island 18.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:12:02","dateStart":null,"dateEnd":null,"width":5726,"height":3811,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_18.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Trakai_Island_18.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Trakai_Island_18.jpg/1920px-Trakai_Island_18.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Trakai_Island_18.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Keeps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"People in cages","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.544571+03:00","reviewedAt":"2026-08-11T03:41:47.009318+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies mūrai, bokštas, raudonų čerpių stogai, mediniai galerijų turėklai ir lankytojai vidiniame kieme.","metadataEvidence":"Failo pavadinimas „Trakai Island 18.jpg“, aprašyme pilis ir Trakai identifikuojami tiesiogiai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis Trakų salos pilies, esančios Trakuose, vaizdas.","isPrimary":0},{"mediaId":"m-077d2e0a07a3bb3a71432e75","title":"Trakai Island 19.jpg","caption":"Trakų salos pilies vidinės galerijos","originalTitle":"Trakai Island 19.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:12:16","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_19.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Trakai_Island_19.jpg/1920px-Trakai_Island_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.550291+03:00","reviewedAt":"2026-08-11T03:41:47.014071+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas pilies kiemo korpusas su raudonų plytų mūru, akmeninėmis sienomis, medinėmis galerijomis ir čerpių stogais.","metadataEvidence":"Failo pavadinimas „Trakai Island 19.jpg“, aprašyme tiesiogiai nurodomi Trakai ir jų istorinis paveldas.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkrečią Trakų salos pilies dalį.","isPrimary":0},{"mediaId":"m-6c1bfb86a67db7cf95cbf089","title":"Trakai Island 20.jpg","caption":"Trakų salos pilies bokštas ir kiemas","originalTitle":"Trakai Island 20.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:12:33","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_20.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Trakai_Island_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Trakai_Island_20.jpg/1920px-Trakai_Island_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Trakai_Island_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.555494+03:00","reviewedAt":"2026-08-11T00:49:48.044529+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas pilies raudonų plytų bokštas, čerpių stogai ir vidinis kiemas.","metadataEvidence":"Pavadinimas „Trakai Island 20.jpg“, aprašas ir Commons URL tiesiogiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai atpažįstama konkreti Trakų pilies architektūra.","isPrimary":0},{"mediaId":"m-2169375c6b3d3c53f26da5ba","title":"Trakai Island 21.jpg","caption":"Trakų salos pilies kiemas","originalTitle":"Trakai Island 21.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:13:11","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_21.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Trakai_Island_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Trakai_Island_21.jpg/1920px-Trakai_Island_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Trakai_Island_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.560933+03:00","reviewedAt":"2026-08-11T00:49:48.064857+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies mūrai, bokštas, mediniai laiptai ir vidiniame kieme esantys istoriniai eksponatai.","metadataEvidence":"Pavadinimas „Trakai Island 21.jpg“ ir Commons aprašas tiesiogiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Trakų pilies kiemo vaizdas.","isPrimary":0},{"mediaId":"m-96b1906fefca21a70f0bc898","title":"Trakai Island 24.jpg","caption":"Trakų salos pilies pastatas iš arti.","originalTitle":"Trakai Island 24.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:16:02","dateStart":null,"dateEnd":null,"width":5248,"height":3936,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_24.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Trakai_Island_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Trakai_Island_24.jpg/1920px-Trakai_Island_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Trakai_Island_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ducal Palace (Trakai Island Castle)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Keeps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.577317+03:00","reviewedAt":"2026-08-11T00:49:48.077789+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matoma raudonų plytų pilis, bokštas ir akmeninės gynybinės sienos.","metadataEvidence":"Pavadinimas „Trakai Island 24.jpg“, aprašas nurodo Trakus ir pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Trakų pilies atvaizdas.","isPrimary":0},{"mediaId":"m-0af522336d45c3bc556b5a59","title":"Trakai Island 25.jpg","caption":"Trakų salos pilies vidinės gynybinės sienos ir bokšto fragmentas.","originalTitle":"Trakai Island 25.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:16:36","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_25.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Trakai_Island_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Trakai_Island_25.jpg/1920px-Trakai_Island_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Trakai_Island_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"Arches in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.582803+03:00","reviewedAt":"2026-08-11T00:49:48.115006+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos akmeninės gynybinės sienos, plytų arkos ir raudonų čerpių pilies bokštas.","metadataEvidence":"Pavadinimas „Trakai Island 25.jpg“ ir aprašas apie Trakų salos pilį tiesiogiai sutampa su target vieta.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Architektūrinis vaizdas aiškiai priklauso Trakų salos piliai.","isPrimary":0},{"mediaId":"m-bdef9574fee27e54cee3c2ec","title":"Trakai Island 26.jpg","caption":"Trakų salos pilies gynybinės sienos ir bokštas.","originalTitle":"Trakai Island 26.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:19:54","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_26.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Trakai_Island_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trakai_Island_26.jpg/1920px-Trakai_Island_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Trakai_Island_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.588142+03:00","reviewedAt":"2026-08-11T00:49:48.132732+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos akmeninės sienos, plytų arkos, čerpių stogas ir pilies bokštas medžių apsuptyje.","metadataEvidence":"Failo pavadinimas „Trakai Island 26.jpg“ ir aprašas tiesiogiai sieja vaizdą su Trakų salos pilimi.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Konkrečios architektūrinės detalės ir metaduomenys patvirtina tiesioginį ryšį.","isPrimary":0},{"mediaId":"m-a68862d511b5d022fe09adbb","title":"Trakai Island 27.jpg","caption":"Trakų salos pilies gynybinis praėjimas","originalTitle":"Trakai Island 27.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:20:25","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_27.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trakai_Island_27.jpg/1920px-Trakai_Island_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.594051+03:00","reviewedAt":"2026-08-11T00:49:48.068928+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas akmeninių ir plytinių mūrų apsuptas pilies praėjimas bei medinis tiltas.","metadataEvidence":"Pavadinimas „Trakai Island 27.jpg“, aprašas ir Commons URL identifikuoja Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis konkretaus Trakų pilies komplekso fragmento vaizdas.","isPrimary":0},{"mediaId":"m-d4335b0b2bbc067c6c419a5e","title":"Trakai Island 28.jpg","caption":"Trakų salos pilies kiemo ir gynybinių sienų vaizdas.","originalTitle":"Trakai Island 28.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:20:41","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_28.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Trakai_Island_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trakai_Island_28.jpg/1920px-Trakai_Island_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Trakai_Island_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.599336+03:00","reviewedAt":"2026-08-11T00:49:48.092538+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Akmeninės sienos, medinis tiltas ir pilies kiemo struktūra atpažįstami kaip Trakų pilies kompleksas.","metadataEvidence":"Pavadinimas „Trakai Island 28.jpg“ ir aprašas tiesiogiai nurodo Trakus bei pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis konkretaus Trakų istorinio objekto atvaizdas.","isPrimary":0},{"mediaId":"m-24bce2896b85aabacfaac2cf","title":"Trakai Island 29.jpg","caption":"Trakų pilies bokštas ir pakrantės takas.","originalTitle":"Trakai Island 29.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:21:52","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Trakai_Island_29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Trakai_Island_29.jpg/1920px-Trakai_Island_29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Trakai_Island_29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.604546+03:00","reviewedAt":"2026-08-11T00:49:48.097329+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Kairėje aiškiai matomas pilies bokštas, šalia – Trakų ežero pakrantė ir takas.","metadataEvidence":"Pavadinimas „Trakai Island 29.jpg“, aprašas ir fotografijų serija tiesiogiai susieja vaizdą su Trakais.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Trakų pilies komplekso vaizdas.","isPrimary":0},{"mediaId":"m-91dc50f35fc929766078210f","title":"Trakai Island 30.jpg","caption":"Trakų salos pilies bokštas ir Lietuvos istorinė vėliava.","originalTitle":"Trakai Island 30.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:22:43","dateStart":null,"dateEnd":null,"width":3760,"height":5650,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_30.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Trakai_Island_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Trakai_Island_30.jpg/1920px-Trakai_Island_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Trakai_Island_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vėliava","label":"vėliava","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Exterior of the outer bailey of Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Towers in Lithuania","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.610223+03:00","reviewedAt":"2026-08-11T00:49:48.123656+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas raudonų plytų vartų bokštas, apvalus gynybinis bokštas, pilies siena ir raudona istorinė vėliava.","metadataEvidence":"Pavadinimas „Trakai Island 30.jpg“ bei aprašas tiesiogiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Trakų pilies architektūrą.","isPrimary":0}]'
+media_contextual_json: '[{"mediaId":"m-ddf458845f1d43b900a18954","title":"28.05.19 Trakai EJ575-009 (47961490402).jpg","caption":"Trakų geležinkelio stotis ir traukinys.","originalTitle":"28.05.19 Trakai EJ575-009 (47961490402).jpg","creator":"Phil Richards from London, UK","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.0","attribution":"28.05.19 Trakai EJ575-009","dateDisplay":"2019-05-28 12:08","dateStart":null,"dateEnd":null,"width":5607,"height":3373,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/72/28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg/1920px-28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/72/28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.82},{"code":"transportas","label":"transportas","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"2019 in rail transport in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"LG Class 575","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trains at Trakai train station","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vilnius–Trakai train","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T12:31:46.448008+03:00","reviewedAt":"2026-08-11T00:49:48.086810+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Ant pastato aiškiai matomas užrašas „TRAKAI“, matoma geležinkelio stotis ir traukinys.","metadataEvidence":"Pavadinime nurodyta Trakai, o aprašas tiksliai identifikuoja Trakų geležinkelio stotį.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne pilis ar miesto panorama, bet aiškiai pagrįstas kontekstinis Trakų vietos atvaizdas.","isPrimary":0}]'
+media_all_json: '[{"mediaId":"m-8a8cbb7fc4225b6d4c59b618","title":"Trakai Island Castle in 19c.jpg","caption":"XIX a. Trakų salos pilies vaizdas","originalTitle":"Trakai Island Castle in 19c.jpg","creator":"Napoleon Orda","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"[1]","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":800,"height":535,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_Castle_in_19c.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Trakai_Island_Castle_in_19c.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Drawings of castles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Galvė","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings of Troki by Napoleon Orda","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle in art","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.190423+03:00","reviewedAt":"2026-08-11T00:49:48.019534+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma pilis saloje, apsupta vandens, su būdingais bokštais ir mūrais.","metadataEvidence":"Pavadinimas aiškiai nurodo „Trakai Island Castle“, aprašas nurodo Lietuvą, autorius Napoleon Orda, XIX a.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus istorinis konkrečios Trakų pilies atvaizdas.","isPrimary":1},{"mediaId":"m-679d40a4c6658524704578c5","title":"Fotonuotrauka. Panoraminė. Lietuvos karo aviacijos III grupės lėktuvų skrydis Vilnius – Trakai – Vilnius. Trakų salos pilies ir tvirtovės apylinkių vaizdas iš žvalgybinio lėktuvo ir lengvojo bombonešio ANBO-IV. 1939.XI.1.","caption":"Trakų salos pilies griuvėsių ir ežerų panorama iš lėktuvo, 1939 m.","originalTitle":"Fotonuotrauka. Panoraminė. Lietuvos karo aviacijos III grupės lėktuvų skrydis Vilnius – Trakai – Vilnius. Trakų salos pilies ir tvirtovės apylinkių vaizdas iš žvalgybinio lėktuvo ir lengvojo bombonešio ANBO-IV. 1939.XI.1.","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_705875688","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-705875688/thumbnail-original/705875720.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-705875688%2Fthumbnail-original%2F705875720.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-705875688/thumbnail-original/705875720.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"transportas","label":"transportas","facetKind":"tema","confidence":0.8}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Borg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burcht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Caisleán","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castello","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castelo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castillo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Château fort","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Doprava","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"Fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Garraio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Gaztelu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hrad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Iompar","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Jauregi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kastell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Liikenne","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linnus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palace","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palacio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palads","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palais","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palast","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palat","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palats","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palatsi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palau","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palazz","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palazzo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palača","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palee","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Paleis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palota","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palác","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Palácio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pałac","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pilis","language":"def","canonicalCode":"pilis"},{"provider":"europeana","field":"edm_concepts","label":"Pils","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Promet","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pálás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rūmai","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Szállítás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Transport","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Transportas","language":"def","canonicalCode":"transportas"},{"provider":"europeana","field":"edm_concepts","label":"Transporte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Transports","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Trasporto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Utvrda","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vervoer","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Viduslaiku pils","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vár","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zamek","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:33:47.273427+03:00","reviewedAt":"2026-08-11T00:50:05.617369+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Iš paukščio skrydžio matomi salos pilies griuvėsiai, ežerai ir miškingos pakrantės.","metadataEvidence":"Pavadinime ir aprašyme konkrečiai įvardyti Trakai, Trakų salos pilis, jos griuvėsiai ir 1939 m. skrydis Vilnius–Trakai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus istorinis konkrečios Trakų vietos vaizdas, patvirtintas tiek fotografijoje, tiek metaduomenyse.","isPrimary":0},{"mediaId":"m-9814531d210034d8a7e90861","title":"Fotonuotrauka. Panoraminė. Mokinių ekskursija į Trakų salos pilį. Tvirtovės pietinės ir vakarinės sienų, pietinių ir vakarinių kazematų bei pietvakarinio bokšto griuvėsiai. Trakai, 1953.VII.22.","caption":"Trakų salos pilies griuvėsiai ir Galvės bei Bernardinų ežerai, 1953 m.","originalTitle":"Fotonuotrauka. Panoraminė. Mokinių ekskursija į Trakų salos pilį. Tvirtovės pietinės ir vakarinės sienų, pietinių ir vakarinių kazematų bei pietvakarinio bokšto griuvėsiai. Trakai, 1953.VII.22.","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_760238128","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-760238128/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-760238128%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-760238128/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"švietimas","label":"švietimas","facetKind":"tema","confidence":0.8}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ausbildung","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bokštas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Borg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burcht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Burg","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Caisleán","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castel","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castello","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castelo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castillo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Castle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Château fort","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Creideamh","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dorre","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educació","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educación","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Education","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educazione","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educação","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Educație","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Edukacja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Edukazzjoni","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Erlijio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"Fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Gaztelu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Haridus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hezkuntza","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Hrad","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Izglītība","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Izobraževanje","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kastell","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Koulutus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Linnus","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Náboženstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Náboženství","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Obrazovanje","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Oideachas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Oktatás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Onderwijs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pilis","language":"def","canonicalCode":"pilis"},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religion","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religione","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religioon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religião","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religió","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religión","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliġjon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliģija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stolp","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Toranj","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Toren","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torn","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torni","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tornis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torony","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torre","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Torri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tour","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tower","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Turm","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Turn","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tårn","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Túr","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Uddannelse","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Uskonto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Utbildning","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Utvrda","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vallás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Veža","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Viduslaiku pils","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vzdelanie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vzdělávání","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vár","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Věž","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Wieża","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zamek","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Éducation","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Švietimas","language":"def","canonicalCode":"švietimas"}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:33:47.277007+03:00","reviewedAt":"2026-08-11T00:50:05.588098+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies griuvėsiai, ežeras, salos ir miškinga Trakų apylinkių panorama.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyti Trakai, Trakų salos pilis, Galvės ir Bernardinų ežerai bei fotografavimo vieta.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą – Trakus ir jų salos pilies griuvėsius.","isPrimary":0},{"mediaId":"m-1a72a76a8c066f10687c0b55","title":"Trakai Island 01.jpg","caption":"Trakų salos pilis nuo Galvės ežero","originalTitle":"Trakai Island 01.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:34:06","dateStart":null,"dateEnd":null,"width":5342,"height":2407,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_01.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Trakai_Island_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Trakai_Island_01.jpg/1920px-Trakai_Island_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Trakai_Island_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.450034+03:00","reviewedAt":"2026-08-11T00:49:48.038969+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma raudonų plytų pilis saloje, žiūrint per ežerą.","metadataEvidence":"Pavadinimas „Trakai Island 01.jpg“, aprašas aiškiai nurodo Trakus ir pilį, pateikta Commons nuoroda.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Konkreti Trakų salos pilies fotografija.","isPrimary":0},{"mediaId":"m-7271abdf29c08586178bd88b","title":"Trakai Island 02.jpg","caption":"Trakų salos pilis nuo Galvės ežero","originalTitle":"Trakai Island 02.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:37:53","dateStart":null,"dateEnd":null,"width":5681,"height":3773,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_02.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Trakai_Island_02.jpg/1920px-Trakai_Island_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.455510+03:00","reviewedAt":"2026-08-11T03:41:47.018355+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Tolumoje matoma Trakų salos pilis, pirmame plane – Galvės ežeras ir geltoni vandens dviračiai.","metadataEvidence":"Failo pavadinimas „Trakai Island 02.jpg“, aprašyme aiškiai identifikuoti Trakai ir jų pilis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškus tiesioginis Trakų salos pilies vaizdas iš ežero pusės.","isPrimary":0},{"mediaId":"m-e0c370ced84362e792010a8b","title":"Trakai Island 03.jpg","caption":"Trakų salos pilis nuo ežero","originalTitle":"Trakai Island 03.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:30:11","dateStart":null,"dateEnd":null,"width":6016,"height":3010,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_03.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/76/Trakai_Island_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Trakai_Island_03.jpg/1920px-Trakai_Island_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/76/Trakai_Island_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.461537+03:00","reviewedAt":"2026-08-11T00:49:48.059760+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma pilies panorama su bokštais, vartais, tiltu ir ežeru pirmame plane.","metadataEvidence":"Pavadinimas „Trakai Island 03.jpg“, aprašas aiškiai nurodo Trakus, pilį ir Lietuvą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Panoraminė konkrečios Trakų salos pilies fotografija.","isPrimary":0},{"mediaId":"m-ac64d0bc9beee166ae1cd29a","title":"Trakai Island 04.jpg","caption":"Trakų salos pilis Galvės ežere","originalTitle":"Trakai Island 04.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:01:25","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_04.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Trakai_Island_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Trakai_Island_04.jpg/1920px-Trakai_Island_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Trakai_Island_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.466847+03:00","reviewedAt":"2026-08-11T03:41:47.004297+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma raudonų plytų Trakų salos pilis saloje, tiltas, valtys ir Galvės ežeras.","metadataEvidence":"Failo pavadinimas „Trakai Island 04.jpg“, aprašyme tiesiogiai aprašyti Trakai ir jų pilis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas aiškiai ir tiesiogiai rodo pagrindinį Trakų istorinį objektą.","isPrimary":0},{"mediaId":"m-356629dc2c8ea8f44d6ae47e","title":"Trakai Island 05.jpg","caption":"Trakų salos pilis, žvelgiant iš Galvės ežero.","originalTitle":"Trakai Island 05.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:01:34","dateStart":null,"dateEnd":null,"width":5819,"height":2913,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_05.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Trakai_Island_05.jpg/1920px-Trakai_Island_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.472114+03:00","reviewedAt":"2026-08-11T00:49:48.128383+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Iš ežero matoma visa salos pilies kompozicija su bokštais, tiltu ir laivu priekiniame plane.","metadataEvidence":"Pavadinimas „Trakai Island 05.jpg“ ir aprašas apie Trakus bei Trakų salos pilį aiškiai identifikuoja vietą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Platus peizažinis vaizdas aiškiai rodo konkretų Trakų simbolį.","isPrimary":0},{"mediaId":"m-8660d7ec7ba53befa44717fc","title":"Trakai Island 06.jpg","caption":"Trakų salos pilis Galvės ežere.","originalTitle":"Trakai Island 06.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:01:54","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_06.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Trakai_Island_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Trakai_Island_06.jpg/1920px-Trakai_Island_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Trakai_Island_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.477833+03:00","reviewedAt":"2026-08-11T00:49:48.072937+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Raudonų plytų pilis su bokštais matoma saloje už ežero.","metadataEvidence":"Pavadinimas „Trakai Island 06.jpg“, aprašas tiesiogiai nurodo Trakus ir istorinę pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkretų Trakų objektą.","isPrimary":0},{"mediaId":"m-dbd1f84ddaeef6e3595f0d1a","title":"Trakai Island 07.jpg","caption":"Trakų salos pilis nuo Galvės ežero pusės.","originalTitle":"Trakai Island 07.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:03:44","dateStart":null,"dateEnd":null,"width":4132,"height":2153,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_07.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Trakai_Island_07.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Trakai_Island_07.jpg/1920px-Trakai_Island_07.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Trakai_Island_07.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.483084+03:00","reviewedAt":"2026-08-11T00:49:48.082250+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Visa pilies kompozicija su bokštais, tiltu, valtimis ir ežeru.","metadataEvidence":"Pavadinimas „Trakai Island 07.jpg“ ir aprašas tiesiogiai sieja vaizdą su Trakais.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis ir vizualiai vienareikšmis Trakų atvaizdas.","isPrimary":0},{"mediaId":"m-e08ae60126b67fc3ac141f5d","title":"Trakai Island 08.jpg","caption":"Trakų ežero pakrantė ir pilies bokštas miesto aplinkoje.","originalTitle":"Trakai Island 08.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:04:30","dateStart":null,"dateEnd":null,"width":6016,"height":3010,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_08.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_08.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Trakai_Island_08.jpg/1920px-Trakai_Island_08.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Trakai_Island_08.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Boats in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Geography of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.488354+03:00","reviewedAt":"2026-08-11T00:49:48.141585+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Galvės ežero pakrantė su valtimis, prieplauka, turistine infrastruktūra ir tolumoje esančiu pilies bokštu.","metadataEvidence":"Pavadinimas „Trakai Island 08.jpg“ ir aprašas apie Trakus bei Trakų salos pilį patvirtina vietą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai dokumentuoja Trakų kraštovaizdį ir atpažįstamą pilies bokštą.","isPrimary":0},{"mediaId":"m-03d17b650d749a83c7d9c5cd","title":"Trakai Island 10.jpg","caption":"Trakų miesto pakrantė prie ežero","originalTitle":"Trakai Island 10.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:06:42","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_10.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_10.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trakai_Island_10.jpg/1920px-Trakai_Island_10.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_10.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Geography of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.499425+03:00","reviewedAt":"2026-08-11T03:41:46.270204+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Trakų pakrantės gyvenvietė su prieplauka, valtimis ir ežeru.","metadataEvidence":"Failo pavadinimas „Trakai Island 10.jpg“, aprašyme aiškiai nurodyta Trakai, Lithuania; Wikimedia Commons šaltinis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Trakų miesto pakrantės kraštovaizdį.","isPrimary":0},{"mediaId":"m-070b062be9570a97f8b36734","title":"Trakai Island 11.jpg","caption":"Trakų salos pilis ir tiltas per Galvės ežerą.","originalTitle":"Trakai Island 11.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:07:49","dateStart":null,"dateEnd":null,"width":5784,"height":3464,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_11.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/Trakai_Island_11.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Trakai_Island_11.jpg/1920px-Trakai_Island_11.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/Trakai_Island_11.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.504895+03:00","reviewedAt":"2026-08-11T00:49:48.110767+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma raudonų plytų salos pilis su gynybiniais bokštais, vartų bokštu ir mediniu tiltu per vandenį.","metadataEvidence":"Pavadinimas „Trakai Island 11.jpg“, aprašas nurodo Trakai Island Castle, o Wikimedia Commons URL skirtas Trakų salos piliai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų Trakų objektą.","isPrimary":0},{"mediaId":"m-d695569b009cb0a2d56f0a36","title":"Trakai Island 12.jpg","caption":"Trakų salos pilies vartų bokštas ir apvalus gynybinis bokštas.","originalTitle":"Trakai Island 12.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:09:33","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_12.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trakai_Island_12.jpg/1920px-Trakai_Island_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Trakai_Island_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vėliava","label":"vėliava","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Exterior of the outer bailey of Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.510666+03:00","reviewedAt":"2026-08-11T00:49:48.119586+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas pilies vartų bokštas su raudona vėliava, akmeninė siena ir didelis apvalus gynybinis bokštas.","metadataEvidence":"Failo pavadinimas „Trakai Island 12.jpg“, aprašas ir Commons nuoroda nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Konkreti pilies architektūra ir metaduomenys patvirtina ryšį su Trakais.","isPrimary":0},{"mediaId":"m-7a7a0bd6e1c3cb5c6adfa897","title":"Trakai Island 13.jpg","caption":"Trakų salos pilies apvalusis gynybinis bokštas prie ežero.","originalTitle":"Trakai Island 13.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:09:41","dateStart":null,"dateEnd":null,"width":3946,"height":5935,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_13.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_13.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trakai_Island_13.jpg/1920px-Trakai_Island_13.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_13.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.516153+03:00","reviewedAt":"2026-08-11T00:49:48.137284+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matomas didelis apvalus raudonų plytų bokštas, kitas pilies bokštas, siena ir ežeras.","metadataEvidence":"Pavadinimas „Trakai Island 13.jpg“ ir aprašas aiškiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Trakų pilies dalį.","isPrimary":0},{"mediaId":"m-8851ea1d6d122c0fd49c37f2","title":"Trakai Island 14.jpg","caption":"Trakų salos pilies vidinis bokštas","originalTitle":"Trakai Island 14.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:10:19","dateStart":null,"dateEnd":null,"width":3617,"height":5308,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_14.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Trakai_Island_14.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Trakai_Island_14.jpg/1920px-Trakai_Island_14.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Trakai_Island_14.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.522122+03:00","reviewedAt":"2026-08-11T00:49:48.050662+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis raudonų plytų bokštas, vartai, pilies mūrai ir vėliava.","metadataEvidence":"Pavadinimas „Trakai Island 14.jpg“, aprašas nurodo Trakus ir pilį, Commons įrašas identifikuoja objektą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Trakų pilies vartų ir bokšto vaizdas.","isPrimary":0},{"mediaId":"m-7f7ed054c724abaa8791f8d4","title":"Trakai Island 15.jpg","caption":"Trakų pilies apvalusis bokštas.","originalTitle":"Trakai Island 15.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:10:51","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_15.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Trakai_Island_15.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Trakai_Island_15.jpg/1920px-Trakai_Island_15.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Trakai_Island_15.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.528252+03:00","reviewedAt":"2026-08-11T00:49:48.106411+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matomas apvalus raudonų plytų bokštas su kūginiu čerpių stogu ir akmeniniu pamatu.","metadataEvidence":"Pavadinimas „Trakai Island 15.jpg“ ir aprašas tiesiogiai nurodo Trakus bei salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vienareikšmis tiesioginis Trakų pilies komplekso atvaizdas.","isPrimary":0},{"mediaId":"m-3290cb2670d94c8a886240ab","title":"Trakai Island 16.jpg","caption":"Trakų pilies bokšto stogas ir vėjarodis.","originalTitle":"Trakai Island 16.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:11:19","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_16.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Trakai_Island_16.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Trakai_Island_16.jpg/1920px-Trakai_Island_16.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Trakai_Island_16.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Castle towers in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Red clay roof tiles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Roof finials","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trakai Island Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.533714+03:00","reviewedAt":"2026-08-11T00:49:48.101288+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Raudonų čerpių kūginis stogas, plytų bokštas ir dekoratyvinis vėjarodis.","metadataEvidence":"Pavadinimas „Trakai Island 16.jpg“ ir aprašas identifikuoja Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis, nors dalinis, konkretaus Trakų pilies bokšto atvaizdas.","isPrimary":0},{"mediaId":"m-d291b7e703f6d1dafe81a413","title":"Trakai Island 17.jpg","caption":"Trakų salos pilies vidinis kompleksas","originalTitle":"Trakai Island 17.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:11:55","dateStart":null,"dateEnd":null,"width":3792,"height":5050,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_17.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Trakai_Island_17.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trakai_Island_17.jpg/1920px-Trakai_Island_17.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Trakai_Island_17.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ducal Palace (Trakai Island Castle)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Keeps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"People in cages","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.538975+03:00","reviewedAt":"2026-08-11T00:49:48.055028+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies bokštas, rūmai, mūrai ir vidinis kiemas.","metadataEvidence":"Pavadinimas „Trakai Island 17.jpg“, aprašas ir Commons nuoroda tiesiogiai sieja vaizdą su Trakais.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Trakų salos pilies vaizdas.","isPrimary":0},{"mediaId":"m-d19d9bc22081ce3654c72af0","title":"Trakai Island 18.jpg","caption":"Trakų salos pilies vidinis kiemas","originalTitle":"Trakai Island 18.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:12:02","dateStart":null,"dateEnd":null,"width":5726,"height":3811,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_18.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Trakai_Island_18.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Trakai_Island_18.jpg/1920px-Trakai_Island_18.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Trakai_Island_18.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Keeps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"People in cages","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.544571+03:00","reviewedAt":"2026-08-11T03:41:47.009318+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies mūrai, bokštas, raudonų čerpių stogai, mediniai galerijų turėklai ir lankytojai vidiniame kieme.","metadataEvidence":"Failo pavadinimas „Trakai Island 18.jpg“, aprašyme pilis ir Trakai identifikuojami tiesiogiai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis Trakų salos pilies, esančios Trakuose, vaizdas.","isPrimary":0},{"mediaId":"m-077d2e0a07a3bb3a71432e75","title":"Trakai Island 19.jpg","caption":"Trakų salos pilies vidinės galerijos","originalTitle":"Trakai Island 19.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:12:16","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_19.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Trakai_Island_19.jpg/1920px-Trakai_Island_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Trakai_Island_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.550291+03:00","reviewedAt":"2026-08-11T03:41:47.014071+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas pilies kiemo korpusas su raudonų plytų mūru, akmeninėmis sienomis, medinėmis galerijomis ir čerpių stogais.","metadataEvidence":"Failo pavadinimas „Trakai Island 19.jpg“, aprašyme tiesiogiai nurodomi Trakai ir jų istorinis paveldas.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkrečią Trakų salos pilies dalį.","isPrimary":0},{"mediaId":"m-6c1bfb86a67db7cf95cbf089","title":"Trakai Island 20.jpg","caption":"Trakų salos pilies bokštas ir kiemas","originalTitle":"Trakai Island 20.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:12:33","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_20.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Trakai_Island_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Trakai_Island_20.jpg/1920px-Trakai_Island_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Trakai_Island_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.555494+03:00","reviewedAt":"2026-08-11T00:49:48.044529+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas pilies raudonų plytų bokštas, čerpių stogai ir vidinis kiemas.","metadataEvidence":"Pavadinimas „Trakai Island 20.jpg“, aprašas ir Commons URL tiesiogiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai atpažįstama konkreti Trakų pilies architektūra.","isPrimary":0},{"mediaId":"m-2169375c6b3d3c53f26da5ba","title":"Trakai Island 21.jpg","caption":"Trakų salos pilies kiemas","originalTitle":"Trakai Island 21.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:13:11","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_21.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Trakai_Island_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Trakai_Island_21.jpg/1920px-Trakai_Island_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Trakai_Island_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.560933+03:00","reviewedAt":"2026-08-11T00:49:48.064857+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi pilies mūrai, bokštas, mediniai laiptai ir vidiniame kieme esantys istoriniai eksponatai.","metadataEvidence":"Pavadinimas „Trakai Island 21.jpg“ ir Commons aprašas tiesiogiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Trakų pilies kiemo vaizdas.","isPrimary":0},{"mediaId":"m-96b1906fefca21a70f0bc898","title":"Trakai Island 24.jpg","caption":"Trakų salos pilies pastatas iš arti.","originalTitle":"Trakai Island 24.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:16:02","dateStart":null,"dateEnd":null,"width":5248,"height":3936,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_24.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Trakai_Island_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Trakai_Island_24.jpg/1920px-Trakai_Island_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Trakai_Island_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ducal Palace (Trakai Island Castle)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Keeps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.577317+03:00","reviewedAt":"2026-08-11T00:49:48.077789+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matoma raudonų plytų pilis, bokštas ir akmeninės gynybinės sienos.","metadataEvidence":"Pavadinimas „Trakai Island 24.jpg“, aprašas nurodo Trakus ir pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Trakų pilies atvaizdas.","isPrimary":0},{"mediaId":"m-0af522336d45c3bc556b5a59","title":"Trakai Island 25.jpg","caption":"Trakų salos pilies vidinės gynybinės sienos ir bokšto fragmentas.","originalTitle":"Trakai Island 25.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:16:36","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_25.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Trakai_Island_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Trakai_Island_25.jpg/1920px-Trakai_Island_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Trakai_Island_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"Arches in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.582803+03:00","reviewedAt":"2026-08-11T00:49:48.115006+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos akmeninės gynybinės sienos, plytų arkos ir raudonų čerpių pilies bokštas.","metadataEvidence":"Pavadinimas „Trakai Island 25.jpg“ ir aprašas apie Trakų salos pilį tiesiogiai sutampa su target vieta.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Architektūrinis vaizdas aiškiai priklauso Trakų salos piliai.","isPrimary":0},{"mediaId":"m-bdef9574fee27e54cee3c2ec","title":"Trakai Island 26.jpg","caption":"Trakų salos pilies gynybinės sienos ir bokštas.","originalTitle":"Trakai Island 26.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:19:54","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_26.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Trakai_Island_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trakai_Island_26.jpg/1920px-Trakai_Island_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Trakai_Island_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.588142+03:00","reviewedAt":"2026-08-11T00:49:48.132732+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos akmeninės sienos, plytų arkos, čerpių stogas ir pilies bokštas medžių apsuptyje.","metadataEvidence":"Failo pavadinimas „Trakai Island 26.jpg“ ir aprašas tiesiogiai sieja vaizdą su Trakų salos pilimi.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Konkrečios architektūrinės detalės ir metaduomenys patvirtina tiesioginį ryšį.","isPrimary":0},{"mediaId":"m-a68862d511b5d022fe09adbb","title":"Trakai Island 27.jpg","caption":"Trakų salos pilies gynybinis praėjimas","originalTitle":"Trakai Island 27.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:20:25","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_27.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trakai_Island_27.jpg/1920px-Trakai_Island_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Trakai_Island_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"unija","label":"unija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.594051+03:00","reviewedAt":"2026-08-11T00:49:48.068928+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas akmeninių ir plytinių mūrų apsuptas pilies praėjimas bei medinis tiltas.","metadataEvidence":"Pavadinimas „Trakai Island 27.jpg“, aprašas ir Commons URL identifikuoja Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis konkretaus Trakų pilies komplekso fragmento vaizdas.","isPrimary":0},{"mediaId":"m-d4335b0b2bbc067c6c419a5e","title":"Trakai Island 28.jpg","caption":"Trakų salos pilies kiemo ir gynybinių sienų vaizdas.","originalTitle":"Trakai Island 28.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:20:41","dateStart":null,"dateEnd":null,"width":6016,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_28.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Trakai_Island_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trakai_Island_28.jpg/1920px-Trakai_Island_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Trakai_Island_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moat of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.599336+03:00","reviewedAt":"2026-08-11T00:49:48.092538+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Akmeninės sienos, medinis tiltas ir pilies kiemo struktūra atpažįstami kaip Trakų pilies kompleksas.","metadataEvidence":"Pavadinimas „Trakai Island 28.jpg“ ir aprašas tiesiogiai nurodo Trakus bei pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis konkretaus Trakų istorinio objekto atvaizdas.","isPrimary":0},{"mediaId":"m-24bce2896b85aabacfaac2cf","title":"Trakai Island 29.jpg","caption":"Trakų pilies bokštas ir pakrantės takas.","originalTitle":"Trakai Island 29.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 6 June 2018, 09:21:52","dateStart":null,"dateEnd":null,"width":4000,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Trakai_Island_29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Trakai_Island_29.jpg/1920px-Trakai_Island_29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Trakai_Island_29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"ežeras","label":"ežeras","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Outer bailey of the Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.604546+03:00","reviewedAt":"2026-08-11T00:49:48.097329+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Kairėje aiškiai matomas pilies bokštas, šalia – Trakų ežero pakrantė ir takas.","metadataEvidence":"Pavadinimas „Trakai Island 29.jpg“, aprašas ir fotografijų serija tiesiogiai susieja vaizdą su Trakais.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Trakų pilies komplekso vaizdas.","isPrimary":0},{"mediaId":"m-91dc50f35fc929766078210f","title":"Trakai Island 30.jpg","caption":"Trakų salos pilies bokštas ir Lietuvos istorinė vėliava.","originalTitle":"Trakai Island 30.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"© Scotch Mist / Wikimedia Commons / CC BY-SA 4.0","dateDisplay":"Taken on 6 June 2018, 09:22:43","dateStart":null,"dateEnd":null,"width":3760,"height":5650,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrakai_Island_30.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Trakai_Island_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Trakai_Island_30.jpg/1920px-Trakai_Island_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Trakai_Island_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vėliava","label":"vėliava","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Exterior of the outer bailey of Trakai Island Castle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuania photographs taken on 2018-06-06","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality Images by Scotch Mist","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Towers in Lithuania","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:31:46.610223+03:00","reviewedAt":"2026-08-11T00:49:48.123656+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas raudonų plytų vartų bokštas, apvalus gynybinis bokštas, pilies siena ir raudona istorinė vėliava.","metadataEvidence":"Pavadinimas „Trakai Island 30.jpg“ bei aprašas tiesiogiai nurodo Trakų salos pilį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Trakų pilies architektūrą.","isPrimary":0},{"mediaId":"m-ddf458845f1d43b900a18954","title":"28.05.19 Trakai EJ575-009 (47961490402).jpg","caption":"Trakų geležinkelio stotis ir traukinys.","originalTitle":"28.05.19 Trakai EJ575-009 (47961490402).jpg","creator":"Phil Richards from London, UK","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.0","attribution":"28.05.19 Trakai EJ575-009","dateDisplay":"2019-05-28 12:08","dateStart":null,"dateEnd":null,"width":5607,"height":3373,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/72/28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg/1920px-28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/72/28.05.19_Trakai_EJ575-009_%2847961490402%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.82},{"code":"transportas","label":"transportas","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"2019 in rail transport in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"LG Class 575","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Trains at Trakai train station","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vilnius–Trakai train","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Trakai.md","title":"Trakai","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T12:31:46.448008+03:00","reviewedAt":"2026-08-11T00:49:48.086810+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Ant pastato aiškiai matomas užrašas „TRAKAI“, matoma geležinkelio stotis ir traukinys.","metadataEvidence":"Pavadinime nurodyta Trakai, o aprašas tiksliai identifikuoja Trakų geležinkelio stotį.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne pilis ar miesto panorama, bet aiškiai pagrįstas kontekstinis Trakų vietos atvaizdas.","isPrimary":0}]'
+entity_id: ent-8b3075983719afb9a28bcc3b
+canonical_name: Trakai
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Trakai
+  - Trakuose
+  - Trakus
+  - Trakų
 sameAs: []
-canonical_biography: "1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis. Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį, Skirgaila liepos 20 d. įtikino jos įgulą pasiduoti. Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
+canonical_biography: '1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis. Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį, Skirgaila liepos 20 d. įtikino jos įgulą pasiduoti. Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Trakai","url":"https://lt.wikipedia.org/wiki/Trakai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Trakai - Wikipedia","url":"https://en.wikipedia.org/wiki/Trakai","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-18T19:51:33+00:00","source_checked_at":"2026-09-18T19:51:33+00:00","counts":{"relations":51,"gallery":31,"sources":14},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Su­ gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­ darė nemažai rūpesčių karaliui ir seimui. Jis buvo atgaben­ tas iš Vilniaus į seimą Brastoje 1505 metais, po to pasiųstas gyventi į Trakus. Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai ir Maskvos bojarinai, ir Vil­ niaus pilyje tuomet kildavęs didelis sujudimas.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-180601","evidence_id":"c-164247","origin":"internal"},"wiki":{"status":"published","source":{"title":"Trakai","url":"https://lt.wikipedia.org/wiki/Trakai","publisher":"Vikipedija","language":"lt","article_id":"1116","revision_id":"7869424","published_at":"2026-06-28T12:52:58Z","version_pk":"","content_hash":"1ddd2d50f38c749b3e4b3087d5ba3c549695a0b46001803a0d685aeafa5cd0c9","retrieved_at":"2026-09-18T19:43:17+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Trakai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"1116"}},"intro":"Trakai – miestas Vilniaus apskrityje, už 30 km į vakarus nuo Vilniaus centro. Trakų rajono savivaldybės ir seniūnijos centras, 3 seniūnaitijos (Naujasodžio, Pietinė ir Šiaurinė). Pietinėje Trakų dalyje veikia kultūros namai, Trakų rajono centrinė ligoninė ir poliklinika, paštas. Urbanistikos paminklas (nuo 1969 m.).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Trakai","url":"https://lt.wikipedia.org/wiki/Trakai","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Trakai"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"8c828f278ff3d77431c52305","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Trakų pilis buvo apsupta ežerų; pilį skalavo Galvės ežeras.","context":"Michał Baliński, remdamasis 1384 m. Vytauto privilegija, taip aprašo Trakus tuo metu, prieš Lietuvos krikštą.","support_ids":["t-180593","c-164208"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180593","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164208","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Gediminas trumpam buvo ją padaręs savo sos­ tinės pilimi, ir tik Kęstutis bei jo sū­ nus Vytautas išplėtė ir pritaikė nuo­ latinei buveinei, paversdami galingų kunigaikščių garbei derančia. Vieno­ je Vytauto privilegijoje, suteiktoje Trakams, rašytoje pod lita Bożeho na- roienia 1384, mca Augusta 23 dnia In- dykta, skaitome, kad Trakai jau tuo­ met, tai yra prieš krikščionybės įvedimą Lietuvoje, buvo ganėtinai svarbus Lietuvos miestas, kad ten jau būta krikščionių bažnyčių, ir kad už ežero, skalaujančio pilį, vadina­ mo Galve, buvęs kunigaikščio žvė­ rynas. 51 ## Puslapis 68 VILNIAUS MIESTO ISTORIJA I TOMAS nebūtų nuo tiesos nutolta, jeigu Vilnius, tokios palankios gamtos aplinkumoje…"}],"status":"published","conflict_status":"clear"},{"trait_id":"59f67b8e2654523b9d49ccfe","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Trakų pilis aprašoma kaip sena, galbūt dar prieš Gediminą buvusi gynybinė ir medžiotojų gyvenvietė.","context":"Michał Baliński pateikia šį vertinimą kaip prielaidą apie pilies kilmę.","support_ids":["t-199941","c-164212"],"source_refs":[{"kind":"internal_claim","claim_id":"t-199941","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164212","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Trakų pilis, reikia many­ ti, taip pat yra buvusi sena, galbūt dar prieš Gediminą, gynybinė ir me­ džiotojų gyvenvietė. Gediminas trumpam buvo ją padaręs savo sos­ tinės pilimi, ir tik Kęstutis bei jo sū­ nus Vytautas išplėtė ir pritaikė nuo­ latinei buveinei, paversdami galingų kunigaikščių garbei derančia. Vieno­ je Vytauto privilegijoje, suteiktoje Trakams, rašytoje pod lita Bożeho na- roienia 1384, mca Augusta 23 dnia In- dykta, skaitome, kad Trakai jau tuo­ met, tai yra prieš krikščionybės įvedimą Lietuvoje, buvo ganėtinai svarbus Lietuvos miestas, kad ten jau būta krikščionių bažnyčių, ir kad už ežero, skalaujančio pilį, vadina­ mo Galve, buvęs kunigaikščio žvė­ rynas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"83d79ef160bd56e07fcc0ed4","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Trakuose buvo pilis, kurią Kęstutis ir Vytautas išplėtė bei pritaikė nuolatinei buveinei.","context":"Michał Baliński aprašo Trakų pilies raidą iki ir po Gedimino laikotarpio.","support_ids":["t-199941","c-164212"],"source_refs":[{"kind":"internal_claim","claim_id":"t-199941","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164212","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Trakų pilis, reikia many­ ti, taip pat yra buvusi sena, galbūt dar prieš Gediminą, gynybinė ir me­ džiotojų gyvenvietė. Gediminas trumpam buvo ją padaręs savo sos­ tinės pilimi, ir tik Kęstutis bei jo sū­ nus Vytautas išplėtė ir pritaikė nuo­ latinei buveinei, paversdami galingų kunigaikščių garbei derančia. Vieno­ je Vytauto privilegijoje, suteiktoje Trakams, rašytoje pod lita Bożeho na- roienia 1384, mca Augusta 23 dnia In- dykta, skaitome, kad Trakai jau tuo­ met, tai yra prieš krikščionybės įvedimą Lietuvoje, buvo ganėtinai svarbus Lietuvos miestas, kad ten jau būta krikščionių bažnyčių, ir kad už ežero, skalaujančio pilį, vadina­ mo Galve, buvęs kunigaikščio žvė­ rynas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2d6b9e8c65a20767fd8e41b4","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Trakų salos pilies menėje buvo gotikiniai kryžminiai skliautai.","context":"Lietuvos istorijos autoriai Trakų salos pilį pateikia kaip gotikinės gynybinės architektūros pavyzdį Vytauto laikais.","support_ids":["t-193652","c-176321"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193652","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-176321","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis: net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an- gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke. Trakų salos pilies menė su gotikiniais kryžminiais skliautais rodo, kad gotika buvo atėjusi ir į gynybinę architektūrą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"589765d99e2aaad4b5c91980","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Trakuose buvo krikščionių bažnyčių.","context":"Michał Baliński, remdamasis 1384 m. Vytauto privilegija, nurodo, kad jų jau būta prieš Lietuvos krikštą.","support_ids":["t-180593","c-164208"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180593","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164208","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Gediminas trumpam buvo ją padaręs savo sos­ tinės pilimi, ir tik Kęstutis bei jo sū­ nus Vytautas išplėtė ir pritaikė nuo­ latinei buveinei, paversdami galingų kunigaikščių garbei derančia. Vieno­ je Vytauto privilegijoje, suteiktoje Trakams, rašytoje pod lita Bożeho na- roienia 1384, mca Augusta 23 dnia In- dykta, skaitome, kad Trakai jau tuo­ met, tai yra prieš krikščionybės įvedimą Lietuvoje, buvo ganėtinai svarbus Lietuvos miestas, kad ten jau būta krikščionių bažnyčių, ir kad už ežero, skalaujančio pilį, vadina­ mo Galve, buvęs kunigaikščio žvė­ rynas. 51 ## Puslapis 68 VILNIAUS MIESTO ISTORIJA I TOMAS nebūtų nuo tiesos nutolta, jeigu Vilnius, tokios palankios gamtos aplinkumoje…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"75347e57df433430dc77c3ea","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Už Galvės ežero, skalaujančio pilį, buvo kunigaikščio žvėrynas.","context":"Michał Baliński šią infrastruktūrą mini 1384 m. Vytauto privilegijos aprašyme.","support_ids":["t-180593","c-164208"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180593","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164208","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Gediminas trumpam buvo ją padaręs savo sos­ tinės pilimi, ir tik Kęstutis bei jo sū­ nus Vytautas išplėtė ir pritaikė nuo­ latinei buveinei, paversdami galingų kunigaikščių garbei derančia. Vieno­ je Vytauto privilegijoje, suteiktoje Trakams, rašytoje pod lita Bożeho na- roienia 1384, mca Augusta 23 dnia In- dykta, skaitome, kad Trakai jau tuo­ met, tai yra prieš krikščionybės įvedimą Lietuvoje, buvo ganėtinai svarbus Lietuvos miestas, kad ten jau būta krikščionių bažnyčių, ir kad už ežero, skalaujančio pilį, vadina­ mo Galve, buvęs kunigaikščio žvė­ rynas. 51 ## Puslapis 68 VILNIAUS MIESTO ISTORIJA I TOMAS nebūtų nuo tiesos nutolta, jeigu Vilnius, tokios palankios gamtos aplinkumoje…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c9eda5a6025c02c18ebbf0d2","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Vytauto laikais Trakuose buvo pastatyta arba perstatyta mūrinė pilis.","context":"Lietuvos istorijos autoriai Trakus įtraukia į Vytauto laikais statytų ar perstatytų mūrinių pilių sąrašą.","support_ids":["t-193652","c-176321"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193652","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-176321","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis: net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an- gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke. Trakų salos pilies menė su gotikiniais kryžminiais skliautais rodo, kad gotika buvo atėjusi ir į gynybinę architektūrą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e90d4924e7b5cd122c017b87","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Nuo 1400 m. ištisą šimtmetį Trakuose Vytautas, Žygimantas ir Kazimieras svarstė svarbiausius Lietuvos valstybės reikalus.","context":"Michał Baliński taip aprašo Trakų vaidmenį valdovų veikloje; Vilnius tuo metu liko Didžiosios Kunigaikštystės sostine.","support_ids":["t-180592","c-164204"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180592","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164204","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Trumpas Aleksandro valdymas, gana nesėkmingas Lie­ tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių, jos sostinei tam tikru atžvilgiu buvo naudingas. Beveik visą amžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­ nėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­ puolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai, ežerų apsuptai Trakų piliai. Nuo 1400 metų, ištisą šimtmetį, Trakuose Vytautas, Žygimantas ir Kazimieras svarstė lem- tingiausius Lietuvos reikalus ir ten sprendė plačios savo vals­ tybės reikalus, nors Vilnius visada buvo Didžiosios Kuni­ gaikštystės sostinė."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ec472f4998913b81661fa819","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Trakai buvo svarbus Lietuvos miestas.","context":"Michał Baliński, remdamasis 1384 m. Vytauto privilegija, taip apibūdina Trakus prieš Lietuvos krikštą.","support_ids":["t-203501","c-164212"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203501","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164212","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Trakų pilis, reikia many­ ti, taip pat yra buvusi sena, galbūt dar prieš Gediminą, gynybinė ir me­ džiotojų gyvenvietė. Gediminas trumpam buvo ją padaręs savo sos­ tinės pilimi, ir tik Kęstutis bei jo sū­ nus Vytautas išplėtė ir pritaikė nuo­ latinei buveinei, paversdami galingų kunigaikščių garbei derančia. Vieno­ je Vytauto privilegijoje, suteiktoje Trakams, rašytoje pod lita Bożeho na- roienia 1384, mca Augusta 23 dnia In- dykta, skaitome, kad Trakai jau tuo­ met, tai yra prieš krikščionybės įvedimą Lietuvoje, buvo ganėtinai svarbus Lietuvos miestas, kad ten jau būta krikščionių bažnyčių, ir kad už ežero, skalaujančio pilį, vadina­ mo Galve, buvęs kunigaikščio žvė­ rynas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a182b38531a89686337929c8","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Trakai buvo valdovo gyvenamoji ir rezidencinė vieta; 1430 m. didysis kunigaikštis paprastai gyvendavo didžiulėje Trakų pilyje.","context":"Michał Baliński tai nurodo aprašydamas 1430 m. Vytauto karūnacijai sukviestų valdovų ir pasiuntinių atvykimą.","support_ids":["t-180652","c-164214"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180652","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164214","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 metais), kur didysis kunigaikštis paprastai gyvendavo di­ džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­ gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­ vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­ nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos magistras, Mazovijos kunigaikščiai ir totorių chanai84."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a8df460a73d9d4236dceb167","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Per Trakus ėjo kelias į Vilnių iš Kauno pusės, per Žiežmarius ir Trakus.","context":"Zigmantas Kiaupa aprašo vėliau šaltinių paliudytą sausumos kelią ir pirklių bendravimą 1516 m.","support_ids":["t-201665","c-185012"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201665","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-185012","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Palei Nevėžį ir toliau į šiaurę, kirsdamas lietuviškąsias žemes, jau turėjo eiti vėliau šaltinių paliudytas kelias į Rygą. Tik kelias į Vilnių nutįso atokiau nuo Neries per Žiežmarius ir Trakus. Kauno, Vilniaus ir Tra- kų pirklių bendravimą, šį kartą sausumos keliais, parodo 1516 m."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Trakai – istorinis Lietuvos miestas ir valdovų rezidencija, ilgą laiką buvusi svarbi politinio gyvenimo vieta. 1384 m. Vytauto privilegijoje jie apibūdinti kaip reikšmingas Lietuvos miestas, kuriame jau veikė krikščionių bažnyčios, o už Galvės ežero buvo kunigaikščio žvėrynas. Nuo 1400 m. ištisą šimtmetį Trakuose Vytautas, Žygimantas ir Kazimieras svarstė svarbiausius valstybės reikalus, nors Lietuvos sostine liko Vilnius. 1430 m. į Trakus, kur didysis kunigaikštis paprastai gyvendavo didžiulėje pilyje, susirinko įvairių kraštų valdovai ir pasiuntiniai, pakviesti dalyvauti Vytauto karūnacijos sumanyme. Miestas išsiskyrė ir dramatiška istorija: 1440 m. balandį Trakų pilyje buvo nužudytas Žygimantas, o 1430 m. spalio 30 d. Trakuose mirė Vytautas, kurio palaikai vėliau iškilmingai palaidoti Vilniuje.","sentences":[{"sentence_id":"s1","text":"Trakai – istorinis Lietuvos miestas ir valdovų rezidencija, ilgą laiką buvusi svarbi politinio gyvenimo vieta.","support_ids":["t-180593","t-180592"]},{"sentence_id":"s2","text":"1384 m. Vytauto privilegijoje jie apibūdinti kaip reikšmingas Lietuvos miestas, kuriame jau veikė krikščionių bažnyčios, o už Galvės ežero buvo kunigaikščio žvėrynas.","support_ids":["t-180593","c-164208"]},{"sentence_id":"s3","text":"Nuo 1400 m. ištisą šimtmetį Trakuose Vytautas, Žygimantas ir Kazimieras svarstė svarbiausius valstybės reikalus, nors Lietuvos sostine liko Vilnius.","support_ids":["t-180592","c-164204"]},{"sentence_id":"s4","text":"1430 m. į Trakus, kur didysis kunigaikštis paprastai gyvendavo didžiulėje pilyje, susirinko įvairių kraštų valdovai ir pasiuntiniai, pakviesti dalyvauti Vytauto karūnacijos sumanyme.","support_ids":["t-199892","c-164214"]},{"sentence_id":"s5","text":"Miestas išsiskyrė ir dramatiška istorija: 1440 m. balandį Trakų pilyje buvo nužudytas Žygimantas, o 1430 m. spalio 30 d. Trakuose mirė Vytautas, kurio palaikai vėliau iškilmingai palaidoti Vilniuje.","support_ids":["t-180633","c-164259","t-199899","c-164207"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai tiesiogiai pagrindžia Trakų, kaip svarbaus miesto ir valdovų rezidencijos bei politinių reikalų svarstymo vietos, statusą."},{"sentence_id":"s2","supported":true,"reason":"1384 m. privilegijos aprašymas tiesiogiai nurodo Trakų svarbą, krikščionių bažnyčias ir žvėryną už Galvės ežero."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo laikotarpį nuo 1400 m., Vytautą, Žygimantą ir Kazimierą, valstybės reikalų svarstymą Trakuose bei Vilniaus sostinės statusą."},{"sentence_id":"s4","supported":true,"reason":"1430 m. į Trakus ir Vilnių atvykusius valdovus bei pasiuntinius ir jų sąsają su Vytauto karūnacijos sumanymu tiesiogiai patvirtina šaltinis."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Žygimanto nužudymą Trakų pilyje 1440 m. balandį ir Vytauto mirtį Trakuose 1430 m. spalio 30 d. bei palaidojimą Vilniuje."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-180593","t-180592"]},{"sentence_id":"s2","supported":true,"support_ids":["t-180593","c-164208"]},{"sentence_id":"s3","supported":true,"support_ids":["t-180592","c-164204"]},{"sentence_id":"s4","supported":true,"support_ids":["t-199892","c-164214"]},{"sentence_id":"s5","supported":true,"support_ids":["t-180633","c-164259","t-199899","c-164207"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":true,"generation_error":""},"portrait":{"media_id":"m-8a8cbb7fc4225b6d4c59b618","reason":"deterministic_media_primary","identity_verified":false,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-679d40a4c6658524704578c5","relation_type":"depicts"},{"media_id":"m-9814531d210034d8a7e90861","relation_type":"depicts"},{"media_id":"m-1a72a76a8c066f10687c0b55","relation_type":"depicts"}],"media_verification":{"status":"not_required","primary_media_id":"m-8a8cbb7fc4225b6d4c59b618","candidate_count":31,"visual_verified_count":31,"identity_verified_count":0,"primary":{"visual_verified":true,"identity_verified":false,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Aiškus istorinis konkrečios Trakų pilies atvaizdas.","visual_evidence":"Matoma pilis saloje, apsupta vandens, su būdingais bokštais ir mūrais.","metadata_evidence":"Pavadinimas aiškiai nurodo „Trakai Island Castle“, aprašas nurodo Lietuvą, autorius Napoleon Orda, XIX a.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-86741","confidence":0.94},{"predicate":"apgule","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-100044","confidence":0.88},{"predicate":"apgule","direction":"inbound","target":"objektai/grupes/Vytauto šalininkai","claim_id":"t-86741","confidence":0.94},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-180664","confidence":0.82},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176729","confidence":0.87},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Kazimieras Jogailaitis","claim_id":"t-180609","confidence":0.82},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-180603","confidence":0.95},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Ona (Vytauto žmona)","claim_id":"t-87923","confidence":0.74},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-179670","confidence":0.84},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-180673","confidence":0.88},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Šach Achmedas","claim_id":"t-176960","confidence":0.95},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Karaimai","claim_id":"t-120184","confidence":0.84},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-32754","confidence":0.82},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Trakų žydai","claim_id":"t-117386","confidence":0.7},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Žydai","claim_id":"t-180597","confidence":0.84},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-123010","confidence":0.75},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Snorro Sturleson","claim_id":"t-87576","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vasilijus Vasiljevičius","claim_id":"t-177753","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-66992","confidence":0.93},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Žygimantas Kęstutaitis","claim_id":"t-114105","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-176121","confidence":0.84},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Maskvos kunigaikštystė","claim_id":"t-92735","confidence":0.62},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Mazovijos kunigaikščiai","claim_id":"t-180652","confidence":0.84},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-180652","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Tverės ir Riazanės kunigaikščiai","claim_id":"t-180652","confidence":0.86},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-180614","confidence":0.98},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Žygimantas","claim_id":"t-180617","confidence":0.9},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-10689","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Belskas","claim_id":"t-36155","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kamiencas","claim_id":"t-36263","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kamienecas","claim_id":"t-36264","confidence":0.82},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-179982","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-184862","confidence":0.91},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-35908","confidence":0.82},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-184676","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-185160","confidence":0.82},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-100044","confidence":0.62},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Vladislovas Jogaila","claim_id":"t-173225","confidence":0.66},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-185160","confidence":0.86},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Žygimantas","claim_id":"t-176950","confidence":0.9},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Kazokai","claim_id":"t-180661","confidence":0.78},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-180661","confidence":0.78},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-180328","confidence":0.9},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Totorių pajėgos","claim_id":"t-114163","confidence":0.95},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-112051","confidence":0.82},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-180584","confidence":0.84},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-179647","confidence":0.9},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176729","confidence":0.82},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Žygimantas Kęstutaitis","claim_id":"t-114103","confidence":0.7},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-176959","confidence":0.84},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-35996","confidence":0.74}],"timeline":[{"date":"1379 m.","label":"1379 m.","claimId":"t-180607"},{"date":"1379 m.","label":"1379 m.","claimId":"t-199924"},{"date":"1383 m.","label":"Zenonas Ivinskis rašo, kad 1383 m.","claimId":"t-203028"},{"date":"1384 m.","label":"1384 m.","claimId":"t-180593"},{"date":"1384 m.","label":"1384 m.","claimId":"t-180610"},{"date":"1384 m.","label":"1384 m.","claimId":"t-199941"},{"date":"1384 m.","label":"Michał Baliński teigimu, 1384 m.","claimId":"t-203501"},{"date":"1412 m.","label":"1412 m.","claimId":"t-199880"}],"support_disclosure":{"claims":90,"sources":12}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 19a78b23d59a4a61
+object_page_generated_at: '2026-09-18T19:51:33+00:00'
+object_page_source_checked_at: '2026-09-18T19:51:33+00:00'
+object_page_content_state: content
+object_page_claim_count: '90'
+object_page_source_count: '12'
+object_page_seo_description: 'Trakai – istorinis Lietuvos miestas ir valdovų rezidencija, ilgą laiką buvusi svarbi politinio gyvenimo vieta. 1384 m. Vytauto privilegijoje jie apibūdinti…'
+object_page_seo_input_hash: af0c8d618ec5c5eab1b207f3f0a10bfb8dc291d3a88bb3fbb6a859dbe0a9210e
+object_page_seo_generated_at: '2026-09-18T19:51:33+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Trakai
 
@@ -56,6 +70,672 @@ historical_names: []
 1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis. Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį, Skirgaila liepos 20 d. įtikino jos įgulą pasiduoti. Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
 
 ## Teiginiai
+
+<a id="claim-t-10580"></a>
+- t-001
+  teiginys: "Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatinis ir paremtas citata."
+  susije_objektai: "mentioned_place: Aukštadvaris; mentioned_place: Jieznas; mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-185984
+    - c-164198
+    - c-182837
+
+<a id="claim-t-180584"></a>
+- t-002
+  teiginys: "1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vilniaus pilis: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilniaus pilis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Kęstutį kaip veikėją, kuris užpuola Vilniaus pilis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė Vilniaus pilis (0.86); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė miestą Trakai (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-164210
+    - c-164255
+
+<a id="claim-t-180586"></a>
+- t-003
+  teiginys: "Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164246
+
+<a id="claim-t-180587"></a>
+- t-004
+  teiginys: "Gediminas Galvės ežero pusiasalyje pastatė Trakų pilį, kuri ilgą laiką buvo laikoma antrąja Lietuvos sostine."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164196
+
+<a id="claim-t-180589"></a>
+- t-005
+  teiginys: "Pasakojime Gediminas po Trakų pilies įkūrimo medžiojo apylinkėse ir pasiekė Šventaragio slėnį už keturių mylių nuo Trakų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-164190
+    - c-182831
+
+<a id="claim-t-180590"></a>
+- t-006
+  teiginys: "Algirdas valdė Vilniuje, o Kęstutis - Trakuose."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164233
+    - c-164228
+
+<a id="claim-t-180591"></a>
+- t-007
+  teiginys: "Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-164251
+
+<a id="claim-t-180592"></a>
+- t-008
+  teiginys: "Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos reikalus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: po 1400 m.; įvykio data: 1400 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas citata apie Trakus."
+  pagrindžia:
+    - c-164204
+    - c-182847
+
+<a id="claim-t-180593"></a>
+- t-009
+  teiginys: "1384 m. Vytauto privilegijoje Trakai apibūdinti kaip svarbus Lietuvos miestas, kuriame jau būta krikščionių bažnyčių."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė tiesiogiai apibūdina Trakus kaip Lietuvos miestą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Trakai priklausė Lietuva (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktus apie Trakus."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164208
+
+<a id="claim-t-180601"></a>
+- t-010
+  teiginys: "1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o paskui pasiųstas gyventi į Trakus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Šach Achmedas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Šach Achmedas pasiųstas gyventi į Trakus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Šach Achmedas gyveno Trakai (0.94); Šach Achmedas keliavo į Brasta (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1505 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktus."
+  pagrindžia:
+    - c-164247
+    - c-182816
+
+<a id="claim-t-180602"></a>
+- t-011
+  teiginys: "Mykolas žadėjo paklusti Kazimierui ir prašė, kad jam būtų palikti Trakai bei nubausti tėvo žudikai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-164249
+    - c-182866
+
+<a id="claim-t-180603"></a>
+- t-012
+  teiginys: "Jogaila Kęstutį laikė artimiausiu varžovu, nes šis gyveno Trakuose, todėl pirmiausia siekė juo atsikratyti."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Kęstutis gyveno Trakuose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno Trakai (0.95)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-164189
+
+<a id="claim-t-180605"></a>
+- t-013
+  teiginys: "1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir vaško dirbtuvės laisvę."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas citata."
+  pagrindžia:
+    - c-164200
+
+<a id="claim-t-180607"></a>
+- t-014
+  teiginys: "1379 m. rugsėjo 29 d. po trijų dienų sunkių derybų Trakuose buvo pasirašyta sutartis."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "sutarties data: 1379 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-164230
+    - c-182812
+
+<a id="claim-t-180608"></a>
+- t-015
+  teiginys: "Pasak Strijkovskio ir Kojelavičiaus, po Trakų pilies įkūrimo Gediminas medžiojo aplinkinėse giriose."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-164190
+    - c-182831
+
+<a id="claim-t-180609"></a>
+- t-016
+  teiginys: "Kazimieras Jogailaitis Vilniuje negyveno nuolat, nes Trakų pilyse turėjo ištaigingesnę buveinę."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys aiškina, kad Kazimieras turėjo buveinę Trakų pilyse, todėl ryšys su gyvenamąja vieta yra tiesiogiai pagrįstas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Kazimieras Jogailaitis gyveno Trakai (0.82)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164187
+
+<a id="claim-t-180610"></a>
+- t-017
+  teiginys: "1384 m. Vytauto privilegija rodo, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata Trakus tiesiogiai vadina svarbiu Lietuvos miestu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Trakai priklausė Lietuva (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis sakinys nutrūkęs ir turi šaltinio fragmentų."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164208
+
+<a id="claim-t-180614"></a>
+- t-018
+  teiginys: "Vytautas mirė 1430 m. spalio 30 d. Trakuose, o jo palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Trakai: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto mirties vietą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) mirė Trakai (0.98)"
+  temporaliniai_duomenys: "įvykio data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo per ilgas ir turėjo neaiškų įvardį."
+  pagrindžia:
+    - c-164207
+    - c-186146
+
+<a id="claim-t-180615"></a>
+- t-019
+  teiginys: "Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1436 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir paremtas citata."
+  pagrindžia:
+    - c-164185
+    - c-164238
+
+<a id="claim-t-180616"></a>
+- t-020
+  teiginys: "Trakų vardo kildinimas iš lenkiško žodžio trok atmestas, teigiant, kad miesto vardas turėtų būti lietuviškas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=97"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-164227
+    - c-182820
+
+<a id="claim-t-180618"></a>
+- t-021
+  teiginys: "Vytautas mirė 1430 m. spalio 30 d. Trakuose, o jo palaikai buvo iškilmingai palaidoti Vilniuje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Trakai: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto mirties vietą Trakuose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) mirė Trakai (0.98)"
+  temporaliniai_duomenys: "įvykio data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-164207
+    - c-182827
+
+<a id="claim-t-180619"></a>
+- t-022
+  teiginys: "Prūsijos istorikai nurodė, kad kariai tarp Trakų ir Vilniaus buvo sustoję ant dviejų priešpriešinių kalnų."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-164257
+
+<a id="claim-t-180621"></a>
+- t-023
+  teiginys: "Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos valstybės reikalus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: po 1400 m.; įvykio data: 1400 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys atitinka citatą ir yra apie Trakus."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164204
+    - c-182847
+
+<a id="claim-t-180622"></a>
+- t-024
+  teiginys: "Jogaila siekė pirmiausia pašalinti Trakuose gyvenusį Kęstutį, nes šis trukdė jo valdžios planams."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai pasako, kad Kęstutis gyveno Trakuose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno Trakai (0.95)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164189
+
+<a id="claim-t-180623"></a>
+- t-025
+  teiginys: "Jogaila atleido Vytautui ir jo šalininkams, paėmė ištikimybės priesaiką ir grąžino Vytautui Trakus bei Gardiną."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164256
+    - c-182857
+
+<a id="claim-t-180624"></a>
+- t-026
+  teiginys: "Karūnacijos iškilmių metu Jogaila su palydovais vyko iš Vilniaus į Trakus."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-164222
+
+<a id="claim-t-180628"></a>
+- t-027
+  teiginys: "Žygimantas Kęstutaitis, sutelkęs lietuvių pajėgas ir gavęs Vladislovo Jogailaičio pagalbą, žygiavo į Trakus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys per ilgas ir stilistiškai sunkus, citata leidžia suformuluoti glaustesnį sakinį."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164188
+    - c-182826
+
+<a id="claim-t-180630"></a>
+- t-028
+  teiginys: "Prie Trakų Kęstutis rado savo sūnų Vytautą, atsivedusį kariuomenės būrį iš Gardino."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Kęstučio atvykimą prie Trakų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.86)"
+  pagrindžia:
+    - c-164219
+    - c-182804
+
+<a id="claim-t-180631"></a>
+- t-029
+  teiginys: "Prie Trakų atvykęs Kęstutis rado Vytautą, atsivedusį kariuomenės būrį iš Gardino."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Kęstutis atvyko prie Trakų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.92)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-37760
+    - c-182804
+
+<a id="claim-t-180633"></a>
+- t-030
+  teiginys: "Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Trakai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas nužudytas Trakų pilyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminiame teiginyje įvardis „jis“ gali būti dviprasmis."
+  pagrindžia:
+    - c-164259
+
+<a id="claim-t-180634"></a>
+- t-031
+  teiginys: "Ostrovo taikos metu Jogaila grąžino Vytautui Trakus, Gardiną ir kitas žemes."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-164256
+
+<a id="claim-t-180637"></a>
+- t-032
+  teiginys: "Trakų žydai prašė patvirtinti Aleksandro, arba Vytauto, suteiktas teises, laisves ir privilegijas."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Trakų žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Trakų žydus kaip žydus iš Trakų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Trakų žydai gyveno Trakai (0.92); Žydai gyveno Trakai (0.90)"
+  pagrindžia:
+    - c-164193
+    - c-182859
+
+<a id="claim-t-180639"></a>
+- t-033
+  teiginys: "Balińskis manė, kad Trakų pilis galėjo būti sena gynybinė ir medžiotojų gyvenvietė dar prieš Gediminą."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakų pilis (pilis): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakų pilis (pilis): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Trakų pilis (pilis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164232
+
+<a id="claim-t-180642"></a>
+- t-034
+  teiginys: "Švitrigaila daug kartų puolė Žygimantą ir kartą pasiekė Vilnių bei Trakus, tačiau nieko nelaimėjo."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164203
+    - c-182823
+
+<a id="claim-t-180643"></a>
+- t-035
+  teiginys: "Žygimantas Kęstutaitis, gavęs pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiau remia žygį į Trakus negu planą pulti visa kryptimi."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-164188
+    - c-182826
+
+<a id="claim-t-180647"></a>
+- t-036
+  teiginys: "Islandų keliautojas Snorro prie Vilniaus, Trakų ir kitų miestų rado savo genties naujakurių ir suprato jų kalbą."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata sieja normanus su seniausių gyvenviečių kūrimu Lietuvoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Normanai gyveno Lietuva (0.72); Skandinavai gyveno Lietuva (0.62)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-164252
 
 <a id="claim-t-180648"></a>
 - t-037
@@ -75,7 +755,220 @@ historical_names: []
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-164215
-    - c-182833
+
+<a id="claim-t-180652"></a>
+- t-038
+  teiginys: "1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatos sąraše Tverės ir Riazanės kunigaikščiai nurodyti kaip atvykę į Trakus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Tverės ir Riazanės kunigaikščiai keliavo į Trakai (0.86); Tverės ir Riazanės kunigaikščiai keliavo į Vilnius (0.86); Mazovijos kunigaikščiai keliavo į Trakai (0.84); Mazovijos kunigaikščiai keliavo į Vilnius (0.84); Totoriai keliavo į Trakai (0.78)"
+  temporaliniai_duomenys: "kelionės data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164214
+    - c-186147
+
+<a id="claim-t-180653"></a>
+- t-039
+  teiginys: "Apie 1432 m. rugpjūčio 28 d. Žygimantas užėmė Vilnių ir Trakus."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1432 m.; įvykio data: apie 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-164197
+
+<a id="claim-t-180656"></a>
+- t-040
+  teiginys: "1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ašmena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1432 m.; įvykio data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio ir antraštės triukšmas, paliktas citata paremtas faktas."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-164199
+
+<a id="claim-t-180657"></a>
+- t-041
+  teiginys: "Vytauto laikais Trakų žemėje buvo gausu dvarų ir ūkio centrų, nes ji buvo labiau apgyventa ir arčiau valdovo būstinės."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata Trakų žemę įvardija kaip esančią pačioje Lietuvoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Trakai priklausė Lietuva (0.82); Vilnius priklausė Lietuva (0.82)"
+  pagrindžia:
+    - c-25149
+
+<a id="claim-t-180660"></a>
+- t-042
+  teiginys: "1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams, o Žygimantas Senasis ją patvirtino 1507 m. Melnikuose."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Melnikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Melnikas: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Melnikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1507 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas antraštės ir puslapio triukšmas; citata pagrindžia dokumento faktą apie Trakus."
+  pagrindžia:
+    - c-164201
+    - c-186145
+
+<a id="claim-t-180661"></a>
+- t-043
+  teiginys: "1655 m. rugpjūčio 7 d. rusams ir kazokams užėmus Vilnių, netrukus buvo užimti Trakai ir Kaunas."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Lietuva: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusijos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Rusijos kariuomenė tiesiogiai įvardyta kaip užėmusi Minską, tačiau Minskas nėra leidžiamas kandidatas; kito tikslaus objekto šiam veiksmui nėra."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Rusijos kariuomenė užėmė Lietuva (0.88); Rusai užėmė Trakai (0.78); Kazokai užėmė Trakai (0.78); Rusai užėmė Kaunas (0.78); Kazokai užėmė Kaunas (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1654-1655; įvykio data: 1655 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta taip, kad Trakų užėmimas būtų aiškus faktas."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164261
+    - c-182815
+
+<a id="claim-t-180664"></a>
+- t-044
+  teiginys: "1377 m. birželį Ordino kariuomenė sudegino Trakų miestą, bet dėl Kęstučio gynybos nepajėgė užimti pilių."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Trakai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata Trakų miesto ir pilių epizodą tiesiogiai sieja su Kęstučio gynyba."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gynė Trakai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1377 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis sakinys prasideda kontekstiniu fragmentu."
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-164215
+
+<a id="claim-t-180665"></a>
+- t-045
+  teiginys: "Algirdas valdė Lietuvą iš Vilniaus, o Kęstutis valdė iš Trakų."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-164233
+    - c-164228
+
+<a id="claim-t-180669"></a>
+- t-046
+  teiginys: "Žygimantas po nesėkmingo įsiveržimo į Švitrigailos dvarą tuojau užėmė Vilnių ir Trakus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-164197
+    - c-182841
+
+<a id="claim-t-180670"></a>
+- t-047
+  teiginys: "1505 m. Vilniaus miesto sienoje buvo nurodyta palikti vartus prie kelio į Trakus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Išganytojo (Spaso) bažnyčia Vilniuje: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Išganytojo (Spaso) bažnyčia Vilniuje: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Išganytojo (Spaso) bažnyčia Vilniuje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1505 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko siauresnį faktą, bet pradinis teiginys nutrūkęs."
+  pagrindžia:
+    - c-164243
+
+<a id="claim-t-180674"></a>
+- t-048
+  teiginys: "1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tverės ir Riazanės kunigaikščiai yra įtraukti į atvykusiųjų į Trakus sąrašą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Tverės ir Riazanės kunigaikščiai keliavo į Trakai (0.86); Tverės ir Riazanės kunigaikščiai keliavo į Vilnius (0.86); Mazovijos kunigaikščiai keliavo į Trakai (0.82); Mazovijos kunigaikščiai keliavo į Vilnius (0.82); Totoriai keliavo į Trakai (0.76)"
+  temporaliniai_duomenys: "kelionės data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinė formuluotė nutrūkusi."
+  pagrindžia:
+    - c-164214
 
 <a id="claim-t-185159"></a>
 - t-049
@@ -96,6 +989,391 @@ historical_names: []
   pagrindžia:
     - c-168520
 
+<a id="claim-t-185160"></a>
+- t-050
+  teiginys: "Vytautas su žemaičiais ir Kojelavičiaus vadinamas Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Trakai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pasidavęs miestas ir pilys reiškia Vytauto pusės užėmimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Trakai (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Trakai (0.82)"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-168521
+
+<a id="claim-t-185161"></a>
+- t-051
+  teiginys: "Žymiausieji Lietuvos didikai skubiai pasitraukė į Trakus, palikę Jogailą ir valstybės reikalus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168522
+
+<a id="claim-t-185163"></a>
+- t-052
+  teiginys: "Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Šich Achmetas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Šich Achmetas buvo atvežtas į Trakus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Šich Achmetas keliavo į Trakai (0.88); Šich Achmetas gyveno Trakai (0.72)"
+  pagrindžia:
+    - c-168524
+
+<a id="claim-t-187663"></a>
+- t-053
+  teiginys: "Vytauto pasakojime Jogaila be Kęstučio žinios užėmė Trakus, kai Kęstutis buvo grįžęs iš karo žygio."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-170605
+    - c-182850
+
+<a id="claim-t-193651"></a>
+- t-054
+  teiginys: "Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176320
+    - c-182855
+
+<a id="claim-t-193652"></a>
+- t-055
+  teiginys: "Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176321
+    - c-182835
+
+<a id="claim-t-199861"></a>
+- t-056
+  teiginys: "Rugpjūčio 3 d. Kęstučiui su Vytautu ir Liubartu atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "llm_object: Trakai; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]"
+  semantiniai_rysiai: "[[objektai/asmenys/Kęstutis|Kęstutis]] keliavo į Trakai; [[objektai/asmenys/Liubartas|Liubartas]] keliavo į Trakai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-182834
+
+<a id="claim-t-199862"></a>
+- t-057
+  teiginys: "1412 m. per Kalėdas Makra jau buvo pas Vytautą jo puošnioje salos pilyje Trakuose."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salos; mentioned_place: Vilnius"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Trakai; [[objektai/asmenys/Jogaila|Jogaila]] keliavo į Trakai"
+  temporaliniai_duomenys: "įvykio data: 1412 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-32475
+
+<a id="claim-t-199878"></a>
+- t-058
+  teiginys: "Kęstučiui ir Vytautui rugpjūčio 3 d. atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys paremtas, bet reikia pašalinti perteklinę ir OCR pažeistą dalį."
+  susije_objektai: "mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-182834
+
+<a id="claim-t-199879"></a>
+- t-059
+  teiginys: "1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Melnike ją patvirtino Žygimantas Senasis."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Melnikas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1507 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-182856
+
+<a id="claim-t-199880"></a>
+- t-060
+  teiginys: "1412 m. per Kalėdas Makra buvo pas Vytautą jo puošnioje salos pilyje Trakuose."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys paremtas, bet reikia sutrumpinti ir pašalinti perteklinį kelionės kontekstą."
+  susije_objektai: "mentioned_place: Marienburgas; mentioned_place: Ragainė; mentioned_place: Salos"
+  temporaliniai_duomenys: "įvykio data: 1412 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas, bet reikia sutrumpinti ir pašalinti perteklinį kelionės kontekstą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-32475
+
+<a id="claim-t-199887"></a>
+- t-061
+  teiginys: "Ežerų apsupta Trakų pilis buvo minima kaip vienintelė didžiojo kunigaikščio buveinė ir sostinė."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys gramatiškas ir tiksliai remiasi citata."
+  susije_objektai: "mentioned_place: Trakų pilis; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-182863
+
+<a id="claim-t-199890"></a>
+- t-062
+  teiginys: "Vytautas atgausimus Trakus, Gardiną ir kitas žemes turėjo valdyti kaip Ordino vasalas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Perrašyta sklandesniu ir aiškesniu sakiniu."
+  susije_objektai: "llm_object: Gardinas; llm_object: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gardinas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Livonija"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] valdė miestą Trakai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-182836
+
+<a id="claim-t-199893"></a>
+- t-063
+  teiginys: "XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle penkių mylių atstumu nuo Kernavės."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Trakai"
+  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] pastatė Trakai"
+  ryšio_patikimumas: "mire -> Trakai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas nužudytas Trakų pilyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-182862
+
+<a id="claim-t-199896"></a>
+- t-064
+  teiginys: "Kęstutis valdė Trakus ir Žemaičių žemę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys jau yra aiškus lietuviškas sakinys su subjektu ir predikatu. Citata tiesiogiai sieja Kęstutį su Trakų valdymu, papildomų faktų nepridėta."
+  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]"
+  semantiniai_rysiai: "[[objektai/asmenys/Kęstutis|Kęstutis]] valdė miestą Trakai"
+  ryšio_patikimumas: "valde_miesta -> Trakai: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Kęstutis valdė Trakus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-182819
+
+<a id="claim-t-199904"></a>
+- t-065
+  teiginys: "To žygio metu paimti karaimai, kaip spėjama, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "llm_object: Luckas; llm_object: Trakai; mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_place: Dniepras; mentioned_place: Luckas"
+  semantiniai_rysiai: "[[objektai/grupes/Karaimai|Karaimai]] gyveno Trakai"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatos sąraše Tverės ir Riazanės kunigaikščiai nurodyti kaip atvykę į Trakus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-182806
+
+<a id="claim-t-199905"></a>
+- t-066
+  teiginys: "Vytautas su magistru Zollneriu, surinkęs Žemaičiuose gausų kovotojų būrį, traukė prie Skirgailos valdomų Trakų."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Perrašyta aiškiau, išplečiant Kęstutaičio nuorodą į Vytautą."
+  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
+  semantiniai_rysiai: "[[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Trakai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-186148
+
+<a id="claim-t-199906"></a>
+- t-067
+  teiginys: "Po 1397 m. žygio Vytautas totorių belaisvius ir pabėgėlius įkurdino Trakų kunigaikštijoje."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys paremtas, bet sutrumpintinas ir aiškintinas kaip faktas apie Trakus."
+  susije_objektai: "llm_object: Trakai; mentioned_group: [[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
+  semantiniai_rysiai: "[[objektai/grupes/Totoriai|Totoriai]] gyveno Trakai; [[objektai/asmenys/Vytautas|Vytautas]] siuntė į Trakai"
+  temporaliniai_duomenys: "įvykio data: po 1397 m.; įvykio data: 1397 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas, bet sutrumpintinas ir aiškintinas kaip faktas apie Trakus."
+  ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ašmena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-186149
+
+<a id="claim-t-199913"></a>
+- t-068
+  teiginys: "Kęstučio valdos, įskaitant dalį tikrosios Lietuvos su Trakais, dėl kaimynystės su kryžiuočiais nebuvo saugios."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir suformuluotas aiškus faktas apie Trakus."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Winrichas von Kniprodė|Winrichas von Kniprodė]]; mentioned_place: Gardinas; mentioned_place: Gardino žemė; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-182821
+
+<a id="claim-t-199916"></a>
+- t-069
+  teiginys: "Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį, Skirgaila liepos 20 d. įtikino jos įgulą pasiduoti."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]"
+  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Trakai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-32468
+
+<a id="claim-t-199918"></a>
+- t-070
+  teiginys: "Trakų pilis, apsupta ežerų, buvo didžiojo kunigaikščio buveinė ir sostinė."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys gramatiškas ir tiesiogiai remiasi citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata sieja normanus su seniausių gyvenviečių kūrimu Lietuvoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-182863
+
+<a id="claim-t-199920"></a>
+- t-071
+  teiginys: "XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle girioje."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Šaltinis remia metraščio pasakojimą, todėl reikia atribucijos ir glaustesnės formos."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-182862
+
+<a id="claim-t-199922"></a>
+- t-072
+  teiginys: "Atgautus Trakus, Gardiną ir kitas tėviškės žemes Vytautas turėjo valdyti kaip Ordino vasalas."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gardinas; mentioned_place: Gardino žemė; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva"
+  ryšio_patikimumas: "susije_su -> Melnikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Melnikas: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Melnikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-182836
+
 <a id="claim-t-199930"></a>
 - t-073
   teiginys: "1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės."
@@ -108,9 +1386,124 @@ historical_names: []
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
-    - c-164265
     - c-182825
-    - c-182870
+
+<a id="claim-t-199933"></a>
+- t-074
+  teiginys: "To žygio metu paimti karaimai, tikėtina, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir fragmentas perrašytas į pilną sakinį."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_place: Luckas; llm_object: Luckas; llm_object: Trakai"
+  semantiniai_rysiai: "[[objektai/grupes/Karaimai|Karaimai]] gyveno Trakai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-182806
+
+<a id="claim-t-199934"></a>
+- t-075
+  teiginys: "1377 m. Ordino maršalas buvo atvykęs prie Trakų ir, Wigando teigimu, kalbėjosi su Kęstučiu."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_object: [[objektai/zodynas/maršalas|maršalas]]"
+  temporaliniai_duomenys: "įvykio data: 1377 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-32467
+
+<a id="claim-t-199940"></a>
+- t-076
+  teiginys: "Trakai greitai buvo prarasti, kai Vytauto ir kryžiuočių įgula po 40 dienų apgulties pasidavė Jogailai ir Skirgailai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; llm_object: Trakai"
+  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] gynė Trakai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-32471
+
+<a id="claim-t-199946"></a>
+- t-077
+  teiginys: "Vytauto pasakojime senelis Kęstučiui skyrė valdžią Trakuose, Algirdui – Vitebske, o Jaunučiui – Vilniuje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Atribucija palikta, nes citata pateikiama kaip Vytauto pasakojimas apie valdžios paskirstymą. Nepridėta išvadų apie teisinį valdžios pobūdį."
+  susije_objektai: "llm_object: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
+  semantiniai_rysiai: "[[objektai/asmenys/Kęstutis|Kęstutis]] valdė miestą Trakai"
+  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-182808
+
+<a id="claim-t-199947"></a>
+- t-078
+  teiginys: "1383 m. Vytautas su magistru Zollneriu žygiavo prie Skirgailos valdytų Trakų, kurie jam greitai pasidavė."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
+  semantiniai_rysiai: "[[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Trakai; [[objektai/asmenys/Vytautas|Vytautas]] surengė žygį į Trakai"
+  temporaliniai_duomenys: "įvykio data: 1383 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-182810
+
+<a id="claim-t-201665"></a>
+- t-079
+  teiginys: "Tik kelias į Vilnių nutįso atokiau nuo Neries per Žiežmarius ir Trakus."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185012
+
+<a id="claim-t-203028"></a>
+- t-080
+  teiginys: "Zenonas Ivinskis rašo, kad 1383 m. rugpjūčio 12 d. Skirgailos valdyti Trakai greitai pasidavė Vytautui, nes Trakuose buvo jo šalininkų."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys paremtas, bet reikia aiškesnės sakinio struktūros."
+  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva"
+  semantiniai_rysiai: "[[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Trakai"
+  temporaliniai_duomenys: "įvykio data: 1383 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas, bet reikia aiškesnės sakinio struktūros."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-182810
+
+<a id="claim-t-203146"></a>
+- t-081
+  teiginys: "Michał Baliński teigimu, Trakuose Žygimanto sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pirminiame teiginyje įvardis „jis“ gali būti dviprasmis."
+  susije_objektai: "llm_object: Trakai; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Olelka|Olelka]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_place: Lietuva; mentioned_place: Mstislavlis; mentioned_place: Vilnius"
+  semantiniai_rysiai: "[[objektai/asmenys/Žygimantas|Žygimantas]] mirė Trakai"
+  temporaliniai_duomenys: "įvykio data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminiame teiginyje įvardis „jis“ gali būti dviprasmis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-164259
 
 <a id="claim-t-203165"></a>
 - t-082
@@ -137,6 +1530,75 @@ historical_names: []
   pagrindžia:
     - c-182843
 
+<a id="claim-t-203246"></a>
+- t-084
+  teiginys: "Michał Baliński rašo, kad Vytautas, būdamas Trakuose ir bijodamas išdavystės, norėjo ten išbūti dar dvylika savaičių."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] gyveno Trakai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-182861
+
+<a id="claim-t-203292"></a>
+- t-085
+  teiginys: "Michał Baliński rašo, kad islandų keliautojas Snorro prie Vilniaus, Trakų ir kitų miestų rado savo genties naujakurių ir suprato jų kalbą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata apie Trakus."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-164252
+
+<a id="claim-t-203325"></a>
+- t-086
+  teiginys: "Michał Baliński veikale „Vilniaus miesto istorija“ manė, kad Trakų pilis buvo sena, galbūt dar prieš Gediminą buvusi gynybinė ir medžiotojų gyvenvietė."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Trakų pilis; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-182814
+
+<a id="claim-t-203334"></a>
+- t-087
+  teiginys: "Michał Baliński teigimu, Jogaila pirmiausia siekė nusikratyti Trakuose gyvenusiu Kęstučiu, nes šis labiausiai trukdė jam siekti didelės valdžios."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata palaiko faktą, bet pradinis teiginys nutrūkęs."
+  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; mentioned_place: Vilnius"
+  semantiniai_rysiai: "[[objektai/asmenys/Kęstutis|Kęstutis]] gyveno Trakai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-182843
+
+<a id="claim-t-203387"></a>
+- t-088
+  teiginys: "Michał Baliński teigia, kad Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys aiškiai ir tiksliai perteikia citatos turinį."
+  susije_objektai: "mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-164185
+
+<a id="claim-t-203388"></a>
+- t-089
+  teiginys: "Veikale „Michał Baliński, Vilniaus miesto istorija“ rašoma, kad Kazimieras Jogailaitis pirmenybę teikė Lietuvai ir dažniausiai gyveno Trakuose arba Vilniuje."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys pilnas, aiškus ir paremtas citata."
+  susije_objektai: "mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lionas"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1436 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-182848
+
 <a id="claim-t-203409"></a>
 - t-090
   teiginys: "Karolio Zikaro sudarytame leidinyje „Žymiausi Lietuvos mūšiai ir karinės operacijos“, remiantis Lietuvos metraščio liudijimu, nurodoma, kad Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
@@ -147,1583 +1609,12 @@ historical_names: []
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-164246
     - c-182838
-
-<a id="claim-t-210568"></a>
-- t-210568
-  teiginys: "Gediminas įkūrė Trakus ir perkėlė į juos sostinę iš Kernavės."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-192971
-
-<a id="claim-t-210650"></a>
-- t-210650
-  teiginys: "Švitrigailos sąjungininkų kariuomenė prastovėjo ties Trakais keturias dienas."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194268
-
-<a id="claim-t-210914"></a>
-- t-210914
-  teiginys: "Didysis kunigaikštis Žygimantas, valdydamas Vilnių ir Trakus bei visas rusų, ir lietuvių, ir že maičių žemes, buvo nuožmus savo valdiniams."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193016
-
-<a id="claim-t-211220"></a>
-- t-211220
-  teiginys: "Žygimantas buvo nužudytas Trakų pilyje."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193002
-
-<a id="claim-t-211766"></a>
-- t-211766
-  teiginys: "Žemaičių vyskupyste buvo (Steigta Vytauto I417.X.24 d. ak tu, duotu Trakuose."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193877
-
-<a id="claim-t-216568"></a>
-- t-216568
-  teiginys: "1493 metų balandžio 6 dieną įrašė į Trakų žemės teismo aktus."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198340
-
-<a id="claim-t-217964"></a>
-- t-217964
-  teiginys: "Trakų apskrityje šventumas buvo pripažįstamas ne vie nam ežerui."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201080
-
-<a id="claim-t-199889"></a>
-- t-199889
-  teiginys: "1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams, o Žygimantas Senasis ją patvirtino 1507 m. Melnikuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pašalintas antraštės ir puslapio triukšmas; citata pagrindžia dokumento faktą apie Trakus."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Melnikas; mentioned_object: [[objektai/posakiai/Viešpaties vardu Amen|Viešpaties vardu Amen]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1507 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas antraštės ir puslapio triukšmas; citata pagrindžia dokumento faktą apie Trakus."
-  ryšio_patikimumas: "mire -> Trakai: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto mirties vietą Trakuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-186145
-
-<a id="claim-t-211813"></a>
-- t-211813
-  teiginys: "Kęstutis valdė Trakus ir Žemaičių žemę."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193189
-
-<a id="claim-t-10580"></a>
-- t-10580
-  teiginys: "Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatinis ir paremtas citata."
-  susije_objektai: "mentioned_place: Aukštadvaris; mentioned_place: Jieznas; mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164198
-    - c-182837
-
-<a id="claim-t-180584"></a>
-- t-180584
-  teiginys: "1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vilniaus pilis: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilniaus pilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Kęstutį kaip veikėją, kuris užpuola Vilniaus pilis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė Vilniaus pilis (0.86); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė miestą Trakai (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1345 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-164210
-    - c-182864
-    - c-164255
-
-<a id="claim-t-180586"></a>
-- t-180586
-  teiginys: "Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1440 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164246
-    - c-182838
-
-<a id="claim-t-180587"></a>
-- t-180587
-  teiginys: "Gediminas Galvės ežero pusiasalyje pastatė Trakų pilį, kuri ilgą laiką buvo laikoma antrąja Lietuvos sostine."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164196
-    - c-182845
-
-<a id="claim-t-180589"></a>
-- t-180589
-  teiginys: "Pasakojime Gediminas po Trakų pilies įkūrimo medžiojo apylinkėse ir pasiekė Šventaragio slėnį už keturių mylių nuo Trakų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-164190
-    - c-182831
-
-<a id="claim-t-180590"></a>
-- t-180590
-  teiginys: "Algirdas valdė Vilniuje, o Kęstutis - Trakuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164233
-    - c-182829
-    - c-164228
-    - c-182852
-
-<a id="claim-t-180591"></a>
-- t-180591
-  teiginys: "Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-164251
-
-<a id="claim-t-180592"></a>
-- t-180592
-  teiginys: "Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos reikalus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: po 1400 m.; įvykio data: 1400 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas citata apie Trakus."
-  pagrindžia:
-    - c-164204
-    - c-182847
-
-<a id="claim-t-180593"></a>
-- t-180593
-  teiginys: "1384 m. Vytauto privilegijoje Trakai apibūdinti kaip svarbus Lietuvos miestas, kuriame jau būta krikščionių bažnyčių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė tiesiogiai apibūdina Trakus kaip Lietuvos miestą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Trakai priklausė Lietuva (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktus apie Trakus."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164208
-    - c-182854
-    - c-164212
-    - c-182814
-    - c-182846
-
-<a id="claim-t-180601"></a>
-- t-180601
-  teiginys: "1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o paskui pasiųstas gyventi į Trakus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Trakai: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šach Achmedas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Šach Achmedas pasiųstas gyventi į Trakus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Šach Achmedas gyveno Trakai (0.94); Šach Achmedas keliavo į Brasta (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1505 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktus."
-  pagrindžia:
-    - c-164247
-    - c-182816
-
-<a id="claim-t-180602"></a>
-- t-180602
-  teiginys: "Mykolas žadėjo paklusti Kazimierui ir prašė, kad jam būtų palikti Trakai bei nubausti tėvo žudikai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-164249
-    - c-182866
-
-<a id="claim-t-180603"></a>
-- t-180603
-  teiginys: "Jogaila Kęstutį laikė artimiausiu varžovu, nes šis gyveno Trakuose, todėl pirmiausia siekė juo atsikratyti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Trakai: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Kęstutis gyveno Trakuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno Trakai (0.95)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-164189
-    - c-182843
-
-<a id="claim-t-180605"></a>
-- t-180605
-  teiginys: "1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir vaško dirbtuvės laisvę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1492 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas citata."
-  pagrindžia:
-    - c-164200
-    - c-182818
-
-<a id="claim-t-180607"></a>
-- t-180607
-  teiginys: "1379 m. rugsėjo 29 d. po trijų dienų sunkių derybų Trakuose buvo pasirašyta sutartis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "sutarties data: 1379 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-164230
-    - c-182812
-
-<a id="claim-t-180608"></a>
-- t-180608
-  teiginys: "Pasak Strijkovskio ir Kojelavičiaus, po Trakų pilies įkūrimo Gediminas medžiojo aplinkinėse giriose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-164190
-    - c-182831
-
-<a id="claim-t-180609"></a>
-- t-180609
-  teiginys: "Kazimieras Jogailaitis Vilniuje negyveno nuolat, nes Trakų pilyse turėjo ištaigingesnę buveinę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Trakai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys aiškina, kad Kazimieras turėjo buveinę Trakų pilyse, todėl ryšys su gyvenamąja vieta yra tiesiogiai pagrįstas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kazimieras Jogailaitis gyveno Trakai (0.82)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164187
-    - c-182822
-
-<a id="claim-t-180610"></a>
-- t-180610
-  teiginys: "1384 m. Vytauto privilegija rodo, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata Trakus tiesiogiai vadina svarbiu Lietuvos miestu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Trakai priklausė Lietuva (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis sakinys nutrūkęs ir turi šaltinio fragmentų."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164208
-    - c-182854
-
-<a id="claim-t-180613"></a>
-- t-180613
-  teiginys: "1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Melnike ją patvirtino Žygimantas Senasis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Melnikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Melnikas: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Melnikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1507 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-164245
-    - c-182817
-    - c-182856
-
-<a id="claim-t-180614"></a>
-- t-180614
-  teiginys: "Vytautas mirė 1430 m. spalio 30 d. Trakuose, o jo palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Trakai: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto mirties vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) mirė Trakai (0.98)"
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo per ilgas ir turėjo neaiškų įvardį."
-  pagrindžia:
-    - c-164207
-    - c-182827
-    - c-186146
-
-<a id="claim-t-180615"></a>
-- t-180615
-  teiginys: "Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "gyvenimo laikotarpis: 1436 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir paremtas citata."
-  pagrindžia:
-    - c-164185
-    - c-182848
-    - c-164238
-    - c-182865
-
-<a id="claim-t-180616"></a>
-- t-180616
-  teiginys: "Trakų vardo kildinimas iš lenkiško žodžio trok atmestas, teigiant, kad miesto vardas turėtų būti lietuviškas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=97"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-164227
-    - c-182820
-
-<a id="claim-t-180617"></a>
-- t-180617
-  teiginys: "Trakuose sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Trakai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas nužudytas Trakų pilyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1440 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas nurodyta citata."
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-164223
-    - c-182844
-    - c-182860
-
-<a id="claim-t-180618"></a>
-- t-180618
-  teiginys: "Vytautas mirė 1430 m. spalio 30 d. Trakuose, o jo palaikai buvo iškilmingai palaidoti Vilniuje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Trakai: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto mirties vietą Trakuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) mirė Trakai (0.98)"
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-164207
-    - c-182827
-
-<a id="claim-t-180619"></a>
-- t-180619
-  teiginys: "Prūsijos istorikai nurodė, kad kariai tarp Trakų ir Vilniaus buvo sustoję ant dviejų priešpriešinių kalnų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-164257
-
-<a id="claim-t-180621"></a>
-- t-180621
-  teiginys: "Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos valstybės reikalus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: po 1400 m.; įvykio data: 1400 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys atitinka citatą ir yra apie Trakus."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164204
-    - c-182847
-
-<a id="claim-t-180622"></a>
-- t-180622
-  teiginys: "Jogaila siekė pirmiausia pašalinti Trakuose gyvenusį Kęstutį, nes šis trukdė jo valdžios planams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Trakai: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai pasako, kad Kęstutis gyveno Trakuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno Trakai (0.95)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164189
-    - c-182843
-
-<a id="claim-t-180623"></a>
-- t-180623
-  teiginys: "Jogaila atleido Vytautui ir jo šalininkams, paėmė ištikimybės priesaiką ir grąžino Vytautui Trakus bei Gardiną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164228
-    - c-182852
-    - c-164256
-    - c-182857
-
-<a id="claim-t-180624"></a>
-- t-180624
-  teiginys: "Karūnacijos iškilmių metu Jogaila su palydovais vyko iš Vilniaus į Trakus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-164222
-    - c-182828
-
-<a id="claim-t-180628"></a>
-- t-180628
-  teiginys: "Žygimantas Kęstutaitis, sutelkęs lietuvių pajėgas ir gavęs Vladislovo Jogailaičio pagalbą, žygiavo į Trakus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1435 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys per ilgas ir stilistiškai sunkus, citata leidžia suformuluoti glaustesnį sakinį."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164188
-    - c-182826
-
-<a id="claim-t-180629"></a>
-- t-180629
-  teiginys: "1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1492 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, pilnas ir paremtas citata."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164197
-    - c-164200
-    - c-182818
-    - c-182841
-
-<a id="claim-t-180630"></a>
-- t-180630
-  teiginys: "Prie Trakų Kęstutis rado savo sūnų Vytautą, atsivedusį kariuomenės būrį iš Gardino."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Kęstučio atvykimą prie Trakų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.86)"
-  pagrindžia:
-    - c-164219
-    - c-182867
-    - c-182804
-
-<a id="claim-t-180631"></a>
-- t-180631
-  teiginys: "Prie Trakų atvykęs Kęstutis rado Vytautą, atsivedusį kariuomenės būrį iš Gardino."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Kęstutis atvyko prie Trakų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.92)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-37760
-    - c-182804
-
-<a id="claim-t-180632"></a>
-- t-180632
-  teiginys: "Ežerų apsupta Trakų pilis buvo minima kaip vienintelė didžiojo kunigaikščio buveinė ir sostinė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakų pilis (pilis): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Trakų pilis (pilis): mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Trakų pilis (pilis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-164209
-    - c-182842
-    - c-182863
-
-<a id="claim-t-180633"></a>
-- t-180633
-  teiginys: "Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Trakai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas nužudytas Trakų pilyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1440 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminiame teiginyje įvardis „jis“ gali būti dviprasmis."
-  pagrindžia:
-    - c-164259
-
-<a id="claim-t-180634"></a>
-- t-180634
-  teiginys: "Ostrovo taikos metu Jogaila grąžino Vytautui Trakus, Gardiną ir kitas žemes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-164256
-    - c-182857
-
-<a id="claim-t-180637"></a>
-- t-180637
-  teiginys: "Trakų žydai prašė patvirtinti Aleksandro, arba Vytauto, suteiktas teises, laisves ir privilegijas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Trakai: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Trakų žydai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Trakų žydus kaip žydus iš Trakų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Trakų žydai gyveno Trakai (0.92); Žydai gyveno Trakai (0.90)"
-  pagrindžia:
-    - c-164193
-    - c-182859
-
-<a id="claim-t-180639"></a>
-- t-180639
-  teiginys: "Balińskis manė, kad Trakų pilis galėjo būti sena gynybinė ir medžiotojų gyvenvietė dar prieš Gediminą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakų pilis (pilis): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Trakų pilis (pilis): mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Trakų pilis (pilis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164232
-    - c-182824
-
-<a id="claim-t-180642"></a>
-- t-180642
-  teiginys: "Švitrigaila daug kartų puolė Žygimantą ir kartą pasiekė Vilnių bei Trakus, tačiau nieko nelaimėjo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164203
-    - c-182823
-
-<a id="claim-t-180643"></a>
-- t-180643
-  teiginys: "Žygimantas Kęstutaitis, gavęs pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1435 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiau remia žygį į Trakus negu planą pulti visa kryptimi."
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-164188
-    - c-182826
-
-<a id="claim-t-180647"></a>
-- t-180647
-  teiginys: "Islandų keliautojas Snorro prie Vilniaus, Trakų ir kitų miestų rado savo genties naujakurių ir suprato jų kalbą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata sieja normanus su seniausių gyvenviečių kūrimu Lietuvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Normanai gyveno Lietuva (0.72); Skandinavai gyveno Lietuva (0.62)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-164252
-
-<a id="claim-t-180651"></a>
-- t-180651
-  teiginys: "Trakų pilis, apsupta ežerų, buvo didžiojo kunigaikščio buveinė ir sostinė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-164209
-    - c-182842
-    - c-182863
-
-<a id="claim-t-180652"></a>
-- t-180652
-  teiginys: "1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatos sąraše Tverės ir Riazanės kunigaikščiai nurodyti kaip atvykę į Trakus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Tverės ir Riazanės kunigaikščiai keliavo į Trakai (0.86); Tverės ir Riazanės kunigaikščiai keliavo į Vilnius (0.86); Mazovijos kunigaikščiai keliavo į Trakai (0.84); Mazovijos kunigaikščiai keliavo į Vilnius (0.84); Totoriai keliavo į Trakai (0.78)"
-  temporaliniai_duomenys: "kelionės data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164214
-    - c-182849
-    - c-186147
-
-<a id="claim-t-180653"></a>
-- t-180653
-  teiginys: "Apie 1432 m. rugpjūčio 28 d. Žygimantas užėmė Vilnių ir Trakus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1432 m.; įvykio data: apie 1432 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-164197
-    - c-164215
-    - c-182833
-    - c-182841
-
-<a id="claim-t-180656"></a>
-- t-180656
-  teiginys: "1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ašmena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1432 m.; įvykio data: 1440 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas puslapio ir antraštės triukšmas, paliktas citata paremtas faktas."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-164199
-    - c-182869
-
-<a id="claim-t-180657"></a>
-- t-180657
-  teiginys: "Vytauto laikais Trakų žemėje buvo gausu dvarų ir ūkio centrų, nes ji buvo labiau apgyventa ir arčiau valdovo būstinės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata Trakų žemę įvardija kaip esančią pačioje Lietuvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Trakai priklausė Lietuva (0.82); Vilnius priklausė Lietuva (0.82)"
-  pagrindžia:
-    - c-25149
-    - c-182811
-
-<a id="claim-t-180661"></a>
-- t-180661
-  teiginys: "1655 m. rugpjūčio 7 d. rusams ir kazokams užėmus Vilnių, netrukus buvo užimti Trakai ir Kaunas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Lietuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Rusijos kariuomenė tiesiogiai įvardyta kaip užėmusi Minską, tačiau Minskas nėra leidžiamas kandidatas; kito tikslaus objekto šiam veiksmui nėra."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Rusijos kariuomenė užėmė Lietuva (0.88); Rusai užėmė Trakai (0.78); Kazokai užėmė Trakai (0.78); Rusai užėmė Kaunas (0.78); Kazokai užėmė Kaunas (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1654-1655; įvykio data: 1655 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta taip, kad Trakų užėmimas būtų aiškus faktas."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164261
-    - c-182815
-
-<a id="claim-t-180663"></a>
-- t-180663
-  teiginys: "Trakų pilis laikoma sena, galbūt dar prieš Gediminą buvusia gynybine ir medžiotojų gyvenviete."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164212
-    - c-182814
-    - c-182846
-
-<a id="claim-t-180664"></a>
-- t-180664
-  teiginys: "1377 m. birželį Ordino kariuomenė sudegino Trakų miestą, bet dėl Kęstučio gynybos nepajėgė užimti pilių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Trakai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata Trakų miesto ir pilių epizodą tiesiogiai sieja su Kęstučio gynyba."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gynė Trakai (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1377 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis sakinys prasideda kontekstiniu fragmentu."
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-164215
-    - c-182833
-
-<a id="claim-t-180665"></a>
-- t-180665
-  teiginys: "Algirdas valdė Lietuvą iš Vilniaus, o Kęstutis valdė iš Trakų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-164233
-    - c-182829
-    - c-164228
-    - c-182852
-
-<a id="claim-t-180669"></a>
-- t-180669
-  teiginys: "Žygimantas po nesėkmingo įsiveržimo į Švitrigailos dvarą tuojau užėmė Vilnių ir Trakus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-164197
-    - c-182841
-    - c-164200
-    - c-182818
-
-<a id="claim-t-180670"></a>
-- t-180670
-  teiginys: "1505 m. Vilniaus miesto sienoje buvo nurodyta palikti vartus prie kelio į Trakus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Išganytojo (Spaso) bažnyčia Vilniuje: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Išganytojo (Spaso) bažnyčia Vilniuje: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Išganytojo (Spaso) bažnyčia Vilniuje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1505 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko siauresnį faktą, bet pradinis teiginys nutrūkęs."
-  pagrindžia:
-    - c-164243
-
-<a id="claim-t-180673"></a>
-- t-180673
-  teiginys: "Vytautas būdamas Trakuose nerimavo dėl išdavystės ir norėjo ten pasilikti dar dvylika savaičių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Trakai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas buvo Trakuose ir norėjo ten dar išbūti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno Trakai (0.88)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-164239
-    - c-182839
-    - c-182861
-
-<a id="claim-t-180674"></a>
-- t-180674
-  teiginys: "1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tverės ir Riazanės kunigaikščiai yra įtraukti į atvykusiųjų į Trakus sąrašą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Tverės ir Riazanės kunigaikščiai keliavo į Trakai (0.86); Tverės ir Riazanės kunigaikščiai keliavo į Vilnius (0.86); Mazovijos kunigaikščiai keliavo į Trakai (0.82); Mazovijos kunigaikščiai keliavo į Vilnius (0.82); Totoriai keliavo į Trakai (0.76)"
-  temporaliniai_duomenys: "kelionės data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinė formuluotė nutrūkusi."
-  pagrindžia:
-    - c-164214
-    - c-182849
-
-<a id="claim-t-185160"></a>
-- t-185160
-  teiginys: "Vytautas su žemaičiais ir Kojelavičiaus vadinamas Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "uzeme -> Trakai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pasidavęs miestas ir pilys reiškia Vytauto pusės užėmimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Trakai (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Trakai (0.82)"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168521
-
-<a id="claim-t-185161"></a>
-- t-185161
-  teiginys: "Žymiausieji Lietuvos didikai skubiai pasitraukė į Trakus, palikę Jogailą ir valstybės reikalus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168522
-
-<a id="claim-t-193651"></a>
-- t-193651
-  teiginys: "Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176320
-    - c-182855
-
-<a id="claim-t-193652"></a>
-- t-193652
-  teiginys: "Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176321
-    - c-182835
-
-<a id="claim-t-199861"></a>
-- t-199861
-  teiginys: "Rugpjūčio 3 d. Kęstučiui su Vytautu ir Liubartu atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "llm_object: Trakai; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Kęstutis|Kęstutis]] keliavo į Trakai; [[objektai/asmenys/Liubartas|Liubartas]] keliavo į Trakai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-182834
-
-<a id="claim-t-199878"></a>
-- t-199878
-  teiginys: "Kęstučiui ir Vytautui rugpjūčio 3 d. atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys paremtas, bet reikia pašalinti perteklinę ir OCR pažeistą dalį."
-  susije_objektai: "mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-182834
-
-<a id="claim-t-199880"></a>
-- t-199880
-  teiginys: "1412 m. per Kalėdas Makra buvo pas Vytautą jo puošnioje salos pilyje Trakuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys paremtas, bet reikia sutrumpinti ir pašalinti perteklinį kelionės kontekstą."
-  susije_objektai: "mentioned_place: Marienburgas; mentioned_place: Ragainė; mentioned_place: Salos"
-  temporaliniai_duomenys: "įvykio data: 1412 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys paremtas, bet reikia sutrumpinti ir pašalinti perteklinį kelionės kontekstą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-32475
-
-<a id="claim-t-199890"></a>
-- t-199890
-  teiginys: "Vytautas atgausimus Trakus, Gardiną ir kitas žemes turėjo valdyti kaip Ordino vasalas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Perrašyta sklandesniu ir aiškesniu sakiniu."
-  susije_objektai: "llm_object: Gardinas; llm_object: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gardinas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Livonija"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] valdė miestą Trakai"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-182836
-
-<a id="claim-t-199893"></a>
-- t-199893
-  teiginys: "XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle penkių mylių atstumu nuo Kernavės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Trakai"
-  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] pastatė Trakai"
-  ryšio_patikimumas: "mire -> Trakai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas nužudytas Trakų pilyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-182862
-
-<a id="claim-t-199904"></a>
-- t-199904
-  teiginys: "To žygio metu paimti karaimai, kaip spėjama, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "llm_object: Luckas; llm_object: Trakai; mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_place: Dniepras; mentioned_place: Luckas"
-  semantiniai_rysiai: "[[objektai/grupes/Karaimai|Karaimai]] gyveno Trakai"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatos sąraše Tverės ir Riazanės kunigaikščiai nurodyti kaip atvykę į Trakus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-182805
-    - c-182851
-    - c-182806
-
-<a id="claim-t-199905"></a>
-- t-199905
-  teiginys: "Vytautas su magistru Zollneriu, surinkęs Žemaičiuose gausų kovotojų būrį, traukė prie Skirgailos valdomų Trakų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Perrašyta aiškiau, išplečiant Kęstutaičio nuorodą į Vytautą."
-  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
-  semantiniai_rysiai: "[[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Trakai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-182810
-
-<a id="claim-t-199906"></a>
-- t-199906
-  teiginys: "Po 1397 m. žygio Vytautas totorių belaisvius ir pabėgėlius įkurdino Trakų kunigaikštijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys paremtas, bet sutrumpintinas ir aiškintinas kaip faktas apie Trakus."
-  susije_objektai: "llm_object: Trakai; mentioned_group: [[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
-  semantiniai_rysiai: "[[objektai/grupes/Totoriai|Totoriai]] gyveno Trakai; [[objektai/asmenys/Vytautas|Vytautas]] siuntė į Trakai"
-  temporaliniai_duomenys: "įvykio data: po 1397 m.; įvykio data: 1397 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys paremtas, bet sutrumpintinas ir aiškintinas kaip faktas apie Trakus."
-  ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ašmena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-182840
-
-<a id="claim-t-199913"></a>
-- t-199913
-  teiginys: "Kęstučio valdos, įskaitant dalį tikrosios Lietuvos su Trakais, dėl kaimynystės su kryžiuočiais nebuvo saugios."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir suformuluotas aiškus faktas apie Trakus."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Winrichas von Kniprodė|Winrichas von Kniprodė]]; mentioned_place: Gardinas; mentioned_place: Gardino žemė; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-182809
-    - c-182821
-
-<a id="claim-t-199916"></a>
-- t-199916
-  teiginys: "Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį, Skirgaila liepos 20 d. įtikino jos įgulą pasiduoti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Trakai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-32468
-
-<a id="claim-t-199920"></a>
-- t-199920
-  teiginys: "XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle girioje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Šaltinis remia metraščio pasakojimą, todėl reikia atribucijos ir glaustesnės formos."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-182862
-
-<a id="claim-t-199933"></a>
-- t-199933
-  teiginys: "To žygio metu paimti karaimai, tikėtina, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir fragmentas perrašytas į pilną sakinį."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_place: Luckas; llm_object: Luckas; llm_object: Trakai"
-  semantiniai_rysiai: "[[objektai/grupes/Karaimai|Karaimai]] gyveno Trakai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-182806
-
-<a id="claim-t-199934"></a>
-- t-199934
-  teiginys: "1377 m. Ordino maršalas buvo atvykęs prie Trakų ir, Wigando teigimu, kalbėjosi su Kęstučiu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_object: [[objektai/zodynas/maršalas|maršalas]]"
-  temporaliniai_duomenys: "įvykio data: 1377 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-32467
-
-<a id="claim-t-199940"></a>
-- t-199940
-  teiginys: "Trakai greitai buvo prarasti, kai Vytauto ir kryžiuočių įgula po 40 dienų apgulties pasidavė Jogailai ir Skirgailai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; llm_object: Trakai"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] gynė Trakai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-32471
-
-<a id="claim-t-199947"></a>
-- t-199947
-  teiginys: "1383 m. Vytautas su magistru Zollneriu žygiavo prie Skirgailos valdytų Trakų, kurie jam greitai pasidavė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
-  semantiniai_rysiai: "[[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Trakai; [[objektai/asmenys/Vytautas|Vytautas]] surengė žygį į Trakai"
-  temporaliniai_duomenys: "įvykio data: 1383 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-182810
-
-<a id="claim-t-201665"></a>
-- t-201665
-  teiginys: "Tik kelias į Vilnių nutįso atokiau nuo Neries per Žiežmarius ir Trakus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185012
-
-<a id="claim-t-203028"></a>
-- t-203028
-  teiginys: "Zenonas Ivinskis rašo, kad 1383 m. rugpjūčio 12 d. Skirgailos valdyti Trakai greitai pasidavė Vytautui, nes Trakuose buvo jo šalininkų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys paremtas, bet reikia aiškesnės sakinio struktūros."
-  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva"
-  semantiniai_rysiai: "[[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Trakai"
-  temporaliniai_duomenys: "įvykio data: 1383 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys paremtas, bet reikia aiškesnės sakinio struktūros."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-182810
-
-<a id="claim-t-203146"></a>
-- t-203146
-  teiginys: "Michał Baliński teigimu, Trakuose Žygimanto sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pirminiame teiginyje įvardis „jis“ gali būti dviprasmis."
-  susije_objektai: "llm_object: Trakai; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Olelka|Olelka]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_place: Lietuva; mentioned_place: Mstislavlis; mentioned_place: Vilnius"
-  semantiniai_rysiai: "[[objektai/asmenys/Žygimantas|Žygimantas]] mirė Trakai"
-  temporaliniai_duomenys: "įvykio data: 1440 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminiame teiginyje įvardis „jis“ gali būti dviprasmis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-164259
-
-<a id="claim-t-203246"></a>
-- t-203246
-  teiginys: "Michał Baliński rašo, kad Vytautas, būdamas Trakuose ir bijodamas išdavystės, norėjo ten išbūti dar dvylika savaičių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] gyveno Trakai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-182839
-    - c-182861
-
-<a id="claim-t-203292"></a>
-- t-203292
-  teiginys: "Michał Baliński rašo, kad islandų keliautojas Snorro prie Vilniaus, Trakų ir kitų miestų rado savo genties naujakurių ir suprato jų kalbą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata apie Trakus."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-164252
-
-<a id="claim-t-203325"></a>
-- t-203325
-  teiginys: "Michał Baliński veikale „Vilniaus miesto istorija“ manė, kad Trakų pilis buvo sena, galbūt dar prieš Gediminą buvusi gynybinė ir medžiotojų gyvenvietė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Trakų pilis; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-164212
-    - c-182814
-    - c-182846
-
-<a id="claim-t-203334"></a>
-- t-203334
-  teiginys: "Michał Baliński teigimu, Jogaila pirmiausia siekė nusikratyti Trakuose gyvenusiu Kęstučiu, nes šis labiausiai trukdė jam siekti didelės valdžios."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata palaiko faktą, bet pradinis teiginys nutrūkęs."
-  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; mentioned_place: Vilnius"
-  semantiniai_rysiai: "[[objektai/asmenys/Kęstutis|Kęstutis]] gyveno Trakai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-182843
-
-<a id="claim-t-203387"></a>
-- t-203387
-  teiginys: "Michał Baliński teigia, kad Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys aiškiai ir tiksliai perteikia citatos turinį."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-164185
-    - c-182848
-
-<a id="claim-t-203388"></a>
-- t-203388
-  teiginys: "Veikale „Michał Baliński, Vilniaus miesto istorija“ rašoma, kad Kazimieras Jogailaitis pirmenybę teikė Lietuvai ir dažniausiai gyveno Trakuose arba Vilniuje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys pilnas, aiškus ir paremtas citata."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lionas"
-  temporaliniai_duomenys: "gyvenimo laikotarpis: 1436 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-164185
-    - c-182848
 
 <a id="claim-t-203428"></a>
-- t-203428
+- t-091
   teiginys: "1492 m. Trakuose privilegija Vilniui buvo suteiktos Magdeburgo teisės, o Aleksandras ta privilegija suteikė miestui laisvę laikyti vaško dirbtuvę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra faktinis, pilnas ir paremtas citata."
   susije_objektai: "mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Zabójnica|Zabójnica]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilija"
@@ -1732,13 +1623,12 @@ historical_names: []
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, pilnas ir paremtas citata."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-164200
     - c-182818
 
 <a id="claim-t-203447"></a>
-- t-203447
+- t-092
   teiginys: "Michał Baliński teigimu, Trakuose Žygimanto sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo sąmokslininkų nužudytas Trakų pilyje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys pilnas ir paremtas nurodyta citata."
   susije_objektai: "llm_object: Trakai; llm_object: Vilnius; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
@@ -1751,9 +1641,9 @@ historical_names: []
     - c-164259
 
 <a id="claim-t-203480"></a>
-- t-203480
+- t-093
   teiginys: "Michał Baliński atmetė Trakų vardo kildinimą iš lenkiško žodžio „trok“ ir teigė, kad miesto vardas turėtų būti lietuviškas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
@@ -1761,9 +1651,9 @@ historical_names: []
     - c-182820
 
 <a id="claim-t-203484"></a>
-- t-203484
+- t-094
   teiginys: "Gediminas Galvės ežero pusiasalyje pastatė Trakų pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys sutrumpintas ir pašalinta perteklinė formuluotė."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Viena; mentioned_place: Vilnius"
@@ -1771,38 +1661,20 @@ historical_names: []
   pagrindžia:
     - c-182845
 
-<a id="claim-t-203501"></a>
-- t-203501
-  teiginys: "Michał Baliński teigimu, 1384 m. Vytauto privilegija rodo, kad Trakai dar prieš Lietuvos krikštą buvo ganėtinai svarbus Lietuvos miestas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata palaiko faktą, bet pradinis sakinys nutrūkęs ir turi šaltinio fragmentų."
-  susije_objektai: "llm_object: Lietuva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius"
-  semantiniai_rysiai: "Trakai priklausė Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis sakinys nutrūkęs ir turi šaltinio fragmentų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-164212
-    - c-182814
-    - c-182846
-
 <a id="claim-t-203537"></a>
-- t-203537
+- t-095
   teiginys: "Michał Baliński „Vilniaus miesto istorijoje“, perteikdamas Strijkovskio ir Kojelavičiaus pasakojimą, rašo, kad Gediminas po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose ir pasiekęs Šventaragio slėnį už keturių mylių nuo Trakų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Luckas; mentioned_place: Vengrija; mentioned_place: Vilnius"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-164190
     - c-182831
 
 <a id="claim-t-203546"></a>
-- t-203546
+- t-096
   teiginys: "Michał Baliński knygoje „Vilniaus miesto istorija“ rašo, kad Vytautas mirė 1430 m. spalio 30 d. Trakuose, o jo palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "llm_object: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
   semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] mirė Trakai"
@@ -1810,26 +1682,24 @@ historical_names: []
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-164207
     - c-182827
 
 <a id="claim-t-203548"></a>
-- t-203548
+- t-097
   teiginys: "Iki 1377 m. birželio pabaigos pakeliui į Vilnių buvo sudegintas Trakų miestas, tačiau dėl Kęstučio gynybos pilių nepavyko užimti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Prūsija; mentioned_place: Vilnius"
   temporaliniai_duomenys: "įvykio data: 1377 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-164215
     - c-182833
 
 <a id="claim-t-203960"></a>
-- t-203960
+- t-098
   teiginys: "1480 ir 1481 m. Ldk Kazimieras didžiąją laiko dalį praleido Vilniuje ir Trakuose."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1842,9 +1712,9 @@ historical_names: []
     - c-186564
 
 <a id="claim-t-204029"></a>
-- t-204029
+- t-099
   teiginys: "1392 m. Astravo dokumentu Vytautas, pažadėjęs ištikimybę Jogailai, gavo teises valdyti Trakų kunigaikštystę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1857,9 +1727,9 @@ historical_names: []
     - c-186633
 
 <a id="claim-t-204363"></a>
-- t-204363
+- t-100
   teiginys: "1439 m. rugsėjį Trakuose rezidavęs Žygimantas Kęstutaitis dar neturėjo savo tarybos ir ruošėsi ją sukviesti prieš priimdamas Ordino bei Romos karaliaus pasiuntinius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1872,9 +1742,9 @@ historical_names: []
     - c-186967
 
 <a id="claim-t-206583"></a>
-- t-206583
+- t-101
   teiginys: "Neįvardytas žygio dalyvis, persikėlęs per Nemuną ties Dirsūniškiu, pasiekė Trakų apylinkes, sunaikino Pavandenio valsčių ir sudegino Semeliškių valsčių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1885,9 +1755,9 @@ historical_names: []
     - c-189198
 
 <a id="claim-t-206584"></a>
-- t-206584
+- t-102
   teiginys: "Kryžiuočiai ir riteriai, kaip aprašo Teodoras Narbutas, vadovaujami maršalkos, atvyko į Trakus, kur juos dar kartą taikingai pavaišino kunigaikštis Kęstutis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1898,9 +1768,9 @@ historical_names: []
     - c-189199
 
 <a id="claim-t-206585"></a>
-- t-206585
+- t-103
   teiginys: "Kryžiuočių kariauna rugsėjo 11 dieną susijungė Trakų apylinkėse, o žygiuodama per Kęstučio kunigaikštystę nesiėmė smurto."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1911,9 +1781,9 @@ historical_names: []
     - c-189200
 
 <a id="claim-t-206586"></a>
-- t-206586
+- t-104
   teiginys: "Vytauto rašte teigiama, kad jis buvo išvytas iš Trakų ir visų savo žemių pusbrolių, o jo tėvą tie patys pusbroliai nužudė; vėliau jis Mazovijoje prašė Konrado Ciolnerio Rotenšteino pagalbos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1922,19 +1792,6 @@ historical_names: []
   vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
   pagrindžia:
     - c-189201
-
-<a id="claim-t-207610"></a>
-- t-207610
-  teiginys: "Mykolą Juozapą Riomerį Bumblauskas įvardija Trakų pavieto maršalu; Vilniaus Šv. Kazimiero bažnyčioje jis pasakė kalbą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
-  pagrindžia:
-    - c-190227
 
 ## Reikšmingi paminėjimai
 - c-032
@@ -2149,8 +2006,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180657
+  pagrindzia:
+    - t-041
 
 - id: c-32467
   autorius: "Zenonas Ivinskis"
@@ -2167,8 +2024,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199934
+  pagrindzia:
+    - t-075
 
 - id: c-32468
   autorius: "Zenonas Ivinskis"
@@ -2185,8 +2042,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199916
+  pagrindzia:
+    - t-069
 
 - id: c-32471
   autorius: "Zenonas Ivinskis"
@@ -2202,8 +2059,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199940
+  pagrindzia:
+    - t-076
 
 - id: c-32475
   autorius: "Zenonas Ivinskis"
@@ -2219,8 +2076,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199880
+  pagrindzia:
+    - t-057
+    - t-060
 
 - id: c-37760
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2239,8 +2097,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180631
+  pagrindzia:
+    - t-029
 
 - id: c-164185
   autorius: "Michał Baliński"
@@ -2278,10 +2136,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180615
-    - t-203387
-    - t-203388
+  pagrindzia:
+    - t-019
+    - t-088
 
 - id: c-164187
   autorius: "Michał Baliński"
@@ -2306,8 +2163,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180609
+  pagrindzia:
+    - t-016
 
 - id: c-164188
   sudarytojas: "Karolis Zikaras"
@@ -2331,9 +2188,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180628
-    - t-180643
+  pagrindzia:
+    - t-027
+    - t-035
 
 - id: c-164189
   autorius: "Michał Baliński"
@@ -2363,9 +2220,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180603
-    - t-180622
+  pagrindzia:
+    - t-012
+    - t-024
 
 - id: c-164190
   autorius: "Michał Baliński"
@@ -2405,10 +2262,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180589
-    - t-180608
-    - t-203537
+  pagrindzia:
+    - t-005
+    - t-015
 
 - id: c-164193
   autorius: "Michał Baliński"
@@ -2454,8 +2310,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180637
+  pagrindzia:
+    - t-032
 
 - id: c-164196
   redaktorius: "A. Šapoka"
@@ -2475,8 +2331,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180587
+  pagrindzia:
+    - t-004
 
 - id: c-164197
   autorius: "Michał Baliński"
@@ -2515,10 +2371,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180629
-    - t-180653
-    - t-180669
+  pagrindzia:
+    - t-039
+    - t-046
 
 - id: c-164198
   sudarytojas: "Karolis Zikaras"
@@ -2536,8 +2391,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-10580
+  pagrindzia:
+    - t-001
 
 - id: c-164199
   sudarytojas: "Karolis Zikaras"
@@ -2565,8 +2420,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180656
+  pagrindzia:
+    - t-040
 
 - id: c-164200
   autorius: "Michał Baliński"
@@ -2595,11 +2450,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180605
-    - t-180629
-    - t-180669
-    - t-203428
+  pagrindzia:
+    - t-013
 
 - id: c-164201
   autorius: "Michał Baliński"
@@ -2630,6 +2482,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
 
 - id: c-164203
   redaktorius: "A. Šapoka"
@@ -2648,8 +2502,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180642
+  pagrindzia:
+    - t-034
 
 - id: c-164204
   autorius: "Michał Baliński"
@@ -2673,9 +2527,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180592
-    - t-180621
+  pagrindzia:
+    - t-008
+    - t-023
 
 - id: c-164207
   autorius: "Michał Baliński"
@@ -2698,10 +2552,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180614
-    - t-180618
-    - t-203546
+  pagrindzia:
+    - t-018
+    - t-021
 
 - id: c-164208
   autorius: "Michał Baliński"
@@ -2739,9 +2592,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180593
-    - t-180610
+  pagrindzia:
+    - t-009
+    - t-017
 
 - id: c-164209
   autorius: "Michał Baliński"
@@ -2770,10 +2623,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180632
-    - t-180651
-
 - id: c-164210
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2796,8 +2645,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180584
+  pagrindzia:
+    - t-002
 
 - id: c-164212
   autorius: "Michał Baliński"
@@ -2831,12 +2680,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180593
-    - t-180663
-    - t-203325
-    - t-203501
-
 - id: c-164214
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2862,9 +2705,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180652
-    - t-180674
+  pagrindzia:
+    - t-038
+    - t-048
 
 - id: c-164215
   autorius: "Michał Baliński"
@@ -2883,16 +2726,13 @@ historical_names: []
     senasis Algirdas.
   citata_rodoma: "12 000 žmonių vedini, pakeliui sudeginę Trakų mies­\ntą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti,\n1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­\nmis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo\nsenasis Algirdas."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-037
-    - t-180653
-    - t-180664
-    - t-203548
+    - t-044
 
 - id: c-164219
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2912,8 +2752,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180630
+  pagrindzia:
+    - t-028
 
 - id: c-164222
   redaktorius: "A. Šapoka"
@@ -2931,8 +2771,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180624
+  pagrindzia:
+    - t-026
 
 - id: c-164223
   autorius: "Michał Baliński"
@@ -2955,9 +2795,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180617
-
 - id: c-164227
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2984,8 +2821,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180616
+  pagrindzia:
+    - t-020
 
 - id: c-164228
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3002,10 +2839,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180590
-    - t-180623
-    - t-180665
+  pagrindzia:
+    - t-006
+    - t-045
 
 - id: c-164230
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3029,8 +2865,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180607
+  pagrindzia:
+    - t-014
 
 - id: c-164232
   autorius: "Michał Baliński"
@@ -3056,8 +2892,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180639
+  pagrindzia:
+    - t-033
 
 - id: c-164233
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3080,9 +2916,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180590
-    - t-180665
+  pagrindzia:
+    - t-006
+    - t-045
 
 - id: c-164238
   autorius: "Michał Baliński"
@@ -3109,8 +2945,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180615
+  pagrindzia:
+    - t-019
 
 - id: c-164239
   autorius: "Michał Baliński"
@@ -3132,9 +2968,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180673
-
 - id: c-164243
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3157,8 +2990,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180670
+  pagrindzia:
+    - t-047
 
 - id: c-164245
   autorius: "Michał Baliński"
@@ -3190,9 +3023,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180613
-
 - id: c-164246
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3214,9 +3044,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-090
-    - t-180586
+  pagrindzia:
+    - t-003
 
 - id: c-164247
   autorius: "Michał Baliński"
@@ -3236,8 +3065,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180601
+  pagrindzia:
+    - t-010
 
 - id: c-164249
   redaktorius: "A. Šapoka"
@@ -3256,8 +3085,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180602
+  pagrindzia:
+    - t-011
 
 - id: c-164251
   autorius: "Michał Baliński"
@@ -3311,8 +3140,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180591
+  pagrindzia:
+    - t-007
 
 - id: c-164252
   autorius: "Michał Baliński"
@@ -3336,9 +3165,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180647
-    - t-203292
+  pagrindzia:
+    - t-036
+    - t-085
 
 - id: c-164255
   autorius: "Michał Baliński"
@@ -3362,8 +3191,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180584
+  pagrindzia:
+    - t-002
 
 - id: c-164256
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3384,9 +3213,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180623
-    - t-180634
+  pagrindzia:
+    - t-025
+    - t-031
 
 - id: c-164257
   autorius: "Michał Baliński"
@@ -3413,8 +3242,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180619
+  pagrindzia:
+    - t-022
 
 - id: c-164259
   autorius: "Michał Baliński"
@@ -3439,10 +3268,10 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180633
-    - t-203146
-    - t-203447
+  pagrindzia:
+    - t-030
+    - t-081
+    - t-092
 
 - id: c-164261
   sudarytojas: "Karolis Zikaras"
@@ -3463,8 +3292,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180661
+  pagrindzia:
+    - t-043
 
 - id: c-164265
   autorius: "Michał Baliński"
@@ -3508,15 +3337,11 @@ historical_names: []
     ka, kuriam šis reikalas buvo pavestas.
   citata_rodoma: "Ir taip\nmes minėtų mūsų valdinių žydų Trakuose reikalui visas jų\nnuosavybes, paliaubas ir sprendimus maloningai palaikyda­\nmi, jiems minėtą privilegiją, teises, laisves ir kitas priklau­\nsomybes, minėtoje privilegijoje aprašytas, nutarėme saugoti,\nginti, stiprinti, ką dabartiniu [raštu] ir patvirtiname, sustip­\nriname ir giname, žiūrėdami, kad ši galia ir šis raštas am­\nžiams patvirtintas ir amžinas būtų. Šio reikalo paliudijimui\nir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­\nvo ir vyko Melnike pirmadienį prieš Tris Karalius metais\nnuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­\nsiam Kristuje tėvui ir ponui Vaitiekui, Dievo malone Lucko\n[Ladzko] vyskupui, ir galingiesiems, ir garbingiesiems Tra­\nkų vaivadai Mikalojui, Jonui iš Zabžezės - Lietuvos Di­\ndžiosios Kunigaikštystės didžiajam maršalkai ir Gardino\nseniūnui, Stanislovui Hlebavičiui - Polocko vaivadai, ku­\nnigaikščiui ir etmonui, Ivanui Glinskiui - Naugarduko vai­\nvadai ir jo broliui Mykolui Glinskiui - Utenos valdytojui,\nVaitiekui Janavičiui - karališkajam rūmininkui ir Kauno\nseniūnui, ir Bielskiams - Jonui Mikolajevičiui - rūmų mar­\nšalkai ir Slonimo seniūnui, Vaitiekui Narutavičiui - rūmų •\n• --\n199\n\n## Puslapis 216\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nmaršalkai ir Josvainių seniūnui, Petrui Olechnavičiui - mū­\nsų prievaizdui ir Skirsnemunės seniūnui, ir kitiems patiki­\nmiems, surašyta Petro Opalinskio, Poznanės kustodo, ran­\nka, kuriam šis reikalas buvo pavestas."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-073
-
 - id: c-168520
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3534,12 +3359,11 @@ historical_names: []
     priešinimą, griebėsi kito sumanymo.
   citata_rodoma: "Kadangi neseniai per pasiuntinius buvo pra­\nšęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei\nsavo žento, ir toji pagalba diena iš dienos turėjo at­\nvykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­\ngailą traukti su nedidele kariuomene ir be pagalbinin­\nkų stoti į lemiamą mūšį. Kad kariai turėtų kokį užsi­\nėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti\nTrakus. Po kelių dienų apgulos, sutikęs smarkų pasi­\npriešinimą, griebėsi kito sumanymo."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-049
     - t-082
 
@@ -3567,8 +3391,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185160
+  pagrindzia:
+    - t-050
 
 - id: c-168522
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3591,8 +3415,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185161
+  pagrindzia:
+    - t-051
 
 - id: c-168524
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3620,6 +3444,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-052
 
 - id: c-170605
   autorius: "Anoniminis metraštininkas"
@@ -3643,6 +3469,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-053
 
 - id: c-176320
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3663,8 +3491,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193651
+  pagrindzia:
+    - t-054
 
 - id: c-176321
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3683,8 +3511,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193652
+  pagrindzia:
+    - t-055
 
 - id: c-182804
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3703,9 +3531,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180630
-    - t-180631
+  pagrindzia:
+    - t-028
+    - t-029
 
 - id: c-182805
   autorius: "Zenonas Ivinskis"
@@ -3723,9 +3551,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199904
-
 - id: c-182806
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3741,9 +3566,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199904
-    - t-199933
+  pagrindzia:
+    - t-065
+    - t-074
 
 - id: c-182808
   autorius: "Anoniminis metraštininkas"
@@ -3765,6 +3590,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-077
 
 - id: c-182809
   autorius: "Zenonas Ivinskis"
@@ -3789,9 +3616,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199913
-
 - id: c-182810
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3808,10 +3632,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199905
-    - t-199947
-    - t-203028
+  pagrindzia:
+    - t-078
+    - t-080
 
 - id: c-182811
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3834,9 +3657,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180657
-
 - id: c-182812
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3859,8 +3679,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180607
+  pagrindzia:
+    - t-014
 
 - id: c-182813
   autorius: "Zenonas Ivinskis"
@@ -3880,7 +3700,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-182814
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3912,11 +3731,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180593
-    - t-180663
-    - t-203325
-    - t-203501
+  pagrindzia:
+    - t-086
 
 - id: c-182815
   sudarytojas: "Karolis Zikaras"
@@ -3937,8 +3753,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180661
+  pagrindzia:
+    - t-043
 
 - id: c-182816
   autorius: "Michał Baliński"
@@ -3958,8 +3774,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180601
+  pagrindzia:
+    - t-010
 
 - id: c-182817
   autorius: "Michał Baliński"
@@ -3991,9 +3807,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180613
-
 - id: c-182818
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4021,11 +3834,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180605
-    - t-180629
-    - t-180669
-    - t-203428
+  pagrindzia:
+    - t-091
 
 - id: c-182819
   autorius: "Anoniminis metraštininkas"
@@ -4046,6 +3856,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-064
 
 - id: c-182820
   autorius: "Michał Baliński"
@@ -4073,9 +3885,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180616
-    - t-203480
+  pagrindzia:
+    - t-020
+    - t-093
 
 - id: c-182821
   autorius: "Zenonas Ivinskis"
@@ -4096,8 +3908,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199913
+  pagrindzia:
+    - t-068
 
 - id: c-182822
   autorius: "Michał Baliński"
@@ -4123,9 +3935,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180609
-
 - id: c-182823
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -4143,8 +3952,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180642
+  pagrindzia:
+    - t-034
 
 - id: c-182824
   autorius: "Michał Baliński"
@@ -4171,9 +3980,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180639
-
 - id: c-182825
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4216,12 +4022,11 @@ historical_names: []
     ka, kuriam šis reikalas buvo pavestas.
   citata_rodoma: "Ir taip\nmes minėtų mūsų valdinių žydų Trakuose reikalui visas jų\nnuosavybes, paliaubas ir sprendimus maloningai palaikyda­\nmi, jiems minėtą privilegiją, teises, laisves ir kitas priklau­\nsomybes, minėtoje privilegijoje aprašytas, nutarėme saugoti,\nginti, stiprinti, ką dabartiniu [raštu] ir patvirtiname, sustip­\nriname ir giname, žiūrėdami, kad ši galia ir šis raštas am­\nžiams patvirtintas ir amžinas būtų. Šio reikalo paliudijimui\nir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­\nvo ir vyko Melnike pirmadienį prieš Tris Karalius metais\nnuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­\nsiam Kristuje tėvui ir ponui Vaitiekui, Dievo malone Lucko\n[Ladzko] vyskupui, ir galingiesiems, ir garbingiesiems Tra­\nkų vaivadai Mikalojui, Jonui iš Zabžezės - Lietuvos Di­\ndžiosios Kunigaikštystės didžiajam maršalkai ir Gardino\nseniūnui, Stanislovui Hlebavičiui - Polocko vaivadai, ku­\nnigaikščiui ir etmonui, Ivanui Glinskiui - Naugarduko vai­\nvadai ir jo broliui Mykolui Glinskiui - Utenos valdytojui,\nVaitiekui Janavičiui - karališkajam rūmininkui ir Kauno\nseniūnui, ir Bielskiams - Jonui Mikolajevičiui - rūmų mar­\nšalkai ir Slonimo seniūnui, Vaitiekui Narutavičiui - rūmų •\n• --\n199\n\n## Puslapis 216\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nmaršalkai ir Josvainių seniūnui, Petrui Olechnavičiui - mū­\nsų prievaizdui ir Skirsnemunės seniūnui, ir kitiems patiki­\nmiems, surašyta Petro Opalinskio, Poznanės kustodo, ran­\nka, kuriam šis reikalas buvo pavestas."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-073
 
 - id: c-182826
@@ -4246,9 +4051,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180628
-    - t-180643
+  pagrindzia:
+    - t-027
+    - t-035
 
 - id: c-182827
   autorius: "Michał Baliński"
@@ -4271,10 +4076,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180614
-    - t-180618
-    - t-203546
+  pagrindzia:
+    - t-021
+    - t-096
 
 - id: c-182828
   redaktorius: "A. Šapoka"
@@ -4293,9 +4097,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180624
-
 - id: c-182829
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4318,10 +4119,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180590
-    - t-180665
-
 - id: c-182831
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4360,10 +4157,10 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180589
-    - t-180608
-    - t-203537
+  pagrindzia:
+    - t-005
+    - t-015
+    - t-095
 
 - id: c-182833
   autorius: "Michał Baliński"
@@ -4386,11 +4183,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-037
-    - t-180653
-    - t-180664
-    - t-203548
+  pagrindzia:
+    - t-097
 
 - id: c-182834
   autorius: "Zenonas Ivinskis"
@@ -4410,9 +4204,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199861
-    - t-199878
+  pagrindzia:
+    - t-056
+    - t-058
 
 - id: c-182835
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4431,8 +4225,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193652
+  pagrindzia:
+    - t-055
 
 - id: c-182836
   autorius: "Zenonas Ivinskis"
@@ -4453,8 +4247,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199890
+  pagrindzia:
+    - t-062
+    - t-072
 
 - id: c-182837
   sudarytojas: "Karolis Zikaras"
@@ -4472,8 +4267,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-10580
+  pagrindzia:
+    - t-001
 
 - id: c-182838
   sudarytojas: "Karolis Zikaras"
@@ -4492,14 +4287,12 @@ historical_names: []
     S *Ė - Pabaisko mūšyje Livonijos Suomijos įlanka ) | Jogailaičiui.
   citata_rodoma: "Lietuvos metraščio liudijimu, „Lietuva\npasodino didįjį kunigaikštį Žygimantą\nKęstutaitį didžiojoje kunigaikštystėje\nVilniuje ir Trakuose rugsėjo 1 d.“ Greitai\n\n## Puslapis 69\n\nŽygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \\ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-090
-    - t-180586
 
 - id: c-182839
   autorius: "Michał Baliński"
@@ -4521,10 +4314,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180673
-    - t-203246
-
 - id: c-182840
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4546,9 +4335,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199906
-
 - id: c-182841
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4586,10 +4372,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180629
-    - t-180653
-    - t-180669
+  pagrindzia:
+    - t-046
 
 - id: c-182842
   autorius: "Michał Baliński"
@@ -4618,10 +4402,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180632
-    - t-180651
-
 - id: c-182843
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4646,16 +4426,13 @@ historical_names: []
     tovia [Jogaila, arba Jagėla, Dievo ma­
     lone lietuvių karalius].
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-083
-    - t-180603
-    - t-180622
-    - t-203334
+    - t-087
 
 - id: c-182844
   autorius: "Michał Baliński"
@@ -4678,9 +4455,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180617
-
 - id: c-182845
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -4699,9 +4473,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180587
-    - t-203484
+  pagrindzia:
+    - t-094
 
 - id: c-182846
   autorius: "Michał Baliński"
@@ -4735,12 +4508,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180593
-    - t-180663
-    - t-203325
-    - t-203501
-
 - id: c-182847
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4763,9 +4530,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180592
-    - t-180621
+  pagrindzia:
+    - t-008
+    - t-023
 
 - id: c-182848
   autorius: "Michał Baliński"
@@ -4803,10 +4570,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180615
-    - t-203387
-    - t-203388
+  pagrindzia:
+    - t-089
 
 - id: c-182849
   autorius: "Michał Baliński"
@@ -4834,10 +4599,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180652
-    - t-180674
-
 - id: c-182850
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -4860,6 +4621,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-053
 
 - id: c-182851
   autorius: "Zenonas Ivinskis"
@@ -4877,9 +4640,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199904
-
 - id: c-182852
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4896,11 +4656,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180590
-    - t-180623
-    - t-180665
-
 - id: c-182854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4938,10 +4693,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180593
-    - t-180610
-
 - id: c-182855
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4961,8 +4712,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193651
+  pagrindzia:
+    - t-054
 
 - id: c-182856
   autorius: "Michał Baliński"
@@ -4993,8 +4744,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180613
+  pagrindzia:
+    - t-059
 
 - id: c-182857
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -5015,9 +4766,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180623
-    - t-180634
+  pagrindzia:
+    - t-025
 
 - id: c-182858
   autorius: "Michał Baliński"
@@ -5049,7 +4799,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-182859
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5094,8 +4843,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180637
+  pagrindzia:
+    - t-032
 
 - id: c-182860
   autorius: "Michał Baliński"
@@ -5118,9 +4867,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180617
-
 - id: c-182861
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5140,9 +4886,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180673
-    - t-203246
+  pagrindzia:
+    - t-084
 
 - id: c-182862
   autorius: "Zenonas Ivinskis"
@@ -5165,9 +4910,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199893
-    - t-199920
+  pagrindzia:
+    - t-063
+    - t-071
 
 - id: c-182863
   autorius: "Michał Baliński"
@@ -5195,9 +4940,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180632
-    - t-180651
+  pagrindzia:
+    - t-061
+    - t-070
 
 - id: c-182864
   autorius: "Michał Baliński"
@@ -5222,9 +4967,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180584
-
 - id: c-182865
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5251,9 +4993,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180615
-
 - id: c-182866
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5271,8 +5010,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180602
+  pagrindzia:
+    - t-011
 
 - id: c-182867
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -5293,9 +5032,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180630
-
 - id: c-182869
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -5323,9 +5059,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180656
-
 - id: c-182870
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5373,9 +5106,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-073
-
 - id: c-185012
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
   puslapiai: "PDF 74"
@@ -5390,8 +5120,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201665
+  pagrindzia:
+    - t-079
 
 - id: c-185984
   sudarytojas: "Karolis Zikaras"
@@ -5407,6 +5137,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-186145
   autorius: "Michał Baliński"
@@ -5430,13 +5162,12 @@ historical_names: []
     III KNYGA.
   citata_rodoma: "Privilegija, suteikta Didžiojo kunigaikščio Aleksandro \nVytauto 1388 metų Viešpaties gimimo dieną Lucke \nTrakų žydams, o Žygimanto Senojo patvirtintą Melnike \n1507 metais pirmadienį, prieš Tris karalius \n•194 •\nVI PRIEDAS.\nVilniaus miesto planas Jogailos laikais \nprieš Krikščionybės priėmimą \n•201 •\nII TOMAS\n•207•\nIII KNYGA."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199889
+  pagrindzia:
+    - t-042
 
 - id: c-186146
   autorius: "Michał Baliński"
@@ -5457,8 +5188,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180614
+  pagrindzia:
+    - t-018
 
 - id: c-186147
   autorius: "Michał Baliński"
@@ -5489,8 +5220,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180652
+  pagrindzia:
+    - t-038
 
 - id: c-186148
   autorius: "Zenonas Ivinskis"
@@ -5506,6 +5237,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-066
 
 - id: c-186149
   autorius: "Zenonas Ivinskis"
@@ -5525,6 +5258,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-067
 
 - id: c-186564
   autorius: "Andrej Ryčkov"
@@ -5541,8 +5276,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203960
+  pagrindzia:
+    - t-098
 
 - id: c-186633
   autorius: "Rimvydas Petrauskas"
@@ -5558,8 +5293,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204029
+  pagrindzia:
+    - t-099
 
 - id: c-186967
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -5584,8 +5319,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204363
+  pagrindzia:
+    - t-100
 
 - id: c-189198
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -5603,8 +5338,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206583
+  pagrindzia:
+    - t-101
 
 - id: c-189199
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -5620,8 +5355,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206584
+  pagrindzia:
+    - t-102
 
 - id: c-189200
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -5638,8 +5373,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206585
+  pagrindzia:
+    - t-103
 
 - id: c-189201
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -5660,172 +5395,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206586
-
-- id: c-190227
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 202"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 202."
-  citata_originali: |
-    Nepaisant to, 1817 m. lapkritį ir gruodį Vilniuje, Trakuose, Kaune, Naugarduke,
-    Vilkmergėje, Valkaviske, Kėdainiuose visų luomų ir konfesijų gyventojai atidavė pagarbą
-    mirusiam „savo gentainiui“ Tadui Kosciuškai. Vilniaus Šv. Kazimiero bažnyčioje pasakė
-    kalbą Trakų pavieto maršalas Mykolas Juozapas Riomeris: „Broliai!
-  citata_rodoma: "Vilniaus Šv. Kazimiero bažnyčioje pasakė \nkalbą Trakų pavieto maršalas Mykolas Juozapas Riomeris:"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207610
-
-- id: c-192971
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 66."
-  citata_originali: |
-    jis apsigyveno tenai,
-    įkūrė miestą ir davė jam Trakų vardą — tenai, kur bu­
-    vo Senieji Trakai; ir iš Kernavės perkėlė savo sostinę
-    į Trakus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210568
-
-- id: c-193002
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 125"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 125."
-  citata_originali: |
-    Leliušas nevertas garbės sėdėti drau­
-    ge su mumis Taryboje, nes jo vaivadijoje, Trakų
-    pilyje, nužudė kunigaikštį Žygimantą,— greičiausiai, jo
-    nurodymu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211220
-
-- id: c-193016
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 118-119"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 118-119."
-  citata_originali: |
-    Didysis kunigaikštis Žygimantas, valdyda-
-
-    mas Vilnių ir Trakus bei visas rusų, ir lietuvių, ir že­
-    maičių žemes, buvo nuožmus savo valdiniams
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210914
-
-- id: c-193189
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 76"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 76."
-  citata_originali: |
-    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
-    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
-    nūs
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211813
-
-- id: c-193877
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 259"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 259."
-  citata_originali: |
-    Žemaičių vyskupyste buvo (Steigta Vytauto I417.X.24 d. ak­
-    tu, duotu Trakuose.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211766
-
-- id: c-194268
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 116"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 116."
-  citata_originali: |
-    Prastovėję ties
-    Trakais keturias dienas22, nužygiavo ieškoti didžiojo
-    kunigaikščio Žygimanto ir lietuvių kariuomenės
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210650
-
-- id: c-198340
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 245."
-  citata_originali: |
-    1493 metų balandžio 6
-    dieną įrašė į Trakų žemės teismo aktus
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216568
-
-- id: c-201080
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 229"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
-  citata_originali: |
-    Trakų apskrityje šventumas buvo pripažįstamas ne vie­
-    nam ežerui.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217964
+  pagrindzia:
+    - t-104
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]]

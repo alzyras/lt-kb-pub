@@ -1,6 +1,6 @@
 ---
 tipas: paprotys
-pavadinimas: 'Vaikų duoklė valdovui'
+pavadinimas: Vaikų duoklė valdovui
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vaikų duoklė valdovui
 
@@ -75,6 +72,5 @@ Savo karaliukui, vardu Masos, kaip duoklę atneša gražiausius savo vaikus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -38,6 +38,28 @@ A. R. Niemio straipsnis apie lietuvių ir suomių liaudies poezijos ryšius, min
 
 A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
+## Teiginiai
+
+<a id="claim-t-195233"></a>
+- t-001
+  teiginys: "Tas pats darbas lietuviškai paskelbtas Tilžėje, „Prūsų lietuvių balse“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177600
+
+<a id="claim-t-195234"></a>
+- t-002
+  teiginys: "A. R. Niemio „Die Beziehungen zwischen der litauischen und finnischen Volkspoesie“ paskelbtas Tilžėje, „Litauische Warte“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177599
+
 ## Citatos
 
 - id: c-177599
@@ -57,7 +79,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177600
@@ -73,28 +95,5 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195233"></a>
-- t-001
-  teiginys: "Tas pats darbas lietuviškai paskelbtas Tilžėje, „Prūsų lietuvių balse“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177600
-
-<a id="claim-t-195234"></a>
-- t-002
-  teiginys: "A. R. Niemio „Die Beziehungen zwischen der litauischen und finnischen Volkspoesie“ paskelbtas Tilžėje, „Litauische Warte“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177599
-

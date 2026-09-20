@@ -47,6 +47,18 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-08333"></a>
+- t-001
+  teiginys: "Jei stoginėse netilpo pašaras, jį krovė ant lauko į žagus arba bragus."
+  atnaujinta: "2026-05-30 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-56400
+
 ## Citatos
 
 - id: c-56400
@@ -65,14 +77,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210009"></a>
-- t-001
-  teiginys: "Jei stoginėse netilpo pašaras, jį krovė ant lauko į žagus arba bragus."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
+  pagrindzia:
+    - t-001

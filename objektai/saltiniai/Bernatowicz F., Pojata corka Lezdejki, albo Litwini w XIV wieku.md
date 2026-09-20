@@ -35,6 +35,31 @@ media_all_json: |-
 
 Felikso Bernatovičiaus „Pojata corka Lezdejki, albo Litwini w XIV wieku“ buvo išleista Vilniuje 1826 m. keturiais tomais.
 
+## Teiginiai
+
+<a id="claim-t-190529"></a>
+- t-001
+  teiginys: "Felikso Bernatovičiaus „Pojata corka Lezdejki, albo Litwini w XIV wieku“ buvo išleista Vilniuje 1826 m. keturiais tomais."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Felikso Bernatovičiaus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bernatowicz F., Pojata corka Lezdejki, albo Litwini w XIV wieku: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Felikso Bernatovičiaus: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bernatowicz F., Pojata corka Lezdejki, albo Litwini w XIV wieku\" parinktas kaip owner_note_path. Targetas \"Felikso Bernatovičiaus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1826 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Iš bibliografinio fragmento su OCR lūžiais suformuotas pilnas sakinys apie kūrinį. Pridėta tik citatoje esanti leidimo vieta, metai ir tomų skaičius."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173412
+
 ## Citatos
 
 - id: c-173412
@@ -52,4 +77,5 @@ Felikso Bernatovičiaus „Pojata corka Lezdejki, albo Litwini w XIV wieku“ bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

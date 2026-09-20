@@ -60,6 +60,38 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
 - Lietuvių dainos ir giesmės šiaurės rytų Lietuvoje
 - Lietuvių liaudies dainų tyrinėjimai
 
+## Teiginiai
+
+<a id="claim-t-195244"></a>
+- t-001
+  teiginys: "A. Sabaliauskas yra straipsnio „A. a. prof. A. R. Niemi“ autorius."
+  atnaujinta: "2026-07-12 00:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177612
+
+<a id="claim-t-195245"></a>
+- t-002
+  teiginys: "1912 m. minimas kun. A. Sabaliausko dainų rinkinys, leistas drauge su A. R. Niemio veikalu „Lietuvių dainos ir giesmės šiaurės rytų Lietuvoje“."
+  atnaujinta: "2026-07-12 00:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177611
+
+<a id="claim-t-195246"></a>
+- t-003
+  teiginys: "1913 m. A. R. Niemio „Lietuvių liaudies dainų tyrinėjimai“ buvo spausdinami kun. A. Sabaliausko vertime Tautosakos komisijoje."
+  atnaujinta: "2026-07-12 00:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177610
+
 ## Citatos
 
 - id: c-177610
@@ -77,7 +109,7 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-177611
@@ -95,7 +127,7 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177612
@@ -128,38 +160,5 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195244"></a>
-- t-001
-  teiginys: "A. Sabaliauskas yra straipsnio „A. a. prof. A. R. Niemi“ autorius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177612
-
-<a id="claim-t-195245"></a>
-- t-002
-  teiginys: "1912 m. minimas kun. A. Sabaliausko dainų rinkinys, leistas drauge su A. R. Niemio veikalu „Lietuvių dainos ir giesmės šiaurės rytų Lietuvoje“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177611
-
-<a id="claim-t-195246"></a>
-- t-003
-  teiginys: "1913 m. A. R. Niemio „Lietuvių liaudies dainų tyrinėjimai“ buvo spausdinami kun. A. Sabaliausko vertime Tautosakos komisijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177610
-

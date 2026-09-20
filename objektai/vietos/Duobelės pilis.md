@@ -36,6 +36,25 @@ historical_names: []
 
 Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių tuo metu kontroliuojamos Viznos apylinkes prie Narevo.
 
+## Teiginiai
+
+<a id="claim-t-41703"></a>
+- t-001
+  teiginys: "Lietuviai puolė Livonijos magistro valdytą Duobelės pilį, sudegino papilį ir nusiaubė apylinkes."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Duobelės pilis (pilis): 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Duobelės pilis (pilis): llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim_text ir citata tiesiogiai nurodo, kad lietuviai puolė Duobelės pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai puolė Duobelės pilis (pilis) (0.94)"
+  pagrindžia:
+    - c-45085
+
 ## Citatos
 
 - id: c-45085
@@ -56,28 +75,8 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Puolė Duobelės pilį (pilis): [[objektai/grupes/Lietuviai]]
-
-## Teiginiai
-
-<a id="claim-t-41703"></a>
-- t-001
-  teiginys: "Lietuviai puolė Livonijos magistro valdytą Duobelės pilį, sudegino papilį ir nusiaubė apylinkes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Duobelės pilis (pilis): 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Duobelės pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim_text ir citata tiesiogiai nurodo, kad lietuviai puolė Duobelės pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuviai puolė Duobelės pilis (pilis) (0.94)"
-  pagrindžia:
-    - c-45085
-

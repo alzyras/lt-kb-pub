@@ -52,6 +52,19 @@ Gertuvė šiame šaltinyje reiškia kaimo gėrimo ir susiėjimo vietą.
 
 Terminas vartojamas dvaro, kaimo ir bendruomeninio taikymosi kontekste.
 
+## Teiginiai
+
+<a id="claim-t-195619"></a>
+- t-001
+  teiginys: "Dvarponiai šioje apybraižoje turėjo gertuves kaimuose, prie vieškelių ir kryžkelių."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-178021
+
 ## Citatos
 
 - id: c-178021
@@ -67,19 +80,5 @@ Terminas vartojamas dvaro, kaimo ir bendruomeninio taikymosi kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195619"></a>
-- t-001
-  teiginys: "Dvarponiai šioje apybraižoje turėjo gertuves kaimuose, prie vieškelių ir kryžkelių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-178021
-

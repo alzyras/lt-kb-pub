@@ -27,6 +27,28 @@ media_all_json: |-
 
 Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, kai apsiaustoje pilyje baigėsi maistas ir pilis atiteko Vytautui.
 
+## Teiginiai
+
+<a id="claim-t-185408"></a>
+- t-001
+  teiginys: "Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, kai apsiaustoje pilyje baigėsi maistas ir pilis atiteko Vytautui."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Švitrigaila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "prastuomenė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Švitrigaila: mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"prastuomenė\" parinktas kaip owner_note_path. Targetas \"Švitrigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
+  pagrindžia:
+    - c-168769
+
 ## Citatos
 
 - id: c-168769
@@ -50,28 +72,5 @@ Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, kai ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-185408"></a>
-- t-001
-  teiginys: "Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, kai apsiaustoje pilyje baigėsi maistas ir pilis atiteko Vytautui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Švitrigaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "prastuomenė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Švitrigaila: mention_match, person, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"prastuomenė\" parinktas kaip owner_note_path. Targetas \"Švitrigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
-  pagrindžia:
-    - c-168769
-

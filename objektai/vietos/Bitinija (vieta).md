@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Bitinija (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Bitinija (vieta)
+identifikacija: vieta
 variantai:
-  - 'Bitinija'
+  - Bitinija
 aliases:
-  - 'Bitinija'
+  - Bitinija
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0248ac11960bf441ff8cab39"
-canonical_name: "Bitinija (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Bitinija","Bitinija (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0248ac11960bf441ff8cab39
+canonical_name: Bitinija (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Bitinija
+  - Bitinija (vieta)
 sameAs: []
-canonical_biography: "Bitinijos keliautojai vyko tirti, ar žmonės gali gyventi septintojo dangaus rato pabaigoje."
+canonical_biography: 'Bitinijos keliautojai vyko tirti, ar žmonės gali gyventi septintojo dangaus rato pabaigoje.'
 ---
 # Bitinija (vieta)
 
@@ -72,6 +72,5 @@ Bitinijos keliautojai vyko tirti, ar žmonės gali gyventi septintojo dangaus ra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

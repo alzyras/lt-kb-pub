@@ -34,6 +34,45 @@ canonical_biography: "14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR
 
 14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR APIE J O KERŠTĄ DEDE1 DAUMANTUI UZ TĖVO TRAIDENIO NUŽUDYMĄ Traidenis vedė Mozūrų kunigaikščio dukterį1 ir su ja turėjo sūnų, vardu Rimantą2 . Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas. Lietuvos metraštyje Lauro pergalė prieš dėdę Daumantą aiškinama Dievo pagalba: Lauras sumušė jo kariuomenę, užmušė Daumantą ir paėmė Polocką.
 
+## Teiginiai
+
+<a id="claim-t-194100"></a>
+- t-001
+  teiginys: "14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR APIE J O KERŠTĄ DEDE1 DAUMANTUI UZ TĖVO TRAIDENIO NUŽUDYMĄ Traidenis vedė Mozūrų kunigaikščio dukterį1 ir su ja turėjo sūnų, vardu Rimantą2 ."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-176714
+
+<a id="claim-t-194101"></a>
+- t-002
+  teiginys: "Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-176714
+
+<a id="claim-t-196867"></a>
+- t-003
+  teiginys: "Lietuvos metraštyje Lauro pergalė prieš dėdę Daumantą aiškinama Dievo pagalba: Lauras sumušė jo kariuomenę, užmušė Daumantą ir paėmė Polocką."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176713
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas.'
@@ -73,6 +112,8 @@ canonical_biography: "14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-176714
   autorius: "Anoniminis metraštininkas"
@@ -95,64 +136,6 @@ canonical_biography: "14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193627
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 60"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 60."
-  citata_originali: |
-    Išrikiavo jisai
-    savo pulkus ir susidūrė su Daumantu prie ežero. Ir
-    susikibo jie su savo pulkais iš abiejų pusių, ir užvirė
-    tarp jų mūšis ir nemenka skerdynė, nuo ryto ligi va­
-    karo. Ir dievas pagelbėjo Laurui, ir jis sumušė visą sa­
-    vo dėdės Daumanto kariuomenę, patį užmušė 10 ir pa­
-    ėmė Polocko miestą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-210350
-
-## Teiginiai
-
-<a id="claim-t-210692"></a>
-- t-001
-  teiginys: "Lietuvos metraštyje Lauro pergalė prieš dėdę Daumantą aiškinama Dievo pagalba: Lauras sumušė jo kariuomenę, užmušė Daumantą ir paėmė Polocką."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-193627
-
-<a id="claim-t-211973"></a>
-- t-002
-  teiginys: "Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-
-<a id="claim-t-210350"></a>
-- t-210350
-  teiginys: "14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR APIE J O KERŠTĄ DEDE1 DAUMANTUI UZ TĖVO TRAIDENIO NUŽUDYMĄ Traidenis vedė Mozūrų kunigaikščio dukterį1 ir su ja turėjo sūnų, vardu Rimantą2 ."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193627
-
+    - t-002

@@ -45,34 +45,12 @@ historical_names: []
 
 1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o 1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­ niaus.
 
-## Citatos
-
-- id: c-28388
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 240."
-  citata_originali: |
-    1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o
-    1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­
-    niaus. Tada abiejų lyčių lietuvių buvę nužudyta 1200^4.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Kryžiuočių ordinas]]
-
 ## Teiginiai
 
 <a id="claim-t-28484"></a>
 - t-001
   teiginys: "1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Ukmergės apylinkė: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -89,3 +67,24 @@ historical_names: []
   pagrindžia:
     - c-28388
 
+## Citatos
+
+- id: c-28388
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 240"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 240."
+  citata_originali: |
+    1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o
+    1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­
+    niaus. Tada abiejų lyčių lietuvių buvę nužudyta 1200^4.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+## Ryšiai
+- Buvo kelionės vieta: [[objektai/grupes/Kryžiuočių ordinas]]

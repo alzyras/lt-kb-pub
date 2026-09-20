@@ -69,11 +69,9 @@ Margaritos Austrijietės Savojietės giminystė su paskutiniaisiais Jogailaičia
     fantastiškumas verčia manyti, kad pašalinės įtakos čia buvo perdirbtos visai
     savarankiškai ir kad architektu galėjo būti ir vietos žmogus.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

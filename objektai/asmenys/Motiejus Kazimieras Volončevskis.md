@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Motiejus Kazimieras Volončevskis'
+pavadinimas: Motiejus Kazimieras Volončevskis
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 datos:
-  - '1858 m.'
+  - 1858 m.
 date_start: '1858'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-985e96001c41174496bfe302"
-canonical_name: "Motiejus Kazimieras Volončevskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Motiejus Kazimieras Volončevskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-985e96001c41174496bfe302
+canonical_name: Motiejus Kazimieras Volončevskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Motiejus Kazimieras Volončevskis
 sameAs: []
-canonical_biography: "Rašiau Varniuose 1858 metuose gruodžio 25 d. Motiejus vyskupas."
+canonical_biography: Rašiau Varniuose 1858 metuose gruodžio 25 d. Motiejus vyskupas.
 ---
 # Motiejus Kazimieras Volončevskis
 

@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Griškabudis (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Griškabudis (vieta)
+identifikacija: vieta
 variantai:
-  - 'Griškabudis'
+  - Griškabudis
 aliases:
-  - 'Griškabudis'
+  - Griškabudis
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8c69a20c74bc60968842f88b"
-canonical_name: "Griškabudis (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Griškabudis","Griškabudis (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8c69a20c74bc60968842f88b
+canonical_name: Griškabudis (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Griškabudis
+  - Griškabudis (vieta)
 sameAs: []
-canonical_biography: "Vogintas tapo praša lintas už pasipriešinimą iš Marijampolės ir per keltas Griškabudin vikaru."
+canonical_biography: Vogintas tapo praša lintas už pasipriešinimą iš Marijampolės ir per keltas Griškabudin vikaru.
 ---
 # Griškabudis (vieta)
 
@@ -70,6 +70,5 @@ Vogintas tapo praša lintas už pasipriešinimą iš Marijampolės ir per keltas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

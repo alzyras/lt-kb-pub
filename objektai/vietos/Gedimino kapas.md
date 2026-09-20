@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Gedimino kapas'
+pavadinimas: Gedimino kapas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-933956a76fad191396ba8775"
-canonical_name: "Gedimino kapas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Gedimino kapas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-933956a76fad191396ba8775
+canonical_name: Gedimino kapas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Gedimino kapas
 sameAs: []
-canonical_biography: "Gedimino kapas, pagal vietos padavimus, buvo prie Vilniaus, dešiniajame Vilnios krante, tarp Užupio ir Antakalnio kelio."
+canonical_biography: 'Gedimino kapas, pagal vietos padavimus, buvo prie Vilniaus, dešiniajame Vilnios krante, tarp Užupio ir Antakalnio kelio.'
 ---
 # Gedimino kapas
 
@@ -78,6 +77,5 @@ Gedimino kapas, pagal vietos padavimus, buvo prie Vilniaus, dešiniajame Vilnios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

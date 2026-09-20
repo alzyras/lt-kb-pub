@@ -35,6 +35,34 @@ Jogaila atidavė Trubčevsko kunigaikštystę savo jaunesniajam broliui Dmitriju
 
 Jogaila atidavė Trubčevsko kunigaikštystę savo jaunesniajam broliui Dmitrijui Kaributaičiui, kuris jau valdė Starodubą Seversko žemėje. Dmitrijus Kaributaitis, kaip aprašo Teodoras Narbutas, pasitiko Rusios kariuomenę su duona ir druska, pareiškė norįs būti Rusios didžiojo kunigaikščio Dmitrijaus valdžioje ir iš jo gavo Perejaslavlį su antraeilės reikšmės kunigaikščio teisėmis.
 
+## Teiginiai
+
+<a id="claim-t-206974"></a>
+- t-001
+  teiginys: "Jogaila atidavė Trubčevsko kunigaikštystę savo jaunesniajam broliui Dmitrijui Kaributaičiui, kuris jau valdė Starodubą Seversko žemėje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189589
+
+<a id="claim-t-206975"></a>
+- t-002
+  teiginys: "Dmitrijus Kaributaitis, kaip aprašo Teodoras Narbutas, pasitiko Rusios kariuomenę su duona ir druska, pareiškė norįs būti Rusios didžiojo kunigaikščio Dmitrijaus valdžioje ir iš jo gavo Perejaslavlį su antraeilės reikšmės kunigaikščio teisėmis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189590
+
 ## Citatos
 
 - id: c-189589
@@ -51,7 +79,7 @@ Jogaila atidavė Trubčevsko kunigaikštystę savo jaunesniajam broliui Dmitriju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189590
@@ -72,34 +100,5 @@ Jogaila atidavė Trubčevsko kunigaikštystę savo jaunesniajam broliui Dmitriju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206974"></a>
-- t-001
-  teiginys: "Jogaila atidavė Trubčevsko kunigaikštystę savo jaunesniajam broliui Dmitrijui Kaributaičiui, kuris jau valdė Starodubą Seversko žemėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189589
-
-<a id="claim-t-206975"></a>
-- t-002
-  teiginys: "Dmitrijus Kaributaitis, kaip aprašo Teodoras Narbutas, pasitiko Rusios kariuomenę su duona ir druska, pareiškė norįs būti Rusios didžiojo kunigaikščio Dmitrijaus valdžioje ir iš jo gavo Perejaslavlį su antraeilės reikšmės kunigaikščio teisėmis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189590
-

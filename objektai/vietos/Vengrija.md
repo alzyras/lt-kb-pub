@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Vengrija'
+pavadinimas: Vengrija
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -10,15 +10,15 @@ saltiniai:
   - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1211 m.'
-  - '1224 m.'
-  - '1402 m.'
-  - '1514 m.'
-  - '1526 m.'
-  - '1553 m.'
-  - '1579 m.'
-  - '1738 m.'
-  - '2026 m.'
+  - 1211 m.
+  - 1224 m.
+  - 1402 m.
+  - 1514 m.
+  - 1526 m.
+  - 1553 m.
+  - 1579 m.
+  - 1738 m.
+  - 2026 m.
 date_start: '1211'
 date_end: '2026'
 sukurta: ''
@@ -27,29 +27,41 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6f4514e3926a308e1a5aff67"
-canonical_name: "Vengrija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vengrija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6f4514e3926a308e1a5aff67
+canonical_name: Vengrija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vengrija
 sameAs: []
-canonical_biography: "Į Vengriją ordinas buvo pakviestas kariauti su ją puolančiais pagonimis kumanais. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),. Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai."
+canonical_biography: 'Į Vengriją ordinas buvo pakviestas kariauti su ją puolančiais pagonimis kumanais. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),. Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Vengrija","url":"https://lt.wikipedia.org/wiki/Vengrija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Vengrija","url":"https://www.vle.lt/straipsnis/vengrija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T08:42:54+00:00","source_checked_at":"2026-09-19T08:42:54+00:00","counts":{"relations":8,"gallery":0,"sources":10},"featured_claim_ids":["t-180766","t-180775","t-180768","t-180764","t-200719","t-204330","t-180770"],"featured_claims":[{"claim_id":"t-180766","text":"1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad šis ruošiasi kurti savo valstybę, o ne jam tarnauti.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-164349"]},{"claim_id":"t-180775","text":"1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-164352"]},{"claim_id":"t-180768","text":"1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad jis siekia kurti savo valstybę, o ne tarnauti karaliui.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-164349"]},{"claim_id":"t-180764","text":"Karalius Kazimieras Vilniuje gavo žinią apie sūnaus Jono Albrechto sutriuškinimą Vengrijoje.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-164356"]},{"claim_id":"t-200719","text":"1738 m. Marcijonas Mykolas Oginskis iš Vengrijos pirko 25 statines seno ir jauno vyno už 274 raudonuosius auksinus, o vyno atgabenimas į Vilnių kainavo dar 125 raudonuosius auksinus.","source":"darbas/sources/Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.).md","evidence_ids":["c-184064"]},{"claim_id":"t-204330","text":"LDK bajorai gerdavo iš Vengrijos importuotą vyną.","source":"darbas/sources/Lituanistika-53374-Bajoru-virtuve.md","evidence_ids":["c-186894"]},{"claim_id":"t-180770","text":"Rengiantis 1579 m. žygiui, kareivių buvo samdoma Vengrijoje ir Vokietijoje.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-164351"]}],"featured_quote":{"text":"Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37. Šiame anuomet garsiame fabrike išlieta labai daug pabūk­ lų, gaminta bombos ir kiti karo reikmenys.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-180772","evidence_id":"c-164355","origin":"internal"},"wiki":{"status":"published","source":{"title":"Vengrija","url":"https://lt.wikipedia.org/wiki/Vengrija","publisher":"Vikipedija","language":"lt","article_id":"1546","revision_id":"7923555","published_at":"2026-09-13T04:40:14Z","version_pk":"","content_hash":"6f1e6d36823535fec7079b68eae68be497bd2c32433d9f76b102930f90f5f5ab","retrieved_at":"2026-09-19T08:40:09+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Vengrija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"1546"}},"intro":"Vengrija (veng. Magyarország) – valstybė Vidurio Europoje. Šiaurės vakaruose ribojasi su Austrija, šiaurėje – su Slovakija, šiaurės rytuose – su Ukraina, rytuose ir pietryčiuose – su Rumunija, pietuose – su Serbija, pietvakariuose – su Kroatija ir Slovėnija. Šalies sostinė ir didžiausias miestas – Budapeštas. Kiti didieji miestai – Debrecenas, Segedas, Miškolcas, Pėčas ir Dėras.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Vengrija","url":"https://lt.wikipedia.org/wiki/Vengrija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Vengrija","url":"https://www.vle.lt/straipsnis/vengrija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Vengrija","https://www.vle.lt/straipsnis/vengrija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"8abd91164efa145d89405886","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Avių ir galvijų auginimo regionas","context":"Šaltinyje Vengrija priskiriama avių ir galvijų auginimo regionams pagal vyraujantį palivarko produkcijos pobūdį.","support_ids":["t-203630","c-186234"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203630","source":"darbas/sources/Lituanistika-32634-ATR-palivarko-ukis.md"},{"kind":"evidence","evidence_id":"c-186234","source":"darbas/sources/Lituanistika-32634-ATR-palivarko-ukis.md","quote":"pagal vyraujantį palivarko produkcijos pobūdį schema. Grūdų augi­ nimo regionui priskiriama Lenkija, Livo­ nijos žemės, avių ir galvijų auginimo regi­ onams – Mecklenburgas, Vakarų Pamarys, Moldavija, Valakija (dabartinė Rumunijos sritis), Vengrija. Miškų ūkio regionu laiko­ mos Livonijos žemės, kanapių ir linų ga­ mybos regionais – Lietuva ir rusėniškosios LDK žemės (dabartinė Rytų Baltarusija)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Vengrija – istoriniuose šaltiniuose minima vieta, susijusi su politiniais konfliktais, prekyba, karyba ir kultūriniais ryšiais. 1224 m. Vengrijos karalius išvijo ordiną, nes šis, užuot tarnavęs karaliui, rengėsi kurti savo valstybę. 1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir, šaltinio teigimu, dingo iš Europos žemėlapio. XVI amžiuje ji buvo svarbi karinių išteklių tiekimo vieta: rengiantis 1579 m. žygiui ten samdyta kareivių, o iš Vengrijos per Krokuvą į Vilnių gabenti alavas ir varis. Vengrijos ryšiai su Lietuvos Didžiąja Kunigaikštyste atsiskleidė ir per vyno prekybą: bajorai gerdavo iš ten importuotą vyną, o 1738 m. Marcijonas Mykolas Oginskis įsigijo įvairaus vyno už 274 raudonuosius auksinus, dar 125 sumokėdamas už jo atgabenimą į Vilnių.","sentences":[{"sentence_id":"s1","text":"Vengrija – istoriniuose šaltiniuose minima vieta, susijusi su politiniais konfliktais, prekyba, karyba ir kultūriniais ryšiais.","support_ids":["t-180766","t-180770","t-180772","t-202545","t-204330"]},{"sentence_id":"s2","text":"1224 m. Vengrijos karalius išvijo ordiną, nes šis, užuot tarnavęs karaliui, rengėsi kurti savo valstybę.","support_ids":["t-180766","c-164349"]},{"sentence_id":"s3","text":"1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir, šaltinio teigimu, dingo iš Europos žemėlapio.","support_ids":["t-180775","c-164352"]},{"sentence_id":"s4","text":"XVI amžiuje ji buvo svarbi karinių išteklių tiekimo vieta: rengiantis 1579 m. žygiui ten samdyta kareivių, o iš Vengrijos per Krokuvą į Vilnių gabenti alavas ir varis.","support_ids":["t-180770","c-164351","t-180772","c-164355"]},{"sentence_id":"s5","text":"Vengrijos ryšiai su Lietuvos Didžiąja Kunigaikštyste atsiskleidė ir per vyno prekybą: bajorai gerdavo iš ten importuotą vyną, o 1738 m. Marcijonas Mykolas Oginskis įsigijo įvairaus vyno už 274 raudonuosius auksinus, dar 125 sumokėdamas už jo atgabenimą į Vilnių.","support_ids":["t-204330","c-186894","t-200719","c-184064","t-202545","c-185903"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Teiginį tiesiogiai pagrindžia nurodyti šaltiniai apie politinius konfliktus, karybą, prekybą ir vyno kultūrinius ryšius."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad 1224 m. Vengrijos karalius išvijo ordiną, nes šis rengėsi kurti savo valstybę."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1526 m. Mohačo mūšį, katastrofą ir Vengrijos dingimą iš Europos žemėlapio."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina kareivių samdymą Vengrijoje 1579 m. žygiui ir alavo bei vario gabenimą iš Vengrijos per Krokuvą į Vilnių."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina LDK bajorų vartotą iš Vengrijos importuotą vyną ir 1738 m. Oginskio pirkinius bei nurodytas sumas."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-180766","t-180770","t-180772","t-202545","t-204330"]},{"sentence_id":"s2","supported":true,"support_ids":["t-180766","c-164349"]},{"sentence_id":"s3","supported":true,"support_ids":["t-180775","c-164352"]},{"sentence_id":"s4","supported":true,"support_ids":["t-180770","c-164351","t-180772","c-164355"]},{"sentence_id":"s5","supported":true,"support_ids":["t-204330","c-186894","t-200719","c-184064","t-202545","c-185903"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Motiejus Huniadis","claim_id":"t-79132","confidence":0.9},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Zigmantas Liuksemburgietis","claim_id":"t-90744","confidence":0.9},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Jazygai","claim_id":"t-212721","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-10729","confidence":0.95},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-179716","confidence":0.92},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-180772","confidence":0.76},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Vladislovas Jogailaitis","claim_id":"t-183769","confidence":0.78},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Jogailaičių dinastija","claim_id":"t-101620","confidence":0.94}],"timeline":[{"date":"1211 m.","label":"Joje Vengrijos karalius Andrius 11 1211 m.","claimId":"t-224786"},{"date":"1224 m.","label":"1224 m.","claimId":"t-180766"},{"date":"1224 m.","label":"1224 m.","claimId":"t-180768"},{"date":"1526 m.","label":"1526 m.","claimId":"t-180775"},{"date":"1579 m.","label":"1579 m.","claimId":"t-180763"},{"date":"1579 m.","label":"Rengiantis 1579 m.","claimId":"t-180770"},{"date":"1738 m.","label":"1738 m.","claimId":"t-200719"},{"date":"1738 m.","label":"1738 m.","claimId":"t-202545"}],"support_disclosure":{"claims":15,"sources":8}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ddeb534f78c0ef7a
+object_page_generated_at: '2026-09-19T08:42:54+00:00'
+object_page_source_checked_at: '2026-09-19T08:42:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '15'
+object_page_source_count: '8'
+object_page_seo_description: 'Vengrija – istoriniuose šaltiniuose minima vieta, susijusi su politiniais konfliktais, prekyba, karyba ir kultūriniais ryšiais. 1224 m. Vengrijos karalius…'
+object_page_seo_input_hash: 387d8fd9356d829cca844fe51dd95a96adf152ca3b55bfc66c541fe70e0a08fa
+object_page_seo_generated_at: '2026-09-19T08:42:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vengrija
 
@@ -58,6 +70,264 @@ historical_names: []
 Į Vengriją ordinas buvo pakviestas kariauti su ją puolančiais pagonimis kumanais. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),. Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai.
 
 ## Teiginiai
+
+<a id="claim-t-180762"></a>
+- t-001
+  teiginys: "Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną bei Henriką ir nuniokojo tas šalis."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lenkija: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lenkija kartu su Vengrija nurodyta kaip totorių įsiveržimo objektas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-164347
+
+<a id="claim-t-180763"></a>
+- t-002
+  teiginys: "1579 m. žygiui prieš caro kariuomenę buvo pasamdyta kareivių Vengrijoje ir Vokietijoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vokietija: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra nutrūkęs; citata pagrindžia aiškų faktą apie samdytus kareivius Vengrijoje."
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-164351
+
+<a id="claim-t-180764"></a>
+- t-003
+  teiginys: "Karalius Kazimieras Vilniuje gavo žinią apie sūnaus Jono Albrechto sutriuškinimą Vengrijoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=61"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-164356
+
+<a id="claim-t-180765"></a>
+- t-004
+  teiginys: "1326 metais Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vengrija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vengrija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Totorių kariuomenė siaubė Vengrijos karalystę; objektas apibendrintas kaip Vengrija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-164348
+
+<a id="claim-t-180766"></a>
+- t-005
+  teiginys: "1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad šis ruošiasi kurti savo valstybę, o ne jam tarnauti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vengrai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vengrai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Vengrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1224 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-164349
+
+<a id="claim-t-180767"></a>
+- t-006
+  teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinė formuluotė su „tais pačiais metais“ yra kontekstinė ir nepakankamai savarankiška."
+  pagrindžia:
+    - c-164354
+
+<a id="claim-t-180768"></a>
+- t-007
+  teiginys: "1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad jis siekia kurti savo valstybę, o ne tarnauti karaliui."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vengrai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vengrai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Vengrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1224 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-164349
+
+<a id="claim-t-180770"></a>
+- t-008
+  teiginys: "Rengiantis 1579 m. žygiui, kareivių buvo samdoma Vengrijoje ir Vokietijoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vokietija: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-164351
+
+<a id="claim-t-180772"></a>
+- t-009
+  teiginys: "Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o iš ten superkami į Vilnių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vengrija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Prekių judėjimas iš Vengrijos galutiniam supirkimui į Vilnių remia prekybinį ryšį, nors tarpininkė Krokuva nėra kandidatuose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vengrija prekiavo su Vilnius (0.76)"
+  pagrindžia:
+    - c-164355
+
+<a id="claim-t-180773"></a>
+- t-010
+  teiginys: "Joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų)."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  pagrindžia:
+    - c-164347
+
+<a id="claim-t-180774"></a>
+- t-011
+  teiginys: "Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o ten superkami Vilniui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vengrija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Prekių maršrutas iš Vengrijos per Krokuvą į Vilnių rodo prekybinį ryšį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vengrija prekiavo su Vilnius (0.76)"
+  pagrindžia:
+    - c-164355
+
+<a id="claim-t-180775"></a>
+- t-012
+  teiginys: "1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1514 m.; įvykio data: 1526 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-164352
+
+<a id="claim-t-185173"></a>
+- t-013
+  teiginys: "Imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, iš Volynės patraukė tiesiai į Vengriją."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168534
+
+<a id="claim-t-192769"></a>
+- t-014
+  teiginys: "Teodoras Narbutas Vengriją arba jos gretimus kraštus laikė vieta, kur jazigai dar gyveno XV amžiuje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Vengrija: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jazygai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vengrija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad jazigai gyveno Vengrijoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Jazygai gyveno Vengrija (0.97)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175539
+
+<a id="claim-t-193244"></a>
+- t-015
+  teiginys: "Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-175980
 
 <a id="claim-t-200719"></a>
 - t-016
@@ -82,188 +352,10 @@ historical_names: []
   pagrindžia:
     - c-184064
 
-<a id="claim-t-213139"></a>
-- t-213139
-  teiginys: "Teodoras Narbutas Vengriją arba jos gretimus kraštus laikė vieta, kur jazigai dar gyveno XV amžiuje."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Vengrija: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jazygai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vengrija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad jazigai gyveno Vengrijoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Jazygai gyveno Vengrija (0.97)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-195847
-
-<a id="claim-t-180763"></a>
-- t-180763
-  teiginys: "1579 m. žygiui prieš caro kariuomenę buvo pasamdyta kareivių Vengrijoje ir Vokietijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vokietija: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1579 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra nutrūkęs; citata pagrindžia aiškų faktą apie samdytus kareivius Vengrijoje."
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-164351
-
-<a id="claim-t-180764"></a>
-- t-180764
-  teiginys: "Karalius Kazimieras Vilniuje gavo žinią apie sūnaus Jono Albrechto sutriuškinimą Vengrijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-164356
-
-<a id="claim-t-180766"></a>
-- t-180766
-  teiginys: "1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad šis ruošiasi kurti savo valstybę, o ne jam tarnauti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vengrai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vengrai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Vengrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1224 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-164349
-
-<a id="claim-t-180768"></a>
-- t-180768
-  teiginys: "1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad jis siekia kurti savo valstybę, o ne tarnauti karaliui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vengrai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vengrai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Vengrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1224 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-164349
-
-<a id="claim-t-180770"></a>
-- t-180770
-  teiginys: "Rengiantis 1579 m. žygiui, kareivių buvo samdoma Vengrijoje ir Vokietijoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vokietija: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1579 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-164351
-
-<a id="claim-t-180772"></a>
-- t-180772
-  teiginys: "Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o iš ten superkami į Vilnių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vengrija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Prekių judėjimas iš Vengrijos galutiniam supirkimui į Vilnių remia prekybinį ryšį, nors tarpininkė Krokuva nėra kandidatuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vengrija prekiavo su Vilnius (0.76)"
-  pagrindžia:
-    - c-164355
-
-<a id="claim-t-180774"></a>
-- t-180774
-  teiginys: "Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o ten superkami Vilniui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vengrija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Prekių maršrutas iš Vengrijos per Krokuvą į Vilnių rodo prekybinį ryšį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vengrija prekiavo su Vilnius (0.76)"
-  pagrindžia:
-    - c-164355
-
-<a id="claim-t-180775"></a>
-- t-180775
-  teiginys: "1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1514 m.; įvykio data: 1526 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-164352
-
-<a id="claim-t-193244"></a>
-- t-193244
-  teiginys: "Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-175980
-
 <a id="claim-t-202545"></a>
-- t-202545
+- t-017
   teiginys: "1738 m. Mykolo Kleopo prosenelis Marcijonas Mykolas Oginskis iš Vengrijos pirko trylika statinių seno įprastinio vyno, dvi statines seno sausų uogų vyno ir dešimt statinių dviejų rūšių jauno vyno už 274 raudonuosius auksinus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -283,9 +375,9 @@ historical_names: []
     - c-185903
 
 <a id="claim-t-203630"></a>
-- t-203630
+- t-018
   teiginys: "Vengrija priskiriama avių ir galvijų auginimo regionams pagal vyraujantį palivarko produkcijos pobūdį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -296,9 +388,9 @@ historical_names: []
     - c-186234
 
 <a id="claim-t-204330"></a>
-- t-204330
+- t-019
   teiginys: "LDK bajorai gerdavo iš Vengrijos importuotą vyną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -307,21 +399,6 @@ historical_names: []
   vertinimo_atnaujinta: "2026-07-26T17:29:06Z"
   pagrindžia:
     - c-186894
-
-<a id="claim-t-224786"></a>
-- t-224786
-  teiginys: "Joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų)."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=96"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -431,6 +508,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-010
 
 - id: c-164348
   autorius: "Petras Dusburgietis"
@@ -452,6 +532,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-164349
   redaktorius: "A. Šapoka"
@@ -470,9 +552,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180766
-    - t-180768
+  pagrindzia:
+    - t-005
+    - t-007
 
 - id: c-164351
   redaktorius: "A. Šapoka"
@@ -494,9 +576,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180763
-    - t-180770
+  pagrindzia:
+    - t-002
+    - t-008
 
 - id: c-164352
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -518,8 +600,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180775
+  pagrindzia:
+    - t-012
 
 - id: c-164354
   autorius: "Petras Dusburgietis"
@@ -536,6 +618,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-164355
   autorius: "Michał Baliński"
@@ -554,9 +638,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180772
-    - t-180774
+  pagrindzia:
+    - t-009
+    - t-011
 
 - id: c-164356
   autorius: "Michał Baliński"
@@ -582,8 +666,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180764
+  pagrindzia:
+    - t-003
 
 - id: c-168534
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -610,6 +694,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 - id: c-175539
   autorius: "Teodoras Narbutas"
@@ -630,6 +716,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
 
 - id: c-175980
   redaktorius: "A. Šapoka"
@@ -647,8 +735,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193244
+  pagrindzia:
+    - t-015
 
 - id: c-184064
   autorius: "Rimvydas Laužikas"
@@ -657,9 +745,8 @@ historical_names: []
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:35"
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-185903
@@ -670,8 +757,8 @@ historical_names: []
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-26 20:29"
-  pagrindžia:
-    - t-202545
+  pagrindzia:
+    - t-017
 
 - id: c-186234
   autorius: "Darius Žiemelis"
@@ -697,8 +784,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203630
+  pagrindzia:
+    - t-018
 
 - id: c-186894
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
@@ -720,31 +807,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204330
-
-- id: c-195847
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
-  citata_originali: |
-    Taip pat pavyko rasti prie
-    Skidliaus cerkvės 1553 metų užrašą, liudijantį, kad šioje
-    cerkvėje tuo metu buvo krikštijami Jotvingijos pagonys1.
-    Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje
-    gyveno Vengrijoje arba gretimuose kraštuose. Juk žino­
-    ma, kad 1402 ir 1403 metais Čekijoje, o 1404 metais Mo­
-    ravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio
-    kariai kartu su kumanais linksminosi2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213139
+  pagrindzia:
+    - t-019
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Motiejus Huniadis]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]

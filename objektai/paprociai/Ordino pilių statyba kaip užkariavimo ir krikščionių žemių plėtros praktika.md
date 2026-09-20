@@ -51,24 +51,12 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-222491"></a>
-- t-222491
-  teiginys: "Tęsdama Dusburgiečio ir kitų Ordino kronikininkų tradiciją, buržuazinė vokiečių istoriografija visaip stengėsi ir stengiasi pateisinti vokiečių feodalų veiksmus Rytuose."
-  atnaujinta: "2026-09-13 18:02"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-220809"></a>
-- t-220809
+<a id="claim-t-62703"></a>
+- t-001
   teiginys: "Petras iš Dusburgo Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą iš Dievo malonės ir „viešpaties darbą“."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
   ryšio_patikimumas: "susije_su -> Petras iš Dusburgo (kunigas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
@@ -77,11 +65,14 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Petras iš Dusburgo (kunigas): mention_match, person, gap=19"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika\" parinktas kaip owner_note_path. Targetas \"Petras iš Dusburgo (kunigas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-63458
+    - c-167378
 
-<a id="claim-t-225066"></a>
-- t-225066
+<a id="claim-t-62704"></a>
+- t-002
   teiginys: "Marienverderio ir Kristmemelio pilys Dusburgiečio pasakojime siejamos su keliu į netikėlių žemes ir krikščionių žemių plėtra."
-  atnaujinta: "2026-09-13 11:42"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
@@ -92,6 +83,8 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=22"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-63459
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -132,6 +125,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-63459
   autorius: "Petras Dusburgietis"
@@ -151,6 +146,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-167378
   autorius: "Petras Dusburgietis"
@@ -170,4 +167,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

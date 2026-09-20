@@ -34,48 +34,12 @@ canonical_biography: "1 būrio kareiviai Cipkevičius ir Šidiškis prašė, kad
 
 1 būrio kareiviai Cipkevičius ir Šidiškis prašė, kad leisčiau jiems pulti lenkus durtuvais.
 
-## Citatos
-
-- id: c-41633
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 202."
-  citata_originali: |
-    1 būrio kareiviai Cipkevičius ir
-    Šidiškis prašė, kad leisčiau jiems pulti lenkus durtuvais. Nieko jiems neatsakiau. Cipkevičius
-    buvo aukštas stambaus sudėjimo ūkininkaitis.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-167159
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 202."
-  citata_originali: |
-    Nusileidę į slėnį, porai
-    minučių sustojome susitvarkyti staigiai pulti apkasams. 1 būrio kareiviai Cipkevičius ir
-    Šidiškis prašė, kad leisčiau jiems pulti lenkus durtuvais. Nieko jiems neatsakiau.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-39829"></a>
 - t-001
   teiginys: "1-ojo būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lenkai: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -92,7 +56,7 @@ canonical_biography: "1 būrio kareiviai Cipkevičius ir Šidiškis prašė, kad
 <a id="claim-t-183771"></a>
 - t-002
   teiginys: "1 būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -109,3 +73,38 @@ canonical_biography: "1 būrio kareiviai Cipkevičius ir Šidiškis prašė, kad
   pagrindžia:
     - c-167159
 
+## Citatos
+
+- id: c-41633
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  puslapiai: "PDF 202"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 202."
+  citata_originali: |
+    1 būrio kareiviai Cipkevičius ir
+    Šidiškis prašė, kad leisčiau jiems pulti lenkus durtuvais. Nieko jiems neatsakiau. Cipkevičius
+    buvo aukštas stambaus sudėjimo ūkininkaitis.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-167159
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  puslapiai: "PDF 202"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 202."
+  citata_originali: |
+    Nusileidę į slėnį, porai
+    minučių sustojome susitvarkyti staigiai pulti apkasams. 1 būrio kareiviai Cipkevičius ir
+    Šidiškis prašė, kad leisčiau jiems pulti lenkus durtuvais. Nieko jiems neatsakiau.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

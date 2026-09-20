@@ -27,6 +27,26 @@ media_all_json: |-
 
 Želigovskis lapkričio 17 d. auštant pradėjo savo didžiąją ofenzyvą, puldamas lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.
 
+## Teiginiai
+
+<a id="claim-t-80636"></a>
+- t-001
+  teiginys: "Lapkričio 17 d. auštant L. Želigovskis puolė lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> oji pėstininkų divizija: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "L. Želigovskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "oji pėstininkų divizija: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginyje L. Želigovskio puolimas tiesiogiai nukreiptas į 1-osios pėstininkų divizijos užimamą barą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "L. Želigovskis puolė oji pėstininkų divizija (0.91)"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-77335
+
 ## Citatos
 
 - id: c-77335
@@ -51,29 +71,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Puolė oji pėstininkų diviziją: [[objektai/asmenys/L. Želigovskis]]
-
-## Teiginiai
-
-<a id="claim-t-80636"></a>
-- t-001
-  teiginys: "Lapkričio 17 d. auštant L. Želigovskis puolė lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> oji pėstininkų divizija: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "L. Želigovskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "oji pėstininkų divizija: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginyje L. Želigovskio puolimas tiesiogiai nukreiptas į 1-osios pėstininkų divizijos užimamą barą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "L. Želigovskis puolė oji pėstininkų divizija (0.91)"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-77335
-

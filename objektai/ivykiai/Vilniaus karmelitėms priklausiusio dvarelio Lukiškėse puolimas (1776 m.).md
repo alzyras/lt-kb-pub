@@ -49,6 +49,24 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203890"></a>
+- t-001
+  teiginys: "1776 m. Lukiškėse, prie Neries kranto, buvo užpultas Vilniaus karmelitėms priklausęs dvarelis, kuriame gyveno Stanislovo ir Elžbietos Eismantų šeima; puolimui vadovavo klebonas Mykolas Aleksandravičius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1776 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pridėta vieta, gyventojai ir puolimo vadovas. Kiti citatoje paminėti talkininkai neįtraukti dėl glaustumo."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186494
+
 ## Santrauka
 
 1776 m. Lukiškėse, prie Neries kranto, buvo užpultas Vilniaus karmelitėms priklausęs dvarelis, kuriame gyveno Stanislovo ir Elžbietos Eismantų šeima; puolimui vadovavo klebonas Mykolas Aleksandravičius.
@@ -90,24 +108,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203890"></a>
-- t-001
-  teiginys: "1776 m. Lukiškėse, prie Neries kranto, buvo užpultas Vilniaus karmelitėms priklausęs dvarelis, kuriame gyveno Stanislovo ir Elžbietos Eismantų šeima; puolimui vadovavo klebonas Mykolas Aleksandravičius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "gyvenimo laikotarpis: 1776 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pridėta vieta, gyventojai ir puolimo vadovas. Kiti citatoje paminėti talkininkai neįtraukti dėl glaustumo."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186494
-

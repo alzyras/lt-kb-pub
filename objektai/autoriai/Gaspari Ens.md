@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Gaspari Ens'
+pavadinimas: Gaspari Ens
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7f34ec74050a8df7c8c5bacf"
-canonical_name: "Gaspari Ens"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Gaspari Ens"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7f34ec74050a8df7c8c5bacf
+canonical_name: Gaspari Ens
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Gaspari Ens
 sameAs: []
-canonical_biography: "Narbutas nurodo, kad Gardino aprašymas turėtų būti veikale „Gaspari Ens. Deliciae Epadonper Germaniam“."
+canonical_biography: 'Narbutas nurodo, kad Gardino aprašymas turėtų būti veikale „Gaspari Ens. Deliciae Epadonper Germaniam“.'
 ---
 # Gaspari Ens
 
@@ -65,6 +65,5 @@ Narbutas nurodo, kad Gardino aprašymas turėtų būti veikale „Gaspari Ens. D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

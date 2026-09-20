@@ -27,6 +27,21 @@ media_all_json: |-
 
 ~- Rėkė "baškon" įsilipę, Nuleistuko spyruoklė Spynos galinės padėties fiksatorius Nuleistukas Dėtuvės fiksatorius Pistoletinė rankena Spyna juda pirmyn-atgal, kol pirštas atleidžia nuleistuką ir šis pakelia į viršų spynos galinės padėties fiksatorių, kuris.
 
+## Teiginiai
+
+<a id="claim-t-80664"></a>
+- t-001
+  teiginys: "Posakis „Rėkė „baškon“ įsilipę“ pateiktas šalia eilutės „Lipdė laisvę ir lygybę iš sulūžusių tvorų“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 200 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinį tekstą sudaro OCR ir schemos triukšmas, bet citata palaiko ribotą faktą apie posakio pateikimą."
+  vertinimo_atnaujinta: "2026-06-13T14:36:04Z"
+  pagrindžia:
+    - c-77357
+
 ## Citatos
 
 - id: c-77357
@@ -79,21 +94,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-80664"></a>
-- t-001
-  teiginys: "Posakis „Rėkė „baškon“ įsilipę“ pateiktas šalia eilutės „Lipdė laisvę ir lygybę iš sulūžusių tvorų“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 200 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinį tekstą sudaro OCR ir schemos triukšmas, bet citata palaiko ribotą faktą apie posakio pateikimą."
-  vertinimo_atnaujinta: "2026-06-13T14:36:04Z"
-  pagrindžia:
-    - c-77357
-

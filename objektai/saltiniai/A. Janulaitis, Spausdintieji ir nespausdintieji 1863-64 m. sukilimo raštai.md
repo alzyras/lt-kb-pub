@@ -2,27 +2,24 @@
 tipas: saltinis
 pavadinimas: 'A. Janulaitis, Spausdintieji ir nespausdintieji 1863-64 m. sukilimo raštai'
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1863 m.'
+  - 1863 m.
 date_start: '1863'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # A. Janulaitis, Spausdintieji ir nespausdintieji 1863-64 m. sukilimo raštai
 

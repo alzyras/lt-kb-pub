@@ -36,6 +36,41 @@ historical_names: []
 
 Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį. Kai kurių Kojelavičiaus minimų šaltinių duomenimis, Daumantas įkūrė Svyrių pilį, o Svyrių kunigaikščių giminė pavadinta jo vardu.
 
+## Teiginiai
+
+<a id="claim-t-185310"></a>
+- t-001
+  teiginys: "Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "pastate -> Svyrių pilis (pilis): 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Svyrių pilis (pilis): llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Šaltiniai teigia, kad Daumantas įkūrė Svyrių pilį; teiginys pateiktas su šaltinių išlyga."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) pastatė Svyrių pilis (pilis) (0.78)"
+  pagrindžia:
+    - c-168671
+
+<a id="claim-t-196745"></a>
+- t-002
+  teiginys: "Kai kurių Kojelavičiaus minimų šaltinių duomenimis, Daumantas įkūrė Svyrių pilį, o Svyrių kunigaikščių giminė pavadinta jo vardu."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178885
+
 ## Citatos
 
 - id: c-168671
@@ -63,7 +98,7 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-178885
@@ -90,41 +125,5 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-185310"></a>
-- t-001
-  teiginys: "Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "pastate -> Svyrių pilis (pilis): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Svyrių pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Šaltiniai teigia, kad Daumantas įkūrė Svyrių pilį; teiginys pateiktas su šaltinių išlyga."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) pastatė Svyrių pilis (pilis) (0.78)"
-  pagrindžia:
-    - c-168671
-
-<a id="claim-t-196745"></a>
-- t-002
-  teiginys: "Kai kurių Kojelavičiaus minimų šaltinių duomenimis, Daumantas įkūrė Svyrių pilį, o Svyrių kunigaikščių giminė pavadinta jo vardu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178885
-

@@ -72,11 +72,9 @@ Vytautas pareikalavo keturiasdešimt tūkstančių lenkų auksinų, vadinamųjų
     Skalą, Červonogradą.
   citata_rodoma: "Jogaila visaip\nstengėsi susitarti su Vytautu, kad šis nesipriešintų len­\nkų įsitvirtinimui šiose žemėse. Veikiau norėdamas len­\nkus labiau palenkti į karalių, Vytautas galop sutiko nu­\nsileisti, bet pareikalavo kaip atlyginimo keturiasdešimt\ntūkstančių lenkų auksinų (vadinamųjų florinų). Kadan-\n346\n\n## Puslapis 345\n\ngi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,\nSpitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­\ngų, atidavė karalystei ir karaliui Kamenecą, Smotričių,\nSkalą, Červonogradą."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

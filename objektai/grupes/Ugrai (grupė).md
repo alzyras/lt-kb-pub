@@ -29,6 +29,20 @@ media_all_json: |-
 
 Minavojama taip pat yra gudų raštuose, jog Olegui gudais valdant, būk ugrai, arba vengrai, nuo rytų į Gudus atėję, bet kaip tenai Olegas su jais atsiryžo, nėra nieko randama raštuose; pasakoja vienok, jog ugrai, pertraukę per Gudiją, užėmė Moldaviją ir.
 
+## Teiginiai
+
+<a id="claim-t-201256"></a>
+- t-001
+  teiginys: "Minavojama taip pat yra gudų raštuose, jog Olegui gudais valdant, būk ugrai, arba vengrai, nuo rytų į Gudus atėję, bet kaip tenai Olegas su jais atsiryžo, nėra nieko randama raštuose; pasakoja vienok, jog ugrai, pertraukę per Gudiją, užėmė Moldaviją ir."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184606
+
 ## Citatos
 
 - id: c-184606
@@ -51,20 +65,5 @@ Minavojama taip pat yra gudų raštuose, jog Olegui gudais valdant, būk ugrai, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201256"></a>
-- t-001
-  teiginys: "Minavojama taip pat yra gudų raštuose, jog Olegui gudais valdant, būk ugrai, arba vengrai, nuo rytų į Gudus atėję, bet kaip tenai Olegas su jais atsiryžo, nėra nieko randama raštuose; pasakoja vienok, jog ugrai, pertraukę per Gudiją, užėmė Moldaviją ir."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184606
-

@@ -35,6 +35,28 @@ media_all_json: |-
 
 Apie 830 m. Ka­ roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minėjo pietiniame Baltijos krante «slavus ir aisčius » (« at litus australe Slavi et Aisti et aliae diversae incolunt nationes »).
 
+## Teiginiai
+
+<a id="claim-t-31554"></a>
+- t-001
+  teiginys: "Apie 830 m. Einhardas „Vita Caroli Magni“ pietiniame Baltijos krante minėjo slavus, aisčius ir kitas tautas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Baltija: 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aisčiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo, kad aisčiai minimi gyvenę pietiniame Baltijos krante; kandidatuose vieta pateikta kaip Baltija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Aisčiai gyveno Baltija (0.73)"
+  temporaliniai_duomenys: "įvykio data: 890 m; įvykio data: apie 830 m.; įvykio data: 880-890"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie posakio šaltinį ir turinį."
+  pagrindžia:
+    - c-33483
+
 ## Citatos
 
 - id: c-33483
@@ -56,28 +78,5 @@ Apie 830 m. Ka­ roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-31554"></a>
-- t-001
-  teiginys: "Apie 830 m. Einhardas „Vita Caroli Magni“ pietiniame Baltijos krante minėjo slavus, aisčius ir kitas tautas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Baltija: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aisčiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad aisčiai minimi gyvenę pietiniame Baltijos krante; kandidatuose vieta pateikta kaip Baltija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Aisčiai gyveno Baltija (0.73)"
-  temporaliniai_duomenys: "įvykio data: 890 m; įvykio data: apie 830 m.; įvykio data: 880-890"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie posakio šaltinį ir turinį."
-  pagrindžia:
-    - c-33483
-

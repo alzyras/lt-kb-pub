@@ -27,6 +27,21 @@ media_all_json: |-
 
 Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai mas visiems savo mirusiesiems pagerbti.
 
+## Teiginiai
+
+<a id="claim-t-194788"></a>
+- t-001
+  teiginys: "Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai mas visiems savo mirusiesiems pagerbti."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177184
+
 ## Citatos
 
 - id: c-177184
@@ -49,4 +64,5 @@ Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai mas visie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

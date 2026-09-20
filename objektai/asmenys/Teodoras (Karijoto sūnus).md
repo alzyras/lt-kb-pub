@@ -34,6 +34,25 @@ canonical_biography: "Pritariamas Jogailos, jis pirmiausia atėmė valdomą Siev
 
 Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­ štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­ dimirą ir pagaliau.
 
+## Teiginiai
+
+<a id="claim-t-35291"></a>
+- t-001
+  teiginys: "Karijoto sūnus Teodoras buvo nepaklusnus Podolijos kunigaikštis, kurį Vytautas suvaldė Jogailos pritarimu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Karijotas: 0.99"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teodoras (Karijoto sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Karijotas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Teodoras buvo Karijoto sūnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Teodoras (Karijoto sūnus) buvo sūnus Karijotas (0.99); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Teodoras (Karijoto sūnus) (0.70)"
+  pagrindžia:
+    - c-38123
+
 ## Citatos
 
 - id: c-38123
@@ -58,28 +77,8 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Karijotas]]
-
-## Teiginiai
-
-<a id="claim-t-35291"></a>
-- t-001
-  teiginys: "Karijoto sūnus Teodoras buvo nepaklusnus Podolijos kunigaikštis, kurį Vytautas suvaldė Jogailos pritarimu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Karijotas: 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teodoras (Karijoto sūnus): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Karijotas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Teodoras buvo Karijoto sūnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Teodoras (Karijoto sūnus) buvo sūnus Karijotas (0.99); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Teodoras (Karijoto sūnus) (0.70)"
-  pagrindžia:
-    - c-38123
-

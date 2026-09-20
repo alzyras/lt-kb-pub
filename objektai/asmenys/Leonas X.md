@@ -38,23 +38,10 @@ Mikalojaus Husoviano giesmę apie stumbrą į Romą pas popiežių Leoną X tur�
 
 ## Teiginiai
 
-<a id="claim-t-207735"></a>
-- t-207735
-  teiginys: "Popiežių Leoną X turėjo pasiekti Žygimanto Senojo pasiuntinys Mikalojus Volskis, vežantis maskvėnus belaisvius."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
-  pagrindžia:
-    - c-190542
-
 <a id="claim-t-204150"></a>
-- t-204150
+- t-001
   teiginys: "Mikalojaus Husoviano giesmę apie stumbrą į Romą pas popiežių Leoną X turėjo lydėti specialiai pagaminta stumbro iškamša, tačiau po popiežiaus staigios mirties ji nebuvo išsiųsta."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -94,27 +81,5 @@ Mikalojaus Husoviano giesmę apie stumbrą į Romą pas popiežių Leoną X tur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204150
-
-- id: c-190542
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 195"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 195."
-  citata_originali: |
-    Oršos pergalė buvo iškilmingai pažymėta krikščioniškosios Europos kraštuose. Ro-
-    moje ta proga vyko iškilmingos padėkos pamaldos pačioje Šv. Petro bazilikoje, arkivys-
-    kupas Jonas Laskis net prašė atidėti Laterano susirinkimo sesiją iki tol, kol pas popiežių
-    Leoną X atvyks maskvėnus belaisvius vežantis Žygimanto Senojo pasiuntinys Mikalo-
-    jus Volskis.
-  citata_rodoma: "Ro-\nmoje ta proga vyko iškilmingos padėkos pamaldos pačioje Šv. Petro bazilikoje, arkivys-\nkupas Jonas Laskis net prašė atidėti Laterano susirinkimo sesiją iki tol, kol pas popiežių\nLeoną X atvyks maskvėnus belaisvius vežantis Žygimanto Senojo pasiuntinys Mikalo-\njus Volskis."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207735
-
+  pagrindzia:
+    - t-001

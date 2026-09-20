@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Varnių parapija'
+pavadinimas: Varnių parapija
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-2fe6e88fb29cab1d74614795"
-canonical_name: "Varnių parapija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Varnių parapija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-2fe6e88fb29cab1d74614795
+canonical_name: Varnių parapija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Varnių parapija
 sameAs: []
-canonical_biography: "Didžiausias pavyzdys buvo Varnių parapijos blaivininkų surašymas."
+canonical_biography: Didžiausias pavyzdys buvo Varnių parapijos blaivininkų surašymas.
 place_authority: true
 historical_names: []
 ---

@@ -50,6 +50,18 @@ Tai akademinio laipsnio pavadinimas, vartojamas A. R. Niemi biografijoje.
 
 Terminas šiame šaltinyje siejamas su 1891 m. gautu akademiniu laipsniu.
 
+## Teiginiai
+
+<a id="claim-t-195457"></a>
+- t-001
+  teiginys: "A. R. Niemi 1891 m. gavo filosofijos kandidato laipsnį."
+  atnaujinta: "2026-07-12 03:27"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177878
+
 ## Citatos
 
 - id: c-177878
@@ -72,18 +84,5 @@ Terminas šiame šaltinyje siejamas su 1891 m. gautu akademiniu laipsniu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195457"></a>
-- t-001
-  teiginys: "A. R. Niemi 1891 m. gavo filosofijos kandidato laipsnį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177878
-

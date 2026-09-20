@@ -43,6 +43,20 @@ canonical_biography: "1481 m. Jonas Alšėniškis, Alšėnų ir Dubrovicos kunig
 
 1481 m. Jonas Alšėniškis, Alšėnų ir Dubrovicos kunigaikštis, už pasikėsinimą nužudyti teismo sprendimu buvo nukirsdintas.
 
+## Teiginiai
+
+<a id="claim-t-203989"></a>
+- t-001
+  teiginys: "1481 m. Jonas Alšėniškis, Alšėnų ir Dubrovicos kunigaikštis, už pasikėsinimą nužudyti teismo sprendimu buvo nukirsdintas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186593
+
 ## Citatos
 
 - id: c-186593
@@ -67,20 +81,5 @@ canonical_biography: "1481 m. Jonas Alšėniškis, Alšėnų ir Dubrovicos kunig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203989"></a>
-- t-001
-  teiginys: "1481 m. Jonas Alšėniškis, Alšėnų ir Dubrovicos kunigaikštis, už pasikėsinimą nužudyti teismo sprendimu buvo nukirsdintas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  pagrindžia:
-    - c-186593
-

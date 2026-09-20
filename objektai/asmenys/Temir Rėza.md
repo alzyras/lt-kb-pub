@@ -35,6 +35,47 @@ Rusios metraščiai liudija, kad lietuviai tuo metu kariavo su totoriais, kuriem
 
 Rusios metraščiai liudija, kad lietuviai tuo metu kariavo su totoriais, kuriems vadovavo chanas arba cariuku vadintas Temir Rėza. Teodoras Narbutas pasakoja, kad Temir Rėzos žmonės, neaišku kieno įkalbėti, sužinoję apie chano perėjimą per Dneprą ir karą Podolėje, su žmonomis bei vaikais patraukė į Severuos valstybę. Teodoras Narbutas spėjo, kad Lietuvos kunigaikščiai kryžiuočių veiksmų nepaisė dėl krašto viduje kilusio pavojaus, kai sukilusiems totoriams galėjo vadovauti Temir Rėza.
 
+## Teiginiai
+
+<a id="claim-t-206978"></a>
+- t-001
+  teiginys: "Rusios metraščiai liudija, kad lietuviai tuo metu kariavo su totoriais, kuriems vadovavo chanas arba cariuku vadintas Temir Rėza."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189593
+
+<a id="claim-t-206979"></a>
+- t-002
+  teiginys: "Teodoras Narbutas pasakoja, kad Temir Rėzos žmonės, neaišku kieno įkalbėti, sužinoję apie chano perėjimą per Dneprą ir karą Podolėje, su žmonomis bei vaikais patraukė į Severuos valstybę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189594
+
+<a id="claim-t-206980"></a>
+- t-003
+  teiginys: "Teodoras Narbutas spėjo, kad Lietuvos kunigaikščiai kryžiuočių veiksmų nepaisė dėl krašto viduje kilusio pavojaus, kai sukilusiems totoriams galėjo vadovauti Temir Rėza."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189595
+
 ## Citatos
 
 - id: c-189593
@@ -51,7 +92,7 @@ Rusios metraščiai liudija, kad lietuviai tuo metu kariavo su totoriais, kuriem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189594
@@ -67,7 +108,7 @@ Rusios metraščiai liudija, kad lietuviai tuo metu kariavo su totoriais, kuriem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-189595
@@ -85,47 +126,5 @@ Rusios metraščiai liudija, kad lietuviai tuo metu kariavo su totoriais, kuriem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-206978"></a>
-- t-001
-  teiginys: "Rusios metraščiai liudija, kad lietuviai tuo metu kariavo su totoriais, kuriems vadovavo chanas arba cariuku vadintas Temir Rėza."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189593
-
-<a id="claim-t-206979"></a>
-- t-002
-  teiginys: "Teodoras Narbutas pasakoja, kad Temir Rėzos žmonės, neaišku kieno įkalbėti, sužinoję apie chano perėjimą per Dneprą ir karą Podolėje, su žmonomis bei vaikais patraukė į Severuos valstybę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189594
-
-<a id="claim-t-206980"></a>
-- t-003
-  teiginys: "Teodoras Narbutas spėjo, kad Lietuvos kunigaikščiai kryžiuočių veiksmų nepaisė dėl krašto viduje kilusio pavojaus, kai sukilusiems totoriams galėjo vadovauti Temir Rėza."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189595
-

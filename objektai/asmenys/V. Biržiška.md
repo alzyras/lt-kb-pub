@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'V. Biržiška'
+pavadinimas: V. Biržiška
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ba8c71177248363d2f39279d"
-canonical_name: "V. Biržiška"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["V. Biržiška"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ba8c71177248363d2f39279d
+canonical_name: V. Biržiška
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - V. Biržiška
 sameAs: []
-canonical_biography: "Biržiška rašė apie vysk."
+canonical_biography: Biržiška rašė apie vysk.
 ---
 # V. Biržiška
 

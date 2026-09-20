@@ -27,6 +27,48 @@ media_all_json: |-
 
 Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta, jog jos nuramina vėles. Pasak Narbuto cituojamo Henenbergerio, turtingųjų namuose gedulas trukdavo keturias savaites, o samdytos raudotojos nuolat apraudodavo mirusįjį.
 
+## Teiginiai
+
+<a id="claim-t-189136"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta, jog jos nuramina vėles."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Raudotojos Werksme: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raudotojos Werksme\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172024
+
+<a id="claim-t-189137"></a>
+- t-002
+  teiginys: "Pasak Narbuto cituojamo Henenbergerio, turtingųjų namuose gedulas trukdavo keturias savaites, o samdytos raudotojos nuolat apraudodavo mirusįjį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Raudotojos Werksme: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raudotojos Werksme\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172025
+
 ## Citatos
 
 - id: c-172024
@@ -46,6 +88,8 @@ Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-172025
   autorius: "Teodoras Narbutas"
@@ -68,92 +112,5 @@ Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198967
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 368"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
-  citata_originali: |
-    Erazmas Ste­
-    la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina,
-    kad laidojimo apeigų tvarka buvo labai senas, šventas daly­
-    kas, siekiantis Vaidevučio laikus; jos šventai laikėsi visos lietu­
-    vių genties tautos. Pasak Henenbergerio tyrimų, turtingųjų na­
-    muose gedulas trukdavo keturias savaites, per kurias negalėjo
-    būti jokio pasilinksminimo, o samdytos raudotojos privalėjo
-    nuolat verkti apraudodamos mirusiojo atminimą. Dainiai ge­
-    dulingomis raudomis apdainuodavo jo dorybes ir žymiausius
-    jo karo žygius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-201499
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 367"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
-  citata_originali: |
-    Svarbiausias dalykas laidotuvėse buvo raudotojos; many­
-    ta, kad jos nuraminančios vėles. Sis paprotys žmonėse tebegy­
-    vuoja iki šiol, nepaisant tiekos politinių ir religinių permainų.
-    Raudotojos yra jaunos, stiprių plaučių moterys; kai kas nors
-    miršta, nuo to momento iki kūno nuleidimo į kapą jos be per­
-    stojo kuo garsiausiai ir kuo klaikiausiai klykia, kiek tik gali.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-217382"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta, jog jos nuramina vėles."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kūnas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raudotojos Werksme: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kūnas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raudotojos Werksme\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-201499
-
-<a id="claim-t-218682"></a>
-- t-002
-  teiginys: "Pasak Narbuto cituojamo Henenbergerio, turtingųjų namuose gedulas trukdavo keturias savaites, o samdytos raudotojos nuolat apraudodavo mirusįjį."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raudotojos Werksme: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raudotojos Werksme\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-198967
-

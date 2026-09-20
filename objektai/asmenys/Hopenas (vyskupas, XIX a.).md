@@ -3,11 +3,11 @@ tipas: asmuo
 pavadinimas: 'Hopenas (vyskupas, XIX a.)'
 identifikacija: 'vyskupas, XIX a.'
 variantai:
-  - 'Hopenas'
+  - Hopenas
 aliases:
-  - 'Hopenas'
+  - Hopenas
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-c524521cb3c1724cc6243324"
-canonical_name: "Hopenas (vyskupas, XIX a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Hopenas","Hopenas (vyskupas, XIX a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-c524521cb3c1724cc6243324
+canonical_name: 'Hopenas (vyskupas, XIX a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Hopenas
+  - 'Hopenas (vyskupas, XIX a.)'
 sameAs: []
-canonical_biography: "Bukonių dvarininkui Hopenui vyskupas 1856.IV.21 rašte aiškino, kad nėra reikalo atimti klebonijos iš kun. Aklinskio."
+canonical_biography: 'Bukonių dvarininkui Hopenui vyskupas 1856.IV.21 rašte aiškino, kad nėra reikalo atimti klebonijos iš kun. Aklinskio.'
 ---
 # Hopenas (vyskupas, XIX a.)
 

@@ -56,49 +56,12 @@ Nenurodyta
 
 Nenurodyta
 
-## Citatos
-
-- id: c-05238
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 108"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 108."
-  citata_originali: |
-    Prieš įsistiprinant Pabaltijyje bronzos amžiui (1600-500 m. pr.
-    Kr.)^9 , kai neolito šimtmečiais vario dirbiniai jau mažais kiekiais
-    buvo iš pietinių sričių importuojami, kalbama apie «chalkolito »
-    laikus.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-65516
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  puslapiai: "PDF 29"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 29."
-  citata_originali: |
-    **Lietuvos žalvario (bronzos) amžiaus dirbiniai:**
-    1 — 10 kirviai, 11 — 13 kalavijai, 14, 19—21 iečių galai, 15—21 papuošalai,
-    statulėlė, 22, 24—31 kirviai.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-64966"></a>
 - t-001
   teiginys: "Pabaltijyje bronzos amžius datuojamas 1600-500 m. pr. Kr."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilniaus gaisro gesinimo įrankiai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -116,7 +79,7 @@ Nenurodyta
 <a id="claim-t-64967"></a>
 - t-002
   teiginys: "Lietuvos žalvario amžiaus dirbinių sąraše minimi kirviai, kalavijai, iečių galai, papuošalai ir statulėlė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -129,3 +92,39 @@ Nenurodyta
   pagrindžia:
     - c-65516
 
+## Citatos
+
+- id: c-05238
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 108"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 108."
+  citata_originali: |
+    Prieš įsistiprinant Pabaltijyje bronzos amžiui (1600-500 m. pr.
+    Kr.)^9 , kai neolito šimtmečiais vario dirbiniai jau mažais kiekiais
+    buvo iš pietinių sričių importuojami, kalbama apie «chalkolito »
+    laikus.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-65516
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  puslapiai: "PDF 29"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 29."
+  citata_originali: |
+    **Lietuvos žalvario (bronzos) amžiaus dirbiniai:**
+    1 — 10 kirviai, 11 — 13 kalavijai, 14, 19—21 iečių galai, 15—21 papuošalai,
+    statulėlė, 22, 24—31 kirviai.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

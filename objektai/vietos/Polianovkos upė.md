@@ -43,6 +43,21 @@ historical_names: []
 
 Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžinosios taikos“ sutartį.
 
+## Teiginiai
+
+<a id="claim-t-193797"></a>
+- t-001
+  teiginys: "Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžinosios taikos“ sutartį."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  pagrindžia:
+    - c-176443
+
 ## Citatos
 
 - id: c-176443
@@ -65,21 +80,5 @@ Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193797"></a>
-- t-001
-  teiginys: "Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžinosios taikos“ sutartį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  pagrindžia:
-    - c-176443
-

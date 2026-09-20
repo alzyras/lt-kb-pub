@@ -35,6 +35,25 @@ historical_names: []
 
 III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liubešave ir Žuravicuose.
 
+## Teiginiai
+
+<a id="claim-t-02554"></a>
+- t-001
+  teiginys: "Brastos apygardoje Liubešave veikė viena iš minimų mokyklų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Brasta: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Liubešavas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Brasta: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Liubešavas pateiktas Brastos apygardos mokyklų sąraše, todėl vieta priskiriama Brastos apygardai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Liubešavas priklausė Brasta (0.78)"
+  pagrindžia:
+    - c-02792
+
 ## Citatos
 
 - id: c-02792
@@ -56,25 +75,5 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-02554"></a>
-- t-001
-  teiginys: "Brastos apygardoje Liubešave veikė viena iš minimų mokyklų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Brasta: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Liubešavas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Brasta: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Liubešavas pateiktas Brastos apygardos mokyklų sąraše, todėl vieta priskiriama Brastos apygardai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Liubešavas priklausė Brasta (0.78)"
-  pagrindžia:
-    - c-02792
-

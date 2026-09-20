@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Senenzės pilis'
+pavadinimas: Senenzės pilis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-335ad6354d46209de4edfbc4"
-canonical_name: "Senenzės pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Senenzės pilis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-335ad6354d46209de4edfbc4
+canonical_name: Senenzės pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Senenzės pilis
 sameAs: []
-canonical_biography: "Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį."
+canonical_biography: Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį.
 ---
 # Senenzės pilis
 
@@ -66,6 +65,5 @@ Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

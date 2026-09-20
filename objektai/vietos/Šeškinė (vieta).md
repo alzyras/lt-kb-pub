@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Šeškinė (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Šeškinė (vieta)
+identifikacija: vieta
 variantai:
-  - 'Šeškinė'
+  - Šeškinė
 aliases:
-  - 'Šeškinė'
+  - Šeškinė
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-06c47b01cc35cae40bf7e511"
-canonical_name: "Šeškinė (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Šeškinė","Šeškinė (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-06c47b01cc35cae40bf7e511
+canonical_name: Šeškinė (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šeškinė
+  - Šeškinė (vieta)
 sameAs: []
-canonical_biography: "Šeškinė yra kalvų ruožas šiauriniame Vilniaus pakraštyje."
+canonical_biography: Šeškinė yra kalvų ruožas šiauriniame Vilniaus pakraštyje.
 ---
 # Šeškinė (vieta)
 
@@ -72,6 +72,5 @@ canonical_biography: "Šeškinė yra kalvų ruožas šiauriniame Vilniaus pakra�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

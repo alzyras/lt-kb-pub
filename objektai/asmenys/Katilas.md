@@ -33,6 +33,27 @@ canonical_biography: "Nieko nepadėjo nė pakviestas bajorijai artimesnis Katila
 
 Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasirodė. Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) — Mykolas Višniaveckis.
 
+## Teiginiai
+
+<a id="claim-t-190232"></a>
+- t-001
+  teiginys: "Antspaudas priklausė Katilui (Koczel) 1617 metais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Katilas: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Antspaudas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Katilas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad antspaudas priklausė Katilui."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-173115
+
 ## Citatos
 
 - id: c-173115
@@ -50,43 +71,5 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198531
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 404"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
-  citata_originali: |
-    IV lentelė, 22-asis piešinys. Indas, panašus į taurę, virš ku­
-    rio trikampis; virš skydo šalmas apex, kaip virš karalių karūnų.
-    Antspaudas priklausė Katilui (Koczel) 1617 metais.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-215964"></a>
-- t-001
-  teiginys: "Antspaudas priklausė Katilui (Koczel) 1617 metais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Katilas: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antspaudas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Katilas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad antspaudas priklausė Katilui."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198531
-

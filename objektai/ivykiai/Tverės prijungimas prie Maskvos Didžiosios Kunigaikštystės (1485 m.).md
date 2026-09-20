@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Tverės prijungimas prie Maskvos Didžiosios Kunigaikštystės (1485 m.)'
+pavadinimas: Tverės prijungimas prie Maskvos Didžiosios Kunigaikštystės (1485 m.)
 variantai:
-  - 'Tverės prijungimas prie Maskvos Didžiosios Kunigaikštystės'
+  - Tverės prijungimas prie Maskvos Didžiosios Kunigaikštystės
 aliases:
-  - 'Tverės prijungimas prie Maskvos Didžiosios Kunigaikštystės'
+  - Tverės prijungimas prie Maskvos Didžiosios Kunigaikštystės
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1485 m.'
+  - 1485 m.
 date_start: '1485'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Tverės prijungimas prie Maskvos Didžiosios Kunigaikštystės (1485 m.)
 
@@ -83,6 +80,5 @@ Michailas Borisovičius iš Tverės pabėgo 1485 m. rugsėjo 11–12 d. naktį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

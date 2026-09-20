@@ -46,6 +46,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205177"></a>
+- t-001
+  teiginys: "Betgi tuo metu Lietuvos ryšiai su Rusia nebuvo nutrūkę, juk Boleslovui Drąsiajam apleidus Lenkiją, po to, kai buvo nužudytas Kroikuvos vyskupas, rusinai, jau prieš tai rodę nepakan tumą lenkų jungui, nutarė surengti į Karalystės žemes žygį, kuriam vadovavo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187671
+
 ## Santrauka
 
 Betgi tuo metu Lietuvos ryšiai su Rusia nebuvo nutrūkę, juk Boleslovui Drąsiajam apleidus Lenkiją, po to, kai buvo nužudytas Kroikuvos vyskupas, rusinai, jau prieš tai rodę nepakan tumą lenkų jungui, nutarė surengti į Karalystės žemes žygį, kuriam vadovavo.
@@ -75,21 +90,5 @@ Betgi tuo metu Lietuvos ryšiai su Rusia nebuvo nutrūkę, juk Boleslovui Drąsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205177"></a>
-- t-001
-  teiginys: "Betgi tuo metu Lietuvos ryšiai su Rusia nebuvo nutrūkę, juk Boleslovui Drąsiajam apleidus Lenkiją, po to, kai buvo nužudytas Kroikuvos vyskupas, rusinai, jau prieš tai rodę nepakan tumą lenkų jungui, nutarė surengti į Karalystės žemes žygį, kuriam vadovavo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187671
-

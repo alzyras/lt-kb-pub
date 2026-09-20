@@ -44,6 +44,26 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62194"></a>
+- t-001
+  teiginys: "Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją, paskelbė karą krikščionims, buvo Ispanijos karalių nugalėtas ir pabėgo."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "surenge_zygi_i -> Ispanija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Almimolinas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ispanija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo Almimolino atvykimą su kariuomene į Ispaniją, todėl tai aiškus karinis žygis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Almimolinas surengė žygį į Ispanija (0.88)"
+  pagrindžia:
+    - c-62662
+
 ## Citatos
 
 - id: c-62662
@@ -64,32 +84,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-221292"></a>
-- t-001
-  teiginys: "Ispanijos karaliai Almimoliną nugalėjo, o jis pasitraukė su keliais kariais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-225083"></a>
-- t-002
-  teiginys: "Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją, paskelbė karą krikščionims, buvo Ispanijos karalių nugalėtas ir pabėgo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "surenge_zygi_i -> Ispanija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Almimolinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ispanija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo Almimolino atvykimą su kariuomene į Ispaniją, todėl tai aiškus karinis žygis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Almimolinas surengė žygį į Ispanija (0.88)"
-
+  pagrindzia:
+    - t-001

@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jonas Gintila'
+pavadinimas: Jonas Gintila
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 datos:
-  - '1845 m.'
+  - 1845 m.
 date_start: '1845'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f1af0804f3bac6ac298cdc9a"
-canonical_name: "Jonas Gintila"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jonas Gintila"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f1af0804f3bac6ac298cdc9a
+canonical_name: Jonas Gintila
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jonas Gintila
 sameAs: []
-canonical_biography: "Jonas Gintila 1845 m. ragino klebonus steigti parapines mokyklas."
+canonical_biography: Jonas Gintila 1845 m. ragino klebonus steigti parapines mokyklas.
 ---
 # Jonas Gintila
 

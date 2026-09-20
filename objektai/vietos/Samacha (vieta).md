@@ -1,40 +1,40 @@
 ---
 tipas: vieta
-pavadinimas: 'Samacha (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Samacha (vieta)
+identifikacija: vieta
 variantai:
-  - 'Samacha'
+  - Samacha
 aliases:
-  - 'Samacha'
+  - Samacha
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1223 m.'
+  - 1223 m.
 date_start: '1223'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-808657ae77badf0a17687cf8"
-canonical_name: "Samacha (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Samacha","Samacha (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-808657ae77badf0a17687cf8
+canonical_name: Samacha (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Samacha
+  - Samacha (vieta)
 sameAs: []
-canonical_biography: "Čingischanas 1223 metais pasiuntė kariuomenę užimti Samachos ir Derbento miestų."
+canonical_biography: Čingischanas 1223 metais pasiuntė kariuomenę užimti Samachos ir Derbento miestų.
 ---
 # Samacha (vieta)
 
@@ -78,6 +78,5 @@ canonical_biography: "Čingischanas 1223 metais pasiuntė kariuomenę užimti Sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

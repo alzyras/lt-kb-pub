@@ -42,6 +42,32 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201269"></a>
+- t-001
+  teiginys: "Grįžtantiems namo kalavijo ninis paskelbė rūmuose ciesoriaus, jog popiežius pi lį Revelio atdavė viešpačiui danų, bet visus kraš tus, iki nuveikiant netikėlius, turi Valdemaras su grąžinti kalavijonims; tas jiems didžiai netiko, ir vienas tarp jų supykęs."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184619
+
+<a id="claim-t-201270"></a>
+- t-002
+  teiginys: "Žinoma buvo, kaip vir siaus minavo jau, jog vyskupai Rygos pradžioj kalavijonų brostvą įkūrė, darin visuomet jų valdymierais darės ir nuo paties popiežiaus daug kartų patvirtintais."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184620
+
 ## Citatos
 
 - id: c-184619
@@ -74,7 +100,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184620
@@ -101,32 +127,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201269"></a>
-- t-001
-  teiginys: "Grįžtantiems namo kalavijo ninis paskelbė rūmuose ciesoriaus, jog popiežius pi lį Revelio atdavė viešpačiui danų, bet visus kraš tus, iki nuveikiant netikėlius, turi Valdemaras su grąžinti kalavijonims; tas jiems didžiai netiko, ir vienas tarp jų supykęs."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184619
-
-<a id="claim-t-201270"></a>
-- t-002
-  teiginys: "Žinoma buvo, kaip vir siaus minavo jau, jog vyskupai Rygos pradžioj kalavijonų brostvą įkūrė, darin visuomet jų valdymierais darės ir nuo paties popiežiaus daug kartų patvirtintais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184620
-

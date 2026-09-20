@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Ivanas Nikotinas'
+pavadinimas: Ivanas Nikotinas
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6a2a64cf60c413b949829cb4"
-canonical_name: "Ivanas Nikotinas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Ivanas Nikotinas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6a2a64cf60c413b949829cb4
+canonical_name: Ivanas Nikotinas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Ivanas Nikotinas
 sameAs: []
-canonical_biography: "24 pas Valančių atvyko M.Muravjovo pa siųstas ypatingų įpareigojimų valdininkas Ivanas Nikotinas."
+canonical_biography: 24 pas Valančių atvyko M.Muravjovo pa siųstas ypatingų įpareigojimų valdininkas Ivanas Nikotinas.
 ---
 # Ivanas Nikotinas
 

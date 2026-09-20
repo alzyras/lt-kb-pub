@@ -1,38 +1,38 @@
 ---
 tipas: autorius
-pavadinimas: 'Mikalojus iš Jerošino'
+pavadinimas: Mikalojus iš Jerošino
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1331 m.'
-  - '1341 m.'
+  - 1331 m.
+  - 1341 m.
 date_start: '1331'
 date_end: '1341'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8ec7fca9fbdc97f54fe339d0"
-canonical_name: "Mikalojus iš Jerošino"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Mikalojus iš Jerošino"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8ec7fca9fbdc97f54fe339d0
+canonical_name: Mikalojus iš Jerošino
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Mikalojus iš Jerošino
 sameAs: []
-canonical_biography: "XIV a. IV-ajame dešimtmetyje Mikalojus iš Jerošino Dusburgiečio kroniką išvertė eilėmis į vokiečių kalbą."
+canonical_biography: XIV a. IV-ajame dešimtmetyje Mikalojus iš Jerošino Dusburgiečio kroniką išvertė eilėmis į vokiečių kalbą.
 ---
 # Mikalojus iš Jerošino
 
@@ -77,6 +77,5 @@ XIV a. IV-ajame dešimtmetyje Mikalojus iš Jerošino Dusburgiečio kroniką iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

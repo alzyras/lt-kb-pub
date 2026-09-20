@@ -35,6 +35,41 @@ canonical_biography: "Narbuto pasakojime Volfgangas Lazijus į savo istoriją į
 
 Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos užrašą, kurį vėliau iš Lazijaus perrašė Čemberlenas. Kojelavičius remiasi Volfgango Lazijaus teiginiu, kad prūsai, lietuviai, žemaičiai, latviai, jotvingiai, polovcai ir pečenegai senovėje vadinti herulais.
 
+## Teiginiai
+
+<a id="claim-t-191333"></a>
+- t-001
+  teiginys: "Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos užrašą, kurį vėliau iš Lazijaus perrašė Čemberlenas."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Londonas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Volfgangas Lazijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Londonas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Volfgangas Lazijus\" parinktas kaip owner_note_path. Targetas \"Londonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174215
+
+<a id="claim-t-196630"></a>
+- t-002
+  teiginys: "Kojelavičius remiasi Volfgango Lazijaus teiginiu, kad prūsai, lietuviai, žemaičiai, latviai, jotvingiai, polovcai ir pečenegai senovėje vadinti herulais."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178808
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos užrašą, kurį vėliau iš Lazijaus perrašė Čemberlenas.'
@@ -92,6 +127,8 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-178808
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -119,21 +156,5 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-196630"></a>
-- t-001
-  teiginys: "Kojelavičius remiasi Volfgango Lazijaus teiginiu, kad prūsai, lietuviai, žemaičiai, latviai, jotvingiai, polovcai ir pečenegai senovėje vadinti herulais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178808
-
+  pagrindzia:
+    - t-002

@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Petro Goštauto pranciškonų vienuolyno įkūrimas Vilniuje'
+pavadinimas: Petro Goštauto pranciškonų vienuolyno įkūrimas Vilniuje
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Petro Goštauto pranciškonų vienuolyno įkūrimas Vilniuje
 
@@ -73,6 +70,5 @@ Lietuvos metraštis pasakoja, kad Vilniaus vaivada Petras Goštautas Algirdo lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

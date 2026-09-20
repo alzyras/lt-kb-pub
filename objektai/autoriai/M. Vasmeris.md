@@ -34,6 +34,25 @@ canonical_biography: "Vasmeris baltiškos kilmės žemės vardų rado žymiai to
 
 Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
 
+## Teiginiai
+
+<a id="claim-t-30852"></a>
+- t-001
+  teiginys: "M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Desna: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Desna: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad rytų baltų gyventas plotas siekė dešinįjį Desnos krantą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Baltai gyveno Desna (0.74)"
+  pagrindžia:
+    - c-33066
+
 ## Citatos
 
 - id: c-33066
@@ -55,25 +74,5 @@ Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-30852"></a>
-- t-001
-  teiginys: "M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Desna: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Desna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad rytų baltų gyventas plotas siekė dešinįjį Desnos krantą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Baltai gyveno Desna (0.74)"
-  pagrindžia:
-    - c-33066
-

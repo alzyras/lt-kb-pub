@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jonas Augštuolis'
+pavadinimas: Jonas Augštuolis
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 datos:
-  - '2000 m.'
+  - 2000 m.
 date_start: '2000'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XX'
+  - XX
 periodo_grupes:
-  - 'šiuolaikinė Lietuva'
+  - šiuolaikinė Lietuva
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e659b67519b6b1a02316bea6"
-canonical_name: "Jonas Augštuolis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jonas Augštuolis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e659b67519b6b1a02316bea6
+canonical_name: Jonas Augštuolis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jonas Augštuolis
 sameAs: []
-canonical_biography: "Centralinis komitetas iš Petrogrado atsiuntė Augštuoliui 8000 kronų. Jonas Augštuolis Stockholme persiuntė Lietuvon arti 2000 laiškų. Augštuolis buvo Centralinio Lietuvių Komiteto delegatas."
+canonical_biography: Centralinis komitetas iš Petrogrado atsiuntė Augštuoliui 8000 kronų. Jonas Augštuolis Stockholme persiuntė Lietuvon arti 2000 laiškų. Augštuolis buvo Centralinio Lietuvių Komiteto delegatas.
 ---
 # Jonas Augštuolis
 
@@ -99,7 +98,7 @@ Centralinis komitetas iš Petrogrado atsiuntė Augštuoliui 8000 kronų. Jonas A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192555
@@ -120,7 +119,7 @@ Centralinis komitetas iš Petrogrado atsiuntė Augštuoliui 8000 kronų. Jonas A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-192556
@@ -139,6 +138,5 @@ Centralinis komitetas iš Petrogrado atsiuntė Augštuoliui 8000 kronų. Jonas A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

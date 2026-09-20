@@ -1,28 +1,25 @@
 ---
 tipas: saltinis
-pavadinimas: 'Juozo Račkauskio straipsnis „Aprašymas gyvato Žemaičių vyskupo a. a. Motiejaus Valančiaus“'
+pavadinimas: Juozo Račkauskio straipsnis „Aprašymas gyvato Žemaičių vyskupo a. a. Motiejaus Valančiaus“
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1901 m.'
+  - 1901 m.
 date_start: '1901'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Juozo Račkauskio straipsnis „Aprašymas gyvato Žemaičių vyskupo a. a. Motiejaus Valančiaus“
 

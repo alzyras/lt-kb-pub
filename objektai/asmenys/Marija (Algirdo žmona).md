@@ -42,6 +42,42 @@ canonical_biography: "26 ## Puslapis 43 I KNYGA krikščionišku tikėjimu, pirm
 
 26 ## Puslapis 43 I KNYGA krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­ ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte Marija, sekdamas Gedimino politika, leido, be skirtumo, iš Romos atsiųstiems vienuoliams Vilniuje skelbti. Marija (Algirdo žmona) buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­ bėje, pasakyta, kad tai yra senos lais­ vės, senolio Algirdo ir jo įpėdinių suteiktos Vilniui, atnaujinimas.
 
+## Teiginiai
+
+<a id="claim-t-87545"></a>
+- t-001
+  teiginys: "Marija buvo Tverės kunigaikštytė ir Algirdo žmona."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_zmona -> Algirdas (Lietuvos valdovas): 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Marija (Algirdo žmona): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Mariją kaip Algirdo žmoną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Marija (Algirdo žmona) buvo žmona Algirdas (Lietuvos valdovas) (0.97)"
+  pagrindžia:
+    - c-83524
+
+<a id="claim-t-87546"></a>
+- t-002
+  teiginys: "Marija, Algirdo žmona, globojo į Vilnių atvykstančius rusinus ir siekė lietuviams pagonims skleisti graikų apeigų krikščionybę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_zmona -> Algirdas (Lietuvos valdovas): 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Marija (Algirdo žmona): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Mariją kaip Algirdo žmoną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Marija (Algirdo žmona) buvo žmona Algirdas (Lietuvos valdovas) (0.97)"
+  pagrindžia:
+    - c-83525
+
 ## Citatos
 
 - id: c-83524
@@ -68,7 +104,7 @@ canonical_biography: "26 ## Puslapis 43 I KNYGA krikščionišku tikėjimu, pirm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-83525
@@ -122,45 +158,8 @@ canonical_biography: "26 ## Puslapis 43 I KNYGA krikščionišku tikėjimu, pirm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-
-## Teiginiai
-
-<a id="claim-t-87545"></a>
-- t-001
-  teiginys: "Marija buvo Tverės kunigaikštytė ir Algirdo žmona."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_zmona -> Algirdas (Lietuvos valdovas): 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Marija (Algirdo žmona): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Mariją kaip Algirdo žmoną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Marija (Algirdo žmona) buvo žmona Algirdas (Lietuvos valdovas) (0.97)"
-  pagrindžia:
-    - c-83524
-
-<a id="claim-t-87546"></a>
-- t-002
-  teiginys: "Marija, Algirdo žmona, globojo į Vilnių atvykstančius rusinus ir siekė lietuviams pagonims skleisti graikų apeigų krikščionybę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_zmona -> Algirdas (Lietuvos valdovas): 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Marija (Algirdo žmona): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Mariją kaip Algirdo žmoną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Marija (Algirdo žmona) buvo žmona Algirdas (Lietuvos valdovas) (0.97)"
-  pagrindžia:
-    - c-83525
-

@@ -42,6 +42,32 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201893"></a>
+- t-001
+  teiginys: "Lietuvos bernardinų provincijos sukūrimą palaikė Lietuvos atskirumą nuo Lenkijos pabrėžiantys ir stiprinantys Lietuvos didikai, ypač Albertas Goštautas, taip pat Vilniaus vyskupas Jonas iš Lietuvos kunigaikščių."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185240
+
+<a id="claim-t-201894"></a>
+- t-002
+  teiginys: "Lietuvos bernardinų atsiskyrimo siekius ėmė remti ir Žygimantas Senasis."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185241
+
 ## Citatos
 
 - id: c-185240
@@ -58,7 +84,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185241
@@ -78,32 +104,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201893"></a>
-- t-001
-  teiginys: "Lietuvos bernardinų provincijos sukūrimą palaikė Lietuvos atskirumą nuo Lenkijos pabrėžiantys ir stiprinantys Lietuvos didikai, ypač Albertas Goštautas, taip pat Vilniaus vyskupas Jonas iš Lietuvos kunigaikščių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185240
-
-<a id="claim-t-201894"></a>
-- t-002
-  teiginys: "Lietuvos bernardinų atsiskyrimo siekius ėmė remti ir Žygimantas Senasis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185241
-

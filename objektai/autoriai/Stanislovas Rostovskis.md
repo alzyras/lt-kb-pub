@@ -1,38 +1,38 @@
 ---
 tipas: autorius
-pavadinimas: 'Stanislovas Rostovskis'
+pavadinimas: Stanislovas Rostovskis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1711 m.'
-  - '1784 m.'
+  - 1711 m.
+  - 1784 m.
 date_start: '1711'
 date_end: '1784'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVIII'
+  - XVIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-058fb115d18095d6b9d92db2"
-canonical_name: "Stanislovas Rostovskis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Stanislovas Rostovskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-058fb115d18095d6b9d92db2
+canonical_name: Stanislovas Rostovskis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Stanislovas Rostovskis
 sameAs: []
-canonical_biography: "S. Rostovskis parašė veikalą „Litvanicarum Societatis Jesu historiarum provincialium“."
+canonical_biography: S. Rostovskis parašė veikalą „Litvanicarum Societatis Jesu historiarum provincialium“.
 ---
 # Stanislovas Rostovskis
 
@@ -77,6 +77,5 @@ S. Rostovskis parašė veikalą „Litvanicarum Societatis Jesu historiarum prov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Pilypas Makžeckis'
+pavadinimas: Pilypas Makžeckis
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-34cc6fdab7ef9f392b61d315"
-canonical_name: "Pilypas Makžeckis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Pilypas Makžeckis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-34cc6fdab7ef9f392b61d315
+canonical_name: Pilypas Makžeckis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Pilypas Makžeckis
 sameAs: []
-canonical_biography: "Valančius rašė laiškus ištremtam kunigui Pilypui Makžeckiui."
+canonical_biography: Valančius rašė laiškus ištremtam kunigui Pilypui Makžeckiui.
 ---
 # Pilypas Makžeckis
 

@@ -33,6 +33,32 @@ historical_names: []
 
 Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais prie Neries ir sklypas, vadinamas Baltykla (Blecharnia), už Bernardinų vienuolyno, kuriame buvo balinami audiniai. Kryžiaus) ir du vienuolynus, pranciškonų ir bernardinų, su savo bažnyčiomis.
 
+## Teiginiai
+
+<a id="claim-t-201716"></a>
+- t-001
+  teiginys: "Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais prie Neries ir sklypas, vadinamas Baltykla (Blecharnia), už Bernardinų vienuolyno, kuriame buvo balinami audiniai."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185063
+
+<a id="claim-t-201717"></a>
+- t-002
+  teiginys: "Kryžiaus) ir du vienuolynus, pranciškonų ir bernardinų, su savo bažnyčiomis."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185064
+
 ## Citatos
 
 - id: c-185063
@@ -50,7 +76,7 @@ Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185064
@@ -68,32 +94,5 @@ Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201716"></a>
-- t-001
-  teiginys: "Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais prie Neries ir sklypas, vadinamas Baltykla (Blecharnia), už Bernardinų vienuolyno, kuriame buvo balinami audiniai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185063
-
-<a id="claim-t-201717"></a>
-- t-002
-  teiginys: "Kryžiaus) ir du vienuolynus, pranciškonų ir bernardinų, su savo bažnyčiomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185064
-

@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Kražantė (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Kražantė (vieta)
+identifikacija: vieta
 variantai:
-  - 'Kražantė'
+  - Kražantė
 aliases:
-  - 'Kražantė'
+  - Kražantė
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8aa4632c29ae392509b537ab"
-canonical_name: "Kražantė (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kražantė","Kražantė (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8aa4632c29ae392509b537ab
+canonical_name: Kražantė (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kražantė
+  - Kražantė (vieta)
 sameAs: []
-canonical_biography: "Medziojnos šventykla šaltinyje lokalizuojama Kražantės upės kairiajame krante prie Kražių."
+canonical_biography: Medziojnos šventykla šaltinyje lokalizuojama Kražantės upės kairiajame krante prie Kražių.
 ---
 # Kražantė (vieta)
 
@@ -70,6 +70,5 @@ Medziojnos šventykla šaltinyje lokalizuojama Kražantės upės kairiajame kran
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

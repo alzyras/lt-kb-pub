@@ -32,6 +32,21 @@ media_all_json: |-
 
 Pasak Lietuvos statuto, įrodymai daugiausia remdavosi priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir 18 Komisijos dekretas apie valstiečių ginčą su Slucko bažnyčios klebonu (Wizerunki Naukowe.
 
+## Teiginiai
+
+<a id="claim-t-194855"></a>
+- t-001
+  teiginys: "Pasak Lietuvos statuto, įrodymai daugiausia remdavosi priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir 18 Komisijos dekretas apie valstiečių ginčą su Slucko bažnyčios klebonu (Wizerunki Naukowe."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177251
+
 ## Citatos
 
 - id: c-177251
@@ -49,38 +64,5 @@ Pasak Lietuvos statuto, įrodymai daugiausia remdavosi priesaika, nes šis aktas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198172
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 321"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 321."
-  citata_originali: |
-    Pasak Lietuvos statuto, įrodymai daugiausia remdavosi
-    priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir
-    18 Komisijos dekretas apie valstiečių ginčą su Slucko bažnyčios
-    klebonu (Wizerunki Naukowe. -1836. - T. X. - S. 128-138).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-219764"></a>
-- t-001
-  teiginys: "Pasak Lietuvos statuto, įrodymai daugiausia remdavosi priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir 18 Komisijos dekretas apie valstiečių ginčą su Slucko bažnyčios klebonu (Wizerunki Naukowe."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-198172
-

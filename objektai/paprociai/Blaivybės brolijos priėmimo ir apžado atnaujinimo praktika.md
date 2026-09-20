@@ -1,8 +1,8 @@
 ---
 tipas: paprotys
-pavadinimas: 'Blaivybės brolijos priėmimo ir apžado atnaujinimo praktika'
+pavadinimas: Blaivybės brolijos priėmimo ir apžado atnaujinimo praktika
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Blaivybės brolijos priėmimo ir apžado atnaujinimo praktika
 
@@ -38,20 +35,6 @@ Nenurodyta
 
 ## Kontekstas
 Nenurodyta
-
-## Teiginiai
-
-<a id="claim-t-208821"></a>
-- t-001
-  teiginys: "Blaivybės brolijos nariai privalo visą amžių negerti degtinės, romo ir arako, raginti kitus žmones stoti į broliją, kas šventadienį kalbėti šv. Bernardo maldą ir per Grabnyčias atnaujinti blaivybės apžadą."
-  atnaujinta: "2026-09-13 13:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191441
 
 ## Santrauka
 
@@ -84,6 +67,19 @@ Blaivybės brolijos nariai privalo visą amžių negerti degtinės, romo ir arak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
+## Teiginiai
+
+<a id="claim-t-208821"></a>
+- t-001
+  teiginys: "Blaivybės brolijos nariai privalo visą amžių negerti degtinės, romo ir arako, raginti kitus žmones stoti į broliją, kas šventadienį kalbėti šv. Bernardo maldą ir per Grabnyčias atnaujinti blaivybės apžadą."
+  atnaujinta: "2026-09-13 13:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191441
 

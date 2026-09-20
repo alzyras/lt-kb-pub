@@ -51,6 +51,19 @@ Dantų plauti šiame šaltinyje yra gavėnios pradžios papročio pavadinimas.
 
 Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontekste.
 
+## Teiginiai
+
+<a id="claim-t-195634"></a>
+- t-001
+  teiginys: "„Dantų plauti“ šiame šaltinyje atliekama lėtai ir mažais būreliais."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-185989
+
 ## Citatos
 
 - id: c-178036
@@ -65,15 +78,11 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
     pas kits kitą bonkelėmis degtinės nešini. Eina „dantų plauti“ .
   citata_rodoma: "Eina „dantų plauti“ ."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 08:46"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - id: c-178037
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -88,9 +97,6 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - id: c-185989
   autoriai: "A. Sabaliauskas; M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931)"
@@ -114,27 +120,5 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-195634"></a>
-- t-001
-  teiginys: "„Dantų plauti“ šiame šaltinyje atliekama lėtai ir mažais būreliais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-178037
-
-<a id="claim-t-195635"></a>
-- t-002
-  teiginys: "„Dantų plauti“ vadinamas gavėnios pradžios paprotys."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178036
-
+  pagrindzia:
+    - t-001

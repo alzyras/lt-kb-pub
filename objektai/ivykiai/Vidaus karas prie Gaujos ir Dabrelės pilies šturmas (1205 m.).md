@@ -40,6 +40,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205297"></a>
+- t-001
+  teiginys: "Prie Gaujos upės (tai dabar turėtų būti vadinamoji Aa), susivieniję su žemgaliais, padalijo kariauną į dvi dalis — vieną, vado vaujamą ištikimojo latvio Kaupo, ir kitą, kuri pasuko Dabrelės pilies link."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188141
+
 ## Santrauka
 
 Prie Gaujos upės (tai dabar turėtų būti vadinamoji Aa), susivieniję su žemgaliais, padalijo kariauną į dvi dalis — vieną, vado vaujamą ištikimojo latvio Kaupo, ir kitą, kuri pasuko Dabrelės pilies link.
@@ -71,21 +86,5 @@ Prie Gaujos upės (tai dabar turėtų būti vadinamoji Aa), susivieniję su žem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205297"></a>
-- t-001
-  teiginys: "Prie Gaujos upės (tai dabar turėtų būti vadinamoji Aa), susivieniję su žemgaliais, padalijo kariauną į dvi dalis — vieną, vado vaujamą ištikimojo latvio Kaupo, ir kitą, kuri pasuko Dabrelės pilies link."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-188141
-

@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Kazimieras Gontą'
+pavadinimas: Kazimieras Gontą
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-45af83d5b2c9115ac3a60ab5"
-canonical_name: "Kazimieras Gontą"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Kazimieras Gontą"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-45af83d5b2c9115ac3a60ab5
+canonical_name: Kazimieras Gontą
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Kazimieras Gontą
 sameAs: []
-canonical_biography: "Kartenos parapijietis Kazimieras Gontą, atradęs savo daržinėje pasikorusį žmogų, palaidojo jį pelkėje, nukir tęs lavonui galvą ir surišęs kojas, kad nesivaidentų."
+canonical_biography: 'Kartenos parapijietis Kazimieras Gontą, atradęs savo daržinėje pasikorusį žmogų, palaidojo jį pelkėje, nukir tęs lavonui galvą ir surišęs kojas, kad nesivaidentų.'
 ---
 # Kazimieras Gontą
 

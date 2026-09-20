@@ -35,32 +35,10 @@ Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rus
 
 ## Teiginiai
 
-<a id="claim-t-215090"></a>
-- t-003
-  teiginys: "Eustachijus Tiškevičius rašė, kad priešistoriniai vietovardžiai tęsiasi skersai per visą Lietuvą nuo Beržūnos iki Neries žemupio."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196832
-
-<a id="claim-t-213502"></a>
-- t-213502
-  teiginys: "Kurše, Infliantuose ir Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi čius3."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-213905"></a>
-- t-213905
+<a id="claim-t-191564"></a>
+- t-001
   teiginys: "Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -74,6 +52,20 @@ Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rus
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eustachijus Tiškevičius\" parinktas kaip owner_note_path. Targetas \"Borisovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174446
+
+<a id="claim-t-197586"></a>
+- t-002
+  teiginys: "Kurše, Infliantuose ir Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi čius3."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174446
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -125,22 +117,6 @@ Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196832
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 250"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 250."
-  citata_originali: |
-    Eustachijus Tiškevičius rašė, jog priešistori­
-    nius laikus siekiantys vietovardžiai tęsiasi skersai per vi­
-    są Lietuvą, t. y. nuo Beržūnos iki pat Neries žemupio
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
+  pagrindzia:
+    - t-001
+    - t-002

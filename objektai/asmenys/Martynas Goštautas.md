@@ -1,15 +1,15 @@
 ---
 tipas: asmuo
-pavadinimas: "Martynas Goštautas"
-canonical_entity_id: "ent-noble-787c107c8b8a16eb8a4cb3c9"
-noble_scope: "ldk-didikai-iki-1795-v1"
-noble_family: "Goštautai"
+pavadinimas: Martynas Goštautas
+canonical_entity_id: ent-noble-787c107c8b8a16eb8a4cb3c9
+noble_scope: ldk-didikai-iki-1795-v1
+noble_family: Goštautai
 aliases:
-  - "Martynas Goštautas"
+  - Martynas Goštautas
 saltiniai:
-  - "VLE: Goštautai"
-date_start: ""
-date_end: ""
+  - 'VLE: Goštautai'
+date_start: ''
+date_end: ''
 periodo_grupes:
   - LDK
 bukle: viesas_pradinis
@@ -24,19 +24,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-noble-787c107c8b8a16eb8a4cb3c9"
-canonical_name: "Martynas Goštautas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Martynas Goštautas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-noble-787c107c8b8a16eb8a4cb3c9
+canonical_name: Martynas Goštautas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Martynas Goštautas
 sameAs: []
-canonical_biography: "Martynas Goštautas - Goštautai giminės atstovas."
+canonical_biography: Martynas Goštautas - Goštautai giminės atstovas.
 ---
 # Martynas Goštautas
 

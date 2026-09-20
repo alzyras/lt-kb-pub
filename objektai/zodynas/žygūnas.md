@@ -1,6 +1,6 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'žygūnas'
+pavadinimas: žygūnas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
@@ -14,12 +14,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Žygūnas","url":"https://lt.wikipedia.org/wiki/%C5%BDyg%C5%ABnas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:38:10+00:00","source_checked_at":"2026-09-20T13:38:10+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Žygūnas","url":"https://lt.wikipedia.org/wiki/%C5%BDyg%C5%ABnas","publisher":"Vikipedija","language":"lt","article_id":"212381","revision_id":"7835182","published_at":"2026-05-11T18:53:30Z","version_pk":"","content_hash":"4cac8fabe229b24d4fc4c863cb087bd59520c39c706f129c9adb77c5b0448a3c","retrieved_at":"2026-09-20T13:37:03+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=%C5%BDyg%C5%ABnas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"212381"}},"intro":"Žygūnas - Lietuvos Didžiosios Kunigaikštystėje pareigūnas. Atlikdavo teismo medicinos ekspertizę. Pirmajame Lietuvos Statute teigiama, kad žygūnai įvykio vietos apžiūros metu apžiūrėdavo nukentėjusįjį arba mirusįjį. Jie kviesdavo kviestinius, „žmones gero vardo, iš bajorų“.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Žygūnas","url":"https://lt.wikipedia.org/wiki/%C5%BDyg%C5%ABnas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/%C5%BDyg%C5%ABnas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"8e5ba03ac17e6b3d11addf35","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Žygūnas – pasiuntinys, atnešantis pranešimą arba grįžtantis su atsakymu ir raštu.","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 5 (2001 m.): žygūnas iš Vilniaus atvyko su pranešimu apie taiką; Vytautienės pasiųstas žygūnas grįžo su atsakymu, apsaugos raštu ir laišku.","support_ids":["t-206250","c-188865","t-206251","c-188866"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206250","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"internal_claim","claim_id":"t-206251","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188865","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Tad kai kitą dieną atvyko žygūnas iš Vilniaus su pra­ nešimu, kad sutarta dėl taikos ir kad kunigaikščiui Kęstučiui sava kariauna nebereikalinga, ji tučtuojau iširo - visi skubiai veržėsi važiuoti į namus, kur greitai buvo paskleisti gandai, jog esą įtūžę kryžiuočiai, išsiskaidę į mažus būrius, grįžta atgal, kad esą, atsilygindami už savo kelionę į Lietuvą, nusiaubtų visus vals­ čius Žemaitijoje."},{"kind":"evidence","evidence_id":"c-188866","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Galop kunigaikštienė Vytautienė išsiuntė žygūną Vilniun, prašyda­ ma Hanulą kaip nors gauti didžiojo kunigaikščio apsaugos raštą jos kelionei į Mazoviją. Žygūnas, grįždamas su atsakymu ir apsaugos raštu, atvežė Marijos Vaidilienės laišką Prokšai**, skubinantį susidoroti su Vytautu, kai tik šio žmona išvažiuos iš Krėvos, nes dėl to kalinio Jogaila ima tižti."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 91bf3c5f56ad3099
+object_page_generated_at: '2026-09-20T13:38:10+00:00'
+object_page_source_checked_at: '2026-09-20T13:38:10+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'žygūnas: Į Pinską išsiųsti žygūnai turėjo pakviesti vienuolį Vaišvilką perimti tėvo paliktą valdžią. Karalius per žygūną pareikalavo, kad kryžiuočiai…'
+object_page_seo_input_hash: 8a5f2af9f7bf64194d61bdb44542507210cd8ed23b6aa0c20474e6d831c0466c
+object_page_seo_generated_at: '2026-09-20T13:38:10+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # žygūnas
 
@@ -49,9 +59,9 @@ media_all_json: |-
     - c-168692
 
 <a id="claim-t-185332"></a>
-- t-185332
+- t-002
   teiginys: "Karalius per žygūną pareikalavo, kad kryžiuočiai nelaužytų susitarimo ir nedarytų skriaudų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,10 +77,48 @@ media_all_json: |-
   pagrindžia:
     - c-168693
 
+<a id="claim-t-185333"></a>
+- t-003
+  teiginys: "Jedlnioje lenkų seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai neprasmuktų nė viena kryptimi."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "žygūnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žygūnas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168694
+
+<a id="claim-t-185335"></a>
+- t-004
+  teiginys: "Aleksandras pavedė Trakų vaivadai Zaberezinskiui atsakyti Ivano žygūnui dėl mėginimo numalšinti Ivano įsiūtį per pasiuntinius."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "paskyre -> Zaberezinskis: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Zaberezinskis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata rodo, kad Aleksandras pavedė Zaberezinskiui atlikti atsakymo užduotį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168696
+
 <a id="claim-t-185336"></a>
-- t-185336
+- t-005
   teiginys: "Glinskis nusiuntė slaptų žygūnų būrį, kad dovanomis ir pažadais kurstytų įgulą bei bajorus ir palaužtų jų ištikimybę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -87,9 +135,9 @@ media_all_json: |-
     - c-168697
 
 <a id="claim-t-206250"></a>
-- t-206250
+- t-006
   teiginys: "Žygūnas iš Vilniaus pranešė apie sutartą taiką, todėl Kęstučio kariuomenė iširo, o Žemaitijoje pasklido gandai, kad įtūžę kryžiuočiai, grįždami atgal, nusiaubsią visus valsčius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -100,9 +148,9 @@ media_all_json: |-
     - c-188865
 
 <a id="claim-t-206251"></a>
-- t-206251
+- t-007
   teiginys: "Vytautienės pasiųstas žygūnas į Vilnių grįžo su atsakymu, apsaugos raštu ir Marijos Vaidilienės laišku Prokšai, kuriame raginta susidoroti su Vytautu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -218,12 +266,11 @@ media_all_json: |-
     dui.
   citata_rodoma: "Taigi visuotiniame\nsusirinkime kunigaikščiu buvo išrinktas Vaišvilkas.\nU  5\n\n## Puslapis 114\n\nIšleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­\nkui nuodugniai papasakoti apie diduomenės bei tau­\ntos prielankumą ir pakviesti jį perimti tėvo paliktos\nvaldžios. Iš pradžių Vaišvil­\nkas\nnė\nklausyti nenorėjo\napie tai, ko jį maldavo žy­\ngūnai, nes šitai prieštaravo\njo pasirinktam gyvenimo bū­\ndui."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-168693
@@ -253,8 +300,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185332
+  pagrindzia:
+    - t-002
 
 - id: c-168694
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -279,6 +326,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-168696
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -309,6 +358,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-168697
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -333,8 +384,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185336
+  pagrindzia:
+    - t-005
 
 - id: c-188865
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -353,8 +404,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206250
+  pagrindzia:
+    - t-006
 
 - id: c-188866
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -373,6 +424,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206251
-
+  pagrindzia:
+    - t-007

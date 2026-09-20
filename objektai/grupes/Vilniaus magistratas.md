@@ -1,21 +1,21 @@
 ---
 tipas: grupe
-pavadinimas: 'Vilniaus magistratas'
+pavadinimas: Vilniaus magistratas
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1330 m.'
-  - '1522 m.'
-  - '1524 m.'
-  - '1536 m.'
-  - '1545 m.'
-  - '1601 m.'
-  - '1632 m.'
-  - '1633 m.'
-  - '1654 m.'
-  - '1664 m.'
-  - '1667 m.'
-  - '1786 m.'
+  - 1330 m.
+  - 1522 m.
+  - 1524 m.
+  - 1536 m.
+  - 1545 m.
+  - 1601 m.
+  - 1632 m.
+  - 1633 m.
+  - 1654 m.
+  - 1664 m.
+  - 1667 m.
+  - 1786 m.
 date_start: '1330'
 date_end: '1786'
 sukurta: ''
@@ -24,26 +24,338 @@ tags:
   - institucija
   - grupe
 amziai:
-  - 'XIV'
-  - 'XVIII'
+  - XIV
+  - XVIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T08:29:46+00:00","source_checked_at":"2026-09-19T08:29:46+00:00","counts":{"relations":2,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"5f090d6851eb2e331aaff086","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Vilniaus magistratą sudarė burmistrai, miesto tarybos nariai, šuolininkai ir magistrato raštininkai.","context":"XVI a. privilegijoje išvardytos Vilniaus magistrato pareigybės; šaltinis taip pat mini vaitą atskirai.","support_ids":["t-172818","c-157188"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172818","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157188","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tik­ tai viešosioms pareigoms, miesto reikalams ir aktams tegu naudojasi miesto naudojamu antspaudu su šventojo Kristoforo atvaizdu, iš tikrųjų, raudono lako, pirmųjų Len­ kijos Karalystės miestų papročiu]. Tai privilegijos žodžiai, verčiantys 279 ## Puslapis 296 VILNIAUS MIESTO ISTORIJA// TOMAS Žygimanto Augusto palankumas savo gimtajai sostinei, taip dosniai pasireiškęs šia privilegija, tuo dar nesibaigė. Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato raštininkų namai ir butai kartą ir visiems laikams bu­ vo atleisti nuo bet kokios nakvynės ir apsistojimo prievolės."}],"status":"published","conflict_status":"clear"},{"trait_id":"f0fa81552b6e7fda4b4ad141","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Magistratas turėjo tarėjus, kurie kartu su ponais sprendė duonos dydžio, svorio ir kitus geros miesto tvarkos klausimus.","context":"Karaliaus nurodymas dėl miesto gyventojų, priklausančių įvairiems ponams; taikoma Vilniaus tarėjams.","support_ids":["t-172807","c-157171"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172807","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157171","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Ir todėl patiems ar jų tarnams smurtu bet ką iš kapitulos valdinių namų imti ne­ buvo leista ir neleidžiama. Tačiau, kad dėl Vilniaus miesto gyventojų, priklausančių visokiems ponams, įvairumo, ne­ kiltų per didelė suirutė ir netvarka pačiame mieste, norime, kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­ rinčiais Vilniaus mieste ir už jo ribų valdinių, kartu susi­ rinktų ir tiek dėl duonos dydžio bei svorio, tiek dėl kitų da­ lykų, nuo kurių priklauso gera tvarka, bendrai susitartų ir visi kartu, ir kiekvienas atskirai pasirūpintų, kad to, kas ben­ dru sutarimu buvo nutarta, jų valdiniai laikytųsi. Taip ant­ radieniais ir penktadieniais, be jokio kito rašto ir nepriešta­…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"122c81521e8617139b9035ac","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Magistratas veikė per savo valdytojus, kurie disponavo koplyčiai priklausančiais mūriniais namais.","context":"Šaltinis aprašo mūrinių namų valdymą ir pajamų skyrimą koplyčios poreikiams.","support_ids":["t-172821","c-157176"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172821","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157176","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"1577 metų gruodžio 19 dienos, o pirmesne 1539 metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­ fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­ piežius Inocentas X irgi patvirtino. Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis nuo įvairių mūrinių namų, renkamas iš vietos didikų, ''bet dėl pradangintų dokumentų pajamų dydis nėra žinomas; tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios priklauso; jais disponuoja Vilniaus magistratas per savo val­ dytojus, o iš gautų pajamų tenkinami koplyčios poreikiai. Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nuo mokesčių atleido Lenkijos kara­ liai: Žygimantas III - 1601 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e3f678aa82cc2e24be298973","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Magistrato pasiųsti patarėjai turėjo tartis dėl Vilniaus miesto gerovės ir reikmių.","context":"1560 m. ir vėlesnių laikotarpių politinio atstovavimo aprašymas.","support_ids":["t-172822","c-157170"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172822","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157170","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"O svarbiausia, jog 1560 metais Lietuvos Didžiosios Kuni­ gaikštystės Ponų Tarybos seime, vykusiame Vilniuje, kara­ lius leido bajorams rinkti delegatus, kurie vėliau sudarė ant­ ruosius lietuvių tautos reprezentavimo rūmus. Ir magistratas, keleliais metais vėliau, gavo teisę pasiųsti du arba tris pata­ rėjus į visus didžiuosius seimus, vykstančius Karalystėje ar­ ba Lietuvoje. Jie, kaip ir krašto pasiuntiniai, turėjo tartis dėl Vilniaus miesto gerovės ir reikmių40."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f9cb5489be20fcd94aa2a3cc","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Magistratas buvo įtrauktas į susitarimus, kuriais siekta geros miesto tvarkos ir to, kad priimtų sprendimų laikytųsi miesto valdinių gyventojai.","context":"Karaliaus nurodymas Vilniaus tarėjams periodiškai tartis su ponais dėl miesto tvarkos.","support_ids":["t-172807","c-157171"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172807","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157171","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Ir todėl patiems ar jų tarnams smurtu bet ką iš kapitulos valdinių namų imti ne­ buvo leista ir neleidžiama. Tačiau, kad dėl Vilniaus miesto gyventojų, priklausančių visokiems ponams, įvairumo, ne­ kiltų per didelė suirutė ir netvarka pačiame mieste, norime, kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­ rinčiais Vilniaus mieste ir už jo ribų valdinių, kartu susi­ rinktų ir tiek dėl duonos dydžio bei svorio, tiek dėl kitų da­ lykų, nuo kurių priklauso gera tvarka, bendrai susitartų ir visi kartu, ir kiekvienas atskirai pasirūpintų, kad to, kas ben­ dru sutarimu buvo nutarta, jų valdiniai laikytųsi. Taip ant­ radieniais ir penktadieniais, be jokio kito rašto ir nepriešta­…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"966b28594a533eb400e4dbcc","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Magistratas valdė Švč. Trejybės prieglaudos pajamas.","context":"1545 m. gegužės 4 d. karaliaus įsakymu prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.","support_ids":["t-172809","c-157174"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172809","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157174","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Pirmiausia karaliaus dėmesį patraukė Švč. Trejybės prie­ glauda (špitolė), mieste garsi savo labdaringa veikla. 1545 metų gegužės 4 dieną išleistu įsakymu, prieglaudos paja­ mų valdymas buvo patikėtas Vilniaus magistratui; Jonui Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo titulą nuo vyskupo karalius perkėlė sau."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"fa196a6c261910120310fb0b","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Magistratas disponavo koplyčiai skirtais mūriniais namais ir jų pajamomis tenkino koplyčios poreikius.","context":"Šaltinyje aprašoma ankstesnė ir šaltinio autoriaus laikotarpio padėtis; veikta per magistrato valdytojus.","support_ids":["t-172821","c-157176"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172821","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157176","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"1577 metų gruodžio 19 dienos, o pirmesne 1539 metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­ fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­ piežius Inocentas X irgi patvirtino. Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis nuo įvairių mūrinių namų, renkamas iš vietos didikų, ''bet dėl pradangintų dokumentų pajamų dydis nėra žinomas; tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios priklauso; jais disponuoja Vilniaus magistratas per savo val­ dytojus, o iš gautų pajamų tenkinami koplyčios poreikiai. Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nuo mokesčių atleido Lenkijos kara­ liai: Žygimantas III - 1601 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"fbf799863679d39f18c7fad6","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Magistratas stojo į teismą su Šv. Jono bažnyčia dėl ankstesnių potvarkių.","context":"1667 m. balandžio 4 d.; šaltinis karaliaus sprendimu magistrato pretenzijas įvardija kaip neteisingas.","support_ids":["t-172812","c-157180"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172812","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157180","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar­ kiams, įvairius savo reikalavimus ir sumetimus išsakydamas, užtat 1667 metų balandžio 4 dieną Vilniaus magistratas stojo į teismą su Šv. Jono bažnyčia, ir 1667 metų lapkričio 19 dieną Vilniaus magistrato neteisingos pretenzijos Šv. Jono bažny­ čios atžvilgiu buvo išnagrinėtos, o 1668 metų gegužės 17 die­ ną karaliaus raštu galutinai patvarkyta ir Šv. Jono bažnyčios užtikrinta priklausomybė pripažinta vienuoliams jėzuitams."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2f999af46c60449a83186b2f","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Magistratas pateikė ieškinį byloje dėl patronato teisių, o 1654 m. liepos 4 d. sprendimas jo ieškinį patenkino.","context":"1654 m. byla dėl Vilniaus kapitulos patronato teisių; autoriaus pasakojime nurodytas galutinis sprendimo rezultatas.","support_ids":["t-172820","c-157169"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172820","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157169","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Jus Patronatus [teises], garbiosios Vilniaus kapitulos perleistas Rektoriams, apaštališkasis nun­ cijus Bretanės vyskupas Jonas Andrius Apaštališkojo Sosto valia patvirtino, o 1651 metais gruodžio 21 dieną Vilniaus vys­ kupas Jurgis Tiškevičius tą patvirtinimą priėmė ir atnaujino. 1654 metų kovo 2 dieną. Asesorių sprendimas byloje su Vil­ niaus magistratu, tas aprobacijas ginčijančiu, paskelbtas; ka­ raliaus raštas, ta pačia data pažymėtas, duotas dvarioniui sprendimo vykdymo reikalu, ir 1654 metų liepos 4 dieną įvykdytas sprendimas patenkino magistrato ieškinį."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4343e211646fc204bc77fe72","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Magistratas galėjo siųsti du arba tris patarėjus į didžiuosius seimus Karalystėje arba Lietuvoje.","context":"Karaliaus suteikta teisė; pasiųstieji patarėjai atstovavo miesto gerovei ir reikmėms.","support_ids":["t-172822","c-157170"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172822","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157170","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"O svarbiausia, jog 1560 metais Lietuvos Didžiosios Kuni­ gaikštystės Ponų Tarybos seime, vykusiame Vilniuje, kara­ lius leido bajorams rinkti delegatus, kurie vėliau sudarė ant­ ruosius lietuvių tautos reprezentavimo rūmus. Ir magistratas, keleliais metais vėliau, gavo teisę pasiųsti du arba tris pata­ rėjus į visus didžiuosius seimus, vykstančius Karalystėje ar­ ba Lietuvoje. Jie, kaip ir krašto pasiuntiniai, turėjo tartis dėl Vilniaus miesto gerovės ir reikmių40."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"acbe2d81339102d189b590b3","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Magistratas išdavė privilegijos ištrauką iš savo ir Vilniaus miesto knygos ribų komisijos teismui.","context":"1786 m. rugpjūčio 19 d.; ištrauka išduota teisme reikalaujančiai pusei.","support_ids":["t-172811","c-157185"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172811","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157185","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Karalius ŽYGIMANTAS Prikabintas LDK antspaudas Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­ niaus miesto knygos, vykstant ribų komisijos teismams tarp jo did. pono Goreckio, Lydos pav. iždininko, ir garb. Vil­ niaus miesto iš LDK asesorių, paskirtų gerb. Vilniaus ma­ gistrato, išrašyta teisme reikalaujančiai pusei 1786 metų rug­ pjūčio 19 dieną, išduota su Kauno pav. pakamario tarnybiniu antspaudu."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Vilniaus magistratas buvo Vilniaus miesto savivaldos institucija, ginusi miesto teises ir atstovavusi jo interesams. XVI amžiuje magistratas įgijo teisę siųsti du arba tris patarėjus į didžiuosius Karalystėje ar Lietuvoje vykstančius seimus, kur jie turėjo rūpintis miesto gerove ir reikmėmis. Žygimanto Augusto privilegija magistrato raštininkų namus ir butus atleido nuo nakvynės bei apsistojimo prievolės, taip pat nustatė miesto antspaudo naudojimą viešiesiems reikalams. Magistratas disponavo kai kuriais mūriniais namais, kurių pajamos buvo skiriamos Dievo koplyčios poreikiams. Jo teisinę padėtį rodo ir 1654 m. liepos 4 d. įvykdytas sprendimas byloje dėl patronato teisių, patenkinęs magistrato ieškinį; tuo pat metu miesto atstovai ginčijosi su vaitu dėl Magdeburgo teisės ir privilegijų laikymosi.","sentences":[{"sentence_id":"s1","text":"Vilniaus magistratas buvo Vilniaus miesto savivaldos institucija, ginusi miesto teises ir atstovavusi jo interesams.","support_ids":["t-172816","c-157173","t-172822","c-157170"]},{"sentence_id":"s2","text":"XVI amžiuje magistratas įgijo teisę siųsti du arba tris patarėjus į didžiuosius Karalystėje ar Lietuvoje vykstančius seimus, kur jie turėjo rūpintis miesto gerove ir reikmėmis.","support_ids":["t-172822","c-157170"]},{"sentence_id":"s3","text":"Žygimanto Augusto privilegija magistrato raštininkų namus ir butus atleido nuo nakvynės bei apsistojimo prievolės, taip pat nustatė miesto antspaudo naudojimą viešiesiems reikalams.","support_ids":["t-172818","c-157188"]},{"sentence_id":"s4","text":"Magistratas disponavo kai kuriais mūriniais namais, kurių pajamos buvo skiriamos Dievo koplyčios poreikiams.","support_ids":["t-172821","c-157176"]},{"sentence_id":"s5","text":"Jo teisinę padėtį rodo ir 1654 m. liepos 4 d. įvykdytas sprendimas byloje dėl patronato teisių, patenkinęs magistrato ieškinį; tuo pat metu miesto atstovai ginčijosi su vaitu dėl Magdeburgo teisės ir privilegijų laikymosi.","support_ids":["t-172820","c-157169","t-172816","c-157173"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Pateikti šaltiniai pagrindžia magistrato atstovavimą miesto interesams ir ginčus dėl miesto teisių, tačiau tiesiogiai nepatvirtina, kad tai buvo Vilniaus miesto savivaldos institucija."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad magistratas gavo teisę siųsti du arba tris patarėjus į didžiuosius Karalystėje ar Lietuvoje vykstančius seimus rūpintis miesto gerove ir reikmėmis; aplinkybės datuojamos XVI amžiumi."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai patvirtina raštininkų namų ir butų atleidimą nuo nakvynės bei apsistojimo prievolės ir miesto antspaudo naudojimą viešiesiems reikalams."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad magistratas per valdytojus disponavo kai kuriais mūriniais namais, o jų pajamos buvo skiriamos Dievo koplyčios poreikiams."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina 1654 m. liepos 4 d. įvykdytą sprendimą, patenkinusį magistrato ieškinį patronato byloje, ir miesto atstovų ginčą su vaitu dėl Magdeburgo teisės bei privilegijų."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-172816","c-157173","t-172822","c-157170"]},{"sentence_id":"s2","supported":true,"support_ids":["t-172822","c-157170"]},{"sentence_id":"s3","supported":true,"support_ids":["t-172818","c-157188"]},{"sentence_id":"s4","supported":true,"support_ids":["t-172821","c-157176"]},{"sentence_id":"s5","supported":true,"support_ids":["t-172820","c-157169","t-172816","c-157173"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Antspaudai","claim_id":"t-86982","confidence":0.72},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-172817","confidence":0.86}],"timeline":[{"date":"1524 m.","label":"1524 m.","claimId":"t-172805"},{"date":"1545 m.","label":"1545 m.","claimId":"t-172809"},{"date":"1632 m.","label":"1632 m.","claimId":"t-172806"},{"date":"1654 m.","label":"1654 m.","claimId":"t-172820"},{"date":"1667 m.","label":"1667 m.","claimId":"t-172812"},{"date":"1786 m.","label":"1786 m.","claimId":"t-172811"}],"support_disclosure":{"claims":14,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 359d0ba8f8f931d7
+object_page_generated_at: '2026-09-19T08:29:46+00:00'
+object_page_source_checked_at: '2026-09-19T08:29:46+00:00'
+object_page_content_state: content
+object_page_claim_count: '14'
+object_page_source_count: '1'
+object_page_seo_description: 'Vilniaus magistratas buvo Vilniaus miesto savivaldos institucija, ginusi miesto teises ir atstovavusi jo interesams. XVI amžiuje magistratas įgijo teisę…'
+object_page_seo_input_hash: 32cebb654521e0a2bc2c9f4180185f3b870cb4562ebebfe137da1b0124f185dd
+object_page_seo_generated_at: '2026-09-19T08:29:46+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vilniaus magistratas
 
 ## Santrauka
 
 O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar­ kiams, įvairius savo reikalavimus ir sumetimus išsakydamas, užtat 1667 metų balandžio 4 dieną Vilniaus magistratas stojo į teismą su Šv. Jus Patronatus [teises], garbiosios Vilniaus kapitulos perleistas Rektoriams, apaštališkasis nun­ cijus Bretanės vyskupas Jonas Andrius Apaštališkojo Sosto valia patvirtino, o 1651 metais gruodžio 21 dieną Vilniaus vys­ kupas Jurgis Tiškevičius tą. 1577 metų gruodžio 19 dienos, o pirmesne 1539 metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­ fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­ piežius Inocentas X irgi patvirtino.
+
+## Teiginiai
+
+<a id="claim-t-172804"></a>
+- t-001
+  teiginys: "Vilniaus magistratas viešai iš didžiojo kunigaikščio rankų priėmė Magdeburgo teisių atnaujinimo ir patvirtinimo privilegijas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-157175
+
+<a id="claim-t-172805"></a>
+- t-002
+  teiginys: "1524 m. karalius priekaištavo Vilniaus magistratui dėl nesutarimų su bendruomene ir nubaudė jį šimto kapų grašių bauda."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilniaus gaisro gesinimo įrankiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilniaus gaisro gesinimo įrankiai: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilniaus gaisro gesinimo įrankiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1524 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys glaustai apima citatoje išvardytus priekaištus ir baudą."
+  pagrindžia:
+    - c-157183
+
+<a id="claim-t-172806"></a>
+- t-003
+  teiginys: "1632 m. Vilniaus gyventojas Parulis įkeitė mūrinį namą Vilniaus magistratui ir nurodė palūkanas mokėti Švč. Trejybės špitolei."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Namas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Namas: mention_match, thing, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1632 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-157186
+
+<a id="claim-t-172807"></a>
+- t-004
+  teiginys: "Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Duona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Duona: mention_match, thing, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-157171
+
+<a id="claim-t-172809"></a>
+- t-005
+  teiginys: "1545 m. gegužės 4 d. įsakymu Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1545 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako citatoje minimą sprendimą."
+  pagrindžia:
+    - c-157174
+
+<a id="claim-t-172811"></a>
+- t-006
+  teiginys: "1786 m. rugpjūčio 19 d. iš Vilniaus magistrato ir miesto knygos buvo išduota privilegijos ištrauka ribų komisijos teismui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1786 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir paremtas citata."
+  pagrindžia:
+    - c-157185
+
+<a id="claim-t-172812"></a>
+- t-007
+  teiginys: "1667 m. balandžio 4 d. Vilniaus magistratas stojo į teismą su Šv. Jono bažnyčia dėl ankstesnių potvarkių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1667 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-157180
+
+<a id="claim-t-172813"></a>
+- t-008
+  teiginys: "Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis pereiti į bajorų luomą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-157182
+
+<a id="claim-t-172814"></a>
+- t-009
+  teiginys: "Karaliaus įsakymas skelbė, kad Vilniaus vaito, advokato ar tarėjų draudimai naudotis vyskupo mėsinėmis turguje negalioja."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-157184
+
+<a id="claim-t-172815"></a>
+- t-010
+  teiginys: "Vilniaus kapitula teigė, kad bausti bažnyčios valdinius priklauso jai, o ne Vilniaus miestui ar tarėjams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilniaus kapitula: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilniaus kapitula: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilniaus kapitula\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-157177
+
+<a id="claim-t-172816"></a>
+- t-011
+  teiginys: "Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Magdeburgo teisės: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Magdeburgo teisės: mention_match, thing, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Magdeburgo teisės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-157173
+
+<a id="claim-t-172817"></a>
+- t-012
+  teiginys: "1536 m. nauji Vilniaus miesto įstatymai patvirtino, kad Vilniaus magistrato paskirtis buvo valdyti miestą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimo kontekste kalbama apie Vilniaus miesto įstatymus, o citata tiesiogiai nurodo magistrato paskirtį valdyti miestą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vilniaus magistratas valdė miestą Vilnius (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1536 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys prasideda neaiškia nuoroda „Jais“."
+  pagrindžia:
+    - c-157179
+
+<a id="claim-t-172818"></a>
+- t-013
+  teiginys: "Žygimanto Augusto privilegija nuo nakvynės ir apsistojimo prievolės atleido Vilniaus magistrato raštininkų namus ir butus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-157188
+
+<a id="claim-t-172819"></a>
+- t-014
+  teiginys: "Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1522 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tikslus ir paremtas citatos turiniu."
+  pagrindžia:
+    - c-157181
+
+<a id="claim-t-172820"></a>
+- t-015
+  teiginys: "1654 m. liepos 4 d. įvykdytas sprendimas byloje dėl patronato teisių patenkino Vilniaus magistrato ieškinį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1654 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą sprendimo rezultatą."
+  pagrindžia:
+    - c-157169
+
+<a id="claim-t-172821"></a>
+- t-016
+  teiginys: "Vilniaus magistratas per savo valdytojus disponavo mūriniais namais, kurių pajamos buvo skirtos koplyčios poreikiams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1601 m.; įvykio data: 1633 m.; įvykio data: 1664 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Originalus teiginys nebuvo apie magistratą, bet citata pateikia su juo susijusį faktą."
+  pagrindžia:
+    - c-157176
+
+<a id="claim-t-172822"></a>
+- t-017
+  teiginys: "Vilniaus magistratas gavo teisę siųsti du arba tris patarėjus į didžiuosius seimus Karalystėje ar Lietuvoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=98"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-157170
 
 ## Citatos
 
@@ -68,7 +380,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
 
 - id: c-157170
@@ -90,7 +402,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-157171
@@ -128,7 +440,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-157173
@@ -154,7 +466,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-157174
@@ -174,7 +486,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-157175
@@ -221,7 +533,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-157176
@@ -250,7 +562,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-157177
@@ -303,7 +615,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-157179
@@ -327,7 +639,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-157180
@@ -350,7 +662,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-157181
@@ -374,7 +686,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
 
 - id: c-157182
@@ -405,7 +717,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-157183
@@ -428,7 +740,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-157184
@@ -457,7 +769,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-157185
@@ -480,7 +792,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-157186
@@ -498,7 +810,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-157188
@@ -530,308 +842,5 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
-
-## Teiginiai
-
-<a id="claim-t-172804"></a>
-- t-001
-  teiginys: "Vilniaus magistratas viešai iš didžiojo kunigaikščio rankų priėmė Magdeburgo teisių atnaujinimo ir patvirtinimo privilegijas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-157175
-
-<a id="claim-t-172805"></a>
-- t-002
-  teiginys: "1524 m. karalius priekaištavo Vilniaus magistratui dėl nesutarimų su bendruomene ir nubaudė jį šimto kapų grašių bauda."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilniaus gaisro gesinimo įrankiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus gaisro gesinimo įrankiai: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilniaus gaisro gesinimo įrankiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1524 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys glaustai apima citatoje išvardytus priekaištus ir baudą."
-  pagrindžia:
-    - c-157183
-
-<a id="claim-t-172806"></a>
-- t-003
-  teiginys: "1632 m. Vilniaus gyventojas Parulis įkeitė mūrinį namą Vilniaus magistratui ir nurodė palūkanas mokėti Švč. Trejybės špitolei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Namas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Namas: mention_match, thing, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1632 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-157186
-
-<a id="claim-t-172807"></a>
-- t-004
-  teiginys: "Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Duona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Duona: mention_match, thing, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-157171
-
-<a id="claim-t-172809"></a>
-- t-005
-  teiginys: "1545 m. gegužės 4 d. įsakymu Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1545 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako citatoje minimą sprendimą."
-  pagrindžia:
-    - c-157174
-
-<a id="claim-t-172811"></a>
-- t-006
-  teiginys: "1786 m. rugpjūčio 19 d. iš Vilniaus magistrato ir miesto knygos buvo išduota privilegijos ištrauka ribų komisijos teismui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1786 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir paremtas citata."
-  pagrindžia:
-    - c-157185
-
-<a id="claim-t-172812"></a>
-- t-007
-  teiginys: "1667 m. balandžio 4 d. Vilniaus magistratas stojo į teismą su Šv. Jono bažnyčia dėl ankstesnių potvarkių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1667 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-157180
-
-<a id="claim-t-172813"></a>
-- t-008
-  teiginys: "Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis pereiti į bajorų luomą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-157182
-
-<a id="claim-t-172814"></a>
-- t-009
-  teiginys: "Karaliaus įsakymas skelbė, kad Vilniaus vaito, advokato ar tarėjų draudimai naudotis vyskupo mėsinėmis turguje negalioja."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-157184
-
-<a id="claim-t-172815"></a>
-- t-010
-  teiginys: "Vilniaus kapitula teigė, kad bausti bažnyčios valdinius priklauso jai, o ne Vilniaus miestui ar tarėjams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilniaus kapitula: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus kapitula: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilniaus kapitula\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-157177
-
-<a id="claim-t-172816"></a>
-- t-011
-  teiginys: "Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Magdeburgo teisės: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Magdeburgo teisės: mention_match, thing, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Magdeburgo teisės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-157173
-
-<a id="claim-t-172817"></a>
-- t-012
-  teiginys: "1536 m. nauji Vilniaus miesto įstatymai patvirtino, kad Vilniaus magistrato paskirtis buvo valdyti miestą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimo kontekste kalbama apie Vilniaus miesto įstatymus, o citata tiesiogiai nurodo magistrato paskirtį valdyti miestą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vilniaus magistratas valdė miestą Vilnius (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1536 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys prasideda neaiškia nuoroda „Jais“."
-  pagrindžia:
-    - c-157179
-
-<a id="claim-t-172818"></a>
-- t-013
-  teiginys: "Žygimanto Augusto privilegija nuo nakvynės ir apsistojimo prievolės atleido Vilniaus magistrato raštininkų namus ir butus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-157188
-
-<a id="claim-t-172819"></a>
-- t-014
-  teiginys: "Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1522 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tikslus ir paremtas citatos turiniu."
-  pagrindžia:
-    - c-157181
-
-<a id="claim-t-172820"></a>
-- t-015
-  teiginys: "1654 m. liepos 4 d. įvykdytas sprendimas byloje dėl patronato teisių patenkino Vilniaus magistrato ieškinį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1654 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą sprendimo rezultatą."
-  pagrindžia:
-    - c-157169
-
-<a id="claim-t-172821"></a>
-- t-016
-  teiginys: "Vilniaus magistratas per savo valdytojus disponavo mūriniais namais, kurių pajamos buvo skirtos koplyčios poreikiams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1601 m.; įvykio data: 1633 m.; įvykio data: 1664 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Originalus teiginys nebuvo apie magistratą, bet citata pateikia su juo susijusį faktą."
-  pagrindžia:
-    - c-157176
-
-<a id="claim-t-172822"></a>
-- t-017
-  teiginys: "Vilniaus magistratas gavo teisę siųsti du arba tris patarėjus į didžiuosius seimus Karalystėje ar Lietuvoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus magistratas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=98"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus magistratas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-157170
-

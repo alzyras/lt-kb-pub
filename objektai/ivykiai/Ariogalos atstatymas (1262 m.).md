@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Ariogalos atstatymas (1262 m.)'
+pavadinimas: Ariogalos atstatymas (1262 m.)
 variantai:
-  - 'Ariogalos atstatymas'
+  - Ariogalos atstatymas
 aliases:
-  - 'Ariogalos atstatymas'
+  - Ariogalos atstatymas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1262 m.'
+  - 1262 m.
 date_start: '1262'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Ariogalos atstatymas (1262 m.)
 
@@ -80,6 +77,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

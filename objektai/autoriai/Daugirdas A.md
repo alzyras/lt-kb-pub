@@ -43,30 +43,12 @@ canonical_biography: "257, „PAVOJAUS AKIVAIZDOJE, Daugirdas A."
 
 257, „PAVOJAUS AKIVAIZDOJE, Daugirdas A.
 
-## Citatos
-
-- id: c-41668
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 269."
-  citata_originali: |
-    P. 257, „PAVOJAUS AKIVAIZDOJE*, Daugirdas A. Vilniaus pedagoginio universiteto
-    studentų-savanorių kuopa 1991-1996 metais, Vilnius, 2011, p. 28.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-39864"></a>
 - t-001
   teiginys: "A. Daugirdas 2011 m. Vilniuje paskelbė darbą apie Vilniaus pedagoginio universiteto studentų-savanorių kuopą 1991-1996 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -82,3 +64,20 @@ canonical_biography: "257, „PAVOJAUS AKIVAIZDOJE, Daugirdas A."
   pagrindžia:
     - c-41668
 
+## Citatos
+
+- id: c-41668
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 269."
+  citata_originali: |
+    P. 257, „PAVOJAUS AKIVAIZDOJE*, Daugirdas A. Vilniaus pedagoginio universiteto
+    studentų-savanorių kuopa 1991-1996 metais, Vilnius, 2011, p. 28.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

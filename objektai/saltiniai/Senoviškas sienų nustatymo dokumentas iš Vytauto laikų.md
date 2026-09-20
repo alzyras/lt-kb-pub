@@ -27,6 +27,28 @@ media_all_json: |-
 
 Narbutas mini nežinomos datos Vytauto laikų sienų dokumentą, kuriame riboženkliai siejami su Užsparos prakeikimu ir Kristaus šventenybe.
 
+## Teiginiai
+
+<a id="claim-t-190559"></a>
+- t-001
+  teiginys: "Narbutas mini nežinomos datos Vytauto laikų sienų dokumentą, kuriame riboženkliai siejami su Užsparos prakeikimu ir Kristaus šventenybe."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lotynai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senoviškas sienų nustatymo dokumentas iš Vytauto laikų: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lotynai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senoviškas sienų nustatymo dokumentas iš Vytauto laikų\" parinktas kaip owner_note_path. Targetas \"Lotynai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173442
+
 ## Citatos
 
 - id: c-173442
@@ -49,50 +71,5 @@ Narbutas mini nežinomos datos Vytauto laikų sienų dokumentą, kuriame ribože
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197730
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 140"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 140."
-  citata_originali: |
-    Lasickio, aišku, su klaida užrašyta Aspelenie (Užpelenė),
-    nes tą vardą į lotynų kalbą jis verčia Angularis, taigi turėjo
-    būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19.
-    Viename senoviškame sienų nustatymo dokumente, ku­
-    rio data nežinoma, bet kuris tikrai iš didžiojo kunigaikščio Vy­
-    tauto laikų, yra paminėta, kad riboženklių neliečiamybė kaip
-    buvo saugoma Užsparos (Uspary) prakeikimo, taip ir dabar
-    tebūnie Kristaus patepta šventenybe. Šį dokumentą, rašytą ru­
-    siškai, turiu rankoje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-219116"></a>
-- t-001
-  teiginys: "Narbutas mini nežinomos datos Vytauto laikų sienų dokumentą, kuriame riboženkliai siejami su Užsparos prakeikimu ir Kristaus šventenybe."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lotynai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senoviškas sienų nustatymo dokumentas iš Vytauto laikų: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lotynai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senoviškas sienų nustatymo dokumentas iš Vytauto laikų\" parinktas kaip owner_note_path. Targetas \"Lotynai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-197730
-

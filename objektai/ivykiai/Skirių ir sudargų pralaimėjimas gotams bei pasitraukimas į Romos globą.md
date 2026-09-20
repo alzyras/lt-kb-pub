@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Skirių ir sudargų pralaimėjimas gotams bei pasitraukimas į Romos globą'
+pavadinimas: Skirių ir sudargų pralaimėjimas gotams bei pasitraukimas į Romos globą
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Skirių ir sudargų pralaimėjimas gotams bei pasitraukimas į Romos globą
 
@@ -57,9 +54,25 @@ Apie 355 metus Edukas išvedė skirių ir kitų persekiojamų gotų genčių lik
     laiką buvo imperijos Padunojaus sienų sargai, akylai ir
     sėkmingai gynę nuo gotų, kurie buvo ir jų pačių priešai.
   statusas: verified
-  atnaujinta: "2026-09-12 23:39"
+  atnaujinta: "2026-09-13 18:04"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-215230"></a>
+- t-001
+  teiginys: "Apie 355 metus Edukas išvedė skirių ir kitų persekiojamų gotų genčių likučius į dešiniąją Dunojaus pakrantę, kur jie pasidavė romėnų globai."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194886
 

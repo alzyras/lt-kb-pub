@@ -24,6 +24,32 @@ media_all_json: |-
 
 Į broliją susibūrę laivavedžiai prašė magistrato parengti jų cecho nuostatus, reikalingus ne tik jiems, bet ir pirkliams, kurių prekės gabenamos kauniečių laivais. Juose aptariama cecho vidaus tvarka, ypač 3 metinių susirinkimų metu, daug dėmesio skiriama sielovadiniams reikalams, reglamentuojama pagalbos į bėdą pakliuvusiems cecho nariams teikimo tvarka.
 
+## Teiginiai
+
+<a id="claim-t-202240"></a>
+- t-001
+  teiginys: "Į broliją susibūrę laivavedžiai prašė magistrato parengti jų cecho nuostatus, reikalingus ne tik jiems, bet ir pirkliams, kurių prekės gabenamos kauniečių laivais."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185587
+
+<a id="claim-t-202241"></a>
+- t-002
+  teiginys: "Juose aptariama cecho vidaus tvarka, ypač 3 metinių susirinkimų metu, daug dėmesio skiriama sielovadiniams reikalams, reglamentuojama pagalbos į bėdą pakliuvusiems cecho nariams teikimo tvarka."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185588
+
 ## Citatos
 
 - id: c-185587
@@ -43,7 +69,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185588
@@ -64,32 +90,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-202240"></a>
-- t-001
-  teiginys: "Į broliją susibūrę laivavedžiai prašė magistrato parengti jų cecho nuostatus, reikalingus ne tik jiems, bet ir pirkliams, kurių prekės gabenamos kauniečių laivais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185587
-
-<a id="claim-t-202241"></a>
-- t-002
-  teiginys: "Juose aptariama cecho vidaus tvarka, ypač 3 metinių susirinkimų metu, daug dėmesio skiriama sielovadiniams reikalams, reglamentuojama pagalbos į bėdą pakliuvusiems cecho nariams teikimo tvarka."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185588
-

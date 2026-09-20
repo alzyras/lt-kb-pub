@@ -52,6 +52,18 @@ Ažytė apibūdinama kaip upelis, kuris pavasariais ir rudeniais patvinsta, vasa
 
 Ažytė šiame šaltinyje yra upelis.
 
+## Teiginiai
+
+<a id="claim-t-195474"></a>
+- t-001
+  teiginys: "Ažytė apibūdinama kaip upelis, kuris pavasariais ir rudeniais patvinsta, o vasarą būna sausas."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177894
+
 ## Citatos
 
 - id: c-177894
@@ -73,8 +85,8 @@ Ažytė šiame šaltinyje yra upelis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+  pagrindzia:
+    - t-001
 
 - id: c-177895
   autorius: "M. Katkus"
@@ -95,9 +107,6 @@ Ažytė šiame šaltinyje yra upelis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - id: c-177896
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -119,38 +128,3 @@ Ažytė šiame šaltinyje yra upelis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-195473"></a>
-- t-001
-  teiginys: "Ažytė vietos žmonių atmintyje minima kaip vaikystės maudynių vieta."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177896
-
-<a id="claim-t-195474"></a>
-- t-002
-  teiginys: "Ažytė apibūdinama kaip upelis, kuris pavasariais ir rudeniais patvinsta, o vasarą būna sausas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177894
-
-<a id="claim-t-195475"></a>
-- t-003
-  teiginys: "Pasakotojo dabartyje Ažytė buvo sausa."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177895
-

@@ -43,6 +43,24 @@ historical_names: []
 
 1733 m. skunde nurodyta, kad Aleksandro Pšezdzeckio surengta gauja Radvilų jurisdikcijoje, už Vilniaus vartų, užpuolė Agotos Daukantienės dvarelį, o dėl patirto smurto Agota Daukantienė prarado kūdikį.
 
+## Teiginiai
+
+<a id="claim-t-203837"></a>
+- t-001
+  teiginys: "1733 m. skunde nurodyta, kad Aleksandro Pšezdzeckio surengta gauja Radvilų jurisdikcijoje, už Vilniaus vartų, užpuolė Agotos Daukantienės dvarelį, o dėl patirto smurto Agota Daukantienė prarado kūdikį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1733 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Aiškiai įvardyti užpuolikai, vieta, nukentėjusioji ir pasekmė. Skundo pobūdis išlaikytas, neįtraukiant papildomų faktų."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186441
+
 ## Citatos
 
 - id: c-186441
@@ -60,24 +78,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203837"></a>
-- t-001
-  teiginys: "1733 m. skunde nurodyta, kad Aleksandro Pšezdzeckio surengta gauja Radvilų jurisdikcijoje, už Vilniaus vartų, užpuolė Agotos Daukantienės dvarelį, o dėl patirto smurto Agota Daukantienė prarado kūdikį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1733 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Aiškiai įvardyti užpuolikai, vieta, nukentėjusioji ir pasekmė. Skundo pobūdis išlaikytas, neįtraukiant papildomų faktų."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186441
-

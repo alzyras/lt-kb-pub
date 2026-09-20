@@ -47,23 +47,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-196309"></a>
-- t-003
-  teiginys: "Kojelavičius Žygimanto pergalę vaizduoja kaip taikos viltį, kurią esą sužlugdė vėlesnis paties Žygimanto žiaurumas."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178621
-
 <a id="claim-t-185548"></a>
-- t-185548
+- t-001
   teiginys: "Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,12 +66,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-168909
-    - c-168910
 
 <a id="claim-t-185549"></a>
-- t-185549
+- t-002
   teiginys: "Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -100,6 +86,19 @@ Nenurodyta
   semantiniai_rysiai: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo į Livonija (0.89)"
   pagrindžia:
     - c-168910
+
+<a id="claim-t-196309"></a>
+- t-003
+  teiginys: "Kojelavičius Žygimanto pergalę vaizduoja kaip taikos viltį, kurią esą sužlugdė vėlesnis paties Žygimanto žiaurumas."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178621
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -156,8 +155,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185548
+  pagrindzia:
+    - t-001
 
 - id: c-168910
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -193,9 +192,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185548
-    - t-185549
+  pagrindzia:
+    - t-002
 
 - id: c-178621
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -214,11 +212,9 @@ Nenurodyta
     dar daugiau skausmo savo gal kartais ir reikalingu, ir
     teisingu, bet tarp žmonių nekenčiamu žiaurumu.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

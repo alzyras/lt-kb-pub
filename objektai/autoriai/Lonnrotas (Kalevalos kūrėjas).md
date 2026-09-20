@@ -70,9 +70,9 @@ Lonnrotas šiame straipsnyje minimas kaip „Kalevalos“ kūrėjas. Jo autoryst
     - c-177620
 
 <a id="claim-t-195254"></a>
-- t-195254
+- t-002
   teiginys: "1895 m. A. R. Niemis rinko žinias apie Lonnrotą, apklausinėdamas žmones ir rinkdamas su juo susijusius laiškus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 00:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -98,8 +98,8 @@ Lonnrotas šiame straipsnyje minimas kaip „Kalevalos“ kūrėjas. Jo autoryst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195254
+  pagrindzia:
+    - t-002
 
 - id: c-177620
   autorius: "A. Sabaliauskas"
@@ -114,11 +114,9 @@ Lonnrotas šiame straipsnyje minimas kaip „Kalevalos“ kūrėjas. Jo autoryst
     mokslo šaką.
   citata_rodoma: "Matyt, „Kalevala“ ir jos \nkūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo \nmokslo šaką."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 00:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

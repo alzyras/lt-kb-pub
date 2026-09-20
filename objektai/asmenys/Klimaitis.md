@@ -34,6 +34,17 @@ canonical_biography: "Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis.
 
 Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis.
 
+## Teiginiai
+
+<a id="claim-t-39768"></a>
+- t-001
+  teiginys: "111 būrio būrininkas Klimaitis pirmasis buvo apnuodytas nuodingų dujų sviedinių atakos metu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-41572
+
 ## Citatos
 
 - id: c-41572
@@ -50,17 +61,5 @@ Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-39768"></a>
-- t-001
-  teiginys: "111 būrio būrininkas Klimaitis pirmasis buvo apnuodytas nuodingų dujų sviedinių atakos metu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-41572
-

@@ -44,22 +44,10 @@ Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p. (^15) Plg.
 
 ## Teiginiai
 
-<a id="claim-t-207752"></a>
-- t-207752
-  teiginys: "Maciej Stryjkowski čia siejamas su „Kronika Polska, Litewska, Żmódzka i wszystkiej Rusi“."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190512
-
 <a id="claim-t-30848"></a>
-- t-30848
+- t-001
   teiginys: "M. Stryjkowskis parašė veikalą „Kronika Polska, Litewska etc.“, cituojamą 1846 m. leidimo pirmajame tome."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -91,25 +79,5 @@ Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p. (^15) Plg.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-30848
-
-- id: c-190512
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 245"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 245."
-  citata_originali: |
-    Drukowano u Macieja Wirz-
-    bięty typographa Jego Królewskiej miłości. 1574. Naudotasi šio M. Stryjkovskio teksto publikacija,
-    esančia: Kronika Polska, Litewska, Żmódzka i wszystkiej Rusi Macieja Stryjkowskiego, x.
-  citata_rodoma: "Kronika Polska, Litewska, Żmódzka i wszystkiej Rusi Macieja Stryjkowskiego"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207752
-
+  pagrindzia:
+    - t-001

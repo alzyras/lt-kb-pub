@@ -28,6 +28,20 @@ Narbutas spėja, kad dėl tragiškos Traidenio II mirties ir giminės revoliucij
 
 Narbutas spėja, kad dėl tragiškos Traidenio II mirties ir giminės revoliucijos Dausprungo dinastija galėjo netekti skeptro.
 
+## Teiginiai
+
+<a id="claim-t-205889"></a>
+- t-001
+  teiginys: "Narbutas spėja, kad dėl tragiškos Traidenio II mirties ir giminės revoliucijos Dausprungo dinastija galėjo netekti skeptro."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188504
+
 ## Citatos
 
 - id: c-188504
@@ -52,20 +66,5 @@ Narbutas spėja, kad dėl tragiškos Traidenio II mirties ir giminės revoliucij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205889"></a>
-- t-001
-  teiginys: "Narbutas spėja, kad dėl tragiškos Traidenio II mirties ir giminės revoliucijos Dausprungo dinastija galėjo netekti skeptro."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188504
-

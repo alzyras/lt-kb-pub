@@ -1,37 +1,37 @@
 ---
 tipas: autorius
-pavadinimas: 'J. Rupeika'
+pavadinimas: J. Rupeika
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1823 m.'
+  - 1823 m.
 date_start: '1823'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f2db46b4e2650b09586ab015"
-canonical_name: "J. Rupeika"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["J. Rupeika"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f2db46b4e2650b09586ab015
+canonical_name: J. Rupeika
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - J. Rupeika
 sameAs: []
-canonical_biography: "J. Rupeikos išversta knygelė pirmąsyk pasirodė Vilniuje 1823 metais."
+canonical_biography: J. Rupeikos išversta knygelė pirmąsyk pasirodė Vilniuje 1823 metais.
 ---
 # J. Rupeika
 

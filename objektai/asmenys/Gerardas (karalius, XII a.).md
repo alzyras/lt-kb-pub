@@ -48,6 +48,47 @@ Vėliau karaliai ir privatūs didikai aprūpino nau jąjį vienuolių ordiną l�
 
 Vėliau karaliai ir privatūs didikai aprūpino nau jąjį vienuolių ordiną lėšomis, o popiežius Paskalis II 1113 metais, vadovaujant šios bendrijos įkūrėjui Gerardui, pa tvirtino jų regulą.
 
+## Teiginiai
+
+<a id="claim-t-205189"></a>
+- t-001
+  teiginys: "Vėliau karaliai ir privatūs didikai aprūpino nau jąjį vienuolių ordiną lėšomis, o popiežius Paskalis II 1113 metais, vadovaujant šios bendrijos įkūrėjui Gerardui, pa tvirtino jų regulą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187852
+
+<a id="claim-t-205679"></a>
+- t-002
+  teiginys: "Teodoras Narbutas Gerardą įvardija Rusios vyskupu ir nurodo, kad 1254 m. Gerardas kartu su Lietuvos vyskupu Vitu dalyvavo šv. Stanislovo kanonizavimo iškilmėse Krokuvoje."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188294
+
+<a id="claim-t-205680"></a>
+- t-003
+  teiginys: "Teodoras Narbutas nurodo, kad 1242 m. totoriai nužudė du ordino kunigus – Gerardą ir Markvardą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188295
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vėliau karaliai ir privatūs didikai aprūpino nau jąjį vienuolių ordiną lėšomis, o popiežius Paskalis II 1113 metais, vadovaujant šios bendrijos įkūrėjui Gerardui, pa tvirtino jų regulą.'
@@ -82,7 +123,7 @@ Vėliau karaliai ir privatūs didikai aprūpino nau jąjį vienuolių ordiną l�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188294
@@ -102,7 +143,7 @@ Vėliau karaliai ir privatūs didikai aprūpino nau jąjį vienuolių ordiną l�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-188295
@@ -122,47 +163,5 @@ Vėliau karaliai ir privatūs didikai aprūpino nau jąjį vienuolių ordiną l�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-205189"></a>
-- t-001
-  teiginys: "Vėliau karaliai ir privatūs didikai aprūpino nau jąjį vienuolių ordiną lėšomis, o popiežius Paskalis II 1113 metais, vadovaujant šios bendrijos įkūrėjui Gerardui, pa tvirtino jų regulą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187852
-
-<a id="claim-t-205679"></a>
-- t-002
-  teiginys: "Teodoras Narbutas Gerardą įvardija Rusios vyskupu ir nurodo, kad 1254 m. Gerardas kartu su Lietuvos vyskupu Vitu dalyvavo šv. Stanislovo kanonizavimo iškilmėse Krokuvoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-188294
-
-<a id="claim-t-205680"></a>
-- t-003
-  teiginys: "Teodoras Narbutas nurodo, kad 1242 m. totoriai nužudė du ordino kunigus – Gerardą ir Markvardą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-188295
-

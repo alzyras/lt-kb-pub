@@ -48,6 +48,29 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62238"></a>
+- t-001
+  teiginys: "1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas iš Foichtvangeno: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Konrado atvykimą į Prūsijos žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Konradas iš Foichtvangeno keliavo į Prūsija (0.90); Konradas iš Foichtvangeno rėmė Teutonai (0.74)"
+  temporaliniai_duomenys: "kelionės data: 1295 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) keliavo į Prūsija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako asmenį, datą, veiksmą ir yra paremtas citata."
+  pagrindžia:
+    - c-62739
+
 ## Citatos
 
 - id: c-62739
@@ -71,4 +94,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

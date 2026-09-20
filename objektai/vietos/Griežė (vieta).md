@@ -38,6 +38,20 @@ historical_names: []
 
 Kalavijonys, nerasdami Griežėj stiprios įgu lės, įsilaužė į pilį ir visa, ką gyvą rado, nugalavo, o turtus ir gėrybes išdrevėjo, pačią pilį su žeme sulygino.
 
+## Teiginiai
+
+<a id="claim-t-201145"></a>
+- t-001
+  teiginys: "Kalavijonys, nerasdami Griežėj stiprios įgu lės, įsilaužė į pilį ir visa, ką gyvą rado, nugalavo, o turtus ir gėrybes išdrevėjo, pačią pilį su žeme sulygino."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184495
+
 ## Citatos
 
 - id: c-184495
@@ -56,20 +70,5 @@ Kalavijonys, nerasdami Griežėj stiprios įgu lės, įsilaužė į pilį ir vis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201145"></a>
-- t-001
-  teiginys: "Kalavijonys, nerasdami Griežėj stiprios įgu lės, įsilaužė į pilį ir visa, ką gyvą rado, nugalavo, o turtus ir gėrybes išdrevėjo, pačią pilį su žeme sulygino."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184495
-

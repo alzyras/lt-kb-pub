@@ -1,28 +1,25 @@
 ---
 tipas: daiktas
-pavadinimas: 'Akmenyje iškalta knyga'
+pavadinimas: Akmenyje iškalta knyga
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1232 m.'
+  - 1232 m.
 date_start: '1232'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Akmenyje iškalta knyga
 
@@ -80,6 +77,5 @@ Knyga turėjo į medinius panašius lapus, užrašytus hebrajiškai, graikiškai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

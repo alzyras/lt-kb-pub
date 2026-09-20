@@ -48,6 +48,19 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-10822"></a>
+- t-001
+  teiginys: "Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-00240
+
 ## Citatos
 
 - id: c-00240
@@ -68,19 +81,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-10822"></a>
-- t-001
-  teiginys: "Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-00240
-

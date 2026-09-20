@@ -38,6 +38,20 @@ historical_names: []
 
 Nuo tenai Otokaras leidos Pragaru pagal žemyn lig girios, Tvangste vadinamos, kur sai, radęs tenai kalną paupy, užsikėto miestą ir pilį pamatuoti, kuriam pamatus padėjęs, ateinantį metą grįžo namo.
 
+## Teiginiai
+
+<a id="claim-t-201177"></a>
+- t-001
+  teiginys: "Nuo tenai Otokaras leidos Pragaru pagal žemyn lig girios, Tvangste vadinamos, kur sai, radęs tenai kalną paupy, užsikėto miestą ir pilį pamatuoti, kuriam pamatus padėjęs, ateinantį metą grįžo namo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184527
+
 ## Citatos
 
 - id: c-184527
@@ -64,20 +78,5 @@ Nuo tenai Otokaras leidos Pragaru pagal žemyn lig girios, Tvangste vadinamos, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201177"></a>
-- t-001
-  teiginys: "Nuo tenai Otokaras leidos Pragaru pagal žemyn lig girios, Tvangste vadinamos, kur sai, radęs tenai kalną paupy, užsikėto miestą ir pilį pamatuoti, kuriam pamatus padėjęs, ateinantį metą grįžo namo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184527
-

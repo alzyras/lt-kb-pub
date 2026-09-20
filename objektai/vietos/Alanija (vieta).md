@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Alanija (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Alanija (vieta)
+identifikacija: vieta
 variantai:
-  - 'Alanija'
+  - Alanija
 aliases:
-  - 'Alanija'
+  - Alanija
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-16a48f7e71b8cb65e966e555"
-canonical_name: "Alanija (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Alanija","Alanija (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-16a48f7e71b8cb65e966e555
+canonical_name: Alanija (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Alanija
+  - Alanija (vieta)
 sameAs: []
-canonical_biography: "Dėl alanų galios padidėjimo ir išplitimo Europos dalis į šiaurę nuo sarmatų klajoklių vietovių pradėta vadinti Alanija."
+canonical_biography: Dėl alanų galios padidėjimo ir išplitimo Europos dalis į šiaurę nuo sarmatų klajoklių vietovių pradėta vadinti Alanija.
 ---
 # Alanija (vieta)
 
@@ -71,6 +71,5 @@ Dėl alanų galios padidėjimo ir išplitimo Europos dalis į šiaurę nuo sarma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

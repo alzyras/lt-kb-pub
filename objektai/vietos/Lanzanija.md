@@ -42,6 +42,25 @@ historical_names: []
 
 Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno, ir Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono valdžią.
 
+## Teiginiai
+
+<a id="claim-t-58764"></a>
+- t-001
+  teiginys: "Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lanzanija: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kristijonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lanzanija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lanzanijos nobiliai pripažino Kristijono valdžią, todėl ryšys rodo jo valdymą ar valdžios pripažinimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kristijonas valdė Lanzanija (0.74)"
+  pagrindžia:
+    - c-59396
+
 ## Citatos
 
 - id: c-59396
@@ -59,4 +78,5 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

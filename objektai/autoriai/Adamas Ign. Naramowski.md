@@ -61,9 +61,9 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
     - c-55539
 
 <a id="claim-t-54631"></a>
-- t-54631
+- t-002
   teiginys: "Adamas Ign. Naramowski siejamas su 1726 m. Vilniuje išleistu „Facies rerum Sarmaticarum“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-27 05:25"
   sprendimo_priezastis: "gap::authors"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -97,8 +97,8 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-54631
+  pagrindzia:
+    - t-002
 
 - id: c-55539
   autorius: "Michał Baliński"
@@ -118,11 +118,9 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
     pat jėzuito Naramovskio3.
   citata_rodoma: "Tad nu­\nrodysime tuos Vilniaus diecezijos ganytojus, kurių vardai jo­\nkių abejonių nekeldami istorijoje išlikę. Be įvairių autentiškų \naktų, kur kaip liudininkus ne kartą aptinkame Vilniaus vys­\nkupus, buvo du šaltiniai, iš kurių galima buvo semtis išsa­\nmesnių žinių apie juos. Pirmasis jų: lotyniškas rankraštis, bu­\nvęs Vilniaus universiteto bibliotekoje, kuriame trumpos \npanegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­\nčiaus, jėzuito2. Kitas žinomas platus istorinis veikalas, taip \npat jėzuito Naramovskio3."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

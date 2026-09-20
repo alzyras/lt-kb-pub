@@ -1,17 +1,17 @@
 ---
 tipas: grupe
-pavadinimas: 'Vokiečiai'
+pavadinimas: Vokiečiai
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1221 m.'
-  - '1225 m.'
-  - '1323 m.'
-  - '1324 m.'
-  - '2026 m.'
+  - 1221 m.
+  - 1225 m.
+  - 1323 m.
+  - 1324 m.
+  - 2026 m.
 date_start: '1221'
 date_end: '2026'
 sukurta: ''
@@ -21,20 +21,30 @@ tags:
   - tauta
   - ordinas
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Vokiečiai","url":"https://lt.wikipedia.org/wiki/Vokie%C4%8Diai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"vokiečiai","url":"https://www.vle.lt/straipsnis/vokieciai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T06:59:49+00:00","source_checked_at":"2026-09-19T06:59:49+00:00","counts":{"relations":72,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"O Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430 metais^4 ). Apskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo tempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur. Valstybiškai-ūkiškais sumetimais jis leido plaukti į Volyniją len­ kams, į pietų Rusiją totoriams, į miestus vokiečiams.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","claim_id":"t-117316","evidence_id":"c-108024","origin":"internal"},"wiki":{"status":"published","source":{"title":"Vokiečiai","url":"https://lt.wikipedia.org/wiki/Vokie%C4%8Diai","publisher":"Vikipedija","language":"lt","article_id":"28619","revision_id":"7726312","published_at":"2026-01-02T11:21:48Z","version_pk":"","content_hash":"03acc8d60df63e3bfe64a29e415481093f72d123798f3e9e4c7254385d7e9357","retrieved_at":"2026-09-19T06:56:46+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Vokie%C4%8Diai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"28619"}},"intro":"Vokiečiai (vok. Deutsche) – etnine prasme germanų tauta, teisine prasme – Vokietijos Federacinės Respublikos piliečiai. Kalba vokiečių kalba. Būti pripažintais de jure vokiečiais turi teisę šie asmenys:","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Vokiečiai","url":"https://lt.wikipedia.org/wiki/Vokie%C4%8Diai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"vokiečiai","url":"https://www.vle.lt/straipsnis/vokieciai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Vokie%C4%8Diai","https://www.vle.lt/straipsnis/vokieciai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f5ba6e5a5021e0e6a2249451","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Vokiečių grupę sudarė Rygos pirkliai.","context":"Aprašoma Jogailos kontrrevoliucijos laikotarpiu; šaltinio autorius teigia, kad Rygos vokiečių pirkliai aktyviai prekiavo su Vilniaus miestu.","support_ids":["t-117307","c-36959"],"source_refs":[{"kind":"internal_claim","claim_id":"t-117307","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-36959","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Paminėtina tai, kad Jogailos kontrevoliucijos pasi­ sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada varė gyvą ir didelę prekybą su Vilniaus miestu. Nepatenkinti lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos reikalams, jie laukė tik progos padėti Jogailai atgauti valdžią, kurio jie anksčiau buvo stipriai palaikomi. Vokiečių Ordinas, gerai žinodamas, kas dedasi Lietuvoje, irgi nemiegojo."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"928ad7ec8a55a80158854bf7","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Vokiečių grupėje buvo riterių, pirklių, amatininkų ir valstiečių.","context":"Gediminas kvietė šių profesijų vokiečius atvykti į Lietuvą ir čia įsikurti; aprašomas XIV amžiaus pradžios laikotarpis.","support_ids":["t-117319","c-108018"],"source_refs":[{"kind":"internal_claim","claim_id":"t-117319","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-108018","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias vei- klos sąlygas kaip Europoje. Tačiau 1323–1324 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0c51f81b8ca1612a649a1761","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Vokiečių grupėje buvo Prūsų krašto gyventojų.","context":"Aprašomas XIV amžiaus karo žygis; šaltinio autorius nurodo, kad antpuoliui atremti buvo mobilizuota daug Prūsų krašto gyventojų.","support_ids":["t-117310","c-36958"],"source_refs":[{"kind":"internal_claim","claim_id":"t-117310","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-36958","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Sužinoję apie didelį lietuvių įsiveržimą, vokiečiai iš savo pusės irgi rengėsi. Kai jų žval­ gai pranešė lietuvių planus, antpuoliui atremti buvo sumobili­ zuota daug Prūsų krašto gyventojų. Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­ tų vasario mėn."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8f4230c09c45b4382e83c176","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Vokiečių Rygos pirkliai vykdė gyvą ir didelę prekybą su Vilniaus miestu.","context":"Aprašoma Jogailos kontrrevoliucijos sėkmės aplinkybė; šaltinio autorius teigia, kad pirkliai buvo nepatenkinti Kęstučio politika, nes ji kenkė jų prekybos reikalams.","support_ids":["t-117307","c-36959"],"source_refs":[{"kind":"internal_claim","claim_id":"t-117307","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-36959","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Paminėtina tai, kad Jogailos kontrevoliucijos pasi­ sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada varė gyvą ir didelę prekybą su Vilniaus miestu. Nepatenkinti lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos reikalams, jie laukė tik progos padėti Jogailai atgauti valdžią, kurio jie anksčiau buvo stipriai palaikomi. Vokiečių Ordinas, gerai žinodamas, kas dedasi Lietuvoje, irgi nemiegojo."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"57868c2a1ee8871f016e0c6c","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Vokiečiai puldinėjo Vytauto valdomas teritorijas vis didesniu smarkumu.","context":"Aprašomas laikotarpis po Vytauto gerų santykių su vokiečiais nutraukimo; tai šaltinio autoriaus pasakojimas apie tolesnius puldinėjimus.","support_ids":["t-117308","c-108019"],"source_refs":[{"kind":"internal_claim","claim_id":"t-117308","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-108019","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"O kliūčių buvo daug. Jis paėmė valdžią gana sunkiose aplinky­ bėse. Nutraukęs gerus santykius su vokiečiais, turėjo gintis nuo jų puldinėjimų, kurie buvo daromi vis didesniu smarkumu."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"da848bf94076f161f25d0808","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Vokiečiai, sužinoję apie lietuvių įsiveržimą, rengėsi gintis ir mobilizavo daug Prūsų krašto gyventojų.","context":"Aprašomas karo žygis, kai jų žvalgai pranešė lietuvių planus; mobilizacija buvo skirta antpuoliui atremti.","support_ids":["t-184227","c-167611"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184227","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-167611","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Šitam karo žygiui buvo surinkta kariuomenė ne vien tik iš Že­ maičių^1 ), kaip paprastai Kęstutis darydavo, bet ir iš antros Lie­ tuvos dalies, kurią valdė Algirdas. Sužinoję apie didelį lietuvių įsiveržimą, vokiečiai iš savo pusės irgi rengėsi. Kai jų žval­ gai pranešė lietuvių planus, antpuoliui atremti buvo sumobili­ zuota daug Prūsų krašto gyventojų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"00e9f5045523d4c928f86db6","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Vokiečiai kėlėsi į Lietuvos miestus ir juose kūrėsi.","context":"Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus; aprašomas XV amžiaus pradžios laikotarpis.","support_ids":["t-117315","c-36963"],"source_refs":[{"kind":"internal_claim","claim_id":"t-117315","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-36963","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Apskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo tempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur. Valstybiškai-ūkiškais sumetimais jis leido plaukti į Volyniją len­ kams, į pietų Rusiją totoriams, į miestus vokiečiams. Kaip kiek­ vienas kolonizatorius jis nežiūrėjo ateinančio žmogaus tauty­ bės ar konfesijos, o pajėgumo dirbti, gabumų, turto ir dvasinių privalumų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"850c1db7c729d3ece38b535d","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Vokiečiai kūrėsi Latvijos pakrantėje, kur anksčiau gyveno latviai, ėmė ponauti ir vadintis.","context":"Bychovco kronikoje taip aprašomas vokiečių atsikėlimas į pakrantę po veikėjo išėjimo iš Latgalos; pateikiamas kronikos autoriaus vertinantis pasakojimas.","support_ids":["t-211063","c-193128"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211063","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193128","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Kai jis iš Latgalos išėjo, į tą krantą iš užjūrio atsi­ kraustė vokiečiai ir toje pakrantėje, kur latviai buvo gyvenę, patys įsikūrė, ėmė ponauti ir vadintis"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"1818117db70b8c340b4aa6c8","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos.","context":"Aprašomi 1221 metų įvykiai; tai Kojelavičiaus pateiktas istorinis aiškinimas apie Lietuvos saugumą iš šiaurės.","support_ids":["t-184587","c-167948"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184587","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-167948","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau- 93 ## Puslapis 84 1221 m e ta i K u k o v a itis — L ietu ­ v o s ir Ž e m a itijo s k u ­ n ig a ik štis gojo taiką, būdamas beveik iš visų pusių apsuptas bičiu­ lių; vakaruose—prūsų- rytuo­ se — brolio Ginvilos, Poloc­ ko kunigaikščio, pietuose jotvingių ir Skirmanto, Nau­ garduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau tos pusės saugumą laidavo tai, kad vokiečiai ir latviai, įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų, Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į Rusią."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f4ea0732e0218daee3ee6148","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Livonijos vokiečiai patyrė stambų pralaimėjimą nuo lietuvių ir žemaičių.","context":"Kojelavičius šį įvykį datuoja 1225 metais ir apibūdina kaip pirmą tokį Livonijos vokiečių pralaimėjimą.","support_ids":["t-184588","c-167949"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184588","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-167949","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Šitokios mintys teikė nepatyrusiems žmogeliams tokio ryžto ir tokios drą­ sos, kad, greitosiomis sutelktai miniai užpuolus, pirma­ me susidūrime buvo sutriuškinti prityrę krikščionių kariai, o pats arkivyskupas žuvo. Mirus apie tuos mė­ tos kalvos prie Šventosios upės statulą, Šiuo metu ten giraitė, tebeturinti senąjį vardą: palaidoto kunigaikš- 1225 m eta i L iv o n ijo s v o k ie č ia i su m u ša m i že m a ičių ir lie tu v ių jos vokiečiai pirmą kartą pa­ tyrė stambų pralaimėjimą nuo lietuvių ir žemaičių. Pavergę Livoniją, jie užpuo­ lė kuršius, kurie anuo me­ tu priklausė Lietuvai; dang- U ten is — L ie tu vo s b e i Ž e m a itijo s k u n i­ g a ik štis tus Kukovaičiui, valdžią se­…"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Vokiečiai – istorinė žmonių grupė, Lietuvoje reiškusis kaip naujakuriai, miestų gyventojai, valdovo tarnybos žmonės ir karinė jėga. Gediminas kvietė į Lietuvą atvykti bei įsikurti vokiečių riterius, pirklius, amatininkus ir valstiečius, žadėdamas jiems tokias pačias veiklos sąlygas kaip Europoje. Vėliau Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus, o jo tarnyboje jų buvo tarp gausiausių svetimšalių greta lenkų. Karo metu vokiečiai galėjo sutelkti didelę paramą: sužinoję apie lietuvių įsiveržimą, jie antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų. Vis dėlto jų vaidmuo neapsiribojo karais, nes Livonijos vidaus konfliktai laikinai trukdė vokiečiams ir latviams niokoti Lietuvą, o viename kronikos pasakojime vokiečiai vaizduojami įsikuriantys buvusioje latvių pakrantėje ir joje įsitvirtinantys.","sentences":[{"sentence_id":"s1","text":"Vokiečiai – istorinė žmonių grupė, Lietuvoje reiškusis kaip naujakuriai, miestų gyventojai, valdovo tarnybos žmonės ir karinė jėga.","support_ids":["t-117315","t-117318","t-184227","t-211063"]},{"sentence_id":"s2","text":"Gediminas kvietė į Lietuvą atvykti bei įsikurti vokiečių riterius, pirklius, amatininkus ir valstiečius, žadėdamas jiems tokias pačias veiklos sąlygas kaip Europoje.","support_ids":["t-117319"]},{"sentence_id":"s3","text":"Vėliau Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus, o jo tarnyboje jų buvo tarp gausiausių svetimšalių greta lenkų.","support_ids":["t-117315","t-117318"]},{"sentence_id":"s4","text":"Karo metu vokiečiai galėjo sutelkti didelę paramą: sužinoję apie lietuvių įsiveržimą, jie antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų.","support_ids":["t-184227"]},{"sentence_id":"s5","text":"Vis dėlto jų vaidmuo neapsiribojo karais, nes Livonijos vidaus konfliktai laikinai trukdė vokiečiams ir latviams niokoti Lietuvą, o viename kronikos pasakojime vokiečiai vaizduojami įsikuriantys buvusioje latvių pakrantėje ir joje įsitvirtinantys.","support_ids":["t-184587","t-211063"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Visi pagrindiniai teiginio aspektai paremti nurodytais šaltiniais: vokiečiai vaizduojami kaip naujakuriai, miestų gyventojai, valdovo tarnybos žmonės ir karinė jėga."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta t-117319: Gediminas kvietė vokiečių riterius, pirklius, amatininkus ir valstiečius atvykti, įsikurti ir žadėjo tokias pačias veiklos sąlygas kaip Europoje."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta t-117315 ir t-117318: Vytautas leido vokiečiams keltis į miestus, o jo tarnyboje vokiečiai buvo tarp gausiausių svetimšalių greta lenkų."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta t-184227: sužinoję apie lietuvių įsiveržimą, vokiečiai antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų."},{"sentence_id":"s5","supported":true,"reason":"Abi sakinio dalys tiesiogiai paremtos šaltiniais: t-184587 aprašo Livonijos vidaus konfliktų poveikį, o t-211063 – vokiečių įsikūrimą buvusioje latvių pakrantėje ir įsitvirtinimą joje."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-117315","t-117318","t-184227","t-211063"]},{"sentence_id":"s2","supported":false,"support_ids":["t-117319"]},{"sentence_id":"s3","supported":false,"support_ids":["t-117315","t-117318"]},{"sentence_id":"s4","supported":false,"support_ids":["t-184227"]},{"sentence_id":"s5","supported":false,"support_ids":["t-184587","t-211063"]}],"verifier":"gpt-5.6-luna"},"quality":53,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Veliuona","claim_id":"t-32414","confidence":0.65},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-06869","confidence":0.82},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Pavelas Bermontas-Avalovas","claim_id":"t-19188","confidence":0.67},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-109075","confidence":0.8},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas","claim_id":"t-185536","confidence":0.7},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)","claim_id":"t-66862","confidence":0.82},{"predicate":"gyne","direction":"outbound","target":"objektai/vietos/Georgenburgas","claim_id":"t-176119","confidence":0.81},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Kaunas","claim_id":"t-179916","confidence":0.6},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-183084","confidence":0.7},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Rytų Prūsija","claim_id":"t-215896","confidence":0.93},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-179919","confidence":0.7},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Mindaugas","claim_id":"t-211322","confidence":0.78},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Baltai","claim_id":"t-224747","confidence":0.84},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-210053","confidence":0.72},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Parusėnai","claim_id":"t-210284","confidence":0.93},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Poloviečiai","claim_id":"t-210621","confidence":0.74},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-210621","confidence":0.74},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-114966","confidence":0.9},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-176152","confidence":0.77},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Jeruzalė","claim_id":"t-224117","confidence":0.63},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Karaliaučius","claim_id":"t-135479","confidence":0.9},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Padauguvis","claim_id":"t-52464","confidence":0.9},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-185496","confidence":0.72},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-75303","confidence":0.84},{"predicate":"paskyre","direction":"outbound","target":"objektai/asmenys/Petras Kubiliūnas","claim_id":"t-26341","confidence":0.61},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Bartenšteinas","claim_id":"t-224307","confidence":0.74},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Rezlis","claim_id":"t-224307","confidence":0.74},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Vizenburgas","claim_id":"t-224307","confidence":0.74},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-86552","confidence":0.8},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Rusų pirkliai","claim_id":"t-85955","confidence":0.95},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-88505","confidence":0.74},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Maskva","claim_id":"t-68824","confidence":0.76},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Rusija","claim_id":"t-68824","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Pistoletas-kulkosvaidis MP 18","claim_id":"t-40750","confidence":0.74},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Pistoletas-kulkosvaidis MP 40","claim_id":"t-39215","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Vėliavos","claim_id":"t-210509","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-210967","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kulmo žemė","claim_id":"t-79503","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Jonas Olesnickis","claim_id":"t-82432","confidence":0.95},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-179323","confidence":0.92},{"predicate":"puole","direction":"outbound","target":"objektai/asmenys/Vytautas","claim_id":"t-117308","confidence":0.82},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Lenkai","claim_id":"t-87240","confidence":0.82},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Prūsai","claim_id":"t-217360","confidence":0.78},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kaunas","claim_id":"t-36448","confidence":0.84},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-169694","confidence":0.74},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-179424","confidence":0.72},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-210967","confidence":0.86},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Henne","claim_id":"t-184259","confidence":0.72},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Hennė (Ordino agentas)","claim_id":"t-184260","confidence":0.72},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Anglai","claim_id":"t-86839","confidence":0.78},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-45327","confidence":0.74},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Prancūzai","claim_id":"t-86839","confidence":0.78},{"predicate":"reme","direction":"outbound","target":"objektai/asmenys/P. Bermontas-Avalovas","claim_id":"t-40379","confidence":0.9},{"predicate":"reme","direction":"outbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176731","confidence":0.63},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-20530","confidence":0.76},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Škotai","claim_id":"t-86839","confidence":0.82},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/grupes/Didžiojo Naugardo respublika","claim_id":"t-117311","confidence":0.92},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-45330","confidence":0.7},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Neries sritis","claim_id":"t-36448","confidence":0.78},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-81844","confidence":0.76},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Alytus","claim_id":"t-109075","confidence":0.72},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Jeruzalė","claim_id":"t-224494","confidence":0.74},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Kaunas","claim_id":"t-179983","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Kauno tvirtovė","claim_id":"t-21485","confidence":0.95},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Klaipėdos kraštas","claim_id":"t-182764","confidence":0.86},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-20557","confidence":0.94},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Sūduva","claim_id":"t-222668","confidence":0.78},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-179983","confidence":0.82},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Vyžuonos","claim_id":"t-42341","confidence":0.92},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/grupes/Baltai","claim_id":"t-78714","confidence":0.8},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-224304","confidence":0.84},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-26341","confidence":0.68}],"timeline":[],"support_disclosure":{"claims":16,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 068db5d919037b5f
+object_page_generated_at: '2026-09-19T06:59:49+00:00'
+object_page_source_checked_at: '2026-09-19T06:59:49+00:00'
+object_page_content_state: content
+object_page_claim_count: '16'
+object_page_source_count: '4'
+object_page_seo_description: 'Vokiečiai – istorinė žmonių grupė, Lietuvoje reiškusis kaip naujakuriai, miestų gyventojai, valdovo tarnybos žmonės ir karinė jėga. Gediminas kvietė į Lietuvą…'
+object_page_seo_input_hash: e4253f616136f9175e46e70170cd2631ce2b1333a0032a5ccda1efad923e0bdc
+object_page_seo_generated_at: '2026-09-19T06:59:49+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vokiečiai
 
@@ -44,23 +54,10 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
 
 ## Teiginiai
 
-<a id="claim-t-211063"></a>
-- t-211063
-  teiginys: "Kai jis iš Latgalos išėjo, į tą krantą iš užjūrio atsi kraustė vokiečiai ir toje pakrantėje, kur latviai buvo gyvenę, patys įsikūrė, ėmė ponauti ir vadintis."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-193128
-
 <a id="claim-t-117306"></a>
-- t-117306
+- t-001
   teiginys: "Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -75,9 +72,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-36964
 
 <a id="claim-t-117307"></a>
-- t-117307
+- t-002
   teiginys: "Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrrevoliucijos sėkmei."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 12:53"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -92,9 +89,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-36959
 
 <a id="claim-t-117308"></a>
-- t-117308
+- t-003
   teiginys: "Nutraukęs gerus santykius su vokiečiais, Vytautas turėjo gintis nuo vis smarkesnių jų puldinėjimų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.82"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -109,9 +106,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-108019
 
 <a id="claim-t-117309"></a>
-- t-117309
+- t-004
   teiginys: "Vytautui tarnavo daug nelietuvių, tarp jų lenkų ir vokiečių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -125,9 +122,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-36962
 
 <a id="claim-t-117310"></a>
-- t-117310
+- t-005
   teiginys: "Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -143,9 +140,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-167611
 
 <a id="claim-t-117311"></a>
-- t-117311
+- t-006
   teiginys: "Naugardiečiai teigė su vokiečiais sudarę atskirą taikos sutartį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Vokiečiai: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -160,9 +157,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-36960
 
 <a id="claim-t-117314"></a>
-- t-117314
+- t-007
   teiginys: "Naugardiečiai teigė turėję atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Vokiečiai: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -177,9 +174,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-36960
 
 <a id="claim-t-117315"></a>
-- t-117315
+- t-008
   teiginys: "Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Rusija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -194,9 +191,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-108024
 
 <a id="claim-t-117317"></a>
-- t-117317
+- t-009
   teiginys: "Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų bendruomenės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Lietuva: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -211,9 +208,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-108020
 
 <a id="claim-t-117318"></a>
-- t-117318
+- t-010
   teiginys: "Vytauto tarnyboje buvo įvairių svetimšalių, ypač lenkų ir vokiečių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -228,9 +225,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-36964
 
 <a id="claim-t-117319"></a>
-- t-117319
+- t-011
   teiginys: "Gediminas kvietė vokiečių riterius, pirklius, amatininkus ir valstiečius atvykti į Lietuvą bei čia įsikurti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -247,9 +244,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-108018
 
 <a id="claim-t-183197"></a>
-- t-183197
+- t-012
   teiginys: "Valdovams kviečiant pirklius ir amatininkus iš svetur, Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -267,9 +264,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-166584
 
 <a id="claim-t-184587"></a>
-- t-184587
+- t-013
   teiginys: "Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos iš šiaurės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -289,9 +286,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-167948
 
 <a id="claim-t-184588"></a>
-- t-184588
+- t-014
   teiginys: "Kojelavičius 1225 m. mini kaip metus, kai Livonijos vokiečiai pirmą kartą patyrė stambų pralaimėjimą nuo lietuvių ir žemaičių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -311,6 +308,44 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-167949
+
+<a id="claim-t-188358"></a>
+- t-015
+  teiginys: "Narbutas rašė, kad senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“ ir „Belewitt“."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Bielskas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokiečiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bielskas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokiečiai\" parinktas kaip owner_note_path. Targetas \"Bielskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171251
+
+<a id="claim-t-188359"></a>
+- t-016
+  teiginys: "Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai rašiusį apie kryžiuočius ir vokiečių tautą."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokiečiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokiečiai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171252
 
 ## Reikšmingi paminėjimai
 - c-013
@@ -409,8 +444,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-117310
+  pagrindzia:
+    - t-005
 
 - id: c-36959
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -431,8 +466,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-117307
+  pagrindzia:
+    - t-002
 
 - id: c-36960
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -456,9 +491,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-117311
-    - t-117314
+  pagrindzia:
+    - t-006
+    - t-007
 
 - id: c-36962
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -478,8 +513,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-117309
+  pagrindzia:
+    - t-004
 
 - id: c-36963
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -500,8 +535,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-117315
+  pagrindzia:
+    - t-008
 
 - id: c-36964
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -524,9 +559,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-117306
-    - t-117318
+  pagrindzia:
+    - t-001
+    - t-010
 
 - id: c-108018
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -545,8 +580,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-117319
+  pagrindzia:
+    - t-011
 
 - id: c-108019
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -564,8 +599,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-117308
+  pagrindzia:
+    - t-003
 
 - id: c-108020
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -583,8 +618,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-117317
+  pagrindzia:
+    - t-009
 
 - id: c-108024
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -605,8 +640,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-117315
+  pagrindzia:
+    - t-008
 
 - id: c-166584
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -623,8 +658,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183197
+  pagrindzia:
+    - t-012
 
 - id: c-167611
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -644,8 +679,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-117310
+  pagrindzia:
+    - t-005
 
 - id: c-167948
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -680,8 +715,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184587
+  pagrindzia:
+    - t-013
 
 - id: c-167949
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -723,8 +758,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184588
+  pagrindzia:
+    - t-014
 
 - id: c-171251
   autorius: "Teodoras Narbutas"
@@ -747,6 +782,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
 
 - id: c-171252
   autorius: "Teodoras Narbutas"
@@ -770,24 +807,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193128
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 42"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 42."
-  citata_originali: |
-    Kai jis iš Latgalos išėjo, į tą krantą iš užjūrio atsi­
-    kraustė vokiečiai ir toje pakrantėje, kur latviai buvo
-    gyvenę, patys įsikūrė, ėmė ponauti ir vadintis
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211063
+  pagrindzia:
+    - t-016
 
 ## Ryšiai
 - Puolė Vokiečiai: [[objektai/asmenys/Jonas Olesnickis]], [[objektai/grupes/Lietuviai]]

@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Pagudės žemė'
+pavadinimas: Pagudės žemė
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e5863be571a83486a15e6040"
-canonical_name: "Pagudės žemė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pagudės žemė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e5863be571a83486a15e6040
+canonical_name: Pagudės žemė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pagudės žemė
 sameAs: []
-canonical_biography: "Konrado iš Tirbergo vadovaujama kariuomenė įsiveržė į Pagudės žemę ir ją nusiaubė. Tų pačių metų rudenį Pagudės žemė vėl buvo nusiaubta ir pavirto dykromis."
+canonical_biography: Konrado iš Tirbergo vadovaujama kariuomenė įsiveržė į Pagudės žemę ir ją nusiaubė. Tų pačių metų rudenį Pagudės žemė vėl buvo nusiaubta ir pavirto dykromis.
 ---
 # Pagudės žemė
 
@@ -78,7 +77,7 @@ Konrado iš Tirbergo vadovaujama kariuomenė įsiveržė į Pagudės žemę ir j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-204364
@@ -97,6 +96,5 @@ Konrado iš Tirbergo vadovaujama kariuomenė įsiveržė į Pagudės žemę ir j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

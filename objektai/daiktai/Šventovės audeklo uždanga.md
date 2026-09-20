@@ -1,6 +1,6 @@
 ---
 tipas: daiktas
-pavadinimas: 'Šventovės audeklo uždanga'
+pavadinimas: Šventovės audeklo uždanga
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Šventovės audeklo uždanga
 
@@ -53,6 +50,18 @@ Nenurodyta
   pagrindžia:
     - c-200122
 
+<a id="claim-t-218164"></a>
+- t-218164
+  teiginys: "Už uždangos, be žynių, buvo draudžiama įeiti, už tai grėsė mirties bausmė."
+  atnaujinta: "2026-09-13 20:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200050
+
 ## Santrauka
 
 Uždanga buvo aštuonių uolekčių aukščio ir sudaryta iš šešių atskirų audeklo gabalų. Už uždangos, be žynių, buvo draudžiama įeiti, už tai grėsė mirties bausmė.
@@ -69,11 +78,13 @@ Uždanga buvo aštuonių uolekčių aukščio ir sudaryta iš šešių atskirų 
     vės priesienį (už tai grėsė mirties bausmė), o jame - užeiti už
     uždangos.
   statusas: verified
-  atnaujinta: "2026-09-12 23:45"
+  atnaujinta: "2026-09-13 18:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218164
 
 - id: c-200122
   autorius: "Teodoras Narbutas"

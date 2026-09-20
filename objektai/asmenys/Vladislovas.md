@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Vladislovas'
+pavadinimas: Vladislovas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1135 m.'
+  - 1135 m.
 date_start: '1135'
 date_end: ''
 sukurta: ''
@@ -15,28 +15,40 @@ tags:
   - asmuo
   - karalius
 amziai:
-  - 'XII'
+  - XII
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-78685d711541b2664b566a9d"
-canonical_name: "Vladislovas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Vladislovas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-78685d711541b2664b566a9d
+canonical_name: Vladislovas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Vladislovas
 sameAs: []
-canonical_biography: "Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenorėjo paklusti karalystės didžiajam etmonui Stanislovui Liubomirskiui, tik karalaičiui Vladislovui įkalbėjus LDK kariuomenė sutiko jam laikinai paklusti."
+canonical_biography: 'Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenorėjo paklusti karalystės didžiajam etmonui Stanislovui Liubomirskiui, tik karalaičiui Vladislovui įkalbėjus LDK kariuomenė sutiko jam laikinai paklusti.'
+external_sources_json: '[{"title":"Vladislovas – Wikipedia","url":"https://de.wikipedia.org/wiki/Vladislovas","publisher":"Vokiečių Vikipedija","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T09:34:49+00:00","source_checked_at":"2026-09-20T09:34:49+00:00","counts":{"relations":1,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Vokiečių Vikipedija","title":"Vladislovas – Wikipedia","url":"https://de.wikipedia.org/wiki/Vladislovas","kind":"institutional","bucket":"wikipedia"}],"primary_source_urls":["https://de.wikipedia.org/wiki/Vladislovas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"fc48946d2eca4d20af2118da","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Vengrijos ir Čekijos karalius","context":"Šaltinyje aprašoma, kad Vladislovas buvo Vengrijos ir Čekijos karalius.","support_ids":["t-210744","c-192952"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210744","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-192952","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"prašė lenkų ponų, idant jo vardu prašytų jo vyresniųjų sūnų — Vladislovo, kuris buvo Vengrijos ir Čekijos karaliumi"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-184855","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":5,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 798dee73da954438
+object_page_generated_at: '2026-09-20T09:34:49+00:00'
+object_page_source_checked_at: '2026-09-20T09:34:49+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '4'
+object_page_seo_description: 'Vladislovas: Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenorėjo paklusti karalystės didžiajam etmonui Stanislovui Liubomirskiui…'
+object_page_seo_input_hash: 0d2977149e22ebc9bc35a6472184cccc5e8897030b287751788118cd3700a5b7
+object_page_seo_generated_at: '2026-09-20T09:34:49+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vladislovas
 
@@ -46,22 +58,10 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 
 ## Teiginiai
 
-<a id="claim-t-210744"></a>
-- t-210744
-  teiginys: "Vladislovas buvo Vengrijos ir Čekijos karalius."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-192952
-
 <a id="claim-t-40522"></a>
-- t-40522
+- t-001
   teiginys: "Karalaičiui Vladislovui įkalbėjus, LDK kariuomenė laikinai sutiko paklusti Stanislovui Liubomirskiui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuvos kariuomenė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -75,9 +75,9 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     - c-44570
 
 <a id="claim-t-184855"></a>
-- t-184855
+- t-002
   teiginys: "Gediminas padėjo Vladislovui kariauti su Brandenburgo markgrafu Voldemaru."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -95,9 +95,9 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     - c-168216
 
 <a id="claim-t-184856"></a>
-- t-184856
+- t-003
   teiginys: "Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,9 +115,9 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     - c-168217
 
 <a id="claim-t-201047"></a>
-- t-201047
+- t-004
   teiginys: "Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo Vladislovo, Mieško, Henriko ir Kazimiero, kurie, nekakindamos tuo pa dalijimu, lig tėvui nustipus, lig sūnūs sukeršto."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -198,8 +198,8 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-40522
+  pagrindzia:
+    - t-001
 
 - id: c-168216
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -234,8 +234,8 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184855
+  pagrindzia:
+    - t-002
 
 - id: c-168217
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -269,8 +269,8 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184856
+  pagrindzia:
+    - t-003
 
 - id: c-184397
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -295,26 +295,8 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201047
-
-- id: c-192952
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 143"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 143."
-  citata_originali: |
-    prašė lenkų ponų, idant jo vardu prašytų jo
-    vyresniųjų sūnų — Vladislovo, kuris buvo Vengrijos
-    ir Čekijos karaliumi
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210744
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Rėmė Vladislovą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

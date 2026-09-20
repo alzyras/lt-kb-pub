@@ -35,6 +35,34 @@ Teodoras Narbutas nurodo, kad Mazovijos kunigaikštis Henrikas buvo Ziemovito Vy
 
 Teodoras Narbutas nurodo, kad Mazovijos kunigaikštis Henrikas buvo Ziemovito Vyresniojo sūnus, o vėliau popiežiaus paskirtas Plocko vyskupas. Teodoras Narbutas rašo, kad kunigaikštis Henrikas savanoriškai prisiėmė slaptą pasiuntinybę atplėšti Vytautą nuo kryžiuočių ir prisiekė ją dorai įvykdyti.
 
+## Teiginiai
+
+<a id="claim-t-206986"></a>
+- t-001
+  teiginys: "Teodoras Narbutas nurodo, kad Mazovijos kunigaikštis Henrikas buvo Ziemovito Vyresniojo sūnus, o vėliau popiežiaus paskirtas Plocko vyskupas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189601
+
+<a id="claim-t-206987"></a>
+- t-002
+  teiginys: "Teodoras Narbutas rašo, kad kunigaikštis Henrikas savanoriškai prisiėmė slaptą pasiuntinybę atplėšti Vytautą nuo kryžiuočių ir prisiekė ją dorai įvykdyti."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189602
+
 ## Citatos
 
 - id: c-189601
@@ -53,7 +81,7 @@ Teodoras Narbutas nurodo, kad Mazovijos kunigaikštis Henrikas buvo Ziemovito Vy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189602
@@ -73,34 +101,5 @@ Teodoras Narbutas nurodo, kad Mazovijos kunigaikštis Henrikas buvo Ziemovito Vy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206986"></a>
-- t-001
-  teiginys: "Teodoras Narbutas nurodo, kad Mazovijos kunigaikštis Henrikas buvo Ziemovito Vyresniojo sūnus, o vėliau popiežiaus paskirtas Plocko vyskupas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189601
-
-<a id="claim-t-206987"></a>
-- t-002
-  teiginys: "Teodoras Narbutas rašo, kad kunigaikštis Henrikas savanoriškai prisiėmė slaptą pasiuntinybę atplėšti Vytautą nuo kryžiuočių ir prisiekė ją dorai įvykdyti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189602
-

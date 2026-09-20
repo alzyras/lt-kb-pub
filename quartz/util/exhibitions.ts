@@ -319,26 +319,24 @@ function resolveExhibition(
 }
 
 const exhibitionSourcePaths = [
-  "quartz/static/exhibitionsSource.json",
-  "quartz/static/exhibitionSupplements.json",
-  "quartz/static/exhibitionStateSymbols.json",
-  "quartz/static/exhibitionAuthoritySeals.json",
-  "quartz/static/exhibitionValancius.json",
+    "quartz/static/exhibitionsSource.json",
+    "quartz/static/exhibitionSupplements.json",
+    "quartz/static/exhibitionStateSymbols.json",
+    "quartz/static/exhibitionAuthoritySeals.json",
+    "quartz/static/exhibitionValancius.json",
 ]
 
 /** Cheap route discovery for Markdown transforms, without resolving the corpus. */
 export function loadExhibitionSlugs(): Set<string> {
-  return new Set(
-    exhibitionSourcePaths
-      .flatMap((path) => sourcePayload(resolve(process.cwd(), path)))
-      .flatMap((source) => [source.slug, ...(source.legacySlugs ?? [])]),
-  )
+  return new Set(exhibitionSourcePaths
+    .flatMap(path => sourcePayload(resolve(process.cwd(), path)))
+    .flatMap(source => [source.slug, ...(source.legacySlugs ?? [])]))
 }
 
 export function loadExhibitions(): ExhibitionManifest[] {
   const mediaById = loadMediaCatalog()
   const claimsById = loadClaimRegistry()
-  const sourcePaths = exhibitionSourcePaths.map((path) => resolve(process.cwd(), path))
+  const sourcePaths = exhibitionSourcePaths.map(path => resolve(process.cwd(), path))
   const exhibitions = sourcePaths
     .flatMap((path) => sourcePayload(path))
     .map((source) => resolveExhibition(source, mediaById, claimsById))
@@ -401,20 +399,6 @@ export function loadExhibitions(): ExhibitionManifest[] {
     }
   }
   return exhibitions
-}
-
-/** Catalogue metadata needs no resolved claim bodies; those are checked on the exhibition page. */
-export function loadExhibitionCatalog() {
-  const media = loadMediaCatalog()
-  return exhibitionSourcePaths
-    .flatMap((name) => sourcePayload(resolve(process.cwd(), name)))
-    .map((source) => ({
-      slug: source.slug,
-      title: source.title,
-      subtitle: source.subtitle,
-      description: source.description,
-      hero: source.hero ?? media.get(source.heroMediaId),
-    }))
 }
 
 export function exhibitionItemCount(exhibition: ExhibitionManifest): number {

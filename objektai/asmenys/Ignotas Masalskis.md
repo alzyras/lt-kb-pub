@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Ignotas Masalskis'
+pavadinimas: Ignotas Masalskis
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1740 m.'
-  - '1821 m.'
+  - 1740 m.
+  - 1821 m.
 date_start: '1740'
 date_end: '1821'
 sukurta: ''
@@ -14,35 +14,143 @@ tags:
   - asmuo
   - vyskupas
 amziai:
-  - 'XVIII'
-  - 'XIX'
+  - XVIII
+  - XIX
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f766da7b461d16225326c011"
-canonical_name: "Ignotas Masalskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Ignotas Masalskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f766da7b461d16225326c011
+canonical_name: Ignotas Masalskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Ignotas Masalskis
 sameAs: []
-canonical_biography: "Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Masalskis. Masalskis ir Livonijos vyskupas J."
+canonical_biography: Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Masalskis. Masalskis ir Livonijos vyskupas J.
+external_sources_json: '[{"title":"Ignotas Masalskis","url":"https://lt.wikipedia.org/wiki/Ignotas_Masalskis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:57:50+00:00","source_checked_at":"2026-09-20T13:57:50+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Ignotas Masalskis","url":"https://lt.wikipedia.org/wiki/Ignotas_Masalskis","publisher":"Vikipedija","language":"lt","article_id":"222744","revision_id":"7467748","published_at":"2025-01-11T11:27:07Z","version_pk":"","content_hash":"fede92b2aa68e37fa1d1bf413174119411b19d12faa22f8552c97d22d08b526e","retrieved_at":"2026-09-20T13:57:09+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Ignotas_Masalskis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"222744"}},"intro":"Ignotas Jokūbas Masalskis (lenk. Ignacy Jakub Massalski, 1726 m. liepos 30 d. – 1794 m. birželio 28 d.) – Vilniaus vyskupas, Verkių rūmų statytojas, Vilniaus katedros rekonstrukcijos fundatorius, pirmasis Edukacinės komisijos pirmininkas. Targovicos konfederacijos narys; 1794 m. sukilimo metu buvo viešai pakartas už išdavystę Varšuvoje. Yra vaizduojamas lietuvių grožinėje literatūroje – istorinėse dramose: Balio Sruogos „Apyaušrio dalioje“, Justino Marcinkevičiaus „Katedroje“.","original_intro":"","translation_status":"native","infobox":[{"code":"positions","label":"Pareigos","value":"Vilniaus vyskupas","source":"wikipedia_infobox"},{"code":"birth_date","label":"Gimė","value":"~1726 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Alekšicai","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1794 m.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Varšuva","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Vilniaus katedra","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Mykolas Juozapas Masalskis; Pranciška Oginska","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Ignotas Masalskis","url":"https://lt.wikipedia.org/wiki/Ignotas_Masalskis","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Ignotas_Masalskis"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Varšuva","claim_id":"t-75849","confidence":0.94}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 7186e610832da094
+object_page_generated_at: '2026-09-20T13:57:50+00:00'
+object_page_source_checked_at: '2026-09-20T13:57:50+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Ignotas Masalskis: Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Masalskis. Masalskis…'
+object_page_seo_input_hash: ff208edb4100e7095b50509e51b839b10d98244d9dad339ddfdd2c15dca41f06
+object_page_seo_generated_at: '2026-09-20T13:57:50+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ignotas Masalskis
 
 ## Santrauka
 
 Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Masalskis. Masalskis ir Livonijos vyskupas J.
+
+## Teiginiai
+
+<a id="claim-t-75845"></a>
+- t-001
+  teiginys: "1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti jo rūmus Verkiuose."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Verkiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ignotas Masalskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Verkiai: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignotas Masalskis\" parinktas kaip owner_note_path. Targetas \"Verkiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1769 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškus ir tiksliai perteikia citatos faktą."
+  pagrindžia:
+    - c-73530
+
+<a id="claim-t-75846"></a>
+- t-002
+  teiginys: "Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo Edukacinės komisijos pirmininku."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ignotas Masalskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignotas Masalskis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1759 m.; įvykio data: 1760 m.; įvykio data: 1773 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-21687
+
+<a id="claim-t-75847"></a>
+- t-003
+  teiginys: "1792 m. birželio 25 d. Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai, vadovavo ir Vilniaus vyskupas Ignotas Masalskis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Juozapas Kosakovskis (vyskupas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ignotas Masalskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Juozapas Kosakovskis (vyskupas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignotas Masalskis\" parinktas kaip owner_note_path. Targetas \"Juozapas Kosakovskis (vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia sklandesnės žodžių tvarkos ir aiškesnio ryšio su citata."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  pagrindžia:
+    - c-21688
+
+<a id="claim-t-75848"></a>
+- t-004
+  teiginys: "Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo pirmos Europoje švietimo ministerijos tipo įstaigos pirmininku."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ignotas Masalskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignotas Masalskis\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1759 m.; įvykio data: 1760 m.; įvykio data: 1773 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys išsamus, gramatiškas ir paremtas citata."
+  pagrindžia:
+    - c-73531
+
+<a id="claim-t-75849"></a>
+- t-005
+  teiginys: "Vilniaus vyskupas Ignotas Masalskis buvo tarp Targovicos konfederatų, pakartų Varšuvoje birželio 28 dieną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Varšuva: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ignotas Masalskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Varšuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad I. Masalskis buvo pakartas Varšuvoje, todėl tai pagrindžia mirties vietą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Ignotas Masalskis mirė Varšuva (0.94)"
+  pagrindžia:
+    - c-21689
 
 ## Citatos
 
@@ -67,7 +175,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-21688
@@ -93,7 +201,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-21689
@@ -117,7 +225,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-73530
@@ -142,7 +250,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-73531
@@ -164,105 +272,8 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 ## Ryšiai
 - Ignotas Masalskis mirė [[objektai/vietos/Varšuva]]
-
-## Teiginiai
-
-<a id="claim-t-75845"></a>
-- t-001
-  teiginys: "1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti jo rūmus Verkiuose."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Verkiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ignotas Masalskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Verkiai: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignotas Masalskis\" parinktas kaip owner_note_path. Targetas \"Verkiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1769 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškus ir tiksliai perteikia citatos faktą."
-  pagrindžia:
-    - c-73530
-
-<a id="claim-t-75846"></a>
-- t-002
-  teiginys: "Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo Edukacinės komisijos pirmininku."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ignotas Masalskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignotas Masalskis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1759 m.; įvykio data: 1760 m.; įvykio data: 1773 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-21687
-
-<a id="claim-t-75847"></a>
-- t-003
-  teiginys: "1792 m. birželio 25 d. Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai, vadovavo ir Vilniaus vyskupas Ignotas Masalskis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Juozapas Kosakovskis (vyskupas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ignotas Masalskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Juozapas Kosakovskis (vyskupas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignotas Masalskis\" parinktas kaip owner_note_path. Targetas \"Juozapas Kosakovskis (vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1792 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia sklandesnės žodžių tvarkos ir aiškesnio ryšio su citata."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-21688
-
-<a id="claim-t-75848"></a>
-- t-004
-  teiginys: "Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo pirmos Europoje švietimo ministerijos tipo įstaigos pirmininku."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ignotas Masalskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignotas Masalskis\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1759 m.; įvykio data: 1760 m.; įvykio data: 1773 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys išsamus, gramatiškas ir paremtas citata."
-  pagrindžia:
-    - c-73531
-
-<a id="claim-t-75849"></a>
-- t-005
-  teiginys: "Vilniaus vyskupas Ignotas Masalskis buvo tarp Targovicos konfederatų, pakartų Varšuvoje birželio 28 dieną."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Varšuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ignotas Masalskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Varšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad I. Masalskis buvo pakartas Varšuvoje, todėl tai pagrindžia mirties vietą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Ignotas Masalskis mirė Varšuva (0.94)"
-  pagrindžia:
-    - c-21689
-

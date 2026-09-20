@@ -34,6 +34,25 @@ canonical_biography: "Ordino magistras Zöllneris, bet šis atsisakė ir dar du 
 
 Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunigaikščiu Andriumi Jogailos krikštynų ir vestuvių proga suruošė žygį į Lietuvą.
 
+## Teiginiai
+
+<a id="claim-t-35024"></a>
+- t-001
+  teiginys: "Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Andriejus (Polocko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Andriejus su Ordino magistru surengė žygį į Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Andriejus (Polocko kunigaikštis) surengė žygį į Lietuva (0.92); Zöllneris surengė žygį į Lietuva (0.88)"
+  pagrindžia:
+    - c-37981
+
 ## Citatos
 
 - id: c-37981
@@ -57,28 +76,8 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Andriejus (Polocko kunigaikštis) surengė žygį į [[objektai/vietos/Lietuva]]
-
-## Teiginiai
-
-<a id="claim-t-35024"></a>
-- t-001
-  teiginys: "Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andriejus (Polocko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Andriejus su Ordino magistru surengė žygį į Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Andriejus (Polocko kunigaikštis) surengė žygį į Lietuva (0.92); Zöllneris surengė žygį į Lietuva (0.88)"
-  pagrindžia:
-    - c-37981
-

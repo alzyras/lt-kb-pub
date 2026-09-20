@@ -43,6 +43,28 @@ canonical_biography: "Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjun
 
 Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės: Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir pasiuntinys Petras Klimas (H.
 
+## Teiginiai
+
+<a id="claim-t-26437"></a>
+- t-001
+  teiginys: "Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Ženeva: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dovas Zaunius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ženeva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nuotraukos aprašas tiesiogiai rodo Dovą Zaunių Lietuvos delegacijoje Ženevoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Dovas Zaunius keliavo į Ženeva (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1926 m.; įvykio data: 1927 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra antraštės ir puslapio triukšmo, bet nuotraukos prierašas pagrindžia faktą."
+  pagrindžia:
+    - c-26662
+
 ## Citatos
 
 - id: c-26662
@@ -70,28 +92,5 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-26437"></a>
-- t-001
-  teiginys: "Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Ženeva: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dovas Zaunius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ženeva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nuotraukos aprašas tiesiogiai rodo Dovą Zaunių Lietuvos delegacijoje Ženevoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Dovas Zaunius keliavo į Ženeva (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1926 m.; įvykio data: 1927 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra antraštės ir puslapio triukšmo, bet nuotraukos prierašas pagrindžia faktą."
-  pagrindžia:
-    - c-26662
-

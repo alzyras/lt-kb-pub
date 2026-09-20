@@ -39,34 +39,10 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
 
 ## Teiginiai
 
-<a id="claim-t-211788"></a>
-- t-211788
-  teiginys: "Putivlio krašte vyko maskvėnų veiksmai."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194362
-
-<a id="claim-t-211803"></a>
-- t-211803
-  teiginys: "Maskvėnų kariuomenė užėmė Putivlį 1500 m. rugpjūčio 6 d."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193330
-
-<a id="claim-t-211953"></a>
-- t-211953
+<a id="claim-t-187299"></a>
+- t-001
   teiginys: "Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius."
-  atnaujinta: "2026-09-12 19:43"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
@@ -78,11 +54,13 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Putivlis\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  pagrindžia:
+    - c-170341
 
 <a id="claim-t-193425"></a>
-- t-193425
+- t-002
   teiginys: "Užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir dalį Seversko, Algirdas išplėtė lietuvių valdų ribas ligi Putivlio."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -159,6 +137,8 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-176147
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -182,40 +162,5 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193425
-
-- id: c-193330
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 317"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 317."
-  citata_originali: |
-    Maskvėnų kariuomenė užėmė Putivlį 1500.V111.6.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211803
-
-- id: c-194362
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 252"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 252."
-  citata_originali: |
-    Apie maskvėnų veiksmus Putivlio krašte kituose šaltiniuose
-    trūksta žinių, bet yra tikra, kad Putivlis buvo vasaiiškai pi įklauso­
-    mas nuo LDK.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211788
-
+  pagrindzia:
+    - t-002

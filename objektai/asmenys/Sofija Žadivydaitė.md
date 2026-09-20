@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Sofija Žadivydaitė'
+pavadinimas: Sofija Žadivydaitė
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6815a2e1581fa42468fda3b7"
-canonical_name: "Sofija Žadivydaitė"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Sofija Žadivydaitė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6815a2e1581fa42468fda3b7
+canonical_name: Sofija Žadivydaitė
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Sofija Žadivydaitė
 sameAs: []
-canonical_biography: "Sofija Žadivydaitė buvo Mitkos Zubrevickio žmona."
+canonical_biography: Sofija Žadivydaitė buvo Mitkos Zubrevickio žmona.
 ---
 # Sofija Žadivydaitė
 
@@ -69,6 +68,5 @@ Sofija Žadivydaitė buvo Mitkos Zubrevickio žmona.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

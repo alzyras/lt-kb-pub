@@ -32,6 +32,21 @@ media_all_json: |-
 
 1384 m. laiške popiežiui pasakojama, kad Jogaila ir Skirgaila su kariuomene užpuolė iš Ragainės grįžtantį komtūrą, kuris žuvo kartu su dalimi savo karių.
 
+## Teiginiai
+
+<a id="claim-t-207037"></a>
+- t-001
+  teiginys: "1384 m. laiške popiežiui pasakojama, kad Jogaila ir Skirgaila su kariuomene užpuolė iš Ragainės grįžtantį komtūrą, kuris žuvo kartu su dalimi savo karių."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189652
+
 ## Citatos
 
 - id: c-189652
@@ -60,21 +75,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-207037"></a>
-- t-001
-  teiginys: "1384 m. laiške popiežiui pasakojama, kad Jogaila ir Skirgaila su kariuomene užpuolė iš Ragainės grįžtantį komtūrą, kuris žuvo kartu su dalimi savo karių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189652
-

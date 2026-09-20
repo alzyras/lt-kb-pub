@@ -1,8 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Vyskupo Motiejaus Valančiaus pastoracinis laiškas Tytuvėnų parapijai'
+pavadinimas: Vyskupo Motiejaus Valančiaus pastoracinis laiškas Tytuvėnų parapijai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vyskupo Motiejaus Valančiaus pastoracinis laiškas Tytuvėnų parapijai
 
@@ -35,21 +32,6 @@ Nenurodyta
 
 ## Rezultatas
 Nenurodyta
-
-## Teiginiai
-
-<a id="claim-t-208793"></a>
-- t-001
-  teiginys: "1864 m. sausio 28 d. vyskupas Motiejus Valančius Tytuvėnų parapijai parašė pastoracinį laišką, kuriame įspėjo parapijiečius nepasiduoti Antano Bortkevičiaus ir Juozapo Leščiausko apgaulei."
-  atnaujinta: "2026-09-13 13:23"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
-  pagrindžia:
-    - c-191413
 
 ## Santrauka
 
@@ -83,6 +65,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
+## Teiginiai
+
+<a id="claim-t-208793"></a>
+- t-001
+  teiginys: "1864 m. sausio 28 d. vyskupas Motiejus Valančius Tytuvėnų parapijai parašė pastoracinį laišką, kuriame įspėjo parapijiečius nepasiduoti Antano Bortkevičiaus ir Juozapo Leščiausko apgaulei."
+  atnaujinta: "2026-09-13 13:23"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
+  pagrindžia:
+    - c-191413
 

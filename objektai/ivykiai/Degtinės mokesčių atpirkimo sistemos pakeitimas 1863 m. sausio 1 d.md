@@ -1,29 +1,26 @@
 ---
 tipas: ivykis
-pavadinimas: 'Degtinės mokesčių atpirkimo sistemos pakeitimas 1863 m. sausio 1 d'
+pavadinimas: Degtinės mokesčių atpirkimo sistemos pakeitimas 1863 m. sausio 1 d
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1861 m.'
-  - '1863 m.'
+  - 1861 m.
+  - 1863 m.
 date_start: '1861'
 date_end: '1863'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Degtinės mokesčių atpirkimo sistemos pakeitimas 1863 m. sausio 1 d
 

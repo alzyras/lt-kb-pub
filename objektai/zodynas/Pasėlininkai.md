@@ -36,6 +36,26 @@ Vartojamos formos: `pasėlininkais`, `auglininkais`.
 
 - Tiksli socialinė ar teisinė reikšmė ne iki galo aiški, bet ryšys su atskira ūkio kūrimo forma aiškus.
 
+## Teiginiai
+
+<a id="claim-t-07696"></a>
+- t-001
+  teiginys: "Pasėlininkai ir auglininkai, dar gyvendami prie tėvų, netoli tėvo kiemo įkūrė namus ir pataisė dirvas."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09625
+
+<a id="claim-t-07697"></a>
+- t-002
+  teiginys: "Pasėlininkais ir auglininkais vadinti vaikai, kurie prie tėvų kiemo įkūrė namus ir pataisė dirvas."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09625
+
 ## Citatos
 
 - id: c-09625
@@ -51,20 +71,6 @@ Vartojamos formos: `pasėlininkais`, `auglininkais`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-210201"></a>
-- t-001
-  teiginys: "Pasėlininkais ir auglininkais vadinti vaikai, kurie prie tėvų kiemo įkūrė namus ir pataisė dirvas."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
-<a id="claim-t-210285"></a>
-- t-002
-  teiginys: "Pasėlininkai ir auglininkai, dar gyvendami prie tėvų, netoli tėvo kiemo įkūrė namus ir pataisė dirvas."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-
+  pagrindzia:
+    - t-001
+    - t-002

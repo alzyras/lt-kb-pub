@@ -34,6 +34,25 @@ canonical_biography: "Dusburgietis teigia, kad kunigaikščio kariaunos vadas su
 
 Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289, kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas jį nukovė.
 
+## Teiginiai
+
+<a id="claim-t-60278"></a>
+- t-001
+  teiginys: "Fridrichas iš Veidos susigrūmė su Sventopelko kariaunos vadu; šis perdūrė jam žandą ietimi, tačiau Fridrichas jį nukovė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Fridrichas iš Veidos: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sventopelkas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Fridrichas iš Veidos: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Sventopelkas užpuolė grupę, kuriai vadovavo Fridrichas iš Veidos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sventopelkas puolė Fridrichas iš Veidos (0.72); Fridrichas iš Veidos kariavo prieš Sventopelkas (0.68)"
+  pagrindžia:
+    - c-60910
+
 ## Citatos
 
 - id: c-60910
@@ -54,45 +73,5 @@ Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202281
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 94"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
-  citata_originali: |
-    Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
-    ir 10 laivų. Kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289,
-    kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas
-    jį nukovė. Elbingo miestiečių laive, kuris, smarkiai plaukdamas, užšoko ant seklumos ir
-    čia paliko, buvo nukauti du broliai, tačiau brolis Fridrichas, atėjęs į pagalbą, visus kitus
-    išvadavo ir perkėlė į savo laivą, praradęs kovoje du brolius ir 3 vyrus, o priešas neteko
-    20 užmuštaisiais, tačiau likusieji paspruko.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-225608"></a>
-- t-001
-  teiginys: "Fridrichas iš Veidos susigrūmė su Sventopelko kariaunos vadu; šis perdūrė jam žandą ietimi, tačiau Fridrichas jį nukovė."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Fridrichas iš Veidos: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sventopelkas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Fridrichas iš Veidos: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Sventopelkas užpuolė grupę, kuriai vadovavo Fridrichas iš Veidos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sventopelkas puolė Fridrichas iš Veidos (0.72); Fridrichas iš Veidos kariavo prieš Sventopelkas (0.68)"
-  pagrindžia:
-    - c-202281
-

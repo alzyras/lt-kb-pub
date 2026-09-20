@@ -50,6 +50,18 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-187993"></a>
+- t-001
+  teiginys: "Narbutas apžado auką sieja su grobiamaisiais žygiais, kai būrio vadas pažadėdavo gražiausią grobį dievams."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "gap::customs"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171001
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašo, kad kronikos nenurodo, ar apžado aukos mergaitė būdavo sudeginama gyva, ar pirma užmušama.'
@@ -92,6 +104,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-171002
   autorius: "Teodoras Narbutas"
@@ -110,21 +124,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-216661"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad kronikos nenurodo, ar apžado aukos mergaitė būdavo sudeginama gyva, ar pirma užmušama."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::customs"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Apžado auka iš karo grobio: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Apžado auka iš karo grobio\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-

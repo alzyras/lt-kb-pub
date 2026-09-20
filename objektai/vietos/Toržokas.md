@@ -67,4 +67,3 @@ Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

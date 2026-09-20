@@ -44,6 +44,44 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-09593"></a>
+- t-001
+  teiginys: "Partizanai dažnai įrengdavo požemines slėptuves upelio kranto šlaite, kur buvo lengviau gauti vandens ir slėpti pėdsakus."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-12346
+
+<a id="claim-t-09594"></a>
+- t-002
+  teiginys: "Partizanai iš pradžių laikėsi miško stovyklose arba apsistodavo pas ūkininkus."
+  atnaujinta: "2026-05-20 21:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-12347
+
+<a id="claim-t-09595"></a>
+- t-003
+  teiginys: "Partizanai slėptuves įsirengdavo sodybose, o nenorėdami pakenkti rėmėjams stengdavosi bunkerius įrengti miške."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-12348
+
+<a id="claim-t-09596"></a>
+- t-004
+  teiginys: "Bunkerių įėjimai buvo kruopščiai maskuojami ir dažnai naudojami tik naktį."
+  atnaujinta: "2026-05-20 21:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-12345
+
 ## Citatos
 
 - id: c-12345
@@ -64,7 +102,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-12346
@@ -81,7 +119,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-12347
@@ -104,7 +142,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-12348
@@ -127,44 +165,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-09593"></a>
-- t-001
-  teiginys: "Partizanai dažnai įrengdavo požemines slėptuves upelio kranto šlaite, kur buvo lengviau gauti vandens ir slėpti pėdsakus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-12346
-
-<a id="claim-t-09594"></a>
-- t-002
-  teiginys: "Partizanai iš pradžių laikėsi miško stovyklose arba apsistodavo pas ūkininkus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-12347
-
-<a id="claim-t-09595"></a>
-- t-003
-  teiginys: "Partizanai slėptuves įsirengdavo sodybose, o nenorėdami pakenkti rėmėjams stengdavosi bunkerius įrengti miške."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-12348
-
-<a id="claim-t-09596"></a>
-- t-004
-  teiginys: "Bunkerių įėjimai buvo kruopščiai maskuojami ir dažnai naudojami tik naktį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-12345
-

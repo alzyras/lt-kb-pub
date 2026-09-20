@@ -33,6 +33,25 @@ media_all_json: |-
 
 1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta reguliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. Vilniaus prieigose lenkų kariuomenė ir sukilėlių daliniai patyrė pralaimėjimą.
 
+## Teiginiai
+
+<a id="claim-t-23483"></a>
+- t-001
+  teiginys: "Kai kurie Lenkijos karalystės kariuomenės daliniai prasiveržė atgal į Karalystės teritoriją, o kitų likučiai perėjo sieną su Prūsija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkijos karalystės kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo dalinių likučių pasitraukimą per sieną su Prūsija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lenkijos karalystės kariuomenė keliavo į Prūsija (0.83); Lenkijos karalystės kariuomenė puolė Vilnius (0.82); Lenkijos karalystės kariuomenė keliavo į Lenkija (0.74)"
+  pagrindžia:
+    - c-22505
+
 ## Citatos
 
 - id: c-22505
@@ -52,8 +71,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+  pagrindzia:
+    - t-001
 
 - id: c-25111
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -74,49 +93,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 - Lenkijos karalystės kariuomenė užėmė [[objektai/vietos/Kaunas]]
 - Lenkijos karalystės kariuomenė siuntė į [[objektai/vietos/Lietuva]]
-
-## Teiginiai
-
-<a id="claim-t-23482"></a>
-- t-001
-  teiginys: "1831 m. birželį į Lietuvą buvo pasiųsta apie 12,6 tūkst. karių turėjusi reguliarioji Lenkijos karalystės kariuomenė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkijos karalystės kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai sako, kad Lenkijos karalystės kariuomenė buvo pasiųsta į Lietuvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lenkijos karalystės kariuomenė siuntė į Lietuva (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1831 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-25111
-
-<a id="claim-t-23483"></a>
-- t-002
-  teiginys: "Kai kurie Lenkijos karalystės kariuomenės daliniai prasiveržė atgal į Karalystės teritoriją, o kitų likučiai perėjo sieną su Prūsija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkijos karalystės kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo dalinių likučių pasitraukimą per sieną su Prūsija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lenkijos karalystės kariuomenė keliavo į Prūsija (0.83); Lenkijos karalystės kariuomenė puolė Vilnius (0.82); Lenkijos karalystės kariuomenė keliavo į Lenkija (0.74)"
-  pagrindžia:
-    - c-22505
-

@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Variagai (normanai)'
+pavadinimas: Variagai (normanai)
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -16,12 +16,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Variagai","url":"https://lt.wikipedia.org/wiki/Variagai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Variagai","url":"https://www.vle.lt/straipsnis/variagai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T10:33:17+00:00","source_checked_at":"2026-09-20T10:33:17+00:00","counts":{"relations":1,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Vėliau, laikui bėgant, taip įvykiai susiklostė, kad ta pati tauta, kuri n u smukdė lietuvius, įgalino rusus iškilti ir sutvirtėti — narsi skandinavų gentis, šiaurės kraštuose garsūs variagai, įkūrę Rusios monarchiją, liovėsi reiškę savo teises į lietuvių padermės gentis, betgi iš kitos pu­ sės, būtent iš rytų ir vakarų, tarytum norėjo savo ainiams, Rusios kunigaikščiams, perleisti viliojančius grobius Lie- luvos kraštuose.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","claim_id":"t-205242","evidence_id":"c-187826","origin":"internal"},"wiki":{"status":"published","source":{"title":"Variagai","url":"https://lt.wikipedia.org/wiki/Variagai","publisher":"Vikipedija","language":"lt","article_id":"211562","revision_id":"6989580","published_at":"2023-06-26T07:19:36Z","version_pk":"","content_hash":"656ae9ef43958e5177b666fcda35f6da759fa3d1d412df3960fabd24d44db8af","retrieved_at":"2026-09-20T10:31:00+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Variagai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"211562"}},"intro":"Variagai (sen. skand. væringjar, rus. варяги) – vikingai, IX-X a. keliavę po Rytų Europą (dabartinę Rusiją, Ukrainą, Baltarusiją). Vertėsi prekyba, plėšikavimu. Volgos upe pasiekdavo Kaspijos jūrą, Dniepru – Konstantinopolį. Skandinavai VIII a. vid. įsikūrė Ladogos ežero pakrantėje (Aldeige) ir suvaidino svarbią rolę Rusios kaganato formavimuisi. Variagai pirmą kartą minimi 859 m. Pirmojoje kronikoje. Tuo pat metu vikingai puldinėjo Britų salas ir kuršius. 862 m. finų ir slavų gentys sukilo prieš variagus ir išstūmė atgal į Skandinaviją, tačiau variagai vėliau pasinaudoję slavų ir finų tarpusavio karais vėl įsiveržė į Rusią. Vadovaujami Riuriko variagai įskūrė Holmgarde (dab. Naugardas). IX a. jie valdė Volgos prekybos kelią tarp Gardarikio (šiaurės Rusijos) ir Serklando (vidurio Rusijos) į Abasidų Kalifatą. Vėliau Volgos prekybos kelio reikšmė sumenko, tačiau suklestėjo prekybinis maršrutas Dniepro upe ir Juodąja jūra (vad. Kelias iš variagų pas graikus). X a. variagai palaipsniui suslavėjo, bet senoji skandinavų kalba Naugarde buvo vartojama iki XIII a.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Variagai","url":"https://lt.wikipedia.org/wiki/Variagai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Variagai","url":"https://www.vle.lt/straipsnis/variagai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Variagai","https://www.vle.lt/straipsnis/variagai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"ac125bbec59e6b2ddadcbf42","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Karinga skandinavų gentis.","context":"Pasak Teodoro Narbuto, Rimuko variagai buvo laikomi karinga skandinavų gentimi; tai autoriaus vertinimas, pateiktas 1995 m. leidinyje apie senesnį laikotarpį.","support_ids":["t-215673","c-194838"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215673","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194838","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Anot jų, neabejotinai buvo Rusia vadinamas kraštas, egzista­ vęs labai seniai, iki epochos, kai slavai ¡pradėjo vadintis rusais. Iš jos buvo kilęs Rimukas su savo variagais, ku­ rie dėl to buvo vadinami rus-variagais arba tiesiog ru­ sais; tai buvo karinga skandinavų gentis, nuo seno val­ džiusi taip pat ir rytines Baltijos jūros pakrantes. 220 Rosės pavadinimo kilmė."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"29a80e0404dbe7ef5fd1f034","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Atvykėliai iš Skandinavijos.","context":"Zenonas Ivinskis variagus apibūdina kaip iš Skandinavijos atvykusius kariautojus-pirklius; aprašomas variagų laikotarpis Dniepro baseine ir IX a. prekybinių santykių kontekstas.","support_ids":["t-31364","c-33361"],"source_refs":[{"kind":"internal_claim","claim_id":"t-31364","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-33361","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos kariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius santykius. Šitaip per Gudijos plotus Lietuvon dar IX amž."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"738ec70a908595a3ae498e80","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Kariavo ir prekiavo.","context":"Zenonas Ivinskis variagus tiesiogiai apibūdina kaip kariautojus-pirklius; tai siejama su variagų laikotarpiu Dniepro baseine.","support_ids":["t-31364","c-33361"],"source_refs":[{"kind":"internal_claim","claim_id":"t-31364","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-33361","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos kariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius santykius. Šitaip per Gudijos plotus Lietuvon dar IX amž."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"778ecfd35dcdbbf8ea088b69","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Dalyvavo karo žygiuose ir apsiaustyse.","context":"Teodoras Narbutas rašo, kad Vladimiras, padedamas gausios variagų kariaunos, apsupo Kijevą ir privertė jį pasiduoti; tai autoriaus pasakojimas apie konkretų istorinį įvykį, pateiktas 1994 m. leidinyje.","support_ids":["t-205086","c-187702"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205086","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187702","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Ten, kur su didžiule nauda, patirdamas sėkmę, dirbo jis, versdamas nekrikštus į krikš­ čionybę ir sutvirtindamas atsivertėlius jų šventame tikė­ jime, krašto viduje kilo tarpusavio karas: kunigaikštis Vladimiras, gausios variagų ir obotritų* kariaunos pade­ damas, apsupo Kijevą ir privertė pasiduoti. Arkivyskupas Brunonas su palyda pateko į nelaisvę. Pakliuvęs j va­ riagų rankas ir tikriausiai atitekęs jiems dalijantis belais­ vius, buvo išvežtas į Pabaltijo kraštus1."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"49f7eb1b400d550a8d4009a4","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Kariauna.","context":"Teodoras Narbutas variagus įvardija kaip gausią kariauną, padėjusią Vladimirui apsupti Kijevą; aprašomas konkretus istorinis įvykis autoriaus pasakojime.","support_ids":["t-205086","c-187702"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205086","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187702","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Ten, kur su didžiule nauda, patirdamas sėkmę, dirbo jis, versdamas nekrikštus į krikš­ čionybę ir sutvirtindamas atsivertėlius jų šventame tikė­ jime, krašto viduje kilo tarpusavio karas: kunigaikštis Vladimiras, gausios variagų ir obotritų* kariaunos pade­ damas, apsupo Kijevą ir privertė pasiduoti. Arkivyskupas Brunonas su palyda pateko į nelaisvę. Pakliuvęs j va­ riagų rankas ir tikriausiai atitekęs jiems dalijantis belais­ vius, buvo išvežtas į Pabaltijo kraštus1."}],"status":"published","conflict_status":"clear"},{"trait_id":"67f46e049586b8cce8b9b5ae","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Įkūrė Rusios monarchiją.","context":"Pasak Teodoro Narbuto, variagai įkūrė Rusios monarchiją; tai autoriaus teiginys apie ankstesnį laikotarpį, paskelbtas 1994 m. leidinyje.","support_ids":["t-205242","c-187826"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205242","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187826","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Vėliau, laikui bėgant, taip įvykiai susiklostė, kad ta pati tauta, kuri n u smukdė lietuvius, įgalino rusus iškilti ir sutvirtėti — narsi skandinavų gentis, šiaurės kraštuose garsūs variagai, įkūrę Rusios monarchiją, liovėsi reiškę savo teises į lietuvių padermės gentis, betgi iš kitos pu­ sės, būtent iš rytų ir vakarų, tarytum norėjo savo ainiams, Rusios kunigaikščiams, perleisti viliojančius grobius Lie- luvos kraštuose."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Variagai (normanai) – karinga skandinavų gentis, siejama su judėjimu ir veikla įvairiuose Europos kraštuose. Jų laikotarpis Dniepro baseine apėmė IX amžių, kai iš Skandinavijos atvykę kariautojai ir pirkliai veikė šiame regione. Šiuo metu lietuviai per Gudijos plotus išplėtojo prekybinius ryšius rytų kryptimi, todėl variagų veikla buvo susijusi ir su prekybos kelių plėtra. Variagai taip pat atliko karinį vaidmenį: Vladimiras, remiamas gausios variagų ir obotritų kariaunos, apsupo Kijevą ir privertė jį pasiduoti. Teodoras Narbutas variagus sieja su Rusios monarchijos įkūrimu, o kai kuriuos jų vadina rus-variagais arba rusais; jo pasakojime ši gentis valdė ir rytines Baltijos jūros pakrantes.","sentences":[{"sentence_id":"s1","text":"Variagai (normanai) – karinga skandinavų gentis, siejama su judėjimu ir veikla įvairiuose Europos kraštuose.","support_ids":["t-215673","c-194838","t-212503","c-195228"]},{"sentence_id":"s2","text":"Jų laikotarpis Dniepro baseine apėmė IX amžių, kai iš Skandinavijos atvykę kariautojai ir pirkliai veikė šiame regione.","support_ids":["t-31364","c-33361"]},{"sentence_id":"s3","text":"Šiuo metu lietuviai per Gudijos plotus išplėtojo prekybinius ryšius rytų kryptimi, todėl variagų veikla buvo susijusi ir su prekybos kelių plėtra.","support_ids":["t-31364","c-33361"]},{"sentence_id":"s4","text":"Variagai taip pat atliko karinį vaidmenį: Vladimiras, remiamas gausios variagų ir obotritų kariaunos, apsupo Kijevą ir privertė jį pasiduoti.","support_ids":["t-205086","c-187702"]},{"sentence_id":"s5","text":"Teodoras Narbutas variagus sieja su Rusios monarchijos įkūrimu, o kai kuriuos jų vadina rus-variagais arba rusais; jo pasakojime ši gentis valdė ir rytines Baltijos jūros pakrantes.","support_ids":["t-205242","c-187826","t-215673","c-194838"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai tiesiogiai nurodo variagus kaip karingą skandinavų gentį ir aprašo jų paplitimą įvairiuose Europos kraštuose."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai mini variagų laikotarpį Dniepro baseine, iš Skandinavijos atvykusius kariautojus-pirkius ir IX amžių."},{"sentence_id":"s3","supported":false,"reason":"Sakinys klaidingai teigia „šiuo metu“; šaltinis kalba apie IX amžių. Be to, priežastinis ryšys su variagų prekybos kelių plėtra nėra tiesiogiai pagrįstas."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Vladimiras, padedamas variagų ir obotritų kariaunos, apsupo Kijevą ir privertė jį pasiduoti."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai sieja variagus su Rusios monarchijos įkūrimu, mini rus-variagų arba rusų pavadinimus ir jų valdytas rytines Baltijos jūros pakrantes."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-215673","c-194838","t-212503","c-195228"]},{"sentence_id":"s2","supported":true,"support_ids":["t-31364","c-33361"]},{"sentence_id":"s3","supported":true,"support_ids":["t-31364","c-33361"]},{"sentence_id":"s4","supported":true,"support_ids":["t-205086","c-187702"]},{"sentence_id":"s5","supported":true,"support_ids":["t-205242","c-187826","t-215673","c-194838"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Skandinavai","claim_id":"t-215673","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e2078fb5acb16bc4
+object_page_generated_at: '2026-09-20T10:33:17+00:00'
+object_page_source_checked_at: '2026-09-20T10:33:17+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Variagai (normanai) – karinga skandinavų gentis, siejama su judėjimu ir veikla įvairiuose Europos kraštuose. Jų laikotarpis Dniepro baseine apėmė IX amžių…'
+object_page_seo_input_hash: 09b2e27e8ff4ddc768bef9049022ee8033892f80dae68c3afe7c9b16055cef98
+object_page_seo_generated_at: '2026-09-20T10:33:17+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Variagai (normanai)
 
@@ -31,22 +41,26 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 
 ## Teiginiai
 
-<a id="claim-t-212503"></a>
-- t-212503
-  teiginys: "O iš čia didelė tauta ėmė lietis į visus kraštus; iš eilės Europos vakarai, šiaurė, rytai bei pietūs regėjo ir gausias kariuomenes, ir daugybę atvy kėlių, vadinamų variagais, gotais ir įvairiais kitais var dais."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-31364"></a>
+- t-001
+  teiginys: "Variagų laikotarpiu Dniepro baseine lietuviai išplėtojo prekybinius santykius rytų kryptimi."
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  ryšio_patikimumas: "susije_su -> Dniepras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Variagai (normanai): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dniepras: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Variagai (normanai)\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-195228
+    - c-33361
 
-<a id="claim-t-215673"></a>
-- t-215673
+<a id="claim-t-192477"></a>
+- t-002
   teiginys: "Narbutas rašo, kad Rimuko variagai buvo vadinti rus-variagais arba rusais ir laikyti karinga skandinavų gentimi."
-  atnaujinta: "2026-09-13 18:13"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -62,28 +76,32 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   semantiniai_rysiai: "Variagai (normanai) priklausė Skandinavai (0.86)"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-194838
+    - c-175271
 
-<a id="claim-t-31364"></a>
-- t-31364
-  teiginys: "Variagų laikotarpiu Dniepro baseine lietuviai išplėtojo prekybinius santykius rytų kryptimi."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-192478"></a>
+- t-003
+  teiginys: "Narbutas variagų-lietuvių giminę apibūdina kaip karingą ir sumanią, vėliau išgarsėjusią rusų variagų vardu."
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dniepras: 0.85"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Variagai (normanai): owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Dniepras: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Variagai (normanai)\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=79"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Variagai (normanai)\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-33361
+    - c-175272
 
 <a id="claim-t-205086"></a>
-- t-205086
+- t-004
   teiginys: "Narbutas rašo, kad kunigaikštis Vladimiras, padedamas variagų ir obotritų kariaunos, apsupo Kijevą ir privertė jį pasiduoti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -94,9 +112,9 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
     - c-187702
 
 <a id="claim-t-205242"></a>
-- t-205242
+- t-005
   teiginys: "Pasak Narbuto, variagai liovėsi reiškę teises į lietuvių padermės gentis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -126,8 +144,8 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-31364
+  pagrindzia:
+    - t-001
 
 - id: c-175271
   autorius: "Teodoras Narbutas"
@@ -149,6 +167,8 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-175272
   autorius: "Teodoras Narbutas"
@@ -169,6 +189,8 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-187702
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -189,8 +211,8 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205086
+  pagrindzia:
+    - t-004
 
 - id: c-187826
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -223,71 +245,5 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205242
-
-- id: c-194838
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 215"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 215."
-  citata_originali: |
-    Anot
-    jų, neabejotinai buvo Rusia vadinamas kraštas, egzista­
-    vęs labai seniai, iki epochos, kai slavai ¡pradėjo vadintis
-    rusais. Iš jos buvo kilęs Rimukas su savo variagais, ku­
-    rie dėl to buvo vadinami rus-variagais arba tiesiog ru­
-    sais; tai buvo karinga skandinavų gentis, nuo seno val­
-    džiusi taip pat ir rytines Baltijos jūros pakrantes.
-    220
-    Rosės pavadinimo kilmė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215673
-
-- id: c-195069
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 341"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
-  citata_originali: |
-    Be to, ir Pretorijus sako,
-    jog prūsai ir rusai iš pradžių priklausė vienai genčiai;
-    variagų vardą jis kildina iš grynai prūsiško žodžio Wa-
-    rejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį
-    duoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,
-    jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir
-    krivičiams.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-195228
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 38"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
-  citata_originali: |
-    O iš čia didelė tauta ėmė lietis į
-    visus kraštus; iš eilės Europos vakarai, šiaurė, rytai bei
-    pietūs regėjo ir gausias kariuomenes, ir daugybę atvy­
-    kėlių, vadinamų variagais, gotais ir įvairiais kitais var­
-    dais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212503
-
+  pagrindzia:
+    - t-005

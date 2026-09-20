@@ -1,10 +1,10 @@
 ---
 tipas: grupe
-pavadinimas: 'Vilniaus vyskupijos klierikų kolegija'
+pavadinimas: Vilniaus vyskupijos klierikų kolegija
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1582 m.'
+  - 1582 m.
 date_start: '1582'
 date_end: ''
 sukurta: ''
@@ -13,19 +13,29 @@ tags:
   - institucija
   - grupe
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:15:16+00:00","source_checked_at":"2026-09-19T22:15:16+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"880865f5e2d9401299e0bbf7","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Nustatytas lietuvių ir rusų jaunuolių skaičius","context":"Jurgio Radvilos fundavimo akte aprašoma kolegija, kurioje turėjo būti išlaikomas ir dievobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuolių skaičius.","support_ids":["t-81748","c-55908"],"source_refs":[{"kind":"internal_claim","claim_id":"t-81748","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55908","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų Vilniaus diece­ zijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­ tarnautojų trūkumas Viešpaties vynuogyne, nusprendėme įsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­ vobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­ lių skaičius. Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo pajamų ir kapitulos, ir visokios rūšies vertybių, personatų, pelno, abatijų…"}],"status":"published","conflict_status":"clear"},{"trait_id":"5a4d20baf97711c2b8bd6ec0","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Išlaikyti ir dievobaimingai auklėti lietuvių ir rusų jaunuolius","context":"Jurgis Radvila nurodė šį tikslą steigdamas ir funduodamas kolegiją Vilniaus diecezijoje.","support_ids":["t-81748","c-55908"],"source_refs":[{"kind":"internal_claim","claim_id":"t-81748","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55908","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų Vilniaus diece­ zijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­ tarnautojų trūkumas Viešpaties vynuogyne, nusprendėme įsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­ vobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­ lių skaičius. Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo pajamų ir kapitulos, ir visokios rūšies vertybių, personatų, pelno, abatijų…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b9eb9b0c7f78358d34e6b89e","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Reaguoti į kunigų ir kitų patarnautojų trūkumą Vilniaus diecezijoje","context":"Jurgis Radvila savo fundavimo akte teigė pastebėjęs didelį kunigų ir kitų patarnautojų trūkumą ir dėl to nusprendęs įsteigti bei funduoti kolegiją.","support_ids":["t-55100","c-55908"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55100","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55908","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų Vilniaus diece­ zijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­ tarnautojų trūkumas Viešpaties vynuogyne, nusprendėme įsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­ vobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­ lių skaičius. Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo pajamų ir kapitulos, ir visokios rūšies vertybių, personatų, pelno, abatijų…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8980eff9f860b48e7875c993","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Klierikų mokymas","context":"Šaltinyje nurodoma, kad klierikų mokymo reikalai buvo patikėti kolegijos rektoriui ir Vilniaus Jėzaus draugijos kolegijai.","support_ids":["t-55105","c-55910"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55105","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55910","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą! prašome, kad laikytų verta prisiimti į savo globą ir gynybą pačią Vilniaus seminariją. Ir mūsų įpėdinius ragi­ name ir prašome, kad, iškilus seminarijoje įvairiems sunku­ mams, kreiptųsi į pačią karališkąją Didenybę ar į kitus ka­ raliaus įpėdinius ir nieko, kas susiję su seminarijos ir jos turtų valdymu, be jų pritarimo nedarytų. Tai jų sąžinei griežtai pavedame. Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus…"}],"status":"published","conflict_status":"clear"},{"trait_id":"06ae5d92c7c93656d940b39c","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Vadovavimas patikėtas rektoriui ir Vilniaus Jėzaus draugijos kolegijai","context":"Jurgio Radvilos akte kolegijos vadovavimas ir klierikų mokymas patikimi didžiai gerbiamam tėvui rektoriui ir visai Vilniaus Jėzaus draugijos kolegijai.","support_ids":["t-55105","c-55910"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55105","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55910","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą! prašome, kad laikytų verta prisiimti į savo globą ir gynybą pačią Vilniaus seminariją. Ir mūsų įpėdinius ragi­ name ir prašome, kad, iškilus seminarijoje įvairiems sunku­ mams, kreiptųsi į pačią karališkąją Didenybę ar į kitus ka­ raliaus įpėdinius ir nieko, kas susiję su seminarijos ir jos turtų valdymu, be jų pritarimo nedarytų. Tai jų sąžinei griežtai pavedame. Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8daa5cd2938053297909db8e","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Seminarija prašyta priimti į karaliaus globą ir gynybą","context":"Jurgio Radvilos akte prašoma karaliaus Stepono prisiimti Vilniaus seminariją į savo globą ir gynybą, o įpėdiniams nurodoma dėl seminarijos ir jos turto valdymo tartis su karališkąja Didenybe ar jos įpėdiniais.","support_ids":["t-55104","c-55910"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55104","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55910","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą! prašome, kad laikytų verta prisiimti į savo globą ir gynybą pačią Vilniaus seminariją. Ir mūsų įpėdinius ragi­ name ir prašome, kad, iškilus seminarijoje įvairiems sunku­ mams, kreiptųsi į pačią karališkąją Didenybę ar į kitus ka­ raliaus įpėdinius ir nieko, kas susiję su seminarijos ir jos turtų valdymu, be jų pritarimo nedarytų. Tai jų sąžinei griežtai pavedame. Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus…"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Jurgis Radvila","claim_id":"t-55100","confidence":0.84}],"timeline":[],"support_disclosure":{"claims":6,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 295a7cb0e45b5c24
+object_page_generated_at: '2026-09-19T22:15:16+00:00'
+object_page_source_checked_at: '2026-09-19T22:15:16+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '1'
+object_page_seo_description: 'Vilniaus vyskupijos klierikų kolegija buvo Jurgio Radvilos funduota seminarija, skirta nustatytam lietuvių ir rusų jaunuolių skaičiui išlaikyti bei religingai…'
+object_page_seo_input_hash: ed22e404b73949b634fc63e2c9a19c8ee26c6403efc31b72fa97fade95321c25
+object_page_seo_generated_at: '2026-09-19T22:15:16+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vilniaus vyskupijos klierikų kolegija
 
@@ -42,6 +52,140 @@ Vilniaus vyskupijos klierikų kolegija buvo Jurgio Radvilos funduota seminarija,
 ## Kas tai
 
 Vilniaus diecezijos seminarija ir religinė švietimo institucija.
+
+## Teiginiai
+
+<a id="claim-t-55100"></a>
+- t-001
+  teiginys: "Jurgis Radvila Vilniaus diecezijoje nusprendė steigti ir funduoti kolegiją dėl kunigų ir kitų patarnautojų trūkumo."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "reme -> Vilniaus vyskupijos klierikų kolegija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Frazė apie kolegijos fundavimą tiesiogiai pagrindžia Jurgio Radvilos paramą kolegijai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Jurgis Radvila (vyskupas, XVI a.) rėmė Vilniaus vyskupijos klierikų kolegija (0.84)"
+  pagrindžia:
+    - c-78323
+
+<a id="claim-t-55101"></a>
+- t-002
+  teiginys: "Kolegijoje turėjo būti išlaikomas ir dievobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuolių skaičius."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus vyskupijos klierikų kolegija\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78323
+
+<a id="claim-t-55102"></a>
+- t-003
+  teiginys: "Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti skyrė Vozgėliškių dvarelį Vilniaus paviete."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "reme -> Vilniaus vyskupijos klierikų kolegija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatoje Jurgis Radvila kalba apie klierikų kolegijos fundavimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Jurgis Radvila (vyskupas, XVI a.) rėmė Vilniaus vyskupijos klierikų kolegija (0.86)"
+  pagrindžia:
+    - c-55908
+
+<a id="claim-t-55103"></a>
+- t-004
+  teiginys: "Vozgėliškių dvarelis su teisėmis, pajamomis, medžiokle, žūkle ir dominijos teise buvo neatšaukiamai perduotas klierikų kolegijai."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus vyskupijos klierikų kolegija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55909
+
+<a id="claim-t-55104"></a>
+- t-005
+  teiginys: "Karaliaus Stepono buvo prašoma priimti Vilniaus seminariją į savo globą ir gynybą."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus vyskupijos klierikų kolegija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55910
+
+<a id="claim-t-55105"></a>
+- t-006
+  teiginys: "Klierikų mokymas ir kolegijos vadovavimas buvo patikėti Vilniaus Jėzaus draugijos kolegijai."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus vyskupijos klierikų kolegija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55910
+
+<a id="claim-t-81748"></a>
+- t-007
+  teiginys: "Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "reme -> Vilniaus vyskupijos klierikų kolegija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Jurgio Radvilos sprendimą funduoti kolegiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Jurgis Radvila (vyskupas, XVI a.) rėmė Vilniaus vyskupijos klierikų kolegija (0.84)"
+  pagrindžia:
+    - c-78323
+
+<a id="claim-t-81749"></a>
+- t-008
+  teiginys: "Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti pridėjo Vozgėliškėmis vadintą dvarelį Vilniaus paviete."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "reme -> Vilniaus vyskupijos klierikų kolegija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kolegijos fundavimas tiesiogiai reiškia Jurgio Radvilos paramą šiai kolegijai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Jurgis Radvila (vyskupas, XVI a.) rėmė Vilniaus vyskupijos klierikų kolegija (0.86)"
+  pagrindžia:
+    - c-55908
 
 ## Citatos
 
@@ -80,7 +224,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-008
 
@@ -122,7 +266,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-55910
@@ -153,7 +297,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-006
 
@@ -191,142 +335,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
     - t-007
-
-## Teiginiai
-
-<a id="claim-t-55100"></a>
-- t-001
-  teiginys: "Jurgis Radvila Vilniaus diecezijoje nusprendė steigti ir funduoti kolegiją dėl kunigų ir kitų patarnautojų trūkumo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "reme -> Vilniaus vyskupijos klierikų kolegija: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Frazė apie kolegijos fundavimą tiesiogiai pagrindžia Jurgio Radvilos paramą kolegijai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Jurgis Radvila (vyskupas, XVI a.) rėmė Vilniaus vyskupijos klierikų kolegija (0.84)"
-  pagrindžia:
-    - c-78323
-
-<a id="claim-t-55101"></a>
-- t-002
-  teiginys: "Kolegijoje turėjo būti išlaikomas ir dievobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuolių skaičius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus vyskupijos klierikų kolegija\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78323
-
-<a id="claim-t-55102"></a>
-- t-003
-  teiginys: "Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti skyrė Vozgėliškių dvarelį Vilniaus paviete."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "reme -> Vilniaus vyskupijos klierikų kolegija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje Jurgis Radvila kalba apie klierikų kolegijos fundavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Jurgis Radvila (vyskupas, XVI a.) rėmė Vilniaus vyskupijos klierikų kolegija (0.86)"
-  pagrindžia:
-    - c-55908
-
-<a id="claim-t-55103"></a>
-- t-004
-  teiginys: "Vozgėliškių dvarelis su teisėmis, pajamomis, medžiokle, žūkle ir dominijos teise buvo neatšaukiamai perduotas klierikų kolegijai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus vyskupijos klierikų kolegija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55909
-
-<a id="claim-t-55104"></a>
-- t-005
-  teiginys: "Karaliaus Stepono buvo prašoma priimti Vilniaus seminariją į savo globą ir gynybą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus vyskupijos klierikų kolegija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55910
-
-<a id="claim-t-55105"></a>
-- t-006
-  teiginys: "Klierikų mokymas ir kolegijos vadovavimas buvo patikėti Vilniaus Jėzaus draugijos kolegijai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus vyskupijos klierikų kolegija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55910
-
-<a id="claim-t-81748"></a>
-- t-007
-  teiginys: "Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "reme -> Vilniaus vyskupijos klierikų kolegija: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Jurgio Radvilos sprendimą funduoti kolegiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Jurgis Radvila (vyskupas, XVI a.) rėmė Vilniaus vyskupijos klierikų kolegija (0.84)"
-  pagrindžia:
-    - c-78323
-
-<a id="claim-t-81749"></a>
-- t-008
-  teiginys: "Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti pridėjo Vozgėliškėmis vadintą dvarelį Vilniaus paviete."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "reme -> Vilniaus vyskupijos klierikų kolegija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kolegijos fundavimas tiesiogiai reiškia Jurgio Radvilos paramą šiai kolegijai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Jurgis Radvila (vyskupas, XVI a.) rėmė Vilniaus vyskupijos klierikų kolegija (0.86)"
-  pagrindžia:
-    - c-55908
-

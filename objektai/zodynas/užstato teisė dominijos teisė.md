@@ -27,6 +27,17 @@ media_all_json: |-
 
 IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai, visas jų teises, taip ir religijos bei tikėjimo papročius, jei pasižadėtų, nepa­ keistus išsaugoti.
 
+## Teiginiai
+
+<a id="claim-t-86622"></a>
+- t-001
+  teiginys: "Apskritys turėjo būti perduotos tik užstato, o ne dominijos teise."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82601
+
 ## Citatos
 
 - id: c-82601
@@ -53,17 +64,5 @@ IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-86622"></a>
-- t-001
-  teiginys: "Apskritys turėjo būti perduotos tik užstato, o ne dominijos teise."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82601
-

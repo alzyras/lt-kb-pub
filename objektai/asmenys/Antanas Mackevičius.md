@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Antanas Mackevičius'
+pavadinimas: Antanas Mackevičius
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1863 m.'
-  - '1864 m.'
+  - 1863 m.
+  - 1864 m.
 date_start: '1863'
 date_end: '1864'
 sukurta: ''
@@ -15,35 +15,167 @@ tags:
   - asmuo
   - kunigas
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '1'
 media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F3064608%2F5515763%2Flow%2Fget&type=IMAGE'
 media_primary_canonical_url: 'https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_3064608'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'portrait_of'
-media_primary_json: |-
-  {"mediaId":"m-c6ee04493039c2c7192dd95f","title":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","caption":"Kunigo ir 1863 m. sukilimo vado Antano Mackevičiaus portretinė fotografija.","originalTitle":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_3064608","sourceUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F3064608%2F5515763%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigas","label":"kunigas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"sukilimas","label":"sukilimas","facetKind":"tema","confidence":0.95},{"code":"sukilėlis","label":"sukilėlis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Mackevičius.md","title":"Antanas Mackevičius","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:21:00.283650+03:00","reviewedAt":"2026-07-31T06:02:15.112783+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XIX a. portretas: visu ūgiu nufotografuotas vyras sėdi ant kėdės, vilki tamsius oficialius drabužius ir laiko ranką užantyje.","metadataEvidence":"Kandidato pavadinime ir aprašyme tiesiogiai įvardytas 1863 m. sukilimo vadas kunigas Antanas Mackevičius (1828–1863); pateikta muziejinė kilmė iš Šiaulių Aušros muziejaus.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų target asmenį; tai tiesioginis jo istorinis portretas.","isPrimary":1}
-media_direct_json: |-
-  [{"mediaId":"m-c6ee04493039c2c7192dd95f","title":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","caption":"Kunigo ir 1863 m. sukilimo vado Antano Mackevičiaus portretinė fotografija.","originalTitle":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_3064608","sourceUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F3064608%2F5515763%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigas","label":"kunigas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"sukilimas","label":"sukilimas","facetKind":"tema","confidence":0.95},{"code":"sukilėlis","label":"sukilėlis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Mackevičius.md","title":"Antanas Mackevičius","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:21:00.283650+03:00","reviewedAt":"2026-07-31T06:02:15.112783+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XIX a. portretas: visu ūgiu nufotografuotas vyras sėdi ant kėdės, vilki tamsius oficialius drabužius ir laiko ranką užantyje.","metadataEvidence":"Kandidato pavadinime ir aprašyme tiesiogiai įvardytas 1863 m. sukilimo vadas kunigas Antanas Mackevičius (1828–1863); pateikta muziejinė kilmė iš Šiaulių Aušros muziejaus.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų target asmenį; tai tiesioginis jo istorinis portretas.","isPrimary":1}]
-media_contextual_json: |-
-  []
-media_all_json: |-
-  [{"mediaId":"m-c6ee04493039c2c7192dd95f","title":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","caption":"Kunigo ir 1863 m. sukilimo vado Antano Mackevičiaus portretinė fotografija.","originalTitle":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_3064608","sourceUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F3064608%2F5515763%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigas","label":"kunigas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"sukilimas","label":"sukilimas","facetKind":"tema","confidence":0.95},{"code":"sukilėlis","label":"sukilėlis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Mackevičius.md","title":"Antanas Mackevičius","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:21:00.283650+03:00","reviewedAt":"2026-07-31T06:02:15.112783+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XIX a. portretas: visu ūgiu nufotografuotas vyras sėdi ant kėdės, vilki tamsius oficialius drabužius ir laiko ranką užantyje.","metadataEvidence":"Kandidato pavadinime ir aprašyme tiesiogiai įvardytas 1863 m. sukilimo vadas kunigas Antanas Mackevičius (1828–1863); pateikta muziejinė kilmė iš Šiaulių Aušros muziejaus.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų target asmenį; tai tiesioginis jo istorinis portretas.","isPrimary":1}]
-entity_id: "ent-017e711259e476d681c80b9a"
-canonical_name: "Antanas Mackevičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Antanas Mackevičius"]
+media_primary_directness: direct
+media_primary_relation_type: portrait_of
+media_primary_json: '{"mediaId":"m-c6ee04493039c2c7192dd95f","title":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","caption":"Kunigo ir 1863 m. sukilimo vado Antano Mackevičiaus portretinė fotografija.","originalTitle":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_3064608","sourceUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F3064608%2F5515763%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigas","label":"kunigas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"sukilimas","label":"sukilimas","facetKind":"tema","confidence":0.95},{"code":"sukilėlis","label":"sukilėlis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Mackevičius.md","title":"Antanas Mackevičius","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:21:00.283650+03:00","reviewedAt":"2026-07-31T06:02:15.112783+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XIX a. portretas: visu ūgiu nufotografuotas vyras sėdi ant kėdės, vilki tamsius oficialius drabužius ir laiko ranką užantyje.","metadataEvidence":"Kandidato pavadinime ir aprašyme tiesiogiai įvardytas 1863 m. sukilimo vadas kunigas Antanas Mackevičius (1828–1863); pateikta muziejinė kilmė iš Šiaulių Aušros muziejaus.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų target asmenį; tai tiesioginis jo istorinis portretas.","isPrimary":1}'
+media_direct_json: '[{"mediaId":"m-c6ee04493039c2c7192dd95f","title":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","caption":"Kunigo ir 1863 m. sukilimo vado Antano Mackevičiaus portretinė fotografija.","originalTitle":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_3064608","sourceUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F3064608%2F5515763%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigas","label":"kunigas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"sukilimas","label":"sukilimas","facetKind":"tema","confidence":0.95},{"code":"sukilėlis","label":"sukilėlis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Mackevičius.md","title":"Antanas Mackevičius","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:21:00.283650+03:00","reviewedAt":"2026-07-31T06:02:15.112783+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XIX a. portretas: visu ūgiu nufotografuotas vyras sėdi ant kėdės, vilki tamsius oficialius drabužius ir laiko ranką užantyje.","metadataEvidence":"Kandidato pavadinime ir aprašyme tiesiogiai įvardytas 1863 m. sukilimo vadas kunigas Antanas Mackevičius (1828–1863); pateikta muziejinė kilmė iš Šiaulių Aušros muziejaus.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų target asmenį; tai tiesioginis jo istorinis portretas.","isPrimary":1}]'
+media_contextual_json: '[]'
+media_all_json: '[{"mediaId":"m-c6ee04493039c2c7192dd95f","title":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","caption":"Kunigo ir 1863 m. sukilimo vado Antano Mackevičiaus portretinė fotografija.","originalTitle":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_3064608","sourceUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F3064608%2F5515763%2Flow%2Fget&type=IMAGE","displayUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigas","label":"kunigas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"sukilimas","label":"sukilimas","facetKind":"tema","confidence":0.95},{"code":"sukilėlis","label":"sukilėlis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Mackevičius.md","title":"Antanas Mackevičius","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:21:00.283650+03:00","reviewedAt":"2026-07-31T06:02:15.112783+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XIX a. portretas: visu ūgiu nufotografuotas vyras sėdi ant kėdės, vilki tamsius oficialius drabužius ir laiko ranką užantyje.","metadataEvidence":"Kandidato pavadinime ir aprašyme tiesiogiai įvardytas 1863 m. sukilimo vadas kunigas Antanas Mackevičius (1828–1863); pateikta muziejinė kilmė iš Šiaulių Aušros muziejaus.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų target asmenį; tai tiesioginis jo istorinis portretas.","isPrimary":1}]'
+entity_id: ent-017e711259e476d681c80b9a
+canonical_name: Antanas Mackevičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Antanas Mackevičius
 sameAs: []
-canonical_biography: "Mackevičius, vėliau K."
+canonical_biography: 'Mackevičius, vėliau K.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:30:09+00:00","source_checked_at":"2026-09-19T18:30:09+00:00","counts":{"relations":2,"gallery":1,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-c6ee04493039c2c7192dd95f","reason":"visual_verified_identity_primary","identity_verified":true,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[],"media_verification":{"status":"verified","primary_media_id":"m-c6ee04493039c2c7192dd95f","candidate_count":1,"visual_verified_count":1,"identity_verified_count":1,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų target asmenį; tai tiesioginis jo istorinis portretas.","visual_evidence":"Matomas XIX a. portretas: visu ūgiu nufotografuotas vyras sėdi ant kėdės, vilki tamsius oficialius drabužius ir laiko ranką užantyje.","metadata_evidence":"Kandidato pavadinime ir aprašyme tiesiogiai įvardytas 1863 m. sukilimo vadas kunigas Antanas Mackevičius (1828–1863); pateikta muziejinė kilmė iš Šiaulių Aušros muziejaus.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-75699","confidence":0.74},{"predicate":"paskyre","direction":"inbound","target":"objektai/asmenys/Zigmantas Sierakauskas","claim_id":"t-75700","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ccc71abdb9dce876
+object_page_generated_at: '2026-09-19T18:30:09+00:00'
+object_page_source_checked_at: '2026-09-19T18:30:09+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Antanas Mackevičius: Mackevičius, vėliau K. Šaltinių citatos.'
+object_page_seo_input_hash: c1bc8ba3140a4a07ea94aad166620f75615fe0ab0889e0654a63f0a5f1b18855
+object_page_seo_generated_at: '2026-09-19T18:30:09+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Antanas Mackevičius
 
 ## Santrauka
 
 Mackevičius, vėliau K.
+
+## Teiginiai
+
+<a id="claim-t-75694"></a>
+- t-001
+  teiginys: "Kauno gubernijoje vienas pirmųjų sukilimo organizatorių buvo kunigas Antanas Mackevičius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Mackevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Mackevičius\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1863 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-41830
+
+<a id="claim-t-75695"></a>
+- t-002
+  teiginys: "Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Mackevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Mackevičius\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-73410
+
+<a id="claim-t-75696"></a>
+- t-003
+  teiginys: "Antanui Mackevičiui nepavyko tinkamai išdėstyti savo šaulių gynybai, o klampioje vietovėje sukilėlių kavalerija buvo neveiksminga."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Mackevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Mackevičius\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-41834
+
+<a id="claim-t-75697"></a>
+- t-004
+  teiginys: "Antanas Mackevičius stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Mackevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Mackevičius\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-41831
+
+<a id="claim-t-75699"></a>
+- t-005
+  teiginys: "Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Antanas Mackevičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Mackevičius išvedė sukilėlius į Vidurio Lietuvą; tai palaiko krypties į Lietuvą ryšį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Antanas Mackevičius keliavo į Lietuva (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1863-1864; įvykio data: 1864 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, konkretus ir paremtas citatos turiniu."
+  pagrindžia:
+    - c-41835
+
+<a id="claim-t-75700"></a>
+- t-006
+  teiginys: "Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Antanas Mackevičius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Antanas Mackevičius: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Sierakauskas tiesiogiai pavedė Mackevičiui vadovauti kolonai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Zigmantas Sierakauskas paskyrė Antanas Mackevičius (0.90)"
+  pagrindžia:
+    - c-41833
+
+<a id="claim-t-75701"></a>
+- t-007
+  teiginys: "Kunigas Mackevičius sakė pamokslą lenkiškai ir lietuviškai, ragindamas eiti už tikėjimą, Lietuvą ir lietuvius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Mackevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Mackevičius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-41832
 
 ## Citatos
 
@@ -69,7 +201,7 @@ Mackevičius, vėliau K.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-41831
@@ -91,7 +223,7 @@ Mackevičius, vėliau K.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-41832
@@ -111,7 +243,7 @@ Mackevičius, vėliau K.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-41833
@@ -136,7 +268,7 @@ Mackevičius, vėliau K.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-41834
@@ -161,7 +293,7 @@ Mackevičius, vėliau K.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-41835
@@ -186,7 +318,7 @@ Mackevičius, vėliau K.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-73410
@@ -214,130 +346,8 @@ Mackevičius, vėliau K.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 ## Ryšiai
 - Paskyrė Antanas Mackevičių: [[objektai/asmenys/Zigmantas Sierakauskas]]
-
-## Teiginiai
-
-<a id="claim-t-75694"></a>
-- t-001
-  teiginys: "Kauno gubernijoje vienas pirmųjų sukilimo organizatorių buvo kunigas Antanas Mackevičius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Mackevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Mackevičius\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1863 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-41830
-
-<a id="claim-t-75695"></a>
-- t-002
-  teiginys: "Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Mackevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Mackevičius\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-73410
-
-<a id="claim-t-75696"></a>
-- t-003
-  teiginys: "Antanui Mackevičiui nepavyko tinkamai išdėstyti savo šaulių gynybai, o klampioje vietovėje sukilėlių kavalerija buvo neveiksminga."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Mackevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Mackevičius\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-41834
-
-<a id="claim-t-75697"></a>
-- t-004
-  teiginys: "Antanas Mackevičius stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Mackevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Mackevičius\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-41831
-
-<a id="claim-t-75699"></a>
-- t-005
-  teiginys: "Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antanas Mackevičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Mackevičius išvedė sukilėlius į Vidurio Lietuvą; tai palaiko krypties į Lietuvą ryšį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Antanas Mackevičius keliavo į Lietuva (0.74)"
-  temporaliniai_duomenys: "įvykio data: 1863-1864; įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, konkretus ir paremtas citatos turiniu."
-  pagrindžia:
-    - c-41835
-
-<a id="claim-t-75700"></a>
-- t-006
-  teiginys: "Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Antanas Mackevičius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Antanas Mackevičius: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Sierakauskas tiesiogiai pavedė Mackevičiui vadovauti kolonai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Zigmantas Sierakauskas paskyrė Antanas Mackevičius (0.90)"
-  pagrindžia:
-    - c-41833
-
-<a id="claim-t-75701"></a>
-- t-007
-  teiginys: "Kunigas Mackevičius sakė pamokslą lenkiškai ir lietuviškai, ragindamas eiti už tikėjimą, Lietuvą ir lietuvius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Mackevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Mackevičius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-41832
-

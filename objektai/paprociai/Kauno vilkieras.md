@@ -45,6 +45,20 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-202018"></a>
+- t-001
+  teiginys: "1635 m. Vladislovas Vaza pažodžiui patvirtino savo pirmtako privilegiją ir papildomai skelbė, kad leidžia, kadangi mums buvo praneštas jų (Joniškio miestiečių - ZK) prašymas, geresnei miesto tvarkai Kauno miesto pavyzdžiu naudotis vilkieru arba plebiscitu."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185365
+
 ## Citatos
 
 - id: c-185365
@@ -63,20 +77,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202018"></a>
-- t-001
-  teiginys: "1635 m. Vladislovas Vaza pažodžiui patvirtino savo pirmtako privilegiją ir papildomai skelbė, kad leidžia, kadangi mums buvo praneštas jų (Joniškio miestiečių - ZK) prašymas, geresnei miesto tvarkai Kauno miesto pavyzdžiu naudotis vilkieru arba plebiscitu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185365
-

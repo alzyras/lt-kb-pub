@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XI amžius"
 periodo_pradzia: 1001
 periodo_pabaiga: 1100
-periodo_objektu_skaicius: 113
+periodo_objektu_skaicius: 110
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 113.
+Objektų skaičius: 110.
 
 ## Susiję objektai
 
@@ -123,7 +123,6 @@ Objektų skaičius: 113.
 - [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
 
 ### Šaltiniai
-- [[objektai/saltiniai/A. Filipeckio pamokslų rinkinys]]
 - [[objektai/saltiniai/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)]]
 - [[objektai/saltiniai/Annales Quedlinburgenses]]
 - [[objektai/saltiniai/Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden]]
@@ -131,10 +130,8 @@ Objektų skaičius: 113.
 - [[objektai/saltiniai/Kvedlinburgo kronika]]
 - [[objektai/saltiniai/Laurentijaus ir Ipatijaus sąvadai]]
 - [[objektai/saltiniai/Lietuva 1009–2009]]
-- [[objektai/saltiniai/M. Bialobžeskio pamokslų rinkinys]]
 - [[objektai/saltiniai/Povest vremennych let]]
 - [[objektai/saltiniai/Rogero knyga]]
-- [[objektai/saltiniai/Vidaus reikalų viceministro 1869 m. lapkričio 27 d. raštas A. Potapovui]]
 - [[objektai/saltiniai/Vytauto jaunystė ir jo veikimas iki 1392 m]]
 
 ### Žodynas

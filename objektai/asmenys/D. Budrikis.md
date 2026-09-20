@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'D. Budrikis'
+pavadinimas: D. Budrikis
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-c5fad9c08c25028c8627f58c"
-canonical_name: "D. Budrikis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["D. Budrikis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-c5fad9c08c25028c8627f58c
+canonical_name: D. Budrikis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - D. Budrikis
 sameAs: []
-canonical_biography: "D. Budrikis parašė ir paskelbė blaivybę propaguojančias knygeles."
+canonical_biography: D. Budrikis parašė ir paskelbė blaivybę propaguojančias knygeles.
 ---
 # D. Budrikis
 

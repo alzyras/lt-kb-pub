@@ -42,6 +42,30 @@ canonical_biography: "Iš ordino žemių patekęs į Vakarus, po studijų Pragos
 
 Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 1401 šis Kęstučio anūkas tapo antruoju Krokuvos universiteto rektoriumi (Fijałek). Fijałek, J.
 
+## Teiginiai
+
+<a id="claim-t-54116"></a>
+- t-001
+  teiginys: "J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, paskelbtą 1914 m. „KH“ 28 tome."
+  atnaujinta: "2026-05-23 15:44"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1914 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55066
+
+<a id="claim-t-54117"></a>
+- t-002
+  teiginys: "J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, publikuotą 1914 m. „KH“ 28 tome."
+  atnaujinta: "2026-05-23 15:44"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1914 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55066
+
 ## Citatos
 
 - id: c-55066
@@ -60,31 +84,6 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-54116"></a>
-- t-001
-  teiginys: "J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, paskelbtą 1914 m. „KH“ 28 tome."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1914 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55066
-
-<a id="claim-t-54117"></a>
-- t-002
-  teiginys: "J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, publikuotą 1914 m. „KH“ 28 tome."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1914 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55066
-

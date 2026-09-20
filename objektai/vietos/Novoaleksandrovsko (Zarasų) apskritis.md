@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Novoaleksandrovsko (Zarasų) apskritis'
+pavadinimas: Novoaleksandrovsko (Zarasų) apskritis
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-2738c7542bd467bc3e6f9f52"
-canonical_name: "Novoaleksandrovsko (Zarasų) apskritis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Novoaleksandrovsko (Zarasų) apskritis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-2738c7542bd467bc3e6f9f52
+canonical_name: Novoaleksandrovsko (Zarasų) apskritis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Novoaleksandrovsko (Zarasų) apskritis
 sameAs: []
-canonical_biography: "Daugiausia jų buvo Novoaleksandrovsko (Zarasų) apsk rityje — 93,1 proc."
+canonical_biography: 'Daugiausia jų buvo Novoaleksandrovsko (Zarasų) apsk rityje — 93,1 proc.'
 place_authority: true
 historical_names: []
 ---

@@ -27,6 +27,24 @@ media_all_json: |-
 
 Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą), tai jo kelionėje užteko Vytauto kepurės, kaip „lydimojo rašto“ per totorių žemes.
 
+## Teiginiai
+
+<a id="claim-t-36009"></a>
+- t-001
+  teiginys: "Gilbertui de Lannoy keliaujant per totorių žemes į Krymą, Vytauto kepurės užteko kaip „lydimojo rašto“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henne: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "lydimojo rašto: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Henne: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"lydimojo rašto\" parinktas kaip owner_note_path. Targetas \"Henne\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-38387
+
 ## Citatos
 
 - id: c-38387
@@ -47,24 +65,5 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-36009"></a>
-- t-001
-  teiginys: "Gilbertui de Lannoy keliaujant per totorių žemes į Krymą, Vytauto kepurės užteko kaip „lydimojo rašto“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Henne: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "lydimojo rašto: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Henne: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"lydimojo rašto\" parinktas kaip owner_note_path. Targetas \"Henne\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-38387
-

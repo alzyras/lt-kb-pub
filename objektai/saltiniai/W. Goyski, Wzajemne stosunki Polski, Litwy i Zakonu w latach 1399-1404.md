@@ -38,6 +38,19 @@ media_all_json: |-
 
 — Goyski, W.
 
+## Teiginiai
+
+<a id="claim-t-31979"></a>
+- t-001
+  teiginys: "W. Goyskio „Wzajemne stosunki Polski, Litwy i Zakonu w latach 1399-1404“ paskelbtas 1906 m. „Przewodnik naukowy i literacki“ 34 tome."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1409 m.; įvykio data: 1906 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-33751
+
 ## Citatos
 
 - id: c-33751
@@ -58,19 +71,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-31979"></a>
-- t-001
-  teiginys: "W. Goyskio „Wzajemne stosunki Polski, Litwy i Zakonu w latach 1399-1404“ paskelbtas 1906 m. „Przewodnik naukowy i literacki“ 34 tome."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1409 m.; įvykio data: 1906 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-33751
-

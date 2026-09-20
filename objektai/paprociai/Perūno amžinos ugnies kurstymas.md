@@ -39,6 +39,20 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201386"></a>
+- t-001
+  teiginys: "Gereimantas, palaidojęs savo tėvą, tuojau pagal jo įsakymą įkūrė Vilniuj žinyčių godon Perūno die vo, kurioje amžina ugnis kūrinos, kurią ugnasargės kunigės kurstė, kurios aprašą viršiaus regėjom. Ąžuolyną tarp upių Vyliaus (Vilenkos) ir Neries (Vilijos)."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184736
+
 ## Citatos
 
 - id: c-184736
@@ -62,20 +76,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201386"></a>
-- t-001
-  teiginys: "Gereimantas, palaidojęs savo tėvą, tuojau pagal jo įsakymą įkūrė Vilniuj žinyčių godon Perūno die vo, kurioje amžina ugnis kūrinos, kurią ugnasargės kunigės kurstė, kurios aprašą viršiaus regėjom. Ąžuolyną tarp upių Vyliaus (Vilenkos) ir Neries (Vilijos)."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184736
-

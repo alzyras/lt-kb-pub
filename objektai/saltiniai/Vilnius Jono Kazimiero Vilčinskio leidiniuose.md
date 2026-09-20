@@ -33,33 +33,12 @@ media_all_json: |-
 
 Vilnius Jono Kazimiero Vilčinskio leidiniuose: paroda 1999 01 01–1999 04 19.
 
-## Citatos
-
-- id: c-24013
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
-  citata_originali: |
-    Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailės
-    muziejus 2000 m. kovas – rugsėjis. Vilnius, 2000; Vilnius Jono Kazimiero Vilčinskio
-    leidiniuose: paroda 1999 01 01–1999 04 19. Vilnius, 2000; Žemaičių muziejus Alka.
-  citata_rodoma: "Vilnius, 2000; Vilnius Jono Kazimiero Vilčinskio\nleidiniuose: paroda 1999 01 01–1999 04 19. Vilnius, 2000; Žemaičių muziejus Alka."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-75536"></a>
 - t-001
   teiginys: "„Vilnius Jono Kazimiero Vilčinskio leidiniuose“ buvo paroda, vykusi 1999 m. sausio 1 d.–balandžio 19 d."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -77,7 +56,7 @@ Vilnius Jono Kazimiero Vilčinskio leidiniuose: paroda 1999 01 01–1999 04 19.
 <a id="claim-t-75537"></a>
 - t-002
   teiginys: "Paroda „Vilnius Jono Kazimiero Vilčinskio leidiniuose“ vyko 1999 m. sausio 1 d. – balandžio 19 d."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -93,3 +72,23 @@ Vilnius Jono Kazimiero Vilčinskio leidiniuose: paroda 1999 01 01–1999 04 19.
   pagrindžia:
     - c-24013
 
+## Citatos
+
+- id: c-24013
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
+  citata_originali: |
+    Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailės
+    muziejus 2000 m. kovas – rugsėjis. Vilnius, 2000; Vilnius Jono Kazimiero Vilčinskio
+    leidiniuose: paroda 1999 01 01–1999 04 19. Vilnius, 2000; Žemaičių muziejus Alka.
+  citata_rodoma: "Vilnius, 2000; Vilnius Jono Kazimiero Vilčinskio\nleidiniuose: paroda 1999 01 01–1999 04 19. Vilnius, 2000; Žemaičių muziejus Alka."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002

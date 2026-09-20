@@ -27,6 +27,48 @@ media_all_json: |-
 
 Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo paties sąžinės auką. Narbutas teigė, kad lietuviai priesaikomis šaukėsi dievų liudytojų, sakydami „dėl Dievo“ arba „Kad man Periamas sumusztu“.
 
+## Teiginiai
+
+<a id="claim-t-189174"></a>
+- t-001
+  teiginys: "Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo paties sąžinės auką."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Antikos žmonės: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Priesaika: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Antikos žmonės: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Priesaika\" parinktas kaip owner_note_path. Targetas \"Antikos žmonės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172062
+
+<a id="claim-t-189175"></a>
+- t-002
+  teiginys: "Narbutas teigė, kad lietuviai priesaikomis šaukėsi dievų liudytojų, sakydami „dėl Dievo“ arba „Kad man Periamas sumusztu“."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Priesaika: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Priesaika\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172063
+
 ## Citatos
 
 - id: c-172062
@@ -52,6 +94,8 @@ Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-172063
   autorius: "Teodoras Narbutas"
@@ -71,48 +115,5 @@ Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201069
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 320"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
-  citata_originali: |
-    Lietuviai savo priesaikas duodavo visai panašiai: visi saky­
-    davo (tai ir dabar yra kaimiečių paprotys) „dėl Dievo“ (Dali
-    lkw u), taip pat: Kad man Periamas sumusztu; tai reiškė šaukti
-    dievus būti liudytojais. Priesaikos su užkeikimu taip pat dar
-    tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
-    (Kad až skradziuprapoltu). Senovės prūsų papročiu prisiekian­
-    tysis laikydavo dešinę ranką prie savo gerklės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-216651"></a>
-- t-001
-  teiginys: "Narbutas teigė, kad lietuviai priesaikomis šaukėsi dievų liudytojų, sakydami „dėl Dievo“ arba „Kad man Periamas sumusztu“."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Priesaika: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Priesaika\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-201069
-
+  pagrindzia:
+    - t-002

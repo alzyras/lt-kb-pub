@@ -66,6 +66,26 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 
 - Praktika siejama su planinės ekonomikos perėjimu į kapitalistinę rinką ir visuomenės vertinimu, kad privatizacija buvo neteisinga.
 
+## Teiginiai
+
+<a id="claim-t-20821"></a>
+- t-001
+  teiginys: "Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios ir susidarė naujas verslininkų sluoksnis."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "gap::customs"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-23543
+
+<a id="claim-t-20822"></a>
+- t-002
+  teiginys: "Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "gap::customs"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-23544
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
@@ -92,7 +112,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-23544
@@ -113,26 +133,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-20821"></a>
-- t-001
-  teiginys: "Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios ir susidarė naujas verslininkų sluoksnis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::customs"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-23543
-
-<a id="claim-t-20822"></a>
-- t-002
-  teiginys: "Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::customs"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-23544
-

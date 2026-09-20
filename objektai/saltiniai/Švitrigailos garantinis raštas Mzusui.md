@@ -26,6 +26,24 @@ media_all_json: |-
 
 Švit­ rigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kuni­ gaikščio garantinis raštas iki šiol saugojamas Slaptajame archyve.
 
+## Teiginiai
+
+<a id="claim-t-88513"></a>
+- t-001
+  teiginys: "Švitrigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kunigaikščio garantinis raštas saugotas Slaptajame archyve."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> maršalka: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigailos garantinis raštas Mzusui: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "maršalka: mention_match, thing, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos garantinis raštas Mzusui\" parinktas kaip owner_note_path. Targetas \"maršalka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-84492
+
 ## Citatos
 
 - id: c-84492
@@ -55,24 +73,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-88513"></a>
-- t-001
-  teiginys: "Švitrigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kunigaikščio garantinis raštas saugotas Slaptajame archyve."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> maršalka: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švitrigailos garantinis raštas Mzusui: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "maršalka: mention_match, thing, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos garantinis raštas Mzusui\" parinktas kaip owner_note_path. Targetas \"maršalka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-84492
-

@@ -52,6 +52,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-05290"></a>
+- t-001
+  teiginys: "Gedimino vardu į Vakarų Europą įvairiems adresatams buvo išsiuntinėti šeši laiškai."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Europa: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Europa: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Gedimino vardu laiškai buvo išsiuntinėti į Vakarų Europą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Gediminas siuntė į Europa (0.82)"
+  pagrindžia:
+    - c-04982
+
 <a id="claim-t-05291"></a>
 - t-002
   teiginys: "Gedimino laiškuose buvo žadamas krikštas pripažįstant popiežiaus autoritetą, o Gediminas siekė taikos su ordinu per popiežiaus tarpininkavimą."
@@ -69,27 +86,10 @@ Nenurodyta
   pagrindžia:
     - c-04983
 
-<a id="claim-t-05290"></a>
-- t-05290
-  teiginys: "Gedimino vardu į Vakarų Europą įvairiems adresatams buvo išsiuntinėti šeši laiškai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Europa: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Europa: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Gedimino vardu laiškai buvo išsiuntinėti į Vakarų Europą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Gediminas siuntė į Europa (0.82)"
-  pagrindžia:
-    - c-04982
-
 <a id="claim-t-05292"></a>
-- t-05292
+- t-003
   teiginys: "Gediminas laiškuose kvietė į Lietuvą amatininkus ir pirklius, kolonistams žadėjo lengvatų, o pranciškonų ir domininkonų prašė atsiųsti vienuolių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Lietuva: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -121,8 +121,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05290
+  pagrindzia:
+    - t-001
 
 - id: c-04983
   autorius: "Zenonas Ivinskis"
@@ -138,12 +138,11 @@ Nenurodyta
     popiežiaus tarpininkavimo.
   citata_rodoma: "Laiškų pagrindinė\nmintis buvo ta, jog Gediminas, pripažindamas popiežiaus autori­\ntetą, žadėjo krikštytis. Tur būt, Gediminas nebuvo tiek daug\nketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.\nGediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė\npopiežiaus tarpininkavimo."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-04984
@@ -165,6 +164,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05292
-
+  pagrindzia:
+    - t-003

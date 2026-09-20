@@ -36,23 +36,10 @@ Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė 
 
 ## Teiginiai
 
-<a id="claim-t-196391"></a>
-- t-003
-  teiginys: "1566 m. Lietuvoje nerimauta, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą kare."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
-  pagrindžia:
-    - c-178659
-
 <a id="claim-t-72004"></a>
-- t-72004
+- t-001
   teiginys: "Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė atsiimti Žemaitiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Žemaitija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -66,9 +53,9 @@ Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė 
     - c-14717
 
 <a id="claim-t-72005"></a>
-- t-72005
+- t-002
   teiginys: "Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,6 +67,19 @@ Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14717
+
+<a id="claim-t-196391"></a>
+- t-003
+  teiginys: "1566 m. Lietuvoje nerimauta, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą kare."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
+  pagrindžia:
+    - c-178659
 
 ## Citatos
 
@@ -105,9 +105,9 @@ Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-72004
-    - t-72005
+  pagrindzia:
+    - t-001
+    - t-002
 
 - id: c-178659
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -135,11 +135,9 @@ Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė 
     m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin ­
     kosi len k ų seim as. P asiu n tin iai tu rė jo p areik šti štai ką.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

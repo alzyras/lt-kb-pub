@@ -29,6 +29,44 @@ media_all_json: |-
 
 Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, ant žalios šaknies pagal to meto suvokimą, jį kurti imdavosi vadinamasis lokatorius, kuris nurodytoje vietoje suplanuodavo būsimą miestą, rūpindavosi naujųjų miestiečių kvietimu ir jų. Kauno miestas irgi kūrėsi praktiškai tuščioje vietoje ir tikėtina, kad čia lokatorius buvo reikalingas. Nors, kaip sakyta, nieko nežinome apie lokatorių, miesto kūrimosi organizatorių, jo darbo pasekmės aiškiai matomos.
 
+## Teiginiai
+
+<a id="claim-t-201778"></a>
+- t-001
+  teiginys: "Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, ant žalios šaknies pagal to meto suvokimą, jį kurti imdavosi vadinamasis lokatorius, kuris nurodytoje vietoje suplanuodavo būsimą miestą, rūpindavosi naujųjų miestiečių kvietimu ir jų."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185125
+
+<a id="claim-t-201779"></a>
+- t-002
+  teiginys: "Kauno miestas irgi kūrėsi praktiškai tuščioje vietoje ir tikėtina, kad čia lokatorius buvo reikalingas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185126
+
+<a id="claim-t-201780"></a>
+- t-003
+  teiginys: "Nors, kaip sakyta, nieko nežinome apie lokatorių, miesto kūrimosi organizatorių, jo darbo pasekmės aiškiai matomos."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185127
+
 ## Citatos
 
 - id: c-185125
@@ -47,7 +85,7 @@ Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185126
@@ -63,7 +101,7 @@ Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-185127
@@ -80,44 +118,5 @@ Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-201778"></a>
-- t-001
-  teiginys: "Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, ant žalios šaknies pagal to meto suvokimą, jį kurti imdavosi vadinamasis lokatorius, kuris nurodytoje vietoje suplanuodavo būsimą miestą, rūpindavosi naujųjų miestiečių kvietimu ir jų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185125
-
-<a id="claim-t-201779"></a>
-- t-002
-  teiginys: "Kauno miestas irgi kūrėsi praktiškai tuščioje vietoje ir tikėtina, kad čia lokatorius buvo reikalingas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185126
-
-<a id="claim-t-201780"></a>
-- t-003
-  teiginys: "Nors, kaip sakyta, nieko nežinome apie lokatorių, miesto kūrimosi organizatorių, jo darbo pasekmės aiškiai matomos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185127
-

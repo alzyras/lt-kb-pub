@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Sedbaras Valimantaitis'
+pavadinimas: Sedbaras Valimantaitis
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d42f8544ba29555c3267315e"
-canonical_name: "Sedbaras Valimantaitis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Sedbaras Valimantaitis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d42f8544ba29555c3267315e
+canonical_name: Sedbaras Valimantaitis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Sedbaras Valimantaitis
 sameAs: []
-canonical_biography: "Sis Sedbaras buvo Ukmergės vietininkas."
+canonical_biography: Sis Sedbaras buvo Ukmergės vietininkas.
 ---
 # Sedbaras Valimantaitis
 
@@ -64,6 +63,5 @@ Sis Sedbaras buvo Ukmergės vietininkas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

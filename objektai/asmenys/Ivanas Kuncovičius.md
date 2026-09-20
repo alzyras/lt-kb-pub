@@ -39,6 +39,20 @@ canonical_biography: "Ankstyviausias žinomas išmarinio turto dovanojimo atveji
 
 Ankstyviausias žinomas išmarinio turto dovanojimo atvejis Kaune yra 1530 m. Žygimanto Senojo suteiktis dvarioniui Ivanui Kuncovičiui.
 
+## Teiginiai
+
+<a id="claim-t-202063"></a>
+- t-001
+  teiginys: "Ankstyviausias žinomas išmarinio turto dovanojimo atvejis Kaune yra 1530 m. Žygimanto Senojo suteiktis dvarioniui Ivanui Kuncovičiui."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185410
+
 ## Citatos
 
 - id: c-185410
@@ -56,20 +70,5 @@ Ankstyviausias žinomas išmarinio turto dovanojimo atvejis Kaune yra 1530 m. Ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202063"></a>
-- t-001
-  teiginys: "Ankstyviausias žinomas išmarinio turto dovanojimo atvejis Kaune yra 1530 m. Žygimanto Senojo suteiktis dvarioniui Ivanui Kuncovičiui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185410
-

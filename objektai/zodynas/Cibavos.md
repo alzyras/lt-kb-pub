@@ -51,6 +51,19 @@ Cibavos šiame šaltinyje reiškia pinigus, surinktus iš bežemių už ganyklą
 
 Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
 
+## Teiginiai
+
+<a id="claim-t-195620"></a>
+- t-001
+  teiginys: "Cibavos šiame šaltinyje yra pinigai, surinkti už ganyklą ir ožkų bei karvių ganymą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-178023
+
 ## Citatos
 
 - id: c-178022
@@ -77,9 +90,6 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - id: c-178023
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -93,29 +103,5 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195620"></a>
-- t-001
-  teiginys: "Cibavos šiame šaltinyje yra pinigai, surinkti už ganyklą ir ožkų bei karvių ganymą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-178023
-
-<a id="claim-t-195621"></a>
-- t-002
-  teiginys: "Šioje apybraižoje cibavos būdavo prageriamos visų susiėjusių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178022
-

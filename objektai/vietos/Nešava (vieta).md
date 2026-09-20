@@ -42,6 +42,21 @@ Konradas ten, kur dabar kairiajame Vys los krante driekiasi Nešavos kaimelis, p
 
 Konradas ten, kur dabar kairiajame Vys los krante driekiasi Nešavos kaimelis, pastatydino kry žiuočiams dar vieną tvirtovę, pavadintą Nesava.
 
+## Teiginiai
+
+<a id="claim-t-205310"></a>
+- t-001
+  teiginys: "Konradas ten, kur dabar kairiajame Vys los krante driekiasi Nešavos kaimelis, pastatydino kry žiuočiams dar vieną tvirtovę, pavadintą Nesava."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187895
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Konradas ten, kur dabar kairiajame Vys los krante driekiasi Nešavos kaimelis, pastatydino kry žiuočiams dar vieną tvirtovę, pavadintą Nesava.'
@@ -76,21 +91,5 @@ Konradas ten, kur dabar kairiajame Vys los krante driekiasi Nešavos kaimelis, p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205310"></a>
-- t-001
-  teiginys: "Konradas ten, kur dabar kairiajame Vys los krante driekiasi Nešavos kaimelis, pastatydino kry žiuočiams dar vieną tvirtovę, pavadintą Nesava."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-187895
-

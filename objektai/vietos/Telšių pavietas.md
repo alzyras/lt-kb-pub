@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Telšių pavietas'
+pavadinimas: Telšių pavietas
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6a456f46d0e50cf2586eca90"
-canonical_name: "Telšių pavietas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Telšių pavietas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6a456f46d0e50cf2586eca90
+canonical_name: Telšių pavietas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Telšių pavietas
 sameAs: []
-canonical_biography: "Telšių pavietas minimas dėl pavieto maršalkos, išdalijusio knygoms gauti bilietus."
+canonical_biography: 'Telšių pavietas minimas dėl pavieto maršalkos, išdalijusio knygoms gauti bilietus.'
 place_authority: true
 historical_names: []
 ---

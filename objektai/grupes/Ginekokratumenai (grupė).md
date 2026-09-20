@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Ginekokratumenai (grupė)'
-identifikacija: 'grupė'
+pavadinimas: Ginekokratumenai (grupė)
+identifikacija: grupė
 variantai:
-  - 'Ginekokratumenai'
+  - Ginekokratumenai
 aliases:
-  - 'Ginekokratumenai'
+  - Ginekokratumenai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Ginekokratumenai (grupė)
 
@@ -68,6 +65,5 @@ Ginekokratumenai gyveno už maiotų, rytinėse Meotidės pakrantėse, ir buvo ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

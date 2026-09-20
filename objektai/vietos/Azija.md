@@ -39,34 +39,43 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
 
 ## Teiginiai
 
-<a id="claim-t-216436"></a>
-- t-216436
-  teiginys: "Tokia pat dvasia gyveno dau gybė senųjų Azijos tautų."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-188944"></a>
+- t-001
+  teiginys: "Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia senovę saugančia ir permainas atmetančia dvasia."
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-201058
+    - c-171833
 
-<a id="claim-t-217093"></a>
-- t-217093
-  teiginys: "Narbutas teigia, kad žiloje senovėje Azijoje buvo kalba, susiformavusi Indijoje."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-192609"></a>
+- t-002
+  teiginys: "Narbutas Aziją laikė žmonių giminės lopšiu, o Europą, palyginti su Azija ir Afrika, vadino vėliau apgyvendintu ir civilizuotu naujuoju pasauliu."
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  ryšio_patikimumas: "susije_su -> Afrika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Azija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Afrika: mention_match, place, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Azija\" parinktas kaip owner_note_path. Targetas \"Afrika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-199914
+    - c-175379
 
-<a id="claim-t-213246"></a>
-- t-213246
+<a id="claim-t-192610"></a>
+- t-003
   teiginys: "Narbutas kolchų tautos atsikėlimą kildino iš Azijos gilumos į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų."
-  atnaujinta: "2026-09-13 18:12"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -81,7 +90,7 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-194482
+    - c-175380
 
 ## Citatos
 
@@ -104,6 +113,8 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-175379
   autorius: "Teodoras Narbutas"
@@ -126,6 +137,8 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-175380
   autorius: "Teodoras Narbutas"
@@ -147,65 +160,5 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194482
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
-  citata_originali: |
-    20
-    Apie kolchus ir Kolchidę. Šioms tolimos senovės epo­
-    choms priskirtina ir kolchų tauta, nors ji gerokai vėliau
-    už pelazgus atsikėlė iš Azijos gilumos į kraštus, esan­
-    čius į šiaurę nuo Kaspijos ir Juodosios jūrų. Tai buvo
-    didelė, plačiai pasklidusi tauta, nes jos kolonijos driekė­
-    si beveik nuo Kaukazo per Volgą ir į vakarus net iki
-    Dono, o į šiaurę tų kolonijų žemių ir genčių priklauso­
-    mybės ribų pažymėti nėra galimybių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213246
-
-- id: c-199914
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 438"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 438."
-  citata_originali: |
-    Žiloje senovėje
-    Azijoje buvo kalba, neabejotinai susiformavusi Indijoje, kuria
-    buvo kalbama, o vėliau, ištobulėjus visuomeniniam gyvenimui,
-    ir rašoma.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217093
-
-- id: c-201058
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 79"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 79."
-  citata_originali: |
-    Tokia pat dvasia gyveno dau­
-    gybė senųjų Azijos tautų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216436
-
+  pagrindzia:
+    - t-003

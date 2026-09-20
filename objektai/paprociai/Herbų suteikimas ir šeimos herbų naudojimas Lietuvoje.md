@@ -1,28 +1,25 @@
 ---
 tipas: paprotys
-pavadinimas: 'Herbų suteikimas ir šeimos herbų naudojimas Lietuvoje'
+pavadinimas: Herbų suteikimas ir šeimos herbų naudojimas Lietuvoje
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1302 m.'
+  - 1302 m.
 date_start: '1302'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Herbų suteikimas ir šeimos herbų naudojimas Lietuvoje
 
@@ -84,6 +81,5 @@ T. Narbutas teigia, kad didieji kunigaikščiai kartais suteikdavo herbus slavų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -56,9 +56,9 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     - c-82038
 
 <a id="claim-t-86060"></a>
-- t-86060
+- t-002
   teiginys: "Aukštutinė pilis stovėjo ant Tauro kalno."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -72,9 +72,9 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     - c-82040
 
 <a id="claim-t-86061"></a>
-- t-86061
+- t-003
   teiginys: "Aukštutinėje tvirtovėje buvo užsidarę lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karūna: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -102,12 +102,11 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     pats miesto centras, nedidelis, su mediniais namais, bet su
     tvirtų statinių tvorų ir griovių sutvirtinimais.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-82039
@@ -134,8 +133,8 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-86061
+  pagrindzia:
+    - t-003
 
 - id: c-82040
   autorius: "Michał Baliński"
@@ -156,8 +155,8 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-86060
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

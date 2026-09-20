@@ -45,6 +45,26 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
 
 ## Teiginiai
 
+<a id="claim-t-55095"></a>
+- t-001
+  teiginys: "Apie 1345 m. Vilniaus prastuomenė, galbūt pakurstyta Perkūno garbintojų ar Rytų Bažnyčios išpažinėjų, smurtu užėmė pranciškonų vienuolyną ir nužudė vienuolius."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "puole -> Pranciškonų ordinas: 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus prastuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pranciškonų ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas prastuomenę sieja su smurtiniu pranciškonų vienuolyno užėmimu ir vienuolių nužudymu; objektas apibendrintas iki ordino."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vilniaus prastuomenė puolė Pranciškonų ordinas (0.73)"
+  temporaliniai_duomenys: "įvykio data: 1345 m.; įvykio data: apie 1345 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-55905
+
 <a id="claim-t-55096"></a>
 - t-002
   teiginys: "Grzybowskio pasakojime Vilniaus miestiečiai 1341 m. vaizduojami kaip su totoriais puolę pranciškonų vienuolyną."
@@ -63,26 +83,6 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55906
-
-<a id="claim-t-55095"></a>
-- t-55095
-  teiginys: "Apie 1345 m. Vilniaus prastuomenė, galbūt pakurstyta Perkūno garbintojų ar Rytų Bažnyčios išpažinėjų, smurtu užėmė pranciškonų vienuolyną ir nužudė vienuolius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "puole -> Pranciškonų ordinas: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus prastuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pranciškonų ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas prastuomenę sieja su smurtiniu pranciškonų vienuolyno užėmimu ir vienuolių nužudymu; objektas apibendrintas iki ordino."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vilniaus prastuomenė puolė Pranciškonų ordinas (0.73)"
-  temporaliniai_duomenys: "įvykio data: 1345 m.; įvykio data: apie 1345 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-55905
 
 ## Citatos
 
@@ -108,8 +108,8 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55095
+  pagrindzia:
+    - t-001
 
 - id: c-55906
   autorius: "Michał Baliński"
@@ -136,12 +136,11 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
     lius ir su jais sykiu Goštautą nukan­
     kino.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 ## Ryšiai

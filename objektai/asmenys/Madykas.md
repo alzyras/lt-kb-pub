@@ -34,6 +34,25 @@ canonical_biography: "Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų
 
 Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos valdovo dvaro pulko, dalyvavo ir totoriai, vadovaujami murzos Sivinduko, kunigaikščio Madyko sūnaus.
 
+## Teiginiai
+
+<a id="claim-t-40323"></a>
+- t-001
+  teiginys: "Kunigaikštis Madykas buvo murzos Sivinduko tėvas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Madykas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sivindukas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Madykas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatoje Sivindukas tiesiogiai vadinamas Madyko sūnumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sivindukas buvo sūnus Madykas (0.95)"
+  pagrindžia:
+    - c-44448
+
 ## Citatos
 
 - id: c-44448
@@ -58,28 +77,8 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Sivindukas]]
-
-## Teiginiai
-
-<a id="claim-t-40323"></a>
-- t-001
-  teiginys: "Kunigaikštis Madykas buvo murzos Sivinduko tėvas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Madykas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sivindukas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Madykas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Sivindukas tiesiogiai vadinamas Madyko sūnumi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sivindukas buvo sūnus Madykas (0.95)"
-  pagrindžia:
-    - c-44448
-

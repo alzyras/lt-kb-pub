@@ -35,6 +35,32 @@ W. Kula, nors buvo marksistinės prieigos šalininkas, savo tyrimuose naudojo pr
 
 W. Kula, nors buvo marksistinės prieigos šalininkas, savo tyrimuose naudojo prancūzų „Analų“ istoriografijos mokyklos lyderio F. Braudelio idėjas. J. Topolskio, A. Wyczańskio ir W. Kulos požiūriu, ilgalaikėje perspektyvoje prekybos sąlygos ATR didikams su Vakarais pradėjo blogėti XVII a. viduryje.
 
+## Teiginiai
+
+<a id="claim-t-203643"></a>
+- t-001
+  teiginys: "W. Kula, nors buvo marksistinės prieigos šalininkas, savo tyrimuose naudojo prancūzų „Analų“ istoriografijos mokyklos lyderio F. Braudelio idėjas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186247
+
+<a id="claim-t-203644"></a>
+- t-002
+  teiginys: "J. Topolskio, A. Wyczańskio ir W. Kulos požiūriu, ilgalaikėje perspektyvoje prekybos sąlygos ATR didikams su Vakarais pradėjo blogėti XVII a. viduryje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186248
+
 ## Citatos
 
 - id: c-186247
@@ -58,7 +84,7 @@ W. Kula, nors buvo marksistinės prieigos šalininkas, savo tyrimuose naudojo pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186248
@@ -88,32 +114,5 @@ W. Kula, nors buvo marksistinės prieigos šalininkas, savo tyrimuose naudojo pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-203643"></a>
-- t-001
-  teiginys: "W. Kula, nors buvo marksistinės prieigos šalininkas, savo tyrimuose naudojo prancūzų „Analų“ istoriografijos mokyklos lyderio F. Braudelio idėjas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
-  pagrindžia:
-    - c-186247
-
-<a id="claim-t-203644"></a>
-- t-002
-  teiginys: "J. Topolskio, A. Wyczańskio ir W. Kulos požiūriu, ilgalaikėje perspektyvoje prekybos sąlygos ATR didikams su Vakarais pradėjo blogėti XVII a. viduryje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
-  pagrindžia:
-    - c-186248
-

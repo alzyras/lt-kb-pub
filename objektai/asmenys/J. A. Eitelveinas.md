@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'J. A. Eitelveinas'
+pavadinimas: J. A. Eitelveinas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1804 m.'
+  - 1804 m.
 date_start: '1804'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d40fa00428f0505efaee3ca9"
-canonical_name: "J. A. Eitelveinas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["J. A. Eitelveinas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d40fa00428f0505efaee3ca9
+canonical_name: J. A. Eitelveinas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - J. A. Eitelveinas
 sameAs: []
-canonical_biography: "J. A. Eitelveinas vadovavo Rusijos ir Prūsijos komisijai, susijusiai su hidrauliniais darbais prie Nemuno."
+canonical_biography: 'J. A. Eitelveinas vadovavo Rusijos ir Prūsijos komisijai, susijusiai su hidrauliniais darbais prie Nemuno.'
 ---
 # J. A. Eitelveinas
 
@@ -88,6 +87,5 @@ J. A. Eitelveinas vadovavo Rusijos ir Prūsijos komisijai, susijusiai su hidraul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

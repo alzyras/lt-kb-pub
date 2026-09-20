@@ -28,6 +28,21 @@ Teodoras Narbutas, remdamasis Kojalavičiaus „Miscellanea“, nurodė, kad Eli
 
 Teodoras Narbutas, remdamasis Kojalavičiaus „Miscellanea“, nurodė, kad Eliziejus esą buvo lietuvis, kunigaikščių kilmės ir Treniotos sūnus.
 
+## Teiginiai
+
+<a id="claim-t-206127"></a>
+- t-001
+  teiginys: "Teodoras Narbutas, remdamasis Kojalavičiaus „Miscellanea“, nurodė, kad Eliziejus esą buvo lietuvis, kunigaikščių kilmės ir Treniotos sūnus."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188742
+
 ## Citatos
 
 - id: c-188742
@@ -49,21 +64,5 @@ Teodoras Narbutas, remdamasis Kojalavičiaus „Miscellanea“, nurodė, kad Eli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206127"></a>
-- t-001
-  teiginys: "Teodoras Narbutas, remdamasis Kojalavičiaus „Miscellanea“, nurodė, kad Eliziejus esą buvo lietuvis, kunigaikščių kilmės ir Treniotos sūnus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188742
-

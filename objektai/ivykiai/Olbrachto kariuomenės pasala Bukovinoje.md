@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Olbrachto kariuomenės pasala Bukovinoje'
+pavadinimas: Olbrachto kariuomenės pasala Bukovinoje
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Olbrachto kariuomenės pasala Bukovinoje
 
@@ -82,6 +79,5 @@ Bukovinos miškuose Steponas užpuolė karalių Olbrachtą ir jo kariuomenę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

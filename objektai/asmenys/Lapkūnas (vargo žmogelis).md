@@ -52,6 +52,18 @@ Lapkūnas aprašomas kaip vargingas kaimo žmogus, turėjęs gausią šeimą ir 
 
 - kaimo žmogus
 
+## Teiginiai
+
+<a id="claim-t-195280"></a>
+- t-001
+  teiginys: "Lapkūnas gyveno kaime kaip vargo žmogelis ir turėjo gausią šeimą."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177645
+
 ## Citatos
 
 - id: c-177645
@@ -67,18 +79,5 @@ Lapkūnas aprašomas kaip vargingas kaimo žmogus, turėjęs gausią šeimą ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195280"></a>
-- t-001
-  teiginys: "Lapkūnas gyveno kaime kaip vargo žmogelis ir turėjo gausią šeimą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177645
-

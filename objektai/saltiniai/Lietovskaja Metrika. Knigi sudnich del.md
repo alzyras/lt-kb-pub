@@ -35,30 +35,12 @@ media_all_json: |-
 
 LMS = Litovskaja Metrika.
 
-## Citatos
-
-- id: c-29822
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 19"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 19."
-  citata_originali: |
-    LMS = Litovskaja Metrika. Knigi sudnich del, išl. P. A. Hil’tebrant
-    (Russkaja Istoričeskaja Biblioteka, t. 20), Petrapilis 1903.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-29917"></a>
 - t-001
   teiginys: "„Litovskaja Metrika. Knigi sudnich del“ P. A. Hiltebrantas išleido 1903 m. Petrapilyje, „Russkaja Istoričeskaja Biblioteka“ 20 tome."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Petrapilis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -74,3 +56,20 @@ LMS = Litovskaja Metrika.
   pagrindžia:
     - c-29822
 
+## Citatos
+
+- id: c-29822
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 19."
+  citata_originali: |
+    LMS = Litovskaja Metrika. Knigi sudnich del, išl. P. A. Hil’tebrant
+    (Russkaja Istoričeskaja Biblioteka, t. 20), Petrapilis 1903.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

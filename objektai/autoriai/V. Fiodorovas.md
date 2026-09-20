@@ -1,38 +1,38 @@
 ---
 tipas: autorius
-pavadinimas: 'V. Fiodorovas'
+pavadinimas: V. Fiodorovas
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1858 m.'
-  - '1860 m.'
+  - 1858 m.
+  - 1860 m.
 date_start: '1858'
 date_end: '1860'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-dd0f19286eaabab8d1d3817b"
-canonical_name: "V. Fiodorovas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["V. Fiodorovas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-dd0f19286eaabab8d1d3817b
+canonical_name: V. Fiodorovas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - V. Fiodorovas
 sameAs: []
-canonical_biography: "V. Fiodorovas parašė darbą „Valstiečių blaivybės judėjimas 1858-1860 m.“."
+canonical_biography: V. Fiodorovas parašė darbą „Valstiečių blaivybės judėjimas 1858-1860 m.“.
 ---
 # V. Fiodorovas
 

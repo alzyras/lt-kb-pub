@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'F. Noclis'
+pavadinimas: F. Noclis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-390cf670f0c242b7a39164d2"
-canonical_name: "F. Noclis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["F. Noclis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-390cf670f0c242b7a39164d2
+canonical_name: F. Noclis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - F. Noclis
 sameAs: []
-canonical_biography: "Noclis straips nyje apie Serapį teigia, kad XVI amžiuje ispanai Naujojoje Meksikoje, Akusamilio provincijoje, radę kažkokį meksikie čių dievą, ant kurio drabužių buvę iškalti kryžiai."
+canonical_biography: 'Noclis straips nyje apie Serapį teigia, kad XVI amžiuje ispanai Naujojoje Meksikoje, Akusamilio provincijoje, radę kažkokį meksikie čių dievą, ant kurio drabužių buvę iškalti kryžiai.'
 ---
 # F. Noclis
 
@@ -67,6 +67,5 @@ Noclis straips nyje apie Serapį teigia, kad XVI amžiuje ispanai Naujojoje Meks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

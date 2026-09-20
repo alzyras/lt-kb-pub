@@ -1,12 +1,12 @@
 ---
 tipas: grupe
-pavadinimas: 'Vidaus reikalų ministerija (institucija)'
+pavadinimas: Vidaus reikalų ministerija (institucija)
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 variantai:
-  - 'Vidaus reikalų ministerija'
+  - Vidaus reikalų ministerija
 aliases:
-  - 'Vidaus reikalų ministerija'
+  - Vidaus reikalų ministerija
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -15,12 +15,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vidaus reikalų ministerija (institucija)
 

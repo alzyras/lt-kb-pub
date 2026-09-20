@@ -42,6 +42,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205999"></a>
+- t-001
+  teiginys: "1264 metų žiemą Treniota pradėjo karo veiksmus prieš Svarną ir, įsiveržęs į jo valdas, nuniokojo Palenkę bei vakarinę Mazovijos dalį."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188614
+
 ## Santrauka
 
 1264 metų žiemą Treniota pradėjo karo veiksmus prieš Svarną ir, įsiveržęs į jo valdas, nuniokojo Palenkę bei vakarinę Mazovijos dalį.
@@ -65,21 +80,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205999"></a>
-- t-001
-  teiginys: "1264 metų žiemą Treniota pradėjo karo veiksmus prieš Svarną ir, įsiveržęs į jo valdas, nuniokojo Palenkę bei vakarinę Mazovijos dalį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188614
-

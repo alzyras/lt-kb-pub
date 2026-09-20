@@ -41,6 +41,28 @@ canonical_biography: "Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaiv
 
 Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie­ tuvos ir daugelio kitų patikimų liudytojų, ten buvusių.
 
+## Teiginiai
+
+<a id="claim-t-87770"></a>
+- t-001
+  teiginys: "Mangaila iš Ašmenos 1388 m. Lucke dalyvavo tarp patikimų liudytojų iš Lietuvos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Ašmena: 0.64"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mangaila iš Ašmenos: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ašmena: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vietovardinis įvardijimas tiesiogiai sieja Mangailą su Ašmena, nors tai gali reikšti kilmę ar rezidenciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Mangaila iš Ašmenos gyveno Ašmena (0.64); Mangaila iš Ašmenos keliavo į Luckas (0.55)"
+  temporaliniai_duomenys: "įvykio data: 1388 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nurodo Mangailą iš Ašmenos, datą, vietą ir liudytojo vaidmenį."
+  pagrindžia:
+    - c-83749
+
 ## Citatos
 
 - id: c-83749
@@ -59,28 +81,5 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87770"></a>
-- t-001
-  teiginys: "Mangaila iš Ašmenos 1388 m. Lucke dalyvavo tarp patikimų liudytojų iš Lietuvos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Ašmena: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mangaila iš Ašmenos: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ašmena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vietovardinis įvardijimas tiesiogiai sieja Mangailą su Ašmena, nors tai gali reikšti kilmę ar rezidenciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Mangaila iš Ašmenos gyveno Ašmena (0.64); Mangaila iš Ašmenos keliavo į Luckas (0.55)"
-  temporaliniai_duomenys: "įvykio data: 1388 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nurodo Mangailą iš Ašmenos, datą, vietą ir liudytojo vaidmenį."
-  pagrindžia:
-    - c-83749
-

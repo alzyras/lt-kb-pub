@@ -35,6 +35,25 @@ historical_names: []
 
 Čia jam pasidavė Liubutsko, Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
 
+## Teiginiai
+
+<a id="claim-t-36461"></a>
+- t-001
+  teiginys: "Novosielsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikščių tarpe."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Smolenskas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas užėmė Smolenską."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Smolenskas (0.96); Novosielsko priklausė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Novosielsko (0.78)"
+  pagrindžia:
+    - c-38590
+
 ## Citatos
 
 - id: c-38590
@@ -55,25 +74,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-36461"></a>
-- t-001
-  teiginys: "Novosielsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikščių tarpe."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Smolenskas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas užėmė Smolenską."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Smolenskas (0.96); Novosielsko priklausė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Novosielsko (0.78)"
-  pagrindžia:
-    - c-38590
-

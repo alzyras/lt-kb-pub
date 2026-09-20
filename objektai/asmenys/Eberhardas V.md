@@ -35,6 +35,21 @@ Viurtembergo grafas Eberhardas V į Prūsiją atvyko su nemažu riterių ir gink
 
 Viurtembergo grafas Eberhardas V į Prūsiją atvyko su nemažu riterių ir ginkluotų žmonių būriu.
 
+## Teiginiai
+
+<a id="claim-t-206992"></a>
+- t-001
+  teiginys: "Viurtembergo grafas Eberhardas V į Prūsiją atvyko su nemažu riterių ir ginkluotų žmonių būriu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189607
+
 ## Citatos
 
 - id: c-189607
@@ -54,21 +69,5 @@ Viurtembergo grafas Eberhardas V į Prūsiją atvyko su nemažu riterių ir gink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206992"></a>
-- t-001
-  teiginys: "Viurtembergo grafas Eberhardas V į Prūsiją atvyko su nemažu riterių ir ginkluotų žmonių būriu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189607
-

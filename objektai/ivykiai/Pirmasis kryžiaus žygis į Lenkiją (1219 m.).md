@@ -46,6 +46,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205320"></a>
+- t-001
+  teiginys: "Kryžiaus žygis esą paskelbtas ne pavergti ar kamuoti ne laisvėje pagonis, dėl to jų priešinimasis taptų dar įnirlingesnis: kryžiuočiai privalo laikyti save kovotojais, gi nančiais garbingus Išganytojo tikslus, susilaikyti nuo ko kių nors draudžiamų veiksmų ir."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187709
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kryžiaus žygis esą paskelbtas ne pavergti ar kamuoti ne laisvėje pagonis, dėl to jų priešinimasis taptų dar įnirlingesnis: kryžiuočiai privalo laikyti save kovotojais, gi nančiais garbingus Išganytojo tikslus, susilaikyti nuo ko kių nors draudžiamų veiksmų ir.'
@@ -105,21 +120,5 @@ Kryžiaus žygis esą paskelbtas ne pavergti ar kamuoti ne laisvėje pagonis, d�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205320"></a>
-- t-001
-  teiginys: "Kryžiaus žygis esą paskelbtas ne pavergti ar kamuoti ne laisvėje pagonis, dėl to jų priešinimasis taptų dar įnirlingesnis: kryžiuočiai privalo laikyti save kovotojais, gi nančiais garbingus Išganytojo tikslus, susilaikyti nuo ko kių nors draudžiamų veiksmų ir."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187709
-

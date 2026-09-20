@@ -43,6 +43,21 @@ Teodoro Narbuto pasakojimu, 1391 m. sausį Vytauto dukra Anastazija buvo sužad�
 
 Teodoro Narbuto pasakojimu, 1391 m. sausį Vytauto dukra Anastazija buvo sužadėta su didžiuoju kunigaikščiu Bazilijumi Dmitrovičiumi, o sausio 21 d. už jo ištekėjo Maskvoje.
 
+## Teiginiai
+
+<a id="claim-t-207007"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojimu, 1391 m. sausį Vytauto dukra Anastazija buvo sužadėta su didžiuoju kunigaikščiu Bazilijumi Dmitrovičiumi, o sausio 21 d. už jo ištekėjo Maskvoje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189622
+
 ## Citatos
 
 - id: c-189622
@@ -65,21 +80,5 @@ Teodoro Narbuto pasakojimu, 1391 m. sausį Vytauto dukra Anastazija buvo sužad�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-207007"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojimu, 1391 m. sausį Vytauto dukra Anastazija buvo sužadėta su didžiuoju kunigaikščiu Bazilijumi Dmitrovičiumi, o sausio 21 d. už jo ištekėjo Maskvoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189622
-

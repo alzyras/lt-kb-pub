@@ -28,6 +28,21 @@ media_all_json: |-
 
 Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pažadinanti miegančiuosius. Narbutas žodį Paparona laikė grynai lietuvišku sargyboje stovinčio kariškio pavadinimu, o ne kilusiu iš Parta Roma.
 
+## Teiginiai
+
+<a id="claim-t-189283"></a>
+- t-001
+  teiginys: "Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pažadinanti miegančiuosius."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172171
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas žodį Paparona laikė grynai lietuvišku sargyboje stovinčio kariškio pavadinimu, o ne kilusiu iš Parta Roma.'
@@ -73,4 +88,5 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

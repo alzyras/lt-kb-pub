@@ -33,6 +33,28 @@ tags:
 
 A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
+## Teiginiai
+
+<a id="claim-t-195670"></a>
+- t-001
+  teiginys: "„Uusi Suomi“ šiame šaltinyje apibūdinamas kaip vienas didžiausių ir įtakingiausių suomių dienraščių."
+  atnaujinta: "2026-07-12 11:56"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178070
+
+<a id="claim-t-195671"></a>
+- t-002
+  teiginys: "„Uusi Suomi“ spausdino prof. Niemio raštus, tarp jų ir apie Vilnių."
+  atnaujinta: "2026-07-12 11:56"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178070
+
 ## Citatos
 
 - id: c-178070
@@ -48,29 +70,6 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-195670"></a>
-- t-001
-  teiginys: "„Uusi Suomi“ šiame šaltinyje apibūdinamas kaip vienas didžiausių ir įtakingiausių suomių dienraščių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178070
-
-<a id="claim-t-195671"></a>
-- t-002
-  teiginys: "„Uusi Suomi“ spausdino prof. Niemio raštus, tarp jų ir apie Vilnių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178070
-

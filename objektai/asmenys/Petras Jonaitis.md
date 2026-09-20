@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Petras Jonaitis'
+pavadinimas: Petras Jonaitis
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-05504cc6b2ab87bf630150c8"
-canonical_name: "Petras Jonaitis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Petras Jonaitis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-05504cc6b2ab87bf630150c8
+canonical_name: Petras Jonaitis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Petras Jonaitis
 sameAs: []
-canonical_biography: "Ponas Petras patarė per duoti Volynės kunigaikščiui Konstantinui Ostrogiškiui."
+canonical_biography: Ponas Petras patarė per duoti Volynės kunigaikščiui Konstantinui Ostrogiškiui.
 ---
 # Petras Jonaitis
 
@@ -66,6 +65,5 @@ Ponas Petras patarė per duoti Volynės kunigaikščiui Konstantinui Ostrogiški
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

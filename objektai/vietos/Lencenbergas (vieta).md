@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Lencenbergas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Lencenbergas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Lencenbergas'
+  - Lencenbergas
 aliases:
-  - 'Lencenbergas'
+  - Lencenbergas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-28cfa0a1580e789d2991a8e8"
-canonical_name: "Lencenbergas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Lencenbergas","Lencenbergas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-28cfa0a1580e789d2991a8e8
+canonical_name: Lencenbergas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Lencenbergas
+  - Lencenbergas (vieta)
 sameAs: []
-canonical_biography: "Lencenbergas buvo pilis, kurioje vakarieniavo Volradas su Notangos ir Varmės kilmingaisiais."
+canonical_biography: 'Lencenbergas buvo pilis, kurioje vakarieniavo Volradas su Notangos ir Varmės kilmingaisiais.'
 ---
 # Lencenbergas (vieta)
 
@@ -72,6 +72,5 @@ Lencenbergas buvo pilis, kurioje vakarieniavo Volradas su Notangos ir Varmės ki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

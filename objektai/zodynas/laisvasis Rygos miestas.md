@@ -27,6 +27,17 @@ media_all_json: |-
 
 Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- tetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas. su savo viršininku arkivyskupu ir spaudžia laisvąjį krikščionišką miestą.
 
+## Teiginiai
+
+<a id="claim-t-70203"></a>
+- t-001
+  teiginys: "Laisvasis Rygos miestas buvo laikomas krikščionišku miestu, kurį spaudė savo galybės siekęs ordinas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69275
+
 ## Citatos
 
 - id: c-69275
@@ -50,17 +61,5 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-70203"></a>
-- t-001
-  teiginys: "Laisvasis Rygos miestas buvo laikomas krikščionišku miestu, kurį spaudė savo galybės siekęs ordinas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69275
-

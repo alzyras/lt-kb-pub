@@ -1,38 +1,37 @@
 ---
 tipas: asmuo
-pavadinimas: 'Adomas Liudvikas Jucevičius'
+pavadinimas: Adomas Liudvikas Jucevičius
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1840 m.'
-  - '1846 m.'
+  - 1840 m.
+  - 1846 m.
 date_start: '1840'
 date_end: '1846'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8efcfeeabf3e4000fd1b54dc"
-canonical_name: "Adomas Liudvikas Jucevičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Adomas Liudvikas Jucevičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8efcfeeabf3e4000fd1b54dc
+canonical_name: Adomas Liudvikas Jucevičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Adomas Liudvikas Jucevičius
 sameAs: []
-canonical_biography: "Jucevičiaus - tyrinėjimai nesukėlė tokio didelio istoriko entuziazmo. Narbutas parankiniame egzemplioriuje citavo Jucevičiaus monografijas Lietuvių liaudies priežodžiai, Žemaitijos atsiminimai ir Lietuva."
+canonical_biography: 'Jucevičiaus - tyrinėjimai nesukėlė tokio didelio istoriko entuziazmo. Narbutas parankiniame egzemplioriuje citavo Jucevičiaus monografijas Lietuvių liaudies priežodžiai, Žemaitijos atsiminimai ir Lietuva.'
 ---
 # Adomas Liudvikas Jucevičius
 
@@ -87,7 +86,7 @@ Jucevičiaus - tyrinėjimai nesukėlė tokio didelio istoriko entuziazmo. Narbut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200826
@@ -107,6 +106,5 @@ Jucevičiaus - tyrinėjimai nesukėlė tokio didelio istoriko entuziazmo. Narbut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: '„Lietuvių mitologija“'
+pavadinimas: „Lietuvių mitologija“
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1046 m.'
-  - '1986 m.'
+  - 1046 m.
+  - 1986 m.
 date_start: '1046'
 date_end: '1986'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XI'
-  - 'XX'
+  - XI
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # „Lietuvių mitologija“
 
@@ -97,7 +94,7 @@ Faktiškai šiandien galima kalbėti apie keturias „Lie tuvių mitologijos“ 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-197804
@@ -132,6 +129,5 @@ Faktiškai šiandien galima kalbėti apie keturias „Lie tuvių mitologijos“ 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

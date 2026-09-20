@@ -38,22 +38,10 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
 
 ## Teiginiai
 
-<a id="claim-t-215773"></a>
-- t-215773
-  teiginys: "Salavija nebuvo tikra prūsų lygos provincija, nes jai priklausė Rusia."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197138
-
-<a id="claim-t-213219"></a>
-- t-213219
+<a id="claim-t-192801"></a>
+- t-001
   teiginys: "Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma Skalvos arba Rusios vardu."
-  atnaujinta: "2026-09-13 18:12"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,34 +56,12 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-196310
+    - c-175571
 
-<a id="claim-t-215372"></a>
-- t-215372
-  teiginys: "Ptolemėjas žinojo Salavijos gyvento jus slavinu vardu; iš to galima spręsti, kad Rusios egzis tavimo laikais didelė dalis šios žemės II krikščioniškosios eros amžiuje buvo žinoma Skalvos arba Rusios vardu, kuriuo ją ir vadino svetimšaliai."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195242
-
-<a id="claim-t-213135"></a>
-- t-213135
-  teiginys: "Vienuolikta Prūsijos provincija buvo Salavija, Schalaueri."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-214435"></a>
-- t-214435
+<a id="claim-t-192802"></a>
+- t-002
   teiginys: "Narbutas Salaviją vadino vienuolikta Prūsijos provincija ir pažymėjo, kad jos sienas sunku nustatyti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -110,6 +76,20 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   semantiniai_rysiai: "Salavija priklausė Prūsija (0.96)"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175572
+
+<a id="claim-t-197921"></a>
+- t-003
+  teiginys: "Ptolemėjas žinojo Salavijos gyvento jus slavinu vardu; iš to galima spręsti, kad Rusios egzis tavimo laikais didelė dalis šios žemės II krikščioniškosios eros amžiuje buvo žinoma Skalvos arba Rusios vardu, kuriuo ją ir vadino svetimšaliai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179398
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -149,6 +129,8 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-175572
   autorius: "Teodoras Narbutas"
@@ -171,6 +153,8 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-179398
   autorius: "Teodoras Narbutas"
@@ -195,75 +179,8 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195242
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
-  citata_originali: |
-    Tačiau, kai joje dar prieš bendrą
-    prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi­
-    gyveno kryžiuočių, daugiausia iš Lietuvos atsikėlusių
-    žmonių, dėl to ją ligi šiol vadina prūsų Lietuva. Jos sos­
-    to arba svarbesnė pilis buvo Salava, be to, manoma,
-    kad Tilžės apylinkėse. Ten, miškuose, yra akmeninių pas­
-    tatų griuvėsių ir ant kalvų piliaviečių, primenančių žilą
-    šios žemės senovę. Ptolemėjas žinojo Salavijos gyvento­
-    jus slavinu vardu; iš to galima spręsti, kad Rusios egzis­
-    tavimo laikais didelė dalis šios žemės II krikščioniškosios
-    eros amžiuje buvo žinoma Skalvos arba Rusios vardu,
-    kuriuo ją ir vadino svetimšaliai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215372
-
-- id: c-196310
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
-  citata_originali: |
-    Ptolemėjas žinojo Salavijos gyvento­
-    jus slavinu vardu; iš to galima spręsti, kad Rusios egzis­
-    tavimo laikais didelė dalis šios žemės II krikščioniškosios
-    eros amžiuje buvo žinoma Skalvos arba Rusios vardu,
-    kuriuo ją ir vadino svetimšaliai. Rytuose ji ribojosi su
-    Sudargija, pietuose — su Nadruva, vakaruose — su Kur­
-    šių mariomis, o šiaurėje — su Žemaitija.
-    267
-    Sudargija (Sudargia).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213219
-
-- id: c-197138
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
-  citata_originali: |
-    Salavija nebuvo tikra prūsų lygos provincija,
-    nes jai priklausė Rusia.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215773
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Rusia]]

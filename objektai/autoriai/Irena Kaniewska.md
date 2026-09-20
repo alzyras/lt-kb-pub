@@ -35,6 +35,20 @@ Irena Kaniewska sudarė laiškų rinkinį „Listy króla Zygmunta Augusta do Ra
 
 Irena Kaniewska sudarė laiškų rinkinį „Listy króla Zygmunta Augusta do Radziwiłów“.
 
+## Teiginiai
+
+<a id="claim-t-204155"></a>
+- t-001
+  teiginys: "Irena Kaniewska sudarė laiškų rinkinį „Listy króla Zygmunta Augusta do Radziwiłów“."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186774
+
 ## Citatos
 
 - id: c-186774
@@ -57,20 +71,5 @@ Irena Kaniewska sudarė laiškų rinkinį „Listy króla Zygmunta Augusta do Ra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204155"></a>
-- t-001
-  teiginys: "Irena Kaniewska sudarė laiškų rinkinį „Listy króla Zygmunta Augusta do Radziwiłów“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  pagrindžia:
-    - c-186774
-

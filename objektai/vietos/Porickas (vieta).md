@@ -1,40 +1,40 @@
 ---
 tipas: vieta
-pavadinimas: 'Porickas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Porickas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Porickas'
+  - Porickas
 aliases:
-  - 'Porickas'
+  - Porickas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1694 m.'
+  - 1694 m.
 date_start: '1694'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVII'
+  - XVII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-15de33b29616a1fb35e6b27d"
-canonical_name: "Porickas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Porickas","Porickas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-15de33b29616a1fb35e6b27d
+canonical_name: Porickas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Porickas
+  - Porickas (vieta)
 sameAs: []
-canonical_biography: "Porickas buvo Voluinės miestelis ir dvaras."
+canonical_biography: Porickas buvo Voluinės miestelis ir dvaras.
 ---
 # Porickas (vieta)
 
@@ -76,6 +76,5 @@ Porickas buvo Voluinės miestelis ir dvaras.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

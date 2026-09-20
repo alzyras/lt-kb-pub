@@ -44,6 +44,48 @@ canonical_biography: "Dusburgietis teigia, kad padedamas šių maldininkų, atvy
 
 Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra senoji pilis223. Dusburgietis teigia, kad apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae Mariae] pastatymą Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir. Dusburgietis teigia, kad apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo 229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo 1202 m..
 
+## Teiginiai
+
+<a id="claim-t-60029"></a>
+- t-001
+  teiginys: "Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Marienverderis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hermanas (Ordino magistras): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Marienverderis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata aiškiai sieja magistrą Hermaną ir brolius su Marienverderio pilies pastatymu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Hermanas (Ordino magistras) pastatė Marienverderis (0.90)"
+  temporaliniai_duomenys: "pastatymo data: 1233 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir užterštas antrašte; citata palaiko konkretų faktą."
+  pagrindžia:
+    - c-60662
+
+<a id="claim-t-60030"></a>
+- t-002
+  teiginys: "Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Kulmas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hermanas (Ordino magistras): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Hermanas pastatė Kulmo pilį ir miestą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Hermanas (Ordino magistras) pastatė Kulmas (0.92)"
+  temporaliniai_duomenys: "pastatymo data: 1232 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas šaltinio citata."
+  pagrindžia:
+    - c-60661
+
 ## Citatos
 
 - id: c-60661
@@ -62,6 +104,8 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-60662
   autorius: "Petras Dusburgietis"
@@ -89,68 +133,8 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-203366
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 72"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
-  citata_originali: |
-    Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
-    pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
-    senoji pilis223.
-
-      220 D.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Hermanas (Ordino magistras) pastatė [[objektai/vietos/Kulmas]], [[objektai/vietos/Marienverderis]]
-
-## Teiginiai
-
-<a id="claim-t-224153"></a>
-- t-001
-  teiginys: "Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Marienverderis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hermanas (Ordino magistras): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Marienverderis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata aiškiai sieja magistrą Hermaną ir brolius su Marienverderio pilies pastatymu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Hermanas (Ordino magistras) pastatė Marienverderis (0.90)"
-  temporaliniai_duomenys: "pastatymo data: 1233 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir užterštas antrašte; citata palaiko konkretų faktą."
-
-<a id="claim-t-225460"></a>
-- t-002
-  teiginys: "Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Kulmas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hermanas (Ordino magistras): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Hermanas pastatė Kulmo pilį ir miestą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Hermanas (Ordino magistras) pastatė Kulmas (0.92)"
-  temporaliniai_duomenys: "pastatymo data: 1232 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas šaltinio citata."
-  pagrindžia:
-    - c-203366
-

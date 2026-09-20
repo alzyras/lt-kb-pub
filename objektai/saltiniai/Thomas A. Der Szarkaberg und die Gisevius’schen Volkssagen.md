@@ -34,6 +34,20 @@ media_all_json: |-
 
 Dusburgietis teigia, kad thomas A.
 
+## Teiginiai
+
+<a id="claim-t-61315"></a>
+- t-001
+  teiginys: "A. Thomaso „Der Szarkaberg und die Gisevius’schen Volkssagen“ paskelbtas 1882 m. Karaliaučiuje leisto AM 19 tome."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1882 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia leidinio vietą, metus ir tomą."
+  pagrindžia:
+    - c-61947
+
 ## Citatos
 
 - id: c-61947
@@ -49,35 +63,5 @@ Dusburgietis teigia, kad thomas A.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-206193
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
-  citata_originali: |
-    Thomas A. Der Szarkaberg und die Gisevius’schen Volkssagen.— AM, Königsberg in
-    Pr., 1882, Bd. 19, S. 237—242.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-220276"></a>
-- t-001
-  teiginys: "A. Thomaso „Der Szarkaberg und die Gisevius’schen Volkssagen“ paskelbtas 1882 m. Karaliaučiuje leisto AM 19 tome."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1882 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia leidinio vietą, metus ir tomą."
-  pagrindžia:
-    - c-206193
-

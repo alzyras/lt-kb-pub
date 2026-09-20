@@ -67,11 +67,9 @@ Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų ar
     Pompėja ir dorėniškomis Paestumo šventyklomis. Klasicistai, kaip kadaise re­
     nesanso menininkai, ėmė garbinti tolimos praeities meną.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

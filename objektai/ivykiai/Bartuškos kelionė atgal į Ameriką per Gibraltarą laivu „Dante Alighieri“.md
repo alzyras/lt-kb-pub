@@ -1,8 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Bartuškos kelionė atgal į Ameriką per Gibraltarą laivu „Dante Alighieri“'
+pavadinimas: Bartuškos kelionė atgal į Ameriką per Gibraltarą laivu „Dante Alighieri“
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Bartuškos kelionė atgal į Ameriką per Gibraltarą laivu „Dante Alighieri“
 
@@ -99,7 +96,7 @@ Važiuoti iš Rymo į Franciją ir leistis iš Bordeau Amerikon, buvo pavojinga 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192419
@@ -124,6 +121,5 @@ Važiuoti iš Rymo į Franciją ir leistis iš Bordeau Amerikon, buvo pavojinga 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

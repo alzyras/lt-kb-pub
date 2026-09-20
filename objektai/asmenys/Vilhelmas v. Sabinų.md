@@ -39,6 +39,20 @@ canonical_biography: "Toksai įbingimas perkrikštų Parusny didyn vien gandino 
 
 Toksai įbingimas perkrikštų Parusny didyn vien gandino kryžėjus, kurių vyresnybė nemintanti guodės popiežiui, rodydama savo pavojų ir artimą pra garą bei pagalbos lūgodama ir teiraudamos jo, ką bedaryti tokioj noty, sakydama, jog Vilhelmas, jo siuntinys, v.
 
+## Teiginiai
+
+<a id="claim-t-201424"></a>
+- t-001
+  teiginys: "Toksai įbingimas perkrikštų Parusny didyn vien gandino kryžėjus, kurių vyresnybė nemintanti guodės popiežiui, rodydama savo pavojų ir artimą pra garą bei pagalbos lūgodama ir teiraudamos jo, ką bedaryti tokioj noty, sakydama, jog Vilhelmas, jo siuntinys, v."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184774
+
 ## Citatos
 
 - id: c-184774
@@ -72,20 +86,5 @@ Toksai įbingimas perkrikštų Parusny didyn vien gandino kryžėjus, kurių vyr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201424"></a>
-- t-001
-  teiginys: "Toksai įbingimas perkrikštų Parusny didyn vien gandino kryžėjus, kurių vyresnybė nemintanti guodės popiežiui, rodydama savo pavojų ir artimą pra garą bei pagalbos lūgodama ir teiraudamos jo, ką bedaryti tokioj noty, sakydama, jog Vilhelmas, jo siuntinys, v."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184774
-

@@ -36,6 +36,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201330"></a>
+- t-001
+  teiginys: "Norėjo dar Vsevolodas, ku nigaikštis Naugardo, lietuviams atmonyti tas nelai mes savo ūkės, kaipogi, tame širdgile surinkęs savo ūkinykus, ėmė vyti lietuvius, kuriuos antnokęs su sigrūmė, bet pats su visais savo kareiviais tenai galą gavo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184680
+
 ## Citatos
 
 - id: c-184680
@@ -56,20 +70,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201330"></a>
-- t-001
-  teiginys: "Norėjo dar Vsevolodas, ku nigaikštis Naugardo, lietuviams atmonyti tas nelai mes savo ūkės, kaipogi, tame širdgile surinkęs savo ūkinykus, ėmė vyti lietuvius, kuriuos antnokęs su sigrūmė, bet pats su visais savo kareiviais tenai galą gavo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184680
-

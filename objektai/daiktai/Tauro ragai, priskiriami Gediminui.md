@@ -39,6 +39,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205347"></a>
+- t-001
+  teiginys: "Narbutas teigia, kad kunigaikščio giminės ainiai saugojo tauro, kurį Gediminas esą užmušė prie Vilniaus ant Tauro kalno, ragus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-187978
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas teigia, kad kunigaikščio giminės ainiai saugojo tauro, kurį Gediminas esą užmušė prie Vilniaus ant Tauro kalno, ragus.'
@@ -76,21 +91,5 @@ Narbutas teigia, kad kunigaikščio giminės ainiai saugojo tauro, kurį Gedimin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205347"></a>
-- t-001
-  teiginys: "Narbutas teigia, kad kunigaikščio giminės ainiai saugojo tauro, kurį Gediminas esą užmušė prie Vilniaus ant Tauro kalno, ragus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
-  pagrindžia:
-    - c-187978
-

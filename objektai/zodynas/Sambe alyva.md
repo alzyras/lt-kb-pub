@@ -27,6 +27,21 @@ media_all_json: |-
 
 Narbutas rašė, kad daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kaip dievybė dėl jiems priskirto poveikio sveikatai.
 
+## Teiginiai
+
+<a id="claim-t-189250"></a>
+- t-001
+  teiginys: "Narbutas rašė, kad daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kaip dievybė dėl jiems priskirto poveikio sveikatai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172138
+
 ## Citatos
 
 - id: c-172138
@@ -48,42 +63,5 @@ Narbutas rašė, kad daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197955
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 234"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 234."
-  citata_originali: |
-    Šitų būtybių
-    dažnai šaukiamasi maldose, ir pats medis gerbiamas dėl savo
-    įgimto veiksmingumo, glūdinčio visose jo dalyse, jo šešėliui
-    priskiriamas išganingas poveikis sveikatai; dėl šios priežasties
-    daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kaip die­
-    vybė. Kaimuose iki šiol galima rasti rūpestingai puoselėjamų
-    baltųjų alyvų krūmų. Jų gydomasis poveikis žinomas visiems
-    kaimiečiams.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-219999"></a>
-- t-001
-  teiginys: "Narbutas rašė, kad daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kaip dievybė dėl jiems priskirto poveikio sveikatai."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-197955
-

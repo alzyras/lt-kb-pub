@@ -44,6 +44,25 @@ canonical_biography: "Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos 
 
 Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą Ašmenoje, esą jis neįstengęs iš­ sivežti kartu - tai nėra tikslu, nes tais pat 1432 metais lapkričio 30 dieną Švitrigaila, rašydamas Livonijos ma­ gistrui, užsimena, kad žmona jam.
 
+## Teiginiai
+
+<a id="claim-t-87855"></a>
+- t-001
+  teiginys: "Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_dukte -> Borisas (Tverės kunigaikštis): 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sofija (Švitrigailos žmona): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Borisas (Tverės kunigaikštis): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Sofija tiesiogiai įvardyta Boriso dukterimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Sofija (Švitrigailos žmona) buvo duktė Borisas (Tverės kunigaikštis) (0.97)"
+  pagrindžia:
+    - c-83834
+
 ## Citatos
 
 - id: c-83834
@@ -76,28 +95,8 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
-
-## Teiginiai
-
-<a id="claim-t-87855"></a>
-- t-001
-  teiginys: "Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_dukte -> Borisas (Tverės kunigaikštis): 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sofija (Švitrigailos žmona): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Borisas (Tverės kunigaikštis): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Sofija tiesiogiai įvardyta Boriso dukterimi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Sofija (Švitrigailos žmona) buvo duktė Borisas (Tverės kunigaikštis) (0.97)"
-  pagrindžia:
-    - c-83834
-

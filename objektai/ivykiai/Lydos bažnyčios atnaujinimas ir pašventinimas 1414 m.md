@@ -42,6 +42,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206883"></a>
+- t-001
+  teiginys: "1414 m. Lydos bažnyčia buvo atnaujinta ir pašventinta Švč. Mergelės Marijos bei Visų Šventųjų vardu, o per pirmąjį pašventinimą ji buvo gavusi Šv. Kryžiaus vardą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189498
+
 ## Santrauka
 
 1414 m. Lydos bažnyčia buvo atnaujinta ir pašventinta Švč. Mergelės Marijos bei Visų Šventųjų vardu, o per pirmąjį pašventinimą ji buvo gavusi Šv. Kryžiaus vardą.
@@ -61,21 +76,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206883"></a>
-- t-001
-  teiginys: "1414 m. Lydos bažnyčia buvo atnaujinta ir pašventinta Švč. Mergelės Marijos bei Visų Šventųjų vardu, o per pirmąjį pašventinimą ji buvo gavusi Šv. Kryžiaus vardą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189498
-

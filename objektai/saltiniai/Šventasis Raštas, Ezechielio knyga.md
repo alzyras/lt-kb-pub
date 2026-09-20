@@ -26,6 +26,28 @@ media_all_json: |-
 
 Narbutas rašo, kad Ezechielio knygoje mokslininkai žodį Ross ar Russ aiškino kaip tautos pavadinimą, asmenvardį arba perkeltinę sąvoką.
 
+## Teiginiai
+
+<a id="claim-t-191865"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad Ezechielio knygoje mokslininkai žodį Ross ar Russ aiškino kaip tautos pavadinimą, asmenvardį arba perkeltinę sąvoką."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ezechielis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventasis Raštas, Ezechielio knyga: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Ezechielis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis Raštas, Ezechielio knyga\" parinktas kaip owner_note_path. Targetas \"Ezechielis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174747
+
 ## Citatos
 
 - id: c-174747
@@ -51,54 +73,5 @@ Narbutas rašo, kad Ezechielio knygoje mokslininkai žodį Ross ar Russ aiškino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194746
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 215"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 215."
-  citata_originali: |
-    Manydami, kad mūsų skaity­
-    tojai prisimena anksčiau šia tema sakytus dalykus (§55),
-    ir norėdami geriau suprasti visą dalyką, turime papildomai
-    aiškinti.
-    221
-    Šventajame Rašte, pas pranašą Ezechielį, mokslininkai
-    aptinka žodį Ross ar Russ, kurį vieni laiko tam tikros
-    tautos pavadinimu, kiti — asmenvardžiu, o dar kiti, kurių
-    pusėje yra ir Karamzinas, supranta jį perkeltine Gtowa,
-    Olomnošč, galvos, svarbiausio dalyko, prasme. Rytų ra­
-    šytojai, remdamiesi Korano aiškinimais, linkę pritarti pir­
-    mam požiūriui.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-212617"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad Ezechielio knygoje mokslininkai žodį Ross ar Russ aiškino kaip tautos pavadinimą, asmenvardį arba perkeltinę sąvoką."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Ezechielis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventasis Raštas, Ezechielio knyga: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Ezechielis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis Raštas, Ezechielio knyga\" parinktas kaip owner_note_path. Targetas \"Ezechielis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-194746
-

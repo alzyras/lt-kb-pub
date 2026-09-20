@@ -35,6 +35,17 @@ canonical_biography: "Skardžiaus. Skardžiaus, Dr."
 
 Skardžiaus. Skardžiaus, Dr.
 
+## Teiginiai
+
+<a id="claim-t-35470"></a>
+- t-001
+  teiginys: "Pr. Skardžius redagavo bendrinės kalbos žurnalo „Kalba“ pirmąjį sąsiuvinį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-36686
+
 ## Citatos
 
 - id: c-36686
@@ -52,17 +63,5 @@ Skardžiaus. Skardžiaus, Dr.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-35470"></a>
-- t-001
-  teiginys: "Pr. Skardžius redagavo bendrinės kalbos žurnalo „Kalba“ pirmąjį sąsiuvinį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36686
-

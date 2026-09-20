@@ -34,6 +34,24 @@ canonical_biography: "Musteikis. Musteikio vadovaujama 3-ioji divizija (3-iasis,
 
 Musteikis. Musteikio vadovaujama 3-ioji divizija (3-iasis, 6-asis ir 9-asis pulkai) saugojo Lietuvos ribą rytuose su bolševikais ir Latvija.
 
+## Teiginiai
+
+<a id="claim-t-40140"></a>
+- t-001
+  teiginys: "Mjr. I. Musteikio vadovaujama 3-ioji divizija saugojo Lietuvos rytinę ribą su bolševikais ir Latvija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> 3-ioji divizija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "I. Musteikis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "3-ioji divizija: mention_match, group, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"I. Musteikis\" parinktas kaip owner_note_path. Targetas \"3-ioji divizija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-44347
+
 ## Citatos
 
 - id: c-44347
@@ -54,24 +72,5 @@ Musteikis. Musteikio vadovaujama 3-ioji divizija (3-iasis, 6-asis ir 9-asis pulk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-40140"></a>
-- t-001
-  teiginys: "Mjr. I. Musteikio vadovaujama 3-ioji divizija saugojo Lietuvos rytinę ribą su bolševikais ir Latvija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> 3-ioji divizija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "I. Musteikis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "3-ioji divizija: mention_match, group, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"I. Musteikis\" parinktas kaip owner_note_path. Targetas \"3-ioji divizija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44347
-

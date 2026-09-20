@@ -35,6 +35,20 @@ media_all_json: |-
 
 Negal žinoti, dėl ko naugardžionys apydijo didįjį Lietuvos kunigaikštį Algirdą, kaipogi jų rė dytojas Jevstafijus išvadino jį akivaizdoj šuniu.
 
+## Teiginiai
+
+<a id="claim-t-201239"></a>
+- t-001
+  teiginys: "Negal žinoti, dėl ko naugardžionys apydijo didįjį Lietuvos kunigaikštį Algirdą, kaipogi jų rė dytojas Jevstafijus išvadino jį akivaizdoj šuniu."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184589
+
 ## Citatos
 
 - id: c-184589
@@ -53,20 +67,5 @@ Negal žinoti, dėl ko naugardžionys apydijo didįjį Lietuvos kunigaikštį Al
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201239"></a>
-- t-001
-  teiginys: "Negal žinoti, dėl ko naugardžionys apydijo didįjį Lietuvos kunigaikštį Algirdą, kaipogi jų rė dytojas Jevstafijus išvadino jį akivaizdoj šuniu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184589
-

@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kerniaus ir Gimbuto žygis į Rusią bei Gimbuto atsakas į latvių antpuolį'
+pavadinimas: Kerniaus ir Gimbuto žygis į Rusią bei Gimbuto atsakas į latvių antpuolį
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kerniaus ir Gimbuto žygis į Rusią bei Gimbuto atsakas į latvių antpuolį
 
@@ -74,6 +71,5 @@ O paskui 1 didysis kunigaikštis Kernius ir Gimbu tas, geisdami praplėsti savo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

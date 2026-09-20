@@ -1,29 +1,26 @@
 ---
 tipas: saltinis
-pavadinimas: 'Vilniaus Romos katalikų dvasinė akademija 1833-1842 metais organizacija ir veikla'
+pavadinimas: Vilniaus Romos katalikų dvasinė akademija 1833-1842 metais organizacija ir veikla
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1833 m.'
-  - '1842 m.'
+  - 1833 m.
+  - 1842 m.
 date_start: '1833'
 date_end: '1842'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vilniaus Romos katalikų dvasinė akademija 1833-1842 metais organizacija ir veikla
 

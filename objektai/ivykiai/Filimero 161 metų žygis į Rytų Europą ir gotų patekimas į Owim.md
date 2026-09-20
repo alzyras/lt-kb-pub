@@ -39,6 +39,44 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-191060"></a>
+- t-001
+  teiginys: "Narbutas, remdamasis Jordanu, Filimero 161 m. žygį į Rytų Europą sieja su gotų persikėlimu į dešinįjį Vyslos krantą ir Owim kraštą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Vysla: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vysla: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gotai tiesiogiai aprašomi kaip persikėlę į dešiniąją Vyslos pakrantę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Gotai keliavo į Vysla (0.84)"
+  temporaliniai_duomenys: "įvykio data: 161 m; kelionės data: 161 m"
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Filimeras surengė žygį į Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gotai keliavo į Vysla“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja Filimero žygį, Jordaną, gotus ir Owim kraštą. Atribucija palikta, nes kalbama apie šaltinio chronologinę interpretaciją."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173942
+
+<a id="claim-t-197534"></a>
+- t-002
+  teiginys: "Pirmiausia šią žinią randame Jordano darbuose1, kai šis autorius pasakoja apie karaliaus Fili mero žygį 161 metais j Rytų Europos kraštus; tuomet, persikėlę j dešiniąją Vyslos pakrantę, gotai pirmiausia pa teko j kraštą, vadinamą Owim. Vėlesni istorijos."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-173942
+
 ## Citatos
 
 - id: c-173942
@@ -64,70 +102,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196527
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 253"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 253."
-  citata_originali: |
-    Pirmiausia šią žinią randame Jordano
-    darbuose1, kai šis autorius pasakoja apie karaliaus Fili­
-    mero žygį 161 metais j Rytų Europos kraštus; tuomet,
-    persikėlę j dešiniąją Vyslos pakrantę, gotai pirmiausia pa­
-    teko j kraštą, vadinamą Owim. Vėlesni istorijos tyrinė­
-    tojai įrodė, kad tas kraštas buvo šiandienė Prūsija. Tarp
-    mokslininkų ¡buvęs Hugo Grocijus2*, taip ¡pat Pilypas Kjiu-
-    veris3**, kuris rašo: „Žemė Owim, plytėjusi priešais go­
-    tus, yra ne kokia kita, o dabar vadinama Prūsija, pilna
-    pelkių ir ežerų, sunki armijai keliauti ir daugelyje vietų
-    visiškai neįžengiama; šią žemę net ir šiais laikais saksai
-    vadina Owimu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-214980"></a>
-- t-001
-  teiginys: "Narbutas, remdamasis Jordanu, Filimero 161 m. žygį į Rytų Europą sieja su gotų persikėlimu į dešinįjį Vyslos krantą ir Owim kraštą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Vysla: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vysla: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gotai tiesiogiai aprašomi kaip persikėlę į dešiniąją Vyslos pakrantę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Gotai keliavo į Vysla (0.84)"
-  temporaliniai_duomenys: "įvykio data: 161 m; kelionės data: 161 m"
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Filimeras surengė žygį į Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gotai keliavo į Vysla“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja Filimero žygį, Jordaną, gotus ir Owim kraštą. Atribucija palikta, nes kalbama apie šaltinio chronologinę interpretaciją."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-196527
-
-<a id="claim-t-215507"></a>
-- t-002
-  teiginys: "Pirmiausia šią žinią randame Jordano darbuose1, kai šis autorius pasakoja apie karaliaus Fili mero žygį 161 metais j Rytų Europos kraštus; tuomet, persikėlę j dešiniąją Vyslos pakrantę, gotai pirmiausia pa teko j kraštą, vadinamą Owim. Vėlesni istorijos."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196527
-

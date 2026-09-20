@@ -54,6 +54,28 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-59703"></a>
+- t-001
+  teiginys: "Karaliaučiaus kronikos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį nuorašo šeimininką."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsija: 0.75"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prūsijos hercogo Albrechto herbas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Herbas tiesiogiai apibūdinamas kaip Prūsijos hercogo Albrechto herbas; leistinas objektas yra Prūsija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Prūsijos hercogo Albrechto herbas priklausė Prūsija (0.75)"
+  temporaliniai_duomenys: "įvykio data: 1540 m.; įvykio data: 1568 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai atitinka citatos informaciją."
+  pagrindžia:
+    - c-60335
+
 ## Citatos
 
 - id: c-60335
@@ -73,24 +95,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-223969"></a>
-- t-001
-  teiginys: "Karaliaučiaus kronikos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį nuorašo šeimininką."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsija: 0.75"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prūsijos hercogo Albrechto herbas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Herbas tiesiogiai apibūdinamas kaip Prūsijos hercogo Albrechto herbas; leistinas objektas yra Prūsija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Prūsijos hercogo Albrechto herbas priklausė Prūsija (0.75)"
-  temporaliniai_duomenys: "įvykio data: 1540 m.; įvykio data: 1568 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai atitinka citatos informaciją."
-
+  pagrindzia:
+    - t-001

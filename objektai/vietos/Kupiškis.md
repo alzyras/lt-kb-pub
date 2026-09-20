@@ -37,36 +37,10 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 
 ## Teiginiai
 
-<a id="claim-t-208560"></a>
-- t-208560
-  teiginys: "Kupiškyje vyskupas Motiejus Valančius buvo paskelbęs blaivybę."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:48Z"
-  pagrindžia:
-    - c-191180
-
-<a id="claim-t-209309"></a>
-- t-209309
-  teiginys: "Ukmergės apskrities Kupiškio ir Palėvertio parapijų valstiečiai buvo paraginti imtis blaivybės."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
-  pagrindžia:
-    - c-191930
-
 <a id="claim-t-41824"></a>
-- t-41824
+- t-001
   teiginys: "Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pasitraukė Subačiaus kryptimi ir įsitvirtino Kupiškyje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,9 +54,9 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
     - c-45163
 
 <a id="claim-t-41825"></a>
-- t-41825
+- t-002
   teiginys: "Galiausiai bolševikai gegužės 30-31 d. atsitraukė ir iš Kupiškio."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Biržai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -114,8 +88,8 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-41825
+  pagrindzia:
+    - t-002
 
 - id: c-45163
   sudarytojas: "Karolis Zikaras"
@@ -140,55 +114,5 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-41824
-
-- id: c-191180
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 142"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 142."
-  citata_originali: |
-    Tačiau reikia pažymėti, kad blaivybė silpo ir iš kitos
-    pusės. Didelė dalis blaivininkų nevykdė savo apžado dar
-    prieš uždraudžiant Blaivybės broliją 1864 m. Taip atsiti­
-    ko ir tose parapijose, kur pats vyskupas buvo paskelbęs
-    blaivybę, kaip antai Kupiškyje5.
-  citata_rodoma: "Taip atsiti­\nko ir tose parapijose, kur pats vyskupas buvo paskelbęs \nblaivybę, kaip antai Kupiškyje5."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208560
-
-- id: c-191930
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 62"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 62."
-  citata_originali: |
-    Anot vyskupo, gerti Užnemunės
-    lietuvių pavyzdžiu žemaičiai nustoję patys, o tai pastebėjęs uolus
-    Jurbarko klebonas M. Kirvelis "prikalbėjo savo parapiją visiškai
-    išsižadėti degtinės (1858 m. rugpjūčio 15 d.)"12 Be to, kun. M. Kirvelis
-    gavo Gaurės klebono F. Jakutavičiaus ir Skirsnemunės klebono K.
-    Baracevičiaus pasižadėjimą, kad savose parapijose paskelbsią blaivybę.
-    Vyskupas M. Valančius minėtos vizitacijos metu aplankė
-    Žemaičių (Telšių) vyskupystės rytines ir centrines parapijas. Anot K.
-    Giečio, imtis blaivybės buvo paraginti Ukmergės apskrities Kupiškio
-    ir palėvertio parapijų valstiečiai.
-  citata_rodoma: "Anot K. \nGiečio, imtis blaivybės buvo paraginti Ukmergės apskrities Kupiškio \nir palėvertio parapijų valstiečiai."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209309
-
+  pagrindzia:
+    - t-001

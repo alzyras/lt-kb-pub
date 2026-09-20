@@ -34,6 +34,45 @@ canonical_biography: "Žuvo Livonijos ordino magistras Ernestas fon Racburgas, d
 
 Žuvo Livonijos ordino magistras Ernestas fon Racburgas, danų vietininkas Taline Eilartas fon Hobergas, tik kai kam pavyko ištrūkti.
 
+## Teiginiai
+
+<a id="claim-t-40100"></a>
+- t-001
+  teiginys: "Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Talinas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Eilartas fon Hobergas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Talinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Eilartas įvardytas danų vietininku Taline, todėl valdžios ryšys su miestu yra tiesiogiai numanomas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Eilartas fon Hobergas valdė miestą Talinas (0.70)"
+  pagrindžia:
+    - c-167125
+
+<a id="claim-t-183737"></a>
+- t-002
+  teiginys: "Danų vietininkas Taline Eilartas fon Hobergas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "valde_miesta -> Talinas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Eilartas fon Hobergas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Talinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Eilartas apibūdintas kaip vietininkas Taline, tad santykis su miesto valdymu yra pagrįstas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Eilartas fon Hobergas valdė miestą Talinas (0.70)"
+  pagrindžia:
+    - c-167125
+
 ## Citatos
 
 - id: c-167125
@@ -70,46 +109,6 @@ canonical_biography: "Žuvo Livonijos ordino magistras Ernestas fon Racburgas, d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-40100"></a>
-- t-001
-  teiginys: "Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Talinas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Eilartas fon Hobergas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Talinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Eilartas įvardytas danų vietininku Taline, todėl valdžios ryšys su miestu yra tiesiogiai numanomas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Eilartas fon Hobergas valdė miestą Talinas (0.70)"
-  pagrindžia:
-    - c-167125
-
-<a id="claim-t-183737"></a>
-- t-002
-  teiginys: "Danų vietininkas Taline Eilartas fon Hobergas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "valde_miesta -> Talinas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Eilartas fon Hobergas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Talinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Eilartas apibūdintas kaip vietininkas Taline, tad santykis su miesto valdymu yra pagrįstas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Eilartas fon Hobergas valdė miestą Talinas (0.70)"
-  pagrindžia:
-    - c-167125
-

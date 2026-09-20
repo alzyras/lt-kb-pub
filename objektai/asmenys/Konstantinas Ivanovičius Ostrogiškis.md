@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Konstantinas Ivanovičius Ostrogiškis'
+pavadinimas: Konstantinas Ivanovičius Ostrogiškis
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a0d3e45d642c6d0908255046"
-canonical_name: "Konstantinas Ivanovičius Ostrogiškis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Konstantinas Ivanovičius Ostrogiškis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a0d3e45d642c6d0908255046
+canonical_name: Konstantinas Ivanovičius Ostrogiškis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Konstantinas Ivanovičius Ostrogiškis
 sameAs: []
-canonical_biography: "Tuomet pateko nelaisvėn etmonas Kons tantinas Ivanovičius Ostrogiškis, ponas Grigalius Stanislovaitis Astikas, ponas Liutauras Chreptavičius, ponas Mikalojus Jurgaitis Hlebavičius°, ponas Mika lojus Zenovjevičius31 ir daugelis kitų didikų."
+canonical_biography: 'Tuomet pateko nelaisvėn etmonas Kons tantinas Ivanovičius Ostrogiškis, ponas Grigalius Stanislovaitis Astikas, ponas Liutauras Chreptavičius, ponas Mikalojus Jurgaitis Hlebavičius°, ponas Mika lojus Zenovjevičius31 ir daugelis kitų didikų.'
 ---
 # Konstantinas Ivanovičius Ostrogiškis
 
@@ -69,6 +68,5 @@ Tuomet pateko nelaisvėn etmonas Kons tantinas Ivanovičius Ostrogiškis, ponas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

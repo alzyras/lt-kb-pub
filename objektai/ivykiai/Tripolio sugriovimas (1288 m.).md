@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Tripolio sugriovimas (1288 m.)'
+pavadinimas: Tripolio sugriovimas (1288 m.)
 variantai:
-  - 'Tripolio sugriovimas'
+  - Tripolio sugriovimas
 aliases:
-  - 'Tripolio sugriovimas'
+  - Tripolio sugriovimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1288 m.'
+  - 1288 m.
 date_start: '1288'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Tripolio sugriovimas (1288 m.)
 
@@ -82,6 +79,5 @@ Tripolyje gyvenę krikščionys buvo paimti į nelaisvę arba nužudyti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

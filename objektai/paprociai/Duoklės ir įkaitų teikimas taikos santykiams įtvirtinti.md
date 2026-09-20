@@ -39,6 +39,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205325"></a>
+- t-001
+  teiginys: "Tad tokia bausmė, taikyta Maslavui, ir tos pa tyčios buvo didelė politinė gudrybė, kurios griebėsi Prū sija, siekdama sueiti į artimesnius santykius su karaliumi Kazimieru, juoba kad jo šlovė pirmaisiais viešpatavimo metais prilygo senolio turėtai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188156
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tad tokia bausmė, taikyta Maslavui, ir tos pa tyčios buvo didelė politinė gudrybė, kurios griebėsi Prū sija, siekdama sueiti į artimesnius santykius su karaliumi Kazimieru, juoba kad jo šlovė pirmaisiais viešpatavimo metais prilygo senolio turėtai.'
@@ -87,21 +102,5 @@ Tad tokia bausmė, taikyta Maslavui, ir tos pa tyčios buvo didelė politinė gu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205325"></a>
-- t-001
-  teiginys: "Tad tokia bausmė, taikyta Maslavui, ir tos pa tyčios buvo didelė politinė gudrybė, kurios griebėsi Prū sija, siekdama sueiti į artimesnius santykius su karaliumi Kazimieru, juoba kad jo šlovė pirmaisiais viešpatavimo metais prilygo senolio turėtai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-188156
-

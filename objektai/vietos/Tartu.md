@@ -49,93 +49,12 @@ historical_names: []
 
 Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsiimtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo įkurtos ir Polocke, ir Rygoje ir Tartuose (Dorpate).
 
-## Citatos
-
-- id: c-32454
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 234"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 234."
-  citata_originali: |
-    Paskutinis Gedimino laiškas (1325.VI.2)
-    yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir
-    Danijos vietininkui Taline.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-43895
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 89"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 89."
-  citata_originali: |
-    Suomijos įlanka, „ 5
-
-    1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos
-    teritorijos su Narvos ir Tartu miestais, Danija užvaldė Saremos
-    salą. 1560 m. rusai užėmė Alūksnę, Vilijandį. Švedai užėmė šiau-
-
-    1561 m.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-77038
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  puslapiai: "PDF 354"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
-  citata_originali: |
-    Jėzuitai tuojau ėmė steigti visam krašte kolegijas. Tuo-
-
-    jau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsi-
-    imtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo
-    įkurtos ir Polocke, ir Rygoje ir Tartuose _(Dorpate)._ Mat, reikėjo
-    stiprios katalikybės atramos tuose nekatalikiškuose kraštuose.
-  citata_rodoma: "Tuo-\njau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsi-\nimtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo\nįkurtos ir Polocke, ir Rygoje ir Tartuose _(Dorpate)._ Mat, reikėjo\nstiprios katalikybės atramos tuose nekatalikiškuose kraštuose."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- id: c-187900
-  šaltinis: "Lietuvių tautos istorija, t. 3"
-  puslapiai: "PDF 431"
-  indeksas: "Lietuvių tautos istorija, t. 3, PDF 431."
-  citata_originali: |
-    Žemgaliai priima <krikščionybę.
-    Pirmasis kryžiaus žygis į Prūsiją.
-    Rusų kunigaikštystė Tartu (Dorpate).
-  citata_rodoma: "Rusų kunigaikštystė Tartu (Dorpate)."
-  statusas: verified
-  atnaujinta: "2026-08-11 18:54"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-## Ryšiai
-- Užėmė Tartu: [[objektai/grupes/Maskvos kariuomenė]]
-
 ## Teiginiai
 
 <a id="claim-t-80185"></a>
 - t-001
   teiginys: "Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tartai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -151,7 +70,7 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
 <a id="claim-t-80186"></a>
 - t-002
   teiginys: "1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Narva: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -172,7 +91,7 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
 <a id="claim-t-80189"></a>
 - t-003
   teiginys: "Po Stepono Batoro karų su Maskva jėzuitų kolegija buvo įkurta ir Tartu (Dorpate)."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tartai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -188,7 +107,7 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
 <a id="claim-t-205063"></a>
 - t-004
   teiginys: "Rusų kunigaikštystė Tartu (Dorpate)."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -198,3 +117,83 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   pagrindžia:
     - c-187900
 
+## Citatos
+
+- id: c-32454
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 234"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 234."
+  citata_originali: |
+    Paskutinis Gedimino laiškas (1325.VI.2)
+    yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir
+    Danijos vietininkui Taline.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-43895
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  puslapiai: "PDF 89"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 89."
+  citata_originali: |
+    Suomijos įlanka, „ 5
+
+    1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos
+    teritorijos su Narvos ir Tartu miestais, Danija užvaldė Saremos
+    salą. 1560 m. rusai užėmė Alūksnę, Vilijandį. Švedai užėmė šiau-
+
+    1561 m.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-77038
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
+  citata_originali: |
+    Jėzuitai tuojau ėmė steigti visam krašte kolegijas. Tuo-
+
+    jau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsi-
+    imtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo
+    įkurtos ir Polocke, ir Rygoje ir Tartuose _(Dorpate)._ Mat, reikėjo
+    stiprios katalikybės atramos tuose nekatalikiškuose kraštuose.
+  citata_rodoma: "Tuo-\njau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsi-\nimtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo\nįkurtos ir Polocke, ir Rygoje ir Tartuose _(Dorpate)._ Mat, reikėjo\nstiprios katalikybės atramos tuose nekatalikiškuose kraštuose."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-187900
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 431"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 431."
+  citata_originali: |
+    Žemgaliai priima <krikščionybę.
+    Pirmasis kryžiaus žygis į Prūsiją.
+    Rusų kunigaikštystė Tartu (Dorpate).
+  citata_rodoma: "Rusų kunigaikštystė Tartu (Dorpate)."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+## Ryšiai
+- Užėmė Tartu: [[objektai/grupes/Maskvos kariuomenė]]

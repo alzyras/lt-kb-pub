@@ -34,6 +34,28 @@ canonical_biography: "Narbutas šventąjį Steponą, Permės vyskupą, vaizdavo 
 
 Narbutas šventąjį Steponą, Permės vyskupą, vaizdavo kaip Biarmijos apaštalą, kurio veikla esą paskatino Biarmiją priimti krikščionybę.
 
+## Teiginiai
+
+<a id="claim-t-190464"></a>
+- t-001
+  teiginys: "Narbutas šventąjį Steponą, Permės vyskupą, vaizdavo kaip Biarmijos apaštalą, kurio veikla esą paskatino Biarmiją priimti krikščionybę."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Biarmija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventasis Steponas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Biarmija: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis Steponas\" parinktas kaip owner_note_path. Targetas \"Biarmija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173347
+
 ## Citatos
 
 - id: c-173347
@@ -57,51 +79,5 @@ Narbutas šventąjį Steponą, Permės vyskupą, vaizdavo kaip Biarmijos apašta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-200051
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 435"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
-  citata_originali: |
-    Pagaliau atsirado tikrasis Biarmijos apaštalas -
-    šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
-    kupinas žmoniškumo ir žmogaus širdies supratimo. Davęs
-    žmonėms pažinti savo dorybes ir užsitarnavęs jų meile, nie­
-    kuo neįžeisdamas čiabuvių tautos, nors pats buvo rusas, jis
-    taip sėkmingai pakreipė dalykų eigą, kad visa senovinė Biar­
-    mija priėmė Kristaus tikėjimo šviesą be pasipriešinimo ir no­
-    riai. Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
-    biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų
-    sušvelninti rūsčią tautą, aistringai mylinčią savo tėvynę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-219211"></a>
-- t-001
-  teiginys: "Narbutas šventąjį Steponą, Permės vyskupą, vaizdavo kaip Biarmijos apaštalą, kurio veikla esą paskatino Biarmiją priimti krikščionybę."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Biarmija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventasis Steponas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Biarmija: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis Steponas\" parinktas kaip owner_note_path. Targetas \"Biarmija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-200051
-

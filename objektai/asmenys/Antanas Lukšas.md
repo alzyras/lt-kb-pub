@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Antanas Lukšas'
+pavadinimas: Antanas Lukšas
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fad4320074c6f0b1ff62520f"
-canonical_name: "Antanas Lukšas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Antanas Lukšas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fad4320074c6f0b1ff62520f
+canonical_name: Antanas Lukšas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Antanas Lukšas
 sameAs: []
-canonical_biography: "Lukšas sakė, kad dėl savo gerumo Valančius galėjęs gyvas būti danguje."
+canonical_biography: 'Lukšas sakė, kad dėl savo gerumo Valančius galėjęs gyvas būti danguje.'
 ---
 # Antanas Lukšas
 

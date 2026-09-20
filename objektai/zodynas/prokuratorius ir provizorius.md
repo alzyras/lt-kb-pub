@@ -27,6 +27,24 @@ media_all_json: |-
 
 Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.
 
+## Teiginiai
+
+<a id="claim-t-86545"></a>
+- t-001
+  teiginys: "Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir provizoriumi, kad rinktų tilto muitą prieglaudos statybai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Hozijus: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "prokuratorius ir provizorius: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Hozijus: mention_match, person, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"prokuratorius ir provizorius\" parinktas kaip owner_note_path. Targetas \"Jonas Hozijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82524
+
 ## Citatos
 
 - id: c-82524
@@ -63,24 +81,5 @@ Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, au
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-86545"></a>
-- t-001
-  teiginys: "Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir provizoriumi, kad rinktų tilto muitą prieglaudos statybai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas Hozijus: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "prokuratorius ir provizorius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jonas Hozijus: mention_match, person, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"prokuratorius ir provizorius\" parinktas kaip owner_note_path. Targetas \"Jonas Hozijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82524
-

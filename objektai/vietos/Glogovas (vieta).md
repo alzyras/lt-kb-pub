@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Glogovas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Glogovas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Glogovas'
+  - Glogovas
 aliases:
-  - 'Glogovas'
+  - Glogovas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-def4eb05ee10b0d48c192f1f"
-canonical_name: "Glogovas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Glogovas","Glogovas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-def4eb05ee10b0d48c192f1f
+canonical_name: Glogovas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Glogovas
+  - Glogovas (vieta)
 sameAs: []
-canonical_biography: "Kazimieras ir Jiržis Glogove susitaikė ir sudarė amžiną taiką."
+canonical_biography: Kazimieras ir Jiržis Glogove susitaikė ir sudarė amžiną taiką.
 ---
 # Glogovas (vieta)
 
@@ -72,6 +72,5 @@ Kazimieras ir Jiržis Glogove susitaikė ir sudarė amžiną taiką.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -58,6 +58,48 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-195384"></a>
+- t-001
+  teiginys: "Per prikeltuves svočia perrengdavo jaunamarčią ištekėjusios moters aprėdu."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177801
+
+<a id="claim-t-195385"></a>
+- t-002
+  teiginys: "Per prikeltuves jaunamarčia turėdavo apdovanoti vyro šeimą, brolius, griežikus ir kitus dalyvius savo rankų gaminiais."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177804
+
+<a id="claim-t-195386"></a>
+- t-003
+  teiginys: "Tuo baigdavosi svočios pietūs."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177803
+
+<a id="claim-t-195387"></a>
+- t-004
+  teiginys: "Po prikeltuvių griežikai apeidavo užstalę, o svečiai jiems duodavo pinigų."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177802
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -76,7 +118,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177802
@@ -92,6 +134,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-177803
   autorius: "M. Katkus"
@@ -110,7 +154,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-177804
@@ -126,38 +170,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-195384"></a>
-- t-001
-  teiginys: "Per prikeltuves svočia perrengdavo jaunamarčią ištekėjusios moters aprėdu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177801
-
-<a id="claim-t-195385"></a>
-- t-002
-  teiginys: "Per prikeltuves jaunamarčia turėdavo apdovanoti vyro šeimą, brolius, griežikus ir kitus dalyvius savo rankų gaminiais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177804
-
-<a id="claim-t-195386"></a>
-- t-003
-  teiginys: "Tuo baigdavosi svočios pietūs."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177803
-

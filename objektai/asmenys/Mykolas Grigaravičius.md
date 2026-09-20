@@ -35,6 +35,20 @@ canonical_biography: "23 Paveldėtojų parduodamų Svečių na­ mų pardavimo k
 
 23 Paveldėtojų parduodamų Svečių na­ mų pardavimo kopija: Vilniaus ar­ klininko Mykolo Grigaravičiaus 269 ## Puslapis 286 VILNIAUS MIESTO ISTORIJA // TOMAS buvo nuo mokesčių atleistas Kaune esantis Vilniaus pirklių prekių sandėlis ir leista Vilijos upe.
 
+## Teiginiai
+
+<a id="claim-t-194311"></a>
+- t-001
+  teiginys: "Paveldėtojų parduodamų Svečių na mų pardavimo kopija: Vilniaus ar klininko Mykolo Grigaravičiaus VILNIAUS MIESTO ISTORIJA // TOMAS buvo nuo mokesčių atleistas Kaune esantis Vilniaus pirklių prekių sandėlis ir leista Vilijos upe laisvai plaukioti jų lai vams."
+  atnaujinta: "2026-07-06 12:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176903
+
 ## Citatos
 
 - id: c-176903
@@ -71,20 +85,5 @@ canonical_biography: "23 Paveldėtojų parduodamų Svečių na­ mų pardavimo k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-194311"></a>
-- t-001
-  teiginys: "Paveldėtojų parduodamų Svečių na mų pardavimo kopija: Vilniaus ar klininko Mykolo Grigaravičiaus VILNIAUS MIESTO ISTORIJA // TOMAS buvo nuo mokesčių atleistas Kaune esantis Vilniaus pirklių prekių sandėlis ir leista Vilijos upe laisvai plaukioti jų lai vams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176903
-

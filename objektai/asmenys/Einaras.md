@@ -33,6 +33,21 @@ canonical_biography: "Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos ap
 
 Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o naktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą.
 
+## Teiginiai
+
+<a id="claim-t-194830"></a>
+- t-001
+  teiginys: "Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o naktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-177226
+
 ## Citatos
 
 - id: c-177226
@@ -52,4 +67,5 @@ Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

@@ -41,6 +41,33 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 
 - Formuluotė yra sudėtinė, todėl reikia skaityti kaip konceptą, o ne kaip atskirą daiktavardį be aplinkos. terminas platesnis už vieną modernų atitikmenį; tekste jis apima ir santvarką, ir valdymo būdą, ir visuomenės tvarką.
 
+## Teiginiai
+
+<a id="claim-t-70045"></a>
+- t-001
+  teiginys: "Rėda citatoje siejama su tautos tvarka, kuri, pasak Daukanto, kilo nuo kunigų kaip Dievo ir pasaulio tarpininkų."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09736
+
+<a id="claim-t-70048"></a>
+- t-002
+  teiginys: "Senovės lietuvių ūkės rėdą, pasak Daukanto, sunku aiškiai aprašyti dėl karų, priešų ir žmonių skaugės padaryto naikinimo."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "rėda: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"rėda\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09735
+
 ## Citatos
 
 - id: c-09735
@@ -56,6 +83,8 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-09736
   autorius: "Simonas Daukantas"
@@ -69,64 +98,5 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-192607
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  puslapiai: "PDF 229"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 229."
-  citata_originali: |
-    Žinoma yra, jog rėda kožnos tautos visados kėlės nuo kunigų, kaipo dievo ir svieto tarpininkų, nesgi išminčiai svieto, regėdami, jog žmogus nuo pirmosios dienos lig savo paskuojės karšaties turi visados draugėj gyventi, kaipogi be draugės niekšai negalėtų ant svieto patekti, o ir gimęs be jos ilgainiui pragaištų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 16:28"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-192893
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  puslapiai: "PDF 229"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 229."
-  citata_originali: |
-    Sunku šiandien yra aiškiai ką apie senovės lietuvių ūkės rėdą parašyti, nesgi kruvinos karės,
-        smarkūs neprieteliai, dar užvis bjauresnė žmonių skaugė^956 visa paspėjo išnaikinti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 16:28"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-209980"></a>
-- t-001
-  teiginys: "Rėda citatoje siejama su tautos tvarka, kuri, pasak Daukanto, kilo nuo kunigų kaip Dievo ir pasaulio tarpininkų."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-192607
-
-<a id="claim-t-210296"></a>
-- t-002
-  teiginys: "Senovės lietuvių ūkės rėdą, pasak Daukanto, sunku aiškiai aprašyti dėl karų, priešų ir žmonių skaugės padaryto naikinimo."
-  atnaujinta: "2026-09-12 16:28"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "rėda: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"rėda\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-192893
-

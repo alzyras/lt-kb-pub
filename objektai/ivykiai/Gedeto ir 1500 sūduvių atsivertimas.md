@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Gedeto ir 1500 sūduvių atsivertimas'
+pavadinimas: Gedeto ir 1500 sūduvių atsivertimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1500 m.'
+  - 1500 m.
 date_start: '1500'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Gedeto ir 1500 sūduvių atsivertimas
 
@@ -78,6 +75,5 @@ Gedetas, Kimenavos sūduvių vadas, su šeima ir 1500 vyrų bei moterų pasitrau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

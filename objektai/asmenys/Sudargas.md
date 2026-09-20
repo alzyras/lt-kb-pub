@@ -44,6 +44,81 @@ canonical_biography: "Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-
 
 Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose. Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais. Kojelavičius rašo, kad po pralaimėjimo priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius.
 
+## Teiginiai
+
+<a id="claim-t-60210"></a>
+- t-001
+  teiginys: "Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sudargas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Sudargas kovojo prieš Ordiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sudargas kariavo prieš Kryžiuočių ordinas (0.96)"
+  temporaliniai_duomenys: "įvykio data: 1308-1317; įvykio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir pagrįstas citata apie Sudargo vaidmenį kronikoje."
+  pagrindžia:
+    - c-60842
+
+<a id="claim-t-60211"></a>
+- t-002
+  teiginys: "Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Sudargas: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Albrechtas iš Hageno: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sudargas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Albrechtas iš Hageno užpuolė Sudargo kiemą; objektas per Sudargą identifikuojamas kaip jo valda."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Albrechtas iš Hageno puolė Sudargas (0.83)"
+  pagrindžia:
+    - c-60843
+
+<a id="claim-t-184834"></a>
+- t-003
+  teiginys: "Kojelavičius rašo, kad po pralaimėjimo priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Medininkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sudargas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Medininkai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sudargas\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1316 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi neaiškų asmens ryšį; perrašyta aiškiau susiejant faktą su Sudargu."
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168195
+
+<a id="claim-t-205713"></a>
+- t-004
+  teiginys: "Kryžiuočių padalinys, kaip pasakoja Teodoras Narbutas, užpuolė narsiam Sudargui priklausiusį dvarą dešiniajame Nemuno krante, netoli dabartinio Sudargu vadinamo miestelio."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188328
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose.'
@@ -79,6 +154,8 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-60843
   autorius: "Petras Dusburgietis"
@@ -101,6 +178,8 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-168195
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -125,8 +204,8 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184834
+  pagrindzia:
+    - t-003
 
 - id: c-188328
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -148,82 +227,10 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205713
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Puolė Sudargą: [[objektai/asmenys/Albrechtas iš Hageno]]
 - Sudargas puolė [[objektai/grupes/Kryžiuočių ordinas]]
 - Sudargas kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]
-
-## Teiginiai
-
-<a id="claim-t-224099"></a>
-- t-001
-  teiginys: "Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sudargas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Sudargas kovojo prieš Ordiną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sudargas kariavo prieš Kryžiuočių ordinas (0.96)"
-  temporaliniai_duomenys: "įvykio data: 1308-1317; įvykio data: 1317 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir pagrįstas citata apie Sudargo vaidmenį kronikoje."
-
-<a id="claim-t-224405"></a>
-- t-002
-  teiginys: "Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Sudargas: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Albrechtas iš Hageno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sudargas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Albrechtas iš Hageno užpuolė Sudargo kiemą; objektas per Sudargą identifikuojamas kaip jo valda."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Albrechtas iš Hageno puolė Sudargas (0.83)"
-
-<a id="claim-t-184834"></a>
-- t-184834
-  teiginys: "Kojelavičius rašo, kad po pralaimėjimo priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Medininkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sudargas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Medininkai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sudargas\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi neaiškų asmens ryšį; perrašyta aiškiau susiejant faktą su Sudargu."
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168195
-
-<a id="claim-t-205713"></a>
-- t-205713
-  teiginys: "Kryžiuočių padalinys, kaip pasakoja Teodoras Narbutas, užpuolė narsiam Sudargui priklausiusį dvarą dešiniajame Nemuno krante, netoli dabartinio Sudargu vadinamo miestelio."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188328
-

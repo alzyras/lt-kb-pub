@@ -29,26 +29,17 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
 
 ## Teiginiai
 
-<a id="claim-t-213018"></a>
-- t-213018
-  teiginys: "Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres, majores Samogitarum Italos fuisse."
-  atnaujinta: "2026-09-13 18:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
-<a id="claim-t-212828"></a>
-- t-212828
+<a id="claim-t-197703"></a>
+- t-001
   teiginys: "(Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina žemaičiais) protėviai buvę italai."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-177303
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -93,4 +84,5 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

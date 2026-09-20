@@ -47,6 +47,34 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-204055"></a>
+- t-001
+  teiginys: "Vytauto laikais (1392–1430) Lietuvoje pradėta žemės valdų suteikimo ir patvirtinimo praktika, kuria siekta valdovo ir didikų santykius pritaikyti feodalinės leninės visuomenės kategorijoms."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186659
+
+<a id="claim-t-204056"></a>
+- t-002
+  teiginys: "Valdovas už tarnybą didikams dovanodavo žemių, o patvirtinus didikų iš tėvų paveldėtų alodinių valdų valdymą vyko šių valdų feodalizacija."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186660
+
 ## Santrauka
 
 Vytauto laikais (1392–1430) Lietuvoje pradėta žemės valdų suteikimo ir patvirtinimo praktika, kuria siekta valdovo ir didikų santykius pritaikyti feodalinės leninės visuomenės kategorijoms. Valdovas už tarnybą didikams dovanodavo žemių, o patvirtinus didikų iš tėvų paveldėtų alodinių valdų valdymą vyko šių valdų feodalizacija.
@@ -68,7 +96,7 @@ Vytauto laikais (1392–1430) Lietuvoje pradėta žemės valdų suteikimo ir pat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186660
@@ -88,34 +116,5 @@ Vytauto laikais (1392–1430) Lietuvoje pradėta žemės valdų suteikimo ir pat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-204055"></a>
-- t-001
-  teiginys: "Vytauto laikais (1392–1430) Lietuvoje pradėta žemės valdų suteikimo ir patvirtinimo praktika, kuria siekta valdovo ir didikų santykius pritaikyti feodalinės leninės visuomenės kategorijoms."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186659
-
-<a id="claim-t-204056"></a>
-- t-002
-  teiginys: "Valdovas už tarnybą didikams dovanodavo žemių, o patvirtinus didikų iš tėvų paveldėtų alodinių valdų valdymą vyko šių valdų feodalizacija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186660
-

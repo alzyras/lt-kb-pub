@@ -36,6 +36,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206008"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojimu, didžiuoju kunigaikščiu paskelbtas ir Kernavėje į sostą pasodintas Švarnas perėmė aukščiausiąją valdžią ir siekė joje įsitvirtinti."
+  atnaujinta: "2026-08-12 06:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188623
+
+<a id="claim-t-206009"></a>
+- t-002
+  teiginys: "Teodoro Narbuto pasakojimu, įsitvirtinęs Lietuvos ir Rusios valstybėse, Švarnas nuvedė Lietuvos jaunuomenę į Prūsiją, parėmė sukilėlius ir apiplėšė bei sunaikino vokiečių gyvenvietes."
+  atnaujinta: "2026-08-12 06:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188624
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto pasakojimu, didžiuoju kunigaikščiu paskelbtas ir Kernavėje į sostą pasodintas Švarnas perėmė aukščiausiąją valdžią ir siekė joje įsitvirtinti.'
@@ -80,7 +108,7 @@ Teodoro Narbuto pasakojimu, didžiuoju kunigaikščiu paskelbtas ir Kernavėje �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188624
@@ -98,34 +126,5 @@ Teodoro Narbuto pasakojimu, didžiuoju kunigaikščiu paskelbtas ir Kernavėje �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206008"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojimu, didžiuoju kunigaikščiu paskelbtas ir Kernavėje į sostą pasodintas Švarnas perėmė aukščiausiąją valdžią ir siekė joje įsitvirtinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188623
-
-<a id="claim-t-206009"></a>
-- t-002
-  teiginys: "Teodoro Narbuto pasakojimu, įsitvirtinęs Lietuvos ir Rusios valstybėse, Švarnas nuvedė Lietuvos jaunuomenę į Prūsiją, parėmė sukilėlius ir apiplėšė bei sunaikino vokiečių gyvenvietes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188624
-

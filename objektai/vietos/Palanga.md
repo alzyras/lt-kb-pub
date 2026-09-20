@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Palanga'
+pavadinimas: Palanga
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
@@ -9,8 +9,8 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1819 m.'
-  - '2026 m.'
+  - 1819 m.
+  - 2026 m.
 date_start: '1819'
 date_end: '2026'
 sukurta: ''
@@ -19,29 +19,41 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XIX'
-  - 'XXI'
+  - XIX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-30be3b4ce51fcf4c301d8448"
-canonical_name: "Palanga"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Palanga"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-30be3b4ce51fcf4c301d8448
+canonical_name: Palanga
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Palanga
 sameAs: []
-canonical_biography: "Šia sutartim Švitrigaila sutiko atiduoti kryžiuočiams Palangą ir trejetą mylių pajūrio ruožo."
+canonical_biography: Šia sutartim Švitrigaila sutiko atiduoti kryžiuočiams Palangą ir trejetą mylių pajūrio ruožo.
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Palanga","url":"https://lt.wikipedia.org/wiki/Palanga","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Palanga","url":"https://www.vle.lt/straipsnis/palanga/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T11:29:52+00:00","source_checked_at":"2026-09-19T11:29:52+00:00","counts":{"relations":6,"gallery":0,"sources":7},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Palanga","url":"https://lt.wikipedia.org/wiki/Palanga","publisher":"Vikipedija","language":"lt","article_id":"3055","revision_id":"7904670","published_at":"2026-08-15T06:13:42Z","version_pk":"","content_hash":"cd22194d70f35349103523d7d086ed7e382cdc34846b20f0faa74b6cd4836e6a","retrieved_at":"2026-09-19T11:27:05+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Palanga&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"3055"}},"intro":"Palanga – miestas Žemaitijoje, prie Baltijos jūros, 25 km į šiaurę nuo Klaipėdos, klimatinis ir balneologinis kurortas. Administraciškai tai yra Palangos miesto savivaldybė, apimanti Palangos, Šventosios ir Būtingės gyvenvietes. Yra Palangos miesto savivaldybės viešoji biblioteka, 3 pašto skyriai (centrinis LT-00001). Miesto ekonomikos pagrindas – turizmas. Būtingėje veikia naftos terminalas.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Palanga","url":"https://lt.wikipedia.org/wiki/Palanga","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Palanga","url":"https://www.vle.lt/straipsnis/palanga/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Palanga","https://www.vle.lt/straipsnis/palanga/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f156346ce1a8417480538456","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Smėlėtas pajūris, kuriame buvo rečiau medžių ir lygesnis kelias.","context":"Livonijos karių lūkestis apie Palangą; Albertas Vijūkas-Kojelavičius, 1989 m.","support_ids":["t-192352","c-175151"],"source_refs":[{"kind":"internal_claim","claim_id":"t-192352","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-175151","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Tuo tarpu miškuose, prikirtę medžių, suvertę juos kaip papuolė į krūvas, lietuviai užvertė visas praminąs, kuriomis net­ gi nešuliais neapsikrovę pėstininkai negalėjo prasibrau­ ti, o juo labiau — sunkieji raiteliai. Štai todėl Livoni­ jos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad apie Palangą, smėlėtame pajūryje, bus rečiau medžių ir lygesnis kelias. Atspėję jų sumanymą, lietuvių kariai prikasė vieškelyje daugybę nedidelių griovių, padengė juos plona, nepastebima, bet žirgo neatlaikančia dan­ ga, o patys išsislapstė gretimuose miškuose."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d217c750e5dfbebd7b0959c0","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Palangos apylinkėse buvo šventasis kalnas, prie kurio degė Praurimės aukuro ugnis.","context":"Teodoras Narbutas tai aprašo kaip istorinį ir religinį pasakojimą; 1998 m.","support_ids":["t-217227","c-201184","c-201561"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217227","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-201184","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Šias smulkmenas aptarsime vėliau atskiruose straips­ niuose; dabar kalbėsime apie patį šventosios ugnies garbinimą. 1. Iš straipsnio „Praurimė“ matėme, kad ugnį, degusią tos deivės aukuruose, saugojo žynės, vadintos vaidilutėmis; viena iš jų buvo Birutė; tad šitokia ugnis, nuolat kurstoma, be abejo, degė ant kalno prie Palangos."},{"kind":"evidence","evidence_id":"c-201561","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Strijkov­ skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­ bas, aiškiai mini ją buvus panašia žyne, arba vestale. Mat ant švento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki­ tose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau­ goma mergelių. Jos visuotinai buvo vadinamos vaidilutėmis, lietuviškai Wejdalotenie."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b44a2d04bdd17e92c5ef5c15","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Senoji Palanga buvo išsidėsčiusi kalvos, vadinamos Olandiška Skrybėle, papėdėje.","context":"Teodoro Narbuto aprašymas; 1998 m.","support_ids":["t-218846","c-200197"],"source_refs":[{"kind":"internal_claim","claim_id":"t-218846","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-200197","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Senoji Palanga buvo išsidėsčiusi kalvos, va­ dinamos Olandiška Skrybėle, papėdėje*."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c0ea1bfd81eac1e9d57c0c16","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Palanga buvo prie Baltijos jūros, tarp Palangos ir Liepojos buvo Šventoji upė, įtekanti į jūrą.","context":"Teodoro Narbuto istorinis geografinis aprašymas; 1998 m.","support_ids":["t-220154","c-199127"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220154","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199127","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Tarp Palangos ir Liepojos yra Šventoji (Šwięta) upė, įte­ kanti į jūrą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"026f15901a949eec8126f55d","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Palanga buvo uostamiestis.","context":"Teodoras Narbutas tai nurodo kaip istorinį teiginį apie Vazų valdymo Lenkijoje laikus; 1995 m.","support_ids":["t-213320","c-196465"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213320","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196465","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Yra žinoma, jog Palanga, Šventoji ir kt. Žemaitijai priklausantys miesteliai dar Vazų valdymo Lenkijoje lai­ kais buvo uostamiesčiai"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5b32ff7d6f6733bf4120e31d","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Palanga buvo senas uostamiestis.","context":"Teodoro Narbuto vertinimas ir paaiškinimas, siejamas su aukštesniu vandens lygiu Baltijos jūroje arba smėliu užnešta pakrante; 1998 m.","support_ids":["t-217693","c-201180"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217693","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-201180","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­ sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne- 30 Patyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331 metus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­ le 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­ veik 18 metų. 156 užneštos pakrantės"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e0ac4cd05ae139dc05435cee","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Palangoje buvo uostas.","context":"Sukilėliai planavo užimti Palangos uostą; Karolis Zikaras, 2013 m.","support_ids":["t-192351","c-175147"],"source_refs":[{"kind":"internal_claim","claim_id":"t-192351","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-175147","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Zigmantą Sierakauską, ginklų ir savanorių iš Londono. Sukilėliai planavo užimti Palangos ir Liepojos uos- tus. Turėdami savo rankose uostų kontrolę, sukilėliai tikėjosi palaikyti nuolatinius ryšius su Lenkija ir kitomis šalimis, iš kur tikėtasi paramos."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Palanga – Lietuvos pajūrio vieta ir istorinis uostamiestis, įvairiais laikotarpiais atlikęs svarbų susisiekimo bei strateginį vaidmenį. Viduramžių karo žygiuose Livonijos kariai pasuko jos apylinkių link, tikėdamiesi rasti retesnių medžių ir lygesnį kelią smėlėtame pajūryje, tačiau lietuviai čia įrengė klastingų griovių. Vazų valdymo Lenkijoje laikais Palanga minima kaip vienas Žemaitijai priklausiusių uostamiesčių. XIX amžiaus sukilėliai planavo užimti Palangos ir Liepojos uostus, kad galėtų palaikyti ryšius su Lenkija ir kitomis paramos šalimis. Palangos reikšmę pabrėžė ir jos geografinė padėtis: Lietuvai atitekęs pajūrio ruožas nuo Palangos iki Kuršo Šventosios skėlė Ordino valstybę į dvi dalis. Su senąja Palanga siejama ir Olandiškos Skrybėlės kalvos papėdė, o netoliese, pasak istorinio pasakojimo, ant švento kalno degė Praurimės aukuro ugnis, kurią saugojo vaidilutės.","sentences":[{"sentence_id":"s1","text":"Palanga – Lietuvos pajūrio vieta ir istorinis uostamiestis, įvairiais laikotarpiais atlikęs svarbų susisiekimo bei strateginį vaidmenį.","support_ids":["t-213320","t-192351"]},{"sentence_id":"s2","text":"Viduramžių karo žygiuose Livonijos kariai pasuko jos apylinkių link, tikėdamiesi rasti retesnių medžių ir lygesnį kelią smėlėtame pajūryje, tačiau lietuviai čia įrengė klastingų griovių.","support_ids":["t-192352"]},{"sentence_id":"s3","text":"Vazų valdymo Lenkijoje laikais Palanga minima kaip vienas Žemaitijai priklausiusių uostamiesčių.","support_ids":["t-213320"]},{"sentence_id":"s4","text":"XIX amžiaus sukilėliai planavo užimti Palangos ir Liepojos uostus, kad galėtų palaikyti ryšius su Lenkija ir kitomis paramos šalimis.","support_ids":["t-192351"]},{"sentence_id":"s5","text":"Palangos reikšmę pabrėžė ir jos geografinė padėtis: Lietuvai atitekęs pajūrio ruožas nuo Palangos iki Kuršo Šventosios skėlė Ordino valstybę į dvi dalis.","support_ids":["t-192349"]},{"sentence_id":"s6","text":"Su senąja Palanga siejama ir Olandiškos Skrybėlės kalvos papėdė, o netoliese, pasak istorinio pasakojimo, ant švento kalno degė Praurimės aukuro ugnis, kurią saugojo vaidilutės.","support_ids":["t-215420","t-216874","t-217227"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai pagrindžia Palangos kaip pajūrio uostamiesčio ir strategiškai bei susisiekimui svarbios vietos reikšmę."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai aprašo Livonijos karių judėjimą prie Palangos, jų lūkesčius dėl lygesnio kelio ir lietuvių įrengtus griovius."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Vazų valdymo Lenkijoje laikais Palanga buvo Žemaitijai priklausęs uostamiestis."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo sukilėlių planą užimti Palangos ir Liepojos uostus ryšiams su Lenkija ir paramos šalimis palaikyti."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad pajūrio ruožas nuo Palangos iki Kuršo Šventosios skėlė Ordino valstybę į dvi dalis."},{"sentence_id":"s6","supported":true,"reason":"Šaltiniai pagrindžia Senosios Palangos siejimą su Olandiškos Skrybėlės kalvos papėde ir Praurimės aukuro ugnį ant švento kalno prie Palangos, saugotą vaidilučių."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-213320","t-192351"]},{"sentence_id":"s2","supported":false,"support_ids":["t-192352"]},{"sentence_id":"s3","supported":false,"support_ids":["t-213320"]},{"sentence_id":"s4","supported":false,"support_ids":["t-192351"]},{"sentence_id":"s5","supported":false,"support_ids":["t-192349"]},{"sentence_id":"s6","supported":false,"support_ids":["t-215420","t-216874","t-217227"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Birutė","claim_id":"t-219118","confidence":0.93},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Birutė","claim_id":"t-219118","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Birutės kalnas","claim_id":"t-77949","confidence":0.9},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-36248","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Švedai","claim_id":"t-122991","confidence":0.7},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179561","confidence":0.67}],"timeline":[],"support_disclosure":{"claims":13,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 85a65d65f73ee16b
+object_page_generated_at: '2026-09-19T11:29:52+00:00'
+object_page_source_checked_at: '2026-09-19T11:29:52+00:00'
+object_page_content_state: content
+object_page_claim_count: '13'
+object_page_source_count: '5'
+object_page_seo_description: 'Palanga – Lietuvos pajūrio vieta ir istorinis uostamiestis, įvairiais laikotarpiais atlikęs svarbų susisiekimo bei strateginį vaidmenį. Viduramžių karo…'
+object_page_seo_input_hash: 64cc6a012b366ee324957adafffabf37ac97e6ae2c12dc9e4e94f52c35bc496f
+object_page_seo_generated_at: '2026-09-19T11:29:52+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Palanga
 
@@ -51,102 +63,10 @@ historical_names: []
 
 ## Teiginiai
 
-<a id="claim-t-213320"></a>
-- t-213320
-  teiginys: "Palanga Vazų valdymo Lenkijoje laikais buvo uostamiestis."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196465
-
-<a id="claim-t-217693"></a>
-- t-217693
-  teiginys: "Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar nePatyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331 metus."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201180
-
-<a id="claim-t-218846"></a>
-- t-218846
-  teiginys: "Senoji Palanga buvo išsidėsčiusi kalvos, va dinamos Olandiška Skrybėle, papėdėje."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200197
-
-<a id="claim-t-219163"></a>
-- t-219163
-  teiginys: "Narbutas teigia, kad pačioje altanoje stovėjo medinis dievo stabas, atgaben tas iš Palangos šventųjų miškų."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200472
-
-<a id="claim-t-219382"></a>
-- t-219382
-  teiginys: "Kalnas prie Palangos garsėjo Praurimės aukuru."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198069
-
-<a id="claim-t-220154"></a>
-- t-220154
-  teiginys: "Tarp Palangos ir Liepojos yra Šventoji (Šwięta) upė, įte kanti į jūrą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199127
-
-<a id="claim-t-215420"></a>
-- t-215420
-  teiginys: "Redakcinėje pastaboje Senoji Palanga lokalizuojama Olandiškos Skrybėlės kalvos papėdėje."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "manual_places_boilerplate_fix"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-
-<a id="claim-t-216874"></a>
-- t-216874
-  teiginys: "Birutė (Biruta) Žemaičių didiko duktė29, kuri iš pašaukimo tapo vaidilu te būryje mergelių, saugojančių šventą Praurimės aukuro ug nį netoli Palangos, ant švento kalno."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-
 <a id="claim-t-192349"></a>
-- t-192349
+- t-001
   teiginys: "Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "manual_places_boilerplate_fix"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie pajūrį nuo Palangos ir remiasi citata."
@@ -156,10 +76,32 @@ historical_names: []
   pagrindžia:
     - c-175149
 
+<a id="claim-t-192350"></a>
+- t-002
+  teiginys: "Jucevičiaus nuomone, prie Palangos gyvenę lietuviai žvejai Atrimpą vadino „Dzivsvits“."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "manual_places_boilerplate_fix"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Sakinys sutrumpintas iki aiškaus teiginio apie Palangą ir žvejų vartotą vardą. Nuomonės pobūdis paliktas su Jucevičiaus atribucija, footnote triukšmas pašalintas."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lenkija; mentioned_place: Liepoja; llm_object: Palanga"
+  semantiniai_rysiai: "[[objektai/grupes/Lietuviai|Lietuviai]] gyveno Palanga"
+  ryšio_patikimumas: "gyveno -> Palanga: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Palanga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai mini prie Palangos gyvenusius lietuvius žvejus."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-175148
+
 <a id="claim-t-192351"></a>
-- t-192351
+- t-003
   teiginys: "Sukilėliai planavo užimti Palangos ir Liepojos uostus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "manual_places_boilerplate_fix"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -171,9 +113,9 @@ historical_names: []
     - c-175147
 
 <a id="claim-t-192352"></a>
-- t-192352
+- t-004
   teiginys: "Livonijos kariai pasuko prie Baltijos jūros, tikėdamiesi apie Palangą rasti retesnių medžių ir lygesnį kelią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "manual_places_boilerplate_fix"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -184,27 +126,86 @@ historical_names: []
   pagrindžia:
     - c-175151
 
-<a id="claim-t-192353"></a>
-- t-192353
-  teiginys: "Sukilėliai planavo užimti Palangos ir Liepojos uostus."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-192354"></a>
+- t-005
+  teiginys: "Narbutas daro išvadą, kad ant kalno prie Palangos nuolat degė Praurimės ugnis, saugota vaidilutėmis vadintų žynių."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "manual_places_boilerplate_fix"
   teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_place: Liepoja; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Minija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Fragmentas paverstas vienu aiškiu teiginiu apie Palangą. Interpretacinė išvada ir religinis turinys palikti su Narbuto atribucija, nepridedant išorinių faktų."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija"
+  ryšio_patikimumas: "susije_su -> Žyniai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Palanga: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Žyniai: mention_match, group, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Palanga\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-175149
+    - c-175150
 
-<a id="claim-t-217227"></a>
-- t-217227
+<a id="claim-t-192355"></a>
+- t-006
+  teiginys: "Redakcinėje pastaboje Senoji Palanga lokalizuojama Olandiškos Skrybėlės kalvos papėdėje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "manual_places_boilerplate_fix"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-175145
+
+<a id="claim-t-192356"></a>
+- t-007
+  teiginys: "Pasak Lietuvos metraščio, Palangoje Prūsijos ir Livonijos vokiečiai telkė kariuomenę prieš žemaičius, bet žemaičiai ją nuo kopų sumušė akmenimis."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "manual_places_boilerplate_fix"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Reikia šaltinio atribucijos prie polemiško konflikto ir priešo vaizdavimo."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Žemaičiai|Žemaičiai]]"
+  ryšio_patikimumas: "puole -> Žemaičiai: 0.78"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Prūsijos ir Livonijos vokiečiai telkė kariuomenę prieš žemaičius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-175146
+
+<a id="claim-t-194741"></a>
+- t-008
   teiginys: "Mat ant švento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki tose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau goma mergelių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177137
+
+<a id="claim-t-194742"></a>
+- t-009
+  teiginys: "Birutė (Biruta) Žemaičių didiko duktė29, kuri iš pašaukimo tapo vaidilu te būryje mergelių, saugojančių šventą Praurimės aukuro ug nį netoli Palangos, ant švento kalno."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177138
 
 ## Citatos
 
@@ -228,6 +229,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-175146
   autorius: "Anoniminis metraštininkas"
@@ -251,6 +254,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-175147
   sudarytojas: "Karolis Zikaras"
@@ -272,8 +277,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192351
+  pagrindzia:
+    - t-003
 
 - id: c-175148
   autorius: "Teodoras Narbutas"
@@ -292,6 +297,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-175149
   autorius: "Zenonas Ivinskis"
@@ -311,9 +318,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192349
-    - t-192353
+  pagrindzia:
+    - t-001
 
 - id: c-175150
   autorius: "Teodoras Narbutas"
@@ -333,6 +339,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-175151
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -357,8 +365,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192352
+  pagrindzia:
+    - t-004
 
 - id: c-177137
   autorius: "Teodoras Narbutas"
@@ -379,6 +387,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 - id: c-177138
   autorius: "Teodoras Narbutas"
@@ -404,119 +414,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196465
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 178"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 178."
-  citata_originali: |
-    Yra žinoma, jog Palanga, Šventoji ir kt. Žemaitijai
-    priklausantys miesteliai dar Vazų valdymo Lenkijoje lai­
-    kais buvo uostamiesčiai
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213320
-
-- id: c-198069
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 261"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
-  citata_originali: |
-    Kal­
-    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
-    šventykla.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219382
-
-- id: c-199127
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 228"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
-  citata_originali: |
-    Tarp Palangos ir Liepojos yra Šventoji (Šwięta) upė, įte­
-    kanti į jūrą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220154
-
-- id: c-200197
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 156"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 156."
-  citata_originali: |
-    Senoji Palanga buvo išsidėsčiusi kalvos, va­
-    dinamos Olandiška Skrybėle, papėdėje*.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218846
-
-- id: c-200472
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 270."
-  citata_originali: |
-    Pačioje altanoje stovėjo medinis dievo stabas, atgaben­
-    tas iš Palangos šventųjų miškų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219163
-
-- id: c-201180
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 155-156"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155-156."
-  citata_originali: |
-    Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­
-    sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl
-    aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-
-    30
-    Patyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331
-    metus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­
-    le 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­
-    veik 18 metų.
-    156
-
-    užneštos pakrantės
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217693
+  pagrindzia:
+    - t-009
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Birutė]]

@@ -37,22 +37,10 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
 
 ## Teiginiai
 
-<a id="claim-t-214941"></a>
-- t-214941
-  teiginys: "Helmoldas ir Adomas Bremenietis teigia, jog herulai pirmiausia ap sistojo prie Hebolos, arba Havolos, upės; dėl to kai ku rie kronikininkai priskiria juos prie slavų havolėnų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196313
-
-<a id="claim-t-220148"></a>
-- t-220148
+<a id="claim-t-190365"></a>
+- t-001
   teiginys: "Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokumentai, neužsimena apie krivį."
-  atnaujinta: "2026-09-12 23:46"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,12 +55,12 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-198291
+    - c-173248
 
-<a id="claim-t-214029"></a>
-- t-214029
+<a id="claim-t-190699"></a>
+- t-002
   teiginys: "Helmoldas, Narbuto perteikimu, Baltijos jūros pavadinimą kildino iš žodžio Balteus, reiškiančio „riterio diržą“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -87,19 +75,7 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-195122
-
-<a id="claim-t-214895"></a>
-- t-214895
-  teiginys: "Helmoldas išve da jį iš Balteus, „riterio diržo“4."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195122
+    - c-173581
 
 ## Citatos
 
@@ -123,6 +99,8 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-173581
   autorius: "Teodoras Narbutas"
@@ -141,69 +119,5 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195122
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 177"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
-  citata_originali: |
-    Senovės skandinavų, gal seniausių šios jūros šei­
-    mininkų, kalba Balt arba Beet reiškė vandens telkinį; iš jo
-    Malte-Brunas kildina jūros pavadinimą3. Helmoldas išve­
-    da jį iš Balteus, „riterio diržo“4. Mes su šių žodžių reikš­
-    mėmis dar siejame baltumo požymį, nes toks jis išlikęs
-    lietuvių kalboje.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214029
-    - t-214895
-
-- id: c-196313
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 327"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 327."
-  citata_originali: |
-    Helmoldas ir
-    Adomas Bremenietis teigia, jog herulai pirmiausia ap­
-    sistojo prie Hebolos, arba Havolos, upės; dėl to kai ku­
-    rie kronikininkai priskiria juos prie slavų havolėnų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214941
-
-- id: c-198291
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 421"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 421."
-  citata_originali: |
-    Čia panagrinėsime dar trečią priekaištą, kuris galėjo būti
-    iškeltas prieš krivio buvimą Prūsijoje praeityje, tai yra kad vi­
-    siškas visų kitų istorijos šaltinių tylėjimas Dusburgiečio pra­
-    nešimą apie tą krivį daro labai abejotiną. Tai tiesa, kad joks
-    užsienio kronikininkas, joks istorijos šaltinis - nei Vulfstanas,
-    nei Ditmaras Merzeburgiškis, nei Adomas Bremenietis, nei
-    Helmoldas, nei lenkų kronikininkai, nei jokie dokumentai nė
-    vienu žodžiu neužsimena apie krivį. Tačiau norint suvokti prie­
-    kaišto esmę, reikia visą dalyką panagrinėti šiek tiek iš arčiau.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220148
-
+  pagrindzia:
+    - t-002

@@ -35,55 +35,12 @@ media_all_json: |-
 
 Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kažkas įšovė pro langą į pranciškonių vienuolyno bažnyčią.
 
-## Citatos
-
-- id: c-01580
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  puslapiai: "PDF 352"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 352."
-  citata_originali: |
-    1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kaž-
-    kas įšovė pro langą į pranciškonių vienuolyno bažnyčią. Mieste
-    tuojau kilo triukšmas: kalvinai buvo apkaltinti išniekinę baž-
-    nyčią, ir minia už tai apgriovė jų bažnyčią. Paskui prasidėjo
-    ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vil-
-    niuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už
-    miesto (1640 m.).
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-01581
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  puslapiai: "PDF 352"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 352."
-  citata_originali: |
-    Protestantai buvo silpnesni, todėl jie daugiau ir nu-
-    kentėdavo. Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-
-    nas protestantas, Ostijos garbinimą išvadinęs stabmeldyste,
-    buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
-    kankintas. Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
-  citata_rodoma: "Vilniuje liuterionys ir kalvinai turėjo po bažnyčią."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-01342"></a>
 - t-001
   teiginys: "1639 m. po šūvio iš kalvinų bažnyčios šventoriaus Vilniuje minia apgriovė kalvinų bažnyčią, o seimas vėliau nutarė ją nugriauti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Vilnius: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -104,7 +61,7 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
 <a id="claim-t-01343"></a>
 - t-002
   teiginys: "Vilniuje liuterionys ir kalvinai turėjo po bažnyčią."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Vilnius: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -120,3 +77,45 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   pagrindžia:
     - c-01581
 
+## Citatos
+
+- id: c-01580
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  puslapiai: "PDF 352"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 352."
+  citata_originali: |
+    1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kaž-
+    kas įšovė pro langą į pranciškonių vienuolyno bažnyčią. Mieste
+    tuojau kilo triukšmas: kalvinai buvo apkaltinti išniekinę baž-
+    nyčią, ir minia už tai apgriovė jų bažnyčią. Paskui prasidėjo
+    ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vil-
+    niuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už
+    miesto (1640 m.).
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-01581
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  puslapiai: "PDF 352"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 352."
+  citata_originali: |
+    Protestantai buvo silpnesni, todėl jie daugiau ir nu-
+    kentėdavo. Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-
+    nas protestantas, Ostijos garbinimą išvadinęs stabmeldyste,
+    buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
+    kankintas. Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
+  citata_rodoma: "Vilniuje liuterionys ir kalvinai turėjo po bažnyčią."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -36,15 +36,22 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
 
 ## Teiginiai
 
-<a id="claim-t-220361"></a>
-- t-220361
-  teiginys: "Vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai, ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas."
-  atnaujinta: "2026-09-13 18:01"
+<a id="claim-t-60304"></a>
+- t-001
+  teiginys: "Prie Junigedos pilies seklumoje įstrigus laivams, buvo nukautas brolis Heinmanas, vadintas Kindu."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "mire -> Junigeda: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heinmanas, vardu Kindas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Heinmanas buvo nukautas prie Junigedos pilies."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Heinmanas, vardu Kindas mirė Junigeda (0.89)"
+  pagrindžia:
+    - c-60936
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -84,4 +91,5 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

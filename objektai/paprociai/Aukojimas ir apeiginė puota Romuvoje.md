@@ -39,6 +39,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205067"></a>
+- t-001
+  teiginys: "O kai prūsai jau turėjo pakankamai karo meno išmokusių karių, Vaidevutis ir vyriausiasis žynys ušaukė tautą į Romuvą ir ten po aukų atnašavimo pra nešė dievų ¡pageidavimą ir valią atkeršyti dabar už mozūrų jiems padarytą gėdą ir patirtą pažeminimą stojant į."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188058
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'O kai prūsai jau turėjo pakankamai karo meno išmokusių karių, Vaidevutis ir vyriausiasis žynys ušaukė tautą į Romuvą ir ten po aukų atnašavimo pra nešė dievų ¡pageidavimą ir valią atkeršyti dabar už mozūrų jiems padarytą gėdą ir patirtą pažeminimą stojant į.'
@@ -86,21 +101,5 @@ O kai prūsai jau turėjo pakankamai karo meno išmokusių karių, Vaidevutis ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205067"></a>
-- t-001
-  teiginys: "O kai prūsai jau turėjo pakankamai karo meno išmokusių karių, Vaidevutis ir vyriausiasis žynys ušaukė tautą į Romuvą ir ten po aukų atnašavimo pra nešė dievų ¡pageidavimą ir valią atkeršyti dabar už mozūrų jiems padarytą gėdą ir patirtą pažeminimą stojant į."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-188058
-

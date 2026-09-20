@@ -40,6 +40,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-191871"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad IV a. pr. Kr. trakai nuo Dunojaus prasibrovė į Skitiją ir 390 m. pr. Kr. buvo sutriuškinti galų."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakų sutriuškinimas galų 390 m. prieš Kristaus gimimą: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakų sutriuškinimas galų 390 m. prieš Kristaus gimimą\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 390 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, datuotas ir Narbutui priskiria ankstyvosios istorijos naratyvą. Nepridėta Makedonijos konteksto, nes jis nėra būtinas įvykio teiginiui."
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174753
+
 ## Citatos
 
 - id: c-174753
@@ -66,57 +91,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196845
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 58."
-  citata_originali: |
-    Getai, pelazgų giminės gentis, ne­
-    praleido progos pasistūmėti prie Dnestro, įsiterpdami tarp
-    klajoklių skitų ordų, kariaudami su kai kuriomis iš jų ar
-    paremdami jas kovose vienos su kitomis. Jiems giminin­
-    gi trakai taip pat IV amžiuje prieš Kristaus giminių
-    prasibrovė nuo Dunojaus pusės j Skitiją ir gal ilgam
-    būtų įkūrę ten savo valstybę, jei 390 metais nebūtų buvę
-    sutriuškinti galų. Vėliau, 358 metais prieš Kristaus gi­
-    mimą, ėmė didėti politinė įtaka karaliaus Pilypo valdo­
-    mos Makedonijos, kurios galia Graikijos atžvilgiu iškilo
-    iki tokio lygio, jog Skitijos tautos, turėjusios glaudžius
-    ryšius su tenykščiais graikų kolonistais, pajuto nemažą
-    įtaką.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-215021"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad IV a. pr. Kr. trakai nuo Dunojaus prasibrovė į Skitiją ir 390 m. pr. Kr. buvo sutriuškinti galų."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakų sutriuškinimas galų 390 m. prieš Kristaus gimimą: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakų sutriuškinimas galų 390 m. prieš Kristaus gimimą\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 390 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, datuotas ir Narbutui priskiria ankstyvosios istorijos naratyvą. Nepridėta Makedonijos konteksto, nes jis nėra būtinas įvykio teiginiui."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-196845
-

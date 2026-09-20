@@ -27,6 +27,21 @@ media_all_json: |-
 
 Kad Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry šius su Prūsijos gyventojais, renkančiais gintarą, taip pat tie sa7.
 
+## Teiginiai
+
+<a id="claim-t-194793"></a>
+- t-001
+  teiginys: "Kad Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry šius su Prūsijos gyventojais, renkančiais gintarą, taip pat tie sa7."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-177189
+
 ## Citatos
 
 - id: c-177189
@@ -47,41 +62,5 @@ Kad Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry šius su P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199223
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
-  citata_originali: |
-    Reikėtų surasti vidurį tarp tų dviejų
-    kraštutinumų.
-    Kad romėnų laivai prieš Kristaus gimimą plaukiojo po Bal­
-    tijos jūrą, nėra abejonės, nes tai aiškiai liudija Plinijus. Kad
-    Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry­
-    šius su Prūsijos gyventojais, renkančiais gintarą, taip pat tie­
-    sa7.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-220054"></a>
-- t-001
-  teiginys: "Kad Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry šius su Prūsijos gyventojais, renkančiais gintarą, taip pat tie sa7."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-199223
-

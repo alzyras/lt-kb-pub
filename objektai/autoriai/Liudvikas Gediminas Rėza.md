@@ -33,6 +33,33 @@ canonical_biography: "Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mit
 
 Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad joje pasakojama apie Aušrinės ištekėjimą. Liudvikas Gediminas Rėza taip pat buvo Saulės duktė ir tarnaitė.
 
+## Teiginiai
+
+<a id="claim-t-190299"></a>
+- t-001
+  teiginys: "Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad joje pasakojama apie Aušrinės ištekėjimą."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173182
+
+<a id="claim-t-197318"></a>
+- t-002
+  teiginys: "Liudvikas Gediminas Rėza taip pat buvo Saulės duktė ir tarnaitė."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179127
+
 ## Citatos
 
 - id: c-173182
@@ -52,6 +79,8 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179127
   autorius: "Teodoras Narbutas"
@@ -72,25 +101,5 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199923
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 190"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 190."
-  citata_originali: |
-    Taigi, pasak šio padavi­
-    mo, egzistuojant dabartinei gamtai, Aušrinės antrosios ves­
-    tuvės neįvyks.
-    Vakarinė (Wakarinne)
-    Vakaro žvaigždė. Apie šios dievybės savybes jau kalbėjo­
-    me straipsnyje „Bežlėja“. Ji taip pat buvo Saulės duktė ir tar­
-    naitė.
-    Antikos žmonės šią žvaigždę vadino Hespera.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

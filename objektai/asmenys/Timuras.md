@@ -44,22 +44,10 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 
 ## Teiginiai
 
-<a id="claim-t-210839"></a>
-- t-210839
-  teiginys: "1411 m., Lietuvos valstybės remiamas, Dželal-ad-dinas nugalėjo Auk so ordos chaną Bulat-sultaną, užėmė Krymą ir Juodosios jūros pakrašfius, bet vėl buvo atmuštas naujo Aukso ordos chano Timuro (Timur-Kutlugo sūnaus."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193895
-
 <a id="claim-t-30397"></a>
-- t-30397
+- t-001
   teiginys: "Timuras iš pradžių globojo chaną Tochtamišą, bet 1391 m. jį sumušė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Tochtamišas: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -76,9 +64,9 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     - c-32812
 
 <a id="claim-t-30398"></a>
-- t-30398
+- t-002
   teiginys: "Timuras derybomis siekė laimėti laiko, nes laukė savo karo vado Edigos dalinių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ediga: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -110,8 +98,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-30398
+  pagrindzia:
+    - t-002
 
 - id: c-32812
   autorius: "Zenonas Ivinskis"
@@ -129,25 +117,5 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-30397
-
-- id: c-193895
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 335"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 335."
-  citata_originali: |
-    1411 m., Lietuvos valstybės remiamas, Dželal-ad-dinas nugalėjo Auk­
-    so ordos chaną Bulat-sultaną, užėmė Krymą ir Juodosios jūros pa-
-    krašfius, bet vėl buvo atmuštas naujo Aukso ordos chano Ti-
-    muro (Timur-Kutlugo sūnaus
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210839
-
+  pagrindzia:
+    - t-001

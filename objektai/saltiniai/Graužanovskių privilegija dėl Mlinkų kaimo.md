@@ -36,6 +36,20 @@ Narbutas nurodo, kad didysis kunigaikštis Žygimantas Kęstutaitis 1439 m., Šv
 
 Narbutas nurodo, kad didysis kunigaikštis Žygimantas Kęstutaitis 1439 m., Šv. apaštalo Andriaus dieną Trakuose, suteikė privilegiją dėl Mlinkų kaimo Naugarduko paviete.
 
+## Teiginiai
+
+<a id="claim-t-205566"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad didysis kunigaikštis Žygimantas Kęstutaitis 1439 m., Šv. apaštalo Andriaus dieną Trakuose, suteikė privilegiją dėl Mlinkų kaimo Naugarduko paviete."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187699
+
 ## Citatos
 
 - id: c-187699
@@ -66,20 +80,5 @@ Narbutas nurodo, kad didysis kunigaikštis Žygimantas Kęstutaitis 1439 m., Šv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205566"></a>
-- t-001
-  teiginys: "Narbutas nurodo, kad didysis kunigaikštis Žygimantas Kęstutaitis 1439 m., Šv. apaštalo Andriaus dieną Trakuose, suteikė privilegiją dėl Mlinkų kaimo Naugarduko paviete."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187699
-

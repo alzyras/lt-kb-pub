@@ -55,29 +55,3 @@ Alojzy Sajkowskis tyrė Bobruisko seniūno J. Bojanovskio ryšius su Vilniaus va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Citatos
-
-- id: c-190493
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 138"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 138."
-  citata_originali: |
-    Be to,
-    klientas dalydavosi savo buitiniais rūpesčiais, asmeniniais išgyvenimais ar patirtais nuo-
-    tykiais. Jo laiškai, rašyti iš įvairių vietų - Vilniaus, Varšuvos, Krokuvos, Bresto, Gardi-
-    no, Slucko, Koidanovo, Nesvyžiaus, Bobruisko, Gdansko, Vienos ir kt. — rodo dideles
-    informacijos teikimo galimybes.
-    Tiesa, Alojzy Sajkowskis prieš 20 metų rašė, kad Bobruisko seniūnas J. Bojanov-
-    skis nebuvo tiesiogiai susijęs su Vilniaus vaivados Kristupo Radvilos dvaru, greičiau,
-    artimesnis Slucko kunigaikščiams, nors ir buvo įsipareigojęs siųsti Radvilai Perkūnui
-    informaciją ir ilgiau nei dešimtmetį sąžiningai atliko šį darbą.
-  citata_rodoma: "Tiesa, Alojzy Sajkowskis prieš 20 metų rašė, kad Bobruisko seniūnas J. Bojanov-\nskis nebuvo tiesiogiai susijęs su Vilniaus vaivados Kristupo Radvilos dvaru, greičiau,\nartimesnis Slucko kunigaikščiams, nors ir buvo įsipareigojęs siųsti Radvilai Perkūnui\ninformaciją ir ilgiau nei dešimtmetį sąžiningai atliko šį darbą."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

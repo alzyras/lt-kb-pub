@@ -33,25 +33,12 @@ Milas būdavo audžiamas tiek kaimuose, tiek dvaruose.
 
 Milas būdavo audžiamas tiek kaimuose, tiek dvaruose.
 
-## Citatos
-
-- id: c-185665
-  autorius: "Marija Matušakaitė"
-  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)"
-  puslapiai: "p. 61 (PDF 4)"
-  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 61 (PDF 4)."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-07-26 19:20"
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-202318"></a>
 - t-001
   teiginys: "Milas būdavo audžiamas tiek kaimuose, tiek dvaruose."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 19:27"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,3 +54,15 @@ Milas būdavo audžiamas tiek kaimuose, tiek dvaruose.
   pagrindžia:
     - c-185665
 
+## Citatos
+
+- id: c-185665
+  autorius: "Marija Matušakaitė"
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)"
+  puslapiai: "p. 61 (PDF 4)"
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 61 (PDF 4)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 19:20"
+  pagrindzia:
+    - t-001

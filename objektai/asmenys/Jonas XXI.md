@@ -36,6 +36,17 @@ canonical_biography: "Dusburgietis teigia, kad apie Joną XXI, popiežių, ir ka
 
 Dusburgietis teigia, kad apie Joną XXI, popiežių, ir karalių Rudolfą, Romos karalių Tais pačiais metais popiežius Jonas XXI, ispanų tautybės, sudėjo didelę knygą apie fizikos mokslą, vardu „Summa, vel thesaurus pauperum...“ (Ptol.
 
+## Teiginiai
+
+<a id="claim-t-60350"></a>
+- t-001
+  teiginys: "Popiežius Jonas XXI, ispanų tautybės, sudarė didelę fizikos mokslo knygą „Summa, vel thesaurus pauperum“."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60982
+
 ## Citatos
 
 - id: c-60982
@@ -53,35 +64,5 @@ Dusburgietis teigia, kad apie Joną XXI, popiežių, ir karalių Rudolfą, Romos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-203003
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 237"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 237."
-  citata_originali: |
-    Apie Joną XXI, popiežių, ir karalių Rudolfą, Romos karalių
-
-       Tais pačiais metais popiežius Jonas XXI, ispanų tautybės, sudėjo didelę knygą apie
-    fizikos mokslą, vardu „Summa, vel thesaurus pauperum...“ (Ptol. 23, 21; Mart. p. 418).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-225243"></a>
-- t-001
-  teiginys: "Popiežius Jonas XXI, ispanų tautybės, sudarė didelę fizikos mokslo knygą „Summa, vel thesaurus pauperum“."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203003
-

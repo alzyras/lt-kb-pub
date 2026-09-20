@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Vėrinys (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Vėrinys (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Vėrinys'
+  - Vėrinys
 aliases:
-  - 'Vėrinys'
+  - Vėrinys
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vėrinys (daiktas)
 
@@ -84,6 +81,5 @@ Narbutas nurodo, kad netoli Elbliongo buvo rasta molio, vaško ir į mozaiką pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Obotritai (grupė)'
-identifikacija: 'grupė'
+pavadinimas: Obotritai (grupė)
+identifikacija: grupė
 variantai:
-  - 'Obotritai'
+  - Obotritai
 aliases:
-  - 'Obotritai'
+  - Obotritai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Obotritai (grupė)
 
@@ -64,6 +61,5 @@ Narbutas teigia, kad slavai obotritai užvaldė lietuvių tautos šventyklas ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -34,6 +34,20 @@ canonical_biography: "Jonas Čarnkovskis nepatvirtintas jokia priesaika."
 
 Jonas Čarnkovskis nepatvirtintas jokia priesaika.
 
+## Teiginiai
+
+<a id="claim-t-196500"></a>
+- t-001
+  teiginys: "Jonas Čarnkovskis nepatvirtintas jokia priesaika."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169579
+
 ## Citatos
 
 - id: c-169579
@@ -60,20 +74,5 @@ Jonas Čarnkovskis nepatvirtintas jokia priesaika.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-196500"></a>
-- t-001
-  teiginys: "Jonas Čarnkovskis nepatvirtintas jokia priesaika."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169579
-

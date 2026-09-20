@@ -29,19 +29,19 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
 
 ## Teiginiai
 
-<a id="claim-t-72118"></a>
-- t-002
-  teiginys: "Konfederaciniai seimai buvo rengiami siekiant išvengti pavojų valstybei, kildavusių iširus seimui."
+<a id="claim-t-72117"></a>
+- t-001
+  teiginys: "Konfederaciniai seimai buvo skirti seimų iširimui išvengti ir numatytus klausimus spręsdavo balsų dauguma."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-70533
 
-<a id="claim-t-72117"></a>
-- t-72117
-  teiginys: "Konfederaciniai seimai buvo skirti seimų iširimui išvengti ir numatytus klausimus spręsdavo balsų dauguma."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-72118"></a>
+- t-002
+  teiginys: "Konfederaciniai seimai buvo rengiami siekiant išvengti pavojų valstybei, kildavusių iširus seimui."
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
@@ -65,12 +65,10 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
     liui ar kam nors kitam, jie pasirašydavo tam tikrą pasižadėjimo
     aktą, kad numatomus klausimus spręsią balsų dauguma.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-001
     - t-002
-    - t-72117
-

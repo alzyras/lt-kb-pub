@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Pūtvė (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Pūtvė (vieta)
+identifikacija: vieta
 variantai:
-  - 'Pūtvė'
+  - Pūtvė
 aliases:
-  - 'Pūtvė'
+  - Pūtvė
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a749d52c83fa95863a78b948"
-canonical_name: "Pūtvė (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pūtvė","Pūtvė (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a749d52c83fa95863a78b948
+canonical_name: Pūtvė (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pūtvė
+  - Pūtvė (vieta)
 sameAs: []
-canonical_biography: "Pūtvės pilies galingasis Spūdas Ordino kariuomenei pasiūlė išduoti pilį."
+canonical_biography: Pūtvės pilies galingasis Spūdas Ordino kariuomenei pasiūlė išduoti pilį.
 ---
 # Pūtvė (vieta)
 
@@ -71,6 +71,5 @@ Pūtvės pilies galingasis Spūdas Ordino kariuomenei pasiūlė išduoti pilį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

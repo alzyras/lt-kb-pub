@@ -46,6 +46,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206739"></a>
+- t-001
+  teiginys: "Liudolfas Kionichas Vaitcanas, neseniai išrinktas didžiuoju magistru, ėmėsi rengti kryžiaus žygį, prie kurio prisidėjo Čekijos karalius Jonas ir kiti krikščionių didikai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189354
+
+<a id="claim-t-206740"></a>
+- t-002
+  teiginys: "1344 m. pradžioje kryžiaus žygio kariai, prie Ragainės persikėlę per Nemuną, įsiveržė į Žemaitiją, tačiau rado mažai grobio ir belaisvių, nes gyventojai buvo laiku pasitraukę iš pavojingų vietovių."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189355
+
 ## Santrauka
 
 Liudolfas Kionichas Vaitcanas, neseniai išrinktas didžiuoju magistru, ėmėsi rengti kryžiaus žygį, prie kurio prisidėjo Čekijos karalius Jonas ir kiti krikščionių didikai. 1344 m. pradžioje kryžiaus žygio kariai, prie Ragainės persikėlę per Nemuną, įsiveržė į Žemaitiją, tačiau rado mažai grobio ir belaisvių, nes gyventojai buvo laiku pasitraukę iš pavojingų vietovių.
@@ -77,7 +105,7 @@ Liudolfas Kionichas Vaitcanas, neseniai išrinktas didžiuoju magistru, ėmėsi 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189355
@@ -98,34 +126,5 @@ Liudolfas Kionichas Vaitcanas, neseniai išrinktas didžiuoju magistru, ėmėsi 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206739"></a>
-- t-001
-  teiginys: "Liudolfas Kionichas Vaitcanas, neseniai išrinktas didžiuoju magistru, ėmėsi rengti kryžiaus žygį, prie kurio prisidėjo Čekijos karalius Jonas ir kiti krikščionių didikai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189354
-
-<a id="claim-t-206740"></a>
-- t-002
-  teiginys: "1344 m. pradžioje kryžiaus žygio kariai, prie Ragainės persikėlę per Nemuną, įsiveržė į Žemaitiją, tačiau rado mažai grobio ir belaisvių, nes gyventojai buvo laiku pasitraukę iš pavojingų vietovių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189355
-

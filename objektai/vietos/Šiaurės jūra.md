@@ -39,6 +39,45 @@ historical_names: []
 
 Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza.
 
+## Teiginiai
+
+<a id="claim-t-02923"></a>
+- t-001
+  teiginys: "Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Šiaurės jūra: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hanza: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Šiaurės jūra: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Hanzos įsigalėjimas Šiaurės ir Baltijos jūrose remia valdymo ar dominavimo santykį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Hanza valdė Šiaurės jūra (0.70); Hanza valdė Baltija (0.68)"
+  pagrindžia:
+    - c-166497
+
+<a id="claim-t-192790"></a>
+- t-002
+  teiginys: "Narbutas rašė, kad Dionyzas iš Charakso minėjo gintarą ten, kur Aldeskos upė įteka į Šiaurės jūrą."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Aldeskos upė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šiaurės jūra: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aldeskos upė: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šiaurės jūra\" parinktas kaip owner_note_path. Targetas \"Aldeskos upė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175560
+
 ## Citatos
 
 - id: c-166497
@@ -61,7 +100,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-175560
@@ -85,23 +124,5 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-02923"></a>
-- t-001
-  teiginys: "Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Šiaurės jūra: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hanza: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Šiaurės jūra: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Hanzos įsigalėjimas Šiaurės ir Baltijos jūrose remia valdymo ar dominavimo santykį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Hanza valdė Šiaurės jūra (0.70); Hanza valdė Baltija (0.68)"
-  pagrindžia:
-    - c-166497
-
+  pagrindzia:
+    - t-002

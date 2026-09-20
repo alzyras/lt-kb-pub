@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Ragainės brolių pergalė prieš 25 lietuvius'
+pavadinimas: Ragainės brolių pergalė prieš 25 lietuvius
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Ragainės brolių pergalė prieš 25 lietuvius
 
@@ -71,7 +68,6 @@ Lietuviai iš Aukaimio apylinkių su 36 vyrais planavo plėšikišką išpuolį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-205472
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -88,6 +84,5 @@ Lietuviai iš Aukaimio apylinkių su 36 vyrais planavo plėšikišką išpuolį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

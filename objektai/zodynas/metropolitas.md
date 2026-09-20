@@ -1,13 +1,13 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'metropolitas'
+pavadinimas: metropolitas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1300 m.'
-  - '1435 m.'
+  - 1300 m.
+  - 1435 m.
 date_start: '1300'
 date_end: '1435'
 sukurta: ''
@@ -15,20 +15,30 @@ atnaujinta: ''
 tags:
   - religinis-terminas
 amziai:
-  - 'XIII'
-  - 'XV'
+  - XIII
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:52:16+00:00","source_checked_at":"2026-09-19T18:52:16+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":["t-05453","t-203055","t-203105","t-05452","t-203084","t-184630"],"featured_claims":[{"claim_id":"t-05453","text":"1354 m. Konstantinopolio patriarchas paskyrė Lietuvos žemių metropolitą Romaną.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-183707"]},{"claim_id":"t-203055","text":"Lietuvos stačiatikių metropolija vėl buvo pajungta maskviniam „visos Rusijos metropolitui“.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-183711"]},{"claim_id":"t-203105","text":"Zenono Ivinskio teigimu, Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiško nusistatymo.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-183710"]},{"claim_id":"t-05452","text":"Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-183709"]},{"claim_id":"t-203084","text":"Zenono Ivinskio teigimu, Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-183710"]},{"claim_id":"t-184630","text":"Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-167991"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"5ccf68b81eca7da7ebdb808d","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Vyriausiasis šventikas, žmonių vadinamas metropolitu.","context":"Albertas Vijūkas-Kojelavičius, „Lietuvos istorija“ (1989 m.), aprašydamas taikos sąlygų sudarymą ir priesaiką.","support_ids":["t-184630","c-167991"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184630","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-167991","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Dimitrijus sumokėsiąs ka­ reiviams algą, o vadui — karo išlaidas. Abiejų tautų priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­ dami su šitokiomis sąlygomis; prisiekė valdovas Dimitrijus, vyriausiasis šventikas, žmo­ nių vadinamas metropolitu, viečė ir žymiausieji bajorai, Algirdas, tą pačią dieną įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­ vanojo kunigaikštį, kariškai jį pasveikinęs prie pačių altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­ dviejų greičiau pakyla į karą\"), velykiniu kiaušiniu."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ba2edcbb271066f00905ce8c","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Arkivyskupas, vadovaujantis metropolijai; šaltinyje minimas Lietuvos žemių metropolitas.","context":"Zenonas Ivinskis, „Lietuvos istorija iki Vytauto Didžiojo mirties“ (1978 m.), aprašydamas 1354 m. Konstantinopolio patriarcho paskyrimą.","support_ids":["t-05453","c-183707"],"source_refs":[{"kind":"internal_claim","claim_id":"t-05453","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-183707","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"1354 m. Konstan- tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau- sančių žemių metropolitą — arkivyskupą Romaną."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f4d023a89b0616fdcf2533d0","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Vartojamas istoriniame stačiatikybės ir bažnytinės administracijos kontekste, kalbant apie Lietuvos, Maskvos ir „visos Rusijos“ metropolitus.","context":"Zenonas Ivinskis, „Lietuvos istorija iki Vytauto Didžiojo mirties“ (1978 m.), aptardamas Lietuvos stačiatikių metropolijos statusą ir jos santykius su Maskva.","support_ids":["t-05456","c-183711"],"source_refs":[{"kind":"internal_claim","claim_id":"t-05456","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-183711","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Lietuvos stačiatikių metropolija nebebuvo atnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau- gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą Filotėją įtikinti Lietuvos ortodoksų labui."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"14ce18bf5497dbbdc2e5cc39","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Vartojamas istoriniame kontekste kaip asmens, dalyvaujančio valdovų priesaikoje ir taikos susitarime, pavadinimas.","context":"Albertas Vijūkas-Kojelavičius, „Lietuvos istorija“ (1989 m.), aprašydamas Dimitrijų, vyriausiąjį šventiką, žmonių vadinamą metropolitu.","support_ids":["t-200397","c-167991"],"source_refs":[{"kind":"internal_claim","claim_id":"t-200397","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-167991","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Dimitrijus sumokėsiąs ka­ reiviams algą, o vadui — karo išlaidas. Abiejų tautų priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­ dami su šitokiomis sąlygomis; prisiekė valdovas Dimitrijus, vyriausiasis šventikas, žmo­ nių vadinamas metropolitu, viečė ir žymiausieji bajorai, Algirdas, tą pačią dieną įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­ vanojo kunigaikštį, kariškai jį pasveikinęs prie pačių altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­ dviejų greičiau pakyla į karą\"), velykiniu kiaušiniu."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Metropolitas – vyriausiasis šventikas, taip vadintas žmonių, susijęs su stačiatikių bažnytinės valdžios centru ir arkivyskupo sostu. XIV amžiuje Algirdas ir Maskvos kunigaikštis siekė savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams. 1354 m. Konstantinopolio patriarchas paskyrė Lietuvos valstybei priklausiusių žemių metropolitą – arkivyskupą Romaną. Vis dėlto Lietuvos stačiatikių metropolija vėliau vėl buvo pajungta maskviniam „visos Rusijos metropolitui“, todėl jos savarankiškumas liko nepastovus. Šaltinyje teigiama, kad Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo, o jo kliūčių ir intrigų keliai vedė į Maskvą.","sentences":[{"sentence_id":"s1","text":"Metropolitas – vyriausiasis šventikas, taip vadintas žmonių, susijęs su stačiatikių bažnytinės valdžios centru ir arkivyskupo sostu.","support_ids":["t-184630","c-167991"]},{"sentence_id":"s2","text":"XIV amžiuje Algirdas ir Maskvos kunigaikštis siekė savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.","support_ids":["t-05452","c-183709"]},{"sentence_id":"s3","text":"1354 m. Konstantinopolio patriarchas paskyrė Lietuvos valstybei priklausiusių žemių metropolitą – arkivyskupą Romaną.","support_ids":["t-05453","c-183707"]},{"sentence_id":"s4","text":"Vis dėlto Lietuvos stačiatikių metropolija vėliau vėl buvo pajungta maskviniam „visos Rusijos metropolitui“, todėl jos savarankiškumas liko nepastovus.","support_ids":["t-203055","c-183711"]},{"sentence_id":"s5","text":"Šaltinyje teigiama, kad Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo, o jo kliūčių ir intrigų keliai vedė į Maskvą.","support_ids":["t-203084","t-203105","c-183710"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltinis tiesiogiai pagrindžia tik tai, kad metropolitas vadintas vyriausiuoju šventiku; stačiatikių bažnytinės valdžios centro ir arkivyskupo sosto ryšys nepagrįstas."},{"sentence_id":"s2","supported":false,"reason":"Šaltinis pagrindžia Algirdo ir Maskvos kunigaikščio pastangas, tačiau XIV amžiaus aplinkybė support_ids tiesiogiai neparemta."},{"sentence_id":"s3","supported":true,"reason":"Teiginys tiesiogiai atitinka pateiktą šaltinio citatą."},{"sentence_id":"s4","supported":false,"reason":"Šaltinis pagrindžia metropolijos pajungimą maskviniam metropolitui, tačiau išvada apie nepastovų savarankiškumą nėra tiesiogiai paremta."},{"sentence_id":"s5","supported":true,"reason":"Teiginys tiesiogiai atitinka šaltinio informaciją apie Gedimino nesėkmę, Teognosto priešiškumą ir intrigų bei kliūčių kelius į Maskvą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-184630","c-167991"]},{"sentence_id":"s2","supported":true,"support_ids":["t-05452","c-183709"]},{"sentence_id":"s3","supported":true,"support_ids":["t-05453","c-183707"]},{"sentence_id":"s4","supported":true,"support_ids":["t-203055","c-183711"]},{"sentence_id":"s5","supported":true,"support_ids":["t-203084","t-203105","c-183710"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":8,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 427f13c094f23c24
+object_page_generated_at: '2026-09-19T18:52:16+00:00'
+object_page_source_checked_at: '2026-09-19T18:52:16+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '2'
+object_page_seo_description: 'Metropolitas – vyriausiasis šventikas, taip vadintas žmonių, susijęs su stačiatikių bažnytinės valdžios centru ir arkivyskupo sostu. XIV amžiuje Algirdas ir…'
+object_page_seo_input_hash: 67870aec124cc4833aeaf6a70df7f75d4e9ba4d7d62f29ae46728eb0431ec215
+object_page_seo_generated_at: '2026-09-19T18:52:16+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # metropolitas
 
@@ -68,20 +78,10 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 
 ## Teiginiai
 
-<a id="claim-t-203084"></a>
-- t-007
-  teiginys: "Zenono Ivinskio teigimu, Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Teofilis (arkivyskupas)|Teofilis (arkivyskupas)]]; mentioned_place: Kijevas; mentioned_place: Maskva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-183710
-
 <a id="claim-t-05452"></a>
-- t-05452
+- t-001
   teiginys: "Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Reikia patikslinti daugiskaitinį subjektą ir padaryti sakinį sklandesnį."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Smolenskas"
@@ -89,13 +89,11 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-183709
-    - c-183711
-    - c-183714
 
 <a id="claim-t-05453"></a>
-- t-05453
+- t-002
   teiginys: "1354 m. Konstantinopolio patriarchas paskyrė Lietuvos žemių metropolitą Romaną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Konstantinopolis; mentioned_place: Lietuva"
@@ -108,9 +106,9 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - c-183707
 
 <a id="claim-t-05455"></a>
-- t-05455
+- t-003
   teiginys: "1375 m. Lietuvos stačiatikių metropolitu buvo paskirtas Kiprijonas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kijevas; mentioned_place: Lietuva"
   temporaliniai_duomenys: "įvykio data: 1375 m."
@@ -121,9 +119,9 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - c-183708
 
 <a id="claim-t-184630"></a>
-- t-184630
+- t-004
   teiginys: "Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -140,21 +138,54 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   pagrindžia:
     - c-167991
 
+<a id="claim-t-187523"></a>
+- t-005
+  teiginys: "Lietuvos metraščio pastaboje Gerasimas 1432 m. Švitrigailos pasiūlymu Konstantinopolyje įšventintas LDK, Maskvos ir kitų rusų žemių metropolitu."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gime -> Maskva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gerasimas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Formuluotė „iš Maskvos kilęs“ tiesiogiai nurodo Gerasimo kilmės vietą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Gerasimas gimė Maskva (0.86); Gerasimas gyveno Smolenskas (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1432 m.; įvykio data: 1435 m.; įvykio data: apie 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Metropolito titulas ir politinis kontekstas palikti su šaltinio pastabos atribucija. Nepridėta biografinių detalių apie ankstesnes Gerasimo pareigas."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-183712
+
 <a id="claim-t-203055"></a>
-- t-203055
+- t-006
   teiginys: "Lietuvos stačiatikių metropolija vėl buvo pajungta maskviniam „visos Rusijos metropolitui“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-183711
-    - c-183714
+
+<a id="claim-t-203084"></a>
+- t-007
+  teiginys: "Zenono Ivinskio teigimu, Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Teofilis (arkivyskupas)|Teofilis (arkivyskupas)]]; mentioned_place: Kijevas; mentioned_place: Maskva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-183710
 
 <a id="claim-t-203105"></a>
-- t-203105
+- t-008
   teiginys: "Zenono Ivinskio teigimu, Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiško nusistatymo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas faktinis sakinys."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Teofilis (arkivyskupas)|Teofilis (arkivyskupas)]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Maskva"
@@ -255,8 +286,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184630
+  pagrindzia:
+    - t-004
 
 - id: c-183707
   autorius: "Zenonas Ivinskis"
@@ -273,8 +304,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05453
+  pagrindzia:
+    - t-002
 
 - id: c-183708
   autorius: "Zenonas Ivinskis"
@@ -292,8 +323,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05455
+  pagrindzia:
+    - t-003
 
 - id: c-183709
   autorius: "Zenonas Ivinskis"
@@ -313,8 +344,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05452
+  pagrindzia:
+    - t-001
 
 - id: c-183710
   autorius: "Zenonas Ivinskis"
@@ -328,14 +359,13 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     metropolito Teognosto. Šio intrygų ir sudarytų kliūčių siūlai vedė
     į Maskvą.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
-    - t-203105
+    - t-008
 
 - id: c-183711
   autorius: "Zenonas Ivinskis"
@@ -353,9 +383,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05452
-    - t-203055
+  pagrindzia:
+    - t-006
 
 - id: c-183712
   autorius: "Anoniminis metraštininkas"
@@ -374,6 +403,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-183714
   autorius: "Zenonas Ivinskis"
@@ -392,7 +423,3 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05452
-    - t-203055
-

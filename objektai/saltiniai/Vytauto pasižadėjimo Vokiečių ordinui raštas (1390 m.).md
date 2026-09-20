@@ -32,6 +32,20 @@ Raštu Vytautas, įvardytas Lucko ir Gardino kunigaikščiu, viešai pasižada l
 
 Raštu Vytautas, įvardytas Lucko ir Gardino kunigaikščiu, viešai pasižada laikytis ankstesnių raštų ir pažadų Konradui Ciolneriui Rotenšteinui bei Vokiečių ordinui.
 
+## Teiginiai
+
+<a id="claim-t-207063"></a>
+- t-001
+  teiginys: "Raštu Vytautas, įvardytas Lucko ir Gardino kunigaikščiu, viešai pasižada laikytis ankstesnių raštų ir pažadų Konradui Ciolneriui Rotenšteinui bei Vokiečių ordinui."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189678
+
 ## Citatos
 
 - id: c-189678
@@ -49,20 +63,5 @@ Raštu Vytautas, įvardytas Lucko ir Gardino kunigaikščiu, viešai pasižada l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-207063"></a>
-- t-001
-  teiginys: "Raštu Vytautas, įvardytas Lucko ir Gardino kunigaikščiu, viešai pasižada laikytis ankstesnių raštų ir pažadų Konradui Ciolneriui Rotenšteinui bei Vokiečių ordinui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189678
-

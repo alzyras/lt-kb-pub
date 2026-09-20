@@ -45,6 +45,20 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203690"></a>
+- t-001
+  teiginys: "Smolensko žemės privilegijoje teisingo teismo nuostata reikalavo bausmę skirti pagal nuopelnus, proporcingai padarytam nusikaltimui."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186294
+
 ## Santrauka
 
 Smolensko žemės privilegijoje teisingo teismo nuostata reikalavo bausmę skirti pagal nuopelnus, proporcingai padarytam nusikaltimui.
@@ -70,20 +84,5 @@ Smolensko žemės privilegijoje teisingo teismo nuostata reikalavo bausmę skirt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203690"></a>
-- t-001
-  teiginys: "Smolensko žemės privilegijoje teisingo teismo nuostata reikalavo bausmę skirti pagal nuopelnus, proporcingai padarytam nusikaltimui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186294
-

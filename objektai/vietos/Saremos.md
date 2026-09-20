@@ -68,9 +68,9 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
     - c-47145
 
 <a id="claim-t-43878"></a>
-- t-43878
+- t-002
   teiginys: "Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Maskva: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -107,8 +107,8 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-43878
+  pagrindzia:
+    - t-002
 
 - id: c-47145
   redaktorius: "A. Šapoka"
@@ -129,11 +129,9 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
     tenę, ir Saremos (Eželio) vyskupystę.
   citata_rodoma: "Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-\ntenę, ir Saremos (Eželio) vyskupystę."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

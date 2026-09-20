@@ -1,28 +1,25 @@
 ---
 tipas: saltinis
-pavadinimas: 'Vilniaus gubernijos mokyklų direktoriaus Jono Budzilovičiaus 1820 m. spalio 23 d. pranešimas Vilniaus universitetui'
+pavadinimas: Vilniaus gubernijos mokyklų direktoriaus Jono Budzilovičiaus 1820 m. spalio 23 d. pranešimas Vilniaus universitetui
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1820 m.'
+  - 1820 m.
 date_start: '1820'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vilniaus gubernijos mokyklų direktoriaus Jono Budzilovičiaus 1820 m. spalio 23 d. pranešimas Vilniaus universitetui
 

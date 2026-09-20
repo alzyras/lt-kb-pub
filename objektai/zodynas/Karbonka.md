@@ -49,6 +49,18 @@ Karbonka šiame šaltinyje reiškia gyvulių ligą, kuria galėjo užsikrėsti i
 
 Terminas vartojamas XIX a. vidurio sausros ir kaitros padarinių pasakojime.
 
+## Teiginiai
+
+<a id="claim-t-195451"></a>
+- t-001
+  teiginys: "Karbonka šiame šaltinyje vadinama gyvulių liga, kuria galėjo užsikrėsti ir žmonės."
+  atnaujinta: "2026-07-12 03:27"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177872
+
 ## Citatos
 
 - id: c-177872
@@ -73,18 +85,5 @@ Terminas vartojamas XIX a. vidurio sausros ir kaitros padarinių pasakojime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195451"></a>
-- t-001
-  teiginys: "Karbonka šiame šaltinyje vadinama gyvulių liga, kuria galėjo užsikrėsti ir žmonės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177872
-

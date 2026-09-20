@@ -44,6 +44,20 @@ canonical_biography: "Ciešinskis (mirė 1649 m.)."
 
 Ciešinskis (mirė 1649 m.).
 
+## Teiginiai
+
+<a id="claim-t-202222"></a>
+- t-001
+  teiginys: "Ciešinskis (mirė 1649 m.)."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185569
+
 ## Citatos
 
 - id: c-185569
@@ -62,20 +76,5 @@ Ciešinskis (mirė 1649 m.).
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-202222"></a>
-- t-001
-  teiginys: "Ciešinskis (mirė 1649 m.)."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185569
-

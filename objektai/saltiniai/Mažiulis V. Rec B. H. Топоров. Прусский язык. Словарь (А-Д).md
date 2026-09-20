@@ -32,6 +32,20 @@ media_all_json: |-
 
 Dusburgietis teigia, kad mažiulis V.
 
+## Teiginiai
+
+<a id="claim-t-61171"></a>
+- t-001
+  teiginys: "V. Mažiulio recenzija apie B. H. Топоров „Прусский язык. Словарь (А-Д)“ paskelbta „Baltistica“ 1979 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1979 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata patvirtina recenzijos objektą, žurnalą ir metus."
+  pagrindžia:
+    - c-61803
+
 ## Citatos
 
 - id: c-61803
@@ -47,35 +61,5 @@ Dusburgietis teigia, kad mažiulis V.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201962
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
-  citata_originali: |
-    Mažiulis V. Rec: B. H. Топоров. Прусский язык. Словарь (А-Д). —Baltistica, 1979,
-    15 (2), р. 146—149.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-222858"></a>
-- t-001
-  teiginys: "V. Mažiulio recenzija apie B. H. Топоров „Прусский язык. Словарь (А-Д)“ paskelbta „Baltistica“ 1979 m."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1979 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patvirtina recenzijos objektą, žurnalą ir metus."
-  pagrindžia:
-    - c-201962
-

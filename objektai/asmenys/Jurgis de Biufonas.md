@@ -43,6 +43,28 @@ canonical_biography: "Teodoras Narbutas Biufono sistemai priskyrė požiūrį, k
 
 Teodoras Narbutas Biufono sistemai priskyrė požiūrį, kad organinis pasaulis prasidėjo nuo ašigalių. Jurgis de Biufonas (de Buffon, 1707-1788) buvo prancūzų gamtininkas ir Paryžiaus botanikos sodo direktorius.
 
+## Teiginiai
+
+<a id="claim-t-191426"></a>
+- t-001
+  teiginys: "Jurgis de Biufonas (de Buffon, 1707-1788) buvo prancūzų gamtininkas ir Paryžiaus botanikos sodo direktorius."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Paryžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jurgis de Biufonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Paryžius: mention_match, place, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurgis de Biufonas\" parinktas kaip owner_note_path. Targetas \"Paryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174308
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas Biufono sistemai priskyrė požiūrį, kad organinis pasaulis prasidėjo nuo ašigalių.'
@@ -87,53 +109,5 @@ Teodoras Narbutas Biufono sistemai priskyrė požiūrį, kad organinis pasaulis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197254
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 405"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 405."
-  citata_originali: |
-    - T. Narbutas turėjo omenyje Jurgį de Biufoną
-    (de Buffon; 1707—1788), prancūzų gamtinin­
-    ką, Paryžiaus botanikos sodo direktorių. Pa­
-    grindinis jo veikalas „Gamtos istorija“ (1749—
-    1788, 36 tomai), kuriame jis teigė, jog egzis­
-    tuoja augalijos ir gyvūnijos vienovė, kad rū­
-    šys, aplinkos sąlygų veikiamos, kinta. Be to,
-    mokslininkas susistemino savo sukauptą geo­
-    logijos medžiagą, nagrinėjo Žemės rutulio ir
-    jo paviršiaus raidą, iškėlė hipotezę, pagal ku­
-    rią Žemės rutulys susiformavo kaip saulės at­
-    plaiša.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-214985"></a>
-- t-001
-  teiginys: "Jurgis de Biufonas (de Buffon, 1707-1788) buvo prancūzų gamtininkas ir Paryžiaus botanikos sodo direktorius."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Paryžius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jurgis de Biufonas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Paryžius: mention_match, place, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurgis de Biufonas\" parinktas kaip owner_note_path. Targetas \"Paryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-197254
-

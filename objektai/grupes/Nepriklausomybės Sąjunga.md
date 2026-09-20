@@ -53,6 +53,38 @@ Nepriklausomybės Sąjunga buvo didelė po visą Suomiją paplitusi draugija, sk
 
 Visuomeninė draugija.
 
+## Teiginiai
+
+<a id="claim-t-195664"></a>
+- t-001
+  teiginys: "Nepriklausomybės Sąjungos pirmininku buvo straipsnyje minimas velionis."
+  atnaujinta: "2026-07-12 11:11"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178066
+
+<a id="claim-t-195665"></a>
+- t-002
+  teiginys: "Nepriklausomybės Sąjunga buvo didelė po visą Suomiją paplitusi draugija."
+  atnaujinta: "2026-07-12 11:11"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178066
+
+<a id="claim-t-195666"></a>
+- t-003
+  teiginys: "Nepriklausomybės Sąjungos tikslas buvo stiprinti Suomijos nepriklausomybę."
+  atnaujinta: "2026-07-12 11:11"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178066
+
 ## Citatos
 
 - id: c-178066
@@ -68,40 +100,7 @@ Visuomeninė draugija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-195664"></a>
-- t-001
-  teiginys: "Nepriklausomybės Sąjungos pirmininku buvo straipsnyje minimas velionis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178066
-
-<a id="claim-t-195665"></a>
-- t-002
-  teiginys: "Nepriklausomybės Sąjunga buvo didelė po visą Suomiją paplitusi draugija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178066
-
-<a id="claim-t-195666"></a>
-- t-003
-  teiginys: "Nepriklausomybės Sąjungos tikslas buvo stiprinti Suomijos nepriklausomybę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178066
-

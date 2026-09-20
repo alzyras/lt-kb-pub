@@ -1,12 +1,12 @@
 ---
 tipas: ivykis
-pavadinimas: 'Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)'
+pavadinimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1940 m.'
-  - '1991 m.'
-  - '2026 m.'
+  - 1940 m.
+  - 1991 m.
+  - 2026 m.
 date_start: '1940'
 date_end: '2026'
 sukurta: ''
@@ -15,20 +15,30 @@ tags:
   - karas
   - ivykis
 amziai:
-  - 'XX'
-  - 'XXI'
+  - XX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T13:14:24+00:00","source_checked_at":"2026-09-19T13:14:24+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3270f518882fb817a17091c7","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"1991 m. sausio 11–13 d. Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savanorio priesaika; gynybos tarybos posėdyje nuspręsta rūmus ginklu ginti Lietuvos kariams savanoriams.","context":"Šaltinyje aprašoma 1991 m. sausio 11–13 d. įvykių eiga.","support_ids":["t-171463","c-155998"],"source_refs":[{"kind":"internal_claim","claim_id":"t-171463","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-155998","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Lietuvos pasiryži- mas ir kovos metodai tapo pavyzdžiu bei „Sausio 11-13 dienomis Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savano- rio priesaika padarė pradžią naujai atsiradusiai karinei organizacijai. Tai buvo teisinis pagrindas Lietuvos piliečiui ginti savo valstybę ginklu. Taip buvo nuspręsta gynybos tarybos posėdyje - Lietuvos Aukščiausiosios Tarybos rūmus ginklu gins Lietuvos kariai savanoriai. Po šia sąvoka sutilpo visi Aukščiausiosios Tarybos rūmuose buvę gynėjai - Krašto apsaugos departamento darbuotojai, pasieniečiai, Aukščiausiosios Tarybos ap- saugos pareigūnai, šauliai ir Lietuvos piliečiai, savanoriais atėję ginti savo valstybės Laisvę ir Nepriklausomybę.“ įkvėpė…"}],"status":"published","conflict_status":"clear"},{"trait_id":"a094212cc653e44a24a05abb","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Aukščiausiosios Tarybos rūmų gynėjais laikyti Krašto apsaugos departamento darbuotojai, pasieniečiai, Aukščiausiosios Tarybos apsaugos pareigūnai, šauliai ir savanoriais atėję Lietuvos piliečiai.","context":"Šaltinis šias grupes įvardija kaip rūmuose buvusius gynėjus.","support_ids":["t-171463","c-155998"],"source_refs":[{"kind":"internal_claim","claim_id":"t-171463","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-155998","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Lietuvos pasiryži- mas ir kovos metodai tapo pavyzdžiu bei „Sausio 11-13 dienomis Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savano- rio priesaika padarė pradžią naujai atsiradusiai karinei organizacijai. Tai buvo teisinis pagrindas Lietuvos piliečiui ginti savo valstybę ginklu. Taip buvo nuspręsta gynybos tarybos posėdyje - Lietuvos Aukščiausiosios Tarybos rūmus ginklu gins Lietuvos kariai savanoriai. Po šia sąvoka sutilpo visi Aukščiausiosios Tarybos rūmuose buvę gynėjai - Krašto apsaugos departamento darbuotojai, pasieniečiai, Aukščiausiosios Tarybos ap- saugos pareigūnai, šauliai ir Lietuvos piliečiai, savanoriais atėję ginti savo valstybės Laisvę ir Nepriklausomybę.“ įkvėpė…"}],"status":"published","conflict_status":"clear"},{"trait_id":"f4f63fc994c87b8e6018159e","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Lietuvos kario savanorio priesaika, šaltinio vertinimu, tapo teisiniu pagrindu Lietuvos piliečiui ginklu ginti savo valstybę ir davė pradžią naujai karinei organizacijai.","context":"Tai 2013 m. šaltinio autoriaus pateiktas istorinis ir teisinis įvykio vertinimas.","support_ids":["t-171463","c-155998"],"source_refs":[{"kind":"internal_claim","claim_id":"t-171463","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-155998","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Lietuvos pasiryži- mas ir kovos metodai tapo pavyzdžiu bei „Sausio 11-13 dienomis Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savano- rio priesaika padarė pradžią naujai atsiradusiai karinei organizacijai. Tai buvo teisinis pagrindas Lietuvos piliečiui ginti savo valstybę ginklu. Taip buvo nuspręsta gynybos tarybos posėdyje - Lietuvos Aukščiausiosios Tarybos rūmus ginklu gins Lietuvos kariai savanoriai. Po šia sąvoka sutilpo visi Aukščiausiosios Tarybos rūmuose buvę gynėjai - Krašto apsaugos departamento darbuotojai, pasieniečiai, Aukščiausiosios Tarybos ap- saugos pareigūnai, šauliai ir Lietuvos piliečiai, savanoriais atėję ginti savo valstybės Laisvę ir Nepriklausomybę.“ įkvėpė…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: efb6e7e0cefccabb
+object_page_generated_at: '2026-09-19T13:14:24+00:00'
+object_page_source_checked_at: '2026-09-19T13:14:24+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): Šiame gabale gynyba aprašoma kaip nuoseklus AT rūmų, jų prieigų ir visuomenės pasipriešinimo…'
+object_page_seo_input_hash: 5ead8c3e7a5e5883d858bab15a21c8226880cfc0675b944538a9861771bc8779
+object_page_seo_generated_at: '2026-09-19T13:14:24+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)
 
@@ -51,6 +61,205 @@ Nenurodyta
 ## Rezultatas
 
 Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-171452"></a>
+- t-001
+  teiginys: "Sausio 11-13 d. priesaika sudarė teisinį pagrindą Lietuvos piliečiui ginti savo valstybę ginklu, o gynyboje dalyvavo kariai savanoriai, KAD darbuotojai, pasieniečiai, apsaugos pareigūnai ir šauliai."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-155998
+
+<a id="claim-t-171453"></a>
+- t-002
+  teiginys: "Karinės inžinerijos prasme Aukščiausiosios Tarybos rūmų gynybą sudarė rūmų vidaus, išorinio perimetro ir tolimųjų prieigų žiedai."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-155997
+
+<a id="claim-t-171455"></a>
+- t-003
+  teiginys: "Pirmomis sausio įvykių dienomis mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo užduotį ginti rūmus ir jų išorinį perimetrą."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir paremtas pateikta citata."
+  pagrindžia:
+    - c-11823
+
+<a id="claim-t-171457"></a>
+- t-004
+  teiginys: "Sausio 13-osios naktį žuvo 14 laisvės gynėjų, netoli tūkstančio buvo sužeisti, o Parlamento užpuolikai nebepuolė."
+  atnaujinta: "2026-05-31 14:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-11827
+
+<a id="claim-t-171458"></a>
+- t-005
+  teiginys: "1991 m. sausio 11–12 d. Aukščiausiosios Tarybos rūmų viduje spygliuota viela apraizgyti praėjimai ir ventiliacinės angos, o pirmasis aukštas sutvirtintas smėlio maišais bei armatūros tinklais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir suformuluotas vientisas faktinis sakinys."
+  pagrindžia:
+    - c-155995
+
+<a id="claim-t-171459"></a>
+- t-006
+  teiginys: "Pirmosiomis savaitėmis po kruvinosios nakties buvo įrengtos smėlio, akmenų ir gelžbetonio barikados, o gynyba buvo planingai stiprinama."
+  atnaujinta: "2026-05-31 14:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Afganistanas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Afganistanas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Afganistanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-43029
+
+<a id="claim-t-171460"></a>
+- t-007
+  teiginys: "Aukščiausiosios Tarybos rūmų gynybai priskiriami trys principai: agresijos fiksavimas, karinė gynyba ir pilietinis nesmurtinis pasipriešinimas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-155996
+
+<a id="claim-t-171461"></a>
+- t-008
+  teiginys: "Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o Aukščiausiosios Tarybos gynyba buvo geriau organizuota."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Santrumpa išplėsta, o sakinys suformuluotas be OCR triukšmo."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-43030
+
+<a id="claim-t-171462"></a>
+- t-009
+  teiginys: "1991 m. sausio 13-osios naktį užpuolimas buvo įvardytas kaip karinė agresija ir svetimos jėgos primestas karo stovis."
+  atnaujinta: "2026-05-31 14:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> SSRS: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event"
+  ryšio_targeto_parinkimas: "SSRS: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"SSRS\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-11826
+
+<a id="claim-t-171463"></a>
+- t-010
+  teiginys: "1991 m. sausio 11–13 d. Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savanorio priesaika tapo teisiniu pagrindu piliečiui ginklu ginti valstybę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį sakinį be nutrūkusių kabučių ir perteklinio fragmento."
+  pagrindžia:
+    - c-155998
+
+<a id="claim-t-171464"></a>
+- t-011
+  teiginys: "Pirmomis sausio įvykių dienomis tik mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo aiškesnę užduotį ginti rūmus ir jų išorinį perimetrą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Santrumpa išplėsta, kad teiginys būtų aiškesnis viešai bazei."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-11823
 
 ## Citatos
 
@@ -79,9 +288,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-012
+  pagrindzia:
+    - t-003
+    - t-011
 
 - id: c-11826
   sudarytojas: "Karolis Zikaras"
@@ -100,9 +309,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-010
+  pagrindzia:
+    - t-009
 
 - id: c-11827
   sudarytojas: "Karolis Zikaras"
@@ -120,8 +328,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
+  pagrindzia:
+    - t-004
 
 - id: c-43029
   sudarytojas: "Karolis Zikaras"
@@ -149,8 +357,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
+  pagrindzia:
+    - t-006
 
 - id: c-43030
   sudarytojas: "Karolis Zikaras"
@@ -169,8 +377,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
+  pagrindzia:
+    - t-008
 
 - id: c-155995
   sudarytojas: "Karolis Zikaras"
@@ -196,8 +404,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
+  pagrindzia:
+    - t-005
 
 - id: c-155996
   sudarytojas: "Karolis Zikaras"
@@ -231,9 +439,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-008
+  pagrindzia:
+    - t-007
 
 - id: c-155997
   sudarytojas: "Karolis Zikaras"
@@ -255,7 +462,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-155998
@@ -286,223 +493,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-011
-
-## Teiginiai
-
-<a id="claim-t-171452"></a>
-- t-001
-  teiginys: "Sausio 11-13 d. priesaika sudarė teisinį pagrindą Lietuvos piliečiui ginti savo valstybę ginklu, o gynyboje dalyvavo kariai savanoriai, KAD darbuotojai, pasieniečiai, apsaugos pareigūnai ir šauliai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-155998
-
-<a id="claim-t-171453"></a>
-- t-002
-  teiginys: "Karinės inžinerijos prasme Aukščiausiosios Tarybos rūmų gynybą sudarė rūmų vidaus, išorinio perimetro ir tolimųjų prieigų žiedai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-155997
-
-<a id="claim-t-171454"></a>
-- t-003
-  teiginys: "Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-11826
-    - c-155996
-
-<a id="claim-t-171455"></a>
-- t-004
-  teiginys: "Pirmomis sausio įvykių dienomis mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo užduotį ginti rūmus ir jų išorinį perimetrą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir paremtas pateikta citata."
-  pagrindžia:
-    - c-11823
-
-<a id="claim-t-171457"></a>
-- t-005
-  teiginys: "Sausio 13-osios naktį žuvo 14 laisvės gynėjų, netoli tūkstančio buvo sužeisti, o Parlamento užpuolikai nebepuolė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-11827
-
-<a id="claim-t-171458"></a>
-- t-006
-  teiginys: "1991 m. sausio 11–12 d. Aukščiausiosios Tarybos rūmų viduje spygliuota viela apraizgyti praėjimai ir ventiliacinės angos, o pirmasis aukštas sutvirtintas smėlio maišais bei armatūros tinklais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir suformuluotas vientisas faktinis sakinys."
-  pagrindžia:
-    - c-155995
-
-<a id="claim-t-171459"></a>
-- t-007
-  teiginys: "Pirmosiomis savaitėmis po kruvinosios nakties buvo įrengtos smėlio, akmenų ir gelžbetonio barikados, o gynyba buvo planingai stiprinama."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Afganistanas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Afganistanas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Afganistanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-43029
-
-<a id="claim-t-171460"></a>
-- t-008
-  teiginys: "Aukščiausiosios Tarybos rūmų gynybai priskiriami trys principai: agresijos fiksavimas, karinė gynyba ir pilietinis nesmurtinis pasipriešinimas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-155996
-
-<a id="claim-t-171461"></a>
-- t-009
-  teiginys: "Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o Aukščiausiosios Tarybos gynyba buvo geriau organizuota."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Santrumpa išplėsta, o sakinys suformuluotas be OCR triukšmo."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-43030
-
-<a id="claim-t-171462"></a>
-- t-010
-  teiginys: "1991 m. sausio 13-osios naktį užpuolimas buvo įvardytas kaip karinė agresija ir svetimos jėgos primestas karo stovis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> SSRS: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event"
-  ryšio_targeto_parinkimas: "SSRS: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"SSRS\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-11826
-
-<a id="claim-t-171463"></a>
-- t-011
-  teiginys: "1991 m. sausio 11–13 d. Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savanorio priesaika tapo teisiniu pagrindu piliečiui ginklu ginti valstybę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį sakinį be nutrūkusių kabučių ir perteklinio fragmento."
-  pagrindžia:
-    - c-155998
-
-<a id="claim-t-171464"></a>
-- t-012
-  teiginys: "Pirmomis sausio įvykių dienomis tik mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo aiškesnę užduotį ginti rūmus ir jų išorinį perimetrą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Santrumpa išplėsta, kad teiginys būtų aiškesnis viešai bazei."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-11823
-
+    - t-010

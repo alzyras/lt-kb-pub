@@ -44,6 +44,74 @@ historical_names: []
 
 1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės. Vilniaus katedroje, dalyvaujant Varšuvos kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Lenkija, susigrąžinant LDK prarastas žemes.
 
+## Teiginiai
+
+<a id="claim-t-77419"></a>
+- t-001
+  teiginys: "Napoleono kariuomenės trečdalį sudarė Varšuvos kunigaikštystės pulkai."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-24542
+    - c-74824
+
+<a id="claim-t-77420"></a>
+- t-002
+  teiginys: "1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Varšuvos kunigaikštystė: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Užnemunė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Varšuvos kunigaikštystė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Varšuvos kunigaikštystė buvo sudaryta ir iš Lietuvos Užnemunės."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Užnemunė priklausė Varšuvos kunigaikštystė (0.84)"
+  temporaliniai_duomenys: "įvykio data: iki 1809 m.; įvykio data: 1807 m.; įvykio data: 1809 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-24542
+
+<a id="claim-t-77421"></a>
+- t-003
+  teiginys: "1807 m. Europos žemėlapyje atsirado pusiau nepriklausoma, Napoleono globojama Varšuvos kunigaikštystė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Varšuvos kunigaikštystė: 0.77"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Užnemunė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Varšuvos kunigaikštystė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Varšuvos kunigaikštystė buvo sudaryta ir iš Lietuvos Užnemunės, todėl Užnemunė laikoma jos dalimi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Užnemunė priklausė Varšuvos kunigaikštystė (0.77)"
+  temporaliniai_duomenys: "įvykio data: 1807 m.; įvykio data: 1827 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra glaustas faktinis sakinys apie Varšuvos kunigaikštystės atsiradimą."
+  pagrindžia:
+    - c-74824
+
+<a id="claim-t-77422"></a>
+- t-004
+  teiginys: "Vilniaus katedroje, dalyvaujant Varšuvos kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Lenkija, susigrąžinant LDK prarastas žemes."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varšuvos kunigaikštystė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varšuvos kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-24543
+
 ## Citatos
 
 - id: c-24542
@@ -62,7 +130,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -85,8 +153,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
     - t-004
 
 - id: c-74824
@@ -108,83 +175,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-77419"></a>
-- t-001
-  teiginys: "Napoleono kariuomenės trečdalį sudarė Varšuvos kunigaikštystės pulkai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Varšuvos kunigaikštystė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varšuvos kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-24542
-    - c-24543
-    - c-74824
-
-<a id="claim-t-77420"></a>
-- t-002
-  teiginys: "1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Varšuvos kunigaikštystė: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Užnemunė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Varšuvos kunigaikštystė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad Varšuvos kunigaikštystė buvo sudaryta ir iš Lietuvos Užnemunės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Užnemunė priklausė Varšuvos kunigaikštystė (0.84)"
-  temporaliniai_duomenys: "įvykio data: iki 1809 m.; įvykio data: 1807 m.; įvykio data: 1809 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-24542
-
-<a id="claim-t-77421"></a>
-- t-003
-  teiginys: "1807 m. Europos žemėlapyje atsirado pusiau nepriklausoma, Napoleono globojama Varšuvos kunigaikštystė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Varšuvos kunigaikštystė: 0.77"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Užnemunė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Varšuvos kunigaikštystė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Varšuvos kunigaikštystė buvo sudaryta ir iš Lietuvos Užnemunės, todėl Užnemunė laikoma jos dalimi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Užnemunė priklausė Varšuvos kunigaikštystė (0.77)"
-  temporaliniai_duomenys: "įvykio data: 1807 m.; įvykio data: 1827 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra glaustas faktinis sakinys apie Varšuvos kunigaikštystės atsiradimą."
-  pagrindžia:
-    - c-74824
-
-<a id="claim-t-77422"></a>
-- t-004
-  teiginys: "Vilniaus katedroje, dalyvaujant Varšuvos kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Lenkija, susigrąžinant LDK prarastas žemes."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Varšuvos kunigaikštystė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varšuvos kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-24543
-

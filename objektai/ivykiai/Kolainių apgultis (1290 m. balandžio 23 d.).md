@@ -46,6 +46,23 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205898"></a>
+- t-001
+  teiginys: "1290 m. balandžio 23 d. penki šimtai riterių raitelių ir du tūkstančiai pėstininkų apsupo Kolainių pilį."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1290 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau yra taisyklingas, konkretus ir turi aiškų subjektą bei veiksmą. Jis tiksliai nurodo apgulties datą, kariuomenės sudėtį ir objektą."
+  pagrindžia:
+    - c-188513
+
 ## Santrauka
 
 1290 m. balandžio 23 d. penki šimtai riterių raitelių ir du tūkstančiai pėstininkų apsupo Kolainių pilį.
@@ -71,23 +88,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205898"></a>
-- t-001
-  teiginys: "1290 m. balandžio 23 d. penki šimtai riterių raitelių ir du tūkstančiai pėstininkų apsupo Kolainių pilį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1290 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra taisyklingas, konkretus ir turi aiškų subjektą bei veiksmą. Jis tiksliai nurodo apgulties datą, kariuomenės sudėtį ir objektą."
-  pagrindžia:
-    - c-188513
-

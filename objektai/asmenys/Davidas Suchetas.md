@@ -41,6 +41,28 @@ canonical_biography: "O kai pamatai po provincijos miestelį Tryškius vaikštan
 
 O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pagalvoji, kiek dar tokių vardų slepia Lietuva?
 
+## Teiginiai
+
+<a id="claim-t-18874"></a>
+- t-001
+  teiginys: "Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Tryškiai: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Davidas Suchetas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tryškiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai vaizduoja Davidą Suchetą vaikštantį Tryškiuose."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Davidas Suchetas keliavo į Tryškiai (0.80)"
+  temporaliniai_duomenys: "įvykio data: 1952 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinė formuluotė publicistinė ir klausiamoji; citata leidžia suformuluoti konkretų faktą."
+  pagrindžia:
+    - c-21649
+
 ## Citatos
 
 - id: c-21649
@@ -64,28 +86,5 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-18874"></a>
-- t-001
-  teiginys: "Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Tryškiai: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Davidas Suchetas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tryškiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai vaizduoja Davidą Suchetą vaikštantį Tryškiuose."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Davidas Suchetas keliavo į Tryškiai (0.80)"
-  temporaliniai_duomenys: "įvykio data: 1952 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė formuluotė publicistinė ir klausiamoji; citata leidžia suformuluoti konkretų faktą."
-  pagrindžia:
-    - c-21649
-

@@ -33,6 +33,21 @@ canonical_biography: "Narbutas Charonui iš Lampsako priskiria pasakojimą apie 
 
 Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpino griūvančiu ąžuolu.
 
+## Teiginiai
+
+<a id="claim-t-190090"></a>
+- t-001
+  teiginys: "Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpino griūvančiu ąžuolu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-172973
+
 ## Citatos
 
 - id: c-172973
@@ -55,43 +70,5 @@ Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199160
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 232"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
-  citata_originali: |
-    Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­
-    nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek
-    malonumo mūsų žemiškajam gyvenimui, sukūrė giliamintę mi-
-    lologinę pasaką: esą hamadriadės gyvendavusios medžiuose,
-    kartu su jais augdavusios, kentėdavusios ir užbaigdavusios sa­
-    vo gyvenimą. Charonas iš Lampsako išsaugojo mums įdomią
-    istoriją apie šį dalyką. Kažkoks Rekas (Rhoecus), kartą apim­
-    lus gailesčio dėl griūvančio ąžuolo, liepė apkasti jį šviežia že­
-    me ir paramstyti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-219084"></a>
-- t-001
-  teiginys: "Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpino griūvančiu ąžuolu."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-199160
-

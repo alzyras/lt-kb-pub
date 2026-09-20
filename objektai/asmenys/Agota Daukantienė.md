@@ -43,6 +43,21 @@ canonical_biography: "1733 m. Agota Daukantienė su Jurgiu Daukantu skundėsi d�
 
 1733 m. Jurgis ir Agota Daukantai skundėsi, kad Aleksandro Pšezdzeckio suorganizuota tarnų ir kareivių gauja užpuolė jų dvarelį Radvilų jurisdikoje už Vilniaus vartų, o Agota dėl smurto prarado kūdikį.
 
+## Teiginiai
+
+<a id="claim-t-203921"></a>
+- t-001
+  teiginys: "1733 m. Jurgis ir Agota Daukantai skundėsi, kad Aleksandro Pšezdzeckio suorganizuota tarnų ir kareivių gauja užpuolė jų dvarelį Radvilų jurisdikoje už Vilniaus vartų, o Agota dėl smurto prarado kūdikį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186525
+
 ## Citatos
 
 - id: c-186525
@@ -60,21 +75,5 @@ canonical_biography: "1733 m. Agota Daukantienė su Jurgiu Daukantu skundėsi d�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203921"></a>
-- t-001
-  teiginys: "1733 m. Jurgis ir Agota Daukantai skundėsi, kad Aleksandro Pšezdzeckio suorganizuota tarnų ir kareivių gauja užpuolė jų dvarelį Radvilų jurisdikoje už Vilniaus vartų, o Agota dėl smurto prarado kūdikį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186525
-

@@ -45,6 +45,41 @@ canonical_biography: "Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus H
 
 Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą), tai jo kelionėje užteko Vytauto kepurės, kaip „lydimojo rašto“ per totorių žemes.
 
+## Teiginiai
+
+<a id="claim-t-63621"></a>
+- t-001
+  teiginys: "Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Krymas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gilbert de Lannoy: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Gilbert de Lannoy keliavo į Krymą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Gilbert de Lannoy keliavo į Krymas (0.94)"
+  pagrindžia:
+    - c-64623
+
+<a id="claim-t-63622"></a>
+- t-002
+  teiginys: "Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Romos karalius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henrikas VI: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Romos karalius: mention_match, thing, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas VI\" parinktas kaip owner_note_path. Targetas \"Romos karalius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-167469
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Švabijos kunigaikštis Fridrichas prašė Vokietijos karaliaus Henriko tarpininkauti popiežiaus kurijoje.'
@@ -85,7 +120,7 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-64624
@@ -112,7 +147,6 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-167469
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -149,95 +183,5 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201638
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 37"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
-  citata_originali: |
-    Nors
-    apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai
-    aišku, kad „nieko nereiškia sodintojas nei laistytojas, bet tik augintojas dievas“, tačiau
-    stropus žmogus negali nesirūpinti augalais, kurie, dar jaunučiai tebebūdami, jau duoda
-    gausiai vaisių, o ateityje duos dar gausiau. Kai jo šventenybė Jeruzalės patriarchas
-    Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir
-    Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras ir tamplierių ordino
-    magistras, daugelis abiejų ordinų brolių ir daugybė šventosios žemės baronų, būtent:
-    Radolfas, Tiberiados valdovas, ir jo brolis valdovas Hugonas, ir Reinoldas, Sidono
-    valdovas, ir valdovas Eimaras iš Cezarėjos, ir valdovas Jonas iš Hibelino, ir daugybė kitų
-    iš Jeruzalės karalystės ir iš Vokietijos: Mainco arkivyskupas Konradas, Viurcburgo
-    vyskupas bei Romos imperijos kancleris Konradas, Pasau vyskupas Volfgeris, Halberštato
-    vyskupas Gardolfas ir Ceico vyskupas, Švabijos kunigaikštis Fridrichas, Henrikas, [Pfalco
-    prie] Reino pfalcgrafas ir Braunšveigo kunigaikštis, Austrijos kunigaikštis Fridrichas,
-    Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei, Saksonijos
-    hercogas ir Tiuringijos landgrafas grafas Hermanas, Brandenburgo markgrafas Albertas
-    ir imperijos maršalas Henrikas iš Kalendino, Landsbergo markgrafas Konradas, Meiseno
-    markgrafas Ditrichas, kai šie ir kiti grafai bei didikai ir daugelis jų kariuomenėje buvusių
-    kilmingųjų iš visos širdies džiaugėsi, matydami, kad ką tik įsteigta ligoninė neilgai trukus
-    ima nešti šiokios tokios naudos, teikiančios garbės bei šlovės, be to, tvirtai tikėjo, kad,
-    viešpačiui dievui laiminant šį daigelį, jis sušakosiąs ir ateityje duosiąs gausybę vaisių,
-    štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas,
-    Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą
-    Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę
-    popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-    - t-003
-
-## Teiginiai
-
-<a id="claim-t-63621"></a>
-- t-001
-  teiginys: "Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krymas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gilbert de Lannoy: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Gilbert de Lannoy keliavo į Krymą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Gilbert de Lannoy keliavo į Krymas (0.94)"
-  pagrindžia:
-    - c-64623
-
-<a id="claim-t-222213"></a>
-- t-002
-  teiginys: "Henrikas VI turėjo paprašyti popiežiaus įsteigti ir patvirtinti Teutonų ligoninę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-201638
-
-<a id="claim-t-225284"></a>
-- t-003
-  teiginys: "Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Romos karalius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henrikas VI: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Romos karalius: mention_match, thing, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas VI\" parinktas kaip owner_note_path. Targetas \"Romos karalius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-201638
-

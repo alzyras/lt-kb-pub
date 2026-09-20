@@ -37,23 +37,10 @@ Regėjom jau, jog pirm 100 metų Lietuvos urėdas Polocke Ginvila ir jo sūnus B
 
 ## Teiginiai
 
-<a id="claim-t-210783"></a>
-- t-210783
-  teiginys: "Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį Mariją."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-193239
-
 <a id="claim-t-200990"></a>
-- t-200990
+- t-001
   teiginys: "Regėjom jau, jog pirm 100 metų Lietuvos urėdas Polocke Ginvila ir jo sūnus Baras ne vien tenai krikščionių gudų nespaudė, bet dar pačiudu per sikrikštijusiu bažnyčias krikščionims strūnijo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -87,24 +74,5 @@ Regėjom jau, jog pirm 100 metų Lietuvos urėdas Polocke Ginvila ir jo sūnus B
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-200990
-
-- id: c-193239
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 45."
-  citata_originali: |
-    Ginvila vedė Tverės didžiojo kunigaikščio Boriso
-    dukterį, vardu Mariją9, dėl kurios perėjo į rusų tikė­
-    jimą, jam buvo duotas Jurgio vardas
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210783
-
+  pagrindzia:
+    - t-001

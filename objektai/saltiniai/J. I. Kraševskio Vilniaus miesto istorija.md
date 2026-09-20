@@ -35,6 +35,27 @@ media_all_json: |-
 
 Nepaisant gana kritiško požiūrio į istorijos šaltinius, M. Tačiau jaučiame pareigą pasakyti, kad, be žinomų ir labai mums brangių Kraševskio ir Balinskio veikalų apie Vilnių, Vilniaus universiteto profesoriaus Mykolo Homolickio mokslinių straips­ nių, Narbuto, Kraševskio ir Jaroševičiaus Lietuvos istorijų <...
 
+## Teiginiai
+
+<a id="claim-t-88309"></a>
+- t-001
+  teiginys: "J. I. Kraševskio 1840–1842 m. išleista Vilniaus miesto istorija chronologiškai nušvietė miesto raidą iki 1750 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Juozapas Ignas Kraševskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. I. Kraševskio Vilniaus miesto istorija: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Juozapas Ignas Kraševskis: mention_match, person, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. I. Kraševskio Vilniaus miesto istorija\" parinktas kaip owner_note_path. Targetas \"Juozapas Ignas Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: iki 1750 m.; įvykio data: 1750 m.; įvykio data: 1840-1842; įvykio data: 1842 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūkęs, o citata palaiko išsamų faktą apie veikalą."
+  pagrindžia:
+    - c-84288
+
 ## Citatos
 
 - id: c-84288
@@ -55,27 +76,5 @@ Nepaisant gana kritiško požiūrio į istorijos šaltinius, M. Tačiau jaučiam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-88309"></a>
-- t-001
-  teiginys: "J. I. Kraševskio 1840–1842 m. išleista Vilniaus miesto istorija chronologiškai nušvietė miesto raidą iki 1750 m."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Juozapas Ignas Kraševskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. I. Kraševskio Vilniaus miesto istorija: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Juozapas Ignas Kraševskis: mention_match, person, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. I. Kraševskio Vilniaus miesto istorija\" parinktas kaip owner_note_path. Targetas \"Juozapas Ignas Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: iki 1750 m.; įvykio data: 1750 m.; įvykio data: 1840-1842; įvykio data: 1842 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūkęs, o citata palaiko išsamų faktą apie veikalą."
-  pagrindžia:
-    - c-84288
-

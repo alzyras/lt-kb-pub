@@ -32,6 +32,20 @@ media_all_json: |-
 
 Dusburgietis teigia, kad [Ruigys] Ruhig P.
 
+## Teiginiai
+
+<a id="claim-t-61275"></a>
+- t-001
+  teiginys: "P. Ruhigo „Littauisch-deutsches und deutsch-littauisches Lexicon“ išleistas Karaliaučiuje 1747 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1747 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus, pavadinimo, vietos ir metų duomenis."
+  pagrindžia:
+    - c-61907
+
 ## Citatos
 
 - id: c-61907
@@ -47,36 +61,5 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-205202
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
-  citata_originali: |
-    [Ruigys] Ruhig P. Littauisch-deutsches und deutsch-littauisches Lexicon.— Königsberg,
-    1747.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-220740"></a>
-- t-001
-  teiginys: "P. Ruhigo „Littauisch-deutsches und deutsch-littauisches Lexicon“ išleistas Karaliaučiuje 1747 m."
-  atnaujinta: "2026-09-13 18:12"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1747 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus, pavadinimo, vietos ir metų duomenis."
-  pagrindžia:
-    - c-205202
-

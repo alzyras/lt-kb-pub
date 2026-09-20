@@ -1,14 +1,14 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'luomas'
+pavadinimas: luomas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1387 m.'
-  - '2026 m.'
+  - 1387 m.
+  - 2026 m.
 date_start: '1387'
 date_end: '2026'
 sukurta: ''
@@ -19,20 +19,30 @@ tags:
   - tauta
   - socialinis-terminas
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Luomas","url":"https://www.vle.lt/straipsnis/luomas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T12:23:47+00:00","source_checked_at":"2026-09-19T12:23:47+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Luomas","url":"https://www.vle.lt/straipsnis/luomas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/luomas/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 5196f8f8cb856a3f
+object_page_generated_at: '2026-09-19T12:23:47+00:00'
+object_page_source_checked_at: '2026-09-19T12:23:47+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'luomas: Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, dauguma jų – mažažemiai ir bežemiai bajorai, kalbėję daugiausia lenkų kalba ir…'
+object_page_seo_input_hash: 278a9bef171bff87486802b53dbe1d53fd1276950332da9b1f253f7b82addd94
+object_page_seo_generated_at: '2026-09-19T12:23:47+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # luomas
 
@@ -44,34 +54,10 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 
 ## Teiginiai
 
-<a id="claim-t-196379"></a>
-- t-011
-  teiginys: "Visi Lietuvos iuvoje bažnyčios tarnai, jų valdos ir pačias privilegijas, kokias šiuo metu turi šio luomo žmo nės Lenkijoje."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-167980
-
-<a id="claim-t-207766"></a>
-- t-207766
-  teiginys: "Luomo sąvoka ne tik labiau vertinama, bet ir turi kur kas platesnę prasmę."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190456
-
 <a id="claim-t-169917"></a>
-- t-169917
+- t-001
   teiginys: "Nuo Jekaterinos II laikų luomų institucijos buvo įtrauktos į vietinį valdymą kaip administracijos prižiūrimos pagalbinės valdžios šakos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,9 +71,9 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-154602
 
 <a id="claim-t-169918"></a>
-- t-169918
+- t-002
   teiginys: "Nuo Jekaterinos II laikų vietiniame valdyme veikė atskirų luomų savivaldos institucijos, prižiūrimos vietos administracijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -101,9 +87,9 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-154602
 
 <a id="claim-t-169919"></a>
-- t-169919
+- t-003
   teiginys: "Valdovas prašė būsimo įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal aprašytą tvarką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> luomai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -117,9 +103,9 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-154599
 
 <a id="claim-t-169920"></a>
-- t-169920
+- t-004
   teiginys: "Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Herbai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -133,9 +119,9 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-154600
 
 <a id="claim-t-169921"></a>
-- t-169921
+- t-005
   teiginys: "Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -149,9 +135,9 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-154601
 
 <a id="claim-t-169923"></a>
-- t-169923
+- t-006
   teiginys: "Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -165,29 +151,29 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-37930
     - c-167628
 
-<a id="claim-t-184619"></a>
-- t-184619
-  teiginys: "Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-184620"></a>
+- t-007
+  teiginys: "Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo."
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumas: "susije_su -> Goštautas (vyskupas, XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "luomas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"luomas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Goštautas (vyskupas, XV a.): mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"luomas\" parinktas kaip owner_note_path. Targetas \"Goštautas (vyskupas, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-167980
+    - c-167981
 
 <a id="claim-t-184621"></a>
-- t-184621
+- t-008
   teiginys: "Kojelavičiaus pasakojime karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką kaip kitą politinę perspektyvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -204,10 +190,60 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   pagrindžia:
     - c-167982
 
+<a id="claim-t-184622"></a>
+- t-009
+  teiginys: "Kazimieras Breste priėmė luomų priesaiką, kuria jie pažadėjo ištikimybę ir paklusnumą."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Karijotaičiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "luomas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Karijotaičiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"luomas\" parinktas kaip owner_note_path. Targetas \"Karijotaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-167983
+
+<a id="claim-t-184623"></a>
+- t-010
+  teiginys: "Aleksandras pasiūlė lietuvių luomams Vilniaus seime aptarti ir patvirtinti Piotrkove jo atstovų priimtus nutarimus."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Piotrkovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "luomas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Piotrkovas: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"luomas\" parinktas kaip owner_note_path. Targetas \"Piotrkovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-167984
+
+<a id="claim-t-196379"></a>
+- t-011
+  teiginys: "Visi Lietuvos iuvoje bažnyčios tarnai, jų valdos ir pačias privilegijas, kokias šiuo metu turi šio luomo žmo nės Lenkijoje."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-167980
+
 <a id="claim-t-196380"></a>
-- t-196380
+- t-012
   teiginys: "Kojelavičiaus pasakojime karalius Korčine sukvietė seimą, kad karalystės luomai nuspręstų, kaip priešintis Vytauto potroškiams."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -342,8 +378,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169923
+  pagrindzia:
+    - t-006
 
 - id: c-154599
   autorius: "Michał Baliński"
@@ -390,8 +426,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169919
+  pagrindzia:
+    - t-003
 
 - id: c-154600
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -416,8 +452,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169920
+  pagrindzia:
+    - t-004
 
 - id: c-154601
   autorius: "Michał Baliński"
@@ -446,8 +482,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169921
+  pagrindzia:
+    - t-005
 
 - id: c-154602
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -469,9 +505,9 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169917
-    - t-169918
+  pagrindzia:
+    - t-001
+    - t-002
 
 - id: c-167628
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -491,8 +527,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169923
+  pagrindzia:
+    - t-006
 
 - id: c-167980
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -522,14 +558,12 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     nės Lenkijoje.
   citata_rodoma: "Be valdovo sutikimo \nbajorai neturi teisės nei parduoti, nei dovanoti valdo­\nnėms žymiems lietuviams tu­\nrėti tuos pačius herbus, aišku, ne dėl to, kad lietuviams \nanksčiau būtų stigę šitokių kilmingumo įrodymų ar šlo­\nvingumo žymenų, nes dar ir dabar daugelis šeimų turi \nbe galo senus paveldimus giminės ženklus, kurie visai \nnepanašūs į lenkų herbus, tačiau todėl, kad visi buvo \ntvirtai įsitikinę, jog, skirtingoms tautoms susijungus į \nvieną valstybę, būtų didžiai naudinga, jeigu tų dviejų \ntautų žymiausios šeimos sietųsi nelyginant kokia gi­\nminyste herbų panašumu.\nĮstatymais sutvarkomi \nGalop susitarė ir dėl tikė-\ntikėjimo reikalai Lie- \njimo reikalų. Visi Lietuvos \niuvoje \nbažnyčios tarnai, jų valdos ir\npačias privilegijas, kokias šiuo metu turi šio luomo žmo­\nnės Lenkijoje."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
-    - t-184619
 
 - id: c-167981
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -552,8 +586,9 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196380
+  pagrindzia:
+    - t-007
+    - t-012
 
 - id: c-167982
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -580,8 +615,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184621
+  pagrindzia:
+    - t-008
 
 - id: c-167983
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -611,6 +646,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 - id: c-167984
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -633,24 +670,5 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-190456
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 47"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 47."
-  citata_originali: |
-    Luomo sąvoka ne tik labiau vertinama, bet ir turi kur kas platesnę prasmę. Iš
-    principo kiekviena grupuotė, kiekviena funkcija, kiekvienas amatas gali būtį laikomas
-    luomu, tad galima rasti ne vien visuomenės skirstymą į tris, bet ir į dvylika luomų. Mat
-    luomas yra būklė, estât, arba ordre [tvarka]; jame slypi mintis apie Dievo norėtą rea-
-    lybę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207766
-
+  pagrindzia:
+    - t-010

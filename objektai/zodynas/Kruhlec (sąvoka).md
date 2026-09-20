@@ -33,6 +33,33 @@ Nižilas, per krikštą pavadintas Eustachijumi, buvo trečiasis kankinys ir pri
 
 Nižilas, per krikštą pavadintas Eustachijumi, buvo trečiasis kankinys ir priklausė didžiojo kunigaikščio dvariškiams; Teodoras Narbutas spėja, kad „Kruhlec“ reiškė pareigybę ar panašų statusą. Kruhlec - pareigūnas iš valdovo svitos.
 
+## Teiginiai
+
+<a id="claim-t-206653"></a>
+- t-001
+  teiginys: "Nižilas, per krikštą pavadintas Eustachijumi, buvo trečiasis kankinys ir priklausė didžiojo kunigaikščio dvariškiams; Teodoras Narbutas spėja, kad „Kruhlec“ reiškė pareigybę ar panašų statusą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189268
+
+<a id="claim-t-206654"></a>
+- t-002
+  teiginys: "Kruhlec - pareigūnas iš valdovo svitos."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189269
+
 ## Citatos
 
 - id: c-189268
@@ -50,7 +77,7 @@ Nižilas, per krikštą pavadintas Eustachijumi, buvo trečiasis kankinys ir pri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189269
@@ -64,33 +91,5 @@ Nižilas, per krikštą pavadintas Eustachijumi, buvo trečiasis kankinys ir pri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206653"></a>
-- t-001
-  teiginys: "Nižilas, per krikštą pavadintas Eustachijumi, buvo trečiasis kankinys ir priklausė didžiojo kunigaikščio dvariškiams; Teodoras Narbutas spėja, kad „Kruhlec“ reiškė pareigybę ar panašų statusą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189268
-
-<a id="claim-t-206654"></a>
-- t-002
-  teiginys: "Kruhlec - pareigūnas iš valdovo svitos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189269
-

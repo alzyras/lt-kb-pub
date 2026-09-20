@@ -38,6 +38,20 @@ historical_names: []
 
 To dėjęsis, liepė visų pirma me džiagą jai patiekti, paskui, sutraukęs visus meldžionis, ėjo į Pamezoniją, kurie tenai tarp Sirgūnės upies ir Draudžiu ežero ant kalno stiprioj vietoj ir neprieinamoj pilį padirbo, kurią pravardavo taip pat Christburgu ir tenai.
 
+## Teiginiai
+
+<a id="claim-t-201143"></a>
+- t-001
+  teiginys: "To dėjęsis, liepė visų pirma me džiagą jai patiekti, paskui, sutraukęs visus meldžionis, ėjo į Pamezoniją, kurie tenai tarp Sirgūnės upies ir Draudžiu ežero ant kalno stiprioj vietoj ir neprieinamoj pilį padirbo, kurią pravardavo taip pat Christburgu ir tenai."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184493
+
 ## Citatos
 
 - id: c-184493
@@ -61,20 +75,5 @@ To dėjęsis, liepė visų pirma me džiagą jai patiekti, paskui, sutraukęs vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201143"></a>
-- t-001
-  teiginys: "To dėjęsis, liepė visų pirma me džiagą jai patiekti, paskui, sutraukęs visus meldžionis, ėjo į Pamezoniją, kurie tenai tarp Sirgūnės upies ir Draudžiu ežero ant kalno stiprioj vietoj ir neprieinamoj pilį padirbo, kurią pravardavo taip pat Christburgu ir tenai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184493
-

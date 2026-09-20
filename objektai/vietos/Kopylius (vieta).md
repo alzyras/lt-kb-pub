@@ -1,40 +1,40 @@
 ---
 tipas: vieta
-pavadinimas: 'Kopylius (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Kopylius (vieta)
+identifikacija: vieta
 variantai:
-  - 'Kopylius'
+  - Kopylius
 aliases:
-  - 'Kopylius'
+  - Kopylius
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1505 m.'
+  - 1505 m.
 date_start: '1505'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-efe802d829e612a25101dec3"
-canonical_name: "Kopylius (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kopylius","Kopylius (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-efe802d829e612a25101dec3
+canonical_name: Kopylius (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kopylius
+  - Kopylius (vieta)
 sameAs: []
-canonical_biography: "Kopylius yra miestelis apie 90 km į pietus–pietvakarius nuo Minsko. Simonas Mykolaitis Olelkaitis valdė Kopylių."
+canonical_biography: Kopylius yra miestelis apie 90 km į pietus–pietvakarius nuo Minsko. Simonas Mykolaitis Olelkaitis valdė Kopylių.
 ---
 # Kopylius (vieta)
 
@@ -90,7 +90,7 @@ Kopylius yra miestelis apie 90 km į pietus–pietvakarius nuo Minsko. Simonas M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-193307
@@ -108,6 +108,5 @@ Kopylius yra miestelis apie 90 km į pietus–pietvakarius nuo Minsko. Simonas M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

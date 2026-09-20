@@ -26,6 +26,40 @@ media_all_json: |-
 
 Šubravcų draugijos kodekse suformuluotos narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­ mų. Pavyzdžiui, XII šubravcų kodekso straipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­ lioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­ jos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­ suotinumą ir universalumą3.
 
+## Teiginiai
+
+<a id="claim-t-88359"></a>
+- t-001
+  teiginys: "Šubravcų draugijos kodekse nustatytos narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Šubravcų draugija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šubravcų draugijos kodeksas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Šubravcų draugija: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šubravcų draugijos kodeksas\" parinktas kaip owner_note_path. Targetas \"Šubravcų draugija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-84339
+
+<a id="claim-t-88360"></a>
+- t-002
+  teiginys: "XII Šubravcų kodekso straipsnis reikalavo, kad draugijos narys kauptų biblioteką su visuotinės istorijos ir geografijos veikalais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šubravcų draugijos kodeksas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): mention_match, event, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šubravcų draugijos kodeksas\" parinktas kaip owner_note_path. Targetas \"Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-84338
+
 ## Citatos
 
 - id: c-84338
@@ -49,7 +83,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-84339
@@ -74,40 +108,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-88359"></a>
-- t-001
-  teiginys: "Šubravcų draugijos kodekse nustatytos narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šubravcų draugija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šubravcų draugijos kodeksas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Šubravcų draugija: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šubravcų draugijos kodeksas\" parinktas kaip owner_note_path. Targetas \"Šubravcų draugija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-84339
-
-<a id="claim-t-88360"></a>
-- t-002
-  teiginys: "XII Šubravcų kodekso straipsnis reikalavo, kad draugijos narys kauptų biblioteką su visuotinės istorijos ir geografijos veikalais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šubravcų draugijos kodeksas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): mention_match, event, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šubravcų draugijos kodeksas\" parinktas kaip owner_note_path. Targetas \"Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-84338
-

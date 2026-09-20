@@ -36,6 +36,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201302"></a>
+- t-001
+  teiginys: "Norėdamas popiežius kuo didesniai kryžiaus karę, skelbiamą Teutonijoj, paskubinti, dominikonims, tenai skelbiantiems, liepė apreikšti vi siems tiems, kurie jų pamokslo klausė, 20 dienų atpuskų gavo, o tuos, kurie dėl gaisrų, išlaužimų arba dėl apjuokimo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184652
+
 ## Citatos
 
 - id: c-184652
@@ -69,20 +83,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201302"></a>
-- t-001
-  teiginys: "Norėdamas popiežius kuo didesniai kryžiaus karę, skelbiamą Teutonijoj, paskubinti, dominikonims, tenai skelbiantiems, liepė apreikšti vi siems tiems, kurie jų pamokslo klausė, 20 dienų atpuskų gavo, o tuos, kurie dėl gaisrų, išlaužimų arba dėl apjuokimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184652
-

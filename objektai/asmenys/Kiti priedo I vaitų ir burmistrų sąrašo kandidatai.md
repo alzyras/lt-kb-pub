@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Kiti priedo I vaitų ir burmistrų sąrašo kandidatai'
+pavadinimas: Kiti priedo I vaitų ir burmistrų sąrašo kandidatai
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos: []
@@ -12,7 +12,7 @@ tags:
   - asmuo
   - karalius
 amziai:
-  - 'V'
+  - V
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -20,25 +20,157 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e4e2b8ee0a95deaba76c0bfc"
-canonical_name: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Kiti priedo I vaitų ir burmistrų sąrašo kandidatai"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e4e2b8ee0a95deaba76c0bfc
+canonical_name: Kiti priedo I vaitų ir burmistrų sąrašo kandidatai
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Kiti priedo I vaitų ir burmistrų sąrašo kandidatai
 sameAs: []
-canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS KETVIRTOSIOS KNYGOS I VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ a) Iki Unijos 1. Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius. Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10."
+canonical_biography: '72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS KETVIRTOSIOS KNYGOS I VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ a) Iki Unijos 1. Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius. Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:39:42+00:00","source_checked_at":"2026-09-19T21:39:42+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6dbae6fdc51b3935
+object_page_generated_at: '2026-09-19T21:39:42+00:00'
+object_page_source_checked_at: '2026-09-19T21:39:42+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: 72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS…'
+object_page_seo_input_hash: 897c95bab6f832a6f6f81fa4072ac322ff2fb3eb0d9c45e74e1a6e16d765b79c
+object_page_seo_generated_at: '2026-09-19T21:39:42+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kiti priedo I vaitų ir burmistrų sąrašo kandidatai
 
 ## Santrauka
 
 72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS KETVIRTOSIOS KNYGOS I VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ a) Iki Unijos 1. Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius. Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10.
+
+## Teiginiai
+
+<a id="claim-t-87349"></a>
+- t-001
+  teiginys: "Anupras Minkevičius, buvo vaitas: 1753 ir 1758 23."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 301 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-83331
+
+<a id="claim-t-87350"></a>
+- t-002
+  teiginys: "1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuzma Mamoničius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kuzma Mamoničius: mention_match, person, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiti priedo I vaitų ir burmistrų sąrašo kandidatai\" parinktas kaip owner_note_path. Targetas \"Kuzma Mamoničius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1597 m.; įvykio data: 1600 m.; įvykio data: 1610 m.; įvykio data: 1620 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys pataisytas į aiškią faktinę formuluotę be sąrašo triukšmo."
+  pagrindžia:
+    - c-83333
+
+<a id="claim-t-87352"></a>
+- t-003
+  teiginys: "Andrius Katavičius 1666 m. neteisėtai gavo privilegiją Vilniaus vaitystei, bet Jonas Kazimieras ją panaikino 1667 m. sausio 15 d. dekretu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Kazimieras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: owner_note_path, person"
+  ryšio_targeto_parinkimas: "Jonas Kazimieras: mention_match, person, gap=80"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiti priedo I vaitų ir burmistrų sąrašo kandidatai\" parinktas kaip owner_note_path. Targetas \"Jonas Kazimieras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1666 m.; įvykio data: 1667 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai ir tiksliai perteikia citatoje nurodytą privilegijos gavimą ir panaikinimą."
+  pagrindžia:
+    - c-83329
+
+<a id="claim-t-87353"></a>
+- t-004
+  teiginys: "Jachna Laurinavičius sąraše nurodytas kaip žinomas nuo 1485 m., o tuo metu burmistru buvo Mykolas Laurinavičius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jachna Laurinavičius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jachna Laurinavičius: mention_match, person, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiti priedo I vaitų ir burmistrų sąrašo kandidatai\" parinktas kaip owner_note_path. Targetas \"Jachna Laurinavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: po 1485 m.; įvykio data: 1485 m.; įvykio data: 1501 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra šaltinio fragmentų ir skyrybos triukšmo, todėl jį reikia sujungti į pilną sakinį."
+  pagrindžia:
+    - c-83332
+
+<a id="claim-t-87354"></a>
+- t-005
+  teiginys: "Jokūbas Vargalovskis Stefanovičius dar buvo Vilniaus vaitas 1713 ir 1721 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiti priedo I vaitų ir burmistrų sąrašo kandidatai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1721 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas sąrašo įrašu."
+  pagrindžia:
+    - c-83330
+
+<a id="claim-t-87355"></a>
+- t-006
+  teiginys: "Jachna Laurinavičius Vilniaus vaitų ir žymesnių burmistrų sąraše nurodytas kaip žinomas nuo 1485 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jachna Laurinavičius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jachna Laurinavičius: mention_match, person, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiti priedo I vaitų ir burmistrų sąrašo kandidatai\" parinktas kaip owner_note_path. Targetas \"Jachna Laurinavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: po 1485 m.; įvykio data: 1485 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia sąrašo įrašą apie Jachną Laurinavičių."
+  pagrindžia:
+    - c-83328
+
+<a id="claim-t-194231"></a>
+- t-007
+  teiginys: "Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10."
+  atnaujinta: "2026-07-06 13:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83333
 
 ## Citatos
 
@@ -70,8 +202,8 @@ canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
+  pagrindzia:
+    - t-006
 
 - id: c-83329
   autorius: "Michał Baliński"
@@ -97,8 +229,8 @@ canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
+  pagrindzia:
+    - t-003
 
 - id: c-83330
   autorius: "Michał Baliński"
@@ -116,8 +248,8 @@ canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
+  pagrindzia:
+    - t-005
 
 - id: c-83331
   autorius: "Michał Baliński"
@@ -152,7 +284,7 @@ canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-83332
@@ -170,8 +302,8 @@ canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
+  pagrindzia:
+    - t-004
 
 - id: c-83333
   autorius: "Michał Baliński"
@@ -205,147 +337,6 @@ canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-    - t-003
-    - t-008
-
-## Teiginiai
-
-<a id="claim-t-87349"></a>
-- t-001
-  teiginys: "Anupras Minkevičius, buvo vaitas: 1753 ir 1758 23."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 301 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-83331
-
-<a id="claim-t-87350"></a>
-- t-002
-  teiginys: "1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuzma Mamoničius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kuzma Mamoničius: mention_match, person, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiti priedo I vaitų ir burmistrų sąrašo kandidatai\" parinktas kaip owner_note_path. Targetas \"Kuzma Mamoničius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1597 m.; įvykio data: 1600 m.; įvykio data: 1610 m.; įvykio data: 1620 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys pataisytas į aiškią faktinę formuluotę be sąrašo triukšmo."
-  pagrindžia:
-    - c-83333
-
-<a id="claim-t-87351"></a>
-- t-003
-  teiginys: "Motiejus, arba Matas, Božiminskis 1597 m. karaliaus Zigmanto Vazos raštu iš Varšuvos buvo paskirtas Vilniaus vaitu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Motiejus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Motiejus Božiminskis paskirtas Vilniaus vaitu; kandidatuose yra tik bendras Motiejaus asmens puslapis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1597 m.; įvykio data: 1600 m.; įvykio data: 1610 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka cituojamą sąrašo informaciją."
-  pagrindžia:
-    - c-83333
-
-<a id="claim-t-87352"></a>
-- t-004
-  teiginys: "Andrius Katavičius 1666 m. neteisėtai gavo privilegiją Vilniaus vaitystei, bet Jonas Kazimieras ją panaikino 1667 m. sausio 15 d. dekretu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas Kazimieras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: owner_note_path, person"
-  ryšio_targeto_parinkimas: "Jonas Kazimieras: mention_match, person, gap=80"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiti priedo I vaitų ir burmistrų sąrašo kandidatai\" parinktas kaip owner_note_path. Targetas \"Jonas Kazimieras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1666 m.; įvykio data: 1667 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai ir tiksliai perteikia citatoje nurodytą privilegijos gavimą ir panaikinimą."
-  pagrindžia:
-    - c-83329
-
-<a id="claim-t-87353"></a>
-- t-005
-  teiginys: "Jachna Laurinavičius sąraše nurodytas kaip žinomas nuo 1485 m., o tuo metu burmistru buvo Mykolas Laurinavičius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jachna Laurinavičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jachna Laurinavičius: mention_match, person, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiti priedo I vaitų ir burmistrų sąrašo kandidatai\" parinktas kaip owner_note_path. Targetas \"Jachna Laurinavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: po 1485 m.; įvykio data: 1485 m.; įvykio data: 1501 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra šaltinio fragmentų ir skyrybos triukšmo, todėl jį reikia sujungti į pilną sakinį."
-  pagrindžia:
-    - c-83332
-
-<a id="claim-t-87354"></a>
-- t-006
-  teiginys: "Jokūbas Vargalovskis Stefanovičius dar buvo Vilniaus vaitas 1713 ir 1721 m."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiti priedo I vaitų ir burmistrų sąrašo kandidatai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1721 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas sąrašo įrašu."
-  pagrindžia:
-    - c-83330
-
-<a id="claim-t-87355"></a>
-- t-007
-  teiginys: "Jachna Laurinavičius Vilniaus vaitų ir žymesnių burmistrų sąraše nurodytas kaip žinomas nuo 1485 m."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jachna Laurinavičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jachna Laurinavičius: mention_match, person, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiti priedo I vaitų ir burmistrų sąrašo kandidatai\" parinktas kaip owner_note_path. Targetas \"Jachna Laurinavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: po 1485 m.; įvykio data: 1485 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia sąrašo įrašą apie Jachną Laurinavičių."
-  pagrindžia:
-    - c-83328
-
-<a id="claim-t-194231"></a>
-- t-008
-  teiginys: "Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83333
-
+    - t-007

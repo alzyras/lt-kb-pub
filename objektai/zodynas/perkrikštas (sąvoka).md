@@ -35,6 +35,68 @@ media_all_json: |-
 
 Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivaizdoj jų laukti, su rinkęs savo vokyčius ir perkrikštus, įsitraukė į gi rią ir tykojo žemaičių ateinant, kurie, nevildamies pavojaus, traukė per minavotą girią nuliozgę; tuo tarpu. Pradžioj nairės priimti tą vyresnybę, bet, gavęs nuo arkivyskupo ir kapi tulos 20 svarų sidabro kasmetinės algos, palaimin tas vyskupu nuo arkivyskupo, iškeliavo į Padaugavį, kurį vokyčiai su perkrikštais Ikškilės priėmė kaipo savo naują vyskupą, kursai. Vokyčiai netikėliams lat viams leido išsikraustyti, bet perkrikštus parvedą apkalo ir į Teutoniją per jūrą išsiuntė vergauti, o į pilį Bažnyčios salos vokyčių įgulę įdėjo.
 
+## Teiginiai
+
+<a id="claim-t-201186"></a>
+- t-001
+  teiginys: "Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivaizdoj jų laukti, su rinkęs savo vokyčius ir perkrikštus, įsitraukė į gi rią ir tykojo žemaičių ateinant, kurie, nevildamies pavojaus, traukė per minavotą girią nuliozgę; tuo tarpu."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184536
+
+<a id="claim-t-201187"></a>
+- t-002
+  teiginys: "Pradžioj nairės priimti tą vyresnybę, bet, gavęs nuo arkivyskupo ir kapi tulos 20 svarų sidabro kasmetinės algos, palaimin tas vyskupu nuo arkivyskupo, iškeliavo į Padaugavį, kurį vokyčiai su perkrikštais Ikškilės priėmė kaipo savo naują vyskupą, kursai."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184537
+
+<a id="claim-t-201188"></a>
+- t-003
+  teiginys: "Vokyčiai netikėliams lat viams leido išsikraustyti, bet perkrikštus parvedą apkalo ir į Teutoniją per jūrą išsiuntė vergauti, o į pilį Bažnyčios salos vokyčių įgulę įdėjo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184538
+
+<a id="claim-t-201189"></a>
+- t-004
+  teiginys: "Die na nemetu pavyko vokyčiams ir perkrikštams , arba priemiestę, įsigrūsti ir mūran pačios pilės pri siartinti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184539
+
+<a id="claim-t-201190"></a>
+- t-005
+  teiginys: "Daugybė perkrikštų, mindama senovės aukso amžius, palikina krikščionų švente nybes ėjo po ąžuolu senu įpratimu melstis ir savo dievą Perūną garbinti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184540
+
 ## Citatos
 
 - id: c-184536
@@ -61,7 +123,7 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184537
@@ -94,7 +156,7 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184538
@@ -117,7 +179,7 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-184539
@@ -140,7 +202,7 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-184540
@@ -161,68 +223,5 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-## Teiginiai
-
-<a id="claim-t-201186"></a>
-- t-001
-  teiginys: "Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivaizdoj jų laukti, su rinkęs savo vokyčius ir perkrikštus, įsitraukė į gi rią ir tykojo žemaičių ateinant, kurie, nevildamies pavojaus, traukė per minavotą girią nuliozgę; tuo tarpu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184536
-
-<a id="claim-t-201187"></a>
-- t-002
-  teiginys: "Pradžioj nairės priimti tą vyresnybę, bet, gavęs nuo arkivyskupo ir kapi tulos 20 svarų sidabro kasmetinės algos, palaimin tas vyskupu nuo arkivyskupo, iškeliavo į Padaugavį, kurį vokyčiai su perkrikštais Ikškilės priėmė kaipo savo naują vyskupą, kursai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184537
-
-<a id="claim-t-201188"></a>
-- t-003
-  teiginys: "Vokyčiai netikėliams lat viams leido išsikraustyti, bet perkrikštus parvedą apkalo ir į Teutoniją per jūrą išsiuntė vergauti, o į pilį Bažnyčios salos vokyčių įgulę įdėjo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184538
-
-<a id="claim-t-201189"></a>
-- t-004
-  teiginys: "Die na nemetu pavyko vokyčiams ir perkrikštams , arba priemiestę, įsigrūsti ir mūran pačios pilės pri siartinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184539
-
-<a id="claim-t-201190"></a>
-- t-005
-  teiginys: "Daugybė perkrikštų, mindama senovės aukso amžius, palikina krikščionų švente nybes ėjo po ąžuolu senu įpratimu melstis ir savo dievą Perūną garbinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184540
-

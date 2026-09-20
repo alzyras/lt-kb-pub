@@ -1,13 +1,13 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'kliučvaičiai (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: kliučvaičiai (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'kliučvaičiai'
+  - kliučvaičiai
 aliases:
-  - 'kliučvaičiai'
+  - kliučvaičiai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # kliučvaičiai (sąvoka)
 

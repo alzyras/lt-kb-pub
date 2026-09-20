@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Laurynas Barkauskas'
+pavadinimas: Laurynas Barkauskas
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 datos:
-  - '1856 m.'
+  - 1856 m.
 date_start: '1856'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9f8de0345c0cc354c7cfc453"
-canonical_name: "Laurynas Barkauskas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Laurynas Barkauskas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9f8de0345c0cc354c7cfc453
+canonical_name: Laurynas Barkauskas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Laurynas Barkauskas
 sameAs: []
-canonical_biography: "7 Sedos klebonas Laurynas Barkaus kas Valančiui pranešė, kad po Sedos, Tirkšlių, Kalvaįijos paiapijas vaikščioja meškininkai ir apgaudinė dami valstiečius varo piktąsias dvasias iš namų."
+canonical_biography: '7 Sedos klebonas Laurynas Barkaus kas Valančiui pranešė, kad po Sedos, Tirkšlių, Kalvaįijos paiapijas vaikščioja meškininkai ir apgaudinė dami valstiečius varo piktąsias dvasias iš namų.'
 ---
 # Laurynas Barkauskas
 

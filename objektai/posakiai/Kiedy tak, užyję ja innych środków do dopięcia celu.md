@@ -27,6 +27,20 @@ media_all_json: |-
 
 (^4) ) — Išeidamas iš susirinkimo Vytautas kalbėjo: „kiedy tak, užyję ja innych środków do dopięcia celu“.
 
+## Teiginiai
+
+<a id="claim-t-194951"></a>
+- t-001
+  teiginys: "(^4) ) — Išeidamas iš susirinkimo Vytautas kalbėjo: „kiedy tak, užyję ja innych środków do dopięcia celu“."
+  atnaujinta: "2026-07-06 12:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177347
+
 ## Citatos
 
 - id: c-177347
@@ -43,20 +57,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-194951"></a>
-- t-001
-  teiginys: "(^4) ) — Išeidamas iš susirinkimo Vytautas kalbėjo: „kiedy tak, užyję ja innych środków do dopięcia celu“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177347
-

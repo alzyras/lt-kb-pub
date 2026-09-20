@@ -38,23 +38,14 @@ Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
 
-<a id="claim-t-210321"></a>
-- t-210321
-  teiginys: "`Gaspada` šiame tekste yra keleiviams skirta pastogė."
-  atnaujinta: "2026-09-13 18:07"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-192635
-
-<a id="claim-t-210330"></a>
-- t-210330
+<a id="claim-t-70003"></a>
+- t-001
   teiginys: "Gaspada buvo po kairės angos pusės ir skirta keleiviams, atėjusiems dievų maldyti."
-  atnaujinta: "2026-09-12 16:28"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
-    - c-192635
+    - c-09678
 
 ## Citatos
 
@@ -70,21 +61,5 @@ Papildomos aiškios formos neišskirtos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-192635
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  puslapiai: "PDF 168"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 168."
-  citata_originali: |
-    po kairės tos angos buvusi gaspada^773 keleiviams, atėjusiems dievų maldyti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 16:28"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210321
-    - t-210330
-
+  pagrindzia:
+    - t-001

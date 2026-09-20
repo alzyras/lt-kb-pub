@@ -38,6 +38,20 @@ historical_names: []
 
 Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuriais Algirdas rėdė, ik šiai dienai Lietuvos įstatymais tebsirėdo, tai yra: Severija, Krivičiai, arba Baltieji Gudai, Juodieji Gudai, Volynija, Pa dalija, Paletija.
 
+## Teiginiai
+
+<a id="claim-t-201148"></a>
+- t-001
+  teiginys: "Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuriais Algirdas rėdė, ik šiai dienai Lietuvos įstatymais tebsirėdo, tai yra: Severija, Krivičiai, arba Baltieji Gudai, Juodieji Gudai, Volynija, Pa dalija, Paletija."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184498
+
 ## Citatos
 
 - id: c-184498
@@ -77,20 +91,5 @@ Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuria
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201148"></a>
-- t-001
-  teiginys: "Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuriais Algirdas rėdė, ik šiai dienai Lietuvos įstatymais tebsirėdo, tai yra: Severija, Krivičiai, arba Baltieji Gudai, Juodieji Gudai, Volynija, Pa dalija, Paletija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184498
-

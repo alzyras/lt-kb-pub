@@ -35,6 +35,27 @@ media_all_json: |-
 
 Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos brigados, mjr.
 
+## Teiginiai
+
+<a id="claim-t-40822"></a>
+- t-001
+  teiginys: "2-oji ir 3-ioji Tautinės kavalerijos brigados buvo gen. mjr. Jono Mejeno divizijos, gynusios Vilnių nuo rusų puolimo, sudėtyje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Vilnius: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "2-oji ir 3-ioji Tautinės kavalerijos brigados: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Brigados buvo divizijos sudėtyje, kuri gynė Vilnių nuo rusų puolimo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "2-oji ir 3-ioji Tautinės kavalerijos brigados gynė Vilnius (0.82); 2-oji ir 3-ioji Tautinės kavalerijos brigados kariavo prieš Rusai (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1794 m.; įvykio data: 2004 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-44709
+
 ## Citatos
 
 - id: c-44709
@@ -60,27 +81,5 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-40822"></a>
-- t-001
-  teiginys: "2-oji ir 3-ioji Tautinės kavalerijos brigados buvo gen. mjr. Jono Mejeno divizijos, gynusios Vilnių nuo rusų puolimo, sudėtyje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "2-oji ir 3-ioji Tautinės kavalerijos brigados: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Brigados buvo divizijos sudėtyje, kuri gynė Vilnių nuo rusų puolimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "2-oji ir 3-ioji Tautinės kavalerijos brigados gynė Vilnius (0.82); 2-oji ir 3-ioji Tautinės kavalerijos brigados kariavo prieš Rusai (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1794 m.; įvykio data: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-44709
-

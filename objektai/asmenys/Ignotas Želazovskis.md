@@ -43,6 +43,24 @@ canonical_biography: "1792 m. Ignoto Želazovskio žmonės užpuolė Rydzevskio 
 
 1792 m. Ignoto Želazovskio žmonės, tarp jų Rusijos imperijos kareiviai, užpuolė Rydzevskio namą už Rūdninkų vartų.
 
+## Teiginiai
+
+<a id="claim-t-203930"></a>
+- t-001
+  teiginys: "1792 m. Ignoto Želazovskio žmonės, tarp jų Rusijos imperijos kareiviai, užpuolė Rydzevskio namą už Rūdninkų vartų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardyta užpuolikų sudėtis ir išlaikytas įvykio kontekstas. Asmeninis Ignoto Želazovskio dalyvavimas nebuvo pridėtas."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186534
+
 ## Citatos
 
 - id: c-186534
@@ -60,24 +78,5 @@ canonical_biography: "1792 m. Ignoto Želazovskio žmonės užpuolė Rydzevskio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203930"></a>
-- t-001
-  teiginys: "1792 m. Ignoto Želazovskio žmonės, tarp jų Rusijos imperijos kareiviai, užpuolė Rydzevskio namą už Rūdninkų vartų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1792 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įvardyta užpuolikų sudėtis ir išlaikytas įvykio kontekstas. Asmeninis Ignoto Želazovskio dalyvavimas nebuvo pridėtas."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186534
-

@@ -43,6 +43,26 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-66463"></a>
+- t-001
+  teiginys: "1697 m. elekcijoje po Jono Sobieskio mirties iš 18 kandidatų stipriausi atrodė princas Kontys ir Austrijos remiamas Jokūbas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66692
+
+<a id="claim-t-66464"></a>
+- t-002
+  teiginys: "Per 1697 m. elekciją dalis bajorijos karaliumi paskelbė Fridriką Augustą, o prancūziškoji partija atskirai išrinktu paskelbė princą Kontį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66691
+
 ## Citatos
 
 - id: c-66691
@@ -62,7 +82,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-66692
@@ -87,26 +107,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-66463"></a>
-- t-001
-  teiginys: "1697 m. elekcijoje po Jono Sobieskio mirties iš 18 kandidatų stipriausi atrodė princas Kontys ir Austrijos remiamas Jokūbas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66692
-
-<a id="claim-t-66464"></a>
-- t-002
-  teiginys: "Per 1697 m. elekciją dalis bajorijos karaliumi paskelbė Fridriką Augustą, o prancūziškoji partija atskirai išrinktu paskelbė princą Kontį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66691
-

@@ -27,6 +27,27 @@ media_all_json: |-
 
 Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas.
 
+## Teiginiai
+
+<a id="claim-t-185473"></a>
+- t-001
+  teiginys: "Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168834
+
 ## Citatos
 
 - id: c-168834
@@ -50,27 +71,5 @@ Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-185473"></a>
-- t-001
-  teiginys: "Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Austrija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168834
-

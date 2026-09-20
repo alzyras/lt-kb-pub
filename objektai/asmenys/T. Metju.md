@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'T. Metju'
+pavadinimas: T. Metju
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1838 m.'
+  - 1838 m.
 date_start: '1838'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-57dc788ad78bbc40087fdf9f"
-canonical_name: "T. Metju"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["T. Metju"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-57dc788ad78bbc40087fdf9f
+canonical_name: T. Metju
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - T. Metju
 sameAs: []
-canonical_biography: "1838 m. Airijoje blaivybės brolijos buvo pradėtos kurti katalikų vienuolio kapucino T. Metju iniciatyvos kontekste. Penktajame dešimtmetyje T. Metju išvyko į Šiaurės Ameriką, kur taip pat buvo kuriamos blaivybės draugijų atšakos."
+canonical_biography: '1838 m. Airijoje blaivybės brolijos buvo pradėtos kurti katalikų vienuolio kapucino T. Metju iniciatyvos kontekste. Penktajame dešimtmetyje T. Metju išvyko į Šiaurės Ameriką, kur taip pat buvo kuriamos blaivybės draugijų atšakos.'
 ---
 # T. Metju
 

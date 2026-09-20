@@ -42,6 +42,28 @@ historical_names: []
 
 Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių puolimą, Brandenburgo komtūras ir jo kariai sėkmingai teriojo apylinkę «ir daugelį žmonių nužudė, ar paėmė į nelaisvę, stipriai viską naikin­ dami ugnimi ir plėšimais.
 
+## Teiginiai
+
+<a id="claim-t-28246"></a>
+- t-001
+  teiginys: "1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkę, žudydamas ir imdamas žmones į nelaisvę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Pograuda: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pograuda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini kryžiuočių puolimą Pograudos apylinkių kontekste."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Pograuda (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1311 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas ilgas citatos fragmentas ir OCR triukšmas, paliktas pagrindinis faktas."
+  pagrindžia:
+    - c-28150
+
 ## Citatos
 
 - id: c-28150
@@ -62,28 +84,5 @@ Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-28246"></a>
-- t-001
-  teiginys: "1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkę, žudydamas ir imdamas žmones į nelaisvę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Pograuda: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pograuda: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini kryžiuočių puolimą Pograudos apylinkių kontekste."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Pograuda (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1311 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas ilgas citatos fragmentas ir OCR triukšmas, paliktas pagrindinis faktas."
-  pagrindžia:
-    - c-28150
-

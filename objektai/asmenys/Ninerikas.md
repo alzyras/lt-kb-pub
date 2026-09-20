@@ -43,6 +43,25 @@ canonical_biography: "Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę
 
 Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui. Dusburgietis teigia, kad ninerikas tikrai norėjęs juos išduoti, pakorė ties miesto vartais jį patį, jo sūnų ir vieną jo tarną.
 
+## Teiginiai
+
+<a id="claim-t-60182"></a>
+- t-001
+  teiginys: "Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kulmenzė: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ninerikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kulmenzė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad Ninerikas įsigavo į Kulmenzę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ninerikas keliavo į Kulmenzė (0.96)"
+  pagrindžia:
+    - c-167501
+
 ## Citatos
 
 - id: c-167501
@@ -65,6 +84,8 @@ Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Ninerikas keliavo į [[objektai/vietos/Kulmenzė]]

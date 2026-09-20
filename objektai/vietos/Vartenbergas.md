@@ -37,6 +37,42 @@ historical_names: []
 
 Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero, pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Dusburgietis teigia, kad sūduviai, subūrę dar didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių, kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko.
 
+## Teiginiai
+
+<a id="claim-t-58650"></a>
+- t-001
+  teiginys: "Vartenbergas buvo Kulmo žemėje ant kalno, buvusiame ežero viduryje, stovėjusi pilis, kurioje gyveno broliai ir ginklanešiai."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kulmas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai lokalizuoja Vartenbergą Kulmo žemėje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vartenbergas priklausė Kulmas (0.86)"
+  pagrindžia:
+    - c-59282
+
+<a id="claim-t-58651"></a>
+- t-002
+  teiginys: "Sūduviai po ilgų antpuolių sudegino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vartenbergas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ilgi antpuoliai ir pilies sudeginimas tiesiogiai rodo Sūduvių puolimą prieš Vartenbergą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sūduviai puolė Vartenbergas (0.90)"
+  pagrindžia:
+    - c-59283
+
 ## Citatos
 
 - id: c-59282
@@ -57,6 +93,8 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-59283
   autorius: "Petras Dusburgietis"
@@ -78,66 +116,8 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202631
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 143"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
-  citata_originali: |
-    Sūduviai, subūrę dar
-    didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,
-    kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du
-    brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista.
-
-
-
-
-                     160 (155).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 ## Ryšiai
 - Puolė Vartenbergą: [[objektai/grupes/Sūduviai]]
-
-## Teiginiai
-
-<a id="claim-t-221799"></a>
-- t-001
-  teiginys: "Vartenbergas buvo Kulmo žemėje ant kalno, buvusiame ežero viduryje, stovėjusi pilis, kurioje gyveno broliai ir ginklanešiai."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kulmas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai lokalizuoja Vartenbergą Kulmo žemėje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vartenbergas priklausė Kulmas (0.86)"
-
-<a id="claim-t-225563"></a>
-- t-002
-  teiginys: "Sūduviai po ilgų antpuolių sudegino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vartenbergas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ilgi antpuoliai ir pilies sudeginimas tiesiogiai rodo Sūduvių puolimą prieš Vartenbergą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sūduviai puolė Vartenbergas (0.90)"
-  pagrindžia:
-    - c-202631
-

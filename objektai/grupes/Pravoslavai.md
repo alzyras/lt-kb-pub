@@ -27,6 +27,21 @@ media_all_json: |-
 
 Keletą mokyklų turėjo pravoslavai (Vilniuje, Polocke, Minske). Pravoslavai: jie irgi mokė vienuolynuose.
 
+## Teiginiai
+
+<a id="claim-t-193306"></a>
+- t-001
+  teiginys: "Keletą mokyklų turėjo pravoslavai (Vilniuje, Polocke, Minske)."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-176034
+
 ## Citatos
 
 - id: c-176034
@@ -44,21 +59,5 @@ Keletą mokyklų turėjo pravoslavai (Vilniuje, Polocke, Minske). Pravoslavai: j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193306"></a>
-- t-001
-  teiginys: "Keletą mokyklų turėjo pravoslavai (Vilniuje, Polocke, Minske)."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-176034
-

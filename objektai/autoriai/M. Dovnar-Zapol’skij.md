@@ -42,30 +42,12 @@ canonical_biography: "Dovnar - Zapol’skij, Maskva 1899."
 
 Dovnar - Zapol’skij, Maskva 1899.
 
-## Citatos
-
-- id: c-29455
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 15"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 15."
-  citata_originali: |
-    ALRG = Akty Litovsko - Russkogo gosudarstva, sąs. 1 (1390-1529),
-    išl. M. F. Dovnar - Zapol’skij, Maskva 1899.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-29550"></a>
 - t-001
   teiginys: "M. F. Dovnar-Zapol’skij 1899 m. Maskvoje išleido „Akty Litovsko-Russkogo gosudarstva“ pirmąjį sąsiuvinį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,3 +63,20 @@ Dovnar - Zapol’skij, Maskva 1899.
   pagrindžia:
     - c-29455
 
+## Citatos
+
+- id: c-29455
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  puslapiai: "PDF 15"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 15."
+  citata_originali: |
+    ALRG = Akty Litovsko - Russkogo gosudarstva, sąs. 1 (1390-1529),
+    išl. M. F. Dovnar - Zapol’skij, Maskva 1899.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

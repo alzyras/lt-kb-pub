@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Jokimas Rozencveigas'
+pavadinimas: Jokimas Rozencveigas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-76c517dbb48f0026e609803f"
-canonical_name: "Jokimas Rozencveigas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Jokimas Rozencveigas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-76c517dbb48f0026e609803f
+canonical_name: Jokimas Rozencveigas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Jokimas Rozencveigas
 sameAs: []
-canonical_biography: "O ypač stengė si, kad išliktų atminimas apie tą didžiulį kimbrų epochos potvynį, arba vietinį tvaną, cituotą prūsų kronikininko Jokimo Rozencveigo2, kurio veikalus Strijkovskis, būda mas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo kronikos knygas)."
+canonical_biography: 'O ypač stengė si, kad išliktų atminimas apie tą didžiulį kimbrų epochos potvynį, arba vietinį tvaną, cituotą prūsų kronikininko Jokimo Rozencveigo2, kurio veikalus Strijkovskis, būda mas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo kronikos knygas).'
 ---
 # Jokimas Rozencveigas
 
@@ -69,6 +69,5 @@ O ypač stengė si, kad išliktų atminimas apie tą didžiulį kimbrų epochos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

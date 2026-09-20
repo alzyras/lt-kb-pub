@@ -1,10 +1,10 @@
 ---
 tipas: ivykis
-pavadinimas: 'Totorių įsiveržimas į Vengriją ir Lenkiją bei Kolomano ir Henriko žūtis (1239 m.)'
+pavadinimas: Totorių įsiveržimas į Vengriją ir Lenkiją bei Kolomano ir Henriko žūtis (1239 m.)
 variantai:
-  - 'Totorių įsiveržimas į Vengriją ir Lenkiją bei Kolomano ir Henriko žūtis'
+  - Totorių įsiveržimas į Vengriją ir Lenkiją bei Kolomano ir Henriko žūtis
 aliases:
-  - 'Totorių įsiveržimas į Vengriją ir Lenkiją bei Kolomano ir Henriko žūtis'
+  - Totorių įsiveržimas į Vengriją ir Lenkiją bei Kolomano ir Henriko žūtis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -15,12 +15,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Totorių įsiveržimas į Vengriją ir Lenkiją bei Kolomano ir Henriko žūtis (1239 m.)
 
@@ -76,6 +73,5 @@ Mūšyje žuvo Kolomanas, Vengrijos karaliaus brolis, ir Henrikas, Lenkijos kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Kijevo Plikasis kalnas'
+pavadinimas: Kijevo Plikasis kalnas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1809 m.'
+  - 1809 m.
 date_start: '1809'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3f8da2d0c7e007532d2332a3"
-canonical_name: "Kijevo Plikasis kalnas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kijevo Plikasis kalnas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3f8da2d0c7e007532d2332a3
+canonical_name: Kijevo Plikasis kalnas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kijevo Plikasis kalnas
 sameAs: []
-canonical_biography: "Kijevo Plikasis kalnas garsėjo 1 1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi siškai neturinčių ryšio su lietuviais, pavyzdžiui: Chaumont iš chau ve - plikas; Kahlenberg iš kahl - vokiškai tą patį reiškiančio būdvar džio."
+canonical_biography: 'Kijevo Plikasis kalnas garsėjo 1 1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi siškai neturinčių ryšio su lietuviais, pavyzdžiui: Chaumont iš chau ve - plikas; Kahlenberg iš kahl - vokiškai tą patį reiškiančio būdvar džio.'
 ---
 # Kijevo Plikasis kalnas
 
@@ -84,6 +83,5 @@ Kijevo Plikasis kalnas garsėjo 1 1 Tokie kalnai pačioje Europoje buvo žinomi 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

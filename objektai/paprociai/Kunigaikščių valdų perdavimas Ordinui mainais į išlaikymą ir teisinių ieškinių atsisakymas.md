@@ -1,6 +1,6 @@
 ---
 tipas: paprotys
-pavadinimas: 'Kunigaikščių valdų perdavimas Ordinui mainais į išlaikymą ir teisinių ieškinių atsisakymas'
+pavadinimas: Kunigaikščių valdų perdavimas Ordinui mainais į išlaikymą ir teisinių ieškinių atsisakymas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kunigaikščių valdų perdavimas Ordinui mainais į išlaikymą ir teisinių ieškinių atsisakymas
 
@@ -79,6 +76,5 @@ Dusburgietis pasakoja, kad Vartislavas įstojo į Teutonų ordiną ir jam tekusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

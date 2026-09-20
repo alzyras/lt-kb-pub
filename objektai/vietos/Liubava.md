@@ -35,6 +35,39 @@ historical_names: []
 
 Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės grobio dalies.
 
+## Teiginiai
+
+<a id="claim-t-185253"></a>
+- t-001
+  teiginys: "Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės grobio dalies."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Liubava: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Liubava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvių būrys tiesiogiai nurodomas apiplėšęs Liubavą, todėl ryšys žymi puolamąjį veiksmą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168614
+
+<a id="claim-t-205521"></a>
+- t-002
+  teiginys: "1214 metais Narbutas Svavabuną vadina Liubavo žemės savininku."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187782
+
 ## Citatos
 
 - id: c-168614
@@ -63,7 +96,7 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-187782
@@ -91,39 +124,5 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-185253"></a>
-- t-001
-  teiginys: "Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės grobio dalies."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Liubava: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Liubava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lietuvių būrys tiesiogiai nurodomas apiplėšęs Liubavą, todėl ryšys žymi puolamąjį veiksmą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168614
-
-<a id="claim-t-205521"></a>
-- t-002
-  teiginys: "1214 metais Narbutas Svavabuną vadina Liubavo žemės savininku."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187782
-

@@ -43,6 +43,33 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-205277"></a>
+- t-001
+  teiginys: "Po Alberto mirties Rygos kapitula jo paveldėtoju išrinko premonstrantų ordino kanauninką Mikalojų iš Magdeburgo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187714
+
+<a id="claim-t-205516"></a>
+- t-002
+  teiginys: "Svarbiausia buvo vyskupo Alberto mirtis, ištikusi jį 1229 metais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188047
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Svarbiausia buvo vyskupo Alberto mirtis, ištikusi jį 1229 metais.'
@@ -80,7 +107,7 @@ Svarbiausia buvo vyskupo Alberto mirtis, ištikusi jį 1229 metais. Po Alberto m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188047
@@ -99,33 +126,5 @@ Svarbiausia buvo vyskupo Alberto mirtis, ištikusi jį 1229 metais. Po Alberto m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-205277"></a>
-- t-001
-  teiginys: "Po Alberto mirties Rygos kapitula jo paveldėtoju išrinko premonstrantų ordino kanauninką Mikalojų iš Magdeburgo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187714
-
-<a id="claim-t-205516"></a>
-- t-002
-  teiginys: "Svarbiausia buvo vyskupo Alberto mirtis, ištikusi jį 1229 metais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-188047
-

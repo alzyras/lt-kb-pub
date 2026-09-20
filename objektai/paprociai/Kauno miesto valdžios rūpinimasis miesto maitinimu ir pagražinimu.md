@@ -1,8 +1,8 @@
 ---
 tipas: paprotys
-pavadinimas: 'Kauno miesto valdžios rūpinimasis miesto maitinimu ir pagražinimu'
+pavadinimas: Kauno miesto valdžios rūpinimasis miesto maitinimu ir pagražinimu
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,12 +11,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Kauno miesto valdžios rūpinimasis miesto maitinimu ir pagražinimu
 
@@ -75,6 +72,5 @@ Miesto dūmoje randasi 4 lietuviai iš 8 narių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

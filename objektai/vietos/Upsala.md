@@ -43,6 +43,69 @@ historical_names: []
 
 Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^1150. ## vocabulary-miera-saikas-002 - status: unused - claimrole: newclaim - kategorija: zodynas - kandidatas: miera / saikas - potencialusteiginys: Miera / saikas - publicnote: -.
 
+## Teiginiai
+
+<a id="claim-t-188915"></a>
+- t-001
+  teiginys: "Narbutas rėmėsi Adomu Bremenietiu ir Albertu Krantcu, aiškindamas šventojo medžio prie Upsalos rūšies neapibrėžtumą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Šventieji medžiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Upsala: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Šventieji medžiai: mention_match, thing, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Upsala\" parinktas kaip owner_note_path. Targetas \"Šventieji medžiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171804
+
+<a id="claim-t-188916"></a>
+- t-002
+  teiginys: "Narbutas Upsalos šventovę lygino su Romove, nes joje, remiantis Adomu Bremenietiu, stovėjo trijų vyriausiųjų dievų stabai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Upsala: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dievų stabai: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Upsala: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimo kontekste „joje“ nurodo Upsalos šventovę, kurioje stovėjo dievų stabai."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Dievų stabai priklausė Upsala (0.78)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171805
+
+<a id="claim-t-188917"></a>
+- t-003
+  teiginys: "Narbutas aiškino, kad Upsala buvo svarbiausioji teismo vieta ir dievų buveinė, todėl jos reikšmė sutapo su krivio pavadinimu."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Upsala: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=85"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Upsala\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171806
+
 ## Citatos
 
 - id: c-171804
@@ -66,6 +129,8 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-171805
   autorius: "Teodoras Narbutas"
@@ -86,6 +151,8 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-171806
   autorius: "Teodoras Narbutas"
@@ -111,146 +178,8 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-190229
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 256"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 256."
-  citata_originali: |
-    Stabtelėkime vien prie Upsalos katedros, kur Švedijos valdovų Vazų
-    panteone greta dinastijos pradininko Gustavo Vazos ir jo sūnaus Jono III ilsisi Zigmanto
-    Vazos motina Žygimanto Senojo dukra Kotryna (mirė 1583 m.), 1561 m. Vilniuje ištekėjusi
-    už būsimo Švedijos karaliaus Jono III (mirė 1592 m.). Jos garbei Upsaloje visa koplyčia
-    vadinama Jogailaičių vardu, o sarkofagas papuoštas Lenkijos, Lietuvos ir Švedijos herbais.
-  citata_rodoma: "Jos garbei Upsaloje visa koplyčia \nvadinama Jogailaičių vardu, o sarkofagas papuoštas Lenkijos, Lietuvos ir Švedijos herbais."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207612
-
-- id: c-197895
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 416"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 416."
-  citata_originali: |
-    Tautos
-    šventovė buvo Upsaloje; ten, kaip Romovės šventykloje, sto­
-    vėjo trijų vyriausiųjų dievų stabai (Adamus Bremenensis. De
-    situ Daniae. - Cap. 233); ten, kaip ir Romovėje, gyveno tar­
-    nauti dievams pašaukti žyniai ir, be abejo, taip pat vyriausiasis
-    žynys. Adomas Bremenietis (skyrius 235) sako: de sacerdoti­
-    bus, qui ad Ubsolam Daemonibus astare solebant (apie žynius,
-    kurie Upsaloje buvo papratę tarnauti piktosioms dvasioms).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-199806
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
-  citata_originali: |
-    Tą ypatybę kronikininkai priskiria velnio galy­
-    bei, manydami, kad velniai buvo garbinami toje šventykloje
-    šalies dievų pavidalu.
-    Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo­
-    lą, augusį Švedijoje, netoli Upsalos, tačiau Albertas Krantcas* 11,
-    nė kiek neneigdamas, kad tas medis visą laiką žaliavęs, pridu­
-    ria, jog jo rūšies niekas negalėjęs nustatyti. Taigi tai turėjo bū­
-    ti ne ąžuolai, bet kitokios rūšies medžiai, kurie išnyko seniai,
-    dar iki XIII amžiaus, o jų liekana buvo tie milžiniški šventieji
-    medžiai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-217220
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Žyniai]]
-
-## Teiginiai
-
-<a id="claim-t-216425"></a>
-- t-001
-  teiginys: "Narbutas Upsalos šventovę lygino su Romove, nes joje, remiantis Adomu Bremenietiu, stovėjo trijų vyriausiųjų dievų stabai."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Upsala: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dievų stabai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Upsala: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimo kontekste „joje“ nurodo Upsalos šventovę, kurioje stovėjo dievų stabai."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Dievų stabai priklausė Upsala (0.78)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-197895
-
-<a id="claim-t-217277"></a>
-- t-002
-  teiginys: "Narbutas rėmėsi Adomu Bremenietiu ir Albertu Krantcu, aiškindamas šventojo medžio prie Upsalos rūšies neapibrėžtumą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Šventieji medžiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Upsala: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Šventieji medžiai: mention_match, thing, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Upsala\" parinktas kaip owner_note_path. Targetas \"Šventieji medžiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-199806
-
-<a id="claim-t-207612"></a>
-- t-207612
-  teiginys: "Upsaloje koplyčia vadinama Jogailaičių vardu, o sarkofagas papuoštas Lenkijos, Lietuvos ir Švedijos herbais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
-  pagrindžia:
-    - c-190229
-
-<a id="claim-t-217220"></a>
-- t-217220
-  teiginys: "Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo lą, augusį Švedijoje, netoli Upsalos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199806
-

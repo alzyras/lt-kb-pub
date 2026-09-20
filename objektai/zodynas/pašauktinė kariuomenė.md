@@ -35,22 +35,10 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 
 ## Teiginiai
 
-<a id="claim-t-207767"></a>
-- t-207767
-  teiginys: "Lietuvos Didžiojoje Kunigaikštystėje XVI a. pašauktinė kariuomenė buvo susieta su visuotiniu bajorų šaukimu."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190531
-
 <a id="claim-t-78905"></a>
-- t-78905
+- t-001
   teiginys: "Pašauktinės kariuomenės trūkumus bandyta kompensuoti samdiniais, kurie buvo profesionalūs kariai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lietuva: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -68,9 +56,9 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     - c-76010
 
 <a id="claim-t-78906"></a>
-- t-78906
+- t-002
   teiginys: "Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad po apiplėšimo totoriai spėdavo pasitraukti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lietuva: 0.80"
   ryšio_patikimumo_lygis: "aukstas"
@@ -85,9 +73,9 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     - c-76011
 
 <a id="claim-t-78907"></a>
-- t-78907
+- t-003
   teiginys: "XV a. pabaigoje ir XVI a. pradžioje Lietuvos karinės organizacijos pagrindą vis dar sudarė kilmingųjų pašauktinė raitelių kariuomenė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuva: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -129,8 +117,8 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-78905
+  pagrindzia:
+    - t-001
 
 - id: c-76011
   sudarytojas: "Karolis Zikaras"
@@ -154,8 +142,8 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-78906
+  pagrindzia:
+    - t-002
 
 - id: c-76013
   sudarytojas: "Karolis Zikaras"
@@ -181,27 +169,5 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-78907
-
-- id: c-190531
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 162"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 162."
-  citata_originali: |
-    Organizacine
-    prasme Lietuvos Didžiojoje Kunigaikštystėje XVI a. nuolatinės kariuomenės nebuvo,
-    kilus karui būdavo skelbiamas visuotinis bajorų šaukimas ir samdomi algininkai; jie
-    sudarydavo tik dalį kariuomenės. Žemės arba karo prievolė tebebuvo pagrindinė bajo-
-    rijos prievolė valstybei. Ji buvo reglamentuota teisės aktais, seimo ir valdovo normaty-
-    viniais dokumentais. Tačiau pašauktinė kariuomenė buvo problemiškas organizmas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207767
-
+  pagrindzia:
+    - t-003

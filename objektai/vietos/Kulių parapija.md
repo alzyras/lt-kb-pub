@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Kulių parapija'
+pavadinimas: Kulių parapija
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fcb1e1dc6b3155386ea3f7a7"
-canonical_name: "Kulių parapija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kulių parapija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fcb1e1dc6b3155386ea3f7a7
+canonical_name: Kulių parapija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kulių parapija
 sameAs: []
-canonical_biography: "Kulių parapijoje veikė kun. Kazimieras Skrodzkis."
+canonical_biography: Kulių parapijoje veikė kun. Kazimieras Skrodzkis.
 place_authority: true
 historical_names: []
 ---

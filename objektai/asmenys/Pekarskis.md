@@ -33,6 +33,24 @@ canonical_biography: "Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auks
 
 Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užstatą sidabrui Jo Karališkosios Didenybės reikalams nuo žydo Brastoje ėmė po 56 lenkiškus grašius.
 
+## Teiginiai
+
+<a id="claim-t-87820"></a>
+- t-001
+  teiginys: "Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Užstato daiktai Trakų žydų privilegijoje: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pekarskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Užstato daiktai Trakų žydų privilegijoje: mention_match, thing, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pekarskis\" parinktas kaip owner_note_path. Targetas \"Užstato daiktai Trakų žydų privilegijoje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83799
+
 ## Citatos
 
 - id: c-83799
@@ -60,24 +78,5 @@ Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87820"></a>
-- t-001
-  teiginys: "Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Užstato daiktai Trakų žydų privilegijoje: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pekarskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Užstato daiktai Trakų žydų privilegijoje: mention_match, thing, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pekarskis\" parinktas kaip owner_note_path. Targetas \"Užstato daiktai Trakų žydų privilegijoje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83799
-

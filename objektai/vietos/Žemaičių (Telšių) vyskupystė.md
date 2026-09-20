@@ -1,8 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Žemaičių (Telšių) vyskupystė'
+pavadinimas: Žemaičių (Telšių) vyskupystė
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ef69542a8203a992828f1f93"
-canonical_name: "Žemaičių (Telšių) vyskupystė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Žemaičių (Telšių) vyskupystė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ef69542a8203a992828f1f93
+canonical_name: Žemaičių (Telšių) vyskupystė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Žemaičių (Telšių) vyskupystė
 sameAs: []
-canonical_biography: "Blaivybės brolijų tinklas buvo išsiskleidęs visoje Žemaičių (Telšių) vyskupystėje. Vyskupo instrukcija buvo išsiųsta visiems Žemaičių (Telšių) vyskupystės klebonams ir filianistams."
+canonical_biography: Blaivybės brolijų tinklas buvo išsiskleidęs visoje Žemaičių (Telšių) vyskupystėje. Vyskupo instrukcija buvo išsiųsta visiems Žemaičių (Telšių) vyskupystės klebonams ir filianistams.
 place_authority: true
 historical_names: []
 ---

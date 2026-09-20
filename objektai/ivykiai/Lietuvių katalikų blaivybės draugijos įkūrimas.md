@@ -1,29 +1,26 @@
 ---
 tipas: ivykis
-pavadinimas: 'Lietuvių katalikų blaivybės draugijos įkūrimas'
+pavadinimas: Lietuvių katalikų blaivybės draugijos įkūrimas
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1908 m.'
-  - '1913 m.'
+  - 1908 m.
+  - 1913 m.
 date_start: '1908'
 date_end: '1913'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Lietuvių katalikų blaivybės draugijos įkūrimas
 

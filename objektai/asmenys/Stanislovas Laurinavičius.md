@@ -37,22 +37,30 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
 
 ## Teiginiai
 
-<a id="claim-t-215027"></a>
-- t-215027
-  teiginys: "Simonas Laurinavičius buvo Kauno gimnazijos prefektas."
-  atnaujinta: "2026-09-12 23:40"
+<a id="claim-t-190077"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir prefektas, pateikė vietinių tyrinėjimų faktus apie jėzuitų perstatytą mūrą."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stanislovas Laurinavičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Laurinavičius\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-195420
+    - c-172960
 
-<a id="claim-t-213985"></a>
-- t-213985
+<a id="claim-t-192602"></a>
+- t-002
   teiginys: "Stanislovas Laurinavičius, Narbuto rankraščio liudijimu, mirė beveik devyniasdešimties metų amžiaus beveik prieš devynerius metus."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,7 +75,31 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-194416
+    - c-175373
+
+<a id="claim-t-197443"></a>
+- t-003
+  teiginys: "Stanislovas Laurinavičius visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179190
+
+<a id="claim-t-197814"></a>
+- t-004
+  teiginys: "Simonas Laurinavičius atsiradęs iš skiedrų, kurios buvo naudojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pastatas negali būti pavadintas vardu daikto, naudoto statyboje) daro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai būdavo kuriami vadinamuosiuose arklių suvažiavimuose, t."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179351
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -120,6 +152,8 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-175373
   autorius: "Teodoras Narbutas"
@@ -137,6 +171,8 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-179190
   autorius: "Teodoras Narbutas"
@@ -159,6 +195,8 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-179351
   autorius: "Teodoras Narbutas"
@@ -183,89 +221,5 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194416
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 472"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 472."
-  citata_originali: |
-    Kalba ir apie S. Laurinavičių,
-    „kuris mirė sulaukęs beveik devyniasdešimties metų, beveik prieš
-    devynerius metus“ (Ten pat. L. 2). Rankraštyje istorikas aprašo
-    ir kitą deivės Mildos statulėlę, kuri buvo rasta Vilniuje ir kuri
-    buvo Adomo Honorijaus Kirkoro nuosavybė (Ten pat. L. 2—3).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213985
-
-- id: c-195420
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 472"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 472."
-  citata_originali: |
-    Minėtas Kauno gimnazijos prefekto
-    Simono Laurinavičiaus (Lawrinowicz) laiškas saugomas MAB RS
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215027
-
-- id: c-196752
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 492"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 492."
-  citata_originali: |
-    Vieni sako, jog jis atsiradęs iš skiedrų, kurios buvo nau­
-    dojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pas­
-    tatas negali būti pavadintas vardu daikto, naudoto statyboje) da­
-    ro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie
-    šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai bū­
-    davo kuriami vadinamuosiuose arklių suvažiavimuose, t. y. sėdint
-    ant arklių. Iš čia atsiradęs žodis Za-kon, įstatymas. Bet manęs
-    toks aiškinimas netenkina, todėl slavų senienų tyrinėtojų dėmesį
-    atkreipiau į žodį Kontyna. Aš pats piliečių sutartyse, parašytose
-    Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон-
-    тьма — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo
-    sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200169
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
-  citata_originali: |
-    Perrašau jį ištisai, ka­
-    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
-    nepaprasto grožio vienatinę dukterį. Kartą pavasarį ji norėjo
-    pradžiuginti motiną ką tik pražydusiomis gėlėmis, kurias pro
-    karalienės rūmų langą pamatė žydinčias Rasos (Ross) upės
-    pakrantėje; tuo tikslu ji nepastebėta išbėgo iš rūmų. Vienas
-    gražiausių pavasario žiedų, tarytum augantis prie pat kranto,
-    pasirodė esąs vidury upės; jį lengvai supo tekantis vanduo, pa­
-    dvigubindamas žiedo grožį nuostabių spalvų švytėjimu, lyg tai
-    būtų buvę brangakmeniai.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-004

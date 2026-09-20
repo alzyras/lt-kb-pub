@@ -29,6 +29,44 @@ media_all_json: |-
 
 Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė atpuskus ir griekų atleidimą tiems visiems krikščionims, kurie eis ka riauti pagonių į žemaičių kraštą ir tomis pačiomis privilijomis, aiba liecybomis, džiaugsis kaip jei tie, kurie. Ant galo padidino jų patį iždą, nes vien liecybas pirmųjų popiežių patvirtindamas, bet dar leisdamas jiems visur prekioti o iškeikdamas visus tuos, kurie nuo jų muito ar kito kokio mokesnio reikalautų1. Jomylista Habsburgas, tapęs viešpačiu vokyčių, ne vien patvirtino visas liecybas ir dovenas savo praėjūnų, bet dar dovenojo jiems visas žemes, nuo lietuvių ir žemaičių užimtąsias, ir ap siskelbė jų užtarytoju ir sargu.
 
+## Teiginiai
+
+<a id="claim-t-201206"></a>
+- t-001
+  teiginys: "Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė atpuskus ir griekų atleidimą tiems visiems krikščionims, kurie eis ka riauti pagonių į žemaičių kraštą ir tomis pačiomis privilijomis, aiba liecybomis, džiaugsis kaip jei tie, kurie."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184556
+
+<a id="claim-t-201207"></a>
+- t-002
+  teiginys: "Ant galo padidino jų patį iždą, nes vien liecybas pirmųjų popiežių patvirtindamas, bet dar leisdamas jiems visur prekioti o iškeikdamas visus tuos, kurie nuo jų muito ar kito kokio mokesnio reikalautų1."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184557
+
+<a id="claim-t-201208"></a>
+- t-003
+  teiginys: "Jomylista Habsburgas, tapęs viešpačiu vokyčių, ne vien patvirtino visas liecybas ir dovenas savo praėjūnų, bet dar dovenojo jiems visas žemes, nuo lietuvių ir žemaičių užimtąsias, ir ap siskelbė jų užtarytoju ir sargu."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184558
+
 ## Citatos
 
 - id: c-184556
@@ -59,7 +97,7 @@ Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184557
@@ -83,7 +121,7 @@ Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184558
@@ -107,44 +145,5 @@ Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-201206"></a>
-- t-001
-  teiginys: "Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė atpuskus ir griekų atleidimą tiems visiems krikščionims, kurie eis ka riauti pagonių į žemaičių kraštą ir tomis pačiomis privilijomis, aiba liecybomis, džiaugsis kaip jei tie, kurie."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184556
-
-<a id="claim-t-201207"></a>
-- t-002
-  teiginys: "Ant galo padidino jų patį iždą, nes vien liecybas pirmųjų popiežių patvirtindamas, bet dar leisdamas jiems visur prekioti o iškeikdamas visus tuos, kurie nuo jų muito ar kito kokio mokesnio reikalautų1."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184557
-
-<a id="claim-t-201208"></a>
-- t-003
-  teiginys: "Jomylista Habsburgas, tapęs viešpačiu vokyčių, ne vien patvirtino visas liecybas ir dovenas savo praėjūnų, bet dar dovenojo jiems visas žemes, nuo lietuvių ir žemaičių užimtąsias, ir ap siskelbė jų užtarytoju ir sargu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184558
-

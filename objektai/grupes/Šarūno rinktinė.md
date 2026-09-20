@@ -39,6 +39,26 @@ media_all_json: |-
 
 ## Teiginiai
 
+<a id="claim-t-49114"></a>
+- t-001
+  teiginys: "1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Šimonių girios apgultis: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "NKVD: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Šimonių girios apgultis: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citatoje NKVD susirėmimas siejamas su įvykiais, įvardytais kaip Šimonių girios apgultis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "NKVD dalyvavo mūšyje Šimonių girios apgultis (0.80)"
+  temporaliniai_duomenys: "įvykio data: 1949 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  pagrindžia:
+    - c-42991
+
 <a id="claim-t-49115"></a>
 - t-002
   teiginys: "Šarūno rinktinė buvo viena iš trijų Algimanto apygardos rinktinių kartu su Kunigaikščio Margio ir Žaliąja rinktinėmis."
@@ -56,30 +76,10 @@ media_all_json: |-
   pagrindžia:
     - c-51214
 
-<a id="claim-t-49114"></a>
-- t-49114
-  teiginys: "1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Šimonių girios apgultis: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "NKVD: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Šimonių girios apgultis: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citatoje NKVD susirėmimas siejamas su įvykiais, įvardytais kaip Šimonių girios apgultis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "NKVD dalyvavo mūšyje Šimonių girios apgultis (0.80)"
-  temporaliniai_duomenys: "įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  pagrindžia:
-    - c-42991
-
 <a id="claim-t-49116"></a>
-- t-49116
+- t-003
   teiginys: "Čekistai puolė Šarūno rinktinės štabo bunkerį, kurio vietą jiems nurodė Balys."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
@@ -111,8 +111,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-49114
+  pagrindzia:
+    - t-001
 
 - id: c-51214
   sudarytojas: "Karolis Zikaras"
@@ -127,12 +127,11 @@ media_all_json: |-
     bazavosi srities vadovybė, būdavo ren-
     giami srities vadų sąskrydžiai.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-51215
@@ -196,6 +195,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-49116
-
+  pagrindzia:
+    - t-003

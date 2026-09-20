@@ -43,6 +43,49 @@ canonical_biography: "1808 m. vasario 29 d. Ignacas Karpis testamentu atleido ap
 
 1808 m. vasario 29 d. Ignacas Karpis testamentu atleido apie 7000 savo dvarų valstiečių iš baudžiavos, bet be žemės. Ignaco Karpio testamento teisiniai padariniai buvo susiję su konfliktu tarp testamento vykdytojo E. Karpio ir valstiečių, manančių, kad buvo išlaisvinti su žeme. Ignacas Karpis testamente išvardijo Karpių valdomus dvarus, kurių valstiečius atleido iš baudžiavos, tarp jų – Senkonių dvarą.
 
+## Teiginiai
+
+<a id="claim-t-203716"></a>
+- t-001
+  teiginys: "1808 m. vasario 29 d. Ignacas Karpis testamentu atleido apie 7000 savo dvarų valstiečių iš baudžiavos, bet be žemės."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  temporaliniai_duomenys: "įvykio data: 1808 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškiai įvardija Igną Karpį, datą ir testamento padarinį. Atribucijos nereikia, papildomų faktų nepridėta."
+  pagrindžia:
+    - c-186320
+
+<a id="claim-t-203717"></a>
+- t-002
+  teiginys: "Ignaco Karpio testamento teisiniai padariniai buvo susiję su konfliktu tarp testamento vykdytojo E. Karpio ir valstiečių, manančių, kad buvo išlaisvinti su žeme."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  vertinimo_atnaujinta: "2026-07-30T18:39:53Z"
+  pagrindžia:
+    - c-186321
+
+<a id="claim-t-203718"></a>
+- t-003
+  teiginys: "Ignacas Karpis testamente išvardijo Karpių valdomus dvarus, kurių valstiečius atleido iš baudžiavos, tarp jų – Senkonių dvarą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  vertinimo_atnaujinta: "2026-07-30T18:39:53Z"
+  pagrindžia:
+    - c-186322
+
 ## Citatos
 
 - id: c-186320
@@ -61,7 +104,7 @@ canonical_biography: "1808 m. vasario 29 d. Ignacas Karpis testamentu atleido ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186321
@@ -82,7 +125,7 @@ canonical_biography: "1808 m. vasario 29 d. Ignacas Karpis testamentu atleido ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-186322
@@ -108,49 +151,5 @@ canonical_biography: "1808 m. vasario 29 d. Ignacas Karpis testamentu atleido ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-203716"></a>
-- t-001
-  teiginys: "1808 m. vasario 29 d. Ignacas Karpis testamentu atleido apie 7000 savo dvarų valstiečių iš baudžiavos, bet be žemės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
-  temporaliniai_duomenys: "įvykio data: 1808 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškiai įvardija Igną Karpį, datą ir testamento padarinį. Atribucijos nereikia, papildomų faktų nepridėta."
-  pagrindžia:
-    - c-186320
-
-<a id="claim-t-203717"></a>
-- t-002
-  teiginys: "Ignaco Karpio testamento teisiniai padariniai buvo susiję su konfliktu tarp testamento vykdytojo E. Karpio ir valstiečių, manančių, kad buvo išlaisvinti su žeme."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
-  vertinimo_atnaujinta: "2026-07-30T18:39:53Z"
-  pagrindžia:
-    - c-186321
-
-<a id="claim-t-203718"></a>
-- t-003
-  teiginys: "Ignacas Karpis testamente išvardijo Karpių valdomus dvarus, kurių valstiečius atleido iš baudžiavos, tarp jų – Senkonių dvarą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
-  vertinimo_atnaujinta: "2026-07-30T18:39:53Z"
-  pagrindžia:
-    - c-186322
-

@@ -51,22 +51,10 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 
 ## Teiginiai
 
-<a id="claim-t-209635"></a>
-- t-209635
-  teiginys: "Vogintas tapo praša lintas už pasipriešinimą iš Marijampolės ir per keltas Griškabudin vikaru."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192255
-
 <a id="claim-t-68592"></a>
-- t-68592
+- t-001
   teiginys: "Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Paryžius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,9 +68,9 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     - c-68137
 
 <a id="claim-t-68593"></a>
-- t-68593
+- t-002
   teiginys: "J. Totoraičio veikalas „Mindaugas, Lietuvos karalius“ buvo išleistas Marijampolėje 1932 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -99,9 +87,9 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     - c-68136
 
 <a id="claim-t-68594"></a>
-- t-68594
+- t-003
   teiginys: "Krasauskaitės pedagoginis darbas Marijampolėje trukdė jai tęsti istorinius tyrinėjimus tėvynėje ir emigracijoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -141,8 +129,8 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-68594
+  pagrindzia:
+    - t-003
 
 - id: c-68136
   autorius: "Zenonas Ivinskis"
@@ -161,8 +149,8 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-68593
+  pagrindzia:
+    - t-002
 
 - id: c-68137
   redaktorius: "A. Šapoka"
@@ -182,23 +170,5 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-68592
-
-- id: c-192255
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 69"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 69."
-  citata_originali: |
-    Kun. Vogintas tapo praša­
-    lintas už pasipriešinimą iš Marijampolės ir per­
-    keltas Griškabudin vikaru.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209635
-
+  pagrindzia:
+    - t-001

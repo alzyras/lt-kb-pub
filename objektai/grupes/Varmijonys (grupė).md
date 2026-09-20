@@ -29,6 +29,32 @@ media_all_json: |-
 
 Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys, kaipogi paskydus žiniai, jog Bai ga, visų stiprioji pilis, kliuvo į nagą kryžėjų, visi gyventojai užsirūstino ir tuojau kas ginklą pake liąs ėmė rinktis nuo visų pusių į būrį. Tuo pačiu laiku varmijonys nustojo taip pat sa vo karvedžio Glapo.
 
+## Teiginiai
+
+<a id="claim-t-201234"></a>
+- t-001
+  teiginys: "Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys, kaipogi paskydus žiniai, jog Bai ga, visų stiprioji pilis, kliuvo į nagą kryžėjų, visi gyventojai užsirūstino ir tuojau kas ginklą pake liąs ėmė rinktis nuo visų pusių į būrį."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184584
+
+<a id="claim-t-201235"></a>
+- t-002
+  teiginys: "Tuo pačiu laiku varmijonys nustojo taip pat sa vo karvedžio Glapo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184585
+
 ## Citatos
 
 - id: c-184584
@@ -64,7 +90,7 @@ Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184585
@@ -86,32 +112,5 @@ Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201234"></a>
-- t-001
-  teiginys: "Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys, kaipogi paskydus žiniai, jog Bai ga, visų stiprioji pilis, kliuvo į nagą kryžėjų, visi gyventojai užsirūstino ir tuojau kas ginklą pake liąs ėmė rinktis nuo visų pusių į būrį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184584
-
-<a id="claim-t-201235"></a>
-- t-002
-  teiginys: "Tuo pačiu laiku varmijonys nustojo taip pat sa vo karvedžio Glapo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184585
-

@@ -41,6 +41,45 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-194624"></a>
+- t-001
+  teiginys: "Dievobaimingiesiems vaide nasi, kad per garus, kylančius nuo valgių, jie mato valgančias mirusiųjų vėles, net girdi kažkokį šlamėjimą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177023
+
+<a id="claim-t-197251"></a>
+- t-002
+  teiginys: "Mirusiųjų vėles pir miausia kviesdavo į pirtį, kur kiekvienai iš pakviestųjų buvo pa ruošti prausimo reikmenys ir drabužiai."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179087
+
+<a id="claim-t-197252"></a>
+- t-003
+  teiginys: "Įsitikinę, kad ateinantis gyvenimas bus atpildas ir bausmė, jie nepaprastai rūpindavosi būsimu vėlės likimu, todėl prieš mirtį reikalaudavo iš giminaičių, kad tie stropiai atliktų laido tuvių apeigas ir per žynius ieškotų priemonių laimingam am žinajam."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-172683
+
 ## Citatos
 
 - id: c-172683
@@ -70,6 +109,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-177023
   autorius: "Teodoras Narbutas"
@@ -93,6 +134,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179087
   autorius: "Teodoras Narbutas"
@@ -112,143 +155,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197704
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 386"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 386."
-  citata_originali: |
-    Mirusiųjų vėles pir­
-    miausia kviesdavo į pirtį, kur kiekvienai iš pakviestųjų buvo pa­
-    ruošti prausimo reikmenys ir drabužiai. Paskui atskirai paruoš­
-    toje troboje valgiais ir gėrimais padengia stalą, o patys parvyks-
-    ia namo ir tris dienas puotauja. Pagaliau mirusiesiems skirtus
-    dalykus ir maistą nuneša ant kapų; mostais atsisveikinę su mi­
-    rusiaisiais, nueina. Kam patinka, gali pasiimti, kas palikta.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-198888
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 385"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 385."
-  citata_originali: |
-    Tęsiasi nepertraukia­
-    ma tyla, niekas neišdrįsta nei sujudėti, nei sukelti mažiausią šla­
-    mesį; visų akys nukreiptos į stalą. Dievobaimingiesiems vaide­
-    nasi, kad per garus, kylančius nuo valgių, jie mato valgančias
-    mirusiųjų vėles, net girdi kažkokį šlamėjimą. Gink dieve, jei tuo
-    momentu kieme sulotų šuo: tai jau būtų suvokiama taip, kad
-    kuri nors užsirūstinusi vėlė nenori eiti į trobą, o šitai reiškia,
-    kad ji ištisus metus bastysis aplink namus, gąsdins ir kenks. To­
-    dėl tam tarpui šunį paprastai uždarydavo priemenėje, kadangi
-    koks nors raganius gali jį suerzinti, o lojimas išgąsdintų vėles,
-    jos liktų nepagerbtos ir kliudytų namams.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-201406
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 387"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 387."
-  citata_originali: |
-    Tai
-    buvo atpildas dorovingiesiems; priešingai, nedorųjų ir nusi­
-    kaltėlių bei nepaklusnių žyniams po mirties laukė toks paža­
-    das: „Dievai atims iš jų viską, ką tik turėjo, kankins klaikiu
-    siaubu ir tokiomis kančiomis, kad jie turės kaukti ir inkšti lau­
-    žydami rankas tūkstantinėse nesibaigiančiose kančiose“ .
-    Spręsdami iš viso to, ką iki šiol pateikėme apie pomirtinį
-    gyvenimą, negalime abejoti, kad lietuviai tikėjo sielos nemir­
-    tingumu, bet šis prietarais aplipęs tikėjimas buvo priežastis
-    daugybės prietaringų nuomonių apie būsimą pomirtinę sielos
-    būklę.
-    Įsitikinę, kad ateinantis gyvenimas bus atpildas ir bausmė,
-    jie nepaprastai rūpindavosi būsimu vėlės likimu, todėl prieš
-    mirtį reikalaudavo iš giminaičių, kad tie stropiai atliktų laido­
-    tuvių apeigas ir per žynius ieškotų priemonių laimingam am­
-    žinajam gyvenimui pasiekti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-216368
-
-## Teiginiai
-
-<a id="claim-t-218173"></a>
-- t-001
-  teiginys: "Dievobaimingiesiems vaide nasi, kad per garus, kylančius nuo valgių, jie mato valgančias mirusiųjų vėles, net girdi kažkokį šlamėjimą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-198888
-
-<a id="claim-t-219352"></a>
-- t-002
-  teiginys: "Mirusiųjų vėles pir miausia kviesdavo į pirtį, kur kiekvienai iš pakviestųjų buvo pa ruošti prausimo reikmenys ir drabužiai."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197704
-
-<a id="claim-t-219988"></a>
-- t-003
-  teiginys: "Įsitikinę, kad ateinantis gyvenimas bus atpildas ir bausmė, jie nepaprastai rūpindavosi būsimu vėlės likimu, todėl prieš mirtį reikalaudavo iš giminaičių, kad tie stropiai atliktų laido tuvių apeigas ir per žynius ieškotų priemonių laimingam am žinajam."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201406
-
-<a id="claim-t-216368"></a>
-- t-216368
-  teiginys: "Narbutas rašo, kad per Dziady pirmoji gėrimo taurė būdavo skiriama mirusiųjų vėlių dievybėms ir statoma už lango."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Troba: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chauturej arba Dziady metinis mirusių giminaičių ir bičiulių paminėjimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Troba: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chauturej arba Dziady metinis mirusių giminaičių ir bičiulių paminėjimas\" parinktas kaip owner_note_path. Targetas \"Troba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-201406
-

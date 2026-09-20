@@ -1,38 +1,38 @@
 ---
 tipas: autorius
-pavadinimas: 'B. N. Floria'
+pavadinimas: B. N. Floria
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1440 m.'
-  - '1458 m.'
+  - 1440 m.
+  - 1458 m.
 date_start: '1440'
 date_end: '1458'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-94c36e08dbf3e044263d36cf"
-canonical_name: "B. N. Floria"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["B. N. Floria"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-94c36e08dbf3e044263d36cf
+canonical_name: B. N. Floria
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - B. N. Floria
 sameAs: []
-canonical_biography: "Florią kronika atsiradusi ne tik Slucko ku nigaikščių Olelkaičių, bet ir lietuvių didikų Goštautų aplinkoje dviem etapais."
+canonical_biography: 'Florią kronika atsiradusi ne tik Slucko ku nigaikščių Olelkaičių, bet ir lietuvių didikų Goštautų aplinkoje dviem etapais.'
 ---
 # B. N. Floria
 
@@ -82,6 +82,5 @@ Florią kronika atsiradusi ne tik Slucko ku nigaikščių Olelkaičių, bet ir l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

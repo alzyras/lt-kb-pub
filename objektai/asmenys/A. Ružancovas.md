@@ -34,6 +34,24 @@ canonical_biography: "Ružancovo vadovaujama „Jiezno ypatingoji rinktinė“, 
 
 Ružancovo vadovaujama „Jiezno ypatingoji rinktinė“, sudaryta iš 3 kuopų su 4 kulkosvaidžiais (vienas iš kulkosvaidžių buvo įkeltas į Jiezno bažnyčios bokštą).
 
+## Teiginiai
+
+<a id="claim-t-39981"></a>
+- t-001
+  teiginys: "A. Ružancovas vadovavo Jiezno ypatingajai rinktinei, sudarytai iš 3 kuopų su 4 kulkosvaidžiais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jieznas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Ružancovas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jieznas: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Ružancovas\" parinktas kaip owner_note_path. Targetas \"Jieznas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-44250
+
 ## Citatos
 
 - id: c-44250
@@ -62,24 +80,5 @@ Ružancovo vadovaujama „Jiezno ypatingoji rinktinė“, sudaryta iš 3 kuopų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-39981"></a>
-- t-001
-  teiginys: "A. Ružancovas vadovavo Jiezno ypatingajai rinktinei, sudarytai iš 3 kuopų su 4 kulkosvaidžiais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jieznas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Ružancovas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jieznas: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Ružancovas\" parinktas kaip owner_note_path. Targetas \"Jieznas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44250
-

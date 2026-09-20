@@ -36,6 +36,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203978"></a>
+- t-001
+  teiginys: "Kunigaikščio M. Glinskio šalininkas, Nikolskio vietininkas Čečerske Kurbaka turėjo būti pakartas, bet miestiečiai ir valsčiaus žmonės jį nuskandino."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186582
+
 ## Santrauka
 
 Kunigaikščio M. Glinskio šalininkas, Nikolskio vietininkas Čečerske Kurbaka turėjo būti pakartas, bet miestiečiai ir valsčiaus žmonės jį nuskandino.
@@ -58,20 +72,5 @@ Kunigaikščio M. Glinskio šalininkas, Nikolskio vietininkas Čečerske Kurbaka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203978"></a>
-- t-001
-  teiginys: "Kunigaikščio M. Glinskio šalininkas, Nikolskio vietininkas Čečerske Kurbaka turėjo būti pakartas, bet miestiečiai ir valsčiaus žmonės jį nuskandino."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  pagrindžia:
-    - c-186582
-

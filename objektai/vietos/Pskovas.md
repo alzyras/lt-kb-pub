@@ -1,17 +1,17 @@
 ---
 tipas: vieta
-pavadinimas: 'Pskovas'
+pavadinimas: Pskovas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1000 m.'
-  - '2026 m.'
+  - 1000 m.
+  - 2026 m.
 date_start: '1000'
 date_end: '2026'
 sukurta: ''
@@ -22,30 +22,41 @@ tags:
   - miestas
   - vieta
 amziai:
-  - 'X'
-  - 'XXI'
+  - X
+  - XXI
 media_total_count: '8'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'depicts'
-media_primary_json: |-
-  {"mediaId":"m-0a1fd38cf1c8f22f633e830a","title":"Ансамбль Псковского Кремля.jpg","caption":"Pskovo Kremliaus bokštas ir katedra","originalTitle":"Ансамбль Псковского Кремля.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:12:33","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985976+03:00","reviewedAt":"2026-07-18T14:10:05.944114+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis apvalus Kremliaus bokštas, gynybinė siena ir Pskovo Kremliaus katedra.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Pskovo Kremliaus ansamblį.","isPrimary":1}
-media_direct_json: |-
-  [{"mediaId":"m-0a1fd38cf1c8f22f633e830a","title":"Ансамбль Псковского Кремля.jpg","caption":"Pskovo Kremliaus bokštas ir katedra","originalTitle":"Ансамбль Псковского Кремля.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:12:33","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985976+03:00","reviewedAt":"2026-07-18T14:10:05.944114+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis apvalus Kremliaus bokštas, gynybinė siena ir Pskovo Kremliaus katedra.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Pskovo Kremliaus ansamblį.","isPrimary":1},{"mediaId":"m-0a7e7d101cf80388374d68cd","title":"Ансамбль Псковского Кремля. Вид 1.jpg","caption":"Pskovo Kremliaus ansamblis prie upės","originalTitle":"Ансамбль Псковского Кремля. Вид 1.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-29 15:41:19","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/93/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/93/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russia photographs taken on 2021-06-29","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.981864+03:00","reviewedAt":"2026-07-18T14:10:05.918706+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Pskovo Kremliaus balta apvali gynybinė bokšto dalis, įtvirtinimai ir vandens telkinys.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkretų Pskovo miesto istorinį objektą.","isPrimary":0},{"mediaId":"m-fb2f238087c6a69868b4642d","title":"Ансамбль Псковского Кремля. Вид 2.jpg","caption":"Pskovo Kremliaus ansamblis iš viršaus","originalTitle":"Ансамбль Псковского Кремля. Вид 2.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-27 11:11:41","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/46/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/46/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-27","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.982292+03:00","reviewedAt":"2026-07-18T14:10:05.924062+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matomos Pskovo Kremliaus sienos, bokštai, upė ir miesto panorama.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo Pskovo miesto istorinę tvirtovę.","isPrimary":0},{"mediaId":"m-bcb407bff941b225aee8230f","title":"Ансамбль Псковского Кремля. Вид 3.jpg","caption":"Pskovo Kremliaus įtvirtinimai ir upė","originalTitle":"Ансамбль Псковского Кремля. Вид 3.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-27 11:14:45","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/ce/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/ce/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-27","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.983069+03:00","reviewedAt":"2026-07-18T14:10:05.928376+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos Kremliaus akmeninės sienos, dengti įtvirtinimų takai, bokštas ir Pskovo upė.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai identifikuojamas kaip Pskovo Kremliaus vaizdas.","isPrimary":0},{"mediaId":"m-c53dd501bd5def2db5536719","title":"Ансамбль Псковского Кремля. Вид 4.jpg","caption":"Pskovo Kremlius nuo upės","originalTitle":"Ансамбль Псковского Кремля. Вид 4.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 20:30:15","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.983925+03:00","reviewedAt":"2026-07-18T14:10:05.932026+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Pskovo Kremliaus katedra, gynybinė siena, bokštai ir upės pakrantė.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Pskovo miesto Kremliaus ansamblį.","isPrimary":0},{"mediaId":"m-cdab754dd65fd43f6290acb4","title":"Ансамбль Псковского Кремля. Вид 5.jpg","caption":"Pskovo Kremliaus panorama nuo upės","originalTitle":"Ансамбль Псковского Кремля. Вид 5.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 20:45:36","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.984323+03:00","reviewedAt":"2026-07-18T14:10:05.935195+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Pskovo Kremliaus katedra, ilga gynybinė siena, bokštai ir upė; pakrantėje matomas užrašas rusų kalba.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo Pskovo miesto istorinį centrą ir jo tvirtovę.","isPrimary":0},{"mediaId":"m-d95fca9b9f931c44a2360b7d","title":"Ансамбль Псковского Кремля. Вид 6.jpg","caption":"Pskovo Kremliaus bokštai saulėlydžio metu","originalTitle":"Ансамбль Псковского Кремля. Вид 6.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:18:12","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985028+03:00","reviewedAt":"2026-07-18T14:10:05.938080+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi du Pskovo Kremliaus gynybiniai bokštai, vandens griovys, sienos ir jų atspindys.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkrečius Pskovo Kremliaus įtvirtinimus.","isPrimary":0},{"mediaId":"m-232fe9ef9eee61c7cb12cee3","title":"Ансамбль Псковского Кремля. Вид 7.jpg","caption":"Pskovo Kremliaus siena ir bokštas","originalTitle":"Ансамбль Псковского Кремля. Вид 7.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:18:58","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985476+03:00","reviewedAt":"2026-07-18T14:10:05.941171+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matoma akmeninė Kremliaus siena, apvalus gynybinis bokštas ir dengtas gynybinis takas.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Pskovo miesto Kremliaus gynybinę architektūrą.","isPrimary":0}]
-media_contextual_json: |-
-  []
-media_all_json: |-
-  [{"mediaId":"m-0a1fd38cf1c8f22f633e830a","title":"Ансамбль Псковского Кремля.jpg","caption":"Pskovo Kremliaus bokštas ir katedra","originalTitle":"Ансамбль Псковского Кремля.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:12:33","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985976+03:00","reviewedAt":"2026-07-18T14:10:05.944114+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis apvalus Kremliaus bokštas, gynybinė siena ir Pskovo Kremliaus katedra.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Pskovo Kremliaus ansamblį.","isPrimary":1},{"mediaId":"m-0a7e7d101cf80388374d68cd","title":"Ансамбль Псковского Кремля. Вид 1.jpg","caption":"Pskovo Kremliaus ansamblis prie upės","originalTitle":"Ансамбль Псковского Кремля. Вид 1.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-29 15:41:19","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/93/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/93/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russia photographs taken on 2021-06-29","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.981864+03:00","reviewedAt":"2026-07-18T14:10:05.918706+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Pskovo Kremliaus balta apvali gynybinė bokšto dalis, įtvirtinimai ir vandens telkinys.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkretų Pskovo miesto istorinį objektą.","isPrimary":0},{"mediaId":"m-fb2f238087c6a69868b4642d","title":"Ансамбль Псковского Кремля. Вид 2.jpg","caption":"Pskovo Kremliaus ansamblis iš viršaus","originalTitle":"Ансамбль Псковского Кремля. Вид 2.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-27 11:11:41","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/46/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/46/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-27","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.982292+03:00","reviewedAt":"2026-07-18T14:10:05.924062+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matomos Pskovo Kremliaus sienos, bokštai, upė ir miesto panorama.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo Pskovo miesto istorinę tvirtovę.","isPrimary":0},{"mediaId":"m-bcb407bff941b225aee8230f","title":"Ансамбль Псковского Кремля. Вид 3.jpg","caption":"Pskovo Kremliaus įtvirtinimai ir upė","originalTitle":"Ансамбль Псковского Кремля. Вид 3.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-27 11:14:45","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/ce/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/ce/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-27","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.983069+03:00","reviewedAt":"2026-07-18T14:10:05.928376+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos Kremliaus akmeninės sienos, dengti įtvirtinimų takai, bokštas ir Pskovo upė.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai identifikuojamas kaip Pskovo Kremliaus vaizdas.","isPrimary":0},{"mediaId":"m-c53dd501bd5def2db5536719","title":"Ансамбль Псковского Кремля. Вид 4.jpg","caption":"Pskovo Kremlius nuo upės","originalTitle":"Ансамбль Псковского Кремля. Вид 4.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 20:30:15","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.983925+03:00","reviewedAt":"2026-07-18T14:10:05.932026+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Pskovo Kremliaus katedra, gynybinė siena, bokštai ir upės pakrantė.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Pskovo miesto Kremliaus ansamblį.","isPrimary":0},{"mediaId":"m-cdab754dd65fd43f6290acb4","title":"Ансамбль Псковского Кремля. Вид 5.jpg","caption":"Pskovo Kremliaus panorama nuo upės","originalTitle":"Ансамбль Псковского Кремля. Вид 5.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 20:45:36","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.984323+03:00","reviewedAt":"2026-07-18T14:10:05.935195+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Pskovo Kremliaus katedra, ilga gynybinė siena, bokštai ir upė; pakrantėje matomas užrašas rusų kalba.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo Pskovo miesto istorinį centrą ir jo tvirtovę.","isPrimary":0},{"mediaId":"m-d95fca9b9f931c44a2360b7d","title":"Ансамбль Псковского Кремля. Вид 6.jpg","caption":"Pskovo Kremliaus bokštai saulėlydžio metu","originalTitle":"Ансамбль Псковского Кремля. Вид 6.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:18:12","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985028+03:00","reviewedAt":"2026-07-18T14:10:05.938080+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi du Pskovo Kremliaus gynybiniai bokštai, vandens griovys, sienos ir jų atspindys.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkrečius Pskovo Kremliaus įtvirtinimus.","isPrimary":0},{"mediaId":"m-232fe9ef9eee61c7cb12cee3","title":"Ансамбль Псковского Кремля. Вид 7.jpg","caption":"Pskovo Kremliaus siena ir bokštas","originalTitle":"Ансамбль Псковского Кремля. Вид 7.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:18:58","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985476+03:00","reviewedAt":"2026-07-18T14:10:05.941171+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matoma akmeninė Kremliaus siena, apvalus gynybinis bokštas ir dengtas gynybinis takas.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Pskovo miesto Kremliaus gynybinę architektūrą.","isPrimary":0}]
-entity_id: "ent-befc70b1be1b9f8d7d1d9b23"
-canonical_name: "Pskovas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pskovas"]
+media_primary_directness: direct
+media_primary_relation_type: depicts
+media_primary_json: '{"mediaId":"m-0a1fd38cf1c8f22f633e830a","title":"Ансамбль Псковского Кремля.jpg","caption":"Pskovo Kremliaus bokštas ir katedra","originalTitle":"Ансамбль Псковского Кремля.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:12:33","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985976+03:00","reviewedAt":"2026-07-18T14:10:05.944114+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis apvalus Kremliaus bokštas, gynybinė siena ir Pskovo Kremliaus katedra.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Pskovo Kremliaus ansamblį.","isPrimary":1}'
+media_direct_json: '[{"mediaId":"m-0a1fd38cf1c8f22f633e830a","title":"Ансамбль Псковского Кремля.jpg","caption":"Pskovo Kremliaus bokštas ir katedra","originalTitle":"Ансамбль Псковского Кремля.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:12:33","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985976+03:00","reviewedAt":"2026-07-18T14:10:05.944114+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis apvalus Kremliaus bokštas, gynybinė siena ir Pskovo Kremliaus katedra.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Pskovo Kremliaus ansamblį.","isPrimary":1},{"mediaId":"m-0a7e7d101cf80388374d68cd","title":"Ансамбль Псковского Кремля. Вид 1.jpg","caption":"Pskovo Kremliaus ansamblis prie upės","originalTitle":"Ансамбль Псковского Кремля. Вид 1.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-29 15:41:19","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/93/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/93/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russia photographs taken on 2021-06-29","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.981864+03:00","reviewedAt":"2026-07-18T14:10:05.918706+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Pskovo Kremliaus balta apvali gynybinė bokšto dalis, įtvirtinimai ir vandens telkinys.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkretų Pskovo miesto istorinį objektą.","isPrimary":0},{"mediaId":"m-fb2f238087c6a69868b4642d","title":"Ансамбль Псковского Кремля. Вид 2.jpg","caption":"Pskovo Kremliaus ansamblis iš viršaus","originalTitle":"Ансамбль Псковского Кремля. Вид 2.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-27 11:11:41","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/46/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/46/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-27","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.982292+03:00","reviewedAt":"2026-07-18T14:10:05.924062+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matomos Pskovo Kremliaus sienos, bokštai, upė ir miesto panorama.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo Pskovo miesto istorinę tvirtovę.","isPrimary":0},{"mediaId":"m-bcb407bff941b225aee8230f","title":"Ансамбль Псковского Кремля. Вид 3.jpg","caption":"Pskovo Kremliaus įtvirtinimai ir upė","originalTitle":"Ансамбль Псковского Кремля. Вид 3.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-27 11:14:45","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/ce/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/ce/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-27","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.983069+03:00","reviewedAt":"2026-07-18T14:10:05.928376+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos Kremliaus akmeninės sienos, dengti įtvirtinimų takai, bokštas ir Pskovo upė.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai identifikuojamas kaip Pskovo Kremliaus vaizdas.","isPrimary":0},{"mediaId":"m-c53dd501bd5def2db5536719","title":"Ансамбль Псковского Кремля. Вид 4.jpg","caption":"Pskovo Kremlius nuo upės","originalTitle":"Ансамбль Псковского Кремля. Вид 4.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 20:30:15","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.983925+03:00","reviewedAt":"2026-07-18T14:10:05.932026+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Pskovo Kremliaus katedra, gynybinė siena, bokštai ir upės pakrantė.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Pskovo miesto Kremliaus ansamblį.","isPrimary":0},{"mediaId":"m-cdab754dd65fd43f6290acb4","title":"Ансамбль Псковского Кремля. Вид 5.jpg","caption":"Pskovo Kremliaus panorama nuo upės","originalTitle":"Ансамбль Псковского Кремля. Вид 5.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 20:45:36","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.984323+03:00","reviewedAt":"2026-07-18T14:10:05.935195+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Pskovo Kremliaus katedra, ilga gynybinė siena, bokštai ir upė; pakrantėje matomas užrašas rusų kalba.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo Pskovo miesto istorinį centrą ir jo tvirtovę.","isPrimary":0},{"mediaId":"m-d95fca9b9f931c44a2360b7d","title":"Ансамбль Псковского Кремля. Вид 6.jpg","caption":"Pskovo Kremliaus bokštai saulėlydžio metu","originalTitle":"Ансамбль Псковского Кремля. Вид 6.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:18:12","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985028+03:00","reviewedAt":"2026-07-18T14:10:05.938080+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi du Pskovo Kremliaus gynybiniai bokštai, vandens griovys, sienos ir jų atspindys.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkrečius Pskovo Kremliaus įtvirtinimus.","isPrimary":0},{"mediaId":"m-232fe9ef9eee61c7cb12cee3","title":"Ансамбль Псковского Кремля. Вид 7.jpg","caption":"Pskovo Kremliaus siena ir bokštas","originalTitle":"Ансамбль Псковского Кремля. Вид 7.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:18:58","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985476+03:00","reviewedAt":"2026-07-18T14:10:05.941171+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matoma akmeninė Kremliaus siena, apvalus gynybinis bokštas ir dengtas gynybinis takas.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Pskovo miesto Kremliaus gynybinę architektūrą.","isPrimary":0}]'
+media_contextual_json: '[]'
+media_all_json: '[{"mediaId":"m-0a1fd38cf1c8f22f633e830a","title":"Ансамбль Псковского Кремля.jpg","caption":"Pskovo Kremliaus bokštas ir katedra","originalTitle":"Ансамбль Псковского Кремля.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:12:33","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985976+03:00","reviewedAt":"2026-07-18T14:10:05.944114+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas didelis apvalus Kremliaus bokštas, gynybinė siena ir Pskovo Kremliaus katedra.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Pskovo Kremliaus ansamblį.","isPrimary":1},{"mediaId":"m-0a7e7d101cf80388374d68cd","title":"Ансамбль Псковского Кремля. Вид 1.jpg","caption":"Pskovo Kremliaus ansamblis prie upės","originalTitle":"Ансамбль Псковского Кремля. Вид 1.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-29 15:41:19","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/93/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/93/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_1.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russia photographs taken on 2021-06-29","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.981864+03:00","reviewedAt":"2026-07-18T14:10:05.918706+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Pskovo Kremliaus balta apvali gynybinė bokšto dalis, įtvirtinimai ir vandens telkinys.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkretų Pskovo miesto istorinį objektą.","isPrimary":0},{"mediaId":"m-fb2f238087c6a69868b4642d","title":"Ансамбль Псковского Кремля. Вид 2.jpg","caption":"Pskovo Kremliaus ansamblis iš viršaus","originalTitle":"Ансамбль Псковского Кремля. Вид 2.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-27 11:11:41","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/46/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/46/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_2.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-27","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.982292+03:00","reviewedAt":"2026-07-18T14:10:05.924062+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matomos Pskovo Kremliaus sienos, bokštai, upė ir miesto panorama.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo Pskovo miesto istorinę tvirtovę.","isPrimary":0},{"mediaId":"m-bcb407bff941b225aee8230f","title":"Ансамбль Псковского Кремля. Вид 3.jpg","caption":"Pskovo Kremliaus įtvirtinimai ir upė","originalTitle":"Ансамбль Псковского Кремля. Вид 3.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-27 11:14:45","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/ce/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/ce/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_3.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-27","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.983069+03:00","reviewedAt":"2026-07-18T14:10:05.928376+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos Kremliaus akmeninės sienos, dengti įtvirtinimų takai, bokštas ir Pskovo upė.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai identifikuojamas kaip Pskovo Kremliaus vaizdas.","isPrimary":0},{"mediaId":"m-c53dd501bd5def2db5536719","title":"Ансамбль Псковского Кремля. Вид 4.jpg","caption":"Pskovo Kremlius nuo upės","originalTitle":"Ансамбль Псковского Кремля. Вид 4.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 20:30:15","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_4.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.983925+03:00","reviewedAt":"2026-07-18T14:10:05.932026+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Pskovo Kremliaus katedra, gynybinė siena, bokštai ir upės pakrantė.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo atpažįstamą Pskovo miesto Kremliaus ansamblį.","isPrimary":0},{"mediaId":"m-cdab754dd65fd43f6290acb4","title":"Ансамбль Псковского Кремля. Вид 5.jpg","caption":"Pskovo Kremliaus panorama nuo upės","originalTitle":"Ансамбль Псковского Кремля. Вид 5.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 20:45:36","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_5.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.984323+03:00","reviewedAt":"2026-07-18T14:10:05.935195+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Pskovo Kremliaus katedra, ilga gynybinė siena, bokštai ir upė; pakrantėje matomas užrašas rusų kalba.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo Pskovo miesto istorinį centrą ir jo tvirtovę.","isPrimary":0},{"mediaId":"m-d95fca9b9f931c44a2360b7d","title":"Ансамбль Псковского Кремля. Вид 6.jpg","caption":"Pskovo Kremliaus bokštai saulėlydžio metu","originalTitle":"Ансамбль Псковского Кремля. Вид 6.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:18:12","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_6.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985028+03:00","reviewedAt":"2026-07-18T14:10:05.938080+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi du Pskovo Kremliaus gynybiniai bokštai, vandens griovys, sienos ir jų atspindys.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkrečius Pskovo Kremliaus įtvirtinimus.","isPrimary":0},{"mediaId":"m-232fe9ef9eee61c7cb12cee3","title":"Ансамбль Псковского Кремля. Вид 7.jpg","caption":"Pskovo Kremliaus siena ir bokštas","originalTitle":"Ансамбль Псковского Кремля. Вид 7.jpg","creator":"Eirene Andrea Craske","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-06-26 21:18:58","dateStart":null,"dateEnd":null,"width":4032,"height":2268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg/1920px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F._%D0%92%D0%B8%D0%B4_7.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Cultural heritage monuments in Russia with known IDs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments 2021 in Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from Wiki Loves Monuments missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kremlin of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pskov Oblast photographs taken on 2021-06-26","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Russian heritage ID 6010034000","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded via Campaign:wlm-ru","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Pskovas.md","title":"Pskovas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:00:01.985476+03:00","reviewedAt":"2026-07-18T14:10:05.941171+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matoma akmeninė Kremliaus siena, apvalus gynybinis bokštas ir dengtas gynybinis takas.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Pskovo miesto Kremliaus gynybinę architektūrą.","isPrimary":0}]'
+entity_id: ent-befc70b1be1b9f8d7d1d9b23
+canonical_name: Pskovas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pskovas
 sameAs: []
-canonical_biography: "Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas. Nuo pat Melno taikos jis jau ėmė galvoti apie žygį į Pskovą, į kurį teišsiruošė vos 1426 m. Paties Pskovo jis nepaėmė, pasitenkindamas 1.000 rublių kontribucija (anais laikais tai buvo milžiniška suma)."
+canonical_biography: 'Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas. Nuo pat Melno taikos jis jau ėmė galvoti apie žygį į Pskovą, į kurį teišsiruošė vos 1426 m. Paties Pskovo jis nepaėmė, pasitenkindamas 1.000 rublių kontribucija (anais laikais tai buvo milžiniška suma).'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Pskovas","url":"https://lt.wikipedia.org/wiki/Pskovas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Pskovas","url":"https://www.vle.lt/straipsnis/pskovas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-18T21:33:20+00:00","source_checked_at":"2026-09-18T21:33:20+00:00","counts":{"relations":19,"gallery":8,"sources":5},"featured_claim_ids":["t-178112","t-178113","t-178149","t-178106","t-178107"],"featured_claims":[{"claim_id":"t-178112","text":"Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-161892","c-182724"]},{"claim_id":"t-178113","text":"Kazimierui pasidalijus įtakos sritimis su Maskva, Pskovas ir Didysis Naugardas buvo palikti Maskvos įtakoje.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-24425","c-182721"]},{"claim_id":"t-178149","text":"Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-161932"]},{"claim_id":"t-178106","text":"Gedimino ar Algirdo laikais Pskovas buvo Lietuvos politinėje įtakoje.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-161937","c-182735"]},{"claim_id":"t-178107","text":"Pskovas ir Didysis Naugardas anksčiau už Vilnių virto tankiai gyvenamomis ir turtingomis prekybinėmis gyvenvietėmis.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-161930","c-182699"]}],"featured_quote":{"text":"Grįžimas namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","claim_id":"t-199844","evidence_id":"c-161892","origin":"internal"},"wiki":{"status":"published","source":{"title":"Pskovas","url":"https://lt.wikipedia.org/wiki/Pskovas","publisher":"Vikipedija","language":"lt","article_id":"34247","revision_id":"7667362","published_at":"2025-10-13T11:12:46Z","version_pk":"","content_hash":"7f853c78dfa012d342bd6cf342d706122cb2ea02eea743ffe3dfb1edcc678043","retrieved_at":"2026-09-18T21:30:40+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Pskovas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"34247"}},"intro":"Pskovas (vok. Pleskau, est. Pihkva) – miestas šiaurės vakarų Rusijoje, prie Velikajos upės. Srities centras. Didelis geležinkelio mazgas, prekybos centras, regione auginama daug linų. Gaminamos mašinos ir įrengimai, audiniai, statybinės medžiagos. Išlikęs XIII a. kremlius (Citadelė), XIV-XV a. cerkvės.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Pskovas","url":"https://lt.wikipedia.org/wiki/Pskovas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Pskovas","url":"https://www.vle.lt/straipsnis/pskovas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Pskovas","https://www.vle.lt/straipsnis/pskovas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"60b48c57e460cbb64be045f4","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Įsikūręs toliau šiaurėje.","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.); aprašydamas Pskovą ir Didįjį Naugardą, autorius nurodo, kad jie buvo įsikūrę toliau šiaurėje.","support_ids":["t-178107","c-161930"],"source_refs":[{"kind":"internal_claim","claim_id":"t-178107","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-161930","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar- das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti, tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­ tingesnėmis gyvenvietėmis. Įsikūrusių toliau šiaurėje mongolų antpuoliai jų ne tik nepalietė taip, kaip visos Rusios, bet ir nelei­ do įsigalėti jokiems smulkiems kunigaikščiams, valdžiusiems sa­ vo teritorijas, išsekintiems tarpusavio vaidų ir totorių atakų."}],"status":"published","conflict_status":"clear"},{"trait_id":"5ff5b8c5f2908fb6c0954dc6","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Garsėjo mūrais.","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.); Lietuvos rytuose Pskovas dar prieš XIII amžių apibūdinamas kaip mūrais garsėjęs miestas.","support_ids":["t-178149","c-161932"],"source_refs":[{"kind":"internal_claim","claim_id":"t-178149","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-161932","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi. Maskva tuomet dar tebuvo menka gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė."}],"status":"published","conflict_status":"clear"},{"trait_id":"cd27a00349bda592d38c0af9","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Tinkamas prekybai.","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.); autorius nurodo, kad Pskovas buvo anksčiau už Vilnių įkurtas ir tinkamas prekybai.","support_ids":["t-178123","c-161917"],"source_refs":[{"kind":"internal_claim","claim_id":"t-178123","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-161917","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Didžiulė politinė permaina, atėjusi per Jogailą su Lietuvos krikštu ir sąjunga su Lenkija, vėliau greitas Lietuvos vasalų virtimas turtingiausia aristokratija - visa tai Vilniaus mies­ tiečiams nesuteikė nei progos, nei palankaus meto įgyti daugiau laisvių. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar- das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti, tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­ tingesnėmis gyvenvietėmis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9ad7b83ad4f729205534a935","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Prekybinė gyvenvietė.","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.); autorius teigia, kad Pskovas greičiau virto tankiai gyvenama ir turtingesne gyvenviete.","support_ids":["t-178107","c-161930"],"source_refs":[{"kind":"internal_claim","claim_id":"t-178107","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-161930","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar- das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti, tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­ tingesnėmis gyvenvietėmis. Įsikūrusių toliau šiaurėje mongolų antpuoliai jų ne tik nepalietė taip, kaip visos Rusios, bet ir nelei­ do įsigalėti jokiems smulkiems kunigaikščiams, valdžiusiems sa­ vo teritorijas, išsekintiems tarpusavio vaidų ir totorių atakų."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Pskovas – istorinis Rusios miestas, Lietuvos rytuose garsėjęs dar gerokai prieš XIII amžių. Jis buvo svarbus prekybos centras, išsiskyrė mūrais ir netgi turėjo savą valdžią. Už Vilnių anksčiau įkurtas ir prekybai tinkamas Pskovas greičiau virto tankiai gyvenama bei turtingesne gyvenviete. Gedimino arba Algirdo laikais miestas pateko į Lietuvos politinės įtakos lauką, o Vytauto rytinių valstybės pakraščių patikrinimo metu 1426 m. buvo pajungtas. Vėliau, Kazimierui pasidalijus įtakos sritimis su Maskva, Pskovas buvo paliktas Maskvos įtakoje, todėl jo istorija atskleidžia kintančią Lietuvos, Maskvos ir Rusios miestų politinę pusiausvyrą.","sentences":[{"sentence_id":"s1","text":"Pskovas – istorinis Rusios miestas, Lietuvos rytuose garsėjęs dar gerokai prieš XIII amžių.","support_ids":["t-178149","c-161932"]},{"sentence_id":"s2","text":"Jis buvo svarbus prekybos centras, išsiskyrė mūrais ir netgi turėjo savą valdžią.","support_ids":["t-178149","c-161932"]},{"sentence_id":"s3","text":"Už Vilnių anksčiau įkurtas ir prekybai tinkamas Pskovas greičiau virto tankiai gyvenama bei turtingesne gyvenviete.","support_ids":["t-178123","c-161917"]},{"sentence_id":"s4","text":"Gedimino arba Algirdo laikais miestas pateko į Lietuvos politinės įtakos lauką, o Vytauto rytinių valstybės pakraščių patikrinimo metu 1426 m. buvo pajungtas.","support_ids":["t-178106","c-161937","t-178112","c-161892"]},{"sentence_id":"s5","text":"Vėliau, Kazimierui pasidalijus įtakos sritimis su Maskva, Pskovas buvo paliktas Maskvos įtakoje, todėl jo istorija atskleidžia kintančią Lietuvos, Maskvos ir Rusios miestų politinę pusiausvyrą.","support_ids":["t-178113","c-24425"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Visi teiginio faktai tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Prekyba, mūrai ir sava valdžia tiesiogiai nurodyti t-178149 šaltinyje."},{"sentence_id":"s3","supported":true,"reason":"Visi teiginio faktai tiesiogiai paremti t-178123 ir c-161917."},{"sentence_id":"s4","supported":true,"reason":"Pskovo politinė įtaka Lietuvai ir 1426 m. pajungimas tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s5","supported":false,"reason":"Pirmoji sakinio dalis paremta, tačiau išvada, kad Pskovo istorija atskleidžia kintančią Lietuvos, Maskvos ir Rusios miestų politinę pusiausvyrą, šaltiniuose tiesiogiai nepateikta."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-178149","c-161932"]},{"sentence_id":"s2","supported":true,"support_ids":["t-178149","c-161932"]},{"sentence_id":"s3","supported":true,"support_ids":["t-178123","c-161917"]},{"sentence_id":"s4","supported":true,"support_ids":["t-178106","c-161937","t-178112","c-161892"]},{"sentence_id":"s5","supported":true,"support_ids":["t-178113","c-24425"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-0a1fd38cf1c8f22f633e830a","reason":"deterministic_media_primary","identity_verified":false,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-0a7e7d101cf80388374d68cd","relation_type":"depicts"},{"media_id":"m-fb2f238087c6a69868b4642d","relation_type":"depicts"},{"media_id":"m-bcb407bff941b225aee8230f","relation_type":"depicts"}],"media_verification":{"status":"not_required","primary_media_id":"m-0a1fd38cf1c8f22f633e830a","candidate_count":8,"visual_verified_count":8,"identity_verified_count":0,"primary":{"visual_verified":true,"identity_verified":false,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Vaizdas tiesiogiai rodo atpažįstamą Pskovo Kremliaus ansamblį.","visual_evidence":"Matomas didelis apvalus Kremliaus bokštas, gynybinė siena ir Pskovo Kremliaus katedra.","metadata_evidence":"Pavadinime ir apraše tiesiogiai įvardytas Pskovo Kromas, arba Pskovo Kremlius, esantis Pskove.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"inbound","target":"objektai/asmenys/Steponas Batoras","claim_id":"t-113997","confidence":0.62},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-178116","confidence":0.96},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Dovydas Gardiniškis","claim_id":"t-223810","confidence":0.91},{"predicate":"gyne","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-220712","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Daumantas","claim_id":"t-32383","confidence":0.88},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Pskoviečiai","claim_id":"t-87204","confidence":0.6},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-178145","confidence":0.89},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-177709","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Bokštai","claim_id":"t-178147","confidence":0.77},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kremlius","claim_id":"t-178110","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-180097","confidence":0.69},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-34521","confidence":0.97},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-178105","confidence":0.94},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-184311","confidence":0.94},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-09528","confidence":0.93},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-178112","confidence":0.84},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Daumantas","claim_id":"t-82252","confidence":0.88},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Jurijus Vytutaitis","claim_id":"t-219767","confidence":0.93},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Jurgis Vytautaitis","claim_id":"t-39568","confidence":0.74}],"timeline":[{"date":"1426 m.","label":"Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.","claimId":"t-178112"},{"date":"1426 m.","label":"Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.","claimId":"t-199844"},{"date":"1449 m.","label":"1449 m.","claimId":"t-178154"},{"date":"1449 m.","label":"1449 m.","claimId":"t-199814"}],"support_disclosure":{"claims":13,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 4d6619e6a9879161
+object_page_generated_at: '2026-09-18T21:33:20+00:00'
+object_page_source_checked_at: '2026-09-18T21:33:20+00:00'
+object_page_content_state: content
+object_page_claim_count: '13'
+object_page_source_count: '3'
+object_page_seo_description: 'Pskovas – istorinis Rusios miestas, Lietuvos rytuose garsėjęs dar gerokai prieš XIII amžių. Jis buvo svarbus prekybos centras, išsiskyrė mūrais ir netgi…'
+object_page_seo_input_hash: a00e5d97c220912c6ebd89313f3a6b31d12d9f05bb0da3bd2dcb53b65db830e8
+object_page_seo_generated_at: '2026-09-18T21:33:20+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Pskovas
 
@@ -55,90 +66,10 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 
 ## Teiginiai
 
-<a id="claim-t-211129"></a>
-- t-211129
-  teiginys: "O pats, nulipęs iš pilies ir prasimušęs per Nari manto kariuomenę, leidosi bėgti ir pribėgo Pskovo miestą."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194127
-
-<a id="claim-t-211166"></a>
-- t-211166
-  teiginys: "Vytautas išsirengė prieš Pskovo miestą ir paėmė Veližą bei Krasnyj Gorodą."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193918
-
-<a id="claim-t-211494"></a>
-- t-211494
-  teiginys: "Pskovo ir Didžiojo Nau garduko feodalinių respublikų atžvilgiu."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193242
-
-<a id="claim-t-211597"></a>
-- t-211597
-  teiginys: "Vytautas pasiuntė pasiuntinius į Pskovą reikalaudamas pripažinti jį valdovu ir mokėti duoklę."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193270
-
-<a id="claim-t-219261"></a>
-- t-219261
-  teiginys: "Abejotinos istorijos periodas, tai yra nuo nuolatinių Lie tuvos žygių i rusų kraštus (Pskovą ir Naugardą) iki 1240 metų, tai yra Mindaugo valdymo."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200919
-
-<a id="claim-t-183086"></a>
-- t-183086
-  teiginys: "Steponui Batorui apgulus Pskovą, Posevinui tarpininkaujant prasidėjo derybos dėl karo pabaigos."
-  atnaujinta: "2026-09-13 23:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Pskovas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad lietuviai nusiaubė Pskovą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  pagrindžia:
-    - c-166474
-
 <a id="claim-t-178103"></a>
-- t-178103
+- t-001
   teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Elena (vyskupas, XV–XVI a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -154,9 +85,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182725
 
 <a id="claim-t-178105"></a>
-- t-178105
+- t-002
   teiginys: "1183 m. lietuviai per pirmąjį savarankišką žygį į Rusios žemes nusiaubė Pskovą ir pakeliui turbūt Polocką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Pskovas: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -176,9 +107,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182713
 
 <a id="claim-t-178106"></a>
-- t-178106
+- t-003
   teiginys: "Gedimino ar Algirdo laikais Pskovas buvo Lietuvos politinėje įtakoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -193,9 +124,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182735
 
 <a id="claim-t-178107"></a>
-- t-178107
+- t-004
   teiginys: "Pskovas ir Didysis Naugardas anksčiau už Vilnių virto tankiai gyvenamomis ir turtingomis prekybinėmis gyvenvietėmis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Didysis Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -208,12 +139,11 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-161930
-    - c-182699
 
 <a id="claim-t-178109"></a>
-- t-178109
+- t-005
   teiginys: "Vytauto pastangos Pskove pastatyti savo vietininką sukėlė naują konfliktą su Maskva."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -231,9 +161,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161896
 
 <a id="claim-t-178110"></a>
-- t-178110
+- t-006
   teiginys: "1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Pskovas: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -251,14 +181,11 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindžia:
     - c-43782
     - c-161901
-    - c-182718
-    - c-182719
-    - c-43781
 
 <a id="claim-t-178112"></a>
-- t-178112
+- t-007
   teiginys: "Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzkariavo -> Pskovas: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -274,12 +201,11 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   temporalinis_llm_pakomentavimas: "Pašalintas neaiškus kontekstinis pradžios fragmentas."
   pagrindžia:
     - c-161892
-    - c-182724
 
 <a id="claim-t-178113"></a>
-- t-178113
+- t-008
   teiginys: "Kazimierui pasidalijus įtakos sritimis su Maskva, Pskovas ir Didysis Naugardas buvo palikti Maskvos įtakoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Didysis Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -291,13 +217,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-182721
     - c-24425
+    - c-182721
 
 <a id="claim-t-178116"></a>
-- t-178116
+- t-009
   teiginys: "Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyne -> Pskovas: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -311,14 +237,12 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-161931
-    - c-182702
     - c-161928
-    - c-182727
 
 <a id="claim-t-178117"></a>
-- t-178117
+- t-010
   teiginys: "1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bajorais sudarė sutartį su Švitrigaila."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksas Jefremovičius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -334,12 +258,11 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-161895
-    - c-182723
 
 <a id="claim-t-178118"></a>
-- t-178118
+- t-011
   teiginys: "Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Pskovas: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -355,9 +278,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182728
 
 <a id="claim-t-178120"></a>
-- t-178120
+- t-012
   teiginys: "1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Pskovas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -376,10 +299,28 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161935
     - c-182705
 
+<a id="claim-t-178121"></a>
+- t-013
+  teiginys: "Steponui Batorui apgulus Pskovą, Posevinui tarpininkaujant prasidėjo derybos dėl karo pabaigos."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Linkas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Linkas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Linkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-24428
+    - c-166474
+    - c-182736
+
 <a id="claim-t-178123"></a>
-- t-178123
+- t-014
   teiginys: "Pskovas ir Didysis Naugardas buvo anksčiau už Vilnių įkurti prekybai tinkami Rusios miestai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Didysis Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -392,14 +333,12 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-161917
-    - c-182717
     - c-161930
-    - c-182699
 
 <a id="claim-t-178124"></a>
-- t-178124
+- t-015
   teiginys: "1409 m. vasarą Vytautas sudarė sau naudingą taiką su Pskovu, nors Salyno ir Raciąžo aktai Pskovą buvo garantavę Ordino įtakai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Salynas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -417,9 +356,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161904
 
 <a id="claim-t-178125"></a>
-- t-178125
+- t-016
   teiginys: "Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -435,9 +374,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182704
 
 <a id="claim-t-178126"></a>
-- t-178126
+- t-017
   teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Odojevas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -453,35 +392,11 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-161925
-    - c-182731
-
-<a id="claim-t-178127"></a>
-- t-178127
-  teiginys: "Vėlesniais Vytauto valdymo metais Vilniaus prekyba išsišakojo su Pskovu, Naugardu, Maskva ir kitais kraštais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-161898
-    - c-161910
-    - c-182704
-    - c-161930
-    - c-182699
-    - c-182706
-    - c-182708
 
 <a id="claim-t-178128"></a>
-- t-178128
+- t-018
   teiginys: "Steponas Batoras, susirūpinęs Pskovo apgultimi, iš stovyklos parašė laišką dėl taikos ir laisvės valstybėje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -497,17 +412,10 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182722
 
 <a id="claim-t-178130"></a>
-- t-178130
+- t-019
   teiginys: "Senyvo amžiaus Vytautas kovėsi su Pskovu ir Naugardu, keršydamas už Lietuvai šių miestų padarytas skriaudas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   temporaliniai_duomenys: "įvykio data: 1429 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
@@ -516,15 +424,12 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindžia:
     - c-161910
     - c-182704
-    - c-161915
-    - c-182714
-    - c-161902
-    - c-182709
+    - c-186142
 
 <a id="claim-t-178132"></a>
-- t-178132
+- t-020
   teiginys: "Lietuviams puolant Vilnių, rusų įguloje buvo du Pskovo muškietininkų pulko batalionai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vilnius: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -542,29 +447,10 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-43783
     - c-182715
 
-<a id="claim-t-178133"></a>
-- t-178133
-  teiginys: "Ordino reikalautos Žemaičių ribos buvo vedamos iki Pskovo respublikos valdų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-32365
-    - c-182733
-    - c-182734
-
 <a id="claim-t-178134"></a>
-- t-178134
+- t-021
   teiginys: "1427 m. sėkmingas Vytauto žygis privertė Pskovo pasiuntinius atvykti į Vilnių dėl belaisvių paleidimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -579,12 +465,11 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-161915
-    - c-182714
 
 <a id="claim-t-178135"></a>
-- t-178135
+- t-022
   teiginys: "XI–XII a. Pskovo žemės minimos kaip šiaurės vakarų rusėnų koalicijos prieš Lietuvą dalis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -600,9 +485,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182726
 
 <a id="claim-t-178136"></a>
-- t-178136
+- t-023
   teiginys: "Steponas Batoras, susirūpinęs Pskovo apgultimi, iš stovyklos parašė laišką dėl taikos krašte saugojimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -618,9 +503,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182722
 
 <a id="claim-t-178137"></a>
-- t-178137
+- t-024
   teiginys: "Pskoviečiai pasiuntė savo posadnikus Joachimą Pavlovičių ir Ivaną Sidorovičių perduoti Vytautui žadėto sidabro."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pskoviečiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -634,13 +519,11 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindžia:
     - c-161902
     - c-182709
-    - c-161915
-    - c-182714
 
 <a id="claim-t-178138"></a>
-- t-178138
+- t-025
   teiginys: "Pskovas buvo palankus Maskvai, kai ši privertė pasiduoti Lietuvos sąjungininkus Tverę ir Možaiską."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -652,12 +535,11 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-24426
-    - c-182707
 
 <a id="claim-t-178139"></a>
-- t-178139
+- t-026
   teiginys: "Balandžio 23 d. Vilniuje buvusioje rusų įguloje buvo du Pskovo muškietininkų pulko batalionai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -674,28 +556,10 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-43783
     - c-182715
 
-<a id="claim-t-178140"></a>
-- t-178140
-  teiginys: "Salyno akte ordinui tenkančių žemių sienos buvo nužymėtos iki Pskovo respublikos valdų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-32365
-    - c-182733
-    - c-182734
-
 <a id="claim-t-178142"></a>
-- t-178142
+- t-027
   teiginys: "Pskoviečiai pasiuntė pas Vytautą posadnikus Joachimą Pavlovičių ir Ivaną Sidorovičių su pažadėtu sidabru."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pskoviečiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -711,9 +575,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182709
 
 <a id="claim-t-178143"></a>
-- t-178143
+- t-028
   teiginys: "Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyne -> Pskovas: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -727,35 +591,12 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-161928
-    - c-182727
     - c-161931
-    - c-182702
-
-<a id="claim-t-178144"></a>
-- t-178144
-  teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Maskva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Maskvos pirkliai tiesiogiai minimi Vilniuje vykusių prekių mainų kontekste."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vilnius prekiavo su Pskovas (0.90); Vilnius prekiavo su Ryga (0.90); Vilnius prekiavo su Maskva (0.90)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-161898
-    - c-182706
-    - c-182708
-    - c-186144
 
 <a id="claim-t-178145"></a>
-- t-178145
+- t-029
   teiginys: "Vilniuje sudaryta sutartis su Kazimiero globoje likusiu Pskovu praplėtė Pskovo prekybinius santykius su Lietuvos sostine."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.89"
   ryšio_patikimumo_lygis: "aukstas"
@@ -771,29 +612,10 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161893
     - c-182701
 
-<a id="claim-t-178146"></a>
-- t-178146
-  teiginys: "Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-161898
-    - c-182706
-    - c-182708
-
 <a id="claim-t-178148"></a>
-- t-178148
+- t-030
   teiginys: "Pskovas buvo palankus Maskvai, kai ši pajungė Tverę ir Možaiską."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Možaiskas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -808,9 +630,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182707
 
 <a id="claim-t-178149"></a>
-- t-178149
+- t-031
   teiginys: "Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -825,9 +647,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161932
 
 <a id="claim-t-178150"></a>
-- t-178150
+- t-032
   teiginys: "1581 m. Pskovo puolimui buvo sutelkta apie 47 tūkst. karių, iš jų apie 23 tūkst. buvo iš LDK."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -846,9 +668,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182716
 
 <a id="claim-t-178153"></a>
-- t-178153
+- t-033
   teiginys: "Vilniuje sudaryta sutartis su Pskovu praplėtė šio miesto prekybinius santykius su Lietuvos sostine."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -864,9 +686,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182701
 
 <a id="claim-t-178154"></a>
-- t-178154
+- t-034
   teiginys: "1449 m. Kazimiero ir Maskvos taikoje Pskovas buvo paliktas Maskvos įtakos sričiai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Marienburgas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -880,13 +702,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintas nutrūkęs fragmentas ir suformuluotas citata paremtas sakinys."
   pagrindžia:
-    - c-182721
     - c-24425
+    - c-186141
 
 <a id="claim-t-178156"></a>
-- t-178156
+- t-035
   teiginys: "Į prieš Lietuvą nukreiptą koaliciją įsijungė Naugardo ir Pskovo žemės."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -902,9 +724,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182726
 
 <a id="claim-t-199794"></a>
-- t-199794
+- t-036
   teiginys: "Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys tiksliai nusako citatoje minimą sutartį su Pskovu."
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Konstancija; mentioned_place: Livonija; mentioned_place: Naugardas"
@@ -913,30 +735,10 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindžia:
     - c-182729
 
-<a id="claim-t-199797"></a>
-- t-199797
-  teiginys: "Kariaudamas su Pskovu, Vytautas pasitraukė tik miestui sutikus sumokėti 1000 rublių kontribucijos ir 450 rublių už belaisvius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys aiškiai ir pilnai nusako citatoje minimą kontribuciją."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas"
-  ryšio_patikimumas: "surenge_zygi_i -> Pskovas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini lietuvių reidą į Pskovo žemes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-182700
-    - c-182737
-
 <a id="claim-t-199805"></a>
-- t-199805
+- t-037
   teiginys: "Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Silezija; mentioned_place: Vokietija"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -945,9 +747,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182710
 
 <a id="claim-t-199807"></a>
-- t-199807
+- t-038
   teiginys: "Į Vytauto suvažiavimą atvyko ir Pskovo kunigaikščiai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Silezija; mentioned_place: Vokietija"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -956,9 +758,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182710
 
 <a id="claim-t-199810"></a>
-- t-199810
+- t-039
   teiginys: "Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pašalintas sąrašo triukšmas ir suformuotas pilnas sakinys."
   susije_objektai: "mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Silezija; mentioned_place: Vokietija"
@@ -974,23 +776,10 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindžia:
     - c-182730
 
-<a id="claim-t-199812"></a>
-- t-199812
-  teiginys: "Vytautas siekė Pskovą, Naugardą, Maskvą, Tverę, Riazanę ir totorius paimti savo valdžion arba turėti jiems didelę įtaką."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Riazanė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-182700
-    - c-182737
-    - c-182710
-    - c-182730
-
 <a id="claim-t-199813"></a>
-- t-199813
+- t-040
   teiginys: "Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428)."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie Vytauto žygius į Pskovą ir Naugardą."
   susije_objektai: "llm_object: Pskovas; llm_object: Naugardas; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
@@ -1005,13 +794,12 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
-    - c-37678
     - c-182732
 
 <a id="claim-t-199823"></a>
-- t-199823
+- t-041
   teiginys: "Polocke pas Vytautą atvykę Pskovo pasiuntiniai užmezgė su juo taikingus santykius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -1019,21 +807,48 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindžia:
     - c-182720
 
-<a id="claim-t-199831"></a>
-- t-199831
-  teiginys: "Vytautas siekė paimti Pskovą, Naugardą, Maskvą, Tverį, Riazanę ir totorius savo valdžion arba turėti jiems didelę įtaką."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-199830"></a>
+- t-042
+  teiginys: "Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Riazanė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  sudarymo_pagrindimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Vilnius"
+  ryšio_patikimumas: "priklause -> Pskovas: 0.77"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bokštai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Bokštai minimi kaip Pskovą juosusios sienos dalis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
-    - c-182700
-    - c-182737
+    - c-182706
+
+<a id="claim-t-199835"></a>
+- t-043
+  teiginys: "Salyno akte ordinui tenkančių žemių sienos buvo nužymėtos iki Pskovo respublikos valdų."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradiniame teiginyje yra neaiškus įvardis ir perteklinių detalių."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Apaščia; mentioned_place: Kaimas; mentioned_place: Nevėžis; mentioned_place: Salynas; mentioned_place: Smardonė; mentioned_place: Sūduva; mentioned_place: Vaišvilčiai"
+  ryšio_patikimumas: "susije_su -> Aleksas Jefremovičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksas Jefremovičius: mention_match, person, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Aleksas Jefremovičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-186143
 
 <a id="claim-t-199838"></a>
-- t-199838
+- t-044
   teiginys: "1411 metų pavasarį Polocke Pskovo pasiuntiniai atvyko pas Vytautą ir užmezgė taikingus santykius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus, datuotas ir paremtas citata."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas"
@@ -1042,53 +857,66 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindžia:
     - c-182720
 
-<a id="claim-t-199839"></a>
-- t-199839
-  teiginys: "Kariaudamas su Pskovu Vytautas pasitraukė tik tada, kai šis sutiko sumokėti 1000 rublių kontribuciją ir 450 rublių už belaisvius."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-199849"></a>
+- t-045
+  teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir aiškiai įvardytas veiksmas."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas"
-  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pskovas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pskovo prekybiniai santykiai tiesiogiai siejami su Lietuvos sostine, t. y. Vilniumi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  sudarymo_pagrindimas: "Teiginys tiksliai papildo laiką Algirdo laikais ir atitinka citatą."
+  susije_objektai: "llm_object: Maskva; llm_object: Pskovas; llm_object: Ryga; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Vilnius"
+  semantiniai_rysiai: "Vilnius prekiavo su Pskovas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
-    - c-182700
-    - c-182737
+    - c-186144
+
+<a id="claim-t-203048"></a>
+- t-046
+  teiginys: "Vytauto dukra Sofija, lydima kunigaikščio Jono Algimantaičio, iš Gdansko laivais per Pernu pasiekė Pskovą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Sakinys sutrumpintas ir pašalintas perteklinis žodis „miestą“."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Sofija (Vytauto duktė)|Sofija (Vytauto duktė)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Marienburgas; mentioned_place: Pernu; llm_object: Pskovas; llm_object: Pernu"
+  semantiniai_rysiai: "[[objektai/asmenys/Sofija (Vytauto duktė)|Sofija (Vytauto duktė)]] keliavo į Pskovas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-182703
 
 <a id="claim-t-203263"></a>
-- t-203263
+- t-047
   teiginys: "Pskovas ir Didysis Naugardas, įkurti anksčiau už Vilnių ir tinkami prekybai, greičiau virto tankiai gyvenamomis ir turtingesnėmis gyvenvietėmis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Didysis Naugardas; mentioned_place: Naugardas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-161917
-    - c-182717
 
 <a id="claim-t-203269"></a>
-- t-203269
+- t-048
   teiginys: "Michał Baliński teigimu, Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Sakinys išvalytas ir sutrumpintas."
   susije_objektai: "mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Marienburgas; mentioned_place: Vilnius"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-161891
     - c-182725
 
 <a id="claim-t-203316"></a>
-- t-203316
+- t-049
   teiginys: "Zenono Ivinskio teigimu, Vytauto pastangos Pskove pastatyti savo vietininką sukėlė naują konfliktą su Maskva."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra savarankiškas faktinis sakinys apie Pskovą ir Vytauto veiksmus."
   susije_objektai: "mentioned_place: Maskva; mentioned_place: Naugardas"
@@ -1100,21 +928,20 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161896
 
 <a id="claim-t-203412"></a>
-- t-203412
+- t-050
   teiginys: "Michał Baliński rašo, kad Vilniaus prekyba buvo plačiai išsišakojusi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu bei Maskva ir buvo pasiekusi tolimus kraštus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pašalinta nutrūkusi pabaiga ir paliktas Pskovą liečiantis faktas."
   susije_objektai: "mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-161910
     - c-182704
 
 <a id="claim-t-203421"></a>
-- t-203421
+- t-051
   teiginys: "Michał Baliński „Vilniaus miesto istorijoje“, remdamasis Pskovo metraščiu, nurodo, kad 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bajorais sudarė sutartį su Švitrigaila."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatos informaciją apie 1432 metų sutartį."
   susije_objektai: "mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Aleksas Jefremovičius|Aleksas Jefremovičius]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]"
@@ -1126,22 +953,21 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182723
 
 <a id="claim-t-203429"></a>
-- t-203429
+- t-052
   teiginys: "Michał Baliński teigimu, 1427 m. sėkmingai pasibaigęs Vytauto žygis privertė Pskovo pasiuntinius atvykti į Vilnių prašyti paleisti belaisvius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
   temporaliniai_duomenys: "mūšio data: 1427 m.; mūšio data: 1429 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-161915
     - c-182714
 
 <a id="claim-t-205344"></a>
-- t-205344
+- t-053
   teiginys: "Vyskupas Albertas į Pskovą išsiuntė žygūnus, kuriems vadovavo abatas Teodorikas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1152,9 +978,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-187754
 
 <a id="claim-t-205405"></a>
-- t-205405
+- t-054
   teiginys: "Gyvas paliktas buvo tik vienas rusinąs, kurį, ap ginklavę nuo galvos iki kojų ir užsodinę ant šarvuoto žir go, išleido į kariauną, skirtą pagalbai, ¡stovėjusią dar prie Pskovo, taip perduodami žinią apie tvirtovės užėmimą, taigi ir ši kariauna išsisklaidė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1165,9 +991,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-188035
 
 <a id="claim-t-205812"></a>
-- t-205812
+- t-055
   teiginys: "Daumantas, matydamas neišvengiamą pavojų, naktį pabėgo anapus Dauguvos į Pskovą, kurį valdė jo senelio brolis, taip pat Daumantas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1178,9 +1004,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-188427
 
 <a id="claim-t-205813"></a>
-- t-205813
+- t-056
   teiginys: "Teodoras Narbutas nurodo, kad vyresnysis brolis Daumantas nuo sosto buvo nušalintas dėl sąmokslo prieš Narimantą, emigracijos į Pskovą, ryšių su Pskovo kunigaikščiu Daumantu ir Polocko kunigaikštystės uzurpavimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-12 08:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1191,9 +1017,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-188428
 
 <a id="claim-t-206553"></a>
-- t-206553
+- t-057
   teiginys: "Pskovo pasiuntiniai, atvykę pas Algirdą, teigė esą palikti savo vado ir brolių naugardiečių bei prašė Algirdo pagalbos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1204,9 +1030,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-189168
 
 <a id="claim-t-206554"></a>
-- t-206554
+- t-058
   teiginys: "Algirdas su beveik visa savo ir Pskovo kariauna persikėlė per Velikajos upę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1259,9 +1085,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178113
-    - t-178154
+  pagrindzia:
+    - t-008
+    - t-034
 
 - id: c-24426
   redaktorius: "A. Šapoka"
@@ -1281,9 +1107,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178138
-    - t-178148
+  pagrindzia:
+    - t-025
+    - t-030
 
 - id: c-24428
   redaktorius: "A. Šapoka"
@@ -1302,6 +1128,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 - id: c-32365
   autorius: "Zenonas Ivinskis"
@@ -1325,10 +1153,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178133
-    - t-178140
-
 - id: c-37678
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1349,9 +1173,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199813
-
 - id: c-43781
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1372,9 +1193,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178110
-    - t-178150
+  pagrindzia:
+    - t-032
 
 - id: c-43782
   sudarytojas: "Karolis Zikaras"
@@ -1397,8 +1217,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178110
+  pagrindzia:
+    - t-006
 
 - id: c-43783
   sudarytojas: "Karolis Zikaras"
@@ -1430,9 +1250,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178132
-    - t-178139
+  pagrindzia:
+    - t-020
+    - t-026
 
 - id: c-161891
   autorius: "Michał Baliński"
@@ -1455,9 +1275,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178103
-    - t-203269
+  pagrindzia:
+    - t-001
 
 - id: c-161892
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1476,8 +1295,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178112
+  pagrindzia:
+    - t-007
 
 - id: c-161893
   autorius: "Michał Baliński"
@@ -1498,9 +1317,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178145
-    - t-178153
+  pagrindzia:
+    - t-029
+    - t-033
 
 - id: c-161895
   autorius: "Michał Baliński"
@@ -1523,8 +1342,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178117
+  pagrindzia:
+    - t-010
 
 - id: c-161896
   autorius: "Zenonas Ivinskis"
@@ -1541,9 +1360,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178109
-    - t-203316
+  pagrindzia:
+    - t-005
+    - t-049
 
 - id: c-161898
   autorius: "Michał Baliński"
@@ -1567,11 +1386,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178127
-    - t-178144
-    - t-178146
-
 - id: c-161901
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1596,8 +1410,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178110
+  pagrindzia:
+    - t-006
 
 - id: c-161902
   autorius: "Michał Baliński"
@@ -1634,10 +1448,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178130
-    - t-178137
-    - t-178142
+  pagrindzia:
+    - t-024
+    - t-027
 
 - id: c-161904
   autorius: "Zenonas Ivinskis"
@@ -1658,8 +1471,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178124
+  pagrindzia:
+    - t-015
 
 - id: c-161905
   autorius: "Michał Baliński"
@@ -1687,9 +1500,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178128
-    - t-178136
+  pagrindzia:
+    - t-018
+    - t-023
 
 - id: c-161910
   autorius: "Michał Baliński"
@@ -1719,11 +1532,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178125
-    - t-178127
-    - t-178130
-    - t-203412
+  pagrindzia:
+    - t-016
+    - t-019
 
 - id: c-161915
   autorius: "Michał Baliński"
@@ -1751,11 +1562,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178130
-    - t-178134
-    - t-178137
-    - t-203429
+  pagrindzia:
+    - t-021
 
 - id: c-161917
   autorius: "Michał Baliński"
@@ -1776,9 +1584,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178123
-    - t-203263
+  pagrindzia:
+    - t-014
+    - t-047
 
 - id: c-161920
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1798,8 +1606,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178105
+  pagrindzia:
+    - t-002
 
 - id: c-161923
   sudarytojas: "Karolis Zikaras"
@@ -1850,9 +1658,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178135
-    - t-178156
+  pagrindzia:
+    - t-022
+    - t-035
 
 - id: c-161925
   sudarytojas: "Karolis Zikaras"
@@ -1877,8 +1685,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178126
+  pagrindzia:
+    - t-017
 
 - id: c-161928
   autorius: "Zenonas Ivinskis"
@@ -1899,9 +1707,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178116
-    - t-178143
+  pagrindzia:
+    - t-009
+    - t-028
 
 - id: c-161930
   autorius: "Michał Baliński"
@@ -1921,10 +1729,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178107
-    - t-178123
-    - t-178127
+  pagrindzia:
+    - t-004
+    - t-014
 
 - id: c-161931
   autorius: "Zenonas Ivinskis"
@@ -1945,9 +1752,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178116
-    - t-178143
+  pagrindzia:
+    - t-009
+    - t-028
 
 - id: c-161932
   autorius: "Michał Baliński"
@@ -1972,8 +1779,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178149
+  pagrindzia:
+    - t-031
 
 - id: c-161933
   autorius: "Zenonas Ivinskis"
@@ -1994,8 +1801,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178118
+  pagrindzia:
+    - t-011
 
 - id: c-161935
   sudarytojas: "Karolis Zikaras"
@@ -2019,8 +1826,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178120
+  pagrindzia:
+    - t-012
 
 - id: c-161937
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2040,8 +1847,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178106
+  pagrindzia:
+    - t-003
 
 - id: c-166474
   redaktorius: "A. Šapoka"
@@ -2058,13 +1865,12 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     vą, o mažesni jo kariuomenės būriai naikino tolimąsias ru-
     sų žemes, Posevinui tarpininkaujant, prasidėjo derybos.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183086
+  pagrindzia:
+    - t-013
 
 - id: c-182698
   redaktorius: "A. Šapoka"
@@ -2084,7 +1890,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-182699
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2104,11 +1909,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178107
-    - t-178123
-    - t-178127
-
 - id: c-182700
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2129,12 +1929,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199797
-    - t-199812
-    - t-199831
-    - t-199839
-
 - id: c-182701
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2154,9 +1948,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178145
-    - t-178153
+  pagrindzia:
+    - t-029
+    - t-033
 
 - id: c-182702
   autorius: "Zenonas Ivinskis"
@@ -2178,10 +1972,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178116
-    - t-178143
-
 - id: c-182703
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2206,6 +1996,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-046
 
 - id: c-182704
   autorius: "Michał Baliński"
@@ -2235,11 +2027,10 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178125
-    - t-178127
-    - t-178130
-    - t-203412
+  pagrindzia:
+    - t-016
+    - t-019
+    - t-050
 
 - id: c-182705
   sudarytojas: "Karolis Zikaras"
@@ -2263,8 +2054,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178120
+  pagrindzia:
+    - t-012
 
 - id: c-182706
   autorius: "Michał Baliński"
@@ -2287,10 +2078,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178127
-    - t-178144
-    - t-178146
+  pagrindzia:
+    - t-042
 
 - id: c-182707
   redaktorius: "A. Šapoka"
@@ -2310,9 +2099,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178138
-    - t-178148
+  pagrindzia:
+    - t-030
 
 - id: c-182708
   autorius: "Michał Baliński"
@@ -2336,11 +2124,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178127
-    - t-178144
-    - t-178146
-
 - id: c-182709
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2376,10 +2159,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178130
-    - t-178137
-    - t-178142
+  pagrindzia:
+    - t-024
+    - t-027
 
 - id: c-182710
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2401,10 +2183,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199805
-    - t-199807
-    - t-199812
+  pagrindzia:
+    - t-037
+    - t-038
 
 - id: c-182712
   autorius: "Zenonas Ivinskis"
@@ -2424,7 +2205,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-182713
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2443,8 +2223,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178105
+  pagrindzia:
+    - t-002
 
 - id: c-182714
   autorius: "Michał Baliński"
@@ -2472,11 +2252,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178130
-    - t-178134
-    - t-178137
-    - t-203429
+  pagrindzia:
+    - t-052
 
 - id: c-182715
   sudarytojas: "Karolis Zikaras"
@@ -2508,9 +2285,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178132
-    - t-178139
+  pagrindzia:
+    - t-020
+    - t-026
 
 - id: c-182716
   sudarytojas: "Karolis Zikaras"
@@ -2532,8 +2309,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178150
+  pagrindzia:
+    - t-032
 
 - id: c-182717
   autorius: "Michał Baliński"
@@ -2555,10 +2332,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178123
-    - t-203263
-
 - id: c-182718
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2584,9 +2357,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178110
-
 - id: c-182719
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2609,9 +2379,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178110
-
 - id: c-182720
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2640,9 +2407,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199823
-    - t-199838
+  pagrindzia:
+    - t-041
+    - t-044
 
 - id: c-182721
   redaktorius: "A. Šapoka"
@@ -2663,9 +2430,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178113
-    - t-178154
+  pagrindzia:
+    - t-008
 
 - id: c-182722
   autorius: "Michał Baliński"
@@ -2693,9 +2459,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178128
-    - t-178136
+  pagrindzia:
+    - t-018
+    - t-023
 
 - id: c-182723
   autorius: "Michał Baliński"
@@ -2718,9 +2484,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178117
-    - t-203421
+  pagrindzia:
+    - t-051
 
 - id: c-182724
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2740,9 +2505,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178112
-
 - id: c-182725
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2764,9 +2526,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178103
-    - t-203269
+  pagrindzia:
+    - t-001
+    - t-048
 
 - id: c-182726
   sudarytojas: "Karolis Zikaras"
@@ -2817,9 +2579,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178135
-    - t-178156
+  pagrindzia:
+    - t-022
+    - t-035
 
 - id: c-182727
   autorius: "Zenonas Ivinskis"
@@ -2841,10 +2603,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178116
-    - t-178143
-
 - id: c-182728
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2864,8 +2622,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178118
+  pagrindzia:
+    - t-011
 
 - id: c-182729
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2890,8 +2648,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199794
+  pagrindzia:
+    - t-036
 
 - id: c-182730
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2917,9 +2675,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199810
-    - t-199812
+  pagrindzia:
+    - t-039
 
 - id: c-182731
   sudarytojas: "Karolis Zikaras"
@@ -2945,9 +2702,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178126
-
 - id: c-182732
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2966,8 +2720,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199813
+  pagrindzia:
+    - t-040
 
 - id: c-182733
   autorius: "Zenonas Ivinskis"
@@ -2991,10 +2745,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178133
-    - t-178140
-
 - id: c-182734
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3017,10 +2767,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178133
-    - t-178140
-
 - id: c-182735
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3039,8 +2785,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178106
+  pagrindzia:
+    - t-003
 
 - id: c-182736
   redaktorius: "A. Šapoka"
@@ -3061,6 +2807,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 - id: c-182737
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3082,12 +2830,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-199797
-    - t-199812
-    - t-199831
-    - t-199839
-
 - id: c-186141
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3105,6 +2847,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-034
 
 - id: c-186142
   autorius: "Michał Baliński"
@@ -3128,6 +2872,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 - id: c-186143
   autorius: "Zenonas Ivinskis"
@@ -3147,6 +2893,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-043
 
 - id: c-186144
   autorius: "Michał Baliński"
@@ -3166,8 +2914,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178144
+  pagrindzia:
+    - t-045
 
 - id: c-187754
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -3185,8 +2933,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205344
+  pagrindzia:
+    - t-053
 
 - id: c-188035
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -3207,8 +2955,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205405
+  pagrindzia:
+    - t-054
 
 - id: c-188427
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -3228,8 +2976,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205812
+  pagrindzia:
+    - t-055
 
 - id: c-188428
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -3247,8 +2995,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205813
+  pagrindzia:
+    - t-056
 
 - id: c-189168
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3263,8 +3011,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206553
+  pagrindzia:
+    - t-057
 
 - id: c-189169
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3279,103 +3027,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206554
-
-- id: c-193242
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 22"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 22."
-  citata_originali: |
-    Kalbant apie LDK santykius su Rusų valstybe, labai
-    iškeliamas Vytauto pranašumas savo žento Vasilijaus,
-    Maskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­
-    garduko feodalinių respublikų atžvilgiu
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211494
-
-- id: c-193270
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 102."
-  citata_originali: |
-    Paskui didysis kunigaikštis Vytautas nusiuntė savo
-    pasiuntinius į Didįjį Naugardą ir Pskovą, idant ten jį
-    pripažintų savo valdovu ir mokėtų jam duoklę,1 sakė:
-    „Jūs duodate duoklę mano žentui, Maskvos kunigaikš­
-    čiui Vasilijui, kuris yra mano vasalas, o man, vyriau­
-    siajam valdovui, nenorite duoti."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211597
-
-- id: c-193918
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 102."
-  citata_originali: |
-    Sekančiais metais didysis kunigaikštis Vytautas išsi­
-    rengė prieš Pskovo miestą5 ir paėmė Pskovo miestus
-    Veližą6 ir Krasnyj Gorod7.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211166
-
-- id: c-194127
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 58."
-  citata_originali: |
-    O pats, nulipęs iš pilies ir prasimušęs per Nari­
-    manto kariuomenę, leidosi bėgti ir pribėgo Pskovo
-    miestą. Pskovo vyrai, matydami jį esant dorą ir išmin­
-    tingą vyrą, išsirinko jį savo valdovu
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211129
-
-- id: c-200919
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 457"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
-  citata_originali: |
-    II. Abejotinos istorijos periodas, tai yra nuo nuolatinių Lie­
-    tuvos žygių i rusų kraštus (Pskovą ir Naugardą) iki 1240 metų,
-    tai yra Mindaugo valdymo.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219261
+  pagrindzia:
+    - t-058
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Jurijus Vytutaitis]]

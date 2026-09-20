@@ -45,6 +45,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206947"></a>
+- t-001
+  teiginys: "Rusios kraštams ir su sutartimi susijusioms Prūsijos žemėms buvo leista pasienio giriose medžioti, žvejoti ir statyti palapines nustatytu atstumu nuo sienos."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189562
+
 ## Santrauka
 
 Rusios kraštams ir su sutartimi susijusioms Prūsijos žemėms buvo leista pasienio giriose medžioti, žvejoti ir statyti palapines nustatytu atstumu nuo sienos.
@@ -67,21 +82,5 @@ Rusios kraštams ir su sutartimi susijusioms Prūsijos žemėms buvo leista pasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206947"></a>
-- t-001
-  teiginys: "Rusios kraštams ir su sutartimi susijusioms Prūsijos žemėms buvo leista pasienio giriose medžioti, žvejoti ir statyti palapines nustatytu atstumu nuo sienos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189562
-

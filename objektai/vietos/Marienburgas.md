@@ -1,24 +1,24 @@
 ---
 tipas: vieta
-pavadinimas: 'Marienburgas'
+pavadinimas: Marienburgas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1272 m.'
-  - '1274 m.'
-  - '1275 m.'
-  - '1276 m.'
-  - '1279 m.'
-  - '1300 m.'
-  - '1309 m.'
-  - '1312 m.'
-  - '2026 m.'
+  - 1272 m.
+  - 1274 m.
+  - 1275 m.
+  - 1276 m.
+  - 1279 m.
+  - 1300 m.
+  - 1309 m.
+  - 1312 m.
+  - 2026 m.
 date_start: '1272'
 date_end: '2026'
 sukurta: ''
@@ -27,29 +27,41 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4aed4702f11f6d2e0d6ecce6"
-canonical_name: "Marienburgas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Marienburgas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4aed4702f11f6d2e0d6ecce6
+canonical_name: Marienburgas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Marienburgas
 sameAs: []
-canonical_biography: "Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą puolamos pilies sienų aukštį. 1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi. 1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą."
+canonical_biography: 'Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą puolamos pilies sienų aukštį. 1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi. 1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T04:54:31+00:00","source_checked_at":"2026-09-19T04:54:31+00:00","counts":{"relations":9,"gallery":0,"sources":9},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"to meto Lietuvos branginamomis importo prekėmis. 1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","claim_id":"t-177684","evidence_id":"c-161540","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b7fda2cc4e63d1d540dc1cb7","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Prie Nogato","context":"Teodoras Narbutas aprašo vietovę, kur dabar Marienburgas, kaip esančią prie Nogato.","support_ids":["t-220072","c-199718"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220072","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199718","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Trečia šventykla buvo vietovėje, kur dabar Marienburgas, prie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu, pastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę."}],"status":"published","conflict_status":"clear"},{"trait_id":"35e3593e0e9b0bde15bc8239","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Pilies vieta buvo kalva; šaltiniai ją laikė tinkama piliai vieta","context":"Teodoras Narbutas nurodo, kad pilis stovėjo ant kalvos, o trykštantys šaltiniai liudijo vietos tinkamumą piliai.","support_ids":["t-206520","c-189135"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206520","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-189135","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Tą tvirtovę pavadi­ no Marienburgu, tai yra Marijos kalnu*. D abar netoli nuo tos vietos, kiek aukštėliau, yra miestelis, parapijos centras Z a­ pyškis; betgi kalva, ant kurios stovėjo pilis, buvo visiškai su­ niokota per pavasario potvynius, paplovus vandenims, galinga srove besiveržiantiems tarpekliu į Nemuną; trykštantys ten šaltiniai liudija, kokia tai buvo tinkama piliai vieta1 2."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e67861a47c7d84276c908a0f","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Stipri pilis","context":"Teodoras Narbutas rašo, kad kryžiuočiai vietovėje prie Nogato pastatė stiprią pilį.","support_ids":["t-220072","c-199718"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220072","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199718","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Trečia šventykla buvo vietovėje, kur dabar Marienburgas, prie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu, pastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8feac6356010b14408e909cc","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Ordino sostinė","context":"Teodoras Narbutas teigia, kad kryžiuočiai šioje vietoje įkūrė ordino sostinę.","support_ids":["t-220072","c-199718"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220072","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199718","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Trečia šventykla buvo vietovėje, kur dabar Marienburgas, prie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu, pastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0a3fe0b57676a366754ec0ae","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Ordino vyriausioji būstinė","context":"1309 m. rugsėjį, pasak Petro Dusburgiečio, į Marienburgo pilį Prūsijoje buvo perkelta Ordino vyriausioji būstinė iš Venecijos.","support_ids":["t-220844","c-204092"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220844","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204092","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"1309 viešpaties metais, rugsėjį atvyko į Prūsijos žemę brolis Zigfridas iš Foichtvangeno, vienuoliktas didysis magistras ir aštuonioliktas Prūsijos žemės magistras, ir perkėlė į Marienburgo pilį Prūsijoje Ordino vyriausiąją būstinę, kuri po Akono miesto sugriovimo buvo Venecijoje."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7b19f9097fa382e1a8e6c753","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Ordino administracinis centras","context":"Petras Dusburgietis nurodo, kad nuo 1309 m. Marienburgas buvo vienas iš Ordino administracinių centrų.","support_ids":["t-224129","c-202514"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224129","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202514","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus 100 kelių į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti, kad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"293bbe7e91cf8a75e9d78db1","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Pilies kompleksas","context":"Šaltiniai Marienburgą aprašo kaip pilį; 1280 m. Santyro pilis, pakeitus jos vardą ir vietą, buvo perkelta į dabartinę vietą ir pavadinta Marienburgu.","support_ids":["t-223790","c-203188"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223790","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203188","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten, kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b759056ae03e8ff1975fceb0","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Šturmo bokštų gamybos vieta","context":"Kryžiuočių sostinėje Marienburge buvo pagaminti atitinkamo aukščio šturmo bokštai, remiantis žvalgų duomenimis apie puolamos pilies sienų aukštį.","support_ids":["t-177683","c-161535"],"source_refs":[{"kind":"internal_claim","claim_id":"t-177683","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-161535","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Žygiui ruoštasi visus metus. Gavus žvalgų duomenis, koks pilies sienų aukštis, kryžiuočių sostinėje Marienburge buvo pag- aminti atitinkamo aukščio šturmo bokštai. Kartu Nemunu buvo plukdomos visos pagrindinės to meto puolimo mašinos."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Marienburgas – istorinė kryžiuočių valdžios ir karinių veiksmų vieta, šaltiniuose minima kaip sostinė bei pilis. 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino dar dvi jam pavestas pilis. 1401 m. sausį čia apsilankė Žemaičių bajorų būrys: jie siekė patvirtinti savo luomines teises ir patys krikštijosi. Prieš Žalgirio mūšį Marienburge buvo pagaminti pagal žvalgų duomenis pritaikyti šturmo bokštai, o po kautynių ligos prie šios vietos smarkiai išretino Vytauto kariuomenę. 5000 vyrų įgulai sutelkus gynybą, liepos 25 d. atvykę Jogaila ir Vytautas tvirtovės nebeįstengė paimti.","sentences":[{"sentence_id":"s1","text":"Marienburgas – istorinė kryžiuočių valdžios ir karinių veiksmų vieta, šaltiniuose minima kaip sostinė bei pilis.","support_ids":["t-177683:c-161535","t-177687:c-161538"]},{"sentence_id":"s2","text":"1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino dar dvi jam pavestas pilis.","support_ids":["t-177697:c-32211"]},{"sentence_id":"s3","text":"1401 m. sausį čia apsilankė Žemaičių bajorų būrys: jie siekė patvirtinti savo luomines teises ir patys krikštijosi.","support_ids":["t-177684:c-161540"]},{"sentence_id":"s4","text":"Prieš Žalgirio mūšį Marienburge buvo pagaminti pagal žvalgų duomenis pritaikyti šturmo bokštai, o po kautynių ligos prie šios vietos smarkiai išretino Vytauto kariuomenę.","support_ids":["t-177683:c-161535","t-177695:c-161546"]},{"sentence_id":"s5","text":"5000 vyrų įgulai sutelkus gynybą, liepos 25 d. atvykę Jogaila ir Vytautas tvirtovės nebeįstengė paimti.","support_ids":["t-177687:c-161538"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai Marienburgą nurodo kaip kryžiuočių sostinę ir tvirtovę, susijusią su kariniais veiksmais."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta šaltiniu: 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino dar dvi pilis."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta šaltiniu apie 1401 m. sausį į Marienburgą atvykusius Žemaičių bajorus, jų luomines teises ir krikštą."},{"sentence_id":"s4","supported":true,"reason":"Abu teiginiai tiesiogiai paremti nurodytais šaltiniais: šturmo bokštai buvo pritaikyti pagal žvalgų duomenis, o ligos prie Marienburgo išretino Vytauto kariuomenę."},{"sentence_id":"s5","supported":true,"reason":"Tiesiogiai paremta šaltiniu apie maždaug 5000 vyrų įgulą ir liepos 25 d. atvykusių Jogailos bei Vytauto nesėkmingą tvirtovės užėmimą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-177683:c-161535","t-177687:c-161538"]},{"sentence_id":"s2","supported":false,"support_ids":["t-177697:c-32211"]},{"sentence_id":"s3","supported":false,"support_ids":["t-177684:c-161540"]},{"sentence_id":"s4","supported":false,"support_ids":["t-177683:c-161535","t-177695:c-161546"]},{"sentence_id":"s5","supported":false,"support_ids":["t-177687:c-161538"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Henrikas von Plauen","claim_id":"t-30262","confidence":0.82},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Fridrichas (Marienburgo brolis)","claim_id":"t-222523","confidence":0.9},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Heinemanas (Marienburgo brolis)","claim_id":"t-222523","confidence":0.9},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-184236","confidence":0.94},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-179695","confidence":0.74},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Bajorai","claim_id":"t-177684","confidence":0.88},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-221781","confidence":0.8},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Divanas","claim_id":"t-224264","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-71847","confidence":0.72}],"timeline":[{"date":"1280 m.","label":"1280 m.","claimId":"t-221902"},{"date":"1280 m.","label":"1280 m.","claimId":"t-223790"},{"date":"1384 m.","label":"1384 m.","claimId":"t-177697"},{"date":"1401 m.","label":"1401 m.","claimId":"t-177684"},{"date":"1576 m.","label":"1576 m.","claimId":"t-177685"},{"date":"1576 m.","label":"1576 m.","claimId":"t-177696"}],"support_disclosure":{"claims":22,"sources":9}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ee10c94664d34df4
+object_page_generated_at: '2026-09-19T04:54:31+00:00'
+object_page_source_checked_at: '2026-09-19T04:54:31+00:00'
+object_page_content_state: content
+object_page_claim_count: '22'
+object_page_source_count: '9'
+object_page_seo_description: 'Marienburgas – istorinė kryžiuočių valdžios ir karinių veiksmų vieta, šaltiniuose minima kaip sostinė bei pilis. 1384 m. liepos 9 d. Vytautas sudegino Nemuno…'
+object_page_seo_input_hash: 8b757455e5ba1dd562683ba8d39893e6aad90f703df23e498138016489215c59
+object_page_seo_generated_at: '2026-09-19T04:54:31+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Marienburgas
 
@@ -59,106 +71,10 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 
 ## Teiginiai
 
-<a id="claim-t-211989"></a>
-- t-211989
-  teiginys: "Vytautas Marienburgo pilyje sudarė sąjungą su livoniečiais ir prūsais."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193354
-
-<a id="claim-t-212041"></a>
-- t-212041
-  teiginys: "Tais pačiais metais, Vytautui būnant Vokiečių že mėje, į Marienburgą atvyko pasiuntiniai iš Maskvos."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193562
-
-<a id="claim-t-220072"></a>
-- t-220072
-  teiginys: "Trečia šventykla buvo vietovėje, kur dabar Marienburgas, prie Nogato."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199718
-
-<a id="claim-t-220844"></a>
-- t-220844
-  teiginys: "1309 metais Ordino vyriausioji būstinė iš Venecijos buvo perkelta į Marienburgo pilį Prūsijoje."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204092
-
-<a id="claim-t-223790"></a>
-- t-223790
-  teiginys: "1280 m. Santyro pilis buvo perkelta ir pavadinta Marienburgu, šventos Marijos pilimi."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203188
-
-<a id="claim-t-221902"></a>
-- t-221902
-  teiginys: "1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, tai yra Šventosios Marijos pilimi."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Santyras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Santyras: mention_match, place, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Santyras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1280 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą pilies perkėlimą ir pavadinimą."
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-
-<a id="claim-t-224129"></a>
-- t-224129
-  teiginys: "Nuo 1309 m. Marienburgas buvo vienas iš Ordino administracinių centrų."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Marienburgas įvardytas kaip vienas Ordino administracinių centrų, todėl ryšys su Ordinu yra tiesioginis, nors tai ne paprasta nuosavybė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Marienburgas priklausė Kryžiuočių ordinas (0.74)"
-  temporaliniai_duomenys: "įvykio data: po 1309 m.; įvykio data: 1309 m.; įvykio data: po 1312 m.; įvykio data: 1312 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai mini Marienburgą kaip Ordino administracinį centrą nuo 1309 m."
-
 <a id="claim-t-177683"></a>
-- t-177683
+- t-001
   teiginys: "Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą puolamos pilies sienų aukštį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bokštai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -172,9 +88,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161535
 
 <a id="claim-t-177684"></a>
-- t-177684
+- t-002
   teiginys: "1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Marienburgas: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -192,9 +108,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161540
 
 <a id="claim-t-177685"></a>
-- t-177685
+- t-003
   teiginys: "1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -209,10 +125,30 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   pagrindžia:
     - c-161539
 
+<a id="claim-t-177686"></a>
+- t-004
+  teiginys: "Marienburgo pilis Nogato deš."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: iki 1279 m.; įvykio data: 1272 m.; įvykio data: 1274 m.; įvykio data: 1275 m.; įvykio data: 1276 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  pagrindžia:
+    - c-161534
+
 <a id="claim-t-177687"></a>
-- t-177687
+- t-005
   teiginys: "Henrikui von Plauenui Marienburge surinkus apie 5000 vyrų įgulą, liepos 25 d. atvykę Jogaila ir Vytautas tvirtovės nebeįstengė paimti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -225,10 +161,30 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   pagrindžia:
     - c-161538
 
+<a id="claim-t-177688"></a>
+- t-006
+  teiginys: "1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, tai yra Šventosios Marijos pilimi."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Santyras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Santyras: mention_match, place, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Santyras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1280 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą pilies perkėlimą ir pavadinimą."
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-161544
+
 <a id="claim-t-177689"></a>
-- t-177689
+- t-007
   teiginys: "Vaidyla, turimomis žiniomis, kelis kartus slaptai keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -242,9 +198,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-37528
 
 <a id="claim-t-177690"></a>
-- t-177690
+- t-008
   teiginys: "Skirgaila Marienburge buvo draugiškai ir vaišingai priimtas, nes Ordinas veikiausiai žinojo ar nujautė jo pasiuntinystės tikslus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -258,9 +214,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161543
 
 <a id="claim-t-177692"></a>
-- t-177692
+- t-009
   teiginys: "Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, paskui per jūros įlanką įplaukė į Nemuną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Laivai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -273,10 +229,46 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   pagrindžia:
     - c-161537
 
+<a id="claim-t-177693"></a>
+- t-010
+  teiginys: "Ordino dokumentų nuorašas į Marienburgą galėjo patekti defektuotas ir nepilnas."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Akonas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Akonas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Akonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-161547
+
+<a id="claim-t-177694"></a>
+- t-011
+  teiginys: "Nuo 1309 m. Marienburgas buvo vienas iš Ordino administracinių centrų."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Marienburgas įvardytas kaip vienas Ordino administracinių centrų, todėl ryšys su Ordinu yra tiesioginis, nors tai ne paprasta nuosavybė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Marienburgas priklausė Kryžiuočių ordinas (0.74)"
+  temporaliniai_duomenys: "įvykio data: po 1309 m.; įvykio data: 1309 m.; įvykio data: po 1312 m.; įvykio data: 1312 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai mini Marienburgą kaip Ordino administracinį centrą nuo 1309 m."
+  pagrindžia:
+    - c-161536
+
 <a id="claim-t-177695"></a>
-- t-177695
+- t-012
   teiginys: "Vytauto kariuomenę išretino ne tik Žalgirio kautynės, bet ir prie Marienburgo prasidėjusios ligos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -290,9 +282,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161546
 
 <a id="claim-t-177696"></a>
-- t-177696
+- t-013
   teiginys: "1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške Steponas Batoras sutiko atidėti muito rinkimą iki seimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -309,9 +301,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161539
 
 <a id="claim-t-177697"></a>
-- t-177697
+- t-014
   teiginys: "1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajerburgas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -328,9 +320,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-32211
 
 <a id="claim-t-177698"></a>
-- t-177698
+- t-015
   teiginys: "Slaptai suruošto žygio metu didysis magistras iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Laivai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -344,9 +336,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161537
 
 <a id="claim-t-177700"></a>
-- t-177700
+- t-016
   teiginys: "Vaidyla kelis kartus slapta keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -360,9 +352,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-37528
 
 <a id="claim-t-185038"></a>
-- t-185038
+- t-017
   teiginys: "Vytautas Marienburge surengė dukters Sofijos palydėtuves prieš jos santuoką su Maskvos kunigaikščiu Vasilijumi."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -379,9 +371,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-168399
 
 <a id="claim-t-206519"></a>
-- t-206519
+- t-018
   teiginys: "Kryžiuočiai į nelaisvę paimtą kunigaikštį Kęstutį nugabeno į Marienburgą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -392,9 +384,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-189134
 
 <a id="claim-t-206520"></a>
-- t-206520
+- t-019
   teiginys: "Teodoras Narbutas Marienburgo pavadinimą aiškina žodžiais „Marijos kalnu“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-16 22:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -511,8 +503,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-177697
+  pagrindzia:
+    - t-014
 
 - id: c-37528
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -535,9 +527,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-177689
-    - t-177700
+  pagrindzia:
+    - t-007
+    - t-016
 
 - id: c-161534
   autorius: "Petras Dusburgietis"
@@ -553,6 +545,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-161535
   sudarytojas: "Karolis Zikaras"
@@ -567,8 +561,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-177683
+  pagrindzia:
+    - t-001
 
 - id: c-161536
   autorius: "Petras Dusburgietis"
@@ -589,6 +583,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-161537
   autorius: "Michał Baliński"
@@ -613,9 +609,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-177692
-    - t-177698
+  pagrindzia:
+    - t-009
+    - t-015
 
 - id: c-161538
   autorius: "Zenonas Ivinskis"
@@ -637,8 +633,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-177687
+  pagrindzia:
+    - t-005
 
 - id: c-161539
   autorius: "Michał Baliński"
@@ -677,9 +673,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-177685
-    - t-177696
+  pagrindzia:
+    - t-003
+    - t-013
 
 - id: c-161540
   autorius: "Zenonas Ivinskis"
@@ -699,8 +695,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-177684
+  pagrindzia:
+    - t-002
 
 - id: c-161543
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -722,8 +718,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-177690
+  pagrindzia:
+    - t-008
 
 - id: c-161544
   autorius: "Petras Dusburgietis"
@@ -747,6 +743,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-161546
   autorius: "Zenonas Ivinskis"
@@ -765,8 +763,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-177695
+  pagrindzia:
+    - t-012
 
 - id: c-161547
   autorius: "Petras Dusburgietis"
@@ -785,6 +783,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-168399
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -818,8 +818,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185038
+  pagrindzia:
+    - t-017
 
 - id: c-189134
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -838,8 +838,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206519
+  pagrindzia:
+    - t-018
 
 - id: c-189135
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -858,97 +858,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206520
-
-- id: c-193354
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 92."
-  citata_originali: |
-    Didysis kunigaikštis Vytautas, būdamas pas magist­
-    rą Vokietijoje30, Marienburgo pilyje, sudarė sąjungą
-    su vokiečiais — su livoniečiais ir su prūsais
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211989
-
-- id: c-193562
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 91."
-  citata_originali: |
-    Tais pačiais metais, Vytautui būnant Vokiečių že­
-    mėje, į Marienburgą atvyko pasiuntiniai iš Maskvos
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212041
-
-- id: c-199718
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
-  citata_originali: |
-    Trečia šventykla buvo vietovėje, kur dabar Marienburgas,
-    prie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu,
-    pastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220072
-
-- id: c-203188
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 166"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
-  citata_originali: |
-    1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
-    kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223790
-
-- id: c-204092
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 203."
-  citata_originali: |
-    1309 viešpaties metais, rugsėjį atvyko į Prūsijos žemę brolis Zigfridas iš Foichtvangeno,
-    vienuoliktas didysis magistras ir aštuonioliktas Prūsijos žemės magistras, ir perkėlė į
-    Marienburgo pilį Prūsijoje Ordino vyriausiąją būstinę, kuri po Akono miesto sugriovimo
-    buvo Venecijoje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220844
+  pagrindzia:
+    - t-019
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]

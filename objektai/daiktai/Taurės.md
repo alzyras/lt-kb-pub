@@ -53,6 +53,29 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-195333"></a>
+- t-001
+  teiginys: "Varinė taurelė minima prie bažnyčios vaišių ir kaip atlygio gėrimo indas."
+  atnaujinta: "2026-07-19 17:26"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177729
+
+<a id="claim-t-200943"></a>
+- t-002
+  teiginys: "Paskui vie ni siurbė midų bei alų iš tauragių, kiti iš kaušų, bū davo ir tokių, kurie gerdavo iš paauksytų kaukolių savo neprietelių, karėj pergalėtų 2."
+  atnaujinta: "2026-07-16 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184293
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Mūsų tautosaka, t.4 (1931)
@@ -102,6 +125,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-177730
   autorius: "M. Katkus"
@@ -117,7 +142,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-177731
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -132,9 +156,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - id: c-177732
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -153,7 +174,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-184293
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   puslapiai: "PDF 83"
@@ -176,29 +196,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-195334"></a>
-- t-001
-  teiginys: "Kitoje istorijoje taurė aprašoma kaip stora stiklinė, tyčia daužoma į duris ir aslos akmenį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177731
-
-<a id="claim-t-200943"></a>
-- t-002
-  teiginys: "Paskui vie ni siurbė midų bei alų iš tauragių, kiti iš kaušų, bū davo ir tokių, kurie gerdavo iš paauksytų kaukolių savo neprietelių, karėj pergalėtų 2."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184293
-

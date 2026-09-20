@@ -27,6 +27,21 @@ media_all_json: |-
 
 Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu iš Italijos po hunų nusiaubimų 924 metais. Kojelavičius vaizdavo italų ateivius kaip sumaniai veikusius Lietuvoje, kur ateiviai ir vietiniai gyventojai galiausiai susivienijo.
 
+## Teiginiai
+
+<a id="claim-t-193313"></a>
+- t-001
+  teiginys: "Kojelavičius vaizdavo italų ateivius kaip sumaniai veikusius Lietuvoje, kur ateiviai ir vietiniai gyventojai galiausiai susivienijo."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-176041
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu iš Italijos po hunų nusiaubimų 924 metais.'
@@ -101,9 +116,6 @@ Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - id: c-176041
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -124,41 +136,5 @@ Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-185426"></a>
-- t-001
-  teiginys: "Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu iš Italijos po hunų nusiaubimų 924 metais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Herbas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Italų ateiviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Herbas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Italų ateiviai\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168787
-
-<a id="claim-t-193313"></a>
-- t-002
-  teiginys: "Kojelavičius vaizdavo italų ateivius kaip sumaniai veikusius Lietuvoje, kur ateiviai ir vietiniai gyventojai galiausiai susivienijo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-176041
-
+  pagrindzia:
+    - t-001

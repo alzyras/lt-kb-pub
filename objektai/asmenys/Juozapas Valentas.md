@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Juozapas Valentas'
+pavadinimas: Juozapas Valentas
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9ffbe2e30434ed93c3836d4d"
-canonical_name: "Juozapas Valentas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Juozapas Valentas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9ffbe2e30434ed93c3836d4d
+canonical_name: Juozapas Valentas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Juozapas Valentas
 sameAs: []
-canonical_biography: "Du broliukai Dominy kas Meilus ir Juozapas Valentas laikinai, kol pasitai sys, buvo iš brolijos pašalinti."
+canonical_biography: 'Du broliukai Dominy kas Meilus ir Juozapas Valentas laikinai, kol pasitai sys, buvo iš brolijos pašalinti.'
 ---
 # Juozapas Valentas
 

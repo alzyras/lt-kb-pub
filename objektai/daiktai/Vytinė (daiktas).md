@@ -53,6 +53,18 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-201979"></a>
+- t-001
+  teiginys: "Šis užpuolęs prie Saidžių kaimo Sudervės valdoje sustojusias 5 Kauno pirklių vytines ir kaip kranto mokestį pagrobęs iš jų kelias statines druskos ir silkių."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185326
+
 <a id="claim-t-202344"></a>
 - t-002
   teiginys: "Jonas Kojalavičius prekiavo druska ir geležimi bei turėjo vytinių, kuriomis plukdė savo ir kitų asmenų prekes, iš to pasipelnydamas."
@@ -72,18 +84,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185691
-
-<a id="claim-t-201979"></a>
-- t-201979
-  teiginys: "Šis užpuolęs prie Saidžių kaimo Sudervės valdoje sustojusias 5 Kauno pirklių vytines ir kaip kranto mokestį pagrobęs iš jų kelias statines druskos ir silkių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185326
 
 ## Santrauka
 
@@ -107,8 +107,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201979
+  pagrindzia:
+    - t-001
 
 - id: c-185691
   autorius: "Zigmantas Kiaupa"
@@ -117,8 +117,6 @@ Nenurodyta
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 3."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 21:24"
-  pagrindžia:
+  pagrindzia:
     - t-002
-

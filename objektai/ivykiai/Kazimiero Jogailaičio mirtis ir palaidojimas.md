@@ -56,22 +56,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-210918"></a>
-- t-210918
-  teiginys: "Istoriografijoje Kazimiero mirties data nurodoma kaip 1492 m. birželio 7 d."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193966
-
-<a id="claim-t-210447"></a>
-- t-210447
+<a id="claim-t-186768"></a>
+- t-001
   teiginys: "Kazimieras Jogailaitis nuo 1492 m. gegužės 16 d. buvo Gardine."
-  atnaujinta: "2026-09-12 19:43"
+  atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "gyveno -> Gardinas: 0.76"
@@ -86,11 +74,13 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintas redakcinės pastabos įvadas ir patikslintas asmuo."
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-169971
 
-<a id="claim-t-211678"></a>
-- t-211678
+<a id="claim-t-186769"></a>
+- t-002
   teiginys: "Kazimieras Jogailaitis po 1492 m. gegužės 8 d. Trakuose susirgo vidurių liga keliaudamas iš Vilniaus į Gardiną."
-  atnaujinta: "2026-09-12 19:43"
+  atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "keliavo_i -> Gardinas: 0.84"
@@ -105,6 +95,8 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas lietuviškas sakinys su aiškiu subjektu ir data. Nepridėta mirties ar palaidojimo detalių, nes citata pagrindžia tik ligą ir kelionės kontekstą."
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-169971
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -137,24 +129,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193966
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 305"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 305."
-  citata_originali: |
-    Kazimiero mirties kalendorinė data nurodyta tiksliai, kadan­
-    gi 1492 m. dievo dangun žengimo šventė (Ascensto domini) buvo
-    gegužės 31 d. Tačiau istorinėje literatūroje priimta data, kurių nu­
-    rodo M Miechovita (p. 326) — 1492 m. birželio 7 d., ketvirtadieni
-    prieš Sekmines.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210918
-
+  pagrindzia:
+    - t-001
+    - t-002

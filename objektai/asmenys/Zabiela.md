@@ -44,17 +44,25 @@ Narbutas rašo, kad Vilkijos seniūnui Zabielai uždraudus kerus ant Upinės kau
 
 ## Teiginiai
 
-<a id="claim-t-218802"></a>
-- t-218802
-  teiginys: "Vilkijos seniūnas Zabiela uždraudė prie Upinės kaupo vykusius kerus, o vietoje buvo pastatyta koplyčia."
-  atnaujinta: "2026-09-12 23:46"
+<a id="claim-t-190221"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad Vilkijos seniūnui Zabielai uždraudus kerus ant Upinės kaupo buvo pastatyta koplyčia."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zabiela: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilkija: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zabiela\" parinktas kaip owner_note_path. Targetas \"Vilkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-201280
+    - c-173104
 
 ## Citatos
 
@@ -74,21 +82,5 @@ Narbutas rašo, kad Vilkijos seniūnui Zabielai uždraudus kerus ant Upinės kau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201280
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
-  citata_originali: |
-    Kai Vilkijos seniūnas Zabiela uždraudė tuos
-    kerus, ant Upinės kaupo buvo pastatyta koplyčia.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218802
-
+  pagrindzia:
+    - t-001

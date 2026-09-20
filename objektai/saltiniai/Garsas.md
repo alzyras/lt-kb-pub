@@ -34,6 +34,20 @@ media_all_json: |-
 
 „Garso Amerikos Lietuvių" antraštė.
 
+## Teiginiai
+
+<a id="claim-t-02165"></a>
+- t-001
+  teiginys: "Laikraštis 1892–1894 m. ėjo „Garso“ vardu, o 1894–1899 m. jį leido dešimties kunigų bendrovė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1892-1894; įvykio data: 1894 m.; įvykio data: 1894-1899; įvykio data: 1899 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta sklandžiau, pašalinant santrumpas ir išlaikant citatos faktus."
+  pagrindžia:
+    - c-02403
+
 ## Citatos
 
 - id: c-02403
@@ -57,20 +71,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-02165"></a>
-- t-001
-  teiginys: "Laikraštis 1892–1894 m. ėjo „Garso“ vardu, o 1894–1899 m. jį leido dešimties kunigų bendrovė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1892-1894; įvykio data: 1894 m.; įvykio data: 1894-1899; įvykio data: 1899 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta sklandžiau, pašalinant santrumpas ir išlaikant citatos faktus."
-  pagrindžia:
-    - c-02403
-

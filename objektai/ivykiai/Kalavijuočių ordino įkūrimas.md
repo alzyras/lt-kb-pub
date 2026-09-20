@@ -44,6 +44,44 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-66584"></a>
+- t-001
+  teiginys: "Vyskupas Albertas 1202 m. įkūrė ordiną, kurį 1204 m. popiežius patvirtino ir kuriam suteikė templininkų įstatus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66789
+
+<a id="claim-t-66585"></a>
+- t-002
+  teiginys: "Kalavijuočių ordinas turėjo tapti nuolatine organizuota vokiečių ir krikštytų čiabuvių karine pajėga."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66788
+
+<a id="claim-t-66586"></a>
+- t-003
+  teiginys: "Vos įsikūręs Kalavijuočių ordinas pradėjo vaduotis iš vyskupo priklausomybės ir gavo trečdalį užimto krašto."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66787
+
+<a id="claim-t-66587"></a>
+- t-004
+  teiginys: "Kalavijuočių ordinas turėjo ginti krikščionis, padėti atversti pagonis ir veikti kaip kraštą valdžiusio vyskupo įrankis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66786
+
 ## Citatos
 
 - id: c-66786
@@ -62,7 +100,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-66787
@@ -82,7 +120,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-66788
@@ -101,7 +139,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-66789
@@ -121,44 +159,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-66584"></a>
-- t-001
-  teiginys: "Vyskupas Albertas 1202 m. įkūrė ordiną, kurį 1204 m. popiežius patvirtino ir kuriam suteikė templininkų įstatus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66789
-
-<a id="claim-t-66585"></a>
-- t-002
-  teiginys: "Kalavijuočių ordinas turėjo tapti nuolatine organizuota vokiečių ir krikštytų čiabuvių karine pajėga."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66788
-
-<a id="claim-t-66586"></a>
-- t-003
-  teiginys: "Vos įsikūręs Kalavijuočių ordinas pradėjo vaduotis iš vyskupo priklausomybės ir gavo trečdalį užimto krašto."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66787
-
-<a id="claim-t-66587"></a>
-- t-004
-  teiginys: "Kalavijuočių ordinas turėjo ginti krikščionis, padėti atversti pagonis ir veikti kaip kraštą valdžiusio vyskupo įrankis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66786
-

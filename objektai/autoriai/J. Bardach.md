@@ -42,6 +42,24 @@ canonical_biography: "Bardach, J."
 
 Bardach, J.
 
+## Teiginiai
+
+<a id="claim-t-30660"></a>
+- t-001
+  teiginys: "J. Bardach knygoje apie Lietuvos Didžiosios Kunigaikštystės santvarką ir teisę paskelbė darbą „Akt w Krewie“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Bardach: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Bardach\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-32956
+
 ## Citatos
 
 - id: c-32956
@@ -61,59 +79,5 @@ Bardach, J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-190157
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 160"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 160."
-  citata_originali: |
-    Taigi Chodkevičius surado išeities kelius ten, kur, atrodė, jų nėra.
-    „Brolių lenkų“ ir Žygimanto Augusto spaudimą Liublino unijos metu – tiek siekį
-    panaikinti valstybingumą, tiek teritorijų atplėšimą – šiandien mato ir lenkų istorikas Ju-
-    liuszas Bardachas, tačiau išvadą padaro kitokią: net ir toks Liublino unijos rezultatas buvo
-    kompromisas, kurį, nors ir per ašaras, LDK pusė priėmė, tačiau šio kompromiso pagrįstu-
-    mą įrodė, kad juo rimčiau nesuabejota dar du šimtmečius. Tiesa, Liublino unijos pasekmės
-    pasireiškė jau netrukus.
-  citata_rodoma: "lenkų“ ir Žygimanto Augusto spaudimą Liublino unijos metu – tiek siekį \npanaikinti valstybingumą, tiek teritorijų atplėšimą – šiandien mato ir lenkų istorikas Ju-\nliuszas Bardachas, tačiau išvadą padaro kitokią: net ir toks Liublino unijos rezultatas buvo \nkompromisas, kurį, nors ir per ašaras, LDK pusė priėmė, tačiau šio kompromiso pagrįstu-\nmą įrodė, kad juo rimčiau nesuabejota dar du šimtmečius. Ties"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-30660"></a>
-- t-001
-  teiginys: "J. Bardach knygoje apie Lietuvos Didžiosios Kunigaikštystės santvarką ir teisę paskelbė darbą „Akt w Krewie“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Bardach: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Bardach\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-32956
-
-<a id="claim-t-207540"></a>
-- t-002
-  teiginys: "Juliusz Bardach Liublino unijos rezultatą aiškino kaip kompromisą, kurį LDK pusė priėmė per ašaras."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  pagrindžia:
-    - c-190157
-

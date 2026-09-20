@@ -61,6 +61,33 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 
 ## Teiginiai
 
+<a id="claim-t-05602"></a>
+- t-001
+  teiginys: "Stryjkovskis rašė pirmais poliublininiais dešimtmečiais."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1932 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-91775
+
+<a id="claim-t-05603"></a>
+- t-002
+  teiginys: "Poliublininiame laikotarpyje iki T. Narbuto laikų atskiros Lietuvos istorijos tradicija nebebuvo tęsiama."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "poliublininis laikotarpis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"poliublininis laikotarpis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-91776
+
 <a id="claim-t-05606"></a>
 - t-003
   teiginys: "Pirmieji poliublininiai dešimtmečiai siejami su laikotarpiu po Liublino įvykių."
@@ -77,37 +104,10 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   pagrindžia:
     - c-91775
 
-<a id="claim-t-05602"></a>
-- t-05602
-  teiginys: "Stryjkovskis rašė pirmais poliublininiais dešimtmečiais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1932 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-91775
-
-<a id="claim-t-05603"></a>
-- t-05603
-  teiginys: "Poliublininiame laikotarpyje iki T. Narbuto laikų atskiros Lietuvos istorijos tradicija nebebuvo tęsiama."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "poliublininis laikotarpis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"poliublininis laikotarpis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-91776
-
 <a id="claim-t-97286"></a>
-- t-97286
+- t-004
   teiginys: "Pirmaisiais poliublininiais dešimtmečiais rašęs Stryjkovskis perėmė Lietuvos didikų valstybingumo sąmonę."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -121,9 +121,9 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - c-91775
 
 <a id="claim-t-97287"></a>
-- t-97287
+- t-005
   teiginys: "Kojalavičius įtvirtino tradiciją poliublininiu laikotarpiu nebetęsti atskiros Lietuvos istorijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -160,7 +160,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-91775
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -178,15 +177,14 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     Didžiosios Lietuvos Kunigaikštystės gyventojus.
   citata_rodoma: "pir­\nmojo Lietuvos istoriko veikalą, faktus vis reikia patikrinti.\nPlačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­\nkai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­\nsiėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­\nrėjo sutikti su tuo, kas buvo įvykę Liubline. Mozūras Stryjkovskis\nryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­\nbinę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius\nDidžiosios Lietuvos Kunigaikštystės gyventojus."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-001
     - t-003
-    - t-05602
-    - t-97286
+    - t-004
 
 - id: c-91776
   autorius: "Zenonas Ivinskis"
@@ -206,9 +204,9 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05603
-    - t-97287
+  pagrindzia:
+    - t-002
+    - t-005
 
 - id: c-91778
   autorius: "Zenonas Ivinskis"
@@ -228,7 +226,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-91779
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -247,7 +244,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-91781
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -269,4 +265,3 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

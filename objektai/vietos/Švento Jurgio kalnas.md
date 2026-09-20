@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Švento Jurgio kalnas'
+pavadinimas: Švento Jurgio kalnas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1259 m.'
+  - 1259 m.
 date_start: '1259'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f68d13dda52ff37cace14a6e"
-canonical_name: "Švento Jurgio kalnas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Švento Jurgio kalnas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f68d13dda52ff37cace14a6e
+canonical_name: Švento Jurgio kalnas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Švento Jurgio kalnas
 sameAs: []
-canonical_biography: "1259 m. ant švento Jurgio kalno Karšuvos žemėje buvo pastatyta pilis."
+canonical_biography: 1259 m. ant švento Jurgio kalno Karšuvos žemėje buvo pastatyta pilis.
 ---
 # Švento Jurgio kalnas
 
@@ -72,6 +71,5 @@ canonical_biography: "1259 m. ant švento Jurgio kalno Karšuvos žemėje buvo p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

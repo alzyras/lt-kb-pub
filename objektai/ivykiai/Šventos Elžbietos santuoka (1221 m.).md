@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Šventos Elžbietos santuoka (1221 m.)'
+pavadinimas: Šventos Elžbietos santuoka (1221 m.)
 variantai:
-  - 'Šventos Elžbietos santuoka'
+  - Šventos Elžbietos santuoka
 aliases:
-  - 'Šventos Elžbietos santuoka'
+  - Šventos Elžbietos santuoka
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1221 m.'
+  - 1221 m.
 date_start: '1221'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Šventos Elžbietos santuoka (1221 m.)
 
@@ -79,6 +76,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

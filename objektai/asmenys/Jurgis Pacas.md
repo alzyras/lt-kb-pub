@@ -1,15 +1,15 @@
 ---
 tipas: asmuo
-pavadinimas: "Jurgis Pacas"
-canonical_entity_id: "ent-noble-04a00eb6fe39b3dc2cbef411"
-noble_scope: "ldk-didikai-iki-1795-v1"
-noble_family: "Pacai"
+pavadinimas: Jurgis Pacas
+canonical_entity_id: ent-noble-04a00eb6fe39b3dc2cbef411
+noble_scope: ldk-didikai-iki-1795-v1
+noble_family: Pacai
 aliases:
-  - "Jurgis Pacas"
+  - Jurgis Pacas
 saltiniai:
-  - "VLE: Pacai"
-date_start: ""
-date_end: ""
+  - 'VLE: Pacai'
+date_start: ''
+date_end: ''
 periodo_grupes:
   - LDK
 bukle: viesas_pradinis
@@ -24,19 +24,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-noble-04a00eb6fe39b3dc2cbef411"
-canonical_name: "Jurgis Pacas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jurgis Pacas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-noble-04a00eb6fe39b3dc2cbef411
+canonical_name: Jurgis Pacas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jurgis Pacas
 sameAs: []
-canonical_biography: "Jurgis Pacas - Pacai giminės atstovas."
+canonical_biography: Jurgis Pacas - Pacai giminės atstovas.
 ---
 # Jurgis Pacas
 

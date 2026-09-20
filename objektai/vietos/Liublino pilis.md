@@ -38,20 +38,24 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
 
 ## Teiginiai
 
-<a id="claim-t-210332"></a>
-- t-210332
-  teiginys: "Liublino pilyje Jogaila Vytauto akivaizdoje raštais užrašė Vytauto tėviškę Skirgailai."
-  atnaujinta: "2026-09-12 20:03"
-  sprendimo_priezastis: "auto"
+<a id="claim-t-199545"></a>
+- t-001
+  teiginys: "Vytauto pasakojime Jogaila Liublino pilyje Skirgailai raštu užrašė visą Vytauto tėviškę jo akivaizdoje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Reikia atribucijos, nes citata perteikia Vytauto pirmojo asmens skundą ir vertinimo kontekstą."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-182302
 
 <a id="claim-t-201080"></a>
-- t-201080
+- t-002
   teiginys: "Tą metą lenkai, nenubengę dar su visu karės su lietuviais, ėmė gudus kariauti, vildamos atimsią nuo jų Liublino pilį, pirm 57 metų užimtą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -97,6 +101,8 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-184430
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -120,6 +126,5 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201080
-
+  pagrindzia:
+    - t-002

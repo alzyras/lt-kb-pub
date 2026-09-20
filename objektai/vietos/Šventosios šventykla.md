@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Šventosios šventykla'
+pavadinimas: Šventosios šventykla
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9dcffd39da7c6c942d4f0034"
-canonical_name: "Šventosios šventykla"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Šventosios šventykla"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9dcffd39da7c6c942d4f0034
+canonical_name: Šventosios šventykla
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šventosios šventykla
 sameAs: []
-canonical_biography: "Narbutas teigia, kad šią šventę prūsai užbaigdavo Šventosios (Szwenta) šven tykloje, dabartiniame Heiligenbeilyje; ten stovėjusį dievo Kurko, arba Žemininko, stabą sutrupindavo ir padirbdavo naują."
+canonical_biography: 'Narbutas teigia, kad šią šventę prūsai užbaigdavo Šventosios (Szwenta) šven tykloje, dabartiniame Heiligenbeilyje; ten stovėjusį dievo Kurko, arba Žemininko, stabą sutrupindavo ir padirbdavo naują.'
 ---
 # Šventosios šventykla
 
@@ -66,6 +65,5 @@ Narbutas teigia, kad šią šventę prūsai užbaigdavo Šventosios (Szwenta) š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

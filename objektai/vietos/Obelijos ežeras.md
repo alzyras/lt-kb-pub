@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Obelijos ežeras'
+pavadinimas: Obelijos ežeras
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8ab2210c368f8d5dc72d3a85"
-canonical_name: "Obelijos ežeras"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Obelijos ežeras"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8ab2210c368f8d5dc72d3a85
+canonical_name: Obelijos ežeras
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Obelijos ežeras
 sameAs: []
-canonical_biography: "Dvi tokios vietos man yra žinomos: viena prie Kobelių ežero Gardino apskrityje, kita — šeši varstai nuo Uk mergės ir 7 varstai nuo Deltuvos, kur taip pat yra Obelių, t."
+canonical_biography: 'Dvi tokios vietos man yra žinomos: viena prie Kobelių ežero Gardino apskrityje, kita — šeši varstai nuo Uk mergės ir 7 varstai nuo Deltuvos, kur taip pat yra Obelių, t.'
 ---
 # Obelijos ežeras
 
@@ -67,6 +66,5 @@ Dvi tokios vietos man yra žinomos: viena prie Kobelių ežero Gardino apskrityj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -1,37 +1,37 @@
 ---
 tipas: autorius
-pavadinimas: 'K. Giėčys'
+pavadinimas: K. Giėčys
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1858 m.'
+  - 1858 m.
 date_start: '1858'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-aad79bba69eb14d9a7728859"
-canonical_name: "K. Giėčys"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["K. Giėčys"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-aad79bba69eb14d9a7728859
+canonical_name: K. Giėčys
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - K. Giėčys
 sameAs: []
-canonical_biography: "K. Giėčys manė, kad kai kurios blaivybės brolijos galėjo įsikurti dar anksčiau nei 1858 m."
+canonical_biography: 'K. Giėčys manė, kad kai kurios blaivybės brolijos galėjo įsikurti dar anksčiau nei 1858 m.'
 ---
 # K. Giėčys
 

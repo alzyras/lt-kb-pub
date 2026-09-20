@@ -34,6 +34,17 @@ canonical_biography: "Kaip nuo seno įprasta, de­ šimtinę mokės šie parapij
 
 Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai: Jonas Stančikavičius, Stanislovas Milinavičius, Stanislovas Piotrasavičius, Motiejus su broliu Kasparu JanušeVičiai, Aleksandras Baltramiejevičius, našlė Felicija Osčiluvna, Povilas.
 
+## Teiginiai
+
+<a id="claim-t-87795"></a>
+- t-001
+  teiginys: "Motiejus Januševičius su broliu Kasparu buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83774
+
 ## Citatos
 
 - id: c-83774
@@ -65,17 +76,5 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-87795"></a>
-- t-001
-  teiginys: "Motiejus Januševičius su broliu Kasparu buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83774
-

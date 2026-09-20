@@ -27,6 +27,28 @@ media_all_json: |-
 
 Narbutas iš Henriko Leo tyrimų apie Marienburgo glosas darė išvadą, kad motininės kalbos rodo seniausią tautų istoriją.
 
+## Teiginiai
+
+<a id="claim-t-189597"></a>
+- t-001
+  teiginys: "Narbutas iš Henriko Leo tyrimų apie Marienburgo glosas darė išvadą, kad motininės kalbos rodo seniausią tautų istoriją."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Henrikas Leo: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motininės kalbos yra rodyklė į seniausią tautų istoriją: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas Leo: mention_match, author, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motininės kalbos yra rodyklė į seniausią tautų istoriją\" parinktas kaip owner_note_path. Targetas \"Henrikas Leo\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172482
+
 ## Citatos
 
 - id: c-172482
@@ -50,51 +72,5 @@ Narbutas iš Henriko Leo tyrimų apie Marienburgo glosas darė išvadą, kad mot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199889
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 438"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 438."
-  citata_originali: |
-    22 Vokiečių istorikas Henrikas Leo darbe, pavadintame „Marien­
-    burgo glosos“ (Die Malbergische Glosse), teigia, kad žodžiai, vadinti
-    marienburgiškais, - nesuprasti senoviškų vokiškų rankraščių žodžiai,
-    kurie buvo laikomi perrašinėtojų klaidomis. Jis juos perskaitė ir įrodė,
-    jog tai keltų kalbos žodžiai. Šioji kalba jau yra dingusi ir kur ne kur
-    kelių protėvių vartojama. Išsamūs šio mokslininko tyrinėjimai aiški­
-    nantis vokiškų žodžių, neturinčių savo užuomazgos, kilmę, įrodė ne­
-    mažai istorijos faktų, kurių nebūtų galima pagrįsti kitaip. Iš čia atsiran­
-    da svarbi išvada, kad motininės kalbos yra rodyklė į seniausią tautų
-    istoriją **.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-219353"></a>
-- t-001
-  teiginys: "Narbutas iš Henriko Leo tyrimų apie Marienburgo glosas darė išvadą, kad motininės kalbos rodo seniausią tautų istoriją."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Henrikas Leo: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motininės kalbos yra rodyklė į seniausią tautų istoriją: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Henrikas Leo: mention_match, author, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motininės kalbos yra rodyklė į seniausią tautų istoriją\" parinktas kaip owner_note_path. Targetas \"Henrikas Leo\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-199889
-

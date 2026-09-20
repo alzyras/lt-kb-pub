@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Uralo kalnai'
+pavadinimas: Uralo kalnai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-60b0ef07e0f27e553b32b2cc"
-canonical_name: "Uralo kalnai"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Uralo kalnai"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-60b0ef07e0f27e553b32b2cc
+canonical_name: Uralo kalnai
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Uralo kalnai
 sameAs: []
-canonical_biography: "Tikėtina, kad jie galėjo turėti įtakos iki Uralo kalnų ir turtingų rūdynų."
+canonical_biography: 'Tikėtina, kad jie galėjo turėti įtakos iki Uralo kalnų ir turtingų rūdynų.'
 ---
 # Uralo kalnai
 
@@ -65,6 +64,5 @@ Tikėtina, kad jie galėjo turėti įtakos iki Uralo kalnų ir turtingų rūdyn�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

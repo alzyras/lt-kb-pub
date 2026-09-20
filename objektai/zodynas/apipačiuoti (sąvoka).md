@@ -1,13 +1,13 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'apipačiuoti (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: apipačiuoti (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'apipačiuoti'
+  - apipačiuoti
 aliases:
-  - 'apipačiuoti'
+  - apipačiuoti
 saltiniai:
-  - 'Motiejus Valančius. Ganytojiški laiškai'
+  - Motiejus Valančius. Ganytojiški laiškai
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # apipačiuoti (sąvoka)
 

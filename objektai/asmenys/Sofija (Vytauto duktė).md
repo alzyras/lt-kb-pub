@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Sofija (Vytauto duktė)'
+pavadinimas: Sofija (Vytauto duktė)
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1387 m.'
+  - 1387 m.
 date_start: '1387'
 date_end: ''
 sukurta: ''
@@ -14,28 +14,46 @@ tags:
   - asmuo
   - kunigaikštis
 amziai:
-  - 'XIV'
+  - XIV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-95dbbfbe4a5ac5d5a5311493"
-canonical_name: "Sofija (Vytauto duktė)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Maskvos kunigaikštienė Sofija","Sofija","Sofija (Vytauto duktė)","Sofiją","Vytauto dukters Sofijos","Vytauto dukterį Sofiją","Zofija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-95dbbfbe4a5ac5d5a5311493
+canonical_name: Sofija (Vytauto duktė)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Maskvos kunigaikštienė Sofija
+  - Sofija
+  - Sofija (Vytauto duktė)
+  - Sofiją
+  - Vytauto dukters Sofijos
+  - Vytauto dukterį Sofiją
+  - Zofija
 sameAs: []
-canonical_biography: "Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. Šaltiniai ją sieja su Vosyliaus vedybų planu, Vytauto ryšiais su Maskva, protestu dėl Žemaitijos ir nepilnamečio sūnaus globos klausimu."
+canonical_biography: 'Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. Šaltiniai ją sieja su Vosyliaus vedybų planu, Vytauto ryšiais su Maskva, protestu dėl Žemaitijos ir nepilnamečio sūnaus globos klausimu.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:45:36+00:00","source_checked_at":"2026-09-20T04:45:36+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0cbdb4d3992dc01dff8bbdb2","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Maskvos kunigaikštienė","context":"Šaltiniuose Sofija įvardijama kaip Vytauto duktė ir Maskvos kunigaikštienė; po vyro mirties ji buvo su nepilnamečiu sūnumi Vosyliumi II.","support_ids":["t-176611","c-160602","t-176612","c-15324"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176611","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-176612","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-160602","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties."},{"kind":"evidence","evidence_id":"c-15324","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Vytautas ruošėsi gerai juos nubausti. Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnamečiu savo sūnumi Vosylių II ir, pildydama savo mirusio vyro valią, prašė paimti sūnų savo globon, paliekant jam jo valstybę^2 )."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6fd3322bfcaaf841fabd31f4","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Maskvos kunigaikščio Vasilijaus žmona","context":"Šaltinis aprašo Sofiją kaip tekančią už Maskvos kunigaikščio Vasilijaus ir Vytauto surengtas jai dideles palydėtuves.","support_ids":["t-184830","c-168191"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184830","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168191","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Priėmus nutarimą, ieškota žmogaus, kuriam be pavojaus galima būtų patikėti šią slaptą užduotį, mat jis turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­ dovauti galop parinko Henriką, mozūrų kunigaikščio Zemovito sūnų, neseniai vainikuotą Plocko vyskupu. Jo atvykimas (tiesą sakant, P a šn e n k a m a s m o zū rų daug kas manė, jog dėl gi- k u n ig a ik štis H enri- minystės jis gali likti nepas- k a s tebėtas) anaiptol negalėjo ne­ sukelti kryžiuočiams įtarimo, tačiau tuo pat metu Vytautas Marienburge surengė sa­ vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio Vasilijaus, dideles palydėtuves. Visi manė, jog su kitais…"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_dukte","direction":"outbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176612","confidence":0.96}],"timeline":[],"support_disclosure":{"claims":5,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 77914052271e23f3
+object_page_generated_at: '2026-09-20T04:45:36+00:00'
+object_page_source_checked_at: '2026-09-20T04:45:36+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '2'
+object_page_seo_description: 'Sofija (Vytauto duktė): Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. Šaltiniai ją sieja su Vosyliaus vedybų planu, Vytauto…'
+object_page_seo_input_hash: 441c8976acb5168e63b28ebe7c1b68e833bebc96bebee141ea7877ad27c326d6
+object_page_seo_generated_at: '2026-09-20T04:45:36+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Sofija (Vytauto duktė)
 
@@ -44,6 +62,72 @@ canonical_biography: "Sofija šiame įraše atskirta kaip Vytauto duktė ir Mask
 Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. Šaltiniai ją sieja su Vosyliaus vedybų planu, Vytauto ryšiais su Maskva, protestu dėl Žemaitijos ir nepilnamečio sūnaus globos klausimu.
 
 ## Teiginiai
+
+<a id="claim-t-176611"></a>
+- t-001
+  teiginys: "Sofijos, Maskvos kunigaikštienės, vardu buvo įteiktas protestas prieš Žemaitijos atidavimą Ordinui po jos tėvo mirties."
+  atnaujinta: "2026-05-31 14:16"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sofija (Vytauto duktė): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=91"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sofija (Vytauto duktė)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-160602
+
+<a id="claim-t-176612"></a>
+- t-002
+  teiginys: "Po vyro mirties Sofija prašė Vytauto paimti jos sūnų Vosylių II globon ir palikti jam valstybę."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  ryšio_patikimumas: "buvo_dukte -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sofija (Vytauto duktė): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata Sofiją tiesiogiai įvardija Vytauto dukterimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sofija (Vytauto duktė) buvo duktė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.96)"
+  pagrindžia:
+    - c-15324
+
+<a id="claim-t-176613"></a>
+- t-003
+  teiginys: "Žemaičių bajorai Sofijos ir Jogailos dukters Jadvygos vardu įteikė protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sofija (Vytauto duktė): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=91"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sofija (Vytauto duktė)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-160600
+
+<a id="claim-t-176614"></a>
+- t-004
+  teiginys: "Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio."
+  atnaujinta: "2026-05-31 14:16"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  ryšio_patikimumas: "buvo_dukte -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sofija (Vytauto duktė): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata Sofiją tiesiogiai vadina Vytauto dukterimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sofija (Vytauto duktė) buvo duktė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.97)"
+  pagrindžia:
+    - c-160603
 
 <a id="claim-t-176616"></a>
 - t-005
@@ -63,76 +147,10 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   pagrindžia:
     - c-160604
 
-<a id="claim-t-176611"></a>
-- t-176611
-  teiginys: "Sofijos, Maskvos kunigaikštienės, vardu buvo įteiktas protestas prieš Žemaitijos atidavimą Ordinui po jos tėvo mirties."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sofija (Vytauto duktė): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sofija (Vytauto duktė)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-160602
-
-<a id="claim-t-176612"></a>
-- t-176612
-  teiginys: "Po vyro mirties Sofija prašė Vytauto paimti jos sūnų Vosylių II globon ir palikti jam valstybę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
-  ryšio_patikimumas: "buvo_dukte -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sofija (Vytauto duktė): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata Sofiją tiesiogiai įvardija Vytauto dukterimi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sofija (Vytauto duktė) buvo duktė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.96)"
-  pagrindžia:
-    - c-15324
-
-<a id="claim-t-176613"></a>
-- t-176613
-  teiginys: "Žemaičių bajorai Sofijos ir Jogailos dukters Jadvygos vardu įteikė protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sofija (Vytauto duktė): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sofija (Vytauto duktė)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-160600
-
-<a id="claim-t-176614"></a>
-- t-176614
-  teiginys: "Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
-  ryšio_patikimumas: "buvo_dukte -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sofija (Vytauto duktė): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata Sofiją tiesiogiai vadina Vytauto dukterimi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sofija (Vytauto duktė) buvo duktė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.97)"
-  pagrindžia:
-    - c-160603
-
 <a id="claim-t-184830"></a>
-- t-184830
+- t-006
   teiginys: "Sofija, Vytauto duktė, tekėjo už Maskvos kunigaikščio Vasilijaus, o Vytautas Marienburge surengė jai dideles palydėtuves."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -166,8 +184,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176612
+  pagrindzia:
+    - t-002
 
 - id: c-160600
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -188,8 +206,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176613
+  pagrindzia:
+    - t-003
 
 - id: c-160602
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -212,8 +230,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176611
+  pagrindzia:
+    - t-001
 
 - id: c-160603
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -238,8 +256,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176614
+  pagrindzia:
+    - t-004
 
 - id: c-160604
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -257,12 +275,11 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     derybas su Maskva.
   citata_rodoma: "1387 m. apsilankė jis Vytauto dvare Lucke. Čia jie padarė su­\ntartį. Kad ji būtų tvirtesnė, būsimas Maskvos viešpats turėjo\nvesti Vytauto dukterį Sofiją. Tai buvo pirmas nelegalus Vytau­\nto žingsnis, nukreiptas prieš lenkus ir jų valdovą Jogailą, ir be\njo žinios buvo slapta pasiųsta Vytauto delegacija galutinai baigti\nderybas su Maskva."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-168191
@@ -297,8 +314,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184830
+  pagrindzia:
+    - t-006
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

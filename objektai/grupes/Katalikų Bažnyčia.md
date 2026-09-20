@@ -1,23 +1,23 @@
 ---
 tipas: grupe
-pavadinimas: 'Katalikų Bažnyčia'
+pavadinimas: Katalikų Bažnyčia
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1330 m.'
-  - '1387 m.'
-  - '1417 m.'
-  - '1500 m.'
-  - '1563 m.'
-  - '1569 m.'
-  - '1737 m.'
-  - '1767 m.'
-  - '2026 m.'
+  - 1330 m.
+  - 1387 m.
+  - 1417 m.
+  - 1500 m.
+  - 1563 m.
+  - 1569 m.
+  - 1737 m.
+  - 1767 m.
+  - 2026 m.
 date_start: '1330'
 date_end: '2026'
 sukurta: ''
@@ -26,20 +26,30 @@ tags:
   - grupe
   - religinė-bendruomenė
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Romos Katalikų Bažnyčia","url":"https://lt.wikipedia.org/wiki/Romos_Katalik%C5%B3_Ba%C5%BEny%C4%8Dia","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Katalikų Bažnyčia","url":"https://www.vle.lt/straipsnis/kataliku-baznycia/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T04:28:17+00:00","source_checked_at":"2026-09-19T04:28:17+00:00","counts":{"relations":2,"gallery":0,"sources":7},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Visa tai – Mindaugo politikos rezulta- tas. Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro- lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera- toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie- žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","claim_id":"t-116744","evidence_id":"c-107533","origin":"internal"},"wiki":{"status":"published","source":{"title":"Romos Katalikų Bažnyčia","url":"https://lt.wikipedia.org/wiki/Romos_Katalik%C5%B3_Ba%C5%BEny%C4%8Dia","publisher":"Vikipedija","language":"lt","article_id":"7907","revision_id":"7576086","published_at":"2025-06-09T19:08:44Z","version_pk":"","content_hash":"ed37e6b7836b437551ce3fbf698272469a576df76b43bf96d44af2626d831890","retrieved_at":"2026-09-19T04:25:13+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Romos_Katalik%C5%B3_Ba%C5%BEny%C4%8Dia&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"7907"}},"intro":"Katalikų Bažnyčia (lot. Ecclesia Catholica), dar vadinama Romos Katalikų Bažnyčia (lot. Ecclesia Catholica Romana) – pagal tikinčiųjų skaičių yra didžiausia krikščionių bažnyčia pasaulyje. 2024 m. Katalikų Bažnyčiai priklausė 1,28 mlrd. žmonių (katalikų). Tai didžiausia pasaulio vieningą organizaciją turinti religija. Bažnyčiai vadovauja popiežius, t. y. Romos vyskupas (nuo 2025 m. – Leonas XIV). Katalikų bažnyčia taip pat apima 23 unitų arba Rytų apeigų bažnyčias. Romos Katalikų Bažnyčia apibrėžia save taip: „Katalikų Bažnyčia, kuriai vadovauja Petro įpėdinis“ – t. y. popiežius – „ir komunijoje su juo esantys vyskupai.“ Bažnyčia moko, kad ji yra įkurta Jėzaus Kristaus žmonijos išgelbėjimui.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":false,"api_redirect":true,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Romos Katalikų Bažnyčia","url":"https://lt.wikipedia.org/wiki/Romos_Katalik%C5%B3_Ba%C5%BEny%C4%8Dia","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Katalikų Bažnyčia","url":"https://www.vle.lt/straipsnis/kataliku-baznycia/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Romos_Katalik%C5%B3_Ba%C5%BEny%C4%8Dia","https://www.vle.lt/straipsnis/kataliku-baznycia/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"2d680dca8e4d278fc87419eb","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Katalikų Bažnyčia turėjo organizaciją, susijusią su popiežiumi ir Europos valdovais.","context":"Mindaugas iš kunigo Kristijono gavo informaciją apie Katalikų Bažnyčios organizaciją; šaltinis tai aprašo Mindaugo politikos kontekste.","support_ids":["t-116741","c-107533"],"source_refs":[{"kind":"internal_claim","claim_id":"t-116741","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-107533","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Visa tai – Mindaugo politikos rezulta- tas. Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro- lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera- toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie- žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0727207c37dc9bfef676727e","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Buvo bandyta steigti atskirą Lietuvos Katalikų Bažnyčios provinciją.","context":"Tai aprašoma Vytauto bažnytinės politikos kontekste.","support_ids":["t-116731","c-107552"],"source_refs":[{"kind":"internal_claim","claim_id":"t-116731","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-107552","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci- ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su Katalikų bažnyčia. Tačiau popiežiai labai atsargiai steigė arkivyskupijas ir bažnytines provincijas, o Rytų ir Vakarų bažnyčių neįstengė sujungti netrukus po Vytauto mirties įvykusi Florencijos bažnytinė unija (1439). Tačiau Vytauto bažnytinė politika padėjo pagrindus tolesniam Lietuvos krikščionėjimui."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"48f6f7dbae64bf4452947e0d","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją.","context":"1569 m. reformacijos ir kontrreformacijos konkurencijos kontekste.","support_ids":["t-116730","c-107544"],"source_refs":[{"kind":"internal_claim","claim_id":"t-116730","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-107544","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Aišku, aukštosios mokyklos poreikis brendo visuo- menėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr- reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini- mui įkurti kolegiją. Todėl 1569 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"daa4acda48cc221d3b1aa908","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Katalikų Bažnyčia Vakaruose pradėjo kovą su protestantizmu.","context":"Šaltinio autoriaus aprašymas apie reakciją į protestantizmo antplūdį Vakaruose; XVI a. kontekstas.","support_ids":["t-182895","c-166299"],"source_refs":[{"kind":"internal_claim","claim_id":"t-182895","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-166299","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Protestantizmo antplūdis Lietu- voje vis dėlto tebuvo laikinio pobūdžio. Tuo pat metu Vaka- ruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo su juo kovą. Tuo metu kai kurie Lietuvos didikų protestantų sūnūs, mokydamiesi Lietuvos ir užsienio katalikiškose mokyklose, grįždavo namo katalikai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ba43d9ca7aa37d9eeff9dda1","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Katalikų Bažnyčios pastoracinė veikla buvo varžoma.","context":"Šaltinis tai aprašo laikotarpiu iki 1863 m. sukilimo ir po jo.","support_ids":["t-208437","c-191057"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208437","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"evidence","evidence_id":"c-191057","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Pažvelkime, kaip buvo varžoma Katalikų Bažnyčios pastoracinė veikla iki 1863 m. sukilimo ir po jo."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d10972b86d96d7f05e7e72a3","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Bažnyčios veikla buvo varžoma, o katalikai diskriminuojami ir viliojami į stačiatikybę.","context":"Tai caro valdžios politika; šaltinis Katalikų Bažnyčią priskiria „lenkų pradams“ ir aprašo XIX a. imperinės valdžios kontekste.","support_ids":["t-116726","c-107542"],"source_refs":[{"kind":"internal_claim","claim_id":"t-116726","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-107542","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos. Tad Bažnyčios veikla varžyta, ka- talikai diskriminuojami ir viliojami į stačiatikybę. „Rusų pradų atkūrimo“ politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"21d5b20dafef8c6fce4ef32d","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Sovietų valdžia siekė pakirsti katalikų dvasininkijos autoritetą ir trukdė jaunuoliams mokytis kunigų seminarijoje.","context":"1946 m. uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviškyje; tai aprašoma sovietinės valdžios politikos kontekste.","support_ids":["t-116739","c-107547"],"source_refs":[{"kind":"internal_claim","claim_id":"t-116739","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-107547","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Sovietų valdžia siekė pakirsti katalikų dva- sininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje. 1946 m. uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviš- kyje. Leista veikti tik vienai kunigų seminarijai Kaune, klierikų skaičių mažinant. 1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a4e0213c4e5d034c11151750","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Katalikų Bažnyčia buvo laikoma susijusia su nepageidaujamu vakarietiškumu.","context":"Tai sovietų valdžios požiūris į katalikybę dėl jos centro Vatikane, nepavaldaus Maskvai; Lietuvos prijungimo prie Sovietų Sąjungos kontekstas.","support_ids":["t-116738","c-107534"],"source_refs":[{"kind":"internal_claim","claim_id":"t-116738","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-107534","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Savo ruožtu pagrindinis tikslas – Lietu- vos nepriklausomybės atkūrimas – skatino vienytis lietuvių diplomatus ir išeiviją, siekti tėvynės laisvinimo pajėgų vienybės. Nesitaikstanti visuomenė Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta ka- talikiška šalis. Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persekiojo, katalikai buvo ypač neparankūs dėl to, kad katalikybė siejosi su komunistinei vadovybei nepageidautinu „vakarietiškumu“ – katalikybės centru Vatikane, nepavaldžiu Maskvai, todėl su katalikybe L I E T U V O S I S T O R I J A 228 elgtasi brutaliau nei su kitomis religijomis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"20920f57e8d85535f94a2f71","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Katalikų Bažnyčia buvo apibūdinta kaip dalyvavusi agresijoje prieš Lietuvą.","context":"Šaltinio autoriaus vertinimas XIII–XIV a. kovų su Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresija kontekste.","support_ids":["t-221597","c-205418"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221597","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205418","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos. Tarp jų ypatingą vietą užima Petro iš Dusburgo „Prūsijos žemės kronika“, pateikianti daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.)."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Katalikų Bažnyčia – Lietuvoje veikusi religinė institucija ir bendruomenė, kurios istoriją lydėjo politiniai, kultūriniai bei religiniai iššūkiai. Vytauto laikais bandyta įsteigti atskirą Lietuvos katalikų bažnyčios provinciją, o ši politika prisidėjo prie tolesnio Lietuvos krikščionėjimo. XVI amžiuje Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją. Caro valdžia Bažnyčią priskyrė „lenkų pradams“, todėl jos veiklą varžė, katalikus diskriminavo ir skatino pereiti į stačiatikybę, nors tiesiogiai jos likviduoti nesiryžo. Sovietmečiu katalikybė buvo siejama su Maskvai nepaklūstančiu Vatikanu ir nepageidaujamu vakarietiškumu, o „Kronika“ tapo Katalikų Bažnyčios pasipriešinimo valdžiai simboliu.","sentences":[{"sentence_id":"s1","text":"Katalikų Bažnyčia – Lietuvoje veikusi religinė institucija ir bendruomenė, kurios istoriją lydėjo politiniai, kultūriniai bei religiniai iššūkiai.","support_ids":["t-116726","t-116731","t-116738"]},{"sentence_id":"s2","text":"Vytauto laikais bandyta įsteigti atskirą Lietuvos katalikų bažnyčios provinciją, o ši politika prisidėjo prie tolesnio Lietuvos krikščionėjimo.","support_ids":["t-116731"]},{"sentence_id":"s3","text":"XVI amžiuje Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją.","support_ids":["t-116730"]},{"sentence_id":"s4","text":"Caro valdžia Bažnyčią priskyrė „lenkų pradams“, todėl jos veiklą varžė, katalikus diskriminavo ir skatino pereiti į stačiatikybę, nors tiesiogiai jos likviduoti nesiryžo.","support_ids":["t-116726"]},{"sentence_id":"s5","text":"Sovietmečiu katalikybė buvo siejama su Maskvai nepaklūstančiu Vatikanu ir nepageidaujamu vakarietiškumu, o „Kronika“ tapo Katalikų Bažnyčios pasipriešinimo valdžiai simboliu.","support_ids":["t-116738","t-116745"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Pateikti support_ids tiesiogiai neparemia visų teiginių apie Katalikų Bažnyčią kaip Lietuvoje veikusią instituciją ir bendruomenę bei jos istoriją lydėjusius politinius, kultūrinius ir religinius iššūkius."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta t-116731: Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją, o ši politika padėjo pagrindus tolesniam Lietuvos krikščionėjimui."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta t-116730 ir jo citata."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta t-116726 ir jo citata."},{"sentence_id":"s5","supported":true,"reason":"Teiginiai tiesiogiai paremti t-116738 ir t-116745: katalikybė sieta su Vatikanu, nepavaldžiu Maskvai, nepageidaujamu vakarietiškumu, o „Kronika“ tapo pasipriešinimo sovietų valdžiai simboliu."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-116726","t-116731","t-116738"]},{"sentence_id":"s2","supported":false,"support_ids":["t-116731"]},{"sentence_id":"s3","supported":false,"support_ids":["t-116730"]},{"sentence_id":"s4","supported":false,"support_ids":["t-116726"]},{"sentence_id":"s5","supported":false,"support_ids":["t-116738","t-116745"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/grupes/Protestantai","claim_id":"t-116730","confidence":0.66},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/grupes/Lietuvos didikai","claim_id":"t-116734","confidence":0.62}],"timeline":[],"support_disclosure":{"claims":19,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1f67e5047dfa9e5f
+object_page_generated_at: '2026-09-19T04:28:17+00:00'
+object_page_source_checked_at: '2026-09-19T04:28:17+00:00'
+object_page_content_state: content
+object_page_claim_count: '19'
+object_page_source_count: '5'
+object_page_seo_description: 'Katalikų Bažnyčia – Lietuvoje veikusi religinė institucija ir bendruomenė, kurios istoriją lydėjo politiniai, kultūriniai bei religiniai iššūkiai. Vytauto…'
+object_page_seo_input_hash: 605cc433b9c708a0a9a0bf15b70e460c7097325133b90f1bb457b422cff6a90c
+object_page_seo_generated_at: '2026-09-19T04:28:17+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Katalikų Bažnyčia
 
@@ -49,57 +59,10 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 
 ## Teiginiai
 
-<a id="claim-t-208437"></a>
-- t-208437
-  teiginys: "Katalikų Bažnyčios pastoracinė veikla buvo varžoma iki 1863 m. sukilimo ir po jo."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  temporaliniai_duomenys: "įvykio data: iki 1863 m.; įvykio data: 1863 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai nusako Katalikų Bažnyčios pastoracinės veiklos ribojimą iki 1863 m. sukilimo ir po jo."
-  pagrindžia:
-    - c-191057
-
-<a id="claim-t-221279"></a>
-- t-221279
-  teiginys: "Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Ordinas veržėsi į Rytų Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-
-<a id="claim-t-221597"></a>
-- t-221597
-  teiginys: "XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: iki 1330 m.; įvykio data: 1330 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškesnio faktinio predikato apie note objektą."
-
 <a id="claim-t-116726"></a>
-- t-116726
+- t-001
   teiginys: "Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos nesiėmė tiesioginio jos likvidavimo."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -112,10 +75,46 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - c-107542
 
+<a id="claim-t-116727"></a>
+- t-002
+  teiginys: "Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Ordinas veržėsi į Rytų Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  pagrindžia:
+    - c-107536
+
+<a id="claim-t-116728"></a>
+- t-003
+  teiginys: "XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: iki 1330 m.; įvykio data: 1330 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškesnio faktinio predikato apie note objektą."
+  pagrindžia:
+    - c-107549
+
 <a id="claim-t-116729"></a>
-- t-116729
+- t-004
   teiginys: "Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bokštai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -133,9 +132,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107535
 
 <a id="claim-t-116730"></a>
-- t-116730
+- t-005
   teiginys: "Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Protestantai: 0.66"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -153,9 +152,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107544
 
 <a id="claim-t-116731"></a>
-- t-116731
+- t-006
   teiginys: "Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Florencija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -169,9 +168,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107552
 
 <a id="claim-t-116732"></a>
-- t-116732
+- t-007
   teiginys: "Testamente pareikšta ištikimybė Katalikų Bažnyčiai ir Romos tikėjimui, priimant išpažinties, Eucharistijos ir patepimo sakramentus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -185,9 +184,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107538
 
 <a id="claim-t-116733"></a>
-- t-116733
+- t-008
   teiginys: "Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios Kijevo metropolijai pavaldžios stačiatikių vyskupijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -205,9 +204,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107550
 
 <a id="claim-t-116734"></a>
-- t-116734
+- t-009
   teiginys: "Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Katalikų Bažnyčia: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -226,9 +225,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107548
 
 <a id="claim-t-116735"></a>
-- t-116735
+- t-010
   teiginys: "1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -245,9 +244,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107537
 
 <a id="claim-t-116736"></a>
-- t-116736
+- t-011
   teiginys: "Vilniaus vyskupas Povilas tyrė Abraomo Kulviečio mokymą, kurį laikė Romos katalikų Bažnyčios pasmerktu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -261,9 +260,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107539
 
 <a id="claim-t-116737"></a>
-- t-116737
+- t-012
   teiginys: "Vyskupas Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Valerijonas (raštininkas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -277,9 +276,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107551
 
 <a id="claim-t-116738"></a>
-- t-116738
+- t-013
   teiginys: "Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis, todėl sovietų valdžiai katalikybė siejosi su nepageidaujamu vakarietiškumu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -294,9 +293,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107534
 
 <a id="claim-t-116739"></a>
-- t-116739
+- t-014
   teiginys: "Sovietų valdžia siekė pakirsti katalikų dvasininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Telšiai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -313,9 +312,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107547
 
 <a id="claim-t-116740"></a>
-- t-116740
+- t-015
   teiginys: "Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abraomas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -329,9 +328,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107539
 
 <a id="claim-t-116741"></a>
-- t-116741
+- t-016
   teiginys: "Mindaugas iš kunigo Kristijono sužinojo apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -345,9 +344,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107533
 
 <a id="claim-t-116742"></a>
-- t-116742
+- t-017
   teiginys: "Valdžios diskriminacinės priemonės prieš Katalikų bažnyčią prisidėjo prie lietuviškos kirilikos boikoto."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -361,9 +360,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107546
 
 <a id="claim-t-116743"></a>
-- t-116743
+- t-018
   teiginys: "Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -377,9 +376,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107540
 
 <a id="claim-t-116744"></a>
-- t-116744
+- t-019
   teiginys: "Mindaugas iš Livonijos ordino kunigo Kristijono gavo žinių apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -393,9 +392,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107533
 
 <a id="claim-t-116745"></a>
-- t-116745
+- t-020
   teiginys: "„Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jonas Kauneckas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -413,9 +412,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107543
 
 <a id="claim-t-182895"></a>
-- t-182895
+- t-021
   teiginys: "Katalikų Bažnyčia Vakaruose pradėjo kovą su protestantizmu."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -432,9 +431,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-166299
 
 <a id="claim-t-201478"></a>
-- t-201478
+- t-022
   teiginys: "Ypač įtaigi turėjo būti bažnyčiose skambanti muzika."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -508,9 +507,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116741
-    - t-116744
+  pagrindzia:
+    - t-016
+    - t-019
 
 - id: c-107534
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -536,8 +535,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116738
+  pagrindzia:
+    - t-013
 
 - id: c-107535
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -557,8 +556,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116729
+  pagrindzia:
+    - t-004
 
 - id: c-107536
   autorius: "Petras Dusburgietis"
@@ -579,6 +578,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-107537
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -600,8 +601,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116735
+  pagrindzia:
+    - t-010
 
 - id: c-107538
   autorius: "Michał Baliński"
@@ -633,8 +634,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116732
+  pagrindzia:
+    - t-007
 
 - id: c-107539
   autorius: "Michał Baliński"
@@ -665,9 +666,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116736
-    - t-116740
+  pagrindzia:
+    - t-011
+    - t-015
 
 - id: c-107540
   autorius: "Michał Baliński"
@@ -694,8 +695,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116743
+  pagrindzia:
+    - t-018
 
 - id: c-107542
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -713,8 +714,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116726
+  pagrindzia:
+    - t-001
 
 - id: c-107543
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -745,8 +746,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116745
+  pagrindzia:
+    - t-020
 
 - id: c-107544
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -764,8 +765,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116730
+  pagrindzia:
+    - t-005
 
 - id: c-107546
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -786,8 +787,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116742
+  pagrindzia:
+    - t-017
 
 - id: c-107547
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -805,8 +806,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116739
+  pagrindzia:
+    - t-014
 
 - id: c-107548
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -832,8 +833,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116734
+  pagrindzia:
+    - t-009
 
 - id: c-107549
   autorius: "Petras Dusburgietis"
@@ -854,6 +855,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-107550
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -874,8 +877,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116733
+  pagrindzia:
+    - t-008
 
 - id: c-107551
   autorius: "Michał Baliński"
@@ -902,8 +905,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116737
+  pagrindzia:
+    - t-012
 
 - id: c-107552
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -923,8 +926,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116731
+  pagrindzia:
+    - t-006
 
 - id: c-166299
   redaktorius: "A. Šapoka"
@@ -943,8 +946,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-182895
+  pagrindzia:
+    - t-021
 
 - id: c-184825
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -960,28 +963,5 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201478
-
-- id: c-191057
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 16"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 16."
-  citata_originali: |
-    Rusiją valdė ca­
-    ras Aleksandras II3. Jis katalikus pradėjo persekioti tik
-    po 1863 m. sukilimo4.
-    Pažvelkime, kaip buvo varžoma Katalikų Bažnyčios
-    pastoracinė veikla iki 1863 m. sukilimo ir po jo.
-  citata_rodoma: "Pažvelkime, kaip buvo varžoma Katalikų Bažnyčios \npastoracinė veikla iki 1863 m. sukilimo ir po jo."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208437
-
+  pagrindzia:
+    - t-022

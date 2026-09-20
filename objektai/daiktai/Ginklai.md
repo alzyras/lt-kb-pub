@@ -43,48 +43,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-222405"></a>
-- t-002
-  teiginys: "1283 m. keturi broliai ir vienas tarnas su arkliais bei ginklais paskendo Nemune."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205208
-
-<a id="claim-t-223123"></a>
-- t-003
-  teiginys: "Danijos karaliaus kariai teigė, kad dėl sunkių ginklų mūšyje negalėtų atsilaikyti be arklių."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-206133
-
-<a id="claim-t-213031"></a>
-- t-213031
-  teiginys: "Pasaulio sostinę didžiai nustebino neregėta pra banga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto jų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio metu naudoti reikmenys spindėjo gintaru."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-194807
-
 <a id="claim-t-185851"></a>
-- t-185851
+- t-001
   teiginys: "Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -129,61 +91,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185851
-
-- id: c-194807
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 174"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 174."
-  citata_originali: |
-    Pasaulio sostinę didžiai nustebino neregėta pra­
-    banga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto­
-    jų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio
-    metu naudoti reikmenys spindėjo gintaru.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213031
-
-- id: c-205208
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 172"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 172."
-  citata_originali: |
-    Šio antpuolio
-    metu daug krikščionių buvo sunkiai sužeista, o 4 broliai bei vienas tarnas su arkliais ir
-    ginklais paskendo Nemune, nes jų neišlaikė ledas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-206133
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
-  citata_originali: |
-    Šiam patarimui nepritarė Danijos
-    karaliaus iš Revelio347 kariai ir daugybė kitų, tvirtindami, kad be arklių jie nestengsią
-    mūšyje atsilaikyti dėl sunkių ginklų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
+  pagrindzia:
+    - t-001

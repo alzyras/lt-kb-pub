@@ -29,10 +29,10 @@ Radvila Rudasis, o vėliau — jo sūnūs — Biržų Radvilos.
 
 ## Teiginiai
 
-<a id="claim-t-72038"></a>
-- t-002
-  teiginys: "Biržų Radvilos po M. Radvilos Rudojo išliko svarbūs protestantizmo rėmėjai."
-  atnaujinta: "2026-06-13 18:29"
+<a id="claim-t-72037"></a>
+- t-001
+  teiginys: "Biržų Radvilos vėliau liko tarp svarbiausių protestantizmo rėmėjų po M. Radvilos Rudojo."
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Radvilos: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -45,10 +45,10 @@ Radvila Rudasis, o vėliau — jo sūnūs — Biržų Radvilos.
   pagrindžia:
     - c-70473
 
-<a id="claim-t-72037"></a>
-- t-72037
-  teiginys: "Biržų Radvilos vėliau liko tarp svarbiausių protestantizmo rėmėjų po M. Radvilos Rudojo."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-72038"></a>
+- t-002
+  teiginys: "Biržų Radvilos po M. Radvilos Rudojo išliko svarbūs protestantizmo rėmėjai."
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Radvilos: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -76,12 +76,10 @@ Radvila Rudasis, o vėliau — jo sūnūs — Biržų Radvilos.
     rėmėjas dar liko M. Radvila Rudasis, o vėliau — jo sūnūs —
     Biržų Radvilos.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-001
     - t-002
-    - t-72037
-

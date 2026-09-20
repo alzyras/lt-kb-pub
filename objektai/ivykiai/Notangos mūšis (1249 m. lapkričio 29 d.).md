@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Notangos mūšis (1249 m. lapkričio 29 d.)'
+pavadinimas: Notangos mūšis (1249 m. lapkričio 29 d.)
 variantai:
-  - 'Notangos mūšis'
+  - Notangos mūšis
 aliases:
-  - 'Notangos mūšis'
+  - Notangos mūšis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1249 m.'
+  - 1249 m.
 date_start: '1249'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Notangos mūšis (1249 m. lapkričio 29 d.)
 
@@ -81,6 +78,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -28,6 +28,21 @@ Pasak Teodoro Narbuto, Smolensko bajorai ir gyventojai iš visos širdies pritar
 
 Pasak Teodoro Narbuto, Smolensko bajorai ir gyventojai iš visos širdies pritarė pasipriešinimui, todėl maištą buvo sunku numalšinti.
 
+## Teiginiai
+
+<a id="claim-t-206669"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, Smolensko bajorai ir gyventojai iš visos širdies pritarė pasipriešinimui, todėl maištą buvo sunku numalšinti."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189284
+
 ## Citatos
 
 - id: c-189284
@@ -46,21 +61,5 @@ Pasak Teodoro Narbuto, Smolensko bajorai ir gyventojai iš visos širdies pritar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-206669"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, Smolensko bajorai ir gyventojai iš visos širdies pritarė pasipriešinimui, todėl maištą buvo sunku numalšinti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189284
-

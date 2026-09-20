@@ -4,25 +4,22 @@ pavadinimas: 'Dionizo Poškos straipsnis „Keletas įžanginių žodžių bet k
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1829 m.'
+  - 1829 m.
 date_start: '1829'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Dionizo Poškos straipsnis „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“
 
@@ -95,7 +92,7 @@ Dionizo Poškos straipsnis buvo išspausdintas 1829 metais leidinyje „Dziennik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-197381
@@ -115,7 +112,7 @@ Dionizo Poškos straipsnis buvo išspausdintas 1829 metais leidinyje „Dziennik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-199754
@@ -135,6 +132,5 @@ Dionizo Poškos straipsnis buvo išspausdintas 1829 metais leidinyje „Dziennik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

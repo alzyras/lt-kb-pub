@@ -47,6 +47,18 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62705"></a>
+- t-001
+  teiginys: "Pagudėnai, negalėdami atlaikyti nuolatinių Ordino brolių antpuolių, davė įkaitį ir pasidavė tikėjimui bei broliams."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-63461
+
 ## Citatos
 
 - id: c-63461
@@ -67,14 +79,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-225621"></a>
-- t-001
-  teiginys: "Pagudėnai, negalėdami atlaikyti nuolatinių Ordino brolių antpuolių, davė įkaitį ir pasidavė tikėjimui bei broliams."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
+  pagrindzia:
+    - t-001

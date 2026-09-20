@@ -39,17 +39,18 @@ for (const slug of pages) {
   const ogImage = html.match(/<meta property="og:image" content="([^"]*)"/)?.[1]
   assert.ok(title && description && canonical && ogImage, `Incomplete SEO: ${slug}`)
   if (slug === "straipsniai/kaip-valancius-keite-kasdienybe")
-    assert.equal(title, "Valančius ir blaivybė: kaip keitėsi kaimas")
+    assert.equal(title, "Kodėl kaimas gėrė ir kaip Valančius ragino negerti")
   if (slug === "parodos/valancius-nuo-sakyklos-iki-skaitytojo")
-    assert.equal(title, "Valančiaus blaivybės sąjūdis: skaitmeninė paroda")
+    assert.ok(title.startsWith("Valančiaus blaivybės brolijos"))
   // A complete introductory question can be shorter than 90 characters.
   // Match the shared SEO minimum, and reject genuinely clipped descriptions.
   assert.ok(description.length >= 50 && !description.endsWith("…"), `Truncated description: ${slug}`)
   assert.equal(canonical, `https://lietuvosistorija.eu/${slug}/`)
   assert.match(ogImage, /^https:\/\//)
-  assert.match(html, /<meta name="robots" content="noindex/)
-  assert.ok(!sitemap.includes(canonical), `Draft in sitemap: ${slug}`)
-  assert.ok(!rss.includes(canonical), `Draft in RSS: ${slug}`)
+  assert.doesNotMatch(html, /<meta name="robots" content="noindex/)
+  assert.ok(sitemap.includes(canonical), `Published page missing from sitemap: ${slug}`)
+  if (slug.startsWith('straipsniai/')) assert.ok(rss.includes(canonical), `Published article missing from RSS: ${slug}`)
+  assert.doesNotMatch(html, /peržiūros juodraštis|redakcinė peržiūra|Ši peržiūros versija dar nepaskelbta/)
   assert.ok(search[slug], `Missing internal search result ${slug}`)
   assert.equal((html.match(/aria-label="Motiejaus Valančiaus ciklas"/g) || []).length, 1)
   const schemas = [...html.matchAll(/<script type="application\/ld\+json">(.*?)<\/script>/gs)].map(

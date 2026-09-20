@@ -54,6 +54,49 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-187807"></a>
+- t-001
+  teiginys: "Po kontūzijos mūšyje prie Abo miesto Teodorui Narbutui netrukus pablogėjo sveikata ir jis apkurto."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mūšis prie Abo miesto (mūšis, XIX a.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūšis prie Abo miesto (mūšis, XIX a.)\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1808-1809; įvykio data: 1809 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškai ir dalykiškai išplečia citatos informaciją apie kontūzijos pasekmę. Nepridėta jokių biografinių versijų, kurios citatoje pateiktos kaip neaiškios."
+  pagrindžia:
+    - c-170758
+
+<a id="claim-t-187808"></a>
+- t-002
+  teiginys: "Mūšyje prie Abo miesto Teodoras Narbutas buvo kontūzytas per 1808–1809 m. Rusijos ir Švedijos karą."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "dalyvavo_musyje -> Mūšis prie Abo miesto (mūšis, XIX a.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teodoras Narbutas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mūšis prie Abo miesto (mūšis, XIX a.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Kontūzijos mūšyje faktas tiesiogiai rodo Teodoro Narbuto dalyvavimą tame mūšyje."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Teodoras Narbutas dalyvavo mūšyje Mūšis prie Abo miesto (mūšis, XIX a.) (0.86)"
+  temporaliniai_duomenys: "mūšio data: 1808-1809; mūšio data: 1809 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Teodoras Narbutas dalyvavo mūšyje Mūšis prie Abo miesto (mūšis, XIX a.)“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie mūšį ir Teodoro Narbuto patirtą kontūziją. Citata tiesiogiai sieja šį įvykį su 1808–1809 m. Rusijos ir Švedijos karu."
+  pagrindžia:
+    - c-170758
+
 ## Data ir vieta
 
 Aiškus vartojimo laikas nenurodytas.
@@ -83,4 +126,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001
+    - t-002

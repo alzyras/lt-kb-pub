@@ -1,11 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'Galu (sąvoka)'
-identifikacija: 'sąvoka'
+pavadinimas: Galu (sąvoka)
+identifikacija: sąvoka
 variantai:
-  - 'Galu'
+  - Galu
 aliases:
-  - 'Galu'
+  - Galu
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Galu (sąvoka)
 
@@ -65,6 +62,5 @@ Lietuvių kalboje žodis Galu reiškia, kad gali, tai yra turi gali mybę kažk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

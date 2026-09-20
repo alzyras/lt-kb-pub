@@ -43,6 +43,21 @@ historical_names: []
 
 Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelkių, lengvino kariaujančių su vo kiečiais lietuvių ryšius su Pamariu ir Prūsija.
 
+## Teiginiai
+
+<a id="claim-t-194926"></a>
+- t-001
+  teiginys: "Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelkių, lengvino kariaujančių su vo kiečiais lietuvių ryšius su Pamariu ir Prūsija."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-177322
+
 ## Citatos
 
 - id: c-177322
@@ -67,4 +82,5 @@ Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

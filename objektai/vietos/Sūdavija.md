@@ -36,6 +36,25 @@ historical_names: []
 
 Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija — tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­ mos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­ ja su Jotvingija (Dzūkija) yra tokie.
 
+## Teiginiai
+
+<a id="claim-t-36595"></a>
+- t-001
+  teiginys: "Sūdavija su Jotvingija buvo laikomos lietuvių kraštais, dėl kurių negalėjo kilti ginčas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuviai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūdavija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Sūdavija tiesiogiai apibūdinta kaip lietuvių kraštas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sūdavija priklausė Lietuviai (0.86); Jotvingija priklausė Lietuviai (0.86)"
+  pagrindžia:
+    - c-38651
+
 ## Citatos
 
 - id: c-38651
@@ -63,25 +82,5 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-36595"></a>
-- t-001
-  teiginys: "Sūdavija su Jotvingija buvo laikomos lietuvių kraštais, dėl kurių negalėjo kilti ginčas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuviai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūdavija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Sūdavija tiesiogiai apibūdinta kaip lietuvių kraštas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sūdavija priklausė Lietuviai (0.86); Jotvingija priklausė Lietuviai (0.86)"
-  pagrindžia:
-    - c-38651
-

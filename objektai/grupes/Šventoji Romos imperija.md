@@ -27,6 +27,21 @@ media_all_json: |-
 
 Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisaugojo nuo politinių saitų su Šventąja Romos imperija.
 
+## Teiginiai
+
+<a id="claim-t-193673"></a>
+- t-001
+  teiginys: "Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisaugojo nuo politinių saitų su Šventąja Romos imperija."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  pagrindžia:
+    - c-176342
+
 ## Citatos
 
 - id: c-176342
@@ -45,21 +60,5 @@ Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193673"></a>
-- t-001
-  teiginys: "Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisaugojo nuo politinių saitų su Šventąja Romos imperija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-176342
-

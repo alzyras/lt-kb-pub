@@ -36,6 +36,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201299"></a>
+- t-001
+  teiginys: "Nuo to gi gal lemti, jog ta pasaka galėjo bū ti pradžioj yna, bet paskui yra pertaisyta nuo kokio noris zokanyko gudo arba vokyčio 15 ar 16 amžiuj, kaipogi daugioj vietoj pati pasaka sau prieštarauja, bylodama, jog pirmąją žinyčią Rusnėj viešpats Bratenis."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184649
+
 ## Citatos
 
 - id: c-184649
@@ -66,20 +80,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201299"></a>
-- t-001
-  teiginys: "Nuo to gi gal lemti, jog ta pasaka galėjo bū ti pradžioj yna, bet paskui yra pertaisyta nuo kokio noris zokanyko gudo arba vokyčio 15 ar 16 amžiuj, kaipogi daugioj vietoj pati pasaka sau prieštarauja, bylodama, jog pirmąją žinyčią Rusnėj viešpats Bratenis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184649
-

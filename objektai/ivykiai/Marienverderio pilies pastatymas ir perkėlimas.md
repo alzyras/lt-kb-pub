@@ -1,28 +1,25 @@
 ---
 tipas: ivykis
-pavadinimas: 'Marienverderio pilies pastatymas ir perkėlimas'
+pavadinimas: Marienverderio pilies pastatymas ir perkėlimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1233 m.'
+  - 1233 m.
 date_start: '1233'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Marienverderio pilies pastatymas ir perkėlimas
 
@@ -92,7 +89,7 @@ Magistras ir broliai 1233 metais Kvedino saloje pastatė Marienverderio pilį. M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-206111
@@ -113,6 +110,5 @@ Magistras ir broliai 1233 metais Kvedino saloje pastatė Marienverderio pilį. M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

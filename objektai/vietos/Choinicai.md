@@ -44,22 +44,10 @@ Lenkai užėmė Choinicus per Prūsijoje pasibaigusį karą.
 
 ## Teiginiai
 
-<a id="claim-t-211492"></a>
-- t-211492
-  teiginys: "Kazimieras su Lietuvos ir Lenkijos kariuomene atvyko į Choinicus."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193076
-
 <a id="claim-t-185261"></a>
-- t-185261
+- t-001
   teiginys: "Lenkai užėmė Choinicus per Prūsijoje pasibaigusį karą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -129,25 +117,5 @@ Lenkai užėmė Choinicus per Prūsijoje pasibaigusį karą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185261
-
-- id: c-193076
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 136."
-  citata_originali: |
-    Ir kai tie Lietuvos žmonės atvyko pas karalių, ka­
-    ralius Kazimieras su visomis savo Lenkijos pajėgomis
-    ir su lietuviais, atėjusiais į pagalbą lenkų ponams, ne­
-    delsdamas ištraukė į Choinicus
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211492
-
+  pagrindzia:
+    - t-001

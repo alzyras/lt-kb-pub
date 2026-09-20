@@ -37,6 +37,21 @@ historical_names: []
 
 Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti Šiaurės miestelį.
 
+## Teiginiai
+
+<a id="claim-t-193799"></a>
+- t-001
+  teiginys: "Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti Šiaurės miestelį."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  pagrindžia:
+    - c-176445
+
 ## Citatos
 
 - id: c-176445
@@ -55,21 +70,5 @@ Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193799"></a>
-- t-001
-  teiginys: "Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti Šiaurės miestelį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  pagrindžia:
-    - c-176445
-

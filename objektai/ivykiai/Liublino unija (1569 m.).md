@@ -1,16 +1,16 @@
 ---
 tipas: ivykis
-pavadinimas: 'Liublino unija (1569 m.)'
+pavadinimas: Liublino unija (1569 m.)
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - Lietuvos Didžioji Kunigaikštija ir jos tradicija
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1386 m.'
-  - '1568 m.'
-  - '1569 m.'
-  - '1795 m.'
+  - 1386 m.
+  - 1568 m.
+  - 1569 m.
+  - 1795 m.
 date_start: '1386'
 date_end: '1795'
 sukurta: ''
@@ -21,20 +21,30 @@ tags:
   - ivykis
   - valdovas
 amziai:
-  - 'XIV'
-  - 'XVIII'
+  - XIV
+  - XVIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Liublino unija","url":"https://lt.wikipedia.org/wiki/Liublino_unija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Liublino Unija","url":"https://www.vle.lt/straipsnis/liublino-unija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T09:36:04+00:00","source_checked_at":"2026-09-19T09:36:04+00:00","counts":{"relations":0,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Liublino unija","url":"https://lt.wikipedia.org/wiki/Liublino_unija","publisher":"Vikipedija","language":"lt","article_id":"584456","revision_id":"7855291","published_at":"2026-06-13T08:55:02Z","version_pk":"","content_hash":"7d2d5660e264d51bfe41c6152a31f7a3940162693c59e1475e4a2a392541559d","retrieved_at":"2026-09-19T09:03:51+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Liublino_unija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"584456"}},"intro":"Liublino unija (lenk. Unia lubelska) – 1569 m. liepos 1 d. sudaryta unija, kuria Lietuvos Didžioji Kunigaikštystė ir Lenkijos Karalystė sujungtos į Abiejų Tautų Respubliką. Liublino unija sudaryta Liubline atidarytame bendrame Lenkijos Karalystės ir Lietuvos Didžiosios Kunigaikštystės Seime.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Liublino unija","url":"https://lt.wikipedia.org/wiki/Liublino_unija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Liublino Unija","url":"https://www.vle.lt/straipsnis/liublino-unija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Liublino_unija","https://www.vle.lt/straipsnis/liublino-unija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"703d5817857d7e26997e5fff","canonical_code":"event.causes","label":"Priežastys","group":"Įvykio eiga","value":"J. J. Chodkevičius Liublino unijos metu rinkosi susisaistyti su Lenkija, nes, jo supratimu, alternatyva buvo Lietuvos užkariavimas Rusijai.","context":"Šaltinyje aprašoma 1569 m. Liublino seimo situacija ir Chodkevičiaus pasirinkimas.","support_ids":["t-169845","c-154526"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169845","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-154526","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"J. J. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Len- kija, arba Lietuvą užkariauja Rusija. Jis pasirinko pirmąjį kelią, tačiau sten- gėsi išsiderėti kuo palankesnes sąlygas. J. J. Chodkevičius Liublino seime 1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos prijungimo prie Lenkijos – idėją. Tai buvo žiaurus kompromisas. Kreipda- masis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu skausmu ir širdgėla buvome priversti nusileisti. Bet kaip mums skaudu, to negalime išreikšti žodžiu. Nes mes, kaip ištikimi savo tėvynės sūnūs, esame įpareigoti rūpintis jos labu, kiek pajėgdami. Jei dabar mes negalime jos ap- ginti, tai…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d86f389e939015c5371cd56f","canonical_code":"event.causes","label":"Priežastys","group":"Įvykio eiga","value":"Liublino unijos metu lenkai ir Žygimantas Augustas darė spaudimą LDK atstovams, siekdami panaikinti valstybingumą ir atplėšti teritorijų.","context":"Šaltinio autorių vertinimas apie 1569 m. unijos aplinkybes.","support_ids":["t-169848","c-154525"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169848","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-154525","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Chodkevičius surado išeities kelius ten, kur, atrodė, jų nėra. Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni- jos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau nesuabejota dar du šimtmečius. Liublino unijos nauda pasireiškė jau ne- trukus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"1a486e940980d11c9e707c93","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"1569 m. birželio 28 d. J. J. Chodkevičius Liublino seime priėmė unijos ir vieno antspaudo, reiškusio Lietuvos prijungimą prie Lenkijos, idėją; šaltinyje tai įvardijama kaip žiaurus kompromisas.","context":"1569 m. birželio 28 d., Liublino seimas; šaltinio autorių vertinimas.","support_ids":["t-169845","c-154526"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169845","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-154526","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"J. J. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Len- kija, arba Lietuvą užkariauja Rusija. Jis pasirinko pirmąjį kelią, tačiau sten- gėsi išsiderėti kuo palankesnes sąlygas. J. J. Chodkevičius Liublino seime 1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos prijungimo prie Lenkijos – idėją. Tai buvo žiaurus kompromisas. Kreipda- masis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu skausmu ir širdgėla buvome priversti nusileisti. Bet kaip mums skaudu, to negalime išreikšti žodžiu. Nes mes, kaip ištikimi savo tėvynės sūnūs, esame įpareigoti rūpintis jos labu, kiek pajėgdami. Jei dabar mes negalime jos ap- ginti, tai…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"cbfc51a88057f4f55ac419fa","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Lietuvos delegacija, nesusitarusi derybose, kovo 1 d. išvyko iš Liublino.","context":"Šaltinyje nenurodyti metai, tačiau pasakojama apie Liublino unijos derybų eigą.","support_ids":["t-169849","c-154532"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169849","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-154532","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi- mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be- veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui- nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime. Iš neprisiekusiųjų buvo atimtos žemės – Lietuvai grėsė suvereniteto praradimas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b64ad23767f0bc211a8a623d","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Prieš Liublino uniją prie Lenkijos buvo prijungta beveik pusė LDK teritorijos: Palenkės, Voluinės, Kijevo ir Podolės vaivadijos.","context":"Žygimanto Augusto aktai po Lietuvos delegacijos išvykimo iš Liublino.","support_ids":["t-169846","c-154532"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169846","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-154532","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi- mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be- veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui- nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime. Iš neprisiekusiųjų buvo atimtos žemės – Lietuvai grėsė suvereniteto praradimas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f1fbb39c03273fbdf9939ab9","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Alfredo Bumblausko pateikiamu vertinimu, po Liublino unijos LDK liko apie 2,5 milijono žmonių.","context":"Šaltinyje pateikiamas demografinis vertinimas po 1569 m. unijos.","support_ids":["t-207457","c-190055"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207457","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190055","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"Kadangi numanoma 1568 m. LDK Ukrainos žemėse gyvenus tik apie 250 tūkstančių žmonių, o Palenkėje – apie 150 tūkstančių, todėl manoma, kad po Liublino unijos LDK liko apie 2,5 milijono žmonių."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b50c52e58473e3011692951a","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.","context":"1569 m.; šaltinyje aprašytas tiesioginis unijos padarinys.","support_ids":["t-169851","c-166648"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169851","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166648","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis- tencijai. 1569 Liublino unija. Susikuria jungtinė Lenkijos ir Lietuvos Valstybė – Abiejų Tautų Respublika."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6d1b43086cd80a45f65cebfe","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Liublino unijos rezultatas buvo kompromisas, kurį LDK atstovai priėmė; šio kompromiso pagrįstumu, šaltinio autorių vertinimu, rimčiau nesuabejota dar du šimtmečius.","context":"Šaltinio autorių vertinimas apie unijos rezultatą ir jo vertinimą vėlesniais dviem šimtmečiais.","support_ids":["t-169843","c-154534"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169843","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-154534","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni- jos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau nesuabejota dar du šimtmečius."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"980d1e86519650b488491b04","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Alfredo Bumblausko vertinimu, Liublino unija reikšmingai sumažino LDK teritoriją, tačiau gyventojų skaičiaus atžvilgiu jos reikšmė buvo mažesnė.","context":"Autoriaus vertinimas apie unijos teritorinį ir demografinį poveikį.","support_ids":["t-207456","c-190085"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207456","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190085","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"esa, tuojau pat įvyko Liublino unija, reikšmingai sumažinusi LDK teritoriją, tačiau ji nebuvo tokia reikš- minga gyventojų skaičiaus atžvilgiu. K"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b32f5a3d93ebca5ad1a6c776","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Po Liublino unijos jos nauda, šaltinio autorių vertinimu, netrukus pasireiškė: Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.","context":"Padariniai po 1569 m. unijos; Steponas Batoras valdė 1576–1586 m.","support_ids":["t-169844","c-154527"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169844","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-154527","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Liublino unijos nauda pasireiškė jau ne- trukus. Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O S I S T O R I J A 66 Steponui Batorui (valdė 1576–1586 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4ca290206950d6cbf8426a0a","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Teodoro Narbuto teigimu, 1569 m. unija buvo savarankiškos LDK egzistavimo pabaiga.","context":"Autoriaus vertinimas apie 1569 m. unijos reikšmę.","support_ids":["t-219868","c-199678"],"source_refs":[{"kind":"internal_claim","claim_id":"t-219868","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199678","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­ dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija - tai savarankiškos LDK egzistavimo pabaiga."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":"Command ''[''codex'', ''exec'', ''--ephemeral'', ''--sandbox'', ''read-only'', ''--cd'', ''/Users/tomas/Documents/important/lt/lt-kb'', ''-m'', ''gpt-5.6-luna'', ''-c'', ''model_reasoning_effort=low'', ''Sukurk įdomią, bendresnę 4–6 sakinių ir maždaug 100–160 žodžių lietuvišką istorijos objekto santrauką. Pirmas sakinys turi aiškiai nusakyti, kas yra objektas; toliau pateik tik patvirtintą laikotarpį, vietą, vaidmenį, reikšmę ir vieną kitą išskirtinę detalę. Kiekvieno sakinio konkretūs faktai privalo būti paremti pateiktais kartu nurodytais claim_id ir evidence_id. Nenaudok bendrųjų žinių, paieškos ištraukų ar Vikipedijos kaip faktų šaltinio. Jei duomenys prieštarauja arba jų per mažai, nustatyk insufficient_data=true. Grąžink tik JSON: {summary, insufficient_data, sentences:[{sentence_id,text,support_ids:[...]}]}.\\n\\n{\\n  \"title\": \"Liublino unija (1569 m.)\",\\n  \"item_type\": \"ivykis\",\\n  \"aliases\": [\\n    \"\"\\n  ],\\n  \"roles\": [],\\n  \"support\": [\\n    {\\n      \"claim_id\": \"t-169842\",\\n      \"claim\": \"1569 m. sudaryta Liublino unija sukūrė Abiejų Tautų Respubliką kaip Lietuvos ir Lenkijos suartėjimo nuo Jogailos ir Jadvygos vedybų padarinį.\",\\n      \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\",\\n      \"evidence\": [\\n        {\\n          \"evidence_id\": \"c-154533\",\\n          \"quote\": \"ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas. „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino uni- ja, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką. Tai buvo ori- ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos Sąjungos pirmtaku. Be Lenkijos ir Lietuvos suartėjimo ir kariuomenių sąjungos nebūtų buvo Žalgirio pergalės, o sėkmingos Livonijos karo baig- ties XVI a. – būtent be Liublino unijos.\",\\n          \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\"\\n        }\\n      ]\\n    },\\n    {\\n      \"claim_id\": \"t-169843\",\\n      \"claim\": \"Liublino unijos rezultatas buvo LDK atstovų priimtas kompromisas, kurio pagrįstumu rimčiau nesuabejota dar du šimtmečius.\",\\n      \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\",\\n      \"evidence\": [\\n        {\\n          \"evidence_id\": \"c-154534\",\\n          \"quote\": \"Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni- jos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau nesuabejota dar du šimtmečius.\",\\n          \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\"\\n        }\\n      ]\\n    },\\n    {\\n      \"claim_id\": \"t-169845\",\\n      \"claim\": \"1569 m. birželio 28 d. Jonas Jeronimaitis Chodkevičius Liublino seime priėmė unijos ir vieno antspaudo idėją kaip žiaurų kompromisą.\",\\n      \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\",\\n      \"evidence\": [\\n        {\\n          \"evidence_id\": \"c-154526\",\\n          \"quote\": \"J. J. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Len- kija, arba Lietuvą užkariauja Rusija. Jis pasirinko pirmąjį kelią, tačiau sten- gėsi išsiderėti kuo palankesnes sąlygas. J. J. Chodkevičius Liublino seime 1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos prijungimo prie Lenkijos – idėją. Tai buvo žiaurus kompromisas. Kreipda- masis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu skausmu ir širdgėla buvome priversti nusileisti. Bet kaip mums skaudu, to negalime išreikšti žodžiu. Nes mes, kaip ištikimi savo tėvynės sūnūs, esame įpareigoti rūpintis jos labu, kiek pajėgdami. Jei dabar mes negalime jos ap- ginti, tai…\",\\n          \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\"\\n        }\\n      ]\\n    },\\n    {\\n      \"claim_id\": \"t-169846\",\\n      \"claim\": \"Prieš Liublino uniją Žygimantas Augustas prie Lenkijos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos.\",\\n      \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\",\\n      \"evidence\": [\\n        {\\n          \"evidence_id\": \"c-154532\",\\n          \"quote\": \"Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi- mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be- veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui- nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime. Iš neprisiekusiųjų buvo atimtos žemės – Lietuvai grėsė suvereniteto praradimas.\",\\n          \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\"\\n        }\\n      ]\\n    },\\n    {\\n      \"claim_id\": \"t-169847\",\\n      \"claim\": \"Gindamas LDK antspaudus J. J. Chodkevičius paliko galimybę išsaugoti Lietuvos valstybingumą po Liublino unijos.\",\\n      \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\",\\n      \"evidence\": [\\n        {\\n          \"evidence_id\": \"c-154525\",\\n          \"quote\": \"Chodkevičius surado išeities kelius ten, kur, atrodė, jų nėra. Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni- jos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau nesuabejota dar du šimtmečius. Liublino unijos nauda pasireiškė jau ne- trukus.\",\\n          \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\"\\n        },\\n        {\\n          \"evidence_id\": \"c-154529\",\\n          \"quote\": \"Taip ir padaryta, pareikalavus iš vėlesnių Respublikos valdo- vų pripažinti Lietuvos antspaudus. Taigi J. J. Chodkevičius surado išeities kelius ten, kur, atrodė, jų nėra.\",\\n          \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\"\\n        }\\n      ]\\n    },\\n    {\\n      \"claim_id\": \"t-169848\",\\n      \"claim\": \"Liublino unijos metu lenkai ir Žygimantas Augustas spaudė LDK atstovus, siekdami panaikinti valstybingumą ir atplėšti teritorijų.\",\\n      \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\",\\n      \"evidence\": [\\n        {\\n          \"evidence_id\": \"c-154525\",\\n          \"quote\": \"Chodkevičius surado išeities kelius ten, kur, atrodė, jų nėra. Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni- jos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau nesuabejota dar du šimtmečius. Liublino unijos nauda pasireiškė jau ne- trukus.\",\\n          \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\"\\n        }\\n      ]\\n    },\\n    {\\n      \"claim_id\": \"t-169849\",\\n      \"claim\": \"Lietuvos delegacija kovo 1 d. išvyko iš Liublino, nes derybose dėl unijos nebuvo susitarta.\",\\n      \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\",\\n      \"evidence\": [\\n        {\\n          \"evidence_id\": \"c-154532\",\\n          \"quote\": \"Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi- mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be- veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui- nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime. Iš neprisiekusiųjų buvo atimtos žemės – Lietuvai grėsė suvereniteto praradimas.\",\\n          \"source\": \"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md\"\\n        }\\n      ]\\n    }\\n  ]\\n}'']'' timed out after 1800 seconds"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[{"date":"1569 m.","label":"1569 m.","claimId":"t-169842"},{"date":"1569 m.","label":"1569 m.","claimId":"t-169845"},{"date":"1569 m.","label":"1569 m.","claimId":"t-169850"},{"date":"1569 m.","label":"1569 m.","claimId":"t-169851"},{"date":"1569 m.","label":"1569 m.","claimId":"t-183260"}],"support_disclosure":{"claims":14,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b1164a552b9e9af5
+object_page_generated_at: '2026-09-19T09:36:04+00:00'
+object_page_source_checked_at: '2026-09-19T09:36:04+00:00'
+object_page_content_state: content
+object_page_claim_count: '14'
+object_page_source_count: '3'
+object_page_seo_description: 'Liublino unija (1569 m.): 1569 Liublino unija. „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino…'
+object_page_seo_input_hash: 446fb1da314aafb6cbc33e201b8fa7fd2db9b95a5794c08f66f32155e1f19e8a
+object_page_seo_generated_at: '2026-09-19T09:36:04+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Liublino unija (1569 m.)
 
@@ -60,23 +70,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-219868"></a>
-- t-219868
-  teiginys: "Narbutas apžvelgė politine ir kultūrinę lietuvių rai dą nuo seniausių laikų iki Liublino unijos."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
-  pagrindžia:
-    - c-199678
-
 <a id="claim-t-169842"></a>
-- t-169842
+- t-001
   teiginys: "1569 m. sudaryta Liublino unija sukūrė Abiejų Tautų Respubliką kaip Lietuvos ir Lenkijos suartėjimo nuo Jogailos ir Jadvygos vedybų padarinį."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Abiejų Tautų Respublika: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -95,9 +92,9 @@ Nenurodyta
     - c-154533
 
 <a id="claim-t-169843"></a>
-- t-169843
+- t-002
   teiginys: "Liublino unijos rezultatas buvo LDK atstovų priimtas kompromisas, kurio pagrįstumu rimčiau nesuabejota dar du šimtmečius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Liublinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -111,9 +108,9 @@ Nenurodyta
     - c-154534
 
 <a id="claim-t-169844"></a>
-- t-169844
+- t-003
   teiginys: "Po Liublino unijos Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -130,9 +127,9 @@ Nenurodyta
     - c-154527
 
 <a id="claim-t-169845"></a>
-- t-169845
+- t-004
   teiginys: "1569 m. birželio 28 d. Jonas Jeronimaitis Chodkevičius Liublino seime priėmė unijos ir vieno antspaudo idėją kaip žiaurų kompromisą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -149,9 +146,9 @@ Nenurodyta
     - c-154526
 
 <a id="claim-t-169846"></a>
-- t-169846
+- t-005
   teiginys: "Prieš Liublino uniją Žygimantas Augustas prie Lenkijos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Augustas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -165,26 +162,18 @@ Nenurodyta
     - c-154532
 
 <a id="claim-t-169847"></a>
-- t-169847
+- t-006
   teiginys: "Gindamas LDK antspaudus J. J. Chodkevičius paliko galimybę išsaugoti Lietuvos valstybingumą po Liublino unijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liublinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liublino unija (1569 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Liublinas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liublino unija (1569 m.)\" parinktas kaip owner_note_path. Targetas \"Liublinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-154525
-    - c-154529
 
 <a id="claim-t-169848"></a>
-- t-169848
+- t-007
   teiginys: "Liublino unijos metu lenkai ir Žygimantas Augustas spaudė LDK atstovus, siekdami panaikinti valstybingumą ir atplėšti teritorijų."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Augustas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -198,9 +187,9 @@ Nenurodyta
     - c-154525
 
 <a id="claim-t-169849"></a>
-- t-169849
+- t-008
   teiginys: "Lietuvos delegacija kovo 1 d. išvyko iš Liublino, nes derybose dėl unijos nebuvo susitarta."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -215,9 +204,9 @@ Nenurodyta
     - c-154532
 
 <a id="claim-t-169850"></a>
-- t-169850
+- t-009
   teiginys: "1569 m. birželio 28 d. Jonas Jeronimaitis Chodkevičius Liublino seime priėmė unijos ir vieno antspaudo idėją."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -234,9 +223,9 @@ Nenurodyta
     - c-154526
 
 <a id="claim-t-169851"></a>
-- t-169851
+- t-010
   teiginys: "1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Abiejų Tautų Respublika: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -253,9 +242,9 @@ Nenurodyta
     - c-166648
 
 <a id="claim-t-184599"></a>
-- t-184599
+- t-011
   teiginys: "Cituojamoje istoriografinėje interpretacijoje unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -276,10 +265,33 @@ Nenurodyta
   pagrindžia:
     - c-167960
 
+<a id="claim-t-188373"></a>
+- t-012
+  teiginys: "Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Liublinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liublino unija (1569 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Liublinas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liublino unija (1569 m.)\" parinktas kaip owner_note_path. Targetas \"Liublinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: iki 1569 m.; įvykio data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ištaisyta OCR klaida ir sakinys aiškiai susietas su Liublino unija. Nepridėta teiginio apie LDK pabaigą, nors jis yra tolesnėje citatos dalyje."
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-171267
+
 <a id="claim-t-196215"></a>
-- t-196215
+- t-013
   teiginys: "Cituojamoje interpretacijoje Lietuvos Statuto, valstybės praeities ir valdovų aukštinimas laikytas kliūtimi Liublino unijai įgyvendinti."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -288,32 +300,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-167959
-
-<a id="claim-t-207456"></a>
-- t-207456
-  teiginys: "Alfredo Bumblausko vertinimu, Liublino unija reikšmingai sumažino LDK teritoriją, tačiau jos reikšmė gyventojų skaičiaus atžvilgiu buvo mažesnė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-18T19:34:24Z"
-  pagrindžia:
-    - c-190085
-
-<a id="claim-t-207457"></a>
-- t-207457
-  teiginys: "Alfredo Bumblausko pateikiamu vertinimu, po Liublino unijos LDK liko apie 2,5 milijono žmonių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-18T19:34:24Z"
-  pagrindžia:
-    - c-190055
 
 ## Reikšmingi paminėjimai
 - c-011
@@ -380,14 +366,13 @@ Nenurodyta
     trukus.
   citata_rodoma: "Chodkevičius surado išeities \nkelius ten, kur, atrodė, jų nėra. \nŽinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni-\njos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net \nir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per \našaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau \nnesuabejota dar du šimtmečius. Liublino unijos nauda pasireiškė jau ne-\ntrukus."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169847
-    - t-169848
+  pagrindzia:
+    - t-006
+    - t-007
 
 - id: c-154526
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -412,9 +397,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169845
-    - t-169850
+  pagrindzia:
+    - t-004
+    - t-009
 
 - id: c-154527
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -440,8 +425,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169844
+  pagrindzia:
+    - t-003
 
 - id: c-154529
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -463,9 +448,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169847
-
 - id: c-154532
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -484,9 +466,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169846
-    - t-169849
+  pagrindzia:
+    - t-005
+    - t-008
 
 - id: c-154533
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -509,8 +491,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169842
+  pagrindzia:
+    - t-001
 
 - id: c-154534
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -532,8 +514,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169843
+  pagrindzia:
+    - t-002
 
 - id: c-166648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -552,8 +534,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169851
+  pagrindzia:
+    - t-010
 
 - id: c-167959
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -581,8 +563,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196215
+  pagrindzia:
+    - t-013
 
 - id: c-167960
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -610,8 +592,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184599
+  pagrindzia:
+    - t-011
 
 - id: c-171267
   autorius: "Teodoras Narbutas"
@@ -630,63 +612,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-190055
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 32"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 32."
-  citata_originali: |
-    Tiesa, tuojau pat
-    įvyko Liublino unija, reikšmingai sumažinusi LDK teritoriją, tačiau ji nebuvo tokia reikš-
-    minga gyventojų skaičiaus atžvilgiu. Kadangi numanoma 1568 m. LDK Ukrainos žemėse
-    gyvenus tik apie 250 tūkstančių žmonių, o Palenkėje – apie 150 tūkstančių, todėl manoma,
-    kad po Liublino unijos LDK liko apie 2,5 milijono žmonių.
-  citata_rodoma: "Kadangi numanoma 1568 m. LDK Ukrainos žemėse \ngyvenus tik apie 250 tūkstančių žmonių, o Palenkėje – apie 150 tūkstančių, todėl manoma, \nkad po Liublino unijos LDK liko apie 2,5 milijono žmonių."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207457
-
-- id: c-190085
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 32"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 32."
-  citata_originali: |
-    Naujausių tyrimų nuro-
-    domi mažesni skaičiai, tačiau 1568 m. manoma buvus jau arti 3 milijonų. Tiesa, tuojau pat
-    įvyko Liublino unija, reikšmingai sumažinusi LDK teritoriją, tačiau ji nebuvo tokia reikš-
-    minga gyventojų skaičiaus atžvilgiu. Kadangi numanoma 1568 m.
-  citata_rodoma: "esa, tuojau pat \nįvyko Liublino unija, reikšmingai sumažinusi LDK teritoriją, tačiau ji nebuvo tokia reikš-\nminga gyventojų skaičiaus atžvilgiu. K"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207456
-
-- id: c-199678
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 8"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
-  citata_originali: |
-    LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
-    dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija - tai
-    savarankiškos LDK egzistavimo pabaiga.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219868
-
+  pagrindzia:
+    - t-012

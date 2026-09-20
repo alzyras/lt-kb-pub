@@ -26,6 +26,41 @@ media_all_json: |-
 
 Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams. Kojelavičius aiškina, kad lenkai turėjo vengti karo su lietuviais, nes vienu metu susidūrus su daugybe kliūčių galėjo palūžti.
 
+## Teiginiai
+
+<a id="claim-t-186297"></a>
+- t-001
+  teiginys: "Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Klemensas VI: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai kalba apie kovą prieš lietuvius, kurią popiežius skatino pažadėtomis malonėmis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Klemensas VI kariavo prieš Lietuviai (0.66)"
+  pagrindžia:
+    - c-169658
+
+<a id="claim-t-196351"></a>
+- t-002
+  teiginys: "Kojelavičius aiškina, kad lenkai turėjo vengti karo su lietuviais, nes vienu metu susidūrus su daugybe kliūčių galėjo palūžti."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178643
+
 ## Citatos
 
 - id: c-169658
@@ -47,7 +82,7 @@ Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias mal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-178643
@@ -73,41 +108,5 @@ Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias mal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-186297"></a>
-- t-001
-  teiginys: "Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Klemensas VI: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai kalba apie kovą prieš lietuvius, kurią popiežius skatino pažadėtomis malonėmis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Klemensas VI kariavo prieš Lietuviai (0.66)"
-  pagrindžia:
-    - c-169658
-
-<a id="claim-t-196351"></a>
-- t-002
-  teiginys: "Kojelavičius aiškina, kad lenkai turėjo vengti karo su lietuviais, nes vienu metu susidūrus su daugybe kliūčių galėjo palūžti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178643
-

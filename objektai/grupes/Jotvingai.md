@@ -27,6 +27,21 @@ media_all_json: |-
 
 Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaičiai ir jotvingai, kurie Mindaugo laikais labai neaiškiai laikėsi. Senasis jotvingų kraštas (t.
 
+## Teiginiai
+
+<a id="claim-t-193304"></a>
+- t-001
+  teiginys: "Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaičiai ir jotvingai, kurie Mindaugo laikais labai neaiškiai laikėsi."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-176032
+
 ## Citatos
 
 - id: c-176032
@@ -45,21 +60,5 @@ Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaič
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-193304"></a>
-- t-001
-  teiginys: "Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaičiai ir jotvingai, kurie Mindaugo laikais labai neaiškiai laikėsi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-176032
-

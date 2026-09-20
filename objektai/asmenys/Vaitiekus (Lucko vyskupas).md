@@ -47,22 +47,10 @@ canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų an
 
 ## Teiginiai
 
-<a id="claim-t-214912"></a>
-- t-214912
-  teiginys: "Vaitiekaus gyvenimo ap rašyme; jo autorius buvo šventojo mokinys ir apaštala vimo Prūsijoje bičiulis, arkivyskupas Gaudencijus, rašęs 997—1006 metais."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197541
-
 <a id="claim-t-87931"></a>
-- t-87931
+- t-001
   teiginys: "1507 m. Melnike Vaitiekus dalyvavo patvirtinant Trakų žydų privilegijas kaip Lucko vyskupas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Luckas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -79,9 +67,9 @@ canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų an
     - c-83910
 
 <a id="claim-t-201547"></a>
-- t-201547
+- t-002
   teiginys: "1550 m. Kauno pirklys Severinas Berkmanas skundė Vaitiekų, kurį buvo pasamdęs metams dirbti laivavedžiu už 4,5 kapos grašių ir jau buvo davęs 3 kapas grašių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,9 +79,9 @@ canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų an
     - c-184894
 
 <a id="claim-t-205141"></a>
-- t-205141
+- t-003
   teiginys: "Vaitiekus buvo iš Čekijos kilęs Prahos vyskupas."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -150,8 +138,8 @@ canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų an
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-87931
+  pagrindzia:
+    - t-001
 
 - id: c-184894
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -168,8 +156,8 @@ canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų an
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201547
+  pagrindzia:
+    - t-002
 
 - id: c-187682
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -188,26 +176,5 @@ canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų an
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205141
-
-- id: c-197541
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 259"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 259."
-  citata_originali: |
-    Pirmą sykį raštuose žodį Pruzzi,
-    taip pat ir Pruzta aptinkame šv. Vaitiekaus gyvenimo ap­
-    rašyme; jo autorius buvo šventojo mokinys ir apaštala­
-    vimo Prūsijoje bičiulis, arkivyskupas Gaudencijus*, rašęs
-    997—1006 metais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214912
-
+  pagrindzia:
+    - t-003

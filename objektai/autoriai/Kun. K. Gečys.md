@@ -1,8 +1,8 @@
 ---
 tipas: autorius
-pavadinimas: 'Kun. K. Gečys'
+pavadinimas: Kun. K. Gečys
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e096b72de50dd37f01440e84"
-canonical_name: "Kun. K. Gečys"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Kun. K. Gečys"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e096b72de50dd37f01440e84
+canonical_name: Kun. K. Gečys
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Kun. K. Gečys
 sameAs: []
-canonical_biography: "Kun. K. Gečys cituojamas kaip teigiantis, kad pamaldų proga visada būdavo skaitomi vysk. M. Valančiaus pastoraciniai blaivybės laiškai."
+canonical_biography: 'Kun. K. Gečys cituojamas kaip teigiantis, kad pamaldų proga visada būdavo skaitomi vysk. M. Valančiaus pastoraciniai blaivybės laiškai.'
 ---
 # Kun. K. Gečys
 

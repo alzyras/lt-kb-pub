@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVI amžius"
 periodo_pradzia: 1501
 periodo_pabaiga: 1600
-periodo_objektu_skaicius: 1375
+periodo_objektu_skaicius: 1362
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1375.
+Objektų skaičius: 1362.
 
 ## Susiję objektai
 
@@ -90,8 +90,6 @@ Objektų skaičius: 1375.
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/asmenys/Jonas Kazimieras]]
 - [[objektai/asmenys/Jonas Paulavičius]]
-- [[objektai/asmenys/Jonas Radvila (1474-1522)]]
-- [[objektai/asmenys/Jonušas Radvila (1579-1620)]]
 - [[objektai/asmenys/Jordanas]]
 - [[objektai/asmenys/Jurgis (Lucko vyskupas)]]
 - [[objektai/asmenys/Jurgis (Vilniaus kaštelionas, Barboros tėvas)]]
@@ -109,7 +107,6 @@ Objektų skaičius: 1375.
 - [[objektai/asmenys/Kiščina (Vitebsko vaivadienė)]]
 - [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - [[objektai/asmenys/Korčiakas]]
-- [[objektai/asmenys/Kristupas Kiška (1590-1646)]]
 - [[objektai/asmenys/Kristupas Manvydas Dorohostaiskis]]
 - [[objektai/asmenys/Kristupas Radvila]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
@@ -1043,8 +1040,6 @@ Objektų skaičius: 1375.
 - [[objektai/saltiniai/1579 m. Niurnbergo leidinys apie Polocko atsiėmimą]]
 - [[objektai/saltiniai/1581 m. apaštališkojo nuncijaus patvirtinimas dėl Jus Patronatus]]
 - [[objektai/saltiniai/1583 m. lapkričio 26 d. karaliaus raštas dėl švenčių pagal naująjį kalendorių]]
-- [[objektai/saltiniai/1808. X. 29 Platelių dvaro inventorius]]
-- [[objektai/saltiniai/A. Filipeckio pamokslų rinkinys]]
 - [[objektai/saltiniai/A. Prioult Un poete voyageur Guillaume de Machaut et la « Reise » de Jean VAveugle, roi de Boheme, en 1326-1329]]
 - [[objektai/saltiniai/A. Prochaska, Dzieje Witolda]]
 - [[objektai/saltiniai/A. Prochaska, Rok 1410. Przyczyny wojny]]
@@ -1130,8 +1125,6 @@ Objektų skaičius: 1375.
 - [[objektai/saltiniai/Kauno miesto vaito aktų knygos įrašas su miestiečių žymenimis]]
 - [[objektai/saltiniai/Kauno vaito aktų knyga (1551–1555 m.)]]
 - [[objektai/saltiniai/Kauno vaito aktų knyga 1550–1555 m]]
-- [[objektai/saltiniai/Kauno vicegubernatoriaus 1874 m. vasario 12 d. raštas Vilniaus generalgubernatoriui]]
-- [[objektai/saltiniai/Kazimiero Bagdzevičiaus 1828-12-14 laiškas Motiejui Valančiui]]
 - [[objektai/saltiniai/Klaipėdos miesto istorija 1252-1466]]
 - [[objektai/saltiniai/Konrado 1230 m. dovanojimo raštas]]
 - [[objektai/saltiniai/Kronika Lechitów i Polaków]]
@@ -1160,7 +1153,6 @@ Objektų skaičius: 1375.
 - [[objektai/saltiniai/Litovskij Statut 1588 goda]]
 - [[objektai/saltiniai/Liublino unijos aktas (1569 m.)]]
 - [[objektai/saltiniai/Livonijos prijungimas prie Lietuvos]]
-- [[objektai/saltiniai/M. Bialobžeskio pamokslų rinkinys]]
 - [[objektai/saltiniai/M. Daukšos Postilė]]
 - [[objektai/saltiniai/M. Jučas, Žalgirio mūšis]]
 - [[objektai/saltiniai/M. Mažvydo lotyniški laiškai]]
@@ -1191,7 +1183,6 @@ Objektų skaičius: 1375.
 - [[objektai/saltiniai/Ostrovo sutartis (1392 m.)]]
 - [[objektai/saltiniai/P. Klimas, Vieno prancūzo įspūdžiai Lietuvoje Vytauto laikais. Guillebert de Lannoy kelionė 1413-14 metais]]
 - [[objektai/saltiniai/P. Šležas, Vytauto D. kovos dėl Žemaičių ir Klaipėdos]]
-- [[objektai/saltiniai/Patarlės žemaičių]]
 - [[objektai/saltiniai/Paul von Rusdorf. Hochmeister des Deutschen Ordens 1422-1441]]
 - [[objektai/saltiniai/Pašuta V. Lietuvos valstybės susidarymas]]
 - [[objektai/saltiniai/Per barzdą varvėjo svaigiųjų gėrimų istorija Lietuvoje]]
@@ -1220,7 +1211,6 @@ Objektų skaičius: 1375.
 - [[objektai/saltiniai/Regesta Lithnaniae]]
 - [[objektai/saltiniai/Regesta Lithuaniae]]
 - [[objektai/saltiniai/Rerum Moscoviticarum Commentarii]]
-- [[objektai/saltiniai/Revizijos komisijos pirmininko raštas Vilniaus generalgubernatoriui]]
 - [[objektai/saltiniai/Roneburgo pilies bažnyčios Dusburgiečio kronikos nuorašas]]
 - [[objektai/saltiniai/Rotundo Lietuvos istorija]]
 - [[objektai/saltiniai/Rusijos kariuomenė užgrobtoje Livonijoje]]
@@ -1260,12 +1250,9 @@ Objektų skaičius: 1375.
 - [[objektai/saltiniai/Varakauskas R. Kautynės ties Ašerade (1279 m.) Iš lietuvių kovų prieš Livonijos ordiną XIII a]]
 - [[objektai/saltiniai/Varakauskas R. Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu (1236—1263)]]
 - [[objektai/saltiniai/Varšuvos konfederacija (1573 m.)]]
-- [[objektai/saltiniai/Vidaus reikalų ministro 1867. VII. 2 raštas Vilniaus generalgubernatoriui]]
-- [[objektai/saltiniai/Vidaus reikalų viceministro 1869 m. lapkričio 27 d. raštas A. Potapovui]]
 - [[objektai/saltiniai/Vilniaus akademijos atidarymo privileginis raštas]]
 - [[objektai/saltiniai/Vilniaus akademijos istorija]]
 - [[objektai/saltiniai/Vilniaus arkikonfratrijos fundavimo ir įvesdinimo dokumentai]]
-- [[objektai/saltiniai/Vilniaus cenzūros komiteto 1865. II. 16 posėdžio protokolas]]
 - [[objektai/saltiniai/Vilniaus kapitulos 1581 m. Jus Patronatus perleidimo aktas]]
 - [[objektai/saltiniai/Vilniaus kapitulos archyvo rankraščiai]]
 - [[objektai/saltiniai/Vilniaus kapitulos rankraščiai]]

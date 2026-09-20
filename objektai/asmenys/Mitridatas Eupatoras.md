@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Mitridatas Eupatoras'
+pavadinimas: Mitridatas Eupatoras
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-393662b61539eee1dea6e761"
-canonical_name: "Mitridatas Eupatoras"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mitridatas Eupatoras"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-393662b61539eee1dea6e761
+canonical_name: Mitridatas Eupatoras
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mitridatas Eupatoras
 sameAs: []
-canonical_biography: "Mitridatas Eupatoras ją dar va dina Osericta."
+canonical_biography: Mitridatas Eupatoras ją dar va dina Osericta.
 ---
 # Mitridatas Eupatoras
 
@@ -65,6 +64,5 @@ Mitridatas Eupatoras ją dar va dina Osericta.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

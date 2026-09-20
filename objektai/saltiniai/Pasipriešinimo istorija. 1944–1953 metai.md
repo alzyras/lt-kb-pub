@@ -35,30 +35,12 @@ media_all_json: |-
 
 Pasipriešinimo istorija.
 
-## Citatos
-
-- id: c-21077
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
-  citata_originali: |
-    Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006.
-  citata_rodoma: "Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-18059"></a>
 - t-001
   teiginys: "N. Gaškaitės „Pasipriešinimo istorija. 1944–1953 metai“ išleista Vilniuje 2006 m."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -74,3 +56,20 @@ Pasipriešinimo istorija.
   pagrindžia:
     - c-21077
 
+## Citatos
+
+- id: c-21077
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
+  citata_originali: |
+    Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006.
+  citata_rodoma: "Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

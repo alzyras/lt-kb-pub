@@ -36,6 +36,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-203973"></a>
+- t-001
+  teiginys: "Iškart paskelbus nuosprendį, Stanislovas Butkaitis buvo nuvestas į egzekucijos vietą kartu su broliais Kasparu ir Venclovu Butkaičiais, žvelgūnu Bogušu Vaitkaičiu ir valdovo bajorais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186577
+
+<a id="claim-t-203974"></a>
+- t-002
+  teiginys: "Kasparas ir Venclovas Butkaičiai, pasitarę tarpusavyje, Stanislovo Butkaičio neišdavė mirčiai ir paleido jį atgailauti už nuodėmę."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186578
+
 ## Santrauka
 
 Iškart paskelbus nuosprendį, Stanislovas Butkaitis buvo nuvestas į egzekucijos vietą kartu su broliais Kasparu ir Venclovu Butkaičiais, žvelgūnu Bogušu Vaitkaičiu ir valdovo bajorais. Kasparas ir Venclovas Butkaičiai, pasitarę tarpusavyje, Stanislovo Butkaičio neišdavė mirčiai ir paleido jį atgailauti už nuodėmę.
@@ -58,7 +86,7 @@ Iškart paskelbus nuosprendį, Stanislovas Butkaitis buvo nuvestas į egzekucijo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186578
@@ -78,34 +106,5 @@ Iškart paskelbus nuosprendį, Stanislovas Butkaitis buvo nuvestas į egzekucijo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-203973"></a>
-- t-001
-  teiginys: "Iškart paskelbus nuosprendį, Stanislovas Butkaitis buvo nuvestas į egzekucijos vietą kartu su broliais Kasparu ir Venclovu Butkaičiais, žvelgūnu Bogušu Vaitkaičiu ir valdovo bajorais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
-  pagrindžia:
-    - c-186577
-
-<a id="claim-t-203974"></a>
-- t-002
-  teiginys: "Kasparas ir Venclovas Butkaičiai, pasitarę tarpusavyje, Stanislovo Butkaičio neišdavė mirčiai ir paleido jį atgailauti už nuodėmę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
-  pagrindžia:
-    - c-186578
-

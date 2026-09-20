@@ -39,6 +39,32 @@ LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų 
 
 LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų neturintys žmonės buvo prilyginti valkatoms. XVIII a. valkatų nesėslus gyvenimo būdas sietas su kriminaliniu pasauliu, o grupei taikytos represinės priemonės.
 
+## Teiginiai
+
+<a id="claim-t-203756"></a>
+- t-001
+  teiginys: "LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų neturintys žmonės buvo prilyginti valkatoms."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186360
+
+<a id="claim-t-203757"></a>
+- t-002
+  teiginys: "XVIII a. valkatų nesėslus gyvenimo būdas sietas su kriminaliniu pasauliu, o grupei taikytos represinės priemonės."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186361
+
 ## Citatos
 
 - id: c-186360
@@ -59,7 +85,7 @@ LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186361
@@ -83,32 +109,5 @@ LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-203756"></a>
-- t-001
-  teiginys: "LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų neturintys žmonės buvo prilyginti valkatoms."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186360
-
-<a id="claim-t-203757"></a>
-- t-002
-  teiginys: "XVIII a. valkatų nesėslus gyvenimo būdas sietas su kriminaliniu pasauliu, o grupei taikytos represinės priemonės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186361
-

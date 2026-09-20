@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Peloponesas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Peloponesas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Peloponesas'
+  - Peloponesas
 aliases:
-  - 'Peloponesas'
+  - Peloponesas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-33a1a4267676b53dca37f877"
-canonical_name: "Peloponesas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Peloponesas","Peloponesas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-33a1a4267676b53dca37f877
+canonical_name: Peloponesas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Peloponesas
+  - Peloponesas (vieta)
 sameAs: []
-canonical_biography: "Artimą pelazgams ir tokią pat seną helenų tautą sudarė pirmykščiai Viduržemio jū ros salų, esančių arčiau Azijos, o vėliau ir gausūs, var gingi, necivilizuoti pirmykščiai Peloponeso gyventojai."
+canonical_biography: 'Artimą pelazgams ir tokią pat seną helenų tautą sudarė pirmykščiai Viduržemio jū ros salų, esančių arčiau Azijos, o vėliau ir gausūs, var gingi, necivilizuoti pirmykščiai Peloponeso gyventojai.'
 ---
 # Peloponesas (vieta)
 
@@ -72,6 +72,5 @@ Artimą pelazgams ir tokią pat seną helenų tautą sudarė pirmykščiai Vidur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -72,29 +72,19 @@ Nenurodyta
     - c-177816
 
 <a id="claim-t-195396"></a>
-- t-195396
+- t-002
   teiginys: "Kūčių dieną krosnis kūrenama du kartus, kad būtų paruošti valgiai šventėms ir pačioms Kūčioms."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177812
 
-<a id="claim-t-195397"></a>
-- t-195397
-  teiginys: "Per Kūčių vakarienę šeimininkas laužo plotkus, juos deda į barščius, o visi valgo iš vieno dubens."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177815
-
 <a id="claim-t-195398"></a>
-- t-195398
+- t-003
   teiginys: "Po Kūčių samdininkams baigdavosi tarnybos metai ir jie tapdavo svečiais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -102,9 +92,9 @@ Nenurodyta
     - c-177814
 
 <a id="claim-t-195399"></a>
-- t-195399
+- t-004
   teiginys: "Kūčioms ruošiami pasninkiniai ir šventiniai valgiai, tarp jų sausi barščiai su baravykais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -129,8 +119,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195396
+  pagrindzia:
+    - t-002
 
 - id: c-177813
   autorius: "M. Katkus"
@@ -145,8 +135,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195399
+  pagrindzia:
+    - t-004
 
 - id: c-177814
   autorius: "M. Katkus"
@@ -166,8 +156,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195398
+  pagrindzia:
+    - t-003
 
 - id: c-177815
   autorius: "M. Katkus"
@@ -183,9 +173,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195397
-
 - id: c-177816
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -195,11 +182,9 @@ Nenurodyta
     Toliau seka šaltas valgis: aguonų pienas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų“.
   citata_rodoma: "Toliau seka šaltas valgis: aguonų pienas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų“."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

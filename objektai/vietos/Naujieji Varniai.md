@@ -1,35 +1,34 @@
 ---
 tipas: vieta
-pavadinimas: 'Naujieji Varniai'
+pavadinimas: Naujieji Varniai
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 datos:
-  - '1874 m.'
+  - 1874 m.
 date_start: '1874'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d0caac0e934f80d03eadbf08"
-canonical_name: "Naujieji Varniai"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Naujieji Varniai"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d0caac0e934f80d03eadbf08
+canonical_name: Naujieji Varniai
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Naujieji Varniai
 sameAs: []
-canonical_biography: "Naujųjų Varnių bažnyčioje pasakytas pamokslas, dėl kurio vikaras aiškinosi valdžiai."
+canonical_biography: 'Naujųjų Varnių bažnyčioje pasakytas pamokslas, dėl kurio vikaras aiškinosi valdžiai.'
 place_authority: true
 historical_names: []
 ---

@@ -1,12 +1,12 @@
 ---
 tipas: ivykis
-pavadinimas: 'Anglų valdžios keleivių patikra Gibraltare (1916 m.)'
+pavadinimas: Anglų valdžios keleivių patikra Gibraltare (1916 m.)
 variantai:
-  - 'Anglų valdžios keleivių patikra Gibraltare'
+  - Anglų valdžios keleivių patikra Gibraltare
 aliases:
-  - 'Anglų valdžios keleivių patikra Gibraltare'
+  - Anglų valdžios keleivių patikra Gibraltare
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -15,12 +15,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Anglų valdžios keleivių patikra Gibraltare (1916 m.)
 
@@ -80,6 +77,5 @@ Gibral tare anglų valdžia krato pasažierius ir peržiū rinėja pašportus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

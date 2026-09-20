@@ -1,37 +1,37 @@
 ---
 tipas: autorius
-pavadinimas: 'N. Praniauskis'
+pavadinimas: N. Praniauskis
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1859 m.'
+  - 1859 m.
 date_start: '1859'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-28ab06e73d0f1b87c076dfa1"
-canonical_name: "N. Praniauskis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["N. Praniauskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-28ab06e73d0f1b87c076dfa1
+canonical_name: N. Praniauskis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - N. Praniauskis
 sameAs: []
-canonical_biography: "N. Praniauskis 1859 m. vasario 14 d. išsiuntė vyskupui laišką dėl laikraščio idėjos įgyvendinimo."
+canonical_biography: N. Praniauskis 1859 m. vasario 14 d. išsiuntė vyskupui laišką dėl laikraščio idėjos įgyvendinimo.
 ---
 # N. Praniauskis
 

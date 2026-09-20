@@ -46,6 +46,33 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-206749"></a>
+- t-001
+  teiginys: "1378 m. pirmieji Jogailos karo veiksmai buvo nukreipti į kunigaikščio Andriaus maišto maldymą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189364
+
+<a id="claim-t-206750"></a>
+- t-002
+  teiginys: "Kunigaikščio Andriaus maišto metu iš jo buvo atimti Trubčevskas ir Polockas, o kunigaikštis Andrius buvo priverstas išvykti į Pskovą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189365
+
 ## Santrauka
 
 1378 m. pirmieji Jogailos karo veiksmai buvo nukreipti į kunigaikščio Andriaus maišto maldymą. Kunigaikščio Andriaus maišto metu iš jo buvo atimti Trubčevskas ir Polockas, o kunigaikštis Andrius buvo priverstas išvykti į Pskovą.
@@ -77,7 +104,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189365
@@ -95,33 +122,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206749"></a>
-- t-001
-  teiginys: "1378 m. pirmieji Jogailos karo veiksmai buvo nukreipti į kunigaikščio Andriaus maišto maldymą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189364
-
-<a id="claim-t-206750"></a>
-- t-002
-  teiginys: "Kunigaikščio Andriaus maišto metu iš jo buvo atimti Trubčevskas ir Polockas, o kunigaikštis Andrius buvo priverstas išvykti į Pskovą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189365
-

@@ -34,6 +34,25 @@ canonical_biography: "Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolens
 
 Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreikaičiai ir žymusis Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.
 
+## Teiginiai
+
+<a id="claim-t-30384"></a>
+- t-001
+  teiginys: "Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Vorskla: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Spytkas iš Melsztyno: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vorskla: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo Spytko žūtį prie Vorsklos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Spytkas iš Melsztyno mirė Vorskla (0.95); Spytkas iš Melsztyno valdė teritoriją Podolė (0.90)"
+  pagrindžia:
+    - c-32801
+
 ## Citatos
 
 - id: c-32801
@@ -56,29 +75,9 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - Spytkas iš Melsztyno valdė [[objektai/vietos/Podolė]]
 - Spytkas iš Melsztyno mirė [[objektai/vietos/Vorskla]]
-
-## Teiginiai
-
-<a id="claim-t-30384"></a>
-- t-001
-  teiginys: "Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Vorskla: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Spytkas iš Melsztyno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vorskla: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo Spytko žūtį prie Vorsklos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Spytkas iš Melsztyno mirė Vorskla (0.95); Spytkas iš Melsztyno valdė teritoriją Podolė (0.90)"
-  pagrindžia:
-    - c-32801
-

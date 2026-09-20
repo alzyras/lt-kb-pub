@@ -1,30 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'Sergejaus Veselitskio 1864 m. pradžios pranešimas Vilniaus generalgubernatoriui'
+pavadinimas: Sergejaus Veselitskio 1864 m. pradžios pranešimas Vilniaus generalgubernatoriui
 saltiniai:
-  - 'Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo'
+  - Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo
 datos:
-  - '1785 m.'
-  - '1864 m.'
+  - 1785 m.
+  - 1864 m.
 date_start: '1785'
 date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XVIII'
-  - 'XIX'
+  - XVIII
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Sergejaus Veselitskio 1864 m. pradžios pranešimas Vilniaus generalgubernatoriui
 

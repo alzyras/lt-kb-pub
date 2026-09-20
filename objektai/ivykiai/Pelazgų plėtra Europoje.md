@@ -1,30 +1,27 @@
 ---
 tipas: ivykis
-pavadinimas: 'Pelazgų plėtra Europoje'
+pavadinimas: Pelazgų plėtra Europoje
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1200 m.'
-  - '1700 m.'
+  - 1200 m.
+  - 1700 m.
 date_start: '1200'
 date_end: '1700'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XII'
-  - 'XVII'
+  - XII
+  - XVII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Pelazgų plėtra Europoje
 
@@ -81,6 +78,5 @@ Narbutas teigia, kad apie 1500 m. pr. Kr. pelazgai davė pradžią dorėnams ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

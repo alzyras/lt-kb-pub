@@ -29,6 +29,20 @@ media_all_json: |-
 
 Taip nugalavus Viną, pirmąjį mistrą kalavijonų, tuojau susirinkę kalavijonys iš pilių, arba komtūrų, kuriose gyveno, pakėlė į jo vietą sau mistru brostvį Volkviną (Voląuin), vyrą kantrų, drąsų ir suma nantį, kursai, v.
 
+## Teiginiai
+
+<a id="claim-t-201249"></a>
+- t-001
+  teiginys: "Taip nugalavus Viną, pirmąjį mistrą kalavijonų, tuojau susirinkę kalavijonys iš pilių, arba komtūrų, kuriose gyveno, pakėlė į jo vietą sau mistru brostvį Volkviną (Voląuin), vyrą kantrų, drąsų ir suma nantį, kursai, v."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184599
+
 ## Citatos
 
 - id: c-184599
@@ -48,20 +62,5 @@ Taip nugalavus Viną, pirmąjį mistrą kalavijonų, tuojau susirinkę kalavijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201249"></a>
-- t-001
-  teiginys: "Taip nugalavus Viną, pirmąjį mistrą kalavijonų, tuojau susirinkę kalavijonys iš pilių, arba komtūrų, kuriose gyveno, pakėlė į jo vietą sau mistru brostvį Volkviną (Voląuin), vyrą kantrų, drąsų ir suma nantį, kursai, v."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184599
-

@@ -34,6 +34,61 @@ canonical_biography: "Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino A
 
 Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekančią iš Kiliklo kalnų ir susiliejančią su Kūra. Narbuto perteikimu Hameris manė, kad Ross Biblijoje ir Korane reiškia Arakso upę, aplinkinį kraštą ir ten gyvenusią tautą. Hameris dar prieš Volianskį mėgino šifruoti senovės tyrinėtojams nesuprantamą užrašą ir perskaitė trečios eilutės pirmą žodį.
 
+## Teiginiai
+
+<a id="claim-t-191204"></a>
+- t-001
+  teiginys: "Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekančią iš Kiliklo kalnų ir susiliejančią su Kūra."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Arabai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hameris: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Arabai: mention_match, group, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hameris\" parinktas kaip owner_note_path. Targetas \"Arabai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174086
+
+<a id="claim-t-191205"></a>
+- t-002
+  teiginys: "Narbuto perteikimu Hameris manė, kad Ross Biblijoje ir Korane reiškia Arakso upę, aplinkinį kraštą ir ten gyvenusią tautą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Araksas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hameris: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Araksas: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hameris\" parinktas kaip owner_note_path. Targetas \"Araksas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174087
+
+<a id="claim-t-191206"></a>
+- t-003
+  teiginys: "Hameris dar prieš Volianskį mėgino šifruoti senovės tyrinėtojams nesuprantamą užrašą ir perskaitė trečios eilutės pirmą žodį."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174088
+
 ## Citatos
 
 - id: c-174086
@@ -62,6 +117,8 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-174087
   autorius: "Teodoras Narbutas"
@@ -88,6 +145,8 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-174088
   autorius: "Teodoras Narbutas"
@@ -111,55 +170,5 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194649
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 70"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
-  citata_originali: |
-    Anot Korano
-    aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie
-    Ross upės; Korane ji vadinama Ashabir-Ross; ji išsisklai­
-    dė žiloje senovėje. Tas pats orientalistas mano, kad
-    Ross Biblijoje ir Korane reiškia tą patį, arba tiesiog tai
-    Arakso upė, be to, ir prie jos plytinčio krašto pavadinimą
-    bei tam tikrą ten gyvenusią tautą, kurią dievas išskaidė,
-    pavertė laukiniais nomadais, panašiais į girių žvėris už
-    tai, kad nepriėmė mokslo, siunčiamo jiems per pranašą
-    Khaintają, Šafrano sūnų, kurį jie nukankino5. Nors iš tų
-    šaltinių orientalistas nedaro išvadų, kad budinai buvę
-    dievo bausmės persekiojama tauta, įš visko sprendžiant,
-    jis darė kitas išvadas; jei mes galėtume, tai neabejotinai
-    atskleistume jas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-214422"></a>
-- t-001
-  teiginys: "Narbuto perteikimu Hameris manė, kad Ross Biblijoje ir Korane reiškia Arakso upę, aplinkinį kraštą ir ten gyvenusią tautą."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Araksas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hameris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Araksas: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hameris\" parinktas kaip owner_note_path. Targetas \"Araksas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-194649
-
+  pagrindzia:
+    - t-003

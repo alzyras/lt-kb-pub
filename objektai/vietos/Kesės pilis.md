@@ -37,6 +37,20 @@ historical_names: []
 
 md]] - vietasaltinyje: match: normalizedwhitespace - santrauka: Žemaičių kraštas ir jo pajūris buvo vadinami Sambija ir Samland. - pagrindzia: - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
 
+## Teiginiai
+
+<a id="claim-t-201168"></a>
+- t-001
+  teiginys: "Tas patsai Danielius nusisuko į Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri imtas, svietą krikštijo, nuo tenai nuėjo į Kesės pilį krikštyti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184518
+
 ## Citatos
 
 - id: c-184518
@@ -59,20 +73,5 @@ md]] - vietasaltinyje: match: normalizedwhitespace - santrauka: Žemaičių kra�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201168"></a>
-- t-001
-  teiginys: "Tas patsai Danielius nusisuko į Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri imtas, svietą krikštijo, nuo tenai nuėjo į Kesės pilį krikštyti."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184518
-

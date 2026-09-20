@@ -48,6 +48,39 @@ historical_names: []
 
 Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas.
 
+## Teiginiai
+
+<a id="claim-t-69886"></a>
+- t-001
+  teiginys: "R. Marčėnas 1969 m. paskelbė darbą apie Šiaulių ekonomijos valstiečių sukilimą 1769 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> S. Lazutka: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šiaulių ekonomija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "S. Lazutka: mention_match, author, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šiaulių ekonomija\" parinktas kaip owner_note_path. Targetas \"S. Lazutka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1769 m.; įvykio data: 1783-1832; įvykio data: 1832 m.; įvykio data: 1969 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas paverstas pilnu faktiniu sakiniu apie objektą."
+  pagrindžia:
+    - c-69092
+
+<a id="claim-t-193259"></a>
+- t-002
+  teiginys: "Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-175991
+
 ## Citatos
 
 - id: c-69092
@@ -76,7 +109,7 @@ Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-175991
@@ -93,39 +126,5 @@ Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-69886"></a>
-- t-001
-  teiginys: "R. Marčėnas 1969 m. paskelbė darbą apie Šiaulių ekonomijos valstiečių sukilimą 1769 m."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> S. Lazutka: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šiaulių ekonomija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "S. Lazutka: mention_match, author, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šiaulių ekonomija\" parinktas kaip owner_note_path. Targetas \"S. Lazutka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1769 m.; įvykio data: 1783-1832; įvykio data: 1832 m.; įvykio data: 1969 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas paverstas pilnu faktiniu sakiniu apie objektą."
-  pagrindžia:
-    - c-69092
-
-<a id="claim-t-193259"></a>
-- t-002
-  teiginys: "Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-175991
-

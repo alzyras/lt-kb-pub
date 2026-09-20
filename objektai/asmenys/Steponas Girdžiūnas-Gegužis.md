@@ -42,6 +42,19 @@ canonical_biography: "GirdžiūnuiGegužiui ir kitiems LLA organizatoriams pavyk
 
 GirdžiūnuiGegužiui ir kitiems LLA organizatoriams pavyko sukurti Žaliosios girios Panevėžio apylinkių partizanai 5 a 4 jokias j oe — > ž + 4 © my i 7 & # 4 (Panevėžio) rinktinę. Steponas Girdžiūnas-Geguzis, pavaduotojas ir štabo viršininkas — ltn.
 
+## Teiginiai
+
+<a id="claim-t-40446"></a>
+- t-001
+  teiginys: "1945 m. vasarį Steponas Girdžiūnas-Gegužis tapo pirmuoju 3-iosios Šiaurės LLA apygardos vadu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1945 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-42246
+
 ## Citatos
 
 - id: c-42246
@@ -60,19 +73,5 @@ GirdžiūnuiGegužiui ir kitiems LLA organizatoriams pavyko sukurti Žaliosios g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-40446"></a>
-- t-001
-  teiginys: "1945 m. vasarį Steponas Girdžiūnas-Gegužis tapo pirmuoju 3-iosios Šiaurės LLA apygardos vadu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-42246
-

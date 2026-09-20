@@ -44,33 +44,10 @@ historical_names: []
 
 ## Teiginiai
 
-<a id="claim-t-211125"></a>
-- t-211125
-  teiginys: "Davaina parvežė kryžiaus medį ir pastatė jį Šventojo Kryžiaus bažnyčioje."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194312
-
-<a id="claim-t-210865"></a>
-- t-210865
-  teiginys: "Šventasis Kryžius yra 593 m aukščio Lysa Gora viršūnė apie 20 km į vakarus nuo Opatovo, Lenkijos Kielcų vaivadijos Šventojo Kryžiaus kalnuose."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-
-<a id="claim-t-211569"></a>
-- t-211569
+<a id="claim-t-187410"></a>
+- t-001
   teiginys: "Šventasis Kryžius yra 593 m aukščio viršūnė prie Opatovo."
-  atnaujinta: "2026-09-12 19:43"
+  atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "priklause -> Lenkija: 0.70"
@@ -84,11 +61,34 @@ historical_names: []
   temporaliniai_duomenys: "įvykio data: 593 m"
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Sakinys yra aiškus faktinis teiginys apie vietą ir paremtas citata."
+  pagrindžia:
+    - c-170403
 
-<a id="claim-t-211860"></a>
-- t-211860
+<a id="claim-t-187411"></a>
+- t-002
+  teiginys: "Šventajame Kryžiuje XII a. buvo įkurtas benediktinų vienuolynas ir bažnyčia."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Šventasis Kryžius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Šventąjį Kryžių Lenkijos Kielcų vaivadijos kontekste."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 593 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys pilnas, konkretus ir tiesiogiai paremtas citata."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170403
+
+<a id="claim-t-187693"></a>
+- t-003
   teiginys: "Šventasis Kryžius yra 593 m aukščio Lysa Gora viršūnė Lenkijos Kielcų vaivadijos Šventojo Kryžiaus kalnuose."
-  atnaujinta: "2026-09-12 19:43"
+  atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -105,25 +105,21 @@ historical_names: []
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai apibūdina Šventojo Kryžiaus viršūnę pagal citatos geografinius duomenis. Relikvijos ir tariamo stebuklingumo motyvas neįtrauktas."
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170403
 
-<a id="claim-t-212033"></a>
-- t-212033
-  teiginys: "Šventajame Kryžiuje XII a. buvo įkurtas benediktinų vienuolynas ir bažnyčia."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+<a id="claim-t-194043"></a>
+- t-004
+  teiginys: "Šventasis Kryžius yra 593 m aukščio Lysa Gora viršūnė apie 20 km į vakarus nuo Opatovo, Lenkijos Kielcų vaivadijos Šventojo Kryžiaus kalnuose."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šventasis Kryžius: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Šventąjį Kryžių Lenkijos Kielcų vaivadijos kontekste."
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  temporaliniai_duomenys: "įvykio data: 593 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys pilnas, konkretus ir tiesiogiai paremtas citata."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-170403
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -164,22 +160,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194312
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 86"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 86."
-  citata_originali: |
-    Ir ponas Davaina su panele nuvy­
-    ko pas jos tėvą, gražiai parvežė tą šventojo kryžiaus
-    medį ir pastatė Šventojo Kryžiaus bažnyčioję.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211125
-
+  pagrindzia:
+    - t-001
+    - t-002
+    - t-003
+    - t-004

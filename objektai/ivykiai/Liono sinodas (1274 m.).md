@@ -1,32 +1,29 @@
 ---
 tipas: ivykis
-pavadinimas: 'Liono sinodas (1274 m.)'
+pavadinimas: Liono sinodas (1274 m.)
 variantai:
-  - 'Liono sinodas'
+  - Liono sinodas
 aliases:
-  - 'Liono sinodas'
+  - Liono sinodas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1274 m.'
+  - 1274 m.
 date_start: '1274'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Liono sinodas (1274 m.)
 
@@ -81,6 +78,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

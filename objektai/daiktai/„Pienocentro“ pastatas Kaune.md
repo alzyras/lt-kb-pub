@@ -53,6 +53,29 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-71580"></a>
+- t-001
+  teiginys: "„Pienocentro“ pastatas Kaune buvo užfiksuotas apie 1938 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kaunas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "„Pienocentro“ pastatas Kaune: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Objekto aprašymas tiesiogiai nurodo, kad pastatas yra Kaune."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "„Pienocentro“ pastatas Kaune priklausė Kaunas (0.90)"
+  temporaliniai_duomenys: "pastatymo data: 1933 m.; pastatymo data: 1938 m.; pastatymo data: apie 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip pastatymo data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pirminis tekstas yra antraštinis fragmentas, todėl perrašytas į pilną faktinį sakinį."
+  vertinimo_atnaujinta: "2026-06-13T14:30:30Z"
+  pagrindžia:
+    - c-22325
+
 ## Citatos
 
 - id: c-22325
@@ -73,32 +96,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai
 - „Pienocentro“ pastatas Kaune priklausė [[objektai/vietos/Kaunas]]
-
-## Teiginiai
-
-<a id="claim-t-71580"></a>
-- t-001
-  teiginys: "„Pienocentro“ pastatas Kaune buvo užfiksuotas apie 1938 m."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kaunas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "„Pienocentro“ pastatas Kaune: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Objekto aprašymas tiesiogiai nurodo, kad pastatas yra Kaune."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "„Pienocentro“ pastatas Kaune priklausė Kaunas (0.90)"
-  temporaliniai_duomenys: "pastatymo data: 1933 m.; pastatymo data: 1938 m.; pastatymo data: apie 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip pastatymo data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pirminis tekstas yra antraštinis fragmentas, todėl perrašytas į pilną faktinį sakinį."
-  vertinimo_atnaujinta: "2026-06-13T14:30:30Z"
-  pagrindžia:
-    - c-22325
-

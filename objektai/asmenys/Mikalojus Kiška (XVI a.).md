@@ -1,15 +1,15 @@
 ---
 tipas: asmuo
-pavadinimas: "Mikalojus Kiška (XVI a.)"
-canonical_entity_id: "ent-noble-97ec4bcfe9ceeded14bb6221"
-noble_scope: "ldk-didikai-iki-1795-v1"
-noble_family: "Kiškos"
+pavadinimas: Mikalojus Kiška (XVI a.)
+canonical_entity_id: ent-noble-97ec4bcfe9ceeded14bb6221
+noble_scope: ldk-didikai-iki-1795-v1
+noble_family: Kiškos
 aliases:
-  - "Mikalojus Kiška"
+  - Mikalojus Kiška
 saltiniai:
-  - "VLE: Kiškos"
-date_start: ""
-date_end: ""
+  - 'VLE: Kiškos'
+date_start: ''
+date_end: ''
 periodo_grupes:
   - LDK
 bukle: viesas_pradinis
@@ -24,19 +24,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-noble-97ec4bcfe9ceeded14bb6221"
-canonical_name: "Mikalojus Kiška (XVI a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mikalojus Kiška","Mikalojus Kiška (XVI a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-noble-97ec4bcfe9ceeded14bb6221
+canonical_name: Mikalojus Kiška (XVI a.)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mikalojus Kiška
+  - Mikalojus Kiška (XVI a.)
 sameAs: []
-canonical_biography: "Mikalojus Kiška (XVI a.) - Kiškos giminės atstovas."
+canonical_biography: Mikalojus Kiška (XVI a.) - Kiškos giminės atstovas.
 ---
 # Mikalojus Kiška (XVI a.)
 

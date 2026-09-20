@@ -42,6 +42,40 @@ canonical_biography: "Po pastarojo mirties, kai dabartinis vaistininkas maloning
 
 Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis perėmė vaistinę, kad ir yra in sua arte [savo me­ ne] puikiai pasiruošęs ir savo profesoriui Necelui prilygs­ tantis, tačiau per tokį dar trumpą laiką nėra pelnęs dide­ lio. 183 ## Puslapis 200 VILNIAUS MIESTO ISTORIJA / TOMAS O po to, norėdamas gauti bent kiek žinių apie vaistinės pajamas, post praestitum juramentum [po prisaikdinimo] po­ no Renkielio, supra realem comportationem [dėl tikresnio pa­ lyginimo] senesniųjų metų.
 
+## Teiginiai
+
+<a id="claim-t-87568"></a>
+- t-001
+  teiginys: "Po Necelo mirties vaistininkas Renkielis perėmė vaistinę ir buvo laikomas gerai pasiruošusiu savo amato specialistu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Necelas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Renkielis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Necelas: mention_match, person, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Renkielis\" parinktas kaip owner_note_path. Targetas \"Necelas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83547
+
+<a id="claim-t-87569"></a>
+- t-002
+  teiginys: "Vaistininkas Renkielis perėmė vaistinę po Necelo mirties ir buvo laikomas gerai pasiruošusiu savo menui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Necelas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Renkielis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Necelas: mention_match, person, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Renkielis\" parinktas kaip owner_note_path. Targetas \"Necelas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83547
+
 ## Citatos
 
 - id: c-83547
@@ -77,41 +111,6 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-87568"></a>
-- t-001
-  teiginys: "Po Necelo mirties vaistininkas Renkielis perėmė vaistinę ir buvo laikomas gerai pasiruošusiu savo amato specialistu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Necelas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Renkielis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Necelas: mention_match, person, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Renkielis\" parinktas kaip owner_note_path. Targetas \"Necelas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83547
-
-<a id="claim-t-87569"></a>
-- t-002
-  teiginys: "Vaistininkas Renkielis perėmė vaistinę po Necelo mirties ir buvo laikomas gerai pasiruošusiu savo menui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Necelas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Renkielis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Necelas: mention_match, person, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Renkielis\" parinktas kaip owner_note_path. Targetas \"Necelas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83547
-

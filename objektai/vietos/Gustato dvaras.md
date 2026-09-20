@@ -37,6 +37,20 @@ Didžiojo kunigaikščio teismas nurodė grąžinti iš Gustato ir Pogosto dvar�
 
 Didžiojo kunigaikščio teismas nurodė grąžinti iš Gustato ir Pogosto dvarų išvestus valstiečius.
 
+## Teiginiai
+
+<a id="claim-t-203752"></a>
+- t-001
+  teiginys: "Didžiojo kunigaikščio teismas nurodė grąžinti iš Gustato ir Pogosto dvarų išvestus valstiečius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186356
+
 ## Citatos
 
 - id: c-186356
@@ -60,20 +74,5 @@ Didžiojo kunigaikščio teismas nurodė grąžinti iš Gustato ir Pogosto dvar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-203752"></a>
-- t-001
-  teiginys: "Didžiojo kunigaikščio teismas nurodė grąžinti iš Gustato ir Pogosto dvarų išvestus valstiečius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186356
-

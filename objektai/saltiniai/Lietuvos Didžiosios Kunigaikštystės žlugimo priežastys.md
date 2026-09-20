@@ -47,36 +47,3 @@ Juozas Jurginis, Lietuvos Didžiosios Kunigaikštystės žlugimo priežastys, Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Citatos
-
-- id: c-190982
-  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
-  puslapiai: "PDF 351"
-  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 351."
-  citata_originali: |
-    Juozas Jurginis, Lietuvos Didžiosios Kunigaikštystės žlugimo priežastys, Lietuvos istorijos me­
-    traštis, 1971 metai, Vilnius, 1971, p. 39-5).
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-208365"></a>
-- t-001
-  teiginys: "Juozas Jurginis, Lietuvos Didžiosios Kunigaikštystės žlugimo priežastys, Lietuvos istorijos me traštis, 1971 metai, Vilnius, 1971, p. 39-5)."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  pagrindžia:
-    - c-190982
-

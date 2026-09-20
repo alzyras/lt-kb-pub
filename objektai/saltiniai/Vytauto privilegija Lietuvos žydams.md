@@ -35,6 +35,25 @@ media_all_json: |-
 
 Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos Lindenblatt Jahrbücher, p. 147. Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi kokios naudos ar iš prekybos, ar iš praplėstų gyventojų teisių; numanu, be abejo, kad po Žemaičių perleidimo kryžiuočiams visus buvo apėmusi apatija, ir miestiečių gyvenimas, pirma buvęs.
 
+## Teiginiai
+
+<a id="claim-t-88357"></a>
+- t-001
+  teiginys: "Vytauto privilegija Lietuvos žydams vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Junginys „Lietuvos žydams“ tiesiogiai lokalizuoja žydų grupę Lietuvoje, nors teiginio pagrindas yra privilegija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Žydai gyveno Lietuva (0.72)"
+  pagrindžia:
+    - c-84336
+
 ## Citatos
 
 - id: c-84336
@@ -63,25 +82,5 @@ Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-88357"></a>
-- t-001
-  teiginys: "Vytauto privilegija Lietuvos žydams vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Junginys „Lietuvos žydams“ tiesiogiai lokalizuoja žydų grupę Lietuvoje, nors teiginio pagrindas yra privilegija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Žydai gyveno Lietuva (0.72)"
-  pagrindžia:
-    - c-84336
-

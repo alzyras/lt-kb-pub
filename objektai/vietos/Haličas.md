@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Haličas'
+pavadinimas: Haličas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1128 m.'
+  - 1128 m.
 date_start: '1128'
 date_end: ''
 sukurta: ''
@@ -16,28 +16,40 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XII'
+  - XII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f3e9a5343c6e4d67c5a9caf0"
-canonical_name: "Haličas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Haličas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f3e9a5343c6e4d67c5a9caf0
+canonical_name: Haličas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Haličas
 sameAs: []
-canonical_biography: "Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai. Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje. Gedimino ar Algirdo laikais Haličas buvo Lietuvos politinėje įtakoje."
+canonical_biography: 'Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai. Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje. Gedimino ar Algirdo laikais Haličas buvo Lietuvos politinėje įtakoje.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Haličas","url":"https://www.vle.lt/straipsnis/halicas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:58:26+00:00","source_checked_at":"2026-09-20T03:58:26+00:00","counts":{"relations":1,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Haličas","url":"https://www.vle.lt/straipsnis/halicas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/halicas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0f71ce49b79f821e5b5d0b22","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Buvo Lietuvos politinėje įtakoje Gedimino arba Algirdo laikais.","context":"Šaltinio autorių teiginys apie Haličo politinę padėtį Gedimino arba Algirdo valdymo laikais.","support_ids":["t-183593","c-166985"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183593","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166985","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung- tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe."}],"status":"published","conflict_status":"clear"},{"trait_id":"2a95c36e7592b8ec1930870e","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Rajoninis miestas, apie 90 km į pietus nuo Lvovo; XI–XII a. buvo svarbiausias Haličo kunigaikštystės miestas.","context":"Aprašymas pagal 1971 m. šaltinį; 1245 m. sostinė iš Haličo buvo perkelta į Cholmą.","support_ids":["t-210754","c-192992"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210754","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-192992","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Haličas — UTSR Stanislavo sr. rajoninis miestas (apie 90 km | pietus nuo Lvovo), XI—XII a. svarbiausias miestas Haličo kuni­ gaikštystės, kurią 1245 m. Danielius Romanovlčlus sujungė su Vo­ lynės kunigaikštyste j vieną valstybę ir sostinę iš Haličo perkėlė j Cholmą."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-35034","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1577fa4e43e0d985
+object_page_generated_at: '2026-09-20T03:58:26+00:00'
+object_page_source_checked_at: '2026-09-20T03:58:26+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Haličas: Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai. Haličas buvo tarp žemių, buvusių…'
+object_page_seo_input_hash: fdf7375765027f4e02b460cabbaf0740dee618bfa9bdb4494b418144dfa83e1d
+object_page_seo_generated_at: '2026-09-20T03:58:26+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Haličas
 
@@ -47,54 +59,10 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
 
 ## Teiginiai
 
-<a id="claim-t-210754"></a>
-- t-210754
-  teiginys: "Haličas buvo UTSR Stanislavo srities rajoninis miestas apie 90 km į pietus nuo Lvovo."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-192992
-
-<a id="claim-t-211582"></a>
-- t-211582
-  teiginys: "Vaišvilkas iškeliavo į Haličą pas Danielių ir Vasilką."
-  atnaujinta: "2026-09-12 20:03"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194037
-
-<a id="claim-t-211073"></a>
-- t-211073
-  teiginys: "Bychovco kronikoje pasakojama, kad Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu."
-  atnaujinta: "2026-09-12 20:03"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sunus -> Levas (Haličo kunigaikštis): 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Levas (Haličo kunigaikštis): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Fraze tiesiogiai nurodoma, kad Jurijus buvo Levo sūnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-194037
-
 <a id="claim-t-114291"></a>
-- t-114291
+- t-001
   teiginys: "Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilniaus gyventojai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -108,9 +76,9 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
     - c-105412
 
 <a id="claim-t-114292"></a>
-- t-114292
+- t-002
   teiginys: "Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -124,9 +92,9 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
     - c-24137
 
 <a id="claim-t-183593"></a>
-- t-183593
+- t-003
   teiginys: "Gedimino ar Algirdo laikais Haličas buvo Lietuvos politinėje įtakoje."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -141,6 +109,47 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166985
+
+<a id="claim-t-187577"></a>
+- t-004
+  teiginys: "Bychovco kronikoje pasakojama, kad Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sunus -> Levas (Haličo kunigaikštis): 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jurijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Levas (Haličo kunigaikštis): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Fraze tiesiogiai nurodoma, kad Jurijus buvo Levo sūnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-170525
+
+<a id="claim-t-192664"></a>
+- t-005
+  teiginys: "Po pergalės prie Drohičino kunigaikštis Vasilka daug belaisvių jotvingių pasiuntė į Haličą savo broliui."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Haličas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasilka: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Haličas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vasilka tiesiogiai pasiuntė belaisvius į Haličą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Vasilka siuntė į Haličas (0.93)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175434
 
 ## Reikšmingi paminėjimai
 - c-005
@@ -184,8 +193,8 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-114292
+  pagrindzia:
+    - t-002
 
 - id: c-105412
   autorius: "Michał Baliński"
@@ -219,8 +228,8 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-114291
+  pagrindzia:
+    - t-001
 
 - id: c-166985
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -240,8 +249,8 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183593
+  pagrindzia:
+    - t-003
 
 - id: c-170525
   autorius: "Anoniminis metraštininkas"
@@ -259,6 +268,8 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-175434
   autorius: "Teodoras Narbutas"
@@ -279,47 +290,8 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-192992
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 202."
-  citata_originali: |
-    Haličas — UTSR Stanislavo sr. rajoninis miestas (apie 90 km
-    | pietus nuo Lvovo), XI—XII a. svarbiausias miestas Haličo kuni­
-    gaikštystės, kurią 1245 m. Danielius Romanovlčlus sujungė su Vo­
-    lynės kunigaikštyste j vieną valstybę ir sostinę iš Haličo perkėlė
-    j Cholmą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210754
-
-- id: c-194037
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 51"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 51."
-  citata_originali: |
-    Pasikrikštijo
-    Naugarduke ir tapo krikščionimi.
-    Paskui Vaišvilkas iškeliavo į Haličąs pas Danielių,
-    pas kunigaikštį Vasilką, ketindamas tapti vienuoliu.
-    Tuokart Vaišvilkas ir pakrikštijo Levo sūnų Jurijų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 20:03"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211073
-    - t-211582
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vasilka]]

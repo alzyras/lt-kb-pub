@@ -42,6 +42,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-201294"></a>
+- t-001
+  teiginys: "Atkeliavęs vyskupas Rygos Albertas su kita dva siška diduomene į Lotaviją, Mintauto pilį, jį patį, jo žmoną ir 60 tėvūnų, arba senatorių, apkrikštijo metuose 1252, 7 dienoj rugpjūčio mėnesio."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184644
+
 ## Citatos
 
 - id: c-184644
@@ -64,20 +78,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201294"></a>
-- t-001
-  teiginys: "Atkeliavęs vyskupas Rygos Albertas su kita dva siška diduomene į Lotaviją, Mintauto pilį, jį patį, jo žmoną ir 60 tėvūnų, arba senatorių, apkrikštijo metuose 1252, 7 dienoj rugpjūčio mėnesio."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184644
-

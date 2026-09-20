@@ -58,6 +58,28 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
 - nuomininkas
 - prekeivis
 
+## Teiginiai
+
+<a id="claim-t-195265"></a>
+- t-001
+  teiginys: "Mikelio verslas buvo po aplinkinius kaimus nešioti silkes ir buiką."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177631
+
+<a id="claim-t-195266"></a>
+- t-002
+  teiginys: "Mikelis buvo žydas nuomininkas, turėjęs žmoną ir nemaža vaikų."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177632
+
 ## Citatos
 
 - id: c-177630
@@ -74,9 +96,6 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - id: c-177631
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -90,7 +109,7 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177632
@@ -106,38 +125,5 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-195265"></a>
-- t-001
-  teiginys: "Mikelio verslas buvo po aplinkinius kaimus nešioti silkes ir buiką."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177631
-
-<a id="claim-t-195266"></a>
-- t-002
-  teiginys: "Mikelis buvo žydas nuomininkas, turėjęs žmoną ir nemaža vaikų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177632
-
-<a id="claim-t-195267"></a>
-- t-003
-  teiginys: "Mikelio veikla pasakojime siejama su 1858 m. blaivybės metais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177630
-

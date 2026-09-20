@@ -29,6 +29,44 @@ media_all_json: |-
 
 Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, paėmęs karės padarynes pilės griaunamąsias, ėjo daugiaus nei su 10 000 kareivių į Mežotės pilį, baužęs visą naktį, ryto metą kariauną skurdino pamūšy, paskui sukos į papilį, kurį. Nudkrytis meldžionų padurbėj ir garsas kantry bės bei narsybės žemaičių aido j o ir plėtės į visas puses, plucindamas perkrikštus mesti vergybą vo kyčių nuo savęs. Tarp tų perkrikštų kariaunų turėjos vienos pi lis apgulusios, kitos kelius saugojo ir keliaujančius ar munkančius vokyčius kaustė žemyn ir grobį griejo.
 
+## Teiginiai
+
+<a id="claim-t-201200"></a>
+- t-001
+  teiginys: "Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, paėmęs karės padarynes pilės griaunamąsias, ėjo daugiaus nei su 10 000 kareivių į Mežotės pilį, baužęs visą naktį, ryto metą kariauną skurdino pamūšy, paskui sukos į papilį, kurį."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184550
+
+<a id="claim-t-201201"></a>
+- t-002
+  teiginys: "Nudkrytis meldžionų padurbėj ir garsas kantry bės bei narsybės žemaičių aido j o ir plėtės į visas puses, plucindamas perkrikštus mesti vergybą vo kyčių nuo savęs."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184551
+
+<a id="claim-t-201202"></a>
+- t-003
+  teiginys: "Tarp tų perkrikštų kariaunų turėjos vienos pi lis apgulusios, kitos kelius saugojo ir keliaujančius ar munkančius vokyčius kaustė žemyn ir grobį griejo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184552
+
 ## Citatos
 
 - id: c-184550
@@ -52,7 +90,7 @@ Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184551
@@ -75,7 +113,7 @@ Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184552
@@ -100,44 +138,5 @@ Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-201200"></a>
-- t-001
-  teiginys: "Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, paėmęs karės padarynes pilės griaunamąsias, ėjo daugiaus nei su 10 000 kareivių į Mežotės pilį, baužęs visą naktį, ryto metą kariauną skurdino pamūšy, paskui sukos į papilį, kurį."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184550
-
-<a id="claim-t-201201"></a>
-- t-002
-  teiginys: "Nudkrytis meldžionų padurbėj ir garsas kantry bės bei narsybės žemaičių aido j o ir plėtės į visas puses, plucindamas perkrikštus mesti vergybą vo kyčių nuo savęs."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184551
-
-<a id="claim-t-201202"></a>
-- t-003
-  teiginys: "Tarp tų perkrikštų kariaunų turėjos vienos pi lis apgulusios, kitos kelius saugojo ir keliaujančius ar munkančius vokyčius kaustė žemyn ir grobį griejo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184552
-

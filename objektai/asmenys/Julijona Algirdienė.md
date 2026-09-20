@@ -35,6 +35,34 @@ Teodoras Narbutas spėja, kad kunigaikštienė Julijona reikšmingai prisidėjo 
 
 Teodoras Narbutas spėja, kad kunigaikštienė Julijona reikšmingai prisidėjo prie Jogailos ir Vytauto susivienijimo. Teodoras Narbutas sieja Vytauto perėjimą į Rytų apeigų bažnyčią su Julijonos Algirdienės pastangomis ir nurodo, kad iš jos Vytautas gavo Lucką po susitaikymo su Jogaila.
 
+## Teiginiai
+
+<a id="claim-t-206990"></a>
+- t-001
+  teiginys: "Teodoras Narbutas spėja, kad kunigaikštienė Julijona reikšmingai prisidėjo prie Jogailos ir Vytauto susivienijimo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189605
+
+<a id="claim-t-206991"></a>
+- t-002
+  teiginys: "Teodoras Narbutas sieja Vytauto perėjimą į Rytų apeigų bažnyčią su Julijonos Algirdienės pastangomis ir nurodo, kad iš jos Vytautas gavo Lucką po susitaikymo su Jogaila."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189606
+
 ## Citatos
 
 - id: c-189605
@@ -53,7 +81,7 @@ Teodoras Narbutas spėja, kad kunigaikštienė Julijona reikšmingai prisidėjo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189606
@@ -75,34 +103,5 @@ Teodoras Narbutas spėja, kad kunigaikštienė Julijona reikšmingai prisidėjo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-206990"></a>
-- t-001
-  teiginys: "Teodoras Narbutas spėja, kad kunigaikštienė Julijona reikšmingai prisidėjo prie Jogailos ir Vytauto susivienijimo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189605
-
-<a id="claim-t-206991"></a>
-- t-002
-  teiginys: "Teodoras Narbutas sieja Vytauto perėjimą į Rytų apeigų bažnyčią su Julijonos Algirdienės pastangomis ir nurodo, kad iš jos Vytautas gavo Lucką po susitaikymo su Jogaila."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189606
-

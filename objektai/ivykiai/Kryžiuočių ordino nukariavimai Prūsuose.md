@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kryžiuočių ordino nukariavimai Prūsuose'
+pavadinimas: Kryžiuočių ordino nukariavimai Prūsuose
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 sukurta: ''
@@ -15,12 +15,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T07:34:35+00:00","source_checked_at":"2026-09-20T07:34:35+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3a2a86d4896d4c6a005a506b","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Kryžiuočių ordinas, kariaudamas, palengva stūmėsi vis giliau į rytus ir į šiaurę; statė pilis, kurios virsdavo naujos valstybės apygardų administraciniais centrais, o apie jas kūrė iš Vokietijos atkviestus kolonistus.","context":"A. Šapokos (red.) 1936 m. veikale autoriaus aprašoma Kryžiuočių ordino veikla aisčių žemėse; kolonistai įvardijami kaip pirmieji vokietybės daigai šiose žemėse.","support_ids":["t-66646","c-66843"],"source_refs":[{"kind":"internal_claim","claim_id":"t-66646","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-66843","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tokiuo būdu kariaudamas, jis palengva stūmėsi vis gilyn į rytus ir į šiaurę. Kryžiuočių statomos pilys virsdavo naujos valstybės apygardų administraciniais centrais. Apie pilis buvo kurdinami iš Vokietijos atkviesti kolonistai. Jie buvo pirmieji vokietybės daigai šiose aisčių žemėse."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 2337654a9a33ae69
+object_page_generated_at: '2026-09-20T07:34:35+00:00'
+object_page_source_checked_at: '2026-09-20T07:34:35+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Kryžiuočių ordino nukariavimai Prūsuose: ordinas savo įstatuose tu- rėjo įsirašęs pareigą nuolat kariauti su Kristaus vardo priešais (jam net buvo draudžiama…'
+object_page_seo_input_hash: d1e11117c030472fc39aab8f737bfd10d44c196666ca01f584e81971f674461a
+object_page_seo_generated_at: '2026-09-20T07:34:35+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kryžiuočių ordino nukariavimai Prūsuose
 
@@ -44,6 +54,64 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-66643"></a>
+- t-001
+  teiginys: "Be riterių, Kryžiuočių ordinas turėjo paprastų kareivių, o popiežiaus skelbiami kryžiaus karai pritraukdavo ordinui karių iš Vakarų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-66845
+
+<a id="claim-t-66644"></a>
+- t-002
+  teiginys: "Kryžiuočių ordinas į aisčių kraštą atsinešė Palestinoje naudotą kariavimo būdą ir 1231 m. pradėjo pulti aisčių gentis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66840
+
+<a id="claim-t-66646"></a>
+- t-003
+  teiginys: "Kryžiuočių ordinas stūmėsi į rytus ir šiaurę, statė pilis kaip administracinius centrus ir apie jas kūrė iš Vokietijos atkviestus kolonistus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66843
+
+<a id="claim-t-66647"></a>
+- t-004
+  teiginys: "Kryžiuočių ordino nukariavimuose kartu su karine ekspansija plito krikščionybė: buvo statomos bažnyčios ir vienuolynai, o prūsai krikštijami per prievartą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66841
+
+<a id="claim-t-66648"></a>
+- t-005
+  teiginys: "Vyskupui Kristijonui patekus į prūsų nelaisvę, ordinas pasirūpino, kad imperatorius ir popiežius pripažintų jam nukariaujamus Prūsų kraštus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66844
+
+<a id="claim-t-66649"></a>
+- t-006
+  teiginys: "Vyskupui grįžus iš nelaisvės, Kryžiuočių ordinas jau valdė kraštą ir sutiko vyskupams užleisti trečdalį savo žemių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-66839
+
 ## Citatos
 
 - id: c-66839
@@ -64,7 +132,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-66840
@@ -85,7 +153,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-66841
@@ -107,7 +175,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-66843
@@ -126,7 +194,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-66844
@@ -147,7 +215,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-66845
@@ -167,64 +235,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-66643"></a>
-- t-001
-  teiginys: "Be riterių, Kryžiuočių ordinas turėjo paprastų kareivių, o popiežiaus skelbiami kryžiaus karai pritraukdavo ordinui karių iš Vakarų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-66845
-
-<a id="claim-t-66644"></a>
-- t-002
-  teiginys: "Kryžiuočių ordinas į aisčių kraštą atsinešė Palestinoje naudotą kariavimo būdą ir 1231 m. pradėjo pulti aisčių gentis."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66840
-
-<a id="claim-t-66646"></a>
-- t-003
-  teiginys: "Kryžiuočių ordinas stūmėsi į rytus ir šiaurę, statė pilis kaip administracinius centrus ir apie jas kūrė iš Vokietijos atkviestus kolonistus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66843
-
-<a id="claim-t-66647"></a>
-- t-004
-  teiginys: "Kryžiuočių ordino nukariavimuose kartu su karine ekspansija plito krikščionybė: buvo statomos bažnyčios ir vienuolynai, o prūsai krikštijami per prievartą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66841
-
-<a id="claim-t-66648"></a>
-- t-005
-  teiginys: "Vyskupui Kristijonui patekus į prūsų nelaisvę, ordinas pasirūpino, kad imperatorius ir popiežius pripažintų jam nukariaujamus Prūsų kraštus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66844
-
-<a id="claim-t-66649"></a>
-- t-006
-  teiginys: "Vyskupui grįžus iš nelaisvės, Kryžiuočių ordinas jau valdė kraštą ir sutiko vyskupams užleisti trečdalį savo žemių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-66839
-

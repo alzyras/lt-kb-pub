@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Anastazas Vasiliauskas'
+pavadinimas: Anastazas Vasiliauskas
 saltiniai:
-  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6489bc8f8e597503594edca5"
-canonical_name: "Anastazas Vasiliauskas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Anastazas Vasiliauskas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6489bc8f8e597503594edca5
+canonical_name: Anastazas Vasiliauskas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Anastazas Vasiliauskas
 sameAs: []
-canonical_biography: "Ten randame Anastazo Vasiliaus ko pasakojimą, iš kurio aiškėja, kad vysk."
+canonical_biography: 'Ten randame Anastazo Vasiliaus ko pasakojimą, iš kurio aiškėja, kad vysk.'
 ---
 # Anastazas Vasiliauskas
 

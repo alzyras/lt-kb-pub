@@ -27,6 +27,17 @@ media_all_json: |-
 
 Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfederacija: lietuva ir Lenkija visada turėjo atskiras kariuomenes, vadovaujamas savų hetmonų. Jas išlai- kydavo kiekviena valstybė pati iš savo pajamų ir mokesčių. Kiekvienos valstybės kariuomenė nuolat stovė- jo tik savo valstybėje; kitai valstybei į pagalbą ji ga-.
 
+## Teiginiai
+
+<a id="claim-t-70169"></a>
+- t-001
+  teiginys: "Kai kariuomenei nemokėdavo algos, jos atsisakymas klausyti vadų ir plėšikavimas iki algos gavimo vadinosi kariuomenės konfederacija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69252
+
 ## Citatos
 
 - id: c-69252
@@ -49,17 +60,5 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-70169"></a>
-- t-001
-  teiginys: "Kai kariuomenei nemokėdavo algos, jos atsisakymas klausyti vadų ir plėšikavimas iki algos gavimo vadinosi kariuomenės konfederacija."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69252
-

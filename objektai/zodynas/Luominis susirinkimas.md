@@ -28,6 +28,20 @@ Parčevo suvažiavimo nesėkmė nesustabdė luominio susirinkimo modelio populia
 
 Parčevo suvažiavimo nesėkmė nesustabdė luominio susirinkimo modelio populiarėjimo Lietuvoje.
 
+## Teiginiai
+
+<a id="claim-t-204366"></a>
+- t-001
+  teiginys: "Parčevo suvažiavimo nesėkmė nesustabdė luominio susirinkimo modelio populiarėjimo Lietuvoje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-186970
+
 ## Citatos
 
 - id: c-186970
@@ -51,20 +65,5 @@ Parčevo suvažiavimo nesėkmė nesustabdė luominio susirinkimo modelio populia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-204366"></a>
-- t-001
-  teiginys: "Parčevo suvažiavimo nesėkmė nesustabdė luominio susirinkimo modelio populiarėjimo Lietuvoje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  pagrindžia:
-    - c-186970
-

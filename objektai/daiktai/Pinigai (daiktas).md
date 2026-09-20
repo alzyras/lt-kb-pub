@@ -1,13 +1,13 @@
 ---
 tipas: daiktas
-pavadinimas: 'Pinigai (daiktas)'
-identifikacija: 'daiktas'
+pavadinimas: Pinigai (daiktas)
+identifikacija: daiktas
 variantai:
-  - 'Pinigai'
+  - Pinigai
 aliases:
-  - 'Pinigai'
+  - Pinigai
 saltiniai:
-  - 'Bartuska Kelione Lietuvon 1916 kares metais'
+  - Bartuska Kelione Lietuvon 1916 kares metais
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Pinigai (daiktas)
 
@@ -81,6 +78,5 @@ Jeigu kas nors iš lietuvių gyvenančių Ame rikoje panorėtų sušelpti savo g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -75,22 +75,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-207941"></a>
-- t-207941
-  teiginys: "E. Pilgrimovijus aprašė Maskvos Kremliaus gyvenimą."
-  atnaujinta: "2026-09-08 15:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190419
-
 <a id="claim-t-46783"></a>
-- t-46783
+- t-001
   teiginys: "Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -129,28 +117,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-46783
-
-- id: c-190419
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 226"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 226."
-  citata_originali: |
-    1600-1601 m. E. Pilgrimovijus važiavo su Didžiąja Abiejų Tautų Respublikos
-    pasiuntinybe į Maskvą vesti derybų dėl „amžinosios taikos" sudarymo. Grižęs proza ir
-    eilėmis to meto Lietuvos Didžiosios Kunigaikštystės lenkų kalba vaizdingai aprašė
-    sudėtingų derybų eigą ir kasdienį diplomatų gyvenimą Maskvoje, pateikė valdovo Bo-
-    riso Godunovo laikų Maskvos Kremliaus, diplomatinio Rusijos ceremonialo ap-
-    rašymus.
-  citata_rodoma: "Grižęs proza ir\neilėmis to meto Lietuvos Didžiosios Kunigaikštystės lenkų kalba vaizdingai aprašė\nsudėtingų derybų eigą ir kasdienį diplomatų gyvenimą Maskvoje, pateikė valdovo Bo-\nriso Godunovo laikų Maskvos Kremliaus, diplomatinio Rusijos ceremonialo ap-\nrašymus."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207941
-
+  pagrindzia:
+    - t-001

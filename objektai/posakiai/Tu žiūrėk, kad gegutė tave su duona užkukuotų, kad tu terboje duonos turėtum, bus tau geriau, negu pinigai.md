@@ -45,6 +45,18 @@ Tai pamokomoji formulė, iškelianti duoną aukščiau už pinigus. Vartojimo ko
 
 Pamokomoji formulė, iškelianti duoną aukščiau už pinigus.
 
+## Teiginiai
+
+<a id="claim-t-195427"></a>
+- t-001
+  teiginys: "Šeimininkas linki, kad gegutė užkukuotų su duona, nes ji geresnė už pinigus."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177848
+
 ## Citatos
 
 - id: c-177848
@@ -65,18 +77,5 @@ Pamokomoji formulė, iškelianti duoną aukščiau už pinigus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195427"></a>
-- t-001
-  teiginys: "Šeimininkas linki, kad gegutė užkukuotų su duona, nes ji geresnė už pinigus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177848
-

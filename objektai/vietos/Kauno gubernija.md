@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Kauno gubernija'
+pavadinimas: Kauno gubernija
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1843 m.'
-  - '1917 m.'
-  - '2026 m.'
+  - 1843 m.
+  - 1917 m.
+  - 2026 m.
 date_start: '1843'
 date_end: '2026'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - vieta
   - regionas
 amziai:
-  - 'XIX'
-  - 'XXI'
+  - XIX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b5530e89dd373fecf2511238"
-canonical_name: "Kauno gubernija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kauno gubernija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b5530e89dd373fecf2511238
+canonical_name: Kauno gubernija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kauno gubernija
 sameAs: []
-canonical_biography: "Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117."
+canonical_biography: Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Kauno gubernija","url":"https://lt.wikipedia.org/wiki/Kauno_gubernija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Kauno Gubernija","url":"https://www.vle.lt/straipsnis/kauno-gubernija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T13:31:20+00:00","source_checked_at":"2026-09-19T13:31:20+00:00","counts":{"relations":4,"gallery":0,"sources":7},"featured_claim_ids":["t-183026","t-208551","t-170421","t-209277","t-170422","t-208550","t-208553"],"featured_claims":[{"claim_id":"t-183026","text":"Vien Kauno gubernijoje kariuomenės egzekucijų prieš valstiečius buvo surengta 117.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-24170"]},{"claim_id":"t-208551","text":"Rusijos carui Nikolajui I valdant, Kauno gubernijoje uždaryti 29 vienuolynai, trys katalikų bažnyčios paverstos stačiatikių cerkvėmis, uždarytos katalikiškos mokyklos ir iš bažnyčių atimti turtai.","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","evidence_ids":["c-191171"]},{"claim_id":"t-170421","text":"Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-155075"]},{"claim_id":"t-209277","text":"Kauno gubernijos valstiečiai visiškai atsisakė degtinės vartojimo.","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md","evidence_ids":["c-191956"]},{"claim_id":"t-170422","text":"Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-155074"]},{"claim_id":"t-208550","text":"Valančiaus laikais Žemaičių vyskupijos te ritorija priklausė Rusijos imperijai, Kauno gubernijai (iš skyrus Kuršo ir Žiemgalių dekanatus, kurie priklausė Kuršo gubernijai).","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","evidence_ids":["c-191170"]},{"claim_id":"t-208553","text":"1860 m. rugsėjo 1 d. Ministrų tarybos posėdyje svarstyta Kauno gubernijos finansinė būklė, kurią Petras Puzaras apibūdina kaip kritišką.","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","evidence_ids":["c-191173"]}],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Kauno gubernija","url":"https://lt.wikipedia.org/wiki/Kauno_gubernija","publisher":"Vikipedija","language":"lt","article_id":"21738","revision_id":"7693926","published_at":"2025-11-15T11:07:12Z","version_pk":"","content_hash":"b16a848f1995010e92857ea7e81c32424b3ad98f582fcc068d6eec423a00febd","retrieved_at":"2026-09-19T13:28:57+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Kauno_gubernija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"21738"}},"intro":"Kauno gubernija (rus. Ковенская губеpния) – Rusijos imperijos administracinis-teritorinis vienetas 1843–1915 m. Centras – Kaunas. Buvo dabartinės Lietuvos centrinėje, vakarinėje ir šiaurinėje dalyje bei Baltarusijos šiaurės vakariniame pakraštyje. Gubernija įėjo į Vilniaus generalgubernatoriją. Plotas 38 400 km². Priklausė Rusijos imperijos nepramoninėms gubernijoms, žemės ūkio lygiu buvo viena pirmaujančių, gyventojai – vieni raštingiausių (1897 m. 55,3 proc.).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Kauno gubernija","url":"https://lt.wikipedia.org/wiki/Kauno_gubernija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Kauno Gubernija","url":"https://www.vle.lt/straipsnis/kauno-gubernija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kauno_gubernija","https://www.vle.lt/straipsnis/kauno-gubernija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"81471d3a3eaa69fc6eea6bb3","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"1843 m. Kauno gubernija sudaryta iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies apskričių.","context":"Pagal Lietuvos istorijos autorius; 1843 m. administracinės pertvarkos kontekstas.","support_ids":["t-170423","c-155076"],"source_refs":[{"kind":"internal_claim","claim_id":"t-170423","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-155076","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"antrojoje pusėje, jį sustabdys atsiradę autoritetingi etninių lie- tuvių tautinio sąjūdžio veikėjai, daugiausia kunigai. 1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri- skirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni- joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu- berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7f376dc4a595ea1ab8b88db0","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Caro valdžia Kauno guberniją laikė etnografiškai lietuviška.","context":"Šaltinio autorių aprašomas caro valdžios vertinimas po 1843 m. administracinės pertvarkos.","support_ids":["t-170423","c-155076"],"source_refs":[{"kind":"internal_claim","claim_id":"t-170423","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-155076","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"antrojoje pusėje, jį sustabdys atsiradę autoritetingi etninių lie- tuvių tautinio sąjūdžio veikėjai, daugiausia kunigai. 1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri- skirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni- joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu- berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c2ea98c965f74f22d1150ba5","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Kauno gubernija 1917 m. buvo įtraukta į etnografinės Lietuvos teritorijos projektą.","context":"1917 m. Berno konferencijos ir etnografinio teritorijos formavimo principo kontekstas.","support_ids":["t-170425","c-155071"],"source_refs":[{"kind":"internal_claim","claim_id":"t-170425","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-155071","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Sme- tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais). Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si- tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4cf5fe9c8c355457fcb36ea5","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Kauno gubernijos žemės buvo laikomos lietuviškomis ir į jas pretendavo lietuviai.","context":"Lietuvos istorijos autorių aprašomas teritorinių klausimų sprendimo ir Lietuvos teritorinių pretenzijų kontekstas.","support_ids":["t-170422","c-155074"],"source_refs":[{"kind":"internal_claim","claim_id":"t-170422","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-155074","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Teritoriniai klausimai taip pat buvo sprendžiami palankiai. Lietuviai pre- tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi- no gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija, A."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"de23cd5033d5b524028fab01","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Kauno gubernijoje buvo 29 vienuolynai, trys katalikų bažnyčios, katalikiškos mokyklos ir bažnyčių turtas; valdant carui Nikolajui I vienuolynai ir mokyklos buvo uždaryti, o trys bažnyčios paverstos stačiatikių cerkvėmis.","context":"Petras Puzaras taip aprašo padėtį valdant Rusijos carui Nikolajui I.","support_ids":["t-208551","c-191171"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208551","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"evidence","evidence_id":"c-191171","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Valdant Rusiją carui Nikolajui I, Kauno gubernijoje buvo uždaryti dvidešimt devyni vienuolynai, trys kata­ likų bažnyčios paverstos stačiatikių cerkvėmis, uždarytos katalikiškos mokyklos, atimti iš bažnyčių turtai, palie­ kant mažas algas ir po žemės sklypelį tik vyskupui, ka­ nauninkams, vienuolynams, seminarijai ir klebonams5."}],"status":"published","conflict_status":"clear"},{"trait_id":"82f909d6e716984878f5d24b","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Kauno gubernijos teritorija, išskyrus Kuršo ir Žiemgalių dekanatus, priklausė Žemaičių vyskupijai.","context":"Petro Puzaro aprašymas Valančiaus laikų administracinės ir bažnytinės priklausomybės kontekste.","support_ids":["t-208550","c-191170"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208550","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"evidence","evidence_id":"c-191170","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Vysk. M. Valančiaus laikais Žemaičių vyskupijos te­ ritorija priklausė Rusijos imperijai, Kauno gubernijai (iš­ skyrus Kuršo ir Žiemgalių dekanatus, kurie priklausė Kuršo gubernijai). Kauno gubernatorius buvo pavaldus Vilniaus generalgubernatoriui, o Kuršo gubernatorius — Rygos generalgubernatoriui."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Kauno gubernija buvo Rusijos imperijos administracinė teritorija, apėmusi didžiąją Žemaičių vyskupijos teritoriją, išskyrus Kuršo ir Žiemgalių dekanatus. Valančiaus laikais ji priklausė Rusijos imperijai, o jos gubernatorius buvo pavaldus Vilniaus generalgubernatoriui. XIX amžiuje gubernija tapo svarbia politinių, religinių ir socialinių įtampų erdve: valdant carui Nikolajui I čia uždaryti 29 vienuolynai, trys katalikų bažnyčios paverstos stačiatikių cerkvėmis, uždarytos katalikiškos mokyklos ir nusavintas bažnyčių turtas. Nepaisant sudėtingos padėties, visų gyventojų raštingumo rodikliai buvo išskirtiniai – moterų raštingumas siekė 55, vyrų 52 procentus, o valstiečiai, pasak šaltinio, visiškai atsisakė degtinės. 1860 metais jos finansinė būklė buvo apibūdinta kaip kritiška.","sentences":[{"sentence_id":"s1","text":"Kauno gubernija buvo Rusijos imperijos administracinė teritorija, apėmusi didžiąją Žemaičių vyskupijos teritoriją, išskyrus Kuršo ir Žiemgalių dekanatus.","support_ids":["t-208550","c-191170"]},{"sentence_id":"s2","text":"Valančiaus laikais ji priklausė Rusijos imperijai, o jos gubernatorius buvo pavaldus Vilniaus generalgubernatoriui.","support_ids":["t-208550","c-191170"]},{"sentence_id":"s3","text":"XIX amžiuje gubernija tapo svarbia politinių, religinių ir socialinių įtampų erdve: valdant carui Nikolajui I čia uždaryti 29 vienuolynai, trys katalikų bažnyčios paverstos stačiatikių cerkvėmis, uždarytos katalikiškos mokyklos ir nusavintas bažnyčių turtas.","support_ids":["t-208551","c-191171"]},{"sentence_id":"s4","text":"Nepaisant sudėtingos padėties, visų gyventojų raštingumo rodikliai buvo išskirtiniai – moterų raštingumas siekė 55, vyrų 52 procentus, o valstiečiai, pasak šaltinio, visiškai atsisakė degtinės.","support_ids":["t-170421","c-155075","t-209277","c-191956"]},{"sentence_id":"s5","text":"1860 metais jos finansinė būklė buvo apibūdinta kaip kritiška.","support_ids":["t-208553","c-191173"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniu: Žemaičių vyskupijos teritorija priklausė Kauno gubernijai, išskyrus Kuršo ir Žiemgalių dekanatus."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai nurodyta, kad teritorija priklausė Rusijos imperijai, o Kauno gubernatorius buvo pavaldus Vilniaus generalgubernatoriui."},{"sentence_id":"s3","supported":false,"reason":"Konkretūs represijų faktai paremti, tačiau teiginys apie guberniją kaip svarbią politinių, religinių ir socialinių įtampų erdvę tiesiogiai nepatvirtintas nurodytais šaltiniais."},{"sentence_id":"s4","supported":true,"reason":"Raštingumo rodikliai ir valstiečių visiškas degtinės vartojimo atsisakymas tiesiogiai paremti nurodytais šaltiniais; frazė „pasak šaltinio“ tinkamai atriboja pastarąjį teiginį."},{"sentence_id":"s5","supported":true,"reason":"Tiesiogiai paremta šaltiniu, kuriame 1860 m. rugsėjo 1 d. Kauno gubernijos finansinė būklė apibūdinta kaip kritiška."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-208550","c-191170"]},{"sentence_id":"s2","supported":true,"support_ids":["t-208550","c-191170"]},{"sentence_id":"s3","supported":true,"support_ids":["t-208551","c-191171"]},{"sentence_id":"s4","supported":true,"support_ids":["t-170421","c-155075","t-209277","c-191956"]},{"sentence_id":"s5","supported":true,"support_ids":["t-208553","c-191173"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-170425","confidence":0.76},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Rusija","claim_id":"t-170422","confidence":0.82},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-170423","confidence":0.64},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-170422","confidence":0.6}],"timeline":[{"date":"1843 m.","label":"1843 m.","claimId":"t-170423"},{"date":"1860 m.","label":"1860 m.","claimId":"t-208553"},{"date":"1917 m.","label":"1917 m.","claimId":"t-170425"}],"support_disclosure":{"claims":10,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 7ab0dcdd7f319380
+object_page_generated_at: '2026-09-19T13:31:20+00:00'
+object_page_source_checked_at: '2026-09-19T13:31:20+00:00'
+object_page_content_state: content
+object_page_claim_count: '10'
+object_page_source_count: '5'
+object_page_seo_description: 'Kauno gubernija buvo Rusijos imperijos administracinė teritorija, apėmusi didžiąją Žemaičių vyskupijos teritoriją, išskyrus Kuršo ir Žiemgalių dekanatus.…'
+object_page_seo_input_hash: a122d027156545864d9f7b638928ca0ca671193b4e932f578db05a8b120bca34
+object_page_seo_generated_at: '2026-09-19T13:31:20+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kauno gubernija
 
@@ -49,86 +61,10 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 
 ## Teiginiai
 
-<a id="claim-t-208550"></a>
-- t-208550
-  teiginys: "Valančiaus laikais Žemaičių vyskupijos te ritorija priklausė Rusijos imperijai, Kauno gubernijai (iš skyrus Kuršo ir Žiemgalių dekanatus, kurie priklausė Kuršo gubernijai)."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-191170
-
-<a id="claim-t-208551"></a>
-- t-208551
-  teiginys: "Rusijos carui Nikolajui I valdant, Kauno gubernijoje uždaryti 29 vienuolynai, trys katalikų bažnyčios paverstos stačiatikių cerkvėmis, uždarytos katalikiškos mokyklos ir iš bažnyčių atimti turtai."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
-  pagrindžia:
-    - c-191171
-
-<a id="claim-t-208553"></a>
-- t-208553
-  teiginys: "1860 m. rugsėjo 1 d. Ministrų tarybos posėdyje svarstyta Kauno gubernijos finansinė būklė, kurią Petras Puzaras apibūdina kaip kritišką."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
-  pagrindžia:
-    - c-191173
-
-<a id="claim-t-209277"></a>
-- t-209277
-  teiginys: "Kauno gubernijos valstiečiai visiškai atsisakė degtinės vartojimo."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-191956
-
-<a id="claim-t-209474"></a>
-- t-209474
-  teiginys: "Vilniaus, Kauno ir Gardino gubernijose."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
-  pagrindžia:
-    - c-192094
-
-<a id="claim-t-209625"></a>
-- t-209625
-  teiginys: "Smetoną Vilniaus ir Suvalkų gubernijoj, o p. Banaitį Kaimo gub."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192245
-
 <a id="claim-t-170421"></a>
-- t-170421
+- t-001
   teiginys: "Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -142,9 +78,9 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     - c-155075
 
 <a id="claim-t-170422"></a>
-- t-170422
+- t-002
   teiginys: "Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Rusija: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -159,9 +95,9 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     - c-155074
 
 <a id="claim-t-170423"></a>
-- t-170423
+- t-003
   teiginys: "1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Vilnius: 0.64"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -179,9 +115,9 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     - c-155076
 
 <a id="claim-t-170425"></a>
-- t-170425
+- t-004
   teiginys: "1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuva: 0.76"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -199,9 +135,9 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     - c-155071
 
 <a id="claim-t-183026"></a>
-- t-183026
+- t-005
   teiginys: "Vien Kauno gubernijoje kariuomenės egzekucijų prieš valstiečius buvo surengta 117."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -252,8 +188,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183026
+  pagrindzia:
+    - t-005
 
 - id: c-155071
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -278,8 +214,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-170425
+  pagrindzia:
+    - t-004
 
 - id: c-155074
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -299,8 +235,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-170422
+  pagrindzia:
+    - t-002
 
 - id: c-155075
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -320,8 +256,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-170421
+  pagrindzia:
+    - t-001
 
 - id: c-155076
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -346,144 +282,5 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-170423
-
-- id: c-191170
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 16"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 16."
-  citata_originali: |
-    Katalikų bažnyčios veiklos sąlygos
-    Žemaičių vyskupijoje 1850—1875 m.
-    Vysk. M. Valančiaus laikais Žemaičių vyskupijos te­
-    ritorija priklausė Rusijos imperijai, Kauno gubernijai (iš­
-    skyrus Kuršo ir Žiemgalių dekanatus, kurie priklausė
-    Kuršo gubernijai). Kauno gubernatorius buvo pavaldus
-    Vilniaus generalgubernatoriui, o Kuršo gubernatorius —
-    Rygos generalgubernatoriui.
-  citata_rodoma: "Vysk. M. Valančiaus laikais Žemaičių vyskupijos te­\nritorija priklausė Rusijos imperijai, Kauno gubernijai (iš­\nskyrus Kuršo ir Žiemgalių dekanatus, kurie priklausė \nKuršo gubernijai). Kauno gubernatorius buvo pavaldus \nVilniaus generalgubernatoriui, o Kuršo gubernatorius — \nRygos generalgubernatoriui."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208550
-
-- id: c-191171
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 16"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 16."
-  citata_originali: |
-    Valdant Rusiją carui Nikolajui I, Kauno gubernijoje
-    buvo uždaryti dvidešimt devyni vienuolynai, trys kata­
-    likų bažnyčios paverstos stačiatikių cerkvėmis, uždarytos
-    katalikiškos mokyklos, atimti iš bažnyčių turtai, palie­
-    kant mažas algas ir po žemės sklypelį tik vyskupui, ka­
-    nauninkams, vienuolynams, seminarijai ir klebonams5.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208551
-
-- id: c-191173
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 138"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 138."
-  citata_originali: |
-    Antai 1860.IX.1 ministrų tarybos posėdyje buvo svarsto­
-    ma kritiška Kauno gubernijos finansinė būklė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208553
-
-- id: c-191956
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 76"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 76."
-  citata_originali: |
-    Todėl M. Valančiaus
-    parengto
-    laikraščio
-    prospekto
-    pirmumo
-    teisės
-    negali
-    būti
-    kvestionuojamos.
-    1859 m. kruopščiai parengtas savaitraščio "Pakeleivingas"
-    projektas buvo nusiųstas Vilniaus generalgubernatoriui V. Nazimovui,
-    o vasario 21 d. tie patys popieriai adresuoti ir vidaus reikalų ministrui
-    Lanskojui. "Be abejonės, Jūsų Prakilnybei yra žinoma, kad Kauno
-    gubernijos valstiečiai visiškai atsisakė nuo degtinės vartojimo, - rašo
-    savo laiške generalgubernatoriui M. Valančius.
-  citata_rodoma: "Be abejonės, Jūsų Prakilnybei yra žinoma, kad Kauno \ngubernijos valstiečiai visiškai atsisakė nuo degtinės vartojimo, - rašo \nsavo laiške generalgubernatoriui M. Valančius."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209277
-
-- id: c-192094
-  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
-  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
-  puslapiai: "PDF 54"
-  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 54."
-  citata_originali: |
-    Caras Aleksandras II 1857. XI. 20 reskriptu krei­
-    pėsi į Vilniaus generalgubernatorių V. Nazimovą, leis­
-    damas Vilniaus, Kauno ir Gardino gubernijose sudalyti
-    vietos bajorų dvarininkų komitetus valstiečių reformos
-    projektams nagrinėti.
-  citata_rodoma: "Vilniaus, Kauno ir Gardino gubernijose"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209474
-
-- id: c-192245
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 52"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 52."
-  citata_originali: |
-    In-
-    galiojome p. A. Smetoną Vilniaus ir Suvalkų
-    gubernijoj,
-    o p. Banaitį
-    Kaimo gub.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209625
-
+  pagrindzia:
+    - t-003

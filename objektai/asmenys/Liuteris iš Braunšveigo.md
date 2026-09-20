@@ -43,6 +43,40 @@ canonical_biography: "Dusburgietis teigia, kad versti jis pradėjo dar didžiojo
 
 Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas.
 
+## Teiginiai
+
+<a id="claim-t-60380"></a>
+- t-001
+  teiginys: "Liuterio iš Braunšveigo valdymo laikais Mikalojus iš Jerošino pradėjo versti Dusburgiečio kroniką į vokiečių kalbą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mikalojus iš Jerošino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liuteris iš Braunšveigo: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mikalojus iš Jerošino: mention_match, person, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liuteris iš Braunšveigo\" parinktas kaip owner_note_path. Targetas \"Mikalojus iš Jerošino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1335 m.; įvykio data: 1340 m.; įvykio data: apie 1340 m.; įvykio data: 1341 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys apie Liuterį pateiktas per neaiškų įvardį; citata remia aiškesnį sakinį."
+  pagrindžia:
+    - c-61012
+
+<a id="claim-t-205701"></a>
+- t-002
+  teiginys: "Teodoras Narbutas nurodo, kad po Vernerio mirties kryžiuočiai Liuterį iš Braunšveigo išrinko didžiuoju magistru."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188316
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Liuterio iš Braunšveigo valdymo laikais Mikalojus iš Jerošino pradėjo versti Dusburgiečio kroniką į vokiečių kalbą.'
@@ -74,6 +108,8 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-188316
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -92,21 +128,5 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-205701"></a>
-- t-001
-  teiginys: "Teodoras Narbutas nurodo, kad po Vernerio mirties kryžiuočiai Liuterį iš Braunšveigo išrinko didžiuoju magistru."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-188316
-
+  pagrindzia:
+    - t-002

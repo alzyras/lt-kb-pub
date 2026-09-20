@@ -39,6 +39,29 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-191050"></a>
+- t-001
+  teiginys: "Odoakro brolis Onulfas, vadovaudamas herulams, privertė Frederiką trauktis į Meziją, o po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Italija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo herulų perkėlimą į Italiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Herulai keliavo į Italija (0.86); Herulai gyveno Norikas (0.68)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-173932
+
 ## Citatos
 
 - id: c-173932
@@ -64,54 +87,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196948
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 319"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319."
-  citata_originali: |
-    Nuolatiniai skundai ir ap­
-    maudas lėmė žygį Odoakro brolio Onulfo, kuris, vado­
-    vavęs herulams, antrąkart privertė Frederiką pasitraukti
-    iš krašto, šįsyk į Meziją, kur valdė Teodorikas; jie abu
-    šiek tiek giminiavosi1. Po šios pergalės, norėdamas vi­
-    siškai apsaugoti herulus ir senus Noriko gyventojus nuo
-    visokios piktų ir nedraugiškų rugių įtakos, visų pasiten­
-    kinimui, perkėlė juos į Italiją. Bet rugiai, užuot buvę dė­
-    kingi už tai, kad vien jiems liko derlingas kraštas, supy­
-    ko ant Odoakro, nes jis atėmė jų belaisvius ir turtą; jis
-    stengėsi senus Noriko romėnų kolonistus ir kitus su jais
-    nesigiminiavusius gyventojus paversti vergais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-212730"></a>
-- t-001
-  teiginys: "Odoakro brolis Onulfas, vadovaudamas herulams, privertė Frederiką trauktis į Meziją, o po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Italija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo herulų perkėlimą į Italiją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Herulai keliavo į Italija (0.86); Herulai gyveno Norikas (0.68)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-196948
-

@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Zitomiras (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Zitomiras (vieta)
+identifikacija: vieta
 variantai:
-  - 'Zitomiras'
+  - Zitomiras
 aliases:
-  - 'Zitomiras'
+  - Zitomiras
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e86ca2e46dffa4a0568b7869"
-canonical_name: "Zitomiras (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Zitomiras","Zitomiras (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e86ca2e46dffa4a0568b7869
+canonical_name: Zitomiras (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Zitomiras
+  - Zitomiras (vieta)
 sameAs: []
-canonical_biography: "Didysis kunigaikštis Vytautas, išžygiavęs tą patį pava sarį, paėmė Zitomiro ir Oviučio miestus."
+canonical_biography: 'Didysis kunigaikštis Vytautas, išžygiavęs tą patį pava sarį, paėmė Zitomiro ir Oviučio miestus.'
 ---
 # Zitomiras (vieta)
 
@@ -70,6 +70,5 @@ Didysis kunigaikštis Vytautas, išžygiavęs tą patį pava sarį, paėmė Zito
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

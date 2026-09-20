@@ -38,22 +38,10 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
 
 ## Teiginiai
 
-<a id="claim-t-214203"></a>
-- t-214203
-  teiginys: "Sasava vakaruose susisiekė su Lubavos žeme."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194903
-
-<a id="claim-t-214309"></a>
-- t-214309
+<a id="claim-t-192852"></a>
+- t-001
   teiginys: "Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo prie tiksliai nenustatytos upės."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,18 +55,20 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sasava (Salavijos tvirtovė)\" parinktas kaip owner_note_path. Targetas \"Salavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175622
 
-<a id="claim-t-214567"></a>
-- t-214567
+<a id="claim-t-197925"></a>
+- t-002
   teiginys: "Gar siausia šios provincijos tvirtovė buvo Sasava, stovėjusi kažkokios upės pakrantėje, bet tai tiksliai nenustatyta."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-196371
+    - c-179402
 
 ## Citatos
 
@@ -105,6 +95,8 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179402
   autorius: "Teodoras Narbutas"
@@ -126,53 +118,8 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194903
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 353-354"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 353-354."
-  citata_originali: |
-    Nedidelė Sasavos žemė, kurios pradinė padėtis
-    nežinoma, vakaruose susisiekė su Lubavos žeme, šiaurėje
-    jos siena buvo ligi Drevantos ežero prie Osterodės, pie­
-    343
-
-    tuose — ild Romano ežero prie Gilgenburgo, o rytuose —
-    iki Drevantos upės. Šios žemės sostinė buvo Saspilis —
-    sasavių tvirtovė
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214203
-
-- id: c-196371
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 369-370"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369-370."
-  citata_originali: |
-    Ne Sarkės, o Šar­
-    kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
-    dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
-    kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­
-    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
-    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
-    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
-
-    dos turėjo būti vadinama Cyse arba Sussa.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214567
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Sasava (Salavijos tvirtovė) priklausė [[objektai/vietos/Kulmas]]

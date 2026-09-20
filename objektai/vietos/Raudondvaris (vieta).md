@@ -38,6 +38,20 @@ historical_names: []
 
 Čia pralobę miško verslovininkai statėsi rezidentines pilis ir kartu verslo atraminius punktus Raudondvaryje, Raudonėje, Panemunėje.
 
+## Teiginiai
+
+<a id="claim-t-201742"></a>
+- t-001
+  teiginys: "Čia pralobę miško verslovininkai statėsi rezidentines pilis ir kartu verslo atraminius punktus Raudondvaryje, Raudonėje, Panemunėje."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185089
+
 ## Citatos
 
 - id: c-185089
@@ -55,20 +69,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201742"></a>
-- t-001
-  teiginys: "Čia pralobę miško verslovininkai statėsi rezidentines pilis ir kartu verslo atraminius punktus Raudondvaryje, Raudonėje, Panemunėje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185089
-

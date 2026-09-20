@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Drohičina (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Drohičina (vieta)
+identifikacija: vieta
 variantai:
-  - 'Drohičina'
+  - Drohičina
 aliases:
-  - 'Drohičina'
+  - Drohičina
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-547622149799f61de87a5191"
-canonical_name: "Drohičina (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Drohičina","Drohičina (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-547622149799f61de87a5191
+canonical_name: Drohičina (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Drohičina
+  - Drohičina (vieta)
 sameAs: []
-canonical_biography: "Ir, tai taręs, didysis kunigaikštis Vytautas išvyko į Gardiną ir į Drohičiną."
+canonical_biography: 'Ir, tai taręs, didysis kunigaikštis Vytautas išvyko į Gardiną ir į Drohičiną.'
 ---
 # Drohičina (vieta)
 
@@ -71,6 +71,5 @@ Ir, tai taręs, didysis kunigaikštis Vytautas išvyko į Gardiną ir į Drohič
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

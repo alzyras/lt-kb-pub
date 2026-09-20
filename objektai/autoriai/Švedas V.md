@@ -41,30 +41,12 @@ canonical_biography: "p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V
 
 p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Aukščiausios Tarybos rūmų gynimas (Bakalaurinis darbas), VPU, Vilnius, 1994.
 
-## Citatos
-
-- id: c-41677
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 269."
-  citata_originali: |
-    p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Aukščiausios Tarybos
-    rūmų gynimas (Bakalaurinis darbas), VPU, Vilnius, 1994.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-39873"></a>
 - t-001
   teiginys: "V. Švedas 1994 m. VPU parengė bakalauro darbą „Sausio 13-oji ir Aukščiausios Tarybos rūmų gynimas“."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,3 +62,20 @@ p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Au
   pagrindžia:
     - c-41677
 
+## Citatos
+
+- id: c-41677
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 269."
+  citata_originali: |
+    p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Aukščiausios Tarybos
+    rūmų gynimas (Bakalaurinis darbas), VPU, Vilnius, 1994.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

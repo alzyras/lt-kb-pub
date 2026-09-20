@@ -1,34 +1,31 @@
 ---
 tipas: ivykis
-pavadinimas: 'Tamplierių ordino pasmerkimas Vieno sinode (1312 m.)'
+pavadinimas: Tamplierių ordino pasmerkimas Vieno sinode (1312 m.)
 variantai:
-  - 'Tamplierių ordino pasmerkimas Vieno sinode'
+  - Tamplierių ordino pasmerkimas Vieno sinode
 aliases:
-  - 'Tamplierių ordino pasmerkimas Vieno sinode'
+  - Tamplierių ordino pasmerkimas Vieno sinode
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1112 m.'
-  - '1312 m.'
+  - 1112 m.
+  - 1312 m.
 date_start: '1112'
 date_end: '1312'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XII'
-  - 'XIV'
+  - XII
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Tamplierių ordino pasmerkimas Vieno sinode (1312 m.)
 
@@ -85,6 +82,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -56,6 +56,28 @@ Lautenbachas šiame straipsnyje minimas kaip Tartų universiteto latvių kalbos 
 
 - latvių kalbos lektorius
 
+## Teiginiai
+
+<a id="claim-t-195256"></a>
+- t-001
+  teiginys: "A. R. Niemis, Lautenbachui vadovaujant, studijavo latvių kalbą ir liaudies poeziją."
+  atnaujinta: "2026-07-12 01:05"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177622
+
+<a id="claim-t-195257"></a>
+- t-002
+  teiginys: "1899–1900 m. Tartų universitete Lautenbachas buvo latvių kalbos lektorius."
+  atnaujinta: "2026-07-12 01:05"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177622
+
 ## Citatos
 
 - id: c-177622
@@ -71,29 +93,6 @@ Lautenbachas šiame straipsnyje minimas kaip Tartų universiteto latvių kalbos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-195256"></a>
-- t-001
-  teiginys: "A. R. Niemis, Lautenbachui vadovaujant, studijavo latvių kalbą ir liaudies poeziją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177622
-
-<a id="claim-t-195257"></a>
-- t-002
-  teiginys: "1899–1900 m. Tartų universitete Lautenbachas buvo latvių kalbos lektorius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177622
-

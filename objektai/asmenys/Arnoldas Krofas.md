@@ -36,17 +36,22 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
 
 ## Teiginiai
 
-<a id="claim-t-223561"></a>
-- t-223561
-  teiginys: "Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą."
-  atnaujinta: "2026-09-13 11:42"
+<a id="claim-t-60240"></a>
+- t-001
+  teiginys: "Brolis Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą, po to puolėjai pasitraukė nebaigę puolimo."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Divanas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Arnoldas Krofas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Divanas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai aprašo Arnoldo Krofo puolimą prieš Divaną."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Arnoldas Krofas puolė Divanas (0.94)"
   pagrindžia:
-    - c-204285
+    - c-60872
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -84,25 +89,8 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-204285
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
-  citata_originali: |
-    Kai šitai
-    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
-    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
-    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223561
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Arnoldas Krofas puolė [[objektai/asmenys/Divanas]]

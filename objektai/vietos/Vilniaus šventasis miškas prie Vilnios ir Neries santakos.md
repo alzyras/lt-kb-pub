@@ -36,6 +36,21 @@ historical_names: []
 
 Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos.
 
+## Teiginiai
+
+<a id="claim-t-194779"></a>
+- t-001
+  teiginys: "Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177175
+
 ## Citatos
 
 - id: c-177175
@@ -54,4 +69,5 @@ Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

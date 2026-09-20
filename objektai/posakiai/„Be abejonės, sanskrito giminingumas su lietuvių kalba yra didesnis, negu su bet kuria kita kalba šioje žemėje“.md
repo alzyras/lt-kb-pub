@@ -55,9 +55,9 @@ media_all_json: |-
     - c-73332
 
 <a id="claim-t-75607"></a>
-- t-75607
+- t-002
   teiginys: "Citata apie sanskrito giminingumą su lietuvių kalba pateikta kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ ištrauka."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -102,12 +102,11 @@ media_all_json: |-
     25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
   citata_rodoma: "Alfonsas Eidintas,\n   redaktorius\n\nĮ v a d a s\nLIETUVA –\nVIDURIO EUROPOS DALIS\n„Be abejonės, sanskrito giminingumas su lietuvių kalba yra\ndidesnis, negu su bet kuria kita kalba šioje žemėje“\nIš britų mokslininko Robert Gordon Latham\n„Descriptive Ethnology“ („Aprašomoji etnologija“)\nGeografinis Europos centras?"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-73333
@@ -144,6 +143,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75607
-
+  pagrindzia:
+    - t-002

@@ -35,6 +35,29 @@ canonical_biography: "Narbuto perteikiamose šiaurinėse sagose Heiraudas vadina
 
 Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties valdovu ir didvyriu, kurio dukra Heiridė ištekėjo už norvego Augmundo.
 
+## Teiginiai
+
+<a id="claim-t-191410"></a>
+- t-001
+  teiginys: "Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties valdovu ir didvyriu, kurio dukra Heiridė ištekėjo už norvego Augmundo."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_dukte -> Heiraudas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heiridė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Heiraudas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo, kad Heiridė buvo Heiraudo dukra."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Heiridė buvo duktė Heiraudas (0.97); Heiraudas buvo valdovas Rusai (0.94); Heiridė buvo žmona Augmundas (0.94)"
+  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
+  pagrindžia:
+    - c-174292
+
 ## Citatos
 
 - id: c-174292
@@ -58,69 +81,9 @@ Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties vald
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197098
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 242"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
-  citata_originali: |
-    234
-    Islandų sakmėse, vadinamose šiaurinėmis sagomis,
-    esama žinių apie įžymų rusų karalių, vadinamą Zugurla-
-    mu, kuris, anot Torfėjo chronologinių skaičiavimų, taip
-    pat gyveno III amžiuje3. Iš to paties šaltinio žinoma, jog
-    rusų genties valdovo ir didvyrio Heiraudo dukra Heiridė
-    ištekėjo už norvego Augmundo; kartu ji gavo kraičio ne­
-    mažą Rusios valdą. Odo, irgi norvegų riterio, žmona bu­
-    vo rusnėnų karalienė Silkizifė; jis taip pat valdė savo
-    žmonos gimtąją žemę.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-002
 
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Heiridė]]
 - Heiraudas buvo valdovas [[objektai/grupes/Rusai]]
-
-## Teiginiai
-
-<a id="claim-t-212674"></a>
-- t-001
-  teiginys: "Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties valdovu ir didvyriu, kurio dukra Heiridė ištekėjo už norvego Augmundo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_dukte -> Heiraudas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Heiridė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Heiraudas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo, kad Heiridė buvo Heiraudo dukra."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Heiridė buvo duktė Heiraudas (0.97); Heiraudas buvo valdovas Rusai (0.94); Heiridė buvo žmona Augmundas (0.94)"
-  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-  pagrindžia:
-    - c-197098
-
-<a id="claim-t-214949"></a>
-- t-002
-  teiginys: "Šaltinis Heiraudą vadina rusų genties valdovu ir didvyriu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197098
-

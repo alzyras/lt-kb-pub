@@ -46,6 +46,32 @@ historical_names: []
 
 Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, kuria me, nerasdamas atsparo, 1000 gyventojų nukavo. Lygia dalia ne vyko tam pačiam marčelgai Pagraudenio apygardo se kariauti, kuriose, noris kariauna buvo paskydusi terioti, vienok gyventojai, nujautą kryžėjus atei nant, Gadimino pilėj užsirakino, noris kamendotas Ragainės Libencelis narsiai ją vėtravo j o.
 
+## Teiginiai
+
+<a id="claim-t-201137"></a>
+- t-001
+  teiginys: "Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, kuria me, nerasdamas atsparo, 1000 gyventojų nukavo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184487
+
+<a id="claim-t-201138"></a>
+- t-002
+  teiginys: "Lygia dalia ne vyko tam pačiam marčelgai Pagraudenio apygardo se kariauti, kuriose, noris kariauna buvo paskydusi terioti, vienok gyventojai, nujautą kryžėjus atei nant, Gadimino pilėj užsirakino, noris kamendotas Ragainės Libencelis narsiai ją vėtravo j o."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184488
+
 ## Citatos
 
 - id: c-184487
@@ -73,7 +99,7 @@ Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184488
@@ -103,32 +129,5 @@ Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-201137"></a>
-- t-001
-  teiginys: "Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, kuria me, nerasdamas atsparo, 1000 gyventojų nukavo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184487
-
-<a id="claim-t-201138"></a>
-- t-002
-  teiginys: "Lygia dalia ne vyko tam pačiam marčelgai Pagraudenio apygardo se kariauti, kuriose, noris kariauna buvo paskydusi terioti, vienok gyventojai, nujautą kryžėjus atei nant, Gadimino pilėj užsirakino, noris kamendotas Ragainės Libencelis narsiai ją vėtravo j o."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184488
-

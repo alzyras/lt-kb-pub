@@ -50,6 +50,29 @@ Nenurodyta
 
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-62953"></a>
+- t-001
+  teiginys: "1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "uzeme -> Vytenio užimta Karkuso pilis (1298 m.): 0.65"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vytenio užimta Karkuso pilis (1298 m.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Vytenio Karkuso pilies užėmimą, bet atskiro Karkuso objekto kandidatuose nėra."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytenis užėmė Vytenio užimta Karkuso pilis (1298 m.) (0.65)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1298 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vytenis buvo valdovas Lietuva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis teiginys per ilgas, nutrūkęs ir turi išnašos triukšmo."
+  pagrindžia:
+    - c-63838
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.'
@@ -97,25 +120,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-221709"></a>
-- t-001
-  teiginys: "1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes."
-  atnaujinta: "2026-09-13 11:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "uzeme -> Vytenio užimta Karkuso pilis (1298 m.): 0.65"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytenio užimta Karkuso pilis (1298 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Vytenio Karkuso pilies užėmimą, bet atskiro Karkuso objekto kandidatuose nėra."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytenis užėmė Vytenio užimta Karkuso pilis (1298 m.) (0.65)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1298 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vytenis buvo valdovas Lietuva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis teiginys per ilgas, nutrūkęs ir turi išnašos triukšmo."
-
+  pagrindzia:
+    - t-001

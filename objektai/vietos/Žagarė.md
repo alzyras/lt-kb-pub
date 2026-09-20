@@ -42,6 +42,28 @@ historical_names: []
 
 Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę nuo Žagarės)^164 , jie pasistatė minėtą Dobę, kurią tuoj, sukilėliams talkininkaudami, puolė žemaičiai^165.
 
+## Teiginiai
+
+<a id="claim-t-99969"></a>
+- t-001
+  teiginys: "Kryžiuočiams nepavyko paimti Tervetės pilies, buvusios į šiaurę nuo Žagarės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Tervetė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žiemgaliai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Tervetė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Formuluotė „žiemgalių pilis Tervetė“ tiesiogiai priskiria Tervetę žiemgaliams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Žiemgaliai valdė Tervetė (0.82); Kryžiuočių ordinas puolė Tervetė (0.78); Kryžiuočių ordinas pastatė Georgenburgas (0.65)"
+  temporaliniai_duomenys: "įvykio data: 1259 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutrumpinta iki aiškaus fakto apie Žagarės atžvilgiu minimą vietą."
+  pagrindžia:
+    - c-93917
+
 ## Citatos
 
 - id: c-93917
@@ -63,28 +85,5 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-99969"></a>
-- t-001
-  teiginys: "Kryžiuočiams nepavyko paimti Tervetės pilies, buvusios į šiaurę nuo Žagarės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Tervetė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žiemgaliai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Tervetė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė „žiemgalių pilis Tervetė“ tiesiogiai priskiria Tervetę žiemgaliams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Žiemgaliai valdė Tervetė (0.82); Kryžiuočių ordinas puolė Tervetė (0.78); Kryžiuočių ordinas pastatė Georgenburgas (0.65)"
-  temporaliniai_duomenys: "įvykio data: 1259 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutrumpinta iki aiškaus fakto apie Žagarės atžvilgiu minimą vietą."
-  pagrindžia:
-    - c-93917
-

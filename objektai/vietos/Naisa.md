@@ -42,6 +42,32 @@ historical_names: []
 
 Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumušė gotų kariuomenę.
 
+## Teiginiai
+
+<a id="claim-t-192885"></a>
+- t-001
+  teiginys: "Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumušė gotų kariuomenę."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Gotai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aurelianas Klaudijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Aurelianas Klaudijus mūšyje įveikė gotų būrius, todėl tiesiogiai palaikomas karinis priešiškumas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Aurelianas Klaudijus kariavo prieš Gotai (0.88)"
+  temporaliniai_duomenys: "mūšio data: 269 m; mūšio data: apie 269 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Aurelianas Klaudijus kariavo prieš Gotai“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta priešiška formuluotė apie „grobikų būrius“ ir paliktas mūšio rezultatas. Chronikinis pasakojimas bei valdovo titulas neperteikti kaip neutralūs papildomi faktai."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175655
+
 ## Citatos
 
 - id: c-175655
@@ -64,55 +90,5 @@ Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197408
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 301"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
-  citata_originali: |
-    298
-    Netrukus po to, apie 269 metus, gotai, surinkę milži­
-    nišką apie 320 000 ginkluotų žmonių armiją, puolė impe­
-    riją, norėdami užkariauti visą valstybę. Imperatorius Au-
-    relianas Klaudijus stojo į kovą, galop prie Naisos Dar-
-    danijoje lemtingame mūšyje įveikė ir išvijo šiuos gro­
-    bikų būrius, visiškai juos sumušęs. Gotai patyrė didelių
-    nuostolių, o imperatorius prie savo titulų pridėjo Götti­
-    ens.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-214418"></a>
-- t-001
-  teiginys: "Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumušė gotų kariuomenę."
-  atnaujinta: "2026-09-13 18:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Gotai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aurelianas Klaudijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Aurelianas Klaudijus mūšyje įveikė gotų būrius, todėl tiesiogiai palaikomas karinis priešiškumas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Aurelianas Klaudijus kariavo prieš Gotai (0.88)"
-  temporaliniai_duomenys: "mūšio data: 269 m; mūšio data: apie 269 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Aurelianas Klaudijus kariavo prieš Gotai“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta priešiška formuluotė apie „grobikų būrius“ ir paliktas mūšio rezultatas. Chronikinis pasakojimas bei valdovo titulas neperteikti kaip neutralūs papildomi faktai."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-197408
-

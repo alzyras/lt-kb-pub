@@ -33,6 +33,21 @@ Be to, pastebime ir pasiskirstymą luomais: kunigaikščiai — Kyning, aukšto 
 
 Be to, pastebime ir pasiskirstymą luomais: kunigaikščiai — Kyning, aukšto rango didikai, arba bajorija, — Rikostan, pagaliau var guomenė, savo darbu pelnanti duoną, ir belaisviai —■ vi sai taip, kaip kad buvo rašoma istorijoje vėlesniais lai kais.
 
+## Teiginiai
+
+<a id="claim-t-205519"></a>
+- t-001
+  teiginys: "Be to, pastebime ir pasiskirstymą luomais: kunigaikščiai — Kyning, aukšto rango didikai, arba bajorija, — Rikostan, pagaliau var guomenė, savo darbu pelnanti duoną, ir belaisviai —■ vi sai taip, kaip kad buvo rašoma istorijoje vėlesniais lai kais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187810
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Be to, pastebime ir pasiskirstymą luomais: kunigaikščiai — Kyning, aukšto rango didikai, arba bajorija, — Rikostan, pagaliau var guomenė, savo darbu pelnanti duoną, ir belaisviai —■ vi sai taip, kaip kad buvo rašoma istorijoje vėlesniais lai kais.'
@@ -76,21 +91,5 @@ Be to, pastebime ir pasiskirstymą luomais: kunigaikščiai — Kyning, aukšto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-205519"></a>
-- t-001
-  teiginys: "Be to, pastebime ir pasiskirstymą luomais: kunigaikščiai — Kyning, aukšto rango didikai, arba bajorija, — Rikostan, pagaliau var guomenė, savo darbu pelnanti duoną, ir belaisviai —■ vi sai taip, kaip kad buvo rašoma istorijoje vėlesniais lai kais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
-  pagrindžia:
-    - c-187810
-

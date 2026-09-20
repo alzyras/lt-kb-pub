@@ -42,6 +42,84 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 
 - Leidinys apima Lietuvos ir Rusios kronikinę medžiagą, kuri Balińskio tekste naudojama Vilniaus ir Lietuvos politinių įvykių lokalizacijai bei interpretacijai.
 
+## Teiginiai
+
+<a id="claim-t-55218"></a>
+- t-001
+  teiginys: "Latopisiec Litwy i Kronika Ruška nurodomas kaip šaltinis dėl Šv. Mikalojaus bažnyčios Vilniuje."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "gap::sources"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=86"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latopisiec Litwy i Kronika Ruška\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1827 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55644
+
+<a id="claim-t-55219"></a>
+- t-002
+  teiginys: "Danilovičiaus Latopisiec mini, kad Karigailos lenkų įgula neįsileido į Aukštutinę pilį ir apie jo mirtį nutyli."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "gap::sources"
+  ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Karigaila: mention_match, person, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latopisiec Litwy i Kronika Ruška\" parinktas kaip owner_note_path. Targetas \"Karigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55646
+
+<a id="claim-t-82002"></a>
+- t-003
+  teiginys: "„Latopisiec Litewski“ mūšio vietą nurodo prie Vilijos upės, ties Horodoku, vietovėje, vadintoje Weyiszczuszki."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::sources"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latopisiec Litwy i Kronika Ruška\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78515
+
+<a id="claim-t-82003"></a>
+- t-004
+  teiginys: "„Kronika Ruška“ pateikia panašią užuominą apie Glebą, įdėtą leidinyje „Latopisiec Litewski“ 212 puslapyje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::sources"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-06-13T14:21:42Z"
+  pagrindžia:
+    - c-78514
+
+<a id="claim-t-82004"></a>
+- t-005
+  teiginys: "„Latopisiec Litwy i Kronika Ruška“ mini, kad lenkų įgula Aukštutinėje pilyje neįsileido kunigaikščio Karigailos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::sources"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latopisiec Litwy i Kronika Ruška\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55646
+
 ## Citatos
 
 - id: c-55644
@@ -61,7 +139,7 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-55646
@@ -84,7 +162,7 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-005
 
@@ -105,7 +183,7 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-78515
@@ -130,84 +208,5 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-55218"></a>
-- t-001
-  teiginys: "Latopisiec Litwy i Kronika Ruška nurodomas kaip šaltinis dėl Šv. Mikalojaus bažnyčios Vilniuje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::sources"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=86"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latopisiec Litwy i Kronika Ruška\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1827 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55644
-
-<a id="claim-t-55219"></a>
-- t-002
-  teiginys: "Danilovičiaus Latopisiec mini, kad Karigailos lenkų įgula neįsileido į Aukštutinę pilį ir apie jo mirtį nutyli."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::sources"
-  ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Karigaila: mention_match, person, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latopisiec Litwy i Kronika Ruška\" parinktas kaip owner_note_path. Targetas \"Karigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55646
-
-<a id="claim-t-82002"></a>
-- t-003
-  teiginys: "„Latopisiec Litewski“ mūšio vietą nurodo prie Vilijos upės, ties Horodoku, vietovėje, vadintoje Weyiszczuszki."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::sources"
-  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latopisiec Litwy i Kronika Ruška\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78515
-
-<a id="claim-t-82003"></a>
-- t-004
-  teiginys: "„Kronika Ruška“ pateikia panašią užuominą apie Glebą, įdėtą leidinyje „Latopisiec Litewski“ 212 puslapyje."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::sources"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-06-13T14:21:42Z"
-  pagrindžia:
-    - c-78514
-
-<a id="claim-t-82004"></a>
-- t-005
-  teiginys: "„Latopisiec Litwy i Kronika Ruška“ mini, kad lenkų įgula Aukštutinėje pilyje neįsileido kunigaikščio Karigailos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::sources"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latopisiec Litwy i Kronika Ruška\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55646
-

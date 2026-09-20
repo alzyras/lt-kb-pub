@@ -36,22 +36,10 @@ Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir,
 
 ## Teiginiai
 
-<a id="claim-t-215489"></a>
-- t-002
-  teiginys: "Fridleifas buvo auklėjamas Rusioje pas motinos, karalaitės Chunigardijos, gimines."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196066
-
-<a id="claim-t-212526"></a>
-- t-212526
+<a id="claim-t-191268"></a>
+- t-001
   teiginys: "Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir, rusnėnų karaliuko padedamas, susigrąžino Danijos sostą."
-  atnaujinta: "2026-09-12 23:40"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,6 +53,8 @@ Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir,
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridleifas\" parinktas kaip owner_note_path. Targetas \"Chunigardija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
+  pagrindžia:
+    - c-174150
 
 ## Citatos
 
@@ -91,23 +81,5 @@ Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196066
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 243"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
-  citata_originali: |
-    Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
-    pas motinos, karalaitės Chunigardijos, gimines; vieno iš
-    giminaičių — rusnėnų karaliuko — padedamas, jis susi­
-    grąžino iš jo tėvo atimtą Danijos sostą1.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
+  pagrindzia:
+    - t-001

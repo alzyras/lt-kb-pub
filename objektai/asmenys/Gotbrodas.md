@@ -34,6 +34,41 @@ canonical_biography: "Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad 
 
 Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi. Gotbrodo įpėdinis Goteris žu vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės Rindos vyru.
 
+## Teiginiai
+
+<a id="claim-t-191273"></a>
+- t-001
+  teiginys: "Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_valdovas -> Švedai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gotbrodas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Gotbrodas tiesiogiai įvardytas švedų karaliumi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Gotbrodas buvo valdovas Švedai (0.90); Gotbrodas kariavo prieš Rusai (0.62)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174155
+
+<a id="claim-t-197734"></a>
+- t-002
+  teiginys: "Gotbrodo įpėdinis Goteris žu vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės Rindos vyru."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179315
+
 ## Citatos
 
 - id: c-174155
@@ -57,6 +92,8 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179315
   autorius: "Teodoras Narbutas"
@@ -76,65 +113,8 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197503
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
-  citata_originali: |
-    Gotbrodo įpėdinis Goteris žu­
-    vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės
-    Rindos vyru. Vienas suomių burtininkas išpranašavo šį
-    liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­
-    nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­
-    laidojo jį itin pagarbiai. Supylė virš jo kapo didžiulį pil­
-    kapį, amžiną karingo Bojo šlovės paminklą3.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-    - t-213589
 
 ## Ryšiai
 - Gotbrodas buvo valdovas [[objektai/grupes/Švedai]]
-
-## Teiginiai
-
-<a id="claim-t-214444"></a>
-- t-002
-  teiginys: "Gotbrodo įpėdinis Goteris žu vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės Rindos vyru."
-  atnaujinta: "2026-09-12 23:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197503
-
-<a id="claim-t-213589"></a>
-- t-213589
-  teiginys: "Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_valdovas -> Švedai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gotbrodas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Gotbrodas tiesiogiai įvardytas švedų karaliumi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Gotbrodas buvo valdovas Švedai (0.90); Gotbrodas kariavo prieš Rusai (0.62)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-197503
-

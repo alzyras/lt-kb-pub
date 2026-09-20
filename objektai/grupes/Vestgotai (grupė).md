@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Vestgotai (grupė)'
-identifikacija: 'grupė'
+pavadinimas: Vestgotai (grupė)
+identifikacija: grupė
 variantai:
-  - 'Vestgotai'
+  - Vestgotai
 aliases:
-  - 'Vestgotai'
+  - Vestgotai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -16,12 +16,9 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 ---
 # Vestgotai (grupė)
 
@@ -66,6 +63,5 @@ Vestgotai buvo iš dalies išlaisvinti iš hunų priklausomybės arba atėjo į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

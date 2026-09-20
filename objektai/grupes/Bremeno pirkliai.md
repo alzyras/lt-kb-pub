@@ -42,6 +42,83 @@ Bremeno pirkliai siejami su vokiečių prekybos ryšių prie Dauguvos žiočių 
 
 Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
 
+## Teiginiai
+
+<a id="claim-t-55060"></a>
+- t-001
+  teiginys: "Bremeno pirkliai 1158 m. atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "prekiavo_su -> Pamaris: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bremeno pirkliai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pamaris: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini prekybinių ryšių užmezgimą su pamariu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Bremeno pirkliai prekiavo su Pamaris (0.91)"
+  temporaliniai_duomenys: "įvykio data: 1158 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-55885
+
+<a id="claim-t-55061"></a>
+- t-002
+  teiginys: "Apie 1192 m. kolonija iš Bremeno, regis, įkūrė Rygą."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "susije_su -> Bremenas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bremeno pirkliai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bremenas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bremeno pirkliai\" parinktas kaip owner_note_path. Targetas \"Bremenas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įkūrimo data: 1158 m.; įkūrimo data: 1192 m.; įkūrimo data: apie 1192 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įkūrimo data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išbaigtas ir tiksliai perteikia citatos atsargią formuluotę."
+  pagrindžia:
+    - c-55885
+
+<a id="claim-t-80802"></a>
+- t-003
+  teiginys: "Bremeno pirkliai 1158 metais atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "prekiavo_su -> Pamaris: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bremeno pirkliai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pamaris: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini prekybinių ryšių užmezgimą su pamariu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Bremeno pirkliai prekiavo su Pamaris (0.91)"
+  temporaliniai_duomenys: "įvykio data: 1158 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas ta pačia citatos informacija."
+  pagrindžia:
+    - c-55885
+
+<a id="claim-t-205488"></a>
+- t-004
+  teiginys: "Tai atsitiko 1158 metais, kai Bremeno pirklių laivas, plaukęs į Visbio miestą, esantį Gotlando saloje, nežinia ar per atsitiktinumą vėtrų genamas papuolė, ar jie ty čiomis norėdami užtikti liūbekiečių lankomus miestus, kas labiau tikėtina, pasiekė Dauguvos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1158 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutvarkytas nutrūkęs pasakojimas, aiškiai įvardyti laivas, pirkliai, data ir vieta. Galimi maršruto motyvai išlaikyti kaip Teodoro Narbuto svarstymas."
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187822
+
 ## Citatos
 
 - id: c-55885
@@ -62,7 +139,7 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
     - t-003
@@ -85,86 +162,8 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 ## Ryšiai
 - Bremeno pirkliai prekiavo su [[objektai/vietos/Pamaris]]
-
-## Teiginiai
-
-<a id="claim-t-55060"></a>
-- t-001
-  teiginys: "Bremeno pirkliai 1158 m. atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "prekiavo_su -> Pamaris: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bremeno pirkliai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pamaris: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini prekybinių ryšių užmezgimą su pamariu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Bremeno pirkliai prekiavo su Pamaris (0.91)"
-  temporaliniai_duomenys: "įvykio data: 1158 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-55885
-
-<a id="claim-t-55061"></a>
-- t-002
-  teiginys: "Apie 1192 m. kolonija iš Bremeno, regis, įkūrė Rygą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "susije_su -> Bremenas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bremeno pirkliai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Bremenas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bremeno pirkliai\" parinktas kaip owner_note_path. Targetas \"Bremenas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įkūrimo data: 1158 m.; įkūrimo data: 1192 m.; įkūrimo data: apie 1192 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įkūrimo data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išbaigtas ir tiksliai perteikia citatos atsargią formuluotę."
-  pagrindžia:
-    - c-55885
-
-<a id="claim-t-80802"></a>
-- t-003
-  teiginys: "Bremeno pirkliai 1158 metais atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "prekiavo_su -> Pamaris: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bremeno pirkliai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pamaris: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini prekybinių ryšių užmezgimą su pamariu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Bremeno pirkliai prekiavo su Pamaris (0.91)"
-  temporaliniai_duomenys: "įvykio data: 1158 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas ta pačia citatos informacija."
-  pagrindžia:
-    - c-55885
-
-<a id="claim-t-205488"></a>
-- t-004
-  teiginys: "Tai atsitiko 1158 metais, kai Bremeno pirklių laivas, plaukęs į Visbio miestą, esantį Gotlando saloje, nežinia ar per atsitiktinumą vėtrų genamas papuolė, ar jie ty čiomis norėdami užtikti liūbekiečių lankomus miestus, kas labiau tikėtina, pasiekė Dauguvos."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1158 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutvarkytas nutrūkęs pasakojimas, aiškiai įvardyti laivas, pirkliai, data ir vieta. Galimi maršruto motyvai išlaikyti kaip Teodoro Narbuto svarstymas."
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187822
-

@@ -27,6 +27,20 @@ media_all_json: |-
 
 Jo veiksmuose dažnai pasireikšdavo didelis atsargu­ mas, kuris tačiau nevirsdavo laiko gaišinimu. Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda, tai paleidžia, tai naujai sumezga.
 
+## Teiginiai
+
+<a id="claim-t-194953"></a>
+- t-001
+  teiginys: "Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda, tai paleidžia, tai naujai sumezga."
+  atnaujinta: "2026-07-06 12:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177349
+
 ## Citatos
 
 - id: c-177349
@@ -47,20 +61,5 @@ Jo veiksmuose dažnai pasireikšdavo didelis atsargu­ mas, kuris tačiau nevirs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-194953"></a>
-- t-001
-  teiginys: "Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda, tai paleidžia, tai naujai sumezga."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177349
-

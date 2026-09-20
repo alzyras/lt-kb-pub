@@ -1,39 +1,38 @@
 ---
 tipas: asmuo
-pavadinimas: 'A. Alekna'
+pavadinimas: A. Alekna
 saltiniai:
-  - 'Blaivybė Lietuvoje XIX amžiuje'
+  - Blaivybė Lietuvoje XIX amžiuje
 datos:
-  - '1866 m.'
-  - '1918 m.'
+  - 1866 m.
+  - 1918 m.
 date_start: '1866'
 date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIX'
-  - 'XX'
+  - XIX
+  - XX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-c9e918eeee2c311c1852c233"
-canonical_name: "A. Alekna"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["A. Alekna"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-c9e918eeee2c311c1852c233
+canonical_name: A. Alekna
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - A. Alekna
 sameAs: []
-canonical_biography: "A. Alekna buvo Motiejaus Valančiaus biografas. A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos ir Kauno gubernatoriaus dokumentus."
+canonical_biography: A. Alekna buvo Motiejaus Valančiaus biografas. A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos ir Kauno gubernatoriaus dokumentus.
 ---
 # A. Alekna
 
@@ -44,20 +43,6 @@ A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos
 ## Santrauka
 
 A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos ir Kauno gubernatoriaus dokumentus.
-
-## Teiginiai
-
-<a id="claim-t-209449"></a>
-- t-001
-  teiginys: "Alekna teigė, kad kai kuriuos aplinkraščius dėl blaivybės ir kitų dalykų rašydavo sekretoriai vyskupo nurodymu."
-  atnaujinta: "2026-09-13 13:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
-  pagrindžia:
-    - c-192069
 
 ## Citatos
 
@@ -81,6 +66,8 @@ A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-192069
   autorius: "Merkys, Vytautas; Vanagienė, Birutė"
@@ -100,6 +87,31 @@ A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+## Teiginiai
+
+<a id="claim-t-209430"></a>
+- t-001
+  teiginys: "A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos ir Kauno gubernatoriaus dokumentus."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
   pagrindžia:
-    - t-001
+    - c-191980
+
+<a id="claim-t-209449"></a>
+- t-002
+  teiginys: "Alekna teigė, kad kai kuriuos aplinkraščius dėl blaivybės ir kitų dalykų rašydavo sekretoriai vyskupo nurodymu."
+  atnaujinta: "2026-09-13 13:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192069
 

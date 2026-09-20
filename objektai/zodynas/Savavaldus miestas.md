@@ -24,6 +24,20 @@ media_all_json: |-
 
 Savavaldaus miesto laikotarpio Kauno istorijos objektas yra sudėtingas.
 
+## Teiginiai
+
+<a id="claim-t-201814"></a>
+- t-001
+  teiginys: "Savavaldaus miesto laikotarpio Kauno istorijos objektas yra sudėtingas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185161
+
 ## Citatos
 
 - id: c-185161
@@ -42,20 +56,5 @@ Savavaldaus miesto laikotarpio Kauno istorijos objektas yra sudėtingas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-201814"></a>
-- t-001
-  teiginys: "Savavaldaus miesto laikotarpio Kauno istorijos objektas yra sudėtingas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185161
-

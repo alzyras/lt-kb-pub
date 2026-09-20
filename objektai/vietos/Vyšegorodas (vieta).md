@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Vyšegorodas (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Vyšegorodas (vieta)
+identifikacija: vieta
 variantai:
-  - 'Vyšegorodas'
+  - Vyšegorodas
 aliases:
-  - 'Vyšegorodas'
+  - Vyšegorodas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -16,19 +16,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5f066b4abb13c3a0ebaaa6b0"
-canonical_name: "Vyšegorodas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vyšegorodas","Vyšegorodas (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5f066b4abb13c3a0ebaaa6b0
+canonical_name: Vyšegorodas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vyšegorodas
+  - Vyšegorodas (vieta)
 sameAs: []
-canonical_biography: "Kijevo priemiesčiai—Vyšegorodas IS, Čer kasai l6, Kanevas l7, Putivlis l8, Slepovrodis l9, kad kijeviečiai su miestu pasidavė."
+canonical_biography: 'Kijevo priemiesčiai—Vyšegorodas IS, Čer kasai l6, Kanevas l7, Putivlis l8, Slepovrodis l9, kad kijeviečiai su miestu pasidavė.'
 ---
 # Vyšegorodas (vieta)
 
@@ -71,6 +71,5 @@ Kijevo priemiesčiai—Vyšegorodas IS, Čer kasai l6, Kanevas l7, Putivlis l8, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

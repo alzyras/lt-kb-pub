@@ -1,37 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Bulat-sultanas'
+pavadinimas: Bulat-sultanas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1411 m.'
+  - 1411 m.
 date_start: '1411'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XV'
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-187452d2c97651e5fdf1e5a1"
-canonical_name: "Bulat-sultanas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Bulat-sultanas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-187452d2c97651e5fdf1e5a1
+canonical_name: Bulat-sultanas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Bulat-sultanas
 sameAs: []
-canonical_biography: "1411 m., Lietuvos valstybės remiamas, Dželal-ad-dinas nugalėjo Auk so ordos chaną Bulat-sultaną, užėmė Krymą ir Juodosios jūros pakrašfius."
+canonical_biography: '1411 m., Lietuvos valstybės remiamas, Dželal-ad-dinas nugalėjo Auk so ordos chaną Bulat-sultaną, užėmė Krymą ir Juodosios jūros pakrašfius.'
 ---
 # Bulat-sultanas
 
@@ -74,6 +73,5 @@ canonical_biography: "1411 m., Lietuvos valstybės remiamas, Dželal-ad-dinas nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

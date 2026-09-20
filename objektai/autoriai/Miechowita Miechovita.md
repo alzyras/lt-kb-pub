@@ -43,35 +43,10 @@ Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Vale
 
 ## Teiginiai
 
-<a id="claim-t-211946"></a>
-- t-211946
-  teiginys: "Miechovitos Lenkijos kronika galėjo sti muliuoti Bychovco kronikos — trumpos, bet naujos Lie tuvos Didžiosios Kunigaikštystės istorijos — parašymą, paėmus pagrindu jau prieš 1519 m. sukurtą Platesnio jo sąvado legendinę dalį, perdirbus 1377—1445 m. isto riją."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194283
-
-<a id="claim-t-211212"></a>
-- t-211212
-  teiginys: "M. Miechovitos Lenkijos kronika turėjo tekstinių sutapimų su Bychovco kronika."
-  atnaujinta: "2026-09-12 19:43"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-193303
-
 <a id="claim-t-88034"></a>
-- t-88034
+- t-001
   teiginys: "Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Konradas Valenrodas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -86,6 +61,19 @@ Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Vale
   temporalinis_llm_pakomentavimas: "Citata palaiko aiškų faktą apie Miechovitos teiginio klaidingumą."
   pagrindžia:
     - c-84013
+
+<a id="claim-t-196799"></a>
+- t-002
+  teiginys: "M. Miechovitos Lenkijos kronika turėjo tekstinių sutapimų su Bychovco kronika."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-178917
 
 ## Citatos
 
@@ -130,8 +118,8 @@ Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Vale
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-88034
+  pagrindzia:
+    - t-001
 
 - id: c-178917
   autorius: "Anoniminis metraštininkas"
@@ -152,50 +140,5 @@ Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Vale
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193303
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 35"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 35."
-  citata_originali: |
-    Be to, kai kurie M. Miechovitos Lenkijos
-    kronikos ir Bychovco kronikos tekstų sutapimai, apra-
-    41 Traclatus de duabus Šarmaitis, Asiana ei Europiana, Craco-
-    viae. 1517. Sekanlys leidimai išėjo 1518, 1521, 1532. 1537 Ir 1582 m.
-    u M a l h i a e
-    d e
-    M e y c h o v.
-    Chronica Polonorum.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211212
-
-- id: c-194283
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 35"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 35."
-  citata_originali: |
-    Yra pagrindo spėti, kad
-    kaip tik M. Miechovitos Lenkijos kronika galėjo sti­
-    muliuoti Bychovco kronikos — trumpos, bet naujos Lie­
-    tuvos Didžiosios Kunigaikštystės istorijos — parašymą,
-    paėmus pagrindu jau prieš 1519 m. sukurtą Platesnio­
-    jo sąvado legendinę dalį, perdirbus 1377—1445 m. isto­
-    riją, išdėstytą Trumpajame sąvade ir visai naujai para­
-    šant 1446—1506 m. Lietuvos istoriją.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211946
-
+  pagrindzia:
+    - t-002

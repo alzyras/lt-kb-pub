@@ -1,10 +1,10 @@
 ---
 tipas: saltinis
-pavadinimas: 'J. Lasickio veikalas apie žemaičių dievus'
+pavadinimas: J. Lasickio veikalas apie žemaičių dievus
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1220 m.'
+  - 1220 m.
 date_start: '1220'
 date_end: ''
 sukurta: ''
@@ -12,25 +12,244 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T15:09:19+00:00","source_checked_at":"2026-09-19T15:09:19+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1c5fc61405a20cc3
+object_page_generated_at: '2026-09-19T15:09:19+00:00'
+object_page_source_checked_at: '2026-09-19T15:09:19+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'J. Lasickio veikalas apie žemaičių dievus: Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pats tai laikė nepanašu į tiesą. Narbutas…'
+object_page_seo_input_hash: 0ca0e9cbeda312e1473fcfe070d939ea9e50b154316c4096b64d0214ac884280
+object_page_seo_generated_at: '2026-09-19T15:09:19+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # J. Lasickio veikalas apie žemaičių dievus
 
 ## Santrauka
 
 Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pats tai laikė nepanašu į tiesą. Narbutas nurodo, kad Lasickis ir liaudies padavimai Raganomis vadino deives, globojusias tam tikrus medžius. Narbutas nurodo, kad Lasickis Datoną aprašė tik kaip dievaitį, dalijusį žemes arba visokį turtą.
+
+## Teiginiai
+
+<a id="claim-t-190465"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pats tai laikė nepanašu į tiesą."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Upinė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Lasickio veikalas apie žemaičių dievus: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Upinė: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickio veikalas apie žemaičių dievus\" parinktas kaip owner_note_path. Targetas \"Upinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173348
+
+<a id="claim-t-190468"></a>
+- t-002
+  teiginys: "Narbutas nurodo, kad Lasickis Datoną aprašė tik kaip dievaitį, dalijusį žemes arba visokį turtą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173351
+
+<a id="claim-t-190469"></a>
+- t-003
+  teiginys: "Narbutas rašo, kad Lasickis Varpelį laikė ore sklindančio aido dievaičiu, sukeldavusiu griausmą po perkūno trenksmo."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173353
+
+<a id="claim-t-190470"></a>
+- t-004
+  teiginys: "Narbutas nurodo, kad Lasickis Markopolius aprašė kaip požemio dievaičius, ypač garbintus didikų ir bajorų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Strijkovskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Lasickio veikalas apie žemaičių dievus: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Strijkovskis: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickio veikalas apie žemaičių dievus\" parinktas kaip owner_note_path. Targetas \"Strijkovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173353
+
+<a id="claim-t-190471"></a>
+- t-005
+  teiginys: "Narbutas rašo, kad, pasak Lasickio, kaukai pasirodydavę tik jais tikėjusiems žmonėms."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lasickis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Lasickio veikalas apie žemaičių dievus: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickio veikalas apie žemaičių dievus\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173354
+
+<a id="claim-t-190472"></a>
+- t-006
+  teiginys: "Narbutas nurodo, kad Lasickis lietuviams priskyrė kai kurių dievų garbinimo apeigų slėpimą, dažniausiai nuo krikščionių."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lasickis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Lasickio veikalas apie žemaičių dievus: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickio veikalas apie žemaičių dievus\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173355
+
+<a id="claim-t-190473"></a>
+- t-007
+  teiginys: "Narbutas Dievaitį aprašo kaip Pajūrio kaimo fetišą, kurį lokalizuoja Raseinių apskrityje, tikriausiai prie Jūros upės."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Lasickio veikalas apie žemaičių dievus: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickio veikalas apie žemaičių dievus\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173356
+
+<a id="claim-t-190474"></a>
+- t-008
+  teiginys: "Narbutas nurodo, kad, pasak Lasickio, Jokūbas Laskovičius jam pasakojo apie Žemaitijoje daugeliui dievų teiktą garbę."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Jokūbas Laskovičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Lasickio veikalas apie žemaičių dievus: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Jokūbas Laskovičius: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickio veikalas apie žemaičių dievus\" parinktas kaip owner_note_path. Targetas \"Jokūbas Laskovičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173357
+
+<a id="claim-t-194678"></a>
+- t-009
+  teiginys: "Lazdona (Lazdona) Tai buvo ypatinga hamadriadė, pasak Lasickio, globojusi vien tik lazdynus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177075
+
+<a id="claim-t-197346"></a>
+- t-010
+  teiginys: "Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa statė stabą, kadangi po mirties jai pradėta teikti dievišką gar bę, kitaip sakant, ji buvo pripažinta deive."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179143
+
+<a id="claim-t-197347"></a>
+- t-011
+  teiginys: "Kaimiečiai iki šiol tebėra pamaldūs šiam dievaičiui, nors dėl daugelio priežasčių beveik jau jį užmiršo ir savo tos rūšies maldose turi galvoje tikrąjį Dievą; tas maldas kalba krikščio nišku papročiu prieš pat įsėsdami į ratus; taigi keliautojai, prieš."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-173352
+
+<a id="claim-t-197348"></a>
+- t-012
+  teiginys: "Sunkiai, labai steng damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip dievą."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179144
+
+<a id="claim-t-197349"></a>
+- t-013
+  teiginys: "Už pir mą vagystę bausdavo nuplakdami rykštėmis; įrodytąjį pavo gus antrą kartą žiauriai primušdavo lazdomis, o nepasitaisiusįjį ir pavogusį trečią kartą išvesdavo už miesto, toli nuo dievų prieglobsčio, ir užpjudydavo didžiuliais šunimis, kurie jį vieto je."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-173358
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -99,6 +318,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-173351
   autorius: "Teodoras Narbutas"
@@ -115,6 +336,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-173352
   autorius: "Teodoras Narbutas"
@@ -140,6 +363,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-173353
   autorius: "Teodoras Narbutas"
@@ -157,6 +382,9 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+    - t-004
 
 - id: c-173354
   autorius: "Teodoras Narbutas"
@@ -176,6 +404,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-173355
   autorius: "Teodoras Narbutas"
@@ -199,6 +429,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-173356
   autorius: "Teodoras Narbutas"
@@ -223,6 +455,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 - id: c-173357
   autorius: "Teodoras Narbutas"
@@ -246,6 +480,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 - id: c-173358
   autorius: "Teodoras Narbutas"
@@ -274,6 +510,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 - id: c-177075
   autorius: "Teodoras Narbutas"
@@ -294,6 +532,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 - id: c-179143
   autorius: "Teodoras Narbutas"
@@ -312,6 +552,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 - id: c-179144
   autorius: "Teodoras Narbutas"
@@ -332,380 +574,5 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197775
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 348"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 348."
-  citata_originali: |
-    Už pir­
-    mą vagystę bausdavo nuplakdami rykštėmis; įrodytąjį pavo­
-    gus antrą kartą žiauriai primušdavo lazdomis, o nepasitaisiu-
-    sįjį ir pavogusį trečią kartą išvesdavo už miesto, toli nuo dievų
-    prieglobsčio, ir užpjudydavo didžiuliais šunimis, kurie jį vieto­
-    je surydavo.
-    Vestuvių apeigos
-    Sį platų straipsnį dar galėtume išplėsti, jeigu norėtume iš­
-    dėstyti visas smulkesnes žinias, tačiau aptinkama visada tas
-    pats dalykas, tiktai vis kitu būdu pakartotas, todėl tas ištęsi­
-    mas būtų tuščias skaitytojo kantrybės varginimas. Lietuviai ne­
-    sipriešino vedyboms su kitos tautos merginomis, nes lietuvių
-    apeigose istorija mums pateikia daug skolinių, kadangi gyvuoja
-    amžinas paprotys, jog vestuvių apeigose vadovaujamasi ne vy­
-    ro, o nuotakos tautiniu papročiu; kurios tautos buvo jaunoji,
-    pagal tos tautos apeigas vyko ir vestuvės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-218184
-
-- id: c-198718
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
-  citata_originali: |
-    Lazdona (Lazdona)
-    Tai buvo ypatinga hamadriadė, pasak Lasickio, globojusi
-    vien tik lazdynus.
-    Medziojna (Medziojna)
-    Taip nuo žodžio Medžios - tankus miškas vadinosi miško
-    nimfos, kurios globojo miško tankmes ir, ten gyvendamos,
-    kenkdavo arba padėdavo žmonėms, todėl turėjo teisę būti jų
-    garbinamos. Apie jas žinome iš Lasickio ir liaudies padavimų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-215979
-
-- id: c-199786
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 344"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 344."
-  citata_originali: |
-    Matėme aukojimų aprašyme, kad
-    aukų paplotėliai buvo kepami mėtant juos per ugnį - tai buvo
-    apvalytoji duona, vadinamieji sikies nuplaudimies.
-    Lasickis sako, kad Jokūbas Laskovičius, Žemaičių kuni­
-    gaikštystės valdininkas, pasakojęs jam apie garbę, teiktą tame
-    krašte dar daugeliui kitų dievų. O iš kitų apeigų, išlikusių iš
-    stabmeldystės laikų, ten buvo žinoma maldelė, kurią autorius
-    perteikia šiais žodžiais: Perkūne Dewajte, ne muski und mana
-    diewu: melsu tavi paltu miessu ir išverčia ją šitaip: „Susilaikyk,
-    Perkūne, nedaryk žalos mano lauke: aš tau atiduodu šią paltį
-    lašinių“1 2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-216299
-    - t-218184
-
-- id: c-200019
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
-  citata_originali: |
-    Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­
-    paprastai seni, ir apie juos pasakojo ypač keistų dalykų. Gva-
-    ninis8 ta dingstimi pateikia pasakojimą: „Vienas žmogus, tik­
-    ras katalikų tikėjimo išpažinėtojas, pirko iš vieno tų žalčių gar­
-    bintojų keletą avilių bičių. Vėliau, po ilgos jų bičiulystės, at­
-    vertė ir patį šeimininką į Kristaus tikėjimą. Sunkiai, labai steng­
-    damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
-    dievą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- id: c-200166
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 159"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 159."
-  citata_originali: |
-    Datonas (Datonus)
-    Dievaitis, žemių arba visokio turto dalytojas. Tik tiek apie
-    jį papasakojo Lasickis. Tenka spėlioti, kad tai buvo savotiškas
-    Plutono sekimas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-200489
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 163"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 163."
-  citata_originali: |
-    Niekas
-    neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
-    tam tikros mitinės formulės, tai yra maldelės, matyt, iš bai­
-    mės, kad neatsitiktų kas blogo: dažniausiai manyta, kad ak­
-    muo gali pasitraukti iš po sėdinčio, todėl galima smarkiai už­
-    sigauti.
-    Kaimiečiai iki šiol tebėra pamaldūs šiam dievaičiui, nors
-    dėl daugelio priežasčių beveik jau jį užmiršo ir savo tos rūšies
-    maldose turi galvoje tikrąjį Dievą; tas maldas kalba krikščio­
-    nišku papročiu prieš pat įsėsdami į ratus; taigi keliautojai, prieš
-    išeidami iš trobos, susėda ant suolo kartu su visais esančiais,
-    trumpai pasimeldžia ir patyli akis nukreipę į krosnį. Taip pa­
-    sėdi kurį laiką, tarytum dar kažką apmąstydami.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-216299
-
-- id: c-201051
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
-  citata_originali: |
-    Markopoliai (Markopole)
-    Požemio dievaičiai, kuriuos ypač garbino didikai ir bajo­
-    rai. Aiškiu Lasickio liudijimu, Strijkovskis ir kiti trumpai mini
-    juos kaip požemio dievaičius. Tai buvo barstukai, tik kilmin-
-    gesnės giminės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-216299
-
-- id: c-201451
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
-  citata_originali: |
-    Mirė maždaug prieš 1220
-    metus. Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa­
-    statė stabą, kadangi po mirties jai pradėta teikti dievišką gar­
-    bę, kitaip sakant, ji buvo pripažinta deive. Toje vietoje jai bu­
-    vo meldžiamasi: jos šaukėsi liepų miškelyje, ją garbino iki pas­
-    kutinių lietuvių stabmeldystės laikų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-## Teiginiai
-
-<a id="claim-t-216612"></a>
-- t-001
-  teiginys: "Už pir mą vagystę bausdavo nuplakdami rykštėmis; įrodytąjį pavo gus antrą kartą žiauriai primušdavo lazdomis, o nepasitaisiusįjį ir pavogusį trečią kartą išvesdavo už miesto, toli nuo dievų prieglobsčio, ir užpjudydavo didžiuliais šunimis, kurie jį vieto je."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197775
-
-<a id="claim-t-217021"></a>
-- t-002
-  teiginys: "Narbutas nurodo, kad Lasickis Datoną aprašė tik kaip dievaitį, dalijusį žemes arba visokį turtą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-200166
-
-<a id="claim-t-217519"></a>
-- t-003
-  teiginys: "Narbutas nurodo, kad, pasak Lasickio, Jokūbas Laskovičius jam pasakojo apie Žemaitijoje daugeliui dievų teiktą garbę."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Jokūbas Laskovičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Lasickio veikalas apie žemaičių dievus: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Jokūbas Laskovičius: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickio veikalas apie žemaičių dievus\" parinktas kaip owner_note_path. Targetas \"Jokūbas Laskovičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-199786
-
-<a id="claim-t-217956"></a>
-- t-004
-  teiginys: "Lazdona (Lazdona) Tai buvo ypatinga hamadriadė, pasak Lasickio, globojusi vien tik lazdynus."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-198718
-
-<a id="claim-t-218319"></a>
-- t-005
-  teiginys: "Narbutas nurodo, kad Lasickis Markopolius aprašė kaip požemio dievaičius, ypač garbintus didikų ir bajorų."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Strijkovskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Lasickio veikalas apie žemaičių dievus: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Strijkovskis: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickio veikalas apie žemaičių dievus\" parinktas kaip owner_note_path. Targetas \"Strijkovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-201051
-
-<a id="claim-t-218743"></a>
-- t-006
-  teiginys: "Sunkiai, labai steng damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip dievą."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200019
-
-<a id="claim-t-218883"></a>
-- t-007
-  teiginys: "Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa statė stabą, kadangi po mirties jai pradėta teikti dievišką gar bę, kitaip sakant, ji buvo pripažinta deive."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201451
-
-<a id="claim-t-219387"></a>
-- t-008
-  teiginys: "Kaimiečiai iki šiol tebėra pamaldūs šiam dievaičiui, nors dėl daugelio priežasčių beveik jau jį užmiršo ir savo tos rūšies maldose turi galvoje tikrąjį Dievą; tas maldas kalba krikščio nišku papročiu prieš pat įsėsdami į ratus; taigi keliautojai, prieš."
-  atnaujinta: "2026-09-12 23:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200489
-
-<a id="claim-t-215979"></a>
-- t-215979
-  teiginys: "Narbutas rašo, kad, pasak Lasickio, kaukai pasirodydavę tik jais tikėjusiems žmonėms."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Lasickio veikalas apie žemaičių dievus: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickio veikalas apie žemaičių dievus\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-198718
-
-<a id="claim-t-216299"></a>
-- t-216299
-  teiginys: "Narbutas rašo, kad Lasickis Varpelį laikė ore sklindančio aido dievaičiu, sukeldavusiu griausmą po perkūno trenksmo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Japonai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Lasickio veikalas apie žemaičių dievus: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Japonai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickio veikalas apie žemaičių dievus\" parinktas kaip owner_note_path. Targetas \"Japonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-199786
-    - c-200489
-    - c-201051
-
-<a id="claim-t-218184"></a>
-- t-218184
-  teiginys: "Narbutas rašo, kad Lasickis paliko pirmos alaus statinės pradėjimo apeigų, vadintų nuleidimu, aprašymą Ragutienės garbei."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Lasickio veikalas apie žemaičių dievus: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickio veikalas apie žemaičių dievus\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-197775
-    - c-199786
-
+  pagrindzia:
+    - t-012

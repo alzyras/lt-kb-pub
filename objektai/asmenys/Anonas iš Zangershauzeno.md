@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Anonas iš Zangershauzeno'
+pavadinimas: Anonas iš Zangershauzeno
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -11,19 +11,18 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-bba27efe76f64aa88b9d9273"
-canonical_name: "Anonas iš Zangershauzeno"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Anonas iš Zangershauzeno"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-bba27efe76f64aa88b9d9273
+canonical_name: Anonas iš Zangershauzeno
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Anonas iš Zangershauzeno
 sameAs: []
-canonical_biography: "Anonas iš Zangershauzeno buvo Teutonų ordino didysis magistras."
+canonical_biography: Anonas iš Zangershauzeno buvo Teutonų ordino didysis magistras.
 ---
 # Anonas iš Zangershauzeno
 
@@ -66,6 +65,5 @@ Anonas iš Zangershauzeno buvo Teutonų ordino didysis magistras.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
